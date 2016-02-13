@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_auditing_disabled\0xc0000356\index.html.json
+
+title: 0xC0000356 STATUS_AUDITING_DISABLED in ntstatus.h
+description: The specified event is currently not being audited.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000356",
+  "codeUrl": "/win32/ntstatus-h/status_auditing_disabled/0xc0000356/",
+  "numericCode": -1073740970,
+  "define": "STATUS_AUDITING_DISABLED",
+  "defineUrl": "/win32/ntstatus-h/status_auditing_disabled/",
+  "message": "The specified event is currently not being audited.",
+  "remarks": null,
+  "aka": [
+    "-1073740970"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_auditing_disabled/-1073740970/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\rpc_x_ss_char_trans_short_file\0x800706ee\index.html.json
+canonical: /win32/winerror-h/rpc_x_ss_char_trans_short_file/1774/
+title: 0x800706ee RPC_X_SS_CHAR_TRANS_SHORT_FILE in winerror.h
+description: The file containing the character translation table has fewer than 512 bytes.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800706ee",
+  "codeUrl": "/win32/winerror-h/rpc_x_ss_char_trans_short_file/0x800706ee/",
+  "numericCode": 0,
+  "define": "RPC_X_SS_CHAR_TRANS_SHORT_FILE",
+  "defineUrl": "/win32/winerror-h/rpc_x_ss_char_trans_short_file/",
+  "message": "The file containing the character translation table has fewer than 512 bytes.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "1774",
+  "originalCodeUrl": "/win32/winerror-h/rpc_x_ss_char_trans_short_file/1774/"
+}

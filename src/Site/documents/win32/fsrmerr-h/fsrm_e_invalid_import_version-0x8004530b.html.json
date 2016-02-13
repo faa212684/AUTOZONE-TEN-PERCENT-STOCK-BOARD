@@ -1,0 +1,28 @@
+---
+output: win32\fsrmerr-h\fsrm_e_invalid_import_version\0x8004530b\index.html.json
+
+title: 0x8004530B FSRM_E_INVALID_IMPORT_VERSION in fsrmerr.h
+description: The version of the configuration file you are trying to import is not supported. You cannot import configuration files with database versions earlier than 2.0.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "fsrmerr.h",
+  "sourceUrl": "/win32/fsrmerr-h/",
+  "code": "0x8004530B",
+  "codeUrl": "/win32/fsrmerr-h/fsrm_e_invalid_import_version/0x8004530b/",
+  "numericCode": -2147200245,
+  "define": "FSRM_E_INVALID_IMPORT_VERSION",
+  "defineUrl": "/win32/fsrmerr-h/fsrm_e_invalid_import_version/",
+  "message": "The version of the configuration file you are trying to import is not supported. You cannot import configuration files with database versions earlier than 2.0.",
+  "remarks": null,
+  "aka": [
+    "-2147200245"
+  ],
+  "akaUrl": [
+    "/win32/fsrmerr-h/fsrm_e_invalid_import_version/-2147200245/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

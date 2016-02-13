@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ds_dra_db_error\8451\index.html.json
+
+title: 8451 ERROR_DS_DRA_DB_ERROR in winerror.h
+description: The replication operation encountered a database error.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "8451",
+  "codeUrl": "/win32/winerror-h/error_ds_dra_db_error/8451/",
+  "numericCode": 8451,
+  "define": "ERROR_DS_DRA_DB_ERROR",
+  "defineUrl": "/win32/winerror-h/error_ds_dra_db_error/",
+  "message": "The replication operation encountered a database error.",
+  "remarks": null,
+  "aka": [
+    "0x80072103",
+    "-2147016445"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ds_dra_db_error/0x80072103/",
+    "/win32/winerror-h/error_ds_dra_db_error/-2147016445/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

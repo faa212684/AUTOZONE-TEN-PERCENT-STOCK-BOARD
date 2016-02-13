@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\fve_e_non_bitlocker_ku\-2144272237\index.html.json
+canonical: /win32/winerror-h/fve_e_non_bitlocker_ku/0x80310093/
+title: -2144272237 FVE_E_NON_BITLOCKER_KU in winerror.h
+description: The Key Usage (KU) attribute of the specified certificate does not permit it to be used for BitLocker Drive Encryption. BitLocker does not require that a certificate have a KU attribute, but if one is configured it must be set to either Key Encipherment or Key Agreement.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2144272237",
+  "codeUrl": "/win32/winerror-h/fve_e_non_bitlocker_ku/-2144272237/",
+  "numericCode": 0,
+  "define": "FVE_E_NON_BITLOCKER_KU",
+  "defineUrl": "/win32/winerror-h/fve_e_non_bitlocker_ku/",
+  "message": "The Key Usage (KU) attribute of the specified certificate does not permit it to be used for BitLocker Drive Encryption. BitLocker does not require that a certificate have a KU attribute, but if one is configured it must be set to either Key Encipherment or Key Agreement.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80310093",
+  "originalCodeUrl": "/win32/winerror-h/fve_e_non_bitlocker_ku/0x80310093/"
+}

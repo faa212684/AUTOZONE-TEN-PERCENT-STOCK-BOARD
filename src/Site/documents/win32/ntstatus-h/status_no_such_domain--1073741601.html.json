@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_no_such_domain\-1073741601\index.html.json
+canonical: /win32/ntstatus-h/status_no_such_domain/0xc00000df/
+title: -1073741601 STATUS_NO_SUCH_DOMAIN in ntstatus.h
+description: The specified Domain did not exist.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741601",
+  "codeUrl": "/win32/ntstatus-h/status_no_such_domain/-1073741601/",
+  "numericCode": 0,
+  "define": "STATUS_NO_SUCH_DOMAIN",
+  "defineUrl": "/win32/ntstatus-h/status_no_such_domain/",
+  "message": "The specified Domain did not exist.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC00000DF",
+  "originalCodeUrl": "/win32/ntstatus-h/status_no_such_domain/0xc00000df/"
+}

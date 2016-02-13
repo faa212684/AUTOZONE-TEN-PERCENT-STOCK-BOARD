@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_e_invalid_provider_clsid\0x80042566\index.html.json
+
+title: 0x80042566 VDS_E_INVALID_PROVIDER_CLSID in vdserr.h
+description: The specified provider clsid cannot be a NULL GUID.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x80042566",
+  "codeUrl": "/win32/vdserr-h/vds_e_invalid_provider_clsid/0x80042566/",
+  "numericCode": -2147211930,
+  "define": "VDS_E_INVALID_PROVIDER_CLSID",
+  "defineUrl": "/win32/vdserr-h/vds_e_invalid_provider_clsid/",
+  "message": "The specified provider clsid cannot be a NULL GUID.",
+  "remarks": null,
+  "aka": [
+    "-2147211930"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_invalid_provider_clsid/-2147211930/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

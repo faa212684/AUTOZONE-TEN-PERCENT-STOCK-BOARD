@@ -1,0 +1,24 @@
+---
+output: win32\windowssearcherrors-h\people_import_e_domain_discover_failed\-2147205107\index.html.json
+canonical: /win32/windowssearcherrors-h/people_import_e_domain_discover_failed/0x8004400d/
+title: -2147205107 PEOPLE_IMPORT_E_DOMAIN_DISCOVER_FAILED in WindowsSearchErrors.h
+description: The attempt to discover domain controller for domain (%1) was failed with error (%2). Please make sure whether there is problem in network connectivity or the domain is renamed.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "-2147205107",
+  "codeUrl": "/win32/windowssearcherrors-h/people_import_e_domain_discover_failed/-2147205107/",
+  "numericCode": 0,
+  "define": "PEOPLE_IMPORT_E_DOMAIN_DISCOVER_FAILED",
+  "defineUrl": "/win32/windowssearcherrors-h/people_import_e_domain_discover_failed/",
+  "message": "The attempt to discover domain controller for domain (%1) was failed with error (%2). Please make sure whether there is problem in network connectivity or the domain is renamed.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x8004400D",
+  "originalCodeUrl": "/win32/windowssearcherrors-h/people_import_e_domain_discover_failed/0x8004400d/"
+}

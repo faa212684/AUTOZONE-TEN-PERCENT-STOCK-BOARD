@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\tpm_e_no_nv_permission\-2144862152\index.html.json
+canonical: /win32/winerror-h/tpm_e_no_nv_permission/0x80280038/
+title: -2144862152 TPM_E_NO_NV_PERMISSION in winerror.h
+description: The permission to manipulate the NV storage is not available.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2144862152",
+  "codeUrl": "/win32/winerror-h/tpm_e_no_nv_permission/-2144862152/",
+  "numericCode": 0,
+  "define": "TPM_E_NO_NV_PERMISSION",
+  "defineUrl": "/win32/winerror-h/tpm_e_no_nv_permission/",
+  "message": "The permission to manipulate the NV storage is not available.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80280038",
+  "originalCodeUrl": "/win32/winerror-h/tpm_e_no_nv_permission/0x80280038/"
+}

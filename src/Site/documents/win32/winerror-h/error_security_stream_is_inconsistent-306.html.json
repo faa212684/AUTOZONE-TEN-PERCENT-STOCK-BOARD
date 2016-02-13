@@ -1,0 +1,31 @@
+---
+output: win32\winerror-h\error_security_stream_is_inconsistent\306\index.html.json
+
+title: 306 ERROR_SECURITY_STREAM_IS_INCONSISTENT in winerror.h
+description: The security stream for the given volume is in an inconsistent state.
+Please run CHKDSK on the volume.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "306",
+  "codeUrl": "/win32/winerror-h/error_security_stream_is_inconsistent/306/",
+  "numericCode": 306,
+  "define": "ERROR_SECURITY_STREAM_IS_INCONSISTENT",
+  "defineUrl": "/win32/winerror-h/error_security_stream_is_inconsistent/",
+  "message": "The security stream for the given volume is in an inconsistent state.\r\nPlease run CHKDSK on the volume.",
+  "remarks": null,
+  "aka": [
+    "0x80070132",
+    "-2147024590"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_security_stream_is_inconsistent/0x80070132/",
+    "/win32/winerror-h/error_security_stream_is_inconsistent/-2147024590/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

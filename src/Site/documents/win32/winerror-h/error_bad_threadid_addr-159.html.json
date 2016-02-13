@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_bad_threadid_addr\159\index.html.json
+
+title: 159 ERROR_BAD_THREADID_ADDR in winerror.h
+description: The address for the thread ID is not correct.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "159",
+  "codeUrl": "/win32/winerror-h/error_bad_threadid_addr/159/",
+  "numericCode": 159,
+  "define": "ERROR_BAD_THREADID_ADDR",
+  "defineUrl": "/win32/winerror-h/error_bad_threadid_addr/",
+  "message": "The address for the thread ID is not correct.",
+  "remarks": null,
+  "aka": [
+    "0x8007009f",
+    "-2147024737"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_bad_threadid_addr/0x8007009f/",
+    "/win32/winerror-h/error_bad_threadid_addr/-2147024737/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

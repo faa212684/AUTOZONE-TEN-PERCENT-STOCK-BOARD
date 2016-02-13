@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_tpm_auditfail_successful\-1071054799\index.html.json
+canonical: /win32/ntstatus-h/status_tpm_auditfail_successful/0xc0290031/
+title: -1071054799 STATUS_TPM_AUDITFAIL_SUCCESSFUL in ntstatus.h
+description: TPM audit construction failed and the underlying command was returning success.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071054799",
+  "codeUrl": "/win32/ntstatus-h/status_tpm_auditfail_successful/-1071054799/",
+  "numericCode": 0,
+  "define": "STATUS_TPM_AUDITFAIL_SUCCESSFUL",
+  "defineUrl": "/win32/ntstatus-h/status_tpm_auditfail_successful/",
+  "message": "TPM audit construction failed and the underlying command was returning success.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0290031",
+  "originalCodeUrl": "/win32/ntstatus-h/status_tpm_auditfail_successful/0xc0290031/"
+}

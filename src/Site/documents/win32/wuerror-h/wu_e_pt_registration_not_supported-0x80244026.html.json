@@ -1,0 +1,28 @@
+---
+output: win32\wuerror-h\wu_e_pt_registration_not_supported\0x80244026\index.html.json
+
+title: 0x80244026 WU_E_PT_REGISTRATION_NOT_SUPPORTED in wuerror.h
+description: Operation failed because Windows Update Agent does not support registration with a non-WSUS server.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wuerror.h",
+  "sourceUrl": "/win32/wuerror-h/",
+  "code": "0x80244026",
+  "codeUrl": "/win32/wuerror-h/wu_e_pt_registration_not_supported/0x80244026/",
+  "numericCode": -2145107930,
+  "define": "WU_E_PT_REGISTRATION_NOT_SUPPORTED",
+  "defineUrl": "/win32/wuerror-h/wu_e_pt_registration_not_supported/",
+  "message": "Operation failed because Windows Update Agent does not support registration with a non-WSUS server.",
+  "remarks": null,
+  "aka": [
+    "-2145107930"
+  ],
+  "akaUrl": [
+    "/win32/wuerror-h/wu_e_pt_registration_not_supported/-2145107930/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

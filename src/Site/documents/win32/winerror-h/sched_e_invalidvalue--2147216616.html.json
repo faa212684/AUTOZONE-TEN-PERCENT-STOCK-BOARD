@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\sched_e_invalidvalue\-2147216616\index.html.json
+canonical: /win32/winerror-h/sched_e_invalidvalue/0x80041318/
+title: -2147216616 SCHED_E_INVALIDVALUE in winerror.h
+description: The task XML contains a value which is incorrectly formatted or out of range.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147216616",
+  "codeUrl": "/win32/winerror-h/sched_e_invalidvalue/-2147216616/",
+  "numericCode": 0,
+  "define": "SCHED_E_INVALIDVALUE",
+  "defineUrl": "/win32/winerror-h/sched_e_invalidvalue/",
+  "message": "The task XML contains a value which is incorrectly formatted or out of range.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80041318",
+  "originalCodeUrl": "/win32/winerror-h/sched_e_invalidvalue/0x80041318/"
+}

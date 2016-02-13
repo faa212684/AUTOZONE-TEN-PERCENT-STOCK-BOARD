@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\or_invalid_oid\1911\index.html.json
+
+title: 1911 OR_INVALID_OID in winerror.h
+description: The object specified was not found.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1911",
+  "codeUrl": "/win32/winerror-h/or_invalid_oid/1911/",
+  "numericCode": 1911,
+  "define": "OR_INVALID_OID",
+  "defineUrl": "/win32/winerror-h/or_invalid_oid/",
+  "message": "The object specified was not found.",
+  "remarks": null,
+  "aka": [
+    "0x80070777",
+    "-2147022985"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/or_invalid_oid/0x80070777/",
+    "/win32/winerror-h/or_invalid_oid/-2147022985/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

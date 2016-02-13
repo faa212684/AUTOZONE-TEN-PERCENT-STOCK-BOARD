@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_lpc_receive_buffer_expected\-1073740027\index.html.json
+canonical: /win32/ntstatus-h/status_lpc_receive_buffer_expected/0xc0000705/
+title: -1073740027 STATUS_LPC_RECEIVE_BUFFER_EXPECTED in ntstatus.h
+description: No receive buffer has been supplied in a synchrounus request.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073740027",
+  "codeUrl": "/win32/ntstatus-h/status_lpc_receive_buffer_expected/-1073740027/",
+  "numericCode": 0,
+  "define": "STATUS_LPC_RECEIVE_BUFFER_EXPECTED",
+  "defineUrl": "/win32/ntstatus-h/status_lpc_receive_buffer_expected/",
+  "message": "No receive buffer has been supplied in a synchrounus request.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000705",
+  "originalCodeUrl": "/win32/ntstatus-h/status_lpc_receive_buffer_expected/0xc0000705/"
+}

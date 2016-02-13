@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\dfs_error_dcinfo_failed\0xc00038b6\index.html.json
+
+title: 0xC00038B6 DFS_ERROR_DCINFO_FAILED in netevent.h
+description: DFS could not get required DC information. The return code is in the record data.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC00038B6",
+  "codeUrl": "/win32/netevent-h/dfs_error_dcinfo_failed/0xc00038b6/",
+  "numericCode": -1073727306,
+  "define": "DFS_ERROR_DCINFO_FAILED",
+  "defineUrl": "/win32/netevent-h/dfs_error_dcinfo_failed/",
+  "message": "DFS could not get required DC information. The return code is in the record data.",
+  "remarks": null,
+  "aka": [
+    "-1073727306"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/dfs_error_dcinfo_failed/-1073727306/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: bugcheck\bugcodes-h\maximum_wait_objects_exceeded\0x0000000c\index.html.json
+
+title: 0x0000000C MAXIMUM_WAIT_OBJECTS_EXCEEDED in bugcodes.h
+description: MAXIMUM_WAIT_OBJECTS_EXCEEDED
+disqus: true
+---
+{
+  "area": "bugcheck",
+  "areaUrl": "/bugcheck/",
+  "source": "bugcodes.h",
+  "sourceUrl": "/bugcheck/bugcodes-h/",
+  "code": "0x0000000C",
+  "codeUrl": "/bugcheck/bugcodes-h/maximum_wait_objects_exceeded/0x0000000c/",
+  "numericCode": 12,
+  "define": "MAXIMUM_WAIT_OBJECTS_EXCEEDED",
+  "defineUrl": "/bugcheck/bugcodes-h/maximum_wait_objects_exceeded/",
+  "message": "MAXIMUM_WAIT_OBJECTS_EXCEEDED",
+  "remarks": null,
+  "aka": [
+    "12"
+  ],
+  "akaUrl": [
+    "/bugcheck/bugcodes-h/maximum_wait_objects_exceeded/12/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

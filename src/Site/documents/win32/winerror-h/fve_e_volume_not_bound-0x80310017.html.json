@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\fve_e_volume_not_bound\0x80310017\index.html.json
+
+title: 0x80310017 FVE_E_VOLUME_NOT_BOUND in winerror.h
+description: The data drive specified is not set to automatically unlock on the current computer and cannot be unlocked automatically.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80310017",
+  "codeUrl": "/win32/winerror-h/fve_e_volume_not_bound/0x80310017/",
+  "numericCode": -2144272361,
+  "define": "FVE_E_VOLUME_NOT_BOUND",
+  "defineUrl": "/win32/winerror-h/fve_e_volume_not_bound/",
+  "message": "The data drive specified is not set to automatically unlock on the current computer and cannot be unlocked automatically.",
+  "remarks": null,
+  "aka": [
+    "-2144272361"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/fve_e_volume_not_bound/-2144272361/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\dns_error_cname_loop\9707\index.html.json
+
+title: 9707 DNS_ERROR_CNAME_LOOP in winerror.h
+description: CNAME loop detected.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "9707",
+  "codeUrl": "/win32/winerror-h/dns_error_cname_loop/9707/",
+  "numericCode": 9707,
+  "define": "DNS_ERROR_CNAME_LOOP",
+  "defineUrl": "/win32/winerror-h/dns_error_cname_loop/",
+  "message": "CNAME loop detected.",
+  "remarks": null,
+  "aka": [
+    "0x800725eb",
+    "-2147015189"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/dns_error_cname_loop/0x800725eb/",
+    "/win32/winerror-h/dns_error_cname_loop/-2147015189/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

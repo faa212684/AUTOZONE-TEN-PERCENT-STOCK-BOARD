@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_app_data_not_found\4400\index.html.json
+
+title: 4400 ERROR_APP_DATA_NOT_FOUND in winerror.h
+description: Fast Cache data not found.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "4400",
+  "codeUrl": "/win32/winerror-h/error_app_data_not_found/4400/",
+  "numericCode": 4400,
+  "define": "ERROR_APP_DATA_NOT_FOUND",
+  "defineUrl": "/win32/winerror-h/error_app_data_not_found/",
+  "message": "Fast Cache data not found.",
+  "remarks": null,
+  "aka": [
+    "0x80071130",
+    "-2147020496"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_app_data_not_found/0x80071130/",
+    "/win32/winerror-h/error_app_data_not_found/-2147020496/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

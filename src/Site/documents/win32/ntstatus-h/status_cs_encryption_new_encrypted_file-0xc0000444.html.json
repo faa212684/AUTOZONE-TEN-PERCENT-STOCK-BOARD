@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_cs_encryption_new_encrypted_file\0xc0000444\index.html.json
+
+title: 0xC0000444 STATUS_CS_ENCRYPTION_NEW_ENCRYPTED_FILE in ntstatus.h
+description: A new encrypted file is being created and a $EFS needs to be provided.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000444",
+  "codeUrl": "/win32/ntstatus-h/status_cs_encryption_new_encrypted_file/0xc0000444/",
+  "numericCode": -1073740732,
+  "define": "STATUS_CS_ENCRYPTION_NEW_ENCRYPTED_FILE",
+  "defineUrl": "/win32/ntstatus-h/status_cs_encryption_new_encrypted_file/",
+  "message": "A new encrypted file is being created and a $EFS needs to be provided.",
+  "remarks": null,
+  "aka": [
+    "-1073740732"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_cs_encryption_new_encrypted_file/-1073740732/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

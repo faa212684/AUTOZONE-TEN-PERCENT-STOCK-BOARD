@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_srv_cant_start_scavenger\0xc00007da\index.html.json
+
+title: 0xC00007DA EVENT_SRV_CANT_START_SCAVENGER in netevent.h
+description: The server could not start the scavenger thread.  The server could not be started.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC00007DA",
+  "codeUrl": "/win32/netevent-h/event_srv_cant_start_scavenger/0xc00007da/",
+  "numericCode": -1073739814,
+  "define": "EVENT_SRV_CANT_START_SCAVENGER",
+  "defineUrl": "/win32/netevent-h/event_srv_cant_start_scavenger/",
+  "message": "The server could not start the scavenger thread.  The server could not be started.",
+  "remarks": null,
+  "aka": [
+    "-1073739814"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_srv_cant_start_scavenger/-1073739814/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ipsec_default_mm_auth_not_found\13014\index.html.json
+
+title: 13014 ERROR_IPSEC_DEFAULT_MM_AUTH_NOT_FOUND in winerror.h
+description: The specified default main mode authentication list was not found.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "13014",
+  "codeUrl": "/win32/winerror-h/error_ipsec_default_mm_auth_not_found/13014/",
+  "numericCode": 13014,
+  "define": "ERROR_IPSEC_DEFAULT_MM_AUTH_NOT_FOUND",
+  "defineUrl": "/win32/winerror-h/error_ipsec_default_mm_auth_not_found/",
+  "message": "The specified default main mode authentication list was not found.",
+  "remarks": null,
+  "aka": [
+    "0x800732d6",
+    "-2147011882"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ipsec_default_mm_auth_not_found/0x800732d6/",
+    "/win32/winerror-h/error_ipsec_default_mm_auth_not_found/-2147011882/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

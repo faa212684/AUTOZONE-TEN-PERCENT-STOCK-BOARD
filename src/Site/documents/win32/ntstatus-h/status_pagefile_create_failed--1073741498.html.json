@@ -1,0 +1,25 @@
+---
+output: win32\ntstatus-h\status_pagefile_create_failed\-1073741498\index.html.json
+canonical: /win32/ntstatus-h/status_pagefile_create_failed/0xc0000146/
+title: -1073741498 STATUS_PAGEFILE_CREATE_FAILED in ntstatus.h
+description: "{Unable to Create Paging File}
+The creation of the paging file %hs failed (%lx). The requested size was %ld."
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741498",
+  "codeUrl": "/win32/ntstatus-h/status_pagefile_create_failed/-1073741498/",
+  "numericCode": 0,
+  "define": "STATUS_PAGEFILE_CREATE_FAILED",
+  "defineUrl": "/win32/ntstatus-h/status_pagefile_create_failed/",
+  "message": "{Unable to Create Paging File}\r\nThe creation of the paging file %hs failed (%lx). The requested size was %ld.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000146",
+  "originalCodeUrl": "/win32/ntstatus-h/status_pagefile_create_failed/0xc0000146/"
+}

@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\fve_e_not_allowed_on_csv_stack\-2144272211\index.html.json
+canonical: /win32/winerror-h/fve_e_not_allowed_on_csv_stack/0x803100ad/
+title: -2144272211 FVE_E_NOT_ALLOWED_ON_CSV_STACK in winerror.h
+description: This command can only be performed from the coordinator node for the specified CSV volume.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2144272211",
+  "codeUrl": "/win32/winerror-h/fve_e_not_allowed_on_csv_stack/-2144272211/",
+  "numericCode": 0,
+  "define": "FVE_E_NOT_ALLOWED_ON_CSV_STACK",
+  "defineUrl": "/win32/winerror-h/fve_e_not_allowed_on_csv_stack/",
+  "message": "This command can only be performed from the coordinator node for the specified CSV volume.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x803100AD",
+  "originalCodeUrl": "/win32/winerror-h/fve_e_not_allowed_on_csv_stack/0x803100ad/"
+}

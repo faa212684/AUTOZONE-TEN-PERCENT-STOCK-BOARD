@@ -1,0 +1,29 @@
+---
+output: win32\ntstatus-h\status_end_of_media\0x8000001e\index.html.json
+
+title: 0x8000001E STATUS_END_OF_MEDIA in ntstatus.h
+description: "{End of Media}
+The end of the media was encountered."
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0x8000001E",
+  "codeUrl": "/win32/ntstatus-h/status_end_of_media/0x8000001e/",
+  "numericCode": -2147483618,
+  "define": "STATUS_END_OF_MEDIA",
+  "defineUrl": "/win32/ntstatus-h/status_end_of_media/",
+  "message": "{End of Media}\r\nThe end of the media was encountered.",
+  "remarks": null,
+  "aka": [
+    "-2147483618"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_end_of_media/-2147483618/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

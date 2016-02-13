@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ds_auth_method_not_supported\8231\index.html.json
+
+title: 8231 ERROR_DS_AUTH_METHOD_NOT_SUPPORTED in winerror.h
+description: The requested authentication method is not supported by the server.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "8231",
+  "codeUrl": "/win32/winerror-h/error_ds_auth_method_not_supported/8231/",
+  "numericCode": 8231,
+  "define": "ERROR_DS_AUTH_METHOD_NOT_SUPPORTED",
+  "defineUrl": "/win32/winerror-h/error_ds_auth_method_not_supported/",
+  "message": "The requested authentication method is not supported by the server.",
+  "remarks": null,
+  "aka": [
+    "0x80072027",
+    "-2147016665"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ds_auth_method_not_supported/0x80072027/",
+    "/win32/winerror-h/error_ds_auth_method_not_supported/-2147016665/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

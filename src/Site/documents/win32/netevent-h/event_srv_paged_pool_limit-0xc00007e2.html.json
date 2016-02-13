@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_srv_paged_pool_limit\0xc00007e2\index.html.json
+
+title: 0xC00007E2 EVENT_SRV_PAGED_POOL_LIMIT in netevent.h
+description: The server was unable to allocate from the system paged pool because the server reached the configured limit for paged pool allocations.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC00007E2",
+  "codeUrl": "/win32/netevent-h/event_srv_paged_pool_limit/0xc00007e2/",
+  "numericCode": -1073739806,
+  "define": "EVENT_SRV_PAGED_POOL_LIMIT",
+  "defineUrl": "/win32/netevent-h/event_srv_paged_pool_limit/",
+  "message": "The server was unable to allocate from the system paged pool because the server reached the configured limit for paged pool allocations.",
+  "remarks": null,
+  "aka": [
+    "-1073739806"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_srv_paged_pool_limit/-1073739806/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

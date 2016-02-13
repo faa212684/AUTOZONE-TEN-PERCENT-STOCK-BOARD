@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\tpm_e_daa_issuer_validity\0x80280056\index.html.json
+
+title: 0x80280056 TPM_E_DAA_ISSUER_VALIDITY in winerror.h
+description: The issuer's validity check has detected an inconsistency.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80280056",
+  "codeUrl": "/win32/winerror-h/tpm_e_daa_issuer_validity/0x80280056/",
+  "numericCode": -2144862122,
+  "define": "TPM_E_DAA_ISSUER_VALIDITY",
+  "defineUrl": "/win32/winerror-h/tpm_e_daa_issuer_validity/",
+  "message": "The issuer's validity check has detected an inconsistency.",
+  "remarks": null,
+  "aka": [
+    "-2144862122"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/tpm_e_daa_issuer_validity/-2144862122/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

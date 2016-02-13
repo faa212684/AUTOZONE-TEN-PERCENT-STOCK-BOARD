@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ds_couldnt_update_spns\8525\index.html.json
+
+title: 8525 ERROR_DS_COULDNT_UPDATE_SPNS in winerror.h
+description: While processing a change to the DNS Host Name for an object, the Service Principal Name values could not be kept in sync.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "8525",
+  "codeUrl": "/win32/winerror-h/error_ds_couldnt_update_spns/8525/",
+  "numericCode": 8525,
+  "define": "ERROR_DS_COULDNT_UPDATE_SPNS",
+  "defineUrl": "/win32/winerror-h/error_ds_couldnt_update_spns/",
+  "message": "While processing a change to the DNS Host Name for an object, the Service Principal Name values could not be kept in sync.",
+  "remarks": null,
+  "aka": [
+    "0x8007214d",
+    "-2147016371"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ds_couldnt_update_spns/0x8007214d/",
+    "/win32/winerror-h/error_ds_couldnt_update_spns/-2147016371/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

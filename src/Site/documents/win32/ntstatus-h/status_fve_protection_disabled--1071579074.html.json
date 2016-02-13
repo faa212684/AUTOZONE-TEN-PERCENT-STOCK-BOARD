@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_fve_protection_disabled\-1071579074\index.html.json
+canonical: /win32/ntstatus-h/status_fve_protection_disabled/0xc021003e/
+title: -1071579074 STATUS_FVE_PROTECTION_DISABLED in ntstatus.h
+description: BitLocker Drive Encryption has been suspended on this drive. All BitLocker key protectors configured for this drive are effectively disabled, and the drive will be automatically unlocked using an unencrypted (clear) key.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071579074",
+  "codeUrl": "/win32/ntstatus-h/status_fve_protection_disabled/-1071579074/",
+  "numericCode": 0,
+  "define": "STATUS_FVE_PROTECTION_DISABLED",
+  "defineUrl": "/win32/ntstatus-h/status_fve_protection_disabled/",
+  "message": "BitLocker Drive Encryption has been suspended on this drive. All BitLocker key protectors configured for this drive are effectively disabled, and the drive will be automatically unlocked using an unencrypted (clear) key.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC021003E",
+  "originalCodeUrl": "/win32/ntstatus-h/status_fve_protection_disabled/0xc021003e/"
+}

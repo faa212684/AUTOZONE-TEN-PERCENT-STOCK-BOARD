@@ -1,0 +1,25 @@
+---
+output: win32\vdserr-h\vds_s_nonconformant_partition_info\271626\index.html.json
+canonical: /win32/vdserr-h/vds_s_nonconformant_partition_info/0x0004250a/
+title: 271626 VDS_S_NONCONFORMANT_PARTITION_INFO in vdserr.h
+description: The disk's partition information is does not conform to that expected 
+on a dynamic disk.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "271626",
+  "codeUrl": "/win32/vdserr-h/vds_s_nonconformant_partition_info/271626/",
+  "numericCode": 0,
+  "define": "VDS_S_NONCONFORMANT_PARTITION_INFO",
+  "defineUrl": "/win32/vdserr-h/vds_s_nonconformant_partition_info/",
+  "message": "The disk's partition information is does not conform to that expected \r\non a dynamic disk.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x0004250A",
+  "originalCodeUrl": "/win32/vdserr-h/vds_s_nonconformant_partition_info/0x0004250a/"
+}

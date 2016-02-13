@@ -1,0 +1,28 @@
+---
+output: win32\ntdsbmsg-h\hrdiskio\0xc80003fe\index.html.json
+
+title: 0xC80003FE hrDiskIO in NtDsBMsg.h
+description: A disk I/O error occurred.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "NtDsBMsg.h",
+  "sourceUrl": "/win32/ntdsbmsg-h/",
+  "code": "0xC80003FE",
+  "codeUrl": "/win32/ntdsbmsg-h/hrdiskio/0xc80003fe/",
+  "numericCode": -939523074,
+  "define": "hrDiskIO",
+  "defineUrl": "/win32/ntdsbmsg-h/hrdiskio/",
+  "message": "A disk I/O error occurred.",
+  "remarks": null,
+  "aka": [
+    "-939523074"
+  ],
+  "akaUrl": [
+    "/win32/ntdsbmsg-h/hrdiskio/-939523074/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

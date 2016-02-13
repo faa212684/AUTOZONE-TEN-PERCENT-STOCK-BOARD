@@ -1,0 +1,25 @@
+---
+output: win32\ntstatus-h\status_ctx_license_not_available\-1073086445\index.html.json
+canonical: /win32/ntstatus-h/status_ctx_license_not_available/0xc00a0013/
+title: -1073086445 STATUS_CTX_LICENSE_NOT_AVAILABLE in ntstatus.h
+description: The system has reached its licensed logon limit.
+Please try again later.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073086445",
+  "codeUrl": "/win32/ntstatus-h/status_ctx_license_not_available/-1073086445/",
+  "numericCode": 0,
+  "define": "STATUS_CTX_LICENSE_NOT_AVAILABLE",
+  "defineUrl": "/win32/ntstatus-h/status_ctx_license_not_available/",
+  "message": "The system has reached its licensed logon limit.\r\nPlease try again later.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC00A0013",
+  "originalCodeUrl": "/win32/ntstatus-h/status_ctx_license_not_available/0xc00a0013/"
+}

@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_server_not_disabled\1342\index.html.json
+
+title: 1342 ERROR_SERVER_NOT_DISABLED in winerror.h
+description: The server is currently enabled.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1342",
+  "codeUrl": "/win32/winerror-h/error_server_not_disabled/1342/",
+  "numericCode": 1342,
+  "define": "ERROR_SERVER_NOT_DISABLED",
+  "defineUrl": "/win32/winerror-h/error_server_not_disabled/",
+  "message": "The server is currently enabled.",
+  "remarks": null,
+  "aka": [
+    "0x8007053e",
+    "-2147023554"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_server_not_disabled/0x8007053e/",
+    "/win32/winerror-h/error_server_not_disabled/-2147023554/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

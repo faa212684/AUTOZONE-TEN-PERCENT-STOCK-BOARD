@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\fve_e_fips_hash_kdf_not_allowed\0x80310098\index.html.json
+
+title: 0x80310098 FVE_E_FIPS_HASH_KDF_NOT_ALLOWED in winerror.h
+description: The default BitLocker Key Derivation Function SP800-56A for ECC smart cards is not supported by your smart card. The Group Policy setting requiring FIPS-compliance prevents BitLocker from using any other key derivation function for encryption. You have to use a FIPS compliant smart card in FIPS restricted environments.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80310098",
+  "codeUrl": "/win32/winerror-h/fve_e_fips_hash_kdf_not_allowed/0x80310098/",
+  "numericCode": -2144272232,
+  "define": "FVE_E_FIPS_HASH_KDF_NOT_ALLOWED",
+  "defineUrl": "/win32/winerror-h/fve_e_fips_hash_kdf_not_allowed/",
+  "message": "The default BitLocker Key Derivation Function SP800-56A for ECC smart cards is not supported by your smart card. The Group Policy setting requiring FIPS-compliance prevents BitLocker from using any other key derivation function for encryption. You have to use a FIPS compliant smart card in FIPS restricted environments.",
+  "remarks": null,
+  "aka": [
+    "-2144272232"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/fve_e_fips_hash_kdf_not_allowed/-2144272232/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

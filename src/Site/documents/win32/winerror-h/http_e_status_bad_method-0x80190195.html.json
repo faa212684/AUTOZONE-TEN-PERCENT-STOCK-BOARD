@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\http_e_status_bad_method\0x80190195\index.html.json
+
+title: 0x80190195 HTTP_E_STATUS_BAD_METHOD in winerror.h
+description: Method not allowed (405).
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80190195",
+  "codeUrl": "/win32/winerror-h/http_e_status_bad_method/0x80190195/",
+  "numericCode": -2145844843,
+  "define": "HTTP_E_STATUS_BAD_METHOD",
+  "defineUrl": "/win32/winerror-h/http_e_status_bad_method/",
+  "message": "Method not allowed (405).",
+  "remarks": null,
+  "aka": [
+    "-2145844843"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/http_e_status_bad_method/-2145844843/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

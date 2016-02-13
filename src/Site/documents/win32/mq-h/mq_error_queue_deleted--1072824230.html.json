@@ -1,0 +1,25 @@
+---
+output: win32\mq-h\mq_error_queue_deleted\-1072824230\index.html.json
+canonical: /win32/mq-h/mq_error_queue_deleted/0xc00e005a/
+title: -1072824230 MQ_ERROR_QUEUE_DELETED in Mq.h
+description: The queue was deleted. Messages cannot be received anymore using this
+queue handle. The handle should be closed.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "Mq.h",
+  "sourceUrl": "/win32/mq-h/",
+  "code": "-1072824230",
+  "codeUrl": "/win32/mq-h/mq_error_queue_deleted/-1072824230/",
+  "numericCode": 0,
+  "define": "MQ_ERROR_QUEUE_DELETED",
+  "defineUrl": "/win32/mq-h/mq_error_queue_deleted/",
+  "message": "The queue was deleted. Messages cannot be received anymore using this\r\nqueue handle. The handle should be closed.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC00E005A",
+  "originalCodeUrl": "/win32/mq-h/mq_error_queue_deleted/0xc00e005a/"
+}

@@ -1,0 +1,29 @@
+---
+output: win32\ntstatus-h\status_no_memory\0xc0000017\index.html.json
+
+title: 0xC0000017 STATUS_NO_MEMORY in ntstatus.h
+description: "{Not Enough Quota}
+Not enough virtual memory or paging file quota is available to complete the specified operation."
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000017",
+  "codeUrl": "/win32/ntstatus-h/status_no_memory/0xc0000017/",
+  "numericCode": -1073741801,
+  "define": "STATUS_NO_MEMORY",
+  "defineUrl": "/win32/ntstatus-h/status_no_memory/",
+  "message": "{Not Enough Quota}\r\nNot enough virtual memory or paging file quota is available to complete the specified operation.",
+  "remarks": null,
+  "aka": [
+    "-1073741801"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_no_memory/-1073741801/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

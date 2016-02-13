@@ -1,0 +1,28 @@
+---
+output: win32\wuerror-h\wu_e_pt_refresh_cache_required\0x80244015\index.html.json
+
+title: 0x80244015 WU_E_PT_REFRESH_CACHE_REQUIRED in wuerror.h
+description: The reply from the server indicates that the server was changed or the cookie was invalid; refresh the state of the internal cache and retry.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wuerror.h",
+  "sourceUrl": "/win32/wuerror-h/",
+  "code": "0x80244015",
+  "codeUrl": "/win32/wuerror-h/wu_e_pt_refresh_cache_required/0x80244015/",
+  "numericCode": -2145107947,
+  "define": "WU_E_PT_REFRESH_CACHE_REQUIRED",
+  "defineUrl": "/win32/wuerror-h/wu_e_pt_refresh_cache_required/",
+  "message": "The reply from the server indicates that the server was changed or the cookie was invalid; refresh the state of the internal cache and retry.",
+  "remarks": null,
+  "aka": [
+    "-2145107947"
+  ],
+  "akaUrl": [
+    "/win32/wuerror-h/wu_e_pt_refresh_cache_required/-2145107947/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

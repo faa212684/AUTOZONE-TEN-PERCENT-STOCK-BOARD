@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_cluster_network_has_dependents\0x800713cb\index.html.json
+canonical: /win32/winerror-h/error_cluster_network_has_dependents/5067/
+title: 0x800713cb ERROR_CLUSTER_NETWORK_HAS_DEPENDENTS in winerror.h
+description: One or more cluster resources depend on the network to provide service to clients. The client access capability cannot be removed from the network.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800713cb",
+  "codeUrl": "/win32/winerror-h/error_cluster_network_has_dependents/0x800713cb/",
+  "numericCode": 0,
+  "define": "ERROR_CLUSTER_NETWORK_HAS_DEPENDENTS",
+  "defineUrl": "/win32/winerror-h/error_cluster_network_has_dependents/",
+  "message": "One or more cluster resources depend on the network to provide service to clients. The client access capability cannot be removed from the network.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "5067",
+  "originalCodeUrl": "/win32/winerror-h/error_cluster_network_has_dependents/5067/"
+}

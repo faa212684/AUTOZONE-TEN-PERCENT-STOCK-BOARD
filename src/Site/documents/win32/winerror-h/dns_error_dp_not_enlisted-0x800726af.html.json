@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\dns_error_dp_not_enlisted\0x800726af\index.html.json
+canonical: /win32/winerror-h/dns_error_dp_not_enlisted/9903/
+title: 0x800726af DNS_ERROR_DP_NOT_ENLISTED in winerror.h
+description: This DNS server is not enlisted in the specified directory partition.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800726af",
+  "codeUrl": "/win32/winerror-h/dns_error_dp_not_enlisted/0x800726af/",
+  "numericCode": 0,
+  "define": "DNS_ERROR_DP_NOT_ENLISTED",
+  "defineUrl": "/win32/winerror-h/dns_error_dp_not_enlisted/",
+  "message": "This DNS server is not enlisted in the specified directory partition.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "9903",
+  "originalCodeUrl": "/win32/winerror-h/dns_error_dp_not_enlisted/9903/"
+}

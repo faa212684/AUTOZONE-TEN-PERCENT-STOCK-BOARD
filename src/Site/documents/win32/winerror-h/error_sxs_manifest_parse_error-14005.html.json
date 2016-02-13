@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_sxs_manifest_parse_error\14005\index.html.json
+
+title: 14005 ERROR_SXS_MANIFEST_PARSE_ERROR in winerror.h
+description: The manifest file contains one or more syntax errors.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "14005",
+  "codeUrl": "/win32/winerror-h/error_sxs_manifest_parse_error/14005/",
+  "numericCode": 14005,
+  "define": "ERROR_SXS_MANIFEST_PARSE_ERROR",
+  "defineUrl": "/win32/winerror-h/error_sxs_manifest_parse_error/",
+  "message": "The manifest file contains one or more syntax errors.",
+  "remarks": null,
+  "aka": [
+    "0x800736b5",
+    "-2147010891"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_sxs_manifest_parse_error/0x800736b5/",
+    "/win32/winerror-h/error_sxs_manifest_parse_error/-2147010891/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

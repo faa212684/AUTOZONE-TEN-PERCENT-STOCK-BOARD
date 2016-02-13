@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_fve_wipe_cancel_not_applicable\0xc0210037\index.html.json
+
+title: 0xC0210037 STATUS_FVE_WIPE_CANCEL_NOT_APPLICABLE in ntstatus.h
+description: Wipe of free space is not currently taking place.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0210037",
+  "codeUrl": "/win32/ntstatus-h/status_fve_wipe_cancel_not_applicable/0xc0210037/",
+  "numericCode": -1071579081,
+  "define": "STATUS_FVE_WIPE_CANCEL_NOT_APPLICABLE",
+  "defineUrl": "/win32/ntstatus-h/status_fve_wipe_cancel_not_applicable/",
+  "message": "Wipe of free space is not currently taking place.",
+  "remarks": null,
+  "aka": [
+    "-1071579081"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_fve_wipe_cancel_not_applicable/-1071579081/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

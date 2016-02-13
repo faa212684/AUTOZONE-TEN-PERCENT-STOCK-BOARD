@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_rdr_cant_build_smb_header\0x80000bdb\index.html.json
+
+title: 0x80000BDB EVENT_RDR_CANT_BUILD_SMB_HEADER in netevent.h
+description: The redirector was unable to build SMB header.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x80000BDB",
+  "codeUrl": "/win32/netevent-h/event_rdr_cant_build_smb_header/0x80000bdb/",
+  "numericCode": -2147480613,
+  "define": "EVENT_RDR_CANT_BUILD_SMB_HEADER",
+  "defineUrl": "/win32/netevent-h/event_rdr_cant_build_smb_header/",
+  "message": "The redirector was unable to build SMB header.",
+  "remarks": null,
+  "aka": [
+    "-2147480613"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_rdr_cant_build_smb_header/-2147480613/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\crypt_e_no_key_property\0x8009200b\index.html.json
+
+title: 0x8009200B CRYPT_E_NO_KEY_PROPERTY in winerror.h
+description: Cannot find the certificate and private key for decryption.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8009200B",
+  "codeUrl": "/win32/winerror-h/crypt_e_no_key_property/0x8009200b/",
+  "numericCode": -2146885621,
+  "define": "CRYPT_E_NO_KEY_PROPERTY",
+  "defineUrl": "/win32/winerror-h/crypt_e_no_key_property/",
+  "message": "Cannot find the certificate and private key for decryption.",
+  "remarks": null,
+  "aka": [
+    "-2146885621"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/crypt_e_no_key_property/-2146885621/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

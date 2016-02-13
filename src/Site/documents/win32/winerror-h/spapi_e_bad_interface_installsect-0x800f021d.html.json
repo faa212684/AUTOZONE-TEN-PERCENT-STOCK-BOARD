@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\spapi_e_bad_interface_installsect\0x800f021d\index.html.json
+
+title: 0x800F021D SPAPI_E_BAD_INTERFACE_INSTALLSECT in winerror.h
+description: An interface installation section in this INF is invalid.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800F021D",
+  "codeUrl": "/win32/winerror-h/spapi_e_bad_interface_installsect/0x800f021d/",
+  "numericCode": -2146500067,
+  "define": "SPAPI_E_BAD_INTERFACE_INSTALLSECT",
+  "defineUrl": "/win32/winerror-h/spapi_e_bad_interface_installsect/",
+  "message": "An interface installation section in this INF is invalid.",
+  "remarks": null,
+  "aka": [
+    "-2146500067"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/spapi_e_bad_interface_installsect/-2146500067/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

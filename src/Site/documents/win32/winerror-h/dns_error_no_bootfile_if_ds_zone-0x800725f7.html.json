@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\dns_error_no_bootfile_if_ds_zone\0x800725f7\index.html.json
+canonical: /win32/winerror-h/dns_error_no_bootfile_if_ds_zone/9719/
+title: 0x800725f7 DNS_ERROR_NO_BOOTFILE_IF_DS_ZONE in winerror.h
+description: DNS server not creating or reading the boot file for the directory service integrated DNS zone.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800725f7",
+  "codeUrl": "/win32/winerror-h/dns_error_no_bootfile_if_ds_zone/0x800725f7/",
+  "numericCode": 0,
+  "define": "DNS_ERROR_NO_BOOTFILE_IF_DS_ZONE",
+  "defineUrl": "/win32/winerror-h/dns_error_no_bootfile_if_ds_zone/",
+  "message": "DNS server not creating or reading the boot file for the directory service integrated DNS zone.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "9719",
+  "originalCodeUrl": "/win32/winerror-h/dns_error_no_bootfile_if_ds_zone/9719/"
+}

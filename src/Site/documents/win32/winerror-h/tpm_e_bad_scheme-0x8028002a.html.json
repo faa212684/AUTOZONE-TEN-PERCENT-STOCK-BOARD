@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\tpm_e_bad_scheme\0x8028002a\index.html.json
+
+title: 0x8028002A TPM_E_BAD_SCHEME in winerror.h
+description: The signature or encryption scheme for this key is incorrect or not permitted in this situation.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8028002A",
+  "codeUrl": "/win32/winerror-h/tpm_e_bad_scheme/0x8028002a/",
+  "numericCode": -2144862166,
+  "define": "TPM_E_BAD_SCHEME",
+  "defineUrl": "/win32/winerror-h/tpm_e_bad_scheme/",
+  "message": "The signature or encryption scheme for this key is incorrect or not permitted in this situation.",
+  "remarks": null,
+  "aka": [
+    "-2144862166"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/tpm_e_bad_scheme/-2144862166/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

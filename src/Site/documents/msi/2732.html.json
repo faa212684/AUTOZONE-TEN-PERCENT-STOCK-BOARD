@@ -1,0 +1,24 @@
+---
+output: msi\2732\index.html.json
+
+title: msi 2732
+description: Directory Manager not initialized.
+disqus: true
+---
+{
+  "area": "msi",
+  "areaUrl": "/msi/",
+  "source": null,
+  "sourceUrl": "/msi/",
+  "code": "2732",
+  "codeUrl": "/msi/2732/",
+  "numericCode": 2732,
+  "define": null,
+  "defineUrl": "/msi/",
+  "message": "Directory Manager not initialized.",
+  "remarks": "The directory manager is responsible for determining the target and source paths. It is initialized during the costing actions (<a href=\"https://msdn.microsoft.com/en-us/library/aa368050(v=vs.85).aspx\">CostInitialize action</a>, \r\n<a href=\"https://msdn.microsoft.com/en-us/library/aa368589(v=vs.85).aspx\">FileCost action</a>, and \r\n<a href=\"https://msdn.microsoft.com/en-us/library/aa368048(v=vs.85).aspx\">CostFinalize action</a>). A standard action or custom action made a call to a function requiring the directory manager before the initialization of the directory manager. This action should be sequenced after the costing actions.",
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,24 @@
+---
+output: win32\netevent-h\dfs_warn_incomplete_move\-2147469110\index.html.json
+canonical: /win32/netevent-h/dfs_warn_incomplete_move/0x800038ca/
+title: -2147469110 DFS_WARN_INCOMPLETE_MOVE in netevent.h
+description: DFS was unable to move all matching links of root: %1 for path %2 to new path %3
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "-2147469110",
+  "codeUrl": "/win32/netevent-h/dfs_warn_incomplete_move/-2147469110/",
+  "numericCode": 0,
+  "define": "DFS_WARN_INCOMPLETE_MOVE",
+  "defineUrl": "/win32/netevent-h/dfs_warn_incomplete_move/",
+  "message": "DFS was unable to move all matching links of root: %1 for path %2 to new path %3",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x800038CA",
+  "originalCodeUrl": "/win32/netevent-h/dfs_warn_incomplete_move/0x800038ca/"
+}

@@ -1,0 +1,25 @@
+---
+output: win32\ntstatus-h\status_runlevel_switch_timeout\-1073700541\index.html.json
+canonical: /win32/ntstatus-h/status_runlevel_switch_timeout/0xc000a143/
+title: -1073700541 STATUS_RUNLEVEL_SWITCH_TIMEOUT in ntstatus.h
+description: The requested run level switch cannot be completed successfully since
+one or more services will not stop or restart within the specified timeout.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073700541",
+  "codeUrl": "/win32/ntstatus-h/status_runlevel_switch_timeout/-1073700541/",
+  "numericCode": 0,
+  "define": "STATUS_RUNLEVEL_SWITCH_TIMEOUT",
+  "defineUrl": "/win32/ntstatus-h/status_runlevel_switch_timeout/",
+  "message": "The requested run level switch cannot be completed successfully since\r\none or more services will not stop or restart within the specified timeout.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC000A143",
+  "originalCodeUrl": "/win32/ntstatus-h/status_runlevel_switch_timeout/0xc000a143/"
+}

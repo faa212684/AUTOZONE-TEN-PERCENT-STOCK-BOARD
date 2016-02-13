@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\xact_e_reenlisttimeout\0x8004d01e\index.html.json
+
+title: 0x8004D01E XACT_E_REENLISTTIMEOUT in winerror.h
+description: Resource manager reenlistment to determine transaction status timed out.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8004D01E",
+  "codeUrl": "/win32/winerror-h/xact_e_reenlisttimeout/0x8004d01e/",
+  "numericCode": -2147168226,
+  "define": "XACT_E_REENLISTTIMEOUT",
+  "defineUrl": "/win32/winerror-h/xact_e_reenlisttimeout/",
+  "message": "Resource manager reenlistment to determine transaction status timed out.",
+  "remarks": null,
+  "aka": [
+    "-2147168226"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/xact_e_reenlisttimeout/-2147168226/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

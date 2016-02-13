@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_system_powerstate_transition\0x8007030e\index.html.json
+canonical: /win32/winerror-h/error_system_powerstate_transition/782/
+title: 0x8007030e ERROR_SYSTEM_POWERSTATE_TRANSITION in winerror.h
+description: The system power state is transitioning from %2 to %3.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007030e",
+  "codeUrl": "/win32/winerror-h/error_system_powerstate_transition/0x8007030e/",
+  "numericCode": 0,
+  "define": "ERROR_SYSTEM_POWERSTATE_TRANSITION",
+  "defineUrl": "/win32/winerror-h/error_system_powerstate_transition/",
+  "message": "The system power state is transitioning from %2 to %3.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "782",
+  "originalCodeUrl": "/win32/winerror-h/error_system_powerstate_transition/782/"
+}

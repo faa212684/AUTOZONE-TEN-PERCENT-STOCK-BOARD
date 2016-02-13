@@ -1,0 +1,25 @@
+---
+output: win32\ntstatus-h\status_data_error\-1073741762\index.html.json
+canonical: /win32/ntstatus-h/status_data_error/0xc000003e/
+title: -1073741762 STATUS_DATA_ERROR in ntstatus.h
+description: "{Data Error}
+An error in reading or writing data occurred."
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741762",
+  "codeUrl": "/win32/ntstatus-h/status_data_error/-1073741762/",
+  "numericCode": 0,
+  "define": "STATUS_DATA_ERROR",
+  "defineUrl": "/win32/ntstatus-h/status_data_error/",
+  "message": "{Data Error}\r\nAn error in reading or writing data occurred.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC000003E",
+  "originalCodeUrl": "/win32/ntstatus-h/status_data_error/0xc000003e/"
+}

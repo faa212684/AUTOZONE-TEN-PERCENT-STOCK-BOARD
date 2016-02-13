@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\co_e_notconstructed\0x8004e02d\index.html.json
+
+title: 0x8004E02D CO_E_NOTCONSTRUCTED in winerror.h
+description: The COM+ component you created must use object construction to work correctly.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8004E02D",
+  "codeUrl": "/win32/winerror-h/co_e_notconstructed/0x8004e02d/",
+  "numericCode": -2147164115,
+  "define": "CO_E_NOTCONSTRUCTED",
+  "defineUrl": "/win32/winerror-h/co_e_notconstructed/",
+  "message": "The COM+ component you created must use object construction to work correctly.",
+  "remarks": null,
+  "aka": [
+    "-2147164115"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/co_e_notconstructed/-2147164115/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

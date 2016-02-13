@@ -1,0 +1,25 @@
+---
+output: win32\ntstatus-h\status_ctx_modem_response_no_dialtone\-1073086451\index.html.json
+canonical: /win32/ntstatus-h/status_ctx_modem_response_no_dialtone/0xc00a000d/
+title: -1073086451 STATUS_CTX_MODEM_RESPONSE_NO_DIALTONE in ntstatus.h
+description: Dial tone not detected within required time.
+Verify phone cable is properly attached and functional.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073086451",
+  "codeUrl": "/win32/ntstatus-h/status_ctx_modem_response_no_dialtone/-1073086451/",
+  "numericCode": 0,
+  "define": "STATUS_CTX_MODEM_RESPONSE_NO_DIALTONE",
+  "defineUrl": "/win32/ntstatus-h/status_ctx_modem_response_no_dialtone/",
+  "message": "Dial tone not detected within required time.\r\nVerify phone cable is properly attached and functional.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC00A000D",
+  "originalCodeUrl": "/win32/ntstatus-h/status_ctx_modem_response_no_dialtone/0xc00a000d/"
+}

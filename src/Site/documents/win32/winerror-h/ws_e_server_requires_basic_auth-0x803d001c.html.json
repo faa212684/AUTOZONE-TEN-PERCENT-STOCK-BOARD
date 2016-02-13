@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\ws_e_server_requires_basic_auth\0x803d001c\index.html.json
+
+title: 0x803D001C WS_E_SERVER_REQUIRES_BASIC_AUTH in winerror.h
+description: The remote endpoint requires HTTP authentication scheme 'basic'.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x803D001C",
+  "codeUrl": "/win32/winerror-h/ws_e_server_requires_basic_auth/0x803d001c/",
+  "numericCode": -2143485924,
+  "define": "WS_E_SERVER_REQUIRES_BASIC_AUTH",
+  "defineUrl": "/win32/winerror-h/ws_e_server_requires_basic_auth/",
+  "message": "The remote endpoint requires HTTP authentication scheme 'basic'.",
+  "remarks": null,
+  "aka": [
+    "-2143485924"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/ws_e_server_requires_basic_auth/-2143485924/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

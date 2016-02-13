@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_ds_duplicate_id_found\0xc0000405\index.html.json
+
+title: 0xC0000405 STATUS_DS_DUPLICATE_ID_FOUND in ntstatus.h
+description: The requested object has a non-unique identifier and cannot be retrieved.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000405",
+  "codeUrl": "/win32/ntstatus-h/status_ds_duplicate_id_found/0xc0000405/",
+  "numericCode": -1073740795,
+  "define": "STATUS_DS_DUPLICATE_ID_FOUND",
+  "defineUrl": "/win32/ntstatus-h/status_ds_duplicate_id_found/",
+  "message": "The requested object has a non-unique identifier and cannot be retrieved.",
+  "remarks": null,
+  "aka": [
+    "-1073740795"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_ds_duplicate_id_found/-1073740795/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

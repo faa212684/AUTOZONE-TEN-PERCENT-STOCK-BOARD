@@ -1,0 +1,28 @@
+---
+output: win32\wsmerror-h\error_wsman_maxenvelope_size_not_supported\0x8033806e\index.html.json
+
+title: 0x8033806E ERROR_WSMAN_MAXENVELOPE_SIZE_NOT_SUPPORTED in wsmerror.h
+description: The WS-Management service does not support the value in the configuration for MaxEnvelopeSize.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x8033806E",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_maxenvelope_size_not_supported/0x8033806e/",
+  "numericCode": -2144108434,
+  "define": "ERROR_WSMAN_MAXENVELOPE_SIZE_NOT_SUPPORTED",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_maxenvelope_size_not_supported/",
+  "message": "The WS-Management service does not support the value in the configuration for MaxEnvelopeSize.",
+  "remarks": null,
+  "aka": [
+    "-2144108434"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_maxenvelope_size_not_supported/-2144108434/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

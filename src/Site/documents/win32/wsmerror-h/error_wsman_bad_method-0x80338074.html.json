@@ -1,0 +1,28 @@
+---
+output: win32\wsmerror-h\error_wsman_bad_method\0x80338074\index.html.json
+
+title: 0x80338074 ERROR_WSMAN_BAD_METHOD in wsmerror.h
+description: The service returned a response that indicates that the method is unsupported.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x80338074",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_bad_method/0x80338074/",
+  "numericCode": -2144108428,
+  "define": "ERROR_WSMAN_BAD_METHOD",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_bad_method/",
+  "message": "The service returned a response that indicates that the method is unsupported.",
+  "remarks": null,
+  "aka": [
+    "-2144108428"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_bad_method/-2144108428/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

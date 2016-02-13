@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_system_powerstate_transition\0x4000002f\index.html.json
+
+title: 0x4000002F STATUS_SYSTEM_POWERSTATE_TRANSITION in ntstatus.h
+description: The system power state is transitioning from %2 to %3.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0x4000002F",
+  "codeUrl": "/win32/ntstatus-h/status_system_powerstate_transition/0x4000002f/",
+  "numericCode": 1073741871,
+  "define": "STATUS_SYSTEM_POWERSTATE_TRANSITION",
+  "defineUrl": "/win32/ntstatus-h/status_system_powerstate_transition/",
+  "message": "The system power state is transitioning from %2 to %3.",
+  "remarks": null,
+  "aka": [
+    "1073741871"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_system_powerstate_transition/1073741871/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

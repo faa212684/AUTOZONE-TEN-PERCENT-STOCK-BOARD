@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_smartcard_no_keyset\0xc0000386\index.html.json
+
+title: 0xC0000386 STATUS_SMARTCARD_NO_KEYSET in ntstatus.h
+description: The requested keyset does not exist
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000386",
+  "codeUrl": "/win32/ntstatus-h/status_smartcard_no_keyset/0xc0000386/",
+  "numericCode": -1073740922,
+  "define": "STATUS_SMARTCARD_NO_KEYSET",
+  "defineUrl": "/win32/ntstatus-h/status_smartcard_no_keyset/",
+  "message": "The requested keyset does not exist",
+  "remarks": null,
+  "aka": [
+    "-1073740922"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_smartcard_no_keyset/-1073740922/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

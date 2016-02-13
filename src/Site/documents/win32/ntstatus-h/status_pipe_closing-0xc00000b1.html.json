@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_pipe_closing\0xc00000b1\index.html.json
+
+title: 0xC00000B1 STATUS_PIPE_CLOSING in ntstatus.h
+description: The specified named pipe is in the closing state.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC00000B1",
+  "codeUrl": "/win32/ntstatus-h/status_pipe_closing/0xc00000b1/",
+  "numericCode": -1073741647,
+  "define": "STATUS_PIPE_CLOSING",
+  "defineUrl": "/win32/ntstatus-h/status_pipe_closing/",
+  "message": "The specified named pipe is in the closing state.",
+  "remarks": null,
+  "aka": [
+    "-1073741647"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_pipe_closing/-1073741647/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

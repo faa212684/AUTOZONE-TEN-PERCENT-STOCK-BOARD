@@ -1,0 +1,39 @@
+---
+output: win32\netevent-h\event_dnsapi_deregistration_failed_other_primary_dn\0x80002bbd\index.html.json
+
+title: 0x80002BBD EVENT_DNSAPI_DEREGISTRATION_FAILED_OTHER_PRIMARY_DN in netevent.h
+description: The system failed to update and remove host (A or AAAA) resource records (RRs)
+for network adapter%nwith settings:%n%n
+Adapter Name : %1%n
+Host Name : %2%n
+Primary Domain Suffix : %3%n
+DNS server list :%n
+%4%n
+Sent update to server : %5%n
+IP Address(es) :%n
+%6%n%n
+The reason the update request failed was because of a system problem.
+See event details for specific error code information
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x80002BBD",
+  "codeUrl": "/win32/netevent-h/event_dnsapi_deregistration_failed_other_primary_dn/0x80002bbd/",
+  "numericCode": -2147472451,
+  "define": "EVENT_DNSAPI_DEREGISTRATION_FAILED_OTHER_PRIMARY_DN",
+  "defineUrl": "/win32/netevent-h/event_dnsapi_deregistration_failed_other_primary_dn/",
+  "message": "The system failed to update and remove host (A or AAAA) resource records (RRs)\r\nfor network adapter%nwith settings:%n%n\r\nAdapter Name : %1%n\r\nHost Name : %2%n\r\nPrimary Domain Suffix : %3%n\r\nDNS server list :%n\r\n%4%n\r\nSent update to server : %5%n\r\nIP Address(es) :%n\r\n%6%n%n\r\nThe reason the update request failed was because of a system problem.\r\nSee event details for specific error code information",
+  "remarks": null,
+  "aka": [
+    "-2147472451"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_dnsapi_deregistration_failed_other_primary_dn/-2147472451/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

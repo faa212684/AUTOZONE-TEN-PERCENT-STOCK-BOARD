@@ -1,0 +1,40 @@
+---
+output: win32\netevent-h\event_frs_huge_file\0x800034d3\index.html.json
+
+title: 0x800034D3 EVENT_FRS_HUGE_FILE in netevent.h
+description: The File Replication Service paused because the size of a file exceeds the
+staging space limit. Replication will resume only if the staging space limit
+is increased.
+%n
+%nThe staging space limit is %1 KB and the file size is %2 KB.
+%n
+%nTo change the staging space limit, run regedt32.
+%n
+%nClick on Start, Run and type regedt32.
+%n
+%nClick on the window entitled HKEY_LOCAL_MACHINE. Double click on SYSTEM,
+CurrentControlSet, Services, NtFrs, Parameters, and the value
+"Staging Space Limit in KB".
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x800034D3",
+  "codeUrl": "/win32/netevent-h/event_frs_huge_file/0x800034d3/",
+  "numericCode": -2147470125,
+  "define": "EVENT_FRS_HUGE_FILE",
+  "defineUrl": "/win32/netevent-h/event_frs_huge_file/",
+  "message": "The File Replication Service paused because the size of a file exceeds the\r\nstaging space limit. Replication will resume only if the staging space limit\r\nis increased.\r\n%n\r\n%nThe staging space limit is %1 KB and the file size is %2 KB.\r\n%n\r\n%nTo change the staging space limit, run regedt32.\r\n%n\r\n%nClick on Start, Run and type regedt32.\r\n%n\r\n%nClick on the window entitled HKEY_LOCAL_MACHINE. Double click on SYSTEM,\r\nCurrentControlSet, Services, NtFrs, Parameters, and the value\r\n\"Staging Space Limit in KB\".",
+  "remarks": null,
+  "aka": [
+    "-2147470125"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_frs_huge_file/-2147470125/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

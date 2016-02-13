@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_tpm_bad_presence\-1071054803\index.html.json
+canonical: /win32/ntstatus-h/status_tpm_bad_presence/0xc029002d/
+title: -1071054803 STATUS_TPM_BAD_PRESENCE in ntstatus.h
+description: Either the physicalPresence or physicalPresenceLock bits have the wrong value.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071054803",
+  "codeUrl": "/win32/ntstatus-h/status_tpm_bad_presence/-1071054803/",
+  "numericCode": 0,
+  "define": "STATUS_TPM_BAD_PRESENCE",
+  "defineUrl": "/win32/ntstatus-h/status_tpm_bad_presence/",
+  "message": "Either the physicalPresence or physicalPresenceLock bits have the wrong value.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC029002D",
+  "originalCodeUrl": "/win32/ntstatus-h/status_tpm_bad_presence/0xc029002d/"
+}

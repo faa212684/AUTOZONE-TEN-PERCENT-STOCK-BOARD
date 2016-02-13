@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\rpc_nt_cannot_support\0xc0020041\index.html.json
+
+title: 0xC0020041 RPC_NT_CANNOT_SUPPORT in ntstatus.h
+description: The requested operation is not supported.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0020041",
+  "codeUrl": "/win32/ntstatus-h/rpc_nt_cannot_support/0xc0020041/",
+  "numericCode": -1073610687,
+  "define": "RPC_NT_CANNOT_SUPPORT",
+  "defineUrl": "/win32/ntstatus-h/rpc_nt_cannot_support/",
+  "message": "The requested operation is not supported.",
+  "remarks": null,
+  "aka": [
+    "-1073610687"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/rpc_nt_cannot_support/-1073610687/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

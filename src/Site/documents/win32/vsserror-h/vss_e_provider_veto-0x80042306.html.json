@@ -1,0 +1,28 @@
+---
+output: win32\vsserror-h\vss_e_provider_veto\0x80042306\index.html.json
+
+title: 0x80042306 VSS_E_PROVIDER_VETO in vsserror.h
+description: The shadow copy provider had an error. Check the System and Application event logs for more information.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vsserror.h",
+  "sourceUrl": "/win32/vsserror-h/",
+  "code": "0x80042306",
+  "codeUrl": "/win32/vsserror-h/vss_e_provider_veto/0x80042306/",
+  "numericCode": -2147212538,
+  "define": "VSS_E_PROVIDER_VETO",
+  "defineUrl": "/win32/vsserror-h/vss_e_provider_veto/",
+  "message": "The shadow copy provider had an error. Check the System and Application event logs for more information.",
+  "remarks": null,
+  "aka": [
+    "-2147212538"
+  ],
+  "akaUrl": [
+    "/win32/vsserror-h/vss_e_provider_veto/-2147212538/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

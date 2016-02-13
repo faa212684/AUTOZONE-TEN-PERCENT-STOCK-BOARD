@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_nologon_server_trust_account\-1073741414\index.html.json
+canonical: /win32/ntstatus-h/status_nologon_server_trust_account/0xc000019a/
+title: -1073741414 STATUS_NOLOGON_SERVER_TRUST_ACCOUNT in ntstatus.h
+description: The account used is an Server Trust account. Use your global user account or local user account to access this server.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741414",
+  "codeUrl": "/win32/ntstatus-h/status_nologon_server_trust_account/-1073741414/",
+  "numericCode": 0,
+  "define": "STATUS_NOLOGON_SERVER_TRUST_ACCOUNT",
+  "defineUrl": "/win32/ntstatus-h/status_nologon_server_trust_account/",
+  "message": "The account used is an Server Trust account. Use your global user account or local user account to access this server.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC000019A",
+  "originalCodeUrl": "/win32/ntstatus-h/status_nologon_server_trust_account/0xc000019a/"
+}

@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_virtual_disk_limitation\-1069940710\index.html.json
+canonical: /win32/winerror-h/error_virtual_disk_limitation/0xc03a001a/
+title: -1069940710 ERROR_VIRTUAL_DISK_LIMITATION in winerror.h
+description: The requested operation could not be completed due to a virtual disk system limitation.  On NTFS, virtual hard disk files must be uncompressed and unencrypted. On ReFS, virtual hard disk files must not have the integrity bit set.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-1069940710",
+  "codeUrl": "/win32/winerror-h/error_virtual_disk_limitation/-1069940710/",
+  "numericCode": 0,
+  "define": "ERROR_VIRTUAL_DISK_LIMITATION",
+  "defineUrl": "/win32/winerror-h/error_virtual_disk_limitation/",
+  "message": "The requested operation could not be completed due to a virtual disk system limitation.  On NTFS, virtual hard disk files must be uncompressed and unencrypted. On ReFS, virtual hard disk files must not have the integrity bit set.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC03A001A",
+  "originalCodeUrl": "/win32/winerror-h/error_virtual_disk_limitation/0xc03a001a/"
+}

@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_inc_backup\4003\index.html.json
+
+title: 4003 ERROR_INC_BACKUP in winerror.h
+description: The backup failed. Was a full backup done before?
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "4003",
+  "codeUrl": "/win32/winerror-h/error_inc_backup/4003/",
+  "numericCode": 4003,
+  "define": "ERROR_INC_BACKUP",
+  "defineUrl": "/win32/winerror-h/error_inc_backup/",
+  "message": "The backup failed. Was a full backup done before?",
+  "remarks": null,
+  "aka": [
+    "0x80070fa3",
+    "-2147020893"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_inc_backup/0x80070fa3/",
+    "/win32/winerror-h/error_inc_backup/-2147020893/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

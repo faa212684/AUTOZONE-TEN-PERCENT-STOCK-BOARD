@@ -1,0 +1,24 @@
+---
+output: win32\vdserr-h\vds_e_vd_disk_not_open\-2147210965\index.html.json
+canonical: /win32/vdserr-h/vds_e_vd_disk_not_open/0x8004292b/
+title: -2147210965 VDS_E_VD_DISK_NOT_OPEN in vdserr.h
+description: The requested operation requires that the virtual disk be opened.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "-2147210965",
+  "codeUrl": "/win32/vdserr-h/vds_e_vd_disk_not_open/-2147210965/",
+  "numericCode": 0,
+  "define": "VDS_E_VD_DISK_NOT_OPEN",
+  "defineUrl": "/win32/vdserr-h/vds_e_vd_disk_not_open/",
+  "message": "The requested operation requires that the virtual disk be opened.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x8004292B",
+  "originalCodeUrl": "/win32/vdserr-h/vds_e_vd_disk_not_open/0x8004292b/"
+}

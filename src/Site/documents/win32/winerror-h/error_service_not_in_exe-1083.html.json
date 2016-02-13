@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_service_not_in_exe\1083\index.html.json
+
+title: 1083 ERROR_SERVICE_NOT_IN_EXE in winerror.h
+description: The executable program that this service is configured to run in does not implement the service.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1083",
+  "codeUrl": "/win32/winerror-h/error_service_not_in_exe/1083/",
+  "numericCode": 1083,
+  "define": "ERROR_SERVICE_NOT_IN_EXE",
+  "defineUrl": "/win32/winerror-h/error_service_not_in_exe/",
+  "message": "The executable program that this service is configured to run in does not implement the service.",
+  "remarks": null,
+  "aka": [
+    "0x8007043b",
+    "-2147023813"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_service_not_in_exe/0x8007043b/",
+    "/win32/winerror-h/error_service_not_in_exe/-2147023813/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,25 @@
+---
+output: win32\ntstatus-h\status_unhandled_exception\-1073741500\index.html.json
+canonical: /win32/ntstatus-h/status_unhandled_exception/0xc0000144/
+title: -1073741500 STATUS_UNHANDLED_EXCEPTION in ntstatus.h
+description: "{Application Error}
+The exception %s (0x%08lx) occurred in the application at location 0x%08lx."
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741500",
+  "codeUrl": "/win32/ntstatus-h/status_unhandled_exception/-1073741500/",
+  "numericCode": 0,
+  "define": "STATUS_UNHANDLED_EXCEPTION",
+  "defineUrl": "/win32/ntstatus-h/status_unhandled_exception/",
+  "message": "{Application Error}\r\nThe exception %s (0x%08lx) occurred in the application at location 0x%08lx.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000144",
+  "originalCodeUrl": "/win32/ntstatus-h/status_unhandled_exception/0xc0000144/"
+}

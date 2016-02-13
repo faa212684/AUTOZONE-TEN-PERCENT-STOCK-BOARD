@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_secureboot_file_replaced\0x8007114a\index.html.json
+canonical: /win32/winerror-h/error_secureboot_file_replaced/4426/
+title: 0x8007114a ERROR_SECUREBOOT_FILE_REPLACED in winerror.h
+description: Secure Boot requires that certain files and drivers are not replaced by other files or drivers.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007114a",
+  "codeUrl": "/win32/winerror-h/error_secureboot_file_replaced/0x8007114a/",
+  "numericCode": 0,
+  "define": "ERROR_SECUREBOOT_FILE_REPLACED",
+  "defineUrl": "/win32/winerror-h/error_secureboot_file_replaced/",
+  "message": "Secure Boot requires that certain files and drivers are not replaced by other files or drivers.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "4426",
+  "originalCodeUrl": "/win32/winerror-h/error_secureboot_file_replaced/4426/"
+}

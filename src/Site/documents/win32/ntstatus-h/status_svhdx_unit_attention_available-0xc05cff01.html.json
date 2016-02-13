@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_svhdx_unit_attention_available\0xc05cff01\index.html.json
+
+title: 0xC05CFF01 STATUS_SVHDX_UNIT_ATTENTION_AVAILABLE in ntstatus.h
+description: Unit Attention data is available for the initiator to query.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC05CFF01",
+  "codeUrl": "/win32/ntstatus-h/status_svhdx_unit_attention_available/0xc05cff01/",
+  "numericCode": -1067647231,
+  "define": "STATUS_SVHDX_UNIT_ATTENTION_AVAILABLE",
+  "defineUrl": "/win32/ntstatus-h/status_svhdx_unit_attention_available/",
+  "message": "Unit Attention data is available for the initiator to query.",
+  "remarks": null,
+  "aka": [
+    "-1067647231"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_svhdx_unit_attention_available/-1067647231/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

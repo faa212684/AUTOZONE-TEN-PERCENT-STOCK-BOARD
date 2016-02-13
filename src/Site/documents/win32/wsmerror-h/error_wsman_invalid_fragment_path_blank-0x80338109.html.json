@@ -1,0 +1,29 @@
+---
+output: win32\wsmerror-h\error_wsman_invalid_fragment_path_blank\0x80338109\index.html.json
+
+title: 0x80338109 ERROR_WSMAN_INVALID_FRAGMENT_PATH_BLANK in wsmerror.h
+description: Cannot execute the Fragment-Level operation because the fragment path contains either "" (blank or empty string) or NULL.
+Change the value of the fragment path and try the request again.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x80338109",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_invalid_fragment_path_blank/0x80338109/",
+  "numericCode": -2144108279,
+  "define": "ERROR_WSMAN_INVALID_FRAGMENT_PATH_BLANK",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_invalid_fragment_path_blank/",
+  "message": "Cannot execute the Fragment-Level operation because the fragment path contains either \"\" (blank or empty string) or NULL.\r\nChange the value of the fragment path and try the request again.",
+  "remarks": null,
+  "aka": [
+    "-2144108279"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_invalid_fragment_path_blank/-2144108279/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_cluster_group_busy\5944\index.html.json
+
+title: 5944 ERROR_CLUSTER_GROUP_BUSY in winerror.h
+description: The current operation cannot be performed on this group at this time.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "5944",
+  "codeUrl": "/win32/winerror-h/error_cluster_group_busy/5944/",
+  "numericCode": 5944,
+  "define": "ERROR_CLUSTER_GROUP_BUSY",
+  "defineUrl": "/win32/winerror-h/error_cluster_group_busy/",
+  "message": "The current operation cannot be performed on this group at this time.",
+  "remarks": null,
+  "aka": [
+    "0x80071738",
+    "-2147018952"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_cluster_group_busy/0x80071738/",
+    "/win32/winerror-h/error_cluster_group_busy/-2147018952/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

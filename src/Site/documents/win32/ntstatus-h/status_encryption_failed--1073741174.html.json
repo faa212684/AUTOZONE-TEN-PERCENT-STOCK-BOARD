@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_encryption_failed\-1073741174\index.html.json
+canonical: /win32/ntstatus-h/status_encryption_failed/0xc000028a/
+title: -1073741174 STATUS_ENCRYPTION_FAILED in ntstatus.h
+description: The file encryption attempt failed.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741174",
+  "codeUrl": "/win32/ntstatus-h/status_encryption_failed/-1073741174/",
+  "numericCode": 0,
+  "define": "STATUS_ENCRYPTION_FAILED",
+  "defineUrl": "/win32/ntstatus-h/status_encryption_failed/",
+  "message": "The file encryption attempt failed.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC000028A",
+  "originalCodeUrl": "/win32/ntstatus-h/status_encryption_failed/0xc000028a/"
+}

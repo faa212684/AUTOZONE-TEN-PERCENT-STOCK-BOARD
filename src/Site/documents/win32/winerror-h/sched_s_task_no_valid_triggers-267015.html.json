@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\sched_s_task_no_valid_triggers\267015\index.html.json
+canonical: /win32/winerror-h/sched_s_task_no_valid_triggers/0x00041307/
+title: 267015 SCHED_S_TASK_NO_VALID_TRIGGERS in winerror.h
+description: Either the task has no triggers or the existing triggers are disabled or not set.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "267015",
+  "codeUrl": "/win32/winerror-h/sched_s_task_no_valid_triggers/267015/",
+  "numericCode": 0,
+  "define": "SCHED_S_TASK_NO_VALID_TRIGGERS",
+  "defineUrl": "/win32/winerror-h/sched_s_task_no_valid_triggers/",
+  "message": "Either the task has no triggers or the existing triggers are disabled or not set.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x00041307",
+  "originalCodeUrl": "/win32/winerror-h/sched_s_task_no_valid_triggers/0x00041307/"
+}

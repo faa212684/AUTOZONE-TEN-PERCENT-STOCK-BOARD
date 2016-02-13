@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\rpc_nt_invalid_bound\0xc0020023\index.html.json
+
+title: 0xC0020023 RPC_NT_INVALID_BOUND in ntstatus.h
+description: The array bounds are invalid.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0020023",
+  "codeUrl": "/win32/ntstatus-h/rpc_nt_invalid_bound/0xc0020023/",
+  "numericCode": -1073610717,
+  "define": "RPC_NT_INVALID_BOUND",
+  "defineUrl": "/win32/ntstatus-h/rpc_nt_invalid_bound/",
+  "message": "The array bounds are invalid.",
+  "remarks": null,
+  "aka": [
+    "-1073610717"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/rpc_nt_invalid_bound/-1073610717/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\dns_error_not_allowed_on_zsk\0x8007239e\index.html.json
+canonical: /win32/winerror-h/dns_error_not_allowed_on_zsk/9118/
+title: 0x8007239e DNS_ERROR_NOT_ALLOWED_ON_ZSK in winerror.h
+description: This operation is not allowed on a zone signing key (ZSK).
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007239e",
+  "codeUrl": "/win32/winerror-h/dns_error_not_allowed_on_zsk/0x8007239e/",
+  "numericCode": 0,
+  "define": "DNS_ERROR_NOT_ALLOWED_ON_ZSK",
+  "defineUrl": "/win32/winerror-h/dns_error_not_allowed_on_zsk/",
+  "message": "This operation is not allowed on a zone signing key (ZSK).",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "9118",
+  "originalCodeUrl": "/win32/winerror-h/dns_error_not_allowed_on_zsk/9118/"
+}

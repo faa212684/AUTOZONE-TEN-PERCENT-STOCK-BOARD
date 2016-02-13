@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_access_disabled_webblade_tamper\0x800704fe\index.html.json
+canonical: /win32/winerror-h/error_access_disabled_webblade_tamper/1278/
+title: 0x800704fe ERROR_ACCESS_DISABLED_WEBBLADE_TAMPER in winerror.h
+description: Windows cannot open this program because the license enforcement system has been tampered with or become corrupted.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800704fe",
+  "codeUrl": "/win32/winerror-h/error_access_disabled_webblade_tamper/0x800704fe/",
+  "numericCode": 0,
+  "define": "ERROR_ACCESS_DISABLED_WEBBLADE_TAMPER",
+  "defineUrl": "/win32/winerror-h/error_access_disabled_webblade_tamper/",
+  "message": "Windows cannot open this program because the license enforcement system has been tampered with or become corrupted.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "1278",
+  "originalCodeUrl": "/win32/winerror-h/error_access_disabled_webblade_tamper/1278/"
+}

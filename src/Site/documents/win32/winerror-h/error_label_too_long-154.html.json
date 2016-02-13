@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_label_too_long\154\index.html.json
+
+title: 154 ERROR_LABEL_TOO_LONG in winerror.h
+description: The volume label you entered exceeds the label character limit of the target file system.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "154",
+  "codeUrl": "/win32/winerror-h/error_label_too_long/154/",
+  "numericCode": 154,
+  "define": "ERROR_LABEL_TOO_LONG",
+  "defineUrl": "/win32/winerror-h/error_label_too_long/",
+  "message": "The volume label you entered exceeds the label character limit of the target file system.",
+  "remarks": null,
+  "aka": [
+    "0x8007009a",
+    "-2147024742"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_label_too_long/0x8007009a/",
+    "/win32/winerror-h/error_label_too_long/-2147024742/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

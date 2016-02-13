@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_mp_processor_mismatch\1073741865\index.html.json
+canonical: /win32/ntstatus-h/status_mp_processor_mismatch/0x40000029/
+title: 1073741865 STATUS_MP_PROCESSOR_MISMATCH in ntstatus.h
+description: The CPUs in this multiprocessor system are not all the same revision level. To use all processors the operating system restricts itself to the features of the least capable processor in the system. Should problems occur with this system, contact the CPU manufacturer to see if this mix of processors is supported.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "1073741865",
+  "codeUrl": "/win32/ntstatus-h/status_mp_processor_mismatch/1073741865/",
+  "numericCode": 0,
+  "define": "STATUS_MP_PROCESSOR_MISMATCH",
+  "defineUrl": "/win32/ntstatus-h/status_mp_processor_mismatch/",
+  "message": "The CPUs in this multiprocessor system are not all the same revision level. To use all processors the operating system restricts itself to the features of the least capable processor in the system. Should problems occur with this system, contact the CPU manufacturer to see if this mix of processors is supported.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x40000029",
+  "originalCodeUrl": "/win32/ntstatus-h/status_mp_processor_mismatch/0x40000029/"
+}

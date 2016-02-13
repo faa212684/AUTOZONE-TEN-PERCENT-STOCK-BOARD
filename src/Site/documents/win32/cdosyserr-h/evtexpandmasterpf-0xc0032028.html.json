@@ -1,0 +1,29 @@
+---
+output: win32\cdosyserr-h\evtexpandmasterpf\0xc0032028\index.html.json
+
+title: 0xC0032028 evtExpandMasterPF in CDOSysErr.h
+description: The processing of the recurring appointment with the subject "%1" in public folder: %2 failed with error code %3.  This appointment will not be visible in the web client or other non-MAPI client.
+%n%nFor more information, click http:www.microsoft.com/contentredirect.asp.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "CDOSysErr.h",
+  "sourceUrl": "/win32/cdosyserr-h/",
+  "code": "0xC0032028",
+  "codeUrl": "/win32/cdosyserr-h/evtexpandmasterpf/0xc0032028/",
+  "numericCode": -1073536984,
+  "define": "evtExpandMasterPF",
+  "defineUrl": "/win32/cdosyserr-h/evtexpandmasterpf/",
+  "message": "The processing of the recurring appointment with the subject \"%1\" in public folder: %2 failed with error code %3.  This appointment will not be visible in the web client or other non-MAPI client.\r\n%n%nFor more information, click http:www.microsoft.com/contentredirect.asp.",
+  "remarks": null,
+  "aka": [
+    "-1073536984"
+  ],
+  "akaUrl": [
+    "/win32/cdosyserr-h/evtexpandmasterpf/-1073536984/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

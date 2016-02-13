@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\rpc_nt_unknown_authn_type\0xc002002a\index.html.json
+
+title: 0xC002002A RPC_NT_UNKNOWN_AUTHN_TYPE in ntstatus.h
+description: The authentication type is unknown.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC002002A",
+  "codeUrl": "/win32/ntstatus-h/rpc_nt_unknown_authn_type/0xc002002a/",
+  "numericCode": -1073610710,
+  "define": "RPC_NT_UNKNOWN_AUTHN_TYPE",
+  "defineUrl": "/win32/ntstatus-h/rpc_nt_unknown_authn_type/",
+  "message": "The authentication type is unknown.",
+  "remarks": null,
+  "aka": [
+    "-1073610710"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/rpc_nt_unknown_authn_type/-1073610710/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

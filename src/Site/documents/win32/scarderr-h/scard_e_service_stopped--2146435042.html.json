@@ -1,0 +1,24 @@
+---
+output: win32\scarderr-h\scard_e_service_stopped\-2146435042\index.html.json
+canonical: /win32/scarderr-h/scard_e_service_stopped/0x8010001e/
+title: -2146435042 SCARD_E_SERVICE_STOPPED in SCardErr.h
+description: The Smart Card Resource Manager has shut down.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "SCardErr.h",
+  "sourceUrl": "/win32/scarderr-h/",
+  "code": "-2146435042",
+  "codeUrl": "/win32/scarderr-h/scard_e_service_stopped/-2146435042/",
+  "numericCode": 0,
+  "define": "SCARD_E_SERVICE_STOPPED",
+  "defineUrl": "/win32/scarderr-h/scard_e_service_stopped/",
+  "message": "The Smart Card Resource Manager has shut down.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x8010001E",
+  "originalCodeUrl": "/win32/scarderr-h/scard_e_service_stopped/0x8010001e/"
+}

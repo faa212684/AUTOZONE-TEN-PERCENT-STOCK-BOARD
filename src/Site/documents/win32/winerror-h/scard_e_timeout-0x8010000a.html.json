@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\scard_e_timeout\0x8010000a\index.html.json
+
+title: 0x8010000A SCARD_E_TIMEOUT in winerror.h
+description: The user-specified timeout value has expired.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8010000A",
+  "codeUrl": "/win32/winerror-h/scard_e_timeout/0x8010000a/",
+  "numericCode": -2146435062,
+  "define": "SCARD_E_TIMEOUT",
+  "defineUrl": "/win32/winerror-h/scard_e_timeout/",
+  "message": "The user-specified timeout value has expired.",
+  "remarks": null,
+  "aka": [
+    "-2146435062"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/scard_e_timeout/-2146435062/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

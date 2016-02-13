@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_driver_internal_error\-1073741437\index.html.json
+canonical: /win32/ntstatus-h/status_driver_internal_error/0xc0000183/
+title: -1073741437 STATUS_DRIVER_INTERNAL_ERROR in ntstatus.h
+description: An error was detected between two drivers or within an I/O driver.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741437",
+  "codeUrl": "/win32/ntstatus-h/status_driver_internal_error/-1073741437/",
+  "numericCode": 0,
+  "define": "STATUS_DRIVER_INTERNAL_ERROR",
+  "defineUrl": "/win32/ntstatus-h/status_driver_internal_error/",
+  "message": "An error was detected between two drivers or within an I/O driver.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000183",
+  "originalCodeUrl": "/win32/ntstatus-h/status_driver_internal_error/0xc0000183/"
+}

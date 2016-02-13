@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_no_ranges_processed\0xc0000460\index.html.json
+
+title: 0xC0000460 STATUS_NO_RANGES_PROCESSED in ntstatus.h
+description: No ranges for the specified operation were able to be processed.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000460",
+  "codeUrl": "/win32/ntstatus-h/status_no_ranges_processed/0xc0000460/",
+  "numericCode": -1073740704,
+  "define": "STATUS_NO_RANGES_PROCESSED",
+  "defineUrl": "/win32/ntstatus-h/status_no_ranges_processed/",
+  "message": "No ranges for the specified operation were able to be processed.",
+  "remarks": null,
+  "aka": [
+    "-1073740704"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_no_ranges_processed/-1073740704/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

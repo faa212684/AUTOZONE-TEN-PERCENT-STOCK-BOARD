@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_install_package_invalid\1620\index.html.json
+
+title: 1620 ERROR_INSTALL_PACKAGE_INVALID in winerror.h
+description: This installation package could not be opened. Contact the application vendor to verify that this is a valid Windows Installer package.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1620",
+  "codeUrl": "/win32/winerror-h/error_install_package_invalid/1620/",
+  "numericCode": 1620,
+  "define": "ERROR_INSTALL_PACKAGE_INVALID",
+  "defineUrl": "/win32/winerror-h/error_install_package_invalid/",
+  "message": "This installation package could not be opened. Contact the application vendor to verify that this is a valid Windows Installer package.",
+  "remarks": null,
+  "aka": [
+    "0x80070654",
+    "-2147023276"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_install_package_invalid/0x80070654/",
+    "/win32/winerror-h/error_install_package_invalid/-2147023276/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

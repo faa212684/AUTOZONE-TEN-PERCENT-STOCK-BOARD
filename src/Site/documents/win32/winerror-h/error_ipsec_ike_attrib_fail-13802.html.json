@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ipsec_ike_attrib_fail\13802\index.html.json
+
+title: 13802 ERROR_IPSEC_IKE_ATTRIB_FAIL in winerror.h
+description: IKE security attributes are unacceptable
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "13802",
+  "codeUrl": "/win32/winerror-h/error_ipsec_ike_attrib_fail/13802/",
+  "numericCode": 13802,
+  "define": "ERROR_IPSEC_IKE_ATTRIB_FAIL",
+  "defineUrl": "/win32/winerror-h/error_ipsec_ike_attrib_fail/",
+  "message": "IKE security attributes are unacceptable",
+  "remarks": null,
+  "aka": [
+    "0x800735ea",
+    "-2147011094"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ipsec_ike_attrib_fail/0x800735ea/",
+    "/win32/winerror-h/error_ipsec_ike_attrib_fail/-2147011094/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

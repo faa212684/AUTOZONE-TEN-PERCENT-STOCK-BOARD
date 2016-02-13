@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\error_volmgr_disk_layout_not_cylinder_aligned\0xc038000d\index.html.json
+
+title: 0xC038000D ERROR_VOLMGR_DISK_LAYOUT_NOT_CYLINDER_ALIGNED in winerror.h
+description: The disk layout contains partitions which are not cylinder aligned.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0xC038000D",
+  "codeUrl": "/win32/winerror-h/error_volmgr_disk_layout_not_cylinder_aligned/0xc038000d/",
+  "numericCode": -1070071795,
+  "define": "ERROR_VOLMGR_DISK_LAYOUT_NOT_CYLINDER_ALIGNED",
+  "defineUrl": "/win32/winerror-h/error_volmgr_disk_layout_not_cylinder_aligned/",
+  "message": "The disk layout contains partitions which are not cylinder aligned.",
+  "remarks": null,
+  "aka": [
+    "-1070071795"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_volmgr_disk_layout_not_cylinder_aligned/-1070071795/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

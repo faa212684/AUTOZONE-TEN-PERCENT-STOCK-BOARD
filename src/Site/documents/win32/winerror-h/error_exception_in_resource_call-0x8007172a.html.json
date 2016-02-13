@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_exception_in_resource_call\0x8007172a\index.html.json
+canonical: /win32/winerror-h/error_exception_in_resource_call/5930/
+title: 0x8007172a ERROR_EXCEPTION_IN_RESOURCE_CALL in winerror.h
+description: The call into the resource DLL raised an unhandled exception.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007172a",
+  "codeUrl": "/win32/winerror-h/error_exception_in_resource_call/0x8007172a/",
+  "numericCode": 0,
+  "define": "ERROR_EXCEPTION_IN_RESOURCE_CALL",
+  "defineUrl": "/win32/winerror-h/error_exception_in_resource_call/",
+  "message": "The call into the resource DLL raised an unhandled exception.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "5930",
+  "originalCodeUrl": "/win32/winerror-h/error_exception_in_resource_call/5930/"
+}

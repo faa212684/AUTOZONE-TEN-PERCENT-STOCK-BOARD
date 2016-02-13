@@ -1,0 +1,29 @@
+---
+output: win32\ntstatus-h\status_control_c_exit\0xc000013a\index.html.json
+
+title: 0xC000013A STATUS_CONTROL_C_EXIT in ntstatus.h
+description: "{Application Exit by CTRL+C}
+The application terminated as a result of a CTRL+C."
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000013A",
+  "codeUrl": "/win32/ntstatus-h/status_control_c_exit/0xc000013a/",
+  "numericCode": -1073741510,
+  "define": "STATUS_CONTROL_C_EXIT",
+  "defineUrl": "/win32/ntstatus-h/status_control_c_exit/",
+  "message": "{Application Exit by CTRL+C}\r\nThe application terminated as a result of a CTRL+C.",
+  "remarks": null,
+  "aka": [
+    "-1073741510"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_control_c_exit/-1073741510/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

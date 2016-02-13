@@ -1,0 +1,28 @@
+---
+output: win32\vsserror-h\vss_e_resync_in_progress\0x800423ff\index.html.json
+
+title: 0x800423FF VSS_E_RESYNC_IN_PROGRESS in vsserror.h
+description: The LUN resynchronization operation could not be started because another resynchronization operation is already in progress.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vsserror.h",
+  "sourceUrl": "/win32/vsserror-h/",
+  "code": "0x800423FF",
+  "codeUrl": "/win32/vsserror-h/vss_e_resync_in_progress/0x800423ff/",
+  "numericCode": -2147212289,
+  "define": "VSS_E_RESYNC_IN_PROGRESS",
+  "defineUrl": "/win32/vsserror-h/vss_e_resync_in_progress/",
+  "message": "The LUN resynchronization operation could not be started because another resynchronization operation is already in progress.",
+  "remarks": null,
+  "aka": [
+    "-2147212289"
+  ],
+  "akaUrl": [
+    "/win32/vsserror-h/vss_e_resync_in_progress/-2147212289/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

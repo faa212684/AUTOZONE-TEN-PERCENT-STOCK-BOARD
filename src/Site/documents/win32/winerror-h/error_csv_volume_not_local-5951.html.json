@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_csv_volume_not_local\5951\index.html.json
+
+title: 5951 ERROR_CSV_VOLUME_NOT_LOCAL in winerror.h
+description: The cluster shared volume is not locally mounted on this node.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "5951",
+  "codeUrl": "/win32/winerror-h/error_csv_volume_not_local/5951/",
+  "numericCode": 5951,
+  "define": "ERROR_CSV_VOLUME_NOT_LOCAL",
+  "defineUrl": "/win32/winerror-h/error_csv_volume_not_local/",
+  "message": "The cluster shared volume is not locally mounted on this node.",
+  "remarks": null,
+  "aka": [
+    "0x8007173f",
+    "-2147018945"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_csv_volume_not_local/0x8007173f/",
+    "/win32/winerror-h/error_csv_volume_not_local/-2147018945/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

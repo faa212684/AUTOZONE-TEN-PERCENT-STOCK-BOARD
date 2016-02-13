@@ -1,0 +1,25 @@
+---
+output: win32\winerror-h\error_runlevel_switch_timeout\0x80073c2a\index.html.json
+canonical: /win32/winerror-h/error_runlevel_switch_timeout/15402/
+title: 0x80073c2a ERROR_RUNLEVEL_SWITCH_TIMEOUT in winerror.h
+description: The requested run level switch cannot be completed successfully since
+one or more services will not stop or restart within the specified timeout.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80073c2a",
+  "codeUrl": "/win32/winerror-h/error_runlevel_switch_timeout/0x80073c2a/",
+  "numericCode": 0,
+  "define": "ERROR_RUNLEVEL_SWITCH_TIMEOUT",
+  "defineUrl": "/win32/winerror-h/error_runlevel_switch_timeout/",
+  "message": "The requested run level switch cannot be completed successfully since\r\none or more services will not stop or restart within the specified timeout.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "15402",
+  "originalCodeUrl": "/win32/winerror-h/error_runlevel_switch_timeout/15402/"
+}

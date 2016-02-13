@@ -1,0 +1,24 @@
+---
+output: win32\wuerror-h\wu_e_selfupdate_skip_on_failure\-2145071096\index.html.json
+canonical: /win32/wuerror-h/wu_e_selfupdate_skip_on_failure/0x8024d008/
+title: -2145071096 WU_E_SELFUPDATE_SKIP_ON_FAILURE in wuerror.h
+description: An update to the Windows Update Agent was skipped because previous attempts to update have failed.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wuerror.h",
+  "sourceUrl": "/win32/wuerror-h/",
+  "code": "-2145071096",
+  "codeUrl": "/win32/wuerror-h/wu_e_selfupdate_skip_on_failure/-2145071096/",
+  "numericCode": 0,
+  "define": "WU_E_SELFUPDATE_SKIP_ON_FAILURE",
+  "defineUrl": "/win32/wuerror-h/wu_e_selfupdate_skip_on_failure/",
+  "message": "An update to the Windows Update Agent was skipped because previous attempts to update have failed.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x8024D008",
+  "originalCodeUrl": "/win32/wuerror-h/wu_e_selfupdate_skip_on_failure/0x8024d008/"
+}

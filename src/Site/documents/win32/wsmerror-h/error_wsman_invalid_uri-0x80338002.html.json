@@ -1,0 +1,29 @@
+---
+output: win32\wsmerror-h\error_wsman_invalid_uri\0x80338002\index.html.json
+
+title: 0x80338002 ERROR_WSMAN_INVALID_URI in wsmerror.h
+description: The WS-Management service cannot process the request. The resource URI is missing or it has an incorrect format.
+Check the documentation or use the following command for information on how to construct a resource URI: "winrm help uris".
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x80338002",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_invalid_uri/0x80338002/",
+  "numericCode": -2144108542,
+  "define": "ERROR_WSMAN_INVALID_URI",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_invalid_uri/",
+  "message": "The WS-Management service cannot process the request. The resource URI is missing or it has an incorrect format.\r\nCheck the documentation or use the following command for information on how to construct a resource URI: \"winrm help uris\".",
+  "remarks": null,
+  "aka": [
+    "-2144108542"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_invalid_uri/-2144108542/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

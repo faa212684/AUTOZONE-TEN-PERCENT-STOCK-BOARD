@@ -1,0 +1,28 @@
+---
+output: win32\vsserror-h\vss_e_asrerror_critical_disks_too_small\0x80042408\index.html.json
+
+title: 0x80042408 VSS_E_ASRERROR_CRITICAL_DISKS_TOO_SMALL in vsserror.h
+description: Failed to find enough suitable disks for recreating all critical disks. The number of available disks should be same or greater than the number of critical disks at time of backup, and each one of the disks must be of same or greater size.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vsserror.h",
+  "sourceUrl": "/win32/vsserror-h/",
+  "code": "0x80042408",
+  "codeUrl": "/win32/vsserror-h/vss_e_asrerror_critical_disks_too_small/0x80042408/",
+  "numericCode": -2147212280,
+  "define": "VSS_E_ASRERROR_CRITICAL_DISKS_TOO_SMALL",
+  "defineUrl": "/win32/vsserror-h/vss_e_asrerror_critical_disks_too_small/",
+  "message": "Failed to find enough suitable disks for recreating all critical disks. The number of available disks should be same or greater than the number of critical disks at time of backup, and each one of the disks must be of same or greater size.",
+  "remarks": null,
+  "aka": [
+    "-2147212280"
+  ],
+  "akaUrl": [
+    "/win32/vsserror-h/vss_e_asrerror_critical_disks_too_small/-2147212280/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

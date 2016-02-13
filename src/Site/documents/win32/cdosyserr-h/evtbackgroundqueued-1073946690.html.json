@@ -1,0 +1,25 @@
+---
+output: win32\cdosyserr-h\evtbackgroundqueued\1073946690\index.html.json
+canonical: /win32/cdosyserr-h/evtbackgroundqueued/0x40032042/
+title: 1073946690 evtBackgroundQueued in CDOSysErr.h
+description: The calendar (%1) in mailbox (%2) in the MDB (%3) has been queued for background expansion.
+%n%nFor more information, click http:www.microsoft.com/contentredirect.asp.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "CDOSysErr.h",
+  "sourceUrl": "/win32/cdosyserr-h/",
+  "code": "1073946690",
+  "codeUrl": "/win32/cdosyserr-h/evtbackgroundqueued/1073946690/",
+  "numericCode": 0,
+  "define": "evtBackgroundQueued",
+  "defineUrl": "/win32/cdosyserr-h/evtbackgroundqueued/",
+  "message": "The calendar (%1) in mailbox (%2) in the MDB (%3) has been queued for background expansion.\r\n%n%nFor more information, click http:www.microsoft.com/contentredirect.asp.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x40032042",
+  "originalCodeUrl": "/win32/cdosyserr-h/evtbackgroundqueued/0x40032042/"
+}

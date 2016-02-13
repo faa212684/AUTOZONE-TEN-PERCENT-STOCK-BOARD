@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_ps_missing_adapter_registry_data\0xc0003719\index.html.json
+
+title: 0xC0003719 EVENT_PS_MISSING_ADAPTER_REGISTRY_DATA in netevent.h
+description: QoS [Adapter %2]:%nThe UpperBindings key is missing from the registry.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC0003719",
+  "codeUrl": "/win32/netevent-h/event_ps_missing_adapter_registry_data/0xc0003719/",
+  "numericCode": -1073727719,
+  "define": "EVENT_PS_MISSING_ADAPTER_REGISTRY_DATA",
+  "defineUrl": "/win32/netevent-h/event_ps_missing_adapter_registry_data/",
+  "message": "QoS [Adapter %2]:%nThe UpperBindings key is missing from the registry.",
+  "remarks": null,
+  "aka": [
+    "-1073727719"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_ps_missing_adapter_registry_data/-1073727719/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

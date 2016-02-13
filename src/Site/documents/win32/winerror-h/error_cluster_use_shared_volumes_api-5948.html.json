@@ -1,0 +1,31 @@
+---
+output: win32\winerror-h\error_cluster_use_shared_volumes_api\5948\index.html.json
+
+title: 5948 ERROR_CLUSTER_USE_SHARED_VOLUMES_API in winerror.h
+description: This group or resource cannot be directly manipulated.
+Use shared volume APIs to perform desired operation.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "5948",
+  "codeUrl": "/win32/winerror-h/error_cluster_use_shared_volumes_api/5948/",
+  "numericCode": 5948,
+  "define": "ERROR_CLUSTER_USE_SHARED_VOLUMES_API",
+  "defineUrl": "/win32/winerror-h/error_cluster_use_shared_volumes_api/",
+  "message": "This group or resource cannot be directly manipulated.\r\nUse shared volume APIs to perform desired operation.",
+  "remarks": null,
+  "aka": [
+    "0x8007173c",
+    "-2147018948"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_cluster_use_shared_volumes_api/0x8007173c/",
+    "/win32/winerror-h/error_cluster_use_shared_volumes_api/-2147018948/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

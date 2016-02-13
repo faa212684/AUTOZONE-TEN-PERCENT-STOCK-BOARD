@@ -1,0 +1,29 @@
+---
+output: win32\vdserr-h\vds_e_boot_pagefile_drive_letter\0x8004290e\index.html.json
+
+title: 0x8004290E VDS_E_BOOT_PAGEFILE_DRIVE_LETTER in vdserr.h
+description: Assigning or removing drive letters on the current boot or pagefile 
+volume is not allowed.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x8004290E",
+  "codeUrl": "/win32/vdserr-h/vds_e_boot_pagefile_drive_letter/0x8004290e/",
+  "numericCode": -2147210994,
+  "define": "VDS_E_BOOT_PAGEFILE_DRIVE_LETTER",
+  "defineUrl": "/win32/vdserr-h/vds_e_boot_pagefile_drive_letter/",
+  "message": "Assigning or removing drive letters on the current boot or pagefile \r\nvolume is not allowed.",
+  "remarks": null,
+  "aka": [
+    "-2147210994"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_boot_pagefile_drive_letter/-2147210994/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

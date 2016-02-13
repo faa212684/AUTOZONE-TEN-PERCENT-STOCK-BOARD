@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_install_service_safeboot\1652\index.html.json
+
+title: 1652 ERROR_INSTALL_SERVICE_SAFEBOOT in winerror.h
+description: The Windows Installer service is not accessible in Safe Mode. Please try again when your computer is not in Safe Mode or you can use System Restore to return your machine to a previous good state.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1652",
+  "codeUrl": "/win32/winerror-h/error_install_service_safeboot/1652/",
+  "numericCode": 1652,
+  "define": "ERROR_INSTALL_SERVICE_SAFEBOOT",
+  "defineUrl": "/win32/winerror-h/error_install_service_safeboot/",
+  "message": "The Windows Installer service is not accessible in Safe Mode. Please try again when your computer is not in Safe Mode or you can use System Restore to return your machine to a previous good state.",
+  "remarks": null,
+  "aka": [
+    "0x80070674",
+    "-2147023244"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_install_service_safeboot/0x80070674/",
+    "/win32/winerror-h/error_install_service_safeboot/-2147023244/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

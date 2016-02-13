@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ds_att_schema_req_id\8399\index.html.json
+
+title: 8399 ERROR_DS_ATT_SCHEMA_REQ_ID in winerror.h
+description: Cannot read the governs class identifier for the schema record.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "8399",
+  "codeUrl": "/win32/winerror-h/error_ds_att_schema_req_id/8399/",
+  "numericCode": 8399,
+  "define": "ERROR_DS_ATT_SCHEMA_REQ_ID",
+  "defineUrl": "/win32/winerror-h/error_ds_att_schema_req_id/",
+  "message": "Cannot read the governs class identifier for the schema record.",
+  "remarks": null,
+  "aka": [
+    "0x800720cf",
+    "-2147016497"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ds_att_schema_req_id/0x800720cf/",
+    "/win32/winerror-h/error_ds_att_schema_req_id/-2147016497/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

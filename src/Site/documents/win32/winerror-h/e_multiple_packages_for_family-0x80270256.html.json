@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\e_multiple_packages_for_family\0x80270256\index.html.json
+
+title: 0x80270256 E_MULTIPLE_PACKAGES_FOR_FAMILY in winerror.h
+description: This app's package family has more than one package installed. This is not supported.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80270256",
+  "codeUrl": "/win32/winerror-h/e_multiple_packages_for_family/0x80270256/",
+  "numericCode": -2144927146,
+  "define": "E_MULTIPLE_PACKAGES_FOR_FAMILY",
+  "defineUrl": "/win32/winerror-h/e_multiple_packages_for_family/",
+  "message": "This app's package family has more than one package installed. This is not supported.",
+  "remarks": null,
+  "aka": [
+    "-2144927146"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/e_multiple_packages_for_family/-2144927146/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

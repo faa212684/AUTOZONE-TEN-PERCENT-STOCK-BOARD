@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_sxs_manifest_format_error\-1072365563\index.html.json
+canonical: /win32/ntstatus-h/status_sxs_manifest_format_error/0xc0150005/
+title: -1072365563 STATUS_SXS_MANIFEST_FORMAT_ERROR in ntstatus.h
+description: The manifest file does not begin with the required tag and format information.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1072365563",
+  "codeUrl": "/win32/ntstatus-h/status_sxs_manifest_format_error/-1072365563/",
+  "numericCode": 0,
+  "define": "STATUS_SXS_MANIFEST_FORMAT_ERROR",
+  "defineUrl": "/win32/ntstatus-h/status_sxs_manifest_format_error/",
+  "message": "The manifest file does not begin with the required tag and format information.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0150005",
+  "originalCodeUrl": "/win32/ntstatus-h/status_sxs_manifest_format_error/0xc0150005/"
+}

@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\dxgi_error_was_still_drawing\-2005270518\index.html.json
+canonical: /win32/winerror-h/dxgi_error_was_still_drawing/0x887a000a/
+title: -2005270518 DXGI_ERROR_WAS_STILL_DRAWING in winerror.h
+description: The GPU was busy at the moment when the call was made, and the call was neither executed nor scheduled.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2005270518",
+  "codeUrl": "/win32/winerror-h/dxgi_error_was_still_drawing/-2005270518/",
+  "numericCode": 0,
+  "define": "DXGI_ERROR_WAS_STILL_DRAWING",
+  "defineUrl": "/win32/winerror-h/dxgi_error_was_still_drawing/",
+  "message": "The GPU was busy at the moment when the call was made, and the call was neither executed nor scheduled.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x887A000A",
+  "originalCodeUrl": "/win32/winerror-h/dxgi_error_was_still_drawing/0x887a000a/"
+}

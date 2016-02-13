@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_log_not_enough_containers\0xc01a0023\index.html.json
+
+title: 0xC01A0023 STATUS_LOG_NOT_ENOUGH_CONTAINERS in ntstatus.h
+description: The log must have at least two containers before it can be read from or written to.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC01A0023",
+  "codeUrl": "/win32/ntstatus-h/status_log_not_enough_containers/0xc01a0023/",
+  "numericCode": -1072037853,
+  "define": "STATUS_LOG_NOT_ENOUGH_CONTAINERS",
+  "defineUrl": "/win32/ntstatus-h/status_log_not_enough_containers/",
+  "message": "The log must have at least two containers before it can be read from or written to.",
+  "remarks": null,
+  "aka": [
+    "-1072037853"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_log_not_enough_containers/-1072037853/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

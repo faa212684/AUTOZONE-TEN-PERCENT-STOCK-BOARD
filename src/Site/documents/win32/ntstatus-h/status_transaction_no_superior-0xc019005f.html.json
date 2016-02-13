@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_transaction_no_superior\0xc019005f\index.html.json
+
+title: 0xC019005F STATUS_TRANSACTION_NO_SUPERIOR in ntstatus.h
+description: The transaction does not have a superior enlistment.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC019005F",
+  "codeUrl": "/win32/ntstatus-h/status_transaction_no_superior/0xc019005f/",
+  "numericCode": -1072103329,
+  "define": "STATUS_TRANSACTION_NO_SUPERIOR",
+  "defineUrl": "/win32/ntstatus-h/status_transaction_no_superior/",
+  "message": "The transaction does not have a superior enlistment.",
+  "remarks": null,
+  "aka": [
+    "-1072103329"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_transaction_no_superior/-1072103329/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

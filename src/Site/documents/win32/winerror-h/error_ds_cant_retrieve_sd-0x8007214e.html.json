@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_ds_cant_retrieve_sd\0x8007214e\index.html.json
+canonical: /win32/winerror-h/error_ds_cant_retrieve_sd/8526/
+title: 0x8007214e ERROR_DS_CANT_RETRIEVE_SD in winerror.h
+description: The Security Descriptor attribute could not be read.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007214e",
+  "codeUrl": "/win32/winerror-h/error_ds_cant_retrieve_sd/0x8007214e/",
+  "numericCode": 0,
+  "define": "ERROR_DS_CANT_RETRIEVE_SD",
+  "defineUrl": "/win32/winerror-h/error_ds_cant_retrieve_sd/",
+  "message": "The Security Descriptor attribute could not be read.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "8526",
+  "originalCodeUrl": "/win32/winerror-h/error_ds_cant_retrieve_sd/8526/"
+}

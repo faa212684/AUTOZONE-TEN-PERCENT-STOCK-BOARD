@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\comadmin_e_regdb_systemerr\0x80110474\index.html.json
+
+title: 0x80110474 COMADMIN_E_REGDB_SYSTEMERR in winerror.h
+description: The COM+ registry database detected a system error
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80110474",
+  "codeUrl": "/win32/winerror-h/comadmin_e_regdb_systemerr/0x80110474/",
+  "numericCode": -2146368396,
+  "define": "COMADMIN_E_REGDB_SYSTEMERR",
+  "defineUrl": "/win32/winerror-h/comadmin_e_regdb_systemerr/",
+  "message": "The COM+ registry database detected a system error",
+  "remarks": null,
+  "aka": [
+    "-2146368396"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/comadmin_e_regdb_systemerr/-2146368396/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_ds_exists_in_may_have\0x800720c2\index.html.json
+canonical: /win32/winerror-h/error_ds_exists_in_may_have/8386/
+title: 0x800720c2 ERROR_DS_EXISTS_IN_MAY_HAVE in winerror.h
+description: Schema deletion failed: attribute is used in may-contain.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800720c2",
+  "codeUrl": "/win32/winerror-h/error_ds_exists_in_may_have/0x800720c2/",
+  "numericCode": 0,
+  "define": "ERROR_DS_EXISTS_IN_MAY_HAVE",
+  "defineUrl": "/win32/winerror-h/error_ds_exists_in_may_have/",
+  "message": "Schema deletion failed: attribute is used in may-contain.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "8386",
+  "originalCodeUrl": "/win32/winerror-h/error_ds_exists_in_may_have/8386/"
+}

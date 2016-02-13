@@ -1,0 +1,28 @@
+---
+output: win32\scarderr-h\scard_e_sharing_violation\0x8010000b\index.html.json
+
+title: 0x8010000B SCARD_E_SHARING_VIOLATION in SCardErr.h
+description: The smart card cannot be accessed because of other connections outstanding.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "SCardErr.h",
+  "sourceUrl": "/win32/scarderr-h/",
+  "code": "0x8010000B",
+  "codeUrl": "/win32/scarderr-h/scard_e_sharing_violation/0x8010000b/",
+  "numericCode": -2146435061,
+  "define": "SCARD_E_SHARING_VIOLATION",
+  "defineUrl": "/win32/scarderr-h/scard_e_sharing_violation/",
+  "message": "The smart card cannot be accessed because of other connections outstanding.",
+  "remarks": null,
+  "aka": [
+    "-2146435061"
+  ],
+  "akaUrl": [
+    "/win32/scarderr-h/scard_e_sharing_violation/-2146435061/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

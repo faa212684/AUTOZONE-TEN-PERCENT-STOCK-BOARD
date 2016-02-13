@@ -1,0 +1,32 @@
+---
+output: win32\winerror-h\error_bad_dll_entrypoint\609\index.html.json
+
+title: 609 ERROR_BAD_DLL_ENTRYPOINT in winerror.h
+description: "{Invalid DLL Entrypoint}
+The dynamic link library %hs is not written correctly. The stack pointer has been left in an inconsistent state.
+The entrypoint should be declared as WINAPI or STDCALL. Select YES to fail the DLL load. Select NO to continue execution. Selecting NO may cause the application to operate incorrectly."
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "609",
+  "codeUrl": "/win32/winerror-h/error_bad_dll_entrypoint/609/",
+  "numericCode": 609,
+  "define": "ERROR_BAD_DLL_ENTRYPOINT",
+  "defineUrl": "/win32/winerror-h/error_bad_dll_entrypoint/",
+  "message": "{Invalid DLL Entrypoint}\r\nThe dynamic link library %hs is not written correctly. The stack pointer has been left in an inconsistent state.\r\nThe entrypoint should be declared as WINAPI or STDCALL. Select YES to fail the DLL load. Select NO to continue execution. Selecting NO may cause the application to operate incorrectly.",
+  "remarks": null,
+  "aka": [
+    "0x80070261",
+    "-2147024287"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_bad_dll_entrypoint/0x80070261/",
+    "/win32/winerror-h/error_bad_dll_entrypoint/-2147024287/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

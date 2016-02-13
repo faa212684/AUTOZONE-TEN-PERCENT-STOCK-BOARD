@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_invalid_disposition\0xc0000026\index.html.json
+
+title: 0xC0000026 STATUS_INVALID_DISPOSITION in ntstatus.h
+description: An invalid exception disposition was returned by an exception handler.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000026",
+  "codeUrl": "/win32/ntstatus-h/status_invalid_disposition/0xc0000026/",
+  "numericCode": -1073741786,
+  "define": "STATUS_INVALID_DISPOSITION",
+  "defineUrl": "/win32/ntstatus-h/status_invalid_disposition/",
+  "message": "An invalid exception disposition was returned by an exception handler.",
+  "remarks": null,
+  "aka": [
+    "-1073741786"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_invalid_disposition/-1073741786/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_graphics_no_display_device_corresponds_to_name\-1071774239\index.html.json
+canonical: /win32/ntstatus-h/status_graphics_no_display_device_corresponds_to_name/0xc01e05e1/
+title: -1071774239 STATUS_GRAPHICS_NO_DISPLAY_DEVICE_CORRESPONDS_TO_NAME in ntstatus.h
+description: This function cannot find an actual GDI display device which corresponds to the specified GDI display device name.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071774239",
+  "codeUrl": "/win32/ntstatus-h/status_graphics_no_display_device_corresponds_to_name/-1071774239/",
+  "numericCode": 0,
+  "define": "STATUS_GRAPHICS_NO_DISPLAY_DEVICE_CORRESPONDS_TO_NAME",
+  "defineUrl": "/win32/ntstatus-h/status_graphics_no_display_device_corresponds_to_name/",
+  "message": "This function cannot find an actual GDI display device which corresponds to the specified GDI display device name.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC01E05E1",
+  "originalCodeUrl": "/win32/ntstatus-h/status_graphics_no_display_device_corresponds_to_name/0xc01e05e1/"
+}

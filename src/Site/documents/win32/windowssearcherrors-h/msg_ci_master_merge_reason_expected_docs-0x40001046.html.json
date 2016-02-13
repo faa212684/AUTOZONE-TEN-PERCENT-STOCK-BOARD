@@ -1,0 +1,29 @@
+---
+output: win32\windowssearcherrors-h\msg_ci_master_merge_reason_expected_docs\0x40001046\index.html.json
+
+title: 0x40001046 MSG_CI_MASTER_MERGE_REASON_EXPECTED_DOCS in WindowsSearchErrors.h
+description: %1Catalog: %2.
+A master merge was started because the expected number of documents in the catalog (%3) were indexed.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "0x40001046",
+  "codeUrl": "/win32/windowssearcherrors-h/msg_ci_master_merge_reason_expected_docs/0x40001046/",
+  "numericCode": 1073745990,
+  "define": "MSG_CI_MASTER_MERGE_REASON_EXPECTED_DOCS",
+  "defineUrl": "/win32/windowssearcherrors-h/msg_ci_master_merge_reason_expected_docs/",
+  "message": "%1Catalog: %2.\r\nA master merge was started because the expected number of documents in the catalog (%3) were indexed.",
+  "remarks": null,
+  "aka": [
+    "1073745990"
+  ],
+  "akaUrl": [
+    "/win32/windowssearcherrors-h/msg_ci_master_merge_reason_expected_docs/1073745990/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

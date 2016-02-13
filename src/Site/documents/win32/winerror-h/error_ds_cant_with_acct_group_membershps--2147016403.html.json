@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_ds_cant_with_acct_group_membershps\-2147016403\index.html.json
+canonical: /win32/winerror-h/error_ds_cant_with_acct_group_membershps/8493/
+title: -2147016403 ERROR_DS_CANT_WITH_ACCT_GROUP_MEMBERSHPS in winerror.h
+description: Can't move objects with memberships across domain boundaries as once moved, this would violate the membership conditions of the account group. Remove the object from any account group memberships and retry.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147016403",
+  "codeUrl": "/win32/winerror-h/error_ds_cant_with_acct_group_membershps/-2147016403/",
+  "numericCode": 0,
+  "define": "ERROR_DS_CANT_WITH_ACCT_GROUP_MEMBERSHPS",
+  "defineUrl": "/win32/winerror-h/error_ds_cant_with_acct_group_membershps/",
+  "message": "Can't move objects with memberships across domain boundaries as once moved, this would violate the membership conditions of the account group. Remove the object from any account group memberships and retry.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "8493",
+  "originalCodeUrl": "/win32/winerror-h/error_ds_cant_with_acct_group_membershps/8493/"
+}

@@ -1,0 +1,29 @@
+---
+output: win32\ntstatus-h\status_event_done\0x40000012\index.html.json
+
+title: 0x40000012 STATUS_EVENT_DONE in ntstatus.h
+description: "{TDI Event Done}
+The TDI indication has completed successfully."
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0x40000012",
+  "codeUrl": "/win32/ntstatus-h/status_event_done/0x40000012/",
+  "numericCode": 1073741842,
+  "define": "STATUS_EVENT_DONE",
+  "defineUrl": "/win32/ntstatus-h/status_event_done/",
+  "message": "{TDI Event Done}\r\nThe TDI indication has completed successfully.",
+  "remarks": null,
+  "aka": [
+    "1073741842"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_event_done/1073741842/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

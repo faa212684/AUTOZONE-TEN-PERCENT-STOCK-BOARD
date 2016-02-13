@@ -1,0 +1,28 @@
+---
+output: win32\vsserror-h\vss_e_volume_in_use\0x8004231d\index.html.json
+
+title: 0x8004231D VSS_E_VOLUME_IN_USE in vsserror.h
+description: The specified shadow copy storage association is in use and so can't be deleted.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vsserror.h",
+  "sourceUrl": "/win32/vsserror-h/",
+  "code": "0x8004231D",
+  "codeUrl": "/win32/vsserror-h/vss_e_volume_in_use/0x8004231d/",
+  "numericCode": -2147212515,
+  "define": "VSS_E_VOLUME_IN_USE",
+  "defineUrl": "/win32/vsserror-h/vss_e_volume_in_use/",
+  "message": "The specified shadow copy storage association is in use and so can't be deleted.",
+  "remarks": null,
+  "aka": [
+    "-2147212515"
+  ],
+  "akaUrl": [
+    "/win32/vsserror-h/vss_e_volume_in_use/-2147212515/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

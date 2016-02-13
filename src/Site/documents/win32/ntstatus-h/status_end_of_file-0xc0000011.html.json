@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_end_of_file\0xc0000011\index.html.json
+
+title: 0xC0000011 STATUS_END_OF_FILE in ntstatus.h
+description: The end-of-file marker has been reached. There is no valid data in the file beyond this marker.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000011",
+  "codeUrl": "/win32/ntstatus-h/status_end_of_file/0xc0000011/",
+  "numericCode": -1073741807,
+  "define": "STATUS_END_OF_FILE",
+  "defineUrl": "/win32/ntstatus-h/status_end_of_file/",
+  "message": "The end-of-file marker has been reached. There is no valid data in the file beyond this marker.",
+  "remarks": null,
+  "aka": [
+    "-1073741807"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_end_of_file/-1073741807/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_transaction_response_not_enlisted\0x80071a43\index.html.json
+canonical: /win32/winerror-h/error_transaction_response_not_enlisted/6723/
+title: 0x80071a43 ERROR_TRANSACTION_RESPONSE_NOT_ENLISTED in winerror.h
+description: The specified operation could not be performed on this Superior enlistment, because the enlistment was not created with the corresponding completion response in the NotificationMask.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80071a43",
+  "codeUrl": "/win32/winerror-h/error_transaction_response_not_enlisted/0x80071a43/",
+  "numericCode": 0,
+  "define": "ERROR_TRANSACTION_RESPONSE_NOT_ENLISTED",
+  "defineUrl": "/win32/winerror-h/error_transaction_response_not_enlisted/",
+  "message": "The specified operation could not be performed on this Superior enlistment, because the enlistment was not created with the corresponding completion response in the NotificationMask.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "6723",
+  "originalCodeUrl": "/win32/winerror-h/error_transaction_response_not_enlisted/6723/"
+}

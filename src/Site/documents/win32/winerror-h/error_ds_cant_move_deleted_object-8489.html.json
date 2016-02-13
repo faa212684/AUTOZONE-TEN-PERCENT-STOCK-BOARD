@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ds_cant_move_deleted_object\8489\index.html.json
+
+title: 8489 ERROR_DS_CANT_MOVE_DELETED_OBJECT in winerror.h
+description: Object being moved across-domains is already known to be deleted by the destination server. The source server does not have the latest version of the source object.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "8489",
+  "codeUrl": "/win32/winerror-h/error_ds_cant_move_deleted_object/8489/",
+  "numericCode": 8489,
+  "define": "ERROR_DS_CANT_MOVE_DELETED_OBJECT",
+  "defineUrl": "/win32/winerror-h/error_ds_cant_move_deleted_object/",
+  "message": "Object being moved across-domains is already known to be deleted by the destination server. The source server does not have the latest version of the source object.",
+  "remarks": null,
+  "aka": [
+    "0x80072129",
+    "-2147016407"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ds_cant_move_deleted_object/0x80072129/",
+    "/win32/winerror-h/error_ds_cant_move_deleted_object/-2147016407/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

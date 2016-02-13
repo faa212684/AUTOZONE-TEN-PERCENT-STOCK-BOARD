@@ -1,0 +1,28 @@
+---
+output: win32\ntdsbmsg-h\hrfldkeytoobig\0x88000190\index.html.json
+
+title: 0x88000190 hrFLDKeyTooBig in NtDsBMsg.h
+description: The key was truncated because it exceeded the maximum length.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "NtDsBMsg.h",
+  "sourceUrl": "/win32/ntdsbmsg-h/",
+  "code": "0x88000190",
+  "codeUrl": "/win32/ntdsbmsg-h/hrfldkeytoobig/0x88000190/",
+  "numericCode": -2013265520,
+  "define": "hrFLDKeyTooBig",
+  "defineUrl": "/win32/ntdsbmsg-h/hrfldkeytoobig/",
+  "message": "The key was truncated because it exceeded the maximum length.",
+  "remarks": null,
+  "aka": [
+    "-2013265520"
+  ],
+  "akaUrl": [
+    "/win32/ntdsbmsg-h/hrfldkeytoobig/-2013265520/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

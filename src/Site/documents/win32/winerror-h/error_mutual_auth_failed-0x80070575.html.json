@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_mutual_auth_failed\0x80070575\index.html.json
+canonical: /win32/winerror-h/error_mutual_auth_failed/1397/
+title: 0x80070575 ERROR_MUTUAL_AUTH_FAILED in winerror.h
+description: Mutual Authentication failed. The server's password is out of date at the domain controller.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80070575",
+  "codeUrl": "/win32/winerror-h/error_mutual_auth_failed/0x80070575/",
+  "numericCode": 0,
+  "define": "ERROR_MUTUAL_AUTH_FAILED",
+  "defineUrl": "/win32/winerror-h/error_mutual_auth_failed/",
+  "message": "Mutual Authentication failed. The server's password is out of date at the domain controller.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "1397",
+  "originalCodeUrl": "/win32/winerror-h/error_mutual_auth_failed/1397/"
+}

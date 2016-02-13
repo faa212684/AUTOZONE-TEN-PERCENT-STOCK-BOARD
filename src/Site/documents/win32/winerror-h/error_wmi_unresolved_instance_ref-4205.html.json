@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_wmi_unresolved_instance_ref\4205\index.html.json
+
+title: 4205 ERROR_WMI_UNRESOLVED_INSTANCE_REF in winerror.h
+description: The WMI data provider references an instance set that has not been registered.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "4205",
+  "codeUrl": "/win32/winerror-h/error_wmi_unresolved_instance_ref/4205/",
+  "numericCode": 4205,
+  "define": "ERROR_WMI_UNRESOLVED_INSTANCE_REF",
+  "defineUrl": "/win32/winerror-h/error_wmi_unresolved_instance_ref/",
+  "message": "The WMI data provider references an instance set that has not been registered.",
+  "remarks": null,
+  "aka": [
+    "0x8007106d",
+    "-2147020691"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_wmi_unresolved_instance_ref/0x8007106d/",
+    "/win32/winerror-h/error_wmi_unresolved_instance_ref/-2147020691/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

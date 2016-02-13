@@ -1,0 +1,24 @@
+---
+output: win32\mferror-h\mf_s_wait_for_policy_set\881000\index.html.json
+canonical: /win32/mferror-h/mf_s_wait_for_policy_set/0x000d7168/
+title: 881000 MF_S_WAIT_FOR_POLICY_SET in Mferror.h
+description: Protection for this stream is not guaranteed to be enforced until the MEPolicySet event is fired.%0
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "Mferror.h",
+  "sourceUrl": "/win32/mferror-h/",
+  "code": "881000",
+  "codeUrl": "/win32/mferror-h/mf_s_wait_for_policy_set/881000/",
+  "numericCode": 0,
+  "define": "MF_S_WAIT_FOR_POLICY_SET",
+  "defineUrl": "/win32/mferror-h/mf_s_wait_for_policy_set/",
+  "message": "Protection for this stream is not guaranteed to be enforced until the MEPolicySet event is fired.%0",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x000D7168",
+  "originalCodeUrl": "/win32/mferror-h/mf_s_wait_for_policy_set/0x000d7168/"
+}

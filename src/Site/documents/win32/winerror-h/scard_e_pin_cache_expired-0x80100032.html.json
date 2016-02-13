@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\scard_e_pin_cache_expired\0x80100032\index.html.json
+
+title: 0x80100032 SCARD_E_PIN_CACHE_EXPIRED in winerror.h
+description: The smart card PIN cache has expired.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80100032",
+  "codeUrl": "/win32/winerror-h/scard_e_pin_cache_expired/0x80100032/",
+  "numericCode": -2146435022,
+  "define": "SCARD_E_PIN_CACHE_EXPIRED",
+  "defineUrl": "/win32/winerror-h/scard_e_pin_cache_expired/",
+  "message": "The smart card PIN cache has expired.",
+  "remarks": null,
+  "aka": [
+    "-2146435022"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/scard_e_pin_cache_expired/-2146435022/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_tpm_invalid_postinit\-1071054810\index.html.json
+canonical: /win32/ntstatus-h/status_tpm_invalid_postinit/0xc0290026/
+title: -1071054810 STATUS_TPM_INVALID_POSTINIT in ntstatus.h
+description: The command was received in the wrong sequence relative to TPM_Init and a subsequent TPM_Startup.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071054810",
+  "codeUrl": "/win32/ntstatus-h/status_tpm_invalid_postinit/-1071054810/",
+  "numericCode": 0,
+  "define": "STATUS_TPM_INVALID_POSTINIT",
+  "defineUrl": "/win32/ntstatus-h/status_tpm_invalid_postinit/",
+  "message": "The command was received in the wrong sequence relative to TPM_Init and a subsequent TPM_Startup.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0290026",
+  "originalCodeUrl": "/win32/ntstatus-h/status_tpm_invalid_postinit/0xc0290026/"
+}

@@ -1,0 +1,24 @@
+---
+output: win32\vsserror-h\vss_e_provider_in_use\-2147212537\index.html.json
+canonical: /win32/vsserror-h/vss_e_provider_in_use/0x80042307/
+title: -2147212537 VSS_E_PROVIDER_IN_USE in vsserror.h
+description: The shadow copy provider is currently in use and cannot be unregistered.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vsserror.h",
+  "sourceUrl": "/win32/vsserror-h/",
+  "code": "-2147212537",
+  "codeUrl": "/win32/vsserror-h/vss_e_provider_in_use/-2147212537/",
+  "numericCode": 0,
+  "define": "VSS_E_PROVIDER_IN_USE",
+  "defineUrl": "/win32/vsserror-h/vss_e_provider_in_use/",
+  "message": "The shadow copy provider is currently in use and cannot be unregistered.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80042307",
+  "originalCodeUrl": "/win32/vsserror-h/vss_e_provider_in_use/0x80042307/"
+}

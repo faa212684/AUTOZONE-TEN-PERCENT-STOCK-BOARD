@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\stg_e_seekerror\0x80030019\index.html.json
+
+title: 0x80030019 STG_E_SEEKERROR in winerror.h
+description: An error occurred during a seek operation.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80030019",
+  "codeUrl": "/win32/winerror-h/stg_e_seekerror/0x80030019/",
+  "numericCode": -2147287015,
+  "define": "STG_E_SEEKERROR",
+  "defineUrl": "/win32/winerror-h/stg_e_seekerror/",
+  "message": "An error occurred during a seek operation.",
+  "remarks": null,
+  "aka": [
+    "-2147287015"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/stg_e_seekerror/-2147287015/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

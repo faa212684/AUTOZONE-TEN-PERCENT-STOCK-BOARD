@@ -1,0 +1,29 @@
+---
+output: win32\wsmerror-h\error_wsman_config_shelluri_invalid_operation_on_key\0x8033816f\index.html.json
+
+title: 0x8033816F ERROR_WSMAN_CONFIG_SHELLURI_INVALID_OPERATION_ON_KEY in wsmerror.h
+description: The WinRM service cannot process the request. 
+The URI parameter is the key to CustomRemoteShell table and cannot be modified.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x8033816F",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_config_shelluri_invalid_operation_on_key/0x8033816f/",
+  "numericCode": -2144108177,
+  "define": "ERROR_WSMAN_CONFIG_SHELLURI_INVALID_OPERATION_ON_KEY",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_config_shelluri_invalid_operation_on_key/",
+  "message": "The WinRM service cannot process the request. \r\nThe URI parameter is the key to CustomRemoteShell table and cannot be modified.",
+  "remarks": null,
+  "aka": [
+    "-2144108177"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_config_shelluri_invalid_operation_on_key/-2144108177/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

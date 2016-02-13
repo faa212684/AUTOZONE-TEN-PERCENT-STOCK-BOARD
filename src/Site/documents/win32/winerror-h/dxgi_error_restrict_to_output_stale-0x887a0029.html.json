@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\dxgi_error_restrict_to_output_stale\0x887a0029\index.html.json
+
+title: 0x887A0029 DXGI_ERROR_RESTRICT_TO_OUTPUT_STALE in winerror.h
+description: The DXGI outuput (monitor) to which the swapchain content was restricted, has been disconnected or changed.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x887A0029",
+  "codeUrl": "/win32/winerror-h/dxgi_error_restrict_to_output_stale/0x887a0029/",
+  "numericCode": -2005270487,
+  "define": "DXGI_ERROR_RESTRICT_TO_OUTPUT_STALE",
+  "defineUrl": "/win32/winerror-h/dxgi_error_restrict_to_output_stale/",
+  "message": "The DXGI outuput (monitor) to which the swapchain content was restricted, has been disconnected or changed.",
+  "remarks": null,
+  "aka": [
+    "-2005270487"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/dxgi_error_restrict_to_output_stale/-2005270487/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

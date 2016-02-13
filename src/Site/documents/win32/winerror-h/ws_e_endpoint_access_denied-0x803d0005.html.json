@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\ws_e_endpoint_access_denied\0x803d0005\index.html.json
+
+title: 0x803D0005 WS_E_ENDPOINT_ACCESS_DENIED in winerror.h
+description: Access was denied by the remote endpoint.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x803D0005",
+  "codeUrl": "/win32/winerror-h/ws_e_endpoint_access_denied/0x803d0005/",
+  "numericCode": -2143485947,
+  "define": "WS_E_ENDPOINT_ACCESS_DENIED",
+  "defineUrl": "/win32/winerror-h/ws_e_endpoint_access_denied/",
+  "message": "Access was denied by the remote endpoint.",
+  "remarks": null,
+  "aka": [
+    "-2143485947"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/ws_e_endpoint_access_denied/-2143485947/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

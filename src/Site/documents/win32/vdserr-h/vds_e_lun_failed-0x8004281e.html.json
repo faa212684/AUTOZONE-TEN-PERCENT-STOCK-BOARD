@@ -1,0 +1,29 @@
+---
+output: win32\vdserr-h\vds_e_lun_failed\0x8004281e\index.html.json
+
+title: 0x8004281E VDS_E_LUN_FAILED in vdserr.h
+description: The SHRINK operation against the selected LUN cannot be completed. 
+The current state of the LUN is FAILED.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x8004281E",
+  "codeUrl": "/win32/vdserr-h/vds_e_lun_failed/0x8004281e/",
+  "numericCode": -2147211234,
+  "define": "VDS_E_LUN_FAILED",
+  "defineUrl": "/win32/vdserr-h/vds_e_lun_failed/",
+  "message": "The SHRINK operation against the selected LUN cannot be completed. \r\nThe current state of the LUN is FAILED.",
+  "remarks": null,
+  "aka": [
+    "-2147211234"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_lun_failed/-2147211234/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

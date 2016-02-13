@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\rpc_nt_name_service_unavailable\0xc002003f\index.html.json
+
+title: 0xC002003F RPC_NT_NAME_SERVICE_UNAVAILABLE in ntstatus.h
+description: The name service is unavailable.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC002003F",
+  "codeUrl": "/win32/ntstatus-h/rpc_nt_name_service_unavailable/0xc002003f/",
+  "numericCode": -1073610689,
+  "define": "RPC_NT_NAME_SERVICE_UNAVAILABLE",
+  "defineUrl": "/win32/ntstatus-h/rpc_nt_name_service_unavailable/",
+  "message": "The name service is unavailable.",
+  "remarks": null,
+  "aka": [
+    "-1073610689"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/rpc_nt_name_service_unavailable/-1073610689/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

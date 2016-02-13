@@ -1,0 +1,28 @@
+---
+output: win32\wsmerror-h\error_wsman_insuffcient_selectors\0x8033805a\index.html.json
+
+title: 0x8033805A ERROR_WSMAN_INSUFFCIENT_SELECTORS in wsmerror.h
+description: The WS-Management service cannot process the request because the request did not contain all required selectors.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x8033805A",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_insuffcient_selectors/0x8033805a/",
+  "numericCode": -2144108454,
+  "define": "ERROR_WSMAN_INSUFFCIENT_SELECTORS",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_insuffcient_selectors/",
+  "message": "The WS-Management service cannot process the request because the request did not contain all required selectors.",
+  "remarks": null,
+  "aka": [
+    "-2144108454"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_insuffcient_selectors/-2144108454/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

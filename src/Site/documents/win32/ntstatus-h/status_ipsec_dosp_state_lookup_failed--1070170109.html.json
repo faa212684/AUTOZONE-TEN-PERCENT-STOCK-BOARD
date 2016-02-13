@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_ipsec_dosp_state_lookup_failed\-1070170109\index.html.json
+canonical: /win32/ntstatus-h/status_ipsec_dosp_state_lookup_failed/0xc0368003/
+title: -1070170109 STATUS_IPSEC_DOSP_STATE_LOOKUP_FAILED in ntstatus.h
+description: IPsec DoS Protection failed to look up state.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1070170109",
+  "codeUrl": "/win32/ntstatus-h/status_ipsec_dosp_state_lookup_failed/-1070170109/",
+  "numericCode": 0,
+  "define": "STATUS_IPSEC_DOSP_STATE_LOOKUP_FAILED",
+  "defineUrl": "/win32/ntstatus-h/status_ipsec_dosp_state_lookup_failed/",
+  "message": "IPsec DoS Protection failed to look up state.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0368003",
+  "originalCodeUrl": "/win32/ntstatus-h/status_ipsec_dosp_state_lookup_failed/0xc0368003/"
+}

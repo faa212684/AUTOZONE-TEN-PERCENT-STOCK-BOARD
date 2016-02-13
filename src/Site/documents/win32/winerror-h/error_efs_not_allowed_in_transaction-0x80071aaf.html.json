@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_efs_not_allowed_in_transaction\0x80071aaf\index.html.json
+canonical: /win32/winerror-h/error_efs_not_allowed_in_transaction/6831/
+title: 0x80071aaf ERROR_EFS_NOT_ALLOWED_IN_TRANSACTION in winerror.h
+description: The encryption operation could not be completed because a transaction is active.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80071aaf",
+  "codeUrl": "/win32/winerror-h/error_efs_not_allowed_in_transaction/0x80071aaf/",
+  "numericCode": 0,
+  "define": "ERROR_EFS_NOT_ALLOWED_IN_TRANSACTION",
+  "defineUrl": "/win32/winerror-h/error_efs_not_allowed_in_transaction/",
+  "message": "The encryption operation could not be completed because a transaction is active.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "6831",
+  "originalCodeUrl": "/win32/winerror-h/error_efs_not_allowed_in_transaction/6831/"
+}

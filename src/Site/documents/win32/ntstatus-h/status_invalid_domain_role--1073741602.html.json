@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_invalid_domain_role\-1073741602\index.html.json
+canonical: /win32/ntstatus-h/status_invalid_domain_role/0xc00000de/
+title: -1073741602 STATUS_INVALID_DOMAIN_ROLE in ntstatus.h
+description: This operation is only allowed for the Primary Domain Controller of the domain.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741602",
+  "codeUrl": "/win32/ntstatus-h/status_invalid_domain_role/-1073741602/",
+  "numericCode": 0,
+  "define": "STATUS_INVALID_DOMAIN_ROLE",
+  "defineUrl": "/win32/ntstatus-h/status_invalid_domain_role/",
+  "message": "This operation is only allowed for the Primary Domain Controller of the domain.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC00000DE",
+  "originalCodeUrl": "/win32/ntstatus-h/status_invalid_domain_role/0xc00000de/"
+}

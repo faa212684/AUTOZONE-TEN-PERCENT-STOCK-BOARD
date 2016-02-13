@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_fwp_too_many_callouts\0xc0220018\index.html.json
+
+title: 0xC0220018 STATUS_FWP_TOO_MANY_CALLOUTS in ntstatus.h
+description: The maximum number of callouts has been reached.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0220018",
+  "codeUrl": "/win32/ntstatus-h/status_fwp_too_many_callouts/0xc0220018/",
+  "numericCode": -1071513576,
+  "define": "STATUS_FWP_TOO_MANY_CALLOUTS",
+  "defineUrl": "/win32/ntstatus-h/status_fwp_too_many_callouts/",
+  "message": "The maximum number of callouts has been reached.",
+  "remarks": null,
+  "aka": [
+    "-1071513576"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_fwp_too_many_callouts/-1071513576/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

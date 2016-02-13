@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\sec_e_security_qos_failed\0x80090332\index.html.json
+
+title: 0x80090332 SEC_E_SECURITY_QOS_FAILED in winerror.h
+description: The security context could not be established due to a failure in the requested quality of service (e.g. mutual authentication or delegation).
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80090332",
+  "codeUrl": "/win32/winerror-h/sec_e_security_qos_failed/0x80090332/",
+  "numericCode": -2146893006,
+  "define": "SEC_E_SECURITY_QOS_FAILED",
+  "defineUrl": "/win32/winerror-h/sec_e_security_qos_failed/",
+  "message": "The security context could not be established due to a failure in the requested quality of service (e.g. mutual authentication or delegation).",
+  "remarks": null,
+  "aka": [
+    "-2146893006"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/sec_e_security_qos_failed/-2146893006/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

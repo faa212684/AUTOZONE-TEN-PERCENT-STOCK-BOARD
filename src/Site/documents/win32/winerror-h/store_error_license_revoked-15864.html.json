@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\store_error_license_revoked\15864\index.html.json
+
+title: 15864 STORE_ERROR_LICENSE_REVOKED in winerror.h
+description: The license has been revoked for this user.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "15864",
+  "codeUrl": "/win32/winerror-h/store_error_license_revoked/15864/",
+  "numericCode": 15864,
+  "define": "STORE_ERROR_LICENSE_REVOKED",
+  "defineUrl": "/win32/winerror-h/store_error_license_revoked/",
+  "message": "The license has been revoked for this user.",
+  "remarks": null,
+  "aka": [
+    "0x80073df8",
+    "-2147009032"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/store_error_license_revoked/0x80073df8/",
+    "/win32/winerror-h/store_error_license_revoked/-2147009032/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

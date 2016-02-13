@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_ds_cant_derive_spn_for_deleted_domain\0x8007219b\index.html.json
+canonical: /win32/winerror-h/error_ds_cant_derive_spn_for_deleted_domain/8603/
+title: 0x8007219b ERROR_DS_CANT_DERIVE_SPN_FOR_DELETED_DOMAIN in winerror.h
+description: The DS cannot derive a service principal name (SPN) with which to mutually authenticate the target server because the server's domain has been deleted from the forest.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007219b",
+  "codeUrl": "/win32/winerror-h/error_ds_cant_derive_spn_for_deleted_domain/0x8007219b/",
+  "numericCode": 0,
+  "define": "ERROR_DS_CANT_DERIVE_SPN_FOR_DELETED_DOMAIN",
+  "defineUrl": "/win32/winerror-h/error_ds_cant_derive_spn_for_deleted_domain/",
+  "message": "The DS cannot derive a service principal name (SPN) with which to mutually authenticate the target server because the server's domain has been deleted from the forest.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "8603",
+  "originalCodeUrl": "/win32/winerror-h/error_ds_cant_derive_spn_for_deleted_domain/8603/"
+}

@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_vid_invalid_gpa_range_handle\0xc0370015\index.html.json
+
+title: 0xC0370015 STATUS_VID_INVALID_GPA_RANGE_HANDLE in ntstatus.h
+description: The handle is not a valid page range handle for the virtualization infrastructure driver.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0370015",
+  "codeUrl": "/win32/ntstatus-h/status_vid_invalid_gpa_range_handle/0xc0370015/",
+  "numericCode": -1070137323,
+  "define": "STATUS_VID_INVALID_GPA_RANGE_HANDLE",
+  "defineUrl": "/win32/ntstatus-h/status_vid_invalid_gpa_range_handle/",
+  "message": "The handle is not a valid page range handle for the virtualization infrastructure driver.",
+  "remarks": null,
+  "aka": [
+    "-1070137323"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_vid_invalid_gpa_range_handle/-1070137323/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

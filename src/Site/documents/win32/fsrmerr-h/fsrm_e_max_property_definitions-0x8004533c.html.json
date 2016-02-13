@@ -1,0 +1,28 @@
+---
+output: win32\fsrmerr-h\fsrm_e_max_property_definitions\0x8004533c\index.html.json
+
+title: 0x8004533C FSRM_E_MAX_PROPERTY_DEFINITIONS in fsrmerr.h
+description: A new property definition cannot be created.  The maximum number of property definitions, {0}, has been reached.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "fsrmerr.h",
+  "sourceUrl": "/win32/fsrmerr-h/",
+  "code": "0x8004533C",
+  "codeUrl": "/win32/fsrmerr-h/fsrm_e_max_property_definitions/0x8004533c/",
+  "numericCode": -2147200196,
+  "define": "FSRM_E_MAX_PROPERTY_DEFINITIONS",
+  "defineUrl": "/win32/fsrmerr-h/fsrm_e_max_property_definitions/",
+  "message": "A new property definition cannot be created.  The maximum number of property definitions, {0}, has been reached.",
+  "remarks": null,
+  "aka": [
+    "-2147200196"
+  ],
+  "akaUrl": [
+    "/win32/fsrmerr-h/fsrm_e_max_property_definitions/-2147200196/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

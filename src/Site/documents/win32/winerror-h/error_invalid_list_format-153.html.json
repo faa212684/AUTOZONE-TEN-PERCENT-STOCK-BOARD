@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_invalid_list_format\153\index.html.json
+
+title: 153 ERROR_INVALID_LIST_FORMAT in winerror.h
+description: The DosMuxSemWait list is not correct.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "153",
+  "codeUrl": "/win32/winerror-h/error_invalid_list_format/153/",
+  "numericCode": 153,
+  "define": "ERROR_INVALID_LIST_FORMAT",
+  "defineUrl": "/win32/winerror-h/error_invalid_list_format/",
+  "message": "The DosMuxSemWait list is not correct.",
+  "remarks": null,
+  "aka": [
+    "0x80070099",
+    "-2147024743"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_invalid_list_format/0x80070099/",
+    "/win32/winerror-h/error_invalid_list_format/-2147024743/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

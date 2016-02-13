@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_too_many_guids_requested\0xc0000082\index.html.json
+
+title: 0xC0000082 STATUS_TOO_MANY_GUIDS_REQUESTED in ntstatus.h
+description: Too many GUIDs were requested from the allocation server at once.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000082",
+  "codeUrl": "/win32/ntstatus-h/status_too_many_guids_requested/0xc0000082/",
+  "numericCode": -1073741694,
+  "define": "STATUS_TOO_MANY_GUIDS_REQUESTED",
+  "defineUrl": "/win32/ntstatus-h/status_too_many_guids_requested/",
+  "message": "Too many GUIDs were requested from the allocation server at once.",
+  "remarks": null,
+  "aka": [
+    "-1073741694"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_too_many_guids_requested/-1073741694/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

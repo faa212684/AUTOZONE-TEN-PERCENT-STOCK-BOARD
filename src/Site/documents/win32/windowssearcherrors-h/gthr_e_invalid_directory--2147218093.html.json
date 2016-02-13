@@ -1,0 +1,24 @@
+---
+output: win32\windowssearcherrors-h\gthr_e_invalid_directory\-2147218093\index.html.json
+canonical: /win32/windowssearcherrors-h/gthr_e_invalid_directory/0x80040d53/
+title: -2147218093 GTHR_E_INVALID_DIRECTORY in WindowsSearchErrors.h
+description: The path is not specified or contains invalid characters, such as ["" ?*]. Specify a path that does not contain these characters.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "-2147218093",
+  "codeUrl": "/win32/windowssearcherrors-h/gthr_e_invalid_directory/-2147218093/",
+  "numericCode": 0,
+  "define": "GTHR_E_INVALID_DIRECTORY",
+  "defineUrl": "/win32/windowssearcherrors-h/gthr_e_invalid_directory/",
+  "message": "The path is not specified or contains invalid characters, such as [\"\" ?*]. Specify a path that does not contain these characters.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80040D53",
+  "originalCodeUrl": "/win32/windowssearcherrors-h/gthr_e_invalid_directory/0x80040d53/"
+}

@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_log_space_reserved_invalid\0xc01a001b\index.html.json
+
+title: 0xC01A001B STATUS_LOG_SPACE_RESERVED_INVALID in ntstatus.h
+description: Reserved log space or the adjustment of the log space is invalid.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC01A001B",
+  "codeUrl": "/win32/ntstatus-h/status_log_space_reserved_invalid/0xc01a001b/",
+  "numericCode": -1072037861,
+  "define": "STATUS_LOG_SPACE_RESERVED_INVALID",
+  "defineUrl": "/win32/ntstatus-h/status_log_space_reserved_invalid/",
+  "message": "Reserved log space or the adjustment of the log space is invalid.",
+  "remarks": null,
+  "aka": [
+    "-1072037861"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_log_space_reserved_invalid/-1072037861/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

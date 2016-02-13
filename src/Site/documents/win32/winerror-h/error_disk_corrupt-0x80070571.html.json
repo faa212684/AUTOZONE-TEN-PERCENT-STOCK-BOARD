@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_disk_corrupt\0x80070571\index.html.json
+canonical: /win32/winerror-h/error_disk_corrupt/1393/
+title: 0x80070571 ERROR_DISK_CORRUPT in winerror.h
+description: The disk structure is corrupted and unreadable.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80070571",
+  "codeUrl": "/win32/winerror-h/error_disk_corrupt/0x80070571/",
+  "numericCode": 0,
+  "define": "ERROR_DISK_CORRUPT",
+  "defineUrl": "/win32/winerror-h/error_disk_corrupt/",
+  "message": "The disk structure is corrupted and unreadable.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "1393",
+  "originalCodeUrl": "/win32/winerror-h/error_disk_corrupt/1393/"
+}

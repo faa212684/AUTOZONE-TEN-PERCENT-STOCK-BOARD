@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_e_crashdump_disk\0x8004280e\index.html.json
+
+title: 0x8004280E VDS_E_CRASHDUMP_DISK in vdserr.h
+description: The operation is not allowed on a disk that contains a crashdump file volume.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x8004280E",
+  "codeUrl": "/win32/vdserr-h/vds_e_crashdump_disk/0x8004280e/",
+  "numericCode": -2147211250,
+  "define": "VDS_E_CRASHDUMP_DISK",
+  "defineUrl": "/win32/vdserr-h/vds_e_crashdump_disk/",
+  "message": "The operation is not allowed on a disk that contains a crashdump file volume.",
+  "remarks": null,
+  "aka": [
+    "-2147211250"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_crashdump_disk/-2147211250/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

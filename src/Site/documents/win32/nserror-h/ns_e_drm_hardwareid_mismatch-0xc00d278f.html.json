@@ -1,0 +1,28 @@
+---
+output: win32\nserror-h\ns_e_drm_hardwareid_mismatch\0xc00d278f\index.html.json
+
+title: 0xC00D278F NS_E_DRM_HARDWAREID_MISMATCH in nserror.h
+description: The requested action cannot be performed because a hardware configuration change has been detected by the Windows Media Digital Rights Management (DRM) components on your computer.%0.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "nserror.h",
+  "sourceUrl": "/win32/nserror-h/",
+  "code": "0xC00D278F",
+  "codeUrl": "/win32/nserror-h/ns_e_drm_hardwareid_mismatch/0xc00d278f/",
+  "numericCode": -1072879729,
+  "define": "NS_E_DRM_HARDWAREID_MISMATCH",
+  "defineUrl": "/win32/nserror-h/ns_e_drm_hardwareid_mismatch/",
+  "message": "The requested action cannot be performed because a hardware configuration change has been detected by the Windows Media Digital Rights Management (DRM) components on your computer.%0.",
+  "remarks": null,
+  "aka": [
+    "-1072879729"
+  ],
+  "akaUrl": [
+    "/win32/nserror-h/ns_e_drm_hardwareid_mismatch/-1072879729/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

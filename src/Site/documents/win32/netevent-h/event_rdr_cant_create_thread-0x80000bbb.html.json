@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_rdr_cant_create_thread\0x80000bbb\index.html.json
+
+title: 0x80000BBB EVENT_RDR_CANT_CREATE_THREAD in netevent.h
+description: The redirector could not create a system thread.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x80000BBB",
+  "codeUrl": "/win32/netevent-h/event_rdr_cant_create_thread/0x80000bbb/",
+  "numericCode": -2147480645,
+  "define": "EVENT_RDR_CANT_CREATE_THREAD",
+  "defineUrl": "/win32/netevent-h/event_rdr_cant_create_thread/",
+  "message": "The redirector could not create a system thread.",
+  "remarks": null,
+  "aka": [
+    "-2147480645"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_rdr_cant_create_thread/-2147480645/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

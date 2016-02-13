@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_insufficient_nvram_resources\0xc0000454\index.html.json
+
+title: 0xC0000454 STATUS_INSUFFICIENT_NVRAM_RESOURCES in ntstatus.h
+description: Insufficient NVRAM resources exist to complete the API.  A reboot might be required.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000454",
+  "codeUrl": "/win32/ntstatus-h/status_insufficient_nvram_resources/0xc0000454/",
+  "numericCode": -1073740716,
+  "define": "STATUS_INSUFFICIENT_NVRAM_RESOURCES",
+  "defineUrl": "/win32/ntstatus-h/status_insufficient_nvram_resources/",
+  "message": "Insufficient NVRAM resources exist to complete the API.  A reboot might be required.",
+  "remarks": null,
+  "aka": [
+    "-1073740716"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_insufficient_nvram_resources/-1073740716/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

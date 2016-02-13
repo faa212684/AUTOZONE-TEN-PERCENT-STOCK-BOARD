@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_file_too_large\0xc0000904\index.html.json
+
+title: 0xC0000904 STATUS_FILE_TOO_LARGE in ntstatus.h
+description: The file size exceeds the limit allowed and cannot be saved.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000904",
+  "codeUrl": "/win32/ntstatus-h/status_file_too_large/0xc0000904/",
+  "numericCode": -1073739516,
+  "define": "STATUS_FILE_TOO_LARGE",
+  "defineUrl": "/win32/ntstatus-h/status_file_too_large/",
+  "message": "The file size exceeds the limit allowed and cannot be saved.",
+  "remarks": null,
+  "aka": [
+    "-1073739516"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_file_too_large/-1073739516/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

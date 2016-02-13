@@ -1,0 +1,28 @@
+---
+output: win32\fsrmerr-h\fsrm_e_file_management_job_max_file_conditions\0x8004536e\index.html.json
+
+title: 0x8004536E FSRM_E_FILE_MANAGEMENT_JOB_MAX_FILE_CONDITIONS in fsrmerr.h
+description: The file management task has reached its maximum number of conditions.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "fsrmerr.h",
+  "sourceUrl": "/win32/fsrmerr-h/",
+  "code": "0x8004536E",
+  "codeUrl": "/win32/fsrmerr-h/fsrm_e_file_management_job_max_file_conditions/0x8004536e/",
+  "numericCode": -2147200146,
+  "define": "FSRM_E_FILE_MANAGEMENT_JOB_MAX_FILE_CONDITIONS",
+  "defineUrl": "/win32/fsrmerr-h/fsrm_e_file_management_job_max_file_conditions/",
+  "message": "The file management task has reached its maximum number of conditions.",
+  "remarks": null,
+  "aka": [
+    "-2147200146"
+  ],
+  "akaUrl": [
+    "/win32/fsrmerr-h/fsrm_e_file_management_job_max_file_conditions/-2147200146/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

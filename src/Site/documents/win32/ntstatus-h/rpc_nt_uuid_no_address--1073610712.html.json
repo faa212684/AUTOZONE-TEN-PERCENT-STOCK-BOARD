@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\rpc_nt_uuid_no_address\-1073610712\index.html.json
+canonical: /win32/ntstatus-h/rpc_nt_uuid_no_address/0xc0020028/
+title: -1073610712 RPC_NT_UUID_NO_ADDRESS in ntstatus.h
+description: No network address is available to use to construct a UUID.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073610712",
+  "codeUrl": "/win32/ntstatus-h/rpc_nt_uuid_no_address/-1073610712/",
+  "numericCode": 0,
+  "define": "RPC_NT_UUID_NO_ADDRESS",
+  "defineUrl": "/win32/ntstatus-h/rpc_nt_uuid_no_address/",
+  "message": "No network address is available to use to construct a UUID.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0020028",
+  "originalCodeUrl": "/win32/ntstatus-h/rpc_nt_uuid_no_address/0xc0020028/"
+}

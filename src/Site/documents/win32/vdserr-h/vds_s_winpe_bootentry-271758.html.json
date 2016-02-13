@@ -1,0 +1,25 @@
+---
+output: win32\vdserr-h\vds_s_winpe_bootentry\271758\index.html.json
+canonical: /win32/vdserr-h/vds_s_winpe_bootentry/0x0004258e/
+title: 271758 VDS_S_WINPE_BOOTENTRY in vdserr.h
+description: The boot entries cannot be updated automatically on WinPE. You may need 
+to manually update the boot entry for any installed operating systems.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "271758",
+  "codeUrl": "/win32/vdserr-h/vds_s_winpe_bootentry/271758/",
+  "numericCode": 0,
+  "define": "VDS_S_WINPE_BOOTENTRY",
+  "defineUrl": "/win32/vdserr-h/vds_s_winpe_bootentry/",
+  "message": "The boot entries cannot be updated automatically on WinPE. You may need \r\nto manually update the boot entry for any installed operating systems.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x0004258E",
+  "originalCodeUrl": "/win32/vdserr-h/vds_s_winpe_bootentry/0x0004258e/"
+}

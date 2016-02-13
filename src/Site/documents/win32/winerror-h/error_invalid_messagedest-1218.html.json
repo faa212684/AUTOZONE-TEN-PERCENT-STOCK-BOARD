@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_invalid_messagedest\1218\index.html.json
+
+title: 1218 ERROR_INVALID_MESSAGEDEST in winerror.h
+description: The format of the specified message destination is invalid.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1218",
+  "codeUrl": "/win32/winerror-h/error_invalid_messagedest/1218/",
+  "numericCode": 1218,
+  "define": "ERROR_INVALID_MESSAGEDEST",
+  "defineUrl": "/win32/winerror-h/error_invalid_messagedest/",
+  "message": "The format of the specified message destination is invalid.",
+  "remarks": null,
+  "aka": [
+    "0x800704c2",
+    "-2147023678"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_invalid_messagedest/0x800704c2/",
+    "/win32/winerror-h/error_invalid_messagedest/-2147023678/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

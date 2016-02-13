@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_oplock_not_granted\0xc00000e2\index.html.json
+
+title: 0xC00000E2 STATUS_OPLOCK_NOT_GRANTED in ntstatus.h
+description: Error status returned when oplock request is denied.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC00000E2",
+  "codeUrl": "/win32/ntstatus-h/status_oplock_not_granted/0xc00000e2/",
+  "numericCode": -1073741598,
+  "define": "STATUS_OPLOCK_NOT_GRANTED",
+  "defineUrl": "/win32/ntstatus-h/status_oplock_not_granted/",
+  "message": "Error status returned when oplock request is denied.",
+  "remarks": null,
+  "aka": [
+    "-1073741598"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_oplock_not_granted/-1073741598/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

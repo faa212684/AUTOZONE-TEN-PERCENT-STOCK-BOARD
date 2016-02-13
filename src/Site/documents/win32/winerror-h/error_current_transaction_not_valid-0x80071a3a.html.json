@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_current_transaction_not_valid\0x80071a3a\index.html.json
+canonical: /win32/winerror-h/error_current_transaction_not_valid/6714/
+title: 0x80071a3a ERROR_CURRENT_TRANSACTION_NOT_VALID in winerror.h
+description: The current transaction context associated with the thread is not a valid handle to a transaction object.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80071a3a",
+  "codeUrl": "/win32/winerror-h/error_current_transaction_not_valid/0x80071a3a/",
+  "numericCode": 0,
+  "define": "ERROR_CURRENT_TRANSACTION_NOT_VALID",
+  "defineUrl": "/win32/winerror-h/error_current_transaction_not_valid/",
+  "message": "The current transaction context associated with the thread is not a valid handle to a transaction object.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "6714",
+  "originalCodeUrl": "/win32/winerror-h/error_current_transaction_not_valid/6714/"
+}

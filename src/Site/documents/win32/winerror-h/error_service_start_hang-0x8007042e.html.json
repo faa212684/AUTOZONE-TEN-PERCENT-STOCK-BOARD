@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_service_start_hang\0x8007042e\index.html.json
+canonical: /win32/winerror-h/error_service_start_hang/1070/
+title: 0x8007042e ERROR_SERVICE_START_HANG in winerror.h
+description: After starting, the service hung in a start-pending state.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007042e",
+  "codeUrl": "/win32/winerror-h/error_service_start_hang/0x8007042e/",
+  "numericCode": 0,
+  "define": "ERROR_SERVICE_START_HANG",
+  "defineUrl": "/win32/winerror-h/error_service_start_hang/",
+  "message": "After starting, the service hung in a start-pending state.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "1070",
+  "originalCodeUrl": "/win32/winerror-h/error_service_start_hang/1070/"
+}

@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\tpm_e_key_notsupported\0x8028003a\index.html.json
+
+title: 0x8028003A TPM_E_KEY_NOTSUPPORTED in winerror.h
+description: Wrong operation to load an NV key.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8028003A",
+  "codeUrl": "/win32/winerror-h/tpm_e_key_notsupported/0x8028003a/",
+  "numericCode": -2144862150,
+  "define": "TPM_E_KEY_NOTSUPPORTED",
+  "defineUrl": "/win32/winerror-h/tpm_e_key_notsupported/",
+  "message": "Wrong operation to load an NV key.",
+  "remarks": null,
+  "aka": [
+    "-2144862150"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/tpm_e_key_notsupported/-2144862150/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

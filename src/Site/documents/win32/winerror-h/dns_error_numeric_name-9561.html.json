@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\dns_error_numeric_name\9561\index.html.json
+
+title: 9561 DNS_ERROR_NUMERIC_NAME in winerror.h
+description: DNS name is entirely numeric.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "9561",
+  "codeUrl": "/win32/winerror-h/dns_error_numeric_name/9561/",
+  "numericCode": 9561,
+  "define": "DNS_ERROR_NUMERIC_NAME",
+  "defineUrl": "/win32/winerror-h/dns_error_numeric_name/",
+  "message": "DNS name is entirely numeric.",
+  "remarks": null,
+  "aka": [
+    "0x80072559",
+    "-2147015335"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/dns_error_numeric_name/0x80072559/",
+    "/win32/winerror-h/dns_error_numeric_name/-2147015335/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

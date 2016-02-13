@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_e_partition_not_empty\0x80042408\index.html.json
+
+title: 0x80042408 VDS_E_PARTITION_NOT_EMPTY in vdserr.h
+description: The extended partition is not empty.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x80042408",
+  "codeUrl": "/win32/vdserr-h/vds_e_partition_not_empty/0x80042408/",
+  "numericCode": -2147212280,
+  "define": "VDS_E_PARTITION_NOT_EMPTY",
+  "defineUrl": "/win32/vdserr-h/vds_e_partition_not_empty/",
+  "message": "The extended partition is not empty.",
+  "remarks": null,
+  "aka": [
+    "-2147212280"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_partition_not_empty/-2147212280/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

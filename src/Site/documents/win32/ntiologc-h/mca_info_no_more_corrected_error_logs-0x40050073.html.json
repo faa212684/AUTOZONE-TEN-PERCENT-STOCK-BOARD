@@ -1,0 +1,28 @@
+---
+output: win32\ntiologc-h\mca_info_no_more_corrected_error_logs\0x40050073\index.html.json
+
+title: 0x40050073 MCA_INFO_NO_MORE_CORRECTED_ERROR_LOGS in ntiologc.h
+description: The maximum number of Machine Check Event corrected error events that can be saved to the Event Log has been reached. Logging of these events has been disabled.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntiologc.h",
+  "sourceUrl": "/win32/ntiologc-h/",
+  "code": "0x40050073",
+  "codeUrl": "/win32/ntiologc-h/mca_info_no_more_corrected_error_logs/0x40050073/",
+  "numericCode": 1074069619,
+  "define": "MCA_INFO_NO_MORE_CORRECTED_ERROR_LOGS",
+  "defineUrl": "/win32/ntiologc-h/mca_info_no_more_corrected_error_logs/",
+  "message": "The maximum number of Machine Check Event corrected error events that can be saved to the Event Log has been reached. Logging of these events has been disabled.",
+  "remarks": null,
+  "aka": [
+    "1074069619"
+  ],
+  "akaUrl": [
+    "/win32/ntiologc-h/mca_info_no_more_corrected_error_logs/1074069619/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

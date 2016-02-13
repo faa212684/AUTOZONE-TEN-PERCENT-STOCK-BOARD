@@ -1,0 +1,25 @@
+---
+output: win32\ntdsbmsg-h\hrcircularlogging\-939589621\index.html.json
+canonical: /win32/ntdsbmsg-h/hrcircularlogging/0xc7ff000b/
+title: -939589621 hrCircularLogging in NtDsBMsg.h
+description: The Windows NT Directory Service component specified is configured to use circular database logs.
+It cannot be backed up without a full backup.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "NtDsBMsg.h",
+  "sourceUrl": "/win32/ntdsbmsg-h/",
+  "code": "-939589621",
+  "codeUrl": "/win32/ntdsbmsg-h/hrcircularlogging/-939589621/",
+  "numericCode": 0,
+  "define": "hrCircularLogging",
+  "defineUrl": "/win32/ntdsbmsg-h/hrcircularlogging/",
+  "message": "The Windows NT Directory Service component specified is configured to use circular database logs.\r\nIt cannot be backed up without a full backup.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC7FF000B",
+  "originalCodeUrl": "/win32/ntdsbmsg-h/hrcircularlogging/0xc7ff000b/"
+}

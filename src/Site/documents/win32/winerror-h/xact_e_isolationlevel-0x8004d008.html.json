@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\xact_e_isolationlevel\0x8004d008\index.html.json
+
+title: 0x8004D008 XACT_E_ISOLATIONLEVEL in winerror.h
+description: The requested isolation level is not valid or supported.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8004D008",
+  "codeUrl": "/win32/winerror-h/xact_e_isolationlevel/0x8004d008/",
+  "numericCode": -2147168248,
+  "define": "XACT_E_ISOLATIONLEVEL",
+  "defineUrl": "/win32/winerror-h/xact_e_isolationlevel/",
+  "message": "The requested isolation level is not valid or supported.",
+  "remarks": null,
+  "aka": [
+    "-2147168248"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/xact_e_isolationlevel/-2147168248/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

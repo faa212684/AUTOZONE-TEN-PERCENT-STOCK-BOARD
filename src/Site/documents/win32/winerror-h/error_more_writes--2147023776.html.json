@@ -1,0 +1,25 @@
+---
+output: win32\winerror-h\error_more_writes\-2147023776\index.html.json
+canonical: /win32/winerror-h/error_more_writes/1120/
+title: -2147023776 ERROR_MORE_WRITES in winerror.h
+description: A serial I/O operation was completed by another write to the serial port.
+(The IOCTL_SERIAL_XOFF_COUNTER reached zero.)
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147023776",
+  "codeUrl": "/win32/winerror-h/error_more_writes/-2147023776/",
+  "numericCode": 0,
+  "define": "ERROR_MORE_WRITES",
+  "defineUrl": "/win32/winerror-h/error_more_writes/",
+  "message": "A serial I/O operation was completed by another write to the serial port.\r\n(The IOCTL_SERIAL_XOFF_COUNTER reached zero.)",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "1120",
+  "originalCodeUrl": "/win32/winerror-h/error_more_writes/1120/"
+}

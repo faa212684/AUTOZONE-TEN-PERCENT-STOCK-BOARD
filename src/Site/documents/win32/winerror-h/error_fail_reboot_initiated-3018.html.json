@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_fail_reboot_initiated\3018\index.html.json
+
+title: 3018 ERROR_FAIL_REBOOT_INITIATED in winerror.h
+description: The requested operation failed. A system reboot has been initiated to roll back changes made.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "3018",
+  "codeUrl": "/win32/winerror-h/error_fail_reboot_initiated/3018/",
+  "numericCode": 3018,
+  "define": "ERROR_FAIL_REBOOT_INITIATED",
+  "defineUrl": "/win32/winerror-h/error_fail_reboot_initiated/",
+  "message": "The requested operation failed. A system reboot has been initiated to roll back changes made.",
+  "remarks": null,
+  "aka": [
+    "0x80070bca",
+    "-2147021878"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_fail_reboot_initiated/0x80070bca/",
+    "/win32/winerror-h/error_fail_reboot_initiated/-2147021878/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

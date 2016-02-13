@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_install_suspend\1604\index.html.json
+
+title: 1604 ERROR_INSTALL_SUSPEND in winerror.h
+description: Installation suspended, incomplete.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1604",
+  "codeUrl": "/win32/winerror-h/error_install_suspend/1604/",
+  "numericCode": 1604,
+  "define": "ERROR_INSTALL_SUSPEND",
+  "defineUrl": "/win32/winerror-h/error_install_suspend/",
+  "message": "Installation suspended, incomplete.",
+  "remarks": null,
+  "aka": [
+    "0x80070644",
+    "-2147023292"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_install_suspend/0x80070644/",
+    "/win32/winerror-h/error_install_suspend/-2147023292/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

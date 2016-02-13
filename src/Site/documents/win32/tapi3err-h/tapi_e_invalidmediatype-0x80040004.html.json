@@ -1,0 +1,28 @@
+---
+output: win32\tapi3err-h\tapi_e_invalidmediatype\0x80040004\index.html.json
+
+title: 0x80040004 TAPI_E_INVALIDMEDIATYPE in Tapi3Err.h
+description: The MEDIATYPE passed in to this method was invalid.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "Tapi3Err.h",
+  "sourceUrl": "/win32/tapi3err-h/",
+  "code": "0x80040004",
+  "codeUrl": "/win32/tapi3err-h/tapi_e_invalidmediatype/0x80040004/",
+  "numericCode": -2147221500,
+  "define": "TAPI_E_INVALIDMEDIATYPE",
+  "defineUrl": "/win32/tapi3err-h/tapi_e_invalidmediatype/",
+  "message": "The MEDIATYPE passed in to this method was invalid.",
+  "remarks": null,
+  "aka": [
+    "-2147221500"
+  ],
+  "akaUrl": [
+    "/win32/tapi3err-h/tapi_e_invalidmediatype/-2147221500/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

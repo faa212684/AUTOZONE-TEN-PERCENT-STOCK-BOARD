@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_invalid_state_transition\0xc000a003\index.html.json
+
+title: 0xC000A003 STATUS_INVALID_STATE_TRANSITION in ntstatus.h
+description: The requested state transition is invalid and cannot be performed.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000A003",
+  "codeUrl": "/win32/ntstatus-h/status_invalid_state_transition/0xc000a003/",
+  "numericCode": -1073700861,
+  "define": "STATUS_INVALID_STATE_TRANSITION",
+  "defineUrl": "/win32/ntstatus-h/status_invalid_state_transition/",
+  "message": "The requested state transition is invalid and cannot be performed.",
+  "remarks": null,
+  "aka": [
+    "-1073700861"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_invalid_state_transition/-1073700861/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

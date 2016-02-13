@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\tpm_e_size\0x80280017\index.html.json
+
+title: 0x80280017 TPM_E_SIZE in winerror.h
+description: The TPM does not have the space to perform the operation.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80280017",
+  "codeUrl": "/win32/winerror-h/tpm_e_size/0x80280017/",
+  "numericCode": -2144862185,
+  "define": "TPM_E_SIZE",
+  "defineUrl": "/win32/winerror-h/tpm_e_size/",
+  "message": "The TPM does not have the space to perform the operation.",
+  "remarks": null,
+  "aka": [
+    "-2144862185"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/tpm_e_size/-2144862185/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

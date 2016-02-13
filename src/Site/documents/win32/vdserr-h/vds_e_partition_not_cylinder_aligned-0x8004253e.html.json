@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_e_partition_not_cylinder_aligned\0x8004253e\index.html.json
+
+title: 0x8004253E VDS_E_PARTITION_NOT_CYLINDER_ALIGNED in vdserr.h
+description: The disk layout contains partitions which are not cylinder aligned.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x8004253E",
+  "codeUrl": "/win32/vdserr-h/vds_e_partition_not_cylinder_aligned/0x8004253e/",
+  "numericCode": -2147211970,
+  "define": "VDS_E_PARTITION_NOT_CYLINDER_ALIGNED",
+  "defineUrl": "/win32/vdserr-h/vds_e_partition_not_cylinder_aligned/",
+  "message": "The disk layout contains partitions which are not cylinder aligned.",
+  "remarks": null,
+  "aka": [
+    "-2147211970"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_partition_not_cylinder_aligned/-2147211970/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

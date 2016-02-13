@@ -1,0 +1,28 @@
+---
+output: win32\wuerror-h\wu_e_ds_rowexists\0x8024800e\index.html.json
+
+title: 0x8024800E WU_E_DS_ROWEXISTS in wuerror.h
+description: The row was not added because an existing row has the same primary key.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wuerror.h",
+  "sourceUrl": "/win32/wuerror-h/",
+  "code": "0x8024800E",
+  "codeUrl": "/win32/wuerror-h/wu_e_ds_rowexists/0x8024800e/",
+  "numericCode": -2145091570,
+  "define": "WU_E_DS_ROWEXISTS",
+  "defineUrl": "/win32/wuerror-h/wu_e_ds_rowexists/",
+  "message": "The row was not added because an existing row has the same primary key.",
+  "remarks": null,
+  "aka": [
+    "-2145091570"
+  ],
+  "akaUrl": [
+    "/win32/wuerror-h/wu_e_ds_rowexists/-2145091570/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

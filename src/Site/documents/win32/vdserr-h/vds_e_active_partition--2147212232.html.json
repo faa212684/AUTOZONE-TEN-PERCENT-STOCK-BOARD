@@ -1,0 +1,24 @@
+---
+output: win32\vdserr-h\vds_e_active_partition\-2147212232\index.html.json
+canonical: /win32/vdserr-h/vds_e_active_partition/0x80042438/
+title: -2147212232 VDS_E_ACTIVE_PARTITION in vdserr.h
+description: An active partition was detected on the selected disk, and it is not the active partition used to boot the currently running OS.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "-2147212232",
+  "codeUrl": "/win32/vdserr-h/vds_e_active_partition/-2147212232/",
+  "numericCode": 0,
+  "define": "VDS_E_ACTIVE_PARTITION",
+  "defineUrl": "/win32/vdserr-h/vds_e_active_partition/",
+  "message": "An active partition was detected on the selected disk, and it is not the active partition used to boot the currently running OS.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80042438",
+  "originalCodeUrl": "/win32/vdserr-h/vds_e_active_partition/0x80042438/"
+}

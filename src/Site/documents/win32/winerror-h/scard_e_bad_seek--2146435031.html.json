@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\scard_e_bad_seek\-2146435031\index.html.json
+canonical: /win32/winerror-h/scard_e_bad_seek/0x80100029/
+title: -2146435031 SCARD_E_BAD_SEEK in winerror.h
+description: There was an error trying to set the smart card file object pointer.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2146435031",
+  "codeUrl": "/win32/winerror-h/scard_e_bad_seek/-2146435031/",
+  "numericCode": 0,
+  "define": "SCARD_E_BAD_SEEK",
+  "defineUrl": "/win32/winerror-h/scard_e_bad_seek/",
+  "message": "There was an error trying to set the smart card file object pointer.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80100029",
+  "originalCodeUrl": "/win32/winerror-h/scard_e_bad_seek/0x80100029/"
+}

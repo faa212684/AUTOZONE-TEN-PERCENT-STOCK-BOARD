@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\tpm_e_ppi_not_supported\-2144795901\index.html.json
+canonical: /win32/winerror-h/tpm_e_ppi_not_supported/0x80290303/
+title: -2144795901 TPM_E_PPI_NOT_SUPPORTED in winerror.h
+description: The BIOS does not support the physical presence interface.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2144795901",
+  "codeUrl": "/win32/winerror-h/tpm_e_ppi_not_supported/-2144795901/",
+  "numericCode": 0,
+  "define": "TPM_E_PPI_NOT_SUPPORTED",
+  "defineUrl": "/win32/winerror-h/tpm_e_ppi_not_supported/",
+  "message": "The BIOS does not support the physical presence interface.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80290303",
+  "originalCodeUrl": "/win32/winerror-h/tpm_e_ppi_not_supported/0x80290303/"
+}

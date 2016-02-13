@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_ndis_reinit_required\-1071448016\index.html.json
+canonical: /win32/ntstatus-h/status_ndis_reinit_required/0xc0230030/
+title: -1071448016 STATUS_NDIS_REINIT_REQUIRED in ntstatus.h
+description: This operation requires the miniport adapter to be reinitialized.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071448016",
+  "codeUrl": "/win32/ntstatus-h/status_ndis_reinit_required/-1071448016/",
+  "numericCode": 0,
+  "define": "STATUS_NDIS_REINIT_REQUIRED",
+  "defineUrl": "/win32/ntstatus-h/status_ndis_reinit_required/",
+  "message": "This operation requires the miniport adapter to be reinitialized.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0230030",
+  "originalCodeUrl": "/win32/ntstatus-h/status_ndis_reinit_required/0xc0230030/"
+}

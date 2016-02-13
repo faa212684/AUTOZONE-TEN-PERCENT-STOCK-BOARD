@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\xact_s_locally_ok\0x0004d00a\index.html.json
+
+title: 0x0004D00A XACT_S_LOCALLY_OK in winerror.h
+description: The local transaction has not aborted.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x0004D00A",
+  "codeUrl": "/win32/winerror-h/xact_s_locally_ok/0x0004d00a/",
+  "numericCode": 315402,
+  "define": "XACT_S_LOCALLY_OK",
+  "defineUrl": "/win32/winerror-h/xact_s_locally_ok/",
+  "message": "The local transaction has not aborted.",
+  "remarks": null,
+  "aka": [
+    "315402"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/xact_s_locally_ok/315402/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

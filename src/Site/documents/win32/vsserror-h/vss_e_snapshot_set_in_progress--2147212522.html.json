@@ -1,0 +1,24 @@
+---
+output: win32\vsserror-h\vss_e_snapshot_set_in_progress\-2147212522\index.html.json
+canonical: /win32/vsserror-h/vss_e_snapshot_set_in_progress/0x80042316/
+title: -2147212522 VSS_E_SNAPSHOT_SET_IN_PROGRESS in vsserror.h
+description: Another shadow copy creation is already in progress. Wait a few moments and try again.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vsserror.h",
+  "sourceUrl": "/win32/vsserror-h/",
+  "code": "-2147212522",
+  "codeUrl": "/win32/vsserror-h/vss_e_snapshot_set_in_progress/-2147212522/",
+  "numericCode": 0,
+  "define": "VSS_E_SNAPSHOT_SET_IN_PROGRESS",
+  "defineUrl": "/win32/vsserror-h/vss_e_snapshot_set_in_progress/",
+  "message": "Another shadow copy creation is already in progress. Wait a few moments and try again.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80042316",
+  "originalCodeUrl": "/win32/vsserror-h/vss_e_snapshot_set_in_progress/0x80042316/"
+}

@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\wininet_e_sec_cert_errors\-2147012841\index.html.json
+canonical: /win32/winerror-h/wininet_e_sec_cert_errors/0x80072f17/
+title: -2147012841 WININET_E_SEC_CERT_ERRORS in winerror.h
+description: The SSL certificate contains errors.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147012841",
+  "codeUrl": "/win32/winerror-h/wininet_e_sec_cert_errors/-2147012841/",
+  "numericCode": 0,
+  "define": "WININET_E_SEC_CERT_ERRORS",
+  "defineUrl": "/win32/winerror-h/wininet_e_sec_cert_errors/",
+  "message": "The SSL certificate contains errors.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80072F17",
+  "originalCodeUrl": "/win32/winerror-h/wininet_e_sec_cert_errors/0x80072f17/"
+}

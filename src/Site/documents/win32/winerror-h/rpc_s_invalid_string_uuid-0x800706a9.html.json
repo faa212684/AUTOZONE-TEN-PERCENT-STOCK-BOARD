@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\rpc_s_invalid_string_uuid\0x800706a9\index.html.json
+canonical: /win32/winerror-h/rpc_s_invalid_string_uuid/1705/
+title: 0x800706a9 RPC_S_INVALID_STRING_UUID in winerror.h
+description: The string universal unique identifier (UUID) is invalid.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800706a9",
+  "codeUrl": "/win32/winerror-h/rpc_s_invalid_string_uuid/0x800706a9/",
+  "numericCode": 0,
+  "define": "RPC_S_INVALID_STRING_UUID",
+  "defineUrl": "/win32/winerror-h/rpc_s_invalid_string_uuid/",
+  "message": "The string universal unique identifier (UUID) is invalid.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "1705",
+  "originalCodeUrl": "/win32/winerror-h/rpc_s_invalid_string_uuid/1705/"
+}

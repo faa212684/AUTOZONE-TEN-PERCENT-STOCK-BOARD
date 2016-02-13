@@ -1,0 +1,25 @@
+---
+output: win32\wsmerror-h\error_wsman_client_session_unusable\-2144108038\index.html.json
+canonical: /win32/wsmerror-h/error_wsman_client_session_unusable/0x803381fa/
+title: -2144108038 ERROR_WSMAN_CLIENT_SESSION_UNUSABLE in wsmerror.h
+description: The WS-Management service cannot process the operation. The operation is being attempted on a client session that is unusable. 
+This may be related to a recent restart of the WS-Management service. Please create a new client session and retry the operation if re-executing the operation does not have undesired behavior.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "-2144108038",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_client_session_unusable/-2144108038/",
+  "numericCode": 0,
+  "define": "ERROR_WSMAN_CLIENT_SESSION_UNUSABLE",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_client_session_unusable/",
+  "message": "The WS-Management service cannot process the operation. The operation is being attempted on a client session that is unusable. \r\nThis may be related to a recent restart of the WS-Management service. Please create a new client session and retry the operation if re-executing the operation does not have undesired behavior.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x803381FA",
+  "originalCodeUrl": "/win32/wsmerror-h/error_wsman_client_session_unusable/0x803381fa/"
+}

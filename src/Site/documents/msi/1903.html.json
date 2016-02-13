@@ -1,0 +1,24 @@
+---
+output: msi\1903\index.html.json
+
+title: msi 1903
+description: Scheduling restart operation: Deleting file [2]. Must restart to complete operation.
+disqus: true
+---
+{
+  "area": "msi",
+  "areaUrl": "/msi/",
+  "source": null,
+  "sourceUrl": "/msi/",
+  "code": "1903",
+  "codeUrl": "/msi/1903/",
+  "numericCode": 1903,
+  "define": null,
+  "defineUrl": "/msi/",
+  "message": "Scheduling restart operation: Deleting file [2]. Must restart to complete operation.",
+  "remarks": "A system restart may be required because the file that is being updated is also currently in use. Users may be given the opportunity to avoid some system restarts by using the <a href=\"https://msdn.microsoft.com/en-us/library/aa368592(v=vs.85).aspx\">FilesInUse Dialog</a> or <a href=\"https://msdn.microsoft.com/en-us/library/aa370379(v=vs.85).aspx\">MsiRMFilesInUse Dialog</a>. For more information, see <a href=\"https://msdn.microsoft.com/en-us/library/aa372059(v=vs.85).aspx\">System Reboots</a> and <a href=\"https://msdn.microsoft.com/en-us/library/aa369779(v=vs.85).aspx\">Logging of Reboot Requests</a>.",
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": null,
+  "originalCodeUrl": null
+}

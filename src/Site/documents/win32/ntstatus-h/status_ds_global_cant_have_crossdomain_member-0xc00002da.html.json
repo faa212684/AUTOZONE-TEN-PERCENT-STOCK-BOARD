@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_ds_global_cant_have_crossdomain_member\0xc00002da\index.html.json
+
+title: 0xC00002DA STATUS_DS_GLOBAL_CANT_HAVE_CROSSDOMAIN_MEMBER in ntstatus.h
+description: A global group cannot have a cross domain member.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC00002DA",
+  "codeUrl": "/win32/ntstatus-h/status_ds_global_cant_have_crossdomain_member/0xc00002da/",
+  "numericCode": -1073741094,
+  "define": "STATUS_DS_GLOBAL_CANT_HAVE_CROSSDOMAIN_MEMBER",
+  "defineUrl": "/win32/ntstatus-h/status_ds_global_cant_have_crossdomain_member/",
+  "message": "A global group cannot have a cross domain member.",
+  "remarks": null,
+  "aka": [
+    "-1073741094"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_ds_global_cant_have_crossdomain_member/-1073741094/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

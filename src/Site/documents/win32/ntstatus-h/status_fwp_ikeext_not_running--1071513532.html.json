@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_fwp_ikeext_not_running\-1071513532\index.html.json
+canonical: /win32/ntstatus-h/status_fwp_ikeext_not_running/0xc0220044/
+title: -1071513532 STATUS_FWP_IKEEXT_NOT_RUNNING in ntstatus.h
+description: The IKEEXT service is not running.  This service only runs when there is IPsec policy applied to the machine.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071513532",
+  "codeUrl": "/win32/ntstatus-h/status_fwp_ikeext_not_running/-1071513532/",
+  "numericCode": 0,
+  "define": "STATUS_FWP_IKEEXT_NOT_RUNNING",
+  "defineUrl": "/win32/ntstatus-h/status_fwp_ikeext_not_running/",
+  "message": "The IKEEXT service is not running.  This service only runs when there is IPsec policy applied to the machine.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0220044",
+  "originalCodeUrl": "/win32/ntstatus-h/status_fwp_ikeext_not_running/0xc0220044/"
+}

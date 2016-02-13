@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_e_disk_not_online\0x8004244b\index.html.json
+
+title: 0x8004244B VDS_E_DISK_NOT_ONLINE in vdserr.h
+description: This disk is already offline.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x8004244B",
+  "codeUrl": "/win32/vdserr-h/vds_e_disk_not_online/0x8004244b/",
+  "numericCode": -2147212213,
+  "define": "VDS_E_DISK_NOT_ONLINE",
+  "defineUrl": "/win32/vdserr-h/vds_e_disk_not_online/",
+  "message": "This disk is already offline.",
+  "remarks": null,
+  "aka": [
+    "-2147212213"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_disk_not_online/-2147212213/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

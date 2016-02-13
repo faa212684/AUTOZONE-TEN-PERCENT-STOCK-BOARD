@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ctx_service_name_collision\7006\index.html.json
+
+title: 7006 ERROR_CTX_SERVICE_NAME_COLLISION in winerror.h
+description: A service with the same name already exists on the system.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "7006",
+  "codeUrl": "/win32/winerror-h/error_ctx_service_name_collision/7006/",
+  "numericCode": 7006,
+  "define": "ERROR_CTX_SERVICE_NAME_COLLISION",
+  "defineUrl": "/win32/winerror-h/error_ctx_service_name_collision/",
+  "message": "A service with the same name already exists on the system.",
+  "remarks": null,
+  "aka": [
+    "0x80071b5e",
+    "-2147017890"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ctx_service_name_collision/0x80071b5e/",
+    "/win32/winerror-h/error_ctx_service_name_collision/-2147017890/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

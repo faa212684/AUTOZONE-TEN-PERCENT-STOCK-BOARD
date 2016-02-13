@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_tpm_too_many_contexts\0xc0291002\index.html.json
+
+title: 0xC0291002 STATUS_TPM_TOO_MANY_CONTEXTS in ntstatus.h
+description: A new TPM context could not be created because there are too many open contexts.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0291002",
+  "codeUrl": "/win32/ntstatus-h/status_tpm_too_many_contexts/0xc0291002/",
+  "numericCode": -1071050750,
+  "define": "STATUS_TPM_TOO_MANY_CONTEXTS",
+  "defineUrl": "/win32/ntstatus-h/status_tpm_too_many_contexts/",
+  "message": "A new TPM context could not be created because there are too many open contexts.",
+  "remarks": null,
+  "aka": [
+    "-1071050750"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_tpm_too_many_contexts/-1071050750/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

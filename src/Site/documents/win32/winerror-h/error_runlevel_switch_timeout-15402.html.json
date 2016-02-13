@@ -1,0 +1,31 @@
+---
+output: win32\winerror-h\error_runlevel_switch_timeout\15402\index.html.json
+
+title: 15402 ERROR_RUNLEVEL_SWITCH_TIMEOUT in winerror.h
+description: The requested run level switch cannot be completed successfully since
+one or more services will not stop or restart within the specified timeout.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "15402",
+  "codeUrl": "/win32/winerror-h/error_runlevel_switch_timeout/15402/",
+  "numericCode": 15402,
+  "define": "ERROR_RUNLEVEL_SWITCH_TIMEOUT",
+  "defineUrl": "/win32/winerror-h/error_runlevel_switch_timeout/",
+  "message": "The requested run level switch cannot be completed successfully since\r\none or more services will not stop or restart within the specified timeout.",
+  "remarks": null,
+  "aka": [
+    "0x80073c2a",
+    "-2147009494"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_runlevel_switch_timeout/0x80073c2a/",
+    "/win32/winerror-h/error_runlevel_switch_timeout/-2147009494/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

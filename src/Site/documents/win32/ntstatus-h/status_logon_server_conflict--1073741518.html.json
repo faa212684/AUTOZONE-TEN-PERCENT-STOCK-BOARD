@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_logon_server_conflict\-1073741518\index.html.json
+canonical: /win32/ntstatus-h/status_logon_server_conflict/0xc0000132/
+title: -1073741518 STATUS_LOGON_SERVER_CONFLICT in ntstatus.h
+description: The Netlogon service cannot start because another Netlogon service running in the domain conflicts with the specified role.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741518",
+  "codeUrl": "/win32/ntstatus-h/status_logon_server_conflict/-1073741518/",
+  "numericCode": 0,
+  "define": "STATUS_LOGON_SERVER_CONFLICT",
+  "defineUrl": "/win32/ntstatus-h/status_logon_server_conflict/",
+  "message": "The Netlogon service cannot start because another Netlogon service running in the domain conflicts with the specified role.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000132",
+  "originalCodeUrl": "/win32/ntstatus-h/status_logon_server_conflict/0xc0000132/"
+}

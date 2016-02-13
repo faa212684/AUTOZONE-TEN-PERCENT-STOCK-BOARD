@@ -1,0 +1,28 @@
+---
+output: win32\ntiologc-h\mca_warning_smbios\0x80050064\index.html.json
+
+title: 0x80050064 MCA_WARNING_SMBIOS in ntiologc.h
+description: Machine Check Event reported is a corrected SMBIOS Device Type %3 error reported to CPU %1. %2 additional error(s) are contained within the record.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntiologc.h",
+  "sourceUrl": "/win32/ntiologc-h/",
+  "code": "0x80050064",
+  "codeUrl": "/win32/ntiologc-h/mca_warning_smbios/0x80050064/",
+  "numericCode": -2147155868,
+  "define": "MCA_WARNING_SMBIOS",
+  "defineUrl": "/win32/ntiologc-h/mca_warning_smbios/",
+  "message": "Machine Check Event reported is a corrected SMBIOS Device Type %3 error reported to CPU %1. %2 additional error(s) are contained within the record.",
+  "remarks": null,
+  "aka": [
+    "-2147155868"
+  ],
+  "akaUrl": [
+    "/win32/ntiologc-h/mca_warning_smbios/-2147155868/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

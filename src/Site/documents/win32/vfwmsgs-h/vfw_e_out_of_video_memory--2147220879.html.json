@@ -1,0 +1,24 @@
+---
+output: win32\vfwmsgs-h\vfw_e_out_of_video_memory\-2147220879\index.html.json
+canonical: /win32/vfwmsgs-h/vfw_e_out_of_video_memory/0x80040271/
+title: -2147220879 VFW_E_OUT_OF_VIDEO_MEMORY in vfwmsgs.h
+description: There is not enough Video Memory at this display resolution and number of colors. Reducing resolution might help.%0
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vfwmsgs.h",
+  "sourceUrl": "/win32/vfwmsgs-h/",
+  "code": "-2147220879",
+  "codeUrl": "/win32/vfwmsgs-h/vfw_e_out_of_video_memory/-2147220879/",
+  "numericCode": 0,
+  "define": "VFW_E_OUT_OF_VIDEO_MEMORY",
+  "defineUrl": "/win32/vfwmsgs-h/vfw_e_out_of_video_memory/",
+  "message": "There is not enough Video Memory at this display resolution and number of colors. Reducing resolution might help.%0",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80040271",
+  "originalCodeUrl": "/win32/vfwmsgs-h/vfw_e_out_of_video_memory/0x80040271/"
+}

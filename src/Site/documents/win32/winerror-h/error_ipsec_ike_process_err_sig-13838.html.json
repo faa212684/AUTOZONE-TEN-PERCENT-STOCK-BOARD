@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ipsec_ike_process_err_sig\13838\index.html.json
+
+title: 13838 ERROR_IPSEC_IKE_PROCESS_ERR_SIG in winerror.h
+description: Error processing Signature payload
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "13838",
+  "codeUrl": "/win32/winerror-h/error_ipsec_ike_process_err_sig/13838/",
+  "numericCode": 13838,
+  "define": "ERROR_IPSEC_IKE_PROCESS_ERR_SIG",
+  "defineUrl": "/win32/winerror-h/error_ipsec_ike_process_err_sig/",
+  "message": "Error processing Signature payload",
+  "remarks": null,
+  "aka": [
+    "0x8007360e",
+    "-2147011058"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ipsec_ike_process_err_sig/0x8007360e/",
+    "/win32/winerror-h/error_ipsec_ike_process_err_sig/-2147011058/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

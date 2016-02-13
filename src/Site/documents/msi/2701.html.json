@@ -1,0 +1,24 @@
+---
+output: msi\2701\index.html.json
+
+title: msi 2701
+description: The depth of a feature exceeds the acceptable tree depth of [2] levels.
+disqus: true
+---
+{
+  "area": "msi",
+  "areaUrl": "/msi/",
+  "source": null,
+  "sourceUrl": "/msi/",
+  "code": "2701",
+  "codeUrl": "/msi/2701/",
+  "numericCode": 2701,
+  "define": null,
+  "defineUrl": "/msi/",
+  "message": "The depth of a feature exceeds the acceptable tree depth of [2] levels.",
+  "remarks": "The maximum depth of any feature is 16. This error is returned if a feature that exceeds the maximum depth exists.",
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": null,
+  "originalCodeUrl": null
+}

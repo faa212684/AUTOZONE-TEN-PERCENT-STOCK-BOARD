@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_file_renamed\0xc00000d5\index.html.json
+
+title: 0xC00000D5 STATUS_FILE_RENAMED in ntstatus.h
+description: The file specified has been renamed and thus cannot be modified.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC00000D5",
+  "codeUrl": "/win32/ntstatus-h/status_file_renamed/0xc00000d5/",
+  "numericCode": -1073741611,
+  "define": "STATUS_FILE_RENAMED",
+  "defineUrl": "/win32/ntstatus-h/status_file_renamed/",
+  "message": "The file specified has been renamed and thus cannot be modified.",
+  "remarks": null,
+  "aka": [
+    "-1073741611"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_file_renamed/-1073741611/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_unknown_patch\1647\index.html.json
+
+title: 1647 ERROR_UNKNOWN_PATCH in winerror.h
+description: The update is not applied to this product.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1647",
+  "codeUrl": "/win32/winerror-h/error_unknown_patch/1647/",
+  "numericCode": 1647,
+  "define": "ERROR_UNKNOWN_PATCH",
+  "defineUrl": "/win32/winerror-h/error_unknown_patch/",
+  "message": "The update is not applied to this product.",
+  "remarks": null,
+  "aka": [
+    "0x8007066f",
+    "-2147023249"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_unknown_patch/0x8007066f/",
+    "/win32/winerror-h/error_unknown_patch/-2147023249/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

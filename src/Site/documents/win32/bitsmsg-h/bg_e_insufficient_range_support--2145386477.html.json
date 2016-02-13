@@ -1,0 +1,24 @@
+---
+output: win32\bitsmsg-h\bg_e_insufficient_range_support\-2145386477\index.html.json
+canonical: /win32/bitsmsg-h/bg_e_insufficient_range_support/0x80200013/
+title: -2145386477 BG_E_INSUFFICIENT_RANGE_SUPPORT in BitsMsg.h
+description: The server does not support the necessary HTTP protocol. Background Intelligent Transfer Service (BITS) requires that the server support the Range protocol header.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "BitsMsg.h",
+  "sourceUrl": "/win32/bitsmsg-h/",
+  "code": "-2145386477",
+  "codeUrl": "/win32/bitsmsg-h/bg_e_insufficient_range_support/-2145386477/",
+  "numericCode": 0,
+  "define": "BG_E_INSUFFICIENT_RANGE_SUPPORT",
+  "defineUrl": "/win32/bitsmsg-h/bg_e_insufficient_range_support/",
+  "message": "The server does not support the necessary HTTP protocol. Background Intelligent Transfer Service (BITS) requires that the server support the Range protocol header.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80200013",
+  "originalCodeUrl": "/win32/bitsmsg-h/bg_e_insufficient_range_support/0x80200013/"
+}

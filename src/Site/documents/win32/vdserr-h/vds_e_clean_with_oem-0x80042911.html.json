@@ -1,0 +1,29 @@
+---
+output: win32\vdserr-h\vds_e_clean_with_oem\0x80042911\index.html.json
+
+title: 0x80042911 VDS_E_CLEAN_WITH_OEM in vdserr.h
+description: The FORCE parameter must be set to TRUE in order to clean a disk
+that contains an OEM volume.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x80042911",
+  "codeUrl": "/win32/vdserr-h/vds_e_clean_with_oem/0x80042911/",
+  "numericCode": -2147210991,
+  "define": "VDS_E_CLEAN_WITH_OEM",
+  "defineUrl": "/win32/vdserr-h/vds_e_clean_with_oem/",
+  "message": "The FORCE parameter must be set to TRUE in order to clean a disk\r\nthat contains an OEM volume.",
+  "remarks": null,
+  "aka": [
+    "-2147210991"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_clean_with_oem/-2147210991/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

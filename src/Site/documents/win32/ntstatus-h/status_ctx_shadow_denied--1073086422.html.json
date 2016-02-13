@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_ctx_shadow_denied\-1073086422\index.html.json
+canonical: /win32/ntstatus-h/status_ctx_shadow_denied/0xc00a002a/
+title: -1073086422 STATUS_CTX_SHADOW_DENIED in ntstatus.h
+description: The request to control another session remotely was denied.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073086422",
+  "codeUrl": "/win32/ntstatus-h/status_ctx_shadow_denied/-1073086422/",
+  "numericCode": 0,
+  "define": "STATUS_CTX_SHADOW_DENIED",
+  "defineUrl": "/win32/ntstatus-h/status_ctx_shadow_denied/",
+  "message": "The request to control another session remotely was denied.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC00A002A",
+  "originalCodeUrl": "/win32/ntstatus-h/status_ctx_shadow_denied/0xc00a002a/"
+}

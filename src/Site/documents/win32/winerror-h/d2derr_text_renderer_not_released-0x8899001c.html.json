@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\d2derr_text_renderer_not_released\0x8899001c\index.html.json
+
+title: 0x8899001C D2DERR_TEXT_RENDERER_NOT_RELEASED in winerror.h
+description: The application is holding a reference to the IDWriteTextRenderer interface after the corresponding DrawText or DrawTextLayout call has returned. The IDWriteTextRenderer instance will be invalid.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8899001C",
+  "codeUrl": "/win32/winerror-h/d2derr_text_renderer_not_released/0x8899001c/",
+  "numericCode": -2003238884,
+  "define": "D2DERR_TEXT_RENDERER_NOT_RELEASED",
+  "defineUrl": "/win32/winerror-h/d2derr_text_renderer_not_released/",
+  "message": "The application is holding a reference to the IDWriteTextRenderer interface after the corresponding DrawText or DrawTextLayout call has returned. The IDWriteTextRenderer instance will be invalid.",
+  "remarks": null,
+  "aka": [
+    "-2003238884"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/d2derr_text_renderer_not_released/-2003238884/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

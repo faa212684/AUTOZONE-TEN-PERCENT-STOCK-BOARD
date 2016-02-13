@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\fve_e_eow_not_supported_in_version\0x803100d4\index.html.json
+
+title: 0x803100D4 FVE_E_EOW_NOT_SUPPORTED_IN_VERSION in winerror.h
+description: The encrypt on write mode for BitLocker is not supported in this version of Windows. You can turn on BitLocker without using the encrypt on write mode.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x803100D4",
+  "codeUrl": "/win32/winerror-h/fve_e_eow_not_supported_in_version/0x803100d4/",
+  "numericCode": -2144272172,
+  "define": "FVE_E_EOW_NOT_SUPPORTED_IN_VERSION",
+  "defineUrl": "/win32/winerror-h/fve_e_eow_not_supported_in_version/",
+  "message": "The encrypt on write mode for BitLocker is not supported in this version of Windows. You can turn on BitLocker without using the encrypt on write mode.",
+  "remarks": null,
+  "aka": [
+    "-2144272172"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/fve_e_eow_not_supported_in_version/-2144272172/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

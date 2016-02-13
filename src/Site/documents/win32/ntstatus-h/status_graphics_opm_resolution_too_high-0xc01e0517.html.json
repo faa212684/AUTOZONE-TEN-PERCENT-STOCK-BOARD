@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_graphics_opm_resolution_too_high\0xc01e0517\index.html.json
+
+title: 0xC01E0517 STATUS_GRAPHICS_OPM_RESOLUTION_TOO_HIGH in ntstatus.h
+description: The DxgkDdiOPMConfigureProtectedOutput function cannot enable the specified output protection technology because the output's screen resolution is too high.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC01E0517",
+  "codeUrl": "/win32/ntstatus-h/status_graphics_opm_resolution_too_high/0xc01e0517/",
+  "numericCode": -1071774441,
+  "define": "STATUS_GRAPHICS_OPM_RESOLUTION_TOO_HIGH",
+  "defineUrl": "/win32/ntstatus-h/status_graphics_opm_resolution_too_high/",
+  "message": "The DxgkDdiOPMConfigureProtectedOutput function cannot enable the specified output protection technology because the output's screen resolution is too high.",
+  "remarks": null,
+  "aka": [
+    "-1071774441"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_graphics_opm_resolution_too_high/-1071774441/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

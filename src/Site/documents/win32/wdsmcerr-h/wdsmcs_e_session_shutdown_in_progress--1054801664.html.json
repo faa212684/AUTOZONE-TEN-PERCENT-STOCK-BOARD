@@ -1,0 +1,25 @@
+---
+output: win32\wdsmcerr-h\wdsmcs_e_session_shutdown_in_progress\-1054801664\index.html.json
+canonical: /win32/wdsmcerr-h/wdsmcs_e_session_shutdown_in_progress/0xc1210100/
+title: -1054801664 WDSMCS_E_SESSION_SHUTDOWN_IN_PROGRESS in wdsmcerr.h
+description: The request for content was rejected because shutdown is in progress for 
+the specified session.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wdsmcerr.h",
+  "sourceUrl": "/win32/wdsmcerr-h/",
+  "code": "-1054801664",
+  "codeUrl": "/win32/wdsmcerr-h/wdsmcs_e_session_shutdown_in_progress/-1054801664/",
+  "numericCode": 0,
+  "define": "WDSMCS_E_SESSION_SHUTDOWN_IN_PROGRESS",
+  "defineUrl": "/win32/wdsmcerr-h/wdsmcs_e_session_shutdown_in_progress/",
+  "message": "The request for content was rejected because shutdown is in progress for \r\nthe specified session.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC1210100",
+  "originalCodeUrl": "/win32/wdsmcerr-h/wdsmcs_e_session_shutdown_in_progress/0xc1210100/"
+}

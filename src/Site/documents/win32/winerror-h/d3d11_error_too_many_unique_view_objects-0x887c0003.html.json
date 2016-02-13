@@ -1,0 +1,29 @@
+---
+output: win32\winerror-h\d3d11_error_too_many_unique_view_objects\0x887c0003\index.html.json
+
+title: 0x887C0003 D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS in winerror.h
+description: The application has exceeded the maximum number of unique view objects per Direct3D device.
+The limit is 2^20 for feature levels up to 11.1.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x887C0003",
+  "codeUrl": "/win32/winerror-h/d3d11_error_too_many_unique_view_objects/0x887c0003/",
+  "numericCode": -2005139453,
+  "define": "D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS",
+  "defineUrl": "/win32/winerror-h/d3d11_error_too_many_unique_view_objects/",
+  "message": "The application has exceeded the maximum number of unique view objects per Direct3D device.\r\nThe limit is 2^20 for feature levels up to 11.1.",
+  "remarks": null,
+  "aka": [
+    "-2005139453"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/d3d11_error_too_many_unique_view_objects/-2005139453/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

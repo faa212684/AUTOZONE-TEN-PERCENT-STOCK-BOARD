@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_rdr_security_signature_mismatch\0x80000bdc\index.html.json
+
+title: 0x80000BDC EVENT_RDR_SECURITY_SIGNATURE_MISMATCH in netevent.h
+description: The redirector detected a security signature mismatch. The connection has been disconnected.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x80000BDC",
+  "codeUrl": "/win32/netevent-h/event_rdr_security_signature_mismatch/0x80000bdc/",
+  "numericCode": -2147480612,
+  "define": "EVENT_RDR_SECURITY_SIGNATURE_MISMATCH",
+  "defineUrl": "/win32/netevent-h/event_rdr_security_signature_mismatch/",
+  "message": "The redirector detected a security signature mismatch. The connection has been disconnected.",
+  "remarks": null,
+  "aka": [
+    "-2147480612"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_rdr_security_signature_mismatch/-2147480612/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

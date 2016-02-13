@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_log_tail_invalid\0x800719e3\index.html.json
+canonical: /win32/winerror-h/error_log_tail_invalid/6627/
+title: 0x800719e3 ERROR_LOG_TAIL_INVALID in winerror.h
+description: An new or existing archive tail or base of the active log is invalid.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800719e3",
+  "codeUrl": "/win32/winerror-h/error_log_tail_invalid/0x800719e3/",
+  "numericCode": 0,
+  "define": "ERROR_LOG_TAIL_INVALID",
+  "defineUrl": "/win32/winerror-h/error_log_tail_invalid/",
+  "message": "An new or existing archive tail or base of the active log is invalid.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "6627",
+  "originalCodeUrl": "/win32/winerror-h/error_log_tail_invalid/6627/"
+}

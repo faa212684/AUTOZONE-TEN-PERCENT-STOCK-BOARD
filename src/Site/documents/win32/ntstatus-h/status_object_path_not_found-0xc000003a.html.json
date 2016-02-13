@@ -1,0 +1,29 @@
+---
+output: win32\ntstatus-h\status_object_path_not_found\0xc000003a\index.html.json
+
+title: 0xC000003A STATUS_OBJECT_PATH_NOT_FOUND in ntstatus.h
+description: "{Path Not Found}
+The path %hs does not exist."
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000003A",
+  "codeUrl": "/win32/ntstatus-h/status_object_path_not_found/0xc000003a/",
+  "numericCode": -1073741766,
+  "define": "STATUS_OBJECT_PATH_NOT_FOUND",
+  "defineUrl": "/win32/ntstatus-h/status_object_path_not_found/",
+  "message": "{Path Not Found}\r\nThe path %hs does not exist.",
+  "remarks": null,
+  "aka": [
+    "-1073741766"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_object_path_not_found/-1073741766/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

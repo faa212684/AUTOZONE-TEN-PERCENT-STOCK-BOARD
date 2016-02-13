@@ -1,0 +1,24 @@
+---
+output: win32\vdserr-h\vds_s_extend_file_system_failed\271461\index.html.json
+canonical: /win32/vdserr-h/vds_s_extend_file_system_failed/0x00042465/
+title: 271461 VDS_S_EXTEND_FILE_SYSTEM_FAILED in vdserr.h
+description: The volume was extended successfully but the file system failed to extend.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "271461",
+  "codeUrl": "/win32/vdserr-h/vds_s_extend_file_system_failed/271461/",
+  "numericCode": 0,
+  "define": "VDS_S_EXTEND_FILE_SYSTEM_FAILED",
+  "defineUrl": "/win32/vdserr-h/vds_s_extend_file_system_failed/",
+  "message": "The volume was extended successfully but the file system failed to extend.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x00042465",
+  "originalCodeUrl": "/win32/vdserr-h/vds_s_extend_file_system_failed/0x00042465/"
+}

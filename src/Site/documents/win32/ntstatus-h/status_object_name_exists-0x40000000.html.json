@@ -1,0 +1,29 @@
+---
+output: win32\ntstatus-h\status_object_name_exists\0x40000000\index.html.json
+
+title: 0x40000000 STATUS_OBJECT_NAME_EXISTS in ntstatus.h
+description: "{Object Exists}
+An attempt was made to create an object and the object name already existed."
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0x40000000",
+  "codeUrl": "/win32/ntstatus-h/status_object_name_exists/0x40000000/",
+  "numericCode": 1073741824,
+  "define": "STATUS_OBJECT_NAME_EXISTS",
+  "defineUrl": "/win32/ntstatus-h/status_object_name_exists/",
+  "message": "{Object Exists}\r\nAn attempt was made to create an object and the object name already existed.",
+  "remarks": null,
+  "aka": [
+    "1073741824"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_object_name_exists/1073741824/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

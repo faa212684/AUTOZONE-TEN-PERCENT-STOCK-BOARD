@@ -1,0 +1,29 @@
+---
+output: win32\netevent-h\event_rpcss_launch_access_denied\0xc0002712\index.html.json
+
+title: 0xC0002712 EVENT_RPCSS_LAUNCH_ACCESS_DENIED in netevent.h
+description: Access denied attempting to launch a DCOM Server.
+The server is:%n%1%nThe user is %2/%3, SID=%4.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC0002712",
+  "codeUrl": "/win32/netevent-h/event_rpcss_launch_access_denied/0xc0002712/",
+  "numericCode": -1073731822,
+  "define": "EVENT_RPCSS_LAUNCH_ACCESS_DENIED",
+  "defineUrl": "/win32/netevent-h/event_rpcss_launch_access_denied/",
+  "message": "Access denied attempting to launch a DCOM Server.\r\nThe server is:%n%1%nThe user is %2/%3, SID=%4.",
+  "remarks": null,
+  "aka": [
+    "-1073731822"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_rpcss_launch_access_denied/-1073731822/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

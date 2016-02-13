@@ -1,0 +1,29 @@
+---
+output: win32\wsmerror-h\error_wsman_invalid_optionset\0x80338184\index.html.json
+
+title: 0x80338184 ERROR_WSMAN_INVALID_OPTIONSET in wsmerror.h
+description: The WinRM client cannot process the request. The OptionSet element is invalid.
+Change the request to include a valid OptionSet element and try again.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x80338184",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_invalid_optionset/0x80338184/",
+  "numericCode": -2144108156,
+  "define": "ERROR_WSMAN_INVALID_OPTIONSET",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_invalid_optionset/",
+  "message": "The WinRM client cannot process the request. The OptionSet element is invalid.\r\nChange the request to include a valid OptionSet element and try again.",
+  "remarks": null,
+  "aka": [
+    "-2144108156"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_invalid_optionset/-2144108156/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\tpm_e_daa_issuer_settings\0x80280053\index.html.json
+
+title: 0x80280053 TPM_E_DAA_ISSUER_SETTINGS in winerror.h
+description: The consistency check on DAA_issuerSettings has failed.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80280053",
+  "codeUrl": "/win32/winerror-h/tpm_e_daa_issuer_settings/0x80280053/",
+  "numericCode": -2144862125,
+  "define": "TPM_E_DAA_ISSUER_SETTINGS",
+  "defineUrl": "/win32/winerror-h/tpm_e_daa_issuer_settings/",
+  "message": "The consistency check on DAA_issuerSettings has failed.",
+  "remarks": null,
+  "aka": [
+    "-2144862125"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/tpm_e_daa_issuer_settings/-2144862125/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_mui_file_not_found\0xc00b0001\index.html.json
+
+title: 0xC00B0001 STATUS_MUI_FILE_NOT_FOUND in ntstatus.h
+description: The resource loader failed to find MUI file.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC00B0001",
+  "codeUrl": "/win32/ntstatus-h/status_mui_file_not_found/0xc00b0001/",
+  "numericCode": -1073020927,
+  "define": "STATUS_MUI_FILE_NOT_FOUND",
+  "defineUrl": "/win32/ntstatus-h/status_mui_file_not_found/",
+  "message": "The resource loader failed to find MUI file.",
+  "remarks": null,
+  "aka": [
+    "-1073020927"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_mui_file_not_found/-1073020927/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

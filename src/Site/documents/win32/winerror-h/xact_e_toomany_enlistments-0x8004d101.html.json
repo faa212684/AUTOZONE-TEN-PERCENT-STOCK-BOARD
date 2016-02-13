@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\xact_e_toomany_enlistments\0x8004d101\index.html.json
+
+title: 0x8004D101 XACT_E_TOOMANY_ENLISTMENTS in winerror.h
+description: The maximum number of enlistments for the specified transaction has been reached.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8004D101",
+  "codeUrl": "/win32/winerror-h/xact_e_toomany_enlistments/0x8004d101/",
+  "numericCode": -2147167999,
+  "define": "XACT_E_TOOMANY_ENLISTMENTS",
+  "defineUrl": "/win32/winerror-h/xact_e_toomany_enlistments/",
+  "message": "The maximum number of enlistments for the specified transaction has been reached.",
+  "remarks": null,
+  "aka": [
+    "-2147167999"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/xact_e_toomany_enlistments/-2147167999/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

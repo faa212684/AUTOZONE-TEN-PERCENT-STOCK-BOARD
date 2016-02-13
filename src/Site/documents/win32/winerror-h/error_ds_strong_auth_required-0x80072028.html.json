@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_ds_strong_auth_required\0x80072028\index.html.json
+canonical: /win32/winerror-h/error_ds_strong_auth_required/8232/
+title: 0x80072028 ERROR_DS_STRONG_AUTH_REQUIRED in winerror.h
+description: A more secure authentication method is required for this server.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80072028",
+  "codeUrl": "/win32/winerror-h/error_ds_strong_auth_required/0x80072028/",
+  "numericCode": 0,
+  "define": "ERROR_DS_STRONG_AUTH_REQUIRED",
+  "defineUrl": "/win32/winerror-h/error_ds_strong_auth_required/",
+  "message": "A more secure authentication method is required for this server.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "8232",
+  "originalCodeUrl": "/win32/winerror-h/error_ds_strong_auth_required/8232/"
+}

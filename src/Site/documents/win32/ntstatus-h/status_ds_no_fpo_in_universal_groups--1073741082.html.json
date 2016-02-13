@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_ds_no_fpo_in_universal_groups\-1073741082\index.html.json
+canonical: /win32/ntstatus-h/status_ds_no_fpo_in_universal_groups/0xc00002e6/
+title: -1073741082 STATUS_DS_NO_FPO_IN_UNIVERSAL_GROUPS in ntstatus.h
+description: Foreign security principals cannot be members of universal groups.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741082",
+  "codeUrl": "/win32/ntstatus-h/status_ds_no_fpo_in_universal_groups/-1073741082/",
+  "numericCode": 0,
+  "define": "STATUS_DS_NO_FPO_IN_UNIVERSAL_GROUPS",
+  "defineUrl": "/win32/ntstatus-h/status_ds_no_fpo_in_universal_groups/",
+  "message": "Foreign security principals cannot be members of universal groups.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC00002E6",
+  "originalCodeUrl": "/win32/ntstatus-h/status_ds_no_fpo_in_universal_groups/0xc00002e6/"
+}

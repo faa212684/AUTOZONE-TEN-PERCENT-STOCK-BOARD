@@ -1,0 +1,28 @@
+---
+output: win32\wuerror-h\wu_e_no_usertoken\0x80240018\index.html.json
+
+title: 0x80240018 WU_E_NO_USERTOKEN in wuerror.h
+description: Operation failed because a required user token is missing.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wuerror.h",
+  "sourceUrl": "/win32/wuerror-h/",
+  "code": "0x80240018",
+  "codeUrl": "/win32/wuerror-h/wu_e_no_usertoken/0x80240018/",
+  "numericCode": -2145124328,
+  "define": "WU_E_NO_USERTOKEN",
+  "defineUrl": "/win32/wuerror-h/wu_e_no_usertoken/",
+  "message": "Operation failed because a required user token is missing.",
+  "remarks": null,
+  "aka": [
+    "-2145124328"
+  ],
+  "akaUrl": [
+    "/win32/wuerror-h/wu_e_no_usertoken/-2145124328/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

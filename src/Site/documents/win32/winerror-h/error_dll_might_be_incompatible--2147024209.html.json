@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_dll_might_be_incompatible\-2147024209\index.html.json
+canonical: /win32/winerror-h/error_dll_might_be_incompatible/687/
+title: -2147024209 ERROR_DLL_MIGHT_BE_INCOMPATIBLE in winerror.h
+description: The application is loading executable code from the module %hs. This is secure, but may be incompatible with previous releases of the operating system. An alternative, %hs, is available. Should the application use the secure module %hs?
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147024209",
+  "codeUrl": "/win32/winerror-h/error_dll_might_be_incompatible/-2147024209/",
+  "numericCode": 0,
+  "define": "ERROR_DLL_MIGHT_BE_INCOMPATIBLE",
+  "defineUrl": "/win32/winerror-h/error_dll_might_be_incompatible/",
+  "message": "The application is loading executable code from the module %hs. This is secure, but may be incompatible with previous releases of the operating system. An alternative, %hs, is available. Should the application use the secure module %hs?",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "687",
+  "originalCodeUrl": "/win32/winerror-h/error_dll_might_be_incompatible/687/"
+}

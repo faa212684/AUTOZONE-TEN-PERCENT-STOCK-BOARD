@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_not_registry_file\0xc000015c\index.html.json
+
+title: 0xC000015C STATUS_NOT_REGISTRY_FILE in ntstatus.h
+description: The system has attempted to load or restore a file into the registry, and the specified file is not in the format of a registry file.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000015C",
+  "codeUrl": "/win32/ntstatus-h/status_not_registry_file/0xc000015c/",
+  "numericCode": -1073741476,
+  "define": "STATUS_NOT_REGISTRY_FILE",
+  "defineUrl": "/win32/ntstatus-h/status_not_registry_file/",
+  "message": "The system has attempted to load or restore a file into the registry, and the specified file is not in the format of a registry file.",
+  "remarks": null,
+  "aka": [
+    "-1073741476"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_not_registry_file/-1073741476/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

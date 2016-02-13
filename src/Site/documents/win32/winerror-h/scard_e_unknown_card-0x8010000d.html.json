@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\scard_e_unknown_card\0x8010000d\index.html.json
+
+title: 0x8010000D SCARD_E_UNKNOWN_CARD in winerror.h
+description: The specified smart card name is not recognized.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8010000D",
+  "codeUrl": "/win32/winerror-h/scard_e_unknown_card/0x8010000d/",
+  "numericCode": -2146435059,
+  "define": "SCARD_E_UNKNOWN_CARD",
+  "defineUrl": "/win32/winerror-h/scard_e_unknown_card/",
+  "message": "The specified smart card name is not recognized.",
+  "remarks": null,
+  "aka": [
+    "-2146435059"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/scard_e_unknown_card/-2146435059/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

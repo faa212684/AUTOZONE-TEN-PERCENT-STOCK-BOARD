@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_file_closed\0xc0000128\index.html.json
+
+title: 0xC0000128 STATUS_FILE_CLOSED in ntstatus.h
+description: An I/O request other than close and several other special case operations was attempted using a file object that had already been closed.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000128",
+  "codeUrl": "/win32/ntstatus-h/status_file_closed/0xc0000128/",
+  "numericCode": -1073741528,
+  "define": "STATUS_FILE_CLOSED",
+  "defineUrl": "/win32/ntstatus-h/status_file_closed/",
+  "message": "An I/O request other than close and several other special case operations was attempted using a file object that had already been closed.",
+  "remarks": null,
+  "aka": [
+    "-1073741528"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_file_closed/-1073741528/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_nologon_interdomain_trust_account\0x8007070f\index.html.json
+canonical: /win32/winerror-h/error_nologon_interdomain_trust_account/1807/
+title: 0x8007070f ERROR_NOLOGON_INTERDOMAIN_TRUST_ACCOUNT in winerror.h
+description: The account used is an interdomain trust account. Use your global user account or local user account to access this server.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007070f",
+  "codeUrl": "/win32/winerror-h/error_nologon_interdomain_trust_account/0x8007070f/",
+  "numericCode": 0,
+  "define": "ERROR_NOLOGON_INTERDOMAIN_TRUST_ACCOUNT",
+  "defineUrl": "/win32/winerror-h/error_nologon_interdomain_trust_account/",
+  "message": "The account used is an interdomain trust account. Use your global user account or local user account to access this server.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "1807",
+  "originalCodeUrl": "/win32/winerror-h/error_nologon_interdomain_trust_account/1807/"
+}

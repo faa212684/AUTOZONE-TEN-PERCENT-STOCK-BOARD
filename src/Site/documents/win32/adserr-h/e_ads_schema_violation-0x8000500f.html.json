@@ -1,0 +1,28 @@
+---
+output: win32\adserr-h\e_ads_schema_violation\0x8000500f\index.html.json
+
+title: 0x8000500F E_ADS_SCHEMA_VIOLATION in AdsErr.h
+description: The attempted action violates the DS schema rules.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "AdsErr.h",
+  "sourceUrl": "/win32/adserr-h/",
+  "code": "0x8000500F",
+  "codeUrl": "/win32/adserr-h/e_ads_schema_violation/0x8000500f/",
+  "numericCode": -2147463153,
+  "define": "E_ADS_SCHEMA_VIOLATION",
+  "defineUrl": "/win32/adserr-h/e_ads_schema_violation/",
+  "message": "The attempted action violates the DS schema rules.",
+  "remarks": null,
+  "aka": [
+    "-2147463153"
+  ],
+  "akaUrl": [
+    "/win32/adserr-h/e_ads_schema_violation/-2147463153/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

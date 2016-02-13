@@ -1,0 +1,28 @@
+---
+output: win32\wdstptmgmtmsg-h\wdstptmgmt_e_invalid_auto_disconnect_threshold\0xc110011c\index.html.json
+
+title: 0xC110011C WDSTPTMGMT_E_INVALID_AUTO_DISCONNECT_THRESHOLD in WdsTptMgmtMsg.h
+description: The specified AutoDisconnect threshold is invalid. The threshold must be set to a value between 1 KBps and 4194303 KBps, inclusive.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WdsTptMgmtMsg.h",
+  "sourceUrl": "/win32/wdstptmgmtmsg-h/",
+  "code": "0xC110011C",
+  "codeUrl": "/win32/wdstptmgmtmsg-h/wdstptmgmt_e_invalid_auto_disconnect_threshold/0xc110011c/",
+  "numericCode": -1055915748,
+  "define": "WDSTPTMGMT_E_INVALID_AUTO_DISCONNECT_THRESHOLD",
+  "defineUrl": "/win32/wdstptmgmtmsg-h/wdstptmgmt_e_invalid_auto_disconnect_threshold/",
+  "message": "The specified AutoDisconnect threshold is invalid. The threshold must be set to a value between 1 KBps and 4194303 KBps, inclusive.",
+  "remarks": null,
+  "aka": [
+    "-1055915748"
+  ],
+  "akaUrl": [
+    "/win32/wdstptmgmtmsg-h/wdstptmgmt_e_invalid_auto_disconnect_threshold/-1055915748/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

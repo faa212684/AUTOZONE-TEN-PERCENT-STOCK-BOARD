@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_timer_resolution_not_set\0x8007025f\index.html.json
+canonical: /win32/winerror-h/error_timer_resolution_not_set/607/
+title: 0x8007025f ERROR_TIMER_RESOLUTION_NOT_SET in winerror.h
+description: The timer resolution was not previously set by the current process.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007025f",
+  "codeUrl": "/win32/winerror-h/error_timer_resolution_not_set/0x8007025f/",
+  "numericCode": 0,
+  "define": "ERROR_TIMER_RESOLUTION_NOT_SET",
+  "defineUrl": "/win32/winerror-h/error_timer_resolution_not_set/",
+  "message": "The timer resolution was not previously set by the current process.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "607",
+  "originalCodeUrl": "/win32/winerror-h/error_timer_resolution_not_set/607/"
+}

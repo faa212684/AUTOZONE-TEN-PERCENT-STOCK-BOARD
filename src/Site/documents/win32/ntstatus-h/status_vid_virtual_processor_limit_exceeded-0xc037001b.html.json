@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_vid_virtual_processor_limit_exceeded\0xc037001b\index.html.json
+
+title: 0xC037001B STATUS_VID_VIRTUAL_PROCESSOR_LIMIT_EXCEEDED in ntstatus.h
+description: Cannot add a virtual processor to the partition because the maximum has been reached.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC037001B",
+  "codeUrl": "/win32/ntstatus-h/status_vid_virtual_processor_limit_exceeded/0xc037001b/",
+  "numericCode": -1070137317,
+  "define": "STATUS_VID_VIRTUAL_PROCESSOR_LIMIT_EXCEEDED",
+  "defineUrl": "/win32/ntstatus-h/status_vid_virtual_processor_limit_exceeded/",
+  "message": "Cannot add a virtual processor to the partition because the maximum has been reached.",
+  "remarks": null,
+  "aka": [
+    "-1070137317"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_vid_virtual_processor_limit_exceeded/-1070137317/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

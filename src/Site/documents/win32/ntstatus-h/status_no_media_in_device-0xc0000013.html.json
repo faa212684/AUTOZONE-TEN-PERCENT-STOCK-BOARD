@@ -1,0 +1,30 @@
+---
+output: win32\ntstatus-h\status_no_media_in_device\0xc0000013\index.html.json
+
+title: 0xC0000013 STATUS_NO_MEDIA_IN_DEVICE in ntstatus.h
+description: "{No Disk}
+There is no disk in the drive.
+Please insert a disk into drive %hs."
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000013",
+  "codeUrl": "/win32/ntstatus-h/status_no_media_in_device/0xc0000013/",
+  "numericCode": -1073741805,
+  "define": "STATUS_NO_MEDIA_IN_DEVICE",
+  "defineUrl": "/win32/ntstatus-h/status_no_media_in_device/",
+  "message": "{No Disk}\r\nThere is no disk in the drive.\r\nPlease insert a disk into drive %hs.",
+  "remarks": null,
+  "aka": [
+    "-1073741805"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_no_media_in_device/-1073741805/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\co_e_nosynchronization\0x8004e02e\index.html.json
+
+title: 0x8004E02E CO_E_NOSYNCHRONIZATION in winerror.h
+description: The COM+ component requires synchronization, and it is not configured for it.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8004E02E",
+  "codeUrl": "/win32/winerror-h/co_e_nosynchronization/0x8004e02e/",
+  "numericCode": -2147164114,
+  "define": "CO_E_NOSYNCHRONIZATION",
+  "defineUrl": "/win32/winerror-h/co_e_nosynchronization/",
+  "message": "The COM+ component requires synchronization, and it is not configured for it.",
+  "remarks": null,
+  "aka": [
+    "-2147164114"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/co_e_nosynchronization/-2147164114/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\stg_e_readfault\0x8003001e\index.html.json
+
+title: 0x8003001E STG_E_READFAULT in winerror.h
+description: A disk error occurred during a read operation.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8003001E",
+  "codeUrl": "/win32/winerror-h/stg_e_readfault/0x8003001e/",
+  "numericCode": -2147287010,
+  "define": "STG_E_READFAULT",
+  "defineUrl": "/win32/winerror-h/stg_e_readfault/",
+  "message": "A disk error occurred during a read operation.",
+  "remarks": null,
+  "aka": [
+    "-2147287010"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/stg_e_readfault/-2147287010/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

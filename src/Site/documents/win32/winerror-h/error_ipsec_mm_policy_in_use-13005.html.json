@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ipsec_mm_policy_in_use\13005\index.html.json
+
+title: 13005 ERROR_IPSEC_MM_POLICY_IN_USE in winerror.h
+description: The specified main mode policy is being used.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "13005",
+  "codeUrl": "/win32/winerror-h/error_ipsec_mm_policy_in_use/13005/",
+  "numericCode": 13005,
+  "define": "ERROR_IPSEC_MM_POLICY_IN_USE",
+  "defineUrl": "/win32/winerror-h/error_ipsec_mm_policy_in_use/",
+  "message": "The specified main mode policy is being used.",
+  "remarks": null,
+  "aka": [
+    "0x800732cd",
+    "-2147011891"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ipsec_mm_policy_in_use/0x800732cd/",
+    "/win32/winerror-h/error_ipsec_mm_policy_in_use/-2147011891/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

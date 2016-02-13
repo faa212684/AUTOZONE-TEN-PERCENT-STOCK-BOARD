@@ -1,0 +1,29 @@
+---
+output: win32\vdserr-h\vds_e_clean_with_critical\0x80042912\index.html.json
+
+title: 0x80042912 VDS_E_CLEAN_WITH_CRITICAL in vdserr.h
+description: Clean is not allowed on the disk containing the current boot,
+system, pagefile, crashdump or hibernation volume.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x80042912",
+  "codeUrl": "/win32/vdserr-h/vds_e_clean_with_critical/0x80042912/",
+  "numericCode": -2147210990,
+  "define": "VDS_E_CLEAN_WITH_CRITICAL",
+  "defineUrl": "/win32/vdserr-h/vds_e_clean_with_critical/",
+  "message": "Clean is not allowed on the disk containing the current boot,\r\nsystem, pagefile, crashdump or hibernation volume.",
+  "remarks": null,
+  "aka": [
+    "-2147210990"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_clean_with_critical/-2147210990/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

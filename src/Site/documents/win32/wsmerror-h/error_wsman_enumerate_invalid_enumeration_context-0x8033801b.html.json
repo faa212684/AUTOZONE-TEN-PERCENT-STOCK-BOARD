@@ -1,0 +1,29 @@
+---
+output: win32\wsmerror-h\error_wsman_enumerate_invalid_enumeration_context\0x8033801b\index.html.json
+
+title: 0x8033801B ERROR_WSMAN_ENUMERATE_INVALID_ENUMERATION_CONTEXT in wsmerror.h
+description: The WS-Enumeration context in the enumeration is not valid. Enumeration may have been completed or canceled.
+You cannot use this enumeration context anymore. Start a new enumeration.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x8033801B",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_enumerate_invalid_enumeration_context/0x8033801b/",
+  "numericCode": -2144108517,
+  "define": "ERROR_WSMAN_ENUMERATE_INVALID_ENUMERATION_CONTEXT",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_enumerate_invalid_enumeration_context/",
+  "message": "The WS-Enumeration context in the enumeration is not valid. Enumeration may have been completed or canceled.\r\nYou cannot use this enumeration context anymore. Start a new enumeration.",
+  "remarks": null,
+  "aka": [
+    "-2144108517"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_enumerate_invalid_enumeration_context/-2144108517/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

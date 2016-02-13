@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_corrupt_log_unavailable\0x8007031c\index.html.json
+canonical: /win32/winerror-h/error_corrupt_log_unavailable/796/
+title: 0x8007031c ERROR_CORRUPT_LOG_UNAVAILABLE in winerror.h
+description: One of the volume corruption logs is unavailable for being operated on.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007031c",
+  "codeUrl": "/win32/winerror-h/error_corrupt_log_unavailable/0x8007031c/",
+  "numericCode": 0,
+  "define": "ERROR_CORRUPT_LOG_UNAVAILABLE",
+  "defineUrl": "/win32/winerror-h/error_corrupt_log_unavailable/",
+  "message": "One of the volume corruption logs is unavailable for being operated on.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "796",
+  "originalCodeUrl": "/win32/winerror-h/error_corrupt_log_unavailable/796/"
+}

@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_sem_owner_died\105\index.html.json
+
+title: 105 ERROR_SEM_OWNER_DIED in winerror.h
+description: The previous ownership of this semaphore has ended.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "105",
+  "codeUrl": "/win32/winerror-h/error_sem_owner_died/105/",
+  "numericCode": 105,
+  "define": "ERROR_SEM_OWNER_DIED",
+  "defineUrl": "/win32/winerror-h/error_sem_owner_died/",
+  "message": "The previous ownership of this semaphore has ended.",
+  "remarks": null,
+  "aka": [
+    "0x80070069",
+    "-2147024791"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_sem_owner_died/0x80070069/",
+    "/win32/winerror-h/error_sem_owner_died/-2147024791/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

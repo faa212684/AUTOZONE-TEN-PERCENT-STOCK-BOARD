@@ -1,0 +1,28 @@
+---
+output: win32\slerror-h\sl_e_vl_invalid_timestamp\0xc004f06c\index.html.json
+
+title: 0xC004F06C SL_E_VL_INVALID_TIMESTAMP in slerror.h
+description: The Software Licensing Service reported that the product could not be activated. The Key Management Service (KMS) determined that the request timestamp is invalid.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "slerror.h",
+  "sourceUrl": "/win32/slerror-h/",
+  "code": "0xC004F06C",
+  "codeUrl": "/win32/slerror-h/sl_e_vl_invalid_timestamp/0xc004f06c/",
+  "numericCode": -1073418132,
+  "define": "SL_E_VL_INVALID_TIMESTAMP",
+  "defineUrl": "/win32/slerror-h/sl_e_vl_invalid_timestamp/",
+  "message": "The Software Licensing Service reported that the product could not be activated. The Key Management Service (KMS) determined that the request timestamp is invalid.",
+  "remarks": null,
+  "aka": [
+    "-1073418132"
+  ],
+  "akaUrl": [
+    "/win32/slerror-h/sl_e_vl_invalid_timestamp/-1073418132/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

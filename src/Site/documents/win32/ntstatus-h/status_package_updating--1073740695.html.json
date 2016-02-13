@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_package_updating\-1073740695\index.html.json
+canonical: /win32/ntstatus-h/status_package_updating/0xc0000469/
+title: -1073740695 STATUS_PACKAGE_UPDATING in ntstatus.h
+description: The application cannot be started because it is currently updating.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073740695",
+  "codeUrl": "/win32/ntstatus-h/status_package_updating/-1073740695/",
+  "numericCode": 0,
+  "define": "STATUS_PACKAGE_UPDATING",
+  "defineUrl": "/win32/ntstatus-h/status_package_updating/",
+  "message": "The application cannot be started because it is currently updating.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000469",
+  "originalCodeUrl": "/win32/ntstatus-h/status_package_updating/0xc0000469/"
+}

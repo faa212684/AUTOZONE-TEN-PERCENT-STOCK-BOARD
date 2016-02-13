@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_cluster_node_unreachable\0xc013000d\index.html.json
+
+title: 0xC013000D STATUS_CLUSTER_NODE_UNREACHABLE in ntstatus.h
+description: The cluster node is not reachable.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC013000D",
+  "codeUrl": "/win32/ntstatus-h/status_cluster_node_unreachable/0xc013000d/",
+  "numericCode": -1072496627,
+  "define": "STATUS_CLUSTER_NODE_UNREACHABLE",
+  "defineUrl": "/win32/ntstatus-h/status_cluster_node_unreachable/",
+  "message": "The cluster node is not reachable.",
+  "remarks": null,
+  "aka": [
+    "-1072496627"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_cluster_node_unreachable/-1072496627/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

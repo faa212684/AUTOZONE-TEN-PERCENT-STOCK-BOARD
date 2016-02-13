@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_fve_not_os_volume\0xc0210012\index.html.json
+
+title: 0xC0210012 STATUS_FVE_NOT_OS_VOLUME in ntstatus.h
+description: That volume is not the OS volume.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0210012",
+  "codeUrl": "/win32/ntstatus-h/status_fve_not_os_volume/0xc0210012/",
+  "numericCode": -1071579118,
+  "define": "STATUS_FVE_NOT_OS_VOLUME",
+  "defineUrl": "/win32/ntstatus-h/status_fve_not_os_volume/",
+  "message": "That volume is not the OS volume.",
+  "remarks": null,
+  "aka": [
+    "-1071579118"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_fve_not_os_volume/-1071579118/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

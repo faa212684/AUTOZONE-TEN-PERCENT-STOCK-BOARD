@@ -1,0 +1,25 @@
+---
+output: win32\vdserr-h\vds_s_statuses_incompletely_set\272130\index.html.json
+canonical: /win32/vdserr-h/vds_s_statuses_incompletely_set/0x00042702/
+title: 272130 VDS_S_STATUSES_INCOMPLETELY_SET in vdserr.h
+description: At least one path status is not set successfully due to a non-fatal error, 
+for example the status conflicts with the current load balance policy.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "272130",
+  "codeUrl": "/win32/vdserr-h/vds_s_statuses_incompletely_set/272130/",
+  "numericCode": 0,
+  "define": "VDS_S_STATUSES_INCOMPLETELY_SET",
+  "defineUrl": "/win32/vdserr-h/vds_s_statuses_incompletely_set/",
+  "message": "At least one path status is not set successfully due to a non-fatal error, \r\nfor example the status conflicts with the current load balance policy.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x00042702",
+  "originalCodeUrl": "/win32/vdserr-h/vds_s_statuses_incompletely_set/0x00042702/"
+}

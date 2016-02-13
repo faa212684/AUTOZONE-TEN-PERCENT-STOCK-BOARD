@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_no_such_privilege\-1073741728\index.html.json
+canonical: /win32/ntstatus-h/status_no_such_privilege/0xc0000060/
+title: -1073741728 STATUS_NO_SUCH_PRIVILEGE in ntstatus.h
+description: A specified privilege does not exist.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741728",
+  "codeUrl": "/win32/ntstatus-h/status_no_such_privilege/-1073741728/",
+  "numericCode": 0,
+  "define": "STATUS_NO_SUCH_PRIVILEGE",
+  "defineUrl": "/win32/ntstatus-h/status_no_such_privilege/",
+  "message": "A specified privilege does not exist.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000060",
+  "originalCodeUrl": "/win32/ntstatus-h/status_no_such_privilege/0xc0000060/"
+}

@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_graphics_skip_allocation_preparation\1075708417\index.html.json
+canonical: /win32/ntstatus-h/status_graphics_skip_allocation_preparation/0x401e0201/
+title: 1075708417 STATUS_GRAPHICS_SKIP_ALLOCATION_PREPARATION in ntstatus.h
+description: Skip preparation of allocations referenced by the DMA buffer.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "1075708417",
+  "codeUrl": "/win32/ntstatus-h/status_graphics_skip_allocation_preparation/1075708417/",
+  "numericCode": 0,
+  "define": "STATUS_GRAPHICS_SKIP_ALLOCATION_PREPARATION",
+  "defineUrl": "/win32/ntstatus-h/status_graphics_skip_allocation_preparation/",
+  "message": "Skip preparation of allocations referenced by the DMA buffer.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x401E0201",
+  "originalCodeUrl": "/win32/ntstatus-h/status_graphics_skip_allocation_preparation/0x401e0201/"
+}

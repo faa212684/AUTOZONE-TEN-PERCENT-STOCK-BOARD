@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\dns_error_rcode_notzone\9010\index.html.json
+
+title: 9010 DNS_ERROR_RCODE_NOTZONE in winerror.h
+description: DNS name in update or prereq is not in zone.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "9010",
+  "codeUrl": "/win32/winerror-h/dns_error_rcode_notzone/9010/",
+  "numericCode": 9010,
+  "define": "DNS_ERROR_RCODE_NOTZONE",
+  "defineUrl": "/win32/winerror-h/dns_error_rcode_notzone/",
+  "message": "DNS name in update or prereq is not in zone.",
+  "remarks": null,
+  "aka": [
+    "0x80072332",
+    "-2147015886"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/dns_error_rcode_notzone/0x80072332/",
+    "/win32/winerror-h/dns_error_rcode_notzone/-2147015886/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

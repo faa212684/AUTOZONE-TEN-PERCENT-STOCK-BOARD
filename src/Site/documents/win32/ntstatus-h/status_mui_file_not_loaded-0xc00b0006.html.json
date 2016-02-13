@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_mui_file_not_loaded\0xc00b0006\index.html.json
+
+title: 0xC00B0006 STATUS_MUI_FILE_NOT_LOADED in ntstatus.h
+description: The resource loader cache doesn't have loaded MUI entry.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC00B0006",
+  "codeUrl": "/win32/ntstatus-h/status_mui_file_not_loaded/0xc00b0006/",
+  "numericCode": -1073020922,
+  "define": "STATUS_MUI_FILE_NOT_LOADED",
+  "defineUrl": "/win32/ntstatus-h/status_mui_file_not_loaded/",
+  "message": "The resource loader cache doesn't have loaded MUI entry.",
+  "remarks": null,
+  "aka": [
+    "-1073020922"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_mui_file_not_loaded/-1073020922/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

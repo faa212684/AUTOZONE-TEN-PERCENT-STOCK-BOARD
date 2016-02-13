@@ -1,0 +1,31 @@
+---
+output: win32\winerror-h\error_sam_init_failure\8541\index.html.json
+
+title: 8541 ERROR_SAM_INIT_FAILURE in winerror.h
+description: Security Accounts Manager initialization failed because of the following error: %1.
+Error Status: 0x%2. Click OK to shut down the system and reboot into Safe Mode. Check the event log for detailed information.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "8541",
+  "codeUrl": "/win32/winerror-h/error_sam_init_failure/8541/",
+  "numericCode": 8541,
+  "define": "ERROR_SAM_INIT_FAILURE",
+  "defineUrl": "/win32/winerror-h/error_sam_init_failure/",
+  "message": "Security Accounts Manager initialization failed because of the following error: %1.\r\nError Status: 0x%2. Click OK to shut down the system and reboot into Safe Mode. Check the event log for detailed information.",
+  "remarks": null,
+  "aka": [
+    "0x8007215d",
+    "-2147016355"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_sam_init_failure/0x8007215d/",
+    "/win32/winerror-h/error_sam_init_failure/-2147016355/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

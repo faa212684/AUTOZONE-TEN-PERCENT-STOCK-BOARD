@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_vhd_invalid_state\0xc03a001c\index.html.json
+
+title: 0xC03A001C STATUS_VHD_INVALID_STATE in ntstatus.h
+description: The requested operation cannot be performed on the virtual disk in its current state.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC03A001C",
+  "codeUrl": "/win32/ntstatus-h/status_vhd_invalid_state/0xc03a001c/",
+  "numericCode": -1069940708,
+  "define": "STATUS_VHD_INVALID_STATE",
+  "defineUrl": "/win32/ntstatus-h/status_vhd_invalid_state/",
+  "message": "The requested operation cannot be performed on the virtual disk in its current state.",
+  "remarks": null,
+  "aka": [
+    "-1069940708"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_vhd_invalid_state/-1069940708/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

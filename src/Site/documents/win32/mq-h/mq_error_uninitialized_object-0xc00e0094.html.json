@@ -1,0 +1,28 @@
+---
+output: win32\mq-h\mq_error_uninitialized_object\0xc00e0094\index.html.json
+
+title: 0xC00E0094 MQ_ERROR_UNINITIALIZED_OBJECT in Mq.h
+description: The MSMQManagement object must be initialized before it is used.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "Mq.h",
+  "sourceUrl": "/win32/mq-h/",
+  "code": "0xC00E0094",
+  "codeUrl": "/win32/mq-h/mq_error_uninitialized_object/0xc00e0094/",
+  "numericCode": -1072824172,
+  "define": "MQ_ERROR_UNINITIALIZED_OBJECT",
+  "defineUrl": "/win32/mq-h/mq_error_uninitialized_object/",
+  "message": "The MSMQManagement object must be initialized before it is used.",
+  "remarks": null,
+  "aka": [
+    "-1072824172"
+  ],
+  "akaUrl": [
+    "/win32/mq-h/mq_error_uninitialized_object/-1072824172/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

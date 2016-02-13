@@ -1,0 +1,25 @@
+---
+output: win32\cdosyserr-h\evttoomanyiterationsforquery\-2147278777\index.html.json
+canonical: /win32/cdosyserr-h/evttoomanyiterationsforquery/0x80032047/
+title: -2147278777 evtTooManyIterationsForQuery in CDOSysErr.h
+description: The recurring appointment expansion in mailbox %1 has taken too long. Some recurring appointment instances may not be visible at this time. To ensure that the calendar view is correct, please refresh the calendar view in Microsoft Outlook Web Access.
+%n%nFor more information, click http:www.microsoft.com/contentredirect.asp.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "CDOSysErr.h",
+  "sourceUrl": "/win32/cdosyserr-h/",
+  "code": "-2147278777",
+  "codeUrl": "/win32/cdosyserr-h/evttoomanyiterationsforquery/-2147278777/",
+  "numericCode": 0,
+  "define": "evtTooManyIterationsForQuery",
+  "defineUrl": "/win32/cdosyserr-h/evttoomanyiterationsforquery/",
+  "message": "The recurring appointment expansion in mailbox %1 has taken too long. Some recurring appointment instances may not be visible at this time. To ensure that the calendar view is correct, please refresh the calendar view in Microsoft Outlook Web Access.\r\n%n%nFor more information, click http:www.microsoft.com/contentredirect.asp.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80032047",
+  "originalCodeUrl": "/win32/cdosyserr-h/evttoomanyiterationsforquery/0x80032047/"
+}

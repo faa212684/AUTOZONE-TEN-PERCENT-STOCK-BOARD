@@ -1,0 +1,30 @@
+---
+output: win32\vdserr-h\vds_e_invalid_stripe_size\0x80042525\index.html.json
+
+title: 0x80042525 VDS_E_INVALID_STRIPE_SIZE in vdserr.h
+description: The stripe size must be a multiple of 2, between 512 bytes and 1 MB, 
+for stripe and raid5 volumes. The stripe size must be zero for other 
+volume types.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x80042525",
+  "codeUrl": "/win32/vdserr-h/vds_e_invalid_stripe_size/0x80042525/",
+  "numericCode": -2147211995,
+  "define": "VDS_E_INVALID_STRIPE_SIZE",
+  "defineUrl": "/win32/vdserr-h/vds_e_invalid_stripe_size/",
+  "message": "The stripe size must be a multiple of 2, between 512 bytes and 1 MB, \r\nfor stripe and raid5 volumes. The stripe size must be zero for other \r\nvolume types.",
+  "remarks": null,
+  "aka": [
+    "-2147211995"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_invalid_stripe_size/-2147211995/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

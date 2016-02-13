@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_tpm_bad_attributes\-1071054782\index.html.json
+canonical: /win32/ntstatus-h/status_tpm_bad_attributes/0xc0290042/
+title: -1071054782 STATUS_TPM_BAD_ATTRIBUTES in ntstatus.h
+description: The NV area attributes conflict.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071054782",
+  "codeUrl": "/win32/ntstatus-h/status_tpm_bad_attributes/-1071054782/",
+  "numericCode": 0,
+  "define": "STATUS_TPM_BAD_ATTRIBUTES",
+  "defineUrl": "/win32/ntstatus-h/status_tpm_bad_attributes/",
+  "message": "The NV area attributes conflict.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0290042",
+  "originalCodeUrl": "/win32/ntstatus-h/status_tpm_bad_attributes/0xc0290042/"
+}

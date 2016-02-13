@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\nwsap_event_wanhandlememory_error\0xc0002154\index.html.json
+
+title: 0xC0002154 NWSAP_EVENT_WANHANDLEMEMORY_ERROR in netevent.h
+description: Error allocating buffer to hold WAN notify thread handles.  The Sap Agent cannot continue.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC0002154",
+  "codeUrl": "/win32/netevent-h/nwsap_event_wanhandlememory_error/0xc0002154/",
+  "numericCode": -1073733292,
+  "define": "NWSAP_EVENT_WANHANDLEMEMORY_ERROR",
+  "defineUrl": "/win32/netevent-h/nwsap_event_wanhandlememory_error/",
+  "message": "Error allocating buffer to hold WAN notify thread handles.  The Sap Agent cannot continue.",
+  "remarks": null,
+  "aka": [
+    "-1073733292"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/nwsap_event_wanhandlememory_error/-1073733292/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

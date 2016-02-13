@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_invalid_kernel_info_version\340\index.html.json
+
+title: 340 ERROR_INVALID_KERNEL_INFO_VERSION in winerror.h
+description: The supplied kernel information version is invalid.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "340",
+  "codeUrl": "/win32/winerror-h/error_invalid_kernel_info_version/340/",
+  "numericCode": 340,
+  "define": "ERROR_INVALID_KERNEL_INFO_VERSION",
+  "defineUrl": "/win32/winerror-h/error_invalid_kernel_info_version/",
+  "message": "The supplied kernel information version is invalid.",
+  "remarks": null,
+  "aka": [
+    "0x80070154",
+    "-2147024556"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_invalid_kernel_info_version/0x80070154/",
+    "/win32/winerror-h/error_invalid_kernel_info_version/-2147024556/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

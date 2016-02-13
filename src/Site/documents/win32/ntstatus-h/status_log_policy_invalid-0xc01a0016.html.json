@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_log_policy_invalid\0xc01a0016\index.html.json
+
+title: 0xC01A0016 STATUS_LOG_POLICY_INVALID in ntstatus.h
+description: The installed set of policies on the log is invalid.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC01A0016",
+  "codeUrl": "/win32/ntstatus-h/status_log_policy_invalid/0xc01a0016/",
+  "numericCode": -1072037866,
+  "define": "STATUS_LOG_POLICY_INVALID",
+  "defineUrl": "/win32/ntstatus-h/status_log_policy_invalid/",
+  "message": "The installed set of policies on the log is invalid.",
+  "remarks": null,
+  "aka": [
+    "-1072037866"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_log_policy_invalid/-1072037866/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

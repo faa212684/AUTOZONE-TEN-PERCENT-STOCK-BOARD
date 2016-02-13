@@ -1,0 +1,28 @@
+---
+output: win32\cdosyserr-h\cdo_e_http_not_found\0x80040218\index.html.json
+
+title: 0x80040218 CDO_E_HTTP_NOT_FOUND in CDOSysErr.h
+description: The requested resource could not be found. The server response was: %1.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "CDOSysErr.h",
+  "sourceUrl": "/win32/cdosyserr-h/",
+  "code": "0x80040218",
+  "codeUrl": "/win32/cdosyserr-h/cdo_e_http_not_found/0x80040218/",
+  "numericCode": -2147220968,
+  "define": "CDO_E_HTTP_NOT_FOUND",
+  "defineUrl": "/win32/cdosyserr-h/cdo_e_http_not_found/",
+  "message": "The requested resource could not be found. The server response was: %1.",
+  "remarks": null,
+  "aka": [
+    "-2147220968"
+  ],
+  "akaUrl": [
+    "/win32/cdosyserr-h/cdo_e_http_not_found/-2147220968/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

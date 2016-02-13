@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_invalid_print_monitor\3007\index.html.json
+
+title: 3007 ERROR_INVALID_PRINT_MONITOR in winerror.h
+description: The specified print monitor does not have the required functions.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "3007",
+  "codeUrl": "/win32/winerror-h/error_invalid_print_monitor/3007/",
+  "numericCode": 3007,
+  "define": "ERROR_INVALID_PRINT_MONITOR",
+  "defineUrl": "/win32/winerror-h/error_invalid_print_monitor/",
+  "message": "The specified print monitor does not have the required functions.",
+  "remarks": null,
+  "aka": [
+    "0x80070bbf",
+    "-2147021889"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_invalid_print_monitor/0x80070bbf/",
+    "/win32/winerror-h/error_invalid_print_monitor/-2147021889/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

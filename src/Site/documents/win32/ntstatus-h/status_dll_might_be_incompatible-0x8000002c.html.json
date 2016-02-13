@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_dll_might_be_incompatible\0x8000002c\index.html.json
+
+title: 0x8000002C STATUS_DLL_MIGHT_BE_INCOMPATIBLE in ntstatus.h
+description: The application is loading executable code from the module %hs. This is secure, but may be incompatible with previous releases of the operating system. An alternative, %hs, is available. Should the application use the secure module %hs?
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0x8000002C",
+  "codeUrl": "/win32/ntstatus-h/status_dll_might_be_incompatible/0x8000002c/",
+  "numericCode": -2147483604,
+  "define": "STATUS_DLL_MIGHT_BE_INCOMPATIBLE",
+  "defineUrl": "/win32/ntstatus-h/status_dll_might_be_incompatible/",
+  "message": "The application is loading executable code from the module %hs. This is secure, but may be incompatible with previous releases of the operating system. An alternative, %hs, is available. Should the application use the secure module %hs?",
+  "remarks": null,
+  "aka": [
+    "-2147483604"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_dll_might_be_incompatible/-2147483604/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

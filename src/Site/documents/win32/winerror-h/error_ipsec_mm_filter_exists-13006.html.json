@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ipsec_mm_filter_exists\13006\index.html.json
+
+title: 13006 ERROR_IPSEC_MM_FILTER_EXISTS in winerror.h
+description: The specified main mode filter already exists.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "13006",
+  "codeUrl": "/win32/winerror-h/error_ipsec_mm_filter_exists/13006/",
+  "numericCode": 13006,
+  "define": "ERROR_IPSEC_MM_FILTER_EXISTS",
+  "defineUrl": "/win32/winerror-h/error_ipsec_mm_filter_exists/",
+  "message": "The specified main mode filter already exists.",
+  "remarks": null,
+  "aka": [
+    "0x800732ce",
+    "-2147011890"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ipsec_mm_filter_exists/0x800732ce/",
+    "/win32/winerror-h/error_ipsec_mm_filter_exists/-2147011890/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

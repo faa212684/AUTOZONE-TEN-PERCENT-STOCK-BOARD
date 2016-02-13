@@ -1,0 +1,24 @@
+---
+output: win32\scarderr-h\scard_e_proto_mismatch\-2146435057\index.html.json
+canonical: /win32/scarderr-h/scard_e_proto_mismatch/0x8010000f/
+title: -2146435057 SCARD_E_PROTO_MISMATCH in SCardErr.h
+description: The requested protocols are incompatible with the protocol currently in use with the smart card.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "SCardErr.h",
+  "sourceUrl": "/win32/scarderr-h/",
+  "code": "-2146435057",
+  "codeUrl": "/win32/scarderr-h/scard_e_proto_mismatch/-2146435057/",
+  "numericCode": 0,
+  "define": "SCARD_E_PROTO_MISMATCH",
+  "defineUrl": "/win32/scarderr-h/scard_e_proto_mismatch/",
+  "message": "The requested protocols are incompatible with the protocol currently in use with the smart card.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x8010000F",
+  "originalCodeUrl": "/win32/scarderr-h/scard_e_proto_mismatch/0x8010000f/"
+}

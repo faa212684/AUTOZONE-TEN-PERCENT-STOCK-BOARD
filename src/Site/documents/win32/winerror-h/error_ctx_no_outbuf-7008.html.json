@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ctx_no_outbuf\7008\index.html.json
+
+title: 7008 ERROR_CTX_NO_OUTBUF in winerror.h
+description: There are no free output buffers available.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "7008",
+  "codeUrl": "/win32/winerror-h/error_ctx_no_outbuf/7008/",
+  "numericCode": 7008,
+  "define": "ERROR_CTX_NO_OUTBUF",
+  "defineUrl": "/win32/winerror-h/error_ctx_no_outbuf/",
+  "message": "There are no free output buffers available.",
+  "remarks": null,
+  "aka": [
+    "0x80071b60",
+    "-2147017888"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ctx_no_outbuf/0x80071b60/",
+    "/win32/winerror-h/error_ctx_no_outbuf/-2147017888/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

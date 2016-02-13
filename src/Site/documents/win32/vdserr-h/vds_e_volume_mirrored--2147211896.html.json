@@ -1,0 +1,24 @@
+---
+output: win32\vdserr-h\vds_e_volume_mirrored\-2147211896\index.html.json
+canonical: /win32/vdserr-h/vds_e_volume_mirrored/0x80042588/
+title: -2147211896 VDS_E_VOLUME_MIRRORED in vdserr.h
+description: This operation is not supported on a mirrored volume.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "-2147211896",
+  "codeUrl": "/win32/vdserr-h/vds_e_volume_mirrored/-2147211896/",
+  "numericCode": 0,
+  "define": "VDS_E_VOLUME_MIRRORED",
+  "defineUrl": "/win32/vdserr-h/vds_e_volume_mirrored/",
+  "message": "This operation is not supported on a mirrored volume.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80042588",
+  "originalCodeUrl": "/win32/vdserr-h/vds_e_volume_mirrored/0x80042588/"
+}

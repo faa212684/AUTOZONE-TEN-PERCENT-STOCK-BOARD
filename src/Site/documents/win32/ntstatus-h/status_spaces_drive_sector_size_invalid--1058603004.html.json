@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_spaces_drive_sector_size_invalid\-1058603004\index.html.json
+canonical: /win32/ntstatus-h/status_spaces_drive_sector_size_invalid/0xc0e70004/
+title: -1058603004 STATUS_SPACES_DRIVE_SECTOR_SIZE_INVALID in ntstatus.h
+description: The sector size of the physical disk is not supported by the storage pool.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1058603004",
+  "codeUrl": "/win32/ntstatus-h/status_spaces_drive_sector_size_invalid/-1058603004/",
+  "numericCode": 0,
+  "define": "STATUS_SPACES_DRIVE_SECTOR_SIZE_INVALID",
+  "defineUrl": "/win32/ntstatus-h/status_spaces_drive_sector_size_invalid/",
+  "message": "The sector size of the physical disk is not supported by the storage pool.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0E70004",
+  "originalCodeUrl": "/win32/ntstatus-h/status_spaces_drive_sector_size_invalid/0xc0e70004/"
+}

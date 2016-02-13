@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_volmgr_disk_id_invalid\0xc0380008\index.html.json
+
+title: 0xC0380008 STATUS_VOLMGR_DISK_ID_INVALID in ntstatus.h
+description: The specified disk id is invalid. There are no disks with the specified disk id.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0380008",
+  "codeUrl": "/win32/ntstatus-h/status_volmgr_disk_id_invalid/0xc0380008/",
+  "numericCode": -1070071800,
+  "define": "STATUS_VOLMGR_DISK_ID_INVALID",
+  "defineUrl": "/win32/ntstatus-h/status_volmgr_disk_id_invalid/",
+  "message": "The specified disk id is invalid. There are no disks with the specified disk id.",
+  "remarks": null,
+  "aka": [
+    "-1070071800"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_volmgr_disk_id_invalid/-1070071800/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,24 @@
+---
+output: win32\windowssearcherrors-h\event_crawl_scheduled\1073744884\index.html.json
+canonical: /win32/windowssearcherrors-h/event_crawl_scheduled/0x40000bf4/
+title: 1073744884 EVENT_CRAWL_SCHEDULED in WindowsSearchErrors.h
+description: An update cannot begin because the content source <%2> is in use by another update already in progress. The update will start as soon as all its content sources are released by updates already in progress.%1
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "1073744884",
+  "codeUrl": "/win32/windowssearcherrors-h/event_crawl_scheduled/1073744884/",
+  "numericCode": 0,
+  "define": "EVENT_CRAWL_SCHEDULED",
+  "defineUrl": "/win32/windowssearcherrors-h/event_crawl_scheduled/",
+  "message": "An update cannot begin because the content source <%2> is in use by another update already in progress. The update will start as soon as all its content sources are released by updates already in progress.%1",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x40000BF4",
+  "originalCodeUrl": "/win32/windowssearcherrors-h/event_crawl_scheduled/0x40000bf4/"
+}

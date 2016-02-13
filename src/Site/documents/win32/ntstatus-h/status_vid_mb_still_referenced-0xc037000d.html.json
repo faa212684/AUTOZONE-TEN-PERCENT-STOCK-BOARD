@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_vid_mb_still_referenced\0xc037000d\index.html.json
+
+title: 0xC037000D STATUS_VID_MB_STILL_REFERENCED in ntstatus.h
+description: The memory block for the virtualization infrastructure driver is still being used and cannot be destroyed.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC037000D",
+  "codeUrl": "/win32/ntstatus-h/status_vid_mb_still_referenced/0xc037000d/",
+  "numericCode": -1070137331,
+  "define": "STATUS_VID_MB_STILL_REFERENCED",
+  "defineUrl": "/win32/ntstatus-h/status_vid_mb_still_referenced/",
+  "message": "The memory block for the virtualization infrastructure driver is still being used and cannot be destroyed.",
+  "remarks": null,
+  "aka": [
+    "-1070137331"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_vid_mb_still_referenced/-1070137331/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

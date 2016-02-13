@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\comadmin_e_can_not_start_app\0x8011044b\index.html.json
+
+title: 0x8011044B COMADMIN_E_CAN_NOT_START_APP in winerror.h
+description: Failed to start application because it is either a library application or an application proxy
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8011044B",
+  "codeUrl": "/win32/winerror-h/comadmin_e_can_not_start_app/0x8011044b/",
+  "numericCode": -2146368437,
+  "define": "COMADMIN_E_CAN_NOT_START_APP",
+  "defineUrl": "/win32/winerror-h/comadmin_e_can_not_start_app/",
+  "message": "Failed to start application because it is either a library application or an application proxy",
+  "remarks": null,
+  "aka": [
+    "-2146368437"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/comadmin_e_can_not_start_app/-2146368437/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

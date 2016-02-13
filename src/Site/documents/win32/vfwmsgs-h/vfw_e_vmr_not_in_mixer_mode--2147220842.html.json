@@ -1,0 +1,24 @@
+---
+output: win32\vfwmsgs-h\vfw_e_vmr_not_in_mixer_mode\-2147220842\index.html.json
+canonical: /win32/vfwmsgs-h/vfw_e_vmr_not_in_mixer_mode/0x80040296/
+title: -2147220842 VFW_E_VMR_NOT_IN_MIXER_MODE in vfwmsgs.h
+description: The VMR has not yet created a mixing component.  That is, IVMRFilterConfig::SetNumberofStreams has not yet been called.%0
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vfwmsgs.h",
+  "sourceUrl": "/win32/vfwmsgs-h/",
+  "code": "-2147220842",
+  "codeUrl": "/win32/vfwmsgs-h/vfw_e_vmr_not_in_mixer_mode/-2147220842/",
+  "numericCode": 0,
+  "define": "VFW_E_VMR_NOT_IN_MIXER_MODE",
+  "defineUrl": "/win32/vfwmsgs-h/vfw_e_vmr_not_in_mixer_mode/",
+  "message": "The VMR has not yet created a mixing component.  That is, IVMRFilterConfig::SetNumberofStreams has not yet been called.%0",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80040296",
+  "originalCodeUrl": "/win32/vfwmsgs-h/vfw_e_vmr_not_in_mixer_mode/0x80040296/"
+}

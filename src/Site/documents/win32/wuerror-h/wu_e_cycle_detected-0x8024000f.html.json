@@ -1,0 +1,28 @@
+---
+output: win32\wuerror-h\wu_e_cycle_detected\0x8024000f\index.html.json
+
+title: 0x8024000F WU_E_CYCLE_DETECTED in wuerror.h
+description: Circular update relationships were detected in the metadata.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wuerror.h",
+  "sourceUrl": "/win32/wuerror-h/",
+  "code": "0x8024000F",
+  "codeUrl": "/win32/wuerror-h/wu_e_cycle_detected/0x8024000f/",
+  "numericCode": -2145124337,
+  "define": "WU_E_CYCLE_DETECTED",
+  "defineUrl": "/win32/wuerror-h/wu_e_cycle_detected/",
+  "message": "Circular update relationships were detected in the metadata.",
+  "remarks": null,
+  "aka": [
+    "-2145124337"
+  ],
+  "akaUrl": [
+    "/win32/wuerror-h/wu_e_cycle_detected/-2145124337/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

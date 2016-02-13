@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_mft_too_fragmented\0xc0000304\index.html.json
+
+title: 0xC0000304 STATUS_MFT_TOO_FRAGMENTED in ntstatus.h
+description: The Master File Table on the volume is too fragmented to complete this operation.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000304",
+  "codeUrl": "/win32/ntstatus-h/status_mft_too_fragmented/0xc0000304/",
+  "numericCode": -1073741052,
+  "define": "STATUS_MFT_TOO_FRAGMENTED",
+  "defineUrl": "/win32/ntstatus-h/status_mft_too_fragmented/",
+  "message": "The Master File Table on the volume is too fragmented to complete this operation.",
+  "remarks": null,
+  "aka": [
+    "-1073741052"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_mft_too_fragmented/-1073741052/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

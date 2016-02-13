@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_kdc_invalid_request\0xc00002fb\index.html.json
+
+title: 0xC00002FB STATUS_KDC_INVALID_REQUEST in ntstatus.h
+description: An invalid request was sent to the KDC.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC00002FB",
+  "codeUrl": "/win32/ntstatus-h/status_kdc_invalid_request/0xc00002fb/",
+  "numericCode": -1073741061,
+  "define": "STATUS_KDC_INVALID_REQUEST",
+  "defineUrl": "/win32/ntstatus-h/status_kdc_invalid_request/",
+  "message": "An invalid request was sent to the KDC.",
+  "remarks": null,
+  "aka": [
+    "-1073741061"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_kdc_invalid_request/-1073741061/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

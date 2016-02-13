@@ -1,0 +1,28 @@
+---
+output: win32\windowssearcherrors-h\people_import_e_dc_not_available\0x8004400c\index.html.json
+
+title: 0x8004400C PEOPLE_IMPORT_E_DC_NOT_AVAILABLE in WindowsSearchErrors.h
+description: Error (%1) occurred, which may have resulted from the unavailability of directory service server (%2). If the auto discovery option is turned on, import will re-try it with the newly discovered domain controller.  Otherwise, verify your import settings and make sure the server is still available.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "0x8004400C",
+  "codeUrl": "/win32/windowssearcherrors-h/people_import_e_dc_not_available/0x8004400c/",
+  "numericCode": -2147205108,
+  "define": "PEOPLE_IMPORT_E_DC_NOT_AVAILABLE",
+  "defineUrl": "/win32/windowssearcherrors-h/people_import_e_dc_not_available/",
+  "message": "Error (%1) occurred, which may have resulted from the unavailability of directory service server (%2). If the auto discovery option is turned on, import will re-try it with the newly discovered domain controller.  Otherwise, verify your import settings and make sure the server is still available.",
+  "remarks": null,
+  "aka": [
+    "-2147205108"
+  ],
+  "akaUrl": [
+    "/win32/windowssearcherrors-h/people_import_e_dc_not_available/-2147205108/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

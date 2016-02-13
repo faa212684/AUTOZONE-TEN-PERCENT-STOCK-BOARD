@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\cs_e_admin_limit_exceeded\0x8004016d\index.html.json
+
+title: 0x8004016D CS_E_ADMIN_LIMIT_EXCEEDED in winerror.h
+description: The size of this object exceeds the maximum size set by the Administrator.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8004016D",
+  "codeUrl": "/win32/winerror-h/cs_e_admin_limit_exceeded/0x8004016d/",
+  "numericCode": -2147221139,
+  "define": "CS_E_ADMIN_LIMIT_EXCEEDED",
+  "defineUrl": "/win32/winerror-h/cs_e_admin_limit_exceeded/",
+  "message": "The size of this object exceeds the maximum size set by the Administrator.",
+  "remarks": null,
+  "aka": [
+    "-2147221139"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/cs_e_admin_limit_exceeded/-2147221139/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

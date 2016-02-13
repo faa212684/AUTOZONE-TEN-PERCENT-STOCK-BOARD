@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_compression_disabled\0xc0000426\index.html.json
+
+title: 0xC0000426 STATUS_COMPRESSION_DISABLED in ntstatus.h
+description: Compression is disabled for this volume.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000426",
+  "codeUrl": "/win32/ntstatus-h/status_compression_disabled/0xc0000426/",
+  "numericCode": -1073740762,
+  "define": "STATUS_COMPRESSION_DISABLED",
+  "defineUrl": "/win32/ntstatus-h/status_compression_disabled/",
+  "message": "Compression is disabled for this volume.",
+  "remarks": null,
+  "aka": [
+    "-1073740762"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_compression_disabled/-1073740762/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

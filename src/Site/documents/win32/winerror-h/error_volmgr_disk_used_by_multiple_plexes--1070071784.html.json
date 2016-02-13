@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_volmgr_disk_used_by_multiple_plexes\-1070071784\index.html.json
+canonical: /win32/winerror-h/error_volmgr_disk_used_by_multiple_plexes/0xc0380018/
+title: -1070071784 ERROR_VOLMGR_DISK_USED_BY_MULTIPLE_PLEXES in winerror.h
+description: A disk in the volume layout provides extents to more than one plex.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-1070071784",
+  "codeUrl": "/win32/winerror-h/error_volmgr_disk_used_by_multiple_plexes/-1070071784/",
+  "numericCode": 0,
+  "define": "ERROR_VOLMGR_DISK_USED_BY_MULTIPLE_PLEXES",
+  "defineUrl": "/win32/winerror-h/error_volmgr_disk_used_by_multiple_plexes/",
+  "message": "A disk in the volume layout provides extents to more than one plex.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0380018",
+  "originalCodeUrl": "/win32/winerror-h/error_volmgr_disk_used_by_multiple_plexes/0xc0380018/"
+}

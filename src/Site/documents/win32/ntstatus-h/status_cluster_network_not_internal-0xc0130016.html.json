@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_cluster_network_not_internal\0xc0130016\index.html.json
+
+title: 0xC0130016 STATUS_CLUSTER_NETWORK_NOT_INTERNAL in ntstatus.h
+description: The cluster network is not configured for internal cluster communication.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0130016",
+  "codeUrl": "/win32/ntstatus-h/status_cluster_network_not_internal/0xc0130016/",
+  "numericCode": -1072496618,
+  "define": "STATUS_CLUSTER_NETWORK_NOT_INTERNAL",
+  "defineUrl": "/win32/ntstatus-h/status_cluster_network_not_internal/",
+  "message": "The cluster network is not configured for internal cluster communication.",
+  "remarks": null,
+  "aka": [
+    "-1072496618"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_cluster_network_not_internal/-1072496618/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_hv_invalid_partition_state\0xc0350007\index.html.json
+
+title: 0xC0350007 STATUS_HV_INVALID_PARTITION_STATE in ntstatus.h
+description: The hypervisor could not perform the operation because the partition is entering or in an invalid state.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0350007",
+  "codeUrl": "/win32/ntstatus-h/status_hv_invalid_partition_state/0xc0350007/",
+  "numericCode": -1070268409,
+  "define": "STATUS_HV_INVALID_PARTITION_STATE",
+  "defineUrl": "/win32/ntstatus-h/status_hv_invalid_partition_state/",
+  "message": "The hypervisor could not perform the operation because the partition is entering or in an invalid state.",
+  "remarks": null,
+  "aka": [
+    "-1070268409"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_hv_invalid_partition_state/-1070268409/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

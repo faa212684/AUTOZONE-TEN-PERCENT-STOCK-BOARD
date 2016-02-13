@@ -1,0 +1,28 @@
+---
+output: bugcheck\bugcodes-h\worker_thread_returned_at_bad_irql\0x000000e1\index.html.json
+
+title: 0x000000E1 WORKER_THREAD_RETURNED_AT_BAD_IRQL in bugcodes.h
+description: WORKER_THREAD_RETURNED_AT_BAD_IRQL
+disqus: true
+---
+{
+  "area": "bugcheck",
+  "areaUrl": "/bugcheck/",
+  "source": "bugcodes.h",
+  "sourceUrl": "/bugcheck/bugcodes-h/",
+  "code": "0x000000E1",
+  "codeUrl": "/bugcheck/bugcodes-h/worker_thread_returned_at_bad_irql/0x000000e1/",
+  "numericCode": 225,
+  "define": "WORKER_THREAD_RETURNED_AT_BAD_IRQL",
+  "defineUrl": "/bugcheck/bugcodes-h/worker_thread_returned_at_bad_irql/",
+  "message": "WORKER_THREAD_RETURNED_AT_BAD_IRQL",
+  "remarks": null,
+  "aka": [
+    "225"
+  ],
+  "akaUrl": [
+    "/bugcheck/bugcodes-h/worker_thread_returned_at_bad_irql/225/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

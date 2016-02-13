@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\dbg_control_break\0x40010008\index.html.json
+
+title: 0x40010008 DBG_CONTROL_BREAK in ntstatus.h
+description: Debugger received control break.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0x40010008",
+  "codeUrl": "/win32/ntstatus-h/dbg_control_break/0x40010008/",
+  "numericCode": 1073807368,
+  "define": "DBG_CONTROL_BREAK",
+  "defineUrl": "/win32/ntstatus-h/dbg_control_break/",
+  "message": "Debugger received control break.",
+  "remarks": null,
+  "aka": [
+    "1073807368"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/dbg_control_break/1073807368/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

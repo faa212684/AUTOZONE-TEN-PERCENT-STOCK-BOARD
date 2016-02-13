@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\sec_i_complete_needed\0x00090313\index.html.json
+
+title: 0x00090313 SEC_I_COMPLETE_NEEDED in winerror.h
+description: The function completed successfully, but CompleteToken must be called
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x00090313",
+  "codeUrl": "/win32/winerror-h/sec_i_complete_needed/0x00090313/",
+  "numericCode": 590611,
+  "define": "SEC_I_COMPLETE_NEEDED",
+  "defineUrl": "/win32/winerror-h/sec_i_complete_needed/",
+  "message": "The function completed successfully, but CompleteToken must be called",
+  "remarks": null,
+  "aka": [
+    "590611"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/sec_i_complete_needed/590611/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

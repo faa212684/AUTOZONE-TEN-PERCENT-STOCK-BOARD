@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_license_quota_exceeded\-1073741223\index.html.json
+canonical: /win32/ntstatus-h/status_license_quota_exceeded/0xc0000259/
+title: -1073741223 STATUS_LICENSE_QUOTA_EXCEEDED in ntstatus.h
+description: The service being accessed is licensed for a particular number of connections. No more connections can be made to the service at this time because there are already as many connections as the service can accept.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741223",
+  "codeUrl": "/win32/ntstatus-h/status_license_quota_exceeded/-1073741223/",
+  "numericCode": 0,
+  "define": "STATUS_LICENSE_QUOTA_EXCEEDED",
+  "defineUrl": "/win32/ntstatus-h/status_license_quota_exceeded/",
+  "message": "The service being accessed is licensed for a particular number of connections. No more connections can be made to the service at this time because there are already as many connections as the service can accept.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000259",
+  "originalCodeUrl": "/win32/ntstatus-h/status_license_quota_exceeded/0xc0000259/"
+}

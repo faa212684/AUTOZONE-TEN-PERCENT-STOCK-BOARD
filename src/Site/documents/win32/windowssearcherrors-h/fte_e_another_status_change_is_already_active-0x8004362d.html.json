@@ -1,0 +1,28 @@
+---
+output: win32\windowssearcherrors-h\fte_e_another_status_change_is_already_active\0x8004362d\index.html.json
+
+title: 0x8004362D FTE_E_ANOTHER_STATUS_CHANGE_IS_ALREADY_ACTIVE in WindowsSearchErrors.h
+description: A status change is active on another thread. Since only one status change is allowed at a time this request can't be handled.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "0x8004362D",
+  "codeUrl": "/win32/windowssearcherrors-h/fte_e_another_status_change_is_already_active/0x8004362d/",
+  "numericCode": -2147207635,
+  "define": "FTE_E_ANOTHER_STATUS_CHANGE_IS_ALREADY_ACTIVE",
+  "defineUrl": "/win32/windowssearcherrors-h/fte_e_another_status_change_is_already_active/",
+  "message": "A status change is active on another thread. Since only one status change is allowed at a time this request can't be handled.",
+  "remarks": null,
+  "aka": [
+    "-2147207635"
+  ],
+  "akaUrl": [
+    "/win32/windowssearcherrors-h/fte_e_another_status_change_is_already_active/-2147207635/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

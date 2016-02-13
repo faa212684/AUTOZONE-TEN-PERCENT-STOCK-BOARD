@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\dxgi_status_mode_changed\0x087a0007\index.html.json
+
+title: 0x087A0007 DXGI_STATUS_MODE_CHANGED in winerror.h
+description: The Present operation was not visible because the display mode changed. DXGI will have re-attempted the presentation.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x087A0007",
+  "codeUrl": "/win32/winerror-h/dxgi_status_mode_changed/0x087a0007/",
+  "numericCode": 142213127,
+  "define": "DXGI_STATUS_MODE_CHANGED",
+  "defineUrl": "/win32/winerror-h/dxgi_status_mode_changed/",
+  "message": "The Present operation was not visible because the display mode changed. DXGI will have re-attempted the presentation.",
+  "remarks": null,
+  "aka": [
+    "142213127"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/dxgi_status_mode_changed/142213127/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

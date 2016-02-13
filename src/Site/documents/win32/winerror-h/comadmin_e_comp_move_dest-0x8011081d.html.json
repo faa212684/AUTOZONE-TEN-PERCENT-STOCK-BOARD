@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\comadmin_e_comp_move_dest\0x8011081d\index.html.json
+
+title: 0x8011081D COMADMIN_E_COMP_MOVE_DEST in winerror.h
+description: A component cannot be moved (or copied) to the System Application, an application proxy or a non-changeable application
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8011081D",
+  "codeUrl": "/win32/winerror-h/comadmin_e_comp_move_dest/0x8011081d/",
+  "numericCode": -2146367459,
+  "define": "COMADMIN_E_COMP_MOVE_DEST",
+  "defineUrl": "/win32/winerror-h/comadmin_e_comp_move_dest/",
+  "message": "A component cannot be moved (or copied) to the System Application, an application proxy or a non-changeable application",
+  "remarks": null,
+  "aka": [
+    "-2146367459"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/comadmin_e_comp_move_dest/-2146367459/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

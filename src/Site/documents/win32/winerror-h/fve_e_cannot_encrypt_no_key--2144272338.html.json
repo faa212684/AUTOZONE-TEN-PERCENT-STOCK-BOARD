@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\fve_e_cannot_encrypt_no_key\-2144272338\index.html.json
+canonical: /win32/winerror-h/fve_e_cannot_encrypt_no_key/0x8031002e/
+title: -2144272338 FVE_E_CANNOT_ENCRYPT_NO_KEY in winerror.h
+description: BitLocker Drive Encryption cannot encrypt the specified drive because an encryption key is not available. Add a key protector to encrypt this drive.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2144272338",
+  "codeUrl": "/win32/winerror-h/fve_e_cannot_encrypt_no_key/-2144272338/",
+  "numericCode": 0,
+  "define": "FVE_E_CANNOT_ENCRYPT_NO_KEY",
+  "defineUrl": "/win32/winerror-h/fve_e_cannot_encrypt_no_key/",
+  "message": "BitLocker Drive Encryption cannot encrypt the specified drive because an encryption key is not available. Add a key protector to encrypt this drive.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x8031002E",
+  "originalCodeUrl": "/win32/winerror-h/fve_e_cannot_encrypt_no_key/0x8031002e/"
+}

@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_ndis_hardware_failure\0xc000138a\index.html.json
+
+title: 0xC000138A EVENT_NDIS_HARDWARE_FAILURE in netevent.h
+description: %2 : Has determined that the network adapter is not functioning properly.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC000138A",
+  "codeUrl": "/win32/netevent-h/event_ndis_hardware_failure/0xc000138a/",
+  "numericCode": -1073736822,
+  "define": "EVENT_NDIS_HARDWARE_FAILURE",
+  "defineUrl": "/win32/netevent-h/event_ndis_hardware_failure/",
+  "message": "%2 : Has determined that the network adapter is not functioning properly.",
+  "remarks": null,
+  "aka": [
+    "-1073736822"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_ndis_hardware_failure/-1073736822/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_core_driver_package_not_found\3016\index.html.json
+
+title: 3016 ERROR_CORE_DRIVER_PACKAGE_NOT_FOUND in winerror.h
+description: Unable to find a core driver package that is required by the printer driver package.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "3016",
+  "codeUrl": "/win32/winerror-h/error_core_driver_package_not_found/3016/",
+  "numericCode": 3016,
+  "define": "ERROR_CORE_DRIVER_PACKAGE_NOT_FOUND",
+  "defineUrl": "/win32/winerror-h/error_core_driver_package_not_found/",
+  "message": "Unable to find a core driver package that is required by the printer driver package.",
+  "remarks": null,
+  "aka": [
+    "0x80070bc8",
+    "-2147021880"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_core_driver_package_not_found/0x80070bc8/",
+    "/win32/winerror-h/error_core_driver_package_not_found/-2147021880/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

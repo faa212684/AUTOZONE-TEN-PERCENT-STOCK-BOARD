@@ -1,0 +1,24 @@
+---
+output: win32\netevent-h\nwsap_event_badwanfilter_value\-1073733302\index.html.json
+canonical: /win32/netevent-h/nwsap_event_badwanfilter_value/0xc000214a/
+title: -1073733302 NWSAP_EVENT_BADWANFILTER_VALUE in netevent.h
+description: The value for WANFilter in the registry must be 0-2.  The Sap Agent cannot continue.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "-1073733302",
+  "codeUrl": "/win32/netevent-h/nwsap_event_badwanfilter_value/-1073733302/",
+  "numericCode": 0,
+  "define": "NWSAP_EVENT_BADWANFILTER_VALUE",
+  "defineUrl": "/win32/netevent-h/nwsap_event_badwanfilter_value/",
+  "message": "The value for WANFilter in the registry must be 0-2.  The Sap Agent cannot continue.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC000214A",
+  "originalCodeUrl": "/win32/netevent-h/nwsap_event_badwanfilter_value/0xc000214a/"
+}

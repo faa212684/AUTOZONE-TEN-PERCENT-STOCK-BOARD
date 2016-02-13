@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_invalid_sub_authority\-1073741706\index.html.json
+canonical: /win32/ntstatus-h/status_invalid_sub_authority/0xc0000076/
+title: -1073741706 STATUS_INVALID_SUB_AUTHORITY in ntstatus.h
+description: Indicates the sub-authority value is invalid for the particular use.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741706",
+  "codeUrl": "/win32/ntstatus-h/status_invalid_sub_authority/-1073741706/",
+  "numericCode": 0,
+  "define": "STATUS_INVALID_SUB_AUTHORITY",
+  "defineUrl": "/win32/ntstatus-h/status_invalid_sub_authority/",
+  "message": "Indicates the sub-authority value is invalid for the particular use.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000076",
+  "originalCodeUrl": "/win32/ntstatus-h/status_invalid_sub_authority/0xc0000076/"
+}

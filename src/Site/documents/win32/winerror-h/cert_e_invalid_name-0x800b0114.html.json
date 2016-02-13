@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\cert_e_invalid_name\0x800b0114\index.html.json
+
+title: 0x800B0114 CERT_E_INVALID_NAME in winerror.h
+description: The certificate has an invalid name. The name is not included in the permitted list or is explicitly excluded.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800B0114",
+  "codeUrl": "/win32/winerror-h/cert_e_invalid_name/0x800b0114/",
+  "numericCode": -2146762476,
+  "define": "CERT_E_INVALID_NAME",
+  "defineUrl": "/win32/winerror-h/cert_e_invalid_name/",
+  "message": "The certificate has an invalid name. The name is not included in the permitted list or is explicitly excluded.",
+  "remarks": null,
+  "aka": [
+    "-2146762476"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/cert_e_invalid_name/-2146762476/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

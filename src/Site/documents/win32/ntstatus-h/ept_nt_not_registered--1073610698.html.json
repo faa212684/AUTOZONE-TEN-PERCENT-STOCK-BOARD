@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\ept_nt_not_registered\-1073610698\index.html.json
+canonical: /win32/ntstatus-h/ept_nt_not_registered/0xc0020036/
+title: -1073610698 EPT_NT_NOT_REGISTERED in ntstatus.h
+description: There are no more endpoints available from the endpoint mapper.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073610698",
+  "codeUrl": "/win32/ntstatus-h/ept_nt_not_registered/-1073610698/",
+  "numericCode": 0,
+  "define": "EPT_NT_NOT_REGISTERED",
+  "defineUrl": "/win32/ntstatus-h/ept_nt_not_registered/",
+  "message": "There are no more endpoints available from the endpoint mapper.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0020036",
+  "originalCodeUrl": "/win32/ntstatus-h/ept_nt_not_registered/0xc0020036/"
+}

@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_disk_repair_disabled\-1073739776\index.html.json
+canonical: /win32/ntstatus-h/status_disk_repair_disabled/0xc0000800/
+title: -1073739776 STATUS_DISK_REPAIR_DISABLED in ntstatus.h
+description: The attempted operation required self healing to be enabled.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073739776",
+  "codeUrl": "/win32/ntstatus-h/status_disk_repair_disabled/-1073739776/",
+  "numericCode": 0,
+  "define": "STATUS_DISK_REPAIR_DISABLED",
+  "defineUrl": "/win32/ntstatus-h/status_disk_repair_disabled/",
+  "message": "The attempted operation required self healing to be enabled.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000800",
+  "originalCodeUrl": "/win32/ntstatus-h/status_disk_repair_disabled/0xc0000800/"
+}

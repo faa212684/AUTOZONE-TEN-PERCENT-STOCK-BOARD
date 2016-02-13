@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\nap_s_cert_already_present\0x0027000d\index.html.json
+
+title: 0x0027000D NAP_S_CERT_ALREADY_PRESENT in winerror.h
+description: A certificate is already present in the cert store.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x0027000D",
+  "codeUrl": "/win32/winerror-h/nap_s_cert_already_present/0x0027000d/",
+  "numericCode": 2555917,
+  "define": "NAP_S_CERT_ALREADY_PRESENT",
+  "defineUrl": "/win32/winerror-h/nap_s_cert_already_present/",
+  "message": "A certificate is already present in the cert store.",
+  "remarks": null,
+  "aka": [
+    "2555917"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/nap_s_cert_already_present/2555917/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

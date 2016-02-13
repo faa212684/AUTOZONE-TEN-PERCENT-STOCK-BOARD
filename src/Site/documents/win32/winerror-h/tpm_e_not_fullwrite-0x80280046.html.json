@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\tpm_e_not_fullwrite\0x80280046\index.html.json
+
+title: 0x80280046 TPM_E_NOT_FULLWRITE in winerror.h
+description: The write is not a complete write of the area.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80280046",
+  "codeUrl": "/win32/winerror-h/tpm_e_not_fullwrite/0x80280046/",
+  "numericCode": -2144862138,
+  "define": "TPM_E_NOT_FULLWRITE",
+  "defineUrl": "/win32/winerror-h/tpm_e_not_fullwrite/",
+  "message": "The write is not a complete write of the area.",
+  "remarks": null,
+  "aka": [
+    "-2144862138"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/tpm_e_not_fullwrite/-2144862138/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

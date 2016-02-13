@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_e_iscsi_get_ike_info\0x80042905\index.html.json
+
+title: 0x80042905 VDS_E_ISCSI_GET_IKE_INFO in vdserr.h
+description: Call to get the iSCSI IKE info failed.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x80042905",
+  "codeUrl": "/win32/vdserr-h/vds_e_iscsi_get_ike_info/0x80042905/",
+  "numericCode": -2147211003,
+  "define": "VDS_E_ISCSI_GET_IKE_INFO",
+  "defineUrl": "/win32/vdserr-h/vds_e_iscsi_get_ike_info/",
+  "message": "Call to get the iSCSI IKE info failed.",
+  "remarks": null,
+  "aka": [
+    "-2147211003"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_iscsi_get_ike_info/-2147211003/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

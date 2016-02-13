@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_create_failed\0x8007065f\index.html.json
+canonical: /win32/winerror-h/error_create_failed/1631/
+title: 0x8007065f ERROR_CREATE_FAILED in winerror.h
+description: The Windows Installer service failed to start. Contact your support personnel.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007065f",
+  "codeUrl": "/win32/winerror-h/error_create_failed/0x8007065f/",
+  "numericCode": 0,
+  "define": "ERROR_CREATE_FAILED",
+  "defineUrl": "/win32/winerror-h/error_create_failed/",
+  "message": "The Windows Installer service failed to start. Contact your support personnel.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "1631",
+  "originalCodeUrl": "/win32/winerror-h/error_create_failed/1631/"
+}

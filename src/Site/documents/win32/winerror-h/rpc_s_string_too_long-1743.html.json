@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\rpc_s_string_too_long\1743\index.html.json
+
+title: 1743 RPC_S_STRING_TOO_LONG in winerror.h
+description: The string is too long.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1743",
+  "codeUrl": "/win32/winerror-h/rpc_s_string_too_long/1743/",
+  "numericCode": 1743,
+  "define": "RPC_S_STRING_TOO_LONG",
+  "defineUrl": "/win32/winerror-h/rpc_s_string_too_long/",
+  "message": "The string is too long.",
+  "remarks": null,
+  "aka": [
+    "0x800706cf",
+    "-2147023153"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/rpc_s_string_too_long/0x800706cf/",
+    "/win32/winerror-h/rpc_s_string_too_long/-2147023153/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

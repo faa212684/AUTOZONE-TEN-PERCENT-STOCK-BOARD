@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\ept_nt_cant_perform_op\0xc0020035\index.html.json
+
+title: 0xC0020035 EPT_NT_CANT_PERFORM_OP in ntstatus.h
+description: The operation cannot be performed.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0020035",
+  "codeUrl": "/win32/ntstatus-h/ept_nt_cant_perform_op/0xc0020035/",
+  "numericCode": -1073610699,
+  "define": "EPT_NT_CANT_PERFORM_OP",
+  "defineUrl": "/win32/ntstatus-h/ept_nt_cant_perform_op/",
+  "message": "The operation cannot be performed.",
+  "remarks": null,
+  "aka": [
+    "-1073610699"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/ept_nt_cant_perform_op/-1073610699/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

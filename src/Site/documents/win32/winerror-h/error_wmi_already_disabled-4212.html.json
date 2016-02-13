@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_wmi_already_disabled\4212\index.html.json
+
+title: 4212 ERROR_WMI_ALREADY_DISABLED in winerror.h
+description: The WMI data block or event notification has already been disabled.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "4212",
+  "codeUrl": "/win32/winerror-h/error_wmi_already_disabled/4212/",
+  "numericCode": 4212,
+  "define": "ERROR_WMI_ALREADY_DISABLED",
+  "defineUrl": "/win32/winerror-h/error_wmi_already_disabled/",
+  "message": "The WMI data block or event notification has already been disabled.",
+  "remarks": null,
+  "aka": [
+    "0x80071074",
+    "-2147020684"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_wmi_already_disabled/0x80071074/",
+    "/win32/winerror-h/error_wmi_already_disabled/-2147020684/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

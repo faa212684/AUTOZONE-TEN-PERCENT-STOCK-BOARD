@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_crossrealm_delegation_failure\0xc000040b\index.html.json
+
+title: 0xC000040B STATUS_CROSSREALM_DELEGATION_FAILURE in ntstatus.h
+description: An attempt was made by this server to make a Kerberos constrained delegation request for a target outside of the server's realm. This is not supported, and indicates a misconfiguration on this server's allowed to delegate to list. Please contact your administrator.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000040B",
+  "codeUrl": "/win32/ntstatus-h/status_crossrealm_delegation_failure/0xc000040b/",
+  "numericCode": -1073740789,
+  "define": "STATUS_CROSSREALM_DELEGATION_FAILURE",
+  "defineUrl": "/win32/ntstatus-h/status_crossrealm_delegation_failure/",
+  "message": "An attempt was made by this server to make a Kerberos constrained delegation request for a target outside of the server's realm. This is not supported, and indicates a misconfiguration on this server's allowed to delegate to list. Please contact your administrator.",
+  "remarks": null,
+  "aka": [
+    "-1073740789"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_crossrealm_delegation_failure/-1073740789/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_ndis_dot11_auto_config_enabled\-2144067584\index.html.json
+canonical: /win32/winerror-h/error_ndis_dot11_auto_config_enabled/0x80342000/
+title: -2144067584 ERROR_NDIS_DOT11_AUTO_CONFIG_ENABLED in winerror.h
+description: The wireless local area network interface is in auto configuration mode and doesn't support the requested parameter change operation.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2144067584",
+  "codeUrl": "/win32/winerror-h/error_ndis_dot11_auto_config_enabled/-2144067584/",
+  "numericCode": 0,
+  "define": "ERROR_NDIS_DOT11_AUTO_CONFIG_ENABLED",
+  "defineUrl": "/win32/winerror-h/error_ndis_dot11_auto_config_enabled/",
+  "message": "The wireless local area network interface is in auto configuration mode and doesn't support the requested parameter change operation.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80342000",
+  "originalCodeUrl": "/win32/winerror-h/error_ndis_dot11_auto_config_enabled/0x80342000/"
+}

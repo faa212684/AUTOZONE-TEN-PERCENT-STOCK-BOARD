@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\scard_e_invalid_handle\0x80100003\index.html.json
+
+title: 0x80100003 SCARD_E_INVALID_HANDLE in winerror.h
+description: The supplied handle was invalid.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80100003",
+  "codeUrl": "/win32/winerror-h/scard_e_invalid_handle/0x80100003/",
+  "numericCode": -2146435069,
+  "define": "SCARD_E_INVALID_HANDLE",
+  "defineUrl": "/win32/winerror-h/scard_e_invalid_handle/",
+  "message": "The supplied handle was invalid.",
+  "remarks": null,
+  "aka": [
+    "-2146435069"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/scard_e_invalid_handle/-2146435069/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

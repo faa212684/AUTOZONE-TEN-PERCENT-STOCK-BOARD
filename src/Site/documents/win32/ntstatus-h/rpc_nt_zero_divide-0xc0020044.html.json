@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\rpc_nt_zero_divide\0xc0020044\index.html.json
+
+title: 0xC0020044 RPC_NT_ZERO_DIVIDE in ntstatus.h
+description: The RPC server attempted an integer divide by zero.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0020044",
+  "codeUrl": "/win32/ntstatus-h/rpc_nt_zero_divide/0xc0020044/",
+  "numericCode": -1073610684,
+  "define": "RPC_NT_ZERO_DIVIDE",
+  "defineUrl": "/win32/ntstatus-h/rpc_nt_zero_divide/",
+  "message": "The RPC server attempted an integer divide by zero.",
+  "remarks": null,
+  "aka": [
+    "-1073610684"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/rpc_nt_zero_divide/-1073610684/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

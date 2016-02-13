@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_mount_point_not_resolved\-1073740952\index.html.json
+canonical: /win32/ntstatus-h/status_mount_point_not_resolved/0xc0000368/
+title: -1073740952 STATUS_MOUNT_POINT_NOT_RESOLVED in ntstatus.h
+description: The create operation failed because the name contained at least one mount point which resolves to a volume to which the specified device object is not attached.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073740952",
+  "codeUrl": "/win32/ntstatus-h/status_mount_point_not_resolved/-1073740952/",
+  "numericCode": 0,
+  "define": "STATUS_MOUNT_POINT_NOT_RESOLVED",
+  "defineUrl": "/win32/ntstatus-h/status_mount_point_not_resolved/",
+  "message": "The create operation failed because the name contained at least one mount point which resolves to a volume to which the specified device object is not attached.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000368",
+  "originalCodeUrl": "/win32/ntstatus-h/status_mount_point_not_resolved/0xc0000368/"
+}

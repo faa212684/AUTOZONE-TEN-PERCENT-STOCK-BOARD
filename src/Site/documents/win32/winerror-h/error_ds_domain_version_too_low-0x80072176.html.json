@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_ds_domain_version_too_low\0x80072176\index.html.json
+canonical: /win32/winerror-h/error_ds_domain_version_too_low/8566/
+title: 0x80072176 ERROR_DS_DOMAIN_VERSION_TOO_LOW in winerror.h
+description: The version of the operating system installed on this server no longer supports the current domain functional level. You must raise the domain functional level before this server can become a domain controller in this domain.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80072176",
+  "codeUrl": "/win32/winerror-h/error_ds_domain_version_too_low/0x80072176/",
+  "numericCode": 0,
+  "define": "ERROR_DS_DOMAIN_VERSION_TOO_LOW",
+  "defineUrl": "/win32/winerror-h/error_ds_domain_version_too_low/",
+  "message": "The version of the operating system installed on this server no longer supports the current domain functional level. You must raise the domain functional level before this server can become a domain controller in this domain.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "8566",
+  "originalCodeUrl": "/win32/winerror-h/error_ds_domain_version_too_low/8566/"
+}

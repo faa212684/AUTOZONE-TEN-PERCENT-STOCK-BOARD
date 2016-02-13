@@ -1,0 +1,29 @@
+---
+output: win32\netevent-h\event_eqos_info_tcp_autotuning_restricted\0x4000407b\index.html.json
+
+title: 0x4000407B EVENT_EQOS_INFO_TCP_AUTOTUNING_RESTRICTED in netevent.h
+description: The Advanced QoS Setting for inbound TCP throughput level successfully refreshed. 
+Setting value is Level 2.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x4000407B",
+  "codeUrl": "/win32/netevent-h/event_eqos_info_tcp_autotuning_restricted/0x4000407b/",
+  "numericCode": 1073758331,
+  "define": "EVENT_EQOS_INFO_TCP_AUTOTUNING_RESTRICTED",
+  "defineUrl": "/win32/netevent-h/event_eqos_info_tcp_autotuning_restricted/",
+  "message": "The Advanced QoS Setting for inbound TCP throughput level successfully refreshed. \r\nSetting value is Level 2.",
+  "remarks": null,
+  "aka": [
+    "1073758331"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_eqos_info_tcp_autotuning_restricted/1073758331/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

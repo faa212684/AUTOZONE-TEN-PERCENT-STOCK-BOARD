@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_open_failed\110\index.html.json
+
+title: 110 ERROR_OPEN_FAILED in winerror.h
+description: The system cannot open the device or file specified.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "110",
+  "codeUrl": "/win32/winerror-h/error_open_failed/110/",
+  "numericCode": 110,
+  "define": "ERROR_OPEN_FAILED",
+  "defineUrl": "/win32/winerror-h/error_open_failed/",
+  "message": "The system cannot open the device or file specified.",
+  "remarks": null,
+  "aka": [
+    "0x8007006e",
+    "-2147024786"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_open_failed/0x8007006e/",
+    "/win32/winerror-h/error_open_failed/-2147024786/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,31 @@
+---
+output: win32\winerror-h\error_incompatible_service_privilege\1297\index.html.json
+
+title: 1297 ERROR_INCOMPATIBLE_SERVICE_PRIVILEGE in winerror.h
+description: A privilege that the service requires to function properly does not exist in the service account configuration.
+You may use the Services Microsoft Management Console (MMC) snap-in (services.msc) and the Local Security Settings MMC snap-in (secpol.msc) to view the service configuration and the account configuration.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1297",
+  "codeUrl": "/win32/winerror-h/error_incompatible_service_privilege/1297/",
+  "numericCode": 1297,
+  "define": "ERROR_INCOMPATIBLE_SERVICE_PRIVILEGE",
+  "defineUrl": "/win32/winerror-h/error_incompatible_service_privilege/",
+  "message": "A privilege that the service requires to function properly does not exist in the service account configuration.\r\nYou may use the Services Microsoft Management Console (MMC) snap-in (services.msc) and the Local Security Settings MMC snap-in (secpol.msc) to view the service configuration and the account configuration.",
+  "remarks": null,
+  "aka": [
+    "0x80070511",
+    "-2147023599"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_incompatible_service_privilege/0x80070511/",
+    "/win32/winerror-h/error_incompatible_service_privilege/-2147023599/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

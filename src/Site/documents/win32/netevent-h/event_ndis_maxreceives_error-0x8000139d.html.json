@@ -1,0 +1,29 @@
+---
+output: win32\netevent-h\event_ndis_maxreceives_error\0x8000139d\index.html.json
+
+title: 0x8000139D EVENT_NDIS_MAXRECEIVES_ERROR in netevent.h
+description: %2 : The specified registry entry MaxReceives is out of range. Using 
+default value.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x8000139D",
+  "codeUrl": "/win32/netevent-h/event_ndis_maxreceives_error/0x8000139d/",
+  "numericCode": -2147478627,
+  "define": "EVENT_NDIS_MAXRECEIVES_ERROR",
+  "defineUrl": "/win32/netevent-h/event_ndis_maxreceives_error/",
+  "message": "%2 : The specified registry entry MaxReceives is out of range. Using \r\ndefault value.",
+  "remarks": null,
+  "aka": [
+    "-2147478627"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_ndis_maxreceives_error/-2147478627/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

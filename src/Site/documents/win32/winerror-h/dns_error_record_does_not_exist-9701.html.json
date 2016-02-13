@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\dns_error_record_does_not_exist\9701\index.html.json
+
+title: 9701 DNS_ERROR_RECORD_DOES_NOT_EXIST in winerror.h
+description: DNS record does not exist.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "9701",
+  "codeUrl": "/win32/winerror-h/dns_error_record_does_not_exist/9701/",
+  "numericCode": 9701,
+  "define": "DNS_ERROR_RECORD_DOES_NOT_EXIST",
+  "defineUrl": "/win32/winerror-h/dns_error_record_does_not_exist/",
+  "message": "DNS record does not exist.",
+  "remarks": null,
+  "aka": [
+    "0x800725e5",
+    "-2147015195"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/dns_error_record_does_not_exist/0x800725e5/",
+    "/win32/winerror-h/dns_error_record_does_not_exist/-2147015195/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

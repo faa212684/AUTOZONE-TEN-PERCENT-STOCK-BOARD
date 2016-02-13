@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_clusterlog_chkpoint_not_found\0x800713a8\index.html.json
+canonical: /win32/winerror-h/error_clusterlog_chkpoint_not_found/5032/
+title: 0x800713a8 ERROR_CLUSTERLOG_CHKPOINT_NOT_FOUND in winerror.h
+description: No checkpoint record was found in the cluster log.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800713a8",
+  "codeUrl": "/win32/winerror-h/error_clusterlog_chkpoint_not_found/0x800713a8/",
+  "numericCode": 0,
+  "define": "ERROR_CLUSTERLOG_CHKPOINT_NOT_FOUND",
+  "defineUrl": "/win32/winerror-h/error_clusterlog_chkpoint_not_found/",
+  "message": "No checkpoint record was found in the cluster log.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "5032",
+  "originalCodeUrl": "/win32/winerror-h/error_clusterlog_chkpoint_not_found/5032/"
+}

@@ -1,0 +1,29 @@
+---
+output: win32\wsmerror-h\error_wsman_remote_cimpath_not_supported\0x80338101\index.html.json
+
+title: 0x80338101 ERROR_WSMAN_REMOTE_CIMPATH_NOT_SUPPORTED in wsmerror.h
+description: The WS-Management service cannot process the request. 
+It does not support retrieving a WMI object that contains a property of type CIM_REFERENCE and the value of that property contains a remote machine name.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x80338101",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_remote_cimpath_not_supported/0x80338101/",
+  "numericCode": -2144108287,
+  "define": "ERROR_WSMAN_REMOTE_CIMPATH_NOT_SUPPORTED",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_remote_cimpath_not_supported/",
+  "message": "The WS-Management service cannot process the request. \r\nIt does not support retrieving a WMI object that contains a property of type CIM_REFERENCE and the value of that property contains a remote machine name.",
+  "remarks": null,
+  "aka": [
+    "-2144108287"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_remote_cimpath_not_supported/-2144108287/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

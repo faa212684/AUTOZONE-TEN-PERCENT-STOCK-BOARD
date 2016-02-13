@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\tpm_e_defend_lock_running\-2144860157\index.html.json
+canonical: /win32/winerror-h/tpm_e_defend_lock_running/0x80280803/
+title: -2144860157 TPM_E_DEFEND_LOCK_RUNNING in winerror.h
+description: The TPM is defending against dictionary attacks and is in a time-out period.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2144860157",
+  "codeUrl": "/win32/winerror-h/tpm_e_defend_lock_running/-2144860157/",
+  "numericCode": 0,
+  "define": "TPM_E_DEFEND_LOCK_RUNNING",
+  "defineUrl": "/win32/winerror-h/tpm_e_defend_lock_running/",
+  "message": "The TPM is defending against dictionary attacks and is in a time-out period.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80280803",
+  "originalCodeUrl": "/win32/winerror-h/tpm_e_defend_lock_running/0x80280803/"
+}

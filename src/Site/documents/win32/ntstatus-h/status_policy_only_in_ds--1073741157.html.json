@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_policy_only_in_ds\-1073741157\index.html.json
+canonical: /win32/ntstatus-h/status_policy_only_in_ds/0xc000029b/
+title: -1073741157 STATUS_POLICY_ONLY_IN_DS in ntstatus.h
+description: The requested policy information only lives in the Ds
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741157",
+  "codeUrl": "/win32/ntstatus-h/status_policy_only_in_ds/-1073741157/",
+  "numericCode": 0,
+  "define": "STATUS_POLICY_ONLY_IN_DS",
+  "defineUrl": "/win32/ntstatus-h/status_policy_only_in_ds/",
+  "message": "The requested policy information only lives in the Ds",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC000029B",
+  "originalCodeUrl": "/win32/ntstatus-h/status_policy_only_in_ds/0xc000029b/"
+}

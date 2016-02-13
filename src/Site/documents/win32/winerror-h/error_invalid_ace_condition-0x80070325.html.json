@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_invalid_ace_condition\0x80070325\index.html.json
+canonical: /win32/winerror-h/error_invalid_ace_condition/805/
+title: 0x80070325 ERROR_INVALID_ACE_CONDITION in winerror.h
+description: The specified access control entry (ACE) contains an invalid condition.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80070325",
+  "codeUrl": "/win32/winerror-h/error_invalid_ace_condition/0x80070325/",
+  "numericCode": 0,
+  "define": "ERROR_INVALID_ACE_CONDITION",
+  "defineUrl": "/win32/winerror-h/error_invalid_ace_condition/",
+  "message": "The specified access control entry (ACE) contains an invalid condition.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "805",
+  "originalCodeUrl": "/win32/winerror-h/error_invalid_ace_condition/805/"
+}

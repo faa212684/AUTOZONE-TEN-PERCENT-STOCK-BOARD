@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_eom_overflow\0xc0000177\index.html.json
+
+title: 0xC0000177 STATUS_EOM_OVERFLOW in ntstatus.h
+description: Physical end of tape was detected.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000177",
+  "codeUrl": "/win32/ntstatus-h/status_eom_overflow/0xc0000177/",
+  "numericCode": -1073741449,
+  "define": "STATUS_EOM_OVERFLOW",
+  "defineUrl": "/win32/ntstatus-h/status_eom_overflow/",
+  "message": "Physical end of tape was detected.",
+  "remarks": null,
+  "aka": [
+    "-1073741449"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_eom_overflow/-1073741449/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

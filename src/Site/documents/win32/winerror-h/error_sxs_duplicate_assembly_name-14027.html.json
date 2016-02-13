@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_sxs_duplicate_assembly_name\14027\index.html.json
+
+title: 14027 ERROR_SXS_DUPLICATE_ASSEMBLY_NAME in winerror.h
+description: Two or more components referenced directly or indirectly by the application manifest are different versions of the same component which is not permitted.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "14027",
+  "codeUrl": "/win32/winerror-h/error_sxs_duplicate_assembly_name/14027/",
+  "numericCode": 14027,
+  "define": "ERROR_SXS_DUPLICATE_ASSEMBLY_NAME",
+  "defineUrl": "/win32/winerror-h/error_sxs_duplicate_assembly_name/",
+  "message": "Two or more components referenced directly or indirectly by the application manifest are different versions of the same component which is not permitted.",
+  "remarks": null,
+  "aka": [
+    "0x800736cb",
+    "-2147010869"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_sxs_duplicate_assembly_name/0x800736cb/",
+    "/win32/winerror-h/error_sxs_duplicate_assembly_name/-2147010869/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

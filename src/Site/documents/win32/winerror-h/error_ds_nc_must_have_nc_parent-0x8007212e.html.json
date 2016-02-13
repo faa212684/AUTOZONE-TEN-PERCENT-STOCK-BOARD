@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_ds_nc_must_have_nc_parent\0x8007212e\index.html.json
+canonical: /win32/winerror-h/error_ds_nc_must_have_nc_parent/8494/
+title: 0x8007212e ERROR_DS_NC_MUST_HAVE_NC_PARENT in winerror.h
+description: A naming context head must be the immediate child of another naming context head, not of an interior node.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007212e",
+  "codeUrl": "/win32/winerror-h/error_ds_nc_must_have_nc_parent/0x8007212e/",
+  "numericCode": 0,
+  "define": "ERROR_DS_NC_MUST_HAVE_NC_PARENT",
+  "defineUrl": "/win32/winerror-h/error_ds_nc_must_have_nc_parent/",
+  "message": "A naming context head must be the immediate child of another naming context head, not of an interior node.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "8494",
+  "originalCodeUrl": "/win32/winerror-h/error_ds_nc_must_have_nc_parent/8494/"
+}

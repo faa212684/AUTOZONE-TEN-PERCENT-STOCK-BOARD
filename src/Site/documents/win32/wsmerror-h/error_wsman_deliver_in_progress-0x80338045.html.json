@@ -1,0 +1,28 @@
+---
+output: win32\wsmerror-h\error_wsman_deliver_in_progress\0x80338045\index.html.json
+
+title: 0x80338045 ERROR_WSMAN_DELIVER_IN_PROGRESS in wsmerror.h
+description: The event source is attempting to deliver an event when a delivery is in progress already.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x80338045",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_deliver_in_progress/0x80338045/",
+  "numericCode": -2144108475,
+  "define": "ERROR_WSMAN_DELIVER_IN_PROGRESS",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_deliver_in_progress/",
+  "message": "The event source is attempting to deliver an event when a delivery is in progress already.",
+  "remarks": null,
+  "aka": [
+    "-2144108475"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_deliver_in_progress/-2144108475/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

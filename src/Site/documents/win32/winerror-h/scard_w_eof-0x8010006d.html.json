@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\scard_w_eof\0x8010006d\index.html.json
+
+title: 0x8010006D SCARD_W_EOF in winerror.h
+description: The end of the smart card file has been reached.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8010006D",
+  "codeUrl": "/win32/winerror-h/scard_w_eof/0x8010006d/",
+  "numericCode": -2146434963,
+  "define": "SCARD_W_EOF",
+  "defineUrl": "/win32/winerror-h/scard_w_eof/",
+  "message": "The end of the smart card file has been reached.",
+  "remarks": null,
+  "aka": [
+    "-2146434963"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/scard_w_eof/-2146434963/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

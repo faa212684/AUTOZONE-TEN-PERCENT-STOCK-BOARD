@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\fve_e_invalid_pin_chars_detailed\0x803100cc\index.html.json
+
+title: 0x803100CC FVE_E_INVALID_PIN_CHARS_DETAILED in winerror.h
+description: Your PIN can only contain numbers from 0 to 9.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x803100CC",
+  "codeUrl": "/win32/winerror-h/fve_e_invalid_pin_chars_detailed/0x803100cc/",
+  "numericCode": -2144272180,
+  "define": "FVE_E_INVALID_PIN_CHARS_DETAILED",
+  "defineUrl": "/win32/winerror-h/fve_e_invalid_pin_chars_detailed/",
+  "message": "Your PIN can only contain numbers from 0 to 9.",
+  "remarks": null,
+  "aka": [
+    "-2144272180"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/fve_e_invalid_pin_chars_detailed/-2144272180/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

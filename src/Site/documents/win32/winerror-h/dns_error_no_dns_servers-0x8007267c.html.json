@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\dns_error_no_dns_servers\0x8007267c\index.html.json
+canonical: /win32/winerror-h/dns_error_no_dns_servers/9852/
+title: 0x8007267c DNS_ERROR_NO_DNS_SERVERS in winerror.h
+description: No DNS servers configured for local system.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007267c",
+  "codeUrl": "/win32/winerror-h/dns_error_no_dns_servers/0x8007267c/",
+  "numericCode": 0,
+  "define": "DNS_ERROR_NO_DNS_SERVERS",
+  "defineUrl": "/win32/winerror-h/dns_error_no_dns_servers/",
+  "message": "No DNS servers configured for local system.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "9852",
+  "originalCodeUrl": "/win32/winerror-h/dns_error_no_dns_servers/9852/"
+}

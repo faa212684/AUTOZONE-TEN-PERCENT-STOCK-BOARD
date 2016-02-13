@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_efs_disabled\6015\index.html.json
+
+title: 6015 ERROR_EFS_DISABLED in winerror.h
+description: This machine is disabled for file encryption.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "6015",
+  "codeUrl": "/win32/winerror-h/error_efs_disabled/6015/",
+  "numericCode": 6015,
+  "define": "ERROR_EFS_DISABLED",
+  "defineUrl": "/win32/winerror-h/error_efs_disabled/",
+  "message": "This machine is disabled for file encryption.",
+  "remarks": null,
+  "aka": [
+    "0x8007177f",
+    "-2147018881"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_efs_disabled/0x8007177f/",
+    "/win32/winerror-h/error_efs_disabled/-2147018881/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

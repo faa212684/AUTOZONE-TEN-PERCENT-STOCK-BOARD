@@ -1,0 +1,29 @@
+---
+output: win32\wsmerror-h\error_wsman_client_getsessionoption_dword_invalid_param\0x8033819f\index.html.json
+
+title: 0x8033819F ERROR_WSMAN_CLIENT_GETSESSIONOPTION_DWORD_INVALID_PARAM in wsmerror.h
+description: The WinRM client cannot process the request. One of the parameters required for the WSManGetSessionOptionAsDword function is invalid.
+Change the invalid parameter and try again.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x8033819F",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_client_getsessionoption_dword_invalid_param/0x8033819f/",
+  "numericCode": -2144108129,
+  "define": "ERROR_WSMAN_CLIENT_GETSESSIONOPTION_DWORD_INVALID_PARAM",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_client_getsessionoption_dword_invalid_param/",
+  "message": "The WinRM client cannot process the request. One of the parameters required for the WSManGetSessionOptionAsDword function is invalid.\r\nChange the invalid parameter and try again.",
+  "remarks": null,
+  "aka": [
+    "-2144108129"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_client_getsessionoption_dword_invalid_param/-2144108129/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

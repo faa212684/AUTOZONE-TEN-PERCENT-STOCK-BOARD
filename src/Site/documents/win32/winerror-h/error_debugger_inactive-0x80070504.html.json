@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_debugger_inactive\0x80070504\index.html.json
+canonical: /win32/winerror-h/error_debugger_inactive/1284/
+title: 0x80070504 ERROR_DEBUGGER_INACTIVE in winerror.h
+description: An attempt to do an operation on a debug object failed because the object is in the process of being deleted.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80070504",
+  "codeUrl": "/win32/winerror-h/error_debugger_inactive/0x80070504/",
+  "numericCode": 0,
+  "define": "ERROR_DEBUGGER_INACTIVE",
+  "defineUrl": "/win32/winerror-h/error_debugger_inactive/",
+  "message": "An attempt to do an operation on a debug object failed because the object is in the process of being deleted.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "1284",
+  "originalCodeUrl": "/win32/winerror-h/error_debugger_inactive/1284/"
+}

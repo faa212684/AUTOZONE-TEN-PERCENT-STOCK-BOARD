@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_sxs_file_hash_mismatch\0x800736cc\index.html.json
+canonical: /win32/winerror-h/error_sxs_file_hash_mismatch/14028/
+title: 0x800736cc ERROR_SXS_FILE_HASH_MISMATCH in winerror.h
+description: A component's file does not match the verification information present in the component manifest.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800736cc",
+  "codeUrl": "/win32/winerror-h/error_sxs_file_hash_mismatch/0x800736cc/",
+  "numericCode": 0,
+  "define": "ERROR_SXS_FILE_HASH_MISMATCH",
+  "defineUrl": "/win32/winerror-h/error_sxs_file_hash_mismatch/",
+  "message": "A component's file does not match the verification information present in the component manifest.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "14028",
+  "originalCodeUrl": "/win32/winerror-h/error_sxs_file_hash_mismatch/14028/"
+}

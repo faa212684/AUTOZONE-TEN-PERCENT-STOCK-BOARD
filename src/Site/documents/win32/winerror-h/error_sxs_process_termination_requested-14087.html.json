@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_sxs_process_termination_requested\14087\index.html.json
+
+title: 14087 ERROR_SXS_PROCESS_TERMINATION_REQUESTED in winerror.h
+description: A component used by the isolation facility has requested to terminate the process.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "14087",
+  "codeUrl": "/win32/winerror-h/error_sxs_process_termination_requested/14087/",
+  "numericCode": 14087,
+  "define": "ERROR_SXS_PROCESS_TERMINATION_REQUESTED",
+  "defineUrl": "/win32/winerror-h/error_sxs_process_termination_requested/",
+  "message": "A component used by the isolation facility has requested to terminate the process.",
+  "remarks": null,
+  "aka": [
+    "0x80073707",
+    "-2147010809"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_sxs_process_termination_requested/0x80073707/",
+    "/win32/winerror-h/error_sxs_process_termination_requested/-2147010809/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

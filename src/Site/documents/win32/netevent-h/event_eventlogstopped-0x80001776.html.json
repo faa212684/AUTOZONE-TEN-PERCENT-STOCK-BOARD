@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_eventlogstopped\0x80001776\index.html.json
+
+title: 0x80001776 EVENT_EventlogStopped in netevent.h
+description: The Event log service was stopped.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x80001776",
+  "codeUrl": "/win32/netevent-h/event_eventlogstopped/0x80001776/",
+  "numericCode": -2147477642,
+  "define": "EVENT_EventlogStopped",
+  "defineUrl": "/win32/netevent-h/event_eventlogstopped/",
+  "message": "The Event log service was stopped.",
+  "remarks": null,
+  "aka": [
+    "-2147477642"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_eventlogstopped/-2147477642/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

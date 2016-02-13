@@ -1,0 +1,28 @@
+---
+output: win32\vsserror-h\vss_e_volume_not_local\0x8004232d\index.html.json
+
+title: 0x8004232D VSS_E_VOLUME_NOT_LOCAL in vsserror.h
+description: The volume being backed up is not mounted on the local host.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vsserror.h",
+  "sourceUrl": "/win32/vsserror-h/",
+  "code": "0x8004232D",
+  "codeUrl": "/win32/vsserror-h/vss_e_volume_not_local/0x8004232d/",
+  "numericCode": -2147212499,
+  "define": "VSS_E_VOLUME_NOT_LOCAL",
+  "defineUrl": "/win32/vsserror-h/vss_e_volume_not_local/",
+  "message": "The volume being backed up is not mounted on the local host.",
+  "remarks": null,
+  "aka": [
+    "-2147212499"
+  ],
+  "akaUrl": [
+    "/win32/vsserror-h/vss_e_volume_not_local/-2147212499/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ipsec_ike_negotiation_disabled\13883\index.html.json
+
+title: 13883 ERROR_IPSEC_IKE_NEGOTIATION_DISABLED in winerror.h
+description: IKE received a policy that disables negotiation.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "13883",
+  "codeUrl": "/win32/winerror-h/error_ipsec_ike_negotiation_disabled/13883/",
+  "numericCode": 13883,
+  "define": "ERROR_IPSEC_IKE_NEGOTIATION_DISABLED",
+  "defineUrl": "/win32/winerror-h/error_ipsec_ike_negotiation_disabled/",
+  "message": "IKE received a policy that disables negotiation.",
+  "remarks": null,
+  "aka": [
+    "0x8007363b",
+    "-2147011013"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ipsec_ike_negotiation_disabled/0x8007363b/",
+    "/win32/winerror-h/error_ipsec_ike_negotiation_disabled/-2147011013/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

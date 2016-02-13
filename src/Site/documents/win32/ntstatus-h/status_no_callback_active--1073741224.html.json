@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_no_callback_active\-1073741224\index.html.json
+canonical: /win32/ntstatus-h/status_no_callback_active/0xc0000258/
+title: -1073741224 STATUS_NO_CALLBACK_ACTIVE in ntstatus.h
+description: A callback return system service cannot be executed when no callback is active.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741224",
+  "codeUrl": "/win32/ntstatus-h/status_no_callback_active/-1073741224/",
+  "numericCode": 0,
+  "define": "STATUS_NO_CALLBACK_ACTIVE",
+  "defineUrl": "/win32/ntstatus-h/status_no_callback_active/",
+  "message": "A callback return system service cannot be executed when no callback is active.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000258",
+  "originalCodeUrl": "/win32/ntstatus-h/status_no_callback_active/0xc0000258/"
+}

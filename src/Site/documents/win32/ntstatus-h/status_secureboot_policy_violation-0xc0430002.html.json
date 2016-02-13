@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_secureboot_policy_violation\0xc0430002\index.html.json
+
+title: 0xC0430002 STATUS_SECUREBOOT_POLICY_VIOLATION in ntstatus.h
+description: The value is protected by Secure Boot policy and cannot be modified or deleted.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0430002",
+  "codeUrl": "/win32/ntstatus-h/status_secureboot_policy_violation/0xc0430002/",
+  "numericCode": -1069350910,
+  "define": "STATUS_SECUREBOOT_POLICY_VIOLATION",
+  "defineUrl": "/win32/ntstatus-h/status_secureboot_policy_violation/",
+  "message": "The value is protected by Secure Boot policy and cannot be modified or deleted.",
+  "remarks": null,
+  "aka": [
+    "-1069350910"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_secureboot_policy_violation/-1069350910/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

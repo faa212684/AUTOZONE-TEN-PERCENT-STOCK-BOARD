@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_eventlog_file_corrupt\1500\index.html.json
+
+title: 1500 ERROR_EVENTLOG_FILE_CORRUPT in winerror.h
+description: The event log file is corrupted.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1500",
+  "codeUrl": "/win32/winerror-h/error_eventlog_file_corrupt/1500/",
+  "numericCode": 1500,
+  "define": "ERROR_EVENTLOG_FILE_CORRUPT",
+  "defineUrl": "/win32/winerror-h/error_eventlog_file_corrupt/",
+  "message": "The event log file is corrupted.",
+  "remarks": null,
+  "aka": [
+    "0x800705dc",
+    "-2147023396"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_eventlog_file_corrupt/0x800705dc/",
+    "/win32/winerror-h/error_eventlog_file_corrupt/-2147023396/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

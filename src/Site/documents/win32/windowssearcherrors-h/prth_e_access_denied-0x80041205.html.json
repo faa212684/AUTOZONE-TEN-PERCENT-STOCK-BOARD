@@ -1,0 +1,28 @@
+---
+output: win32\windowssearcherrors-h\prth_e_access_denied\0x80041205\index.html.json
+
+title: 0x80041205 PRTH_E_ACCESS_DENIED in WindowsSearchErrors.h
+description: Access is denied. Check that the Default Content Access Account in Windows Search Central Administration is correct, or follow the "Exclude and Include Content" link to add a rule to specify the proper crawling account to access this URL.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "0x80041205",
+  "codeUrl": "/win32/windowssearcherrors-h/prth_e_access_denied/0x80041205/",
+  "numericCode": -2147216891,
+  "define": "PRTH_E_ACCESS_DENIED",
+  "defineUrl": "/win32/windowssearcherrors-h/prth_e_access_denied/",
+  "message": "Access is denied. Check that the Default Content Access Account in Windows Search Central Administration is correct, or follow the \"Exclude and Include Content\" link to add a rule to specify the proper crawling account to access this URL.",
+  "remarks": null,
+  "aka": [
+    "-2147216891"
+  ],
+  "akaUrl": [
+    "/win32/windowssearcherrors-h/prth_e_access_denied/-2147216891/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\rtcerr-h\rtc_e_sip_high_security_set_tls\0x80ee0040\index.html.json
+
+title: 0x80EE0040 RTC_E_SIP_HIGH_SECURITY_SET_TLS in rtcerr.h
+description: Must set transport to TLS if high security mode is needed
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "rtcerr.h",
+  "sourceUrl": "/win32/rtcerr-h/",
+  "code": "0x80EE0040",
+  "codeUrl": "/win32/rtcerr-h/rtc_e_sip_high_security_set_tls/0x80ee0040/",
+  "numericCode": -2131886016,
+  "define": "RTC_E_SIP_HIGH_SECURITY_SET_TLS",
+  "defineUrl": "/win32/rtcerr-h/rtc_e_sip_high_security_set_tls/",
+  "message": "Must set transport to TLS if high security mode is needed",
+  "remarks": null,
+  "aka": [
+    "-2131886016"
+  ],
+  "akaUrl": [
+    "/win32/rtcerr-h/rtc_e_sip_high_security_set_tls/-2131886016/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

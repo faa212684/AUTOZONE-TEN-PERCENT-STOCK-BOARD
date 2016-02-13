@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_drive_media_mismatch\4303\index.html.json
+
+title: 4303 ERROR_DRIVE_MEDIA_MISMATCH in winerror.h
+description: The drive and medium are not compatible or exist in different libraries.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "4303",
+  "codeUrl": "/win32/winerror-h/error_drive_media_mismatch/4303/",
+  "numericCode": 4303,
+  "define": "ERROR_DRIVE_MEDIA_MISMATCH",
+  "defineUrl": "/win32/winerror-h/error_drive_media_mismatch/",
+  "message": "The drive and medium are not compatible or exist in different libraries.",
+  "remarks": null,
+  "aka": [
+    "0x800710cf",
+    "-2147020593"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_drive_media_mismatch/0x800710cf/",
+    "/win32/winerror-h/error_drive_media_mismatch/-2147020593/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

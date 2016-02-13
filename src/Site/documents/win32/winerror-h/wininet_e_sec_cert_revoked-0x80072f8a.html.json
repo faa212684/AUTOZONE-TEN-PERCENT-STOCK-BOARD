@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\wininet_e_sec_cert_revoked\0x80072f8a\index.html.json
+
+title: 0x80072F8A WININET_E_SEC_CERT_REVOKED in winerror.h
+description: The supplied certificate has been revoked
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80072F8A",
+  "codeUrl": "/win32/winerror-h/wininet_e_sec_cert_revoked/0x80072f8a/",
+  "numericCode": -2147012726,
+  "define": "WININET_E_SEC_CERT_REVOKED",
+  "defineUrl": "/win32/winerror-h/wininet_e_sec_cert_revoked/",
+  "message": "The supplied certificate has been revoked",
+  "remarks": null,
+  "aka": [
+    "-2147012726"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/wininet_e_sec_cert_revoked/-2147012726/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

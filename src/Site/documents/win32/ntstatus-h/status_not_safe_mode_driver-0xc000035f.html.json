@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_not_safe_mode_driver\0xc000035f\index.html.json
+
+title: 0xC000035F STATUS_NOT_SAFE_MODE_DRIVER in ntstatus.h
+description: The driver was not loaded because the system is booting into safe mode.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000035F",
+  "codeUrl": "/win32/ntstatus-h/status_not_safe_mode_driver/0xc000035f/",
+  "numericCode": -1073740961,
+  "define": "STATUS_NOT_SAFE_MODE_DRIVER",
+  "defineUrl": "/win32/ntstatus-h/status_not_safe_mode_driver/",
+  "message": "The driver was not loaded because the system is booting into safe mode.",
+  "remarks": null,
+  "aka": [
+    "-1073740961"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_not_safe_mode_driver/-1073740961/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

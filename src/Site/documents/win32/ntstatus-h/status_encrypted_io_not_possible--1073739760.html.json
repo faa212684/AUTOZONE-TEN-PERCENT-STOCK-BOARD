@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_encrypted_io_not_possible\-1073739760\index.html.json
+canonical: /win32/ntstatus-h/status_encrypted_io_not_possible/0xc0000810/
+title: -1073739760 STATUS_ENCRYPTED_IO_NOT_POSSIBLE in ntstatus.h
+description: The read or write operation to an encrypted file could not be completed because the file has not been opened for data access.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073739760",
+  "codeUrl": "/win32/ntstatus-h/status_encrypted_io_not_possible/-1073739760/",
+  "numericCode": 0,
+  "define": "STATUS_ENCRYPTED_IO_NOT_POSSIBLE",
+  "defineUrl": "/win32/ntstatus-h/status_encrypted_io_not_possible/",
+  "message": "The read or write operation to an encrypted file could not be completed because the file has not been opened for data access.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000810",
+  "originalCodeUrl": "/win32/ntstatus-h/status_encrypted_io_not_possible/0xc0000810/"
+}

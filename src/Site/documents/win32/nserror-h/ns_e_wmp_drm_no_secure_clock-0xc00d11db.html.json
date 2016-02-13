@@ -1,0 +1,28 @@
+---
+output: win32\nserror-h\ns_e_wmp_drm_no_secure_clock\0xc00d11db\index.html.json
+
+title: 0xC00D11DB NS_E_WMP_DRM_NO_SECURE_CLOCK in nserror.h
+description: It is not possible to sync because this device's internal clock is not set correctly. To set the clock, select the option to set the device clock on the Privacy tab of the Options dialog box, connect to the Internet, and then sync the device again. For additional assistance, click Web Help.%0
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "nserror.h",
+  "sourceUrl": "/win32/nserror-h/",
+  "code": "0xC00D11DB",
+  "codeUrl": "/win32/nserror-h/ns_e_wmp_drm_no_secure_clock/0xc00d11db/",
+  "numericCode": -1072885285,
+  "define": "NS_E_WMP_DRM_NO_SECURE_CLOCK",
+  "defineUrl": "/win32/nserror-h/ns_e_wmp_drm_no_secure_clock/",
+  "message": "It is not possible to sync because this device's internal clock is not set correctly. To set the clock, select the option to set the device clock on the Privacy tab of the Options dialog box, connect to the Internet, and then sync the device again. For additional assistance, click Web Help.%0",
+  "remarks": null,
+  "aka": [
+    "-1072885285"
+  ],
+  "akaUrl": [
+    "/win32/nserror-h/ns_e_wmp_drm_no_secure_clock/-1072885285/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\dfs_error_duplicate_link\0xc00038d3\index.html.json
+
+title: 0xC00038D3 DFS_ERROR_DUPLICATE_LINK in netevent.h
+description: A Distributed File System (DFS) folder was created with conflicting descriptions. This can occur if two administrators on different namespace servers create conflicting folder structures at approximately the same time. Namespace: %1 DFS folder path: %2 DFS folder 1: %3 DFS folder 2: %4
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC00038D3",
+  "codeUrl": "/win32/netevent-h/dfs_error_duplicate_link/0xc00038d3/",
+  "numericCode": -1073727277,
+  "define": "DFS_ERROR_DUPLICATE_LINK",
+  "defineUrl": "/win32/netevent-h/dfs_error_duplicate_link/",
+  "message": "A Distributed File System (DFS) folder was created with conflicting descriptions. This can occur if two administrators on different namespace servers create conflicting folder structures at approximately the same time. Namespace: %1 DFS folder path: %2 DFS folder 1: %3 DFS folder 2: %4",
+  "remarks": null,
+  "aka": [
+    "-1073727277"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/dfs_error_duplicate_link/-1073727277/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

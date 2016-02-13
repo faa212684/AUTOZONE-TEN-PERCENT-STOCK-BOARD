@@ -1,0 +1,28 @@
+---
+output: win32\windowssearcherrors-h\event_gather_advise_failed\0xc0000bd2\index.html.json
+
+title: 0xC0000BD2 EVENT_GATHER_ADVISE_FAILED in WindowsSearchErrors.h
+description: Advise Status Change failed. The system is probably low on resources. Free up resources and restart the service.%1
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "0xC0000BD2",
+  "codeUrl": "/win32/windowssearcherrors-h/event_gather_advise_failed/0xc0000bd2/",
+  "numericCode": -1073738798,
+  "define": "EVENT_GATHER_ADVISE_FAILED",
+  "defineUrl": "/win32/windowssearcherrors-h/event_gather_advise_failed/",
+  "message": "Advise Status Change failed. The system is probably low on resources. Free up resources and restart the service.%1",
+  "remarks": null,
+  "aka": [
+    "-1073738798"
+  ],
+  "akaUrl": [
+    "/win32/windowssearcherrors-h/event_gather_advise_failed/-1073738798/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

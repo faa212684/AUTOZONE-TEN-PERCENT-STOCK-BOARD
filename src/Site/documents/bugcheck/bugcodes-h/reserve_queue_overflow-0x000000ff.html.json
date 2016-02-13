@@ -1,0 +1,28 @@
+---
+output: bugcheck\bugcodes-h\reserve_queue_overflow\0x000000ff\index.html.json
+
+title: 0x000000FF RESERVE_QUEUE_OVERFLOW in bugcodes.h
+description: RESERVE_QUEUE_OVERFLOW
+disqus: true
+---
+{
+  "area": "bugcheck",
+  "areaUrl": "/bugcheck/",
+  "source": "bugcodes.h",
+  "sourceUrl": "/bugcheck/bugcodes-h/",
+  "code": "0x000000FF",
+  "codeUrl": "/bugcheck/bugcodes-h/reserve_queue_overflow/0x000000ff/",
+  "numericCode": 255,
+  "define": "RESERVE_QUEUE_OVERFLOW",
+  "defineUrl": "/bugcheck/bugcodes-h/reserve_queue_overflow/",
+  "message": "RESERVE_QUEUE_OVERFLOW",
+  "remarks": null,
+  "aka": [
+    "255"
+  ],
+  "akaUrl": [
+    "/bugcheck/bugcodes-h/reserve_queue_overflow/255/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

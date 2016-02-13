@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_exe_cannot_modify_signed_binary\217\index.html.json
+
+title: 217 ERROR_EXE_CANNOT_MODIFY_SIGNED_BINARY in winerror.h
+description: The image file %1 is signed, unable to modify.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "217",
+  "codeUrl": "/win32/winerror-h/error_exe_cannot_modify_signed_binary/217/",
+  "numericCode": 217,
+  "define": "ERROR_EXE_CANNOT_MODIFY_SIGNED_BINARY",
+  "defineUrl": "/win32/winerror-h/error_exe_cannot_modify_signed_binary/",
+  "message": "The image file %1 is signed, unable to modify.",
+  "remarks": null,
+  "aka": [
+    "0x800700d9",
+    "-2147024679"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_exe_cannot_modify_signed_binary/0x800700d9/",
+    "/win32/winerror-h/error_exe_cannot_modify_signed_binary/-2147024679/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

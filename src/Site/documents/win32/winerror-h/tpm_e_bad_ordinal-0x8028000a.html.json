@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\tpm_e_bad_ordinal\0x8028000a\index.html.json
+
+title: 0x8028000A TPM_E_BAD_ORDINAL in winerror.h
+description: The ordinal was unknown or inconsistent.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8028000A",
+  "codeUrl": "/win32/winerror-h/tpm_e_bad_ordinal/0x8028000a/",
+  "numericCode": -2144862198,
+  "define": "TPM_E_BAD_ORDINAL",
+  "defineUrl": "/win32/winerror-h/tpm_e_bad_ordinal/",
+  "message": "The ordinal was unknown or inconsistent.",
+  "remarks": null,
+  "aka": [
+    "-2144862198"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/tpm_e_bad_ordinal/-2144862198/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

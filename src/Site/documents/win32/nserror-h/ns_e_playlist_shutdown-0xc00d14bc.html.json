@@ -1,0 +1,28 @@
+---
+output: win32\nserror-h\ns_e_playlist_shutdown\0xc00d14bc\index.html.json
+
+title: 0xC00D14BC NS_E_PLAYLIST_SHUTDOWN in nserror.h
+description: Cannot execute the requested operation because the playlist has been shut down by the Media Server.%0
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "nserror.h",
+  "sourceUrl": "/win32/nserror-h/",
+  "code": "0xC00D14BC",
+  "codeUrl": "/win32/nserror-h/ns_e_playlist_shutdown/0xc00d14bc/",
+  "numericCode": -1072884548,
+  "define": "NS_E_PLAYLIST_SHUTDOWN",
+  "defineUrl": "/win32/nserror-h/ns_e_playlist_shutdown/",
+  "message": "Cannot execute the requested operation because the playlist has been shut down by the Media Server.%0",
+  "remarks": null,
+  "aka": [
+    "-1072884548"
+  ],
+  "akaUrl": [
+    "/win32/nserror-h/ns_e_playlist_shutdown/-1072884548/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

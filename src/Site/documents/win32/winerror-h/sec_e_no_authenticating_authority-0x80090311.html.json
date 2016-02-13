@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\sec_e_no_authenticating_authority\0x80090311\index.html.json
+
+title: 0x80090311 SEC_E_NO_AUTHENTICATING_AUTHORITY in winerror.h
+description: No authority could be contacted for authentication.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80090311",
+  "codeUrl": "/win32/winerror-h/sec_e_no_authenticating_authority/0x80090311/",
+  "numericCode": -2146893039,
+  "define": "SEC_E_NO_AUTHENTICATING_AUTHORITY",
+  "defineUrl": "/win32/winerror-h/sec_e_no_authenticating_authority/",
+  "message": "No authority could be contacted for authentication.",
+  "remarks": null,
+  "aka": [
+    "-2146893039"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/sec_e_no_authenticating_authority/-2146893039/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

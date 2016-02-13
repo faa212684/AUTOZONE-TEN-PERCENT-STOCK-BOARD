@@ -1,0 +1,31 @@
+---
+output: win32\ntstatus-h\status_ctx_client_license_not_set\0xc00a0033\index.html.json
+
+title: 0xC00A0033 STATUS_CTX_CLIENT_LICENSE_NOT_SET in ntstatus.h
+description: Your request to connect to this Terminal server has been rejected.
+Your Terminal Server Client license number has not been entered for this copy of the Terminal Client.
+Please call your system administrator for help in entering a valid, unique license number for this Terminal Server Client.
+Click OK to continue.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC00A0033",
+  "codeUrl": "/win32/ntstatus-h/status_ctx_client_license_not_set/0xc00a0033/",
+  "numericCode": -1073086413,
+  "define": "STATUS_CTX_CLIENT_LICENSE_NOT_SET",
+  "defineUrl": "/win32/ntstatus-h/status_ctx_client_license_not_set/",
+  "message": "Your request to connect to this Terminal server has been rejected.\r\nYour Terminal Server Client license number has not been entered for this copy of the Terminal Client.\r\nPlease call your system administrator for help in entering a valid, unique license number for this Terminal Server Client.\r\nClick OK to continue.",
+  "remarks": null,
+  "aka": [
+    "-1073086413"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_ctx_client_license_not_set/-1073086413/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

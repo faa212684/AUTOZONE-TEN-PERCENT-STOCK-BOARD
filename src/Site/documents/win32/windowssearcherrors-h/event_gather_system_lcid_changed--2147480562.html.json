@@ -1,0 +1,24 @@
+---
+output: win32\windowssearcherrors-h\event_gather_system_lcid_changed\-2147480562\index.html.json
+canonical: /win32/windowssearcherrors-h/event_gather_system_lcid_changed/0x80000c0e/
+title: -2147480562 EVENT_GATHER_SYSTEM_LCID_CHANGED in WindowsSearchErrors.h
+description: The system locale has changed. Existing data will be deleted and the index must be recreated.%1
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "-2147480562",
+  "codeUrl": "/win32/windowssearcherrors-h/event_gather_system_lcid_changed/-2147480562/",
+  "numericCode": 0,
+  "define": "EVENT_GATHER_SYSTEM_LCID_CHANGED",
+  "defineUrl": "/win32/windowssearcherrors-h/event_gather_system_lcid_changed/",
+  "message": "The system locale has changed. Existing data will be deleted and the index must be recreated.%1",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80000C0E",
+  "originalCodeUrl": "/win32/windowssearcherrors-h/event_gather_system_lcid_changed/0x80000c0e/"
+}

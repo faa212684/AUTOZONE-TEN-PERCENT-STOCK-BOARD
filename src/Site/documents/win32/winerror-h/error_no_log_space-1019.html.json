@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_no_log_space\1019\index.html.json
+
+title: 1019 ERROR_NO_LOG_SPACE in winerror.h
+description: System could not allocate the required space in a registry log.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1019",
+  "codeUrl": "/win32/winerror-h/error_no_log_space/1019/",
+  "numericCode": 1019,
+  "define": "ERROR_NO_LOG_SPACE",
+  "defineUrl": "/win32/winerror-h/error_no_log_space/",
+  "message": "System could not allocate the required space in a registry log.",
+  "remarks": null,
+  "aka": [
+    "0x800703fb",
+    "-2147023877"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_no_log_space/0x800703fb/",
+    "/win32/winerror-h/error_no_log_space/-2147023877/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

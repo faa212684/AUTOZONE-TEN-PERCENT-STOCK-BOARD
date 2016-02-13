@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_object_not_externally_backed\0xc000046d\index.html.json
+
+title: 0xC000046D STATUS_OBJECT_NOT_EXTERNALLY_BACKED in ntstatus.h
+description: This object is not externally backed by any provider.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000046D",
+  "codeUrl": "/win32/ntstatus-h/status_object_not_externally_backed/0xc000046d/",
+  "numericCode": -1073740691,
+  "define": "STATUS_OBJECT_NOT_EXTERNALLY_BACKED",
+  "defineUrl": "/win32/ntstatus-h/status_object_not_externally_backed/",
+  "message": "This object is not externally backed by any provider.",
+  "remarks": null,
+  "aka": [
+    "-1073740691"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_object_not_externally_backed/-1073740691/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

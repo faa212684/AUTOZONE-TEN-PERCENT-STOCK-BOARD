@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\tpc_e_invalid_stroke\0x80040222\index.html.json
+
+title: 0x80040222 TPC_E_INVALID_STROKE in winerror.h
+description: TabletPC inking error code. The stroke object was deleted
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80040222",
+  "codeUrl": "/win32/winerror-h/tpc_e_invalid_stroke/0x80040222/",
+  "numericCode": -2147220958,
+  "define": "TPC_E_INVALID_STROKE",
+  "defineUrl": "/win32/winerror-h/tpc_e_invalid_stroke/",
+  "message": "TabletPC inking error code. The stroke object was deleted",
+  "remarks": null,
+  "aka": [
+    "-2147220958"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/tpc_e_invalid_stroke/-2147220958/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

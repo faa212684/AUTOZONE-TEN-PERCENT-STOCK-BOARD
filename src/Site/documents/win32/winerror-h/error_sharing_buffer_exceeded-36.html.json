@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_sharing_buffer_exceeded\36\index.html.json
+
+title: 36 ERROR_SHARING_BUFFER_EXCEEDED in winerror.h
+description: Too many files opened for sharing.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "36",
+  "codeUrl": "/win32/winerror-h/error_sharing_buffer_exceeded/36/",
+  "numericCode": 36,
+  "define": "ERROR_SHARING_BUFFER_EXCEEDED",
+  "defineUrl": "/win32/winerror-h/error_sharing_buffer_exceeded/",
+  "message": "Too many files opened for sharing.",
+  "remarks": null,
+  "aka": [
+    "0x80070024",
+    "-2147024860"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_sharing_buffer_exceeded/0x80070024/",
+    "/win32/winerror-h/error_sharing_buffer_exceeded/-2147024860/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

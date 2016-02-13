@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_app_data_expired\0xc000a282\index.html.json
+
+title: 0xC000A282 STATUS_APP_DATA_EXPIRED in ntstatus.h
+description: Fast Cache data expired.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000A282",
+  "codeUrl": "/win32/ntstatus-h/status_app_data_expired/0xc000a282/",
+  "numericCode": -1073700222,
+  "define": "STATUS_APP_DATA_EXPIRED",
+  "defineUrl": "/win32/ntstatus-h/status_app_data_expired/",
+  "message": "Fast Cache data expired.",
+  "remarks": null,
+  "aka": [
+    "-1073700222"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_app_data_expired/-1073700222/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\rpc_nt_object_not_found\0xc002000b\index.html.json
+
+title: 0xC002000B RPC_NT_OBJECT_NOT_FOUND in ntstatus.h
+description: The object UUID was not found.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC002000B",
+  "codeUrl": "/win32/ntstatus-h/rpc_nt_object_not_found/0xc002000b/",
+  "numericCode": -1073610741,
+  "define": "RPC_NT_OBJECT_NOT_FOUND",
+  "defineUrl": "/win32/ntstatus-h/rpc_nt_object_not_found/",
+  "message": "The object UUID was not found.",
+  "remarks": null,
+  "aka": [
+    "-1073610741"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/rpc_nt_object_not_found/-1073610741/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

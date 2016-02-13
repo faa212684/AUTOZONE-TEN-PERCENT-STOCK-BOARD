@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_fwp_invalid_range\0xc0220020\index.html.json
+
+title: 0xC0220020 STATUS_FWP_INVALID_RANGE in ntstatus.h
+description: An FWP_RANGE is not valid.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0220020",
+  "codeUrl": "/win32/ntstatus-h/status_fwp_invalid_range/0xc0220020/",
+  "numericCode": -1071513568,
+  "define": "STATUS_FWP_INVALID_RANGE",
+  "defineUrl": "/win32/ntstatus-h/status_fwp_invalid_range/",
+  "message": "An FWP_RANGE is not valid.",
+  "remarks": null,
+  "aka": [
+    "-1071513568"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_fwp_invalid_range/-1071513568/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

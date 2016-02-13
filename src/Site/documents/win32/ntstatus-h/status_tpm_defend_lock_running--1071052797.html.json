@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_tpm_defend_lock_running\-1071052797\index.html.json
+canonical: /win32/ntstatus-h/status_tpm_defend_lock_running/0xc0290803/
+title: -1071052797 STATUS_TPM_DEFEND_LOCK_RUNNING in ntstatus.h
+description: The TPM is defending against dictionary attacks and is in a time-out period.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071052797",
+  "codeUrl": "/win32/ntstatus-h/status_tpm_defend_lock_running/-1071052797/",
+  "numericCode": 0,
+  "define": "STATUS_TPM_DEFEND_LOCK_RUNNING",
+  "defineUrl": "/win32/ntstatus-h/status_tpm_defend_lock_running/",
+  "message": "The TPM is defending against dictionary attacks and is in a time-out period.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0290803",
+  "originalCodeUrl": "/win32/ntstatus-h/status_tpm_defend_lock_running/0xc0290803/"
+}

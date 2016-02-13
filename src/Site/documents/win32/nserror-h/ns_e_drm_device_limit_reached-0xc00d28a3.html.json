@@ -1,0 +1,28 @@
+---
+output: win32\nserror-h\ns_e_drm_device_limit_reached\0xc00d28a3\index.html.json
+
+title: 0xC00D28A3 NS_E_DRM_DEVICE_LIMIT_REACHED in nserror.h
+description: The maximum number of devices in use has been reached. Unable to open additional devices.%0
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "nserror.h",
+  "sourceUrl": "/win32/nserror-h/",
+  "code": "0xC00D28A3",
+  "codeUrl": "/win32/nserror-h/ns_e_drm_device_limit_reached/0xc00d28a3/",
+  "numericCode": -1072879453,
+  "define": "NS_E_DRM_DEVICE_LIMIT_REACHED",
+  "defineUrl": "/win32/nserror-h/ns_e_drm_device_limit_reached/",
+  "message": "The maximum number of devices in use has been reached. Unable to open additional devices.%0",
+  "remarks": null,
+  "aka": [
+    "-1072879453"
+  ],
+  "akaUrl": [
+    "/win32/nserror-h/ns_e_drm_device_limit_reached/-1072879453/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

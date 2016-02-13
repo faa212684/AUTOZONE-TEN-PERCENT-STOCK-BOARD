@@ -1,0 +1,24 @@
+---
+output: win32\wsmerror-h\error_wsman_wmi_provider_not_capable\-2144108286\index.html.json
+canonical: /win32/wsmerror-h/error_wsman_wmi_provider_not_capable/0x80338102/
+title: -2144108286 ERROR_WSMAN_WMI_PROVIDER_NOT_CAPABLE in wsmerror.h
+description: The WS-Management service cannot process the request. The WMI service reported that the WMI provider could not perform the requested operation.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "-2144108286",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_wmi_provider_not_capable/-2144108286/",
+  "numericCode": 0,
+  "define": "ERROR_WSMAN_WMI_PROVIDER_NOT_CAPABLE",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_wmi_provider_not_capable/",
+  "message": "The WS-Management service cannot process the request. The WMI service reported that the WMI provider could not perform the requested operation.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80338102",
+  "originalCodeUrl": "/win32/wsmerror-h/error_wsman_wmi_provider_not_capable/0x80338102/"
+}

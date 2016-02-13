@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_unable_to_inventory_transport\4327\index.html.json
+
+title: 4327 ERROR_UNABLE_TO_INVENTORY_TRANSPORT in winerror.h
+description: Unable to retrieve status about the transport.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "4327",
+  "codeUrl": "/win32/winerror-h/error_unable_to_inventory_transport/4327/",
+  "numericCode": 4327,
+  "define": "ERROR_UNABLE_TO_INVENTORY_TRANSPORT",
+  "defineUrl": "/win32/winerror-h/error_unable_to_inventory_transport/",
+  "message": "Unable to retrieve status about the transport.",
+  "remarks": null,
+  "aka": [
+    "0x800710e7",
+    "-2147020569"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_unable_to_inventory_transport/0x800710e7/",
+    "/win32/winerror-h/error_unable_to_inventory_transport/-2147020569/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

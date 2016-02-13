@@ -1,0 +1,26 @@
+---
+output: win32\ntstatus-h\status_segment_notification\1073741829\index.html.json
+canonical: /win32/ntstatus-h/status_segment_notification/0x40000005/
+title: 1073741829 STATUS_SEGMENT_NOTIFICATION in ntstatus.h
+description: "{Segment Load}
+A virtual DOS machine (VDM) is loading, unloading, or moving an MS-DOS or Win16 program segment image.
+An exception is raised so a debugger can load, unload or track symbols and breakpoints within these 16-bit segments."
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "1073741829",
+  "codeUrl": "/win32/ntstatus-h/status_segment_notification/1073741829/",
+  "numericCode": 0,
+  "define": "STATUS_SEGMENT_NOTIFICATION",
+  "defineUrl": "/win32/ntstatus-h/status_segment_notification/",
+  "message": "{Segment Load}\r\nA virtual DOS machine (VDM) is loading, unloading, or moving an MS-DOS or Win16 program segment image.\r\nAn exception is raised so a debugger can load, unload or track symbols and breakpoints within these 16-bit segments.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x40000005",
+  "originalCodeUrl": "/win32/ntstatus-h/status_segment_notification/0x40000005/"
+}

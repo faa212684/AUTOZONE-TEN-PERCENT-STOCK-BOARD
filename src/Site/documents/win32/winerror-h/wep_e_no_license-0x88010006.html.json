@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\wep_e_no_license\0x88010006\index.html.json
+
+title: 0x88010006 WEP_E_NO_LICENSE in winerror.h
+description: The 3rd party provider has been installed, but cannot activate encryption beacuse a license has not been activated.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x88010006",
+  "codeUrl": "/win32/winerror-h/wep_e_no_license/0x88010006/",
+  "numericCode": -2013200378,
+  "define": "WEP_E_NO_LICENSE",
+  "defineUrl": "/win32/winerror-h/wep_e_no_license/",
+  "message": "The 3rd party provider has been installed, but cannot activate encryption beacuse a license has not been activated.",
+  "remarks": null,
+  "aka": [
+    "-2013200378"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/wep_e_no_license/-2013200378/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

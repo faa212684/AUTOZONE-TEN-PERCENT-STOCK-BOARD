@@ -1,0 +1,24 @@
+---
+output: bugcheck\bugcodes-h\kernel_stack_locked_at_exit\148\index.html.json
+canonical: /bugcheck/bugcodes-h/kernel_stack_locked_at_exit/0x00000094/
+title: 148 KERNEL_STACK_LOCKED_AT_EXIT in bugcodes.h
+description: KERNEL_STACK_LOCKED_AT_EXIT
+disqus: false
+---
+{
+  "area": "bugcheck",
+  "areaUrl": "/bugcheck/",
+  "source": "bugcodes.h",
+  "sourceUrl": "/bugcheck/bugcodes-h/",
+  "code": "148",
+  "codeUrl": "/bugcheck/bugcodes-h/kernel_stack_locked_at_exit/148/",
+  "numericCode": 0,
+  "define": "KERNEL_STACK_LOCKED_AT_EXIT",
+  "defineUrl": "/bugcheck/bugcodes-h/kernel_stack_locked_at_exit/",
+  "message": "KERNEL_STACK_LOCKED_AT_EXIT",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x00000094",
+  "originalCodeUrl": "/bugcheck/bugcodes-h/kernel_stack_locked_at_exit/0x00000094/"
+}

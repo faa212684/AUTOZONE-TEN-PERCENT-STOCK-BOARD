@@ -1,0 +1,35 @@
+---
+output: win32\wsmerror-h\error_wsman_client_credssp_authentication_disabled\0x803381a2\index.html.json
+
+title: 0x803381A2 ERROR_WSMAN_CLIENT_CREDSSP_AUTHENTICATION_DISABLED in wsmerror.h
+description: The WinRM client cannot process the request.
+CredSSP authentication is currently disabled in the client configuration.
+Change the client configuration and try the request again.
+CredSSP authentication must also be enabled in the server configuration.
+Also, Group Policy must be edited to allow credential delegation to the target computer.
+Use gpedit.msc and look at the following policy: Computer Configuration -> Administrative Templates -> System -> Credentials Delegation -> Allow Delegating Fresh Credentials. 
+Verify that it is enabled and configured with an SPN appropriate for the target computer.
+For example, for a target computer name "myserver.domain.com", the SPN can be one of the following: WSMAN/myserver.domain.com or WSMAN/*.domain.com
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x803381A2",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_client_credssp_authentication_disabled/0x803381a2/",
+  "numericCode": -2144108126,
+  "define": "ERROR_WSMAN_CLIENT_CREDSSP_AUTHENTICATION_DISABLED",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_client_credssp_authentication_disabled/",
+  "message": "The WinRM client cannot process the request.\r\nCredSSP authentication is currently disabled in the client configuration.\r\nChange the client configuration and try the request again.\r\nCredSSP authentication must also be enabled in the server configuration.\r\nAlso, Group Policy must be edited to allow credential delegation to the target computer.\r\nUse gpedit.msc and look at the following policy: Computer Configuration -> Administrative Templates -> System -> Credentials Delegation -> Allow Delegating Fresh Credentials. \r\nVerify that it is enabled and configured with an SPN appropriate for the target computer.\r\nFor example, for a target computer name \"myserver.domain.com\", the SPN can be one of the following: WSMAN/myserver.domain.com or WSMAN/*.domain.com",
+  "remarks": null,
+  "aka": [
+    "-2144108126"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_client_credssp_authentication_disabled/-2144108126/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

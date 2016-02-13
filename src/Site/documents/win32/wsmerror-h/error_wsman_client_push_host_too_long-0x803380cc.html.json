@@ -1,0 +1,29 @@
+---
+output: win32\wsmerror-h\error_wsman_client_push_host_too_long\0x803380cc\index.html.json
+
+title: 0x803380CC ERROR_WSMAN_CLIENT_PUSH_HOST_TOO_LONG in wsmerror.h
+description: The WinRM client cannot process the request. The delivery address for push subscriptions was too long.
+Change the delivery address and try the request again.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x803380CC",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_client_push_host_too_long/0x803380cc/",
+  "numericCode": -2144108340,
+  "define": "ERROR_WSMAN_CLIENT_PUSH_HOST_TOO_LONG",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_client_push_host_too_long/",
+  "message": "The WinRM client cannot process the request. The delivery address for push subscriptions was too long.\r\nChange the delivery address and try the request again.",
+  "remarks": null,
+  "aka": [
+    "-2144108340"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_client_push_host_too_long/-2144108340/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

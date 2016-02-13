@@ -1,0 +1,27 @@
+---
+output: win32\wdsmcerr-h\evt_wdsmcs_e_cp_init_func_missing\-1054801327\index.html.json
+canonical: /win32/wdsmcerr-h/evt_wdsmcs_e_cp_init_func_missing/0xc1210251/
+title: -1054801327 EVT_WDSMCS_E_CP_INIT_FUNC_MISSING in wdsmcerr.h
+description: The module %1 for Content Provider %2 does not export the initialization 
+function %3. %n
+%n
+Error Information: %4 %n
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wdsmcerr.h",
+  "sourceUrl": "/win32/wdsmcerr-h/",
+  "code": "-1054801327",
+  "codeUrl": "/win32/wdsmcerr-h/evt_wdsmcs_e_cp_init_func_missing/-1054801327/",
+  "numericCode": 0,
+  "define": "EVT_WDSMCS_E_CP_INIT_FUNC_MISSING",
+  "defineUrl": "/win32/wdsmcerr-h/evt_wdsmcs_e_cp_init_func_missing/",
+  "message": "The module %1 for Content Provider %2 does not export the initialization \r\nfunction %3. %n\r\n%n\r\nError Information: %4 %n",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC1210251",
+  "originalCodeUrl": "/win32/wdsmcerr-h/evt_wdsmcs_e_cp_init_func_missing/0xc1210251/"
+}

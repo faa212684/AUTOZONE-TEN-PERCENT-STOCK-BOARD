@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_request_out_of_sequence\0xc000042a\index.html.json
+
+title: 0xC000042A STATUS_REQUEST_OUT_OF_SEQUENCE in ntstatus.h
+description: The requested operation is out of order with respect to other operations.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000042A",
+  "codeUrl": "/win32/ntstatus-h/status_request_out_of_sequence/0xc000042a/",
+  "numericCode": -1073740758,
+  "define": "STATUS_REQUEST_OUT_OF_SEQUENCE",
+  "defineUrl": "/win32/ntstatus-h/status_request_out_of_sequence/",
+  "message": "The requested operation is out of order with respect to other operations.",
+  "remarks": null,
+  "aka": [
+    "-1073740758"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_request_out_of_sequence/-1073740758/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

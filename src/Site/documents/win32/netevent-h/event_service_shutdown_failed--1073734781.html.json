@@ -1,0 +1,24 @@
+---
+output: win32\netevent-h\event_service_shutdown_failed\-1073734781\index.html.json
+canonical: /win32/netevent-h/event_service_shutdown_failed/0xc0001b83/
+title: -1073734781 EVENT_SERVICE_SHUTDOWN_FAILED in netevent.h
+description: The %1 service did not shutdown properly after receiving a preshutdown control.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "-1073734781",
+  "codeUrl": "/win32/netevent-h/event_service_shutdown_failed/-1073734781/",
+  "numericCode": 0,
+  "define": "EVENT_SERVICE_SHUTDOWN_FAILED",
+  "defineUrl": "/win32/netevent-h/event_service_shutdown_failed/",
+  "message": "The %1 service did not shutdown properly after receiving a preshutdown control.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0001B83",
+  "originalCodeUrl": "/win32/netevent-h/event_service_shutdown_failed/0xc0001b83/"
+}

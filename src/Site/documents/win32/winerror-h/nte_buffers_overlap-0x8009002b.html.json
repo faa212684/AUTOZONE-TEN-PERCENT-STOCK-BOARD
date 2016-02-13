@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\nte_buffers_overlap\0x8009002b\index.html.json
+
+title: 0x8009002B NTE_BUFFERS_OVERLAP in winerror.h
+description: The supplied buffers overlap incorrectly.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8009002B",
+  "codeUrl": "/win32/winerror-h/nte_buffers_overlap/0x8009002b/",
+  "numericCode": -2146893781,
+  "define": "NTE_BUFFERS_OVERLAP",
+  "defineUrl": "/win32/winerror-h/nte_buffers_overlap/",
+  "message": "The supplied buffers overlap incorrectly.",
+  "remarks": null,
+  "aka": [
+    "-2146893781"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/nte_buffers_overlap/-2146893781/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

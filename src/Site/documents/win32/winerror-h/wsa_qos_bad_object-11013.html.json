@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\wsa_qos_bad_object\11013\index.html.json
+
+title: 11013 WSA_QOS_BAD_OBJECT in winerror.h
+description: Problem with some part of the filterspec or providerspecific buffer in general.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "11013",
+  "codeUrl": "/win32/winerror-h/wsa_qos_bad_object/11013/",
+  "numericCode": 11013,
+  "define": "WSA_QOS_BAD_OBJECT",
+  "defineUrl": "/win32/winerror-h/wsa_qos_bad_object/",
+  "message": "Problem with some part of the filterspec or providerspecific buffer in general.",
+  "remarks": null,
+  "aka": [
+    "0x80072b05",
+    "-2147013883"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/wsa_qos_bad_object/0x80072b05/",
+    "/win32/winerror-h/wsa_qos_bad_object/-2147013883/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

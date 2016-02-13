@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_e_corrupt_partition_info\0x80042509\index.html.json
+
+title: 0x80042509 VDS_E_CORRUPT_PARTITION_INFO in vdserr.h
+description: The disk's partition information is corrupted.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x80042509",
+  "codeUrl": "/win32/vdserr-h/vds_e_corrupt_partition_info/0x80042509/",
+  "numericCode": -2147212023,
+  "define": "VDS_E_CORRUPT_PARTITION_INFO",
+  "defineUrl": "/win32/vdserr-h/vds_e_corrupt_partition_info/",
+  "message": "The disk's partition information is corrupted.",
+  "remarks": null,
+  "aka": [
+    "-2147212023"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_corrupt_partition_info/-2147212023/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

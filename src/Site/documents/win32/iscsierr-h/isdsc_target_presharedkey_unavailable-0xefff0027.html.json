@@ -1,0 +1,28 @@
+---
+output: win32\iscsierr-h\isdsc_target_presharedkey_unavailable\0xefff0027\index.html.json
+
+title: 0xEFFF0027 ISDSC_TARGET_PRESHAREDKEY_UNAVAILABLE in iscsierr.h
+description: The preshared key for the target or IKE identification payload is not available.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "iscsierr.h",
+  "sourceUrl": "/win32/iscsierr-h/",
+  "code": "0xEFFF0027",
+  "codeUrl": "/win32/iscsierr-h/isdsc_target_presharedkey_unavailable/0xefff0027/",
+  "numericCode": -268500953,
+  "define": "ISDSC_TARGET_PRESHAREDKEY_UNAVAILABLE",
+  "defineUrl": "/win32/iscsierr-h/isdsc_target_presharedkey_unavailable/",
+  "message": "The preshared key for the target or IKE identification payload is not available.",
+  "remarks": null,
+  "aka": [
+    "-268500953"
+  ],
+  "akaUrl": [
+    "/win32/iscsierr-h/isdsc_target_presharedkey_unavailable/-268500953/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

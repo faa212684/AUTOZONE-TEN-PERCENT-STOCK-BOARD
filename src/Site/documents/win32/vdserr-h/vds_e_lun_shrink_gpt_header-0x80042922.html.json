@@ -1,0 +1,31 @@
+---
+output: win32\vdserr-h\vds_e_lun_shrink_gpt_header\0x80042922\index.html.json
+
+title: 0x80042922 VDS_E_LUN_SHRINK_GPT_HEADER in vdserr.h
+description: The SHRINK operation against the selected LUN cannot be completed. 
+The disk has the GPT partitioning format. The specified new lun 
+size does not allow space for a new GPT backup header to be created.
+Please increase the resulting lun size.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x80042922",
+  "codeUrl": "/win32/vdserr-h/vds_e_lun_shrink_gpt_header/0x80042922/",
+  "numericCode": -2147210974,
+  "define": "VDS_E_LUN_SHRINK_GPT_HEADER",
+  "defineUrl": "/win32/vdserr-h/vds_e_lun_shrink_gpt_header/",
+  "message": "The SHRINK operation against the selected LUN cannot be completed. \r\nThe disk has the GPT partitioning format. The specified new lun \r\nsize does not allow space for a new GPT backup header to be created.\r\nPlease increase the resulting lun size.",
+  "remarks": null,
+  "aka": [
+    "-2147210974"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_lun_shrink_gpt_header/-2147210974/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

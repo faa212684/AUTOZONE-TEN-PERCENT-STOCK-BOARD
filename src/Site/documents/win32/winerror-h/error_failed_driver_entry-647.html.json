@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_failed_driver_entry\647\index.html.json
+
+title: 647 ERROR_FAILED_DRIVER_ENTRY in winerror.h
+description: The driver was not loaded because it failed its initialization call.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "647",
+  "codeUrl": "/win32/winerror-h/error_failed_driver_entry/647/",
+  "numericCode": 647,
+  "define": "ERROR_FAILED_DRIVER_ENTRY",
+  "defineUrl": "/win32/winerror-h/error_failed_driver_entry/",
+  "message": "The driver was not loaded because it failed its initialization call.",
+  "remarks": null,
+  "aka": [
+    "0x80070287",
+    "-2147024249"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_failed_driver_entry/0x80070287/",
+    "/win32/winerror-h/error_failed_driver_entry/-2147024249/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

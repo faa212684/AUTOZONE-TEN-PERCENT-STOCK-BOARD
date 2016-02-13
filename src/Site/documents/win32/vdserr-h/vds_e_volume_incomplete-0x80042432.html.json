@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_e_volume_incomplete\0x80042432\index.html.json
+
+title: 0x80042432 VDS_E_VOLUME_INCOMPLETE in vdserr.h
+description: All extents for the volume could not be found.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x80042432",
+  "codeUrl": "/win32/vdserr-h/vds_e_volume_incomplete/0x80042432/",
+  "numericCode": -2147212238,
+  "define": "VDS_E_VOLUME_INCOMPLETE",
+  "defineUrl": "/win32/vdserr-h/vds_e_volume_incomplete/",
+  "message": "All extents for the volume could not be found.",
+  "remarks": null,
+  "aka": [
+    "-2147212238"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_volume_incomplete/-2147212238/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

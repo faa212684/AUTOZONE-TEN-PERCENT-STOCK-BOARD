@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_rdr_unexpected_error\0x80000bc4\index.html.json
+
+title: 0x80000BC4 EVENT_RDR_UNEXPECTED_ERROR in netevent.h
+description: An unexpected network error has occurred on the virtual circuit to %2.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x80000BC4",
+  "codeUrl": "/win32/netevent-h/event_rdr_unexpected_error/0x80000bc4/",
+  "numericCode": -2147480636,
+  "define": "EVENT_RDR_UNEXPECTED_ERROR",
+  "defineUrl": "/win32/netevent-h/event_rdr_unexpected_error/",
+  "message": "An unexpected network error has occurred on the virtual circuit to %2.",
+  "remarks": null,
+  "aka": [
+    "-2147480636"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_rdr_unexpected_error/-2147480636/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

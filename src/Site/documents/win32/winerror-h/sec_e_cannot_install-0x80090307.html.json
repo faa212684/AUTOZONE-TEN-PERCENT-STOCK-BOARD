@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\sec_e_cannot_install\0x80090307\index.html.json
+
+title: 0x80090307 SEC_E_CANNOT_INSTALL in winerror.h
+description: The security package failed to initialize, and cannot be installed
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80090307",
+  "codeUrl": "/win32/winerror-h/sec_e_cannot_install/0x80090307/",
+  "numericCode": -2146893049,
+  "define": "SEC_E_CANNOT_INSTALL",
+  "defineUrl": "/win32/winerror-h/sec_e_cannot_install/",
+  "message": "The security package failed to initialize, and cannot be installed",
+  "remarks": null,
+  "aka": [
+    "-2146893049"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/sec_e_cannot_install/-2146893049/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

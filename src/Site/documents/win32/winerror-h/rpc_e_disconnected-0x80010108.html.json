@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\rpc_e_disconnected\0x80010108\index.html.json
+
+title: 0x80010108 RPC_E_DISCONNECTED in winerror.h
+description: The object invoked has disconnected from its clients.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80010108",
+  "codeUrl": "/win32/winerror-h/rpc_e_disconnected/0x80010108/",
+  "numericCode": -2147417848,
+  "define": "RPC_E_DISCONNECTED",
+  "defineUrl": "/win32/winerror-h/rpc_e_disconnected/",
+  "message": "The object invoked has disconnected from its clients.",
+  "remarks": null,
+  "aka": [
+    "-2147417848"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/rpc_e_disconnected/-2147417848/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_no_trust_sam_account\0x800706fb\index.html.json
+canonical: /win32/winerror-h/error_no_trust_sam_account/1787/
+title: 0x800706fb ERROR_NO_TRUST_SAM_ACCOUNT in winerror.h
+description: The security database on the server does not have a computer account for this workstation trust relationship.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800706fb",
+  "codeUrl": "/win32/winerror-h/error_no_trust_sam_account/0x800706fb/",
+  "numericCode": 0,
+  "define": "ERROR_NO_TRUST_SAM_ACCOUNT",
+  "defineUrl": "/win32/winerror-h/error_no_trust_sam_account/",
+  "message": "The security database on the server does not have a computer account for this workstation trust relationship.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "1787",
+  "originalCodeUrl": "/win32/winerror-h/error_no_trust_sam_account/1787/"
+}

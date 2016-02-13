@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_no_such_package\-1073741570\index.html.json
+canonical: /win32/ntstatus-h/status_no_such_package/0xc00000fe/
+title: -1073741570 STATUS_NO_SUCH_PACKAGE in ntstatus.h
+description: A specified authentication package is unknown.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741570",
+  "codeUrl": "/win32/ntstatus-h/status_no_such_package/-1073741570/",
+  "numericCode": 0,
+  "define": "STATUS_NO_SUCH_PACKAGE",
+  "defineUrl": "/win32/ntstatus-h/status_no_such_package/",
+  "message": "A specified authentication package is unknown.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC00000FE",
+  "originalCodeUrl": "/win32/ntstatus-h/status_no_such_package/0xc00000fe/"
+}

@@ -1,0 +1,30 @@
+---
+output: win32\vdserr-h\vds_e_volume_extend_fve\0x80042822\index.html.json
+
+title: 0x80042822 VDS_E_VOLUME_EXTEND_FVE in vdserr.h
+description: The volume could not be extended because it is encrypted by BitLocker and 
+Fveapi.dll could not be loaded to determine its status. For this operation to 
+succeed, Fveapi.dll must be available in %SystemRoot%\System32\.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x80042822",
+  "codeUrl": "/win32/vdserr-h/vds_e_volume_extend_fve/0x80042822/",
+  "numericCode": -2147211230,
+  "define": "VDS_E_VOLUME_EXTEND_FVE",
+  "defineUrl": "/win32/vdserr-h/vds_e_volume_extend_fve/",
+  "message": "The volume could not be extended because it is encrypted by BitLocker and \r\nFveapi.dll could not be loaded to determine its status. For this operation to \r\nsucceed, Fveapi.dll must be available in %SystemRoot%\\System32\\.",
+  "remarks": null,
+  "aka": [
+    "-2147211230"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_volume_extend_fve/-2147211230/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

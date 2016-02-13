@@ -1,0 +1,28 @@
+---
+output: win32\rtcerr-h\rtc_e_udp_not_supported\0x80ee007e\index.html.json
+
+title: 0x80EE007E RTC_E_UDP_NOT_SUPPORTED in rtcerr.h
+description: This feature is not supported when one of the server in profile has UDP transport
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "rtcerr.h",
+  "sourceUrl": "/win32/rtcerr-h/",
+  "code": "0x80EE007E",
+  "codeUrl": "/win32/rtcerr-h/rtc_e_udp_not_supported/0x80ee007e/",
+  "numericCode": -2131885954,
+  "define": "RTC_E_UDP_NOT_SUPPORTED",
+  "defineUrl": "/win32/rtcerr-h/rtc_e_udp_not_supported/",
+  "message": "This feature is not supported when one of the server in profile has UDP transport",
+  "remarks": null,
+  "aka": [
+    "-2131885954"
+  ],
+  "akaUrl": [
+    "/win32/rtcerr-h/rtc_e_udp_not_supported/-2131885954/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

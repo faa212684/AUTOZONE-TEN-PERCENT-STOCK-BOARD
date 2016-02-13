@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_cluster_shared_volume_failover_not_allowed\-2147018935\index.html.json
+canonical: /win32/winerror-h/error_cluster_shared_volume_failover_not_allowed/5961/
+title: -2147018935 ERROR_CLUSTER_SHARED_VOLUME_FAILOVER_NOT_ALLOWED in winerror.h
+description: The resource cannot move to another node because a cluster shared volume vetoed the operation.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147018935",
+  "codeUrl": "/win32/winerror-h/error_cluster_shared_volume_failover_not_allowed/-2147018935/",
+  "numericCode": 0,
+  "define": "ERROR_CLUSTER_SHARED_VOLUME_FAILOVER_NOT_ALLOWED",
+  "defineUrl": "/win32/winerror-h/error_cluster_shared_volume_failover_not_allowed/",
+  "message": "The resource cannot move to another node because a cluster shared volume vetoed the operation.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "5961",
+  "originalCodeUrl": "/win32/winerror-h/error_cluster_shared_volume_failover_not_allowed/5961/"
+}

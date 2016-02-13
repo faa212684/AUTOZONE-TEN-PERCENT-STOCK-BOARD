@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_e_cannot_extend\0x8004240e\index.html.json
+
+title: 0x8004240E VDS_E_CANNOT_EXTEND in vdserr.h
+description: The volume cannot be extended because the file system does not support it.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x8004240E",
+  "codeUrl": "/win32/vdserr-h/vds_e_cannot_extend/0x8004240e/",
+  "numericCode": -2147212274,
+  "define": "VDS_E_CANNOT_EXTEND",
+  "defineUrl": "/win32/vdserr-h/vds_e_cannot_extend/",
+  "message": "The volume cannot be extended because the file system does not support it.",
+  "remarks": null,
+  "aka": [
+    "-2147212274"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_cannot_extend/-2147212274/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

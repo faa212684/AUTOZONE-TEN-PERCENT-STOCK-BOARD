@@ -1,0 +1,28 @@
+---
+output: win32\vsserror-h\vss_e_transaction_freeze_timeout\0x80042328\index.html.json
+
+title: 0x80042328 VSS_E_TRANSACTION_FREEZE_TIMEOUT in vsserror.h
+description: A timeout occurred while freezing a transaction manager.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vsserror.h",
+  "sourceUrl": "/win32/vsserror-h/",
+  "code": "0x80042328",
+  "codeUrl": "/win32/vsserror-h/vss_e_transaction_freeze_timeout/0x80042328/",
+  "numericCode": -2147212504,
+  "define": "VSS_E_TRANSACTION_FREEZE_TIMEOUT",
+  "defineUrl": "/win32/vsserror-h/vss_e_transaction_freeze_timeout/",
+  "message": "A timeout occurred while freezing a transaction manager.",
+  "remarks": null,
+  "aka": [
+    "-2147212504"
+  ],
+  "akaUrl": [
+    "/win32/vsserror-h/vss_e_transaction_freeze_timeout/-2147212504/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

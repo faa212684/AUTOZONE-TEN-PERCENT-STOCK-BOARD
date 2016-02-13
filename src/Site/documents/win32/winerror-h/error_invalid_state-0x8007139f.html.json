@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_invalid_state\0x8007139f\index.html.json
+canonical: /win32/winerror-h/error_invalid_state/5023/
+title: 0x8007139f ERROR_INVALID_STATE in winerror.h
+description: The group or resource is not in the correct state to perform the requested operation.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007139f",
+  "codeUrl": "/win32/winerror-h/error_invalid_state/0x8007139f/",
+  "numericCode": 0,
+  "define": "ERROR_INVALID_STATE",
+  "defineUrl": "/win32/winerror-h/error_invalid_state/",
+  "message": "The group or resource is not in the correct state to perform the requested operation.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "5023",
+  "originalCodeUrl": "/win32/winerror-h/error_invalid_state/5023/"
+}

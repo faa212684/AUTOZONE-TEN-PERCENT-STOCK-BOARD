@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\sched_e_start_on_demand\0x80041328\index.html.json
+
+title: 0x80041328 SCHED_E_START_ON_DEMAND in winerror.h
+description: The task settings do not allow the task to start on demand.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80041328",
+  "codeUrl": "/win32/winerror-h/sched_e_start_on_demand/0x80041328/",
+  "numericCode": -2147216600,
+  "define": "SCHED_E_START_ON_DEMAND",
+  "defineUrl": "/win32/winerror-h/sched_e_start_on_demand/",
+  "message": "The task settings do not allow the task to start on demand.",
+  "remarks": null,
+  "aka": [
+    "-2147216600"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/sched_e_start_on_demand/-2147216600/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

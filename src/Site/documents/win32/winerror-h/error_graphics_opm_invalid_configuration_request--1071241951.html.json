@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_graphics_opm_invalid_configuration_request\-1071241951\index.html.json
+canonical: /win32/winerror-h/error_graphics_opm_invalid_configuration_request/0xc0262521/
+title: -1071241951 ERROR_GRAPHICS_OPM_INVALID_CONFIGURATION_REQUEST in winerror.h
+description: The IOPMVideoOutput::Configure function returns this error code if the passed in sequence number is not the expected sequence number or the passed in OMAC value is invalid.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-1071241951",
+  "codeUrl": "/win32/winerror-h/error_graphics_opm_invalid_configuration_request/-1071241951/",
+  "numericCode": 0,
+  "define": "ERROR_GRAPHICS_OPM_INVALID_CONFIGURATION_REQUEST",
+  "defineUrl": "/win32/winerror-h/error_graphics_opm_invalid_configuration_request/",
+  "message": "The IOPMVideoOutput::Configure function returns this error code if the passed in sequence number is not the expected sequence number or the passed in OMAC value is invalid.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0262521",
+  "originalCodeUrl": "/win32/winerror-h/error_graphics_opm_invalid_configuration_request/0xc0262521/"
+}

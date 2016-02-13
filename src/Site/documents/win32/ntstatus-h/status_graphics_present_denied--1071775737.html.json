@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_graphics_present_denied\-1071775737\index.html.json
+canonical: /win32/ntstatus-h/status_graphics_present_denied/0xc01e0007/
+title: -1071775737 STATUS_GRAPHICS_PRESENT_DENIED in ntstatus.h
+description: Not able to present due to denial of desktop access
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071775737",
+  "codeUrl": "/win32/ntstatus-h/status_graphics_present_denied/-1071775737/",
+  "numericCode": 0,
+  "define": "STATUS_GRAPHICS_PRESENT_DENIED",
+  "defineUrl": "/win32/ntstatus-h/status_graphics_present_denied/",
+  "message": "Not able to present due to denial of desktop access",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC01E0007",
+  "originalCodeUrl": "/win32/ntstatus-h/status_graphics_present_denied/0xc01e0007/"
+}

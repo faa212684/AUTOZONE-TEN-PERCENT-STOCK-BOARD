@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_appx_integrity_failure_clr_ngen\-1073740673\index.html.json
+canonical: /win32/ntstatus-h/status_appx_integrity_failure_clr_ngen/0xc000047f/
+title: -1073740673 STATUS_APPX_INTEGRITY_FAILURE_CLR_NGEN in ntstatus.h
+description: A corrupted CLR NGEN binary was detected on the system.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073740673",
+  "codeUrl": "/win32/ntstatus-h/status_appx_integrity_failure_clr_ngen/-1073740673/",
+  "numericCode": 0,
+  "define": "STATUS_APPX_INTEGRITY_FAILURE_CLR_NGEN",
+  "defineUrl": "/win32/ntstatus-h/status_appx_integrity_failure_clr_ngen/",
+  "message": "A corrupted CLR NGEN binary was detected on the system.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC000047F",
+  "originalCodeUrl": "/win32/ntstatus-h/status_appx_integrity_failure_clr_ngen/0xc000047f/"
+}

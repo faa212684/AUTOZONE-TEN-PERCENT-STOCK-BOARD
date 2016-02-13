@@ -1,0 +1,28 @@
+---
+output: win32\wuerror-h\wu_e_uh_remoteunavailable\0x80242000\index.html.json
+
+title: 0x80242000 WU_E_UH_REMOTEUNAVAILABLE in wuerror.h
+description: A request for a remote update handler could not be completed because no remote process is available.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wuerror.h",
+  "sourceUrl": "/win32/wuerror-h/",
+  "code": "0x80242000",
+  "codeUrl": "/win32/wuerror-h/wu_e_uh_remoteunavailable/0x80242000/",
+  "numericCode": -2145116160,
+  "define": "WU_E_UH_REMOTEUNAVAILABLE",
+  "defineUrl": "/win32/wuerror-h/wu_e_uh_remoteunavailable/",
+  "message": "A request for a remote update handler could not be completed because no remote process is available.",
+  "remarks": null,
+  "aka": [
+    "-2145116160"
+  ],
+  "akaUrl": [
+    "/win32/wuerror-h/wu_e_uh_remoteunavailable/-2145116160/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

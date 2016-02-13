@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_journal_hook_set\1430\index.html.json
+
+title: 1430 ERROR_JOURNAL_HOOK_SET in winerror.h
+description: The journal hook procedure is already installed.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1430",
+  "codeUrl": "/win32/winerror-h/error_journal_hook_set/1430/",
+  "numericCode": 1430,
+  "define": "ERROR_JOURNAL_HOOK_SET",
+  "defineUrl": "/win32/winerror-h/error_journal_hook_set/",
+  "message": "The journal hook procedure is already installed.",
+  "remarks": null,
+  "aka": [
+    "0x80070596",
+    "-2147023466"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_journal_hook_set/0x80070596/",
+    "/win32/winerror-h/error_journal_hook_set/-2147023466/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

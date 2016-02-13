@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_state_read_setting_failed\15807\index.html.json
+
+title: 15807 ERROR_STATE_READ_SETTING_FAILED in winerror.h
+description: State Manager failed to read the setting.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "15807",
+  "codeUrl": "/win32/winerror-h/error_state_read_setting_failed/15807/",
+  "numericCode": 15807,
+  "define": "ERROR_STATE_READ_SETTING_FAILED",
+  "defineUrl": "/win32/winerror-h/error_state_read_setting_failed/",
+  "message": "State Manager failed to read the setting.",
+  "remarks": null,
+  "aka": [
+    "0x80073dbf",
+    "-2147009089"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_state_read_setting_failed/0x80073dbf/",
+    "/win32/winerror-h/error_state_read_setting_failed/-2147009089/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

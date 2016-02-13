@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_rollback_timer_expired\6829\index.html.json
+
+title: 6829 ERROR_ROLLBACK_TIMER_EXPIRED in winerror.h
+description: A rollback could not be scheduled because a previously scheduled rollback has already executed or been queued for execution.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "6829",
+  "codeUrl": "/win32/winerror-h/error_rollback_timer_expired/6829/",
+  "numericCode": 6829,
+  "define": "ERROR_ROLLBACK_TIMER_EXPIRED",
+  "defineUrl": "/win32/winerror-h/error_rollback_timer_expired/",
+  "message": "A rollback could not be scheduled because a previously scheduled rollback has already executed or been queued for execution.",
+  "remarks": null,
+  "aka": [
+    "0x80071aad",
+    "-2147018067"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_rollback_timer_expired/0x80071aad/",
+    "/win32/winerror-h/error_rollback_timer_expired/-2147018067/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

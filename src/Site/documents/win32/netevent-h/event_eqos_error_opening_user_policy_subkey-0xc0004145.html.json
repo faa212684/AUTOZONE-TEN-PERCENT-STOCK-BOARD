@@ -1,0 +1,29 @@
+---
+output: win32\netevent-h\event_eqos_error_opening_user_policy_subkey\0xc0004145\index.html.json
+
+title: 0xC0004145 EVENT_EQOS_ERROR_OPENING_USER_POLICY_SUBKEY in netevent.h
+description: QoS failed to open the registry subkey for a user QoS policy. 
+The policy is listed under the user-level QoS policy root key, with index %2.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC0004145",
+  "codeUrl": "/win32/netevent-h/event_eqos_error_opening_user_policy_subkey/0xc0004145/",
+  "numericCode": -1073725115,
+  "define": "EVENT_EQOS_ERROR_OPENING_USER_POLICY_SUBKEY",
+  "defineUrl": "/win32/netevent-h/event_eqos_error_opening_user_policy_subkey/",
+  "message": "QoS failed to open the registry subkey for a user QoS policy. \r\nThe policy is listed under the user-level QoS policy root key, with index %2.",
+  "remarks": null,
+  "aka": [
+    "-1073725115"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_eqos_error_opening_user_policy_subkey/-1073725115/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

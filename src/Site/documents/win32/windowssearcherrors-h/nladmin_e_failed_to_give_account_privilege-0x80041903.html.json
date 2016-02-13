@@ -1,0 +1,28 @@
+---
+output: win32\windowssearcherrors-h\nladmin_e_failed_to_give_account_privilege\0x80041903\index.html.json
+
+title: 0x80041903 NLADMIN_E_FAILED_TO_GIVE_ACCOUNT_PRIVILEGE in WindowsSearchErrors.h
+description: The account cannot be granted a privilege to "log on as service"" on the domain controller.  The domain security administrator needs to grant the default account this privilege.  All of the default accounts specified for the server need this account privilege.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "0x80041903",
+  "codeUrl": "/win32/windowssearcherrors-h/nladmin_e_failed_to_give_account_privilege/0x80041903/",
+  "numericCode": -2147215101,
+  "define": "NLADMIN_E_FAILED_TO_GIVE_ACCOUNT_PRIVILEGE",
+  "defineUrl": "/win32/windowssearcherrors-h/nladmin_e_failed_to_give_account_privilege/",
+  "message": "The account cannot be granted a privilege to \"log on as service\"\" on the domain controller.  The domain security administrator needs to grant the default account this privilege.  All of the default accounts specified for the server need this account privilege.",
+  "remarks": null,
+  "aka": [
+    "-2147215101"
+  ],
+  "akaUrl": [
+    "/win32/windowssearcherrors-h/nladmin_e_failed_to_give_account_privilege/-2147215101/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_ctx_pd_not_found\-1073086461\index.html.json
+canonical: /win32/ntstatus-h/status_ctx_pd_not_found/0xc00a0003/
+title: -1073086461 STATUS_CTX_PD_NOT_FOUND in ntstatus.h
+description: The protocol driver %1 was not found in the system path.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073086461",
+  "codeUrl": "/win32/ntstatus-h/status_ctx_pd_not_found/-1073086461/",
+  "numericCode": 0,
+  "define": "STATUS_CTX_PD_NOT_FOUND",
+  "defineUrl": "/win32/ntstatus-h/status_ctx_pd_not_found/",
+  "message": "The protocol driver %1 was not found in the system path.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC00A0003",
+  "originalCodeUrl": "/win32/ntstatus-h/status_ctx_pd_not_found/0xc00a0003/"
+}

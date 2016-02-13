@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\fwp_e_invalid_dns_name\0x80320042\index.html.json
+
+title: 0x80320042 FWP_E_INVALID_DNS_NAME in winerror.h
+description: The DNS name is invalid.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80320042",
+  "codeUrl": "/win32/winerror-h/fwp_e_invalid_dns_name/0x80320042/",
+  "numericCode": -2144206782,
+  "define": "FWP_E_INVALID_DNS_NAME",
+  "defineUrl": "/win32/winerror-h/fwp_e_invalid_dns_name/",
+  "message": "The DNS name is invalid.",
+  "remarks": null,
+  "aka": [
+    "-2144206782"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/fwp_e_invalid_dns_name/-2144206782/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

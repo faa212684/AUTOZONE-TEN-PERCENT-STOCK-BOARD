@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_fwp_duplicate_auth_method\-1071513540\index.html.json
+canonical: /win32/ntstatus-h/status_fwp_duplicate_auth_method/0xc022003c/
+title: -1071513540 STATUS_FWP_DUPLICATE_AUTH_METHOD in ntstatus.h
+description: A policy cannot contain the same auth method more than once.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071513540",
+  "codeUrl": "/win32/ntstatus-h/status_fwp_duplicate_auth_method/-1071513540/",
+  "numericCode": 0,
+  "define": "STATUS_FWP_DUPLICATE_AUTH_METHOD",
+  "defineUrl": "/win32/ntstatus-h/status_fwp_duplicate_auth_method/",
+  "message": "A policy cannot contain the same auth method more than once.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC022003C",
+  "originalCodeUrl": "/win32/ntstatus-h/status_fwp_duplicate_auth_method/0xc022003c/"
+}

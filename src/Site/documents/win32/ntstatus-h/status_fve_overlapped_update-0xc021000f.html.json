@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_fve_overlapped_update\0xc021000f\index.html.json
+
+title: 0xC021000F STATUS_FVE_OVERLAPPED_UPDATE in ntstatus.h
+description: The control block for the encrypted volume was updated by another thread. Try again.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC021000F",
+  "codeUrl": "/win32/ntstatus-h/status_fve_overlapped_update/0xc021000f/",
+  "numericCode": -1071579121,
+  "define": "STATUS_FVE_OVERLAPPED_UPDATE",
+  "defineUrl": "/win32/ntstatus-h/status_fve_overlapped_update/",
+  "message": "The control block for the encrypted volume was updated by another thread. Try again.",
+  "remarks": null,
+  "aka": [
+    "-1071579121"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_fve_overlapped_update/-1071579121/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

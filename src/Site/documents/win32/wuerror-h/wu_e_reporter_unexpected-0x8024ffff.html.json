@@ -1,0 +1,28 @@
+---
+output: win32\wuerror-h\wu_e_reporter_unexpected\0x8024ffff\index.html.json
+
+title: 0x8024FFFF WU_E_REPORTER_UNEXPECTED in wuerror.h
+description: There was a reporter error not covered by another error code.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wuerror.h",
+  "sourceUrl": "/win32/wuerror-h/",
+  "code": "0x8024FFFF",
+  "codeUrl": "/win32/wuerror-h/wu_e_reporter_unexpected/0x8024ffff/",
+  "numericCode": -2145058817,
+  "define": "WU_E_REPORTER_UNEXPECTED",
+  "defineUrl": "/win32/wuerror-h/wu_e_reporter_unexpected/",
+  "message": "There was a reporter error not covered by another error code.",
+  "remarks": null,
+  "aka": [
+    "-2145058817"
+  ],
+  "akaUrl": [
+    "/win32/wuerror-h/wu_e_reporter_unexpected/-2145058817/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

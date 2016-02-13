@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_cluster_database_transaction_in_progress\5918\index.html.json
+
+title: 5918 ERROR_CLUSTER_DATABASE_TRANSACTION_IN_PROGRESS in winerror.h
+description: An internal cluster error occurred. A cluster database transaction was attempted while a transaction was already in progress.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "5918",
+  "codeUrl": "/win32/winerror-h/error_cluster_database_transaction_in_progress/5918/",
+  "numericCode": 5918,
+  "define": "ERROR_CLUSTER_DATABASE_TRANSACTION_IN_PROGRESS",
+  "defineUrl": "/win32/winerror-h/error_cluster_database_transaction_in_progress/",
+  "message": "An internal cluster error occurred. A cluster database transaction was attempted while a transaction was already in progress.",
+  "remarks": null,
+  "aka": [
+    "0x8007171e",
+    "-2147018978"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_cluster_database_transaction_in_progress/0x8007171e/",
+    "/win32/winerror-h/error_cluster_database_transaction_in_progress/-2147018978/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

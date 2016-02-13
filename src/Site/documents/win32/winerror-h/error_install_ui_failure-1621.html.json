@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_install_ui_failure\1621\index.html.json
+
+title: 1621 ERROR_INSTALL_UI_FAILURE in winerror.h
+description: There was an error starting the Windows Installer service user interface. Contact your support personnel.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1621",
+  "codeUrl": "/win32/winerror-h/error_install_ui_failure/1621/",
+  "numericCode": 1621,
+  "define": "ERROR_INSTALL_UI_FAILURE",
+  "defineUrl": "/win32/winerror-h/error_install_ui_failure/",
+  "message": "There was an error starting the Windows Installer service user interface. Contact your support personnel.",
+  "remarks": null,
+  "aka": [
+    "0x80070655",
+    "-2147023275"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_install_ui_failure/0x80070655/",
+    "/win32/winerror-h/error_install_ui_failure/-2147023275/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ds_sort_control_missing\8261\index.html.json
+
+title: 8261 ERROR_DS_SORT_CONTROL_MISSING in winerror.h
+description: The search requires a SORT control.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "8261",
+  "codeUrl": "/win32/winerror-h/error_ds_sort_control_missing/8261/",
+  "numericCode": 8261,
+  "define": "ERROR_DS_SORT_CONTROL_MISSING",
+  "defineUrl": "/win32/winerror-h/error_ds_sort_control_missing/",
+  "message": "The search requires a SORT control.",
+  "remarks": null,
+  "aka": [
+    "0x80072045",
+    "-2147016635"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ds_sort_control_missing/0x80072045/",
+    "/win32/winerror-h/error_ds_sort_control_missing/-2147016635/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

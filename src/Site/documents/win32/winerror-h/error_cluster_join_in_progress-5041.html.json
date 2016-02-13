@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_cluster_join_in_progress\5041\index.html.json
+
+title: 5041 ERROR_CLUSTER_JOIN_IN_PROGRESS in winerror.h
+description: A node is in the process of joining the cluster.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "5041",
+  "codeUrl": "/win32/winerror-h/error_cluster_join_in_progress/5041/",
+  "numericCode": 5041,
+  "define": "ERROR_CLUSTER_JOIN_IN_PROGRESS",
+  "defineUrl": "/win32/winerror-h/error_cluster_join_in_progress/",
+  "message": "A node is in the process of joining the cluster.",
+  "remarks": null,
+  "aka": [
+    "0x800713b1",
+    "-2147019855"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_cluster_join_in_progress/0x800713b1/",
+    "/win32/winerror-h/error_cluster_join_in_progress/-2147019855/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

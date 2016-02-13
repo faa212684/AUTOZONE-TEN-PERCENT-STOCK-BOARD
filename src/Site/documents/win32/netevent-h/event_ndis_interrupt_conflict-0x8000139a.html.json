@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_ndis_interrupt_conflict\0x8000139a\index.html.json
+
+title: 0x8000139A EVENT_NDIS_INTERRUPT_CONFLICT in netevent.h
+description: %2 : There is a interrupt conflict at Interrupt %3.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x8000139A",
+  "codeUrl": "/win32/netevent-h/event_ndis_interrupt_conflict/0x8000139a/",
+  "numericCode": -2147478630,
+  "define": "EVENT_NDIS_INTERRUPT_CONFLICT",
+  "defineUrl": "/win32/netevent-h/event_ndis_interrupt_conflict/",
+  "message": "%2 : There is a interrupt conflict at Interrupt %3.",
+  "remarks": null,
+  "aka": [
+    "-2147478630"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_ndis_interrupt_conflict/-2147478630/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

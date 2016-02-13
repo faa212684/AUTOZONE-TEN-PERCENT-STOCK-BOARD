@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_unable_to_decommit_vm\0xc000002c\index.html.json
+
+title: 0xC000002C STATUS_UNABLE_TO_DECOMMIT_VM in ntstatus.h
+description: An attempt was made to decommit uncommitted virtual memory.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000002C",
+  "codeUrl": "/win32/ntstatus-h/status_unable_to_decommit_vm/0xc000002c/",
+  "numericCode": -1073741780,
+  "define": "STATUS_UNABLE_TO_DECOMMIT_VM",
+  "defineUrl": "/win32/ntstatus-h/status_unable_to_decommit_vm/",
+  "message": "An attempt was made to decommit uncommitted virtual memory.",
+  "remarks": null,
+  "aka": [
+    "-1073741780"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_unable_to_decommit_vm/-1073741780/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

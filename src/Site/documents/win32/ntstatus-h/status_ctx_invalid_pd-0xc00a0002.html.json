@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_ctx_invalid_pd\0xc00a0002\index.html.json
+
+title: 0xC00A0002 STATUS_CTX_INVALID_PD in ntstatus.h
+description: The protocol driver %1 is invalid.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC00A0002",
+  "codeUrl": "/win32/ntstatus-h/status_ctx_invalid_pd/0xc00a0002/",
+  "numericCode": -1073086462,
+  "define": "STATUS_CTX_INVALID_PD",
+  "defineUrl": "/win32/ntstatus-h/status_ctx_invalid_pd/",
+  "message": "The protocol driver %1 is invalid.",
+  "remarks": null,
+  "aka": [
+    "-1073086462"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_ctx_invalid_pd/-1073086462/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

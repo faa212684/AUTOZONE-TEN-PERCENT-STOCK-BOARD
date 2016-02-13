@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ds_cant_retrieve_atts\8481\index.html.json
+
+title: 8481 ERROR_DS_CANT_RETRIEVE_ATTS in winerror.h
+description: The search failed to retrieve attributes from the database.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "8481",
+  "codeUrl": "/win32/winerror-h/error_ds_cant_retrieve_atts/8481/",
+  "numericCode": 8481,
+  "define": "ERROR_DS_CANT_RETRIEVE_ATTS",
+  "defineUrl": "/win32/winerror-h/error_ds_cant_retrieve_atts/",
+  "message": "The search failed to retrieve attributes from the database.",
+  "remarks": null,
+  "aka": [
+    "0x80072121",
+    "-2147016415"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ds_cant_retrieve_atts/0x80072121/",
+    "/win32/winerror-h/error_ds_cant_retrieve_atts/-2147016415/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

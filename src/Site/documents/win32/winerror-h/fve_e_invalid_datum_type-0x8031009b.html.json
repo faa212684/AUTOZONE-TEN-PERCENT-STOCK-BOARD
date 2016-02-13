@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\fve_e_invalid_datum_type\0x8031009b\index.html.json
+
+title: 0x8031009B FVE_E_INVALID_DATUM_TYPE in winerror.h
+description: The management information stored on the drive contained an unknown type. If you are using an old version of Windows, try accessing the drive from the latest version.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8031009B",
+  "codeUrl": "/win32/winerror-h/fve_e_invalid_datum_type/0x8031009b/",
+  "numericCode": -2144272229,
+  "define": "FVE_E_INVALID_DATUM_TYPE",
+  "defineUrl": "/win32/winerror-h/fve_e_invalid_datum_type/",
+  "message": "The management information stored on the drive contained an unknown type. If you are using an old version of Windows, try accessing the drive from the latest version.",
+  "remarks": null,
+  "aka": [
+    "-2144272229"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/fve_e_invalid_datum_type/-2144272229/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

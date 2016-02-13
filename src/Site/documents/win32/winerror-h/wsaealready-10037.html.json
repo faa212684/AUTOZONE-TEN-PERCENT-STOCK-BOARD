@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\wsaealready\10037\index.html.json
+
+title: 10037 WSAEALREADY in winerror.h
+description: An operation was attempted on a non-blocking socket that already had an operation in progress.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "10037",
+  "codeUrl": "/win32/winerror-h/wsaealready/10037/",
+  "numericCode": 10037,
+  "define": "WSAEALREADY",
+  "defineUrl": "/win32/winerror-h/wsaealready/",
+  "message": "An operation was attempted on a non-blocking socket that already had an operation in progress.",
+  "remarks": null,
+  "aka": [
+    "0x80072735",
+    "-2147014859"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/wsaealready/0x80072735/",
+    "/win32/winerror-h/wsaealready/-2147014859/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

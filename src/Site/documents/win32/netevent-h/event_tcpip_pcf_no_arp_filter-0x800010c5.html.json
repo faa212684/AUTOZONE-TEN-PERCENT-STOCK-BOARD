@@ -1,0 +1,30 @@
+---
+output: win32\netevent-h\event_tcpip_pcf_no_arp_filter\0x800010c5\index.html.json
+
+title: 0x800010C5 EVENT_TCPIP_PCF_NO_ARP_FILTER in netevent.h
+description: The ARP packet coalescing filter on the network adapter with hardware address %2 is not set
+since more than one IPv4 address is currently assigned to the adapter. An ARP packet coalescing
+filter may be set later when only one IPv4 address is assigned to this adapter (%3 %4).
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x800010C5",
+  "codeUrl": "/win32/netevent-h/event_tcpip_pcf_no_arp_filter/0x800010c5/",
+  "numericCode": -2147479355,
+  "define": "EVENT_TCPIP_PCF_NO_ARP_FILTER",
+  "defineUrl": "/win32/netevent-h/event_tcpip_pcf_no_arp_filter/",
+  "message": "The ARP packet coalescing filter on the network adapter with hardware address %2 is not set\r\nsince more than one IPv4 address is currently assigned to the adapter. An ARP packet coalescing\r\nfilter may be set later when only one IPv4 address is assigned to this adapter (%3 %4).",
+  "remarks": null,
+  "aka": [
+    "-2147479355"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_tcpip_pcf_no_arp_filter/-2147479355/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

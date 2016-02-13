@@ -1,0 +1,24 @@
+---
+output: bugcheck\bugcodes-h\spin_lock_already_owned\15\index.html.json
+canonical: /bugcheck/bugcodes-h/spin_lock_already_owned/0x0000000f/
+title: 15 SPIN_LOCK_ALREADY_OWNED in bugcodes.h
+description: SPIN_LOCK_ALREADY_OWNED
+disqus: false
+---
+{
+  "area": "bugcheck",
+  "areaUrl": "/bugcheck/",
+  "source": "bugcodes.h",
+  "sourceUrl": "/bugcheck/bugcodes-h/",
+  "code": "15",
+  "codeUrl": "/bugcheck/bugcodes-h/spin_lock_already_owned/15/",
+  "numericCode": 0,
+  "define": "SPIN_LOCK_ALREADY_OWNED",
+  "defineUrl": "/bugcheck/bugcodes-h/spin_lock_already_owned/",
+  "message": "SPIN_LOCK_ALREADY_OWNED",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x0000000F",
+  "originalCodeUrl": "/bugcheck/bugcodes-h/spin_lock_already_owned/0x0000000f/"
+}

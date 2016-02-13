@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_quorum_owner_alive\0x800713aa\index.html.json
+canonical: /win32/winerror-h/error_quorum_owner_alive/5034/
+title: 0x800713aa ERROR_QUORUM_OWNER_ALIVE in winerror.h
+description: The cluster node failed to take control of the quorum resource because the resource is owned by another active node.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800713aa",
+  "codeUrl": "/win32/winerror-h/error_quorum_owner_alive/0x800713aa/",
+  "numericCode": 0,
+  "define": "ERROR_QUORUM_OWNER_ALIVE",
+  "defineUrl": "/win32/winerror-h/error_quorum_owner_alive/",
+  "message": "The cluster node failed to take control of the quorum resource because the resource is owned by another active node.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "5034",
+  "originalCodeUrl": "/win32/winerror-h/error_quorum_owner_alive/5034/"
+}

@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_pcp_device_not_ready\-1071046655\index.html.json
+canonical: /win32/ntstatus-h/status_pcp_device_not_ready/0xc0292001/
+title: -1071046655 STATUS_PCP_DEVICE_NOT_READY in ntstatus.h
+description: The Platform Crypto Device is currently not ready. It needs to be fully provisioned to be operational.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071046655",
+  "codeUrl": "/win32/ntstatus-h/status_pcp_device_not_ready/-1071046655/",
+  "numericCode": 0,
+  "define": "STATUS_PCP_DEVICE_NOT_READY",
+  "defineUrl": "/win32/ntstatus-h/status_pcp_device_not_ready/",
+  "message": "The Platform Crypto Device is currently not ready. It needs to be fully provisioned to be operational.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0292001",
+  "originalCodeUrl": "/win32/ntstatus-h/status_pcp_device_not_ready/0xc0292001/"
+}

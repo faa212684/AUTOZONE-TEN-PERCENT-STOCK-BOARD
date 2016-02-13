@@ -1,0 +1,28 @@
+---
+output: bugcheck\bugcodes-h\invalid_software_interrupt\0x00000007\index.html.json
+
+title: 0x00000007 INVALID_SOFTWARE_INTERRUPT in bugcodes.h
+description: INVALID_SOFTWARE_INTERRUPT
+disqus: true
+---
+{
+  "area": "bugcheck",
+  "areaUrl": "/bugcheck/",
+  "source": "bugcodes.h",
+  "sourceUrl": "/bugcheck/bugcodes-h/",
+  "code": "0x00000007",
+  "codeUrl": "/bugcheck/bugcodes-h/invalid_software_interrupt/0x00000007/",
+  "numericCode": 7,
+  "define": "INVALID_SOFTWARE_INTERRUPT",
+  "defineUrl": "/bugcheck/bugcodes-h/invalid_software_interrupt/",
+  "message": "INVALID_SOFTWARE_INTERRUPT",
+  "remarks": null,
+  "aka": [
+    "7"
+  ],
+  "akaUrl": [
+    "/bugcheck/bugcodes-h/invalid_software_interrupt/7/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

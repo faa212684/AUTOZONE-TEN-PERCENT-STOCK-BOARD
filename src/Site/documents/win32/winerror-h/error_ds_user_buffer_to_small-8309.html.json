@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ds_user_buffer_to_small\8309\index.html.json
+
+title: 8309 ERROR_DS_USER_BUFFER_TO_SMALL in winerror.h
+description: The user buffer is too small.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "8309",
+  "codeUrl": "/win32/winerror-h/error_ds_user_buffer_to_small/8309/",
+  "numericCode": 8309,
+  "define": "ERROR_DS_USER_BUFFER_TO_SMALL",
+  "defineUrl": "/win32/winerror-h/error_ds_user_buffer_to_small/",
+  "message": "The user buffer is too small.",
+  "remarks": null,
+  "aka": [
+    "0x80072075",
+    "-2147016587"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ds_user_buffer_to_small/0x80072075/",
+    "/win32/winerror-h/error_ds_user_buffer_to_small/-2147016587/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

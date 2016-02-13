@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_graphics_target_id_must_be_unique\0xc01e0332\index.html.json
+
+title: 0xC01E0332 STATUS_GRAPHICS_TARGET_ID_MUST_BE_UNIQUE in ntstatus.h
+description: ID of the specified video present target is already used by another target in the set.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC01E0332",
+  "codeUrl": "/win32/ntstatus-h/status_graphics_target_id_must_be_unique/0xc01e0332/",
+  "numericCode": -1071774926,
+  "define": "STATUS_GRAPHICS_TARGET_ID_MUST_BE_UNIQUE",
+  "defineUrl": "/win32/ntstatus-h/status_graphics_target_id_must_be_unique/",
+  "message": "ID of the specified video present target is already used by another target in the set.",
+  "remarks": null,
+  "aka": [
+    "-1071774926"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_graphics_target_id_must_be_unique/-1071774926/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

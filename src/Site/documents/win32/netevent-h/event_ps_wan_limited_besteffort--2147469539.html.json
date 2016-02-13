@@ -1,0 +1,24 @@
+---
+output: win32\netevent-h\event_ps_wan_limited_besteffort\-2147469539\index.html.json
+canonical: /win32/netevent-h/event_ps_wan_limited_besteffort/0x8000371d/
+title: -2147469539 EVENT_PS_WAN_LIMITED_BESTEFFORT in netevent.h
+description: QoS [Adapter %2]:%nThe registry entry for BestEffortLimit is not supported over WAN links. Defaulting to Unlimited BestEffort mode.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "-2147469539",
+  "codeUrl": "/win32/netevent-h/event_ps_wan_limited_besteffort/-2147469539/",
+  "numericCode": 0,
+  "define": "EVENT_PS_WAN_LIMITED_BESTEFFORT",
+  "defineUrl": "/win32/netevent-h/event_ps_wan_limited_besteffort/",
+  "message": "QoS [Adapter %2]:%nThe registry entry for BestEffortLimit is not supported over WAN links. Defaulting to Unlimited BestEffort mode.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x8000371D",
+  "originalCodeUrl": "/win32/netevent-h/event_ps_wan_limited_besteffort/0x8000371d/"
+}

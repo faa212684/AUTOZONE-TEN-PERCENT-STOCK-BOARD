@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_member_not_in_group\0xc0000068\index.html.json
+
+title: 0xC0000068 STATUS_MEMBER_NOT_IN_GROUP in ntstatus.h
+description: The specified user account is not a member of the specified group account.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000068",
+  "codeUrl": "/win32/ntstatus-h/status_member_not_in_group/0xc0000068/",
+  "numericCode": -1073741720,
+  "define": "STATUS_MEMBER_NOT_IN_GROUP",
+  "defineUrl": "/win32/ntstatus-h/status_member_not_in_group/",
+  "message": "The specified user account is not a member of the specified group account.",
+  "remarks": null,
+  "aka": [
+    "-1073741720"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_member_not_in_group/-1073741720/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

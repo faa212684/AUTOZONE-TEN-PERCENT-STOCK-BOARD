@@ -1,0 +1,28 @@
+---
+output: win32\windowssearcherrors-h\gthr_e_cannot_enable_checkpoint\0x80040dae\index.html.json
+
+title: 0x80040DAE GTHR_E_CANNOT_ENABLE_CHECKPOINT in WindowsSearchErrors.h
+description: The checkpoint cannot be enabled, because the content index is not idle.  Wait until the index is idle, and then try again.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "0x80040DAE",
+  "codeUrl": "/win32/windowssearcherrors-h/gthr_e_cannot_enable_checkpoint/0x80040dae/",
+  "numericCode": -2147218002,
+  "define": "GTHR_E_CANNOT_ENABLE_CHECKPOINT",
+  "defineUrl": "/win32/windowssearcherrors-h/gthr_e_cannot_enable_checkpoint/",
+  "message": "The checkpoint cannot be enabled, because the content index is not idle.  Wait until the index is idle, and then try again.",
+  "remarks": null,
+  "aka": [
+    "-2147218002"
+  ],
+  "akaUrl": [
+    "/win32/windowssearcherrors-h/gthr_e_cannot_enable_checkpoint/-2147218002/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ds_attribute_owned_by_sam\8346\index.html.json
+
+title: 8346 ERROR_DS_ATTRIBUTE_OWNED_BY_SAM in winerror.h
+description: Access to the attribute is not permitted because the attribute is owned by the Security Accounts Manager (SAM).
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "8346",
+  "codeUrl": "/win32/winerror-h/error_ds_attribute_owned_by_sam/8346/",
+  "numericCode": 8346,
+  "define": "ERROR_DS_ATTRIBUTE_OWNED_BY_SAM",
+  "defineUrl": "/win32/winerror-h/error_ds_attribute_owned_by_sam/",
+  "message": "Access to the attribute is not permitted because the attribute is owned by the Security Accounts Manager (SAM).",
+  "remarks": null,
+  "aka": [
+    "0x8007209a",
+    "-2147016550"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ds_attribute_owned_by_sam/0x8007209a/",
+    "/win32/winerror-h/error_ds_attribute_owned_by_sam/-2147016550/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

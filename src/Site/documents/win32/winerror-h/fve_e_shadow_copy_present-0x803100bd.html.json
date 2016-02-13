@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\fve_e_shadow_copy_present\0x803100bd\index.html.json
+
+title: 0x803100BD FVE_E_SHADOW_COPY_PRESENT in winerror.h
+description: BitLocker cannot be enabled on the volume because it contains a Volume Shadow Copy. Remove all Volume Shadow Copies before encrypting the volume.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x803100BD",
+  "codeUrl": "/win32/winerror-h/fve_e_shadow_copy_present/0x803100bd/",
+  "numericCode": -2144272195,
+  "define": "FVE_E_SHADOW_COPY_PRESENT",
+  "defineUrl": "/win32/winerror-h/fve_e_shadow_copy_present/",
+  "message": "BitLocker cannot be enabled on the volume because it contains a Volume Shadow Copy. Remove all Volume Shadow Copies before encrypting the volume.",
+  "remarks": null,
+  "aka": [
+    "-2144272195"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/fve_e_shadow_copy_present/-2144272195/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

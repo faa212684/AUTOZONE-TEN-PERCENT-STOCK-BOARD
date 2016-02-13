@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_dfs_exit_path_found\0xc000009b\index.html.json
+
+title: 0xC000009B STATUS_DFS_EXIT_PATH_FOUND in ntstatus.h
+description: An attempt has been made to open a DFS exit path control file.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000009B",
+  "codeUrl": "/win32/ntstatus-h/status_dfs_exit_path_found/0xc000009b/",
+  "numericCode": -1073741669,
+  "define": "STATUS_DFS_EXIT_PATH_FOUND",
+  "defineUrl": "/win32/ntstatus-h/status_dfs_exit_path_found/",
+  "message": "An attempt has been made to open a DFS exit path control file.",
+  "remarks": null,
+  "aka": [
+    "-1073741669"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_dfs_exit_path_found/-1073741669/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

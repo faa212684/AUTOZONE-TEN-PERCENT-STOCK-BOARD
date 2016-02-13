@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_cannot_execute_file_in_transaction\0xc0190044\index.html.json
+
+title: 0xC0190044 STATUS_CANNOT_EXECUTE_FILE_IN_TRANSACTION in ntstatus.h
+description: This file is open for modification in an unresolved transaction and may be opened for execute only by a transacted reader.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0190044",
+  "codeUrl": "/win32/ntstatus-h/status_cannot_execute_file_in_transaction/0xc0190044/",
+  "numericCode": -1072103356,
+  "define": "STATUS_CANNOT_EXECUTE_FILE_IN_TRANSACTION",
+  "defineUrl": "/win32/ntstatus-h/status_cannot_execute_file_in_transaction/",
+  "message": "This file is open for modification in an unresolved transaction and may be opened for execute only by a transacted reader.",
+  "remarks": null,
+  "aka": [
+    "-1072103356"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_cannot_execute_file_in_transaction/-1072103356/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

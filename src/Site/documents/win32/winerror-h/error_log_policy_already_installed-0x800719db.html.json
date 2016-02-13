@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_log_policy_already_installed\0x800719db\index.html.json
+canonical: /win32/winerror-h/error_log_policy_already_installed/6619/
+title: 0x800719db ERROR_LOG_POLICY_ALREADY_INSTALLED in winerror.h
+description: Log policy could not be installed because a policy of the same type is already present.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800719db",
+  "codeUrl": "/win32/winerror-h/error_log_policy_already_installed/0x800719db/",
+  "numericCode": 0,
+  "define": "ERROR_LOG_POLICY_ALREADY_INSTALLED",
+  "defineUrl": "/win32/winerror-h/error_log_policy_already_installed/",
+  "message": "Log policy could not be installed because a policy of the same type is already present.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "6619",
+  "originalCodeUrl": "/win32/winerror-h/error_log_policy_already_installed/6619/"
+}

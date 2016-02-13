@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\rpc_e_invalid_calldata\0x8001010c\index.html.json
+
+title: 0x8001010C RPC_E_INVALID_CALLDATA in winerror.h
+description: A call control interfaces was called with invalid data.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8001010C",
+  "codeUrl": "/win32/winerror-h/rpc_e_invalid_calldata/0x8001010c/",
+  "numericCode": -2147417844,
+  "define": "RPC_E_INVALID_CALLDATA",
+  "defineUrl": "/win32/winerror-h/rpc_e_invalid_calldata/",
+  "message": "A call control interfaces was called with invalid data.",
+  "remarks": null,
+  "aka": [
+    "-2147417844"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/rpc_e_invalid_calldata/-2147417844/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

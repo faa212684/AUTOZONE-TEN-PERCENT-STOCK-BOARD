@@ -1,0 +1,28 @@
+---
+output: win32\wuerror-h\wu_e_unknown_service\0x80240042\index.html.json
+
+title: 0x80240042 WU_E_UNKNOWN_SERVICE in wuerror.h
+description: The update service is no longer registered with AU.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wuerror.h",
+  "sourceUrl": "/win32/wuerror-h/",
+  "code": "0x80240042",
+  "codeUrl": "/win32/wuerror-h/wu_e_unknown_service/0x80240042/",
+  "numericCode": -2145124286,
+  "define": "WU_E_UNKNOWN_SERVICE",
+  "defineUrl": "/win32/wuerror-h/wu_e_unknown_service/",
+  "message": "The update service is no longer registered with AU.",
+  "remarks": null,
+  "aka": [
+    "-2145124286"
+  ],
+  "akaUrl": [
+    "/win32/wuerror-h/wu_e_unknown_service/-2145124286/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,29 @@
+---
+output: win32\wsmerror-h\error_winrs_shell_disconnect_operation_not_graceful\0x803381ce\index.html.json
+
+title: 0x803381CE ERROR_WINRS_SHELL_DISCONNECT_OPERATION_NOT_GRACEFUL in wsmerror.h
+description: The WinRM client encountered an error while communicating with the WinRM service during the disconnect operation.
+The shell has been disconnected and the streams were possibly suspended abruptly.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x803381CE",
+  "codeUrl": "/win32/wsmerror-h/error_winrs_shell_disconnect_operation_not_graceful/0x803381ce/",
+  "numericCode": -2144108082,
+  "define": "ERROR_WINRS_SHELL_DISCONNECT_OPERATION_NOT_GRACEFUL",
+  "defineUrl": "/win32/wsmerror-h/error_winrs_shell_disconnect_operation_not_graceful/",
+  "message": "The WinRM client encountered an error while communicating with the WinRM service during the disconnect operation.\r\nThe shell has been disconnected and the streams were possibly suspended abruptly.",
+  "remarks": null,
+  "aka": [
+    "-2144108082"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_winrs_shell_disconnect_operation_not_graceful/-2144108082/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

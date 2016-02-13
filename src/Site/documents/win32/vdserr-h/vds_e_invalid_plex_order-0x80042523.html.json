@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_e_invalid_plex_order\0x80042523\index.html.json
+
+title: 0x80042523 VDS_E_INVALID_PLEX_ORDER in vdserr.h
+description: The plex indexes must be monotonically increasing and begin with zero.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x80042523",
+  "codeUrl": "/win32/vdserr-h/vds_e_invalid_plex_order/0x80042523/",
+  "numericCode": -2147211997,
+  "define": "VDS_E_INVALID_PLEX_ORDER",
+  "defineUrl": "/win32/vdserr-h/vds_e_invalid_plex_order/",
+  "message": "The plex indexes must be monotonically increasing and begin with zero.",
+  "remarks": null,
+  "aka": [
+    "-2147211997"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_invalid_plex_order/-2147211997/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

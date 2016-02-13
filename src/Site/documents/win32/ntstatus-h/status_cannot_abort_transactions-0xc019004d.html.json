@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_cannot_abort_transactions\0xc019004d\index.html.json
+
+title: 0xC019004D STATUS_CANNOT_ABORT_TRANSACTIONS in ntstatus.h
+description: The transactional resource manager had too many tranactions outstanding that could not be aborted. The transactional resource manger has been shut down.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC019004D",
+  "codeUrl": "/win32/ntstatus-h/status_cannot_abort_transactions/0xc019004d/",
+  "numericCode": -1072103347,
+  "define": "STATUS_CANNOT_ABORT_TRANSACTIONS",
+  "defineUrl": "/win32/ntstatus-h/status_cannot_abort_transactions/",
+  "message": "The transactional resource manager had too many tranactions outstanding that could not be aborted. The transactional resource manger has been shut down.",
+  "remarks": null,
+  "aka": [
+    "-1072103347"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_cannot_abort_transactions/-1072103347/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

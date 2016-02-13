@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_ctx_modem_response_voice\0xc00a000f\index.html.json
+
+title: 0xC00A000F STATUS_CTX_MODEM_RESPONSE_VOICE in ntstatus.h
+description: Voice detected at remote site on callback.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC00A000F",
+  "codeUrl": "/win32/ntstatus-h/status_ctx_modem_response_voice/0xc00a000f/",
+  "numericCode": -1073086449,
+  "define": "STATUS_CTX_MODEM_RESPONSE_VOICE",
+  "defineUrl": "/win32/ntstatus-h/status_ctx_modem_response_voice/",
+  "message": "Voice detected at remote site on callback.",
+  "remarks": null,
+  "aka": [
+    "-1073086449"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_ctx_modem_response_voice/-1073086449/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

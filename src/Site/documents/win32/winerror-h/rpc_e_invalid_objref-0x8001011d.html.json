@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\rpc_e_invalid_objref\0x8001011d\index.html.json
+
+title: 0x8001011D RPC_E_INVALID_OBJREF in winerror.h
+description: The marshaled interface data packet (OBJREF) has an invalid or unknown format.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8001011D",
+  "codeUrl": "/win32/winerror-h/rpc_e_invalid_objref/0x8001011d/",
+  "numericCode": -2147417827,
+  "define": "RPC_E_INVALID_OBJREF",
+  "defineUrl": "/win32/winerror-h/rpc_e_invalid_objref/",
+  "message": "The marshaled interface data packet (OBJREF) has an invalid or unknown format.",
+  "remarks": null,
+  "aka": [
+    "-2147417827"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/rpc_e_invalid_objref/-2147417827/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

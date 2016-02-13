@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_nologon_server_trust_account\0x80070711\index.html.json
+canonical: /win32/winerror-h/error_nologon_server_trust_account/1809/
+title: 0x80070711 ERROR_NOLOGON_SERVER_TRUST_ACCOUNT in winerror.h
+description: The account used is a server trust account. Use your global user account or local user account to access this server.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80070711",
+  "codeUrl": "/win32/winerror-h/error_nologon_server_trust_account/0x80070711/",
+  "numericCode": 0,
+  "define": "ERROR_NOLOGON_SERVER_TRUST_ACCOUNT",
+  "defineUrl": "/win32/winerror-h/error_nologon_server_trust_account/",
+  "message": "The account used is a server trust account. Use your global user account or local user account to access this server.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "1809",
+  "originalCodeUrl": "/win32/winerror-h/error_nologon_server_trust_account/1809/"
+}

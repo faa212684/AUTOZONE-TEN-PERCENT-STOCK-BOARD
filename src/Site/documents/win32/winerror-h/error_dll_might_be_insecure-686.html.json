@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_dll_might_be_insecure\686\index.html.json
+
+title: 686 ERROR_DLL_MIGHT_BE_INSECURE in winerror.h
+description: The application is attempting to run executable code from the module %hs. This may be insecure. An alternative, %hs, is available. Should the application use the secure module %hs?
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "686",
+  "codeUrl": "/win32/winerror-h/error_dll_might_be_insecure/686/",
+  "numericCode": 686,
+  "define": "ERROR_DLL_MIGHT_BE_INSECURE",
+  "defineUrl": "/win32/winerror-h/error_dll_might_be_insecure/",
+  "message": "The application is attempting to run executable code from the module %hs. This may be insecure. An alternative, %hs, is available. Should the application use the secure module %hs?",
+  "remarks": null,
+  "aka": [
+    "0x800702ae",
+    "-2147024210"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_dll_might_be_insecure/0x800702ae/",
+    "/win32/winerror-h/error_dll_might_be_insecure/-2147024210/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

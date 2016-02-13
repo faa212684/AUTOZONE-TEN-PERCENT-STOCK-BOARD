@@ -1,0 +1,24 @@
+---
+output: win32\ntiologc-h\mca_warning_cpu_thermal_throttled\-2147155857\index.html.json
+canonical: /win32/ntiologc-h/mca_warning_cpu_thermal_throttled/0x8005006f/
+title: -2147155857 MCA_WARNING_CPU_THERMAL_THROTTLED in ntiologc.h
+description: Machine Check Event reported is a CPU thermal throttling event reported from CPU %1. The CPU has exceeded the temperature limit and has been throttled down. %2 additional error(s) are contained within the record.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntiologc.h",
+  "sourceUrl": "/win32/ntiologc-h/",
+  "code": "-2147155857",
+  "codeUrl": "/win32/ntiologc-h/mca_warning_cpu_thermal_throttled/-2147155857/",
+  "numericCode": 0,
+  "define": "MCA_WARNING_CPU_THERMAL_THROTTLED",
+  "defineUrl": "/win32/ntiologc-h/mca_warning_cpu_thermal_throttled/",
+  "message": "Machine Check Event reported is a CPU thermal throttling event reported from CPU %1. The CPU has exceeded the temperature limit and has been throttled down. %2 additional error(s) are contained within the record.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x8005006F",
+  "originalCodeUrl": "/win32/ntiologc-h/mca_warning_cpu_thermal_throttled/0x8005006f/"
+}

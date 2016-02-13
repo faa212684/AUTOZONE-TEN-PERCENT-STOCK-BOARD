@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_ds_forest_version_too_low\-2147016331\index.html.json
+canonical: /win32/winerror-h/error_ds_forest_version_too_low/8565/
+title: -2147016331 ERROR_DS_FOREST_VERSION_TOO_LOW in winerror.h
+description: The version of the operating system installed on this server no longer supports the current AD DS Forest functional level or AD LDS Configuration Set functional level. You must raise the AD DS Forest functional level or AD LDS Configuration Set functional level before this server can become an AD DS Domain Controller or an AD LDS Instance in this Forest or Configuration Set.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147016331",
+  "codeUrl": "/win32/winerror-h/error_ds_forest_version_too_low/-2147016331/",
+  "numericCode": 0,
+  "define": "ERROR_DS_FOREST_VERSION_TOO_LOW",
+  "defineUrl": "/win32/winerror-h/error_ds_forest_version_too_low/",
+  "message": "The version of the operating system installed on this server no longer supports the current AD DS Forest functional level or AD LDS Configuration Set functional level. You must raise the AD DS Forest functional level or AD LDS Configuration Set functional level before this server can become an AD DS Domain Controller or an AD LDS Instance in this Forest or Configuration Set.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "8565",
+  "originalCodeUrl": "/win32/winerror-h/error_ds_forest_version_too_low/8565/"
+}

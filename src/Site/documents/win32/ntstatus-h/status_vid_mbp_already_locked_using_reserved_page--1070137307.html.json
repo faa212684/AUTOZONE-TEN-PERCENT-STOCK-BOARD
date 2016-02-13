@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_vid_mbp_already_locked_using_reserved_page\-1070137307\index.html.json
+canonical: /win32/ntstatus-h/status_vid_mbp_already_locked_using_reserved_page/0xc0370025/
+title: -1070137307 STATUS_VID_MBP_ALREADY_LOCKED_USING_RESERVED_PAGE in ntstatus.h
+description: Cannot lock or map the memory block page for the virtualization infrastructure driver because it has already been locked using a reserve page set page. Restarting the virtual machine may fix the problem. If the problem persists, try restarting the physical computer.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1070137307",
+  "codeUrl": "/win32/ntstatus-h/status_vid_mbp_already_locked_using_reserved_page/-1070137307/",
+  "numericCode": 0,
+  "define": "STATUS_VID_MBP_ALREADY_LOCKED_USING_RESERVED_PAGE",
+  "defineUrl": "/win32/ntstatus-h/status_vid_mbp_already_locked_using_reserved_page/",
+  "message": "Cannot lock or map the memory block page for the virtualization infrastructure driver because it has already been locked using a reserve page set page. Restarting the virtual machine may fix the problem. If the problem persists, try restarting the physical computer.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0370025",
+  "originalCodeUrl": "/win32/ntstatus-h/status_vid_mbp_already_locked_using_reserved_page/0xc0370025/"
+}

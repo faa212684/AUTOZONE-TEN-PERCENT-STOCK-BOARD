@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\fve_e_relative_path\0x80310032\index.html.json
+
+title: 0x80310032 FVE_E_RELATIVE_PATH in winerror.h
+description: The recovery password file was not found because a relative path was specified. Recovery passwords must be saved to a fully qualified path. Environment variables configured on the computer can be used in the path.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80310032",
+  "codeUrl": "/win32/winerror-h/fve_e_relative_path/0x80310032/",
+  "numericCode": -2144272334,
+  "define": "FVE_E_RELATIVE_PATH",
+  "defineUrl": "/win32/winerror-h/fve_e_relative_path/",
+  "message": "The recovery password file was not found because a relative path was specified. Recovery passwords must be saved to a fully qualified path. Environment variables configured on the computer can be used in the path.",
+  "remarks": null,
+  "aka": [
+    "-2144272334"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/fve_e_relative_path/-2144272334/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

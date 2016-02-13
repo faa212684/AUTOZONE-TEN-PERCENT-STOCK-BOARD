@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_forms_auth_required\224\index.html.json
+
+title: 224 ERROR_FORMS_AUTH_REQUIRED in winerror.h
+description: Access Denied. Before opening files in this location, you must first add the web site to your trusted sites list, browse to the web site, and select the option to login automatically.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "224",
+  "codeUrl": "/win32/winerror-h/error_forms_auth_required/224/",
+  "numericCode": 224,
+  "define": "ERROR_FORMS_AUTH_REQUIRED",
+  "defineUrl": "/win32/winerror-h/error_forms_auth_required/",
+  "message": "Access Denied. Before opening files in this location, you must first add the web site to your trusted sites list, browse to the web site, and select the option to login automatically.",
+  "remarks": null,
+  "aka": [
+    "0x800700e0",
+    "-2147024672"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_forms_auth_required/0x800700e0/",
+    "/win32/winerror-h/error_forms_auth_required/-2147024672/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,30 @@
+---
+output: win32\netevent-h\event_dns_cache_start_failure_no_entry\0xc0002af9\index.html.json
+
+title: 0xC0002AF9 EVENT_DNS_CACHE_START_FAILURE_NO_ENTRY in netevent.h
+description: Unable to start DNS Client service. Can not find entry %3 in DLL %2.
+Please reinstall this DLL from installation CD. See event details 
+for specific error code information.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC0002AF9",
+  "codeUrl": "/win32/netevent-h/event_dns_cache_start_failure_no_entry/0xc0002af9/",
+  "numericCode": -1073730823,
+  "define": "EVENT_DNS_CACHE_START_FAILURE_NO_ENTRY",
+  "defineUrl": "/win32/netevent-h/event_dns_cache_start_failure_no_entry/",
+  "message": "Unable to start DNS Client service. Can not find entry %3 in DLL %2.\r\nPlease reinstall this DLL from installation CD. See event details \r\nfor specific error code information.",
+  "remarks": null,
+  "aka": [
+    "-1073730823"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_dns_cache_start_failure_no_entry/-1073730823/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

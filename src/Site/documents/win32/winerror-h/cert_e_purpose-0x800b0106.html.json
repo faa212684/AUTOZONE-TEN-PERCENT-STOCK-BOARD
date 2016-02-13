@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\cert_e_purpose\0x800b0106\index.html.json
+
+title: 0x800B0106 CERT_E_PURPOSE in winerror.h
+description: A certificate being used for a purpose other than the ones specified by its CA.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800B0106",
+  "codeUrl": "/win32/winerror-h/cert_e_purpose/0x800b0106/",
+  "numericCode": -2146762490,
+  "define": "CERT_E_PURPOSE",
+  "defineUrl": "/win32/winerror-h/cert_e_purpose/",
+  "message": "A certificate being used for a purpose other than the ones specified by its CA.",
+  "remarks": null,
+  "aka": [
+    "-2146762490"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/cert_e_purpose/-2146762490/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

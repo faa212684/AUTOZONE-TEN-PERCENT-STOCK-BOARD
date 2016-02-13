@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\tpm_e_owner_control\-2144862129\index.html.json
+canonical: /win32/winerror-h/tpm_e_owner_control/0x8028004f/
+title: -2144862129 TPM_E_OWNER_CONTROL in winerror.h
+description: Attempt to context save a owner evict controlled key.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2144862129",
+  "codeUrl": "/win32/winerror-h/tpm_e_owner_control/-2144862129/",
+  "numericCode": 0,
+  "define": "TPM_E_OWNER_CONTROL",
+  "defineUrl": "/win32/winerror-h/tpm_e_owner_control/",
+  "message": "Attempt to context save a owner evict controlled key.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x8028004F",
+  "originalCodeUrl": "/win32/winerror-h/tpm_e_owner_control/0x8028004f/"
+}

@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_quorum_resource\5020\index.html.json
+
+title: 5020 ERROR_QUORUM_RESOURCE in winerror.h
+description: The cluster resource could not be deleted or brought offline because it is the quorum resource.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "5020",
+  "codeUrl": "/win32/winerror-h/error_quorum_resource/5020/",
+  "numericCode": 5020,
+  "define": "ERROR_QUORUM_RESOURCE",
+  "defineUrl": "/win32/winerror-h/error_quorum_resource/",
+  "message": "The cluster resource could not be deleted or brought offline because it is the quorum resource.",
+  "remarks": null,
+  "aka": [
+    "0x8007139c",
+    "-2147019876"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_quorum_resource/0x8007139c/",
+    "/win32/winerror-h/error_quorum_resource/-2147019876/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\tbsimp_e_invalid_output_pointer\0x80290207\index.html.json
+
+title: 0x80290207 TBSIMP_E_INVALID_OUTPUT_POINTER in winerror.h
+description: The pointer to the returned handle location was NULL or invalid
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80290207",
+  "codeUrl": "/win32/winerror-h/tbsimp_e_invalid_output_pointer/0x80290207/",
+  "numericCode": -2144796153,
+  "define": "TBSIMP_E_INVALID_OUTPUT_POINTER",
+  "defineUrl": "/win32/winerror-h/tbsimp_e_invalid_output_pointer/",
+  "message": "The pointer to the returned handle location was NULL or invalid",
+  "remarks": null,
+  "aka": [
+    "-2144796153"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/tbsimp_e_invalid_output_pointer/-2144796153/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\milerr_alreadylocked\-2003304314\index.html.json
+canonical: /win32/winerror-h/milerr_alreadylocked/0x88980086/
+title: -2003304314 MILERR_ALREADYLOCKED in winerror.h
+description: Lock attempted on an already locked object.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2003304314",
+  "codeUrl": "/win32/winerror-h/milerr_alreadylocked/-2003304314/",
+  "numericCode": 0,
+  "define": "MILERR_ALREADYLOCKED",
+  "defineUrl": "/win32/winerror-h/milerr_alreadylocked/",
+  "message": "Lock attempted on an already locked object.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x88980086",
+  "originalCodeUrl": "/win32/winerror-h/milerr_alreadylocked/0x88980086/"
+}

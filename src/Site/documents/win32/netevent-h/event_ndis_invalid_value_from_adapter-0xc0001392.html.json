@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_ndis_invalid_value_from_adapter\0xc0001392\index.html.json
+
+title: 0xC0001392 EVENT_NDIS_INVALID_VALUE_FROM_ADAPTER in netevent.h
+description: %2 : The network adapter has returned an invalid value to the driver.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC0001392",
+  "codeUrl": "/win32/netevent-h/event_ndis_invalid_value_from_adapter/0xc0001392/",
+  "numericCode": -1073736814,
+  "define": "EVENT_NDIS_INVALID_VALUE_FROM_ADAPTER",
+  "defineUrl": "/win32/netevent-h/event_ndis_invalid_value_from_adapter/",
+  "message": "%2 : The network adapter has returned an invalid value to the driver.",
+  "remarks": null,
+  "aka": [
+    "-1073736814"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_ndis_invalid_value_from_adapter/-1073736814/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

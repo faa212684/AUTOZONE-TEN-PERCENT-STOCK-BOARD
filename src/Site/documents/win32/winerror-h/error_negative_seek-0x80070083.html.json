@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_negative_seek\0x80070083\index.html.json
+canonical: /win32/winerror-h/error_negative_seek/131/
+title: 0x80070083 ERROR_NEGATIVE_SEEK in winerror.h
+description: An attempt was made to move the file pointer before the beginning of the file.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80070083",
+  "codeUrl": "/win32/winerror-h/error_negative_seek/0x80070083/",
+  "numericCode": 0,
+  "define": "ERROR_NEGATIVE_SEEK",
+  "defineUrl": "/win32/winerror-h/error_negative_seek/",
+  "message": "An attempt was made to move the file pointer before the beginning of the file.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "131",
+  "originalCodeUrl": "/win32/winerror-h/error_negative_seek/131/"
+}

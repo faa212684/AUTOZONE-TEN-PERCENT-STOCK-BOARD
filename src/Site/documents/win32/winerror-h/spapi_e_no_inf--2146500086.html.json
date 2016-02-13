@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\spapi_e_no_inf\-2146500086\index.html.json
+canonical: /win32/winerror-h/spapi_e_no_inf/0x800f020a/
+title: -2146500086 SPAPI_E_NO_INF in winerror.h
+description: The INF from which a driver list is to be built does not exist.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2146500086",
+  "codeUrl": "/win32/winerror-h/spapi_e_no_inf/-2146500086/",
+  "numericCode": 0,
+  "define": "SPAPI_E_NO_INF",
+  "defineUrl": "/win32/winerror-h/spapi_e_no_inf/",
+  "message": "The INF from which a driver list is to be built does not exist.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x800F020A",
+  "originalCodeUrl": "/win32/winerror-h/spapi_e_no_inf/0x800f020a/"
+}

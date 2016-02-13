@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\rpc_s_sec_pkg_error\1825\index.html.json
+
+title: 1825 RPC_S_SEC_PKG_ERROR in winerror.h
+description: A security package specific error occurred.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1825",
+  "codeUrl": "/win32/winerror-h/rpc_s_sec_pkg_error/1825/",
+  "numericCode": 1825,
+  "define": "RPC_S_SEC_PKG_ERROR",
+  "defineUrl": "/win32/winerror-h/rpc_s_sec_pkg_error/",
+  "message": "A security package specific error occurred.",
+  "remarks": null,
+  "aka": [
+    "0x80070721",
+    "-2147023071"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/rpc_s_sec_pkg_error/0x80070721/",
+    "/win32/winerror-h/rpc_s_sec_pkg_error/-2147023071/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

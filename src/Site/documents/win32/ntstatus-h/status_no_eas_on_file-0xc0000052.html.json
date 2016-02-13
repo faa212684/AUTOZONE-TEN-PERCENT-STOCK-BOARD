@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_no_eas_on_file\0xc0000052\index.html.json
+
+title: 0xC0000052 STATUS_NO_EAS_ON_FILE in ntstatus.h
+description: The file for which EAs were requested has no EAs.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000052",
+  "codeUrl": "/win32/ntstatus-h/status_no_eas_on_file/0xc0000052/",
+  "numericCode": -1073741742,
+  "define": "STATUS_NO_EAS_ON_FILE",
+  "defineUrl": "/win32/ntstatus-h/status_no_eas_on_file/",
+  "message": "The file for which EAs were requested has no EAs.",
+  "remarks": null,
+  "aka": [
+    "-1073741742"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_no_eas_on_file/-1073741742/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

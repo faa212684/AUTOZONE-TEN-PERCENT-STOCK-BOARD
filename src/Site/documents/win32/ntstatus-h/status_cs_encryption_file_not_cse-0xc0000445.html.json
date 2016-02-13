@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_cs_encryption_file_not_cse\0xc0000445\index.html.json
+
+title: 0xC0000445 STATUS_CS_ENCRYPTION_FILE_NOT_CSE in ntstatus.h
+description: The SMB client requested a CSE FSCTL on a non-CSE file.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000445",
+  "codeUrl": "/win32/ntstatus-h/status_cs_encryption_file_not_cse/0xc0000445/",
+  "numericCode": -1073740731,
+  "define": "STATUS_CS_ENCRYPTION_FILE_NOT_CSE",
+  "defineUrl": "/win32/ntstatus-h/status_cs_encryption_file_not_cse/",
+  "message": "The SMB client requested a CSE FSCTL on a non-CSE file.",
+  "remarks": null,
+  "aka": [
+    "-1073740731"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_cs_encryption_file_not_cse/-1073740731/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

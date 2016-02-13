@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_page_fault_demand_zero\273\index.html.json
+canonical: /win32/ntstatus-h/status_page_fault_demand_zero/0x00000111/
+title: 273 STATUS_PAGE_FAULT_DEMAND_ZERO in ntstatus.h
+description: Page fault was a demand zero fault.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "273",
+  "codeUrl": "/win32/ntstatus-h/status_page_fault_demand_zero/273/",
+  "numericCode": 0,
+  "define": "STATUS_PAGE_FAULT_DEMAND_ZERO",
+  "defineUrl": "/win32/ntstatus-h/status_page_fault_demand_zero/",
+  "message": "Page fault was a demand zero fault.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x00000111",
+  "originalCodeUrl": "/win32/ntstatus-h/status_page_fault_demand_zero/0x00000111/"
+}

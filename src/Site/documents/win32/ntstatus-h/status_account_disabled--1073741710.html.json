@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_account_disabled\-1073741710\index.html.json
+canonical: /win32/ntstatus-h/status_account_disabled/0xc0000072/
+title: -1073741710 STATUS_ACCOUNT_DISABLED in ntstatus.h
+description: The referenced account is currently disabled and may not be logged on to.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741710",
+  "codeUrl": "/win32/ntstatus-h/status_account_disabled/-1073741710/",
+  "numericCode": 0,
+  "define": "STATUS_ACCOUNT_DISABLED",
+  "defineUrl": "/win32/ntstatus-h/status_account_disabled/",
+  "message": "The referenced account is currently disabled and may not be logged on to.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000072",
+  "originalCodeUrl": "/win32/ntstatus-h/status_account_disabled/0xc0000072/"
+}

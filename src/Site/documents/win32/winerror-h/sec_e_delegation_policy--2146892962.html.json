@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\sec_e_delegation_policy\-2146892962\index.html.json
+canonical: /win32/winerror-h/sec_e_delegation_policy/0x8009035e/
+title: -2146892962 SEC_E_DELEGATION_POLICY in winerror.h
+description: Client policy does not allow credential delegation to target server.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2146892962",
+  "codeUrl": "/win32/winerror-h/sec_e_delegation_policy/-2146892962/",
+  "numericCode": 0,
+  "define": "SEC_E_DELEGATION_POLICY",
+  "defineUrl": "/win32/winerror-h/sec_e_delegation_policy/",
+  "message": "Client policy does not allow credential delegation to target server.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x8009035E",
+  "originalCodeUrl": "/win32/winerror-h/sec_e_delegation_policy/0x8009035e/"
+}

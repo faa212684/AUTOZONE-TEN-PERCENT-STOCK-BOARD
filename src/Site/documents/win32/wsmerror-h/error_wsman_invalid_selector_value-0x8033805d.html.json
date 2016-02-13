@@ -1,0 +1,28 @@
+---
+output: win32\wsmerror-h\error_wsman_invalid_selector_value\0x8033805d\index.html.json
+
+title: 0x8033805D ERROR_WSMAN_INVALID_SELECTOR_VALUE in wsmerror.h
+description: The WS-Management service cannot process the request because a value for the selector is invalid.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x8033805D",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_invalid_selector_value/0x8033805d/",
+  "numericCode": -2144108451,
+  "define": "ERROR_WSMAN_INVALID_SELECTOR_VALUE",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_invalid_selector_value/",
+  "message": "The WS-Management service cannot process the request because a value for the selector is invalid.",
+  "remarks": null,
+  "aka": [
+    "-2144108451"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_invalid_selector_value/-2144108451/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\nserror-h\ns_e_drm_busy\0xc00d2841\index.html.json
+
+title: 0xC00D2841 NS_E_DRM_BUSY in nserror.h
+description: The DRM subsystem is currently locked by another application or user.  Try again later.%0
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "nserror.h",
+  "sourceUrl": "/win32/nserror-h/",
+  "code": "0xC00D2841",
+  "codeUrl": "/win32/nserror-h/ns_e_drm_busy/0xc00d2841/",
+  "numericCode": -1072879551,
+  "define": "NS_E_DRM_BUSY",
+  "defineUrl": "/win32/nserror-h/ns_e_drm_busy/",
+  "message": "The DRM subsystem is currently locked by another application or user.  Try again later.%0",
+  "remarks": null,
+  "aka": [
+    "-1072879551"
+  ],
+  "akaUrl": [
+    "/win32/nserror-h/ns_e_drm_busy/-1072879551/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

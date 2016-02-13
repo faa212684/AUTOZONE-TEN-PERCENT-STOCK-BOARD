@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_install_language_unsupported\1623\index.html.json
+
+title: 1623 ERROR_INSTALL_LANGUAGE_UNSUPPORTED in winerror.h
+description: The language of this installation package is not supported by your system.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1623",
+  "codeUrl": "/win32/winerror-h/error_install_language_unsupported/1623/",
+  "numericCode": 1623,
+  "define": "ERROR_INSTALL_LANGUAGE_UNSUPPORTED",
+  "defineUrl": "/win32/winerror-h/error_install_language_unsupported/",
+  "message": "The language of this installation package is not supported by your system.",
+  "remarks": null,
+  "aka": [
+    "0x80070657",
+    "-2147023273"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_install_language_unsupported/0x80070657/",
+    "/win32/winerror-h/error_install_language_unsupported/-2147023273/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

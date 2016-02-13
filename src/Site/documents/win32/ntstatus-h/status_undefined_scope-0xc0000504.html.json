@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_undefined_scope\0xc0000504\index.html.json
+
+title: 0xC0000504 STATUS_UNDEFINED_SCOPE in ntstatus.h
+description: The Central Access Policy specified is not defined on the target machine.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000504",
+  "codeUrl": "/win32/ntstatus-h/status_undefined_scope/0xc0000504/",
+  "numericCode": -1073740540,
+  "define": "STATUS_UNDEFINED_SCOPE",
+  "defineUrl": "/win32/ntstatus-h/status_undefined_scope/",
+  "message": "The Central Access Policy specified is not defined on the target machine.",
+  "remarks": null,
+  "aka": [
+    "-1073740540"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_undefined_scope/-1073740540/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

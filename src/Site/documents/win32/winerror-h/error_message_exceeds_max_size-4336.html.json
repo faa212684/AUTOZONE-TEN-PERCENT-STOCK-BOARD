@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_message_exceeds_max_size\4336\index.html.json
+
+title: 4336 ERROR_MESSAGE_EXCEEDS_MAX_SIZE in winerror.h
+description: The message provided exceeds the maximum size allowed for this parameter.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "4336",
+  "codeUrl": "/win32/winerror-h/error_message_exceeds_max_size/4336/",
+  "numericCode": 4336,
+  "define": "ERROR_MESSAGE_EXCEEDS_MAX_SIZE",
+  "defineUrl": "/win32/winerror-h/error_message_exceeds_max_size/",
+  "message": "The message provided exceeds the maximum size allowed for this parameter.",
+  "remarks": null,
+  "aka": [
+    "0x800710f0",
+    "-2147020560"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_message_exceeds_max_size/0x800710f0/",
+    "/win32/winerror-h/error_message_exceeds_max_size/-2147020560/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

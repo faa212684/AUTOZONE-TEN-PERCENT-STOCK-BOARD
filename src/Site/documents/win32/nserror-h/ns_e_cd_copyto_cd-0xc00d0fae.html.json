@@ -1,0 +1,28 @@
+---
+output: win32\nserror-h\ns_e_cd_copyto_cd\0xc00d0fae\index.html.json
+
+title: 0xC00D0FAE NS_E_CD_COPYTO_CD in nserror.h
+description: It is not possible to directly burn tracks from one CD to another CD. You must first rip the tracks from the CD to your computer, and then burn the files to a blank CD.%0
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "nserror.h",
+  "sourceUrl": "/win32/nserror-h/",
+  "code": "0xC00D0FAE",
+  "codeUrl": "/win32/nserror-h/ns_e_cd_copyto_cd/0xc00d0fae/",
+  "numericCode": -1072885842,
+  "define": "NS_E_CD_COPYTO_CD",
+  "defineUrl": "/win32/nserror-h/ns_e_cd_copyto_cd/",
+  "message": "It is not possible to directly burn tracks from one CD to another CD. You must first rip the tracks from the CD to your computer, and then burn the files to a blank CD.%0",
+  "remarks": null,
+  "aka": [
+    "-1072885842"
+  ],
+  "akaUrl": [
+    "/win32/nserror-h/ns_e_cd_copyto_cd/-1072885842/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

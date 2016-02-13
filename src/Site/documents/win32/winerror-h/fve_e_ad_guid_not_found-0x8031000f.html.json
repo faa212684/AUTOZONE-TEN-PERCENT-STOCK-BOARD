@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\fve_e_ad_guid_not_found\0x8031000f\index.html.json
+
+title: 0x8031000F FVE_E_AD_GUID_NOT_FOUND in winerror.h
+description: The specified attribute cannot be found in Active Directory Domain Services. Contact your domain administrator to verify that any required BitLocker Active Directory schema extensions have been installed.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8031000F",
+  "codeUrl": "/win32/winerror-h/fve_e_ad_guid_not_found/0x8031000f/",
+  "numericCode": -2144272369,
+  "define": "FVE_E_AD_GUID_NOT_FOUND",
+  "defineUrl": "/win32/winerror-h/fve_e_ad_guid_not_found/",
+  "message": "The specified attribute cannot be found in Active Directory Domain Services. Contact your domain administrator to verify that any required BitLocker Active Directory schema extensions have been installed.",
+  "remarks": null,
+  "aka": [
+    "-2144272369"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/fve_e_ad_guid_not_found/-2144272369/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

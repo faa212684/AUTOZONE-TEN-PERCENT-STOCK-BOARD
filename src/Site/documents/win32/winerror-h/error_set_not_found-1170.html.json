@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_set_not_found\1170\index.html.json
+
+title: 1170 ERROR_SET_NOT_FOUND in winerror.h
+description: The property set specified does not exist on the object.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1170",
+  "codeUrl": "/win32/winerror-h/error_set_not_found/1170/",
+  "numericCode": 1170,
+  "define": "ERROR_SET_NOT_FOUND",
+  "defineUrl": "/win32/winerror-h/error_set_not_found/",
+  "message": "The property set specified does not exist on the object.",
+  "remarks": null,
+  "aka": [
+    "0x80070492",
+    "-2147023726"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_set_not_found/0x80070492/",
+    "/win32/winerror-h/error_set_not_found/-2147023726/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

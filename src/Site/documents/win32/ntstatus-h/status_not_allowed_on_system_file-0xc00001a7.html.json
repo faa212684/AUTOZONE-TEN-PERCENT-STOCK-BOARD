@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_not_allowed_on_system_file\0xc00001a7\index.html.json
+
+title: 0xC00001A7 STATUS_NOT_ALLOWED_ON_SYSTEM_FILE in ntstatus.h
+description: Requested action not allowed on a file system internal file.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC00001A7",
+  "codeUrl": "/win32/ntstatus-h/status_not_allowed_on_system_file/0xc00001a7/",
+  "numericCode": -1073741401,
+  "define": "STATUS_NOT_ALLOWED_ON_SYSTEM_FILE",
+  "defineUrl": "/win32/ntstatus-h/status_not_allowed_on_system_file/",
+  "message": "Requested action not allowed on a file system internal file.",
+  "remarks": null,
+  "aka": [
+    "-1073741401"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_not_allowed_on_system_file/-1073741401/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

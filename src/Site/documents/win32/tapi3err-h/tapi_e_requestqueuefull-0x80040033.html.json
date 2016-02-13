@@ -1,0 +1,28 @@
+---
+output: win32\tapi3err-h\tapi_e_requestqueuefull\0x80040033\index.html.json
+
+title: 0x80040033 TAPI_E_REQUESTQUEUEFULL in Tapi3Err.h
+description: The queue of call requests is full.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "Tapi3Err.h",
+  "sourceUrl": "/win32/tapi3err-h/",
+  "code": "0x80040033",
+  "codeUrl": "/win32/tapi3err-h/tapi_e_requestqueuefull/0x80040033/",
+  "numericCode": -2147221453,
+  "define": "TAPI_E_REQUESTQUEUEFULL",
+  "defineUrl": "/win32/tapi3err-h/tapi_e_requestqueuefull/",
+  "message": "The queue of call requests is full.",
+  "remarks": null,
+  "aka": [
+    "-2147221453"
+  ],
+  "akaUrl": [
+    "/win32/tapi3err-h/tapi_e_requestqueuefull/-2147221453/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_tpm_decrypt_error\-1071054815\index.html.json
+canonical: /win32/ntstatus-h/status_tpm_decrypt_error/0xc0290021/
+title: -1071054815 STATUS_TPM_DECRYPT_ERROR in ntstatus.h
+description: The decryption process did not complete.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071054815",
+  "codeUrl": "/win32/ntstatus-h/status_tpm_decrypt_error/-1071054815/",
+  "numericCode": 0,
+  "define": "STATUS_TPM_DECRYPT_ERROR",
+  "defineUrl": "/win32/ntstatus-h/status_tpm_decrypt_error/",
+  "message": "The decryption process did not complete.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0290021",
+  "originalCodeUrl": "/win32/ntstatus-h/status_tpm_decrypt_error/0xc0290021/"
+}

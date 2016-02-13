@@ -1,0 +1,29 @@
+---
+output: win32\ntstatus-h\status_image_at_different_base\0x40000036\index.html.json
+
+title: 0x40000036 STATUS_IMAGE_AT_DIFFERENT_BASE in ntstatus.h
+description: "{Image Relocated}
+An image file was mapped at a different address from the one specified in the image file but fixups will still be automatically performed on the image."
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0x40000036",
+  "codeUrl": "/win32/ntstatus-h/status_image_at_different_base/0x40000036/",
+  "numericCode": 1073741878,
+  "define": "STATUS_IMAGE_AT_DIFFERENT_BASE",
+  "defineUrl": "/win32/ntstatus-h/status_image_at_different_base/",
+  "message": "{Image Relocated}\r\nAn image file was mapped at a different address from the one specified in the image file but fixups will still be automatically performed on the image.",
+  "remarks": null,
+  "aka": [
+    "1073741878"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_image_at_different_base/1073741878/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

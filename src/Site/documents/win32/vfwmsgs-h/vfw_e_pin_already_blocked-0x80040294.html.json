@@ -1,0 +1,28 @@
+---
+output: win32\vfwmsgs-h\vfw_e_pin_already_blocked\0x80040294\index.html.json
+
+title: 0x80040294 VFW_E_PIN_ALREADY_BLOCKED in vfwmsgs.h
+description: IPinFlowControl::Block() has been called on another thread.  The current thread cannot make any assumptions about this pin's block state.%0
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vfwmsgs.h",
+  "sourceUrl": "/win32/vfwmsgs-h/",
+  "code": "0x80040294",
+  "codeUrl": "/win32/vfwmsgs-h/vfw_e_pin_already_blocked/0x80040294/",
+  "numericCode": -2147220844,
+  "define": "VFW_E_PIN_ALREADY_BLOCKED",
+  "defineUrl": "/win32/vfwmsgs-h/vfw_e_pin_already_blocked/",
+  "message": "IPinFlowControl::Block() has been called on another thread.  The current thread cannot make any assumptions about this pin's block state.%0",
+  "remarks": null,
+  "aka": [
+    "-2147220844"
+  ],
+  "akaUrl": [
+    "/win32/vfwmsgs-h/vfw_e_pin_already_blocked/-2147220844/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

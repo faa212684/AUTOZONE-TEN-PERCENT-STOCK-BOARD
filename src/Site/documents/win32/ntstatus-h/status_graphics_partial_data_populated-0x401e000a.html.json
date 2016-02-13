@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_graphics_partial_data_populated\0x401e000a\index.html.json
+
+title: 0x401E000A STATUS_GRAPHICS_PARTIAL_DATA_POPULATED in ntstatus.h
+description: Specified buffer is not big enough to contain entire requested dataset. Partial data populated upto the size of the buffer. Caller needs to provide buffer of size as specified in the partially populated buffer's content (interface specific).
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0x401E000A",
+  "codeUrl": "/win32/ntstatus-h/status_graphics_partial_data_populated/0x401e000a/",
+  "numericCode": 1075707914,
+  "define": "STATUS_GRAPHICS_PARTIAL_DATA_POPULATED",
+  "defineUrl": "/win32/ntstatus-h/status_graphics_partial_data_populated/",
+  "message": "Specified buffer is not big enough to contain entire requested dataset. Partial data populated upto the size of the buffer. Caller needs to provide buffer of size as specified in the partially populated buffer's content (interface specific).",
+  "remarks": null,
+  "aka": [
+    "1075707914"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_graphics_partial_data_populated/1075707914/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

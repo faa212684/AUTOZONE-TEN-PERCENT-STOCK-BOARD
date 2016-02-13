@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_fwp_incompatible_txn\0xc0220011\index.html.json
+
+title: 0xC0220011 STATUS_FWP_INCOMPATIBLE_TXN in ntstatus.h
+description: The call is not allowed from within a read-only transaction.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0220011",
+  "codeUrl": "/win32/ntstatus-h/status_fwp_incompatible_txn/0xc0220011/",
+  "numericCode": -1071513583,
+  "define": "STATUS_FWP_INCOMPATIBLE_TXN",
+  "defineUrl": "/win32/ntstatus-h/status_fwp_incompatible_txn/",
+  "message": "The call is not allowed from within a read-only transaction.",
+  "remarks": null,
+  "aka": [
+    "-1071513583"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_fwp_incompatible_txn/-1071513583/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

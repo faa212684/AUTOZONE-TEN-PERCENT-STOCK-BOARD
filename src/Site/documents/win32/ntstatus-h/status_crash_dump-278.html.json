@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_crash_dump\278\index.html.json
+canonical: /win32/ntstatus-h/status_crash_dump/0x00000116/
+title: 278 STATUS_CRASH_DUMP in ntstatus.h
+description: Crash dump exists in paging file.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "278",
+  "codeUrl": "/win32/ntstatus-h/status_crash_dump/278/",
+  "numericCode": 0,
+  "define": "STATUS_CRASH_DUMP",
+  "defineUrl": "/win32/ntstatus-h/status_crash_dump/",
+  "message": "Crash dump exists in paging file.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x00000116",
+  "originalCodeUrl": "/win32/ntstatus-h/status_crash_dump/0x00000116/"
+}

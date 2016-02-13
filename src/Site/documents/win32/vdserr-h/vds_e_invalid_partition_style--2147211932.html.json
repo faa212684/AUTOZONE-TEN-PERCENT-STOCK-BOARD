@@ -1,0 +1,25 @@
+---
+output: win32\vdserr-h\vds_e_invalid_partition_style\-2147211932\index.html.json
+canonical: /win32/vdserr-h/vds_e_invalid_partition_style/0x80042564/
+title: -2147211932 VDS_E_INVALID_PARTITION_STYLE in vdserr.h
+description: The specified disk's partition style is INVALID.  
+VDS only supports MBR or GPT partition style disks.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "-2147211932",
+  "codeUrl": "/win32/vdserr-h/vds_e_invalid_partition_style/-2147211932/",
+  "numericCode": 0,
+  "define": "VDS_E_INVALID_PARTITION_STYLE",
+  "defineUrl": "/win32/vdserr-h/vds_e_invalid_partition_style/",
+  "message": "The specified disk's partition style is INVALID.  \r\nVDS only supports MBR or GPT partition style disks.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80042564",
+  "originalCodeUrl": "/win32/vdserr-h/vds_e_invalid_partition_style/0x80042564/"
+}

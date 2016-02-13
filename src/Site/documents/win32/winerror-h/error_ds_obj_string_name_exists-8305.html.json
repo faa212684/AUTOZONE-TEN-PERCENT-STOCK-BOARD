@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ds_obj_string_name_exists\8305\index.html.json
+
+title: 8305 ERROR_DS_OBJ_STRING_NAME_EXISTS in winerror.h
+description: An attempt was made to add an object to the directory with a name that is already in use.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "8305",
+  "codeUrl": "/win32/winerror-h/error_ds_obj_string_name_exists/8305/",
+  "numericCode": 8305,
+  "define": "ERROR_DS_OBJ_STRING_NAME_EXISTS",
+  "defineUrl": "/win32/winerror-h/error_ds_obj_string_name_exists/",
+  "message": "An attempt was made to add an object to the directory with a name that is already in use.",
+  "remarks": null,
+  "aka": [
+    "0x80072071",
+    "-2147016591"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ds_obj_string_name_exists/0x80072071/",
+    "/win32/winerror-h/error_ds_obj_string_name_exists/-2147016591/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

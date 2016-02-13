@@ -1,0 +1,30 @@
+---
+output: win32\wsmerror-h\error_wsman_delivery_refused\0x80338034\index.html.json
+
+title: 0x80338034 ERROR_WSMAN_DELIVERY_REFUSED in wsmerror.h
+description: The WS-Management service cannot complete the request because the receiver does not accept the delivery of events.
+The receiver requests that the subscription be cancelled. Event receivers return this message to force the
+cancellation of a subscription.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x80338034",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_delivery_refused/0x80338034/",
+  "numericCode": -2144108492,
+  "define": "ERROR_WSMAN_DELIVERY_REFUSED",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_delivery_refused/",
+  "message": "The WS-Management service cannot complete the request because the receiver does not accept the delivery of events.\r\nThe receiver requests that the subscription be cancelled. Event receivers return this message to force the\r\ncancellation of a subscription.",
+  "remarks": null,
+  "aka": [
+    "-2144108492"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_delivery_refused/-2144108492/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

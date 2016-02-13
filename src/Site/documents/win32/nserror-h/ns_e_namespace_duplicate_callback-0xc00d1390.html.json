@@ -1,0 +1,28 @@
+---
+output: win32\nserror-h\ns_e_namespace_duplicate_callback\0xc00d1390\index.html.json
+
+title: 0xC00D1390 NS_E_NAMESPACE_DUPLICATE_CALLBACK in nserror.h
+description: It is not possible to register an already-registered callback on a namespace node.%0
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "nserror.h",
+  "sourceUrl": "/win32/nserror-h/",
+  "code": "0xC00D1390",
+  "codeUrl": "/win32/nserror-h/ns_e_namespace_duplicate_callback/0xc00d1390/",
+  "numericCode": -1072884848,
+  "define": "NS_E_NAMESPACE_DUPLICATE_CALLBACK",
+  "defineUrl": "/win32/nserror-h/ns_e_namespace_duplicate_callback/",
+  "message": "It is not possible to register an already-registered callback on a namespace node.%0",
+  "remarks": null,
+  "aka": [
+    "-1072884848"
+  ],
+  "akaUrl": [
+    "/win32/nserror-h/ns_e_namespace_duplicate_callback/-1072884848/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

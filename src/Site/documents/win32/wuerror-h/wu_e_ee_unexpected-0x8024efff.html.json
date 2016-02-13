@@ -1,0 +1,28 @@
+---
+output: win32\wuerror-h\wu_e_ee_unexpected\0x8024efff\index.html.json
+
+title: 0x8024EFFF WU_E_EE_UNEXPECTED in wuerror.h
+description: There was an expression evaluator error not covered by another WU_E_EE_* error code.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wuerror.h",
+  "sourceUrl": "/win32/wuerror-h/",
+  "code": "0x8024EFFF",
+  "codeUrl": "/win32/wuerror-h/wu_e_ee_unexpected/0x8024efff/",
+  "numericCode": -2145062913,
+  "define": "WU_E_EE_UNEXPECTED",
+  "defineUrl": "/win32/wuerror-h/wu_e_ee_unexpected/",
+  "message": "There was an expression evaluator error not covered by another WU_E_EE_* error code.",
+  "remarks": null,
+  "aka": [
+    "-2145062913"
+  ],
+  "akaUrl": [
+    "/win32/wuerror-h/wu_e_ee_unexpected/-2145062913/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

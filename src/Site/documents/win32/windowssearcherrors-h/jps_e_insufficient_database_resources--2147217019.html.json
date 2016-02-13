@@ -1,0 +1,24 @@
+---
+output: win32\windowssearcherrors-h\jps_e_insufficient_database_resources\-2147217019\index.html.json
+canonical: /win32/windowssearcherrors-h/jps_e_insufficient_database_resources/0x80041185/
+title: -2147217019 JPS_E_INSUFFICIENT_DATABASE_RESOURCES in WindowsSearchErrors.h
+description: The content index server cannot update or access its database because insufficient system resources are available. Increase the system resource usage setting for the search service.  If the problem persists, stop and restart the search service.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "-2147217019",
+  "codeUrl": "/win32/windowssearcherrors-h/jps_e_insufficient_database_resources/-2147217019/",
+  "numericCode": 0,
+  "define": "JPS_E_INSUFFICIENT_DATABASE_RESOURCES",
+  "defineUrl": "/win32/windowssearcherrors-h/jps_e_insufficient_database_resources/",
+  "message": "The content index server cannot update or access its database because insufficient system resources are available. Increase the system resource usage setting for the search service.  If the problem persists, stop and restart the search service.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80041185",
+  "originalCodeUrl": "/win32/windowssearcherrors-h/jps_e_insufficient_database_resources/0x80041185/"
+}

@@ -1,0 +1,29 @@
+---
+output: win32\wsmerror-h\error_wsman_deprecated_config_setting\0x803381ae\index.html.json
+
+title: 0x803381AE ERROR_WSMAN_DEPRECATED_CONFIG_SETTING in wsmerror.h
+description: The WinRM service cannot process the request because it is trying to update a deprecated setting.
+Remove this setting from the command and try again.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x803381AE",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_deprecated_config_setting/0x803381ae/",
+  "numericCode": -2144108114,
+  "define": "ERROR_WSMAN_DEPRECATED_CONFIG_SETTING",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_deprecated_config_setting/",
+  "message": "The WinRM service cannot process the request because it is trying to update a deprecated setting.\r\nRemove this setting from the command and try again.",
+  "remarks": null,
+  "aka": [
+    "-2144108114"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_deprecated_config_setting/-2144108114/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

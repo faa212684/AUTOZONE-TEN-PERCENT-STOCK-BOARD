@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_trusted_domain_failure\0x800706fc\index.html.json
+canonical: /win32/winerror-h/error_trusted_domain_failure/1788/
+title: 0x800706fc ERROR_TRUSTED_DOMAIN_FAILURE in winerror.h
+description: The trust relationship between the primary domain and the trusted domain failed.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800706fc",
+  "codeUrl": "/win32/winerror-h/error_trusted_domain_failure/0x800706fc/",
+  "numericCode": 0,
+  "define": "ERROR_TRUSTED_DOMAIN_FAILURE",
+  "defineUrl": "/win32/winerror-h/error_trusted_domain_failure/",
+  "message": "The trust relationship between the primary domain and the trusted domain failed.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "1788",
+  "originalCodeUrl": "/win32/winerror-h/error_trusted_domain_failure/1788/"
+}

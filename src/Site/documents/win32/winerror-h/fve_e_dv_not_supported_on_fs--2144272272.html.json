@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\fve_e_dv_not_supported_on_fs\-2144272272\index.html.json
+canonical: /win32/winerror-h/fve_e_dv_not_supported_on_fs/0x80310070/
+title: -2144272272 FVE_E_DV_NOT_SUPPORTED_ON_FS in winerror.h
+description: The selected discovery drive type is incompatible with the file system on the drive. BitLocker To Go discovery drives must be created on FAT formatted drives.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2144272272",
+  "codeUrl": "/win32/winerror-h/fve_e_dv_not_supported_on_fs/-2144272272/",
+  "numericCode": 0,
+  "define": "FVE_E_DV_NOT_SUPPORTED_ON_FS",
+  "defineUrl": "/win32/winerror-h/fve_e_dv_not_supported_on_fs/",
+  "message": "The selected discovery drive type is incompatible with the file system on the drive. BitLocker To Go discovery drives must be created on FAT formatted drives.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80310070",
+  "originalCodeUrl": "/win32/winerror-h/fve_e_dv_not_supported_on_fs/0x80310070/"
+}

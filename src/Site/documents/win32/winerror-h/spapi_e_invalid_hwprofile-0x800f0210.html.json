@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\spapi_e_invalid_hwprofile\0x800f0210\index.html.json
+
+title: 0x800F0210 SPAPI_E_INVALID_HWPROFILE in winerror.h
+description: The specified hardware profile does not exist.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800F0210",
+  "codeUrl": "/win32/winerror-h/spapi_e_invalid_hwprofile/0x800f0210/",
+  "numericCode": -2146500080,
+  "define": "SPAPI_E_INVALID_HWPROFILE",
+  "defineUrl": "/win32/winerror-h/spapi_e_invalid_hwprofile/",
+  "message": "The specified hardware profile does not exist.",
+  "remarks": null,
+  "aka": [
+    "-2146500080"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/spapi_e_invalid_hwprofile/-2146500080/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

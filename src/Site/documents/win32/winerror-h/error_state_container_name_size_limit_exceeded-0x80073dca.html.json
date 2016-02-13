@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_state_container_name_size_limit_exceeded\0x80073dca\index.html.json
+canonical: /win32/winerror-h/error_state_container_name_size_limit_exceeded/15818/
+title: 0x80073dca ERROR_STATE_CONTAINER_NAME_SIZE_LIMIT_EXCEEDED in winerror.h
+description: The length of the state manager container name has exceeded the limit.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80073dca",
+  "codeUrl": "/win32/winerror-h/error_state_container_name_size_limit_exceeded/0x80073dca/",
+  "numericCode": 0,
+  "define": "ERROR_STATE_CONTAINER_NAME_SIZE_LIMIT_EXCEEDED",
+  "defineUrl": "/win32/winerror-h/error_state_container_name_size_limit_exceeded/",
+  "message": "The length of the state manager container name has exceeded the limit.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "15818",
+  "originalCodeUrl": "/win32/winerror-h/error_state_container_name_size_limit_exceeded/15818/"
+}

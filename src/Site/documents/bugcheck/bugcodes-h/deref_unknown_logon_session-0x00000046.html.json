@@ -1,0 +1,28 @@
+---
+output: bugcheck\bugcodes-h\deref_unknown_logon_session\0x00000046\index.html.json
+
+title: 0x00000046 DEREF_UNKNOWN_LOGON_SESSION in bugcodes.h
+description: DEREF_UNKNOWN_LOGON_SESSION
+disqus: true
+---
+{
+  "area": "bugcheck",
+  "areaUrl": "/bugcheck/",
+  "source": "bugcodes.h",
+  "sourceUrl": "/bugcheck/bugcodes-h/",
+  "code": "0x00000046",
+  "codeUrl": "/bugcheck/bugcodes-h/deref_unknown_logon_session/0x00000046/",
+  "numericCode": 70,
+  "define": "DEREF_UNKNOWN_LOGON_SESSION",
+  "defineUrl": "/bugcheck/bugcodes-h/deref_unknown_logon_session/",
+  "message": "DEREF_UNKNOWN_LOGON_SESSION",
+  "remarks": null,
+  "aka": [
+    "70"
+  ],
+  "akaUrl": [
+    "/bugcheck/bugcodes-h/deref_unknown_logon_session/70/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_tcpip_autoconfigured_address_limit_reached\0x8000106c\index.html.json
+
+title: 0x8000106C EVENT_TCPIP_AUTOCONFIGURED_ADDRESS_LIMIT_REACHED in netevent.h
+description: Autoconfigured address limit has been reached. No further autoconfigured addresses will be added until the interface is reconnected.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x8000106C",
+  "codeUrl": "/win32/netevent-h/event_tcpip_autoconfigured_address_limit_reached/0x8000106c/",
+  "numericCode": -2147479444,
+  "define": "EVENT_TCPIP_AUTOCONFIGURED_ADDRESS_LIMIT_REACHED",
+  "defineUrl": "/win32/netevent-h/event_tcpip_autoconfigured_address_limit_reached/",
+  "message": "Autoconfigured address limit has been reached. No further autoconfigured addresses will be added until the interface is reconnected.",
+  "remarks": null,
+  "aka": [
+    "-2147479444"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_tcpip_autoconfigured_address_limit_reached/-2147479444/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

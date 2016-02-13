@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\cert_e_untrustedtestroot\0x800b010d\index.html.json
+
+title: 0x800B010D CERT_E_UNTRUSTEDTESTROOT in winerror.h
+description: The certification path terminates with the test root which is not trusted with the current policy settings.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800B010D",
+  "codeUrl": "/win32/winerror-h/cert_e_untrustedtestroot/0x800b010d/",
+  "numericCode": -2146762483,
+  "define": "CERT_E_UNTRUSTEDTESTROOT",
+  "defineUrl": "/win32/winerror-h/cert_e_untrustedtestroot/",
+  "message": "The certification path terminates with the test root which is not trusted with the current policy settings.",
+  "remarks": null,
+  "aka": [
+    "-2146762483"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/cert_e_untrustedtestroot/-2146762483/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

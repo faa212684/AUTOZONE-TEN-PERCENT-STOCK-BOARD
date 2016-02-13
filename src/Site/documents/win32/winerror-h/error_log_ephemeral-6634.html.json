@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_log_ephemeral\6634\index.html.json
+
+title: 6634 ERROR_LOG_EPHEMERAL in winerror.h
+description: The operation requires a non-ephemeral log, but the log is ephemeral.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "6634",
+  "codeUrl": "/win32/winerror-h/error_log_ephemeral/6634/",
+  "numericCode": 6634,
+  "define": "ERROR_LOG_EPHEMERAL",
+  "defineUrl": "/win32/winerror-h/error_log_ephemeral/",
+  "message": "The operation requires a non-ephemeral log, but the log is ephemeral.",
+  "remarks": null,
+  "aka": [
+    "0x800719ea",
+    "-2147018262"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_log_ephemeral/0x800719ea/",
+    "/win32/winerror-h/error_log_ephemeral/-2147018262/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_fwp_invalid_tunnel_endpoint\0xc022003d\index.html.json
+
+title: 0xC022003D STATUS_FWP_INVALID_TUNNEL_ENDPOINT in ntstatus.h
+description: A tunnel endpoint configuration is invalid.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC022003D",
+  "codeUrl": "/win32/ntstatus-h/status_fwp_invalid_tunnel_endpoint/0xc022003d/",
+  "numericCode": -1071513539,
+  "define": "STATUS_FWP_INVALID_TUNNEL_ENDPOINT",
+  "defineUrl": "/win32/ntstatus-h/status_fwp_invalid_tunnel_endpoint/",
+  "message": "A tunnel endpoint configuration is invalid.",
+  "remarks": null,
+  "aka": [
+    "-1071513539"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_fwp_invalid_tunnel_endpoint/-1071513539/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

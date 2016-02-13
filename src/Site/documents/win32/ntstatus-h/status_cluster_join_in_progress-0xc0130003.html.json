@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_cluster_join_in_progress\0xc0130003\index.html.json
+
+title: 0xC0130003 STATUS_CLUSTER_JOIN_IN_PROGRESS in ntstatus.h
+description: A node is in the process of joining the cluster.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0130003",
+  "codeUrl": "/win32/ntstatus-h/status_cluster_join_in_progress/0xc0130003/",
+  "numericCode": -1072496637,
+  "define": "STATUS_CLUSTER_JOIN_IN_PROGRESS",
+  "defineUrl": "/win32/ntstatus-h/status_cluster_join_in_progress/",
+  "message": "A node is in the process of joining the cluster.",
+  "remarks": null,
+  "aka": [
+    "-1072496637"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_cluster_join_in_progress/-1072496637/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

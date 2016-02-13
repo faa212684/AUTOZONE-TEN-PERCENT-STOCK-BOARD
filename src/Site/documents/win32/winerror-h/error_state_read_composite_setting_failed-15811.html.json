@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_state_read_composite_setting_failed\15811\index.html.json
+
+title: 15811 ERROR_STATE_READ_COMPOSITE_SETTING_FAILED in winerror.h
+description: State Manager failed to read the composite setting.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "15811",
+  "codeUrl": "/win32/winerror-h/error_state_read_composite_setting_failed/15811/",
+  "numericCode": 15811,
+  "define": "ERROR_STATE_READ_COMPOSITE_SETTING_FAILED",
+  "defineUrl": "/win32/winerror-h/error_state_read_composite_setting_failed/",
+  "message": "State Manager failed to read the composite setting.",
+  "remarks": null,
+  "aka": [
+    "0x80073dc3",
+    "-2147009085"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_state_read_composite_setting_failed/0x80073dc3/",
+    "/win32/winerror-h/error_state_read_composite_setting_failed/-2147009085/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

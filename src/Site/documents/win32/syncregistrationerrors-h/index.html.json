@@ -1,0 +1,25 @@
+---
+layout: list
+title: win32 syncregistrationerrors.h
+description: win32
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "syncregistrationerrors.h",
+  "sourceUrl": "/win32/syncregistrationerrors-h/",
+  "items": [
+    "0x80041600",
+    "0x80041601",
+    "0x80041602",
+    "0x80041603",
+    "0x80041604"
+  ],
+  "itemUrls": [
+    "/win32/syncregistrationerrors-h/sync_e_registration_internal_error/0x80041600/",
+    "/win32/syncregistrationerrors-h/sync_e_registration_already_registered/0x80041601/",
+    "/win32/syncregistrationerrors-h/sync_e_registration_not_registered/0x80041602/",
+    "/win32/syncregistrationerrors-h/sync_e_registration_corrupt_data/0x80041603/",
+    "/win32/syncregistrationerrors-h/sync_e_registration_already_committed/0x80041604/"
+  ]
+}

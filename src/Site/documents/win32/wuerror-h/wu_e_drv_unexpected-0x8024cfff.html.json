@@ -1,0 +1,28 @@
+---
+output: win32\wuerror-h\wu_e_drv_unexpected\0x8024cfff\index.html.json
+
+title: 0x8024CFFF WU_E_DRV_UNEXPECTED in wuerror.h
+description: A driver error not covered by another WU_E_DRV_* code.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wuerror.h",
+  "sourceUrl": "/win32/wuerror-h/",
+  "code": "0x8024CFFF",
+  "codeUrl": "/win32/wuerror-h/wu_e_drv_unexpected/0x8024cfff/",
+  "numericCode": -2145071105,
+  "define": "WU_E_DRV_UNEXPECTED",
+  "defineUrl": "/win32/wuerror-h/wu_e_drv_unexpected/",
+  "message": "A driver error not covered by another WU_E_DRV_* code.",
+  "remarks": null,
+  "aka": [
+    "-2145071105"
+  ],
+  "akaUrl": [
+    "/win32/wuerror-h/wu_e_drv_unexpected/-2145071105/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

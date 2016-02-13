@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\appx_e_requested_range_too_large\-2146958840\index.html.json
+canonical: /win32/winerror-h/appx_e_requested_range_too_large/0x80080208/
+title: -2146958840 APPX_E_REQUESTED_RANGE_TOO_LARGE in winerror.h
+description: The requested byte range is over 4GB when translated to byte range of blocks.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2146958840",
+  "codeUrl": "/win32/winerror-h/appx_e_requested_range_too_large/-2146958840/",
+  "numericCode": 0,
+  "define": "APPX_E_REQUESTED_RANGE_TOO_LARGE",
+  "defineUrl": "/win32/winerror-h/appx_e_requested_range_too_large/",
+  "message": "The requested byte range is over 4GB when translated to byte range of blocks.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80080208",
+  "originalCodeUrl": "/win32/winerror-h/appx_e_requested_range_too_large/0x80080208/"
+}

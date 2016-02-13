@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_srv_cant_grow_table\0x800007d9\index.html.json
+
+title: 0x800007D9 EVENT_SRV_CANT_GROW_TABLE in netevent.h
+description: The server could not expand a table because the table reached the maximum size.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x800007D9",
+  "codeUrl": "/win32/netevent-h/event_srv_cant_grow_table/0x800007d9/",
+  "numericCode": -2147481639,
+  "define": "EVENT_SRV_CANT_GROW_TABLE",
+  "defineUrl": "/win32/netevent-h/event_srv_cant_grow_table/",
+  "message": "The server could not expand a table because the table reached the maximum size.",
+  "remarks": null,
+  "aka": [
+    "-2147481639"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_srv_cant_grow_table/-2147481639/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_page_fault_transition\0x00000110\index.html.json
+
+title: 0x00000110 STATUS_PAGE_FAULT_TRANSITION in ntstatus.h
+description: Page fault was a transition fault.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0x00000110",
+  "codeUrl": "/win32/ntstatus-h/status_page_fault_transition/0x00000110/",
+  "numericCode": 272,
+  "define": "STATUS_PAGE_FAULT_TRANSITION",
+  "defineUrl": "/win32/ntstatus-h/status_page_fault_transition/",
+  "message": "Page fault was a transition fault.",
+  "remarks": null,
+  "aka": [
+    "272"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_page_fault_transition/272/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

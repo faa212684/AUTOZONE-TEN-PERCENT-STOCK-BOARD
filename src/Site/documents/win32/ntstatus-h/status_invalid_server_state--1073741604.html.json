@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_invalid_server_state\-1073741604\index.html.json
+canonical: /win32/ntstatus-h/status_invalid_server_state/0xc00000dc/
+title: -1073741604 STATUS_INVALID_SERVER_STATE in ntstatus.h
+description: Indicates the Sam Server was in the wrong state to perform the desired operation.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741604",
+  "codeUrl": "/win32/ntstatus-h/status_invalid_server_state/-1073741604/",
+  "numericCode": 0,
+  "define": "STATUS_INVALID_SERVER_STATE",
+  "defineUrl": "/win32/ntstatus-h/status_invalid_server_state/",
+  "message": "Indicates the Sam Server was in the wrong state to perform the desired operation.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC00000DC",
+  "originalCodeUrl": "/win32/ntstatus-h/status_invalid_server_state/0xc00000dc/"
+}

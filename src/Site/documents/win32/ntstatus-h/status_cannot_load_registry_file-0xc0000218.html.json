@@ -1,0 +1,32 @@
+---
+output: win32\ntstatus-h\status_cannot_load_registry_file\0xc0000218\index.html.json
+
+title: 0xC0000218 STATUS_CANNOT_LOAD_REGISTRY_FILE in ntstatus.h
+description: "{Registry File Failure}
+The registry cannot load the hive (file):
+%hs
+or its log or alternate.
+It is corrupt, absent, or not writable."
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000218",
+  "codeUrl": "/win32/ntstatus-h/status_cannot_load_registry_file/0xc0000218/",
+  "numericCode": -1073741288,
+  "define": "STATUS_CANNOT_LOAD_REGISTRY_FILE",
+  "defineUrl": "/win32/ntstatus-h/status_cannot_load_registry_file/",
+  "message": "{Registry File Failure}\r\nThe registry cannot load the hive (file):\r\n%hs\r\nor its log or alternate.\r\nIt is corrupt, absent, or not writable.",
+  "remarks": null,
+  "aka": [
+    "-1073741288"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_cannot_load_registry_file/-1073741288/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

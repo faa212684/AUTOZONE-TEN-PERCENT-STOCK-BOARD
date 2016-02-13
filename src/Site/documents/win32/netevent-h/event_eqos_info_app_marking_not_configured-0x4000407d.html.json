@@ -1,0 +1,29 @@
+---
+output: win32\netevent-h\event_eqos_info_app_marking_not_configured\0x4000407d\index.html.json
+
+title: 0x4000407D EVENT_EQOS_INFO_APP_MARKING_NOT_CONFIGURED in netevent.h
+description: The Advanced QoS Setting for DSCP marking overrides successfully refreshed. 
+Setting value is not specified by any QoS policy. Local computer default will be applied. By default, applications can set DSCP values independently of QoS policies.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x4000407D",
+  "codeUrl": "/win32/netevent-h/event_eqos_info_app_marking_not_configured/0x4000407d/",
+  "numericCode": 1073758333,
+  "define": "EVENT_EQOS_INFO_APP_MARKING_NOT_CONFIGURED",
+  "defineUrl": "/win32/netevent-h/event_eqos_info_app_marking_not_configured/",
+  "message": "The Advanced QoS Setting for DSCP marking overrides successfully refreshed. \r\nSetting value is not specified by any QoS policy. Local computer default will be applied. By default, applications can set DSCP values independently of QoS policies.",
+  "remarks": null,
+  "aka": [
+    "1073758333"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_eqos_info_app_marking_not_configured/1073758333/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_media_incompatible\4315\index.html.json
+
+title: 4315 ERROR_MEDIA_INCOMPATIBLE in winerror.h
+description: The medium is not compatible with the device or media pool.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "4315",
+  "codeUrl": "/win32/winerror-h/error_media_incompatible/4315/",
+  "numericCode": 4315,
+  "define": "ERROR_MEDIA_INCOMPATIBLE",
+  "defineUrl": "/win32/winerror-h/error_media_incompatible/",
+  "message": "The medium is not compatible with the device or media pool.",
+  "remarks": null,
+  "aka": [
+    "0x800710db",
+    "-2147020581"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_media_incompatible/0x800710db/",
+    "/win32/winerror-h/error_media_incompatible/-2147020581/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

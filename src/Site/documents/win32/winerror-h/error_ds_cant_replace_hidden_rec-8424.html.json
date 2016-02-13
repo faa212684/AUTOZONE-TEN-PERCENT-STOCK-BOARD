@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ds_cant_replace_hidden_rec\8424\index.html.json
+
+title: 8424 ERROR_DS_CANT_REPLACE_HIDDEN_REC in winerror.h
+description: The operation cannot replace the hidden record.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "8424",
+  "codeUrl": "/win32/winerror-h/error_ds_cant_replace_hidden_rec/8424/",
+  "numericCode": 8424,
+  "define": "ERROR_DS_CANT_REPLACE_HIDDEN_REC",
+  "defineUrl": "/win32/winerror-h/error_ds_cant_replace_hidden_rec/",
+  "message": "The operation cannot replace the hidden record.",
+  "remarks": null,
+  "aka": [
+    "0x800720e8",
+    "-2147016472"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ds_cant_replace_hidden_rec/0x800720e8/",
+    "/win32/winerror-h/error_ds_cant_replace_hidden_rec/-2147016472/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

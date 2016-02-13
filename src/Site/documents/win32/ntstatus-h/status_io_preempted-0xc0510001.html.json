@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_io_preempted\0xc0510001\index.html.json
+
+title: 0xC0510001 STATUS_IO_PREEMPTED in ntstatus.h
+description: The operation was preempted by a higher priority operation. It must be resumed later.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0510001",
+  "codeUrl": "/win32/ntstatus-h/status_io_preempted/0xc0510001/",
+  "numericCode": -1068433407,
+  "define": "STATUS_IO_PREEMPTED",
+  "defineUrl": "/win32/ntstatus-h/status_io_preempted/",
+  "message": "The operation was preempted by a higher priority operation. It must be resumed later.",
+  "remarks": null,
+  "aka": [
+    "-1068433407"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_io_preempted/-1068433407/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

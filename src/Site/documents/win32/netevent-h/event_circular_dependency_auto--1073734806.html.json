@@ -1,0 +1,24 @@
+---
+output: win32\netevent-h\event_circular_dependency_auto\-1073734806\index.html.json
+canonical: /win32/netevent-h/event_circular_dependency_auto/0xc0001b6a/
+title: -1073734806 EVENT_CIRCULAR_DEPENDENCY_AUTO in netevent.h
+description: Detected circular dependencies auto-starting services.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "-1073734806",
+  "codeUrl": "/win32/netevent-h/event_circular_dependency_auto/-1073734806/",
+  "numericCode": 0,
+  "define": "EVENT_CIRCULAR_DEPENDENCY_AUTO",
+  "defineUrl": "/win32/netevent-h/event_circular_dependency_auto/",
+  "message": "Detected circular dependencies auto-starting services.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0001B6A",
+  "originalCodeUrl": "/win32/netevent-h/event_circular_dependency_auto/0xc0001b6a/"
+}

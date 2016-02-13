@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\cert_e_role\0x800b0103\index.html.json
+
+title: 0x800B0103 CERT_E_ROLE in winerror.h
+description: A certificate that can only be used as an end-entity is being used as a CA or vice versa.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800B0103",
+  "codeUrl": "/win32/winerror-h/cert_e_role/0x800b0103/",
+  "numericCode": -2146762493,
+  "define": "CERT_E_ROLE",
+  "defineUrl": "/win32/winerror-h/cert_e_role/",
+  "message": "A certificate that can only be used as an end-entity is being used as a CA or vice versa.",
+  "remarks": null,
+  "aka": [
+    "-2146762493"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/cert_e_role/-2146762493/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

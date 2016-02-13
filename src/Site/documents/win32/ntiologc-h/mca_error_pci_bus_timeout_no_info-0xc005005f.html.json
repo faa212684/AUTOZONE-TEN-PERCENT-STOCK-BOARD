@@ -1,0 +1,28 @@
+---
+output: win32\ntiologc-h\mca_error_pci_bus_timeout_no_info\0xc005005f\index.html.json
+
+title: 0xC005005F MCA_ERROR_PCI_BUS_TIMEOUT_NO_INFO in ntiologc.h
+description: Machine Check Event reported is a fatal PCI bus Timeout error reported to CPU %1. %2 additional error(s) are contained within the record.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntiologc.h",
+  "sourceUrl": "/win32/ntiologc-h/",
+  "code": "0xC005005F",
+  "codeUrl": "/win32/ntiologc-h/mca_error_pci_bus_timeout_no_info/0xc005005f/",
+  "numericCode": -1073414049,
+  "define": "MCA_ERROR_PCI_BUS_TIMEOUT_NO_INFO",
+  "defineUrl": "/win32/ntiologc-h/mca_error_pci_bus_timeout_no_info/",
+  "message": "Machine Check Event reported is a fatal PCI bus Timeout error reported to CPU %1. %2 additional error(s) are contained within the record.",
+  "remarks": null,
+  "aka": [
+    "-1073414049"
+  ],
+  "akaUrl": [
+    "/win32/ntiologc-h/mca_error_pci_bus_timeout_no_info/-1073414049/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

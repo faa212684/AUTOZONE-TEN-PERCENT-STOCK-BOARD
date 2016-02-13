@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_invalid_lock_range\307\index.html.json
+
+title: 307 ERROR_INVALID_LOCK_RANGE in winerror.h
+description: A requested file lock operation cannot be processed due to an invalid byte range.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "307",
+  "codeUrl": "/win32/winerror-h/error_invalid_lock_range/307/",
+  "numericCode": 307,
+  "define": "ERROR_INVALID_LOCK_RANGE",
+  "defineUrl": "/win32/winerror-h/error_invalid_lock_range/",
+  "message": "A requested file lock operation cannot be processed due to an invalid byte range.",
+  "remarks": null,
+  "aka": [
+    "0x80070133",
+    "-2147024589"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_invalid_lock_range/0x80070133/",
+    "/win32/winerror-h/error_invalid_lock_range/-2147024589/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

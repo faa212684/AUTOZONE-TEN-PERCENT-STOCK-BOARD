@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_server_shutdown_in_progress\-1073741057\index.html.json
+canonical: /win32/ntstatus-h/status_server_shutdown_in_progress/0xc00002ff/
+title: -1073741057 STATUS_SERVER_SHUTDOWN_IN_PROGRESS in ntstatus.h
+description: The server machine is shutting down.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741057",
+  "codeUrl": "/win32/ntstatus-h/status_server_shutdown_in_progress/-1073741057/",
+  "numericCode": 0,
+  "define": "STATUS_SERVER_SHUTDOWN_IN_PROGRESS",
+  "defineUrl": "/win32/ntstatus-h/status_server_shutdown_in_progress/",
+  "message": "The server machine is shutting down.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC00002FF",
+  "originalCodeUrl": "/win32/ntstatus-h/status_server_shutdown_in_progress/0xc00002ff/"
+}

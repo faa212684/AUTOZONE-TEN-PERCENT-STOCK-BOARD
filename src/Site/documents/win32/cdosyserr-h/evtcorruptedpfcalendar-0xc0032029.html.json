@@ -1,0 +1,29 @@
+---
+output: win32\cdosyserr-h\evtcorruptedpfcalendar\0xc0032029\index.html.json
+
+title: 0xC0032029 evtCorruptedPFCalendar in CDOSysErr.h
+description: The public folder %1 is corrupted.  This calendar needs to be recreated.
+%n%nFor more information, click http:www.microsoft.com/contentredirect.asp.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "CDOSysErr.h",
+  "sourceUrl": "/win32/cdosyserr-h/",
+  "code": "0xC0032029",
+  "codeUrl": "/win32/cdosyserr-h/evtcorruptedpfcalendar/0xc0032029/",
+  "numericCode": -1073536983,
+  "define": "evtCorruptedPFCalendar",
+  "defineUrl": "/win32/cdosyserr-h/evtcorruptedpfcalendar/",
+  "message": "The public folder %1 is corrupted.  This calendar needs to be recreated.\r\n%n%nFor more information, click http:www.microsoft.com/contentredirect.asp.",
+  "remarks": null,
+  "aka": [
+    "-1073536983"
+  ],
+  "akaUrl": [
+    "/win32/cdosyserr-h/evtcorruptedpfcalendar/-1073536983/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

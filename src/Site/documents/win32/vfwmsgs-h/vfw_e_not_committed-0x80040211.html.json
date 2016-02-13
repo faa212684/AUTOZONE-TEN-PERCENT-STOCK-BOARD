@@ -1,0 +1,28 @@
+---
+output: win32\vfwmsgs-h\vfw_e_not_committed\0x80040211\index.html.json
+
+title: 0x80040211 VFW_E_NOT_COMMITTED in vfwmsgs.h
+description: Cannot allocate a sample when the allocator is not active.%0
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vfwmsgs.h",
+  "sourceUrl": "/win32/vfwmsgs-h/",
+  "code": "0x80040211",
+  "codeUrl": "/win32/vfwmsgs-h/vfw_e_not_committed/0x80040211/",
+  "numericCode": -2147220975,
+  "define": "VFW_E_NOT_COMMITTED",
+  "defineUrl": "/win32/vfwmsgs-h/vfw_e_not_committed/",
+  "message": "Cannot allocate a sample when the allocator is not active.%0",
+  "remarks": null,
+  "aka": [
+    "-2147220975"
+  ],
+  "akaUrl": [
+    "/win32/vfwmsgs-h/vfw_e_not_committed/-2147220975/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

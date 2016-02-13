@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_tpm_invalid_resource\-1071054795\index.html.json
+canonical: /win32/ntstatus-h/status_tpm_invalid_resource/0xc0290035/
+title: -1071054795 STATUS_TPM_INVALID_RESOURCE in ntstatus.h
+description: When saving context identified resource type does not match actual resource.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071054795",
+  "codeUrl": "/win32/ntstatus-h/status_tpm_invalid_resource/-1071054795/",
+  "numericCode": 0,
+  "define": "STATUS_TPM_INVALID_RESOURCE",
+  "defineUrl": "/win32/ntstatus-h/status_tpm_invalid_resource/",
+  "message": "When saving context identified resource type does not match actual resource.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0290035",
+  "originalCodeUrl": "/win32/ntstatus-h/status_tpm_invalid_resource/0xc0290035/"
+}

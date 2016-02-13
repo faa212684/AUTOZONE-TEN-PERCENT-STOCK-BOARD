@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\stg_e_sharerequired\0x80030106\index.html.json
+
+title: 0x80030106 STG_E_SHAREREQUIRED in winerror.h
+description: Share.exe or equivalent is required for operation.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80030106",
+  "codeUrl": "/win32/winerror-h/stg_e_sharerequired/0x80030106/",
+  "numericCode": -2147286778,
+  "define": "STG_E_SHAREREQUIRED",
+  "defineUrl": "/win32/winerror-h/stg_e_sharerequired/",
+  "message": "Share.exe or equivalent is required for operation.",
+  "remarks": null,
+  "aka": [
+    "-2147286778"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/stg_e_sharerequired/-2147286778/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

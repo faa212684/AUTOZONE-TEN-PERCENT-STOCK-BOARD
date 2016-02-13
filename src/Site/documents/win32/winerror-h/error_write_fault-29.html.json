@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_write_fault\29\index.html.json
+
+title: 29 ERROR_WRITE_FAULT in winerror.h
+description: The system cannot write to the specified device.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "29",
+  "codeUrl": "/win32/winerror-h/error_write_fault/29/",
+  "numericCode": 29,
+  "define": "ERROR_WRITE_FAULT",
+  "defineUrl": "/win32/winerror-h/error_write_fault/",
+  "message": "The system cannot write to the specified device.",
+  "remarks": null,
+  "aka": [
+    "0x8007001d",
+    "-2147024867"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_write_fault/0x8007001d/",
+    "/win32/winerror-h/error_write_fault/-2147024867/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

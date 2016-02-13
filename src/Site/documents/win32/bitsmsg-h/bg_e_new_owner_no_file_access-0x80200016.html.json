@@ -1,0 +1,28 @@
+---
+output: win32\bitsmsg-h\bg_e_new_owner_no_file_access\0x80200016\index.html.json
+
+title: 0x80200016 BG_E_NEW_OWNER_NO_FILE_ACCESS in BitsMsg.h
+description: The new owner has insufficient access to the local files for the job. The new owner might not have permissions to access the job files. Verify that the new owner has sufficient permissions, and then try again.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "BitsMsg.h",
+  "sourceUrl": "/win32/bitsmsg-h/",
+  "code": "0x80200016",
+  "codeUrl": "/win32/bitsmsg-h/bg_e_new_owner_no_file_access/0x80200016/",
+  "numericCode": -2145386474,
+  "define": "BG_E_NEW_OWNER_NO_FILE_ACCESS",
+  "defineUrl": "/win32/bitsmsg-h/bg_e_new_owner_no_file_access/",
+  "message": "The new owner has insufficient access to the local files for the job. The new owner might not have permissions to access the job files. Verify that the new owner has sufficient permissions, and then try again.",
+  "remarks": null,
+  "aka": [
+    "-2145386474"
+  ],
+  "akaUrl": [
+    "/win32/bitsmsg-h/bg_e_new_owner_no_file_access/-2145386474/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

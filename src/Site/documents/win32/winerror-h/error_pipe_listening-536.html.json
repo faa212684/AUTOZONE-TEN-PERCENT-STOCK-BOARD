@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_pipe_listening\536\index.html.json
+
+title: 536 ERROR_PIPE_LISTENING in winerror.h
+description: Waiting for a process to open the other end of the pipe.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "536",
+  "codeUrl": "/win32/winerror-h/error_pipe_listening/536/",
+  "numericCode": 536,
+  "define": "ERROR_PIPE_LISTENING",
+  "defineUrl": "/win32/winerror-h/error_pipe_listening/",
+  "message": "Waiting for a process to open the other end of the pipe.",
+  "remarks": null,
+  "aka": [
+    "0x80070218",
+    "-2147024360"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_pipe_listening/0x80070218/",
+    "/win32/winerror-h/error_pipe_listening/-2147024360/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

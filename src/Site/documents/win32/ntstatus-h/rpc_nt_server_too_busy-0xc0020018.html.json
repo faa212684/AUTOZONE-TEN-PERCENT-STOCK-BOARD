@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\rpc_nt_server_too_busy\0xc0020018\index.html.json
+
+title: 0xC0020018 RPC_NT_SERVER_TOO_BUSY in ntstatus.h
+description: The RPC server is too busy to complete this operation.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0020018",
+  "codeUrl": "/win32/ntstatus-h/rpc_nt_server_too_busy/0xc0020018/",
+  "numericCode": -1073610728,
+  "define": "RPC_NT_SERVER_TOO_BUSY",
+  "defineUrl": "/win32/ntstatus-h/rpc_nt_server_too_busy/",
+  "message": "The RPC server is too busy to complete this operation.",
+  "remarks": null,
+  "aka": [
+    "-1073610728"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/rpc_nt_server_too_busy/-1073610728/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

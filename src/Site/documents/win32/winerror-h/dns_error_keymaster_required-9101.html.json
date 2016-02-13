@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\dns_error_keymaster_required\9101\index.html.json
+
+title: 9101 DNS_ERROR_KEYMASTER_REQUIRED in winerror.h
+description: Only the DNS server acting as the key master for the zone may perform this operation.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "9101",
+  "codeUrl": "/win32/winerror-h/dns_error_keymaster_required/9101/",
+  "numericCode": 9101,
+  "define": "DNS_ERROR_KEYMASTER_REQUIRED",
+  "defineUrl": "/win32/winerror-h/dns_error_keymaster_required/",
+  "message": "Only the DNS server acting as the key master for the zone may perform this operation.",
+  "remarks": null,
+  "aka": [
+    "0x8007238d",
+    "-2147015795"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/dns_error_keymaster_required/0x8007238d/",
+    "/win32/winerror-h/dns_error_keymaster_required/-2147015795/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

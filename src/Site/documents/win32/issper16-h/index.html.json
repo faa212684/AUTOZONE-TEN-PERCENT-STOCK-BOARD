@@ -1,0 +1,65 @@
+---
+layout: list
+title: win32 IssPer16.h
+description: win32
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "IssPer16.h",
+  "sourceUrl": "/win32/issper16-h/",
+  "items": [
+    "0x0000",
+    "0x1012",
+    "0x1013",
+    "0x1014",
+    "0x1015",
+    "0x1300",
+    "0x1301",
+    "0x1302",
+    "0x1303",
+    "0x1304",
+    "0x1305",
+    "0x1306",
+    "0x1307",
+    "0x1308",
+    "0x1309",
+    "0x130A",
+    "0x130B",
+    "0x130C",
+    "0x130D",
+    "0x130E",
+    "0x130F",
+    "0x1310",
+    "0x1311",
+    "0x1312",
+    "0x1313"
+  ],
+  "itemUrls": [
+    "/win32/issper16-h/sec_e_ok/0x0000/",
+    "/win32/issper16-h/sec_i_continue_needed/0x1012/",
+    "/win32/issper16-h/sec_i_complete_needed/0x1013/",
+    "/win32/issper16-h/sec_i_complete_and_continue/0x1014/",
+    "/win32/issper16-h/sec_i_local_logon/0x1015/",
+    "/win32/issper16-h/sec_e_insufficient_memory/0x1300/",
+    "/win32/issper16-h/sec_e_invalid_handle/0x1301/",
+    "/win32/issper16-h/sec_e_unsupported_function/0x1302/",
+    "/win32/issper16-h/sec_e_target_unknown/0x1303/",
+    "/win32/issper16-h/sec_e_internal_error/0x1304/",
+    "/win32/issper16-h/sec_e_secpkg_not_found/0x1305/",
+    "/win32/issper16-h/sec_e_not_owner/0x1306/",
+    "/win32/issper16-h/sec_e_cannot_install/0x1307/",
+    "/win32/issper16-h/sec_e_invalid_token/0x1308/",
+    "/win32/issper16-h/sec_e_cannot_pack/0x1309/",
+    "/win32/issper16-h/sec_e_qop_not_supported/0x130a/",
+    "/win32/issper16-h/sec_e_no_impersonation/0x130b/",
+    "/win32/issper16-h/sec_e_logon_denied/0x130c/",
+    "/win32/issper16-h/sec_e_unknown_credentials/0x130d/",
+    "/win32/issper16-h/sec_e_no_credentials/0x130e/",
+    "/win32/issper16-h/sec_e_message_altered/0x130f/",
+    "/win32/issper16-h/sec_e_out_of_sequence/0x1310/",
+    "/win32/issper16-h/sec_e_no_authenticating_authority/0x1311/",
+    "/win32/issper16-h/sec_e_context_expired/0x1312/",
+    "/win32/issper16-h/sec_e_incomplete_message/0x1313/"
+  ]
+}

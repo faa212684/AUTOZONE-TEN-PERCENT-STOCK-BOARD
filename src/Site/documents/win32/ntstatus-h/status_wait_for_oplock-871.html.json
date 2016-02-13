@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_wait_for_oplock\871\index.html.json
+canonical: /win32/ntstatus-h/status_wait_for_oplock/0x00000367/
+title: 871 STATUS_WAIT_FOR_OPLOCK in ntstatus.h
+description: An operation is blocked waiting for an oplock.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "871",
+  "codeUrl": "/win32/ntstatus-h/status_wait_for_oplock/871/",
+  "numericCode": 0,
+  "define": "STATUS_WAIT_FOR_OPLOCK",
+  "defineUrl": "/win32/ntstatus-h/status_wait_for_oplock/",
+  "message": "An operation is blocked waiting for an oplock.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x00000367",
+  "originalCodeUrl": "/win32/ntstatus-h/status_wait_for_oplock/0x00000367/"
+}

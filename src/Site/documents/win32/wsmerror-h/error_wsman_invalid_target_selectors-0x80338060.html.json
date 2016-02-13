@@ -1,0 +1,28 @@
+---
+output: win32\wsmerror-h\error_wsman_invalid_target_selectors\0x80338060\index.html.json
+
+title: 0x80338060 ERROR_WSMAN_INVALID_TARGET_SELECTORS in wsmerror.h
+description: The WS-Management service cannot process the request because the request contains invalid selectors for the target resource.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x80338060",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_invalid_target_selectors/0x80338060/",
+  "numericCode": -2144108448,
+  "define": "ERROR_WSMAN_INVALID_TARGET_SELECTORS",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_invalid_target_selectors/",
+  "message": "The WS-Management service cannot process the request because the request contains invalid selectors for the target resource.",
+  "remarks": null,
+  "aka": [
+    "-2144108448"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_invalid_target_selectors/-2144108448/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

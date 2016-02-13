@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_acpi_rs_access\0xc0140018\index.html.json
+
+title: 0xC0140018 STATUS_ACPI_RS_ACCESS in ntstatus.h
+description: An error occurred during an access to Region Space
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0140018",
+  "codeUrl": "/win32/ntstatus-h/status_acpi_rs_access/0xc0140018/",
+  "numericCode": -1072431080,
+  "define": "STATUS_ACPI_RS_ACCESS",
+  "defineUrl": "/win32/ntstatus-h/status_acpi_rs_access/",
+  "message": "An error occurred during an access to Region Space",
+  "remarks": null,
+  "aka": [
+    "-1072431080"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_acpi_rs_access/-1072431080/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

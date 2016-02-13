@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_eqos_warning_machine_policy_profile_not_specified\0x800040dc\index.html.json
+
+title: 0x800040DC EVENT_EQOS_WARNING_MACHINE_POLICY_PROFILE_NOT_SPECIFIED in netevent.h
+description: A computer QoS policy "%2" does not specify a DSCP value or throttle rate. This policy will not be applied.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x800040DC",
+  "codeUrl": "/win32/netevent-h/event_eqos_warning_machine_policy_profile_not_specified/0x800040dc/",
+  "numericCode": -2147467044,
+  "define": "EVENT_EQOS_WARNING_MACHINE_POLICY_PROFILE_NOT_SPECIFIED",
+  "defineUrl": "/win32/netevent-h/event_eqos_warning_machine_policy_profile_not_specified/",
+  "message": "A computer QoS policy \"%2\" does not specify a DSCP value or throttle rate. This policy will not be applied.",
+  "remarks": null,
+  "aka": [
+    "-2147467044"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_eqos_warning_machine_policy_profile_not_specified/-2147467044/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

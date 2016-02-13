@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_driver_process_terminated\-1073740720\index.html.json
+canonical: /win32/ntstatus-h/status_driver_process_terminated/0xc0000450/
+title: -1073740720 STATUS_DRIVER_PROCESS_TERMINATED in ntstatus.h
+description: The process hosting the driver for this device has terminated.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073740720",
+  "codeUrl": "/win32/ntstatus-h/status_driver_process_terminated/-1073740720/",
+  "numericCode": 0,
+  "define": "STATUS_DRIVER_PROCESS_TERMINATED",
+  "defineUrl": "/win32/ntstatus-h/status_driver_process_terminated/",
+  "message": "The process hosting the driver for this device has terminated.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000450",
+  "originalCodeUrl": "/win32/ntstatus-h/status_driver_process_terminated/0xc0000450/"
+}

@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\stg_e_notfilebasedstorage\0x80030107\index.html.json
+
+title: 0x80030107 STG_E_NOTFILEBASEDSTORAGE in winerror.h
+description: Illegal operation called on non-file based storage.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80030107",
+  "codeUrl": "/win32/winerror-h/stg_e_notfilebasedstorage/0x80030107/",
+  "numericCode": -2147286777,
+  "define": "STG_E_NOTFILEBASEDSTORAGE",
+  "defineUrl": "/win32/winerror-h/stg_e_notfilebasedstorage/",
+  "message": "Illegal operation called on non-file based storage.",
+  "remarks": null,
+  "aka": [
+    "-2147286777"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/stg_e_notfilebasedstorage/-2147286777/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\rpc_e_no_good_security_packages\0x8001011a\index.html.json
+
+title: 0x8001011A RPC_E_NO_GOOD_SECURITY_PACKAGES in winerror.h
+description: No security packages are installed on this machine or the user is not logged on or there are no compatible security packages between the client and server.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8001011A",
+  "codeUrl": "/win32/winerror-h/rpc_e_no_good_security_packages/0x8001011a/",
+  "numericCode": -2147417830,
+  "define": "RPC_E_NO_GOOD_SECURITY_PACKAGES",
+  "defineUrl": "/win32/winerror-h/rpc_e_no_good_security_packages/",
+  "message": "No security packages are installed on this machine or the user is not logged on or there are no compatible security packages between the client and server.",
+  "remarks": null,
+  "aka": [
+    "-2147417830"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/rpc_e_no_good_security_packages/-2147417830/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

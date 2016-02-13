@@ -1,0 +1,28 @@
+---
+output: win32\wsmerror-h\error_wsman_new_session\0x803381ee\index.html.json
+
+title: 0x803381EE ERROR_WSMAN_NEW_SESSION in wsmerror.h
+description: The WinRM client cannot process the request because a WinRM session could not be created.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x803381EE",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_new_session/0x803381ee/",
+  "numericCode": -2144108050,
+  "define": "ERROR_WSMAN_NEW_SESSION",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_new_session/",
+  "message": "The WinRM client cannot process the request because a WinRM session could not be created.",
+  "remarks": null,
+  "aka": [
+    "-2144108050"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_new_session/-2144108050/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

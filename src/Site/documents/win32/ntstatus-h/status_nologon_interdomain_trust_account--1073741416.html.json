@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_nologon_interdomain_trust_account\-1073741416\index.html.json
+canonical: /win32/ntstatus-h/status_nologon_interdomain_trust_account/0xc0000198/
+title: -1073741416 STATUS_NOLOGON_INTERDOMAIN_TRUST_ACCOUNT in ntstatus.h
+description: The account used is an Interdomain Trust account. Use your global user account or local user account to access this server.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741416",
+  "codeUrl": "/win32/ntstatus-h/status_nologon_interdomain_trust_account/-1073741416/",
+  "numericCode": 0,
+  "define": "STATUS_NOLOGON_INTERDOMAIN_TRUST_ACCOUNT",
+  "defineUrl": "/win32/ntstatus-h/status_nologon_interdomain_trust_account/",
+  "message": "The account used is an Interdomain Trust account. Use your global user account or local user account to access this server.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000198",
+  "originalCodeUrl": "/win32/ntstatus-h/status_nologon_interdomain_trust_account/0xc0000198/"
+}

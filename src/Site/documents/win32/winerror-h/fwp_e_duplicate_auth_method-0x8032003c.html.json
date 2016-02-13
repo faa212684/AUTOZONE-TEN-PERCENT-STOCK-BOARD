@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\fwp_e_duplicate_auth_method\0x8032003c\index.html.json
+
+title: 0x8032003C FWP_E_DUPLICATE_AUTH_METHOD in winerror.h
+description: A policy cannot contain the same auth method more than once.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8032003C",
+  "codeUrl": "/win32/winerror-h/fwp_e_duplicate_auth_method/0x8032003c/",
+  "numericCode": -2144206788,
+  "define": "FWP_E_DUPLICATE_AUTH_METHOD",
+  "defineUrl": "/win32/winerror-h/fwp_e_duplicate_auth_method/",
+  "message": "A policy cannot contain the same auth method more than once.",
+  "remarks": null,
+  "aka": [
+    "-2144206788"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/fwp_e_duplicate_auth_method/-2144206788/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

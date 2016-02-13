@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\error_vid_mb_property_already_set_reset\0xc0370020\index.html.json
+
+title: 0xC0370020 ERROR_VID_MB_PROPERTY_ALREADY_SET_RESET in winerror.h
+description: Cannot set or reset the memory block property more than once for the virtualization infrastructure driver. Restarting the virtual machine may fix the problem. If the problem persists, try restarting the physical computer.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0xC0370020",
+  "codeUrl": "/win32/winerror-h/error_vid_mb_property_already_set_reset/0xc0370020/",
+  "numericCode": -1070137312,
+  "define": "ERROR_VID_MB_PROPERTY_ALREADY_SET_RESET",
+  "defineUrl": "/win32/winerror-h/error_vid_mb_property_already_set_reset/",
+  "message": "Cannot set or reset the memory block property more than once for the virtualization infrastructure driver. Restarting the virtual machine may fix the problem. If the problem persists, try restarting the physical computer.",
+  "remarks": null,
+  "aka": [
+    "-1070137312"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_vid_mb_property_already_set_reset/-1070137312/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

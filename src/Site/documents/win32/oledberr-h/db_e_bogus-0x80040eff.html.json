@@ -1,0 +1,29 @@
+---
+output: win32\oledberr-h\db_e_bogus\0x80040eff\index.html.json
+
+title: 0x80040EFF DB_E_BOGUS in oledberr.h
+description: Dummy error - need this error so that mc puts the above defines
+inside the FACILITY_WINDOWS guard, instead of leaving it empty
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "oledberr.h",
+  "sourceUrl": "/win32/oledberr-h/",
+  "code": "0x80040EFF",
+  "codeUrl": "/win32/oledberr-h/db_e_bogus/0x80040eff/",
+  "numericCode": -2147217665,
+  "define": "DB_E_BOGUS",
+  "defineUrl": "/win32/oledberr-h/db_e_bogus/",
+  "message": "Dummy error - need this error so that mc puts the above defines\r\ninside the FACILITY_WINDOWS guard, instead of leaving it empty",
+  "remarks": null,
+  "aka": [
+    "-2147217665"
+  ],
+  "akaUrl": [
+    "/win32/oledberr-h/db_e_bogus/-2147217665/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\nserror-h\ns_e_audiodevice_unexpected\0xc00d1b62\index.html.json
+
+title: 0xC00D1B62 NS_E_AUDIODEVICE_UNEXPECTED in nserror.h
+description: It is not possible to open the specified audio capture device because an unexpected error has occurred.%0
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "nserror.h",
+  "sourceUrl": "/win32/nserror-h/",
+  "code": "0xC00D1B62",
+  "codeUrl": "/win32/nserror-h/ns_e_audiodevice_unexpected/0xc00d1b62/",
+  "numericCode": -1072882846,
+  "define": "NS_E_AUDIODEVICE_UNEXPECTED",
+  "defineUrl": "/win32/nserror-h/ns_e_audiodevice_unexpected/",
+  "message": "It is not possible to open the specified audio capture device because an unexpected error has occurred.%0",
+  "remarks": null,
+  "aka": [
+    "-1072882846"
+  ],
+  "akaUrl": [
+    "/win32/nserror-h/ns_e_audiodevice_unexpected/-1072882846/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

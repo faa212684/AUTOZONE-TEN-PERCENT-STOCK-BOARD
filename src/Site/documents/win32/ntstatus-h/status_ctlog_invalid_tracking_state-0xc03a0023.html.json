@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_ctlog_invalid_tracking_state\0xc03a0023\index.html.json
+
+title: 0xC03A0023 STATUS_CTLOG_INVALID_TRACKING_STATE in ntstatus.h
+description: Change Tracking for the virtual disk is not in a valid state to perform this request.  Change tracking could be discontinued or already in the requested state.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC03A0023",
+  "codeUrl": "/win32/ntstatus-h/status_ctlog_invalid_tracking_state/0xc03a0023/",
+  "numericCode": -1069940701,
+  "define": "STATUS_CTLOG_INVALID_TRACKING_STATE",
+  "defineUrl": "/win32/ntstatus-h/status_ctlog_invalid_tracking_state/",
+  "message": "Change Tracking for the virtual disk is not in a valid state to perform this request.  Change tracking could be discontinued or already in the requested state.",
+  "remarks": null,
+  "aka": [
+    "-1069940701"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_ctlog_invalid_tracking_state/-1069940701/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

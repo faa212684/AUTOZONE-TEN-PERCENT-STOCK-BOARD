@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_quota_exceeded\0xc0000044\index.html.json
+
+title: 0xC0000044 STATUS_QUOTA_EXCEEDED in ntstatus.h
+description: Insufficient quota exists to complete the operation
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000044",
+  "codeUrl": "/win32/ntstatus-h/status_quota_exceeded/0xc0000044/",
+  "numericCode": -1073741756,
+  "define": "STATUS_QUOTA_EXCEEDED",
+  "defineUrl": "/win32/ntstatus-h/status_quota_exceeded/",
+  "message": "Insufficient quota exists to complete the operation",
+  "remarks": null,
+  "aka": [
+    "-1073741756"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_quota_exceeded/-1073741756/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

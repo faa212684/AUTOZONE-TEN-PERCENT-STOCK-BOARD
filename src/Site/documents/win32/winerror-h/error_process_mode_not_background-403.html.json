@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_process_mode_not_background\403\index.html.json
+
+title: 403 ERROR_PROCESS_MODE_NOT_BACKGROUND in winerror.h
+description: The process is not in background processing mode.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "403",
+  "codeUrl": "/win32/winerror-h/error_process_mode_not_background/403/",
+  "numericCode": 403,
+  "define": "ERROR_PROCESS_MODE_NOT_BACKGROUND",
+  "defineUrl": "/win32/winerror-h/error_process_mode_not_background/",
+  "message": "The process is not in background processing mode.",
+  "remarks": null,
+  "aka": [
+    "0x80070193",
+    "-2147024493"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_process_mode_not_background/0x80070193/",
+    "/win32/winerror-h/error_process_mode_not_background/-2147024493/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

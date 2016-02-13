@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_ds_ridmgr_disabled\0xc00002ba\index.html.json
+
+title: 0xC00002BA STATUS_DS_RIDMGR_DISABLED in ntstatus.h
+description: The directory service detected the subsystem that allocates relative identifiers is disabled. This can occur as a protective mechanism when the system determines a significant portion of relative identifiers (RIDs) have been exhausted. Please see http:go.microsoft.com/fwlink/?LinkId=228610 for recommended diagnostic steps and the procedure to re-enable account creation.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC00002BA",
+  "codeUrl": "/win32/ntstatus-h/status_ds_ridmgr_disabled/0xc00002ba/",
+  "numericCode": -1073741126,
+  "define": "STATUS_DS_RIDMGR_DISABLED",
+  "defineUrl": "/win32/ntstatus-h/status_ds_ridmgr_disabled/",
+  "message": "The directory service detected the subsystem that allocates relative identifiers is disabled. This can occur as a protective mechanism when the system determines a significant portion of relative identifiers (RIDs) have been exhausted. Please see http:go.microsoft.com/fwlink/?LinkId=228610 for recommended diagnostic steps and the procedure to re-enable account creation.",
+  "remarks": null,
+  "aka": [
+    "-1073741126"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_ds_ridmgr_disabled/-1073741126/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

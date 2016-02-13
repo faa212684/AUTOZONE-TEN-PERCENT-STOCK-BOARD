@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\nwsap_event_threadevent_fail\0xc000213e\index.html.json
+
+title: 0xC000213E NWSAP_EVENT_THREADEVENT_FAIL in netevent.h
+description: Error creating thread counting event.  The Sap Agent cannot continue.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC000213E",
+  "codeUrl": "/win32/netevent-h/nwsap_event_threadevent_fail/0xc000213e/",
+  "numericCode": -1073733314,
+  "define": "NWSAP_EVENT_THREADEVENT_FAIL",
+  "defineUrl": "/win32/netevent-h/nwsap_event_threadevent_fail/",
+  "message": "Error creating thread counting event.  The Sap Agent cannot continue.",
+  "remarks": null,
+  "aka": [
+    "-1073733314"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/nwsap_event_threadevent_fail/-1073733314/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

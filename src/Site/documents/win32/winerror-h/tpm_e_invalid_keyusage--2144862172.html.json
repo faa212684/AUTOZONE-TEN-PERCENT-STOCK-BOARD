@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\tpm_e_invalid_keyusage\-2144862172\index.html.json
+canonical: /win32/winerror-h/tpm_e_invalid_keyusage/0x80280024/
+title: -2144862172 TPM_E_INVALID_KEYUSAGE in winerror.h
+description: The usage of a key is not allowed.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2144862172",
+  "codeUrl": "/win32/winerror-h/tpm_e_invalid_keyusage/-2144862172/",
+  "numericCode": 0,
+  "define": "TPM_E_INVALID_KEYUSAGE",
+  "defineUrl": "/win32/winerror-h/tpm_e_invalid_keyusage/",
+  "message": "The usage of a key is not allowed.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80280024",
+  "originalCodeUrl": "/win32/winerror-h/tpm_e_invalid_keyusage/0x80280024/"
+}

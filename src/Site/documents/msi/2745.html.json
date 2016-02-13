@@ -1,0 +1,24 @@
+---
+output: msi\2745\index.html.json
+
+title: msi 2745
+description: Transform [2] invalid for package [3]. Expected language [4], found language [5].
+disqus: true
+---
+{
+  "area": "msi",
+  "areaUrl": "/msi/",
+  "source": null,
+  "sourceUrl": "/msi/",
+  "code": "2745",
+  "codeUrl": "/msi/2745/",
+  "numericCode": 2745,
+  "define": null,
+  "defineUrl": "/msi/",
+  "message": "Transform [2] invalid for package [3]. Expected language [4], found language [5].",
+  "remarks": "The language ID that is specified by the \r\n<a href=\"https://msdn.microsoft.com/en-us/library/aa370856(v=vs.85).aspx\"><strong xmlns=\"http://www.w3.org/1999/xhtml\">ProductLanguage</strong></a> property must be contained in the \r\n<a href=\"https://msdn.microsoft.com/en-us/library/aa372070(v=vs.85).aspx\"><strong xmlns=\"http://www.w3.org/1999/xhtml\">Template Summary</strong></a> property. Perform <a href=\"https://msdn.microsoft.com/en-us/library/aa370569(v=vs.85).aspx\">package validation</a> and check for <a href=\"https://msdn.microsoft.com/en-us/library/aa369034(v=vs.85).aspx\">ICE80</a>.",
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": null,
+  "originalCodeUrl": null
+}

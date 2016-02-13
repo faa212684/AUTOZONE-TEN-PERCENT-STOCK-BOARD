@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_monitor_invalid_descriptor_checksum\-1071841277\index.html.json
+canonical: /win32/ntstatus-h/status_monitor_invalid_descriptor_checksum/0xc01d0003/
+title: -1071841277 STATUS_MONITOR_INVALID_DESCRIPTOR_CHECKSUM in ntstatus.h
+description: Checksum of the obtained monitor descriptor is invalid.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071841277",
+  "codeUrl": "/win32/ntstatus-h/status_monitor_invalid_descriptor_checksum/-1071841277/",
+  "numericCode": 0,
+  "define": "STATUS_MONITOR_INVALID_DESCRIPTOR_CHECKSUM",
+  "defineUrl": "/win32/ntstatus-h/status_monitor_invalid_descriptor_checksum/",
+  "message": "Checksum of the obtained monitor descriptor is invalid.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC01D0003",
+  "originalCodeUrl": "/win32/ntstatus-h/status_monitor_invalid_descriptor_checksum/0xc01d0003/"
+}

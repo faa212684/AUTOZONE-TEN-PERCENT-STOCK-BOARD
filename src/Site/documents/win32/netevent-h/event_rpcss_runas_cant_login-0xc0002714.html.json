@@ -1,0 +1,29 @@
+---
+output: win32\netevent-h\event_rpcss_runas_cant_login\0xc0002714\index.html.json
+
+title: 0xC0002714 EVENT_RPCSS_RUNAS_CANT_LOGIN in netevent.h
+description: DCOM got error "%%%1" and was unable to logon %2\%3
+in order to run the server:%n%4
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC0002714",
+  "codeUrl": "/win32/netevent-h/event_rpcss_runas_cant_login/0xc0002714/",
+  "numericCode": -1073731820,
+  "define": "EVENT_RPCSS_RUNAS_CANT_LOGIN",
+  "defineUrl": "/win32/netevent-h/event_rpcss_runas_cant_login/",
+  "message": "DCOM got error \"%%%1\" and was unable to logon %2\\%3\r\nin order to run the server:%n%4",
+  "remarks": null,
+  "aka": [
+    "-1073731820"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_rpcss_runas_cant_login/-1073731820/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_net_write_fault\-1073741614\index.html.json
+canonical: /win32/ntstatus-h/status_net_write_fault/0xc00000d2/
+title: -1073741614 STATUS_NET_WRITE_FAULT in ntstatus.h
+description: A network data fault occurred.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741614",
+  "codeUrl": "/win32/ntstatus-h/status_net_write_fault/-1073741614/",
+  "numericCode": 0,
+  "define": "STATUS_NET_WRITE_FAULT",
+  "defineUrl": "/win32/ntstatus-h/status_net_write_fault/",
+  "message": "A network data fault occurred.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC00000D2",
+  "originalCodeUrl": "/win32/ntstatus-h/status_net_write_fault/0xc00000d2/"
+}

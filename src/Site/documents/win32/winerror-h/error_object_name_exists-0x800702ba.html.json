@@ -1,0 +1,25 @@
+---
+output: win32\winerror-h\error_object_name_exists\0x800702ba\index.html.json
+canonical: /win32/winerror-h/error_object_name_exists/698/
+title: 0x800702ba ERROR_OBJECT_NAME_EXISTS in winerror.h
+description: "{Object Exists}
+An attempt was made to create an object and the object name already existed."
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800702ba",
+  "codeUrl": "/win32/winerror-h/error_object_name_exists/0x800702ba/",
+  "numericCode": 0,
+  "define": "ERROR_OBJECT_NAME_EXISTS",
+  "defineUrl": "/win32/winerror-h/error_object_name_exists/",
+  "message": "{Object Exists}\r\nAn attempt was made to create an object and the object name already existed.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "698",
+  "originalCodeUrl": "/win32/winerror-h/error_object_name_exists/698/"
+}

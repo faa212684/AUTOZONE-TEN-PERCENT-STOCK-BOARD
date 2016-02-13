@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\xact_e_commitfailed\-2147168254\index.html.json
+canonical: /win32/winerror-h/xact_e_commitfailed/0x8004d002/
+title: -2147168254 XACT_E_COMMITFAILED in winerror.h
+description: The transaction failed to commit for an unknown reason. The transaction was aborted.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147168254",
+  "codeUrl": "/win32/winerror-h/xact_e_commitfailed/-2147168254/",
+  "numericCode": 0,
+  "define": "XACT_E_COMMITFAILED",
+  "defineUrl": "/win32/winerror-h/xact_e_commitfailed/",
+  "message": "The transaction failed to commit for an unknown reason. The transaction was aborted.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x8004D002",
+  "originalCodeUrl": "/win32/winerror-h/xact_e_commitfailed/0x8004d002/"
+}

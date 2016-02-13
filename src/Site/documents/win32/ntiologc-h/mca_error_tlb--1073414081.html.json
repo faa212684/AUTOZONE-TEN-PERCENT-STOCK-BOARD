@@ -1,0 +1,24 @@
+---
+output: win32\ntiologc-h\mca_error_tlb\-1073414081\index.html.json
+canonical: /win32/ntiologc-h/mca_error_tlb/0xc005003f/
+title: -1073414081 MCA_ERROR_TLB in ntiologc.h
+description: Machine Check Event reported is a fatal level %3 translation Buffer error reported to CPU %1. %2 additional error(s) are contained within the record.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntiologc.h",
+  "sourceUrl": "/win32/ntiologc-h/",
+  "code": "-1073414081",
+  "codeUrl": "/win32/ntiologc-h/mca_error_tlb/-1073414081/",
+  "numericCode": 0,
+  "define": "MCA_ERROR_TLB",
+  "defineUrl": "/win32/ntiologc-h/mca_error_tlb/",
+  "message": "Machine Check Event reported is a fatal level %3 translation Buffer error reported to CPU %1. %2 additional error(s) are contained within the record.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC005003F",
+  "originalCodeUrl": "/win32/ntiologc-h/mca_error_tlb/0xc005003f/"
+}

@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\sec_e_no_ip_addresses\0x80090335\index.html.json
+
+title: 0x80090335 SEC_E_NO_IP_ADDRESSES in winerror.h
+description: Unable to accomplish the requested task because the local machine does not have any IP addresses.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80090335",
+  "codeUrl": "/win32/winerror-h/sec_e_no_ip_addresses/0x80090335/",
+  "numericCode": -2146893003,
+  "define": "SEC_E_NO_IP_ADDRESSES",
+  "defineUrl": "/win32/winerror-h/sec_e_no_ip_addresses/",
+  "message": "Unable to accomplish the requested task because the local machine does not have any IP addresses.",
+  "remarks": null,
+  "aka": [
+    "-2146893003"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/sec_e_no_ip_addresses/-2146893003/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

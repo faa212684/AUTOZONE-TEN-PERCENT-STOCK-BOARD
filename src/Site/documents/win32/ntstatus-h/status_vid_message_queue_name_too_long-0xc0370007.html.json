@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_vid_message_queue_name_too_long\0xc0370007\index.html.json
+
+title: 0xC0370007 STATUS_VID_MESSAGE_QUEUE_NAME_TOO_LONG in ntstatus.h
+description: The message queue name of the virtualization infrastructure driver exceeds the maximum.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0370007",
+  "codeUrl": "/win32/ntstatus-h/status_vid_message_queue_name_too_long/0xc0370007/",
+  "numericCode": -1070137337,
+  "define": "STATUS_VID_MESSAGE_QUEUE_NAME_TOO_LONG",
+  "defineUrl": "/win32/ntstatus-h/status_vid_message_queue_name_too_long/",
+  "message": "The message queue name of the virtualization infrastructure driver exceeds the maximum.",
+  "remarks": null,
+  "aka": [
+    "-1070137337"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_vid_message_queue_name_too_long/-1070137337/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

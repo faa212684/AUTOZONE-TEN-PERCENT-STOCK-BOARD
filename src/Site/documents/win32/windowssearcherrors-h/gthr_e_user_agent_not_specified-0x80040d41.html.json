@@ -1,0 +1,28 @@
+---
+output: win32\windowssearcherrors-h\gthr_e_user_agent_not_specified\0x80040d41\index.html.json
+
+title: 0x80040D41 GTHR_E_USER_AGENT_NOT_SPECIFIED in WindowsSearchErrors.h
+description: The user agent string was not specified or contains invalid characters. Specify a user agent which is not empty and does not contain double quotation marks.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "0x80040D41",
+  "codeUrl": "/win32/windowssearcherrors-h/gthr_e_user_agent_not_specified/0x80040d41/",
+  "numericCode": -2147218111,
+  "define": "GTHR_E_USER_AGENT_NOT_SPECIFIED",
+  "defineUrl": "/win32/windowssearcherrors-h/gthr_e_user_agent_not_specified/",
+  "message": "The user agent string was not specified or contains invalid characters. Specify a user agent which is not empty and does not contain double quotation marks.",
+  "remarks": null,
+  "aka": [
+    "-2147218111"
+  ],
+  "akaUrl": [
+    "/win32/windowssearcherrors-h/gthr_e_user_agent_not_specified/-2147218111/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

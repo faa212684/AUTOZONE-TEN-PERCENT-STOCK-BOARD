@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_tm_initialization_failed\6706\index.html.json
+
+title: 6706 ERROR_TM_INITIALIZATION_FAILED in winerror.h
+description: The Transaction Manager was unable to be successfully initialized. Transacted operations are not supported.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "6706",
+  "codeUrl": "/win32/winerror-h/error_tm_initialization_failed/6706/",
+  "numericCode": 6706,
+  "define": "ERROR_TM_INITIALIZATION_FAILED",
+  "defineUrl": "/win32/winerror-h/error_tm_initialization_failed/",
+  "message": "The Transaction Manager was unable to be successfully initialized. Transacted operations are not supported.",
+  "remarks": null,
+  "aka": [
+    "0x80071a32",
+    "-2147018190"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_tm_initialization_failed/0x80071a32/",
+    "/win32/winerror-h/error_tm_initialization_failed/-2147018190/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_cluster_node_not_member\0xc013000e\index.html.json
+
+title: 0xC013000E STATUS_CLUSTER_NODE_NOT_MEMBER in ntstatus.h
+description: The cluster node is not a member of the cluster.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC013000E",
+  "codeUrl": "/win32/ntstatus-h/status_cluster_node_not_member/0xc013000e/",
+  "numericCode": -1072496626,
+  "define": "STATUS_CLUSTER_NODE_NOT_MEMBER",
+  "defineUrl": "/win32/ntstatus-h/status_cluster_node_not_member/",
+  "message": "The cluster node is not a member of the cluster.",
+  "remarks": null,
+  "aka": [
+    "-1072496626"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_cluster_node_not_member/-1072496626/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

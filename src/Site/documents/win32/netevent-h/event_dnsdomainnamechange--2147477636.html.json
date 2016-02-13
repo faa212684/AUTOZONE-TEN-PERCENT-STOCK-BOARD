@@ -1,0 +1,24 @@
+---
+output: win32\netevent-h\event_dnsdomainnamechange\-2147477636\index.html.json
+canonical: /win32/netevent-h/event_dnsdomainnamechange/0x8000177c/
+title: -2147477636 EVENT_DNSDomainNameChange in netevent.h
+description: The DNS domain assigned to this computer has been changed from %1 to %2.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "-2147477636",
+  "codeUrl": "/win32/netevent-h/event_dnsdomainnamechange/-2147477636/",
+  "numericCode": 0,
+  "define": "EVENT_DNSDomainNameChange",
+  "defineUrl": "/win32/netevent-h/event_dnsdomainnamechange/",
+  "message": "The DNS domain assigned to this computer has been changed from %1 to %2.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x8000177C",
+  "originalCodeUrl": "/win32/netevent-h/event_dnsdomainnamechange/0x8000177c/"
+}

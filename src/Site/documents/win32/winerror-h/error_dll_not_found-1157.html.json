@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_dll_not_found\1157\index.html.json
+
+title: 1157 ERROR_DLL_NOT_FOUND in winerror.h
+description: One of the library files needed to run this application cannot be found.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1157",
+  "codeUrl": "/win32/winerror-h/error_dll_not_found/1157/",
+  "numericCode": 1157,
+  "define": "ERROR_DLL_NOT_FOUND",
+  "defineUrl": "/win32/winerror-h/error_dll_not_found/",
+  "message": "One of the library files needed to run this application cannot be found.",
+  "remarks": null,
+  "aka": [
+    "0x80070485",
+    "-2147023739"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_dll_not_found/0x80070485/",
+    "/win32/winerror-h/error_dll_not_found/-2147023739/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

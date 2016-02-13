@@ -1,0 +1,28 @@
+---
+output: win32\mq-h\mq_error_multi_sort_keys\0xc00e008d\index.html.json
+
+title: 0xC00E008D MQ_ERROR_MULTI_SORT_KEYS in Mq.h
+description: The value of cCol in MQSORTSET cannot be greater than 1. Active Directory Domain Services supports only a single sort key.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "Mq.h",
+  "sourceUrl": "/win32/mq-h/",
+  "code": "0xC00E008D",
+  "codeUrl": "/win32/mq-h/mq_error_multi_sort_keys/0xc00e008d/",
+  "numericCode": -1072824179,
+  "define": "MQ_ERROR_MULTI_SORT_KEYS",
+  "defineUrl": "/win32/mq-h/mq_error_multi_sort_keys/",
+  "message": "The value of cCol in MQSORTSET cannot be greater than 1. Active Directory Domain Services supports only a single sort key.",
+  "remarks": null,
+  "aka": [
+    "-1072824179"
+  ],
+  "akaUrl": [
+    "/win32/mq-h/mq_error_multi_sort_keys/-1072824179/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

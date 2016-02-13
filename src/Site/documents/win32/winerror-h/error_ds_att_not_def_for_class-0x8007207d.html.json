@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_ds_att_not_def_for_class\0x8007207d\index.html.json
+canonical: /win32/winerror-h/error_ds_att_not_def_for_class/8317/
+title: 0x8007207d ERROR_DS_ATT_NOT_DEF_FOR_CLASS in winerror.h
+description: An attempt was made to modify an object to include an attribute that is not legal for its class.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007207d",
+  "codeUrl": "/win32/winerror-h/error_ds_att_not_def_for_class/0x8007207d/",
+  "numericCode": 0,
+  "define": "ERROR_DS_ATT_NOT_DEF_FOR_CLASS",
+  "defineUrl": "/win32/winerror-h/error_ds_att_not_def_for_class/",
+  "message": "An attempt was made to modify an object to include an attribute that is not legal for its class.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "8317",
+  "originalCodeUrl": "/win32/winerror-h/error_ds_att_not_def_for_class/8317/"
+}

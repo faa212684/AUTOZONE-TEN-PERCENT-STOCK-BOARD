@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\stg_e_incomplete\0x80030201\index.html.json
+
+title: 0x80030201 STG_E_INCOMPLETE in winerror.h
+description: The file download was aborted abnormally. The file is incomplete.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80030201",
+  "codeUrl": "/win32/winerror-h/stg_e_incomplete/0x80030201/",
+  "numericCode": -2147286527,
+  "define": "STG_E_INCOMPLETE",
+  "defineUrl": "/win32/winerror-h/stg_e_incomplete/",
+  "message": "The file download was aborted abnormally. The file is incomplete.",
+  "remarks": null,
+  "aka": [
+    "-2147286527"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/stg_e_incomplete/-2147286527/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

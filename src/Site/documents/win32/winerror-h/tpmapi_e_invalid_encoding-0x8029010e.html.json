@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\tpmapi_e_invalid_encoding\0x8029010e\index.html.json
+
+title: 0x8029010E TPMAPI_E_INVALID_ENCODING in winerror.h
+description: The encoding in the blob was not recognized.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8029010E",
+  "codeUrl": "/win32/winerror-h/tpmapi_e_invalid_encoding/0x8029010e/",
+  "numericCode": -2144796402,
+  "define": "TPMAPI_E_INVALID_ENCODING",
+  "defineUrl": "/win32/winerror-h/tpmapi_e_invalid_encoding/",
+  "message": "The encoding in the blob was not recognized.",
+  "remarks": null,
+  "aka": [
+    "-2144796402"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/tpmapi_e_invalid_encoding/-2144796402/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

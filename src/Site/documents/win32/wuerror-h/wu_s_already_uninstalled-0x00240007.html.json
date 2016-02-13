@@ -1,0 +1,28 @@
+---
+output: win32\wuerror-h\wu_s_already_uninstalled\0x00240007\index.html.json
+
+title: 0x00240007 WU_S_ALREADY_UNINSTALLED in wuerror.h
+description: The update to be removed is not installed on the system.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wuerror.h",
+  "sourceUrl": "/win32/wuerror-h/",
+  "code": "0x00240007",
+  "codeUrl": "/win32/wuerror-h/wu_s_already_uninstalled/0x00240007/",
+  "numericCode": 2359303,
+  "define": "WU_S_ALREADY_UNINSTALLED",
+  "defineUrl": "/win32/wuerror-h/wu_s_already_uninstalled/",
+  "message": "The update to be removed is not installed on the system.",
+  "remarks": null,
+  "aka": [
+    "2359303"
+  ],
+  "akaUrl": [
+    "/win32/wuerror-h/wu_s_already_uninstalled/2359303/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

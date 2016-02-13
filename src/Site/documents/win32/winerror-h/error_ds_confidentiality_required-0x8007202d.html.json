@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_ds_confidentiality_required\0x8007202d\index.html.json
+canonical: /win32/winerror-h/error_ds_confidentiality_required/8237/
+title: 0x8007202d ERROR_DS_CONFIDENTIALITY_REQUIRED in winerror.h
+description: This request requires a secure connection.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007202d",
+  "codeUrl": "/win32/winerror-h/error_ds_confidentiality_required/0x8007202d/",
+  "numericCode": 0,
+  "define": "ERROR_DS_CONFIDENTIALITY_REQUIRED",
+  "defineUrl": "/win32/winerror-h/error_ds_confidentiality_required/",
+  "message": "This request requires a secure connection.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "8237",
+  "originalCodeUrl": "/win32/winerror-h/error_ds_confidentiality_required/8237/"
+}

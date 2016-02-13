@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\fve_e_not_de_volume\-2144272169\index.html.json
+canonical: /win32/winerror-h/fve_e_not_de_volume/0x803100d7/
+title: -2144272169 FVE_E_NOT_DE_VOLUME in winerror.h
+description: This action isn't supported because this drive isn't automatically managed with device encryption.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2144272169",
+  "codeUrl": "/win32/winerror-h/fve_e_not_de_volume/-2144272169/",
+  "numericCode": 0,
+  "define": "FVE_E_NOT_DE_VOLUME",
+  "defineUrl": "/win32/winerror-h/fve_e_not_de_volume/",
+  "message": "This action isn't supported because this drive isn't automatically managed with device encryption.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x803100D7",
+  "originalCodeUrl": "/win32/winerror-h/fve_e_not_de_volume/0x803100d7/"
+}

@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ds_confidentiality_required\8237\index.html.json
+
+title: 8237 ERROR_DS_CONFIDENTIALITY_REQUIRED in winerror.h
+description: This request requires a secure connection.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "8237",
+  "codeUrl": "/win32/winerror-h/error_ds_confidentiality_required/8237/",
+  "numericCode": 8237,
+  "define": "ERROR_DS_CONFIDENTIALITY_REQUIRED",
+  "defineUrl": "/win32/winerror-h/error_ds_confidentiality_required/",
+  "message": "This request requires a secure connection.",
+  "remarks": null,
+  "aka": [
+    "0x8007202d",
+    "-2147016659"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ds_confidentiality_required/0x8007202d/",
+    "/win32/winerror-h/error_ds_confidentiality_required/-2147016659/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

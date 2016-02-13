@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_beginning_of_media\1102\index.html.json
+
+title: 1102 ERROR_BEGINNING_OF_MEDIA in winerror.h
+description: The beginning of the tape or a partition was encountered.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1102",
+  "codeUrl": "/win32/winerror-h/error_beginning_of_media/1102/",
+  "numericCode": 1102,
+  "define": "ERROR_BEGINNING_OF_MEDIA",
+  "defineUrl": "/win32/winerror-h/error_beginning_of_media/",
+  "message": "The beginning of the tape or a partition was encountered.",
+  "remarks": null,
+  "aka": [
+    "0x8007044e",
+    "-2147023794"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_beginning_of_media/0x8007044e/",
+    "/win32/winerror-h/error_beginning_of_media/-2147023794/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

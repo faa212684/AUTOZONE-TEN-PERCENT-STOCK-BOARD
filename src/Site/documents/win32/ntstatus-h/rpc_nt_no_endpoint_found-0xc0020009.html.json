@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\rpc_nt_no_endpoint_found\0xc0020009\index.html.json
+
+title: 0xC0020009 RPC_NT_NO_ENDPOINT_FOUND in ntstatus.h
+description: No endpoint was found.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0020009",
+  "codeUrl": "/win32/ntstatus-h/rpc_nt_no_endpoint_found/0xc0020009/",
+  "numericCode": -1073610743,
+  "define": "RPC_NT_NO_ENDPOINT_FOUND",
+  "defineUrl": "/win32/ntstatus-h/rpc_nt_no_endpoint_found/",
+  "message": "No endpoint was found.",
+  "remarks": null,
+  "aka": [
+    "-1073610743"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/rpc_nt_no_endpoint_found/-1073610743/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,33 @@
+---
+output: win32\netevent-h\event_frs_sysvol_ready\0x400034cc\index.html.json
+
+title: 0x400034CC EVENT_FRS_SYSVOL_READY in netevent.h
+description: The File Replication Service is no longer preventing the computer %1 from
+becoming a domain controller. The system volume has been successfully
+initialized and the Netlogon service has been notified that the system
+volume is now ready to be shared as SYSVOL.
+%n
+%nType "net share" to check for the SYSVOL share.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x400034CC",
+  "codeUrl": "/win32/netevent-h/event_frs_sysvol_ready/0x400034cc/",
+  "numericCode": 1073755340,
+  "define": "EVENT_FRS_SYSVOL_READY",
+  "defineUrl": "/win32/netevent-h/event_frs_sysvol_ready/",
+  "message": "The File Replication Service is no longer preventing the computer %1 from\r\nbecoming a domain controller. The system volume has been successfully\r\ninitialized and the Netlogon service has been notified that the system\r\nvolume is now ready to be shared as SYSVOL.\r\n%n\r\n%nType \"net share\" to check for the SYSVOL share.",
+  "remarks": null,
+  "aka": [
+    "1073755340"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_frs_sysvol_ready/1073755340/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

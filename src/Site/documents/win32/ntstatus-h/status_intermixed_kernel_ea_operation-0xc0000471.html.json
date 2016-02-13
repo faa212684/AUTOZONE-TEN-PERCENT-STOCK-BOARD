@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_intermixed_kernel_ea_operation\0xc0000471\index.html.json
+
+title: 0xC0000471 STATUS_INTERMIXED_KERNEL_EA_OPERATION in ntstatus.h
+description: An attempt was made to modify both a KERNEL and normal Extended Attribute (EA) in the same operation.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000471",
+  "codeUrl": "/win32/ntstatus-h/status_intermixed_kernel_ea_operation/0xc0000471/",
+  "numericCode": -1073740687,
+  "define": "STATUS_INTERMIXED_KERNEL_EA_OPERATION",
+  "defineUrl": "/win32/ntstatus-h/status_intermixed_kernel_ea_operation/",
+  "message": "An attempt was made to modify both a KERNEL and normal Extended Attribute (EA) in the same operation.",
+  "remarks": null,
+  "aka": [
+    "-1073740687"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_intermixed_kernel_ea_operation/-1073740687/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

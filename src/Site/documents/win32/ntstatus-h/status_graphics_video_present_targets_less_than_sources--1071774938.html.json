@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_graphics_video_present_targets_less_than_sources\-1071774938\index.html.json
+canonical: /win32/ntstatus-h/status_graphics_video_present_targets_less_than_sources/0xc01e0326/
+title: -1071774938 STATUS_GRAPHICS_VIDEO_PRESENT_TARGETS_LESS_THAN_SOURCES in ntstatus.h
+description: Number of video present targets must be greater than or equal to the number of video present sources.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071774938",
+  "codeUrl": "/win32/ntstatus-h/status_graphics_video_present_targets_less_than_sources/-1071774938/",
+  "numericCode": 0,
+  "define": "STATUS_GRAPHICS_VIDEO_PRESENT_TARGETS_LESS_THAN_SOURCES",
+  "defineUrl": "/win32/ntstatus-h/status_graphics_video_present_targets_less_than_sources/",
+  "message": "Number of video present targets must be greater than or equal to the number of video present sources.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC01E0326",
+  "originalCodeUrl": "/win32/ntstatus-h/status_graphics_video_present_targets_less_than_sources/0xc01e0326/"
+}

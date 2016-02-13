@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\wpn_e_cloud_service_unavailable\0x803e011b\index.html.json
+
+title: 0x803E011B WPN_E_CLOUD_SERVICE_UNAVAILABLE in winerror.h
+description: The notification platform is unable to connect to the cloud notification service.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x803E011B",
+  "codeUrl": "/win32/winerror-h/wpn_e_cloud_service_unavailable/0x803e011b/",
+  "numericCode": -2143420133,
+  "define": "WPN_E_CLOUD_SERVICE_UNAVAILABLE",
+  "defineUrl": "/win32/winerror-h/wpn_e_cloud_service_unavailable/",
+  "message": "The notification platform is unable to connect to the cloud notification service.",
+  "remarks": null,
+  "aka": [
+    "-2143420133"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/wpn_e_cloud_service_unavailable/-2143420133/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

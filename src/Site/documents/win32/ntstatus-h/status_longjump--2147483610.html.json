@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_longjump\-2147483610\index.html.json
+canonical: /win32/ntstatus-h/status_longjump/0x80000026/
+title: -2147483610 STATUS_LONGJUMP in ntstatus.h
+description: A long jump has been executed.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-2147483610",
+  "codeUrl": "/win32/ntstatus-h/status_longjump/-2147483610/",
+  "numericCode": 0,
+  "define": "STATUS_LONGJUMP",
+  "defineUrl": "/win32/ntstatus-h/status_longjump/",
+  "message": "A long jump has been executed.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80000026",
+  "originalCodeUrl": "/win32/ntstatus-h/status_longjump/0x80000026/"
+}

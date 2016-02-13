@@ -1,0 +1,25 @@
+---
+output: win32\vdserr-h\vds_s_iscsi_session_not_found_persistent_login_removed\272384\index.html.json
+canonical: /win32/vdserr-h/vds_s_iscsi_session_not_found_persistent_login_removed/0x00042800/
+title: 272384 VDS_S_ISCSI_SESSION_NOT_FOUND_PERSISTENT_LOGIN_REMOVED in vdserr.h
+description: No iSCSI sessions to the target were found, but the persistent login 
+setup to the target was removed.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "272384",
+  "codeUrl": "/win32/vdserr-h/vds_s_iscsi_session_not_found_persistent_login_removed/272384/",
+  "numericCode": 0,
+  "define": "VDS_S_ISCSI_SESSION_NOT_FOUND_PERSISTENT_LOGIN_REMOVED",
+  "defineUrl": "/win32/vdserr-h/vds_s_iscsi_session_not_found_persistent_login_removed/",
+  "message": "No iSCSI sessions to the target were found, but the persistent login \r\nsetup to the target was removed.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x00042800",
+  "originalCodeUrl": "/win32/vdserr-h/vds_s_iscsi_session_not_found_persistent_login_removed/0x00042800/"
+}

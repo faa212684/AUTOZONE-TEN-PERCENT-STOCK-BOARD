@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_message_retrieved\1073741870\index.html.json
+canonical: /win32/ntstatus-h/status_message_retrieved/0x4000002e/
+title: 1073741870 STATUS_MESSAGE_RETRIEVED in ntstatus.h
+description: The ALPC message being canceled has already been retrieved from the queue on the other side.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "1073741870",
+  "codeUrl": "/win32/ntstatus-h/status_message_retrieved/1073741870/",
+  "numericCode": 0,
+  "define": "STATUS_MESSAGE_RETRIEVED",
+  "defineUrl": "/win32/ntstatus-h/status_message_retrieved/",
+  "message": "The ALPC message being canceled has already been retrieved from the queue on the other side.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x4000002E",
+  "originalCodeUrl": "/win32/ntstatus-h/status_message_retrieved/0x4000002e/"
+}

@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\tpmapi_e_empty_tcg_log\0x8029011a\index.html.json
+
+title: 0x8029011A TPMAPI_E_EMPTY_TCG_LOG in winerror.h
+description: The TCG Event Log does not contain any data.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8029011A",
+  "codeUrl": "/win32/winerror-h/tpmapi_e_empty_tcg_log/0x8029011a/",
+  "numericCode": -2144796390,
+  "define": "TPMAPI_E_EMPTY_TCG_LOG",
+  "defineUrl": "/win32/winerror-h/tpmapi_e_empty_tcg_log/",
+  "message": "The TCG Event Log does not contain any data.",
+  "remarks": null,
+  "aka": [
+    "-2144796390"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/tpmapi_e_empty_tcg_log/-2144796390/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

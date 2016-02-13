@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\wininet_e_invalid_query_request\0x80072f7a\index.html.json
+
+title: 0x80072F7A WININET_E_INVALID_QUERY_REQUEST in winerror.h
+description: The request for a HTTP header is invalid
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80072F7A",
+  "codeUrl": "/win32/winerror-h/wininet_e_invalid_query_request/0x80072f7a/",
+  "numericCode": -2147012742,
+  "define": "WININET_E_INVALID_QUERY_REQUEST",
+  "defineUrl": "/win32/winerror-h/wininet_e_invalid_query_request/",
+  "message": "The request for a HTTP header is invalid",
+  "remarks": null,
+  "aka": [
+    "-2147012742"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/wininet_e_invalid_query_request/-2147012742/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

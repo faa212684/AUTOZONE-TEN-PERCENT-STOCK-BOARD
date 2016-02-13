@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\rpc_e_canttransmit_call\0x8001000a\index.html.json
+
+title: 0x8001000A RPC_E_CANTTRANSMIT_CALL in winerror.h
+description: The call was not transmitted properly; the message queue was full and was not emptied after yielding.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8001000A",
+  "codeUrl": "/win32/winerror-h/rpc_e_canttransmit_call/0x8001000a/",
+  "numericCode": -2147418102,
+  "define": "RPC_E_CANTTRANSMIT_CALL",
+  "defineUrl": "/win32/winerror-h/rpc_e_canttransmit_call/",
+  "message": "The call was not transmitted properly; the message queue was full and was not emptied after yielding.",
+  "remarks": null,
+  "aka": [
+    "-2147418102"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/rpc_e_canttransmit_call/-2147418102/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,29 @@
+---
+output: win32\ntstatus-h\status_thread_was_suspended\0x40000001\index.html.json
+
+title: 0x40000001 STATUS_THREAD_WAS_SUSPENDED in ntstatus.h
+description: "{Thread Suspended}
+A thread termination occurred while the thread was suspended. The thread was resumed, and termination proceeded."
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0x40000001",
+  "codeUrl": "/win32/ntstatus-h/status_thread_was_suspended/0x40000001/",
+  "numericCode": 1073741825,
+  "define": "STATUS_THREAD_WAS_SUSPENDED",
+  "defineUrl": "/win32/ntstatus-h/status_thread_was_suspended/",
+  "message": "{Thread Suspended}\r\nA thread termination occurred while the thread was suspended. The thread was resumed, and termination proceeded.",
+  "remarks": null,
+  "aka": [
+    "1073741825"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_thread_was_suspended/1073741825/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

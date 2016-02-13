@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_lpc_invalid_connection_usage\-1073740026\index.html.json
+canonical: /win32/ntstatus-h/status_lpc_invalid_connection_usage/0xc0000706/
+title: -1073740026 STATUS_LPC_INVALID_CONNECTION_USAGE in ntstatus.h
+description: The connection port is used in an invalid context.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073740026",
+  "codeUrl": "/win32/ntstatus-h/status_lpc_invalid_connection_usage/-1073740026/",
+  "numericCode": 0,
+  "define": "STATUS_LPC_INVALID_CONNECTION_USAGE",
+  "defineUrl": "/win32/ntstatus-h/status_lpc_invalid_connection_usage/",
+  "message": "The connection port is used in an invalid context.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000706",
+  "originalCodeUrl": "/win32/ntstatus-h/status_lpc_invalid_connection_usage/0xc0000706/"
+}

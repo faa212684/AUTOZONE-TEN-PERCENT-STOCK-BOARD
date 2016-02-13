@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_e_disk_dynamic\0x8004253c\index.html.json
+
+title: 0x8004253C VDS_E_DISK_DYNAMIC in vdserr.h
+description: The disk is already dynamic.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x8004253C",
+  "codeUrl": "/win32/vdserr-h/vds_e_disk_dynamic/0x8004253c/",
+  "numericCode": -2147211972,
+  "define": "VDS_E_DISK_DYNAMIC",
+  "defineUrl": "/win32/vdserr-h/vds_e_disk_dynamic/",
+  "message": "The disk is already dynamic.",
+  "remarks": null,
+  "aka": [
+    "-2147211972"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_disk_dynamic/-2147211972/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

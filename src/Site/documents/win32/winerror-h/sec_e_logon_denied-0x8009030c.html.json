@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\sec_e_logon_denied\0x8009030c\index.html.json
+
+title: 0x8009030C SEC_E_LOGON_DENIED in winerror.h
+description: The logon attempt failed
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8009030C",
+  "codeUrl": "/win32/winerror-h/sec_e_logon_denied/0x8009030c/",
+  "numericCode": -2146893044,
+  "define": "SEC_E_LOGON_DENIED",
+  "defineUrl": "/win32/winerror-h/sec_e_logon_denied/",
+  "message": "The logon attempt failed",
+  "remarks": null,
+  "aka": [
+    "-2146893044"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/sec_e_logon_denied/-2146893044/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

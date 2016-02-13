@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_tpm_delegate_admin\0xc029004d\index.html.json
+
+title: 0xC029004D STATUS_TPM_DELEGATE_ADMIN in ntstatus.h
+description: Delegation table management not enabled.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC029004D",
+  "codeUrl": "/win32/ntstatus-h/status_tpm_delegate_admin/0xc029004d/",
+  "numericCode": -1071054771,
+  "define": "STATUS_TPM_DELEGATE_ADMIN",
+  "defineUrl": "/win32/ntstatus-h/status_tpm_delegate_admin/",
+  "message": "Delegation table management not enabled.",
+  "remarks": null,
+  "aka": [
+    "-1071054771"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_tpm_delegate_admin/-1071054771/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

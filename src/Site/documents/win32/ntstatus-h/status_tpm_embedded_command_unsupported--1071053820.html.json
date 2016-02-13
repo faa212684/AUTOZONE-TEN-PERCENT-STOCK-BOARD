@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_tpm_embedded_command_unsupported\-1071053820\index.html.json
+canonical: /win32/ntstatus-h/status_tpm_embedded_command_unsupported/0xc0290404/
+title: -1071053820 STATUS_TPM_EMBEDDED_COMMAND_UNSUPPORTED in ntstatus.h
+description: The command within the transport is not supported.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071053820",
+  "codeUrl": "/win32/ntstatus-h/status_tpm_embedded_command_unsupported/-1071053820/",
+  "numericCode": 0,
+  "define": "STATUS_TPM_EMBEDDED_COMMAND_UNSUPPORTED",
+  "defineUrl": "/win32/ntstatus-h/status_tpm_embedded_command_unsupported/",
+  "message": "The command within the transport is not supported.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0290404",
+  "originalCodeUrl": "/win32/ntstatus-h/status_tpm_embedded_command_unsupported/0xc0290404/"
+}

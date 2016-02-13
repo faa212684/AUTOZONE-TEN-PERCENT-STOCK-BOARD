@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\sec_e_crossrealm_delegation_failure\0x80090357\index.html.json
+
+title: 0x80090357 SEC_E_CROSSREALM_DELEGATION_FAILURE in winerror.h
+description: An attempt was made by this server to make a Kerberos constrained delegation request for a target outside of the server's realm. This is not supported, and indicates a misconfiguration on this server's allowed to delegate to list. Please contact your administrator.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80090357",
+  "codeUrl": "/win32/winerror-h/sec_e_crossrealm_delegation_failure/0x80090357/",
+  "numericCode": -2146892969,
+  "define": "SEC_E_CROSSREALM_DELEGATION_FAILURE",
+  "defineUrl": "/win32/winerror-h/sec_e_crossrealm_delegation_failure/",
+  "message": "An attempt was made by this server to make a Kerberos constrained delegation request for a target outside of the server's realm. This is not supported, and indicates a misconfiguration on this server's allowed to delegate to list. Please contact your administrator.",
+  "remarks": null,
+  "aka": [
+    "-2146892969"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/sec_e_crossrealm_delegation_failure/-2146892969/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

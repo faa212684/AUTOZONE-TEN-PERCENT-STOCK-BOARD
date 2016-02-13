@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_cannot_impersonate\0xc000010d\index.html.json
+
+title: 0xC000010D STATUS_CANNOT_IMPERSONATE in ntstatus.h
+description: Indicates that an attempt has been made to impersonate via a named pipe that has not yet been read from.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000010D",
+  "codeUrl": "/win32/ntstatus-h/status_cannot_impersonate/0xc000010d/",
+  "numericCode": -1073741555,
+  "define": "STATUS_CANNOT_IMPERSONATE",
+  "defineUrl": "/win32/ntstatus-h/status_cannot_impersonate/",
+  "message": "Indicates that an attempt has been made to impersonate via a named pipe that has not yet been read from.",
+  "remarks": null,
+  "aka": [
+    "-1073741555"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_cannot_impersonate/-1073741555/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

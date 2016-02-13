@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_graphics_parameter_array_too_small\0xc01e05e6\index.html.json
+
+title: 0xC01E05E6 STATUS_GRAPHICS_PARAMETER_ARRAY_TOO_SMALL in ntstatus.h
+description: An array passed to the function cannot hold all of the data that the function must copy into the array.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC01E05E6",
+  "codeUrl": "/win32/ntstatus-h/status_graphics_parameter_array_too_small/0xc01e05e6/",
+  "numericCode": -1071774234,
+  "define": "STATUS_GRAPHICS_PARAMETER_ARRAY_TOO_SMALL",
+  "defineUrl": "/win32/ntstatus-h/status_graphics_parameter_array_too_small/",
+  "message": "An array passed to the function cannot hold all of the data that the function must copy into the array.",
+  "remarks": null,
+  "aka": [
+    "-1071774234"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_graphics_parameter_array_too_small/-1071774234/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_registry_corrupt\1015\index.html.json
+
+title: 1015 ERROR_REGISTRY_CORRUPT in winerror.h
+description: The registry is corrupted. The structure of one of the files containing registry data is corrupted, or the system's memory image of the file is corrupted, or the file could not be recovered because the alternate copy or log was absent or corrupted.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1015",
+  "codeUrl": "/win32/winerror-h/error_registry_corrupt/1015/",
+  "numericCode": 1015,
+  "define": "ERROR_REGISTRY_CORRUPT",
+  "defineUrl": "/win32/winerror-h/error_registry_corrupt/",
+  "message": "The registry is corrupted. The structure of one of the files containing registry data is corrupted, or the system's memory image of the file is corrupted, or the file could not be recovered because the alternate copy or log was absent or corrupted.",
+  "remarks": null,
+  "aka": [
+    "0x800703f7",
+    "-2147023881"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_registry_corrupt/0x800703f7/",
+    "/win32/winerror-h/error_registry_corrupt/-2147023881/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,29 @@
+---
+output: win32\netevent-h\event_ndis_adapter_check_error\0xc00013a7\index.html.json
+
+title: 0xC00013A7 EVENT_NDIS_ADAPTER_CHECK_ERROR in netevent.h
+description: %2 : The network adapter has detected an Adapter Check as a result of 
+an unrecoverable hardware or software error.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC00013A7",
+  "codeUrl": "/win32/netevent-h/event_ndis_adapter_check_error/0xc00013a7/",
+  "numericCode": -1073736793,
+  "define": "EVENT_NDIS_ADAPTER_CHECK_ERROR",
+  "defineUrl": "/win32/netevent-h/event_ndis_adapter_check_error/",
+  "message": "%2 : The network adapter has detected an Adapter Check as a result of \r\nan unrecoverable hardware or software error.",
+  "remarks": null,
+  "aka": [
+    "-1073736793"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_ndis_adapter_check_error/-1073736793/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

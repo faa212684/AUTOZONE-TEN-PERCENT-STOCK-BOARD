@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_vid_saved_state_unrecognized_item\-1070137304\index.html.json
+canonical: /win32/winerror-h/error_vid_saved_state_unrecognized_item/0xc0370028/
+title: -1070137304 ERROR_VID_SAVED_STATE_UNRECOGNIZED_ITEM in winerror.h
+description: Cannot restore this virtual machine because an item read from the saved state data is not recognized. Delete the saved state data and then try to start the virtual machine.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-1070137304",
+  "codeUrl": "/win32/winerror-h/error_vid_saved_state_unrecognized_item/-1070137304/",
+  "numericCode": 0,
+  "define": "ERROR_VID_SAVED_STATE_UNRECOGNIZED_ITEM",
+  "defineUrl": "/win32/winerror-h/error_vid_saved_state_unrecognized_item/",
+  "message": "Cannot restore this virtual machine because an item read from the saved state data is not recognized. Delete the saved state data and then try to start the virtual machine.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0370028",
+  "originalCodeUrl": "/win32/winerror-h/error_vid_saved_state_unrecognized_item/0xc0370028/"
+}

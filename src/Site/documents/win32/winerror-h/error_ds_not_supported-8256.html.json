@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ds_not_supported\8256\index.html.json
+
+title: 8256 ERROR_DS_NOT_SUPPORTED in winerror.h
+description: The specified method is not supported.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "8256",
+  "codeUrl": "/win32/winerror-h/error_ds_not_supported/8256/",
+  "numericCode": 8256,
+  "define": "ERROR_DS_NOT_SUPPORTED",
+  "defineUrl": "/win32/winerror-h/error_ds_not_supported/",
+  "message": "The specified method is not supported.",
+  "remarks": null,
+  "aka": [
+    "0x80072040",
+    "-2147016640"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ds_not_supported/0x80072040/",
+    "/win32/winerror-h/error_ds_not_supported/-2147016640/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

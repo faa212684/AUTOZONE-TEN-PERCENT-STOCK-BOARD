@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_seek\25\index.html.json
+
+title: 25 ERROR_SEEK in winerror.h
+description: The drive cannot locate a specific area or track on the disk.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "25",
+  "codeUrl": "/win32/winerror-h/error_seek/25/",
+  "numericCode": 25,
+  "define": "ERROR_SEEK",
+  "defineUrl": "/win32/winerror-h/error_seek/",
+  "message": "The drive cannot locate a specific area or track on the disk.",
+  "remarks": null,
+  "aka": [
+    "0x80070019",
+    "-2147024871"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_seek/0x80070019/",
+    "/win32/winerror-h/error_seek/-2147024871/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

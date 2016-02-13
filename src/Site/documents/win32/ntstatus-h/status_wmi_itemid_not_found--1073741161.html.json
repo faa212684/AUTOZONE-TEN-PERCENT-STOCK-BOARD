@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_wmi_itemid_not_found\-1073741161\index.html.json
+canonical: /win32/ntstatus-h/status_wmi_itemid_not_found/0xc0000297/
+title: -1073741161 STATUS_WMI_ITEMID_NOT_FOUND in ntstatus.h
+description: The data item id passed was not recognized as valid by a WMI data provider.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741161",
+  "codeUrl": "/win32/ntstatus-h/status_wmi_itemid_not_found/-1073741161/",
+  "numericCode": 0,
+  "define": "STATUS_WMI_ITEMID_NOT_FOUND",
+  "defineUrl": "/win32/ntstatus-h/status_wmi_itemid_not_found/",
+  "message": "The data item id passed was not recognized as valid by a WMI data provider.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000297",
+  "originalCodeUrl": "/win32/ntstatus-h/status_wmi_itemid_not_found/0xc0000297/"
+}

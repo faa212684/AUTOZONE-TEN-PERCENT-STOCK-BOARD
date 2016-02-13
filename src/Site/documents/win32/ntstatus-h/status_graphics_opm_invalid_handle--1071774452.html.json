@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_graphics_opm_invalid_handle\-1071774452\index.html.json
+canonical: /win32/ntstatus-h/status_graphics_opm_invalid_handle/0xc01e050c/
+title: -1071774452 STATUS_GRAPHICS_OPM_INVALID_HANDLE in ntstatus.h
+description: The function failed because the caller passed in an invalid OPM user mode handle.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071774452",
+  "codeUrl": "/win32/ntstatus-h/status_graphics_opm_invalid_handle/-1071774452/",
+  "numericCode": 0,
+  "define": "STATUS_GRAPHICS_OPM_INVALID_HANDLE",
+  "defineUrl": "/win32/ntstatus-h/status_graphics_opm_invalid_handle/",
+  "message": "The function failed because the caller passed in an invalid OPM user mode handle.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC01E050C",
+  "originalCodeUrl": "/win32/ntstatus-h/status_graphics_opm_invalid_handle/0xc01e050c/"
+}

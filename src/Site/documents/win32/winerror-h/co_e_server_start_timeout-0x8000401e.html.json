@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\co_e_server_start_timeout\0x8000401e\index.html.json
+
+title: 0x8000401E CO_E_SERVER_START_TIMEOUT in winerror.h
+description: The server did not respond after being launched.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8000401E",
+  "codeUrl": "/win32/winerror-h/co_e_server_start_timeout/0x8000401e/",
+  "numericCode": -2147467234,
+  "define": "CO_E_SERVER_START_TIMEOUT",
+  "defineUrl": "/win32/winerror-h/co_e_server_start_timeout/",
+  "message": "The server did not respond after being launched.",
+  "remarks": null,
+  "aka": [
+    "-2147467234"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/co_e_server_start_timeout/-2147467234/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

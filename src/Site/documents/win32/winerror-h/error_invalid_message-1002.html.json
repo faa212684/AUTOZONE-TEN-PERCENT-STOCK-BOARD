@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_invalid_message\1002\index.html.json
+
+title: 1002 ERROR_INVALID_MESSAGE in winerror.h
+description: The window cannot act on the sent message.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1002",
+  "codeUrl": "/win32/winerror-h/error_invalid_message/1002/",
+  "numericCode": 1002,
+  "define": "ERROR_INVALID_MESSAGE",
+  "defineUrl": "/win32/winerror-h/error_invalid_message/",
+  "message": "The window cannot act on the sent message.",
+  "remarks": null,
+  "aka": [
+    "0x800703ea",
+    "-2147023894"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_invalid_message/0x800703ea/",
+    "/win32/winerror-h/error_invalid_message/-2147023894/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

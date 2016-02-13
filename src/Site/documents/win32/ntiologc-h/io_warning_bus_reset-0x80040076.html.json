@@ -1,0 +1,28 @@
+---
+output: win32\ntiologc-h\io_warning_bus_reset\0x80040076\index.html.json
+
+title: 0x80040076 IO_WARNING_BUS_RESET in ntiologc.h
+description: The driver for device %1 performed a bus reset upon request.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntiologc.h",
+  "sourceUrl": "/win32/ntiologc-h/",
+  "code": "0x80040076",
+  "codeUrl": "/win32/ntiologc-h/io_warning_bus_reset/0x80040076/",
+  "numericCode": -2147221386,
+  "define": "IO_WARNING_BUS_RESET",
+  "defineUrl": "/win32/ntiologc-h/io_warning_bus_reset/",
+  "message": "The driver for device %1 performed a bus reset upon request.",
+  "remarks": null,
+  "aka": [
+    "-2147221386"
+  ],
+  "akaUrl": [
+    "/win32/ntiologc-h/io_warning_bus_reset/-2147221386/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

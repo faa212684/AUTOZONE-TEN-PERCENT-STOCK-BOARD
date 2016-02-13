@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_unable_to_move_replacement_2\1177\index.html.json
+
+title: 1177 ERROR_UNABLE_TO_MOVE_REPLACEMENT_2 in winerror.h
+description: Unable to move the replacement file to the file to be replaced. The file to be replaced has been renamed using the backup name.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1177",
+  "codeUrl": "/win32/winerror-h/error_unable_to_move_replacement_2/1177/",
+  "numericCode": 1177,
+  "define": "ERROR_UNABLE_TO_MOVE_REPLACEMENT_2",
+  "defineUrl": "/win32/winerror-h/error_unable_to_move_replacement_2/",
+  "message": "Unable to move the replacement file to the file to be replaced. The file to be replaced has been renamed using the backup name.",
+  "remarks": null,
+  "aka": [
+    "0x80070499",
+    "-2147023719"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_unable_to_move_replacement_2/0x80070499/",
+    "/win32/winerror-h/error_unable_to_move_replacement_2/-2147023719/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

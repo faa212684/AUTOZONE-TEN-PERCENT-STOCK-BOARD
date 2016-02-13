@@ -1,0 +1,28 @@
+---
+output: win32\winbio_err-h\winbio_e_auto_logon_disabled\0x80098043\index.html.json
+
+title: 0x80098043 WINBIO_E_AUTO_LOGON_DISABLED in winbio_err.h
+description: System policy settings have disabled pre-boot auto-logon using biometrics.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winbio_err.h",
+  "sourceUrl": "/win32/winbio_err-h/",
+  "code": "0x80098043",
+  "codeUrl": "/win32/winbio_err-h/winbio_e_auto_logon_disabled/0x80098043/",
+  "numericCode": -2146860989,
+  "define": "WINBIO_E_AUTO_LOGON_DISABLED",
+  "defineUrl": "/win32/winbio_err-h/winbio_e_auto_logon_disabled/",
+  "message": "System policy settings have disabled pre-boot auto-logon using biometrics.",
+  "remarks": null,
+  "aka": [
+    "-2146860989"
+  ],
+  "akaUrl": [
+    "/win32/winbio_err-h/winbio_e_auto_logon_disabled/-2146860989/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

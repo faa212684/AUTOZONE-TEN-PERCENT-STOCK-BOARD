@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ipsec_ike_invalid_cookie\13846\index.html.json
+
+title: 13846 ERROR_IPSEC_IKE_INVALID_COOKIE in winerror.h
+description: Invalid cookie received.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "13846",
+  "codeUrl": "/win32/winerror-h/error_ipsec_ike_invalid_cookie/13846/",
+  "numericCode": 13846,
+  "define": "ERROR_IPSEC_IKE_INVALID_COOKIE",
+  "defineUrl": "/win32/winerror-h/error_ipsec_ike_invalid_cookie/",
+  "message": "Invalid cookie received.",
+  "remarks": null,
+  "aka": [
+    "0x80073616",
+    "-2147011050"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ipsec_ike_invalid_cookie/0x80073616/",
+    "/win32/winerror-h/error_ipsec_ike_invalid_cookie/-2147011050/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

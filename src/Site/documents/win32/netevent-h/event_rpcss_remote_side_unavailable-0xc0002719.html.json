@@ -1,0 +1,29 @@
+---
+output: win32\netevent-h\event_rpcss_remote_side_unavailable\0xc0002719\index.html.json
+
+title: 0xC0002719 EVENT_RPCSS_REMOTE_SIDE_UNAVAILABLE in netevent.h
+description: DCOM was unable to communicate with the computer %1 using any of the configured
+protocols.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC0002719",
+  "codeUrl": "/win32/netevent-h/event_rpcss_remote_side_unavailable/0xc0002719/",
+  "numericCode": -1073731815,
+  "define": "EVENT_RPCSS_REMOTE_SIDE_UNAVAILABLE",
+  "defineUrl": "/win32/netevent-h/event_rpcss_remote_side_unavailable/",
+  "message": "DCOM was unable to communicate with the computer %1 using any of the configured\r\nprotocols.",
+  "remarks": null,
+  "aka": [
+    "-1073731815"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_rpcss_remote_side_unavailable/-1073731815/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

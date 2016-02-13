@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_ipsec_bad_spi\0xc0360001\index.html.json
+
+title: 0xC0360001 STATUS_IPSEC_BAD_SPI in ntstatus.h
+description: The SPI in the packet does not match a valid IPsec SA.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0360001",
+  "codeUrl": "/win32/ntstatus-h/status_ipsec_bad_spi/0xc0360001/",
+  "numericCode": -1070202879,
+  "define": "STATUS_IPSEC_BAD_SPI",
+  "defineUrl": "/win32/ntstatus-h/status_ipsec_bad_spi/",
+  "message": "The SPI in the packet does not match a valid IPsec SA.",
+  "remarks": null,
+  "aka": [
+    "-1070202879"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_ipsec_bad_spi/-1070202879/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

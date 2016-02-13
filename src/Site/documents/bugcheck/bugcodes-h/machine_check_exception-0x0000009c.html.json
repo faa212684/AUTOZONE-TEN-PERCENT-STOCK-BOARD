@@ -1,0 +1,28 @@
+---
+output: bugcheck\bugcodes-h\machine_check_exception\0x0000009c\index.html.json
+
+title: 0x0000009C MACHINE_CHECK_EXCEPTION in bugcodes.h
+description: MACHINE_CHECK_EXCEPTION
+disqus: true
+---
+{
+  "area": "bugcheck",
+  "areaUrl": "/bugcheck/",
+  "source": "bugcodes.h",
+  "sourceUrl": "/bugcheck/bugcodes-h/",
+  "code": "0x0000009C",
+  "codeUrl": "/bugcheck/bugcodes-h/machine_check_exception/0x0000009c/",
+  "numericCode": 156,
+  "define": "MACHINE_CHECK_EXCEPTION",
+  "defineUrl": "/bugcheck/bugcodes-h/machine_check_exception/",
+  "message": "MACHINE_CHECK_EXCEPTION",
+  "remarks": null,
+  "aka": [
+    "156"
+  ],
+  "akaUrl": [
+    "/bugcheck/bugcodes-h/machine_check_exception/156/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

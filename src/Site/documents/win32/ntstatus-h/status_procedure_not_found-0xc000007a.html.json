@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_procedure_not_found\0xc000007a\index.html.json
+
+title: 0xC000007A STATUS_PROCEDURE_NOT_FOUND in ntstatus.h
+description: Indicates the specified procedure address cannot be found in the DLL.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000007A",
+  "codeUrl": "/win32/ntstatus-h/status_procedure_not_found/0xc000007a/",
+  "numericCode": -1073741702,
+  "define": "STATUS_PROCEDURE_NOT_FOUND",
+  "defineUrl": "/win32/ntstatus-h/status_procedure_not_found/",
+  "message": "Indicates the specified procedure address cannot be found in the DLL.",
+  "remarks": null,
+  "aka": [
+    "-1073741702"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_procedure_not_found/-1073741702/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\ws_e_invalid_operation\0x803d0003\index.html.json
+
+title: 0x803D0003 WS_E_INVALID_OPERATION in winerror.h
+description: The operation is not allowed due to the current state of the object.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x803D0003",
+  "codeUrl": "/win32/winerror-h/ws_e_invalid_operation/0x803d0003/",
+  "numericCode": -2143485949,
+  "define": "WS_E_INVALID_OPERATION",
+  "defineUrl": "/win32/winerror-h/ws_e_invalid_operation/",
+  "message": "The operation is not allowed due to the current state of the object.",
+  "remarks": null,
+  "aka": [
+    "-2143485949"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/ws_e_invalid_operation/-2143485949/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

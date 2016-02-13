@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\rpc_x_ss_char_trans_open_fail\1773\index.html.json
+
+title: 1773 RPC_X_SS_CHAR_TRANS_OPEN_FAIL in winerror.h
+description: Unable to open the character translation table file.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1773",
+  "codeUrl": "/win32/winerror-h/rpc_x_ss_char_trans_open_fail/1773/",
+  "numericCode": 1773,
+  "define": "RPC_X_SS_CHAR_TRANS_OPEN_FAIL",
+  "defineUrl": "/win32/winerror-h/rpc_x_ss_char_trans_open_fail/",
+  "message": "Unable to open the character translation table file.",
+  "remarks": null,
+  "aka": [
+    "0x800706ed",
+    "-2147023123"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/rpc_x_ss_char_trans_open_fail/0x800706ed/",
+    "/win32/winerror-h/rpc_x_ss_char_trans_open_fail/-2147023123/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\dxgi_status_no_desktop_access\0x087a0005\index.html.json
+
+title: 0x087A0005 DXGI_STATUS_NO_DESKTOP_ACCESS in winerror.h
+description: The Present operation was not visible because the Windows session has switched to another desktop (for example, ctrl-alt-del).
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x087A0005",
+  "codeUrl": "/win32/winerror-h/dxgi_status_no_desktop_access/0x087a0005/",
+  "numericCode": 142213125,
+  "define": "DXGI_STATUS_NO_DESKTOP_ACCESS",
+  "defineUrl": "/win32/winerror-h/dxgi_status_no_desktop_access/",
+  "message": "The Present operation was not visible because the Windows session has switched to another desktop (for example, ctrl-alt-del).",
+  "remarks": null,
+  "aka": [
+    "142213125"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/dxgi_status_no_desktop_access/142213125/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,30 @@
+---
+output: win32\wsmerror-h\error_wsman_shell_invalid_desired_streams\0x8033818d\index.html.json
+
+title: 0x8033818D ERROR_WSMAN_SHELL_INVALID_DESIRED_STREAMS in wsmerror.h
+description: The WinRM Shell client cannot process the request. The stream or list of streams passed to the WSManReceiveShellOutput function is not valid.
+The desired stream names should be specified as part of the output streams during shell creation using WSManCreateShell function. 
+Change the request including valid desired streams and try again.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x8033818D",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_shell_invalid_desired_streams/0x8033818d/",
+  "numericCode": -2144108147,
+  "define": "ERROR_WSMAN_SHELL_INVALID_DESIRED_STREAMS",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_shell_invalid_desired_streams/",
+  "message": "The WinRM Shell client cannot process the request. The stream or list of streams passed to the WSManReceiveShellOutput function is not valid.\r\nThe desired stream names should be specified as part of the output streams during shell creation using WSManCreateShell function. \r\nChange the request including valid desired streams and try again.",
+  "remarks": null,
+  "aka": [
+    "-2144108147"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_shell_invalid_desired_streams/-2144108147/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

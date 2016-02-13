@@ -1,0 +1,30 @@
+---
+output: win32\wsmerror-h\error_wsman_unsupported_timeout\0x8033800c\index.html.json
+
+title: 0x8033800C ERROR_WSMAN_UNSUPPORTED_TIMEOUT in wsmerror.h
+description: The WS-Management service does not support the specified timeout.
+The value specified is smaller than the minimum allowed value for this setting.
+Change the timeout value and try the request again.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x8033800C",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_unsupported_timeout/0x8033800c/",
+  "numericCode": -2144108532,
+  "define": "ERROR_WSMAN_UNSUPPORTED_TIMEOUT",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_unsupported_timeout/",
+  "message": "The WS-Management service does not support the specified timeout.\r\nThe value specified is smaller than the minimum allowed value for this setting.\r\nChange the timeout value and try the request again.",
+  "remarks": null,
+  "aka": [
+    "-2144108532"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_unsupported_timeout/-2144108532/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

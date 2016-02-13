@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\dbg_terminate_thread\1073807363\index.html.json
+canonical: /win32/ntstatus-h/dbg_terminate_thread/0x40010003/
+title: 1073807363 DBG_TERMINATE_THREAD in ntstatus.h
+description: Debugger terminated thread.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "1073807363",
+  "codeUrl": "/win32/ntstatus-h/dbg_terminate_thread/1073807363/",
+  "numericCode": 0,
+  "define": "DBG_TERMINATE_THREAD",
+  "defineUrl": "/win32/ntstatus-h/dbg_terminate_thread/",
+  "message": "Debugger terminated thread.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x40010003",
+  "originalCodeUrl": "/win32/ntstatus-h/dbg_terminate_thread/0x40010003/"
+}

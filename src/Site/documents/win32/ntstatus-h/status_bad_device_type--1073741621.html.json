@@ -1,0 +1,25 @@
+---
+output: win32\ntstatus-h\status_bad_device_type\-1073741621\index.html.json
+canonical: /win32/ntstatus-h/status_bad_device_type/0xc00000cb/
+title: -1073741621 STATUS_BAD_DEVICE_TYPE in ntstatus.h
+description: "{Incorrect Network Resource Type}
+The specified device type (LPT, for example) conflicts with the actual device type on the remote resource."
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741621",
+  "codeUrl": "/win32/ntstatus-h/status_bad_device_type/-1073741621/",
+  "numericCode": 0,
+  "define": "STATUS_BAD_DEVICE_TYPE",
+  "defineUrl": "/win32/ntstatus-h/status_bad_device_type/",
+  "message": "{Incorrect Network Resource Type}\r\nThe specified device type (LPT, for example) conflicts with the actual device type on the remote resource.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC00000CB",
+  "originalCodeUrl": "/win32/ntstatus-h/status_bad_device_type/0xc00000cb/"
+}

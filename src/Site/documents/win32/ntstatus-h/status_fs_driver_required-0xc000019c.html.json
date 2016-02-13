@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_fs_driver_required\0xc000019c\index.html.json
+
+title: 0xC000019C STATUS_FS_DRIVER_REQUIRED in ntstatus.h
+description: A volume has been accessed for which a file system driver is required that has not yet been loaded.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000019C",
+  "codeUrl": "/win32/ntstatus-h/status_fs_driver_required/0xc000019c/",
+  "numericCode": -1073741412,
+  "define": "STATUS_FS_DRIVER_REQUIRED",
+  "defineUrl": "/win32/ntstatus-h/status_fs_driver_required/",
+  "message": "A volume has been accessed for which a file system driver is required that has not yet been loaded.",
+  "remarks": null,
+  "aka": [
+    "-1073741412"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_fs_driver_required/-1073741412/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

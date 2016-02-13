@@ -1,0 +1,24 @@
+---
+output: win32\windowssearcherrors-h\gthr_e_filter_invalid_message\-2147218158\index.html.json
+canonical: /win32/windowssearcherrors-h/gthr_e_filter_invalid_message/0x80040d12/
+title: -2147218158 GTHR_E_FILTER_INVALID_MESSAGE in WindowsSearchErrors.h
+description: An unexpected message was received from the filtering process. The address will be retried, but if this occurs frequently, your system is low on resources. Free some system resources, or restart the update when resources are available.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "-2147218158",
+  "codeUrl": "/win32/windowssearcherrors-h/gthr_e_filter_invalid_message/-2147218158/",
+  "numericCode": 0,
+  "define": "GTHR_E_FILTER_INVALID_MESSAGE",
+  "defineUrl": "/win32/windowssearcherrors-h/gthr_e_filter_invalid_message/",
+  "message": "An unexpected message was received from the filtering process. The address will be retried, but if this occurs frequently, your system is low on resources. Free some system resources, or restart the update when resources are available.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80040D12",
+  "originalCodeUrl": "/win32/windowssearcherrors-h/gthr_e_filter_invalid_message/0x80040d12/"
+}

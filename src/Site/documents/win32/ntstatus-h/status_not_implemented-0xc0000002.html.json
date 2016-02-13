@@ -1,0 +1,29 @@
+---
+output: win32\ntstatus-h\status_not_implemented\0xc0000002\index.html.json
+
+title: 0xC0000002 STATUS_NOT_IMPLEMENTED in ntstatus.h
+description: "{Not Implemented}
+The requested operation is not implemented."
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000002",
+  "codeUrl": "/win32/ntstatus-h/status_not_implemented/0xc0000002/",
+  "numericCode": -1073741822,
+  "define": "STATUS_NOT_IMPLEMENTED",
+  "defineUrl": "/win32/ntstatus-h/status_not_implemented/",
+  "message": "{Not Implemented}\r\nThe requested operation is not implemented.",
+  "remarks": null,
+  "aka": [
+    "-1073741822"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_not_implemented/-1073741822/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

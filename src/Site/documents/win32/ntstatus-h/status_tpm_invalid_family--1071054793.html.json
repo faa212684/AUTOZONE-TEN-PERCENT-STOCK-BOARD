@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_tpm_invalid_family\-1071054793\index.html.json
+canonical: /win32/ntstatus-h/status_tpm_invalid_family/0xc0290037/
+title: -1071054793 STATUS_TPM_INVALID_FAMILY in ntstatus.h
+description: The command is attempting to use an invalid family ID.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071054793",
+  "codeUrl": "/win32/ntstatus-h/status_tpm_invalid_family/-1071054793/",
+  "numericCode": 0,
+  "define": "STATUS_TPM_INVALID_FAMILY",
+  "defineUrl": "/win32/ntstatus-h/status_tpm_invalid_family/",
+  "message": "The command is attempting to use an invalid family ID.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0290037",
+  "originalCodeUrl": "/win32/ntstatus-h/status_tpm_invalid_family/0xc0290037/"
+}

@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\sec_e_invalid_parameter\0x8009035d\index.html.json
+
+title: 0x8009035D SEC_E_INVALID_PARAMETER in winerror.h
+description: One or more of the parameters passed to the function was invalid.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8009035D",
+  "codeUrl": "/win32/winerror-h/sec_e_invalid_parameter/0x8009035d/",
+  "numericCode": -2146892963,
+  "define": "SEC_E_INVALID_PARAMETER",
+  "defineUrl": "/win32/winerror-h/sec_e_invalid_parameter/",
+  "message": "One or more of the parameters passed to the function was invalid.",
+  "remarks": null,
+  "aka": [
+    "-2146892963"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/sec_e_invalid_parameter/-2146892963/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

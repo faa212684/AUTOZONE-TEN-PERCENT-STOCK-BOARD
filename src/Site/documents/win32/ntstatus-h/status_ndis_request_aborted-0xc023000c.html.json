@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_ndis_request_aborted\0xc023000c\index.html.json
+
+title: 0xC023000C STATUS_NDIS_REQUEST_ABORTED in ntstatus.h
+description: Netowork interface aborted the request.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC023000C",
+  "codeUrl": "/win32/ntstatus-h/status_ndis_request_aborted/0xc023000c/",
+  "numericCode": -1071448052,
+  "define": "STATUS_NDIS_REQUEST_ABORTED",
+  "defineUrl": "/win32/ntstatus-h/status_ndis_request_aborted/",
+  "message": "Netowork interface aborted the request.",
+  "remarks": null,
+  "aka": [
+    "-1071448052"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_ndis_request_aborted/-1071448052/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

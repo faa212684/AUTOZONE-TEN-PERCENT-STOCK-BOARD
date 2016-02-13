@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_invalid_spi_value\0x8007059f\index.html.json
+canonical: /win32/winerror-h/error_invalid_spi_value/1439/
+title: 0x8007059f ERROR_INVALID_SPI_VALUE in winerror.h
+description: Invalid system-wide (SPI_*) parameter.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007059f",
+  "codeUrl": "/win32/winerror-h/error_invalid_spi_value/0x8007059f/",
+  "numericCode": 0,
+  "define": "ERROR_INVALID_SPI_VALUE",
+  "defineUrl": "/win32/winerror-h/error_invalid_spi_value/",
+  "message": "Invalid system-wide (SPI_*) parameter.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "1439",
+  "originalCodeUrl": "/win32/winerror-h/error_invalid_spi_value/1439/"
+}

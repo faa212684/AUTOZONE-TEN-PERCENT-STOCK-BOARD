@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_ds_universal_cant_have_local_member\0xc00002d9\index.html.json
+
+title: 0xC00002D9 STATUS_DS_UNIVERSAL_CANT_HAVE_LOCAL_MEMBER in ntstatus.h
+description: A universal group cannot have a local group as a member.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC00002D9",
+  "codeUrl": "/win32/ntstatus-h/status_ds_universal_cant_have_local_member/0xc00002d9/",
+  "numericCode": -1073741095,
+  "define": "STATUS_DS_UNIVERSAL_CANT_HAVE_LOCAL_MEMBER",
+  "defineUrl": "/win32/ntstatus-h/status_ds_universal_cant_have_local_member/",
+  "message": "A universal group cannot have a local group as a member.",
+  "remarks": null,
+  "aka": [
+    "-1073741095"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_ds_universal_cant_have_local_member/-1073741095/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

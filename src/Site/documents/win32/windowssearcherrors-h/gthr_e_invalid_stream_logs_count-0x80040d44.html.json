@@ -1,0 +1,28 @@
+---
+output: win32\windowssearcherrors-h\gthr_e_invalid_stream_logs_count\0x80040d44\index.html.json
+
+title: 0x80040D44 GTHR_E_INVALID_STREAM_LOGS_COUNT in WindowsSearchErrors.h
+description: The specified number of logs to keep is invalid. Set the number of logs to be greater than zero.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "0x80040D44",
+  "codeUrl": "/win32/windowssearcherrors-h/gthr_e_invalid_stream_logs_count/0x80040d44/",
+  "numericCode": -2147218108,
+  "define": "GTHR_E_INVALID_STREAM_LOGS_COUNT",
+  "defineUrl": "/win32/windowssearcherrors-h/gthr_e_invalid_stream_logs_count/",
+  "message": "The specified number of logs to keep is invalid. Set the number of logs to be greater than zero.",
+  "remarks": null,
+  "aka": [
+    "-2147218108"
+  ],
+  "akaUrl": [
+    "/win32/windowssearcherrors-h/gthr_e_invalid_stream_logs_count/-2147218108/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

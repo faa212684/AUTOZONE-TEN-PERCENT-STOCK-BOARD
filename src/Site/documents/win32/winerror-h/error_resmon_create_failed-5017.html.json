@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_resmon_create_failed\5017\index.html.json
+
+title: 5017 ERROR_RESMON_CREATE_FAILED in winerror.h
+description: The cluster resource could not be created in the specified resource monitor.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "5017",
+  "codeUrl": "/win32/winerror-h/error_resmon_create_failed/5017/",
+  "numericCode": 5017,
+  "define": "ERROR_RESMON_CREATE_FAILED",
+  "defineUrl": "/win32/winerror-h/error_resmon_create_failed/",
+  "message": "The cluster resource could not be created in the specified resource monitor.",
+  "remarks": null,
+  "aka": [
+    "0x80071399",
+    "-2147019879"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_resmon_create_failed/0x80071399/",
+    "/win32/winerror-h/error_resmon_create_failed/-2147019879/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

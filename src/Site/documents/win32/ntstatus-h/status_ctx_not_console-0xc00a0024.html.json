@@ -1,0 +1,29 @@
+---
+output: win32\ntstatus-h\status_ctx_not_console\0xc00a0024\index.html.json
+
+title: 0xC00A0024 STATUS_CTX_NOT_CONSOLE in ntstatus.h
+description: The requested operation can be performed only on the system console.
+This is most often the result of a driver or system DLL requiring direct console access.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC00A0024",
+  "codeUrl": "/win32/ntstatus-h/status_ctx_not_console/0xc00a0024/",
+  "numericCode": -1073086428,
+  "define": "STATUS_CTX_NOT_CONSOLE",
+  "defineUrl": "/win32/ntstatus-h/status_ctx_not_console/",
+  "message": "The requested operation can be performed only on the system console.\r\nThis is most often the result of a driver or system DLL requiring direct console access.",
+  "remarks": null,
+  "aka": [
+    "-1073086428"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_ctx_not_console/-1073086428/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

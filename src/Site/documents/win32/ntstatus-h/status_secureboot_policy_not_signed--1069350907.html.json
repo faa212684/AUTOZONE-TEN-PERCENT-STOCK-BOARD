@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_secureboot_policy_not_signed\-1069350907\index.html.json
+canonical: /win32/ntstatus-h/status_secureboot_policy_not_signed/0xc0430005/
+title: -1069350907 STATUS_SECUREBOOT_POLICY_NOT_SIGNED in ntstatus.h
+description: The Secure Boot policy is either not signed or is signed by a non-trusted signer.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1069350907",
+  "codeUrl": "/win32/ntstatus-h/status_secureboot_policy_not_signed/-1069350907/",
+  "numericCode": 0,
+  "define": "STATUS_SECUREBOOT_POLICY_NOT_SIGNED",
+  "defineUrl": "/win32/ntstatus-h/status_secureboot_policy_not_signed/",
+  "message": "The Secure Boot policy is either not signed or is signed by a non-trusted signer.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0430005",
+  "originalCodeUrl": "/win32/ntstatus-h/status_secureboot_policy_not_signed/0xc0430005/"
+}

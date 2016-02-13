@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_unfinished_context_deleted\0xc00002ee\index.html.json
+
+title: 0xC00002EE STATUS_UNFINISHED_CONTEXT_DELETED in ntstatus.h
+description: A security context was deleted before the context was completed. This is considered a logon failure.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC00002EE",
+  "codeUrl": "/win32/ntstatus-h/status_unfinished_context_deleted/0xc00002ee/",
+  "numericCode": -1073741074,
+  "define": "STATUS_UNFINISHED_CONTEXT_DELETED",
+  "defineUrl": "/win32/ntstatus-h/status_unfinished_context_deleted/",
+  "message": "A security context was deleted before the context was completed. This is considered a logon failure.",
+  "remarks": null,
+  "aka": [
+    "-1073741074"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_unfinished_context_deleted/-1073741074/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

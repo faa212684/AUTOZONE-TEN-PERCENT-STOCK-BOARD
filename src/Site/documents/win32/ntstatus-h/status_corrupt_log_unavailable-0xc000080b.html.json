@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_corrupt_log_unavailable\0xc000080b\index.html.json
+
+title: 0xC000080B STATUS_CORRUPT_LOG_UNAVAILABLE in ntstatus.h
+description: One of the volume corruption logs is unavailable for being operated on.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000080B",
+  "codeUrl": "/win32/ntstatus-h/status_corrupt_log_unavailable/0xc000080b/",
+  "numericCode": -1073739765,
+  "define": "STATUS_CORRUPT_LOG_UNAVAILABLE",
+  "defineUrl": "/win32/ntstatus-h/status_corrupt_log_unavailable/",
+  "message": "One of the volume corruption logs is unavailable for being operated on.",
+  "remarks": null,
+  "aka": [
+    "-1073739765"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_corrupt_log_unavailable/-1073739765/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

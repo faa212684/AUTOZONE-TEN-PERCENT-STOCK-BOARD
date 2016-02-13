@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_ipsec_ike_cert_chain_policy_mismatch\-2147011009\index.html.json
+canonical: /win32/winerror-h/error_ipsec_ike_cert_chain_policy_mismatch/13887/
+title: -2147011009 ERROR_IPSEC_IKE_CERT_CHAIN_POLICY_MISMATCH in winerror.h
+description: Certificate doesn't chain to a trusted root in IPsec policy.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147011009",
+  "codeUrl": "/win32/winerror-h/error_ipsec_ike_cert_chain_policy_mismatch/-2147011009/",
+  "numericCode": 0,
+  "define": "ERROR_IPSEC_IKE_CERT_CHAIN_POLICY_MISMATCH",
+  "defineUrl": "/win32/winerror-h/error_ipsec_ike_cert_chain_policy_mismatch/",
+  "message": "Certificate doesn't chain to a trusted root in IPsec policy.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "13887",
+  "originalCodeUrl": "/win32/winerror-h/error_ipsec_ike_cert_chain_policy_mismatch/13887/"
+}

@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_tpm_resourcemissing\-1071054774\index.html.json
+canonical: /win32/ntstatus-h/status_tpm_resourcemissing/0xc029004a/
+title: -1071054774 STATUS_TPM_RESOURCEMISSING in ntstatus.h
+description: The resource pointed to by context is not loaded.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071054774",
+  "codeUrl": "/win32/ntstatus-h/status_tpm_resourcemissing/-1071054774/",
+  "numericCode": 0,
+  "define": "STATUS_TPM_RESOURCEMISSING",
+  "defineUrl": "/win32/ntstatus-h/status_tpm_resourcemissing/",
+  "message": "The resource pointed to by context is not loaded.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC029004A",
+  "originalCodeUrl": "/win32/ntstatus-h/status_tpm_resourcemissing/0xc029004a/"
+}

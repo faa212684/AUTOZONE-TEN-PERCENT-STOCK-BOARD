@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\sec_e_no_impersonation\0x8009030b\index.html.json
+
+title: 0x8009030B SEC_E_NO_IMPERSONATION in winerror.h
+description: The security context does not allow impersonation of the client
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8009030B",
+  "codeUrl": "/win32/winerror-h/sec_e_no_impersonation/0x8009030b/",
+  "numericCode": -2146893045,
+  "define": "SEC_E_NO_IMPERSONATION",
+  "defineUrl": "/win32/winerror-h/sec_e_no_impersonation/",
+  "message": "The security context does not allow impersonation of the client",
+  "remarks": null,
+  "aka": [
+    "-2146893045"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/sec_e_no_impersonation/-2146893045/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

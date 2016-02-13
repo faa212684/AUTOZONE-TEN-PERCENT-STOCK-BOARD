@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_invalid_user_principal_name\-1073740772\index.html.json
+canonical: /win32/ntstatus-h/status_invalid_user_principal_name/0xc000041c/
+title: -1073740772 STATUS_INVALID_USER_PRINCIPAL_NAME in ntstatus.h
+description: The User Principal Name (UPN) is invalid.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073740772",
+  "codeUrl": "/win32/ntstatus-h/status_invalid_user_principal_name/-1073740772/",
+  "numericCode": 0,
+  "define": "STATUS_INVALID_USER_PRINCIPAL_NAME",
+  "defineUrl": "/win32/ntstatus-h/status_invalid_user_principal_name/",
+  "message": "The User Principal Name (UPN) is invalid.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC000041C",
+  "originalCodeUrl": "/win32/ntstatus-h/status_invalid_user_principal_name/0xc000041c/"
+}

@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\wininet_e_out_of_handles\-2147012895\index.html.json
+canonical: /win32/winerror-h/wininet_e_out_of_handles/0x80072ee1/
+title: -2147012895 WININET_E_OUT_OF_HANDLES in winerror.h
+description: No more Internet handles can be allocated
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147012895",
+  "codeUrl": "/win32/winerror-h/wininet_e_out_of_handles/-2147012895/",
+  "numericCode": 0,
+  "define": "WININET_E_OUT_OF_HANDLES",
+  "defineUrl": "/win32/winerror-h/wininet_e_out_of_handles/",
+  "message": "No more Internet handles can be allocated",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80072EE1",
+  "originalCodeUrl": "/win32/winerror-h/wininet_e_out_of_handles/0x80072ee1/"
+}

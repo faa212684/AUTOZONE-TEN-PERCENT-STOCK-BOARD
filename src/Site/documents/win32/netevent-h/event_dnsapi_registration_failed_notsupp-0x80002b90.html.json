@@ -1,0 +1,42 @@
+---
+output: win32\netevent-h\event_dnsapi_registration_failed_notsupp\0x80002b90\index.html.json
+
+title: 0x80002B90 EVENT_DNSAPI_REGISTRATION_FAILED_NOTSUPP in netevent.h
+description: The system failed to register network adapter with settings:%n%n
+Adapter Name : %1%n
+Host Name : %2%n
+Adapter-specific Domain Suffix : %3%n
+DNS server list :%n
+%4%n
+Sent update to server : %5%n
+IP Address(es) :%n
+%6%n%n
+The reason it could not register was because either: (a) the DNS server
+does not support the DNS dynamic update protocol, or (b) the primary zone
+authoritative for the registering names does not currently accept dynamic
+updates.%n%n To add or register a DNS host (A or AAAA) resource record using 
+the specific DNS name for this adapter, contact your DNS server or network
+systems administrator.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x80002B90",
+  "codeUrl": "/win32/netevent-h/event_dnsapi_registration_failed_notsupp/0x80002b90/",
+  "numericCode": -2147472496,
+  "define": "EVENT_DNSAPI_REGISTRATION_FAILED_NOTSUPP",
+  "defineUrl": "/win32/netevent-h/event_dnsapi_registration_failed_notsupp/",
+  "message": "The system failed to register network adapter with settings:%n%n\r\nAdapter Name : %1%n\r\nHost Name : %2%n\r\nAdapter-specific Domain Suffix : %3%n\r\nDNS server list :%n\r\n%4%n\r\nSent update to server : %5%n\r\nIP Address(es) :%n\r\n%6%n%n\r\nThe reason it could not register was because either: (a) the DNS server\r\ndoes not support the DNS dynamic update protocol, or (b) the primary zone\r\nauthoritative for the registering names does not currently accept dynamic\r\nupdates.%n%n To add or register a DNS host (A or AAAA) resource record using \r\nthe specific DNS name for this adapter, contact your DNS server or network\r\nsystems administrator.",
+  "remarks": null,
+  "aka": [
+    "-2147472496"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_dnsapi_registration_failed_notsupp/-2147472496/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

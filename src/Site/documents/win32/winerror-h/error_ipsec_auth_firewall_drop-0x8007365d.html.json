@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_ipsec_auth_firewall_drop\0x8007365d\index.html.json
+canonical: /win32/winerror-h/error_ipsec_auth_firewall_drop/13917/
+title: 0x8007365d ERROR_IPSEC_AUTH_FIREWALL_DROP in winerror.h
+description: IPsec dropped an incoming ESP packet in authenticated firewall mode. This drop is benign.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007365d",
+  "codeUrl": "/win32/winerror-h/error_ipsec_auth_firewall_drop/0x8007365d/",
+  "numericCode": 0,
+  "define": "ERROR_IPSEC_AUTH_FIREWALL_DROP",
+  "defineUrl": "/win32/winerror-h/error_ipsec_auth_firewall_drop/",
+  "message": "IPsec dropped an incoming ESP packet in authenticated firewall mode. This drop is benign.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "13917",
+  "originalCodeUrl": "/win32/winerror-h/error_ipsec_auth_firewall_drop/13917/"
+}

@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_process_cloned\297\index.html.json
+canonical: /win32/ntstatus-h/status_process_cloned/0x00000129/
+title: 297 STATUS_PROCESS_CLONED in ntstatus.h
+description: The current process is a cloned process.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "297",
+  "codeUrl": "/win32/ntstatus-h/status_process_cloned/297/",
+  "numericCode": 0,
+  "define": "STATUS_PROCESS_CLONED",
+  "defineUrl": "/win32/ntstatus-h/status_process_cloned/",
+  "message": "The current process is a cloned process.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x00000129",
+  "originalCodeUrl": "/win32/ntstatus-h/status_process_cloned/0x00000129/"
+}

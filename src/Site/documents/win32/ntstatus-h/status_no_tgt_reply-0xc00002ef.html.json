@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_no_tgt_reply\0xc00002ef\index.html.json
+
+title: 0xC00002EF STATUS_NO_TGT_REPLY in ntstatus.h
+description: The client is trying to negotiate a context and the server requires user-to-user but didn't send a TGT reply.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC00002EF",
+  "codeUrl": "/win32/ntstatus-h/status_no_tgt_reply/0xc00002ef/",
+  "numericCode": -1073741073,
+  "define": "STATUS_NO_TGT_REPLY",
+  "defineUrl": "/win32/ntstatus-h/status_no_tgt_reply/",
+  "message": "The client is trying to negotiate a context and the server requires user-to-user but didn't send a TGT reply.",
+  "remarks": null,
+  "aka": [
+    "-1073741073"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_no_tgt_reply/-1073741073/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

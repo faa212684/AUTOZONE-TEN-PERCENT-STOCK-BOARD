@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\scard_e_card_unsupported\-2146435044\index.html.json
+canonical: /win32/winerror-h/scard_e_card_unsupported/0x8010001c/
+title: -2146435044 SCARD_E_CARD_UNSUPPORTED in winerror.h
+description: The smart card does not meet minimal requirements for support.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2146435044",
+  "codeUrl": "/win32/winerror-h/scard_e_card_unsupported/-2146435044/",
+  "numericCode": 0,
+  "define": "SCARD_E_CARD_UNSUPPORTED",
+  "defineUrl": "/win32/winerror-h/scard_e_card_unsupported/",
+  "message": "The smart card does not meet minimal requirements for support.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x8010001C",
+  "originalCodeUrl": "/win32/winerror-h/scard_e_card_unsupported/0x8010001c/"
+}

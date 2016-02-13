@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_prent4_machine_account\0xc0000357\index.html.json
+
+title: 0xC0000357 STATUS_PRENT4_MACHINE_ACCOUNT in ntstatus.h
+description: The machine account was created pre-NT4. The account needs to be recreated.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000357",
+  "codeUrl": "/win32/ntstatus-h/status_prent4_machine_account/0xc0000357/",
+  "numericCode": -1073740969,
+  "define": "STATUS_PRENT4_MACHINE_ACCOUNT",
+  "defineUrl": "/win32/ntstatus-h/status_prent4_machine_account/",
+  "message": "The machine account was created pre-NT4. The account needs to be recreated.",
+  "remarks": null,
+  "aka": [
+    "-1073740969"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_prent4_machine_account/-1073740969/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

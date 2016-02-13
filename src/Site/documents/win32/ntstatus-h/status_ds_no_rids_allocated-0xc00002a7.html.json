@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_ds_no_rids_allocated\0xc00002a7\index.html.json
+
+title: 0xC00002A7 STATUS_DS_NO_RIDS_ALLOCATED in ntstatus.h
+description: The directory service was unable to allocate a relative identifier.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC00002A7",
+  "codeUrl": "/win32/ntstatus-h/status_ds_no_rids_allocated/0xc00002a7/",
+  "numericCode": -1073741145,
+  "define": "STATUS_DS_NO_RIDS_ALLOCATED",
+  "defineUrl": "/win32/ntstatus-h/status_ds_no_rids_allocated/",
+  "message": "The directory service was unable to allocate a relative identifier.",
+  "remarks": null,
+  "aka": [
+    "-1073741145"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_ds_no_rids_allocated/-1073741145/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

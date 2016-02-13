@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\appx_e_block_hash_invalid\0x80080207\index.html.json
+
+title: 0x80080207 APPX_E_BLOCK_HASH_INVALID in winerror.h
+description: The computed hash value of the block does not match the one stored in the block map.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80080207",
+  "codeUrl": "/win32/winerror-h/appx_e_block_hash_invalid/0x80080207/",
+  "numericCode": -2146958841,
+  "define": "APPX_E_BLOCK_HASH_INVALID",
+  "defineUrl": "/win32/winerror-h/appx_e_block_hash_invalid/",
+  "message": "The computed hash value of the block does not match the one stored in the block map.",
+  "remarks": null,
+  "aka": [
+    "-2146958841"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/appx_e_block_hash_invalid/-2146958841/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

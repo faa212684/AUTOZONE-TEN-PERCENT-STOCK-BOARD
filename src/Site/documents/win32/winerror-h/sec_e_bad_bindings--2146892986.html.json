@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\sec_e_bad_bindings\-2146892986\index.html.json
+canonical: /win32/winerror-h/sec_e_bad_bindings/0x80090346/
+title: -2146892986 SEC_E_BAD_BINDINGS in winerror.h
+description: Client's supplied SSPI channel bindings were incorrect.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2146892986",
+  "codeUrl": "/win32/winerror-h/sec_e_bad_bindings/-2146892986/",
+  "numericCode": 0,
+  "define": "SEC_E_BAD_BINDINGS",
+  "defineUrl": "/win32/winerror-h/sec_e_bad_bindings/",
+  "message": "Client's supplied SSPI channel bindings were incorrect.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80090346",
+  "originalCodeUrl": "/win32/winerror-h/sec_e_bad_bindings/0x80090346/"
+}

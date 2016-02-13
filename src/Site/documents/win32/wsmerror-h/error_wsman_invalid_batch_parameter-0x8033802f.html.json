@@ -1,0 +1,29 @@
+---
+output: win32\wsmerror-h\error_wsman_invalid_batch_parameter\0x8033802f\index.html.json
+
+title: 0x8033802F ERROR_WSMAN_INVALID_BATCH_PARAMETER in wsmerror.h
+description: The WS-Management service cannot process the batch request. The request must specify either MaxItems, MaxCharacters,
+or MaxTime.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x8033802F",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_invalid_batch_parameter/0x8033802f/",
+  "numericCode": -2144108497,
+  "define": "ERROR_WSMAN_INVALID_BATCH_PARAMETER",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_invalid_batch_parameter/",
+  "message": "The WS-Management service cannot process the batch request. The request must specify either MaxItems, MaxCharacters,\r\nor MaxTime.",
+  "remarks": null,
+  "aka": [
+    "-2144108497"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_invalid_batch_parameter/-2144108497/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

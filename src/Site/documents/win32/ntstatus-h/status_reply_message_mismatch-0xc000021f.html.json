@@ -1,0 +1,29 @@
+---
+output: win32\ntstatus-h\status_reply_message_mismatch\0xc000021f\index.html.json
+
+title: 0xC000021F STATUS_REPLY_MESSAGE_MISMATCH in ntstatus.h
+description: "{Reply Message Mismatch}
+An attempt was made to reply to an LPC message, but the thread specified by the client ID in the message was not waiting on that message."
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000021F",
+  "codeUrl": "/win32/ntstatus-h/status_reply_message_mismatch/0xc000021f/",
+  "numericCode": -1073741281,
+  "define": "STATUS_REPLY_MESSAGE_MISMATCH",
+  "defineUrl": "/win32/ntstatus-h/status_reply_message_mismatch/",
+  "message": "{Reply Message Mismatch}\r\nAn attempt was made to reply to an LPC message, but the thread specified by the client ID in the message was not waiting on that message.",
+  "remarks": null,
+  "aka": [
+    "-1073741281"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_reply_message_mismatch/-1073741281/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

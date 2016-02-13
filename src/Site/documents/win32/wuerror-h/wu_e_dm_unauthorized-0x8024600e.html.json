@@ -1,0 +1,28 @@
+---
+output: win32\wuerror-h\wu_e_dm_unauthorized\0x8024600e\index.html.json
+
+title: 0x8024600E WU_E_DM_UNAUTHORIZED in wuerror.h
+description: The download failed because the client was denied authorization to download the content.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wuerror.h",
+  "sourceUrl": "/win32/wuerror-h/",
+  "code": "0x8024600E",
+  "codeUrl": "/win32/wuerror-h/wu_e_dm_unauthorized/0x8024600e/",
+  "numericCode": -2145099762,
+  "define": "WU_E_DM_UNAUTHORIZED",
+  "defineUrl": "/win32/wuerror-h/wu_e_dm_unauthorized/",
+  "message": "The download failed because the client was denied authorization to download the content.",
+  "remarks": null,
+  "aka": [
+    "-2145099762"
+  ],
+  "akaUrl": [
+    "/win32/wuerror-h/wu_e_dm_unauthorized/-2145099762/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

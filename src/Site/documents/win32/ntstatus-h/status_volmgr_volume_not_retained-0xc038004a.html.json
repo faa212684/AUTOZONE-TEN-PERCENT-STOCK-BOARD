@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_volmgr_volume_not_retained\0xc038004a\index.html.json
+
+title: 0xC038004A STATUS_VOLMGR_VOLUME_NOT_RETAINED in ntstatus.h
+description: The specified volume does not have a retain partition.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC038004A",
+  "codeUrl": "/win32/ntstatus-h/status_volmgr_volume_not_retained/0xc038004a/",
+  "numericCode": -1070071734,
+  "define": "STATUS_VOLMGR_VOLUME_NOT_RETAINED",
+  "defineUrl": "/win32/ntstatus-h/status_volmgr_volume_not_retained/",
+  "message": "The specified volume does not have a retain partition.",
+  "remarks": null,
+  "aka": [
+    "-1070071734"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_volmgr_volume_not_retained/-1070071734/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

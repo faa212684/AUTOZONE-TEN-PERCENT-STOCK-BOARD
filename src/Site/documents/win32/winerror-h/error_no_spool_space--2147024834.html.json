@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_no_spool_space\-2147024834\index.html.json
+canonical: /win32/winerror-h/error_no_spool_space/62/
+title: -2147024834 ERROR_NO_SPOOL_SPACE in winerror.h
+description: Space to store the file waiting to be printed is not available on the server.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147024834",
+  "codeUrl": "/win32/winerror-h/error_no_spool_space/-2147024834/",
+  "numericCode": 0,
+  "define": "ERROR_NO_SPOOL_SPACE",
+  "defineUrl": "/win32/winerror-h/error_no_spool_space/",
+  "message": "Space to store the file waiting to be printed is not available on the server.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "62",
+  "originalCodeUrl": "/win32/winerror-h/error_no_spool_space/62/"
+}

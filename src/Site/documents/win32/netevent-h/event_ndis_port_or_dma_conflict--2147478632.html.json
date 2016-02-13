@@ -1,0 +1,24 @@
+---
+output: win32\netevent-h\event_ndis_port_or_dma_conflict\-2147478632\index.html.json
+canonical: /win32/netevent-h/event_ndis_port_or_dma_conflict/0x80001398/
+title: -2147478632 EVENT_NDIS_PORT_OR_DMA_CONFLICT in netevent.h
+description: %2 : There is an I/O port or DMA channel conflict.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "-2147478632",
+  "codeUrl": "/win32/netevent-h/event_ndis_port_or_dma_conflict/-2147478632/",
+  "numericCode": 0,
+  "define": "EVENT_NDIS_PORT_OR_DMA_CONFLICT",
+  "defineUrl": "/win32/netevent-h/event_ndis_port_or_dma_conflict/",
+  "message": "%2 : There is an I/O port or DMA channel conflict.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80001398",
+  "originalCodeUrl": "/win32/netevent-h/event_ndis_port_or_dma_conflict/0x80001398/"
+}

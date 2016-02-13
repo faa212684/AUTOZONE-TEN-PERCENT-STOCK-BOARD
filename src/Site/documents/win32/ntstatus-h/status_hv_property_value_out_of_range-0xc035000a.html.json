@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_hv_property_value_out_of_range\0xc035000a\index.html.json
+
+title: 0xC035000A STATUS_HV_PROPERTY_VALUE_OUT_OF_RANGE in ntstatus.h
+description: The specified value of a partition property is out of range or violates an invariant.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC035000A",
+  "codeUrl": "/win32/ntstatus-h/status_hv_property_value_out_of_range/0xc035000a/",
+  "numericCode": -1070268406,
+  "define": "STATUS_HV_PROPERTY_VALUE_OUT_OF_RANGE",
+  "defineUrl": "/win32/ntstatus-h/status_hv_property_value_out_of_range/",
+  "message": "The specified value of a partition property is out of range or violates an invariant.",
+  "remarks": null,
+  "aka": [
+    "-1070268406"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_hv_property_value_out_of_range/-1070268406/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

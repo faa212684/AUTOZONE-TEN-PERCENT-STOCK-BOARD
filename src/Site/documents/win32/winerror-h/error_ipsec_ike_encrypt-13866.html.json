@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ipsec_ike_encrypt\13866\index.html.json
+
+title: 13866 ERROR_IPSEC_IKE_ENCRYPT in winerror.h
+description: Error encrypting payload
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "13866",
+  "codeUrl": "/win32/winerror-h/error_ipsec_ike_encrypt/13866/",
+  "numericCode": 13866,
+  "define": "ERROR_IPSEC_IKE_ENCRYPT",
+  "defineUrl": "/win32/winerror-h/error_ipsec_ike_encrypt/",
+  "message": "Error encrypting payload",
+  "remarks": null,
+  "aka": [
+    "0x8007362a",
+    "-2147011030"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ipsec_ike_encrypt/0x8007362a/",
+    "/win32/winerror-h/error_ipsec_ike_encrypt/-2147011030/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

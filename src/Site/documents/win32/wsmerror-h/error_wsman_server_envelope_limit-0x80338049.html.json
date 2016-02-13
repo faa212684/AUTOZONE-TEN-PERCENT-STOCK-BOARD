@@ -1,0 +1,28 @@
+---
+output: win32\wsmerror-h\error_wsman_server_envelope_limit\0x80338049\index.html.json
+
+title: 0x80338049 ERROR_WSMAN_SERVER_ENVELOPE_LIMIT in wsmerror.h
+description: The response that the WS-Management service computed exceed the internal limit for envelope size.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x80338049",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_server_envelope_limit/0x80338049/",
+  "numericCode": -2144108471,
+  "define": "ERROR_WSMAN_SERVER_ENVELOPE_LIMIT",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_server_envelope_limit/",
+  "message": "The response that the WS-Management service computed exceed the internal limit for envelope size.",
+  "remarks": null,
+  "aka": [
+    "-2144108471"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_server_envelope_limit/-2144108471/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

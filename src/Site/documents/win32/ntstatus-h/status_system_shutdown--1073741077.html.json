@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_system_shutdown\-1073741077\index.html.json
+canonical: /win32/ntstatus-h/status_system_shutdown/0xc00002eb/
+title: -1073741077 STATUS_SYSTEM_SHUTDOWN in ntstatus.h
+description: The system is in the process of shutting down.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741077",
+  "codeUrl": "/win32/ntstatus-h/status_system_shutdown/-1073741077/",
+  "numericCode": 0,
+  "define": "STATUS_SYSTEM_SHUTDOWN",
+  "defineUrl": "/win32/ntstatus-h/status_system_shutdown/",
+  "message": "The system is in the process of shutting down.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC00002EB",
+  "originalCodeUrl": "/win32/ntstatus-h/status_system_shutdown/0xc00002eb/"
+}

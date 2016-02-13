@@ -1,0 +1,28 @@
+---
+output: win32\nserror-h\ns_e_invalidinputfps\0xc00d1b81\index.html.json
+
+title: 0xC00D1B81 NS_E_INVALIDINPUTFPS in nserror.h
+description: This source does not have a frame rate of 30 fps. Therefore, it is not possible to apply the inverse telecine filter to the source.%0
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "nserror.h",
+  "sourceUrl": "/win32/nserror-h/",
+  "code": "0xC00D1B81",
+  "codeUrl": "/win32/nserror-h/ns_e_invalidinputfps/0xc00d1b81/",
+  "numericCode": -1072882815,
+  "define": "NS_E_INVALIDINPUTFPS",
+  "defineUrl": "/win32/nserror-h/ns_e_invalidinputfps/",
+  "message": "This source does not have a frame rate of 30 fps. Therefore, it is not possible to apply the inverse telecine filter to the source.%0",
+  "remarks": null,
+  "aka": [
+    "-1072882815"
+  ],
+  "akaUrl": [
+    "/win32/nserror-h/ns_e_invalidinputfps/-1072882815/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

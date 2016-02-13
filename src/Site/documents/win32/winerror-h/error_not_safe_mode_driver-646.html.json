@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_not_safe_mode_driver\646\index.html.json
+
+title: 646 ERROR_NOT_SAFE_MODE_DRIVER in winerror.h
+description: The driver was not loaded because the system is booting into safe mode.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "646",
+  "codeUrl": "/win32/winerror-h/error_not_safe_mode_driver/646/",
+  "numericCode": 646,
+  "define": "ERROR_NOT_SAFE_MODE_DRIVER",
+  "defineUrl": "/win32/winerror-h/error_not_safe_mode_driver/",
+  "message": "The driver was not loaded because the system is booting into safe mode.",
+  "remarks": null,
+  "aka": [
+    "0x80070286",
+    "-2147024250"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_not_safe_mode_driver/0x80070286/",
+    "/win32/winerror-h/error_not_safe_mode_driver/-2147024250/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

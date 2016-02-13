@@ -1,0 +1,29 @@
+---
+output: win32\wsmerror-h\error_wsman_server_destination_localhost\0x8033810e\index.html.json
+
+title: 0x8033810E ERROR_WSMAN_SERVER_DESTINATION_LOCALHOST in wsmerror.h
+description: The WinRM client cannot process the request. If you do not specify an authentication mechanism or you specify Kerberos, then you cannot use "localhost" or "127.0.0.1" or "[::1]" for the remote host name.
+You can explicitly specify a different authentication mechanism than Kerberos or specify the remote host as a DNS name or NetBIOS name.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x8033810E",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_server_destination_localhost/0x8033810e/",
+  "numericCode": -2144108274,
+  "define": "ERROR_WSMAN_SERVER_DESTINATION_LOCALHOST",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_server_destination_localhost/",
+  "message": "The WinRM client cannot process the request. If you do not specify an authentication mechanism or you specify Kerberos, then you cannot use \"localhost\" or \"127.0.0.1\" or \"[::1]\" for the remote host name.\r\nYou can explicitly specify a different authentication mechanism than Kerberos or specify the remote host as a DNS name or NetBIOS name.",
+  "remarks": null,
+  "aka": [
+    "-2144108274"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_server_destination_localhost/-2144108274/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

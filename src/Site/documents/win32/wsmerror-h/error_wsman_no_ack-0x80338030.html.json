@@ -1,0 +1,29 @@
+---
+output: win32\wsmerror-h\error_wsman_no_ack\0x80338030\index.html.json
+
+title: 0x80338030 ERROR_WSMAN_NO_ACK in wsmerror.h
+description: The receiver of the event did not acknowledge the event delivery.
+Submit the subscription again without the acknowledgement option.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x80338030",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_no_ack/0x80338030/",
+  "numericCode": -2144108496,
+  "define": "ERROR_WSMAN_NO_ACK",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_no_ack/",
+  "message": "The receiver of the event did not acknowledge the event delivery.\r\nSubmit the subscription again without the acknowledgement option.",
+  "remarks": null,
+  "aka": [
+    "-2144108496"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_no_ack/-2144108496/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

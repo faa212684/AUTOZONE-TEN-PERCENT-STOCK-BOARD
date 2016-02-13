@@ -1,0 +1,30 @@
+---
+output: win32\ntstatus-h\status_allotted_space_exceeded\0xc0000099\index.html.json
+
+title: 0xC0000099 STATUS_ALLOTTED_SPACE_EXCEEDED in ntstatus.h
+description: When a block of memory is allotted for future updates, such as the memory allocated to hold discretionary access control and primary group information, successive updates may exceed the amount of memory originally allotted.
+Since quota may already have been charged to several processes which have handles to the object, it is not reasonable to alter the size of the allocated memory.
+Instead, a request that requires more memory than has been allotted must fail and the STATUS_ALLOTED_SPACE_EXCEEDED error returned.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000099",
+  "codeUrl": "/win32/ntstatus-h/status_allotted_space_exceeded/0xc0000099/",
+  "numericCode": -1073741671,
+  "define": "STATUS_ALLOTTED_SPACE_EXCEEDED",
+  "defineUrl": "/win32/ntstatus-h/status_allotted_space_exceeded/",
+  "message": "When a block of memory is allotted for future updates, such as the memory allocated to hold discretionary access control and primary group information, successive updates may exceed the amount of memory originally allotted.\r\nSince quota may already have been charged to several processes which have handles to the object, it is not reasonable to alter the size of the allocated memory.\r\nInstead, a request that requires more memory than has been allotted must fail and the STATUS_ALLOTED_SPACE_EXCEEDED error returned.",
+  "remarks": null,
+  "aka": [
+    "-1073741671"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_allotted_space_exceeded/-1073741671/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

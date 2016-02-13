@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_invalid_printer_driver_manifest\3021\index.html.json
+
+title: 3021 ERROR_INVALID_PRINTER_DRIVER_MANIFEST in winerror.h
+description: The printer driver does not contain a valid manifest, or contains too many manifests.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "3021",
+  "codeUrl": "/win32/winerror-h/error_invalid_printer_driver_manifest/3021/",
+  "numericCode": 3021,
+  "define": "ERROR_INVALID_PRINTER_DRIVER_MANIFEST",
+  "defineUrl": "/win32/winerror-h/error_invalid_printer_driver_manifest/",
+  "message": "The printer driver does not contain a valid manifest, or contains too many manifests.",
+  "remarks": null,
+  "aka": [
+    "0x80070bcd",
+    "-2147021875"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_invalid_printer_driver_manifest/0x80070bcd/",
+    "/win32/winerror-h/error_invalid_printer_driver_manifest/-2147021875/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

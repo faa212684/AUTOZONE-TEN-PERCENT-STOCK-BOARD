@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_service_recovery_failed\0xc0001b78\index.html.json
+
+title: 0xC0001B78 EVENT_SERVICE_RECOVERY_FAILED in netevent.h
+description: The Service Control Manager tried to take a corrective action (%2) after the unexpected termination of the %3 service, but this action failed with the following error: %n%4
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC0001B78",
+  "codeUrl": "/win32/netevent-h/event_service_recovery_failed/0xc0001b78/",
+  "numericCode": -1073734792,
+  "define": "EVENT_SERVICE_RECOVERY_FAILED",
+  "defineUrl": "/win32/netevent-h/event_service_recovery_failed/",
+  "message": "The Service Control Manager tried to take a corrective action (%2) after the unexpected termination of the %3 service, but this action failed with the following error: %n%4",
+  "remarks": null,
+  "aka": [
+    "-1073734792"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_service_recovery_failed/-1073734792/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

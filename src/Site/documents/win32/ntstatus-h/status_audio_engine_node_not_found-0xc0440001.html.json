@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_audio_engine_node_not_found\0xc0440001\index.html.json
+
+title: 0xC0440001 STATUS_AUDIO_ENGINE_NODE_NOT_FOUND in ntstatus.h
+description: PortCls could not find an audio engine node exposed by a miniport driver claiming support for IMiniportAudioEngineNode.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0440001",
+  "codeUrl": "/win32/ntstatus-h/status_audio_engine_node_not_found/0xc0440001/",
+  "numericCode": -1069285375,
+  "define": "STATUS_AUDIO_ENGINE_NODE_NOT_FOUND",
+  "defineUrl": "/win32/ntstatus-h/status_audio_engine_node_not_found/",
+  "message": "PortCls could not find an audio engine node exposed by a miniport driver claiming support for IMiniportAudioEngineNode.",
+  "remarks": null,
+  "aka": [
+    "-1069285375"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_audio_engine_node_not_found/-1069285375/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

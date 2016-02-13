@@ -1,0 +1,29 @@
+---
+output: win32\ntstatus-h\status_driver_ordinal_not_found\0xc0000262\index.html.json
+
+title: 0xC0000262 STATUS_DRIVER_ORDINAL_NOT_FOUND in ntstatus.h
+description: "{Driver Entry Point Not Found}
+The %hs device driver could not locate the ordinal %ld in driver %hs."
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000262",
+  "codeUrl": "/win32/ntstatus-h/status_driver_ordinal_not_found/0xc0000262/",
+  "numericCode": -1073741214,
+  "define": "STATUS_DRIVER_ORDINAL_NOT_FOUND",
+  "defineUrl": "/win32/ntstatus-h/status_driver_ordinal_not_found/",
+  "message": "{Driver Entry Point Not Found}\r\nThe %hs device driver could not locate the ordinal %ld in driver %hs.",
+  "remarks": null,
+  "aka": [
+    "-1073741214"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_driver_ordinal_not_found/-1073741214/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

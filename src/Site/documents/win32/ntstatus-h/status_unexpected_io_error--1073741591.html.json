@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_unexpected_io_error\-1073741591\index.html.json
+canonical: /win32/ntstatus-h/status_unexpected_io_error/0xc00000e9/
+title: -1073741591 STATUS_UNEXPECTED_IO_ERROR in ntstatus.h
+description: If an I/O error is returned which is not defined in the standard FsRtl filter, it is converted to the following error which is guaranteed to be in the filter. In this case information is lost, however, the filter correctly handles the exception.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741591",
+  "codeUrl": "/win32/ntstatus-h/status_unexpected_io_error/-1073741591/",
+  "numericCode": 0,
+  "define": "STATUS_UNEXPECTED_IO_ERROR",
+  "defineUrl": "/win32/ntstatus-h/status_unexpected_io_error/",
+  "message": "If an I/O error is returned which is not defined in the standard FsRtl filter, it is converted to the following error which is guaranteed to be in the filter. In this case information is lost, however, the filter correctly handles the exception.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC00000E9",
+  "originalCodeUrl": "/win32/ntstatus-h/status_unexpected_io_error/0xc00000e9/"
+}

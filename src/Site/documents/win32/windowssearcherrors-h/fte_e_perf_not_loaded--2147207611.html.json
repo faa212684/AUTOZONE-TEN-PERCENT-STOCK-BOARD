@@ -1,0 +1,24 @@
+---
+output: win32\windowssearcherrors-h\fte_e_perf_not_loaded\-2147207611\index.html.json
+canonical: /win32/windowssearcherrors-h/fte_e_perf_not_loaded/0x80043645/
+title: -2147207611 FTE_E_PERF_NOT_LOADED in WindowsSearchErrors.h
+description: The performance monitor counters cannot be unloaded because they are not loaded in the first place.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "-2147207611",
+  "codeUrl": "/win32/windowssearcherrors-h/fte_e_perf_not_loaded/-2147207611/",
+  "numericCode": 0,
+  "define": "FTE_E_PERF_NOT_LOADED",
+  "defineUrl": "/win32/windowssearcherrors-h/fte_e_perf_not_loaded/",
+  "message": "The performance monitor counters cannot be unloaded because they are not loaded in the first place.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80043645",
+  "originalCodeUrl": "/win32/windowssearcherrors-h/fte_e_perf_not_loaded/0x80043645/"
+}

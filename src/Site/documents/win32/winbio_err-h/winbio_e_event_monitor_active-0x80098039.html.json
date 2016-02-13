@@ -1,0 +1,28 @@
+---
+output: win32\winbio_err-h\winbio_e_event_monitor_active\0x80098039\index.html.json
+
+title: 0x80098039 WINBIO_E_EVENT_MONITOR_ACTIVE in winbio_err.h
+description: There is already an active event monitor associated with the specified session.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winbio_err.h",
+  "sourceUrl": "/win32/winbio_err-h/",
+  "code": "0x80098039",
+  "codeUrl": "/win32/winbio_err-h/winbio_e_event_monitor_active/0x80098039/",
+  "numericCode": -2146860999,
+  "define": "WINBIO_E_EVENT_MONITOR_ACTIVE",
+  "defineUrl": "/win32/winbio_err-h/winbio_e_event_monitor_active/",
+  "message": "There is already an active event monitor associated with the specified session.",
+  "remarks": null,
+  "aka": [
+    "-2146860999"
+  ],
+  "akaUrl": [
+    "/win32/winbio_err-h/winbio_e_event_monitor_active/-2146860999/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

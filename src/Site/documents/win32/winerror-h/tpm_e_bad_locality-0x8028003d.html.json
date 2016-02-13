@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\tpm_e_bad_locality\0x8028003d\index.html.json
+
+title: 0x8028003D TPM_E_BAD_LOCALITY in winerror.h
+description: The locality is incorrect for the attempted operation.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8028003D",
+  "codeUrl": "/win32/winerror-h/tpm_e_bad_locality/0x8028003d/",
+  "numericCode": -2144862147,
+  "define": "TPM_E_BAD_LOCALITY",
+  "defineUrl": "/win32/winerror-h/tpm_e_bad_locality/",
+  "message": "The locality is incorrect for the attempted operation.",
+  "remarks": null,
+  "aka": [
+    "-2144862147"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/tpm_e_bad_locality/-2144862147/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

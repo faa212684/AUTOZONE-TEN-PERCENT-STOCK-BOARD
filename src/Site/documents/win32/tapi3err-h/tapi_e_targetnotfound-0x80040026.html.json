@@ -1,0 +1,28 @@
+---
+output: win32\tapi3err-h\tapi_e_targetnotfound\0x80040026\index.html.json
+
+title: 0x80040026 TAPI_E_TARGETNOTFOUND in Tapi3Err.h
+description: The call handoff failed because the specified target was not found.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "Tapi3Err.h",
+  "sourceUrl": "/win32/tapi3err-h/",
+  "code": "0x80040026",
+  "codeUrl": "/win32/tapi3err-h/tapi_e_targetnotfound/0x80040026/",
+  "numericCode": -2147221466,
+  "define": "TAPI_E_TARGETNOTFOUND",
+  "defineUrl": "/win32/tapi3err-h/tapi_e_targetnotfound/",
+  "message": "The call handoff failed because the specified target was not found.",
+  "remarks": null,
+  "aka": [
+    "-2147221466"
+  ],
+  "akaUrl": [
+    "/win32/tapi3err-h/tapi_e_targetnotfound/-2147221466/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

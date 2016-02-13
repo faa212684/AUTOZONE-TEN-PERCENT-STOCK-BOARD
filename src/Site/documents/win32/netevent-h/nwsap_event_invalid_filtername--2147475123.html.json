@@ -1,0 +1,24 @@
+---
+output: win32\netevent-h\nwsap_event_invalid_filtername\-2147475123\index.html.json
+canonical: /win32/netevent-h/nwsap_event_invalid_filtername/0x8000214d/
+title: -2147475123 NWSAP_EVENT_INVALID_FILTERNAME in netevent.h
+description: Name too long in key %1: Name = %s.  The Sap Agent cannot continue.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "-2147475123",
+  "codeUrl": "/win32/netevent-h/nwsap_event_invalid_filtername/-2147475123/",
+  "numericCode": 0,
+  "define": "NWSAP_EVENT_INVALID_FILTERNAME",
+  "defineUrl": "/win32/netevent-h/nwsap_event_invalid_filtername/",
+  "message": "Name too long in key %1: Name = %s.  The Sap Agent cannot continue.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x8000214D",
+  "originalCodeUrl": "/win32/netevent-h/nwsap_event_invalid_filtername/0x8000214d/"
+}

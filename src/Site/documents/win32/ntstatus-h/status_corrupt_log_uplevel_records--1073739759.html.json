@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_corrupt_log_uplevel_records\-1073739759\index.html.json
+canonical: /win32/ntstatus-h/status_corrupt_log_uplevel_records/0xc0000811/
+title: -1073739759 STATUS_CORRUPT_LOG_UPLEVEL_RECORDS in ntstatus.h
+description: One of the volume corruption logs comes from a newer version of Windows and contains corruption records. The log will be emptied and reset to the current version, and the volume health state will be updated accordingly.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073739759",
+  "codeUrl": "/win32/ntstatus-h/status_corrupt_log_uplevel_records/-1073739759/",
+  "numericCode": 0,
+  "define": "STATUS_CORRUPT_LOG_UPLEVEL_RECORDS",
+  "defineUrl": "/win32/ntstatus-h/status_corrupt_log_uplevel_records/",
+  "message": "One of the volume corruption logs comes from a newer version of Windows and contains corruption records. The log will be emptied and reset to the current version, and the volume health state will be updated accordingly.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000811",
+  "originalCodeUrl": "/win32/ntstatus-h/status_corrupt_log_uplevel_records/0xc0000811/"
+}

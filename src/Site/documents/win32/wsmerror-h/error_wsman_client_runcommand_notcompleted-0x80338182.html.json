@@ -1,0 +1,28 @@
+---
+output: win32\wsmerror-h\error_wsman_client_runcommand_notcompleted\0x80338182\index.html.json
+
+title: 0x80338182 ERROR_WSMAN_CLIENT_RUNCOMMAND_NOTCOMPLETED in wsmerror.h
+description: The WinRM client cannot process the request. You must wait for the WSManRunShellCommand API call to complete before calling WSManCloseShellOperationEx API.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x80338182",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_client_runcommand_notcompleted/0x80338182/",
+  "numericCode": -2144108158,
+  "define": "ERROR_WSMAN_CLIENT_RUNCOMMAND_NOTCOMPLETED",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_client_runcommand_notcompleted/",
+  "message": "The WinRM client cannot process the request. You must wait for the WSManRunShellCommand API call to complete before calling WSManCloseShellOperationEx API.",
+  "remarks": null,
+  "aka": [
+    "-2144108158"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_client_runcommand_notcompleted/-2144108158/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

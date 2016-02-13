@@ -1,0 +1,28 @@
+---
+output: win32\ntdsbmsg-h\hrrestorelogtoohigh\0xc800022a\index.html.json
+
+title: 0xC800022A hrRestoreLogTooHigh in NtDsBMsg.h
+description: The starting log number is too high for the restore.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "NtDsBMsg.h",
+  "sourceUrl": "/win32/ntdsbmsg-h/",
+  "code": "0xC800022A",
+  "codeUrl": "/win32/ntdsbmsg-h/hrrestorelogtoohigh/0xc800022a/",
+  "numericCode": -939523542,
+  "define": "hrRestoreLogTooHigh",
+  "defineUrl": "/win32/ntdsbmsg-h/hrrestorelogtoohigh/",
+  "message": "The starting log number is too high for the restore.",
+  "remarks": null,
+  "aka": [
+    "-939523542"
+  ],
+  "akaUrl": [
+    "/win32/ntdsbmsg-h/hrrestorelogtoohigh/-939523542/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

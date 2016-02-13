@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_join_to_subst\0x8007008c\index.html.json
+canonical: /win32/winerror-h/error_join_to_subst/140/
+title: 0x8007008c ERROR_JOIN_TO_SUBST in winerror.h
+description: The system tried to join a drive to a directory on a substituted drive.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007008c",
+  "codeUrl": "/win32/winerror-h/error_join_to_subst/0x8007008c/",
+  "numericCode": 0,
+  "define": "ERROR_JOIN_TO_SUBST",
+  "defineUrl": "/win32/winerror-h/error_join_to_subst/",
+  "message": "The system tried to join a drive to a directory on a substituted drive.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "140",
+  "originalCodeUrl": "/win32/winerror-h/error_join_to_subst/140/"
+}

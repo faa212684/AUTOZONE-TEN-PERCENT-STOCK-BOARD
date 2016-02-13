@@ -1,0 +1,28 @@
+---
+output: win32\wsmerror-h\error_wsman_invalid_usessl_param\0x803381be\index.html.json
+
+title: 0x803381BE ERROR_WSMAN_INVALID_USESSL_PARAM in wsmerror.h
+description: The WinRM client used a parameter to specify the use of SSL while specifying http in the connection string.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x803381BE",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_invalid_usessl_param/0x803381be/",
+  "numericCode": -2144108098,
+  "define": "ERROR_WSMAN_INVALID_USESSL_PARAM",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_invalid_usessl_param/",
+  "message": "The WinRM client used a parameter to specify the use of SSL while specifying http in the connection string.",
+  "remarks": null,
+  "aka": [
+    "-2144108098"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_invalid_usessl_param/-2144108098/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,24 @@
+---
+output: win32\windowssearcherrors-h\event_gather_restore_checkpoint_failed\-1073738734\index.html.json
+canonical: /win32/windowssearcherrors-h/event_gather_restore_checkpoint_failed/0xc0000c12/
+title: -1073738734 EVENT_GATHER_RESTORE_CHECKPOINT_FAILED in WindowsSearchErrors.h
+description: The gatherer files from the previous checkpoint cannot be restored, and this action cannot be completed. The gatherer will attempt to restore the files again. If the problem persists, restart the service, free system resources or verify that your hardware is working properly. %1
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "-1073738734",
+  "codeUrl": "/win32/windowssearcherrors-h/event_gather_restore_checkpoint_failed/-1073738734/",
+  "numericCode": 0,
+  "define": "EVENT_GATHER_RESTORE_CHECKPOINT_FAILED",
+  "defineUrl": "/win32/windowssearcherrors-h/event_gather_restore_checkpoint_failed/",
+  "message": "The gatherer files from the previous checkpoint cannot be restored, and this action cannot be completed. The gatherer will attempt to restore the files again. If the problem persists, restart the service, free system resources or verify that your hardware is working properly. %1",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000C12",
+  "originalCodeUrl": "/win32/windowssearcherrors-h/event_gather_restore_checkpoint_failed/0xc0000c12/"
+}

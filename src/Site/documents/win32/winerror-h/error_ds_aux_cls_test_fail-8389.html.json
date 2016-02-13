@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ds_aux_cls_test_fail\8389\index.html.json
+
+title: 8389 ERROR_DS_AUX_CLS_TEST_FAIL in winerror.h
+description: Schema update failed: class in aux-class list does not exist or is not an auxiliary class.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "8389",
+  "codeUrl": "/win32/winerror-h/error_ds_aux_cls_test_fail/8389/",
+  "numericCode": 8389,
+  "define": "ERROR_DS_AUX_CLS_TEST_FAIL",
+  "defineUrl": "/win32/winerror-h/error_ds_aux_cls_test_fail/",
+  "message": "Schema update failed: class in aux-class list does not exist or is not an auxiliary class.",
+  "remarks": null,
+  "aka": [
+    "0x800720c5",
+    "-2147016507"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ds_aux_cls_test_fail/0x800720c5/",
+    "/win32/winerror-h/error_ds_aux_cls_test_fail/-2147016507/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

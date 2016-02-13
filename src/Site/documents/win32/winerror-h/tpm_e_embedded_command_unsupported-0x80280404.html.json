@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\tpm_e_embedded_command_unsupported\0x80280404\index.html.json
+
+title: 0x80280404 TPM_E_EMBEDDED_COMMAND_UNSUPPORTED in winerror.h
+description: The command within the transport is not supported.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80280404",
+  "codeUrl": "/win32/winerror-h/tpm_e_embedded_command_unsupported/0x80280404/",
+  "numericCode": -2144861180,
+  "define": "TPM_E_EMBEDDED_COMMAND_UNSUPPORTED",
+  "defineUrl": "/win32/winerror-h/tpm_e_embedded_command_unsupported/",
+  "message": "The command within the transport is not supported.",
+  "remarks": null,
+  "aka": [
+    "-2144861180"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/tpm_e_embedded_command_unsupported/-2144861180/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

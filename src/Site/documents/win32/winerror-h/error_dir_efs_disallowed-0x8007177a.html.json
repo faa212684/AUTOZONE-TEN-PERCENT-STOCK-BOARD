@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_dir_efs_disallowed\0x8007177a\index.html.json
+canonical: /win32/winerror-h/error_dir_efs_disallowed/6010/
+title: 0x8007177a ERROR_DIR_EFS_DISALLOWED in winerror.h
+description: The directory has been disabled for encryption.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007177a",
+  "codeUrl": "/win32/winerror-h/error_dir_efs_disallowed/0x8007177a/",
+  "numericCode": 0,
+  "define": "ERROR_DIR_EFS_DISALLOWED",
+  "defineUrl": "/win32/winerror-h/error_dir_efs_disallowed/",
+  "message": "The directory has been disabled for encryption.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "6010",
+  "originalCodeUrl": "/win32/winerror-h/error_dir_efs_disallowed/6010/"
+}

@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_ctx_graphics_invalid\0x80071b7b\index.html.json
+canonical: /win32/winerror-h/error_ctx_graphics_invalid/7035/
+title: 0x80071b7b ERROR_CTX_GRAPHICS_INVALID in winerror.h
+description: The application attempted to enable DOS graphics mode. DOS graphics mode is not supported.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80071b7b",
+  "codeUrl": "/win32/winerror-h/error_ctx_graphics_invalid/0x80071b7b/",
+  "numericCode": 0,
+  "define": "ERROR_CTX_GRAPHICS_INVALID",
+  "defineUrl": "/win32/winerror-h/error_ctx_graphics_invalid/",
+  "message": "The application attempted to enable DOS graphics mode. DOS graphics mode is not supported.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "7035",
+  "originalCodeUrl": "/win32/winerror-h/error_ctx_graphics_invalid/7035/"
+}

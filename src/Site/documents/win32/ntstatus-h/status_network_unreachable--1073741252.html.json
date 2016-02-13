@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_network_unreachable\-1073741252\index.html.json
+canonical: /win32/ntstatus-h/status_network_unreachable/0xc000023c/
+title: -1073741252 STATUS_NETWORK_UNREACHABLE in ntstatus.h
+description: The remote network is not reachable by the transport.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741252",
+  "codeUrl": "/win32/ntstatus-h/status_network_unreachable/-1073741252/",
+  "numericCode": 0,
+  "define": "STATUS_NETWORK_UNREACHABLE",
+  "defineUrl": "/win32/ntstatus-h/status_network_unreachable/",
+  "message": "The remote network is not reachable by the transport.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC000023C",
+  "originalCodeUrl": "/win32/ntstatus-h/status_network_unreachable/0xc000023c/"
+}

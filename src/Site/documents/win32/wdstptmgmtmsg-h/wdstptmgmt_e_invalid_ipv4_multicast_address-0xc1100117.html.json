@@ -1,0 +1,28 @@
+---
+output: win32\wdstptmgmtmsg-h\wdstptmgmt_e_invalid_ipv4_multicast_address\0xc1100117\index.html.json
+
+title: 0xC1100117 WDSTPTMGMT_E_INVALID_IPV4_MULTICAST_ADDRESS in WdsTptMgmtMsg.h
+description: The specified IPv4 address is not valid for multicast. IPv4 multicast addresses must be in the range 224.0.1.0 to 239.255.255.255.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WdsTptMgmtMsg.h",
+  "sourceUrl": "/win32/wdstptmgmtmsg-h/",
+  "code": "0xC1100117",
+  "codeUrl": "/win32/wdstptmgmtmsg-h/wdstptmgmt_e_invalid_ipv4_multicast_address/0xc1100117/",
+  "numericCode": -1055915753,
+  "define": "WDSTPTMGMT_E_INVALID_IPV4_MULTICAST_ADDRESS",
+  "defineUrl": "/win32/wdstptmgmtmsg-h/wdstptmgmt_e_invalid_ipv4_multicast_address/",
+  "message": "The specified IPv4 address is not valid for multicast. IPv4 multicast addresses must be in the range 224.0.1.0 to 239.255.255.255.",
+  "remarks": null,
+  "aka": [
+    "-1055915753"
+  ],
+  "akaUrl": [
+    "/win32/wdstptmgmtmsg-h/wdstptmgmt_e_invalid_ipv4_multicast_address/-1055915753/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_fve_partial_metadata\0x80210001\index.html.json
+
+title: 0x80210001 STATUS_FVE_PARTIAL_METADATA in ntstatus.h
+description: Volume Metadata read or write is incomplete.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0x80210001",
+  "codeUrl": "/win32/ntstatus-h/status_fve_partial_metadata/0x80210001/",
+  "numericCode": -2145320959,
+  "define": "STATUS_FVE_PARTIAL_METADATA",
+  "defineUrl": "/win32/ntstatus-h/status_fve_partial_metadata/",
+  "message": "Volume Metadata read or write is incomplete.",
+  "remarks": null,
+  "aka": [
+    "-2145320959"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_fve_partial_metadata/-2145320959/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

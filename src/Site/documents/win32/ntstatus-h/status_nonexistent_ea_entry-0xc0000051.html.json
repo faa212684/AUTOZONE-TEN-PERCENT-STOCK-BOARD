@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_nonexistent_ea_entry\0xc0000051\index.html.json
+
+title: 0xC0000051 STATUS_NONEXISTENT_EA_ENTRY in ntstatus.h
+description: An EA operation failed because the name or EA index is invalid.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000051",
+  "codeUrl": "/win32/ntstatus-h/status_nonexistent_ea_entry/0xc0000051/",
+  "numericCode": -1073741743,
+  "define": "STATUS_NONEXISTENT_EA_ENTRY",
+  "defineUrl": "/win32/ntstatus-h/status_nonexistent_ea_entry/",
+  "message": "An EA operation failed because the name or EA index is invalid.",
+  "remarks": null,
+  "aka": [
+    "-1073741743"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_nonexistent_ea_entry/-1073741743/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

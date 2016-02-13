@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_ds_couldnt_contact_fsmo\0x800720af\index.html.json
+canonical: /win32/winerror-h/error_ds_couldnt_contact_fsmo/8367/
+title: 0x800720af ERROR_DS_COULDNT_CONTACT_FSMO in winerror.h
+description: The requested FSMO operation failed. The current FSMO holder could not be contacted.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800720af",
+  "codeUrl": "/win32/winerror-h/error_ds_couldnt_contact_fsmo/0x800720af/",
+  "numericCode": 0,
+  "define": "ERROR_DS_COULDNT_CONTACT_FSMO",
+  "defineUrl": "/win32/winerror-h/error_ds_couldnt_contact_fsmo/",
+  "message": "The requested FSMO operation failed. The current FSMO holder could not be contacted.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "8367",
+  "originalCodeUrl": "/win32/winerror-h/error_ds_couldnt_contact_fsmo/8367/"
+}

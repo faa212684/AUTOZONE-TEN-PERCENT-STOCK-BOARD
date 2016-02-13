@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_e_invalid_provider_id\0x80042567\index.html.json
+
+title: 0x80042567 VDS_E_INVALID_PROVIDER_ID in vdserr.h
+description: The specified provider id cannot be a NULL GUID.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x80042567",
+  "codeUrl": "/win32/vdserr-h/vds_e_invalid_provider_id/0x80042567/",
+  "numericCode": -2147211929,
+  "define": "VDS_E_INVALID_PROVIDER_ID",
+  "defineUrl": "/win32/vdserr-h/vds_e_invalid_provider_id/",
+  "message": "The specified provider id cannot be a NULL GUID.",
+  "remarks": null,
+  "aka": [
+    "-2147211929"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_invalid_provider_id/-2147211929/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\crypt_e_stream_insufficient_data\-2146889711\index.html.json
+canonical: /win32/winerror-h/crypt_e_stream_insufficient_data/0x80091011/
+title: -2146889711 CRYPT_E_STREAM_INSUFFICIENT_DATA in winerror.h
+description: The streamed cryptographic message requires more data to complete the decode operation.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2146889711",
+  "codeUrl": "/win32/winerror-h/crypt_e_stream_insufficient_data/-2146889711/",
+  "numericCode": 0,
+  "define": "CRYPT_E_STREAM_INSUFFICIENT_DATA",
+  "defineUrl": "/win32/winerror-h/crypt_e_stream_insufficient_data/",
+  "message": "The streamed cryptographic message requires more data to complete the decode operation.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80091011",
+  "originalCodeUrl": "/win32/winerror-h/crypt_e_stream_insufficient_data/0x80091011/"
+}

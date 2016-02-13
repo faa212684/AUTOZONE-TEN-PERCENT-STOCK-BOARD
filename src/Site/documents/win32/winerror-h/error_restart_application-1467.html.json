@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_restart_application\1467\index.html.json
+
+title: 1467 ERROR_RESTART_APPLICATION in winerror.h
+description: This application must be restarted.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1467",
+  "codeUrl": "/win32/winerror-h/error_restart_application/1467/",
+  "numericCode": 1467,
+  "define": "ERROR_RESTART_APPLICATION",
+  "defineUrl": "/win32/winerror-h/error_restart_application/",
+  "message": "This application must be restarted.",
+  "remarks": null,
+  "aka": [
+    "0x800705bb",
+    "-2147023429"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_restart_application/0x800705bb/",
+    "/win32/winerror-h/error_restart_application/-2147023429/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

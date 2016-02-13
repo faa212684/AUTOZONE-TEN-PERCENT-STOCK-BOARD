@@ -1,0 +1,25 @@
+---
+output: win32\ntstatus-h\status_was_unlocked\1073741847\index.html.json
+canonical: /win32/ntstatus-h/status_was_unlocked/0x40000017/
+title: 1073741847 STATUS_WAS_UNLOCKED in ntstatus.h
+description: "{Page Unlocked}
+The page protection of a locked page was changed to 'No Access' and the page was unlocked from memory and from the process."
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "1073741847",
+  "codeUrl": "/win32/ntstatus-h/status_was_unlocked/1073741847/",
+  "numericCode": 0,
+  "define": "STATUS_WAS_UNLOCKED",
+  "defineUrl": "/win32/ntstatus-h/status_was_unlocked/",
+  "message": "{Page Unlocked}\r\nThe page protection of a locked page was changed to 'No Access' and the page was unlocked from memory and from the process.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x40000017",
+  "originalCodeUrl": "/win32/ntstatus-h/status_was_unlocked/0x40000017/"
+}

@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\xenroll_e_cannot_add_root_cert\0x80095001\index.html.json
+
+title: 0x80095001 XENROLL_E_CANNOT_ADD_ROOT_CERT in winerror.h
+description: You cannot add the root CA certificate into your local store.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80095001",
+  "codeUrl": "/win32/winerror-h/xenroll_e_cannot_add_root_cert/0x80095001/",
+  "numericCode": -2146873343,
+  "define": "XENROLL_E_CANNOT_ADD_ROOT_CERT",
+  "defineUrl": "/win32/winerror-h/xenroll_e_cannot_add_root_cert/",
+  "message": "You cannot add the root CA certificate into your local store.",
+  "remarks": null,
+  "aka": [
+    "-2146873343"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/xenroll_e_cannot_add_root_cert/-2146873343/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

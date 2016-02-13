@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_invalid_cap\0xc0000505\index.html.json
+
+title: 0xC0000505 STATUS_INVALID_CAP in ntstatus.h
+description: The Central Access Policy obtained from Active Directory is invalid.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000505",
+  "codeUrl": "/win32/ntstatus-h/status_invalid_cap/0xc0000505/",
+  "numericCode": -1073740539,
+  "define": "STATUS_INVALID_CAP",
+  "defineUrl": "/win32/ntstatus-h/status_invalid_cap/",
+  "message": "The Central Access Policy obtained from Active Directory is invalid.",
+  "remarks": null,
+  "aka": [
+    "-1073740539"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_invalid_cap/-1073740539/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\rpc_x_invalid_pipe_object\1830\index.html.json
+
+title: 1830 RPC_X_INVALID_PIPE_OBJECT in winerror.h
+description: The RPC pipe object is invalid or corrupted.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1830",
+  "codeUrl": "/win32/winerror-h/rpc_x_invalid_pipe_object/1830/",
+  "numericCode": 1830,
+  "define": "RPC_X_INVALID_PIPE_OBJECT",
+  "defineUrl": "/win32/winerror-h/rpc_x_invalid_pipe_object/",
+  "message": "The RPC pipe object is invalid or corrupted.",
+  "remarks": null,
+  "aka": [
+    "0x80070726",
+    "-2147023066"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/rpc_x_invalid_pipe_object/0x80070726/",
+    "/win32/winerror-h/rpc_x_invalid_pipe_object/-2147023066/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

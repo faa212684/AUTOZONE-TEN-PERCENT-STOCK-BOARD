@@ -1,0 +1,28 @@
+---
+output: win32\fsrmerr-h\fsrm_e_module_invalid_param\0x80045369\index.html.json
+
+title: 0x80045369 FSRM_E_MODULE_INVALID_PARAM in fsrmerr.h
+description: The module encountered an invalid parameter or a valid parameter with an invalid value or an expected module parameter is not found. Check the application event log for more information.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "fsrmerr.h",
+  "sourceUrl": "/win32/fsrmerr-h/",
+  "code": "0x80045369",
+  "codeUrl": "/win32/fsrmerr-h/fsrm_e_module_invalid_param/0x80045369/",
+  "numericCode": -2147200151,
+  "define": "FSRM_E_MODULE_INVALID_PARAM",
+  "defineUrl": "/win32/fsrmerr-h/fsrm_e_module_invalid_param/",
+  "message": "The module encountered an invalid parameter or a valid parameter with an invalid value or an expected module parameter is not found. Check the application event log for more information.",
+  "remarks": null,
+  "aka": [
+    "-2147200151"
+  ],
+  "akaUrl": [
+    "/win32/fsrmerr-h/fsrm_e_module_invalid_param/-2147200151/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

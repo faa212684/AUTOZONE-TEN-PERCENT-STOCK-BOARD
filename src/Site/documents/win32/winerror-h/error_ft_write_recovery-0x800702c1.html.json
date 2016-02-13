@@ -1,0 +1,26 @@
+---
+output: win32\winerror-h\error_ft_write_recovery\0x800702c1\index.html.json
+canonical: /win32/winerror-h/error_ft_write_recovery/705/
+title: 0x800702c1 ERROR_FT_WRITE_RECOVERY in winerror.h
+description: "{Redundant Write}
+To satisfy a write request, the NT fault-tolerant file system successfully wrote a redundant copy of the information.
+This was done because the file system encountered a failure on a member of the fault-tolerant volume, but was not able to reassign the failing area of the device."
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800702c1",
+  "codeUrl": "/win32/winerror-h/error_ft_write_recovery/0x800702c1/",
+  "numericCode": 0,
+  "define": "ERROR_FT_WRITE_RECOVERY",
+  "defineUrl": "/win32/winerror-h/error_ft_write_recovery/",
+  "message": "{Redundant Write}\r\nTo satisfy a write request, the NT fault-tolerant file system successfully wrote a redundant copy of the information.\r\nThis was done because the file system encountered a failure on a member of the fault-tolerant volume, but was not able to reassign the failing area of the device.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "705",
+  "originalCodeUrl": "/win32/winerror-h/error_ft_write_recovery/705/"
+}

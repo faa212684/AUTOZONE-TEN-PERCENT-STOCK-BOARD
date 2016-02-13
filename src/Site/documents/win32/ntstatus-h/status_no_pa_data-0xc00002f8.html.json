@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_no_pa_data\0xc00002f8\index.html.json
+
+title: 0xC00002F8 STATUS_NO_PA_DATA in ntstatus.h
+description: Expected to find PA data for a hint of what etype to use, but it was not found.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC00002F8",
+  "codeUrl": "/win32/ntstatus-h/status_no_pa_data/0xc00002f8/",
+  "numericCode": -1073741064,
+  "define": "STATUS_NO_PA_DATA",
+  "defineUrl": "/win32/ntstatus-h/status_no_pa_data/",
+  "message": "Expected to find PA data for a hint of what etype to use, but it was not found.",
+  "remarks": null,
+  "aka": [
+    "-1073741064"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_no_pa_data/-1073741064/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

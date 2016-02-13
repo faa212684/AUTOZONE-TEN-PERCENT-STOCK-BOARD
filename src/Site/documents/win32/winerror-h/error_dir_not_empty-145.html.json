@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_dir_not_empty\145\index.html.json
+
+title: 145 ERROR_DIR_NOT_EMPTY in winerror.h
+description: The directory is not empty.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "145",
+  "codeUrl": "/win32/winerror-h/error_dir_not_empty/145/",
+  "numericCode": 145,
+  "define": "ERROR_DIR_NOT_EMPTY",
+  "defineUrl": "/win32/winerror-h/error_dir_not_empty/",
+  "message": "The directory is not empty.",
+  "remarks": null,
+  "aka": [
+    "0x80070091",
+    "-2147024751"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_dir_not_empty/0x80070091/",
+    "/win32/winerror-h/error_dir_not_empty/-2147024751/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

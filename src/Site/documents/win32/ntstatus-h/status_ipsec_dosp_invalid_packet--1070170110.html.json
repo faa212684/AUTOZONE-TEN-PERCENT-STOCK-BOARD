@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_ipsec_dosp_invalid_packet\-1070170110\index.html.json
+canonical: /win32/ntstatus-h/status_ipsec_dosp_invalid_packet/0xc0368002/
+title: -1070170110 STATUS_IPSEC_DOSP_INVALID_PACKET in ntstatus.h
+description: IPsec DoS Protection received an incorrectly formatted packet.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1070170110",
+  "codeUrl": "/win32/ntstatus-h/status_ipsec_dosp_invalid_packet/-1070170110/",
+  "numericCode": 0,
+  "define": "STATUS_IPSEC_DOSP_INVALID_PACKET",
+  "defineUrl": "/win32/ntstatus-h/status_ipsec_dosp_invalid_packet/",
+  "message": "IPsec DoS Protection received an incorrectly formatted packet.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0368002",
+  "originalCodeUrl": "/win32/ntstatus-h/status_ipsec_dosp_invalid_packet/0xc0368002/"
+}

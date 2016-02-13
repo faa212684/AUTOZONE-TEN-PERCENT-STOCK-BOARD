@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_no_volume_label\125\index.html.json
+
+title: 125 ERROR_NO_VOLUME_LABEL in winerror.h
+description: The disk has no volume label.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "125",
+  "codeUrl": "/win32/winerror-h/error_no_volume_label/125/",
+  "numericCode": 125,
+  "define": "ERROR_NO_VOLUME_LABEL",
+  "defineUrl": "/win32/winerror-h/error_no_volume_label/",
+  "message": "The disk has no volume label.",
+  "remarks": null,
+  "aka": [
+    "0x8007007d",
+    "-2147024771"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_no_volume_label/0x8007007d/",
+    "/win32/winerror-h/error_no_volume_label/-2147024771/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

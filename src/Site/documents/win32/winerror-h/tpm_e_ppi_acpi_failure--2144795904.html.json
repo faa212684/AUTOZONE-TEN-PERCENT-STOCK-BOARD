@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\tpm_e_ppi_acpi_failure\-2144795904\index.html.json
+canonical: /win32/winerror-h/tpm_e_ppi_acpi_failure/0x80290300/
+title: -2144795904 TPM_E_PPI_ACPI_FAILURE in winerror.h
+description: A general error was detected when attempting to acquire the BIOS's response to a Physical Presence command.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2144795904",
+  "codeUrl": "/win32/winerror-h/tpm_e_ppi_acpi_failure/-2144795904/",
+  "numericCode": 0,
+  "define": "TPM_E_PPI_ACPI_FAILURE",
+  "defineUrl": "/win32/winerror-h/tpm_e_ppi_acpi_failure/",
+  "message": "A general error was detected when attempting to acquire the BIOS's response to a Physical Presence command.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80290300",
+  "originalCodeUrl": "/win32/winerror-h/tpm_e_ppi_acpi_failure/0x80290300/"
+}

@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\fwp_e_duplicate_condition\0x8032002a\index.html.json
+
+title: 0x8032002A FWP_E_DUPLICATE_CONDITION in winerror.h
+description: A filter cannot contain multiple conditions operating on a single field.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8032002A",
+  "codeUrl": "/win32/winerror-h/fwp_e_duplicate_condition/0x8032002a/",
+  "numericCode": -2144206806,
+  "define": "FWP_E_DUPLICATE_CONDITION",
+  "defineUrl": "/win32/winerror-h/fwp_e_duplicate_condition/",
+  "message": "A filter cannot contain multiple conditions operating on a single field.",
+  "remarks": null,
+  "aka": [
+    "-2144206806"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/fwp_e_duplicate_condition/-2144206806/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

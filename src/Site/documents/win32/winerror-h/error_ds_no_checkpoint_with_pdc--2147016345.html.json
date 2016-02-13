@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_ds_no_checkpoint_with_pdc\-2147016345\index.html.json
+canonical: /win32/winerror-h/error_ds_no_checkpoint_with_pdc/8551/
+title: -2147016345 ERROR_DS_NO_CHECKPOINT_WITH_PDC in winerror.h
+description: The checkpoint with the PDC could not be taken because there too many modifications being processed currently.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147016345",
+  "codeUrl": "/win32/winerror-h/error_ds_no_checkpoint_with_pdc/-2147016345/",
+  "numericCode": 0,
+  "define": "ERROR_DS_NO_CHECKPOINT_WITH_PDC",
+  "defineUrl": "/win32/winerror-h/error_ds_no_checkpoint_with_pdc/",
+  "message": "The checkpoint with the PDC could not be taken because there too many modifications being processed currently.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "8551",
+  "originalCodeUrl": "/win32/winerror-h/error_ds_no_checkpoint_with_pdc/8551/"
+}

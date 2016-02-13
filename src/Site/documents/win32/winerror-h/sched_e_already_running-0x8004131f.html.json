@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\sched_e_already_running\0x8004131f\index.html.json
+
+title: 0x8004131F SCHED_E_ALREADY_RUNNING in winerror.h
+description: An instance of this task is already running.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8004131F",
+  "codeUrl": "/win32/winerror-h/sched_e_already_running/0x8004131f/",
+  "numericCode": -2147216609,
+  "define": "SCHED_E_ALREADY_RUNNING",
+  "defineUrl": "/win32/winerror-h/sched_e_already_running/",
+  "message": "An instance of this task is already running.",
+  "remarks": null,
+  "aka": [
+    "-2147216609"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/sched_e_already_running/-2147216609/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

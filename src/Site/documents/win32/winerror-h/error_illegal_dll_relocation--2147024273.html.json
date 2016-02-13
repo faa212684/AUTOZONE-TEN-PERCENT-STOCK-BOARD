@@ -1,0 +1,26 @@
+---
+output: win32\winerror-h\error_illegal_dll_relocation\-2147024273\index.html.json
+canonical: /win32/winerror-h/error_illegal_dll_relocation/623/
+title: -2147024273 ERROR_ILLEGAL_DLL_RELOCATION in winerror.h
+description: "{Illegal System DLL Relocation}
+The system DLL %hs was relocated in memory. The application will not run properly.
+The relocation occurred because the DLL %hs occupied an address range reserved for Windows system DLLs. The vendor supplying the DLL should be contacted for a new DLL."
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147024273",
+  "codeUrl": "/win32/winerror-h/error_illegal_dll_relocation/-2147024273/",
+  "numericCode": 0,
+  "define": "ERROR_ILLEGAL_DLL_RELOCATION",
+  "defineUrl": "/win32/winerror-h/error_illegal_dll_relocation/",
+  "message": "{Illegal System DLL Relocation}\r\nThe system DLL %hs was relocated in memory. The application will not run properly.\r\nThe relocation occurred because the DLL %hs occupied an address range reserved for Windows system DLLs. The vendor supplying the DLL should be contacted for a new DLL.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "623",
+  "originalCodeUrl": "/win32/winerror-h/error_illegal_dll_relocation/623/"
+}

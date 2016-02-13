@@ -1,0 +1,29 @@
+---
+output: win32\ntstatus-h\status_verify_required\0x80000016\index.html.json
+
+title: 0x80000016 STATUS_VERIFY_REQUIRED in ntstatus.h
+description: "{Verifying Disk}
+The media has changed and a verify operation is in progress so no reads or writes may be performed to the device, except those used in the verify operation."
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0x80000016",
+  "codeUrl": "/win32/ntstatus-h/status_verify_required/0x80000016/",
+  "numericCode": -2147483626,
+  "define": "STATUS_VERIFY_REQUIRED",
+  "defineUrl": "/win32/ntstatus-h/status_verify_required/",
+  "message": "{Verifying Disk}\r\nThe media has changed and a verify operation is in progress so no reads or writes may be performed to the device, except those used in the verify operation.",
+  "remarks": null,
+  "aka": [
+    "-2147483626"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_verify_required/-2147483626/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

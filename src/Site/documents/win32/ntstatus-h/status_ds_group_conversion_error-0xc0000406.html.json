@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_ds_group_conversion_error\0xc0000406\index.html.json
+
+title: 0xC0000406 STATUS_DS_GROUP_CONVERSION_ERROR in ntstatus.h
+description: The group cannot be converted due to attribute restrictions on the requested group type.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000406",
+  "codeUrl": "/win32/ntstatus-h/status_ds_group_conversion_error/0xc0000406/",
+  "numericCode": -1073740794,
+  "define": "STATUS_DS_GROUP_CONVERSION_ERROR",
+  "defineUrl": "/win32/ntstatus-h/status_ds_group_conversion_error/",
+  "message": "The group cannot be converted due to attribute restrictions on the requested group type.",
+  "remarks": null,
+  "aka": [
+    "-1073740794"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_ds_group_conversion_error/-1073740794/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_address_closed\0xc000020b\index.html.json
+
+title: 0xC000020B STATUS_ADDRESS_CLOSED in ntstatus.h
+description: The transport address is now closed.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000020B",
+  "codeUrl": "/win32/ntstatus-h/status_address_closed/0xc000020b/",
+  "numericCode": -1073741301,
+  "define": "STATUS_ADDRESS_CLOSED",
+  "defineUrl": "/win32/ntstatus-h/status_address_closed/",
+  "message": "The transport address is now closed.",
+  "remarks": null,
+  "aka": [
+    "-1073741301"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_address_closed/-1073741301/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

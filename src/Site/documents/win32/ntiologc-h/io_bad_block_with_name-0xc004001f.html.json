@@ -1,0 +1,28 @@
+---
+output: win32\ntiologc-h\io_bad_block_with_name\0xc004001f\index.html.json
+
+title: 0xC004001F IO_BAD_BLOCK_WITH_NAME in ntiologc.h
+description: The file %2 on device %1 contains a bad disk block.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntiologc.h",
+  "sourceUrl": "/win32/ntiologc-h/",
+  "code": "0xC004001F",
+  "codeUrl": "/win32/ntiologc-h/io_bad_block_with_name/0xc004001f/",
+  "numericCode": -1073479649,
+  "define": "IO_BAD_BLOCK_WITH_NAME",
+  "defineUrl": "/win32/ntiologc-h/io_bad_block_with_name/",
+  "message": "The file %2 on device %1 contains a bad disk block.",
+  "remarks": null,
+  "aka": [
+    "-1073479649"
+  ],
+  "akaUrl": [
+    "/win32/ntiologc-h/io_bad_block_with_name/-1073479649/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

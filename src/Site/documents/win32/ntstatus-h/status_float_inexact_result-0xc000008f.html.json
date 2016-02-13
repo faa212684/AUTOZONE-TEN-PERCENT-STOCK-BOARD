@@ -1,0 +1,29 @@
+---
+output: win32\ntstatus-h\status_float_inexact_result\0xc000008f\index.html.json
+
+title: 0xC000008F STATUS_FLOAT_INEXACT_RESULT in ntstatus.h
+description: "{EXCEPTION}
+Floating-point inexact result."
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000008F",
+  "codeUrl": "/win32/ntstatus-h/status_float_inexact_result/0xc000008f/",
+  "numericCode": -1073741681,
+  "define": "STATUS_FLOAT_INEXACT_RESULT",
+  "defineUrl": "/win32/ntstatus-h/status_float_inexact_result/",
+  "message": "{EXCEPTION}\r\nFloating-point inexact result.",
+  "remarks": null,
+  "aka": [
+    "-1073741681"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_float_inexact_result/-1073741681/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

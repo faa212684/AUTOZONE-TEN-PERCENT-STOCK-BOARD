@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_cluster_wrong_os_version\5899\index.html.json
+
+title: 5899 ERROR_CLUSTER_WRONG_OS_VERSION in winerror.h
+description: This computer cannot be made a member of a cluster because it does not have the correct version of Windows installed.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "5899",
+  "codeUrl": "/win32/winerror-h/error_cluster_wrong_os_version/5899/",
+  "numericCode": 5899,
+  "define": "ERROR_CLUSTER_WRONG_OS_VERSION",
+  "defineUrl": "/win32/winerror-h/error_cluster_wrong_os_version/",
+  "message": "This computer cannot be made a member of a cluster because it does not have the correct version of Windows installed.",
+  "remarks": null,
+  "aka": [
+    "0x8007170b",
+    "-2147018997"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_cluster_wrong_os_version/0x8007170b/",
+    "/win32/winerror-h/error_cluster_wrong_os_version/-2147018997/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

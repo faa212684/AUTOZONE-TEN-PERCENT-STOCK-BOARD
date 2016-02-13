@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\error_graphics_adapter_access_not_excluded\0xc026243b\index.html.json
+
+title: 0xC026243B ERROR_GRAPHICS_ADAPTER_ACCESS_NOT_EXCLUDED in winerror.h
+description: An operation is being attempted that requires the display adapter to be in a quiescent state.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0xC026243B",
+  "codeUrl": "/win32/winerror-h/error_graphics_adapter_access_not_excluded/0xc026243b/",
+  "numericCode": -1071242181,
+  "define": "ERROR_GRAPHICS_ADAPTER_ACCESS_NOT_EXCLUDED",
+  "defineUrl": "/win32/winerror-h/error_graphics_adapter_access_not_excluded/",
+  "message": "An operation is being attempted that requires the display adapter to be in a quiescent state.",
+  "remarks": null,
+  "aka": [
+    "-1071242181"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_graphics_adapter_access_not_excluded/-1071242181/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

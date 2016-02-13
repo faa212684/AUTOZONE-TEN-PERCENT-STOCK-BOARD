@@ -1,0 +1,28 @@
+---
+output: win32\wuerror-h\wu_e_setup_wrong_server_version\0x8024d013\index.html.json
+
+title: 0x8024D013 WU_E_SETUP_WRONG_SERVER_VERSION in wuerror.h
+description: Windows Update Agent could not be updated because the server does not contain update information for this version.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wuerror.h",
+  "sourceUrl": "/win32/wuerror-h/",
+  "code": "0x8024D013",
+  "codeUrl": "/win32/wuerror-h/wu_e_setup_wrong_server_version/0x8024d013/",
+  "numericCode": -2145071085,
+  "define": "WU_E_SETUP_WRONG_SERVER_VERSION",
+  "defineUrl": "/win32/wuerror-h/wu_e_setup_wrong_server_version/",
+  "message": "Windows Update Agent could not be updated because the server does not contain update information for this version.",
+  "remarks": null,
+  "aka": [
+    "-2145071085"
+  ],
+  "akaUrl": [
+    "/win32/wuerror-h/wu_e_setup_wrong_server_version/-2145071085/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

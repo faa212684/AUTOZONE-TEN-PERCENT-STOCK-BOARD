@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_process_aborted\1067\index.html.json
+
+title: 1067 ERROR_PROCESS_ABORTED in winerror.h
+description: The process terminated unexpectedly.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1067",
+  "codeUrl": "/win32/winerror-h/error_process_aborted/1067/",
+  "numericCode": 1067,
+  "define": "ERROR_PROCESS_ABORTED",
+  "defineUrl": "/win32/winerror-h/error_process_aborted/",
+  "message": "The process terminated unexpectedly.",
+  "remarks": null,
+  "aka": [
+    "0x8007042b",
+    "-2147023829"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_process_aborted/0x8007042b/",
+    "/win32/winerror-h/error_process_aborted/-2147023829/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

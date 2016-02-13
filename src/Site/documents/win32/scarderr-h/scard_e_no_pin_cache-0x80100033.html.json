@@ -1,0 +1,28 @@
+---
+output: win32\scarderr-h\scard_e_no_pin_cache\0x80100033\index.html.json
+
+title: 0x80100033 SCARD_E_NO_PIN_CACHE in SCardErr.h
+description: The smart card PIN cannot be cached.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "SCardErr.h",
+  "sourceUrl": "/win32/scarderr-h/",
+  "code": "0x80100033",
+  "codeUrl": "/win32/scarderr-h/scard_e_no_pin_cache/0x80100033/",
+  "numericCode": -2146435021,
+  "define": "SCARD_E_NO_PIN_CACHE",
+  "defineUrl": "/win32/scarderr-h/scard_e_no_pin_cache/",
+  "message": "The smart card PIN cannot be cached.",
+  "remarks": null,
+  "aka": [
+    "-2146435021"
+  ],
+  "akaUrl": [
+    "/win32/scarderr-h/scard_e_no_pin_cache/-2146435021/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

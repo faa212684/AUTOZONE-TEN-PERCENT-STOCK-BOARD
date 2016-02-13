@@ -1,0 +1,24 @@
+---
+output: win32\netevent-h\event_dav_redir_delayed_write_failed\-2147468848\index.html.json
+canonical: /win32/netevent-h/event_dav_redir_delayed_write_failed/0x800039d0/
+title: -2147468848 EVENT_DAV_REDIR_DELAYED_WRITE_FAILED in netevent.h
+description: Windows was unable to save data for file %2. The data has been lost. This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "-2147468848",
+  "codeUrl": "/win32/netevent-h/event_dav_redir_delayed_write_failed/-2147468848/",
+  "numericCode": 0,
+  "define": "EVENT_DAV_REDIR_DELAYED_WRITE_FAILED",
+  "defineUrl": "/win32/netevent-h/event_dav_redir_delayed_write_failed/",
+  "message": "Windows was unable to save data for file %2. The data has been lost. This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x800039D0",
+  "originalCodeUrl": "/win32/netevent-h/event_dav_redir_delayed_write_failed/0x800039d0/"
+}

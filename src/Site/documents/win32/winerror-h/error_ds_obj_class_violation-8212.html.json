@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ds_obj_class_violation\8212\index.html.json
+
+title: 8212 ERROR_DS_OBJ_CLASS_VIOLATION in winerror.h
+description: The requested operation did not satisfy one or more constraints associated with the class of the object.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "8212",
+  "codeUrl": "/win32/winerror-h/error_ds_obj_class_violation/8212/",
+  "numericCode": 8212,
+  "define": "ERROR_DS_OBJ_CLASS_VIOLATION",
+  "defineUrl": "/win32/winerror-h/error_ds_obj_class_violation/",
+  "message": "The requested operation did not satisfy one or more constraints associated with the class of the object.",
+  "remarks": null,
+  "aka": [
+    "0x80072014",
+    "-2147016684"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ds_obj_class_violation/0x80072014/",
+    "/win32/winerror-h/error_ds_obj_class_violation/-2147016684/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

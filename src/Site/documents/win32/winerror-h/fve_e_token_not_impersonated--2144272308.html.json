@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\fve_e_token_not_impersonated\-2144272308\index.html.json
+canonical: /win32/winerror-h/fve_e_token_not_impersonated/0x8031004c/
+title: -2144272308 FVE_E_TOKEN_NOT_IMPERSONATED in winerror.h
+description: The access token associated with the current thread is not an impersonated token.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2144272308",
+  "codeUrl": "/win32/winerror-h/fve_e_token_not_impersonated/-2144272308/",
+  "numericCode": 0,
+  "define": "FVE_E_TOKEN_NOT_IMPERSONATED",
+  "defineUrl": "/win32/winerror-h/fve_e_token_not_impersonated/",
+  "message": "The access token associated with the current thread is not an impersonated token.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x8031004C",
+  "originalCodeUrl": "/win32/winerror-h/fve_e_token_not_impersonated/0x8031004c/"
+}

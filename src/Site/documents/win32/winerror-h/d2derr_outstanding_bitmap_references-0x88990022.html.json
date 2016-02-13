@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\d2derr_outstanding_bitmap_references\0x88990022\index.html.json
+
+title: 0x88990022 D2DERR_OUTSTANDING_BITMAP_REFERENCES in winerror.h
+description: The operation cannot complete while there are outstanding references to the target bitmap.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x88990022",
+  "codeUrl": "/win32/winerror-h/d2derr_outstanding_bitmap_references/0x88990022/",
+  "numericCode": -2003238878,
+  "define": "D2DERR_OUTSTANDING_BITMAP_REFERENCES",
+  "defineUrl": "/win32/winerror-h/d2derr_outstanding_bitmap_references/",
+  "message": "The operation cannot complete while there are outstanding references to the target bitmap.",
+  "remarks": null,
+  "aka": [
+    "-2003238878"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/d2derr_outstanding_bitmap_references/-2003238878/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\dxgi_error_wait_timeout\-2005270489\index.html.json
+canonical: /win32/winerror-h/dxgi_error_wait_timeout/0x887a0027/
+title: -2005270489 DXGI_ERROR_WAIT_TIMEOUT in winerror.h
+description: The timeout value has elapsed and the resource is not yet available.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2005270489",
+  "codeUrl": "/win32/winerror-h/dxgi_error_wait_timeout/-2005270489/",
+  "numericCode": 0,
+  "define": "DXGI_ERROR_WAIT_TIMEOUT",
+  "defineUrl": "/win32/winerror-h/dxgi_error_wait_timeout/",
+  "message": "The timeout value has elapsed and the resource is not yet available.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x887A0027",
+  "originalCodeUrl": "/win32/winerror-h/dxgi_error_wait_timeout/0x887a0027/"
+}

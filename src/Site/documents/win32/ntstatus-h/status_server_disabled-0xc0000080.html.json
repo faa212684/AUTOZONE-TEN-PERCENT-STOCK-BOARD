@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_server_disabled\0xc0000080\index.html.json
+
+title: 0xC0000080 STATUS_SERVER_DISABLED in ntstatus.h
+description: The GUID allocation server is [already] disabled at the moment.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000080",
+  "codeUrl": "/win32/ntstatus-h/status_server_disabled/0xc0000080/",
+  "numericCode": -1073741696,
+  "define": "STATUS_SERVER_DISABLED",
+  "defineUrl": "/win32/ntstatus-h/status_server_disabled/",
+  "message": "The GUID allocation server is [already] disabled at the moment.",
+  "remarks": null,
+  "aka": [
+    "-1073741696"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_server_disabled/-1073741696/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

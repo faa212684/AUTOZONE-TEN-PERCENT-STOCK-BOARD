@@ -1,0 +1,25 @@
+---
+output: win32\ntstatus-h\status_receive_partial_expedited\1073741841\index.html.json
+canonical: /win32/ntstatus-h/status_receive_partial_expedited/0x40000011/
+title: 1073741841 STATUS_RECEIVE_PARTIAL_EXPEDITED in ntstatus.h
+description: "{Partial Expedited Data Received}
+The network transport returned partial data to its client and this data was marked as expedited by the remote system. The remaining data will be sent later."
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "1073741841",
+  "codeUrl": "/win32/ntstatus-h/status_receive_partial_expedited/1073741841/",
+  "numericCode": 0,
+  "define": "STATUS_RECEIVE_PARTIAL_EXPEDITED",
+  "defineUrl": "/win32/ntstatus-h/status_receive_partial_expedited/",
+  "message": "{Partial Expedited Data Received}\r\nThe network transport returned partial data to its client and this data was marked as expedited by the remote system. The remaining data will be sent later.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x40000011",
+  "originalCodeUrl": "/win32/ntstatus-h/status_receive_partial_expedited/0x40000011/"
+}

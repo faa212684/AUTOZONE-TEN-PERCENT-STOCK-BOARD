@@ -1,0 +1,28 @@
+---
+output: win32\ntiologc-h\mca_warning_mem_1_2_5\0x8005004a\index.html.json
+
+title: 0x8005004A MCA_WARNING_MEM_1_2_5 in ntiologc.h
+description: Machine Check Event reported is a corrected ECC memory error at physical address %3 on memory module %4 reported to CPU %1. %2 additional error(s) are contained within the record.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntiologc.h",
+  "sourceUrl": "/win32/ntiologc-h/",
+  "code": "0x8005004A",
+  "codeUrl": "/win32/ntiologc-h/mca_warning_mem_1_2_5/0x8005004a/",
+  "numericCode": -2147155894,
+  "define": "MCA_WARNING_MEM_1_2_5",
+  "defineUrl": "/win32/ntiologc-h/mca_warning_mem_1_2_5/",
+  "message": "Machine Check Event reported is a corrected ECC memory error at physical address %3 on memory module %4 reported to CPU %1. %2 additional error(s) are contained within the record.",
+  "remarks": null,
+  "aka": [
+    "-2147155894"
+  ],
+  "akaUrl": [
+    "/win32/ntiologc-h/mca_warning_mem_1_2_5/-2147155894/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

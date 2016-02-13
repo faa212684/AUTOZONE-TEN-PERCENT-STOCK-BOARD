@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_kdc_cert_revoked\0xc000040f\index.html.json
+
+title: 0xC000040F STATUS_KDC_CERT_REVOKED in ntstatus.h
+description: The domain controller certificate used for smartcard logon has been revoked. Please contact your system administrator with the contents of your system event log.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000040F",
+  "codeUrl": "/win32/ntstatus-h/status_kdc_cert_revoked/0xc000040f/",
+  "numericCode": -1073740785,
+  "define": "STATUS_KDC_CERT_REVOKED",
+  "defineUrl": "/win32/ntstatus-h/status_kdc_cert_revoked/",
+  "message": "The domain controller certificate used for smartcard logon has been revoked. Please contact your system administrator with the contents of your system event log.",
+  "remarks": null,
+  "aka": [
+    "-1073740785"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_kdc_cert_revoked/-1073740785/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\wsmerror-h\error_wsman_uri_non_dmtf_class\0x80338139\index.html.json
+
+title: 0x80338139 ERROR_WSMAN_URI_NON_DMTF_CLASS in wsmerror.h
+description: The WS-Management service cannot process the request. A DMTF resource URI was used to access a non-DMTF class. Try again using a non-DMTF resource URI.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x80338139",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_uri_non_dmtf_class/0x80338139/",
+  "numericCode": -2144108231,
+  "define": "ERROR_WSMAN_URI_NON_DMTF_CLASS",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_uri_non_dmtf_class/",
+  "message": "The WS-Management service cannot process the request. A DMTF resource URI was used to access a non-DMTF class. Try again using a non-DMTF resource URI.",
+  "remarks": null,
+  "aka": [
+    "-2144108231"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_uri_non_dmtf_class/-2144108231/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

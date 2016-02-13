@@ -1,0 +1,28 @@
+---
+output: bugcheck\bugcodes-h\process_has_locked_pages\0x00000076\index.html.json
+
+title: 0x00000076 PROCESS_HAS_LOCKED_PAGES in bugcodes.h
+description: PROCESS_HAS_LOCKED_PAGES
+disqus: true
+---
+{
+  "area": "bugcheck",
+  "areaUrl": "/bugcheck/",
+  "source": "bugcodes.h",
+  "sourceUrl": "/bugcheck/bugcodes-h/",
+  "code": "0x00000076",
+  "codeUrl": "/bugcheck/bugcodes-h/process_has_locked_pages/0x00000076/",
+  "numericCode": 118,
+  "define": "PROCESS_HAS_LOCKED_PAGES",
+  "defineUrl": "/bugcheck/bugcodes-h/process_has_locked_pages/",
+  "message": "PROCESS_HAS_LOCKED_PAGES",
+  "remarks": null,
+  "aka": [
+    "118"
+  ],
+  "akaUrl": [
+    "/bugcheck/bugcodes-h/process_has_locked_pages/118/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

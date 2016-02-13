@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_beyond_vdl\-1073740750\index.html.json
+canonical: /win32/ntstatus-h/status_beyond_vdl/0xc0000432/
+title: -1073740750 STATUS_BEYOND_VDL in ntstatus.h
+description: The operation was attempted beyond the valid data length of the file.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073740750",
+  "codeUrl": "/win32/ntstatus-h/status_beyond_vdl/-1073740750/",
+  "numericCode": 0,
+  "define": "STATUS_BEYOND_VDL",
+  "defineUrl": "/win32/ntstatus-h/status_beyond_vdl/",
+  "message": "The operation was attempted beyond the valid data length of the file.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000432",
+  "originalCodeUrl": "/win32/ntstatus-h/status_beyond_vdl/0xc0000432/"
+}

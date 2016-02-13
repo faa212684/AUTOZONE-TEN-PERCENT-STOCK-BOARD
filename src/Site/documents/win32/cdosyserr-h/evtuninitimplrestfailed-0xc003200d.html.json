@@ -1,0 +1,29 @@
+---
+output: win32\cdosyserr-h\evtuninitimplrestfailed\0xc003200d\index.html.json
+
+title: 0xC003200D evtUninitImplRestFailed in CDOSysErr.h
+description: Calendaring agent failed to uninitialize implied restriction with error %1 on %2: %3.
+%n%nFor more information, click http:www.microsoft.com/contentredirect.asp.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "CDOSysErr.h",
+  "sourceUrl": "/win32/cdosyserr-h/",
+  "code": "0xC003200D",
+  "codeUrl": "/win32/cdosyserr-h/evtuninitimplrestfailed/0xc003200d/",
+  "numericCode": -1073537011,
+  "define": "evtUninitImplRestFailed",
+  "defineUrl": "/win32/cdosyserr-h/evtuninitimplrestfailed/",
+  "message": "Calendaring agent failed to uninitialize implied restriction with error %1 on %2: %3.\r\n%n%nFor more information, click http:www.microsoft.com/contentredirect.asp.",
+  "remarks": null,
+  "aka": [
+    "-1073537011"
+  ],
+  "akaUrl": [
+    "/win32/cdosyserr-h/evtuninitimplrestfailed/-1073537011/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

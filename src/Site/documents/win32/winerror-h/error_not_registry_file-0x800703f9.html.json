@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_not_registry_file\0x800703f9\index.html.json
+canonical: /win32/winerror-h/error_not_registry_file/1017/
+title: 0x800703f9 ERROR_NOT_REGISTRY_FILE in winerror.h
+description: The system has attempted to load or restore a file into the registry, but the specified file is not in a registry file format.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800703f9",
+  "codeUrl": "/win32/winerror-h/error_not_registry_file/0x800703f9/",
+  "numericCode": 0,
+  "define": "ERROR_NOT_REGISTRY_FILE",
+  "defineUrl": "/win32/winerror-h/error_not_registry_file/",
+  "message": "The system has attempted to load or restore a file into the registry, but the specified file is not in a registry file format.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "1017",
+  "originalCodeUrl": "/win32/winerror-h/error_not_registry_file/1017/"
+}

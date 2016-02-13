@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\dbg_command_exception\1073807369\index.html.json
+canonical: /win32/ntstatus-h/dbg_command_exception/0x40010009/
+title: 1073807369 DBG_COMMAND_EXCEPTION in ntstatus.h
+description: Debugger command communication exception.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "1073807369",
+  "codeUrl": "/win32/ntstatus-h/dbg_command_exception/1073807369/",
+  "numericCode": 0,
+  "define": "DBG_COMMAND_EXCEPTION",
+  "defineUrl": "/win32/ntstatus-h/dbg_command_exception/",
+  "message": "Debugger command communication exception.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x40010009",
+  "originalCodeUrl": "/win32/ntstatus-h/dbg_command_exception/0x40010009/"
+}

@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\ws_e_security_verification_failure\0x803d000a\index.html.json
+
+title: 0x803D000A WS_E_SECURITY_VERIFICATION_FAILURE in winerror.h
+description: Security verification was not successful for the received data.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x803D000A",
+  "codeUrl": "/win32/winerror-h/ws_e_security_verification_failure/0x803d000a/",
+  "numericCode": -2143485942,
+  "define": "WS_E_SECURITY_VERIFICATION_FAILURE",
+  "defineUrl": "/win32/winerror-h/ws_e_security_verification_failure/",
+  "message": "Security verification was not successful for the received data.",
+  "remarks": null,
+  "aka": [
+    "-2143485942"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/ws_e_security_verification_failure/-2143485942/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

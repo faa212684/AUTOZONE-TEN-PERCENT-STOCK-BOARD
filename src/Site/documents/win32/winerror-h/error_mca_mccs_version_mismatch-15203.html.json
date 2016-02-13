@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_mca_mccs_version_mismatch\15203\index.html.json
+
+title: 15203 ERROR_MCA_MCCS_VERSION_MISMATCH in winerror.h
+description: The MCCS version in a monitor's mccs_ver capability does not match the MCCS version the monitor reports when the VCP Version (0xDF) VCP code is used.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "15203",
+  "codeUrl": "/win32/winerror-h/error_mca_mccs_version_mismatch/15203/",
+  "numericCode": 15203,
+  "define": "ERROR_MCA_MCCS_VERSION_MISMATCH",
+  "defineUrl": "/win32/winerror-h/error_mca_mccs_version_mismatch/",
+  "message": "The MCCS version in a monitor's mccs_ver capability does not match the MCCS version the monitor reports when the VCP Version (0xDF) VCP code is used.",
+  "remarks": null,
+  "aka": [
+    "0x80073b63",
+    "-2147009693"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_mca_mccs_version_mismatch/0x80073b63/",
+    "/win32/winerror-h/error_mca_mccs_version_mismatch/-2147009693/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

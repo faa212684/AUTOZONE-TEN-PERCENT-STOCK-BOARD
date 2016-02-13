@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_tpm_retry\-1071052800\index.html.json
+canonical: /win32/ntstatus-h/status_tpm_retry/0xc0290800/
+title: -1071052800 STATUS_TPM_RETRY in ntstatus.h
+description: The TPM is too busy to respond to the command immediately, but the command could be resubmitted at a later time.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071052800",
+  "codeUrl": "/win32/ntstatus-h/status_tpm_retry/-1071052800/",
+  "numericCode": 0,
+  "define": "STATUS_TPM_RETRY",
+  "defineUrl": "/win32/ntstatus-h/status_tpm_retry/",
+  "message": "The TPM is too busy to respond to the command immediately, but the command could be resubmitted at a later time.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0290800",
+  "originalCodeUrl": "/win32/ntstatus-h/status_tpm_retry/0xc0290800/"
+}

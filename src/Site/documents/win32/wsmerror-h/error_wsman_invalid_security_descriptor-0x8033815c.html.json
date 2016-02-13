@@ -1,0 +1,28 @@
+---
+output: win32\wsmerror-h\error_wsman_invalid_security_descriptor\0x8033815c\index.html.json
+
+title: 0x8033815C ERROR_WSMAN_INVALID_SECURITY_DESCRIPTOR in wsmerror.h
+description: The WinRM client cannot process the request because the provided security descriptor is invalid.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x8033815C",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_invalid_security_descriptor/0x8033815c/",
+  "numericCode": -2144108196,
+  "define": "ERROR_WSMAN_INVALID_SECURITY_DESCRIPTOR",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_invalid_security_descriptor/",
+  "message": "The WinRM client cannot process the request because the provided security descriptor is invalid.",
+  "remarks": null,
+  "aka": [
+    "-2144108196"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_invalid_security_descriptor/-2144108196/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

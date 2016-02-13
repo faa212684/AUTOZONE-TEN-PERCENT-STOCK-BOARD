@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ds_dup_ldap_display_name\8382\index.html.json
+
+title: 8382 ERROR_DS_DUP_LDAP_DISPLAY_NAME in winerror.h
+description: Schema update failed: duplicate LDAP display name.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "8382",
+  "codeUrl": "/win32/winerror-h/error_ds_dup_ldap_display_name/8382/",
+  "numericCode": 8382,
+  "define": "ERROR_DS_DUP_LDAP_DISPLAY_NAME",
+  "defineUrl": "/win32/winerror-h/error_ds_dup_ldap_display_name/",
+  "message": "Schema update failed: duplicate LDAP display name.",
+  "remarks": null,
+  "aka": [
+    "0x800720be",
+    "-2147016514"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ds_dup_ldap_display_name/0x800720be/",
+    "/win32/winerror-h/error_ds_dup_ldap_display_name/-2147016514/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_rxact_committed\266\index.html.json
+canonical: /win32/ntstatus-h/status_rxact_committed/0x0000010a/
+title: 266 STATUS_RXACT_COMMITTED in ntstatus.h
+description: This success level status indicates that the transaction state already exists for the registry sub-tree, but that a transaction commit was previously aborted. The commit has now been completed.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "266",
+  "codeUrl": "/win32/ntstatus-h/status_rxact_committed/266/",
+  "numericCode": 0,
+  "define": "STATUS_RXACT_COMMITTED",
+  "defineUrl": "/win32/ntstatus-h/status_rxact_committed/",
+  "message": "This success level status indicates that the transaction state already exists for the registry sub-tree, but that a transaction commit was previously aborted. The commit has now been completed.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x0000010A",
+  "originalCodeUrl": "/win32/ntstatus-h/status_rxact_committed/0x0000010a/"
+}

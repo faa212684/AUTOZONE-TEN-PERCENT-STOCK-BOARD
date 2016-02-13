@@ -1,0 +1,28 @@
+---
+output: win32\wsmerror-h\error_wsman_invalid_batch_settings_parameter\0x8033810d\index.html.json
+
+title: 0x8033810D ERROR_WSMAN_INVALID_BATCH_SETTINGS_PARAMETER in wsmerror.h
+description: The WinRM client cannot process the request. The batch settings parameter is invalid.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x8033810D",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_invalid_batch_settings_parameter/0x8033810d/",
+  "numericCode": -2144108275,
+  "define": "ERROR_WSMAN_INVALID_BATCH_SETTINGS_PARAMETER",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_invalid_batch_settings_parameter/",
+  "message": "The WinRM client cannot process the request. The batch settings parameter is invalid.",
+  "remarks": null,
+  "aka": [
+    "-2144108275"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_invalid_batch_settings_parameter/-2144108275/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

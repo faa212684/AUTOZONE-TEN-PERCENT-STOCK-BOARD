@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\rpc_s_invalid_async_call\1915\index.html.json
+
+title: 1915 RPC_S_INVALID_ASYNC_CALL in winerror.h
+description: Invalid asynchronous RPC call handle for this operation.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1915",
+  "codeUrl": "/win32/winerror-h/rpc_s_invalid_async_call/1915/",
+  "numericCode": 1915,
+  "define": "RPC_S_INVALID_ASYNC_CALL",
+  "defineUrl": "/win32/winerror-h/rpc_s_invalid_async_call/",
+  "message": "Invalid asynchronous RPC call handle for this operation.",
+  "remarks": null,
+  "aka": [
+    "0x8007077b",
+    "-2147022981"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/rpc_s_invalid_async_call/0x8007077b/",
+    "/win32/winerror-h/rpc_s_invalid_async_call/-2147022981/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

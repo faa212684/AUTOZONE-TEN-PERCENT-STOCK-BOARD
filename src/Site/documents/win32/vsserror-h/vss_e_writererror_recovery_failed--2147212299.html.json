@@ -1,0 +1,24 @@
+---
+output: win32\vsserror-h\vss_e_writererror_recovery_failed\-2147212299\index.html.json
+canonical: /win32/vsserror-h/vss_e_writererror_recovery_failed/0x800423f5/
+title: -2147212299 VSS_E_WRITERERROR_RECOVERY_FAILED in vsserror.h
+description: The writer experienced an error while trying to recover the shadow-copy volume.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vsserror.h",
+  "sourceUrl": "/win32/vsserror-h/",
+  "code": "-2147212299",
+  "codeUrl": "/win32/vsserror-h/vss_e_writererror_recovery_failed/-2147212299/",
+  "numericCode": 0,
+  "define": "VSS_E_WRITERERROR_RECOVERY_FAILED",
+  "defineUrl": "/win32/vsserror-h/vss_e_writererror_recovery_failed/",
+  "message": "The writer experienced an error while trying to recover the shadow-copy volume.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x800423F5",
+  "originalCodeUrl": "/win32/vsserror-h/vss_e_writererror_recovery_failed/0x800423f5/"
+}

@@ -1,0 +1,28 @@
+---
+output: bugcheck\bugcodes-h\spin_lock_not_owned\0x00000010\index.html.json
+
+title: 0x00000010 SPIN_LOCK_NOT_OWNED in bugcodes.h
+description: SPIN_LOCK_NOT_OWNED
+disqus: true
+---
+{
+  "area": "bugcheck",
+  "areaUrl": "/bugcheck/",
+  "source": "bugcodes.h",
+  "sourceUrl": "/bugcheck/bugcodes-h/",
+  "code": "0x00000010",
+  "codeUrl": "/bugcheck/bugcodes-h/spin_lock_not_owned/0x00000010/",
+  "numericCode": 16,
+  "define": "SPIN_LOCK_NOT_OWNED",
+  "defineUrl": "/bugcheck/bugcodes-h/spin_lock_not_owned/",
+  "message": "SPIN_LOCK_NOT_OWNED",
+  "remarks": null,
+  "aka": [
+    "16"
+  ],
+  "akaUrl": [
+    "/bugcheck/bugcodes-h/spin_lock_not_owned/16/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

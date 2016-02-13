@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_ds_thread_limit_exceeded\0x8007218b\index.html.json
+canonical: /win32/winerror-h/error_ds_thread_limit_exceeded/8587/
+title: 0x8007218b ERROR_DS_THREAD_LIMIT_EXCEEDED in winerror.h
+description: The thread limit for this request was exceeded.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007218b",
+  "codeUrl": "/win32/winerror-h/error_ds_thread_limit_exceeded/0x8007218b/",
+  "numericCode": 0,
+  "define": "ERROR_DS_THREAD_LIMIT_EXCEEDED",
+  "defineUrl": "/win32/winerror-h/error_ds_thread_limit_exceeded/",
+  "message": "The thread limit for this request was exceeded.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "8587",
+  "originalCodeUrl": "/win32/winerror-h/error_ds_thread_limit_exceeded/8587/"
+}

@@ -1,0 +1,28 @@
+---
+output: win32\oledberr-h\db_e_noncontiguousrange\0x80040e2b\index.html.json
+
+title: 0x80040E2B DB_E_NONCONTIGUOUSRANGE in oledberr.h
+description: Set of rows is not contiguous to, or does not overlap, the rows in the watch region.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "oledberr.h",
+  "sourceUrl": "/win32/oledberr-h/",
+  "code": "0x80040E2B",
+  "codeUrl": "/win32/oledberr-h/db_e_noncontiguousrange/0x80040e2b/",
+  "numericCode": -2147217877,
+  "define": "DB_E_NONCONTIGUOUSRANGE",
+  "defineUrl": "/win32/oledberr-h/db_e_noncontiguousrange/",
+  "message": "Set of rows is not contiguous to, or does not overlap, the rows in the watch region.",
+  "remarks": null,
+  "aka": [
+    "-2147217877"
+  ],
+  "akaUrl": [
+    "/win32/oledberr-h/db_e_noncontiguousrange/-2147217877/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

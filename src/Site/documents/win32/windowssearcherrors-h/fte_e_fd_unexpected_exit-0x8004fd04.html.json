@@ -1,0 +1,30 @@
+---
+output: win32\windowssearcherrors-h\fte_e_fd_unexpected_exit\0x8004fd04\index.html.json
+
+title: 0x8004FD04 FTE_E_FD_UNEXPECTED_EXIT in WindowsSearchErrors.h
+description: The filter daemon process MSFTEFD exited unexpectedly.
+Here is the stack trace:
+%1
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "0x8004FD04",
+  "codeUrl": "/win32/windowssearcherrors-h/fte_e_fd_unexpected_exit/0x8004fd04/",
+  "numericCode": -2147156732,
+  "define": "FTE_E_FD_UNEXPECTED_EXIT",
+  "defineUrl": "/win32/windowssearcherrors-h/fte_e_fd_unexpected_exit/",
+  "message": "The filter daemon process MSFTEFD exited unexpectedly.\r\nHere is the stack trace:\r\n%1",
+  "remarks": null,
+  "aka": [
+    "-2147156732"
+  ],
+  "akaUrl": [
+    "/win32/windowssearcherrors-h/fte_e_fd_unexpected_exit/-2147156732/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

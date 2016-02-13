@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_ds_cross_domain_cleanup_reqd\-2147016405\index.html.json
+canonical: /win32/winerror-h/error_ds_cross_domain_cleanup_reqd/8491/
+title: -2147016405 ERROR_DS_CROSS_DOMAIN_CLEANUP_REQD in winerror.h
+description: A cross-domain move operation failed such that two versions of the moved object exist - one each in the source and destination domains. The destination object needs to be removed to restore the system to a consistent state.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147016405",
+  "codeUrl": "/win32/winerror-h/error_ds_cross_domain_cleanup_reqd/-2147016405/",
+  "numericCode": 0,
+  "define": "ERROR_DS_CROSS_DOMAIN_CLEANUP_REQD",
+  "defineUrl": "/win32/winerror-h/error_ds_cross_domain_cleanup_reqd/",
+  "message": "A cross-domain move operation failed such that two versions of the moved object exist - one each in the source and destination domains. The destination object needs to be removed to restore the system to a consistent state.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "8491",
+  "originalCodeUrl": "/win32/winerror-h/error_ds_cross_domain_cleanup_reqd/8491/"
+}

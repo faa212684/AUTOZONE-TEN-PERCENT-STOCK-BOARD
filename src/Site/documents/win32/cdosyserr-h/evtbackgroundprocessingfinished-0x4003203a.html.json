@@ -1,0 +1,29 @@
+---
+output: win32\cdosyserr-h\evtbackgroundprocessingfinished\0x4003203a\index.html.json
+
+title: 0x4003203A evtBackgroundProcessingFinished in CDOSysErr.h
+description: Background calendaring agent has finished processing the calendar (%1) in the mailbox (%2) in the MDB (%3).  The return code is %4.
+%n%nFor more information, click http:www.microsoft.com/contentredirect.asp.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "CDOSysErr.h",
+  "sourceUrl": "/win32/cdosyserr-h/",
+  "code": "0x4003203A",
+  "codeUrl": "/win32/cdosyserr-h/evtbackgroundprocessingfinished/0x4003203a/",
+  "numericCode": 1073946682,
+  "define": "evtBackgroundProcessingFinished",
+  "defineUrl": "/win32/cdosyserr-h/evtbackgroundprocessingfinished/",
+  "message": "Background calendaring agent has finished processing the calendar (%1) in the mailbox (%2) in the MDB (%3).  The return code is %4.\r\n%n%nFor more information, click http:www.microsoft.com/contentredirect.asp.",
+  "remarks": null,
+  "aka": [
+    "1073946682"
+  ],
+  "akaUrl": [
+    "/win32/cdosyserr-h/evtbackgroundprocessingfinished/1073946682/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

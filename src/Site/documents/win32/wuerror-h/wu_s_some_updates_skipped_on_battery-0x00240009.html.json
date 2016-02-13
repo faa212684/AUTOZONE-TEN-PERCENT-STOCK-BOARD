@@ -1,0 +1,28 @@
+---
+output: win32\wuerror-h\wu_s_some_updates_skipped_on_battery\0x00240009\index.html.json
+
+title: 0x00240009 WU_S_SOME_UPDATES_SKIPPED_ON_BATTERY in wuerror.h
+description: The operation completed successfully, but some updates were skipped because the system is running on batteries.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wuerror.h",
+  "sourceUrl": "/win32/wuerror-h/",
+  "code": "0x00240009",
+  "codeUrl": "/win32/wuerror-h/wu_s_some_updates_skipped_on_battery/0x00240009/",
+  "numericCode": 2359305,
+  "define": "WU_S_SOME_UPDATES_SKIPPED_ON_BATTERY",
+  "defineUrl": "/win32/wuerror-h/wu_s_some_updates_skipped_on_battery/",
+  "message": "The operation completed successfully, but some updates were skipped because the system is running on batteries.",
+  "remarks": null,
+  "aka": [
+    "2359305"
+  ],
+  "akaUrl": [
+    "/win32/wuerror-h/wu_s_some_updates_skipped_on_battery/2359305/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

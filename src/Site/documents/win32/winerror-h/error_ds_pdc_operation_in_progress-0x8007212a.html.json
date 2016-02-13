@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_ds_pdc_operation_in_progress\0x8007212a\index.html.json
+canonical: /win32/winerror-h/error_ds_pdc_operation_in_progress/8490/
+title: 0x8007212a ERROR_DS_PDC_OPERATION_IN_PROGRESS in winerror.h
+description: Another operation which requires exclusive access to the PDC FSMO is already in progress.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007212a",
+  "codeUrl": "/win32/winerror-h/error_ds_pdc_operation_in_progress/0x8007212a/",
+  "numericCode": 0,
+  "define": "ERROR_DS_PDC_OPERATION_IN_PROGRESS",
+  "defineUrl": "/win32/winerror-h/error_ds_pdc_operation_in_progress/",
+  "message": "Another operation which requires exclusive access to the PDC FSMO is already in progress.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "8490",
+  "originalCodeUrl": "/win32/winerror-h/error_ds_pdc_operation_in_progress/8490/"
+}

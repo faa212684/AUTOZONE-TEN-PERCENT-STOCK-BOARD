@@ -1,0 +1,28 @@
+---
+output: win32\windowssearcherrors-h\people_import_e_enum_accessdenied\0x80044010\index.html.json
+
+title: 0x80044010 PEOPLE_IMPORT_E_ENUM_ACCESSDENIED in WindowsSearchErrors.h
+description: Access was denied on domain: (%1), and user information from the domain was not imported. Check the user name and password of the access account specified on the Configure Profile Import page. If incremental import is enabled and you are importing from a Windows 2000 domain, check that the access account has the Replicate Changes permission for Active Directory directory services.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "0x80044010",
+  "codeUrl": "/win32/windowssearcherrors-h/people_import_e_enum_accessdenied/0x80044010/",
+  "numericCode": -2147205104,
+  "define": "PEOPLE_IMPORT_E_ENUM_ACCESSDENIED",
+  "defineUrl": "/win32/windowssearcherrors-h/people_import_e_enum_accessdenied/",
+  "message": "Access was denied on domain: (%1), and user information from the domain was not imported. Check the user name and password of the access account specified on the Configure Profile Import page. If incremental import is enabled and you are importing from a Windows 2000 domain, check that the access account has the Replicate Changes permission for Active Directory directory services.",
+  "remarks": null,
+  "aka": [
+    "-2147205104"
+  ],
+  "akaUrl": [
+    "/win32/windowssearcherrors-h/people_import_e_enum_accessdenied/-2147205104/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

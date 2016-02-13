@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_ctx_td_error\0xc00a0010\index.html.json
+
+title: 0xC00A0010 STATUS_CTX_TD_ERROR in ntstatus.h
+description: Transport driver error
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC00A0010",
+  "codeUrl": "/win32/ntstatus-h/status_ctx_td_error/0xc00a0010/",
+  "numericCode": -1073086448,
+  "define": "STATUS_CTX_TD_ERROR",
+  "defineUrl": "/win32/ntstatus-h/status_ctx_td_error/",
+  "message": "Transport driver error",
+  "remarks": null,
+  "aka": [
+    "-1073086448"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_ctx_td_error/-1073086448/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

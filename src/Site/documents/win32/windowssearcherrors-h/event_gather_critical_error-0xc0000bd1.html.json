@@ -1,0 +1,28 @@
+---
+output: win32\windowssearcherrors-h\event_gather_critical_error\0xc0000bd1\index.html.json
+
+title: 0xC0000BD1 EVENT_GATHER_CRITICAL_ERROR in WindowsSearchErrors.h
+description: Critical error %2 occurred, and the index was shut down. The system is probably low on resources. Free up resources and restart the service.%1
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "0xC0000BD1",
+  "codeUrl": "/win32/windowssearcherrors-h/event_gather_critical_error/0xc0000bd1/",
+  "numericCode": -1073738799,
+  "define": "EVENT_GATHER_CRITICAL_ERROR",
+  "defineUrl": "/win32/windowssearcherrors-h/event_gather_critical_error/",
+  "message": "Critical error %2 occurred, and the index was shut down. The system is probably low on resources. Free up resources and restart the service.%1",
+  "remarks": null,
+  "aka": [
+    "-1073738799"
+  ],
+  "akaUrl": [
+    "/win32/windowssearcherrors-h/event_gather_critical_error/-1073738799/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

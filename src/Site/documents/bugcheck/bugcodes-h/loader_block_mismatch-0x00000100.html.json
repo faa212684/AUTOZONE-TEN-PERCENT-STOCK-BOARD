@@ -1,0 +1,28 @@
+---
+output: bugcheck\bugcodes-h\loader_block_mismatch\0x00000100\index.html.json
+
+title: 0x00000100 LOADER_BLOCK_MISMATCH in bugcodes.h
+description: LOADER_BLOCK_MISMATCH
+disqus: true
+---
+{
+  "area": "bugcheck",
+  "areaUrl": "/bugcheck/",
+  "source": "bugcodes.h",
+  "sourceUrl": "/bugcheck/bugcodes-h/",
+  "code": "0x00000100",
+  "codeUrl": "/bugcheck/bugcodes-h/loader_block_mismatch/0x00000100/",
+  "numericCode": 256,
+  "define": "LOADER_BLOCK_MISMATCH",
+  "defineUrl": "/bugcheck/bugcodes-h/loader_block_mismatch/",
+  "message": "LOADER_BLOCK_MISMATCH",
+  "remarks": null,
+  "aka": [
+    "256"
+  ],
+  "akaUrl": [
+    "/bugcheck/bugcodes-h/loader_block_mismatch/256/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

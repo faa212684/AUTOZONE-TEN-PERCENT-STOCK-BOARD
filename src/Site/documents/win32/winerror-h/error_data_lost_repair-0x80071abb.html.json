@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_data_lost_repair\0x80071abb\index.html.json
+canonical: /win32/winerror-h/error_data_lost_repair/6843/
+title: 0x80071abb ERROR_DATA_LOST_REPAIR in winerror.h
+description: Windows has discovered corruption in a file, and that file has since been repaired. Data loss may have occurred.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80071abb",
+  "codeUrl": "/win32/winerror-h/error_data_lost_repair/0x80071abb/",
+  "numericCode": 0,
+  "define": "ERROR_DATA_LOST_REPAIR",
+  "defineUrl": "/win32/winerror-h/error_data_lost_repair/",
+  "message": "Windows has discovered corruption in a file, and that file has since been repaired. Data loss may have occurred.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "6843",
+  "originalCodeUrl": "/win32/winerror-h/error_data_lost_repair/6843/"
+}

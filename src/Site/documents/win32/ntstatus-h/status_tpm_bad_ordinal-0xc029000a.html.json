@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_tpm_bad_ordinal\0xc029000a\index.html.json
+
+title: 0xC029000A STATUS_TPM_BAD_ORDINAL in ntstatus.h
+description: The ordinal was unknown or inconsistent.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC029000A",
+  "codeUrl": "/win32/ntstatus-h/status_tpm_bad_ordinal/0xc029000a/",
+  "numericCode": -1071054838,
+  "define": "STATUS_TPM_BAD_ORDINAL",
+  "defineUrl": "/win32/ntstatus-h/status_tpm_bad_ordinal/",
+  "message": "The ordinal was unknown or inconsistent.",
+  "remarks": null,
+  "aka": [
+    "-1071054838"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_tpm_bad_ordinal/-1071054838/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

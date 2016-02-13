@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_graphics_stale_modeset\0xc01e0320\index.html.json
+
+title: 0xC01E0320 STATUS_GRAPHICS_STALE_MODESET in ntstatus.h
+description: Specified mode set is stale. Please reacquire the new mode set.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC01E0320",
+  "codeUrl": "/win32/ntstatus-h/status_graphics_stale_modeset/0xc01e0320/",
+  "numericCode": -1071774944,
+  "define": "STATUS_GRAPHICS_STALE_MODESET",
+  "defineUrl": "/win32/ntstatus-h/status_graphics_stale_modeset/",
+  "message": "Specified mode set is stale. Please reacquire the new mode set.",
+  "remarks": null,
+  "aka": [
+    "-1071774944"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_graphics_stale_modeset/-1071774944/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

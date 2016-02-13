@@ -1,0 +1,28 @@
+---
+output: win32\windowssearcherrors-h\gthr_e_empty_dacl\0x80040daa\index.html.json
+
+title: 0x80040DAA GTHR_E_EMPTY_DACL in WindowsSearchErrors.h
+description: The security descriptor for this document only contained built-in access control entries. The built-in ACEs have to be removed because they won't be valid for this document during queries.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "0x80040DAA",
+  "codeUrl": "/win32/windowssearcherrors-h/gthr_e_empty_dacl/0x80040daa/",
+  "numericCode": -2147218006,
+  "define": "GTHR_E_EMPTY_DACL",
+  "defineUrl": "/win32/windowssearcherrors-h/gthr_e_empty_dacl/",
+  "message": "The security descriptor for this document only contained built-in access control entries. The built-in ACEs have to be removed because they won't be valid for this document during queries.",
+  "remarks": null,
+  "aka": [
+    "-2147218006"
+  ],
+  "akaUrl": [
+    "/win32/windowssearcherrors-h/gthr_e_empty_dacl/-2147218006/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

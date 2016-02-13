@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_ipsec_integrity_check_failed\0xc0360006\index.html.json
+
+title: 0xC0360006 STATUS_IPSEC_INTEGRITY_CHECK_FAILED in ntstatus.h
+description: IPsec integrity check failed.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0360006",
+  "codeUrl": "/win32/ntstatus-h/status_ipsec_integrity_check_failed/0xc0360006/",
+  "numericCode": -1070202874,
+  "define": "STATUS_IPSEC_INTEGRITY_CHECK_FAILED",
+  "defineUrl": "/win32/ntstatus-h/status_ipsec_integrity_check_failed/",
+  "message": "IPsec integrity check failed.",
+  "remarks": null,
+  "aka": [
+    "-1070202874"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_ipsec_integrity_check_failed/-1070202874/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

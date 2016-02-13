@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_install_prerequisite_failed\15613\index.html.json
+
+title: 15613 ERROR_INSTALL_PREREQUISITE_FAILED in winerror.h
+description: A Prerequisite for an install could not be satisfied.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "15613",
+  "codeUrl": "/win32/winerror-h/error_install_prerequisite_failed/15613/",
+  "numericCode": 15613,
+  "define": "ERROR_INSTALL_PREREQUISITE_FAILED",
+  "defineUrl": "/win32/winerror-h/error_install_prerequisite_failed/",
+  "message": "A Prerequisite for an install could not be satisfied.",
+  "remarks": null,
+  "aka": [
+    "0x80073cfd",
+    "-2147009283"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_install_prerequisite_failed/0x80073cfd/",
+    "/win32/winerror-h/error_install_prerequisite_failed/-2147009283/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

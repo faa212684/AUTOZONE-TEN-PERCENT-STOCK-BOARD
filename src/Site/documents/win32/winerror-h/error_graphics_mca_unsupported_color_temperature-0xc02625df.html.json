@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\error_graphics_mca_unsupported_color_temperature\0xc02625df\index.html.json
+
+title: 0xC02625DF ERROR_GRAPHICS_MCA_UNSUPPORTED_COLOR_TEMPERATURE in winerror.h
+description: SetMonitorColorTemperature()'s caller passed a color temperature to it which the current monitor did not support. This error implies that the monitor violated the MCCS 2.0 or MCCS 2.0 Revision 1 specification.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0xC02625DF",
+  "codeUrl": "/win32/winerror-h/error_graphics_mca_unsupported_color_temperature/0xc02625df/",
+  "numericCode": -1071241761,
+  "define": "ERROR_GRAPHICS_MCA_UNSUPPORTED_COLOR_TEMPERATURE",
+  "defineUrl": "/win32/winerror-h/error_graphics_mca_unsupported_color_temperature/",
+  "message": "SetMonitorColorTemperature()'s caller passed a color temperature to it which the current monitor did not support. This error implies that the monitor violated the MCCS 2.0 or MCCS 2.0 Revision 1 specification.",
+  "remarks": null,
+  "aka": [
+    "-1071241761"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_graphics_mca_unsupported_color_temperature/-1071241761/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

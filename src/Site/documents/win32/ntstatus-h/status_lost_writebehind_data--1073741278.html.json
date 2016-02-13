@@ -1,0 +1,25 @@
+---
+output: win32\ntstatus-h\status_lost_writebehind_data\-1073741278\index.html.json
+canonical: /win32/ntstatus-h/status_lost_writebehind_data/0xc0000222/
+title: -1073741278 STATUS_LOST_WRITEBEHIND_DATA in ntstatus.h
+description: "{Delayed Write Failed}
+Windows was unable to save all the data for the file %hs. The data has been lost. This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere."
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741278",
+  "codeUrl": "/win32/ntstatus-h/status_lost_writebehind_data/-1073741278/",
+  "numericCode": 0,
+  "define": "STATUS_LOST_WRITEBEHIND_DATA",
+  "defineUrl": "/win32/ntstatus-h/status_lost_writebehind_data/",
+  "message": "{Delayed Write Failed}\r\nWindows was unable to save all the data for the file %hs. The data has been lost. This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000222",
+  "originalCodeUrl": "/win32/ntstatus-h/status_lost_writebehind_data/0xc0000222/"
+}

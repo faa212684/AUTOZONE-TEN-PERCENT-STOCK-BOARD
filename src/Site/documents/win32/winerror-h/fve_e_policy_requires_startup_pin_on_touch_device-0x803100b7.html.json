@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\fve_e_policy_requires_startup_pin_on_touch_device\0x803100b7\index.html.json
+
+title: 0x803100B7 FVE_E_POLICY_REQUIRES_STARTUP_PIN_ON_TOUCH_DEVICE in winerror.h
+description: Group Policy settings require the creation of a startup PIN, but a pre-boot keyboard is not available on this device. The user may not be able to provide required input to unlock the volume.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x803100B7",
+  "codeUrl": "/win32/winerror-h/fve_e_policy_requires_startup_pin_on_touch_device/0x803100b7/",
+  "numericCode": -2144272201,
+  "define": "FVE_E_POLICY_REQUIRES_STARTUP_PIN_ON_TOUCH_DEVICE",
+  "defineUrl": "/win32/winerror-h/fve_e_policy_requires_startup_pin_on_touch_device/",
+  "message": "Group Policy settings require the creation of a startup PIN, but a pre-boot keyboard is not available on this device. The user may not be able to provide required input to unlock the volume.",
+  "remarks": null,
+  "aka": [
+    "-2144272201"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/fve_e_policy_requires_startup_pin_on_touch_device/-2144272201/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

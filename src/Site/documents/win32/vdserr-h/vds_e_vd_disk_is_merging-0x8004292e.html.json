@@ -1,0 +1,29 @@
+---
+output: win32\vdserr-h\vds_e_vd_disk_is_merging\0x8004292e\index.html.json
+
+title: 0x8004292E VDS_E_VD_DISK_IS_MERGING in vdserr.h
+description: The requested operation cannot be performed while the virtual disk
+is merging.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x8004292E",
+  "codeUrl": "/win32/vdserr-h/vds_e_vd_disk_is_merging/0x8004292e/",
+  "numericCode": -2147210962,
+  "define": "VDS_E_VD_DISK_IS_MERGING",
+  "defineUrl": "/win32/vdserr-h/vds_e_vd_disk_is_merging/",
+  "message": "The requested operation cannot be performed while the virtual disk\r\nis merging.",
+  "remarks": null,
+  "aka": [
+    "-2147210962"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_vd_disk_is_merging/-2147210962/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_graceful_disconnect\1226\index.html.json
+
+title: 1226 ERROR_GRACEFUL_DISCONNECT in winerror.h
+description: The network connection was gracefully closed.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1226",
+  "codeUrl": "/win32/winerror-h/error_graceful_disconnect/1226/",
+  "numericCode": 1226,
+  "define": "ERROR_GRACEFUL_DISCONNECT",
+  "defineUrl": "/win32/winerror-h/error_graceful_disconnect/",
+  "message": "The network connection was gracefully closed.",
+  "remarks": null,
+  "aka": [
+    "0x800704ca",
+    "-2147023670"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_graceful_disconnect/0x800704ca/",
+    "/win32/winerror-h/error_graceful_disconnect/-2147023670/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

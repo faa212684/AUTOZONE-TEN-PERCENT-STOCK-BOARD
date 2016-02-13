@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\peerdist_error_service_unavailable\4065\index.html.json
+
+title: 4065 PEERDIST_ERROR_SERVICE_UNAVAILABLE in winerror.h
+description: PeerDist Service is still initializing and will be available shortly.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "4065",
+  "codeUrl": "/win32/winerror-h/peerdist_error_service_unavailable/4065/",
+  "numericCode": 4065,
+  "define": "PEERDIST_ERROR_SERVICE_UNAVAILABLE",
+  "defineUrl": "/win32/winerror-h/peerdist_error_service_unavailable/",
+  "message": "PeerDist Service is still initializing and will be available shortly.",
+  "remarks": null,
+  "aka": [
+    "0x80070fe1",
+    "-2147020831"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/peerdist_error_service_unavailable/0x80070fe1/",
+    "/win32/winerror-h/peerdist_error_service_unavailable/-2147020831/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

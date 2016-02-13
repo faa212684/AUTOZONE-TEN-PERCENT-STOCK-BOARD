@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\wpn_e_push_notification_incapable\0x803e0119\index.html.json
+
+title: 0x803E0119 WPN_E_PUSH_NOTIFICATION_INCAPABLE in winerror.h
+description: The application background task does not have the push notification capability.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x803E0119",
+  "codeUrl": "/win32/winerror-h/wpn_e_push_notification_incapable/0x803e0119/",
+  "numericCode": -2143420135,
+  "define": "WPN_E_PUSH_NOTIFICATION_INCAPABLE",
+  "defineUrl": "/win32/winerror-h/wpn_e_push_notification_incapable/",
+  "message": "The application background task does not have the push notification capability.",
+  "remarks": null,
+  "aka": [
+    "-2143420135"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/wpn_e_push_notification_incapable/-2143420135/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

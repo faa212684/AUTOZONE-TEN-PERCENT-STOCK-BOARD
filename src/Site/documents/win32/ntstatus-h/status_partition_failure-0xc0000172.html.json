@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_partition_failure\0xc0000172\index.html.json
+
+title: 0xC0000172 STATUS_PARTITION_FAILURE in ntstatus.h
+description: Tape could not be partitioned.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000172",
+  "codeUrl": "/win32/ntstatus-h/status_partition_failure/0xc0000172/",
+  "numericCode": -1073741454,
+  "define": "STATUS_PARTITION_FAILURE",
+  "defineUrl": "/win32/ntstatus-h/status_partition_failure/",
+  "message": "Tape could not be partitioned.",
+  "remarks": null,
+  "aka": [
+    "-1073741454"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_partition_failure/-1073741454/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

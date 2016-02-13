@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\appx_e_missing_required_file\-2146958845\index.html.json
+canonical: /win32/winerror-h/appx_e_missing_required_file/0x80080203/
+title: -2146958845 APPX_E_MISSING_REQUIRED_FILE in winerror.h
+description: The file is not a valid Appx package because it is missing a manifest or block map, or missing a signature file when the code integrity file is present.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2146958845",
+  "codeUrl": "/win32/winerror-h/appx_e_missing_required_file/-2146958845/",
+  "numericCode": 0,
+  "define": "APPX_E_MISSING_REQUIRED_FILE",
+  "defineUrl": "/win32/winerror-h/appx_e_missing_required_file/",
+  "message": "The file is not a valid Appx package because it is missing a manifest or block map, or missing a signature file when the code integrity file is present.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80080203",
+  "originalCodeUrl": "/win32/winerror-h/appx_e_missing_required_file/0x80080203/"
+}

@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_cluster_invalid_ipv6_network\0x80071726\index.html.json
+canonical: /win32/winerror-h/error_cluster_invalid_ipv6_network/5926/
+title: 0x80071726 ERROR_CLUSTER_INVALID_IPV6_NETWORK in winerror.h
+description: The cluster network is not valid for an IPv6 Address resource, or it does not match the configured address.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80071726",
+  "codeUrl": "/win32/winerror-h/error_cluster_invalid_ipv6_network/0x80071726/",
+  "numericCode": 0,
+  "define": "ERROR_CLUSTER_INVALID_IPV6_NETWORK",
+  "defineUrl": "/win32/winerror-h/error_cluster_invalid_ipv6_network/",
+  "message": "The cluster network is not valid for an IPv6 Address resource, or it does not match the configured address.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "5926",
+  "originalCodeUrl": "/win32/winerror-h/error_cluster_invalid_ipv6_network/5926/"
+}

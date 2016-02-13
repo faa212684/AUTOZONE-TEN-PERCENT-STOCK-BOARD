@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_resource_name_not_found\1814\index.html.json
+
+title: 1814 ERROR_RESOURCE_NAME_NOT_FOUND in winerror.h
+description: The specified resource name cannot be found in the image file.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1814",
+  "codeUrl": "/win32/winerror-h/error_resource_name_not_found/1814/",
+  "numericCode": 1814,
+  "define": "ERROR_RESOURCE_NAME_NOT_FOUND",
+  "defineUrl": "/win32/winerror-h/error_resource_name_not_found/",
+  "message": "The specified resource name cannot be found in the image file.",
+  "remarks": null,
+  "aka": [
+    "0x80070716",
+    "-2147023082"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_resource_name_not_found/0x80070716/",
+    "/win32/winerror-h/error_resource_name_not_found/-2147023082/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

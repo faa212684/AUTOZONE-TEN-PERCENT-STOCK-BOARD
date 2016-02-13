@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_bth_att_insufficient_encryption\0xc042000f\index.html.json
+
+title: 0xC042000F STATUS_BTH_ATT_INSUFFICIENT_ENCRYPTION in ntstatus.h
+description: The attribute requires encryption before it can be read or written.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC042000F",
+  "codeUrl": "/win32/ntstatus-h/status_bth_att_insufficient_encryption/0xc042000f/",
+  "numericCode": -1069416433,
+  "define": "STATUS_BTH_ATT_INSUFFICIENT_ENCRYPTION",
+  "defineUrl": "/win32/ntstatus-h/status_bth_att_insufficient_encryption/",
+  "message": "The attribute requires encryption before it can be read or written.",
+  "remarks": null,
+  "aka": [
+    "-1069416433"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_bth_att_insufficient_encryption/-1069416433/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

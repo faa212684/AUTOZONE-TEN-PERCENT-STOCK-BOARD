@@ -1,0 +1,29 @@
+---
+output: win32\wsmerror-h\error_wsman_filtering_required\0x8033804f\index.html.json
+
+title: 0x8033804F ERROR_WSMAN_FILTERING_REQUIRED in wsmerror.h
+description: The WS-Management service does not support the filter dialect in the request. The filter dialect is the type of filter, such
+as XPath or WQL.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x8033804F",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_filtering_required/0x8033804f/",
+  "numericCode": -2144108465,
+  "define": "ERROR_WSMAN_FILTERING_REQUIRED",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_filtering_required/",
+  "message": "The WS-Management service does not support the filter dialect in the request. The filter dialect is the type of filter, such\r\nas XPath or WQL.",
+  "remarks": null,
+  "aka": [
+    "-2144108465"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_filtering_required/-2144108465/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

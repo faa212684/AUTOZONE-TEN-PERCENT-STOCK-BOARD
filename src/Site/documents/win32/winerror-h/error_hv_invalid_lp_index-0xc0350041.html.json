@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\error_hv_invalid_lp_index\0xc0350041\index.html.json
+
+title: 0xC0350041 ERROR_HV_INVALID_LP_INDEX in winerror.h
+description: The hypervisor could not perform the operation because the specified LP index is invalid.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0xC0350041",
+  "codeUrl": "/win32/winerror-h/error_hv_invalid_lp_index/0xc0350041/",
+  "numericCode": -1070268351,
+  "define": "ERROR_HV_INVALID_LP_INDEX",
+  "defineUrl": "/win32/winerror-h/error_hv_invalid_lp_index/",
+  "message": "The hypervisor could not perform the operation because the specified LP index is invalid.",
+  "remarks": null,
+  "aka": [
+    "-1070268351"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_hv_invalid_lp_index/-1070268351/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

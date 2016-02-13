@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_e_disk_is_offline\0x8004280a\index.html.json
+
+title: 0x8004280A VDS_E_DISK_IS_OFFLINE in vdserr.h
+description: The operation is not allowed on a disk that is offline.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x8004280A",
+  "codeUrl": "/win32/vdserr-h/vds_e_disk_is_offline/0x8004280a/",
+  "numericCode": -2147211254,
+  "define": "VDS_E_DISK_IS_OFFLINE",
+  "defineUrl": "/win32/vdserr-h/vds_e_disk_is_offline/",
+  "message": "The operation is not allowed on a disk that is offline.",
+  "remarks": null,
+  "aka": [
+    "-2147211254"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_disk_is_offline/-2147211254/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

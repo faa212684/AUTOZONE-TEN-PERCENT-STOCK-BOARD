@@ -1,0 +1,28 @@
+---
+output: win32\cdosyserr-h\cdo_e_recipients_rejected\0x8004020f\index.html.json
+
+title: 0x8004020F CDO_E_RECIPIENTS_REJECTED in CDOSysErr.h
+description: The server rejected one or more recipient addresses. The server response was: %1
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "CDOSysErr.h",
+  "sourceUrl": "/win32/cdosyserr-h/",
+  "code": "0x8004020F",
+  "codeUrl": "/win32/cdosyserr-h/cdo_e_recipients_rejected/0x8004020f/",
+  "numericCode": -2147220977,
+  "define": "CDO_E_RECIPIENTS_REJECTED",
+  "defineUrl": "/win32/cdosyserr-h/cdo_e_recipients_rejected/",
+  "message": "The server rejected one or more recipient addresses. The server response was: %1",
+  "remarks": null,
+  "aka": [
+    "-2147220977"
+  ],
+  "akaUrl": [
+    "/win32/cdosyserr-h/cdo_e_recipients_rejected/-2147220977/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

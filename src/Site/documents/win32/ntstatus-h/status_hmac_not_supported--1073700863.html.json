@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_hmac_not_supported\-1073700863\index.html.json
+canonical: /win32/ntstatus-h/status_hmac_not_supported/0xc000a001/
+title: -1073700863 STATUS_HMAC_NOT_SUPPORTED in ntstatus.h
+description: The cryptographic provider does not support HMAC.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073700863",
+  "codeUrl": "/win32/ntstatus-h/status_hmac_not_supported/-1073700863/",
+  "numericCode": 0,
+  "define": "STATUS_HMAC_NOT_SUPPORTED",
+  "defineUrl": "/win32/ntstatus-h/status_hmac_not_supported/",
+  "message": "The cryptographic provider does not support HMAC.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC000A001",
+  "originalCodeUrl": "/win32/ntstatus-h/status_hmac_not_supported/0xc000a001/"
+}

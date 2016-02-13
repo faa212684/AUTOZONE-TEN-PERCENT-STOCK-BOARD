@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\dns_error_name_does_not_exist\9714\index.html.json
+
+title: 9714 DNS_ERROR_NAME_DOES_NOT_EXIST in winerror.h
+description: DNS name does not exist.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "9714",
+  "codeUrl": "/win32/winerror-h/dns_error_name_does_not_exist/9714/",
+  "numericCode": 9714,
+  "define": "DNS_ERROR_NAME_DOES_NOT_EXIST",
+  "defineUrl": "/win32/winerror-h/dns_error_name_does_not_exist/",
+  "message": "DNS name does not exist.",
+  "remarks": null,
+  "aka": [
+    "0x800725f2",
+    "-2147015182"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/dns_error_name_does_not_exist/0x800725f2/",
+    "/win32/winerror-h/dns_error_name_does_not_exist/-2147015182/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_firmware_updated\1073741868\index.html.json
+canonical: /win32/ntstatus-h/status_firmware_updated/0x4000002c/
+title: 1073741868 STATUS_FIRMWARE_UPDATED in ntstatus.h
+description: Windows has detected that the system firmware (BIOS) was updated [previous firmware date = %2, current firmware date %3].
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "1073741868",
+  "codeUrl": "/win32/ntstatus-h/status_firmware_updated/1073741868/",
+  "numericCode": 0,
+  "define": "STATUS_FIRMWARE_UPDATED",
+  "defineUrl": "/win32/ntstatus-h/status_firmware_updated/",
+  "message": "Windows has detected that the system firmware (BIOS) was updated [previous firmware date = %2, current firmware date %3].",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x4000002C",
+  "originalCodeUrl": "/win32/ntstatus-h/status_firmware_updated/0x4000002c/"
+}

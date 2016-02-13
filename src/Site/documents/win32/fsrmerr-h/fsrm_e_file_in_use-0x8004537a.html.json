@@ -1,0 +1,28 @@
+---
+output: win32\fsrmerr-h\fsrm_e_file_in_use\0x8004537a\index.html.json
+
+title: 0x8004537A FSRM_E_FILE_IN_USE in fsrmerr.h
+description: The file is being used by another application and cannot be accessed at this time.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "fsrmerr.h",
+  "sourceUrl": "/win32/fsrmerr-h/",
+  "code": "0x8004537A",
+  "codeUrl": "/win32/fsrmerr-h/fsrm_e_file_in_use/0x8004537a/",
+  "numericCode": -2147200134,
+  "define": "FSRM_E_FILE_IN_USE",
+  "defineUrl": "/win32/fsrmerr-h/fsrm_e_file_in_use/",
+  "message": "The file is being used by another application and cannot be accessed at this time.",
+  "remarks": null,
+  "aka": [
+    "-2147200134"
+  ],
+  "akaUrl": [
+    "/win32/fsrmerr-h/fsrm_e_file_in_use/-2147200134/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

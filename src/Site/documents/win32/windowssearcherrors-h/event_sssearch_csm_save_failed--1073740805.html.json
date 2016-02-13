@@ -1,0 +1,24 @@
+---
+output: win32\windowssearcherrors-h\event_sssearch_csm_save_failed\-1073740805\index.html.json
+canonical: /win32/windowssearcherrors-h/event_sssearch_csm_save_failed/0xc00003fb/
+title: -1073740805 EVENT_SSSEARCH_CSM_SAVE_FAILED in WindowsSearchErrors.h
+description: Windows Search Service failed to process the list of included and excluded locations with the error <%2, %3, "%4">. %1
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "-1073740805",
+  "codeUrl": "/win32/windowssearcherrors-h/event_sssearch_csm_save_failed/-1073740805/",
+  "numericCode": 0,
+  "define": "EVENT_SSSEARCH_CSM_SAVE_FAILED",
+  "defineUrl": "/win32/windowssearcherrors-h/event_sssearch_csm_save_failed/",
+  "message": "Windows Search Service failed to process the list of included and excluded locations with the error <%2, %3, \"%4\">. %1",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC00003FB",
+  "originalCodeUrl": "/win32/windowssearcherrors-h/event_sssearch_csm_save_failed/0xc00003fb/"
+}

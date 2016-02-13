@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\xact_e_xa_tx_disabled\0x8004d026\index.html.json
+
+title: 0x8004D026 XACT_E_XA_TX_DISABLED in winerror.h
+description: The transaction manager has disabled its support for XA transactions.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8004D026",
+  "codeUrl": "/win32/winerror-h/xact_e_xa_tx_disabled/0x8004d026/",
+  "numericCode": -2147168218,
+  "define": "XACT_E_XA_TX_DISABLED",
+  "defineUrl": "/win32/winerror-h/xact_e_xa_tx_disabled/",
+  "message": "The transaction manager has disabled its support for XA transactions.",
+  "remarks": null,
+  "aka": [
+    "-2147168218"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/xact_e_xa_tx_disabled/-2147168218/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

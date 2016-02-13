@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ctx_cannot_make_eventlog_entry\7005\index.html.json
+
+title: 7005 ERROR_CTX_CANNOT_MAKE_EVENTLOG_ENTRY in winerror.h
+description: A registry key for event logging could not be created for this session.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "7005",
+  "codeUrl": "/win32/winerror-h/error_ctx_cannot_make_eventlog_entry/7005/",
+  "numericCode": 7005,
+  "define": "ERROR_CTX_CANNOT_MAKE_EVENTLOG_ENTRY",
+  "defineUrl": "/win32/winerror-h/error_ctx_cannot_make_eventlog_entry/",
+  "message": "A registry key for event logging could not be created for this session.",
+  "remarks": null,
+  "aka": [
+    "0x80071b5d",
+    "-2147017891"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ctx_cannot_make_eventlog_entry/0x80071b5d/",
+    "/win32/winerror-h/error_ctx_cannot_make_eventlog_entry/-2147017891/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_quota_not_enabled\0xc00001a9\index.html.json
+
+title: 0xC00001A9 STATUS_QUOTA_NOT_ENABLED in ntstatus.h
+description: Quota support is not enabled on the system.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC00001A9",
+  "codeUrl": "/win32/ntstatus-h/status_quota_not_enabled/0xc00001a9/",
+  "numericCode": -1073741399,
+  "define": "STATUS_QUOTA_NOT_ENABLED",
+  "defineUrl": "/win32/ntstatus-h/status_quota_not_enabled/",
+  "message": "Quota support is not enabled on the system.",
+  "remarks": null,
+  "aka": [
+    "-1073741399"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_quota_not_enabled/-1073741399/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_encountered_write_in_progress\0xc0000433\index.html.json
+
+title: 0xC0000433 STATUS_ENCOUNTERED_WRITE_IN_PROGRESS in ntstatus.h
+description: The attempted write operation encountered a write already in progress for some portion of the range.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000433",
+  "codeUrl": "/win32/ntstatus-h/status_encountered_write_in_progress/0xc0000433/",
+  "numericCode": -1073740749,
+  "define": "STATUS_ENCOUNTERED_WRITE_IN_PROGRESS",
+  "defineUrl": "/win32/ntstatus-h/status_encountered_write_in_progress/",
+  "message": "The attempted write operation encountered a write already in progress for some portion of the range.",
+  "remarks": null,
+  "aka": [
+    "-1073740749"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_encountered_write_in_progress/-1073740749/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

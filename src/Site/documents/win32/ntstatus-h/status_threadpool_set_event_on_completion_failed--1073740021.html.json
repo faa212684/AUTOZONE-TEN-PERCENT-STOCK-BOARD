@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_threadpool_set_event_on_completion_failed\-1073740021\index.html.json
+canonical: /win32/ntstatus-h/status_threadpool_set_event_on_completion_failed/0xc000070b/
+title: -1073740021 STATUS_THREADPOOL_SET_EVENT_ON_COMPLETION_FAILED in ntstatus.h
+description: After a callback to 0x%p(0x%p), a completion call to SetEvent(0x%p) failed with status 0x%08x.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073740021",
+  "codeUrl": "/win32/ntstatus-h/status_threadpool_set_event_on_completion_failed/-1073740021/",
+  "numericCode": 0,
+  "define": "STATUS_THREADPOOL_SET_EVENT_ON_COMPLETION_FAILED",
+  "defineUrl": "/win32/ntstatus-h/status_threadpool_set_event_on_completion_failed/",
+  "message": "After a callback to 0x%p(0x%p), a completion call to SetEvent(0x%p) failed with status 0x%08x.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC000070B",
+  "originalCodeUrl": "/win32/ntstatus-h/status_threadpool_set_event_on_completion_failed/0xc000070b/"
+}

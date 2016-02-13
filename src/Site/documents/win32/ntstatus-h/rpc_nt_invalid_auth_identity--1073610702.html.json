@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\rpc_nt_invalid_auth_identity\-1073610702\index.html.json
+canonical: /win32/ntstatus-h/rpc_nt_invalid_auth_identity/0xc0020032/
+title: -1073610702 RPC_NT_INVALID_AUTH_IDENTITY in ntstatus.h
+description: The security context is invalid.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073610702",
+  "codeUrl": "/win32/ntstatus-h/rpc_nt_invalid_auth_identity/-1073610702/",
+  "numericCode": 0,
+  "define": "RPC_NT_INVALID_AUTH_IDENTITY",
+  "defineUrl": "/win32/ntstatus-h/rpc_nt_invalid_auth_identity/",
+  "message": "The security context is invalid.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0020032",
+  "originalCodeUrl": "/win32/ntstatus-h/rpc_nt_invalid_auth_identity/0xc0020032/"
+}

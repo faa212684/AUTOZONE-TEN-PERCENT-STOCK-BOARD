@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\dns_error_no_zone_info\9602\index.html.json
+
+title: 9602 DNS_ERROR_NO_ZONE_INFO in winerror.h
+description: DNS zone information not available.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "9602",
+  "codeUrl": "/win32/winerror-h/dns_error_no_zone_info/9602/",
+  "numericCode": 9602,
+  "define": "DNS_ERROR_NO_ZONE_INFO",
+  "defineUrl": "/win32/winerror-h/dns_error_no_zone_info/",
+  "message": "DNS zone information not available.",
+  "remarks": null,
+  "aka": [
+    "0x80072582",
+    "-2147015294"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/dns_error_no_zone_info/0x80072582/",
+    "/win32/winerror-h/dns_error_no_zone_info/-2147015294/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

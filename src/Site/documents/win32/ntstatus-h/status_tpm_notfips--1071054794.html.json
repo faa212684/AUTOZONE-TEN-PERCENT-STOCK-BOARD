@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_tpm_notfips\-1071054794\index.html.json
+canonical: /win32/ntstatus-h/status_tpm_notfips/0xc0290036/
+title: -1071054794 STATUS_TPM_NOTFIPS in ntstatus.h
+description: The TPM is attempting to execute a command only available when in FIPS mode.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071054794",
+  "codeUrl": "/win32/ntstatus-h/status_tpm_notfips/-1071054794/",
+  "numericCode": 0,
+  "define": "STATUS_TPM_NOTFIPS",
+  "defineUrl": "/win32/ntstatus-h/status_tpm_notfips/",
+  "message": "The TPM is attempting to execute a command only available when in FIPS mode.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0290036",
+  "originalCodeUrl": "/win32/ntstatus-h/status_tpm_notfips/0xc0290036/"
+}

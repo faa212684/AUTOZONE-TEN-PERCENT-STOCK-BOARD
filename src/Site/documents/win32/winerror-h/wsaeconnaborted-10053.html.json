@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\wsaeconnaborted\10053\index.html.json
+
+title: 10053 WSAECONNABORTED in winerror.h
+description: An established connection was aborted by the software in your host machine.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "10053",
+  "codeUrl": "/win32/winerror-h/wsaeconnaborted/10053/",
+  "numericCode": 10053,
+  "define": "WSAECONNABORTED",
+  "defineUrl": "/win32/winerror-h/wsaeconnaborted/",
+  "message": "An established connection was aborted by the software in your host machine.",
+  "remarks": null,
+  "aka": [
+    "0x80072745",
+    "-2147014843"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/wsaeconnaborted/0x80072745/",
+    "/win32/winerror-h/wsaeconnaborted/-2147014843/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

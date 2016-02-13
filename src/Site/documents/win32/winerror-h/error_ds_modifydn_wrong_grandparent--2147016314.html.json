@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_ds_modifydn_wrong_grandparent\-2147016314\index.html.json
+canonical: /win32/winerror-h/error_ds_modifydn_wrong_grandparent/8582/
+title: -2147016314 ERROR_DS_MODIFYDN_WRONG_GRANDPARENT in winerror.h
+description: This object is not allowed to change its grandparent container. Moves are not forbidden on this object, but are restricted to sibling containers.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147016314",
+  "codeUrl": "/win32/winerror-h/error_ds_modifydn_wrong_grandparent/-2147016314/",
+  "numericCode": 0,
+  "define": "ERROR_DS_MODIFYDN_WRONG_GRANDPARENT",
+  "defineUrl": "/win32/winerror-h/error_ds_modifydn_wrong_grandparent/",
+  "message": "This object is not allowed to change its grandparent container. Moves are not forbidden on this object, but are restricted to sibling containers.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "8582",
+  "originalCodeUrl": "/win32/winerror-h/error_ds_modifydn_wrong_grandparent/8582/"
+}

@@ -1,0 +1,24 @@
+---
+output: win32\vdserr-h\vds_s_iscsi_login_alread_exists\272386\index.html.json
+canonical: /win32/vdserr-h/vds_s_iscsi_login_alread_exists/0x00042802/
+title: 272386 VDS_S_ISCSI_LOGIN_ALREAD_EXISTS in vdserr.h
+description: Login failed because the target is already logged in.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "272386",
+  "codeUrl": "/win32/vdserr-h/vds_s_iscsi_login_alread_exists/272386/",
+  "numericCode": 0,
+  "define": "VDS_S_ISCSI_LOGIN_ALREAD_EXISTS",
+  "defineUrl": "/win32/vdserr-h/vds_s_iscsi_login_alread_exists/",
+  "message": "Login failed because the target is already logged in.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x00042802",
+  "originalCodeUrl": "/win32/vdserr-h/vds_s_iscsi_login_alread_exists/0x00042802/"
+}

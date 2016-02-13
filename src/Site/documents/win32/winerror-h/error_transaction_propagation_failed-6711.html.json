@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_transaction_propagation_failed\6711\index.html.json
+
+title: 6711 ERROR_TRANSACTION_PROPAGATION_FAILED in winerror.h
+description: The attempt to propagate the Transaction failed.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "6711",
+  "codeUrl": "/win32/winerror-h/error_transaction_propagation_failed/6711/",
+  "numericCode": 6711,
+  "define": "ERROR_TRANSACTION_PROPAGATION_FAILED",
+  "defineUrl": "/win32/winerror-h/error_transaction_propagation_failed/",
+  "message": "The attempt to propagate the Transaction failed.",
+  "remarks": null,
+  "aka": [
+    "0x80071a37",
+    "-2147018185"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_transaction_propagation_failed/0x80071a37/",
+    "/win32/winerror-h/error_transaction_propagation_failed/-2147018185/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

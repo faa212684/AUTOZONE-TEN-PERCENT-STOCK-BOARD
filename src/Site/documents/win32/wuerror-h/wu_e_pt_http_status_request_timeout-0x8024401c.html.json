@@ -1,0 +1,28 @@
+---
+output: win32\wuerror-h\wu_e_pt_http_status_request_timeout\0x8024401c\index.html.json
+
+title: 0x8024401C WU_E_PT_HTTP_STATUS_REQUEST_TIMEOUT in wuerror.h
+description: Same as HTTP status 408 - the server timed out waiting for the request.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wuerror.h",
+  "sourceUrl": "/win32/wuerror-h/",
+  "code": "0x8024401C",
+  "codeUrl": "/win32/wuerror-h/wu_e_pt_http_status_request_timeout/0x8024401c/",
+  "numericCode": -2145107940,
+  "define": "WU_E_PT_HTTP_STATUS_REQUEST_TIMEOUT",
+  "defineUrl": "/win32/wuerror-h/wu_e_pt_http_status_request_timeout/",
+  "message": "Same as HTTP status 408 - the server timed out waiting for the request.",
+  "remarks": null,
+  "aka": [
+    "-2145107940"
+  ],
+  "akaUrl": [
+    "/win32/wuerror-h/wu_e_pt_http_status_request_timeout/-2145107940/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\rpc_x_wrong_stub_version\1829\index.html.json
+
+title: 1829 RPC_X_WRONG_STUB_VERSION in winerror.h
+description: Incompatible version of the RPC stub.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1829",
+  "codeUrl": "/win32/winerror-h/rpc_x_wrong_stub_version/1829/",
+  "numericCode": 1829,
+  "define": "RPC_X_WRONG_STUB_VERSION",
+  "defineUrl": "/win32/winerror-h/rpc_x_wrong_stub_version/",
+  "message": "Incompatible version of the RPC stub.",
+  "remarks": null,
+  "aka": [
+    "0x80070725",
+    "-2147023067"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/rpc_x_wrong_stub_version/0x80070725/",
+    "/win32/winerror-h/rpc_x_wrong_stub_version/-2147023067/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

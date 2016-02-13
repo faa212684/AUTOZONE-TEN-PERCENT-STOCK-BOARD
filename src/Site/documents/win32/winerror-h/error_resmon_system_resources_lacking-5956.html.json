@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_resmon_system_resources_lacking\5956\index.html.json
+
+title: 5956 ERROR_RESMON_SYSTEM_RESOURCES_LACKING in winerror.h
+description: Resource could not start or run because it could not reserve sufficient system resources.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "5956",
+  "codeUrl": "/win32/winerror-h/error_resmon_system_resources_lacking/5956/",
+  "numericCode": 5956,
+  "define": "ERROR_RESMON_SYSTEM_RESOURCES_LACKING",
+  "defineUrl": "/win32/winerror-h/error_resmon_system_resources_lacking/",
+  "message": "Resource could not start or run because it could not reserve sufficient system resources.",
+  "remarks": null,
+  "aka": [
+    "0x80071744",
+    "-2147018940"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_resmon_system_resources_lacking/0x80071744/",
+    "/win32/winerror-h/error_resmon_system_resources_lacking/-2147018940/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

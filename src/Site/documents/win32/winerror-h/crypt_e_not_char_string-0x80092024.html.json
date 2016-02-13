@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\crypt_e_not_char_string\0x80092024\index.html.json
+
+title: 0x80092024 CRYPT_E_NOT_CHAR_STRING in winerror.h
+description: The dwValueType for the CERT_NAME_VALUE is not one of the character strings. Most likely it is either a CERT_RDN_ENCODED_BLOB or CERT_RDN_OCTET_STRING.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80092024",
+  "codeUrl": "/win32/winerror-h/crypt_e_not_char_string/0x80092024/",
+  "numericCode": -2146885596,
+  "define": "CRYPT_E_NOT_CHAR_STRING",
+  "defineUrl": "/win32/winerror-h/crypt_e_not_char_string/",
+  "message": "The dwValueType for the CERT_NAME_VALUE is not one of the character strings. Most likely it is either a CERT_RDN_ENCODED_BLOB or CERT_RDN_OCTET_STRING.",
+  "remarks": null,
+  "aka": [
+    "-2146885596"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/crypt_e_not_char_string/-2146885596/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

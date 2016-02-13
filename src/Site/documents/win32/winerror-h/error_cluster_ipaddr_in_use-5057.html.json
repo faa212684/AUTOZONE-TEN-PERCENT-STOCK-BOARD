@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_cluster_ipaddr_in_use\5057\index.html.json
+
+title: 5057 ERROR_CLUSTER_IPADDR_IN_USE in winerror.h
+description: The cluster IP address is already in use.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "5057",
+  "codeUrl": "/win32/winerror-h/error_cluster_ipaddr_in_use/5057/",
+  "numericCode": 5057,
+  "define": "ERROR_CLUSTER_IPADDR_IN_USE",
+  "defineUrl": "/win32/winerror-h/error_cluster_ipaddr_in_use/",
+  "message": "The cluster IP address is already in use.",
+  "remarks": null,
+  "aka": [
+    "0x800713c1",
+    "-2147019839"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_cluster_ipaddr_in_use/0x800713c1/",
+    "/win32/winerror-h/error_cluster_ipaddr_in_use/-2147019839/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

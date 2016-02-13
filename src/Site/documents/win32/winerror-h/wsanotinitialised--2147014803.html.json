@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\wsanotinitialised\-2147014803\index.html.json
+canonical: /win32/winerror-h/wsanotinitialised/10093/
+title: -2147014803 WSANOTINITIALISED in winerror.h
+description: Either the application has not called WSAStartup, or WSAStartup failed.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147014803",
+  "codeUrl": "/win32/winerror-h/wsanotinitialised/-2147014803/",
+  "numericCode": 0,
+  "define": "WSANOTINITIALISED",
+  "defineUrl": "/win32/winerror-h/wsanotinitialised/",
+  "message": "Either the application has not called WSAStartup, or WSAStartup failed.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "10093",
+  "originalCodeUrl": "/win32/winerror-h/wsanotinitialised/10093/"
+}

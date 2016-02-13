@@ -1,0 +1,29 @@
+---
+output: win32\issper16-h\sec_e_cannot_pack\0x1309\index.html.json
+
+title: 0x1309 SEC_E_CANNOT_PACK in IssPer16.h
+description: The security package is not able to marshall the logon buffer,
+so the logon attempt has failed
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "IssPer16.h",
+  "sourceUrl": "/win32/issper16-h/",
+  "code": "0x1309",
+  "codeUrl": "/win32/issper16-h/sec_e_cannot_pack/0x1309/",
+  "numericCode": 4873,
+  "define": "SEC_E_CANNOT_PACK",
+  "defineUrl": "/win32/issper16-h/sec_e_cannot_pack/",
+  "message": "The security package is not able to marshall the logon buffer,\r\nso the logon attempt has failed",
+  "remarks": null,
+  "aka": [
+    "4873"
+  ],
+  "akaUrl": [
+    "/win32/issper16-h/sec_e_cannot_pack/4873/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

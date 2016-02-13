@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_e_subsystem_id_is_null\0x80042907\index.html.json
+
+title: 0x80042907 VDS_E_SUBSYSTEM_ID_IS_NULL in vdserr.h
+description: The provider returned a NULL subsystem identification string.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x80042907",
+  "codeUrl": "/win32/vdserr-h/vds_e_subsystem_id_is_null/0x80042907/",
+  "numericCode": -2147211001,
+  "define": "VDS_E_SUBSYSTEM_ID_IS_NULL",
+  "defineUrl": "/win32/vdserr-h/vds_e_subsystem_id_is_null/",
+  "message": "The provider returned a NULL subsystem identification string.",
+  "remarks": null,
+  "aka": [
+    "-2147211001"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_subsystem_id_is_null/-2147211001/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

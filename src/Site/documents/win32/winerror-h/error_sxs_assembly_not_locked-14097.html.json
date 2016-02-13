@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_sxs_assembly_not_locked\14097\index.html.json
+
+title: 14097 ERROR_SXS_ASSEMBLY_NOT_LOCKED in winerror.h
+description: The component must be locked before making the request.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "14097",
+  "codeUrl": "/win32/winerror-h/error_sxs_assembly_not_locked/14097/",
+  "numericCode": 14097,
+  "define": "ERROR_SXS_ASSEMBLY_NOT_LOCKED",
+  "defineUrl": "/win32/winerror-h/error_sxs_assembly_not_locked/",
+  "message": "The component must be locked before making the request.",
+  "remarks": null,
+  "aka": [
+    "0x80073711",
+    "-2147010799"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_sxs_assembly_not_locked/0x80073711/",
+    "/win32/winerror-h/error_sxs_assembly_not_locked/-2147010799/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

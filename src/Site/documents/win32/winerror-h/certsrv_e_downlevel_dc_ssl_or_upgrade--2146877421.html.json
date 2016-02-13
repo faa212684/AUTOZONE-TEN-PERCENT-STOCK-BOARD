@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\certsrv_e_downlevel_dc_ssl_or_upgrade\-2146877421\index.html.json
+canonical: /win32/winerror-h/certsrv_e_downlevel_dc_ssl_or_upgrade/0x80094013/
+title: -2146877421 CERTSRV_E_DOWNLEVEL_DC_SSL_OR_UPGRADE in winerror.h
+description: The contacted domain controller cannot support signed LDAP traffic. Update the domain controller or configure Certificate Services to use SSL for Active Directory access.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2146877421",
+  "codeUrl": "/win32/winerror-h/certsrv_e_downlevel_dc_ssl_or_upgrade/-2146877421/",
+  "numericCode": 0,
+  "define": "CERTSRV_E_DOWNLEVEL_DC_SSL_OR_UPGRADE",
+  "defineUrl": "/win32/winerror-h/certsrv_e_downlevel_dc_ssl_or_upgrade/",
+  "message": "The contacted domain controller cannot support signed LDAP traffic. Update the domain controller or configure Certificate Services to use SSL for Active Directory access.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80094013",
+  "originalCodeUrl": "/win32/winerror-h/certsrv_e_downlevel_dc_ssl_or_upgrade/0x80094013/"
+}

@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ds_machine_account_created_prent4\8572\index.html.json
+
+title: 8572 ERROR_DS_MACHINE_ACCOUNT_CREATED_PRENT4 in winerror.h
+description: The machine account was created pre-NT4. The account needs to be recreated.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "8572",
+  "codeUrl": "/win32/winerror-h/error_ds_machine_account_created_prent4/8572/",
+  "numericCode": 8572,
+  "define": "ERROR_DS_MACHINE_ACCOUNT_CREATED_PRENT4",
+  "defineUrl": "/win32/winerror-h/error_ds_machine_account_created_prent4/",
+  "message": "The machine account was created pre-NT4. The account needs to be recreated.",
+  "remarks": null,
+  "aka": [
+    "0x8007217c",
+    "-2147016324"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ds_machine_account_created_prent4/0x8007217c/",
+    "/win32/winerror-h/error_ds_machine_account_created_prent4/-2147016324/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

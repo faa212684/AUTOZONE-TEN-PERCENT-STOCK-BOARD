@@ -1,0 +1,29 @@
+---
+output: win32\ntstatus-h\status_no_more_eas\0x80000012\index.html.json
+
+title: 0x80000012 STATUS_NO_MORE_EAS in ntstatus.h
+description: "{No More EAs}
+No more extended attributes (EAs) were found for the file."
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0x80000012",
+  "codeUrl": "/win32/ntstatus-h/status_no_more_eas/0x80000012/",
+  "numericCode": -2147483630,
+  "define": "STATUS_NO_MORE_EAS",
+  "defineUrl": "/win32/ntstatus-h/status_no_more_eas/",
+  "message": "{No More EAs}\r\nNo more extended attributes (EAs) were found for the file.",
+  "remarks": null,
+  "aka": [
+    "-2147483630"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_no_more_eas/-2147483630/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_volume_contains_sys_files\4337\index.html.json
+
+title: 4337 ERROR_VOLUME_CONTAINS_SYS_FILES in winerror.h
+description: The volume contains system or paging files.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "4337",
+  "codeUrl": "/win32/winerror-h/error_volume_contains_sys_files/4337/",
+  "numericCode": 4337,
+  "define": "ERROR_VOLUME_CONTAINS_SYS_FILES",
+  "defineUrl": "/win32/winerror-h/error_volume_contains_sys_files/",
+  "message": "The volume contains system or paging files.",
+  "remarks": null,
+  "aka": [
+    "0x800710f1",
+    "-2147020559"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_volume_contains_sys_files/0x800710f1/",
+    "/win32/winerror-h/error_volume_contains_sys_files/-2147020559/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

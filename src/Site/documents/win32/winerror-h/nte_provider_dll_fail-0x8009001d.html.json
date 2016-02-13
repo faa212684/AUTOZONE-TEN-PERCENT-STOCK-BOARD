@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\nte_provider_dll_fail\0x8009001d\index.html.json
+
+title: 0x8009001D NTE_PROVIDER_DLL_FAIL in winerror.h
+description: Provider DLL failed to initialize correctly.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8009001D",
+  "codeUrl": "/win32/winerror-h/nte_provider_dll_fail/0x8009001d/",
+  "numericCode": -2146893795,
+  "define": "NTE_PROVIDER_DLL_FAIL",
+  "defineUrl": "/win32/winerror-h/nte_provider_dll_fail/",
+  "message": "Provider DLL failed to initialize correctly.",
+  "remarks": null,
+  "aka": [
+    "-2146893795"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/nte_provider_dll_fail/-2146893795/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

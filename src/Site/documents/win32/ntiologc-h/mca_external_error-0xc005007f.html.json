@@ -1,0 +1,28 @@
+---
+output: win32\ntiologc-h\mca_external_error\0xc005007f\index.html.json
+
+title: 0xC005007F MCA_EXTERNAL_ERROR in ntiologc.h
+description: Machine Check Event reported is a fatal condition. A processor received an external signal that an unrecoverable error has occurred.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntiologc.h",
+  "sourceUrl": "/win32/ntiologc-h/",
+  "code": "0xC005007F",
+  "codeUrl": "/win32/ntiologc-h/mca_external_error/0xc005007f/",
+  "numericCode": -1073414017,
+  "define": "MCA_EXTERNAL_ERROR",
+  "defineUrl": "/win32/ntiologc-h/mca_external_error/",
+  "message": "Machine Check Event reported is a fatal condition. A processor received an external signal that an unrecoverable error has occurred.",
+  "remarks": null,
+  "aka": [
+    "-1073414017"
+  ],
+  "akaUrl": [
+    "/win32/ntiologc-h/mca_external_error/-1073414017/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\wininet_e_disconnected\0x80072f83\index.html.json
+
+title: 0x80072F83 WININET_E_DISCONNECTED in winerror.h
+description: The computer is disconnected from the network
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80072F83",
+  "codeUrl": "/win32/winerror-h/wininet_e_disconnected/0x80072f83/",
+  "numericCode": -2147012733,
+  "define": "WININET_E_DISCONNECTED",
+  "defineUrl": "/win32/winerror-h/wininet_e_disconnected/",
+  "message": "The computer is disconnected from the network",
+  "remarks": null,
+  "aka": [
+    "-2147012733"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/wininet_e_disconnected/-2147012733/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

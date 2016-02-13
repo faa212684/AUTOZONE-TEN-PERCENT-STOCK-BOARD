@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_sxs_duplicate_windowclass_name\0x800736c6\index.html.json
+canonical: /win32/winerror-h/error_sxs_duplicate_windowclass_name/14022/
+title: 0x800736c6 ERROR_SXS_DUPLICATE_WINDOWCLASS_NAME in winerror.h
+description: Two or more components referenced directly or indirectly by the application manifest have window classes with the same name.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800736c6",
+  "codeUrl": "/win32/winerror-h/error_sxs_duplicate_windowclass_name/0x800736c6/",
+  "numericCode": 0,
+  "define": "ERROR_SXS_DUPLICATE_WINDOWCLASS_NAME",
+  "defineUrl": "/win32/winerror-h/error_sxs_duplicate_windowclass_name/",
+  "message": "Two or more components referenced directly or indirectly by the application manifest have window classes with the same name.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "14022",
+  "originalCodeUrl": "/win32/winerror-h/error_sxs_duplicate_windowclass_name/14022/"
+}

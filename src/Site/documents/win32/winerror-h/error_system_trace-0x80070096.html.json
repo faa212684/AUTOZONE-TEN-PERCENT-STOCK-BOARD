@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_system_trace\0x80070096\index.html.json
+canonical: /win32/winerror-h/error_system_trace/150/
+title: 0x80070096 ERROR_SYSTEM_TRACE in winerror.h
+description: System trace information was not specified in your CONFIG.SYS file, or tracing is disallowed.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80070096",
+  "codeUrl": "/win32/winerror-h/error_system_trace/0x80070096/",
+  "numericCode": 0,
+  "define": "ERROR_SYSTEM_TRACE",
+  "defineUrl": "/win32/winerror-h/error_system_trace/",
+  "message": "System trace information was not specified in your CONFIG.SYS file, or tracing is disallowed.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "150",
+  "originalCodeUrl": "/win32/winerror-h/error_system_trace/150/"
+}

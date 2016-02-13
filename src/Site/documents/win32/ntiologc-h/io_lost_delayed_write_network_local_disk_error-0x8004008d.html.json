@@ -1,0 +1,30 @@
+---
+output: win32\ntiologc-h\io_lost_delayed_write_network_local_disk_error\0x8004008d\index.html.json
+
+title: 0x8004008D IO_LOST_DELAYED_WRITE_NETWORK_LOCAL_DISK_ERROR in ntiologc.h
+description: "{Delayed Write Failed}
+Windows was unable to save all the data for the file %2; the data has been lost.
+This error may be caused if the device has been removed or the media is write-protected."
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntiologc.h",
+  "sourceUrl": "/win32/ntiologc-h/",
+  "code": "0x8004008D",
+  "codeUrl": "/win32/ntiologc-h/io_lost_delayed_write_network_local_disk_error/0x8004008d/",
+  "numericCode": -2147221363,
+  "define": "IO_LOST_DELAYED_WRITE_NETWORK_LOCAL_DISK_ERROR",
+  "defineUrl": "/win32/ntiologc-h/io_lost_delayed_write_network_local_disk_error/",
+  "message": "{Delayed Write Failed}\r\nWindows was unable to save all the data for the file %2; the data has been lost.\r\nThis error may be caused if the device has been removed or the media is write-protected.",
+  "remarks": null,
+  "aka": [
+    "-2147221363"
+  ],
+  "akaUrl": [
+    "/win32/ntiologc-h/io_lost_delayed_write_network_local_disk_error/-2147221363/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

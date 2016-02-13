@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\sched_e_account_information_not_set\0x8004130f\index.html.json
+
+title: 0x8004130F SCHED_E_ACCOUNT_INFORMATION_NOT_SET in winerror.h
+description: No account information could be found in the Task Scheduler security database for the task indicated.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8004130F",
+  "codeUrl": "/win32/winerror-h/sched_e_account_information_not_set/0x8004130f/",
+  "numericCode": -2147216625,
+  "define": "SCHED_E_ACCOUNT_INFORMATION_NOT_SET",
+  "defineUrl": "/win32/winerror-h/sched_e_account_information_not_set/",
+  "message": "No account information could be found in the Task Scheduler security database for the task indicated.",
+  "remarks": null,
+  "aka": [
+    "-2147216625"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/sched_e_account_information_not_set/-2147216625/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

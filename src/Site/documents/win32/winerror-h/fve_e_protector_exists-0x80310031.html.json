@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\fve_e_protector_exists\0x80310031\index.html.json
+
+title: 0x80310031 FVE_E_PROTECTOR_EXISTS in winerror.h
+description: This key protector cannot be added. Only one key protector of this type is allowed for this drive.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80310031",
+  "codeUrl": "/win32/winerror-h/fve_e_protector_exists/0x80310031/",
+  "numericCode": -2144272335,
+  "define": "FVE_E_PROTECTOR_EXISTS",
+  "defineUrl": "/win32/winerror-h/fve_e_protector_exists/",
+  "message": "This key protector cannot be added. Only one key protector of this type is allowed for this drive.",
+  "remarks": null,
+  "aka": [
+    "-2144272335"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/fve_e_protector_exists/-2144272335/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

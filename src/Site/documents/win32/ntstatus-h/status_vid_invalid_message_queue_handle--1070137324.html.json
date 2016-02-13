@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_vid_invalid_message_queue_handle\-1070137324\index.html.json
+canonical: /win32/ntstatus-h/status_vid_invalid_message_queue_handle/0xc0370014/
+title: -1070137324 STATUS_VID_INVALID_MESSAGE_QUEUE_HANDLE in ntstatus.h
+description: The handle is not a valid message queue handle for the virtualization infrastructure driver.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1070137324",
+  "codeUrl": "/win32/ntstatus-h/status_vid_invalid_message_queue_handle/-1070137324/",
+  "numericCode": 0,
+  "define": "STATUS_VID_INVALID_MESSAGE_QUEUE_HANDLE",
+  "defineUrl": "/win32/ntstatus-h/status_vid_invalid_message_queue_handle/",
+  "message": "The handle is not a valid message queue handle for the virtualization infrastructure driver.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0370014",
+  "originalCodeUrl": "/win32/ntstatus-h/status_vid_invalid_message_queue_handle/0xc0370014/"
+}

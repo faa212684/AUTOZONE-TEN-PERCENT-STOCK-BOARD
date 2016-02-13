@@ -1,0 +1,29 @@
+---
+output: win32\ntstatus-h\status_ctx_response_error\0xc00a000a\index.html.json
+
+title: 0xC00A000A STATUS_CTX_RESPONSE_ERROR in ntstatus.h
+description: The modem did not accept the command sent to it.
+Verify the configured modem name matches the attached modem.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC00A000A",
+  "codeUrl": "/win32/ntstatus-h/status_ctx_response_error/0xc00a000a/",
+  "numericCode": -1073086454,
+  "define": "STATUS_CTX_RESPONSE_ERROR",
+  "defineUrl": "/win32/ntstatus-h/status_ctx_response_error/",
+  "message": "The modem did not accept the command sent to it.\r\nVerify the configured modem name matches the attached modem.",
+  "remarks": null,
+  "aka": [
+    "-1073086454"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_ctx_response_error/-1073086454/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

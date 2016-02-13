@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_encryption_policy_denies_operation\6022\index.html.json
+
+title: 6022 ERROR_ENCRYPTION_POLICY_DENIES_OPERATION in winerror.h
+description: The requested operation was blocked by policy. For more information, contact your system administrator.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "6022",
+  "codeUrl": "/win32/winerror-h/error_encryption_policy_denies_operation/6022/",
+  "numericCode": 6022,
+  "define": "ERROR_ENCRYPTION_POLICY_DENIES_OPERATION",
+  "defineUrl": "/win32/winerror-h/error_encryption_policy_denies_operation/",
+  "message": "The requested operation was blocked by policy. For more information, contact your system administrator.",
+  "remarks": null,
+  "aka": [
+    "0x80071786",
+    "-2147018874"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_encryption_policy_denies_operation/0x80071786/",
+    "/win32/winerror-h/error_encryption_policy_denies_operation/-2147018874/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

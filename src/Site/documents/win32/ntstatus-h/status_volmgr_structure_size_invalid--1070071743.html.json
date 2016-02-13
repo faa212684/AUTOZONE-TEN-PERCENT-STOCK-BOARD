@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_volmgr_structure_size_invalid\-1070071743\index.html.json
+canonical: /win32/ntstatus-h/status_volmgr_structure_size_invalid/0xc0380041/
+title: -1070071743 STATUS_VOLMGR_STRUCTURE_SIZE_INVALID in ntstatus.h
+description: The Size fields in the VM_VOLUME_LAYOUT input structure are incorrectly set.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1070071743",
+  "codeUrl": "/win32/ntstatus-h/status_volmgr_structure_size_invalid/-1070071743/",
+  "numericCode": 0,
+  "define": "STATUS_VOLMGR_STRUCTURE_SIZE_INVALID",
+  "defineUrl": "/win32/ntstatus-h/status_volmgr_structure_size_invalid/",
+  "message": "The Size fields in the VM_VOLUME_LAYOUT input structure are incorrectly set.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0380041",
+  "originalCodeUrl": "/win32/ntstatus-h/status_volmgr_structure_size_invalid/0xc0380041/"
+}

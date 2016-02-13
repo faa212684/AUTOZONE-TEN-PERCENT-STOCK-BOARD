@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_bth_att_invalid_handle\0xc0420001\index.html.json
+
+title: 0xC0420001 STATUS_BTH_ATT_INVALID_HANDLE in ntstatus.h
+description: The attribute handle given was not valid on this server.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0420001",
+  "codeUrl": "/win32/ntstatus-h/status_bth_att_invalid_handle/0xc0420001/",
+  "numericCode": -1069416447,
+  "define": "STATUS_BTH_ATT_INVALID_HANDLE",
+  "defineUrl": "/win32/ntstatus-h/status_bth_att_invalid_handle/",
+  "message": "The attribute handle given was not valid on this server.",
+  "remarks": null,
+  "aka": [
+    "-1069416447"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_bth_att_invalid_handle/-1069416447/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

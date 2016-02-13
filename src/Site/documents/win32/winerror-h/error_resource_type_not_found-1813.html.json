@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_resource_type_not_found\1813\index.html.json
+
+title: 1813 ERROR_RESOURCE_TYPE_NOT_FOUND in winerror.h
+description: The specified resource type cannot be found in the image file.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1813",
+  "codeUrl": "/win32/winerror-h/error_resource_type_not_found/1813/",
+  "numericCode": 1813,
+  "define": "ERROR_RESOURCE_TYPE_NOT_FOUND",
+  "defineUrl": "/win32/winerror-h/error_resource_type_not_found/",
+  "message": "The specified resource type cannot be found in the image file.",
+  "remarks": null,
+  "aka": [
+    "0x80070715",
+    "-2147023083"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_resource_type_not_found/0x80070715/",
+    "/win32/winerror-h/error_resource_type_not_found/-2147023083/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

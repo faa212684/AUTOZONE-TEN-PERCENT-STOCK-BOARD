@@ -1,0 +1,28 @@
+---
+output: win32\nserror-h\ns_e_bkgdownload_wrong_no_files\0xc00d125d\index.html.json
+
+title: 0xC00D125D NS_E_BKGDOWNLOAD_WRONG_NO_FILES in nserror.h
+description: Windows Media Player encountered a download that has the wrong number of files. This might occur if another program is trying to create jobs with the same signature as the Player.%0
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "nserror.h",
+  "sourceUrl": "/win32/nserror-h/",
+  "code": "0xC00D125D",
+  "codeUrl": "/win32/nserror-h/ns_e_bkgdownload_wrong_no_files/0xc00d125d/",
+  "numericCode": -1072885155,
+  "define": "NS_E_BKGDOWNLOAD_WRONG_NO_FILES",
+  "defineUrl": "/win32/nserror-h/ns_e_bkgdownload_wrong_no_files/",
+  "message": "Windows Media Player encountered a download that has the wrong number of files. This might occur if another program is trying to create jobs with the same signature as the Player.%0",
+  "remarks": null,
+  "aka": [
+    "-1072885155"
+  ],
+  "akaUrl": [
+    "/win32/nserror-h/ns_e_bkgdownload_wrong_no_files/-1072885155/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

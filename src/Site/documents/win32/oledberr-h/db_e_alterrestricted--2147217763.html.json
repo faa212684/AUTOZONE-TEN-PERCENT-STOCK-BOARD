@@ -1,0 +1,24 @@
+---
+output: win32\oledberr-h\db_e_alterrestricted\-2147217763\index.html.json
+canonical: /win32/oledberr-h/db_e_alterrestricted/0x80040e9d/
+title: -2147217763 DB_E_ALTERRESTRICTED in oledberr.h
+description: Column or table could not be altered because it is referenced by a constraint.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "oledberr.h",
+  "sourceUrl": "/win32/oledberr-h/",
+  "code": "-2147217763",
+  "codeUrl": "/win32/oledberr-h/db_e_alterrestricted/-2147217763/",
+  "numericCode": 0,
+  "define": "DB_E_ALTERRESTRICTED",
+  "defineUrl": "/win32/oledberr-h/db_e_alterrestricted/",
+  "message": "Column or table could not be altered because it is referenced by a constraint.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80040E9D",
+  "originalCodeUrl": "/win32/oledberr-h/db_e_alterrestricted/0x80040e9d/"
+}

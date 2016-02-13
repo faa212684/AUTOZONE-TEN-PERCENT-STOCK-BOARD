@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_working_set_quota\0xc00000a1\index.html.json
+
+title: 0xC00000A1 STATUS_WORKING_SET_QUOTA in ntstatus.h
+description: The working set is not big enough to allow the requested pages to be locked.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC00000A1",
+  "codeUrl": "/win32/ntstatus-h/status_working_set_quota/0xc00000a1/",
+  "numericCode": -1073741663,
+  "define": "STATUS_WORKING_SET_QUOTA",
+  "defineUrl": "/win32/ntstatus-h/status_working_set_quota/",
+  "message": "The working set is not big enough to allow the requested pages to be locked.",
+  "remarks": null,
+  "aka": [
+    "-1073741663"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_working_set_quota/-1073741663/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

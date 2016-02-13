@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_ds_attribute_or_value_exists\-1073741148\index.html.json
+canonical: /win32/ntstatus-h/status_ds_attribute_or_value_exists/0xc00002a4/
+title: -1073741148 STATUS_DS_ATTRIBUTE_OR_VALUE_EXISTS in ntstatus.h
+description: The specified directory service attribute or value already exists.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741148",
+  "codeUrl": "/win32/ntstatus-h/status_ds_attribute_or_value_exists/-1073741148/",
+  "numericCode": 0,
+  "define": "STATUS_DS_ATTRIBUTE_OR_VALUE_EXISTS",
+  "defineUrl": "/win32/ntstatus-h/status_ds_attribute_or_value_exists/",
+  "message": "The specified directory service attribute or value already exists.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC00002A4",
+  "originalCodeUrl": "/win32/ntstatus-h/status_ds_attribute_or_value_exists/0xc00002a4/"
+}

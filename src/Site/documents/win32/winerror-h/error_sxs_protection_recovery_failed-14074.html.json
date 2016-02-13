@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_sxs_protection_recovery_failed\14074\index.html.json
+
+title: 14074 ERROR_SXS_PROTECTION_RECOVERY_FAILED in winerror.h
+description: Assembly Protection Error : Unable to recover the specified assembly.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "14074",
+  "codeUrl": "/win32/winerror-h/error_sxs_protection_recovery_failed/14074/",
+  "numericCode": 14074,
+  "define": "ERROR_SXS_PROTECTION_RECOVERY_FAILED",
+  "defineUrl": "/win32/winerror-h/error_sxs_protection_recovery_failed/",
+  "message": "Assembly Protection Error : Unable to recover the specified assembly.",
+  "remarks": null,
+  "aka": [
+    "0x800736fa",
+    "-2147010822"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_sxs_protection_recovery_failed/0x800736fa/",
+    "/win32/winerror-h/error_sxs_protection_recovery_failed/-2147010822/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

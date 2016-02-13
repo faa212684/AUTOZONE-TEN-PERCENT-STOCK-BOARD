@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_privilege_not_held\0x80070522\index.html.json
+canonical: /win32/winerror-h/error_privilege_not_held/1314/
+title: 0x80070522 ERROR_PRIVILEGE_NOT_HELD in winerror.h
+description: A required privilege is not held by the client.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80070522",
+  "codeUrl": "/win32/winerror-h/error_privilege_not_held/0x80070522/",
+  "numericCode": 0,
+  "define": "ERROR_PRIVILEGE_NOT_HELD",
+  "defineUrl": "/win32/winerror-h/error_privilege_not_held/",
+  "message": "A required privilege is not held by the client.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "1314",
+  "originalCodeUrl": "/win32/winerror-h/error_privilege_not_held/1314/"
+}

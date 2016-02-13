@@ -1,0 +1,24 @@
+---
+output: msi\2902\index.html.json
+
+title: msi 2902
+description: Operation [2] called out of sequence.
+disqus: true
+---
+{
+  "area": "msi",
+  "areaUrl": "/msi/",
+  "source": null,
+  "sourceUrl": "/msi/",
+  "code": "2902",
+  "codeUrl": "/msi/2902/",
+  "numericCode": 2902,
+  "define": null,
+  "defineUrl": "/msi/",
+  "message": "Operation [2] called out of sequence.",
+  "remarks": "May indicate that the <a href=\"https://msdn.microsoft.com/en-us/library/aa369292(v=vs.85).aspx\">installation of Win32 assemblies</a> was authored incorrectly. A Win32 side-by-side component may need a key path.",
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": null,
+  "originalCodeUrl": null
+}

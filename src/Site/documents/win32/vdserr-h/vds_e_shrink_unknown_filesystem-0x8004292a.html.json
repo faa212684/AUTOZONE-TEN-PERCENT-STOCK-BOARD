@@ -1,0 +1,29 @@
+---
+output: win32\vdserr-h\vds_e_shrink_unknown_filesystem\0x8004292a\index.html.json
+
+title: 0x8004292A VDS_E_SHRINK_UNKNOWN_FILESYSTEM in vdserr.h
+description: The volume cannot be shrunk because the volume does not contain
+a recognized file system.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x8004292A",
+  "codeUrl": "/win32/vdserr-h/vds_e_shrink_unknown_filesystem/0x8004292a/",
+  "numericCode": -2147210966,
+  "define": "VDS_E_SHRINK_UNKNOWN_FILESYSTEM",
+  "defineUrl": "/win32/vdserr-h/vds_e_shrink_unknown_filesystem/",
+  "message": "The volume cannot be shrunk because the volume does not contain\r\na recognized file system.",
+  "remarks": null,
+  "aka": [
+    "-2147210966"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_shrink_unknown_filesystem/-2147210966/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

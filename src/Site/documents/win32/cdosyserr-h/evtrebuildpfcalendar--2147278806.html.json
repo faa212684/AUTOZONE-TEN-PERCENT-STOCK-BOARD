@@ -1,0 +1,25 @@
+---
+output: win32\cdosyserr-h\evtrebuildpfcalendar\-2147278806\index.html.json
+canonical: /win32/cdosyserr-h/evtrebuildpfcalendar/0x8003202a/
+title: -2147278806 evtRebuildPFCalendar in CDOSysErr.h
+description: An inconsistency was detected in %1.  The calendar is being repaired.  If other errors occur with this calendar, please view the calendar using Microsoft Outlook Web Access.  If a problem persists, please recreate the public folder calendar.
+%n%nFor more information, click http:www.microsoft.com/contentredirect.asp.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "CDOSysErr.h",
+  "sourceUrl": "/win32/cdosyserr-h/",
+  "code": "-2147278806",
+  "codeUrl": "/win32/cdosyserr-h/evtrebuildpfcalendar/-2147278806/",
+  "numericCode": 0,
+  "define": "evtRebuildPFCalendar",
+  "defineUrl": "/win32/cdosyserr-h/evtrebuildpfcalendar/",
+  "message": "An inconsistency was detected in %1.  The calendar is being repaired.  If other errors occur with this calendar, please view the calendar using Microsoft Outlook Web Access.  If a problem persists, please recreate the public folder calendar.\r\n%n%nFor more information, click http:www.microsoft.com/contentredirect.asp.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x8003202A",
+  "originalCodeUrl": "/win32/cdosyserr-h/evtrebuildpfcalendar/0x8003202a/"
+}

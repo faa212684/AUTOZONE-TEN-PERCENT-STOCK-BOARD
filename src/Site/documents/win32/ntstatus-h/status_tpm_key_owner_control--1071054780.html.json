@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_tpm_key_owner_control\-1071054780\index.html.json
+canonical: /win32/ntstatus-h/status_tpm_key_owner_control/0xc0290044/
+title: -1071054780 STATUS_TPM_KEY_OWNER_CONTROL in ntstatus.h
+description: The key is under control of the TPM Owner and can only be evicted by the TPM Owner.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071054780",
+  "codeUrl": "/win32/ntstatus-h/status_tpm_key_owner_control/-1071054780/",
+  "numericCode": 0,
+  "define": "STATUS_TPM_KEY_OWNER_CONTROL",
+  "defineUrl": "/win32/ntstatus-h/status_tpm_key_owner_control/",
+  "message": "The key is under control of the TPM Owner and can only be evicted by the TPM Owner.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0290044",
+  "originalCodeUrl": "/win32/ntstatus-h/status_tpm_key_owner_control/0xc0290044/"
+}

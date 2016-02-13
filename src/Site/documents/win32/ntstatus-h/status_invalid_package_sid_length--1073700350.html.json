@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_invalid_package_sid_length\-1073700350\index.html.json
+canonical: /win32/ntstatus-h/status_invalid_package_sid_length/0xc000a202/
+title: -1073700350 STATUS_INVALID_PACKAGE_SID_LENGTH in ntstatus.h
+description: The length of the SID supplied is not a valid length for app container SIDs.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073700350",
+  "codeUrl": "/win32/ntstatus-h/status_invalid_package_sid_length/-1073700350/",
+  "numericCode": 0,
+  "define": "STATUS_INVALID_PACKAGE_SID_LENGTH",
+  "defineUrl": "/win32/ntstatus-h/status_invalid_package_sid_length/",
+  "message": "The length of the SID supplied is not a valid length for app container SIDs.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC000A202",
+  "originalCodeUrl": "/win32/ntstatus-h/status_invalid_package_sid_length/0xc000a202/"
+}

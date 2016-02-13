@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_fve_full_encryption_not_allowed_on_tp_storage\0xc0210032\index.html.json
+
+title: 0xC0210032 STATUS_FVE_FULL_ENCRYPTION_NOT_ALLOWED_ON_TP_STORAGE in ntstatus.h
+description: BitLocker Drive Encryption only supports Used Space Only encryption on thin provisioned storage.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0210032",
+  "codeUrl": "/win32/ntstatus-h/status_fve_full_encryption_not_allowed_on_tp_storage/0xc0210032/",
+  "numericCode": -1071579086,
+  "define": "STATUS_FVE_FULL_ENCRYPTION_NOT_ALLOWED_ON_TP_STORAGE",
+  "defineUrl": "/win32/ntstatus-h/status_fve_full_encryption_not_allowed_on_tp_storage/",
+  "message": "BitLocker Drive Encryption only supports Used Space Only encryption on thin provisioned storage.",
+  "remarks": null,
+  "aka": [
+    "-1071579086"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_fve_full_encryption_not_allowed_on_tp_storage/-1071579086/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

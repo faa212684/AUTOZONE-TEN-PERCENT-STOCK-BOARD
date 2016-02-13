@@ -1,0 +1,26 @@
+---
+output: win32\ntiologc-h\io_err_interrupt_resource_conflict\-1073479652\index.html.json
+canonical: /win32/ntiologc-h/io_err_interrupt_resource_conflict/0xc004001c/
+title: -1073479652 IO_ERR_INTERRUPT_RESOURCE_CONFLICT in ntiologc.h
+description: The device could not allocate one or more required resources due to conflicts
+with other devices.  The device interrupt setting of '%2' could not be
+satisified due to a conflict with Driver '%3'.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntiologc.h",
+  "sourceUrl": "/win32/ntiologc-h/",
+  "code": "-1073479652",
+  "codeUrl": "/win32/ntiologc-h/io_err_interrupt_resource_conflict/-1073479652/",
+  "numericCode": 0,
+  "define": "IO_ERR_INTERRUPT_RESOURCE_CONFLICT",
+  "defineUrl": "/win32/ntiologc-h/io_err_interrupt_resource_conflict/",
+  "message": "The device could not allocate one or more required resources due to conflicts\r\nwith other devices.  The device interrupt setting of '%2' could not be\r\nsatisified due to a conflict with Driver '%3'.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC004001C",
+  "originalCodeUrl": "/win32/ntiologc-h/io_err_interrupt_resource_conflict/0xc004001c/"
+}

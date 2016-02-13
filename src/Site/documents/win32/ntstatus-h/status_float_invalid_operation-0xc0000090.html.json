@@ -1,0 +1,29 @@
+---
+output: win32\ntstatus-h\status_float_invalid_operation\0xc0000090\index.html.json
+
+title: 0xC0000090 STATUS_FLOAT_INVALID_OPERATION in ntstatus.h
+description: "{EXCEPTION}
+Floating-point invalid operation."
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000090",
+  "codeUrl": "/win32/ntstatus-h/status_float_invalid_operation/0xc0000090/",
+  "numericCode": -1073741680,
+  "define": "STATUS_FLOAT_INVALID_OPERATION",
+  "defineUrl": "/win32/ntstatus-h/status_float_invalid_operation/",
+  "message": "{EXCEPTION}\r\nFloating-point invalid operation.",
+  "remarks": null,
+  "aka": [
+    "-1073741680"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_float_invalid_operation/-1073741680/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

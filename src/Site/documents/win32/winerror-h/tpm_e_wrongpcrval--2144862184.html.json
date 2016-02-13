@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\tpm_e_wrongpcrval\-2144862184\index.html.json
+canonical: /win32/winerror-h/tpm_e_wrongpcrval/0x80280018/
+title: -2144862184 TPM_E_WRONGPCRVAL in winerror.h
+description: The named PCR value does not match the current PCR value.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2144862184",
+  "codeUrl": "/win32/winerror-h/tpm_e_wrongpcrval/-2144862184/",
+  "numericCode": 0,
+  "define": "TPM_E_WRONGPCRVAL",
+  "defineUrl": "/win32/winerror-h/tpm_e_wrongpcrval/",
+  "message": "The named PCR value does not match the current PCR value.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80280018",
+  "originalCodeUrl": "/win32/winerror-h/tpm_e_wrongpcrval/0x80280018/"
+}

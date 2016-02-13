@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\rpc_s_unsupported_type\1732\index.html.json
+
+title: 1732 RPC_S_UNSUPPORTED_TYPE in winerror.h
+description: The universal unique identifier (UUID) type is not supported.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1732",
+  "codeUrl": "/win32/winerror-h/rpc_s_unsupported_type/1732/",
+  "numericCode": 1732,
+  "define": "RPC_S_UNSUPPORTED_TYPE",
+  "defineUrl": "/win32/winerror-h/rpc_s_unsupported_type/",
+  "message": "The universal unique identifier (UUID) type is not supported.",
+  "remarks": null,
+  "aka": [
+    "0x800706c4",
+    "-2147023164"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/rpc_s_unsupported_type/0x800706c4/",
+    "/win32/winerror-h/rpc_s_unsupported_type/-2147023164/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

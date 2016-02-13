@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\co_e_nomatchingsidfound\0x8001012f\index.html.json
+
+title: 0x8001012F CO_E_NOMATCHINGSIDFOUND in winerror.h
+description: Unable to find a security identifier that corresponds to a trustee string provided by the user
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8001012F",
+  "codeUrl": "/win32/winerror-h/co_e_nomatchingsidfound/0x8001012f/",
+  "numericCode": -2147417809,
+  "define": "CO_E_NOMATCHINGSIDFOUND",
+  "defineUrl": "/win32/winerror-h/co_e_nomatchingsidfound/",
+  "message": "Unable to find a security identifier that corresponds to a trustee string provided by the user",
+  "remarks": null,
+  "aka": [
+    "-2147417809"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/co_e_nomatchingsidfound/-2147417809/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

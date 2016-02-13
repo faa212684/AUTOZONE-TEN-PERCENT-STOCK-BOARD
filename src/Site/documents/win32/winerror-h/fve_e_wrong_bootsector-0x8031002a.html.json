@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\fve_e_wrong_bootsector\0x8031002a\index.html.json
+
+title: 0x8031002A FVE_E_WRONG_BOOTSECTOR in winerror.h
+description: The system partition boot sector does not perform Trusted Platform Module (TPM) measurements. Use the Bootrec.exe tool in the Windows Recovery Environment to update or repair the boot sector.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8031002A",
+  "codeUrl": "/win32/winerror-h/fve_e_wrong_bootsector/0x8031002a/",
+  "numericCode": -2144272342,
+  "define": "FVE_E_WRONG_BOOTSECTOR",
+  "defineUrl": "/win32/winerror-h/fve_e_wrong_bootsector/",
+  "message": "The system partition boot sector does not perform Trusted Platform Module (TPM) measurements. Use the Bootrec.exe tool in the Windows Recovery Environment to update or repair the boot sector.",
+  "remarks": null,
+  "aka": [
+    "-2144272342"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/fve_e_wrong_bootsector/-2144272342/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

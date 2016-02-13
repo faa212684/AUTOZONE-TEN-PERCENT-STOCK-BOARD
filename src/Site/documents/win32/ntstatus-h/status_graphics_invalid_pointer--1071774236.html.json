@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_graphics_invalid_pointer\-1071774236\index.html.json
+canonical: /win32/ntstatus-h/status_graphics_invalid_pointer/0xc01e05e4/
+title: -1071774236 STATUS_GRAPHICS_INVALID_POINTER in ntstatus.h
+description: The function failed because an invalid pointer parameter was passed to it. A pointer parameter is invalid if it is NULL, it points to an invalid address, it points to a kernel mode address or it is not correctly aligned.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071774236",
+  "codeUrl": "/win32/ntstatus-h/status_graphics_invalid_pointer/-1071774236/",
+  "numericCode": 0,
+  "define": "STATUS_GRAPHICS_INVALID_POINTER",
+  "defineUrl": "/win32/ntstatus-h/status_graphics_invalid_pointer/",
+  "message": "The function failed because an invalid pointer parameter was passed to it. A pointer parameter is invalid if it is NULL, it points to an invalid address, it points to a kernel mode address or it is not correctly aligned.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC01E05E4",
+  "originalCodeUrl": "/win32/ntstatus-h/status_graphics_invalid_pointer/0xc01e05e4/"
+}

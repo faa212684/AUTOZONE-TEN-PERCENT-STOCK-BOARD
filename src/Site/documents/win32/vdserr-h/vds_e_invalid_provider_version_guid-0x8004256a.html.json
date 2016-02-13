@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_e_invalid_provider_version_guid\0x8004256a\index.html.json
+
+title: 0x8004256A VDS_E_INVALID_PROVIDER_VERSION_GUID in vdserr.h
+description: The specified provider version GUID cannot be a NULL GUID.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x8004256A",
+  "codeUrl": "/win32/vdserr-h/vds_e_invalid_provider_version_guid/0x8004256a/",
+  "numericCode": -2147211926,
+  "define": "VDS_E_INVALID_PROVIDER_VERSION_GUID",
+  "defineUrl": "/win32/vdserr-h/vds_e_invalid_provider_version_guid/",
+  "message": "The specified provider version GUID cannot be a NULL GUID.",
+  "remarks": null,
+  "aka": [
+    "-2147211926"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_invalid_provider_version_guid/-2147211926/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

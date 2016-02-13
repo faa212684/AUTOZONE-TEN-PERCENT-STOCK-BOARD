@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_acpi_invalid_argtype\0xc0140008\index.html.json
+
+title: 0xC0140008 STATUS_ACPI_INVALID_ARGTYPE in ntstatus.h
+description: An argument with an incorrect type was specified
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0140008",
+  "codeUrl": "/win32/ntstatus-h/status_acpi_invalid_argtype/0xc0140008/",
+  "numericCode": -1072431096,
+  "define": "STATUS_ACPI_INVALID_ARGTYPE",
+  "defineUrl": "/win32/ntstatus-h/status_acpi_invalid_argtype/",
+  "message": "An argument with an incorrect type was specified",
+  "remarks": null,
+  "aka": [
+    "-1072431096"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_acpi_invalid_argtype/-1072431096/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

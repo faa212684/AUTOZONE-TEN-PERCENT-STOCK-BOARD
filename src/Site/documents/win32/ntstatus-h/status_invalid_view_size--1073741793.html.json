@@ -1,0 +1,25 @@
+---
+output: win32\ntstatus-h\status_invalid_view_size\-1073741793\index.html.json
+canonical: /win32/ntstatus-h/status_invalid_view_size/0xc000001f/
+title: -1073741793 STATUS_INVALID_VIEW_SIZE in ntstatus.h
+description: "{Invalid Mapping}
+An attempt was made to create a view for a section which is bigger than the section."
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741793",
+  "codeUrl": "/win32/ntstatus-h/status_invalid_view_size/-1073741793/",
+  "numericCode": 0,
+  "define": "STATUS_INVALID_VIEW_SIZE",
+  "defineUrl": "/win32/ntstatus-h/status_invalid_view_size/",
+  "message": "{Invalid Mapping}\r\nAn attempt was made to create a view for a section which is bigger than the section.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC000001F",
+  "originalCodeUrl": "/win32/ntstatus-h/status_invalid_view_size/0xc000001f/"
+}

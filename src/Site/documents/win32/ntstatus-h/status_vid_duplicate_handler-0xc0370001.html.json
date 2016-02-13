@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_vid_duplicate_handler\0xc0370001\index.html.json
+
+title: 0xC0370001 STATUS_VID_DUPLICATE_HANDLER in ntstatus.h
+description: The handler for the virtualization infrastructure driver is already registered. Restarting the virtual machine may fix the problem. If the problem persists, try restarting the physical computer.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0370001",
+  "codeUrl": "/win32/ntstatus-h/status_vid_duplicate_handler/0xc0370001/",
+  "numericCode": -1070137343,
+  "define": "STATUS_VID_DUPLICATE_HANDLER",
+  "defineUrl": "/win32/ntstatus-h/status_vid_duplicate_handler/",
+  "message": "The handler for the virtualization infrastructure driver is already registered. Restarting the virtual machine may fix the problem. If the problem persists, try restarting the physical computer.",
+  "remarks": null,
+  "aka": [
+    "-1070137343"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_vid_duplicate_handler/-1070137343/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

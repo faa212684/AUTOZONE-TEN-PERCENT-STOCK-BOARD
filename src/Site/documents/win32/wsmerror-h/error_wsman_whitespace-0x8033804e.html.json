@@ -1,0 +1,28 @@
+---
+output: win32\wsmerror-h\error_wsman_whitespace\0x8033804e\index.html.json
+
+title: 0x8033804E ERROR_WSMAN_WHITESPACE in wsmerror.h
+description: The WS-Management service does not support white space in the request XML.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x8033804E",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_whitespace/0x8033804e/",
+  "numericCode": -2144108466,
+  "define": "ERROR_WSMAN_WHITESPACE",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_whitespace/",
+  "message": "The WS-Management service does not support white space in the request XML.",
+  "remarks": null,
+  "aka": [
+    "-2144108466"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_whitespace/-2144108466/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

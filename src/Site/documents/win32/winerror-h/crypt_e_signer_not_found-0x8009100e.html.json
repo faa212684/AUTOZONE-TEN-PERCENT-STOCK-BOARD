@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\crypt_e_signer_not_found\0x8009100e\index.html.json
+
+title: 0x8009100E CRYPT_E_SIGNER_NOT_FOUND in winerror.h
+description: Cannot find the original signer.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8009100E",
+  "codeUrl": "/win32/winerror-h/crypt_e_signer_not_found/0x8009100e/",
+  "numericCode": -2146889714,
+  "define": "CRYPT_E_SIGNER_NOT_FOUND",
+  "defineUrl": "/win32/winerror-h/crypt_e_signer_not_found/",
+  "message": "Cannot find the original signer.",
+  "remarks": null,
+  "aka": [
+    "-2146889714"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/crypt_e_signer_not_found/-2146889714/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

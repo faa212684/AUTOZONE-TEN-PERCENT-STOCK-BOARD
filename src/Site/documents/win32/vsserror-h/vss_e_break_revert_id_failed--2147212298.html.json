@@ -1,0 +1,24 @@
+---
+output: win32\vsserror-h\vss_e_break_revert_id_failed\-2147212298\index.html.json
+canonical: /win32/vsserror-h/vss_e_break_revert_id_failed/0x800423f6/
+title: -2147212298 VSS_E_BREAK_REVERT_ID_FAILED in vsserror.h
+description: The shadow copy set break operation failed because the disk/partition identities could not be reverted. The target identity already exists on the machine or cluster and must be masked before this operation can succeed.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vsserror.h",
+  "sourceUrl": "/win32/vsserror-h/",
+  "code": "-2147212298",
+  "codeUrl": "/win32/vsserror-h/vss_e_break_revert_id_failed/-2147212298/",
+  "numericCode": 0,
+  "define": "VSS_E_BREAK_REVERT_ID_FAILED",
+  "defineUrl": "/win32/vsserror-h/vss_e_break_revert_id_failed/",
+  "message": "The shadow copy set break operation failed because the disk/partition identities could not be reverted. The target identity already exists on the machine or cluster and must be masked before this operation can succeed.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x800423F6",
+  "originalCodeUrl": "/win32/vsserror-h/vss_e_break_revert_id_failed/0x800423f6/"
+}

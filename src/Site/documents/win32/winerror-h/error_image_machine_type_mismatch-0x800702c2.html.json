@@ -1,0 +1,25 @@
+---
+output: win32\winerror-h\error_image_machine_type_mismatch\0x800702c2\index.html.json
+canonical: /win32/winerror-h/error_image_machine_type_mismatch/706/
+title: 0x800702c2 ERROR_IMAGE_MACHINE_TYPE_MISMATCH in winerror.h
+description: "{Machine Type Mismatch}
+The image file %hs is valid, but is for a machine type other than the current machine. Select OK to continue, or CANCEL to fail the DLL load."
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800702c2",
+  "codeUrl": "/win32/winerror-h/error_image_machine_type_mismatch/0x800702c2/",
+  "numericCode": 0,
+  "define": "ERROR_IMAGE_MACHINE_TYPE_MISMATCH",
+  "defineUrl": "/win32/winerror-h/error_image_machine_type_mismatch/",
+  "message": "{Machine Type Mismatch}\r\nThe image file %hs is valid, but is for a machine type other than the current machine. Select OK to continue, or CANCEL to fail the DLL load.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "706",
+  "originalCodeUrl": "/win32/winerror-h/error_image_machine_type_mismatch/706/"
+}

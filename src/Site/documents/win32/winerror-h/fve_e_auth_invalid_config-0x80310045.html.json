@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\fve_e_auth_invalid_config\0x80310045\index.html.json
+
+title: 0x80310045 FVE_E_AUTH_INVALID_CONFIG in winerror.h
+description: The Boot Configuration Data (BCD) settings have changed since BitLocker Drive Encryption was enabled.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80310045",
+  "codeUrl": "/win32/winerror-h/fve_e_auth_invalid_config/0x80310045/",
+  "numericCode": -2144272315,
+  "define": "FVE_E_AUTH_INVALID_CONFIG",
+  "defineUrl": "/win32/winerror-h/fve_e_auth_invalid_config/",
+  "message": "The Boot Configuration Data (BCD) settings have changed since BitLocker Drive Encryption was enabled.",
+  "remarks": null,
+  "aka": [
+    "-2144272315"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/fve_e_auth_invalid_config/-2144272315/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

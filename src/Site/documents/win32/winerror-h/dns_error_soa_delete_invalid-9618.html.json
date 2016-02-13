@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\dns_error_soa_delete_invalid\9618\index.html.json
+
+title: 9618 DNS_ERROR_SOA_DELETE_INVALID in winerror.h
+description: Invalid delete of start of authority (SOA)
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "9618",
+  "codeUrl": "/win32/winerror-h/dns_error_soa_delete_invalid/9618/",
+  "numericCode": 9618,
+  "define": "DNS_ERROR_SOA_DELETE_INVALID",
+  "defineUrl": "/win32/winerror-h/dns_error_soa_delete_invalid/",
+  "message": "Invalid delete of start of authority (SOA)",
+  "remarks": null,
+  "aka": [
+    "0x80072592",
+    "-2147015278"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/dns_error_soa_delete_invalid/0x80072592/",
+    "/win32/winerror-h/dns_error_soa_delete_invalid/-2147015278/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

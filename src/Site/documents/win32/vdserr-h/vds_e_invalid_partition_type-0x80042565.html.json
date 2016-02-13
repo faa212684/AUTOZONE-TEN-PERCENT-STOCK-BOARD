@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_e_invalid_partition_type\0x80042565\index.html.json
+
+title: 0x80042565 VDS_E_INVALID_PARTITION_TYPE in vdserr.h
+description: The specified partition type is not valid for this operation.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x80042565",
+  "codeUrl": "/win32/vdserr-h/vds_e_invalid_partition_type/0x80042565/",
+  "numericCode": -2147211931,
+  "define": "VDS_E_INVALID_PARTITION_TYPE",
+  "defineUrl": "/win32/vdserr-h/vds_e_invalid_partition_type/",
+  "message": "The specified partition type is not valid for this operation.",
+  "remarks": null,
+  "aka": [
+    "-2147211931"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_invalid_partition_type/-2147211931/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

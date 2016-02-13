@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\fve_e_invalid_bitlocker_oid\-2144272274\index.html.json
+canonical: /win32/winerror-h/fve_e_invalid_bitlocker_oid/0x8031006e/
+title: -2144272274 FVE_E_INVALID_BITLOCKER_OID in winerror.h
+description: The BitLocker object identifier (OID) on the drive appears to be invalid or corrupt. Use manage-BDE to reset the OID on this drive.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2144272274",
+  "codeUrl": "/win32/winerror-h/fve_e_invalid_bitlocker_oid/-2144272274/",
+  "numericCode": 0,
+  "define": "FVE_E_INVALID_BITLOCKER_OID",
+  "defineUrl": "/win32/winerror-h/fve_e_invalid_bitlocker_oid/",
+  "message": "The BitLocker object identifier (OID) on the drive appears to be invalid or corrupt. Use manage-BDE to reset the OID on this drive.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x8031006E",
+  "originalCodeUrl": "/win32/winerror-h/fve_e_invalid_bitlocker_oid/0x8031006e/"
+}

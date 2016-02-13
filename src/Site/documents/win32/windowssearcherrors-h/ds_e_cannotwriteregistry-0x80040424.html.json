@@ -1,0 +1,28 @@
+---
+output: win32\windowssearcherrors-h\ds_e_cannotwriteregistry\0x80040424\index.html.json
+
+title: 0x80040424 DS_E_CANNOTWRITEREGISTRY in WindowsSearchErrors.h
+description: The registry data cannot be written. Check that the search service is running with administrator privileges.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "0x80040424",
+  "codeUrl": "/win32/windowssearcherrors-h/ds_e_cannotwriteregistry/0x80040424/",
+  "numericCode": -2147220444,
+  "define": "DS_E_CANNOTWRITEREGISTRY",
+  "defineUrl": "/win32/windowssearcherrors-h/ds_e_cannotwriteregistry/",
+  "message": "The registry data cannot be written. Check that the search service is running with administrator privileges.",
+  "remarks": null,
+  "aka": [
+    "-2147220444"
+  ],
+  "akaUrl": [
+    "/win32/windowssearcherrors-h/ds_e_cannotwriteregistry/-2147220444/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

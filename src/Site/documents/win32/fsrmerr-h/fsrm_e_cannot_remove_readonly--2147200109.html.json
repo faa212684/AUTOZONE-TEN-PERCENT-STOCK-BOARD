@@ -1,0 +1,24 @@
+---
+output: win32\fsrmerr-h\fsrm_e_cannot_remove_readonly\-2147200109\index.html.json
+canonical: /win32/fsrmerr-h/fsrm_e_cannot_remove_readonly/0x80045393/
+title: -2147200109 FSRM_E_CANNOT_REMOVE_READONLY in fsrmerr.h
+description: File Server Resource Manager could not remove the read-only attribute from a file.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "fsrmerr.h",
+  "sourceUrl": "/win32/fsrmerr-h/",
+  "code": "-2147200109",
+  "codeUrl": "/win32/fsrmerr-h/fsrm_e_cannot_remove_readonly/-2147200109/",
+  "numericCode": 0,
+  "define": "FSRM_E_CANNOT_REMOVE_READONLY",
+  "defineUrl": "/win32/fsrmerr-h/fsrm_e_cannot_remove_readonly/",
+  "message": "File Server Resource Manager could not remove the read-only attribute from a file.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80045393",
+  "originalCodeUrl": "/win32/fsrmerr-h/fsrm_e_cannot_remove_readonly/0x80045393/"
+}

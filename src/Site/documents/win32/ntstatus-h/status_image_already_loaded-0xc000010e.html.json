@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_image_already_loaded\0xc000010e\index.html.json
+
+title: 0xC000010E STATUS_IMAGE_ALREADY_LOADED in ntstatus.h
+description: Indicates that the specified image is already loaded.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000010E",
+  "codeUrl": "/win32/ntstatus-h/status_image_already_loaded/0xc000010e/",
+  "numericCode": -1073741554,
+  "define": "STATUS_IMAGE_ALREADY_LOADED",
+  "defineUrl": "/win32/ntstatus-h/status_image_already_loaded/",
+  "message": "Indicates that the specified image is already loaded.",
+  "remarks": null,
+  "aka": [
+    "-1073741554"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_image_already_loaded/-1073741554/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

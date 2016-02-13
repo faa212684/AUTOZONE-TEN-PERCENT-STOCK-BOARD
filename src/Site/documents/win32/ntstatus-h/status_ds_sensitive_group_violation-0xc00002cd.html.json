@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_ds_sensitive_group_violation\0xc00002cd\index.html.json
+
+title: 0xC00002CD STATUS_DS_SENSITIVE_GROUP_VIOLATION in ntstatus.h
+description: Only an administrator can modify the membership list of an administrative group.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC00002CD",
+  "codeUrl": "/win32/ntstatus-h/status_ds_sensitive_group_violation/0xc00002cd/",
+  "numericCode": -1073741107,
+  "define": "STATUS_DS_SENSITIVE_GROUP_VIOLATION",
+  "defineUrl": "/win32/ntstatus-h/status_ds_sensitive_group_violation/",
+  "message": "Only an administrator can modify the membership list of an administrative group.",
+  "remarks": null,
+  "aka": [
+    "-1073741107"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_ds_sensitive_group_violation/-1073741107/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

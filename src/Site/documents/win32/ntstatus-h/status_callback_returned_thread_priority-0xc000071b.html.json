@@ -1,0 +1,29 @@
+---
+output: win32\ntstatus-h\status_callback_returned_thread_priority\0xc000071b\index.html.json
+
+title: 0xC000071B STATUS_CALLBACK_RETURNED_THREAD_PRIORITY in ntstatus.h
+description: A threadpool worker thread enter a callback at thread base priority 0x%x and exited at priority 0x%x.
+This is unexpected, indicating that the callback missed restoring the priority.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000071B",
+  "codeUrl": "/win32/ntstatus-h/status_callback_returned_thread_priority/0xc000071b/",
+  "numericCode": -1073740005,
+  "define": "STATUS_CALLBACK_RETURNED_THREAD_PRIORITY",
+  "defineUrl": "/win32/ntstatus-h/status_callback_returned_thread_priority/",
+  "message": "A threadpool worker thread enter a callback at thread base priority 0x%x and exited at priority 0x%x.\r\nThis is unexpected, indicating that the callback missed restoring the priority.",
+  "remarks": null,
+  "aka": [
+    "-1073740005"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_callback_returned_thread_priority/-1073740005/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

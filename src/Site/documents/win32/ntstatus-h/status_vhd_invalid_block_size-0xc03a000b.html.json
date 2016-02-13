@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_vhd_invalid_block_size\0xc03a000b\index.html.json
+
+title: 0xC03A000B STATUS_VHD_INVALID_BLOCK_SIZE in ntstatus.h
+description: The system does not support this version of the virtual hard disk. The block size is invalid.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC03A000B",
+  "codeUrl": "/win32/ntstatus-h/status_vhd_invalid_block_size/0xc03a000b/",
+  "numericCode": -1069940725,
+  "define": "STATUS_VHD_INVALID_BLOCK_SIZE",
+  "defineUrl": "/win32/ntstatus-h/status_vhd_invalid_block_size/",
+  "message": "The system does not support this version of the virtual hard disk. The block size is invalid.",
+  "remarks": null,
+  "aka": [
+    "-1069940725"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_vhd_invalid_block_size/-1069940725/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

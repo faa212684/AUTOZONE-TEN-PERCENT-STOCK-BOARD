@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\ws_e_endpoint_not_available\0x803d000e\index.html.json
+
+title: 0x803D000E WS_E_ENDPOINT_NOT_AVAILABLE in winerror.h
+description: The remote endpoint is not currently in service at this location.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x803D000E",
+  "codeUrl": "/win32/winerror-h/ws_e_endpoint_not_available/0x803d000e/",
+  "numericCode": -2143485938,
+  "define": "WS_E_ENDPOINT_NOT_AVAILABLE",
+  "defineUrl": "/win32/winerror-h/ws_e_endpoint_not_available/",
+  "message": "The remote endpoint is not currently in service at this location.",
+  "remarks": null,
+  "aka": [
+    "-2143485938"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/ws_e_endpoint_not_available/-2143485938/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

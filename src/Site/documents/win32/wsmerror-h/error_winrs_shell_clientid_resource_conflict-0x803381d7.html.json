@@ -1,0 +1,28 @@
+---
+output: win32\wsmerror-h\error_winrs_shell_clientid_resource_conflict\0x803381d7\index.html.json
+
+title: 0x803381D7 ERROR_WINRS_SHELL_CLIENTID_RESOURCE_CONFLICT in wsmerror.h
+description: The WinRM service cannot process the request. A resource already exists with the shell ID specified by the client.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x803381D7",
+  "codeUrl": "/win32/wsmerror-h/error_winrs_shell_clientid_resource_conflict/0x803381d7/",
+  "numericCode": -2144108073,
+  "define": "ERROR_WINRS_SHELL_CLIENTID_RESOURCE_CONFLICT",
+  "defineUrl": "/win32/wsmerror-h/error_winrs_shell_clientid_resource_conflict/",
+  "message": "The WinRM service cannot process the request. A resource already exists with the shell ID specified by the client.",
+  "remarks": null,
+  "aka": [
+    "-2144108073"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_winrs_shell_clientid_resource_conflict/-2144108073/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

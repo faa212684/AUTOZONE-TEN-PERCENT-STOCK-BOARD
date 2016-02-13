@@ -1,0 +1,24 @@
+---
+output: win32\windowssearcherrors-h\event_gather_reg_missing\-2147480610\index.html.json
+canonical: /win32/windowssearcherrors-h/event_gather_reg_missing/0x80000bde/
+title: -2147480610 EVENT_GATHER_REG_MISSING in WindowsSearchErrors.h
+description: The gatherer is unable to read the registry %2.%1
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "-2147480610",
+  "codeUrl": "/win32/windowssearcherrors-h/event_gather_reg_missing/-2147480610/",
+  "numericCode": 0,
+  "define": "EVENT_GATHER_REG_MISSING",
+  "defineUrl": "/win32/windowssearcherrors-h/event_gather_reg_missing/",
+  "message": "The gatherer is unable to read the registry %2.%1",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80000BDE",
+  "originalCodeUrl": "/win32/windowssearcherrors-h/event_gather_reg_missing/0x80000bde/"
+}

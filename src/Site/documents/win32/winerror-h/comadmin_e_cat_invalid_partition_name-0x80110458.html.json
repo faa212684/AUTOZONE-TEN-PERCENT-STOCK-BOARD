@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\comadmin_e_cat_invalid_partition_name\0x80110458\index.html.json
+
+title: 0x80110458 COMADMIN_E_CAT_INVALID_PARTITION_NAME in winerror.h
+description: The specified partition name is invalid. Check that the name contains at least one visible character
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80110458",
+  "codeUrl": "/win32/winerror-h/comadmin_e_cat_invalid_partition_name/0x80110458/",
+  "numericCode": -2146368424,
+  "define": "COMADMIN_E_CAT_INVALID_PARTITION_NAME",
+  "defineUrl": "/win32/winerror-h/comadmin_e_cat_invalid_partition_name/",
+  "message": "The specified partition name is invalid. Check that the name contains at least one visible character",
+  "remarks": null,
+  "aka": [
+    "-2146368424"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/comadmin_e_cat_invalid_partition_name/-2146368424/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

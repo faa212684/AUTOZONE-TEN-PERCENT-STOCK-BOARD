@@ -1,0 +1,35 @@
+---
+output: win32\netevent-h\event_frs_moved_preexisting\-2147470128\index.html.json
+canonical: /win32/netevent-h/event_frs_moved_preexisting/0x800034d0/
+title: -2147470128 EVENT_FRS_MOVED_PREEXISTING in netevent.h
+description: The File Replication Service moved the preexisting files in %1 to %2.
+%n
+%nThe File Replication Service may delete the files in %2 at any time.
+Files can be saved from deletion by copying them out of %2. Copying
+the files into %1 may lead to name conflicts if the files already exist
+on some other replicating partner.
+%n
+%nIn some cases, the File Replication Service may copy a file
+from %2 into %1 instead of replicating the file from some other
+replicating partner.
+%n
+%nSpace can be recovered at any time by deleting the files in %2.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "-2147470128",
+  "codeUrl": "/win32/netevent-h/event_frs_moved_preexisting/-2147470128/",
+  "numericCode": 0,
+  "define": "EVENT_FRS_MOVED_PREEXISTING",
+  "defineUrl": "/win32/netevent-h/event_frs_moved_preexisting/",
+  "message": "The File Replication Service moved the preexisting files in %1 to %2.\r\n%n\r\n%nThe File Replication Service may delete the files in %2 at any time.\r\nFiles can be saved from deletion by copying them out of %2. Copying\r\nthe files into %1 may lead to name conflicts if the files already exist\r\non some other replicating partner.\r\n%n\r\n%nIn some cases, the File Replication Service may copy a file\r\nfrom %2 into %1 instead of replicating the file from some other\r\nreplicating partner.\r\n%n\r\n%nSpace can be recovered at any time by deleting the files in %2.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x800034D0",
+  "originalCodeUrl": "/win32/netevent-h/event_frs_moved_preexisting/0x800034d0/"
+}

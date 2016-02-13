@@ -1,0 +1,24 @@
+---
+output: win32\windowssearcherrors-h\prth_e_cant_transform_external_acl\-2147216882\index.html.json
+canonical: /win32/windowssearcherrors-h/prth_e_cant_transform_external_acl/0x8004120e/
+title: -2147216882 PRTH_E_CANT_TRANSFORM_EXTERNAL_ACL in WindowsSearchErrors.h
+description: Search was unable to convert the Access Control List of the crawled store into a Windows NT Access Control List. Check that local information is not used in the store.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "-2147216882",
+  "codeUrl": "/win32/windowssearcherrors-h/prth_e_cant_transform_external_acl/-2147216882/",
+  "numericCode": 0,
+  "define": "PRTH_E_CANT_TRANSFORM_EXTERNAL_ACL",
+  "defineUrl": "/win32/windowssearcherrors-h/prth_e_cant_transform_external_acl/",
+  "message": "Search was unable to convert the Access Control List of the crawled store into a Windows NT Access Control List. Check that local information is not used in the store.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x8004120E",
+  "originalCodeUrl": "/win32/windowssearcherrors-h/prth_e_cant_transform_external_acl/0x8004120e/"
+}

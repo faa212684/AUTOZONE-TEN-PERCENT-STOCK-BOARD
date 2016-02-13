@@ -1,0 +1,24 @@
+---
+output: win32\windowssearcherrors-h\fte_s_beyond_quota\276002\index.html.json
+canonical: /win32/windowssearcherrors-h/fte_s_beyond_quota/0x00043622/
+title: 276002 FTE_S_BEYOND_QUOTA in WindowsSearchErrors.h
+description: The Full Text Engine's input queue is full.  This batch has been accepted for processing; however, the Full Text Engine will soon go into a forced paused state until the queue is less full.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "276002",
+  "codeUrl": "/win32/windowssearcherrors-h/fte_s_beyond_quota/276002/",
+  "numericCode": 0,
+  "define": "FTE_S_BEYOND_QUOTA",
+  "defineUrl": "/win32/windowssearcherrors-h/fte_s_beyond_quota/",
+  "message": "The Full Text Engine's input queue is full.  This batch has been accepted for processing; however, the Full Text Engine will soon go into a forced paused state until the queue is less full.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x00043622",
+  "originalCodeUrl": "/win32/windowssearcherrors-h/fte_s_beyond_quota/0x00043622/"
+}

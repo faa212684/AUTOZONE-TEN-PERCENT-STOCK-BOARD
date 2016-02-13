@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_bad_initial_pc\0xc000000a\index.html.json
+
+title: 0xC000000A STATUS_BAD_INITIAL_PC in ntstatus.h
+description: An invalid initial start address was specified in a call to NtCreateThread.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000000A",
+  "codeUrl": "/win32/ntstatus-h/status_bad_initial_pc/0xc000000a/",
+  "numericCode": -1073741814,
+  "define": "STATUS_BAD_INITIAL_PC",
+  "defineUrl": "/win32/ntstatus-h/status_bad_initial_pc/",
+  "message": "An invalid initial start address was specified in a call to NtCreateThread.",
+  "remarks": null,
+  "aka": [
+    "-1073741814"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_bad_initial_pc/-1073741814/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

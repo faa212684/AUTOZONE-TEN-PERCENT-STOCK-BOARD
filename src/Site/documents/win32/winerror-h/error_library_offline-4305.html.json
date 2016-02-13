@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_library_offline\4305\index.html.json
+
+title: 4305 ERROR_LIBRARY_OFFLINE in winerror.h
+description: The operation cannot be performed on an offline library.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "4305",
+  "codeUrl": "/win32/winerror-h/error_library_offline/4305/",
+  "numericCode": 4305,
+  "define": "ERROR_LIBRARY_OFFLINE",
+  "defineUrl": "/win32/winerror-h/error_library_offline/",
+  "message": "The operation cannot be performed on an offline library.",
+  "remarks": null,
+  "aka": [
+    "0x800710d1",
+    "-2147020591"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_library_offline/0x800710d1/",
+    "/win32/winerror-h/error_library_offline/-2147020591/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

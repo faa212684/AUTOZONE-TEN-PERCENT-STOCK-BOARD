@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\rpc_s_invalid_timeout\0x800706ad\index.html.json
+canonical: /win32/winerror-h/rpc_s_invalid_timeout/1709/
+title: 0x800706ad RPC_S_INVALID_TIMEOUT in winerror.h
+description: The timeout value is invalid.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800706ad",
+  "codeUrl": "/win32/winerror-h/rpc_s_invalid_timeout/0x800706ad/",
+  "numericCode": 0,
+  "define": "RPC_S_INVALID_TIMEOUT",
+  "defineUrl": "/win32/winerror-h/rpc_s_invalid_timeout/",
+  "message": "The timeout value is invalid.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "1709",
+  "originalCodeUrl": "/win32/winerror-h/rpc_s_invalid_timeout/1709/"
+}

@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_services_failed_autostart\1073783108\index.html.json
+canonical: /win32/ntstatus-h/status_services_failed_autostart/0x4000a144/
+title: 1073783108 STATUS_SERVICES_FAILED_AUTOSTART in ntstatus.h
+description: One or more services failed to start during the service startup phase of a run level switch.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "1073783108",
+  "codeUrl": "/win32/ntstatus-h/status_services_failed_autostart/1073783108/",
+  "numericCode": 0,
+  "define": "STATUS_SERVICES_FAILED_AUTOSTART",
+  "defineUrl": "/win32/ntstatus-h/status_services_failed_autostart/",
+  "message": "One or more services failed to start during the service startup phase of a run level switch.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x4000A144",
+  "originalCodeUrl": "/win32/ntstatus-h/status_services_failed_autostart/0x4000a144/"
+}

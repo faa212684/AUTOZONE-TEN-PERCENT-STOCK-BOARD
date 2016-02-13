@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_handle_no_longer_valid\-1072103384\index.html.json
+canonical: /win32/ntstatus-h/status_handle_no_longer_valid/0xc0190028/
+title: -1072103384 STATUS_HANDLE_NO_LONGER_VALID in ntstatus.h
+description: The handle has been invalidated by a transaction. The most likely cause is the presence of memory mapping on a file or an open handle when the transaction ended or rolled back to savepoint.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1072103384",
+  "codeUrl": "/win32/ntstatus-h/status_handle_no_longer_valid/-1072103384/",
+  "numericCode": 0,
+  "define": "STATUS_HANDLE_NO_LONGER_VALID",
+  "defineUrl": "/win32/ntstatus-h/status_handle_no_longer_valid/",
+  "message": "The handle has been invalidated by a transaction. The most likely cause is the presence of memory mapping on a file or an open handle when the transaction ended or rolled back to savepoint.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0190028",
+  "originalCodeUrl": "/win32/ntstatus-h/status_handle_no_longer_valid/0xc0190028/"
+}

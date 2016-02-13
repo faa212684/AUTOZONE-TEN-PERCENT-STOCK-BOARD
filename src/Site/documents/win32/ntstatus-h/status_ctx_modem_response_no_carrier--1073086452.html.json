@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_ctx_modem_response_no_carrier\-1073086452\index.html.json
+canonical: /win32/ntstatus-h/status_ctx_modem_response_no_carrier/0xc00a000c/
+title: -1073086452 STATUS_CTX_MODEM_RESPONSE_NO_CARRIER in ntstatus.h
+description: Carrier detect has failed or carrier has been dropped due to disconnect.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073086452",
+  "codeUrl": "/win32/ntstatus-h/status_ctx_modem_response_no_carrier/-1073086452/",
+  "numericCode": 0,
+  "define": "STATUS_CTX_MODEM_RESPONSE_NO_CARRIER",
+  "defineUrl": "/win32/ntstatus-h/status_ctx_modem_response_no_carrier/",
+  "message": "Carrier detect has failed or carrier has been dropped due to disconnect.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC00A000C",
+  "originalCodeUrl": "/win32/ntstatus-h/status_ctx_modem_response_no_carrier/0xc00a000c/"
+}

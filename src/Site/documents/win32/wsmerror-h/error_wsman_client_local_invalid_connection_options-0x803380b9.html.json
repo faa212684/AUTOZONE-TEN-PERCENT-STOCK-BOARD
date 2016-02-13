@@ -1,0 +1,29 @@
+---
+output: win32\wsmerror-h\error_wsman_client_local_invalid_connection_options\0x803380b9\index.html.json
+
+title: 0x803380B9 ERROR_WSMAN_CLIENT_LOCAL_INVALID_CONNECTION_OPTIONS in wsmerror.h
+description: The WinRM client cannot process the request. Connection options must not be provided for local requests.
+Remove the connection options and try the request again.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x803380B9",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_client_local_invalid_connection_options/0x803380b9/",
+  "numericCode": -2144108359,
+  "define": "ERROR_WSMAN_CLIENT_LOCAL_INVALID_CONNECTION_OPTIONS",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_client_local_invalid_connection_options/",
+  "message": "The WinRM client cannot process the request. Connection options must not be provided for local requests.\r\nRemove the connection options and try the request again.",
+  "remarks": null,
+  "aka": [
+    "-2144108359"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_client_local_invalid_connection_options/-2144108359/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

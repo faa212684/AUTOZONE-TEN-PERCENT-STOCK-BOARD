@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_directory_service_required\0xc00002b1\index.html.json
+
+title: 0xC00002B1 STATUS_DIRECTORY_SERVICE_REQUIRED in ntstatus.h
+description: The requested operation requires a directory service, and none was available.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC00002B1",
+  "codeUrl": "/win32/ntstatus-h/status_directory_service_required/0xc00002b1/",
+  "numericCode": -1073741135,
+  "define": "STATUS_DIRECTORY_SERVICE_REQUIRED",
+  "defineUrl": "/win32/ntstatus-h/status_directory_service_required/",
+  "message": "The requested operation requires a directory service, and none was available.",
+  "remarks": null,
+  "aka": [
+    "-1073741135"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_directory_service_required/-1073741135/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

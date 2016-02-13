@@ -1,0 +1,28 @@
+---
+output: win32\iscsierr-h\isdsc_driver_bug\0xefff0019\index.html.json
+
+title: 0xEFFF0019 ISDSC_DRIVER_BUG in iscsierr.h
+description: The iscsi driver implementation did not complete an operation correctly.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "iscsierr.h",
+  "sourceUrl": "/win32/iscsierr-h/",
+  "code": "0xEFFF0019",
+  "codeUrl": "/win32/iscsierr-h/isdsc_driver_bug/0xefff0019/",
+  "numericCode": -268500967,
+  "define": "ISDSC_DRIVER_BUG",
+  "defineUrl": "/win32/iscsierr-h/isdsc_driver_bug/",
+  "message": "The iscsi driver implementation did not complete an operation correctly.",
+  "remarks": null,
+  "aka": [
+    "-268500967"
+  ],
+  "akaUrl": [
+    "/win32/iscsierr-h/isdsc_driver_bug/-268500967/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

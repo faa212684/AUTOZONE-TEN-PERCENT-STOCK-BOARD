@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_insufficient_resource_for_specified_shared_section_size\-1073740778\index.html.json
+canonical: /win32/ntstatus-h/status_insufficient_resource_for_specified_shared_section_size/0xc0000416/
+title: -1073740778 STATUS_INSUFFICIENT_RESOURCE_FOR_SPECIFIED_SHARED_SECTION_SIZE in ntstatus.h
+description: The Desktop heap encountered an error while allocating session memory. There is more information in the system event log.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073740778",
+  "codeUrl": "/win32/ntstatus-h/status_insufficient_resource_for_specified_shared_section_size/-1073740778/",
+  "numericCode": 0,
+  "define": "STATUS_INSUFFICIENT_RESOURCE_FOR_SPECIFIED_SHARED_SECTION_SIZE",
+  "defineUrl": "/win32/ntstatus-h/status_insufficient_resource_for_specified_shared_section_size/",
+  "message": "The Desktop heap encountered an error while allocating session memory. There is more information in the system event log.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000416",
+  "originalCodeUrl": "/win32/ntstatus-h/status_insufficient_resource_for_specified_shared_section_size/0xc0000416/"
+}

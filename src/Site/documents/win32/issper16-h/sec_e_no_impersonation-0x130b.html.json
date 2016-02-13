@@ -1,0 +1,28 @@
+---
+output: win32\issper16-h\sec_e_no_impersonation\0x130b\index.html.json
+
+title: 0x130B SEC_E_NO_IMPERSONATION in IssPer16.h
+description: The security context does not allow impersonation of the client
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "IssPer16.h",
+  "sourceUrl": "/win32/issper16-h/",
+  "code": "0x130B",
+  "codeUrl": "/win32/issper16-h/sec_e_no_impersonation/0x130b/",
+  "numericCode": 4875,
+  "define": "SEC_E_NO_IMPERSONATION",
+  "defineUrl": "/win32/issper16-h/sec_e_no_impersonation/",
+  "message": "The security context does not allow impersonation of the client",
+  "remarks": null,
+  "aka": [
+    "4875"
+  ],
+  "akaUrl": [
+    "/win32/issper16-h/sec_e_no_impersonation/4875/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

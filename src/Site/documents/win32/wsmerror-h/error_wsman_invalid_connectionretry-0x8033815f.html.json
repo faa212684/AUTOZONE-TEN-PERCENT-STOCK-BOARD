@@ -1,0 +1,28 @@
+---
+output: win32\wsmerror-h\error_wsman_invalid_connectionretry\0x8033815f\index.html.json
+
+title: 0x8033815F ERROR_WSMAN_INVALID_CONNECTIONRETRY in wsmerror.h
+description: The WinRM service cannot process the request because the wsman:ConnectionRetry element in the DeliverTo is invalid.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x8033815F",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_invalid_connectionretry/0x8033815f/",
+  "numericCode": -2144108193,
+  "define": "ERROR_WSMAN_INVALID_CONNECTIONRETRY",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_invalid_connectionretry/",
+  "message": "The WinRM service cannot process the request because the wsman:ConnectionRetry element in the DeliverTo is invalid.",
+  "remarks": null,
+  "aka": [
+    "-2144108193"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_invalid_connectionretry/-2144108193/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

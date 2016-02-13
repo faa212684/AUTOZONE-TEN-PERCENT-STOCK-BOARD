@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_invalid_idn_normalization\-1073740010\index.html.json
+canonical: /win32/ntstatus-h/status_invalid_idn_normalization/0xc0000716/
+title: -1073740010 STATUS_INVALID_IDN_NORMALIZATION in ntstatus.h
+description: Indicates that the specified string is not valid for IDN normalization.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073740010",
+  "codeUrl": "/win32/ntstatus-h/status_invalid_idn_normalization/-1073740010/",
+  "numericCode": 0,
+  "define": "STATUS_INVALID_IDN_NORMALIZATION",
+  "defineUrl": "/win32/ntstatus-h/status_invalid_idn_normalization/",
+  "message": "Indicates that the specified string is not valid for IDN normalization.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000716",
+  "originalCodeUrl": "/win32/ntstatus-h/status_invalid_idn_normalization/0xc0000716/"
+}

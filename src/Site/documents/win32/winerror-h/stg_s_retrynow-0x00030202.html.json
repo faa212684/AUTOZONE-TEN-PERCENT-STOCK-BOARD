@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\stg_s_retrynow\0x00030202\index.html.json
+
+title: 0x00030202 STG_S_RETRYNOW in winerror.h
+description: The storage operation should retry immediately.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x00030202",
+  "codeUrl": "/win32/winerror-h/stg_s_retrynow/0x00030202/",
+  "numericCode": 197122,
+  "define": "STG_S_RETRYNOW",
+  "defineUrl": "/win32/winerror-h/stg_s_retrynow/",
+  "message": "The storage operation should retry immediately.",
+  "remarks": null,
+  "aka": [
+    "197122"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/stg_s_retrynow/197122/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

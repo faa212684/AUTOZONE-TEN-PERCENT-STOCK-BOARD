@@ -1,0 +1,30 @@
+---
+output: win32\netevent-h\event_frs_root_not_valid\0xc00034e3\index.html.json
+
+title: 0xC00034E3 EVENT_FRS_ROOT_NOT_VALID in netevent.h
+description: The File Replication Service cannot replicate %1 because the
+pathname of the replicated directory is not the fully qualified
+pathname of an existing, accessible local directory.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC00034E3",
+  "codeUrl": "/win32/netevent-h/event_frs_root_not_valid/0xc00034e3/",
+  "numericCode": -1073728285,
+  "define": "EVENT_FRS_ROOT_NOT_VALID",
+  "defineUrl": "/win32/netevent-h/event_frs_root_not_valid/",
+  "message": "The File Replication Service cannot replicate %1 because the\r\npathname of the replicated directory is not the fully qualified\r\npathname of an existing, accessible local directory.",
+  "remarks": null,
+  "aka": [
+    "-1073728285"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_frs_root_not_valid/-1073728285/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

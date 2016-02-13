@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_log_start_of_log\0x800719da\index.html.json
+canonical: /win32/winerror-h/error_log_start_of_log/6618/
+title: 0x800719da ERROR_LOG_START_OF_LOG in winerror.h
+description: Log service has attempted to read or write backward past the start of the log.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800719da",
+  "codeUrl": "/win32/winerror-h/error_log_start_of_log/0x800719da/",
+  "numericCode": 0,
+  "define": "ERROR_LOG_START_OF_LOG",
+  "defineUrl": "/win32/winerror-h/error_log_start_of_log/",
+  "message": "Log service has attempted to read or write backward past the start of the log.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "6618",
+  "originalCodeUrl": "/win32/winerror-h/error_log_start_of_log/6618/"
+}

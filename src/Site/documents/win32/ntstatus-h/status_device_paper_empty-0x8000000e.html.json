@@ -1,0 +1,29 @@
+---
+output: win32\ntstatus-h\status_device_paper_empty\0x8000000e\index.html.json
+
+title: 0x8000000E STATUS_DEVICE_PAPER_EMPTY in ntstatus.h
+description: "{Out of Paper}
+The printer is out of paper."
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0x8000000E",
+  "codeUrl": "/win32/ntstatus-h/status_device_paper_empty/0x8000000e/",
+  "numericCode": -2147483634,
+  "define": "STATUS_DEVICE_PAPER_EMPTY",
+  "defineUrl": "/win32/ntstatus-h/status_device_paper_empty/",
+  "message": "{Out of Paper}\r\nThe printer is out of paper.",
+  "remarks": null,
+  "aka": [
+    "-2147483634"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_device_paper_empty/-2147483634/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

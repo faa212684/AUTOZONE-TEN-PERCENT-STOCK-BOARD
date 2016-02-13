@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\co_e_async_work_rejected\0x80004029\index.html.json
+
+title: 0x80004029 CO_E_ASYNC_WORK_REJECTED in winerror.h
+description: The thread-pool rejected the submitted asynchronous work.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80004029",
+  "codeUrl": "/win32/winerror-h/co_e_async_work_rejected/0x80004029/",
+  "numericCode": -2147467223,
+  "define": "CO_E_ASYNC_WORK_REJECTED",
+  "defineUrl": "/win32/winerror-h/co_e_async_work_rejected/",
+  "message": "The thread-pool rejected the submitted asynchronous work.",
+  "remarks": null,
+  "aka": [
+    "-2147467223"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/co_e_async_work_rejected/-2147467223/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

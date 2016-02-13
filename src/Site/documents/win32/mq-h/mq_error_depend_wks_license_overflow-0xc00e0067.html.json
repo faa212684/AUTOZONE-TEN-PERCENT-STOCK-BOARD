@@ -1,0 +1,28 @@
+---
+output: win32\mq-h\mq_error_depend_wks_license_overflow\0xc00e0067\index.html.json
+
+title: 0xC00E0067 MQ_ERROR_DEPEND_WKS_LICENSE_OVERFLOW in Mq.h
+description: The number of dependent clients served by the Message Queuing server reached its upper limit.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "Mq.h",
+  "sourceUrl": "/win32/mq-h/",
+  "code": "0xC00E0067",
+  "codeUrl": "/win32/mq-h/mq_error_depend_wks_license_overflow/0xc00e0067/",
+  "numericCode": -1072824217,
+  "define": "MQ_ERROR_DEPEND_WKS_LICENSE_OVERFLOW",
+  "defineUrl": "/win32/mq-h/mq_error_depend_wks_license_overflow/",
+  "message": "The number of dependent clients served by the Message Queuing server reached its upper limit.",
+  "remarks": null,
+  "aka": [
+    "-1072824217"
+  ],
+  "akaUrl": [
+    "/win32/mq-h/mq_error_depend_wks_license_overflow/-1072824217/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

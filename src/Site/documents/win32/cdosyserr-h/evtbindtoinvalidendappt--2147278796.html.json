@@ -1,0 +1,25 @@
+---
+output: win32\cdosyserr-h\evtbindtoinvalidendappt\-2147278796\index.html.json
+canonical: /win32/cdosyserr-h/evtbindtoinvalidendappt/0x80032034/
+title: -2147278796 evtBindToInvalidEndAppt in CDOSysErr.h
+description: The calendaring agent did bind to the appointment with the subject "%1" in mailbox %2, but the appointment is missing an end time and duration. For the purposes of publishing free/busy information, this appointment has a duration of zero minutes. To correct this, please delete the appointment and recreate it.
+%n%nFor more information, click http:www.microsoft.com/contentredirect.asp.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "CDOSysErr.h",
+  "sourceUrl": "/win32/cdosyserr-h/",
+  "code": "-2147278796",
+  "codeUrl": "/win32/cdosyserr-h/evtbindtoinvalidendappt/-2147278796/",
+  "numericCode": 0,
+  "define": "evtBindToInvalidEndAppt",
+  "defineUrl": "/win32/cdosyserr-h/evtbindtoinvalidendappt/",
+  "message": "The calendaring agent did bind to the appointment with the subject \"%1\" in mailbox %2, but the appointment is missing an end time and duration. For the purposes of publishing free/busy information, this appointment has a duration of zero minutes. To correct this, please delete the appointment and recreate it.\r\n%n%nFor more information, click http:www.microsoft.com/contentredirect.asp.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80032034",
+  "originalCodeUrl": "/win32/cdosyserr-h/evtbindtoinvalidendappt/0x80032034/"
+}

@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\rpc_nt_no_interfaces\0xc002004f\index.html.json
+
+title: 0xC002004F RPC_NT_NO_INTERFACES in ntstatus.h
+description: No interfaces have been registered.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC002004F",
+  "codeUrl": "/win32/ntstatus-h/rpc_nt_no_interfaces/0xc002004f/",
+  "numericCode": -1073610673,
+  "define": "RPC_NT_NO_INTERFACES",
+  "defineUrl": "/win32/ntstatus-h/rpc_nt_no_interfaces/",
+  "message": "No interfaces have been registered.",
+  "remarks": null,
+  "aka": [
+    "-1073610673"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/rpc_nt_no_interfaces/-1073610673/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

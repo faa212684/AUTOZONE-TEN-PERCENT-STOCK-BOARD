@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_invalid_account_name\-1073741726\index.html.json
+canonical: /win32/ntstatus-h/status_invalid_account_name/0xc0000062/
+title: -1073741726 STATUS_INVALID_ACCOUNT_NAME in ntstatus.h
+description: The name provided is not a properly formed account name.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741726",
+  "codeUrl": "/win32/ntstatus-h/status_invalid_account_name/-1073741726/",
+  "numericCode": 0,
+  "define": "STATUS_INVALID_ACCOUNT_NAME",
+  "defineUrl": "/win32/ntstatus-h/status_invalid_account_name/",
+  "message": "The name provided is not a properly formed account name.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000062",
+  "originalCodeUrl": "/win32/ntstatus-h/status_invalid_account_name/0xc0000062/"
+}

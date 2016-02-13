@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\fwp_e_invalid_auth_transform\0x80320038\index.html.json
+
+title: 0x80320038 FWP_E_INVALID_AUTH_TRANSFORM in winerror.h
+description: The IPsec authentication transform is not valid.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80320038",
+  "codeUrl": "/win32/winerror-h/fwp_e_invalid_auth_transform/0x80320038/",
+  "numericCode": -2144206792,
+  "define": "FWP_E_INVALID_AUTH_TRANSFORM",
+  "defineUrl": "/win32/winerror-h/fwp_e_invalid_auth_transform/",
+  "message": "The IPsec authentication transform is not valid.",
+  "remarks": null,
+  "aka": [
+    "-2144206792"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/fwp_e_invalid_auth_transform/-2144206792/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

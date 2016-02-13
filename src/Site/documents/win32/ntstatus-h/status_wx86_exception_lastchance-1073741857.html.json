@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_wx86_exception_lastchance\1073741857\index.html.json
+canonical: /win32/ntstatus-h/status_wx86_exception_lastchance/0x40000021/
+title: 1073741857 STATUS_WX86_EXCEPTION_LASTCHANCE in ntstatus.h
+description: Exception status code used by Win32 x86 emulation subsystem.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "1073741857",
+  "codeUrl": "/win32/ntstatus-h/status_wx86_exception_lastchance/1073741857/",
+  "numericCode": 0,
+  "define": "STATUS_WX86_EXCEPTION_LASTCHANCE",
+  "defineUrl": "/win32/ntstatus-h/status_wx86_exception_lastchance/",
+  "message": "Exception status code used by Win32 x86 emulation subsystem.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x40000021",
+  "originalCodeUrl": "/win32/ntstatus-h/status_wx86_exception_lastchance/0x40000021/"
+}

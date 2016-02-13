@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_invalid_parameter_mix\0xc0000030\index.html.json
+
+title: 0xC0000030 STATUS_INVALID_PARAMETER_MIX in ntstatus.h
+description: An invalid combination of parameters was specified.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000030",
+  "codeUrl": "/win32/ntstatus-h/status_invalid_parameter_mix/0xc0000030/",
+  "numericCode": -1073741776,
+  "define": "STATUS_INVALID_PARAMETER_MIX",
+  "defineUrl": "/win32/ntstatus-h/status_invalid_parameter_mix/",
+  "message": "An invalid combination of parameters was specified.",
+  "remarks": null,
+  "aka": [
+    "-1073741776"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_invalid_parameter_mix/-1073741776/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

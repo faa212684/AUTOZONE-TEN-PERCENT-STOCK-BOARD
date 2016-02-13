@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\rpc_nt_unknown_authn_service\-1073610704\index.html.json
+canonical: /win32/ntstatus-h/rpc_nt_unknown_authn_service/0xc0020030/
+title: -1073610704 RPC_NT_UNKNOWN_AUTHN_SERVICE in ntstatus.h
+description: The authentication service is unknown.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073610704",
+  "codeUrl": "/win32/ntstatus-h/rpc_nt_unknown_authn_service/-1073610704/",
+  "numericCode": 0,
+  "define": "RPC_NT_UNKNOWN_AUTHN_SERVICE",
+  "defineUrl": "/win32/ntstatus-h/rpc_nt_unknown_authn_service/",
+  "message": "The authentication service is unknown.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0020030",
+  "originalCodeUrl": "/win32/ntstatus-h/rpc_nt_unknown_authn_service/0xc0020030/"
+}

@@ -1,0 +1,29 @@
+---
+output: win32\wsmerror-h\error_wsman_concurrency\0x80338032\index.html.json
+
+title: 0x80338032 ERROR_WSMAN_CONCURRENCY in wsmerror.h
+description: The WS-Management service cannot complete the WS-Addressing Action URI in the request because the resource
+was already in use.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x80338032",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_concurrency/0x80338032/",
+  "numericCode": -2144108494,
+  "define": "ERROR_WSMAN_CONCURRENCY",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_concurrency/",
+  "message": "The WS-Management service cannot complete the WS-Addressing Action URI in the request because the resource\r\nwas already in use.",
+  "remarks": null,
+  "aka": [
+    "-2144108494"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_concurrency/-2144108494/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

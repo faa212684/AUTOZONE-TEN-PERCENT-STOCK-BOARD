@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_vid_invalid_processor_state\0xc037001d\index.html.json
+
+title: 0xC037001D STATUS_VID_INVALID_PROCESSOR_STATE in ntstatus.h
+description: Invalid state for the virtual processor. Restarting the virtual machine may fix the problem. If the problem persists, try restarting the physical computer.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC037001D",
+  "codeUrl": "/win32/ntstatus-h/status_vid_invalid_processor_state/0xc037001d/",
+  "numericCode": -1070137315,
+  "define": "STATUS_VID_INVALID_PROCESSOR_STATE",
+  "defineUrl": "/win32/ntstatus-h/status_vid_invalid_processor_state/",
+  "message": "Invalid state for the virtual processor. Restarting the virtual machine may fix the problem. If the problem persists, try restarting the physical computer.",
+  "remarks": null,
+  "aka": [
+    "-1070137315"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_vid_invalid_processor_state/-1070137315/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_cluster_mismatched_computer_acct_name\0x80071711\index.html.json
+canonical: /win32/winerror-h/error_cluster_mismatched_computer_acct_name/5905/
+title: 0x80071711 ERROR_CLUSTER_MISMATCHED_COMPUTER_ACCT_NAME in winerror.h
+description: The name of the corresponding computer account doesn't match the Network Name for this resource.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80071711",
+  "codeUrl": "/win32/winerror-h/error_cluster_mismatched_computer_acct_name/0x80071711/",
+  "numericCode": 0,
+  "define": "ERROR_CLUSTER_MISMATCHED_COMPUTER_ACCT_NAME",
+  "defineUrl": "/win32/winerror-h/error_cluster_mismatched_computer_acct_name/",
+  "message": "The name of the corresponding computer account doesn't match the Network Name for this resource.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "5905",
+  "originalCodeUrl": "/win32/winerror-h/error_cluster_mismatched_computer_acct_name/5905/"
+}

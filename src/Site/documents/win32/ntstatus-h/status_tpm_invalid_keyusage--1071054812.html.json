@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_tpm_invalid_keyusage\-1071054812\index.html.json
+canonical: /win32/ntstatus-h/status_tpm_invalid_keyusage/0xc0290024/
+title: -1071054812 STATUS_TPM_INVALID_KEYUSAGE in ntstatus.h
+description: The usage of a key is not allowed.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071054812",
+  "codeUrl": "/win32/ntstatus-h/status_tpm_invalid_keyusage/-1071054812/",
+  "numericCode": 0,
+  "define": "STATUS_TPM_INVALID_KEYUSAGE",
+  "defineUrl": "/win32/ntstatus-h/status_tpm_invalid_keyusage/",
+  "message": "The usage of a key is not allowed.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0290024",
+  "originalCodeUrl": "/win32/ntstatus-h/status_tpm_invalid_keyusage/0xc0290024/"
+}

@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\tpm_e_no_wrap_transport\0x8028002f\index.html.json
+
+title: 0x8028002F TPM_E_NO_WRAP_TRANSPORT in winerror.h
+description: The TPM does not allow for wrapped transport sessions.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8028002F",
+  "codeUrl": "/win32/winerror-h/tpm_e_no_wrap_transport/0x8028002f/",
+  "numericCode": -2144862161,
+  "define": "TPM_E_NO_WRAP_TRANSPORT",
+  "defineUrl": "/win32/winerror-h/tpm_e_no_wrap_transport/",
+  "message": "The TPM does not allow for wrapped transport sessions.",
+  "remarks": null,
+  "aka": [
+    "-2144862161"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/tpm_e_no_wrap_transport/-2144862161/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

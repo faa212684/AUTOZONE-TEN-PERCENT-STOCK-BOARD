@@ -1,0 +1,28 @@
+---
+output: win32\fsrmerr-h\fsrm_e_cluster_not_running\0x8004532e\index.html.json
+
+title: 0x8004532E FSRM_E_CLUSTER_NOT_RUNNING in fsrmerr.h
+description: File Server Resource Manager global configuration cannot be accessed since the cluster service is not running.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "fsrmerr.h",
+  "sourceUrl": "/win32/fsrmerr-h/",
+  "code": "0x8004532E",
+  "codeUrl": "/win32/fsrmerr-h/fsrm_e_cluster_not_running/0x8004532e/",
+  "numericCode": -2147200210,
+  "define": "FSRM_E_CLUSTER_NOT_RUNNING",
+  "defineUrl": "/win32/fsrmerr-h/fsrm_e_cluster_not_running/",
+  "message": "File Server Resource Manager global configuration cannot be accessed since the cluster service is not running.",
+  "remarks": null,
+  "aka": [
+    "-2147200210"
+  ],
+  "akaUrl": [
+    "/win32/fsrmerr-h/fsrm_e_cluster_not_running/-2147200210/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

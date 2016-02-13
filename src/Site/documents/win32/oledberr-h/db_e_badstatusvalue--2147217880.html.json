@@ -1,0 +1,25 @@
+---
+output: win32\oledberr-h\db_e_badstatusvalue\-2147217880\index.html.json
+canonical: /win32/oledberr-h/db_e_badstatusvalue/0x80040e28/
+title: -2147217880 DB_E_BADSTATUSVALUE in oledberr.h
+description: Status flag was neither DBCOLUMNSTATUS_OK nor
+DBCOLUMNSTATUS_ISNULL.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "oledberr.h",
+  "sourceUrl": "/win32/oledberr-h/",
+  "code": "-2147217880",
+  "codeUrl": "/win32/oledberr-h/db_e_badstatusvalue/-2147217880/",
+  "numericCode": 0,
+  "define": "DB_E_BADSTATUSVALUE",
+  "defineUrl": "/win32/oledberr-h/db_e_badstatusvalue/",
+  "message": "Status flag was neither DBCOLUMNSTATUS_OK nor\r\nDBCOLUMNSTATUS_ISNULL.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80040E28",
+  "originalCodeUrl": "/win32/oledberr-h/db_e_badstatusvalue/0x80040e28/"
+}

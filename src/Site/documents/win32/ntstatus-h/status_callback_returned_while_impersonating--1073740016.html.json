@@ -1,0 +1,25 @@
+---
+output: win32\ntstatus-h\status_callback_returned_while_impersonating\-1073740016\index.html.json
+canonical: /win32/ntstatus-h/status_callback_returned_while_impersonating/0xc0000710/
+title: -1073740016 STATUS_CALLBACK_RETURNED_WHILE_IMPERSONATING in ntstatus.h
+description: A threadpool worker thread is impersonating a client, after a callback to 0x%p(0x%p).
+This is unexpected, indicating that the callback is missing a call to revert the impersonation.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073740016",
+  "codeUrl": "/win32/ntstatus-h/status_callback_returned_while_impersonating/-1073740016/",
+  "numericCode": 0,
+  "define": "STATUS_CALLBACK_RETURNED_WHILE_IMPERSONATING",
+  "defineUrl": "/win32/ntstatus-h/status_callback_returned_while_impersonating/",
+  "message": "A threadpool worker thread is impersonating a client, after a callback to 0x%p(0x%p).\r\nThis is unexpected, indicating that the callback is missing a call to revert the impersonation.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000710",
+  "originalCodeUrl": "/win32/ntstatus-h/status_callback_returned_while_impersonating/0xc0000710/"
+}

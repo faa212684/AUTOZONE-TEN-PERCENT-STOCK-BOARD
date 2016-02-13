@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_mapped_alignment\0x8007046c\index.html.json
+canonical: /win32/winerror-h/error_mapped_alignment/1132/
+title: 0x8007046c ERROR_MAPPED_ALIGNMENT in winerror.h
+description: The base address or the file offset specified does not have the proper alignment.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007046c",
+  "codeUrl": "/win32/winerror-h/error_mapped_alignment/0x8007046c/",
+  "numericCode": 0,
+  "define": "ERROR_MAPPED_ALIGNMENT",
+  "defineUrl": "/win32/winerror-h/error_mapped_alignment/",
+  "message": "The base address or the file offset specified does not have the proper alignment.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "1132",
+  "originalCodeUrl": "/win32/winerror-h/error_mapped_alignment/1132/"
+}

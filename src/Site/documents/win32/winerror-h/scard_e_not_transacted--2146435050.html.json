@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\scard_e_not_transacted\-2146435050\index.html.json
+canonical: /win32/winerror-h/scard_e_not_transacted/0x80100016/
+title: -2146435050 SCARD_E_NOT_TRANSACTED in winerror.h
+description: An attempt was made to end a non-existent transaction.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2146435050",
+  "codeUrl": "/win32/winerror-h/scard_e_not_transacted/-2146435050/",
+  "numericCode": 0,
+  "define": "SCARD_E_NOT_TRANSACTED",
+  "defineUrl": "/win32/winerror-h/scard_e_not_transacted/",
+  "message": "An attempt was made to end a non-existent transaction.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80100016",
+  "originalCodeUrl": "/win32/winerror-h/scard_e_not_transacted/0x80100016/"
+}

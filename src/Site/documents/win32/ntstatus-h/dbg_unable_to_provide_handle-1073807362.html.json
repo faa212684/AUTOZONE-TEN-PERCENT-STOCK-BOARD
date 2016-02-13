@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\dbg_unable_to_provide_handle\1073807362\index.html.json
+canonical: /win32/ntstatus-h/dbg_unable_to_provide_handle/0x40010002/
+title: 1073807362 DBG_UNABLE_TO_PROVIDE_HANDLE in ntstatus.h
+description: Debugger cannot provide handle.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "1073807362",
+  "codeUrl": "/win32/ntstatus-h/dbg_unable_to_provide_handle/1073807362/",
+  "numericCode": 0,
+  "define": "DBG_UNABLE_TO_PROVIDE_HANDLE",
+  "defineUrl": "/win32/ntstatus-h/dbg_unable_to_provide_handle/",
+  "message": "Debugger cannot provide handle.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x40010002",
+  "originalCodeUrl": "/win32/ntstatus-h/dbg_unable_to_provide_handle/0x40010002/"
+}

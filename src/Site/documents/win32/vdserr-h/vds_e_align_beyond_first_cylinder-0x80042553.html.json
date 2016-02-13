@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_e_align_beyond_first_cylinder\0x80042553\index.html.json
+
+title: 0x80042553 VDS_E_ALIGN_BEYOND_FIRST_CYLINDER in vdserr.h
+description: The specified alignment is beyond the first cylinder.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x80042553",
+  "codeUrl": "/win32/vdserr-h/vds_e_align_beyond_first_cylinder/0x80042553/",
+  "numericCode": -2147211949,
+  "define": "VDS_E_ALIGN_BEYOND_FIRST_CYLINDER",
+  "defineUrl": "/win32/vdserr-h/vds_e_align_beyond_first_cylinder/",
+  "message": "The specified alignment is beyond the first cylinder.",
+  "remarks": null,
+  "aka": [
+    "-2147211949"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_align_beyond_first_cylinder/-2147211949/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

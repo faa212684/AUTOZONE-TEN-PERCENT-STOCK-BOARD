@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_e_provider_vol_open\0x80042423\index.html.json
+
+title: 0x80042423 VDS_E_PROVIDER_VOL_OPEN in vdserr.h
+description: Failed to open the volume device.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x80042423",
+  "codeUrl": "/win32/vdserr-h/vds_e_provider_vol_open/0x80042423/",
+  "numericCode": -2147212253,
+  "define": "VDS_E_PROVIDER_VOL_OPEN",
+  "defineUrl": "/win32/vdserr-h/vds_e_provider_vol_open/",
+  "message": "Failed to open the volume device.",
+  "remarks": null,
+  "aka": [
+    "-2147212253"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_provider_vol_open/-2147212253/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

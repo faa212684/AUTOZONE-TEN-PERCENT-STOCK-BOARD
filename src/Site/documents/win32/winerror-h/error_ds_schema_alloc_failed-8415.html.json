@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ds_schema_alloc_failed\8415\index.html.json
+
+title: 8415 ERROR_DS_SCHEMA_ALLOC_FAILED in winerror.h
+description: Schema allocation failed. Please check if the machine is running low on memory.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "8415",
+  "codeUrl": "/win32/winerror-h/error_ds_schema_alloc_failed/8415/",
+  "numericCode": 8415,
+  "define": "ERROR_DS_SCHEMA_ALLOC_FAILED",
+  "defineUrl": "/win32/winerror-h/error_ds_schema_alloc_failed/",
+  "message": "Schema allocation failed. Please check if the machine is running low on memory.",
+  "remarks": null,
+  "aka": [
+    "0x800720df",
+    "-2147016481"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ds_schema_alloc_failed/0x800720df/",
+    "/win32/winerror-h/error_ds_schema_alloc_failed/-2147016481/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

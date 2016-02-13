@@ -1,0 +1,25 @@
+---
+output: win32\netevent-h\event_dns_cache_unable_to_reach_server_warning\-2147472597\index.html.json
+canonical: /win32/netevent-h/event_dns_cache_unable_to_reach_server_warning/0x80002b2b/
+title: -2147472597 EVENT_DNS_CACHE_UNABLE_TO_REACH_SERVER_WARNING in netevent.h
+description: The DNS Client service failed to reach DNS server at address %1. It will
+not use this DNS server for %2 seconds.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "-2147472597",
+  "codeUrl": "/win32/netevent-h/event_dns_cache_unable_to_reach_server_warning/-2147472597/",
+  "numericCode": 0,
+  "define": "EVENT_DNS_CACHE_UNABLE_TO_REACH_SERVER_WARNING",
+  "defineUrl": "/win32/netevent-h/event_dns_cache_unable_to_reach_server_warning/",
+  "message": "The DNS Client service failed to reach DNS server at address %1. It will\r\nnot use this DNS server for %2 seconds.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80002B2B",
+  "originalCodeUrl": "/win32/netevent-h/event_dns_cache_unable_to_reach_server_warning/0x80002b2b/"
+}

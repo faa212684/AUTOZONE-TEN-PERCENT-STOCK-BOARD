@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ds_high_adlds_ffl\8641\index.html.json
+
+title: 8641 ERROR_DS_HIGH_ADLDS_FFL in winerror.h
+description: The functional level of the AD LDS configuration set cannot be lowered to the requested value.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "8641",
+  "codeUrl": "/win32/winerror-h/error_ds_high_adlds_ffl/8641/",
+  "numericCode": 8641,
+  "define": "ERROR_DS_HIGH_ADLDS_FFL",
+  "defineUrl": "/win32/winerror-h/error_ds_high_adlds_ffl/",
+  "message": "The functional level of the AD LDS configuration set cannot be lowered to the requested value.",
+  "remarks": null,
+  "aka": [
+    "0x800721c1",
+    "-2147016255"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ds_high_adlds_ffl/0x800721c1/",
+    "/win32/winerror-h/error_ds_high_adlds_ffl/-2147016255/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

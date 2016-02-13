@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ds_wrong_om_obj_class\8476\index.html.json
+
+title: 8476 ERROR_DS_WRONG_OM_OBJ_CLASS in winerror.h
+description: The OM-Object-Class specified is incorrect for an attribute with the specified syntax.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "8476",
+  "codeUrl": "/win32/winerror-h/error_ds_wrong_om_obj_class/8476/",
+  "numericCode": 8476,
+  "define": "ERROR_DS_WRONG_OM_OBJ_CLASS",
+  "defineUrl": "/win32/winerror-h/error_ds_wrong_om_obj_class/",
+  "message": "The OM-Object-Class specified is incorrect for an attribute with the specified syntax.",
+  "remarks": null,
+  "aka": [
+    "0x8007211c",
+    "-2147016420"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ds_wrong_om_obj_class/0x8007211c/",
+    "/win32/winerror-h/error_ds_wrong_om_obj_class/-2147016420/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

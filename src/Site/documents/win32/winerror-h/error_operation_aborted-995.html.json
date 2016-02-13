@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_operation_aborted\995\index.html.json
+
+title: 995 ERROR_OPERATION_ABORTED in winerror.h
+description: The I/O operation has been aborted because of either a thread exit or an application request.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "995",
+  "codeUrl": "/win32/winerror-h/error_operation_aborted/995/",
+  "numericCode": 995,
+  "define": "ERROR_OPERATION_ABORTED",
+  "defineUrl": "/win32/winerror-h/error_operation_aborted/",
+  "message": "The I/O operation has been aborted because of either a thread exit or an application request.",
+  "remarks": null,
+  "aka": [
+    "0x800703e3",
+    "-2147023901"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_operation_aborted/0x800703e3/",
+    "/win32/winerror-h/error_operation_aborted/-2147023901/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

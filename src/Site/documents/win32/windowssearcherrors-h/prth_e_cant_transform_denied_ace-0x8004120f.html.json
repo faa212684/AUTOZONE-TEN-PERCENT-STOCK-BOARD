@@ -1,0 +1,28 @@
+---
+output: win32\windowssearcherrors-h\prth_e_cant_transform_denied_ace\0x8004120f\index.html.json
+
+title: 0x8004120F PRTH_E_CANT_TRANSFORM_DENIED_ACE in WindowsSearchErrors.h
+description: An object cannot be processed because search cannot convert a Notes Access-Denied entry in the Access Control List into a Windows NT identity. Check the Notes to Windows NT identity mapping.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "0x8004120F",
+  "codeUrl": "/win32/windowssearcherrors-h/prth_e_cant_transform_denied_ace/0x8004120f/",
+  "numericCode": -2147216881,
+  "define": "PRTH_E_CANT_TRANSFORM_DENIED_ACE",
+  "defineUrl": "/win32/windowssearcherrors-h/prth_e_cant_transform_denied_ace/",
+  "message": "An object cannot be processed because search cannot convert a Notes Access-Denied entry in the Access Control List into a Windows NT identity. Check the Notes to Windows NT identity mapping.",
+  "remarks": null,
+  "aka": [
+    "-2147216881"
+  ],
+  "akaUrl": [
+    "/win32/windowssearcherrors-h/prth_e_cant_transform_denied_ace/-2147216881/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

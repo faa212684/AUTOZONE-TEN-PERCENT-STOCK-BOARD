@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_tpm_sha_error\-1071054821\index.html.json
+canonical: /win32/ntstatus-h/status_tpm_sha_error/0xc029001b/
+title: -1071054821 STATUS_TPM_SHA_ERROR in ntstatus.h
+description: The calculation is unable to proceed because the existing SHA-1 thread has already encountered an error.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071054821",
+  "codeUrl": "/win32/ntstatus-h/status_tpm_sha_error/-1071054821/",
+  "numericCode": 0,
+  "define": "STATUS_TPM_SHA_ERROR",
+  "defineUrl": "/win32/ntstatus-h/status_tpm_sha_error/",
+  "message": "The calculation is unable to proceed because the existing SHA-1 thread has already encountered an error.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC029001B",
+  "originalCodeUrl": "/win32/ntstatus-h/status_tpm_sha_error/0xc029001b/"
+}

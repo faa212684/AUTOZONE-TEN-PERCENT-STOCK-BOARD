@@ -1,0 +1,24 @@
+---
+output: win32\netevent-h\event_srv_no_blocking_io\-2147481624\index.html.json
+canonical: /win32/netevent-h/event_srv_no_blocking_io/0x800007e8/
+title: -2147481624 EVENT_SRV_NO_BLOCKING_IO in netevent.h
+description: The server was unable to allocate resources for blocking I/O %2 times in the last %3 seconds.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "-2147481624",
+  "codeUrl": "/win32/netevent-h/event_srv_no_blocking_io/-2147481624/",
+  "numericCode": 0,
+  "define": "EVENT_SRV_NO_BLOCKING_IO",
+  "defineUrl": "/win32/netevent-h/event_srv_no_blocking_io/",
+  "message": "The server was unable to allocate resources for blocking I/O %2 times in the last %3 seconds.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x800007E8",
+  "originalCodeUrl": "/win32/netevent-h/event_srv_no_blocking_io/0x800007e8/"
+}

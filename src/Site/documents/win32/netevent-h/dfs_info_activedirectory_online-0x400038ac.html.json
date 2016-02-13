@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\dfs_info_activedirectory_online\0x400038ac\index.html.json
+
+title: 0x400038AC DFS_INFO_ACTIVEDIRECTORY_ONLINE in netevent.h
+description: DFS re-established a connection to the PDC to initiate Domain DFS operations.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x400038AC",
+  "codeUrl": "/win32/netevent-h/dfs_info_activedirectory_online/0x400038ac/",
+  "numericCode": 1073756332,
+  "define": "DFS_INFO_ACTIVEDIRECTORY_ONLINE",
+  "defineUrl": "/win32/netevent-h/dfs_info_activedirectory_online/",
+  "message": "DFS re-established a connection to the PDC to initiate Domain DFS operations.",
+  "remarks": null,
+  "aka": [
+    "1073756332"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/dfs_info_activedirectory_online/1073756332/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

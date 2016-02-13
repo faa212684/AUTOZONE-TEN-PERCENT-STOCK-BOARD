@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_marshall_overflow\0xc0000231\index.html.json
+
+title: 0xC0000231 STATUS_MARSHALL_OVERFLOW in ntstatus.h
+description: The user/kernel marshalling buffer has overflowed.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000231",
+  "codeUrl": "/win32/ntstatus-h/status_marshall_overflow/0xc0000231/",
+  "numericCode": -1073741263,
+  "define": "STATUS_MARSHALL_OVERFLOW",
+  "defineUrl": "/win32/ntstatus-h/status_marshall_overflow/",
+  "message": "The user/kernel marshalling buffer has overflowed.",
+  "remarks": null,
+  "aka": [
+    "-1073741263"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_marshall_overflow/-1073741263/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

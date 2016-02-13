@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_graphics_vidpn_topology_currently_not_supported\0xc01e0302\index.html.json
+
+title: 0xC01E0302 STATUS_GRAPHICS_VIDPN_TOPOLOGY_CURRENTLY_NOT_SUPPORTED in ntstatus.h
+description: Specified VidPN topology is valid but is not supported by the display adapter at this time, due to current allocation of its resources.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC01E0302",
+  "codeUrl": "/win32/ntstatus-h/status_graphics_vidpn_topology_currently_not_supported/0xc01e0302/",
+  "numericCode": -1071774974,
+  "define": "STATUS_GRAPHICS_VIDPN_TOPOLOGY_CURRENTLY_NOT_SUPPORTED",
+  "defineUrl": "/win32/ntstatus-h/status_graphics_vidpn_topology_currently_not_supported/",
+  "message": "Specified VidPN topology is valid but is not supported by the display adapter at this time, due to current allocation of its resources.",
+  "remarks": null,
+  "aka": [
+    "-1071774974"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_graphics_vidpn_topology_currently_not_supported/-1071774974/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

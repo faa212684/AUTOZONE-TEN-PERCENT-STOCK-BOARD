@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_cant_create_more_stream_miniversions\0xc0190026\index.html.json
+
+title: 0xC0190026 STATUS_CANT_CREATE_MORE_STREAM_MINIVERSIONS in ntstatus.h
+description: It is not possible to create any more miniversions for this stream.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0190026",
+  "codeUrl": "/win32/ntstatus-h/status_cant_create_more_stream_miniversions/0xc0190026/",
+  "numericCode": -1072103386,
+  "define": "STATUS_CANT_CREATE_MORE_STREAM_MINIVERSIONS",
+  "defineUrl": "/win32/ntstatus-h/status_cant_create_more_stream_miniversions/",
+  "message": "It is not possible to create any more miniversions for this stream.",
+  "remarks": null,
+  "aka": [
+    "-1072103386"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_cant_create_more_stream_miniversions/-1072103386/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

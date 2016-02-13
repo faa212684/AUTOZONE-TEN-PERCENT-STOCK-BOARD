@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\rpc_s_unsupported_authn_level\0x8007071d\index.html.json
+canonical: /win32/winerror-h/rpc_s_unsupported_authn_level/1821/
+title: 0x8007071d RPC_S_UNSUPPORTED_AUTHN_LEVEL in winerror.h
+description: The requested authentication level is not supported.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007071d",
+  "codeUrl": "/win32/winerror-h/rpc_s_unsupported_authn_level/0x8007071d/",
+  "numericCode": 0,
+  "define": "RPC_S_UNSUPPORTED_AUTHN_LEVEL",
+  "defineUrl": "/win32/winerror-h/rpc_s_unsupported_authn_level/",
+  "message": "The requested authentication level is not supported.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "1821",
+  "originalCodeUrl": "/win32/winerror-h/rpc_s_unsupported_authn_level/1821/"
+}

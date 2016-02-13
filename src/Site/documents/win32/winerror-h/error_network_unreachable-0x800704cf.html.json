@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_network_unreachable\0x800704cf\index.html.json
+canonical: /win32/winerror-h/error_network_unreachable/1231/
+title: 0x800704cf ERROR_NETWORK_UNREACHABLE in winerror.h
+description: The network location cannot be reached. For information about network troubleshooting, see Windows Help.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800704cf",
+  "codeUrl": "/win32/winerror-h/error_network_unreachable/0x800704cf/",
+  "numericCode": 0,
+  "define": "ERROR_NETWORK_UNREACHABLE",
+  "defineUrl": "/win32/winerror-h/error_network_unreachable/",
+  "message": "The network location cannot be reached. For information about network troubleshooting, see Windows Help.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "1231",
+  "originalCodeUrl": "/win32/winerror-h/error_network_unreachable/1231/"
+}

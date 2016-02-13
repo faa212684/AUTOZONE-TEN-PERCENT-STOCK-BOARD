@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_tpm_size\-1071054825\index.html.json
+canonical: /win32/ntstatus-h/status_tpm_size/0xc0290017/
+title: -1071054825 STATUS_TPM_SIZE in ntstatus.h
+description: The TPM does not have the space to perform the operation.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071054825",
+  "codeUrl": "/win32/ntstatus-h/status_tpm_size/-1071054825/",
+  "numericCode": 0,
+  "define": "STATUS_TPM_SIZE",
+  "defineUrl": "/win32/ntstatus-h/status_tpm_size/",
+  "message": "The TPM does not have the space to perform the operation.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0290017",
+  "originalCodeUrl": "/win32/ntstatus-h/status_tpm_size/0xc0290017/"
+}

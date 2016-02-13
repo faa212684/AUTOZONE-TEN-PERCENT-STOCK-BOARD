@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_no_link_tracking_in_transaction\0xc0190059\index.html.json
+
+title: 0xC0190059 STATUS_NO_LINK_TRACKING_IN_TRANSACTION in ntstatus.h
+description: The link tracking operation could not be completed because a transaction is active.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0190059",
+  "codeUrl": "/win32/ntstatus-h/status_no_link_tracking_in_transaction/0xc0190059/",
+  "numericCode": -1072103335,
+  "define": "STATUS_NO_LINK_TRACKING_IN_TRANSACTION",
+  "defineUrl": "/win32/ntstatus-h/status_no_link_tracking_in_transaction/",
+  "message": "The link tracking operation could not be completed because a transaction is active.",
+  "remarks": null,
+  "aka": [
+    "-1072103335"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_no_link_tracking_in_transaction/-1072103335/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

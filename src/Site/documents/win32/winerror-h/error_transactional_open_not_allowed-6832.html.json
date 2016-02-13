@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_transactional_open_not_allowed\6832\index.html.json
+
+title: 6832 ERROR_TRANSACTIONAL_OPEN_NOT_ALLOWED in winerror.h
+description: This object is not allowed to be opened in a transaction.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "6832",
+  "codeUrl": "/win32/winerror-h/error_transactional_open_not_allowed/6832/",
+  "numericCode": 6832,
+  "define": "ERROR_TRANSACTIONAL_OPEN_NOT_ALLOWED",
+  "defineUrl": "/win32/winerror-h/error_transactional_open_not_allowed/",
+  "message": "This object is not allowed to be opened in a transaction.",
+  "remarks": null,
+  "aka": [
+    "0x80071ab0",
+    "-2147018064"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_transactional_open_not_allowed/0x80071ab0/",
+    "/win32/winerror-h/error_transactional_open_not_allowed/-2147018064/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,29 @@
+---
+output: win32\cdosyserr-h\evtunhandledexceptioninitialization\0xc003201d\index.html.json
+
+title: 0xC003201D evtUnhandledExceptionInitialization in CDOSysErr.h
+description: Unhandled exception %1 caught during initialization of server agents.
+%n%nFor more information, click http:www.microsoft.com/contentredirect.asp.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "CDOSysErr.h",
+  "sourceUrl": "/win32/cdosyserr-h/",
+  "code": "0xC003201D",
+  "codeUrl": "/win32/cdosyserr-h/evtunhandledexceptioninitialization/0xc003201d/",
+  "numericCode": -1073536995,
+  "define": "evtUnhandledExceptionInitialization",
+  "defineUrl": "/win32/cdosyserr-h/evtunhandledexceptioninitialization/",
+  "message": "Unhandled exception %1 caught during initialization of server agents.\r\n%n%nFor more information, click http:www.microsoft.com/contentredirect.asp.",
+  "remarks": null,
+  "aka": [
+    "-1073536995"
+  ],
+  "akaUrl": [
+    "/win32/cdosyserr-h/evtunhandledexceptioninitialization/-1073536995/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

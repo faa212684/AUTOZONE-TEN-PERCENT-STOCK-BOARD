@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_pipe_listening\0xc00000b3\index.html.json
+
+title: 0xC00000B3 STATUS_PIPE_LISTENING in ntstatus.h
+description: The specified named pipe is in the listening state.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC00000B3",
+  "codeUrl": "/win32/ntstatus-h/status_pipe_listening/0xc00000b3/",
+  "numericCode": -1073741645,
+  "define": "STATUS_PIPE_LISTENING",
+  "defineUrl": "/win32/ntstatus-h/status_pipe_listening/",
+  "message": "The specified named pipe is in the listening state.",
+  "remarks": null,
+  "aka": [
+    "-1073741645"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_pipe_listening/-1073741645/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

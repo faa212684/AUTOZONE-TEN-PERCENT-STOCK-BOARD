@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_reparse_attribute_conflict\-1073741134\index.html.json
+canonical: /win32/ntstatus-h/status_reparse_attribute_conflict/0xc00002b2/
+title: -1073741134 STATUS_REPARSE_ATTRIBUTE_CONFLICT in ntstatus.h
+description: The reparse attribute cannot be set as it is incompatible with an existing attribute.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741134",
+  "codeUrl": "/win32/ntstatus-h/status_reparse_attribute_conflict/-1073741134/",
+  "numericCode": 0,
+  "define": "STATUS_REPARSE_ATTRIBUTE_CONFLICT",
+  "defineUrl": "/win32/ntstatus-h/status_reparse_attribute_conflict/",
+  "message": "The reparse attribute cannot be set as it is incompatible with an existing attribute.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC00002B2",
+  "originalCodeUrl": "/win32/ntstatus-h/status_reparse_attribute_conflict/0xc00002b2/"
+}

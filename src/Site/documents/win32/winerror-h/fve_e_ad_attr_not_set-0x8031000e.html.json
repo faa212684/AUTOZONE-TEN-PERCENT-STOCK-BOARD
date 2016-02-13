@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\fve_e_ad_attr_not_set\0x8031000e\index.html.json
+
+title: 0x8031000E FVE_E_AD_ATTR_NOT_SET in winerror.h
+description: The attribute was not set. Verify that you are logged on with a domain account that has the ability to write information to Active Directory objects.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8031000E",
+  "codeUrl": "/win32/winerror-h/fve_e_ad_attr_not_set/0x8031000e/",
+  "numericCode": -2144272370,
+  "define": "FVE_E_AD_ATTR_NOT_SET",
+  "defineUrl": "/win32/winerror-h/fve_e_ad_attr_not_set/",
+  "message": "The attribute was not set. Verify that you are logged on with a domain account that has the ability to write information to Active Directory objects.",
+  "remarks": null,
+  "aka": [
+    "-2144272370"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/fve_e_ad_attr_not_set/-2144272370/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

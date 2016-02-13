@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_sharing_paused\-1073741617\index.html.json
+canonical: /win32/ntstatus-h/status_sharing_paused/0xc00000cf/
+title: -1073741617 STATUS_SHARING_PAUSED in ntstatus.h
+description: File sharing has been temporarily paused.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741617",
+  "codeUrl": "/win32/ntstatus-h/status_sharing_paused/-1073741617/",
+  "numericCode": 0,
+  "define": "STATUS_SHARING_PAUSED",
+  "defineUrl": "/win32/ntstatus-h/status_sharing_paused/",
+  "message": "File sharing has been temporarily paused.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC00000CF",
+  "originalCodeUrl": "/win32/ntstatus-h/status_sharing_paused/0xc00000cf/"
+}

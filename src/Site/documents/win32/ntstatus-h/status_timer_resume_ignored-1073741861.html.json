@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_timer_resume_ignored\1073741861\index.html.json
+canonical: /win32/ntstatus-h/status_timer_resume_ignored/0x40000025/
+title: 1073741861 STATUS_TIMER_RESUME_IGNORED in ntstatus.h
+description: The resumable flag to a timer API was ignored.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "1073741861",
+  "codeUrl": "/win32/ntstatus-h/status_timer_resume_ignored/1073741861/",
+  "numericCode": 0,
+  "define": "STATUS_TIMER_RESUME_IGNORED",
+  "defineUrl": "/win32/ntstatus-h/status_timer_resume_ignored/",
+  "message": "The resumable flag to a timer API was ignored.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x40000025",
+  "originalCodeUrl": "/win32/ntstatus-h/status_timer_resume_ignored/0x40000025/"
+}

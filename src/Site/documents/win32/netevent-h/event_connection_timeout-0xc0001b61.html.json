@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_connection_timeout\0xc0001b61\index.html.json
+
+title: 0xC0001B61 EVENT_CONNECTION_TIMEOUT in netevent.h
+description: Timeout (%1 milliseconds) waiting for the %2 service to connect.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC0001B61",
+  "codeUrl": "/win32/netevent-h/event_connection_timeout/0xc0001b61/",
+  "numericCode": -1073734815,
+  "define": "EVENT_CONNECTION_TIMEOUT",
+  "defineUrl": "/win32/netevent-h/event_connection_timeout/",
+  "message": "Timeout (%1 milliseconds) waiting for the %2 service to connect.",
+  "remarks": null,
+  "aka": [
+    "-1073734815"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_connection_timeout/-1073734815/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

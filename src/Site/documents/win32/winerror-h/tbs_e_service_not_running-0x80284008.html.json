@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\tbs_e_service_not_running\0x80284008\index.html.json
+
+title: 0x80284008 TBS_E_SERVICE_NOT_RUNNING in winerror.h
+description: The TBS service is not running and could not be started.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80284008",
+  "codeUrl": "/win32/winerror-h/tbs_e_service_not_running/0x80284008/",
+  "numericCode": -2144845816,
+  "define": "TBS_E_SERVICE_NOT_RUNNING",
+  "defineUrl": "/win32/winerror-h/tbs_e_service_not_running/",
+  "message": "The TBS service is not running and could not be started.",
+  "remarks": null,
+  "aka": [
+    "-2144845816"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/tbs_e_service_not_running/-2144845816/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

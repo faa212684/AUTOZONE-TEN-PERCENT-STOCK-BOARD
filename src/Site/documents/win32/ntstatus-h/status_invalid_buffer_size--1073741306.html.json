@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_invalid_buffer_size\-1073741306\index.html.json
+canonical: /win32/ntstatus-h/status_invalid_buffer_size/0xc0000206/
+title: -1073741306 STATUS_INVALID_BUFFER_SIZE in ntstatus.h
+description: The size of the buffer is invalid for the specified operation.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741306",
+  "codeUrl": "/win32/ntstatus-h/status_invalid_buffer_size/-1073741306/",
+  "numericCode": 0,
+  "define": "STATUS_INVALID_BUFFER_SIZE",
+  "defineUrl": "/win32/ntstatus-h/status_invalid_buffer_size/",
+  "message": "The size of the buffer is invalid for the specified operation.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000206",
+  "originalCodeUrl": "/win32/ntstatus-h/status_invalid_buffer_size/0xc0000206/"
+}

@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_cluster_poisoned\0xc0130017\index.html.json
+
+title: 0xC0130017 STATUS_CLUSTER_POISONED in ntstatus.h
+description: The cluster node has been poisoned.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0130017",
+  "codeUrl": "/win32/ntstatus-h/status_cluster_poisoned/0xc0130017/",
+  "numericCode": -1072496617,
+  "define": "STATUS_CLUSTER_POISONED",
+  "defineUrl": "/win32/ntstatus-h/status_cluster_poisoned/",
+  "message": "The cluster node has been poisoned.",
+  "remarks": null,
+  "aka": [
+    "-1072496617"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_cluster_poisoned/-1072496617/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

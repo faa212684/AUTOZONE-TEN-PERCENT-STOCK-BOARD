@@ -1,0 +1,32 @@
+---
+output: win32\netevent-h\event_dns_cache_network_perf_warning\-2147472598\index.html.json
+canonical: /win32/netevent-h/event_dns_cache_network_perf_warning/0x80002b2a/
+title: -2147472598 EVENT_DNS_CACHE_NETWORK_PERF_WARNING in netevent.h
+description: The DNS Client service could not contact any DNS servers for
+a repeated number of attempts. For the next %3 seconds the
+DNS Client service will not use the network to avoid further
+network performance problems. It will resume its normal behavior
+after that. If this problem persists, verify your TCP/IP
+configuration, specifically check that you have a preferred
+(and possibly an alternate) DNS server configured. If the problem
+continues, verify network conditions to these DNS servers or contact
+your network administrator.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "-2147472598",
+  "codeUrl": "/win32/netevent-h/event_dns_cache_network_perf_warning/-2147472598/",
+  "numericCode": 0,
+  "define": "EVENT_DNS_CACHE_NETWORK_PERF_WARNING",
+  "defineUrl": "/win32/netevent-h/event_dns_cache_network_perf_warning/",
+  "message": "The DNS Client service could not contact any DNS servers for\r\na repeated number of attempts. For the next %3 seconds the\r\nDNS Client service will not use the network to avoid further\r\nnetwork performance problems. It will resume its normal behavior\r\nafter that. If this problem persists, verify your TCP/IP\r\nconfiguration, specifically check that you have a preferred\r\n(and possibly an alternate) DNS server configured. If the problem\r\ncontinues, verify network conditions to these DNS servers or contact\r\nyour network administrator.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80002B2A",
+  "originalCodeUrl": "/win32/netevent-h/event_dns_cache_network_perf_warning/0x80002b2a/"
+}

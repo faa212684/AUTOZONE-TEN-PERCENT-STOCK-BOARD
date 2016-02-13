@@ -1,0 +1,28 @@
+---
+output: win32\wsmerror-h\error_wsman_enumeration_closed\0x80338007\index.html.json
+
+title: 0x80338007 ERROR_WSMAN_ENUMERATION_CLOSED in wsmerror.h
+description: The WS-Management enumeration session is finished or cancelled and cannot be used. Start a new enumeration.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x80338007",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_enumeration_closed/0x80338007/",
+  "numericCode": -2144108537,
+  "define": "ERROR_WSMAN_ENUMERATION_CLOSED",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_enumeration_closed/",
+  "message": "The WS-Management enumeration session is finished or cancelled and cannot be used. Start a new enumeration.",
+  "remarks": null,
+  "aka": [
+    "-2144108537"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_enumeration_closed/-2144108537/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\ept_s_cant_create\0x8007076b\index.html.json
+canonical: /win32/winerror-h/ept_s_cant_create/1899/
+title: 0x8007076b EPT_S_CANT_CREATE in winerror.h
+description: The endpoint mapper database entry could not be created.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007076b",
+  "codeUrl": "/win32/winerror-h/ept_s_cant_create/0x8007076b/",
+  "numericCode": 0,
+  "define": "EPT_S_CANT_CREATE",
+  "defineUrl": "/win32/winerror-h/ept_s_cant_create/",
+  "message": "The endpoint mapper database entry could not be created.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "1899",
+  "originalCodeUrl": "/win32/winerror-h/ept_s_cant_create/1899/"
+}

@@ -1,0 +1,28 @@
+---
+output: win32\windowssearcherrors-h\event_gather_exception\0xc0000bc6\index.html.json
+
+title: 0xC0000BC6 EVENT_GATHER_EXCEPTION in WindowsSearchErrors.h
+description: An exception occurred. ID: %2. This is an internal error. Reproduce the error with the debugger attached and enable exceptions, then contact product support. One of the components loaded in your system is bad. You may be able to avoid the problem by recreating the index.%1
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "0xC0000BC6",
+  "codeUrl": "/win32/windowssearcherrors-h/event_gather_exception/0xc0000bc6/",
+  "numericCode": -1073738810,
+  "define": "EVENT_GATHER_EXCEPTION",
+  "defineUrl": "/win32/windowssearcherrors-h/event_gather_exception/",
+  "message": "An exception occurred. ID: %2. This is an internal error. Reproduce the error with the debugger attached and enable exceptions, then contact product support. One of the components loaded in your system is bad. You may be able to avoid the problem by recreating the index.%1",
+  "remarks": null,
+  "aka": [
+    "-1073738810"
+  ],
+  "akaUrl": [
+    "/win32/windowssearcherrors-h/event_gather_exception/-1073738810/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\vsserror-h\vss_e_unexpected_writer_error\0x80042315\index.html.json
+
+title: 0x80042315 VSS_E_UNEXPECTED_WRITER_ERROR in vsserror.h
+description: VSS encountered problems while sending events to writers.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vsserror.h",
+  "sourceUrl": "/win32/vsserror-h/",
+  "code": "0x80042315",
+  "codeUrl": "/win32/vsserror-h/vss_e_unexpected_writer_error/0x80042315/",
+  "numericCode": -2147212523,
+  "define": "VSS_E_UNEXPECTED_WRITER_ERROR",
+  "defineUrl": "/win32/vsserror-h/vss_e_unexpected_writer_error/",
+  "message": "VSS encountered problems while sending events to writers.",
+  "remarks": null,
+  "aka": [
+    "-2147212523"
+  ],
+  "akaUrl": [
+    "/win32/vsserror-h/vss_e_unexpected_writer_error/-2147212523/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

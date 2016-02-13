@@ -1,0 +1,29 @@
+---
+output: win32\wsmerror-h\error_wsman_client_unencrypted_http_only\0x803380d7\index.html.json
+
+title: 0x803380D7 ERROR_WSMAN_CLIENT_UNENCRYPTED_HTTP_ONLY in wsmerror.h
+description: The WinRM client cannot process the request. The unencrypted flag only applies to the HTTP transport.
+Remove the unencrypted flag or change the transport and try again the request.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x803380D7",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_client_unencrypted_http_only/0x803380d7/",
+  "numericCode": -2144108329,
+  "define": "ERROR_WSMAN_CLIENT_UNENCRYPTED_HTTP_ONLY",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_client_unencrypted_http_only/",
+  "message": "The WinRM client cannot process the request. The unencrypted flag only applies to the HTTP transport.\r\nRemove the unencrypted flag or change the transport and try again the request.",
+  "remarks": null,
+  "aka": [
+    "-2144108329"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_client_unencrypted_http_only/-2144108329/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

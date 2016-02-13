@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_hook_needs_hmod\0x80070594\index.html.json
+canonical: /win32/winerror-h/error_hook_needs_hmod/1428/
+title: 0x80070594 ERROR_HOOK_NEEDS_HMOD in winerror.h
+description: Cannot set nonlocal hook without a module handle.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80070594",
+  "codeUrl": "/win32/winerror-h/error_hook_needs_hmod/0x80070594/",
+  "numericCode": 0,
+  "define": "ERROR_HOOK_NEEDS_HMOD",
+  "defineUrl": "/win32/winerror-h/error_hook_needs_hmod/",
+  "message": "Cannot set nonlocal hook without a module handle.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "1428",
+  "originalCodeUrl": "/win32/winerror-h/error_hook_needs_hmod/1428/"
+}

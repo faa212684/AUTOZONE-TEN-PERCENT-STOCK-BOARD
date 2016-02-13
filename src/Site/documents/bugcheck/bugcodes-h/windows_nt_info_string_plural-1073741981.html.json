@@ -1,0 +1,24 @@
+---
+output: bugcheck\bugcodes-h\windows_nt_info_string_plural\1073741981\index.html.json
+canonical: /bugcheck/bugcodes-h/windows_nt_info_string_plural/0x4000009d/
+title: 1073741981 WINDOWS_NT_INFO_STRING_PLURAL in bugcodes.h
+description: %u System Processors [%u MB Memory] %Z
+disqus: false
+---
+{
+  "area": "bugcheck",
+  "areaUrl": "/bugcheck/",
+  "source": "bugcodes.h",
+  "sourceUrl": "/bugcheck/bugcodes-h/",
+  "code": "1073741981",
+  "codeUrl": "/bugcheck/bugcodes-h/windows_nt_info_string_plural/1073741981/",
+  "numericCode": 0,
+  "define": "WINDOWS_NT_INFO_STRING_PLURAL",
+  "defineUrl": "/bugcheck/bugcodes-h/windows_nt_info_string_plural/",
+  "message": "%u System Processors [%u MB Memory] %Z",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x4000009D",
+  "originalCodeUrl": "/bugcheck/bugcodes-h/windows_nt_info_string_plural/0x4000009d/"
+}

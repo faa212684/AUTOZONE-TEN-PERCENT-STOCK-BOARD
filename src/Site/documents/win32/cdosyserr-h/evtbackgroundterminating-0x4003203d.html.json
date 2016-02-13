@@ -1,0 +1,29 @@
+---
+output: win32\cdosyserr-h\evtbackgroundterminating\0x4003203d\index.html.json
+
+title: 0x4003203D evtBackgroundTerminating in CDOSysErr.h
+description: Background calendaring agent is terminating with return code %1.
+%n%nFor more information, click http:www.microsoft.com/contentredirect.asp.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "CDOSysErr.h",
+  "sourceUrl": "/win32/cdosyserr-h/",
+  "code": "0x4003203D",
+  "codeUrl": "/win32/cdosyserr-h/evtbackgroundterminating/0x4003203d/",
+  "numericCode": 1073946685,
+  "define": "evtBackgroundTerminating",
+  "defineUrl": "/win32/cdosyserr-h/evtbackgroundterminating/",
+  "message": "Background calendaring agent is terminating with return code %1.\r\n%n%nFor more information, click http:www.microsoft.com/contentredirect.asp.",
+  "remarks": null,
+  "aka": [
+    "1073946685"
+  ],
+  "akaUrl": [
+    "/win32/cdosyserr-h/evtbackgroundterminating/1073946685/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\dwrite_e_filenotfound\-2003283965\index.html.json
+canonical: /win32/winerror-h/dwrite_e_filenotfound/0x88985003/
+title: -2003283965 DWRITE_E_FILENOTFOUND in winerror.h
+description: A font file could not be opened because the file, directory, network location, drive, or other storage location does not exist or is unavailable.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2003283965",
+  "codeUrl": "/win32/winerror-h/dwrite_e_filenotfound/-2003283965/",
+  "numericCode": 0,
+  "define": "DWRITE_E_FILENOTFOUND",
+  "defineUrl": "/win32/winerror-h/dwrite_e_filenotfound/",
+  "message": "A font file could not be opened because the file, directory, network location, drive, or other storage location does not exist or is unavailable.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x88985003",
+  "originalCodeUrl": "/win32/winerror-h/dwrite_e_filenotfound/0x88985003/"
+}

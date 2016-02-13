@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_files_open\0xc0000107\index.html.json
+
+title: 0xC0000107 STATUS_FILES_OPEN in ntstatus.h
+description: The user attempted to force close the files on a redirected drive, but there were opened files on the drive, and the user did not specify a sufficient level of force.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000107",
+  "codeUrl": "/win32/ntstatus-h/status_files_open/0xc0000107/",
+  "numericCode": -1073741561,
+  "define": "STATUS_FILES_OPEN",
+  "defineUrl": "/win32/ntstatus-h/status_files_open/",
+  "message": "The user attempted to force close the files on a redirected drive, but there were opened files on the drive, and the user did not specify a sufficient level of force.",
+  "remarks": null,
+  "aka": [
+    "-1073741561"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_files_open/-1073741561/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

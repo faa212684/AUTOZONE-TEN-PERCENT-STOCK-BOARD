@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_ds_cross_dom_move_failed\-1073741137\index.html.json
+canonical: /win32/ntstatus-h/status_ds_cross_dom_move_failed/0xc00002af/
+title: -1073741137 STATUS_DS_CROSS_DOM_MOVE_FAILED in ntstatus.h
+description: An error occurred while performing a cross domain move operation.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741137",
+  "codeUrl": "/win32/ntstatus-h/status_ds_cross_dom_move_failed/-1073741137/",
+  "numericCode": 0,
+  "define": "STATUS_DS_CROSS_DOM_MOVE_FAILED",
+  "defineUrl": "/win32/ntstatus-h/status_ds_cross_dom_move_failed/",
+  "message": "An error occurred while performing a cross domain move operation.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC00002AF",
+  "originalCodeUrl": "/win32/ntstatus-h/status_ds_cross_dom_move_failed/0xc00002af/"
+}

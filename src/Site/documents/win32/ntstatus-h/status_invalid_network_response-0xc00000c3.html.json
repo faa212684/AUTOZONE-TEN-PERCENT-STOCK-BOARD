@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_invalid_network_response\0xc00000c3\index.html.json
+
+title: 0xC00000C3 STATUS_INVALID_NETWORK_RESPONSE in ntstatus.h
+description: The network responded incorrectly.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC00000C3",
+  "codeUrl": "/win32/ntstatus-h/status_invalid_network_response/0xc00000c3/",
+  "numericCode": -1073741629,
+  "define": "STATUS_INVALID_NETWORK_RESPONSE",
+  "defineUrl": "/win32/ntstatus-h/status_invalid_network_response/",
+  "message": "The network responded incorrectly.",
+  "remarks": null,
+  "aka": [
+    "-1073741629"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_invalid_network_response/-1073741629/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

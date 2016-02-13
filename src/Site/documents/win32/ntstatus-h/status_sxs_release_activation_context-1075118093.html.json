@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_sxs_release_activation_context\1075118093\index.html.json
+canonical: /win32/ntstatus-h/status_sxs_release_activation_context/0x4015000d/
+title: 1075118093 STATUS_SXS_RELEASE_ACTIVATION_CONTEXT in ntstatus.h
+description: A kernel mode component is releasing a reference on an activation context.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "1075118093",
+  "codeUrl": "/win32/ntstatus-h/status_sxs_release_activation_context/1075118093/",
+  "numericCode": 0,
+  "define": "STATUS_SXS_RELEASE_ACTIVATION_CONTEXT",
+  "defineUrl": "/win32/ntstatus-h/status_sxs_release_activation_context/",
+  "message": "A kernel mode component is releasing a reference on an activation context.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x4015000D",
+  "originalCodeUrl": "/win32/ntstatus-h/status_sxs_release_activation_context/0x4015000d/"
+}

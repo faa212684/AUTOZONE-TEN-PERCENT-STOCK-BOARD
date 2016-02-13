@@ -1,0 +1,22 @@
+{
+  "url" : "/",
+  "rooturl" : "http://errorco.de/",
+
+  "author" : {
+    "id" : "robmen",
+    "name" : "Rob Mensching",
+    "email" : "rob@firegiant.com",
+    "url" : "https://www.firegiant.com/"
+  },
+
+  "defaultLayoutForExtension" : {
+    "html" : "error"
+  },
+
+  "additionalMetadata" : {
+    "documents/blog/posts/**/*.html.json" : { "layout": "error" }
+  },
+
+  "output": "../../artifacts/",
+  "title": "# ErrorCo.de",
+}

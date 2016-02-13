@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\dns_error_zone_not_secondary\9613\index.html.json
+
+title: 9613 DNS_ERROR_ZONE_NOT_SECONDARY in winerror.h
+description: DNS zone not secondary.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "9613",
+  "codeUrl": "/win32/winerror-h/dns_error_zone_not_secondary/9613/",
+  "numericCode": 9613,
+  "define": "DNS_ERROR_ZONE_NOT_SECONDARY",
+  "defineUrl": "/win32/winerror-h/dns_error_zone_not_secondary/",
+  "message": "DNS zone not secondary.",
+  "remarks": null,
+  "aka": [
+    "0x8007258d",
+    "-2147015283"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/dns_error_zone_not_secondary/0x8007258d/",
+    "/win32/winerror-h/dns_error_zone_not_secondary/-2147015283/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

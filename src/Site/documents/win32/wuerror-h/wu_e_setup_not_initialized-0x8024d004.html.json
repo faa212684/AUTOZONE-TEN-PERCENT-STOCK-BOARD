@@ -1,0 +1,28 @@
+---
+output: win32\wuerror-h\wu_e_setup_not_initialized\0x8024d004\index.html.json
+
+title: 0x8024D004 WU_E_SETUP_NOT_INITIALIZED in wuerror.h
+description: Windows Update Agent could not be updated because setup initialization never completed successfully.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wuerror.h",
+  "sourceUrl": "/win32/wuerror-h/",
+  "code": "0x8024D004",
+  "codeUrl": "/win32/wuerror-h/wu_e_setup_not_initialized/0x8024d004/",
+  "numericCode": -2145071100,
+  "define": "WU_E_SETUP_NOT_INITIALIZED",
+  "defineUrl": "/win32/wuerror-h/wu_e_setup_not_initialized/",
+  "message": "Windows Update Agent could not be updated because setup initialization never completed successfully.",
+  "remarks": null,
+  "aka": [
+    "-2145071100"
+  ],
+  "akaUrl": [
+    "/win32/wuerror-h/wu_e_setup_not_initialized/-2145071100/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

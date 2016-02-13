@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\tpm_e_delegate_family\0x8028004c\index.html.json
+
+title: 0x8028004C TPM_E_DELEGATE_FAMILY in winerror.h
+description: Attempt to manage a family other then the delegated family.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8028004C",
+  "codeUrl": "/win32/winerror-h/tpm_e_delegate_family/0x8028004c/",
+  "numericCode": -2144862132,
+  "define": "TPM_E_DELEGATE_FAMILY",
+  "defineUrl": "/win32/winerror-h/tpm_e_delegate_family/",
+  "message": "Attempt to manage a family other then the delegated family.",
+  "remarks": null,
+  "aka": [
+    "-2144862132"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/tpm_e_delegate_family/-2144862132/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_invalid_device_state\0xc0000184\index.html.json
+
+title: 0xC0000184 STATUS_INVALID_DEVICE_STATE in ntstatus.h
+description: The device is not in a valid state to perform this request.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000184",
+  "codeUrl": "/win32/ntstatus-h/status_invalid_device_state/0xc0000184/",
+  "numericCode": -1073741436,
+  "define": "STATUS_INVALID_DEVICE_STATE",
+  "defineUrl": "/win32/ntstatus-h/status_invalid_device_state/",
+  "message": "The device is not in a valid state to perform this request.",
+  "remarks": null,
+  "aka": [
+    "-1073741436"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_invalid_device_state/-1073741436/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,29 @@
+---
+output: win32\windowssearcherrors-h\qplist_e_byref_used_without_ptrtype\0x8004165e\index.html.json
+
+title: 0x8004165E QPLIST_E_BYREF_USED_WITHOUT_PTRTYPE in WindowsSearchErrors.h
+description: DBTYPE_BYREF must be used with DBTYPE_STR, DBTYPE_WSTR, DBTYPE_GUID
+or DBTYPE_UI1 types.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "0x8004165E",
+  "codeUrl": "/win32/windowssearcherrors-h/qplist_e_byref_used_without_ptrtype/0x8004165e/",
+  "numericCode": -2147215778,
+  "define": "QPLIST_E_BYREF_USED_WITHOUT_PTRTYPE",
+  "defineUrl": "/win32/windowssearcherrors-h/qplist_e_byref_used_without_ptrtype/",
+  "message": "DBTYPE_BYREF must be used with DBTYPE_STR, DBTYPE_WSTR, DBTYPE_GUID\r\nor DBTYPE_UI1 types.",
+  "remarks": null,
+  "aka": [
+    "-2147215778"
+  ],
+  "akaUrl": [
+    "/win32/windowssearcherrors-h/qplist_e_byref_used_without_ptrtype/-2147215778/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

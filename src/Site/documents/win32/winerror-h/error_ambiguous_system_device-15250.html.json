@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ambiguous_system_device\15250\index.html.json
+
+title: 15250 ERROR_AMBIGUOUS_SYSTEM_DEVICE in winerror.h
+description: The requested system device cannot be identified due to multiple indistinguishable devices potentially matching the identification criteria.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "15250",
+  "codeUrl": "/win32/winerror-h/error_ambiguous_system_device/15250/",
+  "numericCode": 15250,
+  "define": "ERROR_AMBIGUOUS_SYSTEM_DEVICE",
+  "defineUrl": "/win32/winerror-h/error_ambiguous_system_device/",
+  "message": "The requested system device cannot be identified due to multiple indistinguishable devices potentially matching the identification criteria.",
+  "remarks": null,
+  "aka": [
+    "0x80073b92",
+    "-2147009646"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ambiguous_system_device/0x80073b92/",
+    "/win32/winerror-h/error_ambiguous_system_device/-2147009646/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

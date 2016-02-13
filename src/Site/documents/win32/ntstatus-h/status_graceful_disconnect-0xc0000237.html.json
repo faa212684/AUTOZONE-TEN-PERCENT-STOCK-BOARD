@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_graceful_disconnect\0xc0000237\index.html.json
+
+title: 0xC0000237 STATUS_GRACEFUL_DISCONNECT in ntstatus.h
+description: The transport connection was gracefully closed.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000237",
+  "codeUrl": "/win32/ntstatus-h/status_graceful_disconnect/0xc0000237/",
+  "numericCode": -1073741257,
+  "define": "STATUS_GRACEFUL_DISCONNECT",
+  "defineUrl": "/win32/ntstatus-h/status_graceful_disconnect/",
+  "message": "The transport connection was gracefully closed.",
+  "remarks": null,
+  "aka": [
+    "-1073741257"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_graceful_disconnect/-1073741257/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

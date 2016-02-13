@@ -1,0 +1,24 @@
+---
+output: win32\netevent-h\event_service_not_interactive\-1073734794\index.html.json
+canonical: /win32/netevent-h/event_service_not_interactive/0xc0001b76/
+title: -1073734794 EVENT_SERVICE_NOT_INTERACTIVE in netevent.h
+description: The %1 service is marked as an interactive service.  However, the system is configured to not allow interactive services.  This service may not function properly.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "-1073734794",
+  "codeUrl": "/win32/netevent-h/event_service_not_interactive/-1073734794/",
+  "numericCode": 0,
+  "define": "EVENT_SERVICE_NOT_INTERACTIVE",
+  "defineUrl": "/win32/netevent-h/event_service_not_interactive/",
+  "message": "The %1 service is marked as an interactive service.  However, the system is configured to not allow interactive services.  This service may not function properly.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0001B76",
+  "originalCodeUrl": "/win32/netevent-h/event_service_not_interactive/0xc0001b76/"
+}

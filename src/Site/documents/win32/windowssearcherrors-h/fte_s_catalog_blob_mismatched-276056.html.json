@@ -1,0 +1,26 @@
+---
+output: win32\windowssearcherrors-h\fte_s_catalog_blob_mismatched\276056\index.html.json
+canonical: /win32/windowssearcherrors-h/fte_s_catalog_blob_mismatched/0x00043658/
+title: 276056 FTE_S_CATALOG_BLOB_MISMATCHED in WindowsSearchErrors.h
+description: The property requested from the catalog blob received doesn't match the current value of the catalog property.
+The property value used by the catalog was successfully returned.
+The caller should either call SetProperty with the value returned or dismount the catalog and mount it back with the blob.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "276056",
+  "codeUrl": "/win32/windowssearcherrors-h/fte_s_catalog_blob_mismatched/276056/",
+  "numericCode": 0,
+  "define": "FTE_S_CATALOG_BLOB_MISMATCHED",
+  "defineUrl": "/win32/windowssearcherrors-h/fte_s_catalog_blob_mismatched/",
+  "message": "The property requested from the catalog blob received doesn't match the current value of the catalog property.\r\nThe property value used by the catalog was successfully returned.\r\nThe caller should either call SetProperty with the value returned or dismount the catalog and mount it back with the blob.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x00043658",
+  "originalCodeUrl": "/win32/windowssearcherrors-h/fte_s_catalog_blob_mismatched/0x00043658/"
+}

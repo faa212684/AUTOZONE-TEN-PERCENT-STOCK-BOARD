@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_invalid_quota_lower\0xc0000031\index.html.json
+
+title: 0xC0000031 STATUS_INVALID_QUOTA_LOWER in ntstatus.h
+description: An attempt was made to lower a quota limit below the current usage.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000031",
+  "codeUrl": "/win32/ntstatus-h/status_invalid_quota_lower/0xc0000031/",
+  "numericCode": -1073741775,
+  "define": "STATUS_INVALID_QUOTA_LOWER",
+  "defineUrl": "/win32/ntstatus-h/status_invalid_quota_lower/",
+  "message": "An attempt was made to lower a quota limit below the current usage.",
+  "remarks": null,
+  "aka": [
+    "-1073741775"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_invalid_quota_lower/-1073741775/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

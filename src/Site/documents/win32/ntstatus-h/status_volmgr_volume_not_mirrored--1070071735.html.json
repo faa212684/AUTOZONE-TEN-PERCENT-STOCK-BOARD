@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_volmgr_volume_not_mirrored\-1070071735\index.html.json
+canonical: /win32/ntstatus-h/status_volmgr_volume_not_mirrored/0xc0380049/
+title: -1070071735 STATUS_VOLMGR_VOLUME_NOT_MIRRORED in ntstatus.h
+description: The operation is only supported on mirrored volumes.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1070071735",
+  "codeUrl": "/win32/ntstatus-h/status_volmgr_volume_not_mirrored/-1070071735/",
+  "numericCode": 0,
+  "define": "STATUS_VOLMGR_VOLUME_NOT_MIRRORED",
+  "defineUrl": "/win32/ntstatus-h/status_volmgr_volume_not_mirrored/",
+  "message": "The operation is only supported on mirrored volumes.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0380049",
+  "originalCodeUrl": "/win32/ntstatus-h/status_volmgr_volume_not_mirrored/0xc0380049/"
+}

@@ -1,0 +1,32 @@
+---
+output: win32\netevent-h\event_dns_cache_start_failure_no_done_event\0xc0002afb\index.html.json
+
+title: 0xC0002AFB EVENT_DNS_CACHE_START_FAILURE_NO_DONE_EVENT in netevent.h
+description: Unable to start DNS Client service. The system could
+not create a termination event for this service and
+could be out of resources. Close any applications not
+in use or reboot the computer. See event details for 
+specific error code information.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC0002AFB",
+  "codeUrl": "/win32/netevent-h/event_dns_cache_start_failure_no_done_event/0xc0002afb/",
+  "numericCode": -1073730821,
+  "define": "EVENT_DNS_CACHE_START_FAILURE_NO_DONE_EVENT",
+  "defineUrl": "/win32/netevent-h/event_dns_cache_start_failure_no_done_event/",
+  "message": "Unable to start DNS Client service. The system could\r\nnot create a termination event for this service and\r\ncould be out of resources. Close any applications not\r\nin use or reboot the computer. See event details for \r\nspecific error code information.",
+  "remarks": null,
+  "aka": [
+    "-1073730821"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_dns_cache_start_failure_no_done_event/-1073730821/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

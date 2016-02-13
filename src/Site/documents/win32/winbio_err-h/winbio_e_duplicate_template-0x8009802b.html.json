@@ -1,0 +1,28 @@
+---
+output: win32\winbio_err-h\winbio_e_duplicate_template\0x8009802b\index.html.json
+
+title: 0x8009802B WINBIO_E_DUPLICATE_TEMPLATE in winbio_err.h
+description: The data in a biometric template matches another template already in the database.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winbio_err.h",
+  "sourceUrl": "/win32/winbio_err-h/",
+  "code": "0x8009802B",
+  "codeUrl": "/win32/winbio_err-h/winbio_e_duplicate_template/0x8009802b/",
+  "numericCode": -2146861013,
+  "define": "WINBIO_E_DUPLICATE_TEMPLATE",
+  "defineUrl": "/win32/winbio_err-h/winbio_e_duplicate_template/",
+  "message": "The data in a biometric template matches another template already in the database.",
+  "remarks": null,
+  "aka": [
+    "-2146861013"
+  ],
+  "akaUrl": [
+    "/win32/winbio_err-h/winbio_e_duplicate_template/-2146861013/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,26 @@
+---
+output: win32\vsserror-h\vss_e_writererror_inconsistentsnapshot\-2147212304\index.html.json
+canonical: /win32/vsserror-h/vss_e_writererror_inconsistentsnapshot/0x800423f0/
+title: -2147212304 VSS_E_WRITERERROR_INCONSISTENTSNAPSHOT in vsserror.h
+description: The shadow-copy set only contains only a subset of the
+volumes needed to correctly backup the selected components
+of the writer.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vsserror.h",
+  "sourceUrl": "/win32/vsserror-h/",
+  "code": "-2147212304",
+  "codeUrl": "/win32/vsserror-h/vss_e_writererror_inconsistentsnapshot/-2147212304/",
+  "numericCode": 0,
+  "define": "VSS_E_WRITERERROR_INCONSISTENTSNAPSHOT",
+  "defineUrl": "/win32/vsserror-h/vss_e_writererror_inconsistentsnapshot/",
+  "message": "The shadow-copy set only contains only a subset of the\r\nvolumes needed to correctly backup the selected components\r\nof the writer.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x800423F0",
+  "originalCodeUrl": "/win32/vsserror-h/vss_e_writererror_inconsistentsnapshot/0x800423f0/"
+}

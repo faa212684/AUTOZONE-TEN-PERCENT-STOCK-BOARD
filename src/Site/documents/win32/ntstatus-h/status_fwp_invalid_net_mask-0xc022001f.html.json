@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_fwp_invalid_net_mask\0xc022001f\index.html.json
+
+title: 0xC022001F STATUS_FWP_INVALID_NET_MASK in ntstatus.h
+description: A network mask is not valid.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC022001F",
+  "codeUrl": "/win32/ntstatus-h/status_fwp_invalid_net_mask/0xc022001f/",
+  "numericCode": -1071513569,
+  "define": "STATUS_FWP_INVALID_NET_MASK",
+  "defineUrl": "/win32/ntstatus-h/status_fwp_invalid_net_mask/",
+  "message": "A network mask is not valid.",
+  "remarks": null,
+  "aka": [
+    "-1071513569"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_fwp_invalid_net_mask/-1071513569/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

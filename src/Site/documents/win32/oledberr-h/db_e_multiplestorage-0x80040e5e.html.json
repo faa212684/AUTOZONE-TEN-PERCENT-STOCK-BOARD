@@ -1,0 +1,28 @@
+---
+output: win32\oledberr-h\db_e_multiplestorage\0x80040e5e\index.html.json
+
+title: 0x80040E5E DB_E_MULTIPLESTORAGE in oledberr.h
+description: Multiple storage objects cannot be open simultaneously.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "oledberr.h",
+  "sourceUrl": "/win32/oledberr-h/",
+  "code": "0x80040E5E",
+  "codeUrl": "/win32/oledberr-h/db_e_multiplestorage/0x80040e5e/",
+  "numericCode": -2147217826,
+  "define": "DB_E_MULTIPLESTORAGE",
+  "defineUrl": "/win32/oledberr-h/db_e_multiplestorage/",
+  "message": "Multiple storage objects cannot be open simultaneously.",
+  "remarks": null,
+  "aka": [
+    "-2147217826"
+  ],
+  "akaUrl": [
+    "/win32/oledberr-h/db_e_multiplestorage/-2147217826/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

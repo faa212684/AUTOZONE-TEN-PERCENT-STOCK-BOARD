@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\sec_e_qop_not_supported\0x8009030a\index.html.json
+
+title: 0x8009030A SEC_E_QOP_NOT_SUPPORTED in winerror.h
+description: The per-message Quality of Protection is not supported by the security package
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8009030A",
+  "codeUrl": "/win32/winerror-h/sec_e_qop_not_supported/0x8009030a/",
+  "numericCode": -2146893046,
+  "define": "SEC_E_QOP_NOT_SUPPORTED",
+  "defineUrl": "/win32/winerror-h/sec_e_qop_not_supported/",
+  "message": "The per-message Quality of Protection is not supported by the security package",
+  "remarks": null,
+  "aka": [
+    "-2146893046"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/sec_e_qop_not_supported/-2146893046/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

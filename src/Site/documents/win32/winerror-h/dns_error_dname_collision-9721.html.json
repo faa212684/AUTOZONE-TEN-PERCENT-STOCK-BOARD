@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\dns_error_dname_collision\9721\index.html.json
+
+title: 9721 DNS_ERROR_DNAME_COLLISION in winerror.h
+description: A DNAME record already exists for given name.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "9721",
+  "codeUrl": "/win32/winerror-h/dns_error_dname_collision/9721/",
+  "numericCode": 9721,
+  "define": "DNS_ERROR_DNAME_COLLISION",
+  "defineUrl": "/win32/winerror-h/dns_error_dname_collision/",
+  "message": "A DNAME record already exists for given name.",
+  "remarks": null,
+  "aka": [
+    "0x800725f9",
+    "-2147015175"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/dns_error_dname_collision/0x800725f9/",
+    "/win32/winerror-h/dns_error_dname_collision/-2147015175/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

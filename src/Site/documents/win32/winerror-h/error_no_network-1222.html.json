@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_no_network\1222\index.html.json
+
+title: 1222 ERROR_NO_NETWORK in winerror.h
+description: The network is not present or not started.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1222",
+  "codeUrl": "/win32/winerror-h/error_no_network/1222/",
+  "numericCode": 1222,
+  "define": "ERROR_NO_NETWORK",
+  "defineUrl": "/win32/winerror-h/error_no_network/",
+  "message": "The network is not present or not started.",
+  "remarks": null,
+  "aka": [
+    "0x800704c6",
+    "-2147023674"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_no_network/0x800704c6/",
+    "/win32/winerror-h/error_no_network/-2147023674/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

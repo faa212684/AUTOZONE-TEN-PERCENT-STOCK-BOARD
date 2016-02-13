@@ -1,0 +1,28 @@
+---
+output: win32\ntiologc-h\mca_warning_cpe_threshold_exceeded\0x8005006e\index.html.json
+
+title: 0x8005006E MCA_WARNING_CPE_THRESHOLD_EXCEEDED in ntiologc.h
+description: Corrected Platform Error Interrupt threshold exceeded. Interrupt has been disabled. Polling mode has been enabled.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntiologc.h",
+  "sourceUrl": "/win32/ntiologc-h/",
+  "code": "0x8005006E",
+  "codeUrl": "/win32/ntiologc-h/mca_warning_cpe_threshold_exceeded/0x8005006e/",
+  "numericCode": -2147155858,
+  "define": "MCA_WARNING_CPE_THRESHOLD_EXCEEDED",
+  "defineUrl": "/win32/ntiologc-h/mca_warning_cpe_threshold_exceeded/",
+  "message": "Corrected Platform Error Interrupt threshold exceeded. Interrupt has been disabled. Polling mode has been enabled.",
+  "remarks": null,
+  "aka": [
+    "-2147155858"
+  ],
+  "akaUrl": [
+    "/win32/ntiologc-h/mca_warning_cpe_threshold_exceeded/-2147155858/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

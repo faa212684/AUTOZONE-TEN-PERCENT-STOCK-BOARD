@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_invalid_servicename\0x800704bd\index.html.json
+canonical: /win32/winerror-h/error_invalid_servicename/1213/
+title: 0x800704bd ERROR_INVALID_SERVICENAME in winerror.h
+description: The format of the specified service name is invalid.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800704bd",
+  "codeUrl": "/win32/winerror-h/error_invalid_servicename/0x800704bd/",
+  "numericCode": 0,
+  "define": "ERROR_INVALID_SERVICENAME",
+  "defineUrl": "/win32/winerror-h/error_invalid_servicename/",
+  "message": "The format of the specified service name is invalid.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "1213",
+  "originalCodeUrl": "/win32/winerror-h/error_invalid_servicename/1213/"
+}

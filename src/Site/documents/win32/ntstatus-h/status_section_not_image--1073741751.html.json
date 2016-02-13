@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_section_not_image\-1073741751\index.html.json
+canonical: /win32/ntstatus-h/status_section_not_image/0xc0000049/
+title: -1073741751 STATUS_SECTION_NOT_IMAGE in ntstatus.h
+description: An attempt was made to query image information on a section which does not map an image.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741751",
+  "codeUrl": "/win32/ntstatus-h/status_section_not_image/-1073741751/",
+  "numericCode": 0,
+  "define": "STATUS_SECTION_NOT_IMAGE",
+  "defineUrl": "/win32/ntstatus-h/status_section_not_image/",
+  "message": "An attempt was made to query image information on a section which does not map an image.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000049",
+  "originalCodeUrl": "/win32/ntstatus-h/status_section_not_image/0xc0000049/"
+}

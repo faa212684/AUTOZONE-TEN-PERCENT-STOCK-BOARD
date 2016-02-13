@@ -1,0 +1,28 @@
+---
+output: win32\wsmerror-h\error_wsman_delivery_retries_not_supported\0x80338069\index.html.json
+
+title: 0x80338069 ERROR_WSMAN_DELIVERY_RETRIES_NOT_SUPPORTED in wsmerror.h
+description: The WS-Management service does not retry deliveries.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x80338069",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_delivery_retries_not_supported/0x80338069/",
+  "numericCode": -2144108439,
+  "define": "ERROR_WSMAN_DELIVERY_RETRIES_NOT_SUPPORTED",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_delivery_retries_not_supported/",
+  "message": "The WS-Management service does not retry deliveries.",
+  "remarks": null,
+  "aka": [
+    "-2144108439"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_delivery_retries_not_supported/-2144108439/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

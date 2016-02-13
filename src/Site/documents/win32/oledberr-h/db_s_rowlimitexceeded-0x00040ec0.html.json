@@ -1,0 +1,28 @@
+---
+output: win32\oledberr-h\db_s_rowlimitexceeded\0x00040ec0\index.html.json
+
+title: 0x00040EC0 DB_S_ROWLIMITEXCEEDED in oledberr.h
+description: Fetching requested number of rows will exceed total number of active rows supported by the rowset.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "oledberr.h",
+  "sourceUrl": "/win32/oledberr-h/",
+  "code": "0x00040EC0",
+  "codeUrl": "/win32/oledberr-h/db_s_rowlimitexceeded/0x00040ec0/",
+  "numericCode": 265920,
+  "define": "DB_S_ROWLIMITEXCEEDED",
+  "defineUrl": "/win32/oledberr-h/db_s_rowlimitexceeded/",
+  "message": "Fetching requested number of rows will exceed total number of active rows supported by the rowset.",
+  "remarks": null,
+  "aka": [
+    "265920"
+  ],
+  "akaUrl": [
+    "/win32/oledberr-h/db_s_rowlimitexceeded/265920/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

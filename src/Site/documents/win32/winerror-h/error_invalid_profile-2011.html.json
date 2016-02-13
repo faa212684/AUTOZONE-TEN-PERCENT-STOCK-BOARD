@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_invalid_profile\2011\index.html.json
+
+title: 2011 ERROR_INVALID_PROFILE in winerror.h
+description: The specified color profile is invalid.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "2011",
+  "codeUrl": "/win32/winerror-h/error_invalid_profile/2011/",
+  "numericCode": 2011,
+  "define": "ERROR_INVALID_PROFILE",
+  "defineUrl": "/win32/winerror-h/error_invalid_profile/",
+  "message": "The specified color profile is invalid.",
+  "remarks": null,
+  "aka": [
+    "0x800707db",
+    "-2147022885"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_invalid_profile/0x800707db/",
+    "/win32/winerror-h/error_invalid_profile/-2147022885/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

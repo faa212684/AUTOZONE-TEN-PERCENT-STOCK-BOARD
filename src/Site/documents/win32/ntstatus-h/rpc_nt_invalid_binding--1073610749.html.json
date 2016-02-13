@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\rpc_nt_invalid_binding\-1073610749\index.html.json
+canonical: /win32/ntstatus-h/rpc_nt_invalid_binding/0xc0020003/
+title: -1073610749 RPC_NT_INVALID_BINDING in ntstatus.h
+description: The binding handle is invalid.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073610749",
+  "codeUrl": "/win32/ntstatus-h/rpc_nt_invalid_binding/-1073610749/",
+  "numericCode": 0,
+  "define": "RPC_NT_INVALID_BINDING",
+  "defineUrl": "/win32/ntstatus-h/rpc_nt_invalid_binding/",
+  "message": "The binding handle is invalid.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0020003",
+  "originalCodeUrl": "/win32/ntstatus-h/rpc_nt_invalid_binding/0xc0020003/"
+}

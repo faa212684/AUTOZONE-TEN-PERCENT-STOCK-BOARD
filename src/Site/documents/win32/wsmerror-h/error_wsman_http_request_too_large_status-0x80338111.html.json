@@ -1,0 +1,28 @@
+---
+output: win32\wsmerror-h\error_wsman_http_request_too_large_status\0x80338111\index.html.json
+
+title: 0x80338111 ERROR_WSMAN_HTTP_REQUEST_TOO_LARGE_STATUS in wsmerror.h
+description: The WinRM client sent a request to the remote WS-Management service and was notified that the request size exceeded the configured MaxEnvelopeSize quota.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x80338111",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_http_request_too_large_status/0x80338111/",
+  "numericCode": -2144108271,
+  "define": "ERROR_WSMAN_HTTP_REQUEST_TOO_LARGE_STATUS",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_http_request_too_large_status/",
+  "message": "The WinRM client sent a request to the remote WS-Management service and was notified that the request size exceeded the configured MaxEnvelopeSize quota.",
+  "remarks": null,
+  "aka": [
+    "-2144108271"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_http_request_too_large_status/-2144108271/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

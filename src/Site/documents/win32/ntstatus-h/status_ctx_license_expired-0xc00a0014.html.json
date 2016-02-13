@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_ctx_license_expired\0xc00a0014\index.html.json
+
+title: 0xC00A0014 STATUS_CTX_LICENSE_EXPIRED in ntstatus.h
+description: The system license has expired. Your logon request is denied.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC00A0014",
+  "codeUrl": "/win32/ntstatus-h/status_ctx_license_expired/0xc00a0014/",
+  "numericCode": -1073086444,
+  "define": "STATUS_CTX_LICENSE_EXPIRED",
+  "defineUrl": "/win32/ntstatus-h/status_ctx_license_expired/",
+  "message": "The system license has expired. Your logon request is denied.",
+  "remarks": null,
+  "aka": [
+    "-1073086444"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_ctx_license_expired/-1073086444/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

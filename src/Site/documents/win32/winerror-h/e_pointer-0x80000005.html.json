@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\e_pointer\0x80000005\index.html.json
+
+title: 0x80000005 E_POINTER in winerror.h
+description: Invalid pointer
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80000005",
+  "codeUrl": "/win32/winerror-h/e_pointer/0x80000005/",
+  "numericCode": -2147483643,
+  "define": "E_POINTER",
+  "defineUrl": "/win32/winerror-h/e_pointer/",
+  "message": "Invalid pointer",
+  "remarks": null,
+  "aka": [
+    "-2147483643"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/e_pointer/-2147483643/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

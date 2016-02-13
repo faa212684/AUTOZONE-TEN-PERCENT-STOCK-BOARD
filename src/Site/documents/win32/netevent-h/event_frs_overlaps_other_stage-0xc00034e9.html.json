@@ -1,0 +1,29 @@
+---
+output: win32\netevent-h\event_frs_overlaps_other_stage\0xc00034e9\index.html.json
+
+title: 0xC00034E9 EVENT_FRS_OVERLAPS_OTHER_STAGE in netevent.h
+description: The File Replication Service cannot replicate %1 because it overlaps
+the staging directory %2 of the replicating directory %3.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC00034E9",
+  "codeUrl": "/win32/netevent-h/event_frs_overlaps_other_stage/0xc00034e9/",
+  "numericCode": -1073728279,
+  "define": "EVENT_FRS_OVERLAPS_OTHER_STAGE",
+  "defineUrl": "/win32/netevent-h/event_frs_overlaps_other_stage/",
+  "message": "The File Replication Service cannot replicate %1 because it overlaps\r\nthe staging directory %2 of the replicating directory %3.",
+  "remarks": null,
+  "aka": [
+    "-1073728279"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_frs_overlaps_other_stage/-1073728279/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,25 @@
+---
+output: win32\ntiologc-h\io_wrn_bad_firmware\-2147221478\index.html.json
+canonical: /win32/ntiologc-h/io_wrn_bad_firmware/0x8004001a/
+title: -2147221478 IO_WRN_BAD_FIRMWARE in ntiologc.h
+description: The driver has detected that device %1 has old or out-of-date firmware.
+Reduced performance may result.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntiologc.h",
+  "sourceUrl": "/win32/ntiologc-h/",
+  "code": "-2147221478",
+  "codeUrl": "/win32/ntiologc-h/io_wrn_bad_firmware/-2147221478/",
+  "numericCode": 0,
+  "define": "IO_WRN_BAD_FIRMWARE",
+  "defineUrl": "/win32/ntiologc-h/io_wrn_bad_firmware/",
+  "message": "The driver has detected that device %1 has old or out-of-date firmware.\r\nReduced performance may result.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x8004001A",
+  "originalCodeUrl": "/win32/ntiologc-h/io_wrn_bad_firmware/0x8004001a/"
+}

@@ -1,0 +1,28 @@
+---
+output: bugcheck\bugcodes-h\system_pte_misuse\0x000000da\index.html.json
+
+title: 0x000000DA SYSTEM_PTE_MISUSE in bugcodes.h
+description: SYSTEM_PTE_MISUSE
+disqus: true
+---
+{
+  "area": "bugcheck",
+  "areaUrl": "/bugcheck/",
+  "source": "bugcodes.h",
+  "sourceUrl": "/bugcheck/bugcodes-h/",
+  "code": "0x000000DA",
+  "codeUrl": "/bugcheck/bugcodes-h/system_pte_misuse/0x000000da/",
+  "numericCode": 218,
+  "define": "SYSTEM_PTE_MISUSE",
+  "defineUrl": "/bugcheck/bugcodes-h/system_pte_misuse/",
+  "message": "SYSTEM_PTE_MISUSE",
+  "remarks": null,
+  "aka": [
+    "218"
+  ],
+  "akaUrl": [
+    "/bugcheck/bugcodes-h/system_pte_misuse/218/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

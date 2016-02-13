@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_invalid_domain_role\1354\index.html.json
+
+title: 1354 ERROR_INVALID_DOMAIN_ROLE in winerror.h
+description: This operation is only allowed for the Primary Domain Controller of the domain.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1354",
+  "codeUrl": "/win32/winerror-h/error_invalid_domain_role/1354/",
+  "numericCode": 1354,
+  "define": "ERROR_INVALID_DOMAIN_ROLE",
+  "defineUrl": "/win32/winerror-h/error_invalid_domain_role/",
+  "message": "This operation is only allowed for the Primary Domain Controller of the domain.",
+  "remarks": null,
+  "aka": [
+    "0x8007054a",
+    "-2147023542"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_invalid_domain_role/0x8007054a/",
+    "/win32/winerror-h/error_invalid_domain_role/-2147023542/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

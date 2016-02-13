@@ -1,0 +1,28 @@
+---
+output: win32\ntiologc-h\mca_error_pci_device\0xc0050063\index.html.json
+
+title: 0xC0050063 MCA_ERROR_PCI_DEVICE in ntiologc.h
+description: Machine Check Event reported is a fatal PCI component error reported to CPU %1. %2 additional error(s) are contained within the record.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntiologc.h",
+  "sourceUrl": "/win32/ntiologc-h/",
+  "code": "0xC0050063",
+  "codeUrl": "/win32/ntiologc-h/mca_error_pci_device/0xc0050063/",
+  "numericCode": -1073414045,
+  "define": "MCA_ERROR_PCI_DEVICE",
+  "defineUrl": "/win32/ntiologc-h/mca_error_pci_device/",
+  "message": "Machine Check Event reported is a fatal PCI component error reported to CPU %1. %2 additional error(s) are contained within the record.",
+  "remarks": null,
+  "aka": [
+    "-1073414045"
+  ],
+  "akaUrl": [
+    "/win32/ntiologc-h/mca_error_pci_device/-1073414045/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

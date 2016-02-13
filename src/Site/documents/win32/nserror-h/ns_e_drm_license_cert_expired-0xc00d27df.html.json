@@ -1,0 +1,28 @@
+---
+output: win32\nserror-h\ns_e_drm_license_cert_expired\0xc00d27df\index.html.json
+
+title: 0xC00D27DF NS_E_DRM_LICENSE_CERT_EXPIRED in nserror.h
+description: The license server's certificate expired. Make sure your system clock is set correctly. Contact your content provider for further assistance. %0.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "nserror.h",
+  "sourceUrl": "/win32/nserror-h/",
+  "code": "0xC00D27DF",
+  "codeUrl": "/win32/nserror-h/ns_e_drm_license_cert_expired/0xc00d27df/",
+  "numericCode": -1072879649,
+  "define": "NS_E_DRM_LICENSE_CERT_EXPIRED",
+  "defineUrl": "/win32/nserror-h/ns_e_drm_license_cert_expired/",
+  "message": "The license server's certificate expired. Make sure your system clock is set correctly. Contact your content provider for further assistance. %0.",
+  "remarks": null,
+  "aka": [
+    "-1072879649"
+  ],
+  "akaUrl": [
+    "/win32/nserror-h/ns_e_drm_license_cert_expired/-1072879649/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

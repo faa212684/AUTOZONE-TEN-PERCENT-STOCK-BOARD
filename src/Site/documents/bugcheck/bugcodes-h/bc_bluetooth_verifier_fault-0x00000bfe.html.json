@@ -1,0 +1,28 @@
+---
+output: bugcheck\bugcodes-h\bc_bluetooth_verifier_fault\0x00000bfe\index.html.json
+
+title: 0x00000BFE BC_BLUETOOTH_VERIFIER_FAULT in bugcodes.h
+description: BC_BLUETOOTH_VERIFIER_FAULT
+disqus: true
+---
+{
+  "area": "bugcheck",
+  "areaUrl": "/bugcheck/",
+  "source": "bugcodes.h",
+  "sourceUrl": "/bugcheck/bugcodes-h/",
+  "code": "0x00000BFE",
+  "codeUrl": "/bugcheck/bugcodes-h/bc_bluetooth_verifier_fault/0x00000bfe/",
+  "numericCode": 3070,
+  "define": "BC_BLUETOOTH_VERIFIER_FAULT",
+  "defineUrl": "/bugcheck/bugcodes-h/bc_bluetooth_verifier_fault/",
+  "message": "BC_BLUETOOTH_VERIFIER_FAULT",
+  "remarks": null,
+  "aka": [
+    "3070"
+  ],
+  "akaUrl": [
+    "/bugcheck/bugcodes-h/bc_bluetooth_verifier_fault/3070/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

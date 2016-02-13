@@ -1,0 +1,26 @@
+---
+output: win32\windowssearcherrors-h\fte_e_unexpected_exit\-2147207602\index.html.json
+canonical: /win32/windowssearcherrors-h/fte_e_unexpected_exit/0x8004364e/
+title: -2147207602 FTE_E_UNEXPECTED_EXIT in WindowsSearchErrors.h
+description: The MSFTESQL service process exited unexpectedly.
+Here is the stack Trace:
+%1
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "-2147207602",
+  "codeUrl": "/win32/windowssearcherrors-h/fte_e_unexpected_exit/-2147207602/",
+  "numericCode": 0,
+  "define": "FTE_E_UNEXPECTED_EXIT",
+  "defineUrl": "/win32/windowssearcherrors-h/fte_e_unexpected_exit/",
+  "message": "The MSFTESQL service process exited unexpectedly.\r\nHere is the stack Trace:\r\n%1",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x8004364E",
+  "originalCodeUrl": "/win32/windowssearcherrors-h/fte_e_unexpected_exit/0x8004364e/"
+}

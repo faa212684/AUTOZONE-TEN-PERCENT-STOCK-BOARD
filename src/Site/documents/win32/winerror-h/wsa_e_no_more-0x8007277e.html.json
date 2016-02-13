@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\wsa_e_no_more\0x8007277e\index.html.json
+canonical: /win32/winerror-h/wsa_e_no_more/10110/
+title: 0x8007277e WSA_E_NO_MORE in winerror.h
+description: No more results can be returned by WSALookupServiceNext.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007277e",
+  "codeUrl": "/win32/winerror-h/wsa_e_no_more/0x8007277e/",
+  "numericCode": 0,
+  "define": "WSA_E_NO_MORE",
+  "defineUrl": "/win32/winerror-h/wsa_e_no_more/",
+  "message": "No more results can be returned by WSALookupServiceNext.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "10110",
+  "originalCodeUrl": "/win32/winerror-h/wsa_e_no_more/10110/"
+}

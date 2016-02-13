@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ds_dra_bad_instance_type\8445\index.html.json
+
+title: 8445 ERROR_DS_DRA_BAD_INSTANCE_TYPE in winerror.h
+description: The replication operation encountered an object with an invalid instance type.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "8445",
+  "codeUrl": "/win32/winerror-h/error_ds_dra_bad_instance_type/8445/",
+  "numericCode": 8445,
+  "define": "ERROR_DS_DRA_BAD_INSTANCE_TYPE",
+  "defineUrl": "/win32/winerror-h/error_ds_dra_bad_instance_type/",
+  "message": "The replication operation encountered an object with an invalid instance type.",
+  "remarks": null,
+  "aka": [
+    "0x800720fd",
+    "-2147016451"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ds_dra_bad_instance_type/0x800720fd/",
+    "/win32/winerror-h/error_ds_dra_bad_instance_type/-2147016451/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

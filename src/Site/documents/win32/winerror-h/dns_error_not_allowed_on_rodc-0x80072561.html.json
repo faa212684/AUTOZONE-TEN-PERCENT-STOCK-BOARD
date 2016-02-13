@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\dns_error_not_allowed_on_rodc\0x80072561\index.html.json
+canonical: /win32/winerror-h/dns_error_not_allowed_on_rodc/9569/
+title: 0x80072561 DNS_ERROR_NOT_ALLOWED_ON_RODC in winerror.h
+description: The operation requested is not permitted on against a DNS server running on a read-only DC.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80072561",
+  "codeUrl": "/win32/winerror-h/dns_error_not_allowed_on_rodc/0x80072561/",
+  "numericCode": 0,
+  "define": "DNS_ERROR_NOT_ALLOWED_ON_RODC",
+  "defineUrl": "/win32/winerror-h/dns_error_not_allowed_on_rodc/",
+  "message": "The operation requested is not permitted on against a DNS server running on a read-only DC.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "9569",
+  "originalCodeUrl": "/win32/winerror-h/dns_error_not_allowed_on_rodc/9569/"
+}

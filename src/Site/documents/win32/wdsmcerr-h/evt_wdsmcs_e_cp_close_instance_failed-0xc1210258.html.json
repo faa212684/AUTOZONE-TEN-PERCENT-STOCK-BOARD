@@ -1,0 +1,30 @@
+---
+output: win32\wdsmcerr-h\evt_wdsmcs_e_cp_close_instance_failed\0xc1210258\index.html.json
+
+title: 0xC1210258 EVT_WDSMCS_E_CP_CLOSE_INSTANCE_FAILED in wdsmcerr.h
+description: The Content Provider %1 returned an error while trying to close an instance. %n
+%n
+Error Information: %2 %n
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wdsmcerr.h",
+  "sourceUrl": "/win32/wdsmcerr-h/",
+  "code": "0xC1210258",
+  "codeUrl": "/win32/wdsmcerr-h/evt_wdsmcs_e_cp_close_instance_failed/0xc1210258/",
+  "numericCode": -1054801320,
+  "define": "EVT_WDSMCS_E_CP_CLOSE_INSTANCE_FAILED",
+  "defineUrl": "/win32/wdsmcerr-h/evt_wdsmcs_e_cp_close_instance_failed/",
+  "message": "The Content Provider %1 returned an error while trying to close an instance. %n\r\n%n\r\nError Information: %2 %n",
+  "remarks": null,
+  "aka": [
+    "-1054801320"
+  ],
+  "akaUrl": [
+    "/win32/wdsmcerr-h/evt_wdsmcs_e_cp_close_instance_failed/-1054801320/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

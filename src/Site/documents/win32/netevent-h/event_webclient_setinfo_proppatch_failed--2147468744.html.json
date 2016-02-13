@@ -1,0 +1,24 @@
+---
+output: win32\netevent-h\event_webclient_setinfo_proppatch_failed\-2147468744\index.html.json
+canonical: /win32/netevent-h/event_webclient_setinfo_proppatch_failed/0x80003a38/
+title: -2147468744 EVENT_WEBCLIENT_SETINFO_PROPPATCH_FAILED in netevent.h
+description: PROPPATCH failed for file %1 on SetFileInfo. ErrorStatus: %2.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "-2147468744",
+  "codeUrl": "/win32/netevent-h/event_webclient_setinfo_proppatch_failed/-2147468744/",
+  "numericCode": 0,
+  "define": "EVENT_WEBCLIENT_SETINFO_PROPPATCH_FAILED",
+  "defineUrl": "/win32/netevent-h/event_webclient_setinfo_proppatch_failed/",
+  "message": "PROPPATCH failed for file %1 on SetFileInfo. ErrorStatus: %2.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80003A38",
+  "originalCodeUrl": "/win32/netevent-h/event_webclient_setinfo_proppatch_failed/0x80003a38/"
+}

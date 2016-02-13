@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_not_capable\775\index.html.json
+
+title: 775 ERROR_NOT_CAPABLE in winerror.h
+description: The implementation is not capable of performing the request.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "775",
+  "codeUrl": "/win32/winerror-h/error_not_capable/775/",
+  "numericCode": 775,
+  "define": "ERROR_NOT_CAPABLE",
+  "defineUrl": "/win32/winerror-h/error_not_capable/",
+  "message": "The implementation is not capable of performing the request.",
+  "remarks": null,
+  "aka": [
+    "0x80070307",
+    "-2147024121"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_not_capable/0x80070307/",
+    "/win32/winerror-h/error_not_capable/-2147024121/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

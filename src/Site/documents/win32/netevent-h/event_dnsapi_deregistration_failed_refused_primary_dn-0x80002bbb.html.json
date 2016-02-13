@@ -1,0 +1,43 @@
+---
+output: win32\netevent-h\event_dnsapi_deregistration_failed_refused_primary_dn\0x80002bbb\index.html.json
+
+title: 0x80002BBB EVENT_DNSAPI_DEREGISTRATION_FAILED_REFUSED_PRIMARY_DN in netevent.h
+description: The system failed to update and remove host (A or AAAA) resource records (RRs)
+for network adapter%nwith settings:%n%n
+Adapter Name : %1%n
+Host Name : %2%n
+Primary Domain Suffix : %3%n
+DNS server list :%n
+%4%n
+Sent update to server : %5%n
+IP Address(es) :%n
+%6%n%n
+The request to remove these records failed because the DNS server refused
+the update request. The cause of this might be that either (a) this
+computer is not allowed to update the DNS domain name specified by these
+settings, or (b) because the DNS server authorized to perform updates for
+the zone that contains these RRs does not support the DNS dynamic update
+protocol.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x80002BBB",
+  "codeUrl": "/win32/netevent-h/event_dnsapi_deregistration_failed_refused_primary_dn/0x80002bbb/",
+  "numericCode": -2147472453,
+  "define": "EVENT_DNSAPI_DEREGISTRATION_FAILED_REFUSED_PRIMARY_DN",
+  "defineUrl": "/win32/netevent-h/event_dnsapi_deregistration_failed_refused_primary_dn/",
+  "message": "The system failed to update and remove host (A or AAAA) resource records (RRs)\r\nfor network adapter%nwith settings:%n%n\r\nAdapter Name : %1%n\r\nHost Name : %2%n\r\nPrimary Domain Suffix : %3%n\r\nDNS server list :%n\r\n%4%n\r\nSent update to server : %5%n\r\nIP Address(es) :%n\r\n%6%n%n\r\nThe request to remove these records failed because the DNS server refused\r\nthe update request. The cause of this might be that either (a) this\r\ncomputer is not allowed to update the DNS domain name specified by these\r\nsettings, or (b) because the DNS server authorized to perform updates for\r\nthe zone that contains these RRs does not support the DNS dynamic update\r\nprotocol.",
+  "remarks": null,
+  "aka": [
+    "-2147472453"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_dnsapi_deregistration_failed_refused_primary_dn/-2147472453/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

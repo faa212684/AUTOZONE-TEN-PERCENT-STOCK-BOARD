@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\frs_err_authentication\-2147016888\index.html.json
+canonical: /win32/winerror-h/frs_err_authentication/8008/
+title: -2147016888 FRS_ERR_AUTHENTICATION in winerror.h
+description: The file replication service cannot satisfy the request because authenticated RPC is not available. The event log may have more information.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147016888",
+  "codeUrl": "/win32/winerror-h/frs_err_authentication/-2147016888/",
+  "numericCode": 0,
+  "define": "FRS_ERR_AUTHENTICATION",
+  "defineUrl": "/win32/winerror-h/frs_err_authentication/",
+  "message": "The file replication service cannot satisfy the request because authenticated RPC is not available. The event log may have more information.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "8008",
+  "originalCodeUrl": "/win32/winerror-h/frs_err_authentication/8008/"
+}

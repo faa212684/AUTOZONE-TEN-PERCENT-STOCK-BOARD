@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\input_e_history\-2143289339\index.html.json
+canonical: /win32/winerror-h/input_e_history/0x80400005/
+title: -2143289339 INPUT_E_HISTORY in winerror.h
+description: The history of frames is inconsistent. Pointer ids, types, source devices don't match, or frame ids are not unique, or timestamps are out of order.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2143289339",
+  "codeUrl": "/win32/winerror-h/input_e_history/-2143289339/",
+  "numericCode": 0,
+  "define": "INPUT_E_HISTORY",
+  "defineUrl": "/win32/winerror-h/input_e_history/",
+  "message": "The history of frames is inconsistent. Pointer ids, types, source devices don't match, or frame ids are not unique, or timestamps are out of order.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80400005",
+  "originalCodeUrl": "/win32/winerror-h/input_e_history/0x80400005/"
+}

@@ -1,0 +1,28 @@
+---
+output: win32\mq-h\mq_error_operation_not_supported_by_remote_computer\0xc00e008b\index.html.json
+
+title: 0xC00E008B MQ_ERROR_OPERATION_NOT_SUPPORTED_BY_REMOTE_COMPUTER in Mq.h
+description: This operation is not supported by the remote Message Queuing service. For example, MQReceiveMessageByLookupId is not supported by MSMQ 1.0/2.0.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "Mq.h",
+  "sourceUrl": "/win32/mq-h/",
+  "code": "0xC00E008B",
+  "codeUrl": "/win32/mq-h/mq_error_operation_not_supported_by_remote_computer/0xc00e008b/",
+  "numericCode": -1072824181,
+  "define": "MQ_ERROR_OPERATION_NOT_SUPPORTED_BY_REMOTE_COMPUTER",
+  "defineUrl": "/win32/mq-h/mq_error_operation_not_supported_by_remote_computer/",
+  "message": "This operation is not supported by the remote Message Queuing service. For example, MQReceiveMessageByLookupId is not supported by MSMQ 1.0/2.0.",
+  "remarks": null,
+  "aka": [
+    "-1072824181"
+  ],
+  "akaUrl": [
+    "/win32/mq-h/mq_error_operation_not_supported_by_remote_computer/-1072824181/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\sec_e_revocation_offline_kdc\0x80090358\index.html.json
+
+title: 0x80090358 SEC_E_REVOCATION_OFFLINE_KDC in winerror.h
+description: The revocation status of the domain controller certificate used for smartcard authentication could not be determined. There is additional information in the system event log. Please contact your system administrator.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80090358",
+  "codeUrl": "/win32/winerror-h/sec_e_revocation_offline_kdc/0x80090358/",
+  "numericCode": -2146892968,
+  "define": "SEC_E_REVOCATION_OFFLINE_KDC",
+  "defineUrl": "/win32/winerror-h/sec_e_revocation_offline_kdc/",
+  "message": "The revocation status of the domain controller certificate used for smartcard authentication could not be determined. There is additional information in the system event log. Please contact your system administrator.",
+  "remarks": null,
+  "aka": [
+    "-2146892968"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/sec_e_revocation_offline_kdc/-2146892968/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

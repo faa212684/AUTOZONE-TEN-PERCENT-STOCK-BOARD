@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\error_hv_invalid_partition_id\0xc035000d\index.html.json
+
+title: 0xC035000D ERROR_HV_INVALID_PARTITION_ID in winerror.h
+description: A partition with the specified partition Id does not exist.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0xC035000D",
+  "codeUrl": "/win32/winerror-h/error_hv_invalid_partition_id/0xc035000d/",
+  "numericCode": -1070268403,
+  "define": "ERROR_HV_INVALID_PARTITION_ID",
+  "defineUrl": "/win32/winerror-h/error_hv_invalid_partition_id/",
+  "message": "A partition with the specified partition Id does not exist.",
+  "remarks": null,
+  "aka": [
+    "-1070268403"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_hv_invalid_partition_id/-1070268403/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

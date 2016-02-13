@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_free_vm_not_at_base\0xc000009f\index.html.json
+
+title: 0xC000009F STATUS_FREE_VM_NOT_AT_BASE in ntstatus.h
+description: Virtual memory cannot be freed as base address is not the base of the region and a region size of zero was specified.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000009F",
+  "codeUrl": "/win32/ntstatus-h/status_free_vm_not_at_base/0xc000009f/",
+  "numericCode": -1073741665,
+  "define": "STATUS_FREE_VM_NOT_AT_BASE",
+  "defineUrl": "/win32/ntstatus-h/status_free_vm_not_at_base/",
+  "message": "Virtual memory cannot be freed as base address is not the base of the region and a region size of zero was specified.",
+  "remarks": null,
+  "aka": [
+    "-1073741665"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_free_vm_not_at_base/-1073741665/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

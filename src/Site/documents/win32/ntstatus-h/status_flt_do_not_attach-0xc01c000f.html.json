@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_flt_do_not_attach\0xc01c000f\index.html.json
+
+title: 0xC01C000F STATUS_FLT_DO_NOT_ATTACH in ntstatus.h
+description: Do not attach the filter to the volume at this time.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC01C000F",
+  "codeUrl": "/win32/ntstatus-h/status_flt_do_not_attach/0xc01c000f/",
+  "numericCode": -1071906801,
+  "define": "STATUS_FLT_DO_NOT_ATTACH",
+  "defineUrl": "/win32/ntstatus-h/status_flt_do_not_attach/",
+  "message": "Do not attach the filter to the volume at this time.",
+  "remarks": null,
+  "aka": [
+    "-1071906801"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_flt_do_not_attach/-1071906801/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

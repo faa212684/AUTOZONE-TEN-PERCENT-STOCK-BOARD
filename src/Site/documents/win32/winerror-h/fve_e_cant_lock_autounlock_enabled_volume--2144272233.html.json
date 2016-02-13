@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\fve_e_cant_lock_autounlock_enabled_volume\-2144272233\index.html.json
+canonical: /win32/winerror-h/fve_e_cant_lock_autounlock_enabled_volume/0x80310097/
+title: -2144272233 FVE_E_CANT_LOCK_AUTOUNLOCK_ENABLED_VOLUME in winerror.h
+description: The drive cannot be locked because it is automatically unlocked on this computer.  Remove the automatic unlock protector to lock this drive.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2144272233",
+  "codeUrl": "/win32/winerror-h/fve_e_cant_lock_autounlock_enabled_volume/-2144272233/",
+  "numericCode": 0,
+  "define": "FVE_E_CANT_LOCK_AUTOUNLOCK_ENABLED_VOLUME",
+  "defineUrl": "/win32/winerror-h/fve_e_cant_lock_autounlock_enabled_volume/",
+  "message": "The drive cannot be locked because it is automatically unlocked on this computer.  Remove the automatic unlock protector to lock this drive.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80310097",
+  "originalCodeUrl": "/win32/winerror-h/fve_e_cant_lock_autounlock_enabled_volume/0x80310097/"
+}

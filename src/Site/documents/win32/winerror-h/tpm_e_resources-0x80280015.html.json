@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\tpm_e_resources\0x80280015\index.html.json
+
+title: 0x80280015 TPM_E_RESOURCES in winerror.h
+description: The TPM has insufficient internal resources to perform the requested action.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80280015",
+  "codeUrl": "/win32/winerror-h/tpm_e_resources/0x80280015/",
+  "numericCode": -2144862187,
+  "define": "TPM_E_RESOURCES",
+  "defineUrl": "/win32/winerror-h/tpm_e_resources/",
+  "message": "The TPM has insufficient internal resources to perform the requested action.",
+  "remarks": null,
+  "aka": [
+    "-2144862187"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/tpm_e_resources/-2144862187/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

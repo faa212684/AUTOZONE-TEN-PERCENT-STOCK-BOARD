@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_install_firewall_service_not_running\0x80073d0a\index.html.json
+canonical: /win32/winerror-h/error_install_firewall_service_not_running/15626/
+title: 0x80073d0a ERROR_INSTALL_FIREWALL_SERVICE_NOT_RUNNING in winerror.h
+description: The package could not be installed because the Windows Firewall service is not running. Enable the Windows Firewall service and try again.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80073d0a",
+  "codeUrl": "/win32/winerror-h/error_install_firewall_service_not_running/0x80073d0a/",
+  "numericCode": 0,
+  "define": "ERROR_INSTALL_FIREWALL_SERVICE_NOT_RUNNING",
+  "defineUrl": "/win32/winerror-h/error_install_firewall_service_not_running/",
+  "message": "The package could not be installed because the Windows Firewall service is not running. Enable the Windows Firewall service and try again.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "15626",
+  "originalCodeUrl": "/win32/winerror-h/error_install_firewall_service_not_running/15626/"
+}

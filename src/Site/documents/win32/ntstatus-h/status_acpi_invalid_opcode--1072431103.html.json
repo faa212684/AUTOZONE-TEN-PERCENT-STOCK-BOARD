@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_acpi_invalid_opcode\-1072431103\index.html.json
+canonical: /win32/ntstatus-h/status_acpi_invalid_opcode/0xc0140001/
+title: -1072431103 STATUS_ACPI_INVALID_OPCODE in ntstatus.h
+description: An attempt was made to run an invalid AML opcode
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1072431103",
+  "codeUrl": "/win32/ntstatus-h/status_acpi_invalid_opcode/-1072431103/",
+  "numericCode": 0,
+  "define": "STATUS_ACPI_INVALID_OPCODE",
+  "defineUrl": "/win32/ntstatus-h/status_acpi_invalid_opcode/",
+  "message": "An attempt was made to run an invalid AML opcode",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0140001",
+  "originalCodeUrl": "/win32/ntstatus-h/status_acpi_invalid_opcode/0xc0140001/"
+}

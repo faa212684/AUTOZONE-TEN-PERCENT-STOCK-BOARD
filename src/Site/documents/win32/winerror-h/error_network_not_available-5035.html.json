@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_network_not_available\5035\index.html.json
+
+title: 5035 ERROR_NETWORK_NOT_AVAILABLE in winerror.h
+description: A cluster network is not available for this operation.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "5035",
+  "codeUrl": "/win32/winerror-h/error_network_not_available/5035/",
+  "numericCode": 5035,
+  "define": "ERROR_NETWORK_NOT_AVAILABLE",
+  "defineUrl": "/win32/winerror-h/error_network_not_available/",
+  "message": "A cluster network is not available for this operation.",
+  "remarks": null,
+  "aka": [
+    "0x800713ab",
+    "-2147019861"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_network_not_available/0x800713ab/",
+    "/win32/winerror-h/error_network_not_available/-2147019861/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

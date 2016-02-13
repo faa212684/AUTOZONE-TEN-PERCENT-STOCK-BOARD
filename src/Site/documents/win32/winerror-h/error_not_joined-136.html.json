@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_not_joined\136\index.html.json
+
+title: 136 ERROR_NOT_JOINED in winerror.h
+description: The system tried to delete the JOIN of a drive that is not joined.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "136",
+  "codeUrl": "/win32/winerror-h/error_not_joined/136/",
+  "numericCode": 136,
+  "define": "ERROR_NOT_JOINED",
+  "defineUrl": "/win32/winerror-h/error_not_joined/",
+  "message": "The system tried to delete the JOIN of a drive that is not joined.",
+  "remarks": null,
+  "aka": [
+    "0x80070088",
+    "-2147024760"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_not_joined/0x80070088/",
+    "/win32/winerror-h/error_not_joined/-2147024760/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,37 @@
+---
+output: win32\netevent-h\event_dnsapi_deregistration_failed_serverfail\-2147472467\index.html.json
+canonical: /win32/netevent-h/event_dnsapi_deregistration_failed_serverfail/0x80002bad/
+title: -2147472467 EVENT_DNSAPI_DEREGISTRATION_FAILED_SERVERFAIL in netevent.h
+description: The system failed to update and remove registration for the
+network adapter with settings:%n%n
+Adapter Name : %1%n
+Host Name : %2%n
+Adapter-specific Domain Suffix : %3%n
+DNS server list :%n
+%4%n
+Sent update to server : %5%n
+IP Address(es) :%n
+%6%n%n
+The reason for this failure is because the DNS server it sent the update
+to failed the update request. A possible cause of this failure is that
+the DNS server required to process this update request has a lock in place
+on the zone, probably because a zone transfer is in progress.%n%n
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "-2147472467",
+  "codeUrl": "/win32/netevent-h/event_dnsapi_deregistration_failed_serverfail/-2147472467/",
+  "numericCode": 0,
+  "define": "EVENT_DNSAPI_DEREGISTRATION_FAILED_SERVERFAIL",
+  "defineUrl": "/win32/netevent-h/event_dnsapi_deregistration_failed_serverfail/",
+  "message": "The system failed to update and remove registration for the\r\nnetwork adapter with settings:%n%n\r\nAdapter Name : %1%n\r\nHost Name : %2%n\r\nAdapter-specific Domain Suffix : %3%n\r\nDNS server list :%n\r\n%4%n\r\nSent update to server : %5%n\r\nIP Address(es) :%n\r\n%6%n%n\r\nThe reason for this failure is because the DNS server it sent the update\r\nto failed the update request. A possible cause of this failure is that\r\nthe DNS server required to process this update request has a lock in place\r\non the zone, probably because a zone transfer is in progress.%n%n",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80002BAD",
+  "originalCodeUrl": "/win32/netevent-h/event_dnsapi_deregistration_failed_serverfail/0x80002bad/"
+}

@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_ds_dup_ldap_display_name\0x800720be\index.html.json
+canonical: /win32/winerror-h/error_ds_dup_ldap_display_name/8382/
+title: 0x800720be ERROR_DS_DUP_LDAP_DISPLAY_NAME in winerror.h
+description: Schema update failed: duplicate LDAP display name.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800720be",
+  "codeUrl": "/win32/winerror-h/error_ds_dup_ldap_display_name/0x800720be/",
+  "numericCode": 0,
+  "define": "ERROR_DS_DUP_LDAP_DISPLAY_NAME",
+  "defineUrl": "/win32/winerror-h/error_ds_dup_ldap_display_name/",
+  "message": "Schema update failed: duplicate LDAP display name.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "8382",
+  "originalCodeUrl": "/win32/winerror-h/error_ds_dup_ldap_display_name/8382/"
+}

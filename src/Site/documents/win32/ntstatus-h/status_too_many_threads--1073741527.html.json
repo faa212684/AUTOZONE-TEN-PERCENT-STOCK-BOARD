@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_too_many_threads\-1073741527\index.html.json
+canonical: /win32/ntstatus-h/status_too_many_threads/0xc0000129/
+title: -1073741527 STATUS_TOO_MANY_THREADS in ntstatus.h
+description: Indicates a process has too many threads to perform the requested action. For example, assignment of a primary token may only be performed when a process has zero or one threads.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741527",
+  "codeUrl": "/win32/ntstatus-h/status_too_many_threads/-1073741527/",
+  "numericCode": 0,
+  "define": "STATUS_TOO_MANY_THREADS",
+  "defineUrl": "/win32/ntstatus-h/status_too_many_threads/",
+  "message": "Indicates a process has too many threads to perform the requested action. For example, assignment of a primary token may only be performed when a process has zero or one threads.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000129",
+  "originalCodeUrl": "/win32/ntstatus-h/status_too_many_threads/0xc0000129/"
+}

@@ -1,0 +1,29 @@
+---
+output: win32\netevent-h\event_frs_overlaps_working\0xc00034e6\index.html.json
+
+title: 0xC00034E6 EVENT_FRS_OVERLAPS_WORKING in netevent.h
+description: The File Replication Service cannot replicate %1 because it overlaps
+the File Replication Service's working directory %2.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC00034E6",
+  "codeUrl": "/win32/netevent-h/event_frs_overlaps_working/0xc00034e6/",
+  "numericCode": -1073728282,
+  "define": "EVENT_FRS_OVERLAPS_WORKING",
+  "defineUrl": "/win32/netevent-h/event_frs_overlaps_working/",
+  "message": "The File Replication Service cannot replicate %1 because it overlaps\r\nthe File Replication Service's working directory %2.",
+  "remarks": null,
+  "aka": [
+    "-1073728282"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_frs_overlaps_working/-1073728282/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

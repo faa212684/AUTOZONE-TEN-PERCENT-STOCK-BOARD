@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\nap_e_service_not_running\0x8027000c\index.html.json
+
+title: 0x8027000C NAP_E_SERVICE_NOT_RUNNING in winerror.h
+description: The NapAgent service is not running.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8027000C",
+  "codeUrl": "/win32/winerror-h/nap_e_service_not_running/0x8027000c/",
+  "numericCode": -2144927732,
+  "define": "NAP_E_SERVICE_NOT_RUNNING",
+  "defineUrl": "/win32/winerror-h/nap_e_service_not_running/",
+  "message": "The NapAgent service is not running.",
+  "remarks": null,
+  "aka": [
+    "-2144927732"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/nap_e_service_not_running/-2144927732/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_info_length_mismatch\-1073741820\index.html.json
+canonical: /win32/ntstatus-h/status_info_length_mismatch/0xc0000004/
+title: -1073741820 STATUS_INFO_LENGTH_MISMATCH in ntstatus.h
+description: The specified information record length does not match the length required for the specified information class.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741820",
+  "codeUrl": "/win32/ntstatus-h/status_info_length_mismatch/-1073741820/",
+  "numericCode": 0,
+  "define": "STATUS_INFO_LENGTH_MISMATCH",
+  "defineUrl": "/win32/ntstatus-h/status_info_length_mismatch/",
+  "message": "The specified information record length does not match the length required for the specified information class.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000004",
+  "originalCodeUrl": "/win32/ntstatus-h/status_info_length_mismatch/0xc0000004/"
+}

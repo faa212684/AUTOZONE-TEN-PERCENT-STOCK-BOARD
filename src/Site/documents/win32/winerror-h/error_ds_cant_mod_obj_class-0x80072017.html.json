@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_ds_cant_mod_obj_class\0x80072017\index.html.json
+canonical: /win32/winerror-h/error_ds_cant_mod_obj_class/8215/
+title: 0x80072017 ERROR_DS_CANT_MOD_OBJ_CLASS in winerror.h
+description: The directory service detected an attempt to modify the object class of an object.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80072017",
+  "codeUrl": "/win32/winerror-h/error_ds_cant_mod_obj_class/0x80072017/",
+  "numericCode": 0,
+  "define": "ERROR_DS_CANT_MOD_OBJ_CLASS",
+  "defineUrl": "/win32/winerror-h/error_ds_cant_mod_obj_class/",
+  "message": "The directory service detected an attempt to modify the object class of an object.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "8215",
+  "originalCodeUrl": "/win32/winerror-h/error_ds_cant_mod_obj_class/8215/"
+}

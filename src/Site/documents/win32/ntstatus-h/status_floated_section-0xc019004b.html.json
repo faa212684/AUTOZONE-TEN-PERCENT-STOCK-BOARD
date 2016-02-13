@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_floated_section\0xc019004b\index.html.json
+
+title: 0xC019004B STATUS_FLOATED_SECTION in ntstatus.h
+description: I/O was attempted on a section object that has been floated as a result of a transaction ending. There is no valid data.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC019004B",
+  "codeUrl": "/win32/ntstatus-h/status_floated_section/0xc019004b/",
+  "numericCode": -1072103349,
+  "define": "STATUS_FLOATED_SECTION",
+  "defineUrl": "/win32/ntstatus-h/status_floated_section/",
+  "message": "I/O was attempted on a section object that has been floated as a result of a transaction ending. There is no valid data.",
+  "remarks": null,
+  "aka": [
+    "-1072103349"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_floated_section/-1072103349/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_tpm_delegate_lock\0xc029004b\index.html.json
+
+title: 0xC029004B STATUS_TPM_DELEGATE_LOCK in ntstatus.h
+description: The delegate administration is locked.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC029004B",
+  "codeUrl": "/win32/ntstatus-h/status_tpm_delegate_lock/0xc029004b/",
+  "numericCode": -1071054773,
+  "define": "STATUS_TPM_DELEGATE_LOCK",
+  "defineUrl": "/win32/ntstatus-h/status_tpm_delegate_lock/",
+  "message": "The delegate administration is locked.",
+  "remarks": null,
+  "aka": [
+    "-1071054773"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_tpm_delegate_lock/-1071054773/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

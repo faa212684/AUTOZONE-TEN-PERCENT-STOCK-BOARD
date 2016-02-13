@@ -1,0 +1,28 @@
+---
+output: win32\wuerror-h\wu_e_ds_impersonated\0x8024801d\index.html.json
+
+title: 0x8024801D WU_E_DS_IMPERSONATED in wuerror.h
+description: A data store operation did not complete because it was requested with an impersonated identity.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wuerror.h",
+  "sourceUrl": "/win32/wuerror-h/",
+  "code": "0x8024801D",
+  "codeUrl": "/win32/wuerror-h/wu_e_ds_impersonated/0x8024801d/",
+  "numericCode": -2145091555,
+  "define": "WU_E_DS_IMPERSONATED",
+  "defineUrl": "/win32/wuerror-h/wu_e_ds_impersonated/",
+  "message": "A data store operation did not complete because it was requested with an impersonated identity.",
+  "remarks": null,
+  "aka": [
+    "-2145091555"
+  ],
+  "akaUrl": [
+    "/win32/wuerror-h/wu_e_ds_impersonated/-2145091555/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

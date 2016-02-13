@@ -1,0 +1,24 @@
+---
+output: win32\netevent-h\event_bowser_election_received\8012\index.html.json
+canonical: /win32/netevent-h/event_bowser_election_received/0x00001f4c/
+title: 8012 EVENT_BOWSER_ELECTION_RECEIVED in netevent.h
+description: The browser driver has received an election packet from computer %2 on network %3.  The data is the packet received.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "8012",
+  "codeUrl": "/win32/netevent-h/event_bowser_election_received/8012/",
+  "numericCode": 0,
+  "define": "EVENT_BOWSER_ELECTION_RECEIVED",
+  "defineUrl": "/win32/netevent-h/event_bowser_election_received/",
+  "message": "The browser driver has received an election packet from computer %2 on network %3.  The data is the packet received.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x00001F4C",
+  "originalCodeUrl": "/win32/netevent-h/event_bowser_election_received/0x00001f4c/"
+}

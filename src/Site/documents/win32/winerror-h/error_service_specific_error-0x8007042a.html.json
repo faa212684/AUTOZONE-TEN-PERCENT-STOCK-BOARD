@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_service_specific_error\0x8007042a\index.html.json
+canonical: /win32/winerror-h/error_service_specific_error/1066/
+title: 0x8007042a ERROR_SERVICE_SPECIFIC_ERROR in winerror.h
+description: The service has returned a service-specific error code.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007042a",
+  "codeUrl": "/win32/winerror-h/error_service_specific_error/0x8007042a/",
+  "numericCode": 0,
+  "define": "ERROR_SERVICE_SPECIFIC_ERROR",
+  "defineUrl": "/win32/winerror-h/error_service_specific_error/",
+  "message": "The service has returned a service-specific error code.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "1066",
+  "originalCodeUrl": "/win32/winerror-h/error_service_specific_error/1066/"
+}

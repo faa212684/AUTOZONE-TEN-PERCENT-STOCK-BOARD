@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\clipbrd_e_cant_close\0x800401d4\index.html.json
+
+title: 0x800401D4 CLIPBRD_E_CANT_CLOSE in winerror.h
+description: CloseClipboard Failed
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800401D4",
+  "codeUrl": "/win32/winerror-h/clipbrd_e_cant_close/0x800401d4/",
+  "numericCode": -2147221036,
+  "define": "CLIPBRD_E_CANT_CLOSE",
+  "defineUrl": "/win32/winerror-h/clipbrd_e_cant_close/",
+  "message": "CloseClipboard Failed",
+  "remarks": null,
+  "aka": [
+    "-2147221036"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/clipbrd_e_cant_close/-2147221036/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

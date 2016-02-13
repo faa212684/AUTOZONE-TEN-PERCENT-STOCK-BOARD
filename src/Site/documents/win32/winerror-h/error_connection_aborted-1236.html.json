@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_connection_aborted\1236\index.html.json
+
+title: 1236 ERROR_CONNECTION_ABORTED in winerror.h
+description: The network connection was aborted by the local system.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1236",
+  "codeUrl": "/win32/winerror-h/error_connection_aborted/1236/",
+  "numericCode": 1236,
+  "define": "ERROR_CONNECTION_ABORTED",
+  "defineUrl": "/win32/winerror-h/error_connection_aborted/",
+  "message": "The network connection was aborted by the local system.",
+  "remarks": null,
+  "aka": [
+    "0x800704d4",
+    "-2147023660"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_connection_aborted/0x800704d4/",
+    "/win32/winerror-h/error_connection_aborted/-2147023660/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

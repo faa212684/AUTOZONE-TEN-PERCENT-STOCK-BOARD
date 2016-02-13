@@ -1,0 +1,24 @@
+---
+output: msi\1500\index.html.json
+
+title: msi 1500
+description: Another installation is in progress. You must complete that installation before continuing this one.
+disqus: true
+---
+{
+  "area": "msi",
+  "areaUrl": "/msi/",
+  "source": null,
+  "sourceUrl": "/msi/",
+  "code": "1500",
+  "codeUrl": "/msi/1500/",
+  "numericCode": 1500,
+  "define": null,
+  "defineUrl": "/msi/",
+  "message": "Another installation is in progress. You must complete that installation before continuing this one.",
+  "remarks": "Test packages in high-traffic environments  where users request the installation of many applications. For \r\n        more information, see <a href=\"https://msdn.microsoft.com/en-us/library/aa372909(v=vs.85).aspx\">_MSIExecute Mutex</a>.",
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,31 @@
+---
+output: win32\netevent-h\event_srv_no_free_connections\0x800007e6\index.html.json
+
+title: 0x800007E6 EVENT_SRV_NO_FREE_CONNECTIONS in netevent.h
+description: The server was unable to find a free connection %2 times in the last %3 seconds.  This indicates a spike in
+network traffic.  If this is happening frequently, you should consider increasing the minimum number of free
+connections to add headroom.  To do that, modify the MinFreeConnections and MaxFreeConnections for the LanmanServer
+in the registry.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x800007E6",
+  "codeUrl": "/win32/netevent-h/event_srv_no_free_connections/0x800007e6/",
+  "numericCode": -2147481626,
+  "define": "EVENT_SRV_NO_FREE_CONNECTIONS",
+  "defineUrl": "/win32/netevent-h/event_srv_no_free_connections/",
+  "message": "The server was unable to find a free connection %2 times in the last %3 seconds.  This indicates a spike in\r\nnetwork traffic.  If this is happening frequently, you should consider increasing the minimum number of free\r\nconnections to add headroom.  To do that, modify the MinFreeConnections and MaxFreeConnections for the LanmanServer\r\nin the registry.",
+  "remarks": null,
+  "aka": [
+    "-2147481626"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_srv_no_free_connections/-2147481626/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

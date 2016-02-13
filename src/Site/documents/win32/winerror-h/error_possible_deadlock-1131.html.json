@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_possible_deadlock\1131\index.html.json
+
+title: 1131 ERROR_POSSIBLE_DEADLOCK in winerror.h
+description: A potential deadlock condition has been detected.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1131",
+  "codeUrl": "/win32/winerror-h/error_possible_deadlock/1131/",
+  "numericCode": 1131,
+  "define": "ERROR_POSSIBLE_DEADLOCK",
+  "defineUrl": "/win32/winerror-h/error_possible_deadlock/",
+  "message": "A potential deadlock condition has been detected.",
+  "remarks": null,
+  "aka": [
+    "0x8007046b",
+    "-2147023765"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_possible_deadlock/0x8007046b/",
+    "/win32/winerror-h/error_possible_deadlock/-2147023765/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

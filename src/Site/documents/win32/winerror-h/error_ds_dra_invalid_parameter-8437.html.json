@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ds_dra_invalid_parameter\8437\index.html.json
+
+title: 8437 ERROR_DS_DRA_INVALID_PARAMETER in winerror.h
+description: An invalid parameter was specified for this replication operation.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "8437",
+  "codeUrl": "/win32/winerror-h/error_ds_dra_invalid_parameter/8437/",
+  "numericCode": 8437,
+  "define": "ERROR_DS_DRA_INVALID_PARAMETER",
+  "defineUrl": "/win32/winerror-h/error_ds_dra_invalid_parameter/",
+  "message": "An invalid parameter was specified for this replication operation.",
+  "remarks": null,
+  "aka": [
+    "0x800720f5",
+    "-2147016459"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ds_dra_invalid_parameter/0x800720f5/",
+    "/win32/winerror-h/error_ds_dra_invalid_parameter/-2147016459/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

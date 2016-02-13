@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_special_group\0xc0000125\index.html.json
+
+title: 0xC0000125 STATUS_SPECIAL_GROUP in ntstatus.h
+description: The operation requested may not be performed on the specified group because it is a built-in special group.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000125",
+  "codeUrl": "/win32/ntstatus-h/status_special_group/0xc0000125/",
+  "numericCode": -1073741531,
+  "define": "STATUS_SPECIAL_GROUP",
+  "defineUrl": "/win32/ntstatus-h/status_special_group/",
+  "message": "The operation requested may not be performed on the specified group because it is a built-in special group.",
+  "remarks": null,
+  "aka": [
+    "-1073741531"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_special_group/-1073741531/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

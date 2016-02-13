@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\error_ndis_resource_conflict\0x8034001e\index.html.json
+
+title: 0x8034001E ERROR_NDIS_RESOURCE_CONFLICT in winerror.h
+description: An attempt to allocate a hardware resource failed because the resource is used by another component.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8034001E",
+  "codeUrl": "/win32/winerror-h/error_ndis_resource_conflict/0x8034001e/",
+  "numericCode": -2144075746,
+  "define": "ERROR_NDIS_RESOURCE_CONFLICT",
+  "defineUrl": "/win32/winerror-h/error_ndis_resource_conflict/",
+  "message": "An attempt to allocate a hardware resource failed because the resource is used by another component.",
+  "remarks": null,
+  "aka": [
+    "-2144075746"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ndis_resource_conflict/-2144075746/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

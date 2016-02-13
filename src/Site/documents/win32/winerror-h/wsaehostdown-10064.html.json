@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\wsaehostdown\10064\index.html.json
+
+title: 10064 WSAEHOSTDOWN in winerror.h
+description: A socket operation failed because the destination host was down.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "10064",
+  "codeUrl": "/win32/winerror-h/wsaehostdown/10064/",
+  "numericCode": 10064,
+  "define": "WSAEHOSTDOWN",
+  "defineUrl": "/win32/winerror-h/wsaehostdown/",
+  "message": "A socket operation failed because the destination host was down.",
+  "remarks": null,
+  "aka": [
+    "0x80072750",
+    "-2147014832"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/wsaehostdown/0x80072750/",
+    "/win32/winerror-h/wsaehostdown/-2147014832/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

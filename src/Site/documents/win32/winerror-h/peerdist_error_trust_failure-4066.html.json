@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\peerdist_error_trust_failure\4066\index.html.json
+
+title: 4066 PEERDIST_ERROR_TRUST_FAILURE in winerror.h
+description: Communication with one or more computers will be temporarily blocked due to recent errors.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "4066",
+  "codeUrl": "/win32/winerror-h/peerdist_error_trust_failure/4066/",
+  "numericCode": 4066,
+  "define": "PEERDIST_ERROR_TRUST_FAILURE",
+  "defineUrl": "/win32/winerror-h/peerdist_error_trust_failure/",
+  "message": "Communication with one or more computers will be temporarily blocked due to recent errors.",
+  "remarks": null,
+  "aka": [
+    "0x80070fe2",
+    "-2147020830"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/peerdist_error_trust_failure/0x80070fe2/",
+    "/win32/winerror-h/peerdist_error_trust_failure/-2147020830/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

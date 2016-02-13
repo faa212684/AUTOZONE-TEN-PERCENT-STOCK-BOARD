@@ -1,0 +1,24 @@
+---
+output: win32\windowssearcherrors-h\event_sssearch_datafiles_move_rollback_errors\-2147482630\index.html.json
+canonical: /win32/windowssearcherrors-h/event_sssearch_datafiles_move_rollback_errors/0x800003fa/
+title: -2147482630 EVENT_SSSEARCH_DATAFILES_MOVE_ROLLBACK_ERRORS in WindowsSearchErrors.h
+description: While rolling back the index, the Windows Search Service encountered the following error: <%4,%5>. Index files were not moved from %2 to %3. %1
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "-2147482630",
+  "codeUrl": "/win32/windowssearcherrors-h/event_sssearch_datafiles_move_rollback_errors/-2147482630/",
+  "numericCode": 0,
+  "define": "EVENT_SSSEARCH_DATAFILES_MOVE_ROLLBACK_ERRORS",
+  "defineUrl": "/win32/windowssearcherrors-h/event_sssearch_datafiles_move_rollback_errors/",
+  "message": "While rolling back the index, the Windows Search Service encountered the following error: <%4,%5>. Index files were not moved from %2 to %3. %1",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x800003FA",
+  "originalCodeUrl": "/win32/windowssearcherrors-h/event_sssearch_datafiles_move_rollback_errors/0x800003fa/"
+}

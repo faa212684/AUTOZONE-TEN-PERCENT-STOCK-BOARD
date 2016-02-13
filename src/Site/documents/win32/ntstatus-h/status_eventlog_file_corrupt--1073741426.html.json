@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_eventlog_file_corrupt\-1073741426\index.html.json
+canonical: /win32/ntstatus-h/status_eventlog_file_corrupt/0xc000018e/
+title: -1073741426 STATUS_EVENTLOG_FILE_CORRUPT in ntstatus.h
+description: The Eventlog log file is corrupt.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741426",
+  "codeUrl": "/win32/ntstatus-h/status_eventlog_file_corrupt/-1073741426/",
+  "numericCode": 0,
+  "define": "STATUS_EVENTLOG_FILE_CORRUPT",
+  "defineUrl": "/win32/ntstatus-h/status_eventlog_file_corrupt/",
+  "message": "The Eventlog log file is corrupt.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC000018E",
+  "originalCodeUrl": "/win32/ntstatus-h/status_eventlog_file_corrupt/0xc000018e/"
+}

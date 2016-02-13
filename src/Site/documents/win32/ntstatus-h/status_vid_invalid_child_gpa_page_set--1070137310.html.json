@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_vid_invalid_child_gpa_page_set\-1070137310\index.html.json
+canonical: /win32/ntstatus-h/status_vid_invalid_child_gpa_page_set/0xc0370022/
+title: -1070137310 STATUS_VID_INVALID_CHILD_GPA_PAGE_SET in ntstatus.h
+description: The lock or unlock request uses an invalid guest operating system memory address. Restarting the virtual machine may fix the problem. If the problem persists, try restarting the physical computer.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1070137310",
+  "codeUrl": "/win32/ntstatus-h/status_vid_invalid_child_gpa_page_set/-1070137310/",
+  "numericCode": 0,
+  "define": "STATUS_VID_INVALID_CHILD_GPA_PAGE_SET",
+  "defineUrl": "/win32/ntstatus-h/status_vid_invalid_child_gpa_page_set/",
+  "message": "The lock or unlock request uses an invalid guest operating system memory address. Restarting the virtual machine may fix the problem. If the problem persists, try restarting the physical computer.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0370022",
+  "originalCodeUrl": "/win32/ntstatus-h/status_vid_invalid_child_gpa_page_set/0xc0370022/"
+}

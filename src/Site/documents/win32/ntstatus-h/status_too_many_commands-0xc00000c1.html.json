@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_too_many_commands\0xc00000c1\index.html.json
+
+title: 0xC00000C1 STATUS_TOO_MANY_COMMANDS in ntstatus.h
+description: The network BIOS command limit has been reached.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC00000C1",
+  "codeUrl": "/win32/ntstatus-h/status_too_many_commands/0xc00000c1/",
+  "numericCode": -1073741631,
+  "define": "STATUS_TOO_MANY_COMMANDS",
+  "defineUrl": "/win32/ntstatus-h/status_too_many_commands/",
+  "message": "The network BIOS command limit has been reached.",
+  "remarks": null,
+  "aka": [
+    "-1073741631"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_too_many_commands/-1073741631/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

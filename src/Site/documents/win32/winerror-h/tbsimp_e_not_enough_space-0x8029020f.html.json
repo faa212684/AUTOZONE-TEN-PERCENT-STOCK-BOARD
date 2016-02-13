@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\tbsimp_e_not_enough_space\0x8029020f\index.html.json
+
+title: 0x8029020F TBSIMP_E_NOT_ENOUGH_SPACE in winerror.h
+description: The TPM does not have enough space to load the requested resource.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8029020F",
+  "codeUrl": "/win32/winerror-h/tbsimp_e_not_enough_space/0x8029020f/",
+  "numericCode": -2144796145,
+  "define": "TBSIMP_E_NOT_ENOUGH_SPACE",
+  "defineUrl": "/win32/winerror-h/tbsimp_e_not_enough_space/",
+  "message": "The TPM does not have enough space to load the requested resource.",
+  "remarks": null,
+  "aka": [
+    "-2144796145"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/tbsimp_e_not_enough_space/-2144796145/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\vsserror-h\vss_e_asrerror_critical_disk_cannot_be_excluded\0x80042415\index.html.json
+
+title: 0x80042415 VSS_E_ASRERROR_CRITICAL_DISK_CANNOT_BE_EXCLUDED in vsserror.h
+description: Restore failed because a disk which was critical at backup is excluded. To continue you need to either remove the disk from exclusion list or detach it from machine or clean it using DiskPart utility, and then retry restore. If you cannot clean or detach it then change the disk signature using DiskPart command UNIQUEID DISK ID.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vsserror.h",
+  "sourceUrl": "/win32/vsserror-h/",
+  "code": "0x80042415",
+  "codeUrl": "/win32/vsserror-h/vss_e_asrerror_critical_disk_cannot_be_excluded/0x80042415/",
+  "numericCode": -2147212267,
+  "define": "VSS_E_ASRERROR_CRITICAL_DISK_CANNOT_BE_EXCLUDED",
+  "defineUrl": "/win32/vsserror-h/vss_e_asrerror_critical_disk_cannot_be_excluded/",
+  "message": "Restore failed because a disk which was critical at backup is excluded. To continue you need to either remove the disk from exclusion list or detach it from machine or clean it using DiskPart utility, and then retry restore. If you cannot clean or detach it then change the disk signature using DiskPart command UNIQUEID DISK ID.",
+  "remarks": null,
+  "aka": [
+    "-2147212267"
+  ],
+  "akaUrl": [
+    "/win32/vsserror-h/vss_e_asrerror_critical_disk_cannot_be_excluded/-2147212267/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\ole_e_wrongcompobj\0x8004000e\index.html.json
+
+title: 0x8004000E OLE_E_WRONGCOMPOBJ in winerror.h
+description: compobj.dll is too old for the ole2.dll initialized
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8004000E",
+  "codeUrl": "/win32/winerror-h/ole_e_wrongcompobj/0x8004000e/",
+  "numericCode": -2147221490,
+  "define": "OLE_E_WRONGCOMPOBJ",
+  "defineUrl": "/win32/winerror-h/ole_e_wrongcompobj/",
+  "message": "compobj.dll is too old for the ole2.dll initialized",
+  "remarks": null,
+  "aka": [
+    "-2147221490"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/ole_e_wrongcompobj/-2147221490/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

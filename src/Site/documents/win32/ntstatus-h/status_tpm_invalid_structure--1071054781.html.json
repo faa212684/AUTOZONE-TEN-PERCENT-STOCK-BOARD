@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_tpm_invalid_structure\-1071054781\index.html.json
+canonical: /win32/ntstatus-h/status_tpm_invalid_structure/0xc0290043/
+title: -1071054781 STATUS_TPM_INVALID_STRUCTURE in ntstatus.h
+description: The structure tag and version are invalid or inconsistent.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071054781",
+  "codeUrl": "/win32/ntstatus-h/status_tpm_invalid_structure/-1071054781/",
+  "numericCode": 0,
+  "define": "STATUS_TPM_INVALID_STRUCTURE",
+  "defineUrl": "/win32/ntstatus-h/status_tpm_invalid_structure/",
+  "message": "The structure tag and version are invalid or inconsistent.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0290043",
+  "originalCodeUrl": "/win32/ntstatus-h/status_tpm_invalid_structure/0xc0290043/"
+}

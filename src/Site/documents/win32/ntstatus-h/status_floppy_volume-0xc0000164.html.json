@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_floppy_volume\0xc0000164\index.html.json
+
+title: 0xC0000164 STATUS_FLOPPY_VOLUME in ntstatus.h
+description: The paging file cannot be created on a floppy diskette.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000164",
+  "codeUrl": "/win32/ntstatus-h/status_floppy_volume/0xc0000164/",
+  "numericCode": -1073741468,
+  "define": "STATUS_FLOPPY_VOLUME",
+  "defineUrl": "/win32/ntstatus-h/status_floppy_volume/",
+  "message": "The paging file cannot be created on a floppy diskette.",
+  "remarks": null,
+  "aka": [
+    "-1073741468"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_floppy_volume/-1073741468/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

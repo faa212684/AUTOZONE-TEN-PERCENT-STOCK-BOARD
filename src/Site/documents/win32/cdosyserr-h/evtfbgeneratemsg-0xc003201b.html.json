@@ -1,0 +1,31 @@
+---
+output: win32\cdosyserr-h\evtfbgeneratemsg\0xc003201b\index.html.json
+
+title: 0xC003201B evtFBGenerateMsg in CDOSysErr.h
+description: The calendaring agent could not publish the free/busy information for "%1" because it failed reading the registry with error: %2.  
+The save/delete calendar operation for "%3" will not be completed.
+Please ensure that MSExchangeFBPublish agent is started.
+%n%nFor more information, click http:www.microsoft.com/contentredirect.asp.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "CDOSysErr.h",
+  "sourceUrl": "/win32/cdosyserr-h/",
+  "code": "0xC003201B",
+  "codeUrl": "/win32/cdosyserr-h/evtfbgeneratemsg/0xc003201b/",
+  "numericCode": -1073536997,
+  "define": "evtFBGenerateMsg",
+  "defineUrl": "/win32/cdosyserr-h/evtfbgeneratemsg/",
+  "message": "The calendaring agent could not publish the free/busy information for \"%1\" because it failed reading the registry with error: %2.  \r\nThe save/delete calendar operation for \"%3\" will not be completed.\r\nPlease ensure that MSExchangeFBPublish agent is started.\r\n%n%nFor more information, click http:www.microsoft.com/contentredirect.asp.",
+  "remarks": null,
+  "aka": [
+    "-1073536997"
+  ],
+  "akaUrl": [
+    "/win32/cdosyserr-h/evtfbgeneratemsg/-1073536997/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

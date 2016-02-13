@@ -1,0 +1,24 @@
+---
+output: win32\slerror-h\sl_e_tka_soft_cert_invalid\-1073417454\index.html.json
+canonical: /win32/slerror-h/sl_e_tka_soft_cert_invalid/0xc004f312/
+title: -1073417454 SL_E_TKA_SOFT_CERT_INVALID in slerror.h
+description: The Software Licensing Service reported that the product could not be activated. The certificate cannot be used because its private key is exportable.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "slerror.h",
+  "sourceUrl": "/win32/slerror-h/",
+  "code": "-1073417454",
+  "codeUrl": "/win32/slerror-h/sl_e_tka_soft_cert_invalid/-1073417454/",
+  "numericCode": 0,
+  "define": "SL_E_TKA_SOFT_CERT_INVALID",
+  "defineUrl": "/win32/slerror-h/sl_e_tka_soft_cert_invalid/",
+  "message": "The Software Licensing Service reported that the product could not be activated. The certificate cannot be used because its private key is exportable.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC004F312",
+  "originalCodeUrl": "/win32/slerror-h/sl_e_tka_soft_cert_invalid/0xc004f312/"
+}

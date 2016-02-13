@@ -1,0 +1,29 @@
+---
+output: win32\ntstatus-h\status_video_hung_display_driver_thread\0xc01b00ea\index.html.json
+
+title: 0xC01B00EA STATUS_VIDEO_HUNG_DISPLAY_DRIVER_THREAD in ntstatus.h
+description: "{Display Driver Stopped Responding}
+The %hs display driver has stopped working normally. Save your work and reboot the system to restore full display functionality. The next time you reboot the machine a dialog will be displayed giving you a chance to upload data about this failure to Microsoft."
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC01B00EA",
+  "codeUrl": "/win32/ntstatus-h/status_video_hung_display_driver_thread/0xc01b00ea/",
+  "numericCode": -1071972118,
+  "define": "STATUS_VIDEO_HUNG_DISPLAY_DRIVER_THREAD",
+  "defineUrl": "/win32/ntstatus-h/status_video_hung_display_driver_thread/",
+  "message": "{Display Driver Stopped Responding}\r\nThe %hs display driver has stopped working normally. Save your work and reboot the system to restore full display functionality. The next time you reboot the machine a dialog will be displayed giving you a chance to upload data about this failure to Microsoft.",
+  "remarks": null,
+  "aka": [
+    "-1071972118"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_video_hung_display_driver_thread/-1071972118/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

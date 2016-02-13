@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\dbg_no_state_change\-1073676287\index.html.json
+canonical: /win32/ntstatus-h/dbg_no_state_change/0xc0010001/
+title: -1073676287 DBG_NO_STATE_CHANGE in ntstatus.h
+description: Debugger did not perform a state change.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073676287",
+  "codeUrl": "/win32/ntstatus-h/dbg_no_state_change/-1073676287/",
+  "numericCode": 0,
+  "define": "DBG_NO_STATE_CHANGE",
+  "defineUrl": "/win32/ntstatus-h/dbg_no_state_change/",
+  "message": "Debugger did not perform a state change.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0010001",
+  "originalCodeUrl": "/win32/ntstatus-h/dbg_no_state_change/0xc0010001/"
+}

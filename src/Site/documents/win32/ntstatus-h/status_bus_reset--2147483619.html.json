@@ -1,0 +1,25 @@
+---
+output: win32\ntstatus-h\status_bus_reset\-2147483619\index.html.json
+canonical: /win32/ntstatus-h/status_bus_reset/0x8000001d/
+title: -2147483619 STATUS_BUS_RESET in ntstatus.h
+description: "{I/O Bus Reset}
+An I/O bus reset was detected."
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-2147483619",
+  "codeUrl": "/win32/ntstatus-h/status_bus_reset/-2147483619/",
+  "numericCode": 0,
+  "define": "STATUS_BUS_RESET",
+  "defineUrl": "/win32/ntstatus-h/status_bus_reset/",
+  "message": "{I/O Bus Reset}\r\nAn I/O bus reset was detected.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x8000001D",
+  "originalCodeUrl": "/win32/ntstatus-h/status_bus_reset/0x8000001d/"
+}

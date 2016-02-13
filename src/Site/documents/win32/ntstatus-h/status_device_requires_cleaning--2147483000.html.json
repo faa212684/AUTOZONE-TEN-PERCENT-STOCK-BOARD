@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_device_requires_cleaning\-2147483000\index.html.json
+canonical: /win32/ntstatus-h/status_device_requires_cleaning/0x80000288/
+title: -2147483000 STATUS_DEVICE_REQUIRES_CLEANING in ntstatus.h
+description: The device has indicated that cleaning is necessary.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-2147483000",
+  "codeUrl": "/win32/ntstatus-h/status_device_requires_cleaning/-2147483000/",
+  "numericCode": 0,
+  "define": "STATUS_DEVICE_REQUIRES_CLEANING",
+  "defineUrl": "/win32/ntstatus-h/status_device_requires_cleaning/",
+  "message": "The device has indicated that cleaning is necessary.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80000288",
+  "originalCodeUrl": "/win32/ntstatus-h/status_device_requires_cleaning/0x80000288/"
+}

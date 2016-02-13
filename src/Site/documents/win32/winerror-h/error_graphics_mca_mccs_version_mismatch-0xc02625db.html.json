@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\error_graphics_mca_mccs_version_mismatch\0xc02625db\index.html.json
+
+title: 0xC02625DB ERROR_GRAPHICS_MCA_MCCS_VERSION_MISMATCH in winerror.h
+description: The MCCS version in a monitor's mccs_ver capability does not match the MCCS version the monitor reports when the VCP Version (0xDF) VCP code is used.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0xC02625DB",
+  "codeUrl": "/win32/winerror-h/error_graphics_mca_mccs_version_mismatch/0xc02625db/",
+  "numericCode": -1071241765,
+  "define": "ERROR_GRAPHICS_MCA_MCCS_VERSION_MISMATCH",
+  "defineUrl": "/win32/winerror-h/error_graphics_mca_mccs_version_mismatch/",
+  "message": "The MCCS version in a monitor's mccs_ver capability does not match the MCCS version the monitor reports when the VCP Version (0xDF) VCP code is used.",
+  "remarks": null,
+  "aka": [
+    "-1071241765"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_graphics_mca_mccs_version_mismatch/-1071241765/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

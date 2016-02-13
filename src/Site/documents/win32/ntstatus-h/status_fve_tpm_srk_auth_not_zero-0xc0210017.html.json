@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_fve_tpm_srk_auth_not_zero\0xc0210017\index.html.json
+
+title: 0xC0210017 STATUS_FVE_TPM_SRK_AUTH_NOT_ZERO in ntstatus.h
+description: The authorization data for the Storage Root Key (SRK) of the Trusted Platform Module (TPM) is not zero.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0210017",
+  "codeUrl": "/win32/ntstatus-h/status_fve_tpm_srk_auth_not_zero/0xc0210017/",
+  "numericCode": -1071579113,
+  "define": "STATUS_FVE_TPM_SRK_AUTH_NOT_ZERO",
+  "defineUrl": "/win32/ntstatus-h/status_fve_tpm_srk_auth_not_zero/",
+  "message": "The authorization data for the Storage Root Key (SRK) of the Trusted Platform Module (TPM) is not zero.",
+  "remarks": null,
+  "aka": [
+    "-1071579113"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_fve_tpm_srk_auth_not_zero/-1071579113/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

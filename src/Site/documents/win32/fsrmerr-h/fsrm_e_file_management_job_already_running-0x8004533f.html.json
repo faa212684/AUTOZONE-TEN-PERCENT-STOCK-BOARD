@@ -1,0 +1,28 @@
+---
+output: win32\fsrmerr-h\fsrm_e_file_management_job_already_running\0x8004533f\index.html.json
+
+title: 0x8004533F FSRM_E_FILE_MANAGEMENT_JOB_ALREADY_RUNNING in fsrmerr.h
+description: The file management task is already running or queued for running.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "fsrmerr.h",
+  "sourceUrl": "/win32/fsrmerr-h/",
+  "code": "0x8004533F",
+  "codeUrl": "/win32/fsrmerr-h/fsrm_e_file_management_job_already_running/0x8004533f/",
+  "numericCode": -2147200193,
+  "define": "FSRM_E_FILE_MANAGEMENT_JOB_ALREADY_RUNNING",
+  "defineUrl": "/win32/fsrmerr-h/fsrm_e_file_management_job_already_running/",
+  "message": "The file management task is already running or queued for running.",
+  "remarks": null,
+  "aka": [
+    "-2147200193"
+  ],
+  "akaUrl": [
+    "/win32/fsrmerr-h/fsrm_e_file_management_job_already_running/-2147200193/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_ctx_client_license_in_use\0x80071b8c\index.html.json
+canonical: /win32/winerror-h/error_ctx_client_license_in_use/7052/
+title: 0x80071b8c ERROR_CTX_CLIENT_LICENSE_IN_USE in winerror.h
+description: Your request to connect to this Terminal Server has been rejected. Your Terminal Server client license number is currently being used by another user. Please call your system administrator to obtain a unique license number.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80071b8c",
+  "codeUrl": "/win32/winerror-h/error_ctx_client_license_in_use/0x80071b8c/",
+  "numericCode": 0,
+  "define": "ERROR_CTX_CLIENT_LICENSE_IN_USE",
+  "defineUrl": "/win32/winerror-h/error_ctx_client_license_in_use/",
+  "message": "Your request to connect to this Terminal Server has been rejected. Your Terminal Server client license number is currently being used by another user. Please call your system administrator to obtain a unique license number.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "7052",
+  "originalCodeUrl": "/win32/winerror-h/error_ctx_client_license_in_use/7052/"
+}

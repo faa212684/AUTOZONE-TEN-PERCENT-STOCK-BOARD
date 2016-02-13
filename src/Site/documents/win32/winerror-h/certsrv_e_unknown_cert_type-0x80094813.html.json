@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\certsrv_e_unknown_cert_type\0x80094813\index.html.json
+
+title: 0x80094813 CERTSRV_E_UNKNOWN_CERT_TYPE in winerror.h
+description: One or more certificate templates to be enabled on this certification authority could not be found.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80094813",
+  "codeUrl": "/win32/winerror-h/certsrv_e_unknown_cert_type/0x80094813/",
+  "numericCode": -2146875373,
+  "define": "CERTSRV_E_UNKNOWN_CERT_TYPE",
+  "defineUrl": "/win32/winerror-h/certsrv_e_unknown_cert_type/",
+  "message": "One or more certificate templates to be enabled on this certification authority could not be found.",
+  "remarks": null,
+  "aka": [
+    "-2146875373"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/certsrv_e_unknown_cert_type/-2146875373/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

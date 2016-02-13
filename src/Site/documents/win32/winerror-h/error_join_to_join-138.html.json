@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_join_to_join\138\index.html.json
+
+title: 138 ERROR_JOIN_TO_JOIN in winerror.h
+description: The system tried to join a drive to a directory on a joined drive.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "138",
+  "codeUrl": "/win32/winerror-h/error_join_to_join/138/",
+  "numericCode": 138,
+  "define": "ERROR_JOIN_TO_JOIN",
+  "defineUrl": "/win32/winerror-h/error_join_to_join/",
+  "message": "The system tried to join a drive to a directory on a joined drive.",
+  "remarks": null,
+  "aka": [
+    "0x8007008a",
+    "-2147024758"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_join_to_join/0x8007008a/",
+    "/win32/winerror-h/error_join_to_join/-2147024758/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ipsec_default_mm_policy_not_found\13013\index.html.json
+
+title: 13013 ERROR_IPSEC_DEFAULT_MM_POLICY_NOT_FOUND in winerror.h
+description: The specified default main mode policy was not found.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "13013",
+  "codeUrl": "/win32/winerror-h/error_ipsec_default_mm_policy_not_found/13013/",
+  "numericCode": 13013,
+  "define": "ERROR_IPSEC_DEFAULT_MM_POLICY_NOT_FOUND",
+  "defineUrl": "/win32/winerror-h/error_ipsec_default_mm_policy_not_found/",
+  "message": "The specified default main mode policy was not found.",
+  "remarks": null,
+  "aka": [
+    "0x800732d5",
+    "-2147011883"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ipsec_default_mm_policy_not_found/0x800732d5/",
+    "/win32/winerror-h/error_ipsec_default_mm_policy_not_found/-2147011883/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

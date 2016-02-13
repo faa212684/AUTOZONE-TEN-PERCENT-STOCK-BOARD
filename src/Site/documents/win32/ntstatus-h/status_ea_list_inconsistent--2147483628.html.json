@@ -1,0 +1,25 @@
+---
+output: win32\ntstatus-h\status_ea_list_inconsistent\-2147483628\index.html.json
+canonical: /win32/ntstatus-h/status_ea_list_inconsistent/0x80000014/
+title: -2147483628 STATUS_EA_LIST_INCONSISTENT in ntstatus.h
+description: "{Inconsistent EA List}
+The extended attribute (EA) list is inconsistent."
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-2147483628",
+  "codeUrl": "/win32/ntstatus-h/status_ea_list_inconsistent/-2147483628/",
+  "numericCode": 0,
+  "define": "STATUS_EA_LIST_INCONSISTENT",
+  "defineUrl": "/win32/ntstatus-h/status_ea_list_inconsistent/",
+  "message": "{Inconsistent EA List}\r\nThe extended attribute (EA) list is inconsistent.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80000014",
+  "originalCodeUrl": "/win32/ntstatus-h/status_ea_list_inconsistent/0x80000014/"
+}

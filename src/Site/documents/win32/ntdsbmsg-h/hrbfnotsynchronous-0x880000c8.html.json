@@ -1,0 +1,28 @@
+---
+output: win32\ntdsbmsg-h\hrbfnotsynchronous\0x880000c8\index.html.json
+
+title: 0x880000C8 hrBFNotSynchronous in NtDsBMsg.h
+description: The buffer page has been evicted.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "NtDsBMsg.h",
+  "sourceUrl": "/win32/ntdsbmsg-h/",
+  "code": "0x880000C8",
+  "codeUrl": "/win32/ntdsbmsg-h/hrbfnotsynchronous/0x880000c8/",
+  "numericCode": -2013265720,
+  "define": "hrBFNotSynchronous",
+  "defineUrl": "/win32/ntdsbmsg-h/hrbfnotsynchronous/",
+  "message": "The buffer page has been evicted.",
+  "remarks": null,
+  "aka": [
+    "-2013265720"
+  ],
+  "akaUrl": [
+    "/win32/ntdsbmsg-h/hrbfnotsynchronous/-2013265720/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

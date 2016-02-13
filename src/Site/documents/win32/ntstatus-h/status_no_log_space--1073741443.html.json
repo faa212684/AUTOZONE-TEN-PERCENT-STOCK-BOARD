@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_no_log_space\-1073741443\index.html.json
+canonical: /win32/ntstatus-h/status_no_log_space/0xc000017d/
+title: -1073741443 STATUS_NO_LOG_SPACE in ntstatus.h
+description: System could not allocate required space in a registry log.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741443",
+  "codeUrl": "/win32/ntstatus-h/status_no_log_space/-1073741443/",
+  "numericCode": 0,
+  "define": "STATUS_NO_LOG_SPACE",
+  "defineUrl": "/win32/ntstatus-h/status_no_log_space/",
+  "message": "System could not allocate required space in a registry log.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC000017D",
+  "originalCodeUrl": "/win32/ntstatus-h/status_no_log_space/0xc000017d/"
+}

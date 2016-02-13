@@ -1,0 +1,28 @@
+---
+output: win32\windowssearcherrors-h\event_perf_counters_already_exists\0x80002726\index.html.json
+
+title: 0x80002726 EVENT_PERF_COUNTERS_ALREADY_EXISTS in WindowsSearchErrors.h
+description: Performance counters will not be loaded because the named objects (shared memory or events) are in use for %1 for instance %2 %3.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "0x80002726",
+  "codeUrl": "/win32/windowssearcherrors-h/event_perf_counters_already_exists/0x80002726/",
+  "numericCode": -2147473626,
+  "define": "EVENT_PERF_COUNTERS_ALREADY_EXISTS",
+  "defineUrl": "/win32/windowssearcherrors-h/event_perf_counters_already_exists/",
+  "message": "Performance counters will not be loaded because the named objects (shared memory or events) are in use for %1 for instance %2 %3.",
+  "remarks": null,
+  "aka": [
+    "-2147473626"
+  ],
+  "akaUrl": [
+    "/win32/windowssearcherrors-h/event_perf_counters_already_exists/-2147473626/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

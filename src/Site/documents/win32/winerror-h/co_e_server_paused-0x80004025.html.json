@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\co_e_server_paused\0x80004025\index.html.json
+
+title: 0x80004025 CO_E_SERVER_PAUSED in winerror.h
+description: Activations on the server are paused.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80004025",
+  "codeUrl": "/win32/winerror-h/co_e_server_paused/0x80004025/",
+  "numericCode": -2147467227,
+  "define": "CO_E_SERVER_PAUSED",
+  "defineUrl": "/win32/winerror-h/co_e_server_paused/",
+  "message": "Activations on the server are paused.",
+  "remarks": null,
+  "aka": [
+    "-2147467227"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/co_e_server_paused/-2147467227/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

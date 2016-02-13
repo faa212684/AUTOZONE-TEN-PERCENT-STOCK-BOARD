@@ -1,0 +1,28 @@
+---
+output: win32\windowssearcherrors-h\jps_e_sharing_violation\0x8004118a\index.html.json
+
+title: 0x8004118A JPS_E_SHARING_VIOLATION in WindowsSearchErrors.h
+description: The content index server cannot update or access information because of a sharing violation.  Stop and restart the search service.  If the problem persists, reset and recrawl the content index.  In some cases it may be necessary to delete and recreate the content index.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "0x8004118A",
+  "codeUrl": "/win32/windowssearcherrors-h/jps_e_sharing_violation/0x8004118a/",
+  "numericCode": -2147217014,
+  "define": "JPS_E_SHARING_VIOLATION",
+  "defineUrl": "/win32/windowssearcherrors-h/jps_e_sharing_violation/",
+  "message": "The content index server cannot update or access information because of a sharing violation.  Stop and restart the search service.  If the problem persists, reset and recrawl the content index.  In some cases it may be necessary to delete and recreate the content index.",
+  "remarks": null,
+  "aka": [
+    "-2147217014"
+  ],
+  "akaUrl": [
+    "/win32/windowssearcherrors-h/jps_e_sharing_violation/-2147217014/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

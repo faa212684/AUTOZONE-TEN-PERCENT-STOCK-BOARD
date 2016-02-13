@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_fwp_duplicate_condition\0xc022002a\index.html.json
+
+title: 0xC022002A STATUS_FWP_DUPLICATE_CONDITION in ntstatus.h
+description: A filter cannot contain multiple conditions operating on a single field.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC022002A",
+  "codeUrl": "/win32/ntstatus-h/status_fwp_duplicate_condition/0xc022002a/",
+  "numericCode": -1071513558,
+  "define": "STATUS_FWP_DUPLICATE_CONDITION",
+  "defineUrl": "/win32/ntstatus-h/status_fwp_duplicate_condition/",
+  "message": "A filter cannot contain multiple conditions operating on a single field.",
+  "remarks": null,
+  "aka": [
+    "-1071513558"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_fwp_duplicate_condition/-1071513558/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

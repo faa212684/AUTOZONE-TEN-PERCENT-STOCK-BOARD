@@ -1,0 +1,29 @@
+---
+output: win32\winerror-h\dxgi_error_session_disconnected\0x887a0028\index.html.json
+
+title: 0x887A0028 DXGI_ERROR_SESSION_DISCONNECTED in winerror.h
+description: The output duplication has been turned off because the Windows session ended or was disconnected.
+This happens when a remote user disconnects, or when "switch user" is used locally.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x887A0028",
+  "codeUrl": "/win32/winerror-h/dxgi_error_session_disconnected/0x887a0028/",
+  "numericCode": -2005270488,
+  "define": "DXGI_ERROR_SESSION_DISCONNECTED",
+  "defineUrl": "/win32/winerror-h/dxgi_error_session_disconnected/",
+  "message": "The output duplication has been turned off because the Windows session ended or was disconnected.\r\nThis happens when a remote user disconnects, or when \"switch user\" is used locally.",
+  "remarks": null,
+  "aka": [
+    "-2005270488"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/dxgi_error_session_disconnected/-2005270488/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

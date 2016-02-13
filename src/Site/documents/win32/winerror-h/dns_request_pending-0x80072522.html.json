@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\dns_request_pending\0x80072522\index.html.json
+canonical: /win32/winerror-h/dns_request_pending/9506/
+title: 0x80072522 DNS_REQUEST_PENDING in winerror.h
+description: DNS query request is pending.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80072522",
+  "codeUrl": "/win32/winerror-h/dns_request_pending/0x80072522/",
+  "numericCode": 0,
+  "define": "DNS_REQUEST_PENDING",
+  "defineUrl": "/win32/winerror-h/dns_request_pending/",
+  "message": "DNS query request is pending.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "9506",
+  "originalCodeUrl": "/win32/winerror-h/dns_request_pending/9506/"
+}

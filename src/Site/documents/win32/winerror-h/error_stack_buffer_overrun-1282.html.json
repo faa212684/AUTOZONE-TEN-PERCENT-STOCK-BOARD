@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_stack_buffer_overrun\1282\index.html.json
+
+title: 1282 ERROR_STACK_BUFFER_OVERRUN in winerror.h
+description: The system detected an overrun of a stack-based buffer in this application. This overrun could potentially allow a malicious user to gain control of this application.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1282",
+  "codeUrl": "/win32/winerror-h/error_stack_buffer_overrun/1282/",
+  "numericCode": 1282,
+  "define": "ERROR_STACK_BUFFER_OVERRUN",
+  "defineUrl": "/win32/winerror-h/error_stack_buffer_overrun/",
+  "message": "The system detected an overrun of a stack-based buffer in this application. This overrun could potentially allow a malicious user to gain control of this application.",
+  "remarks": null,
+  "aka": [
+    "0x80070502",
+    "-2147023614"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_stack_buffer_overrun/0x80070502/",
+    "/win32/winerror-h/error_stack_buffer_overrun/-2147023614/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

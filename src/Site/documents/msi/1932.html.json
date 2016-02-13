@@ -1,0 +1,24 @@
+---
+output: msi\1932\index.html.json
+
+title: msi 1932
+description: The Windows Installer service cannot update the protected Windows file [2]. Package version: [3], OS Protected version: [4], SFP Error: [5]
+disqus: true
+---
+{
+  "area": "msi",
+  "areaUrl": "/msi/",
+  "source": null,
+  "sourceUrl": "/msi/",
+  "code": "1932",
+  "codeUrl": "/msi/1932/",
+  "numericCode": 1932,
+  "define": null,
+  "defineUrl": "/msi/",
+  "message": "The Windows Installer service cannot update the protected Windows file [2]. Package version: [3], OS Protected version: [4], SFP Error: [5]",
+  "remarks": "Windows Installer protects critical system files. For more information, see <a href=\"https://msdn.microsoft.com/en-us/library/aa372868(v=vs.85).aspx\">Using Windows Installer and Windows Resource Protection</a>. For Windows Me, see the  <a href=\"https://msdn.microsoft.com/en-us/library/aa369542(v=vs.85).aspx\">InstallSFPCatalogFile action</a>, the <a href=\"https://msdn.microsoft.com/en-us/library/aa368591(v=vs.85).aspx\">FileSFPCatalog table</a>, and the \r\n<a href=\"https://msdn.microsoft.com/en-us/library/aa371833(v=vs.85).aspx\">SFPCatalog table</a>.",
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": null,
+  "originalCodeUrl": null
+}

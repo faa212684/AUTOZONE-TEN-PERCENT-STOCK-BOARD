@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\rpc_s_binding_incomplete\0x8007071b\index.html.json
+canonical: /win32/winerror-h/rpc_s_binding_incomplete/1819/
+title: 0x8007071b RPC_S_BINDING_INCOMPLETE in winerror.h
+description: The binding handle does not contain all required information.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007071b",
+  "codeUrl": "/win32/winerror-h/rpc_s_binding_incomplete/0x8007071b/",
+  "numericCode": 0,
+  "define": "RPC_S_BINDING_INCOMPLETE",
+  "defineUrl": "/win32/winerror-h/rpc_s_binding_incomplete/",
+  "message": "The binding handle does not contain all required information.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "1819",
+  "originalCodeUrl": "/win32/winerror-h/rpc_s_binding_incomplete/1819/"
+}

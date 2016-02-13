@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_rkf_file_blocked\-1069547515\index.html.json
+canonical: /win32/ntstatus-h/status_rkf_file_blocked/0xc0400005/
+title: -1069547515 STATUS_RKF_FILE_BLOCKED in ntstatus.h
+description: The Resume Key Filter failed the operation because the file is temporarily blocked pending the resume of existing handles on the file.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1069547515",
+  "codeUrl": "/win32/ntstatus-h/status_rkf_file_blocked/-1069547515/",
+  "numericCode": 0,
+  "define": "STATUS_RKF_FILE_BLOCKED",
+  "defineUrl": "/win32/ntstatus-h/status_rkf_file_blocked/",
+  "message": "The Resume Key Filter failed the operation because the file is temporarily blocked pending the resume of existing handles on the file.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0400005",
+  "originalCodeUrl": "/win32/ntstatus-h/status_rkf_file_blocked/0xc0400005/"
+}

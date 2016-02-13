@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_eqos_warning_user_policy_version\0x800040db\index.html.json
+
+title: 0x800040DB EVENT_EQOS_WARNING_USER_POLICY_VERSION in netevent.h
+description: A user QoS policy "%2" has an invalid version number. This policy will not be applied.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x800040DB",
+  "codeUrl": "/win32/netevent-h/event_eqos_warning_user_policy_version/0x800040db/",
+  "numericCode": -2147467045,
+  "define": "EVENT_EQOS_WARNING_USER_POLICY_VERSION",
+  "defineUrl": "/win32/netevent-h/event_eqos_warning_user_policy_version/",
+  "message": "A user QoS policy \"%2\" has an invalid version number. This policy will not be applied.",
+  "remarks": null,
+  "aka": [
+    "-2147467045"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_eqos_warning_user_policy_version/-2147467045/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\cierror-h\ci_e_timeout\0x8004181f\index.html.json
+
+title: 0x8004181F CI_E_TIMEOUT in CiError.h
+description: Service is too busy.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "CiError.h",
+  "sourceUrl": "/win32/cierror-h/",
+  "code": "0x8004181F",
+  "codeUrl": "/win32/cierror-h/ci_e_timeout/0x8004181f/",
+  "numericCode": -2147215329,
+  "define": "CI_E_TIMEOUT",
+  "defineUrl": "/win32/cierror-h/ci_e_timeout/",
+  "message": "Service is too busy.",
+  "remarks": null,
+  "aka": [
+    "-2147215329"
+  ],
+  "akaUrl": [
+    "/win32/cierror-h/ci_e_timeout/-2147215329/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

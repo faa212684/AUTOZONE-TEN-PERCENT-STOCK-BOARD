@@ -1,0 +1,24 @@
+---
+output: win32\wuerror-h\wu_e_redirector_id_smaller\-2145103869\index.html.json
+canonical: /win32/wuerror-h/wu_e_redirector_id_smaller/0x80245003/
+title: -2145103869 WU_E_REDIRECTOR_ID_SMALLER in wuerror.h
+description: The redirectorId in the downloaded redirector cab is less than in the cached cab.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wuerror.h",
+  "sourceUrl": "/win32/wuerror-h/",
+  "code": "-2145103869",
+  "codeUrl": "/win32/wuerror-h/wu_e_redirector_id_smaller/-2145103869/",
+  "numericCode": 0,
+  "define": "WU_E_REDIRECTOR_ID_SMALLER",
+  "defineUrl": "/win32/wuerror-h/wu_e_redirector_id_smaller/",
+  "message": "The redirectorId in the downloaded redirector cab is less than in the cached cab.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80245003",
+  "originalCodeUrl": "/win32/wuerror-h/wu_e_redirector_id_smaller/0x80245003/"
+}

@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_ipsec_ike_dh_fail\0x800735fe\index.html.json
+canonical: /win32/winerror-h/error_ipsec_ike_dh_fail/13822/
+title: 0x800735fe ERROR_IPSEC_IKE_DH_FAIL in winerror.h
+description: Failure in Diffie-Hellman computation
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800735fe",
+  "codeUrl": "/win32/winerror-h/error_ipsec_ike_dh_fail/0x800735fe/",
+  "numericCode": 0,
+  "define": "ERROR_IPSEC_IKE_DH_FAIL",
+  "defineUrl": "/win32/winerror-h/error_ipsec_ike_dh_fail/",
+  "message": "Failure in Diffie-Hellman computation",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "13822",
+  "originalCodeUrl": "/win32/winerror-h/error_ipsec_ike_dh_fail/13822/"
+}

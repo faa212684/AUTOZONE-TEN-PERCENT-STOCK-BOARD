@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_invalid_logon_type\1367\index.html.json
+
+title: 1367 ERROR_INVALID_LOGON_TYPE in winerror.h
+description: A logon request contained an invalid logon type value.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1367",
+  "codeUrl": "/win32/winerror-h/error_invalid_logon_type/1367/",
+  "numericCode": 1367,
+  "define": "ERROR_INVALID_LOGON_TYPE",
+  "defineUrl": "/win32/winerror-h/error_invalid_logon_type/",
+  "message": "A logon request contained an invalid logon type value.",
+  "remarks": null,
+  "aka": [
+    "0x80070557",
+    "-2147023529"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_invalid_logon_type/0x80070557/",
+    "/win32/winerror-h/error_invalid_logon_type/-2147023529/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_bad_impersonation_level\1346\index.html.json
+
+title: 1346 ERROR_BAD_IMPERSONATION_LEVEL in winerror.h
+description: Either a required impersonation level was not provided, or the provided impersonation level is invalid.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1346",
+  "codeUrl": "/win32/winerror-h/error_bad_impersonation_level/1346/",
+  "numericCode": 1346,
+  "define": "ERROR_BAD_IMPERSONATION_LEVEL",
+  "defineUrl": "/win32/winerror-h/error_bad_impersonation_level/",
+  "message": "Either a required impersonation level was not provided, or the provided impersonation level is invalid.",
+  "remarks": null,
+  "aka": [
+    "0x80070542",
+    "-2147023550"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_bad_impersonation_level/0x80070542/",
+    "/win32/winerror-h/error_bad_impersonation_level/-2147023550/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

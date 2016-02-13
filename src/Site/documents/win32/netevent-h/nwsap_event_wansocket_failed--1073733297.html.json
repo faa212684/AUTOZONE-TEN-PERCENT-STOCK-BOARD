@@ -1,0 +1,24 @@
+---
+output: win32\netevent-h\nwsap_event_wansocket_failed\-1073733297\index.html.json
+canonical: /win32/netevent-h/nwsap_event_wansocket_failed/0xc000214f/
+title: -1073733297 NWSAP_EVENT_WANSOCKET_FAILED in netevent.h
+description: Socket create call failed for WAN socket.  The Sap Agent cannot continue.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "-1073733297",
+  "codeUrl": "/win32/netevent-h/nwsap_event_wansocket_failed/-1073733297/",
+  "numericCode": 0,
+  "define": "NWSAP_EVENT_WANSOCKET_FAILED",
+  "defineUrl": "/win32/netevent-h/nwsap_event_wansocket_failed/",
+  "message": "Socket create call failed for WAN socket.  The Sap Agent cannot continue.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC000214F",
+  "originalCodeUrl": "/win32/netevent-h/nwsap_event_wansocket_failed/0xc000214f/"
+}

@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\error_vid_stop_pending\0xc037001c\index.html.json
+
+title: 0xC037001C ERROR_VID_STOP_PENDING in winerror.h
+description: Cannot stop the virtual processor immediately because of a pending intercept.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0xC037001C",
+  "codeUrl": "/win32/winerror-h/error_vid_stop_pending/0xc037001c/",
+  "numericCode": -1070137316,
+  "define": "ERROR_VID_STOP_PENDING",
+  "defineUrl": "/win32/winerror-h/error_vid_stop_pending/",
+  "message": "Cannot stop the virtual processor immediately because of a pending intercept.",
+  "remarks": null,
+  "aka": [
+    "-1070137316"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_vid_stop_pending/-1070137316/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

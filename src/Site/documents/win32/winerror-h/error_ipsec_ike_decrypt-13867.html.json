@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ipsec_ike_decrypt\13867\index.html.json
+
+title: 13867 ERROR_IPSEC_IKE_DECRYPT in winerror.h
+description: Error decrypting payload
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "13867",
+  "codeUrl": "/win32/winerror-h/error_ipsec_ike_decrypt/13867/",
+  "numericCode": 13867,
+  "define": "ERROR_IPSEC_IKE_DECRYPT",
+  "defineUrl": "/win32/winerror-h/error_ipsec_ike_decrypt/",
+  "message": "Error decrypting payload",
+  "remarks": null,
+  "aka": [
+    "0x8007362b",
+    "-2147011029"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ipsec_ike_decrypt/0x8007362b/",
+    "/win32/winerror-h/error_ipsec_ike_decrypt/-2147011029/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

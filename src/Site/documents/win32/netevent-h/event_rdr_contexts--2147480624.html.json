@@ -1,0 +1,25 @@
+---
+output: win32\netevent-h\event_rdr_contexts\-2147480624\index.html.json
+canonical: /win32/netevent-h/event_rdr_contexts/0x80000bd0/
+title: -2147480624 EVENT_RDR_CONTEXTS in netevent.h
+description: The redirector is allocating additional resources for input/output request packet contexts.  This is
+probably caused by a resource leak in the redirector.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "-2147480624",
+  "codeUrl": "/win32/netevent-h/event_rdr_contexts/-2147480624/",
+  "numericCode": 0,
+  "define": "EVENT_RDR_CONTEXTS",
+  "defineUrl": "/win32/netevent-h/event_rdr_contexts/",
+  "message": "The redirector is allocating additional resources for input/output request packet contexts.  This is\r\nprobably caused by a resource leak in the redirector.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80000BD0",
+  "originalCodeUrl": "/win32/netevent-h/event_rdr_contexts/0x80000bd0/"
+}

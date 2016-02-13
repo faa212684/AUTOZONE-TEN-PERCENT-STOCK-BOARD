@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_dup_domainname\1221\index.html.json
+
+title: 1221 ERROR_DUP_DOMAINNAME in winerror.h
+description: The workgroup or domain name is already in use by another computer on the network.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1221",
+  "codeUrl": "/win32/winerror-h/error_dup_domainname/1221/",
+  "numericCode": 1221,
+  "define": "ERROR_DUP_DOMAINNAME",
+  "defineUrl": "/win32/winerror-h/error_dup_domainname/",
+  "message": "The workgroup or domain name is already in use by another computer on the network.",
+  "remarks": null,
+  "aka": [
+    "0x800704c5",
+    "-2147023675"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_dup_domainname/0x800704c5/",
+    "/win32/winerror-h/error_dup_domainname/-2147023675/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

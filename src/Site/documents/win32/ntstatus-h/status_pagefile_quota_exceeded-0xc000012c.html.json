@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_pagefile_quota_exceeded\0xc000012c\index.html.json
+
+title: 0xC000012C STATUS_PAGEFILE_QUOTA_EXCEEDED in ntstatus.h
+description: Page file quota was exceeded.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000012C",
+  "codeUrl": "/win32/ntstatus-h/status_pagefile_quota_exceeded/0xc000012c/",
+  "numericCode": -1073741524,
+  "define": "STATUS_PAGEFILE_QUOTA_EXCEEDED",
+  "defineUrl": "/win32/ntstatus-h/status_pagefile_quota_exceeded/",
+  "message": "Page file quota was exceeded.",
+  "remarks": null,
+  "aka": [
+    "-1073741524"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_pagefile_quota_exceeded/-1073741524/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

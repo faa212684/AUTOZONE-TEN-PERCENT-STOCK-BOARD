@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\certsrv_e_alignment_fault\0x80094010\index.html.json
+
+title: 0x80094010 CERTSRV_E_ALIGNMENT_FAULT in winerror.h
+description: A memory reference caused a data alignment fault.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80094010",
+  "codeUrl": "/win32/winerror-h/certsrv_e_alignment_fault/0x80094010/",
+  "numericCode": -2146877424,
+  "define": "CERTSRV_E_ALIGNMENT_FAULT",
+  "defineUrl": "/win32/winerror-h/certsrv_e_alignment_fault/",
+  "message": "A memory reference caused a data alignment fault.",
+  "remarks": null,
+  "aka": [
+    "-2146877424"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/certsrv_e_alignment_fault/-2146877424/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

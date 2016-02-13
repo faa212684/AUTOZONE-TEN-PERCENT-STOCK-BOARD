@@ -1,0 +1,24 @@
+---
+output: win32\vsserror-h\vss_e_asrerror_dynamic_vhd_not_supported\-2147212278\index.html.json
+canonical: /win32/vsserror-h/vss_e_asrerror_dynamic_vhd_not_supported/0x8004240a/
+title: -2147212278 VSS_E_ASRERROR_DYNAMIC_VHD_NOT_SUPPORTED in vsserror.h
+description: A critical dynamic disk is a Virtual Hard Disk (VHD). This is an unsupported configuration. Check the Application event log for more details.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vsserror.h",
+  "sourceUrl": "/win32/vsserror-h/",
+  "code": "-2147212278",
+  "codeUrl": "/win32/vsserror-h/vss_e_asrerror_dynamic_vhd_not_supported/-2147212278/",
+  "numericCode": 0,
+  "define": "VSS_E_ASRERROR_DYNAMIC_VHD_NOT_SUPPORTED",
+  "defineUrl": "/win32/vsserror-h/vss_e_asrerror_dynamic_vhd_not_supported/",
+  "message": "A critical dynamic disk is a Virtual Hard Disk (VHD). This is an unsupported configuration. Check the Application event log for more details.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x8004240A",
+  "originalCodeUrl": "/win32/vsserror-h/vss_e_asrerror_dynamic_vhd_not_supported/0x8004240a/"
+}

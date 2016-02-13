@@ -1,0 +1,28 @@
+---
+output: win32\ehstormsg-h\es_e_other_security_protocol_active\0xc0041107\index.html.json
+
+title: 0xC0041107 ES_E_OTHER_SECURITY_PROTOCOL_ACTIVE in ehstormsg.h
+description: Cannot enable IEEE 1667 password security since another security protocol is still active on the device.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ehstormsg.h",
+  "sourceUrl": "/win32/ehstormsg-h/",
+  "code": "0xC0041107",
+  "codeUrl": "/win32/ehstormsg-h/es_e_other_security_protocol_active/0xc0041107/",
+  "numericCode": -1073475321,
+  "define": "ES_E_OTHER_SECURITY_PROTOCOL_ACTIVE",
+  "defineUrl": "/win32/ehstormsg-h/es_e_other_security_protocol_active/",
+  "message": "Cannot enable IEEE 1667 password security since another security protocol is still active on the device.",
+  "remarks": null,
+  "aka": [
+    "-1073475321"
+  ],
+  "akaUrl": [
+    "/win32/ehstormsg-h/es_e_other_security_protocol_active/-1073475321/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

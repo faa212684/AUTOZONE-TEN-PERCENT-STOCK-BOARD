@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\context_e_aborting\0x8004e003\index.html.json
+
+title: 0x8004E003 CONTEXT_E_ABORTING in winerror.h
+description: You made a method call on a COM+ component that has a transaction that has already aborted or in the process of aborting.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8004E003",
+  "codeUrl": "/win32/winerror-h/context_e_aborting/0x8004e003/",
+  "numericCode": -2147164157,
+  "define": "CONTEXT_E_ABORTING",
+  "defineUrl": "/win32/winerror-h/context_e_aborting/",
+  "message": "You made a method call on a COM+ component that has a transaction that has already aborted or in the process of aborting.",
+  "remarks": null,
+  "aka": [
+    "-2147164157"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/context_e_aborting/-2147164157/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

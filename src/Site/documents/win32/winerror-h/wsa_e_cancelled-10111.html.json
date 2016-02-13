@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\wsa_e_cancelled\10111\index.html.json
+
+title: 10111 WSA_E_CANCELLED in winerror.h
+description: A call to WSALookupServiceEnd was made while this call was still processing. The call has been canceled.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "10111",
+  "codeUrl": "/win32/winerror-h/wsa_e_cancelled/10111/",
+  "numericCode": 10111,
+  "define": "WSA_E_CANCELLED",
+  "defineUrl": "/win32/winerror-h/wsa_e_cancelled/",
+  "message": "A call to WSALookupServiceEnd was made while this call was still processing. The call has been canceled.",
+  "remarks": null,
+  "aka": [
+    "0x8007277f",
+    "-2147014785"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/wsa_e_cancelled/0x8007277f/",
+    "/win32/winerror-h/wsa_e_cancelled/-2147014785/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_cluster_internal_invalid_function\5912\index.html.json
+
+title: 5912 ERROR_CLUSTER_INTERNAL_INVALID_FUNCTION in winerror.h
+description: An internal cluster error occurred. A call to an invalid function was attempted.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "5912",
+  "codeUrl": "/win32/winerror-h/error_cluster_internal_invalid_function/5912/",
+  "numericCode": 5912,
+  "define": "ERROR_CLUSTER_INTERNAL_INVALID_FUNCTION",
+  "defineUrl": "/win32/winerror-h/error_cluster_internal_invalid_function/",
+  "message": "An internal cluster error occurred. A call to an invalid function was attempted.",
+  "remarks": null,
+  "aka": [
+    "0x80071718",
+    "-2147018984"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_cluster_internal_invalid_function/0x80071718/",
+    "/win32/winerror-h/error_cluster_internal_invalid_function/-2147018984/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

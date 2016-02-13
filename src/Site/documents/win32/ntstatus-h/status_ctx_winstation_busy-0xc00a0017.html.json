@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_ctx_winstation_busy\0xc00a0017\index.html.json
+
+title: 0xC00A0017 STATUS_CTX_WINSTATION_BUSY in ntstatus.h
+description: The task you are trying to do can't be completed because Remote Desktop Services is currently busy. Please try again in a few minutes. Other users should still be able to log on.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC00A0017",
+  "codeUrl": "/win32/ntstatus-h/status_ctx_winstation_busy/0xc00a0017/",
+  "numericCode": -1073086441,
+  "define": "STATUS_CTX_WINSTATION_BUSY",
+  "defineUrl": "/win32/ntstatus-h/status_ctx_winstation_busy/",
+  "message": "The task you are trying to do can't be completed because Remote Desktop Services is currently busy. Please try again in a few minutes. Other users should still be able to log on.",
+  "remarks": null,
+  "aka": [
+    "-1073086441"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_ctx_winstation_busy/-1073086441/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

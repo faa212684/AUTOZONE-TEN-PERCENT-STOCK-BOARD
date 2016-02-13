@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_patch_no_sequence\0x80070670\index.html.json
+canonical: /win32/winerror-h/error_patch_no_sequence/1648/
+title: 0x80070670 ERROR_PATCH_NO_SEQUENCE in winerror.h
+description: No valid sequence could be found for the set of updates.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80070670",
+  "codeUrl": "/win32/winerror-h/error_patch_no_sequence/0x80070670/",
+  "numericCode": 0,
+  "define": "ERROR_PATCH_NO_SEQUENCE",
+  "defineUrl": "/win32/winerror-h/error_patch_no_sequence/",
+  "message": "No valid sequence could be found for the set of updates.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "1648",
+  "originalCodeUrl": "/win32/winerror-h/error_patch_no_sequence/1648/"
+}

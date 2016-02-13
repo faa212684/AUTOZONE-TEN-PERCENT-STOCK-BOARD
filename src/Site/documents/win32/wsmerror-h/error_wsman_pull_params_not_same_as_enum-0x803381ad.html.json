@@ -1,0 +1,29 @@
+---
+output: win32\wsmerror-h\error_wsman_pull_params_not_same_as_enum\0x803381ad\index.html.json
+
+title: 0x803381AD ERROR_WSMAN_PULL_PARAMS_NOT_SAME_AS_ENUM in wsmerror.h
+description: The WS-Management service cannot complete the Pull operation for the enumeration because the wsman:MaxEnvelopeSize, wsen:MaxCharacters or wsen:MaxElements parameters differ from those specified to the enumeration.
+The application needs to specify the same parameters for Pull as were specified for the enumeration.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x803381AD",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_pull_params_not_same_as_enum/0x803381ad/",
+  "numericCode": -2144108115,
+  "define": "ERROR_WSMAN_PULL_PARAMS_NOT_SAME_AS_ENUM",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_pull_params_not_same_as_enum/",
+  "message": "The WS-Management service cannot complete the Pull operation for the enumeration because the wsman:MaxEnvelopeSize, wsen:MaxCharacters or wsen:MaxElements parameters differ from those specified to the enumeration.\r\nThe application needs to specify the same parameters for Pull as were specified for the enumeration.",
+  "remarks": null,
+  "aka": [
+    "-2144108115"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_pull_params_not_same_as_enum/-2144108115/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

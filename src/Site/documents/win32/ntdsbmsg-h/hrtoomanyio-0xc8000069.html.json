@@ -1,0 +1,28 @@
+---
+output: win32\ntdsbmsg-h\hrtoomanyio\0xc8000069\index.html.json
+
+title: 0xC8000069 hrTooManyIO in NtDsBMsg.h
+description: The system is busy because there are too many I/Os.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "NtDsBMsg.h",
+  "sourceUrl": "/win32/ntdsbmsg-h/",
+  "code": "0xC8000069",
+  "codeUrl": "/win32/ntdsbmsg-h/hrtoomanyio/0xc8000069/",
+  "numericCode": -939523991,
+  "define": "hrTooManyIO",
+  "defineUrl": "/win32/ntdsbmsg-h/hrtoomanyio/",
+  "message": "The system is busy because there are too many I/Os.",
+  "remarks": null,
+  "aka": [
+    "-939523991"
+  ],
+  "akaUrl": [
+    "/win32/ntdsbmsg-h/hrtoomanyio/-939523991/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

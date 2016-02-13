@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\event_e_missing_eventclass\0x8004020a\index.html.json
+
+title: 0x8004020A EVENT_E_MISSING_EVENTCLASS in winerror.h
+description: A subscription cannot be stored unless its event class already exists
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8004020A",
+  "codeUrl": "/win32/winerror-h/event_e_missing_eventclass/0x8004020a/",
+  "numericCode": -2147220982,
+  "define": "EVENT_E_MISSING_EVENTCLASS",
+  "defineUrl": "/win32/winerror-h/event_e_missing_eventclass/",
+  "message": "A subscription cannot be stored unless its event class already exists",
+  "remarks": null,
+  "aka": [
+    "-2147220982"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/event_e_missing_eventclass/-2147220982/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

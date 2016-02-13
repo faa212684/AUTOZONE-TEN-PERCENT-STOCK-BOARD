@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\wer_s_assert_continue\0x001b000a\index.html.json
+
+title: 0x001B000A WER_S_ASSERT_CONTINUE in winerror.h
+description: The assertion was resumed as unhandled.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x001B000A",
+  "codeUrl": "/win32/winerror-h/wer_s_assert_continue/0x001b000a/",
+  "numericCode": 1769482,
+  "define": "WER_S_ASSERT_CONTINUE",
+  "defineUrl": "/win32/winerror-h/wer_s_assert_continue/",
+  "message": "The assertion was resumed as unhandled.",
+  "remarks": null,
+  "aka": [
+    "1769482"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/wer_s_assert_continue/1769482/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,24 @@
+---
+output: win32\fsrmerr-h\fsrm_e_volume_offline\-2147200154\index.html.json
+canonical: /win32/fsrmerr-h/fsrm_e_volume_offline/0x80045366/
+title: -2147200154 FSRM_E_VOLUME_OFFLINE in fsrmerr.h
+description: File Server Resource Manager failed to access the volume. It may be offline.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "fsrmerr.h",
+  "sourceUrl": "/win32/fsrmerr-h/",
+  "code": "-2147200154",
+  "codeUrl": "/win32/fsrmerr-h/fsrm_e_volume_offline/-2147200154/",
+  "numericCode": 0,
+  "define": "FSRM_E_VOLUME_OFFLINE",
+  "defineUrl": "/win32/fsrmerr-h/fsrm_e_volume_offline/",
+  "message": "File Server Resource Manager failed to access the volume. It may be offline.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80045366",
+  "originalCodeUrl": "/win32/fsrmerr-h/fsrm_e_volume_offline/0x80045366/"
+}

@@ -1,0 +1,28 @@
+---
+output: win32\ntdsbmsg-h\hrtableinuse\0xc8000518\index.html.json
+
+title: 0xC8000518 hrTableInUse in NtDsBMsg.h
+description: Unable to lock the table because it is already in use.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "NtDsBMsg.h",
+  "sourceUrl": "/win32/ntdsbmsg-h/",
+  "code": "0xC8000518",
+  "codeUrl": "/win32/ntdsbmsg-h/hrtableinuse/0xc8000518/",
+  "numericCode": -939522792,
+  "define": "hrTableInUse",
+  "defineUrl": "/win32/ntdsbmsg-h/hrtableinuse/",
+  "message": "Unable to lock the table because it is already in use.",
+  "remarks": null,
+  "aka": [
+    "-939522792"
+  ],
+  "akaUrl": [
+    "/win32/ntdsbmsg-h/hrtableinuse/-939522792/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

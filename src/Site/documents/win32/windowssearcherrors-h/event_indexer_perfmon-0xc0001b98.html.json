@@ -1,0 +1,28 @@
+---
+output: win32\windowssearcherrors-h\event_indexer_perfmon\0xc0001b98\index.html.json
+
+title: 0xC0001B98 EVENT_INDEXER_PERFMON in WindowsSearchErrors.h
+description: Performance monitoring cannot be initialized because the counters are not loaded or the shared memory object cannot be opened. Stop and restart the search service.  If this error continues, reinstall the application.%1
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "0xC0001B98",
+  "codeUrl": "/win32/windowssearcherrors-h/event_indexer_perfmon/0xc0001b98/",
+  "numericCode": -1073734760,
+  "define": "EVENT_INDEXER_PERFMON",
+  "defineUrl": "/win32/windowssearcherrors-h/event_indexer_perfmon/",
+  "message": "Performance monitoring cannot be initialized because the counters are not loaded or the shared memory object cannot be opened. Stop and restart the search service.  If this error continues, reinstall the application.%1",
+  "remarks": null,
+  "aka": [
+    "-1073734760"
+  ],
+  "akaUrl": [
+    "/win32/windowssearcherrors-h/event_indexer_perfmon/-1073734760/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

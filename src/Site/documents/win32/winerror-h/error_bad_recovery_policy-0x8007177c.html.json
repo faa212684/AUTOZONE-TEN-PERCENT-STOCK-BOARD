@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_bad_recovery_policy\0x8007177c\index.html.json
+canonical: /win32/winerror-h/error_bad_recovery_policy/6012/
+title: 0x8007177c ERROR_BAD_RECOVERY_POLICY in winerror.h
+description: Recovery policy configured for this system contains invalid recovery certificate.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007177c",
+  "codeUrl": "/win32/winerror-h/error_bad_recovery_policy/0x8007177c/",
+  "numericCode": 0,
+  "define": "ERROR_BAD_RECOVERY_POLICY",
+  "defineUrl": "/win32/winerror-h/error_bad_recovery_policy/",
+  "message": "Recovery policy configured for this system contains invalid recovery certificate.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "6012",
+  "originalCodeUrl": "/win32/winerror-h/error_bad_recovery_policy/6012/"
+}

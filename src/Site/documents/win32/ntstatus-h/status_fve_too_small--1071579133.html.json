@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_fve_too_small\-1071579133\index.html.json
+canonical: /win32/ntstatus-h/status_fve_too_small/0xc0210003/
+title: -1071579133 STATUS_FVE_TOO_SMALL in ntstatus.h
+description: The volume cannot be encrypted because it does not have enough free space.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071579133",
+  "codeUrl": "/win32/ntstatus-h/status_fve_too_small/-1071579133/",
+  "numericCode": 0,
+  "define": "STATUS_FVE_TOO_SMALL",
+  "defineUrl": "/win32/ntstatus-h/status_fve_too_small/",
+  "message": "The volume cannot be encrypted because it does not have enough free space.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0210003",
+  "originalCodeUrl": "/win32/ntstatus-h/status_fve_too_small/0xc0210003/"
+}

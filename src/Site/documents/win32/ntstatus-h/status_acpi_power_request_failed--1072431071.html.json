@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_acpi_power_request_failed\-1072431071\index.html.json
+canonical: /win32/ntstatus-h/status_acpi_power_request_failed/0xc0140021/
+title: -1072431071 STATUS_ACPI_POWER_REQUEST_FAILED in ntstatus.h
+description: An ACPI Power Object failed to transition state
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1072431071",
+  "codeUrl": "/win32/ntstatus-h/status_acpi_power_request_failed/-1072431071/",
+  "numericCode": 0,
+  "define": "STATUS_ACPI_POWER_REQUEST_FAILED",
+  "defineUrl": "/win32/ntstatus-h/status_acpi_power_request_failed/",
+  "message": "An ACPI Power Object failed to transition state",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0140021",
+  "originalCodeUrl": "/win32/ntstatus-h/status_acpi_power_request_failed/0xc0140021/"
+}

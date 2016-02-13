@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_generic_command_failed\14109\index.html.json
+
+title: 14109 ERROR_GENERIC_COMMAND_FAILED in winerror.h
+description: A generic command executable returned a result that indicates failure.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "14109",
+  "codeUrl": "/win32/winerror-h/error_generic_command_failed/14109/",
+  "numericCode": 14109,
+  "define": "ERROR_GENERIC_COMMAND_FAILED",
+  "defineUrl": "/win32/winerror-h/error_generic_command_failed/",
+  "message": "A generic command executable returned a result that indicates failure.",
+  "remarks": null,
+  "aka": [
+    "0x8007371d",
+    "-2147010787"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_generic_command_failed/0x8007371d/",
+    "/win32/winerror-h/error_generic_command_failed/-2147010787/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

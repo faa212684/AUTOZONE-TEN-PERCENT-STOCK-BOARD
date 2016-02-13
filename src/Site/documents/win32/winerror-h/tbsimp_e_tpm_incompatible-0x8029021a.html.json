@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\tbsimp_e_tpm_incompatible\0x8029021a\index.html.json
+
+title: 0x8029021A TBSIMP_E_TPM_INCOMPATIBLE in winerror.h
+description: TBS is not compatible with the version of TPM found on the system.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8029021A",
+  "codeUrl": "/win32/winerror-h/tbsimp_e_tpm_incompatible/0x8029021a/",
+  "numericCode": -2144796134,
+  "define": "TBSIMP_E_TPM_INCOMPATIBLE",
+  "defineUrl": "/win32/winerror-h/tbsimp_e_tpm_incompatible/",
+  "message": "TBS is not compatible with the version of TPM found on the system.",
+  "remarks": null,
+  "aka": [
+    "-2144796134"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/tbsimp_e_tpm_incompatible/-2144796134/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

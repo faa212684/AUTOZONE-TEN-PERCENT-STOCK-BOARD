@@ -1,0 +1,28 @@
+---
+output: win32\bitsmsg-h\bg_e_proxy_list_too_large\0x80200018\index.html.json
+
+title: 0x80200018 BG_E_PROXY_LIST_TOO_LARGE in BitsMsg.h
+description: The HTTP proxy list cannot be longer than 32,000 characters. Try again with a shorter proxy list.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "BitsMsg.h",
+  "sourceUrl": "/win32/bitsmsg-h/",
+  "code": "0x80200018",
+  "codeUrl": "/win32/bitsmsg-h/bg_e_proxy_list_too_large/0x80200018/",
+  "numericCode": -2145386472,
+  "define": "BG_E_PROXY_LIST_TOO_LARGE",
+  "defineUrl": "/win32/bitsmsg-h/bg_e_proxy_list_too_large/",
+  "message": "The HTTP proxy list cannot be longer than 32,000 characters. Try again with a shorter proxy list.",
+  "remarks": null,
+  "aka": [
+    "-2145386472"
+  ],
+  "akaUrl": [
+    "/win32/bitsmsg-h/bg_e_proxy_list_too_large/-2145386472/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

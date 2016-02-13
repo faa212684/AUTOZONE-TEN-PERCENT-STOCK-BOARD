@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_ndis_interrupt_connect\0xc000138c\index.html.json
+
+title: 0xC000138C EVENT_NDIS_INTERRUPT_CONNECT in netevent.h
+description: %2 : Could not connect to the interrupt number supplied.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC000138C",
+  "codeUrl": "/win32/netevent-h/event_ndis_interrupt_connect/0xc000138c/",
+  "numericCode": -1073736820,
+  "define": "EVENT_NDIS_INTERRUPT_CONNECT",
+  "defineUrl": "/win32/netevent-h/event_ndis_interrupt_connect/",
+  "message": "%2 : Could not connect to the interrupt number supplied.",
+  "remarks": null,
+  "aka": [
+    "-1073736820"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_ndis_interrupt_connect/-1073736820/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

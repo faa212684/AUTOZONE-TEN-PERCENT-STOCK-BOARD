@@ -1,0 +1,28 @@
+---
+output: win32\mq-h\mq_error_resolve_address\0xc00e0099\index.html.json
+
+title: 0xC00E0099 MQ_ERROR_RESOLVE_ADDRESS in Mq.h
+description: Message Queuing is not able to resolve the address specified by the user. The address may be wrong or DNS look-up for address failed.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "Mq.h",
+  "sourceUrl": "/win32/mq-h/",
+  "code": "0xC00E0099",
+  "codeUrl": "/win32/mq-h/mq_error_resolve_address/0xc00e0099/",
+  "numericCode": -1072824167,
+  "define": "MQ_ERROR_RESOLVE_ADDRESS",
+  "defineUrl": "/win32/mq-h/mq_error_resolve_address/",
+  "message": "Message Queuing is not able to resolve the address specified by the user. The address may be wrong or DNS look-up for address failed.",
+  "remarks": null,
+  "aka": [
+    "-1072824167"
+  ],
+  "akaUrl": [
+    "/win32/mq-h/mq_error_resolve_address/-1072824167/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

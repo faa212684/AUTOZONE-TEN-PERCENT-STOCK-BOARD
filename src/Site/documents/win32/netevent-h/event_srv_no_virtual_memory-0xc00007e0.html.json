@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_srv_no_virtual_memory\0xc00007e0\index.html.json
+
+title: 0xC00007E0 EVENT_SRV_NO_VIRTUAL_MEMORY in netevent.h
+description: The server was unable to allocate virtual memory.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC00007E0",
+  "codeUrl": "/win32/netevent-h/event_srv_no_virtual_memory/0xc00007e0/",
+  "numericCode": -1073739808,
+  "define": "EVENT_SRV_NO_VIRTUAL_MEMORY",
+  "defineUrl": "/win32/netevent-h/event_srv_no_virtual_memory/",
+  "message": "The server was unable to allocate virtual memory.",
+  "remarks": null,
+  "aka": [
+    "-1073739808"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_srv_no_virtual_memory/-1073739808/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

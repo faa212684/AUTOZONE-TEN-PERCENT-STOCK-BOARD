@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\tpm_e_shortrandom\0x80280016\index.html.json
+
+title: 0x80280016 TPM_E_SHORTRANDOM in winerror.h
+description: A random string was too short.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80280016",
+  "codeUrl": "/win32/winerror-h/tpm_e_shortrandom/0x80280016/",
+  "numericCode": -2144862186,
+  "define": "TPM_E_SHORTRANDOM",
+  "defineUrl": "/win32/winerror-h/tpm_e_shortrandom/",
+  "message": "A random string was too short.",
+  "remarks": null,
+  "aka": [
+    "-2144862186"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/tpm_e_shortrandom/-2144862186/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

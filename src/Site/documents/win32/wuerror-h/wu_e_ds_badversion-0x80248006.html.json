@@ -1,0 +1,28 @@
+---
+output: win32\wuerror-h\wu_e_ds_badversion\0x80248006\index.html.json
+
+title: 0x80248006 WU_E_DS_BADVERSION in wuerror.h
+description: The current and expected versions of the data store do not match.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wuerror.h",
+  "sourceUrl": "/win32/wuerror-h/",
+  "code": "0x80248006",
+  "codeUrl": "/win32/wuerror-h/wu_e_ds_badversion/0x80248006/",
+  "numericCode": -2145091578,
+  "define": "WU_E_DS_BADVERSION",
+  "defineUrl": "/win32/wuerror-h/wu_e_ds_badversion/",
+  "message": "The current and expected versions of the data store do not match.",
+  "remarks": null,
+  "aka": [
+    "-2145091578"
+  ],
+  "akaUrl": [
+    "/win32/wuerror-h/wu_e_ds_badversion/-2145091578/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

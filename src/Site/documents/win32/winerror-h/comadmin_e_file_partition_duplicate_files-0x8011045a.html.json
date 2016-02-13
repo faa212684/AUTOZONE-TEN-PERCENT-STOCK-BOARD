@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\comadmin_e_file_partition_duplicate_files\0x8011045a\index.html.json
+
+title: 0x8011045A COMADMIN_E_FILE_PARTITION_DUPLICATE_FILES in winerror.h
+description: The partition cannot be exported, because one or more components in the partition have the same file name
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8011045A",
+  "codeUrl": "/win32/winerror-h/comadmin_e_file_partition_duplicate_files/0x8011045a/",
+  "numericCode": -2146368422,
+  "define": "COMADMIN_E_FILE_PARTITION_DUPLICATE_FILES",
+  "defineUrl": "/win32/winerror-h/comadmin_e_file_partition_duplicate_files/",
+  "message": "The partition cannot be exported, because one or more components in the partition have the same file name",
+  "remarks": null,
+  "aka": [
+    "-2146368422"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/comadmin_e_file_partition_duplicate_files/-2146368422/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

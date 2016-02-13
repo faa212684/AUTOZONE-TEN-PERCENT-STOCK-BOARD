@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\crypt_e_no_signer\0x8009200e\index.html.json
+
+title: 0x8009200E CRYPT_E_NO_SIGNER in winerror.h
+description: The signed cryptographic message does not have a signer for the specified signer index.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8009200E",
+  "codeUrl": "/win32/winerror-h/crypt_e_no_signer/0x8009200e/",
+  "numericCode": -2146885618,
+  "define": "CRYPT_E_NO_SIGNER",
+  "defineUrl": "/win32/winerror-h/crypt_e_no_signer/",
+  "message": "The signed cryptographic message does not have a signer for the specified signer index.",
+  "remarks": null,
+  "aka": [
+    "-2146885618"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/crypt_e_no_signer/-2146885618/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

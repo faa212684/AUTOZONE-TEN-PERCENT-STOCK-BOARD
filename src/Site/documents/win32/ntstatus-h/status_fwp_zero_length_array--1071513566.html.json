@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_fwp_zero_length_array\-1071513566\index.html.json
+canonical: /win32/ntstatus-h/status_fwp_zero_length_array/0xc0220022/
+title: -1071513566 STATUS_FWP_ZERO_LENGTH_ARRAY in ntstatus.h
+description: An array that must contain at least one element is zero length.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071513566",
+  "codeUrl": "/win32/ntstatus-h/status_fwp_zero_length_array/-1071513566/",
+  "numericCode": 0,
+  "define": "STATUS_FWP_ZERO_LENGTH_ARRAY",
+  "defineUrl": "/win32/ntstatus-h/status_fwp_zero_length_array/",
+  "message": "An array that must contain at least one element is zero length.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0220022",
+  "originalCodeUrl": "/win32/ntstatus-h/status_fwp_zero_length_array/0xc0220022/"
+}

@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\xact_e_protocol\0x8004d105\index.html.json
+
+title: 0x8004D105 XACT_E_PROTOCOL in winerror.h
+description: The interface call made was incorrect for the current state of the protocol.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8004D105",
+  "codeUrl": "/win32/winerror-h/xact_e_protocol/0x8004d105/",
+  "numericCode": -2147167995,
+  "define": "XACT_E_PROTOCOL",
+  "defineUrl": "/win32/winerror-h/xact_e_protocol/",
+  "message": "The interface call made was incorrect for the current state of the protocol.",
+  "remarks": null,
+  "aka": [
+    "-2147167995"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/xact_e_protocol/-2147167995/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

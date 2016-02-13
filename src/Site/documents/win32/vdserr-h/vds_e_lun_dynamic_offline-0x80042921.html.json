@@ -1,0 +1,30 @@
+---
+output: win32\vdserr-h\vds_e_lun_dynamic_offline\0x80042921\index.html.json
+
+title: 0x80042921 VDS_E_LUN_DYNAMIC_OFFLINE in vdserr.h
+description: The SHRINK operation against the selected LUN cannot be completed. 
+The current state of the disk associated with the LUN is DYNAMIC 
+OFFLINE.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x80042921",
+  "codeUrl": "/win32/vdserr-h/vds_e_lun_dynamic_offline/0x80042921/",
+  "numericCode": -2147210975,
+  "define": "VDS_E_LUN_DYNAMIC_OFFLINE",
+  "defineUrl": "/win32/vdserr-h/vds_e_lun_dynamic_offline/",
+  "message": "The SHRINK operation against the selected LUN cannot be completed. \r\nThe current state of the disk associated with the LUN is DYNAMIC \r\nOFFLINE.",
+  "remarks": null,
+  "aka": [
+    "-2147210975"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_lun_dynamic_offline/-2147210975/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

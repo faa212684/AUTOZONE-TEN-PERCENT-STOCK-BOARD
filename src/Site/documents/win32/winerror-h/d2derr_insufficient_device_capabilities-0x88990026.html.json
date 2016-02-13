@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\d2derr_insufficient_device_capabilities\0x88990026\index.html.json
+
+title: 0x88990026 D2DERR_INSUFFICIENT_DEVICE_CAPABILITIES in winerror.h
+description: D3D Device does not have sufficient capabilities to perform the requested action.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x88990026",
+  "codeUrl": "/win32/winerror-h/d2derr_insufficient_device_capabilities/0x88990026/",
+  "numericCode": -2003238874,
+  "define": "D2DERR_INSUFFICIENT_DEVICE_CAPABILITIES",
+  "defineUrl": "/win32/winerror-h/d2derr_insufficient_device_capabilities/",
+  "message": "D3D Device does not have sufficient capabilities to perform the requested action.",
+  "remarks": null,
+  "aka": [
+    "-2003238874"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/d2derr_insufficient_device_capabilities/-2003238874/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

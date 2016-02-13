@@ -1,0 +1,29 @@
+---
+output: win32\cdosyserr-h\evtunhandledexceptiondelete\0xc0032022\index.html.json
+
+title: 0xC0032022 evtUnhandledExceptionDelete in CDOSysErr.h
+description: Unhandled exception %1 caught during deletion notification.
+%n%nFor more information, click http:www.microsoft.com/contentredirect.asp.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "CDOSysErr.h",
+  "sourceUrl": "/win32/cdosyserr-h/",
+  "code": "0xC0032022",
+  "codeUrl": "/win32/cdosyserr-h/evtunhandledexceptiondelete/0xc0032022/",
+  "numericCode": -1073536990,
+  "define": "evtUnhandledExceptionDelete",
+  "defineUrl": "/win32/cdosyserr-h/evtunhandledexceptiondelete/",
+  "message": "Unhandled exception %1 caught during deletion notification.\r\n%n%nFor more information, click http:www.microsoft.com/contentredirect.asp.",
+  "remarks": null,
+  "aka": [
+    "-1073536990"
+  ],
+  "akaUrl": [
+    "/win32/cdosyserr-h/evtunhandledexceptiondelete/-1073536990/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

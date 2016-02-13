@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\rpc_nt_no_princ_name\0xc0020054\index.html.json
+
+title: 0xC0020054 RPC_NT_NO_PRINC_NAME in ntstatus.h
+description: No principal name registered.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0020054",
+  "codeUrl": "/win32/ntstatus-h/rpc_nt_no_princ_name/0xc0020054/",
+  "numericCode": -1073610668,
+  "define": "RPC_NT_NO_PRINC_NAME",
+  "defineUrl": "/win32/ntstatus-h/rpc_nt_no_princ_name/",
+  "message": "No principal name registered.",
+  "remarks": null,
+  "aka": [
+    "-1073610668"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/rpc_nt_no_princ_name/-1073610668/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

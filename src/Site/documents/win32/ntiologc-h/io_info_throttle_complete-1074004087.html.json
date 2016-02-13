@@ -1,0 +1,24 @@
+---
+output: win32\ntiologc-h\io_info_throttle_complete\1074004087\index.html.json
+canonical: /win32/ntiologc-h/io_info_throttle_complete/0x40040077/
+title: 1074004087 IO_INFO_THROTTLE_COMPLETE in ntiologc.h
+description: The driver for device %1 delayed non-paging Io requests for %2 ms to recover from a low memory condition.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntiologc.h",
+  "sourceUrl": "/win32/ntiologc-h/",
+  "code": "1074004087",
+  "codeUrl": "/win32/ntiologc-h/io_info_throttle_complete/1074004087/",
+  "numericCode": 0,
+  "define": "IO_INFO_THROTTLE_COMPLETE",
+  "defineUrl": "/win32/ntiologc-h/io_info_throttle_complete/",
+  "message": "The driver for device %1 delayed non-paging Io requests for %2 ms to recover from a low memory condition.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x40040077",
+  "originalCodeUrl": "/win32/ntiologc-h/io_info_throttle_complete/0x40040077/"
+}

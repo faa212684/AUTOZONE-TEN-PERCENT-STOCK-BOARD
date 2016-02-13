@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_fwp_callout_notification_failed\0xc0220037\index.html.json
+
+title: 0xC0220037 STATUS_FWP_CALLOUT_NOTIFICATION_FAILED in ntstatus.h
+description: The notification function for a callout returned an error.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0220037",
+  "codeUrl": "/win32/ntstatus-h/status_fwp_callout_notification_failed/0xc0220037/",
+  "numericCode": -1071513545,
+  "define": "STATUS_FWP_CALLOUT_NOTIFICATION_FAILED",
+  "defineUrl": "/win32/ntstatus-h/status_fwp_callout_notification_failed/",
+  "message": "The notification function for a callout returned an error.",
+  "remarks": null,
+  "aka": [
+    "-1071513545"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_fwp_callout_notification_failed/-1071513545/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

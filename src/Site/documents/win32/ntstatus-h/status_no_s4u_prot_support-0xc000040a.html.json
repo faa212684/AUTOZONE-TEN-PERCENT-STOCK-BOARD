@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_no_s4u_prot_support\0xc000040a\index.html.json
+
+title: 0xC000040A STATUS_NO_S4U_PROT_SUPPORT in ntstatus.h
+description: The Kerberos subsystem encountered an error. A service for user protocol request was made against a domain controller which does not support service for user.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000040A",
+  "codeUrl": "/win32/ntstatus-h/status_no_s4u_prot_support/0xc000040a/",
+  "numericCode": -1073740790,
+  "define": "STATUS_NO_S4U_PROT_SUPPORT",
+  "defineUrl": "/win32/ntstatus-h/status_no_s4u_prot_support/",
+  "message": "The Kerberos subsystem encountered an error. A service for user protocol request was made against a domain controller which does not support service for user.",
+  "remarks": null,
+  "aka": [
+    "-1073740790"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_no_s4u_prot_support/-1073740790/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

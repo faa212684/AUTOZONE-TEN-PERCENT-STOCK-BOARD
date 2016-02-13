@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_fwp_tcpip_not_ready\0xc0220100\index.html.json
+
+title: 0xC0220100 STATUS_FWP_TCPIP_NOT_READY in ntstatus.h
+description: The TCP/IP stack is not ready.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0220100",
+  "codeUrl": "/win32/ntstatus-h/status_fwp_tcpip_not_ready/0xc0220100/",
+  "numericCode": -1071513344,
+  "define": "STATUS_FWP_TCPIP_NOT_READY",
+  "defineUrl": "/win32/ntstatus-h/status_fwp_tcpip_not_ready/",
+  "message": "The TCP/IP stack is not ready.",
+  "remarks": null,
+  "aka": [
+    "-1071513344"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_fwp_tcpip_not_ready/-1071513344/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

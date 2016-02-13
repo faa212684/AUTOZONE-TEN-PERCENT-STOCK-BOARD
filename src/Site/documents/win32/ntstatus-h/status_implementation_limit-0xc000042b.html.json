@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_implementation_limit\0xc000042b\index.html.json
+
+title: 0xC000042B STATUS_IMPLEMENTATION_LIMIT in ntstatus.h
+description: An operation attempted to exceed an implementation-defined limit.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000042B",
+  "codeUrl": "/win32/ntstatus-h/status_implementation_limit/0xc000042b/",
+  "numericCode": -1073740757,
+  "define": "STATUS_IMPLEMENTATION_LIMIT",
+  "defineUrl": "/win32/ntstatus-h/status_implementation_limit/",
+  "message": "An operation attempted to exceed an implementation-defined limit.",
+  "remarks": null,
+  "aka": [
+    "-1073740757"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_implementation_limit/-1073740757/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

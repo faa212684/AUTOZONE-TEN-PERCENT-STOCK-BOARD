@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\spapi_e_no_configmgr_services\0x800f0223\index.html.json
+
+title: 0x800F0223 SPAPI_E_NO_CONFIGMGR_SERVICES in winerror.h
+description: The Plug and Play service is not available on the remote machine.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800F0223",
+  "codeUrl": "/win32/winerror-h/spapi_e_no_configmgr_services/0x800f0223/",
+  "numericCode": -2146500061,
+  "define": "SPAPI_E_NO_CONFIGMGR_SERVICES",
+  "defineUrl": "/win32/winerror-h/spapi_e_no_configmgr_services/",
+  "message": "The Plug and Play service is not available on the remote machine.",
+  "remarks": null,
+  "aka": [
+    "-2146500061"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/spapi_e_no_configmgr_services/-2146500061/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

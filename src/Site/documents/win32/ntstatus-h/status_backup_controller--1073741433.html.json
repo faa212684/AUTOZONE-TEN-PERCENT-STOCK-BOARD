@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_backup_controller\-1073741433\index.html.json
+canonical: /win32/ntstatus-h/status_backup_controller/0xc0000187/
+title: -1073741433 STATUS_BACKUP_CONTROLLER in ntstatus.h
+description: This operation is only allowed for the Primary Domain Controller of the domain.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741433",
+  "codeUrl": "/win32/ntstatus-h/status_backup_controller/-1073741433/",
+  "numericCode": 0,
+  "define": "STATUS_BACKUP_CONTROLLER",
+  "defineUrl": "/win32/ntstatus-h/status_backup_controller/",
+  "message": "This operation is only allowed for the Primary Domain Controller of the domain.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000187",
+  "originalCodeUrl": "/win32/ntstatus-h/status_backup_controller/0xc0000187/"
+}

@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_connection_reset\-1073741299\index.html.json
+canonical: /win32/ntstatus-h/status_connection_reset/0xc000020d/
+title: -1073741299 STATUS_CONNECTION_RESET in ntstatus.h
+description: The transport connection has been reset.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741299",
+  "codeUrl": "/win32/ntstatus-h/status_connection_reset/-1073741299/",
+  "numericCode": 0,
+  "define": "STATUS_CONNECTION_RESET",
+  "defineUrl": "/win32/ntstatus-h/status_connection_reset/",
+  "message": "The transport connection has been reset.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC000020D",
+  "originalCodeUrl": "/win32/ntstatus-h/status_connection_reset/0xc000020d/"
+}

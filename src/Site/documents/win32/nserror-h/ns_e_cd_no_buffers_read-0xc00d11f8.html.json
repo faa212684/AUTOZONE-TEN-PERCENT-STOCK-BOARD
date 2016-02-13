@@ -1,0 +1,28 @@
+---
+output: win32\nserror-h\ns_e_cd_no_buffers_read\0xc00d11f8\index.html.json
+
+title: 0xC00D11F8 NS_E_CD_NO_BUFFERS_READ in nserror.h
+description: Windows Media Player could not use digital mode to read the CD. The Player has automatically switched the CD drive to analog mode. To switch back to digital mode, use the Devices tab.%0
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "nserror.h",
+  "sourceUrl": "/win32/nserror-h/",
+  "code": "0xC00D11F8",
+  "codeUrl": "/win32/nserror-h/ns_e_cd_no_buffers_read/0xc00d11f8/",
+  "numericCode": -1072885256,
+  "define": "NS_E_CD_NO_BUFFERS_READ",
+  "defineUrl": "/win32/nserror-h/ns_e_cd_no_buffers_read/",
+  "message": "Windows Media Player could not use digital mode to read the CD. The Player has automatically switched the CD drive to analog mode. To switch back to digital mode, use the Devices tab.%0",
+  "remarks": null,
+  "aka": [
+    "-1072885256"
+  ],
+  "akaUrl": [
+    "/win32/nserror-h/ns_e_cd_no_buffers_read/-1072885256/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

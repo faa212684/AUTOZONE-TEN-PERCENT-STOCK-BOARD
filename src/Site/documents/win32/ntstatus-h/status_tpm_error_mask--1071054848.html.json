@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_tpm_error_mask\-1071054848\index.html.json
+canonical: /win32/ntstatus-h/status_tpm_error_mask/0xc0290000/
+title: -1071054848 STATUS_TPM_ERROR_MASK in ntstatus.h
+description: This is an error mask to convert TPM hardware errors to win errors.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071054848",
+  "codeUrl": "/win32/ntstatus-h/status_tpm_error_mask/-1071054848/",
+  "numericCode": 0,
+  "define": "STATUS_TPM_ERROR_MASK",
+  "defineUrl": "/win32/ntstatus-h/status_tpm_error_mask/",
+  "message": "This is an error mask to convert TPM hardware errors to win errors.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0290000",
+  "originalCodeUrl": "/win32/ntstatus-h/status_tpm_error_mask/0xc0290000/"
+}

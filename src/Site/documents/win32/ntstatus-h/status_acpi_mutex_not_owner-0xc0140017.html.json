@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_acpi_mutex_not_owner\0xc0140017\index.html.json
+
+title: 0xC0140017 STATUS_ACPI_MUTEX_NOT_OWNER in ntstatus.h
+description: An attempt was made to access the mutex by a process that was not the owner
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0140017",
+  "codeUrl": "/win32/ntstatus-h/status_acpi_mutex_not_owner/0xc0140017/",
+  "numericCode": -1072431081,
+  "define": "STATUS_ACPI_MUTEX_NOT_OWNER",
+  "defineUrl": "/win32/ntstatus-h/status_acpi_mutex_not_owner/",
+  "message": "An attempt was made to access the mutex by a process that was not the owner",
+  "remarks": null,
+  "aka": [
+    "-1072431081"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_acpi_mutex_not_owner/-1072431081/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

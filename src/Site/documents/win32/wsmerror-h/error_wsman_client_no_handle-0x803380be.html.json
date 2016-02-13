@@ -1,0 +1,29 @@
+---
+output: win32\wsmerror-h\error_wsman_client_no_handle\0x803380be\index.html.json
+
+title: 0x803380BE ERROR_WSMAN_CLIENT_NO_HANDLE in wsmerror.h
+description: The WinRM client cannot process the request. The request is missing the session or enumeration handle.
+Change the request to include the missing parameter and try again.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x803380BE",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_client_no_handle/0x803380be/",
+  "numericCode": -2144108354,
+  "define": "ERROR_WSMAN_CLIENT_NO_HANDLE",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_client_no_handle/",
+  "message": "The WinRM client cannot process the request. The request is missing the session or enumeration handle.\r\nChange the request to include the missing parameter and try again.",
+  "remarks": null,
+  "aka": [
+    "-2144108354"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_client_no_handle/-2144108354/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

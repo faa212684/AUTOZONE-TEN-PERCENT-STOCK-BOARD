@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_bth_att_invalid_offset\0xc0420007\index.html.json
+
+title: 0xC0420007 STATUS_BTH_ATT_INVALID_OFFSET in ntstatus.h
+description: Offset specified was past the end of the attribute.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0420007",
+  "codeUrl": "/win32/ntstatus-h/status_bth_att_invalid_offset/0xc0420007/",
+  "numericCode": -1069416441,
+  "define": "STATUS_BTH_ATT_INVALID_OFFSET",
+  "defineUrl": "/win32/ntstatus-h/status_bth_att_invalid_offset/",
+  "message": "Offset specified was past the end of the attribute.",
+  "remarks": null,
+  "aka": [
+    "-1069416441"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_bth_att_invalid_offset/-1069416441/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

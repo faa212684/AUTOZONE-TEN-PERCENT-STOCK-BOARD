@@ -1,0 +1,29 @@
+---
+output: win32\netevent-h\event_tcpip_media_connect\0x40001069\index.html.json
+
+title: 0x40001069 EVENT_TCPIP_MEDIA_CONNECT in netevent.h
+description: The system detected that network adapter %2 was connected to the network,
+and has initiated normal operation.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x40001069",
+  "codeUrl": "/win32/netevent-h/event_tcpip_media_connect/0x40001069/",
+  "numericCode": 1073746025,
+  "define": "EVENT_TCPIP_MEDIA_CONNECT",
+  "defineUrl": "/win32/netevent-h/event_tcpip_media_connect/",
+  "message": "The system detected that network adapter %2 was connected to the network,\r\nand has initiated normal operation.",
+  "remarks": null,
+  "aka": [
+    "1073746025"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_tcpip_media_connect/1073746025/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

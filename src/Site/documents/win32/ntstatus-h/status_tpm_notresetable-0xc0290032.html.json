@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_tpm_notresetable\0xc0290032\index.html.json
+
+title: 0xC0290032 STATUS_TPM_NOTRESETABLE in ntstatus.h
+description: Attempt to reset a PCR register that does not have the resettable attribute.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0290032",
+  "codeUrl": "/win32/ntstatus-h/status_tpm_notresetable/0xc0290032/",
+  "numericCode": -1071054798,
+  "define": "STATUS_TPM_NOTRESETABLE",
+  "defineUrl": "/win32/ntstatus-h/status_tpm_notresetable/",
+  "message": "Attempt to reset a PCR register that does not have the resettable attribute.",
+  "remarks": null,
+  "aka": [
+    "-1071054798"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_tpm_notresetable/-1071054798/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\rpc_x_ss_handles_mismatch\-2147023118\index.html.json
+canonical: /win32/winerror-h/rpc_x_ss_handles_mismatch/1778/
+title: -2147023118 RPC_X_SS_HANDLES_MISMATCH in winerror.h
+description: The binding handles passed to a remote procedure call do not match.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147023118",
+  "codeUrl": "/win32/winerror-h/rpc_x_ss_handles_mismatch/-2147023118/",
+  "numericCode": 0,
+  "define": "RPC_X_SS_HANDLES_MISMATCH",
+  "defineUrl": "/win32/winerror-h/rpc_x_ss_handles_mismatch/",
+  "message": "The binding handles passed to a remote procedure call do not match.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "1778",
+  "originalCodeUrl": "/win32/winerror-h/rpc_x_ss_handles_mismatch/1778/"
+}

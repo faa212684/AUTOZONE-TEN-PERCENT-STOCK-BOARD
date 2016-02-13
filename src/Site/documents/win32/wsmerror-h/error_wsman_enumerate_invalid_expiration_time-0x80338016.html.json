@@ -1,0 +1,29 @@
+---
+output: win32\wsmerror-h\error_wsman_enumerate_invalid_expiration_time\0x80338016\index.html.json
+
+title: 0x80338016 ERROR_WSMAN_ENUMERATE_INVALID_EXPIRATION_TIME in wsmerror.h
+description: The expiration time passed to the WS-Management Enumerate method is not valid. The time value may be zero
+or refer to a time in the past. Change the expiration time and try the request again.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x80338016",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_enumerate_invalid_expiration_time/0x80338016/",
+  "numericCode": -2144108522,
+  "define": "ERROR_WSMAN_ENUMERATE_INVALID_EXPIRATION_TIME",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_enumerate_invalid_expiration_time/",
+  "message": "The expiration time passed to the WS-Management Enumerate method is not valid. The time value may be zero\r\nor refer to a time in the past. Change the expiration time and try the request again.",
+  "remarks": null,
+  "aka": [
+    "-2144108522"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_enumerate_invalid_expiration_time/-2144108522/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

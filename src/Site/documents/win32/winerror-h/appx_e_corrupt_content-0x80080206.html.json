@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\appx_e_corrupt_content\0x80080206\index.html.json
+
+title: 0x80080206 APPX_E_CORRUPT_CONTENT in winerror.h
+description: The Appx package's content cannot be read because it is corrupt.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80080206",
+  "codeUrl": "/win32/winerror-h/appx_e_corrupt_content/0x80080206/",
+  "numericCode": -2146958842,
+  "define": "APPX_E_CORRUPT_CONTENT",
+  "defineUrl": "/win32/winerror-h/appx_e_corrupt_content/",
+  "message": "The Appx package's content cannot be read because it is corrupt.",
+  "remarks": null,
+  "aka": [
+    "-2146958842"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/appx_e_corrupt_content/-2146958842/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

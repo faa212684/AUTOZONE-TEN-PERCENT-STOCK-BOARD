@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_delete_pending\0xc0000056\index.html.json
+
+title: 0xC0000056 STATUS_DELETE_PENDING in ntstatus.h
+description: A non close operation has been requested of a file object with a delete pending.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000056",
+  "codeUrl": "/win32/ntstatus-h/status_delete_pending/0xc0000056/",
+  "numericCode": -1073741738,
+  "define": "STATUS_DELETE_PENDING",
+  "defineUrl": "/win32/ntstatus-h/status_delete_pending/",
+  "message": "A non close operation has been requested of a file object with a delete pending.",
+  "remarks": null,
+  "aka": [
+    "-1073741738"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_delete_pending/-1073741738/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

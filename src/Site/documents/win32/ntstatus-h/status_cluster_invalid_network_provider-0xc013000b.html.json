@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_cluster_invalid_network_provider\0xc013000b\index.html.json
+
+title: 0xC013000B STATUS_CLUSTER_INVALID_NETWORK_PROVIDER in ntstatus.h
+description: The cluster network provider is not valid.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC013000B",
+  "codeUrl": "/win32/ntstatus-h/status_cluster_invalid_network_provider/0xc013000b/",
+  "numericCode": -1072496629,
+  "define": "STATUS_CLUSTER_INVALID_NETWORK_PROVIDER",
+  "defineUrl": "/win32/ntstatus-h/status_cluster_invalid_network_provider/",
+  "message": "The cluster network provider is not valid.",
+  "remarks": null,
+  "aka": [
+    "-1072496629"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_cluster_invalid_network_provider/-1072496629/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,29 @@
+---
+output: win32\vdserr-h\vds_e_driver_no_pack_name\0x8004250d\index.html.json
+
+title: 0x8004250D VDS_E_DRIVER_NO_PACK_NAME in vdserr.h
+description: The volume management driver did not return a pack name. 
+Internal driver error.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x8004250D",
+  "codeUrl": "/win32/vdserr-h/vds_e_driver_no_pack_name/0x8004250d/",
+  "numericCode": -2147212019,
+  "define": "VDS_E_DRIVER_NO_PACK_NAME",
+  "defineUrl": "/win32/vdserr-h/vds_e_driver_no_pack_name/",
+  "message": "The volume management driver did not return a pack name. \r\nInternal driver error.",
+  "remarks": null,
+  "aka": [
+    "-2147212019"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_driver_no_pack_name/-2147212019/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

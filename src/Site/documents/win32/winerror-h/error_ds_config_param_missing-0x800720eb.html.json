@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_ds_config_param_missing\0x800720eb\index.html.json
+canonical: /win32/winerror-h/error_ds_config_param_missing/8427/
+title: 0x800720eb ERROR_DS_CONFIG_PARAM_MISSING in winerror.h
+description: The directory configuration parameter is missing from the registry.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800720eb",
+  "codeUrl": "/win32/winerror-h/error_ds_config_param_missing/0x800720eb/",
+  "numericCode": 0,
+  "define": "ERROR_DS_CONFIG_PARAM_MISSING",
+  "defineUrl": "/win32/winerror-h/error_ds_config_param_missing/",
+  "message": "The directory configuration parameter is missing from the registry.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "8427",
+  "originalCodeUrl": "/win32/winerror-h/error_ds_config_param_missing/8427/"
+}

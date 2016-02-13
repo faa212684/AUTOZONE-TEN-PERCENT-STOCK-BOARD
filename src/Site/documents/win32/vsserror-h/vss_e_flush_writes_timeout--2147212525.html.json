@@ -1,0 +1,24 @@
+---
+output: win32\vsserror-h\vss_e_flush_writes_timeout\-2147212525\index.html.json
+canonical: /win32/vsserror-h/vss_e_flush_writes_timeout/0x80042313/
+title: -2147212525 VSS_E_FLUSH_WRITES_TIMEOUT in vsserror.h
+description: The shadow copy provider timed out while flushing data to the volume being shadow copied. This is probably due to excessive activity on the volume. Try again later when the volume is not being used so heavily.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vsserror.h",
+  "sourceUrl": "/win32/vsserror-h/",
+  "code": "-2147212525",
+  "codeUrl": "/win32/vsserror-h/vss_e_flush_writes_timeout/-2147212525/",
+  "numericCode": 0,
+  "define": "VSS_E_FLUSH_WRITES_TIMEOUT",
+  "defineUrl": "/win32/vsserror-h/vss_e_flush_writes_timeout/",
+  "message": "The shadow copy provider timed out while flushing data to the volume being shadow copied. This is probably due to excessive activity on the volume. Try again later when the volume is not being used so heavily.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80042313",
+  "originalCodeUrl": "/win32/vsserror-h/vss_e_flush_writes_timeout/0x80042313/"
+}

@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_ds_audit_failure\0x800721b1\index.html.json
+canonical: /win32/winerror-h/error_ds_audit_failure/8625/
+title: 0x800721b1 ERROR_DS_AUDIT_FAILURE in winerror.h
+description: A required audit event could not be generated for the operation.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800721b1",
+  "codeUrl": "/win32/winerror-h/error_ds_audit_failure/0x800721b1/",
+  "numericCode": 0,
+  "define": "ERROR_DS_AUDIT_FAILURE",
+  "defineUrl": "/win32/winerror-h/error_ds_audit_failure/",
+  "message": "A required audit event could not be generated for the operation.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "8625",
+  "originalCodeUrl": "/win32/winerror-h/error_ds_audit_failure/8625/"
+}

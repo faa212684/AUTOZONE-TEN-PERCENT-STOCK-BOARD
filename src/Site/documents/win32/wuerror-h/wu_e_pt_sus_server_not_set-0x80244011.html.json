@@ -1,0 +1,28 @@
+---
+output: win32\wuerror-h\wu_e_pt_sus_server_not_set\0x80244011\index.html.json
+
+title: 0x80244011 WU_E_PT_SUS_SERVER_NOT_SET in wuerror.h
+description: WUServer policy value is missing in the registry.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wuerror.h",
+  "sourceUrl": "/win32/wuerror-h/",
+  "code": "0x80244011",
+  "codeUrl": "/win32/wuerror-h/wu_e_pt_sus_server_not_set/0x80244011/",
+  "numericCode": -2145107951,
+  "define": "WU_E_PT_SUS_SERVER_NOT_SET",
+  "defineUrl": "/win32/wuerror-h/wu_e_pt_sus_server_not_set/",
+  "message": "WUServer policy value is missing in the registry.",
+  "remarks": null,
+  "aka": [
+    "-2145107951"
+  ],
+  "akaUrl": [
+    "/win32/wuerror-h/wu_e_pt_sus_server_not_set/-2145107951/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\rpc_nt_ss_char_trans_short_file\0xc0030003\index.html.json
+
+title: 0xC0030003 RPC_NT_SS_CHAR_TRANS_SHORT_FILE in ntstatus.h
+description: The file containing the character translation table has fewer than 512 bytes.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0030003",
+  "codeUrl": "/win32/ntstatus-h/rpc_nt_ss_char_trans_short_file/0xc0030003/",
+  "numericCode": -1073545213,
+  "define": "RPC_NT_SS_CHAR_TRANS_SHORT_FILE",
+  "defineUrl": "/win32/ntstatus-h/rpc_nt_ss_char_trans_short_file/",
+  "message": "The file containing the character translation table has fewer than 512 bytes.",
+  "remarks": null,
+  "aka": [
+    "-1073545213"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/rpc_nt_ss_char_trans_short_file/-1073545213/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

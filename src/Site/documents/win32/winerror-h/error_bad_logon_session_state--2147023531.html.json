@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_bad_logon_session_state\-2147023531\index.html.json
+canonical: /win32/winerror-h/error_bad_logon_session_state/1365/
+title: -2147023531 ERROR_BAD_LOGON_SESSION_STATE in winerror.h
+description: The logon session is not in a state that is consistent with the requested operation.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147023531",
+  "codeUrl": "/win32/winerror-h/error_bad_logon_session_state/-2147023531/",
+  "numericCode": 0,
+  "define": "ERROR_BAD_LOGON_SESSION_STATE",
+  "defineUrl": "/win32/winerror-h/error_bad_logon_session_state/",
+  "message": "The logon session is not in a state that is consistent with the requested operation.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "1365",
+  "originalCodeUrl": "/win32/winerror-h/error_bad_logon_session_state/1365/"
+}

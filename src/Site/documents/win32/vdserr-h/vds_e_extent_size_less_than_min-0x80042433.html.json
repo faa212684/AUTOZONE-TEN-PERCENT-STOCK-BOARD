@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_e_extent_size_less_than_min\0x80042433\index.html.json
+
+title: 0x80042433 VDS_E_EXTENT_SIZE_LESS_THAN_MIN in vdserr.h
+description: The size of the extent is less than the minimum.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x80042433",
+  "codeUrl": "/win32/vdserr-h/vds_e_extent_size_less_than_min/0x80042433/",
+  "numericCode": -2147212237,
+  "define": "VDS_E_EXTENT_SIZE_LESS_THAN_MIN",
+  "defineUrl": "/win32/vdserr-h/vds_e_extent_size_less_than_min/",
+  "message": "The size of the extent is less than the minimum.",
+  "remarks": null,
+  "aka": [
+    "-2147212237"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_extent_size_less_than_min/-2147212237/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

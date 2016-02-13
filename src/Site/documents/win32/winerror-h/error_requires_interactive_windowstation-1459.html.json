@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_requires_interactive_windowstation\1459\index.html.json
+
+title: 1459 ERROR_REQUIRES_INTERACTIVE_WINDOWSTATION in winerror.h
+description: This operation requires an interactive window station.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1459",
+  "codeUrl": "/win32/winerror-h/error_requires_interactive_windowstation/1459/",
+  "numericCode": 1459,
+  "define": "ERROR_REQUIRES_INTERACTIVE_WINDOWSTATION",
+  "defineUrl": "/win32/winerror-h/error_requires_interactive_windowstation/",
+  "message": "This operation requires an interactive window station.",
+  "remarks": null,
+  "aka": [
+    "0x800705b3",
+    "-2147023437"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_requires_interactive_windowstation/0x800705b3/",
+    "/win32/winerror-h/error_requires_interactive_windowstation/-2147023437/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

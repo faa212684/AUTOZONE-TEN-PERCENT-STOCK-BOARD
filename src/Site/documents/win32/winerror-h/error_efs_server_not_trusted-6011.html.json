@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_efs_server_not_trusted\6011\index.html.json
+
+title: 6011 ERROR_EFS_SERVER_NOT_TRUSTED in winerror.h
+description: The server is not trusted for remote encryption operation.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "6011",
+  "codeUrl": "/win32/winerror-h/error_efs_server_not_trusted/6011/",
+  "numericCode": 6011,
+  "define": "ERROR_EFS_SERVER_NOT_TRUSTED",
+  "defineUrl": "/win32/winerror-h/error_efs_server_not_trusted/",
+  "message": "The server is not trusted for remote encryption operation.",
+  "remarks": null,
+  "aka": [
+    "0x8007177b",
+    "-2147018885"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_efs_server_not_trusted/0x8007177b/",
+    "/win32/winerror-h/error_efs_server_not_trusted/-2147018885/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

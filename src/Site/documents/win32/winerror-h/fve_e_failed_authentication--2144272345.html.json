@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\fve_e_failed_authentication\-2144272345\index.html.json
+canonical: /win32/winerror-h/fve_e_failed_authentication/0x80310027/
+title: -2144272345 FVE_E_FAILED_AUTHENTICATION in winerror.h
+description: The drive cannot be unlocked with the key provided. Confirm that you have provided the correct key and try again.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2144272345",
+  "codeUrl": "/win32/winerror-h/fve_e_failed_authentication/-2144272345/",
+  "numericCode": 0,
+  "define": "FVE_E_FAILED_AUTHENTICATION",
+  "defineUrl": "/win32/winerror-h/fve_e_failed_authentication/",
+  "message": "The drive cannot be unlocked with the key provided. Confirm that you have provided the correct key and try again.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80310027",
+  "originalCodeUrl": "/win32/winerror-h/fve_e_failed_authentication/0x80310027/"
+}

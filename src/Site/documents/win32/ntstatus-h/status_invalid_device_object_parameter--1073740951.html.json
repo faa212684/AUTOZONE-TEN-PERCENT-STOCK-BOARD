@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_invalid_device_object_parameter\-1073740951\index.html.json
+canonical: /win32/ntstatus-h/status_invalid_device_object_parameter/0xc0000369/
+title: -1073740951 STATUS_INVALID_DEVICE_OBJECT_PARAMETER in ntstatus.h
+description: The device object parameter is either not a valid device object or is not attached to the volume specified by the file name.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073740951",
+  "codeUrl": "/win32/ntstatus-h/status_invalid_device_object_parameter/-1073740951/",
+  "numericCode": 0,
+  "define": "STATUS_INVALID_DEVICE_OBJECT_PARAMETER",
+  "defineUrl": "/win32/ntstatus-h/status_invalid_device_object_parameter/",
+  "message": "The device object parameter is either not a valid device object or is not attached to the volume specified by the file name.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000369",
+  "originalCodeUrl": "/win32/ntstatus-h/status_invalid_device_object_parameter/0xc0000369/"
+}

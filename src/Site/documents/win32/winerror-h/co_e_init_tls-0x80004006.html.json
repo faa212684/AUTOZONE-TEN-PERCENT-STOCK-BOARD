@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\co_e_init_tls\0x80004006\index.html.json
+
+title: 0x80004006 CO_E_INIT_TLS in winerror.h
+description: Thread local storage failure
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80004006",
+  "codeUrl": "/win32/winerror-h/co_e_init_tls/0x80004006/",
+  "numericCode": -2147467258,
+  "define": "CO_E_INIT_TLS",
+  "defineUrl": "/win32/winerror-h/co_e_init_tls/",
+  "message": "Thread local storage failure",
+  "remarks": null,
+  "aka": [
+    "-2147467258"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/co_e_init_tls/-2147467258/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

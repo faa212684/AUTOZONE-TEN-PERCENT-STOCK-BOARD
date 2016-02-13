@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_cluster_network_not_found\0xc0130007\index.html.json
+
+title: 0xC0130007 STATUS_CLUSTER_NETWORK_NOT_FOUND in ntstatus.h
+description: The cluster network was not found.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0130007",
+  "codeUrl": "/win32/ntstatus-h/status_cluster_network_not_found/0xc0130007/",
+  "numericCode": -1072496633,
+  "define": "STATUS_CLUSTER_NETWORK_NOT_FOUND",
+  "defineUrl": "/win32/ntstatus-h/status_cluster_network_not_found/",
+  "message": "The cluster network was not found.",
+  "remarks": null,
+  "aka": [
+    "-1072496633"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_cluster_network_not_found/-1072496633/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

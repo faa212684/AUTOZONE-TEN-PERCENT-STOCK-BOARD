@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_system_trace\150\index.html.json
+
+title: 150 ERROR_SYSTEM_TRACE in winerror.h
+description: System trace information was not specified in your CONFIG.SYS file, or tracing is disallowed.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "150",
+  "codeUrl": "/win32/winerror-h/error_system_trace/150/",
+  "numericCode": 150,
+  "define": "ERROR_SYSTEM_TRACE",
+  "defineUrl": "/win32/winerror-h/error_system_trace/",
+  "message": "System trace information was not specified in your CONFIG.SYS file, or tracing is disallowed.",
+  "remarks": null,
+  "aka": [
+    "0x80070096",
+    "-2147024746"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_system_trace/0x80070096/",
+    "/win32/winerror-h/error_system_trace/-2147024746/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

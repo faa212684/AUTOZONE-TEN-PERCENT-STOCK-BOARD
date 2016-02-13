@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_transaction_not_root\6721\index.html.json
+
+title: 6721 ERROR_TRANSACTION_NOT_ROOT in winerror.h
+description: The call to create a superior Enlistment on this Transaction object could not be completed, because the Transaction object specified for the enlistment is a subordinate branch of the Transaction. Only the root of the Transaction can be enlisted on as a superior.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "6721",
+  "codeUrl": "/win32/winerror-h/error_transaction_not_root/6721/",
+  "numericCode": 6721,
+  "define": "ERROR_TRANSACTION_NOT_ROOT",
+  "defineUrl": "/win32/winerror-h/error_transaction_not_root/",
+  "message": "The call to create a superior Enlistment on this Transaction object could not be completed, because the Transaction object specified for the enlistment is a subordinate branch of the Transaction. Only the root of the Transaction can be enlisted on as a superior.",
+  "remarks": null,
+  "aka": [
+    "0x80071a41",
+    "-2147018175"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_transaction_not_root/0x80071a41/",
+    "/win32/winerror-h/error_transaction_not_root/-2147018175/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

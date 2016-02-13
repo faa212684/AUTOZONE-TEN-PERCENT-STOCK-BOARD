@@ -1,0 +1,25 @@
+---
+output: win32\vsserror-h\vss_e_corrupt_xml_document\-2147212528\index.html.json
+canonical: /win32/vsserror-h/vss_e_corrupt_xml_document/0x80042310/
+title: -2147212528 VSS_E_CORRUPT_XML_DOCUMENT in vsserror.h
+description: The given XML document is invalid.  It is either incorrectly-formed XML or it does not match the
+schema.  This error code is deprecated.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vsserror.h",
+  "sourceUrl": "/win32/vsserror-h/",
+  "code": "-2147212528",
+  "codeUrl": "/win32/vsserror-h/vss_e_corrupt_xml_document/-2147212528/",
+  "numericCode": 0,
+  "define": "VSS_E_CORRUPT_XML_DOCUMENT",
+  "defineUrl": "/win32/vsserror-h/vss_e_corrupt_xml_document/",
+  "message": "The given XML document is invalid.  It is either incorrectly-formed XML or it does not match the\r\nschema.  This error code is deprecated.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80042310",
+  "originalCodeUrl": "/win32/vsserror-h/vss_e_corrupt_xml_document/0x80042310/"
+}

@@ -1,0 +1,28 @@
+---
+output: win32\bitsmsg-h\bg_e_maxdownload_timeout\0x80200054\index.html.json
+
+title: 0x80200054 BG_E_MAXDOWNLOAD_TIMEOUT in BitsMsg.h
+description: BITS timed out downloading the job. The download did not complete within the maximum download time set on the job.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "BitsMsg.h",
+  "sourceUrl": "/win32/bitsmsg-h/",
+  "code": "0x80200054",
+  "codeUrl": "/win32/bitsmsg-h/bg_e_maxdownload_timeout/0x80200054/",
+  "numericCode": -2145386412,
+  "define": "BG_E_MAXDOWNLOAD_TIMEOUT",
+  "defineUrl": "/win32/bitsmsg-h/bg_e_maxdownload_timeout/",
+  "message": "BITS timed out downloading the job. The download did not complete within the maximum download time set on the job.",
+  "remarks": null,
+  "aka": [
+    "-2145386412"
+  ],
+  "akaUrl": [
+    "/win32/bitsmsg-h/bg_e_maxdownload_timeout/-2145386412/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

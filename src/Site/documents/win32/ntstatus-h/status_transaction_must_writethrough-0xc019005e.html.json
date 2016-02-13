@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_transaction_must_writethrough\0xc019005e\index.html.json
+
+title: 0xC019005E STATUS_TRANSACTION_MUST_WRITETHROUGH in ntstatus.h
+description: The transaction cannot be enlisted on with the specified EnlistmentMask, because the transaction has already completed the PrePrepare phase.  In order to ensure correctness, the ResourceManager must switch to a write-through mode and cease caching data within this transaction.  Enlisting for only subsequent transaction phases may still succeed.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC019005E",
+  "codeUrl": "/win32/ntstatus-h/status_transaction_must_writethrough/0xc019005e/",
+  "numericCode": -1072103330,
+  "define": "STATUS_TRANSACTION_MUST_WRITETHROUGH",
+  "defineUrl": "/win32/ntstatus-h/status_transaction_must_writethrough/",
+  "message": "The transaction cannot be enlisted on with the specified EnlistmentMask, because the transaction has already completed the PrePrepare phase.  In order to ensure correctness, the ResourceManager must switch to a write-through mode and cease caching data within this transaction.  Enlisting for only subsequent transaction phases may still succeed.",
+  "remarks": null,
+  "aka": [
+    "-1072103330"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_transaction_must_writethrough/-1072103330/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

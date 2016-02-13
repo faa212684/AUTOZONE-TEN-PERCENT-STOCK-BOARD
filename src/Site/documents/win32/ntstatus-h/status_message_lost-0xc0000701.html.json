@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_message_lost\0xc0000701\index.html.json
+
+title: 0xC0000701 STATUS_MESSAGE_LOST in ntstatus.h
+description: The ALPC message requested is no longer available.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000701",
+  "codeUrl": "/win32/ntstatus-h/status_message_lost/0xc0000701/",
+  "numericCode": -1073740031,
+  "define": "STATUS_MESSAGE_LOST",
+  "defineUrl": "/win32/ntstatus-h/status_message_lost/",
+  "message": "The ALPC message requested is no longer available.",
+  "remarks": null,
+  "aka": [
+    "-1073740031"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_message_lost/-1073740031/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ec_subscription_cannot_activate\15080\index.html.json
+
+title: 15080 ERROR_EC_SUBSCRIPTION_CANNOT_ACTIVATE in winerror.h
+description: The subscription fails to activate.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "15080",
+  "codeUrl": "/win32/winerror-h/error_ec_subscription_cannot_activate/15080/",
+  "numericCode": 15080,
+  "define": "ERROR_EC_SUBSCRIPTION_CANNOT_ACTIVATE",
+  "defineUrl": "/win32/winerror-h/error_ec_subscription_cannot_activate/",
+  "message": "The subscription fails to activate.",
+  "remarks": null,
+  "aka": [
+    "0x80073ae8",
+    "-2147009816"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ec_subscription_cannot_activate/0x80073ae8/",
+    "/win32/winerror-h/error_ec_subscription_cannot_activate/-2147009816/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

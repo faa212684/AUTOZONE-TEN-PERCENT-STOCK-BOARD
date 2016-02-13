@@ -1,0 +1,28 @@
+---
+output: win32\wsmerror-h\error_winrs_shell_connected_to_different_client\0x803381cd\index.html.json
+
+title: 0x803381CD ERROR_WINRS_SHELL_CONNECTED_TO_DIFFERENT_CLIENT in wsmerror.h
+description: The WinRM service cannot process the request. The WinRS shell instance is currently connected to a different client.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x803381CD",
+  "codeUrl": "/win32/wsmerror-h/error_winrs_shell_connected_to_different_client/0x803381cd/",
+  "numericCode": -2144108083,
+  "define": "ERROR_WINRS_SHELL_CONNECTED_TO_DIFFERENT_CLIENT",
+  "defineUrl": "/win32/wsmerror-h/error_winrs_shell_connected_to_different_client/",
+  "message": "The WinRM service cannot process the request. The WinRS shell instance is currently connected to a different client.",
+  "remarks": null,
+  "aka": [
+    "-2144108083"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_winrs_shell_connected_to_different_client/-2144108083/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

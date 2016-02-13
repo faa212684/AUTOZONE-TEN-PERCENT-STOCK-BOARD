@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_cluster_shared_volume_redirected\0x8007174e\index.html.json
+canonical: /win32/winerror-h/error_cluster_shared_volume_redirected/5966/
+title: 0x8007174e ERROR_CLUSTER_SHARED_VOLUME_REDIRECTED in winerror.h
+description: CSVFS failed operation as volume is in redirected mode.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007174e",
+  "codeUrl": "/win32/winerror-h/error_cluster_shared_volume_redirected/0x8007174e/",
+  "numericCode": 0,
+  "define": "ERROR_CLUSTER_SHARED_VOLUME_REDIRECTED",
+  "defineUrl": "/win32/winerror-h/error_cluster_shared_volume_redirected/",
+  "message": "CSVFS failed operation as volume is in redirected mode.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "5966",
+  "originalCodeUrl": "/win32/winerror-h/error_cluster_shared_volume_redirected/5966/"
+}

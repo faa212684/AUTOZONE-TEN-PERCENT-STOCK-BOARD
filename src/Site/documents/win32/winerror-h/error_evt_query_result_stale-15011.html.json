@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_evt_query_result_stale\15011\index.html.json
+
+title: 15011 ERROR_EVT_QUERY_RESULT_STALE in winerror.h
+description: The query result is stale / invalid. This may be due to the log being cleared or rolling over after the query result was created. Users should handle this code by releasing the query result object and reissuing the query.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "15011",
+  "codeUrl": "/win32/winerror-h/error_evt_query_result_stale/15011/",
+  "numericCode": 15011,
+  "define": "ERROR_EVT_QUERY_RESULT_STALE",
+  "defineUrl": "/win32/winerror-h/error_evt_query_result_stale/",
+  "message": "The query result is stale / invalid. This may be due to the log being cleared or rolling over after the query result was created. Users should handle this code by releasing the query result object and reissuing the query.",
+  "remarks": null,
+  "aka": [
+    "0x80073aa3",
+    "-2147009885"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_evt_query_result_stale/0x80073aa3/",
+    "/win32/winerror-h/error_evt_query_result_stale/-2147009885/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

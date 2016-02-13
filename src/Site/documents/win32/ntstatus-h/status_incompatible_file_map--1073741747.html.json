@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_incompatible_file_map\-1073741747\index.html.json
+canonical: /win32/ntstatus-h/status_incompatible_file_map/0xc000004d/
+title: -1073741747 STATUS_INCOMPATIBLE_FILE_MAP in ntstatus.h
+description: A section was created to map a file which is not compatible to an already existing section which maps the same file.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741747",
+  "codeUrl": "/win32/ntstatus-h/status_incompatible_file_map/-1073741747/",
+  "numericCode": 0,
+  "define": "STATUS_INCOMPATIBLE_FILE_MAP",
+  "defineUrl": "/win32/ntstatus-h/status_incompatible_file_map/",
+  "message": "A section was created to map a file which is not compatible to an already existing section which maps the same file.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC000004D",
+  "originalCodeUrl": "/win32/ntstatus-h/status_incompatible_file_map/0xc000004d/"
+}

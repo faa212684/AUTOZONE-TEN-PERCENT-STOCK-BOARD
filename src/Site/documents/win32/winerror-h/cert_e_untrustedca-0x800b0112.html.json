@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\cert_e_untrustedca\0x800b0112\index.html.json
+
+title: 0x800B0112 CERT_E_UNTRUSTEDCA in winerror.h
+description: A certification chain processed correctly, but one of the CA certificates is not trusted by the policy provider.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800B0112",
+  "codeUrl": "/win32/winerror-h/cert_e_untrustedca/0x800b0112/",
+  "numericCode": -2146762478,
+  "define": "CERT_E_UNTRUSTEDCA",
+  "defineUrl": "/win32/winerror-h/cert_e_untrustedca/",
+  "message": "A certification chain processed correctly, but one of the CA certificates is not trusted by the policy provider.",
+  "remarks": null,
+  "aka": [
+    "-2146762478"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/cert_e_untrustedca/-2146762478/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

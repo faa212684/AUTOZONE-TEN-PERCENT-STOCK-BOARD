@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_bad_remote_adapter\0xc00000c5\index.html.json
+
+title: 0xC00000C5 STATUS_BAD_REMOTE_ADAPTER in ntstatus.h
+description: The remote adapter is not compatible.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC00000C5",
+  "codeUrl": "/win32/ntstatus-h/status_bad_remote_adapter/0xc00000c5/",
+  "numericCode": -1073741627,
+  "define": "STATUS_BAD_REMOTE_ADAPTER",
+  "defineUrl": "/win32/ntstatus-h/status_bad_remote_adapter/",
+  "message": "The remote adapter is not compatible.",
+  "remarks": null,
+  "aka": [
+    "-1073741627"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_bad_remote_adapter/-1073741627/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

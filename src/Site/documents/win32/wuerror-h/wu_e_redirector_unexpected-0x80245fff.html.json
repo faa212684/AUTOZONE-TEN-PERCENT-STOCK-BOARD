@@ -1,0 +1,28 @@
+---
+output: win32\wuerror-h\wu_e_redirector_unexpected\0x80245fff\index.html.json
+
+title: 0x80245FFF WU_E_REDIRECTOR_UNEXPECTED in wuerror.h
+description: The redirector failed for reasons not covered by another WU_E_REDIRECTOR_* error code.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wuerror.h",
+  "sourceUrl": "/win32/wuerror-h/",
+  "code": "0x80245FFF",
+  "codeUrl": "/win32/wuerror-h/wu_e_redirector_unexpected/0x80245fff/",
+  "numericCode": -2145099777,
+  "define": "WU_E_REDIRECTOR_UNEXPECTED",
+  "defineUrl": "/win32/wuerror-h/wu_e_redirector_unexpected/",
+  "message": "The redirector failed for reasons not covered by another WU_E_REDIRECTOR_* error code.",
+  "remarks": null,
+  "aka": [
+    "-2145099777"
+  ],
+  "akaUrl": [
+    "/win32/wuerror-h/wu_e_redirector_unexpected/-2145099777/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_policy_only_in_ds\0x8007201c\index.html.json
+canonical: /win32/winerror-h/error_policy_only_in_ds/8220/
+title: 0x8007201c ERROR_POLICY_ONLY_IN_DS in winerror.h
+description: The requested policy information is only in the directory service.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007201c",
+  "codeUrl": "/win32/winerror-h/error_policy_only_in_ds/0x8007201c/",
+  "numericCode": 0,
+  "define": "ERROR_POLICY_ONLY_IN_DS",
+  "defineUrl": "/win32/winerror-h/error_policy_only_in_ds/",
+  "message": "The requested policy information is only in the directory service.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "8220",
+  "originalCodeUrl": "/win32/winerror-h/error_policy_only_in_ds/8220/"
+}

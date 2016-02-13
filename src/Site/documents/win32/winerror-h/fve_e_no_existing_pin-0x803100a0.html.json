@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\fve_e_no_existing_pin\0x803100a0\index.html.json
+
+title: 0x803100A0 FVE_E_NO_EXISTING_PIN in winerror.h
+description: This drive isn't protected with a PIN.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x803100A0",
+  "codeUrl": "/win32/winerror-h/fve_e_no_existing_pin/0x803100a0/",
+  "numericCode": -2144272224,
+  "define": "FVE_E_NO_EXISTING_PIN",
+  "defineUrl": "/win32/winerror-h/fve_e_no_existing_pin/",
+  "message": "This drive isn't protected with a PIN.",
+  "remarks": null,
+  "aka": [
+    "-2144272224"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/fve_e_no_existing_pin/-2144272224/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

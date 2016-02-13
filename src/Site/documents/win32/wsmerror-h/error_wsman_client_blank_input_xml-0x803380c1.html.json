@@ -1,0 +1,29 @@
+---
+output: win32\wsmerror-h\error_wsman_client_blank_input_xml\0x803380c1\index.html.json
+
+title: 0x803380C1 ERROR_WSMAN_CLIENT_BLANK_INPUT_XML in wsmerror.h
+description: The WinRM client cannot process the request. The input XML must not be "" (blank or empty string) or NULL.
+Change the input XML and try the request again.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x803380C1",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_client_blank_input_xml/0x803380c1/",
+  "numericCode": -2144108351,
+  "define": "ERROR_WSMAN_CLIENT_BLANK_INPUT_XML",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_client_blank_input_xml/",
+  "message": "The WinRM client cannot process the request. The input XML must not be \"\" (blank or empty string) or NULL.\r\nChange the input XML and try the request again.",
+  "remarks": null,
+  "aka": [
+    "-2144108351"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_client_blank_input_xml/-2144108351/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

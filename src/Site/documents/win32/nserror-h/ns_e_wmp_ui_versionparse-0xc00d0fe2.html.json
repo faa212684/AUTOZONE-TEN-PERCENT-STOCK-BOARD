@@ -1,0 +1,28 @@
+---
+output: win32\nserror-h\ns_e_wmp_ui_versionparse\0xc00d0fe2\index.html.json
+
+title: 0xC00D0FE2 NS_E_WMP_UI_VERSIONPARSE in nserror.h
+description: An error occurred parsing the version tag.\nValid version tags are of the form:\n\n\t<?wmp version='1.0'?>.%0
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "nserror.h",
+  "sourceUrl": "/win32/nserror-h/",
+  "code": "0xC00D0FE2",
+  "codeUrl": "/win32/nserror-h/ns_e_wmp_ui_versionparse/0xc00d0fe2/",
+  "numericCode": -1072885790,
+  "define": "NS_E_WMP_UI_VERSIONPARSE",
+  "defineUrl": "/win32/nserror-h/ns_e_wmp_ui_versionparse/",
+  "message": "An error occurred parsing the version tag.\\nValid version tags are of the form:\\n\\n\\t<?wmp version='1.0'?>.%0",
+  "remarks": null,
+  "aka": [
+    "-1072885790"
+  ],
+  "akaUrl": [
+    "/win32/nserror-h/ns_e_wmp_ui_versionparse/-1072885790/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\wsa_qos_reserved_petype\0x80072b17\index.html.json
+canonical: /win32/winerror-h/wsa_qos_reserved_petype/11031/
+title: 0x80072b17 WSA_QOS_RESERVED_PETYPE in winerror.h
+description: A reserved policy element was found in the QOS provider-specific buffer.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80072b17",
+  "codeUrl": "/win32/winerror-h/wsa_qos_reserved_petype/0x80072b17/",
+  "numericCode": 0,
+  "define": "WSA_QOS_RESERVED_PETYPE",
+  "defineUrl": "/win32/winerror-h/wsa_qos_reserved_petype/",
+  "message": "A reserved policy element was found in the QOS provider-specific buffer.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "11031",
+  "originalCodeUrl": "/win32/winerror-h/wsa_qos_reserved_petype/11031/"
+}

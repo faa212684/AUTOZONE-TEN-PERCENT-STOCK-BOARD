@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_ndis_offload_policy\0xc023100f\index.html.json
+
+title: 0xC023100F STATUS_NDIS_OFFLOAD_POLICY in ntstatus.h
+description: The TCP connection is not offloadable because of a local policy setting.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC023100F",
+  "codeUrl": "/win32/ntstatus-h/status_ndis_offload_policy/0xc023100f/",
+  "numericCode": -1071443953,
+  "define": "STATUS_NDIS_OFFLOAD_POLICY",
+  "defineUrl": "/win32/ntstatus-h/status_ndis_offload_policy/",
+  "message": "The TCP connection is not offloadable because of a local policy setting.",
+  "remarks": null,
+  "aka": [
+    "-1071443953"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_ndis_offload_policy/-1071443953/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

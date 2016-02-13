@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_cluster_invalid_node_weight\-2147018942\index.html.json
+canonical: /win32/winerror-h/error_cluster_invalid_node_weight/5954/
+title: -2147018942 ERROR_CLUSTER_INVALID_NODE_WEIGHT in winerror.h
+description: The request is invalid either because node weight cannot be changed while the cluster is in disk-only quorum mode, or because changing the node weight would violate the minimum cluster quorum requirements.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147018942",
+  "codeUrl": "/win32/winerror-h/error_cluster_invalid_node_weight/-2147018942/",
+  "numericCode": 0,
+  "define": "ERROR_CLUSTER_INVALID_NODE_WEIGHT",
+  "defineUrl": "/win32/winerror-h/error_cluster_invalid_node_weight/",
+  "message": "The request is invalid either because node weight cannot be changed while the cluster is in disk-only quorum mode, or because changing the node weight would violate the minimum cluster quorum requirements.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "5954",
+  "originalCodeUrl": "/win32/winerror-h/error_cluster_invalid_node_weight/5954/"
+}

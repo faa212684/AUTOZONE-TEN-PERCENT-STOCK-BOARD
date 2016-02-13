@@ -1,0 +1,24 @@
+---
+output: bugcheck\bugcodes-h\windows_nt_banner\1073741950\index.html.json
+canonical: /bugcheck/bugcodes-h/windows_nt_banner/0x4000007e/
+title: 1073741950 WINDOWS_NT_BANNER in bugcodes.h
+description: Microsoft (R) Windows (R) Version %hs (Build %u%hs)
+disqus: false
+---
+{
+  "area": "bugcheck",
+  "areaUrl": "/bugcheck/",
+  "source": "bugcodes.h",
+  "sourceUrl": "/bugcheck/bugcodes-h/",
+  "code": "1073741950",
+  "codeUrl": "/bugcheck/bugcodes-h/windows_nt_banner/1073741950/",
+  "numericCode": 0,
+  "define": "WINDOWS_NT_BANNER",
+  "defineUrl": "/bugcheck/bugcodes-h/windows_nt_banner/",
+  "message": "Microsoft (R) Windows (R) Version %hs (Build %u%hs)",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x4000007E",
+  "originalCodeUrl": "/bugcheck/bugcodes-h/windows_nt_banner/0x4000007e/"
+}

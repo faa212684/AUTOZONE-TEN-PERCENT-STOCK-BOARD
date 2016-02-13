@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_cluster_resource_vetoed_move_incompatible_nodes\5953\index.html.json
+
+title: 5953 ERROR_CLUSTER_RESOURCE_VETOED_MOVE_INCOMPATIBLE_NODES in winerror.h
+description: A resource vetoed a move between two nodes because they are incompatible.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "5953",
+  "codeUrl": "/win32/winerror-h/error_cluster_resource_vetoed_move_incompatible_nodes/5953/",
+  "numericCode": 5953,
+  "define": "ERROR_CLUSTER_RESOURCE_VETOED_MOVE_INCOMPATIBLE_NODES",
+  "defineUrl": "/win32/winerror-h/error_cluster_resource_vetoed_move_incompatible_nodes/",
+  "message": "A resource vetoed a move between two nodes because they are incompatible.",
+  "remarks": null,
+  "aka": [
+    "0x80071741",
+    "-2147018943"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_cluster_resource_vetoed_move_incompatible_nodes/0x80071741/",
+    "/win32/winerror-h/error_cluster_resource_vetoed_move_incompatible_nodes/-2147018943/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

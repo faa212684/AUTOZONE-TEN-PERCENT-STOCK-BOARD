@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_translation_complete\288\index.html.json
+canonical: /win32/ntstatus-h/status_translation_complete/0x00000120/
+title: 288 STATUS_TRANSLATION_COMPLETE in ntstatus.h
+description: The translator has translated these resources into the global space and no further translations should be performed.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "288",
+  "codeUrl": "/win32/ntstatus-h/status_translation_complete/288/",
+  "numericCode": 0,
+  "define": "STATUS_TRANSLATION_COMPLETE",
+  "defineUrl": "/win32/ntstatus-h/status_translation_complete/",
+  "message": "The translator has translated these resources into the global space and no further translations should be performed.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x00000120",
+  "originalCodeUrl": "/win32/ntstatus-h/status_translation_complete/0x00000120/"
+}

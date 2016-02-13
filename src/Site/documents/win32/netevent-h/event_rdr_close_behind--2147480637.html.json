@@ -1,0 +1,24 @@
+---
+output: win32\netevent-h\event_rdr_close_behind\-2147480637\index.html.json
+canonical: /win32/netevent-h/event_rdr_close_behind/0x80000bc3/
+title: -2147480637 EVENT_RDR_CLOSE_BEHIND in netevent.h
+description: The redirector failed to write data to server %2 after the file was closed.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "-2147480637",
+  "codeUrl": "/win32/netevent-h/event_rdr_close_behind/-2147480637/",
+  "numericCode": 0,
+  "define": "EVENT_RDR_CLOSE_BEHIND",
+  "defineUrl": "/win32/netevent-h/event_rdr_close_behind/",
+  "message": "The redirector failed to write data to server %2 after the file was closed.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80000BC3",
+  "originalCodeUrl": "/win32/netevent-h/event_rdr_close_behind/0x80000bc3/"
+}

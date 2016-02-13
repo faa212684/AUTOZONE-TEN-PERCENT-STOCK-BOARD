@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_acpi_address_not_mapped\0xc014000c\index.html.json
+
+title: 0xC014000C STATUS_ACPI_ADDRESS_NOT_MAPPED in ntstatus.h
+description: An address failed to translate
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC014000C",
+  "codeUrl": "/win32/ntstatus-h/status_acpi_address_not_mapped/0xc014000c/",
+  "numericCode": -1072431092,
+  "define": "STATUS_ACPI_ADDRESS_NOT_MAPPED",
+  "defineUrl": "/win32/ntstatus-h/status_acpi_address_not_mapped/",
+  "message": "An address failed to translate",
+  "remarks": null,
+  "aka": [
+    "-1072431092"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_acpi_address_not_mapped/-1072431092/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

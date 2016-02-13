@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\error_all_sids_filtered\0xc0090002\index.html.json
+
+title: 0xC0090002 ERROR_ALL_SIDS_FILTERED in winerror.h
+description: The SID filtering operation removed all SIDs.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0xC0090002",
+  "codeUrl": "/win32/winerror-h/error_all_sids_filtered/0xc0090002/",
+  "numericCode": -1073151998,
+  "define": "ERROR_ALL_SIDS_FILTERED",
+  "defineUrl": "/win32/winerror-h/error_all_sids_filtered/",
+  "message": "The SID filtering operation removed all SIDs.",
+  "remarks": null,
+  "aka": [
+    "-1073151998"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_all_sids_filtered/-1073151998/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

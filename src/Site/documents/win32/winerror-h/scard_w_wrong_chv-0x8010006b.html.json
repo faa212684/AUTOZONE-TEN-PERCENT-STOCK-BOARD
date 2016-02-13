@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\scard_w_wrong_chv\0x8010006b\index.html.json
+
+title: 0x8010006B SCARD_W_WRONG_CHV in winerror.h
+description: The card cannot be accessed because the wrong PIN was presented.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8010006B",
+  "codeUrl": "/win32/winerror-h/scard_w_wrong_chv/0x8010006b/",
+  "numericCode": -2146434965,
+  "define": "SCARD_W_WRONG_CHV",
+  "defineUrl": "/win32/winerror-h/scard_w_wrong_chv/",
+  "message": "The card cannot be accessed because the wrong PIN was presented.",
+  "remarks": null,
+  "aka": [
+    "-2146434965"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/scard_w_wrong_chv/-2146434965/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

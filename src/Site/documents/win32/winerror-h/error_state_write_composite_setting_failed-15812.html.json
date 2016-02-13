@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_state_write_composite_setting_failed\15812\index.html.json
+
+title: 15812 ERROR_STATE_WRITE_COMPOSITE_SETTING_FAILED in winerror.h
+description: State Manager failed to write the composite setting.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "15812",
+  "codeUrl": "/win32/winerror-h/error_state_write_composite_setting_failed/15812/",
+  "numericCode": 15812,
+  "define": "ERROR_STATE_WRITE_COMPOSITE_SETTING_FAILED",
+  "defineUrl": "/win32/winerror-h/error_state_write_composite_setting_failed/",
+  "message": "State Manager failed to write the composite setting.",
+  "remarks": null,
+  "aka": [
+    "0x80073dc4",
+    "-2147009084"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_state_write_composite_setting_failed/0x80073dc4/",
+    "/win32/winerror-h/error_state_write_composite_setting_failed/-2147009084/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

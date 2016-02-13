@@ -1,0 +1,28 @@
+---
+output: win32\wsmerror-h\error_wsman_invalid_characters_in_response\0x8033810a\index.html.json
+
+title: 0x8033810A ERROR_WSMAN_INVALID_CHARACTERS_IN_RESPONSE in wsmerror.h
+description: The WinRM client cannot process the request. The response received from the destination machine contains invalid characters and cannot be processed.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x8033810A",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_invalid_characters_in_response/0x8033810a/",
+  "numericCode": -2144108278,
+  "define": "ERROR_WSMAN_INVALID_CHARACTERS_IN_RESPONSE",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_invalid_characters_in_response/",
+  "message": "The WinRM client cannot process the request. The response received from the destination machine contains invalid characters and cannot be processed.",
+  "remarks": null,
+  "aka": [
+    "-2144108278"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_invalid_characters_in_response/-2144108278/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

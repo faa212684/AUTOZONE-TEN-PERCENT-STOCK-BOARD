@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_e_disk_layout_partitions_too_small\0x8004253f\index.html.json
+
+title: 0x8004253F VDS_E_DISK_LAYOUT_PARTITIONS_TOO_SMALL in vdserr.h
+description: The disk layout contains partitions which less than the minimum required size.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x8004253F",
+  "codeUrl": "/win32/vdserr-h/vds_e_disk_layout_partitions_too_small/0x8004253f/",
+  "numericCode": -2147211969,
+  "define": "VDS_E_DISK_LAYOUT_PARTITIONS_TOO_SMALL",
+  "defineUrl": "/win32/vdserr-h/vds_e_disk_layout_partitions_too_small/",
+  "message": "The disk layout contains partitions which less than the minimum required size.",
+  "remarks": null,
+  "aka": [
+    "-2147211969"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_disk_layout_partitions_too_small/-2147211969/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

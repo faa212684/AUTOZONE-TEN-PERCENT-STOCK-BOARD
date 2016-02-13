@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_pcp_not_supported\-1071046651\index.html.json
+canonical: /win32/ntstatus-h/status_pcp_not_supported/0xc0292005/
+title: -1071046651 STATUS_PCP_NOT_SUPPORTED in ntstatus.h
+description: The requested operation is not supported by this Platform Crypto Provider.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071046651",
+  "codeUrl": "/win32/ntstatus-h/status_pcp_not_supported/-1071046651/",
+  "numericCode": 0,
+  "define": "STATUS_PCP_NOT_SUPPORTED",
+  "defineUrl": "/win32/ntstatus-h/status_pcp_not_supported/",
+  "message": "The requested operation is not supported by this Platform Crypto Provider.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0292005",
+  "originalCodeUrl": "/win32/ntstatus-h/status_pcp_not_supported/0xc0292005/"
+}

@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_monitor_no_more_descriptor_data\-1071841272\index.html.json
+canonical: /win32/ntstatus-h/status_monitor_no_more_descriptor_data/0xc01d0008/
+title: -1071841272 STATUS_MONITOR_NO_MORE_DESCRIPTOR_DATA in ntstatus.h
+description: There is no monitor descriptor data at the specified (offset, size) region.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071841272",
+  "codeUrl": "/win32/ntstatus-h/status_monitor_no_more_descriptor_data/-1071841272/",
+  "numericCode": 0,
+  "define": "STATUS_MONITOR_NO_MORE_DESCRIPTOR_DATA",
+  "defineUrl": "/win32/ntstatus-h/status_monitor_no_more_descriptor_data/",
+  "message": "There is no monitor descriptor data at the specified (offset, size) region.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC01D0008",
+  "originalCodeUrl": "/win32/ntstatus-h/status_monitor_no_more_descriptor_data/0xc01d0008/"
+}

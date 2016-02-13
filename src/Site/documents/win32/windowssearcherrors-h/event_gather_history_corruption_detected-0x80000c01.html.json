@@ -1,0 +1,28 @@
+---
+output: win32\windowssearcherrors-h\event_gather_history_corruption_detected\0x80000c01\index.html.json
+
+title: 0x80000C01 EVENT_GATHER_HISTORY_CORRUPTION_DETECTED in WindowsSearchErrors.h
+description: The gatherer detected pages in the history during recovery that cannot be read, and repaired them.  However, statistical data for some URLs may have been lost.  This can be caused by restarting a computer without first shutting down Windows, or by disk failure.%1
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "0x80000C01",
+  "codeUrl": "/win32/windowssearcherrors-h/event_gather_history_corruption_detected/0x80000c01/",
+  "numericCode": -2147480575,
+  "define": "EVENT_GATHER_HISTORY_CORRUPTION_DETECTED",
+  "defineUrl": "/win32/windowssearcherrors-h/event_gather_history_corruption_detected/",
+  "message": "The gatherer detected pages in the history during recovery that cannot be read, and repaired them.  However, statistical data for some URLs may have been lost.  This can be caused by restarting a computer without first shutting down Windows, or by disk failure.%1",
+  "remarks": null,
+  "aka": [
+    "-2147480575"
+  ],
+  "akaUrl": [
+    "/win32/windowssearcherrors-h/event_gather_history_corruption_detected/-2147480575/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

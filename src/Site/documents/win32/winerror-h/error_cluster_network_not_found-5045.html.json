@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_cluster_network_not_found\5045\index.html.json
+
+title: 5045 ERROR_CLUSTER_NETWORK_NOT_FOUND in winerror.h
+description: The cluster network was not found.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "5045",
+  "codeUrl": "/win32/winerror-h/error_cluster_network_not_found/5045/",
+  "numericCode": 5045,
+  "define": "ERROR_CLUSTER_NETWORK_NOT_FOUND",
+  "defineUrl": "/win32/winerror-h/error_cluster_network_not_found/",
+  "message": "The cluster network was not found.",
+  "remarks": null,
+  "aka": [
+    "0x800713b5",
+    "-2147019851"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_cluster_network_not_found/0x800713b5/",
+    "/win32/winerror-h/error_cluster_network_not_found/-2147019851/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

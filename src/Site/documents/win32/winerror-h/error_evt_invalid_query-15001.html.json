@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_evt_invalid_query\15001\index.html.json
+
+title: 15001 ERROR_EVT_INVALID_QUERY in winerror.h
+description: The specified query is invalid.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "15001",
+  "codeUrl": "/win32/winerror-h/error_evt_invalid_query/15001/",
+  "numericCode": 15001,
+  "define": "ERROR_EVT_INVALID_QUERY",
+  "defineUrl": "/win32/winerror-h/error_evt_invalid_query/",
+  "message": "The specified query is invalid.",
+  "remarks": null,
+  "aka": [
+    "0x80073a99",
+    "-2147009895"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_evt_invalid_query/0x80073a99/",
+    "/win32/winerror-h/error_evt_invalid_query/-2147009895/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

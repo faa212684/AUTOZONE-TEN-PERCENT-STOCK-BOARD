@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_network_busy\0xc00000bf\index.html.json
+
+title: 0xC00000BF STATUS_NETWORK_BUSY in ntstatus.h
+description: The network is busy.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC00000BF",
+  "codeUrl": "/win32/ntstatus-h/status_network_busy/0xc00000bf/",
+  "numericCode": -1073741633,
+  "define": "STATUS_NETWORK_BUSY",
+  "defineUrl": "/win32/ntstatus-h/status_network_busy/",
+  "message": "The network is busy.",
+  "remarks": null,
+  "aka": [
+    "-1073741633"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_network_busy/-1073741633/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_file_deleted\-1073741533\index.html.json
+canonical: /win32/ntstatus-h/status_file_deleted/0xc0000123/
+title: -1073741533 STATUS_FILE_DELETED in ntstatus.h
+description: An I/O request other than close was performed on a file after it has been deleted, which can only happen to a request which did not complete before the last handle was closed via NtClose.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741533",
+  "codeUrl": "/win32/ntstatus-h/status_file_deleted/-1073741533/",
+  "numericCode": 0,
+  "define": "STATUS_FILE_DELETED",
+  "defineUrl": "/win32/ntstatus-h/status_file_deleted/",
+  "message": "An I/O request other than close was performed on a file after it has been deleted, which can only happen to a request which did not complete before the last handle was closed via NtClose.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000123",
+  "originalCodeUrl": "/win32/ntstatus-h/status_file_deleted/0xc0000123/"
+}

@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\dns_error_node_is_dname\9720\index.html.json
+
+title: 9720 DNS_ERROR_NODE_IS_DNAME in winerror.h
+description: Node is a DNAME DNS record.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "9720",
+  "codeUrl": "/win32/winerror-h/dns_error_node_is_dname/9720/",
+  "numericCode": 9720,
+  "define": "DNS_ERROR_NODE_IS_DNAME",
+  "defineUrl": "/win32/winerror-h/dns_error_node_is_dname/",
+  "message": "Node is a DNAME DNS record.",
+  "remarks": null,
+  "aka": [
+    "0x800725f8",
+    "-2147015176"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/dns_error_node_is_dname/0x800725f8/",
+    "/win32/winerror-h/dns_error_node_is_dname/-2147015176/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

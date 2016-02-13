@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\co_e_activationfailed_timeout\0x8004e024\index.html.json
+
+title: 0x8004E024 CO_E_ACTIVATIONFAILED_TIMEOUT in winerror.h
+description: COM+ activation failed because the activation could not be completed in the specified amount of time.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8004E024",
+  "codeUrl": "/win32/winerror-h/co_e_activationfailed_timeout/0x8004e024/",
+  "numericCode": -2147164124,
+  "define": "CO_E_ACTIVATIONFAILED_TIMEOUT",
+  "defineUrl": "/win32/winerror-h/co_e_activationfailed_timeout/",
+  "message": "COM+ activation failed because the activation could not be completed in the specified amount of time.",
+  "remarks": null,
+  "aka": [
+    "-2147164124"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/co_e_activationfailed_timeout/-2147164124/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

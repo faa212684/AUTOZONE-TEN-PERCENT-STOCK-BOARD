@@ -1,0 +1,24 @@
+---
+output: win32\tapi3err-h\tapi_e_completionoverrun\-2147221496\index.html.json
+canonical: /win32/tapi3err-h/tapi_e_completionoverrun/0x80040008/
+title: -2147221496 TAPI_E_COMPLETIONOVERRUN in Tapi3Err.h
+description: Too many call completions outstanding.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "Tapi3Err.h",
+  "sourceUrl": "/win32/tapi3err-h/",
+  "code": "-2147221496",
+  "codeUrl": "/win32/tapi3err-h/tapi_e_completionoverrun/-2147221496/",
+  "numericCode": 0,
+  "define": "TAPI_E_COMPLETIONOVERRUN",
+  "defineUrl": "/win32/tapi3err-h/tapi_e_completionoverrun/",
+  "message": "Too many call completions outstanding.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80040008",
+  "originalCodeUrl": "/win32/tapi3err-h/tapi_e_completionoverrun/0x80040008/"
+}

@@ -1,0 +1,24 @@
+---
+output: win32\windowssearcherrors-h\event_indexer_prop_commit_failed\-1073734747\index.html.json
+canonical: /win32/windowssearcherrors-h/event_indexer_prop_commit_failed/0xc0001ba5/
+title: -1073734747 EVENT_INDEXER_PROP_COMMIT_FAILED in WindowsSearchErrors.h
+description: Index propagation failed to commit to any of the search servers.  The Windows Search Service is now trying to revert the search servers to the previous index. %1
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "-1073734747",
+  "codeUrl": "/win32/windowssearcherrors-h/event_indexer_prop_commit_failed/-1073734747/",
+  "numericCode": 0,
+  "define": "EVENT_INDEXER_PROP_COMMIT_FAILED",
+  "defineUrl": "/win32/windowssearcherrors-h/event_indexer_prop_commit_failed/",
+  "message": "Index propagation failed to commit to any of the search servers.  The Windows Search Service is now trying to revert the search servers to the previous index. %1",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0001BA5",
+  "originalCodeUrl": "/win32/windowssearcherrors-h/event_indexer_prop_commit_failed/0xc0001ba5/"
+}

@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\xact_e_unable_to_load_dtc_proxy\0x8004d028\index.html.json
+
+title: 0x8004D028 XACT_E_UNABLE_TO_LOAD_DTC_PROXY in winerror.h
+description: MSDTC was unable to load the dtc proxy dll.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8004D028",
+  "codeUrl": "/win32/winerror-h/xact_e_unable_to_load_dtc_proxy/0x8004d028/",
+  "numericCode": -2147168216,
+  "define": "XACT_E_UNABLE_TO_LOAD_DTC_PROXY",
+  "defineUrl": "/win32/winerror-h/xact_e_unable_to_load_dtc_proxy/",
+  "message": "MSDTC was unable to load the dtc proxy dll.",
+  "remarks": null,
+  "aka": [
+    "-2147168216"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/xact_e_unable_to_load_dtc_proxy/-2147168216/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

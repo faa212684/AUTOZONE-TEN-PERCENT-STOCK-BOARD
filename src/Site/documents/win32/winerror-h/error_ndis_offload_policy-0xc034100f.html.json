@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\error_ndis_offload_policy\0xc034100f\index.html.json
+
+title: 0xC034100F ERROR_NDIS_OFFLOAD_POLICY in winerror.h
+description: The TCP connection is not offloadable because of a local policy setting.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0xC034100F",
+  "codeUrl": "/win32/winerror-h/error_ndis_offload_policy/0xc034100f/",
+  "numericCode": -1070329841,
+  "define": "ERROR_NDIS_OFFLOAD_POLICY",
+  "defineUrl": "/win32/winerror-h/error_ndis_offload_policy/",
+  "message": "The TCP connection is not offloadable because of a local policy setting.",
+  "remarks": null,
+  "aka": [
+    "-1070329841"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ndis_offload_policy/-1070329841/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

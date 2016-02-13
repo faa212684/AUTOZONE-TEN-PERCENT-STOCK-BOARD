@@ -1,0 +1,28 @@
+---
+output: win32\mq-h\mq_error_sharing_violation\0xc00e0009\index.html.json
+
+title: 0xC00E0009 MQ_ERROR_SHARING_VIOLATION in Mq.h
+description: There is a sharing violation. The queue is already open for exclusive retrieval.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "Mq.h",
+  "sourceUrl": "/win32/mq-h/",
+  "code": "0xC00E0009",
+  "codeUrl": "/win32/mq-h/mq_error_sharing_violation/0xc00e0009/",
+  "numericCode": -1072824311,
+  "define": "MQ_ERROR_SHARING_VIOLATION",
+  "defineUrl": "/win32/mq-h/mq_error_sharing_violation/",
+  "message": "There is a sharing violation. The queue is already open for exclusive retrieval.",
+  "remarks": null,
+  "aka": [
+    "-1072824311"
+  ],
+  "akaUrl": [
+    "/win32/mq-h/mq_error_sharing_violation/-1072824311/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

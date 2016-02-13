@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_remote_not_listening\-1073741636\index.html.json
+canonical: /win32/ntstatus-h/status_remote_not_listening/0xc00000bc/
+title: -1073741636 STATUS_REMOTE_NOT_LISTENING in ntstatus.h
+description: This remote computer is not listening.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741636",
+  "codeUrl": "/win32/ntstatus-h/status_remote_not_listening/-1073741636/",
+  "numericCode": 0,
+  "define": "STATUS_REMOTE_NOT_LISTENING",
+  "defineUrl": "/win32/ntstatus-h/status_remote_not_listening/",
+  "message": "This remote computer is not listening.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC00000BC",
+  "originalCodeUrl": "/win32/ntstatus-h/status_remote_not_listening/0xc00000bc/"
+}

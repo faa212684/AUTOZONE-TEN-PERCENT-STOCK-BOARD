@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_hv_insufficient_memory\-1070268405\index.html.json
+canonical: /win32/ntstatus-h/status_hv_insufficient_memory/0xc035000b/
+title: -1070268405 STATUS_HV_INSUFFICIENT_MEMORY in ntstatus.h
+description: There is not enough memory in the hypervisor pool to complete the operation.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1070268405",
+  "codeUrl": "/win32/ntstatus-h/status_hv_insufficient_memory/-1070268405/",
+  "numericCode": 0,
+  "define": "STATUS_HV_INSUFFICIENT_MEMORY",
+  "defineUrl": "/win32/ntstatus-h/status_hv_insufficient_memory/",
+  "message": "There is not enough memory in the hypervisor pool to complete the operation.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC035000B",
+  "originalCodeUrl": "/win32/ntstatus-h/status_hv_insufficient_memory/0xc035000b/"
+}

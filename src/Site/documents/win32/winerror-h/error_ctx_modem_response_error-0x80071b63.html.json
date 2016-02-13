@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_ctx_modem_response_error\0x80071b63\index.html.json
+canonical: /win32/winerror-h/error_ctx_modem_response_error/7011/
+title: 0x80071b63 ERROR_CTX_MODEM_RESPONSE_ERROR in winerror.h
+description: The modem did not accept the command sent to it. Verify that the configured modem name matches the attached modem.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80071b63",
+  "codeUrl": "/win32/winerror-h/error_ctx_modem_response_error/0x80071b63/",
+  "numericCode": 0,
+  "define": "ERROR_CTX_MODEM_RESPONSE_ERROR",
+  "defineUrl": "/win32/winerror-h/error_ctx_modem_response_error/",
+  "message": "The modem did not accept the command sent to it. Verify that the configured modem name matches the attached modem.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "7011",
+  "originalCodeUrl": "/win32/winerror-h/error_ctx_modem_response_error/7011/"
+}

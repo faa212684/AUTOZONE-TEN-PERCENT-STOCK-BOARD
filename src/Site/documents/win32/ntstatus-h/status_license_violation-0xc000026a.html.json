@@ -1,0 +1,29 @@
+---
+output: win32\ntstatus-h\status_license_violation\0xc000026a\index.html.json
+
+title: 0xC000026A STATUS_LICENSE_VIOLATION in ntstatus.h
+description: "{License Violation}
+The system has detected tampering with your registered product type. This is a violation of your software license. Tampering with product type is not permitted."
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000026A",
+  "codeUrl": "/win32/ntstatus-h/status_license_violation/0xc000026a/",
+  "numericCode": -1073741206,
+  "define": "STATUS_LICENSE_VIOLATION",
+  "defineUrl": "/win32/ntstatus-h/status_license_violation/",
+  "message": "{License Violation}\r\nThe system has detected tampering with your registered product type. This is a violation of your software license. Tampering with product type is not permitted.",
+  "remarks": null,
+  "aka": [
+    "-1073741206"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_license_violation/-1073741206/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

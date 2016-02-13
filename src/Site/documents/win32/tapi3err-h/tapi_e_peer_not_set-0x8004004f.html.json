@@ -1,0 +1,28 @@
+---
+output: win32\tapi3err-h\tapi_e_peer_not_set\0x8004004f\index.html.json
+
+title: 0x8004004F TAPI_E_PEER_NOT_SET in Tapi3Err.h
+description: The peer for this bridge terminal must be set to complete this operation.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "Tapi3Err.h",
+  "sourceUrl": "/win32/tapi3err-h/",
+  "code": "0x8004004F",
+  "codeUrl": "/win32/tapi3err-h/tapi_e_peer_not_set/0x8004004f/",
+  "numericCode": -2147221425,
+  "define": "TAPI_E_PEER_NOT_SET",
+  "defineUrl": "/win32/tapi3err-h/tapi_e_peer_not_set/",
+  "message": "The peer for this bridge terminal must be set to complete this operation.",
+  "remarks": null,
+  "aka": [
+    "-2147221425"
+  ],
+  "akaUrl": [
+    "/win32/tapi3err-h/tapi_e_peer_not_set/-2147221425/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

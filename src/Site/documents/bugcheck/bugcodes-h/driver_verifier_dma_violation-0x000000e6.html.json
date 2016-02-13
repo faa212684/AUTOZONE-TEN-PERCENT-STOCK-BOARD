@@ -1,0 +1,28 @@
+---
+output: bugcheck\bugcodes-h\driver_verifier_dma_violation\0x000000e6\index.html.json
+
+title: 0x000000E6 DRIVER_VERIFIER_DMA_VIOLATION in bugcodes.h
+description: DRIVER_VERIFIER_DMA_VIOLATION
+disqus: true
+---
+{
+  "area": "bugcheck",
+  "areaUrl": "/bugcheck/",
+  "source": "bugcodes.h",
+  "sourceUrl": "/bugcheck/bugcodes-h/",
+  "code": "0x000000E6",
+  "codeUrl": "/bugcheck/bugcodes-h/driver_verifier_dma_violation/0x000000e6/",
+  "numericCode": 230,
+  "define": "DRIVER_VERIFIER_DMA_VIOLATION",
+  "defineUrl": "/bugcheck/bugcodes-h/driver_verifier_dma_violation/",
+  "message": "DRIVER_VERIFIER_DMA_VIOLATION",
+  "remarks": null,
+  "aka": [
+    "230"
+  ],
+  "akaUrl": [
+    "/bugcheck/bugcodes-h/driver_verifier_dma_violation/230/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

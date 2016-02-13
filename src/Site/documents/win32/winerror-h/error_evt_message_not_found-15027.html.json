@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_evt_message_not_found\15027\index.html.json
+
+title: 15027 ERROR_EVT_MESSAGE_NOT_FOUND in winerror.h
+description: the message resource is present but the message is not found in the string/message table
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "15027",
+  "codeUrl": "/win32/winerror-h/error_evt_message_not_found/15027/",
+  "numericCode": 15027,
+  "define": "ERROR_EVT_MESSAGE_NOT_FOUND",
+  "defineUrl": "/win32/winerror-h/error_evt_message_not_found/",
+  "message": "the message resource is present but the message is not found in the string/message table",
+  "remarks": null,
+  "aka": [
+    "0x80073ab3",
+    "-2147009869"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_evt_message_not_found/0x80073ab3/",
+    "/win32/winerror-h/error_evt_message_not_found/-2147009869/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

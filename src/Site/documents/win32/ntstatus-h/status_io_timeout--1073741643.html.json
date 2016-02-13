@@ -1,0 +1,25 @@
+---
+output: win32\ntstatus-h\status_io_timeout\-1073741643\index.html.json
+canonical: /win32/ntstatus-h/status_io_timeout/0xc00000b5/
+title: -1073741643 STATUS_IO_TIMEOUT in ntstatus.h
+description: "{Device Timeout}
+The specified I/O operation on %hs was not completed before the time-out period expired."
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741643",
+  "codeUrl": "/win32/ntstatus-h/status_io_timeout/-1073741643/",
+  "numericCode": 0,
+  "define": "STATUS_IO_TIMEOUT",
+  "defineUrl": "/win32/ntstatus-h/status_io_timeout/",
+  "message": "{Device Timeout}\r\nThe specified I/O operation on %hs was not completed before the time-out period expired.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC00000B5",
+  "originalCodeUrl": "/win32/ntstatus-h/status_io_timeout/0xc00000b5/"
+}

@@ -1,0 +1,28 @@
+---
+output: win32\oledberr-h\sec_e_invalidaccessentry\0x80040e71\index.html.json
+
+title: 0x80040E71 SEC_E_INVALIDACCESSENTRY in oledberr.h
+description: Permission in the access entry list is invalid.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "oledberr.h",
+  "sourceUrl": "/win32/oledberr-h/",
+  "code": "0x80040E71",
+  "codeUrl": "/win32/oledberr-h/sec_e_invalidaccessentry/0x80040e71/",
+  "numericCode": -2147217807,
+  "define": "SEC_E_INVALIDACCESSENTRY",
+  "defineUrl": "/win32/oledberr-h/sec_e_invalidaccessentry/",
+  "message": "Permission in the access entry list is invalid.",
+  "remarks": null,
+  "aka": [
+    "-2147217807"
+  ],
+  "akaUrl": [
+    "/win32/oledberr-h/sec_e_invalidaccessentry/-2147217807/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

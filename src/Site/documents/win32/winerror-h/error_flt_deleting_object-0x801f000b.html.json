@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\error_flt_deleting_object\0x801f000b\index.html.json
+
+title: 0x801F000B ERROR_FLT_DELETING_OBJECT in winerror.h
+description: The object specified for this action is in the process of being deleted, therefore the action requested cannot be completed at this time.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x801F000B",
+  "codeUrl": "/win32/winerror-h/error_flt_deleting_object/0x801f000b/",
+  "numericCode": -2145452021,
+  "define": "ERROR_FLT_DELETING_OBJECT",
+  "defineUrl": "/win32/winerror-h/error_flt_deleting_object/",
+  "message": "The object specified for this action is in the process of being deleted, therefore the action requested cannot be completed at this time.",
+  "remarks": null,
+  "aka": [
+    "-2145452021"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_flt_deleting_object/-2145452021/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\wuerror-h\wu_e_low_battery\0x8024004c\index.html.json
+
+title: 0x8024004C WU_E_LOW_BATTERY in wuerror.h
+description: An update could not be installed because the system battery power level is too low.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wuerror.h",
+  "sourceUrl": "/win32/wuerror-h/",
+  "code": "0x8024004C",
+  "codeUrl": "/win32/wuerror-h/wu_e_low_battery/0x8024004c/",
+  "numericCode": -2145124276,
+  "define": "WU_E_LOW_BATTERY",
+  "defineUrl": "/win32/wuerror-h/wu_e_low_battery/",
+  "message": "An update could not be installed because the system battery power level is too low.",
+  "remarks": null,
+  "aka": [
+    "-2145124276"
+  ],
+  "akaUrl": [
+    "/win32/wuerror-h/wu_e_low_battery/-2145124276/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

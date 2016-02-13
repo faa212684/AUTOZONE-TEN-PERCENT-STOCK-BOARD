@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ipsec_ike_too_many_filters\13896\index.html.json
+
+title: 13896 ERROR_IPSEC_IKE_TOO_MANY_FILTERS in winerror.h
+description: Too many dynamically added IKEEXT filters were detected.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "13896",
+  "codeUrl": "/win32/winerror-h/error_ipsec_ike_too_many_filters/13896/",
+  "numericCode": 13896,
+  "define": "ERROR_IPSEC_IKE_TOO_MANY_FILTERS",
+  "defineUrl": "/win32/winerror-h/error_ipsec_ike_too_many_filters/",
+  "message": "Too many dynamically added IKEEXT filters were detected.",
+  "remarks": null,
+  "aka": [
+    "0x80073648",
+    "-2147011000"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ipsec_ike_too_many_filters/0x80073648/",
+    "/win32/winerror-h/error_ipsec_ike_too_many_filters/-2147011000/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

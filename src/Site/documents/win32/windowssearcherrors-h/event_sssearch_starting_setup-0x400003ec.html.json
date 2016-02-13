@@ -1,0 +1,28 @@
+---
+output: win32\windowssearcherrors-h\event_sssearch_starting_setup\0x400003ec\index.html.json
+
+title: 0x400003EC EVENT_SSSEARCH_STARTING_SETUP in WindowsSearchErrors.h
+description: The Windows Search service is creating the new search index {Reason: %2}. %1
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "0x400003EC",
+  "codeUrl": "/win32/windowssearcherrors-h/event_sssearch_starting_setup/0x400003ec/",
+  "numericCode": 1073742828,
+  "define": "EVENT_SSSEARCH_STARTING_SETUP",
+  "defineUrl": "/win32/windowssearcherrors-h/event_sssearch_starting_setup/",
+  "message": "The Windows Search service is creating the new search index {Reason: %2}. %1",
+  "remarks": null,
+  "aka": [
+    "1073742828"
+  ],
+  "akaUrl": [
+    "/win32/windowssearcherrors-h/event_sssearch_starting_setup/1073742828/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

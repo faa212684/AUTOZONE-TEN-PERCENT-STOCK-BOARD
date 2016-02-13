@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ipsec_ike_crl_failed\13817\index.html.json
+
+title: 13817 ERROR_IPSEC_IKE_CRL_FAILED in winerror.h
+description: Certificate Revocation Check failed
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "13817",
+  "codeUrl": "/win32/winerror-h/error_ipsec_ike_crl_failed/13817/",
+  "numericCode": 13817,
+  "define": "ERROR_IPSEC_IKE_CRL_FAILED",
+  "defineUrl": "/win32/winerror-h/error_ipsec_ike_crl_failed/",
+  "message": "Certificate Revocation Check failed",
+  "remarks": null,
+  "aka": [
+    "0x800735f9",
+    "-2147011079"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ipsec_ike_crl_failed/0x800735f9/",
+    "/win32/winerror-h/error_ipsec_ike_crl_failed/-2147011079/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

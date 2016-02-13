@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_resource_not_present\4316\index.html.json
+
+title: 4316 ERROR_RESOURCE_NOT_PRESENT in winerror.h
+description: The resource required for this operation does not exist.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "4316",
+  "codeUrl": "/win32/winerror-h/error_resource_not_present/4316/",
+  "numericCode": 4316,
+  "define": "ERROR_RESOURCE_NOT_PRESENT",
+  "defineUrl": "/win32/winerror-h/error_resource_not_present/",
+  "message": "The resource required for this operation does not exist.",
+  "remarks": null,
+  "aka": [
+    "0x800710dc",
+    "-2147020580"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_resource_not_present/0x800710dc/",
+    "/win32/winerror-h/error_resource_not_present/-2147020580/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

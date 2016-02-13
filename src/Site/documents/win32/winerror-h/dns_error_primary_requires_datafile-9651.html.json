@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\dns_error_primary_requires_datafile\9651\index.html.json
+
+title: 9651 DNS_ERROR_PRIMARY_REQUIRES_DATAFILE in winerror.h
+description: Primary DNS zone requires datafile.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "9651",
+  "codeUrl": "/win32/winerror-h/dns_error_primary_requires_datafile/9651/",
+  "numericCode": 9651,
+  "define": "DNS_ERROR_PRIMARY_REQUIRES_DATAFILE",
+  "defineUrl": "/win32/winerror-h/dns_error_primary_requires_datafile/",
+  "message": "Primary DNS zone requires datafile.",
+  "remarks": null,
+  "aka": [
+    "0x800725b3",
+    "-2147015245"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/dns_error_primary_requires_datafile/0x800725b3/",
+    "/win32/winerror-h/dns_error_primary_requires_datafile/-2147015245/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

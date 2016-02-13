@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_srv_invalid_sd\0x800009cb\index.html.json
+
+title: 0x800009CB EVENT_SRV_INVALID_SD in netevent.h
+description: The security descriptor stored in the Registry for the share %1 was invalid.  The share was not automatically recreated.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x800009CB",
+  "codeUrl": "/win32/netevent-h/event_srv_invalid_sd/0x800009cb/",
+  "numericCode": -2147481141,
+  "define": "EVENT_SRV_INVALID_SD",
+  "defineUrl": "/win32/netevent-h/event_srv_invalid_sd/",
+  "message": "The security descriptor stored in the Registry for the share %1 was invalid.  The share was not automatically recreated.",
+  "remarks": null,
+  "aka": [
+    "-2147481141"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_srv_invalid_sd/-2147481141/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

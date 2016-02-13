@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_flt_filter_not_ready\-1071906808\index.html.json
+canonical: /win32/ntstatus-h/status_flt_filter_not_ready/0xc01c0008/
+title: -1071906808 STATUS_FLT_FILTER_NOT_READY in ntstatus.h
+description: The filter is not ready for attachment to volumes because it has not finished initializing (FltStartFiltering has not been called).
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071906808",
+  "codeUrl": "/win32/ntstatus-h/status_flt_filter_not_ready/-1071906808/",
+  "numericCode": 0,
+  "define": "STATUS_FLT_FILTER_NOT_READY",
+  "defineUrl": "/win32/ntstatus-h/status_flt_filter_not_ready/",
+  "message": "The filter is not ready for attachment to volumes because it has not finished initializing (FltStartFiltering has not been called).",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC01C0008",
+  "originalCodeUrl": "/win32/ntstatus-h/status_flt_filter_not_ready/0xc01c0008/"
+}

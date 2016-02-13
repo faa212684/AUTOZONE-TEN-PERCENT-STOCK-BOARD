@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_could_not_interpret\-1073741639\index.html.json
+canonical: /win32/ntstatus-h/status_could_not_interpret/0xc00000b9/
+title: -1073741639 STATUS_COULD_NOT_INTERPRET in ntstatus.h
+description: The passed ACL did not contain the minimum required information.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741639",
+  "codeUrl": "/win32/ntstatus-h/status_could_not_interpret/-1073741639/",
+  "numericCode": 0,
+  "define": "STATUS_COULD_NOT_INTERPRET",
+  "defineUrl": "/win32/ntstatus-h/status_could_not_interpret/",
+  "message": "The passed ACL did not contain the minimum required information.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC00000B9",
+  "originalCodeUrl": "/win32/ntstatus-h/status_could_not_interpret/0xc00000b9/"
+}

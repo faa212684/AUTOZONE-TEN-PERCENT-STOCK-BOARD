@@ -1,0 +1,28 @@
+---
+output: win32\oledberr-h\db_e_pendingchanges\0x80040e56\index.html.json
+
+title: 0x80040E56 DB_E_PENDINGCHANGES in oledberr.h
+description: Pending changes exist on a row with a reference count of zero.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "oledberr.h",
+  "sourceUrl": "/win32/oledberr-h/",
+  "code": "0x80040E56",
+  "codeUrl": "/win32/oledberr-h/db_e_pendingchanges/0x80040e56/",
+  "numericCode": -2147217834,
+  "define": "DB_E_PENDINGCHANGES",
+  "defineUrl": "/win32/oledberr-h/db_e_pendingchanges/",
+  "message": "Pending changes exist on a row with a reference count of zero.",
+  "remarks": null,
+  "aka": [
+    "-2147217834"
+  ],
+  "akaUrl": [
+    "/win32/oledberr-h/db_e_pendingchanges/-2147217834/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

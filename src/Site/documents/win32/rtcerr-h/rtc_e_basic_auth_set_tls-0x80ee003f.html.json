@@ -1,0 +1,28 @@
+---
+output: win32\rtcerr-h\rtc_e_basic_auth_set_tls\0x80ee003f\index.html.json
+
+title: 0x80EE003F RTC_E_BASIC_AUTH_SET_TLS in rtcerr.h
+description: Must set transport to TLS if Basic Auth is allowed
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "rtcerr.h",
+  "sourceUrl": "/win32/rtcerr-h/",
+  "code": "0x80EE003F",
+  "codeUrl": "/win32/rtcerr-h/rtc_e_basic_auth_set_tls/0x80ee003f/",
+  "numericCode": -2131886017,
+  "define": "RTC_E_BASIC_AUTH_SET_TLS",
+  "defineUrl": "/win32/rtcerr-h/rtc_e_basic_auth_set_tls/",
+  "message": "Must set transport to TLS if Basic Auth is allowed",
+  "remarks": null,
+  "aka": [
+    "-2131886017"
+  ],
+  "akaUrl": [
+    "/win32/rtcerr-h/rtc_e_basic_auth_set_tls/-2131886017/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

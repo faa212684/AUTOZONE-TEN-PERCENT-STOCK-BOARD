@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_instance_not_available\0xc00000ab\index.html.json
+
+title: 0xC00000AB STATUS_INSTANCE_NOT_AVAILABLE in ntstatus.h
+description: The maximum named pipe instance count has been reached.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC00000AB",
+  "codeUrl": "/win32/ntstatus-h/status_instance_not_available/0xc00000ab/",
+  "numericCode": -1073741653,
+  "define": "STATUS_INSTANCE_NOT_AVAILABLE",
+  "defineUrl": "/win32/ntstatus-h/status_instance_not_available/",
+  "message": "The maximum named pipe instance count has been reached.",
+  "remarks": null,
+  "aka": [
+    "-1073741653"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_instance_not_available/-1073741653/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

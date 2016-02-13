@@ -1,0 +1,28 @@
+---
+output: win32\tapi3err-h\tapi_e_inuse\0x8004000b\index.html.json
+
+title: 0x8004000B TAPI_E_INUSE in Tapi3Err.h
+description: The device is already in use.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "Tapi3Err.h",
+  "sourceUrl": "/win32/tapi3err-h/",
+  "code": "0x8004000B",
+  "codeUrl": "/win32/tapi3err-h/tapi_e_inuse/0x8004000b/",
+  "numericCode": -2147221493,
+  "define": "TAPI_E_INUSE",
+  "defineUrl": "/win32/tapi3err-h/tapi_e_inuse/",
+  "message": "The device is already in use.",
+  "remarks": null,
+  "aka": [
+    "-2147221493"
+  ],
+  "akaUrl": [
+    "/win32/tapi3err-h/tapi_e_inuse/-2147221493/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,30 @@
+---
+output: win32\netevent-h\event_command_not_interactive\0xc0001edc\index.html.json
+
+title: 0xC0001EDC EVENT_COMMAND_NOT_INTERACTIVE in netevent.h
+description: The %1 command is marked as an interactive command.  However, the system is
+configured to not allow interactive command execution.  This command may not
+function properly.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC0001EDC",
+  "codeUrl": "/win32/netevent-h/event_command_not_interactive/0xc0001edc/",
+  "numericCode": -1073733924,
+  "define": "EVENT_COMMAND_NOT_INTERACTIVE",
+  "defineUrl": "/win32/netevent-h/event_command_not_interactive/",
+  "message": "The %1 command is marked as an interactive command.  However, the system is\r\nconfigured to not allow interactive command execution.  This command may not\r\nfunction properly.",
+  "remarks": null,
+  "aka": [
+    "-1073733924"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_command_not_interactive/-1073733924/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

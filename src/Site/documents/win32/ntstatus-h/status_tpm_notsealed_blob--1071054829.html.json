@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_tpm_notsealed_blob\-1071054829\index.html.json
+canonical: /win32/ntstatus-h/status_tpm_notsealed_blob/0xc0290013/
+title: -1071054829 STATUS_TPM_NOTSEALED_BLOB in ntstatus.h
+description: An encrypted blob is invalid or was not created by this TPM.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071054829",
+  "codeUrl": "/win32/ntstatus-h/status_tpm_notsealed_blob/-1071054829/",
+  "numericCode": 0,
+  "define": "STATUS_TPM_NOTSEALED_BLOB",
+  "defineUrl": "/win32/ntstatus-h/status_tpm_notsealed_blob/",
+  "message": "An encrypted blob is invalid or was not created by this TPM.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0290013",
+  "originalCodeUrl": "/win32/ntstatus-h/status_tpm_notsealed_blob/0xc0290013/"
+}

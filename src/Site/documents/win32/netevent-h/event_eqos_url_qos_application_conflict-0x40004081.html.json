@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_eqos_url_qos_application_conflict\0x40004081\index.html.json
+
+title: 0x40004081 EVENT_EQOS_URL_QOS_APPLICATION_CONFLICT in netevent.h
+description: In the past %1 hour(s) and %2 minute(s), %3 HTTP.SYS responses have had their application requested QoS conflict with URL QoS policies.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x40004081",
+  "codeUrl": "/win32/netevent-h/event_eqos_url_qos_application_conflict/0x40004081/",
+  "numericCode": 1073758337,
+  "define": "EVENT_EQOS_URL_QOS_APPLICATION_CONFLICT",
+  "defineUrl": "/win32/netevent-h/event_eqos_url_qos_application_conflict/",
+  "message": "In the past %1 hour(s) and %2 minute(s), %3 HTTP.SYS responses have had their application requested QoS conflict with URL QoS policies.",
+  "remarks": null,
+  "aka": [
+    "1073758337"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_eqos_url_qos_application_conflict/1073758337/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

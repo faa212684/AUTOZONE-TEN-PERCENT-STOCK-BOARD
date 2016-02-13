@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_depend_on_later_service\0xc0001b6b\index.html.json
+
+title: 0xC0001B6B EVENT_DEPEND_ON_LATER_SERVICE in netevent.h
+description: Circular dependency: The %1 service depends on a service in a group which starts later.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC0001B6B",
+  "codeUrl": "/win32/netevent-h/event_depend_on_later_service/0xc0001b6b/",
+  "numericCode": -1073734805,
+  "define": "EVENT_DEPEND_ON_LATER_SERVICE",
+  "defineUrl": "/win32/netevent-h/event_depend_on_later_service/",
+  "message": "Circular dependency: The %1 service depends on a service in a group which starts later.",
+  "remarks": null,
+  "aka": [
+    "-1073734805"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_depend_on_later_service/-1073734805/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

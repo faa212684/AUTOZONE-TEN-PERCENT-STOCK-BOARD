@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_logon_not_granted\0x80070564\index.html.json
+canonical: /win32/winerror-h/error_logon_not_granted/1380/
+title: 0x80070564 ERROR_LOGON_NOT_GRANTED in winerror.h
+description: Logon failure: the user has not been granted the requested logon type at this computer.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80070564",
+  "codeUrl": "/win32/winerror-h/error_logon_not_granted/0x80070564/",
+  "numericCode": 0,
+  "define": "ERROR_LOGON_NOT_GRANTED",
+  "defineUrl": "/win32/winerror-h/error_logon_not_granted/",
+  "message": "Logon failure: the user has not been granted the requested logon type at this computer.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "1380",
+  "originalCodeUrl": "/win32/winerror-h/error_logon_not_granted/1380/"
+}

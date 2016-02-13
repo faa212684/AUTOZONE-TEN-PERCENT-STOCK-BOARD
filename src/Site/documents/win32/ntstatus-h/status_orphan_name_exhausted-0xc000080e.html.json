@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_orphan_name_exhausted\0xc000080e\index.html.json
+
+title: 0xC000080E STATUS_ORPHAN_NAME_EXHAUSTED in ntstatus.h
+description: Orphaned files exist on the volume but could not be recovered because no more new names could be created in the recovery directory. Files must be moved from the recovery directory.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000080E",
+  "codeUrl": "/win32/ntstatus-h/status_orphan_name_exhausted/0xc000080e/",
+  "numericCode": -1073739762,
+  "define": "STATUS_ORPHAN_NAME_EXHAUSTED",
+  "defineUrl": "/win32/ntstatus-h/status_orphan_name_exhausted/",
+  "message": "Orphaned files exist on the volume but could not be recovered because no more new names could be created in the recovery directory. Files must be moved from the recovery directory.",
+  "remarks": null,
+  "aka": [
+    "-1073739762"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_orphan_name_exhausted/-1073739762/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

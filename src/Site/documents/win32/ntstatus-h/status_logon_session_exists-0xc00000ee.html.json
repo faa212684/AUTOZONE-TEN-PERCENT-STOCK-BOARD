@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_logon_session_exists\0xc00000ee\index.html.json
+
+title: 0xC00000EE STATUS_LOGON_SESSION_EXISTS in ntstatus.h
+description: An attempt has been made to start a new session manager or LSA logon session with an ID that is already in use.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC00000EE",
+  "codeUrl": "/win32/ntstatus-h/status_logon_session_exists/0xc00000ee/",
+  "numericCode": -1073741586,
+  "define": "STATUS_LOGON_SESSION_EXISTS",
+  "defineUrl": "/win32/ntstatus-h/status_logon_session_exists/",
+  "message": "An attempt has been made to start a new session manager or LSA logon session with an ID that is already in use.",
+  "remarks": null,
+  "aka": [
+    "-1073741586"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_logon_session_exists/-1073741586/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

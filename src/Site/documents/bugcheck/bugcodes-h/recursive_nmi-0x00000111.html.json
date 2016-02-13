@@ -1,0 +1,28 @@
+---
+output: bugcheck\bugcodes-h\recursive_nmi\0x00000111\index.html.json
+
+title: 0x00000111 RECURSIVE_NMI in bugcodes.h
+description: RECURSIVE_NMI
+disqus: true
+---
+{
+  "area": "bugcheck",
+  "areaUrl": "/bugcheck/",
+  "source": "bugcodes.h",
+  "sourceUrl": "/bugcheck/bugcodes-h/",
+  "code": "0x00000111",
+  "codeUrl": "/bugcheck/bugcodes-h/recursive_nmi/0x00000111/",
+  "numericCode": 273,
+  "define": "RECURSIVE_NMI",
+  "defineUrl": "/bugcheck/bugcodes-h/recursive_nmi/",
+  "message": "RECURSIVE_NMI",
+  "remarks": null,
+  "aka": [
+    "273"
+  ],
+  "akaUrl": [
+    "/bugcheck/bugcodes-h/recursive_nmi/273/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

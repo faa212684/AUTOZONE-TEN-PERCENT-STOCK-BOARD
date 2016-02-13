@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\scard_e_unsupported_feature\0x80100022\index.html.json
+
+title: 0x80100022 SCARD_E_UNSUPPORTED_FEATURE in winerror.h
+description: This smart card does not support the requested feature.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80100022",
+  "codeUrl": "/win32/winerror-h/scard_e_unsupported_feature/0x80100022/",
+  "numericCode": -2146435038,
+  "define": "SCARD_E_UNSUPPORTED_FEATURE",
+  "defineUrl": "/win32/winerror-h/scard_e_unsupported_feature/",
+  "message": "This smart card does not support the requested feature.",
+  "remarks": null,
+  "aka": [
+    "-2146435038"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/scard_e_unsupported_feature/-2146435038/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

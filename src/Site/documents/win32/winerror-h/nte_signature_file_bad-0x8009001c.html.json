@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\nte_signature_file_bad\0x8009001c\index.html.json
+
+title: 0x8009001C NTE_SIGNATURE_FILE_BAD in winerror.h
+description: The digital signature file is corrupt.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8009001C",
+  "codeUrl": "/win32/winerror-h/nte_signature_file_bad/0x8009001c/",
+  "numericCode": -2146893796,
+  "define": "NTE_SIGNATURE_FILE_BAD",
+  "defineUrl": "/win32/winerror-h/nte_signature_file_bad/",
+  "message": "The digital signature file is corrupt.",
+  "remarks": null,
+  "aka": [
+    "-2146893796"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/nte_signature_file_bad/-2146893796/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

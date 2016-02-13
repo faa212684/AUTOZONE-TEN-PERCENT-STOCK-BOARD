@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_smartcard_subsystem_failure\1264\index.html.json
+
+title: 1264 ERROR_SMARTCARD_SUBSYSTEM_FAILURE in winerror.h
+description: The Kerberos protocol encountered an error while attempting to utilize the smartcard subsystem.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1264",
+  "codeUrl": "/win32/winerror-h/error_smartcard_subsystem_failure/1264/",
+  "numericCode": 1264,
+  "define": "ERROR_SMARTCARD_SUBSYSTEM_FAILURE",
+  "defineUrl": "/win32/winerror-h/error_smartcard_subsystem_failure/",
+  "message": "The Kerberos protocol encountered an error while attempting to utilize the smartcard subsystem.",
+  "remarks": null,
+  "aka": [
+    "0x800704f0",
+    "-2147023632"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_smartcard_subsystem_failure/0x800704f0/",
+    "/win32/winerror-h/error_smartcard_subsystem_failure/-2147023632/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

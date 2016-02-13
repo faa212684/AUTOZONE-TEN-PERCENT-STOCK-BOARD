@@ -1,0 +1,30 @@
+---
+output: win32\wsmerror-h\error_wsman_client_invalid_send_shell_parameter\0x8033818a\index.html.json
+
+title: 0x8033818A ERROR_WSMAN_CLIENT_INVALID_SEND_SHELL_PARAMETER in wsmerror.h
+description: The WinRM client cannot process the request. An invalid parameter was specified for the WSManSendShellInput API call. 
+streamData parameter should be specified in binary format using WSMAN_DATA_TYPE_BINARY type. 
+Change the invalid parameter and try the call again.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x8033818A",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_client_invalid_send_shell_parameter/0x8033818a/",
+  "numericCode": -2144108150,
+  "define": "ERROR_WSMAN_CLIENT_INVALID_SEND_SHELL_PARAMETER",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_client_invalid_send_shell_parameter/",
+  "message": "The WinRM client cannot process the request. An invalid parameter was specified for the WSManSendShellInput API call. \r\nstreamData parameter should be specified in binary format using WSMAN_DATA_TYPE_BINARY type. \r\nChange the invalid parameter and try the call again.",
+  "remarks": null,
+  "aka": [
+    "-2144108150"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_client_invalid_send_shell_parameter/-2144108150/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

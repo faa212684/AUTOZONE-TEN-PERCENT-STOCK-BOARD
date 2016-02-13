@@ -1,0 +1,24 @@
+---
+output: win32\windowssearcherrors-h\gthr_e_invalid_call_from_wbreaker\-2147218058\index.html.json
+canonical: /win32/windowssearcherrors-h/gthr_e_invalid_call_from_wbreaker/0x80040d76/
+title: -2147218058 GTHR_E_INVALID_CALL_FROM_WBREAKER in WindowsSearchErrors.h
+description: The function is unavailable, because it was called while the word breaker was attempting to fill the text buffer. Download and install an update for the word breaker.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "-2147218058",
+  "codeUrl": "/win32/windowssearcherrors-h/gthr_e_invalid_call_from_wbreaker/-2147218058/",
+  "numericCode": 0,
+  "define": "GTHR_E_INVALID_CALL_FROM_WBREAKER",
+  "defineUrl": "/win32/windowssearcherrors-h/gthr_e_invalid_call_from_wbreaker/",
+  "message": "The function is unavailable, because it was called while the word breaker was attempting to fill the text buffer. Download and install an update for the word breaker.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80040D76",
+  "originalCodeUrl": "/win32/windowssearcherrors-h/gthr_e_invalid_call_from_wbreaker/0x80040d76/"
+}

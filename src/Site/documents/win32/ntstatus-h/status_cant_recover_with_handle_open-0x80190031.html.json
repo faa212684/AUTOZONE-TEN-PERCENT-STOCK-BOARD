@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_cant_recover_with_handle_open\0x80190031\index.html.json
+
+title: 0x80190031 STATUS_CANT_RECOVER_WITH_HANDLE_OPEN in ntstatus.h
+description: The file can't be recovered because there is a handle still open on it.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0x80190031",
+  "codeUrl": "/win32/ntstatus-h/status_cant_recover_with_handle_open/0x80190031/",
+  "numericCode": -2145845199,
+  "define": "STATUS_CANT_RECOVER_WITH_HANDLE_OPEN",
+  "defineUrl": "/win32/ntstatus-h/status_cant_recover_with_handle_open/",
+  "message": "The file can't be recovered because there is a handle still open on it.",
+  "remarks": null,
+  "aka": [
+    "-2145845199"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_cant_recover_with_handle_open/-2145845199/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

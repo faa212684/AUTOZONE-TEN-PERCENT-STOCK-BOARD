@@ -1,0 +1,28 @@
+---
+output: win32\nserror-h\ns_s_wmg_advise_drop_to_keyframe\0x000d1067\index.html.json
+
+title: 0x000D1067 NS_S_WMG_ADVISE_DROP_TO_KEYFRAME in nserror.h
+description: The timestamp is severely late compared to the current render position. Advise dropping everything up to the next key frame.%0
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "nserror.h",
+  "sourceUrl": "/win32/nserror-h/",
+  "code": "0x000D1067",
+  "codeUrl": "/win32/nserror-h/ns_s_wmg_advise_drop_to_keyframe/0x000d1067/",
+  "numericCode": 856167,
+  "define": "NS_S_WMG_ADVISE_DROP_TO_KEYFRAME",
+  "defineUrl": "/win32/nserror-h/ns_s_wmg_advise_drop_to_keyframe/",
+  "message": "The timestamp is severely late compared to the current render position. Advise dropping everything up to the next key frame.%0",
+  "remarks": null,
+  "aka": [
+    "856167"
+  ],
+  "akaUrl": [
+    "/win32/nserror-h/ns_s_wmg_advise_drop_to_keyframe/856167/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

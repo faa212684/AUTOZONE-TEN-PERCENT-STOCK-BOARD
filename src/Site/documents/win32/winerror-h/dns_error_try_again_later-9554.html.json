@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\dns_error_try_again_later\9554\index.html.json
+
+title: 9554 DNS_ERROR_TRY_AGAIN_LATER in winerror.h
+description: Try DNS operation again later.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "9554",
+  "codeUrl": "/win32/winerror-h/dns_error_try_again_later/9554/",
+  "numericCode": 9554,
+  "define": "DNS_ERROR_TRY_AGAIN_LATER",
+  "defineUrl": "/win32/winerror-h/dns_error_try_again_later/",
+  "message": "Try DNS operation again later.",
+  "remarks": null,
+  "aka": [
+    "0x80072552",
+    "-2147015342"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/dns_error_try_again_later/0x80072552/",
+    "/win32/winerror-h/dns_error_try_again_later/-2147015342/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

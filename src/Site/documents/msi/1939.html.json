@@ -1,0 +1,24 @@
+---
+output: msi\1939\index.html.json
+
+title: msi 1939
+description: Service '[2]' ([3]) could not be configured.  This could be a problem with the package or your permissions. Verify that you have sufficient privileges to configure system services.
+disqus: true
+---
+{
+  "area": "msi",
+  "areaUrl": "/msi/",
+  "source": null,
+  "sourceUrl": "/msi/",
+  "code": "1939",
+  "codeUrl": "/msi/1939/",
+  "numericCode": 1939,
+  "define": null,
+  "defineUrl": "/msi/",
+  "message": "Service '[2]' ([3]) could not be configured.  This could be a problem with the package or your permissions. Verify that you have sufficient privileges to configure system services.",
+  "remarks": "For information, see<a href=\"https://msdn.microsoft.com/en-us/library/dd408113(v=vs.85).aspx\">Using Services Configuration</a>.\r\n\r\nAvailable beginning with Windows Installer 5.0 for Windows 7 and Windows Server 2008 R2.",
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": null,
+  "originalCodeUrl": null
+}

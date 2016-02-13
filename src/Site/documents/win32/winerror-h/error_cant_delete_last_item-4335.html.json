@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_cant_delete_last_item\4335\index.html.json
+
+title: 4335 ERROR_CANT_DELETE_LAST_ITEM in winerror.h
+description: The last remaining item in this group or resource cannot be deleted.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "4335",
+  "codeUrl": "/win32/winerror-h/error_cant_delete_last_item/4335/",
+  "numericCode": 4335,
+  "define": "ERROR_CANT_DELETE_LAST_ITEM",
+  "defineUrl": "/win32/winerror-h/error_cant_delete_last_item/",
+  "message": "The last remaining item in this group or resource cannot be deleted.",
+  "remarks": null,
+  "aka": [
+    "0x800710ef",
+    "-2147020561"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_cant_delete_last_item/0x800710ef/",
+    "/win32/winerror-h/error_cant_delete_last_item/-2147020561/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

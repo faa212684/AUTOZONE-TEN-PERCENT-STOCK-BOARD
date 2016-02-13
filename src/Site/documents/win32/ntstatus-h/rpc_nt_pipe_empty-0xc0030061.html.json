@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\rpc_nt_pipe_empty\0xc0030061\index.html.json
+
+title: 0xC0030061 RPC_NT_PIPE_EMPTY in ntstatus.h
+description: No more data is available from the RPC pipe.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0030061",
+  "codeUrl": "/win32/ntstatus-h/rpc_nt_pipe_empty/0xc0030061/",
+  "numericCode": -1073545119,
+  "define": "RPC_NT_PIPE_EMPTY",
+  "defineUrl": "/win32/ntstatus-h/rpc_nt_pipe_empty/",
+  "message": "No more data is available from the RPC pipe.",
+  "remarks": null,
+  "aka": [
+    "-1073545119"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/rpc_nt_pipe_empty/-1073545119/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

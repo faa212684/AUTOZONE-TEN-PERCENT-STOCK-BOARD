@@ -1,0 +1,29 @@
+---
+output: win32\issper16-h\sec_i_local_logon\0x1015\index.html.json
+
+title: 0x1015 SEC_I_LOCAL_LOGON in IssPer16.h
+description: The logon was completed, but no network authority was
+available.  The logon was made using locally known information
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "IssPer16.h",
+  "sourceUrl": "/win32/issper16-h/",
+  "code": "0x1015",
+  "codeUrl": "/win32/issper16-h/sec_i_local_logon/0x1015/",
+  "numericCode": 4117,
+  "define": "SEC_I_LOCAL_LOGON",
+  "defineUrl": "/win32/issper16-h/sec_i_local_logon/",
+  "message": "The logon was completed, but no network authority was\r\navailable.  The logon was made using locally known information",
+  "remarks": null,
+  "aka": [
+    "4117"
+  ],
+  "akaUrl": [
+    "/win32/issper16-h/sec_i_local_logon/4117/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

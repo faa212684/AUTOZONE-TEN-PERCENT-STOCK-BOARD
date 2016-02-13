@@ -1,0 +1,31 @@
+---
+output: win32\netevent-h\ntfrsprf_open_rpc_call_error_conn\0xc00034da\index.html.json
+
+title: 0xC00034DA NTFRSPRF_OPEN_RPC_CALL_ERROR_CONN in netevent.h
+description: The RPC call failed in the Open function of the FileReplicaConn Object. The
+counter data for this object will not be available. The FileReplicaConn object
+contains the performance counters of the connections over which files are being
+replicated by the File Replication Service.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC00034DA",
+  "codeUrl": "/win32/netevent-h/ntfrsprf_open_rpc_call_error_conn/0xc00034da/",
+  "numericCode": -1073728294,
+  "define": "NTFRSPRF_OPEN_RPC_CALL_ERROR_CONN",
+  "defineUrl": "/win32/netevent-h/ntfrsprf_open_rpc_call_error_conn/",
+  "message": "The RPC call failed in the Open function of the FileReplicaConn Object. The\r\ncounter data for this object will not be available. The FileReplicaConn object\r\ncontains the performance counters of the connections over which files are being\r\nreplicated by the File Replication Service.",
+  "remarks": null,
+  "aka": [
+    "-1073728294"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/ntfrsprf_open_rpc_call_error_conn/-1073728294/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

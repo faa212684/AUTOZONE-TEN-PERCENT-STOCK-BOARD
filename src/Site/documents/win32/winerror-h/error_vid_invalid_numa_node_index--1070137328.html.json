@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_vid_invalid_numa_node_index\-1070137328\index.html.json
+canonical: /win32/winerror-h/error_vid_invalid_numa_node_index/0xc0370010/
+title: -1070137328 ERROR_VID_INVALID_NUMA_NODE_INDEX in winerror.h
+description: The non-uniform memory access (NUMA) node index does not match a valid index in the system NUMA topology.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-1070137328",
+  "codeUrl": "/win32/winerror-h/error_vid_invalid_numa_node_index/-1070137328/",
+  "numericCode": 0,
+  "define": "ERROR_VID_INVALID_NUMA_NODE_INDEX",
+  "defineUrl": "/win32/winerror-h/error_vid_invalid_numa_node_index/",
+  "message": "The non-uniform memory access (NUMA) node index does not match a valid index in the system NUMA topology.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0370010",
+  "originalCodeUrl": "/win32/winerror-h/error_vid_invalid_numa_node_index/0xc0370010/"
+}

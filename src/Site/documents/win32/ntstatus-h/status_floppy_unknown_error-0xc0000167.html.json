@@ -1,0 +1,29 @@
+---
+output: win32\ntstatus-h\status_floppy_unknown_error\0xc0000167\index.html.json
+
+title: 0xC0000167 STATUS_FLOPPY_UNKNOWN_ERROR in ntstatus.h
+description: "{Floppy Disk Error}
+The floppy disk controller reported an error that is not recognized by the floppy disk driver."
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000167",
+  "codeUrl": "/win32/ntstatus-h/status_floppy_unknown_error/0xc0000167/",
+  "numericCode": -1073741465,
+  "define": "STATUS_FLOPPY_UNKNOWN_ERROR",
+  "defineUrl": "/win32/ntstatus-h/status_floppy_unknown_error/",
+  "message": "{Floppy Disk Error}\r\nThe floppy disk controller reported an error that is not recognized by the floppy disk driver.",
+  "remarks": null,
+  "aka": [
+    "-1073741465"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_floppy_unknown_error/-1073741465/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\milerr_max_texture_size_exceeded\0x8898009a\index.html.json
+
+title: 0x8898009A MILERR_MAX_TEXTURE_SIZE_EXCEEDED in winerror.h
+description: Requested DX redirection surface size exceeded maximum texture size.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8898009A",
+  "codeUrl": "/win32/winerror-h/milerr_max_texture_size_exceeded/0x8898009a/",
+  "numericCode": -2003304294,
+  "define": "MILERR_MAX_TEXTURE_SIZE_EXCEEDED",
+  "defineUrl": "/win32/winerror-h/milerr_max_texture_size_exceeded/",
+  "message": "Requested DX redirection surface size exceeded maximum texture size.",
+  "remarks": null,
+  "aka": [
+    "-2003304294"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/milerr_max_texture_size_exceeded/-2003304294/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

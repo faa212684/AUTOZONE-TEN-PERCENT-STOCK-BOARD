@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_advanced_installer_failed\14099\index.html.json
+
+title: 14099 ERROR_ADVANCED_INSTALLER_FAILED in winerror.h
+description: An advanced installer failed during setup or servicing.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "14099",
+  "codeUrl": "/win32/winerror-h/error_advanced_installer_failed/14099/",
+  "numericCode": 14099,
+  "define": "ERROR_ADVANCED_INSTALLER_FAILED",
+  "defineUrl": "/win32/winerror-h/error_advanced_installer_failed/",
+  "message": "An advanced installer failed during setup or servicing.",
+  "remarks": null,
+  "aka": [
+    "0x80073713",
+    "-2147010797"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_advanced_installer_failed/0x80073713/",
+    "/win32/winerror-h/error_advanced_installer_failed/-2147010797/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

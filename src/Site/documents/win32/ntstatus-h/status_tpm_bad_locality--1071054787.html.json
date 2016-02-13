@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_tpm_bad_locality\-1071054787\index.html.json
+canonical: /win32/ntstatus-h/status_tpm_bad_locality/0xc029003d/
+title: -1071054787 STATUS_TPM_BAD_LOCALITY in ntstatus.h
+description: The locality is incorrect for the attempted operation.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071054787",
+  "codeUrl": "/win32/ntstatus-h/status_tpm_bad_locality/-1071054787/",
+  "numericCode": 0,
+  "define": "STATUS_TPM_BAD_LOCALITY",
+  "defineUrl": "/win32/ntstatus-h/status_tpm_bad_locality/",
+  "message": "The locality is incorrect for the attempted operation.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC029003D",
+  "originalCodeUrl": "/win32/ntstatus-h/status_tpm_bad_locality/0xc029003d/"
+}

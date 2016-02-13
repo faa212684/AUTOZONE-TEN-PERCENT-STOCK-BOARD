@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\cert_e_issuerchaining\-2146762489\index.html.json
+canonical: /win32/winerror-h/cert_e_issuerchaining/0x800b0107/
+title: -2146762489 CERT_E_ISSUERCHAINING in winerror.h
+description: A parent of a given certificate in fact did not issue that child certificate.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2146762489",
+  "codeUrl": "/win32/winerror-h/cert_e_issuerchaining/-2146762489/",
+  "numericCode": 0,
+  "define": "CERT_E_ISSUERCHAINING",
+  "defineUrl": "/win32/winerror-h/cert_e_issuerchaining/",
+  "message": "A parent of a given certificate in fact did not issue that child certificate.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x800B0107",
+  "originalCodeUrl": "/win32/winerror-h/cert_e_issuerchaining/0x800b0107/"
+}

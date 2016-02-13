@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_service_start_failed_group\0xc0001b5a\index.html.json
+
+title: 0xC0001B5A EVENT_SERVICE_START_FAILED_GROUP in netevent.h
+description: The %1 service depends on the %2 group and no member of this group started.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC0001B5A",
+  "codeUrl": "/win32/netevent-h/event_service_start_failed_group/0xc0001b5a/",
+  "numericCode": -1073734822,
+  "define": "EVENT_SERVICE_START_FAILED_GROUP",
+  "defineUrl": "/win32/netevent-h/event_service_start_failed_group/",
+  "message": "The %1 service depends on the %2 group and no member of this group started.",
+  "remarks": null,
+  "aka": [
+    "-1073734822"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_service_start_failed_group/-1073734822/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,29 @@
+---
+output: win32\wsmerror-h\error_wsman_invalid_subscribe_object\0x80338168\index.html.json
+
+title: 0x80338168 ERROR_WSMAN_INVALID_SUBSCRIBE_OBJECT in wsmerror.h
+description: The WinRM service cannot process the request because the subscription manager returned invalid enumeration results.
+The m:Subscription XML object or m:Version element is missing or invalid.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x80338168",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_invalid_subscribe_object/0x80338168/",
+  "numericCode": -2144108184,
+  "define": "ERROR_WSMAN_INVALID_SUBSCRIBE_OBJECT",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_invalid_subscribe_object/",
+  "message": "The WinRM service cannot process the request because the subscription manager returned invalid enumeration results.\r\nThe m:Subscription XML object or m:Version element is missing or invalid.",
+  "remarks": null,
+  "aka": [
+    "-2144108184"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_invalid_subscribe_object/-2144108184/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_fsfilter_op_completed_successfully\0x00000126\index.html.json
+
+title: 0x00000126 STATUS_FSFILTER_OP_COMPLETED_SUCCESSFULLY in ntstatus.h
+description: A file system or file system filter driver has successfully completed an FsFilter operation.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0x00000126",
+  "codeUrl": "/win32/ntstatus-h/status_fsfilter_op_completed_successfully/0x00000126/",
+  "numericCode": 294,
+  "define": "STATUS_FSFILTER_OP_COMPLETED_SUCCESSFULLY",
+  "defineUrl": "/win32/ntstatus-h/status_fsfilter_op_completed_successfully/",
+  "message": "A file system or file system filter driver has successfully completed an FsFilter operation.",
+  "remarks": null,
+  "aka": [
+    "294"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_fsfilter_op_completed_successfully/294/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

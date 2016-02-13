@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_ctx_winstation_busy\-2147017872\index.html.json
+canonical: /win32/winerror-h/error_ctx_winstation_busy/7024/
+title: -2147017872 ERROR_CTX_WINSTATION_BUSY in winerror.h
+description: The task you are trying to do can't be completed because Remote Desktop Services is currently busy. Please try again in a few minutes. Other users should still be able to log on.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147017872",
+  "codeUrl": "/win32/winerror-h/error_ctx_winstation_busy/-2147017872/",
+  "numericCode": 0,
+  "define": "ERROR_CTX_WINSTATION_BUSY",
+  "defineUrl": "/win32/winerror-h/error_ctx_winstation_busy/",
+  "message": "The task you are trying to do can't be completed because Remote Desktop Services is currently busy. Please try again in a few minutes. Other users should still be able to log on.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "7024",
+  "originalCodeUrl": "/win32/winerror-h/error_ctx_winstation_busy/7024/"
+}

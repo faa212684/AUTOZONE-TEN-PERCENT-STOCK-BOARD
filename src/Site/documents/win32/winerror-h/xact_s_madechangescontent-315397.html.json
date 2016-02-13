@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\xact_s_madechangescontent\315397\index.html.json
+canonical: /win32/winerror-h/xact_s_madechangescontent/0x0004d005/
+title: 315397 XACT_S_MADECHANGESCONTENT in winerror.h
+description: The sink is content and wishes the transaction to proceed. Changes were made to one or more resources during this call.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "315397",
+  "codeUrl": "/win32/winerror-h/xact_s_madechangescontent/315397/",
+  "numericCode": 0,
+  "define": "XACT_S_MADECHANGESCONTENT",
+  "defineUrl": "/win32/winerror-h/xact_s_madechangescontent/",
+  "message": "The sink is content and wishes the transaction to proceed. Changes were made to one or more resources during this call.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x0004D005",
+  "originalCodeUrl": "/win32/winerror-h/xact_s_madechangescontent/0x0004d005/"
+}

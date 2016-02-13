@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_pagefile_quota\1454\index.html.json
+
+title: 1454 ERROR_PAGEFILE_QUOTA in winerror.h
+description: Insufficient quota to complete the requested service.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1454",
+  "codeUrl": "/win32/winerror-h/error_pagefile_quota/1454/",
+  "numericCode": 1454,
+  "define": "ERROR_PAGEFILE_QUOTA",
+  "defineUrl": "/win32/winerror-h/error_pagefile_quota/",
+  "message": "Insufficient quota to complete the requested service.",
+  "remarks": null,
+  "aka": [
+    "0x800705ae",
+    "-2147023442"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_pagefile_quota/0x800705ae/",
+    "/win32/winerror-h/error_pagefile_quota/-2147023442/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

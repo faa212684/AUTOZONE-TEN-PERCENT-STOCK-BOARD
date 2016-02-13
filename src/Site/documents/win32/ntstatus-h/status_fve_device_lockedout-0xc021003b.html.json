@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_fve_device_lockedout\0xc021003b\index.html.json
+
+title: 0xC021003B STATUS_FVE_DEVICE_LOCKEDOUT in ntstatus.h
+description: Device Lock has been triggered due to too many incorrect password attempts.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC021003B",
+  "codeUrl": "/win32/ntstatus-h/status_fve_device_lockedout/0xc021003b/",
+  "numericCode": -1071579077,
+  "define": "STATUS_FVE_DEVICE_LOCKEDOUT",
+  "defineUrl": "/win32/ntstatus-h/status_fve_device_lockedout/",
+  "message": "Device Lock has been triggered due to too many incorrect password attempts.",
+  "remarks": null,
+  "aka": [
+    "-1071579077"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_fve_device_lockedout/-1071579077/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

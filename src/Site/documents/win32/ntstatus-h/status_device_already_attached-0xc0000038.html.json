@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_device_already_attached\0xc0000038\index.html.json
+
+title: 0xC0000038 STATUS_DEVICE_ALREADY_ATTACHED in ntstatus.h
+description: An attempt was made to attach to a device that was already attached to another device.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000038",
+  "codeUrl": "/win32/ntstatus-h/status_device_already_attached/0xc0000038/",
+  "numericCode": -1073741768,
+  "define": "STATUS_DEVICE_ALREADY_ATTACHED",
+  "defineUrl": "/win32/ntstatus-h/status_device_already_attached/",
+  "message": "An attempt was made to attach to a device that was already attached to another device.",
+  "remarks": null,
+  "aka": [
+    "-1073741768"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_device_already_attached/-1073741768/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,30 @@
+---
+output: win32\ntstatus-h\status_unrecognized_media\0xc0000014\index.html.json
+
+title: 0xC0000014 STATUS_UNRECOGNIZED_MEDIA in ntstatus.h
+description: "{Unknown Disk Format}
+The disk in drive %hs is not formatted properly.
+Please check the disk, and reformat if necessary."
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000014",
+  "codeUrl": "/win32/ntstatus-h/status_unrecognized_media/0xc0000014/",
+  "numericCode": -1073741804,
+  "define": "STATUS_UNRECOGNIZED_MEDIA",
+  "defineUrl": "/win32/ntstatus-h/status_unrecognized_media/",
+  "message": "{Unknown Disk Format}\r\nThe disk in drive %hs is not formatted properly.\r\nPlease check the disk, and reformat if necessary.",
+  "remarks": null,
+  "aka": [
+    "-1073741804"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_unrecognized_media/-1073741804/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

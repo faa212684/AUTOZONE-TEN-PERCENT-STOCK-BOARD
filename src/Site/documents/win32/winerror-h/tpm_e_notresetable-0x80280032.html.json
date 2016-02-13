@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\tpm_e_notresetable\0x80280032\index.html.json
+
+title: 0x80280032 TPM_E_NOTRESETABLE in winerror.h
+description: Attempt to reset a PCR register that does not have the resettable attribute.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80280032",
+  "codeUrl": "/win32/winerror-h/tpm_e_notresetable/0x80280032/",
+  "numericCode": -2144862158,
+  "define": "TPM_E_NOTRESETABLE",
+  "defineUrl": "/win32/winerror-h/tpm_e_notresetable/",
+  "message": "Attempt to reset a PCR register that does not have the resettable attribute.",
+  "remarks": null,
+  "aka": [
+    "-2144862158"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/tpm_e_notresetable/-2144862158/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

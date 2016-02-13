@@ -1,0 +1,27 @@
+---
+output: win32\netevent-h\event_rdr_timezone_bias_too_large\-2147480620\index.html.json
+canonical: /win32/netevent-h/event_rdr_timezone_bias_too_large/0x80000bd4/
+title: -2147480620 EVENT_RDR_TIMEZONE_BIAS_TOO_LARGE in netevent.h
+description: The time zone bias calculated between %2 and the current workstation is too
+large.  The data specifies the number of 100ns units between the workstation
+and server.  Make sure that the time of day on the workstation and server are
+correct.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "-2147480620",
+  "codeUrl": "/win32/netevent-h/event_rdr_timezone_bias_too_large/-2147480620/",
+  "numericCode": 0,
+  "define": "EVENT_RDR_TIMEZONE_BIAS_TOO_LARGE",
+  "defineUrl": "/win32/netevent-h/event_rdr_timezone_bias_too_large/",
+  "message": "The time zone bias calculated between %2 and the current workstation is too\r\nlarge.  The data specifies the number of 100ns units between the workstation\r\nand server.  Make sure that the time of day on the workstation and server are\r\ncorrect.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80000BD4",
+  "originalCodeUrl": "/win32/netevent-h/event_rdr_timezone_bias_too_large/0x80000bd4/"
+}

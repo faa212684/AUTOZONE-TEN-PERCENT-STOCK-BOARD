@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\dns_error_invalid_nsec3_iteration_count\0x800723a4\index.html.json
+canonical: /win32/winerror-h/dns_error_invalid_nsec3_iteration_count/9124/
+title: 0x800723a4 DNS_ERROR_INVALID_NSEC3_ITERATION_COUNT in winerror.h
+description: The specified NSEC3 iteration count is higher than allowed by the minimum key length used in the zone.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800723a4",
+  "codeUrl": "/win32/winerror-h/dns_error_invalid_nsec3_iteration_count/0x800723a4/",
+  "numericCode": 0,
+  "define": "DNS_ERROR_INVALID_NSEC3_ITERATION_COUNT",
+  "defineUrl": "/win32/winerror-h/dns_error_invalid_nsec3_iteration_count/",
+  "message": "The specified NSEC3 iteration count is higher than allowed by the minimum key length used in the zone.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "9124",
+  "originalCodeUrl": "/win32/winerror-h/dns_error_invalid_nsec3_iteration_count/9124/"
+}

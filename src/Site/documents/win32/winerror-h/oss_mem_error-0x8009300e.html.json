@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\oss_mem_error\0x8009300e\index.html.json
+
+title: 0x8009300E OSS_MEM_ERROR in winerror.h
+description: OSS ASN.1 Error: Access violation.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8009300E",
+  "codeUrl": "/win32/winerror-h/oss_mem_error/0x8009300e/",
+  "numericCode": -2146881522,
+  "define": "OSS_MEM_ERROR",
+  "defineUrl": "/win32/winerror-h/oss_mem_error/",
+  "message": "OSS ASN.1 Error: Access violation.",
+  "remarks": null,
+  "aka": [
+    "-2146881522"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/oss_mem_error/-2146881522/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

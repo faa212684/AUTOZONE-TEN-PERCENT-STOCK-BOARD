@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_sxs_file_hash_missing\0x8007371e\index.html.json
+canonical: /win32/winerror-h/error_sxs_file_hash_missing/14110/
+title: 0x8007371e ERROR_SXS_FILE_HASH_MISSING in winerror.h
+description: A component is missing file verification information in its manifest.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007371e",
+  "codeUrl": "/win32/winerror-h/error_sxs_file_hash_missing/0x8007371e/",
+  "numericCode": 0,
+  "define": "ERROR_SXS_FILE_HASH_MISSING",
+  "defineUrl": "/win32/winerror-h/error_sxs_file_hash_missing/",
+  "message": "A component is missing file verification information in its manifest.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "14110",
+  "originalCodeUrl": "/win32/winerror-h/error_sxs_file_hash_missing/14110/"
+}

@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\rpc_x_wrong_es_version\1828\index.html.json
+
+title: 1828 RPC_X_WRONG_ES_VERSION in winerror.h
+description: Incompatible version of the serializing package.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1828",
+  "codeUrl": "/win32/winerror-h/rpc_x_wrong_es_version/1828/",
+  "numericCode": 1828,
+  "define": "RPC_X_WRONG_ES_VERSION",
+  "defineUrl": "/win32/winerror-h/rpc_x_wrong_es_version/",
+  "message": "Incompatible version of the serializing package.",
+  "remarks": null,
+  "aka": [
+    "0x80070724",
+    "-2147023068"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/rpc_x_wrong_es_version/0x80070724/",
+    "/win32/winerror-h/rpc_x_wrong_es_version/-2147023068/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

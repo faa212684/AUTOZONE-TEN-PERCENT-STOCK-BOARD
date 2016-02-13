@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ds_no_rdn_defined_in_schema\8306\index.html.json
+
+title: 8306 ERROR_DS_NO_RDN_DEFINED_IN_SCHEMA in winerror.h
+description: An attempt was made to add an object of a class that does not have an RDN defined in the schema.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "8306",
+  "codeUrl": "/win32/winerror-h/error_ds_no_rdn_defined_in_schema/8306/",
+  "numericCode": 8306,
+  "define": "ERROR_DS_NO_RDN_DEFINED_IN_SCHEMA",
+  "defineUrl": "/win32/winerror-h/error_ds_no_rdn_defined_in_schema/",
+  "message": "An attempt was made to add an object of a class that does not have an RDN defined in the schema.",
+  "remarks": null,
+  "aka": [
+    "0x80072072",
+    "-2147016590"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ds_no_rdn_defined_in_schema/0x80072072/",
+    "/win32/winerror-h/error_ds_no_rdn_defined_in_schema/-2147016590/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

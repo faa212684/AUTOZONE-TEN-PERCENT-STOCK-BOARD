@@ -1,0 +1,30 @@
+---
+output: win32\mq-h\mq_error_buffer_overflow\0xc00e001a\index.html.json
+
+title: 0xC00E001A MQ_ERROR_BUFFER_OVERFLOW in Mq.h
+description: The buffer supplied to MQReceiveMessage for message property retrieval
+is too small. The message was not removed from the queue, but the part
+of the message property that was in the buffer was copied.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "Mq.h",
+  "sourceUrl": "/win32/mq-h/",
+  "code": "0xC00E001A",
+  "codeUrl": "/win32/mq-h/mq_error_buffer_overflow/0xc00e001a/",
+  "numericCode": -1072824294,
+  "define": "MQ_ERROR_BUFFER_OVERFLOW",
+  "defineUrl": "/win32/mq-h/mq_error_buffer_overflow/",
+  "message": "The buffer supplied to MQReceiveMessage for message property retrieval\r\nis too small. The message was not removed from the queue, but the part\r\nof the message property that was in the buffer was copied.",
+  "remarks": null,
+  "aka": [
+    "-1072824294"
+  ],
+  "akaUrl": [
+    "/win32/mq-h/mq_error_buffer_overflow/-1072824294/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

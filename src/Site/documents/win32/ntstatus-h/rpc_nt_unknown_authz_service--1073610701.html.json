@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\rpc_nt_unknown_authz_service\-1073610701\index.html.json
+canonical: /win32/ntstatus-h/rpc_nt_unknown_authz_service/0xc0020033/
+title: -1073610701 RPC_NT_UNKNOWN_AUTHZ_SERVICE in ntstatus.h
+description: The authorization service is unknown.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073610701",
+  "codeUrl": "/win32/ntstatus-h/rpc_nt_unknown_authz_service/-1073610701/",
+  "numericCode": 0,
+  "define": "RPC_NT_UNKNOWN_AUTHZ_SERVICE",
+  "defineUrl": "/win32/ntstatus-h/rpc_nt_unknown_authz_service/",
+  "message": "The authorization service is unknown.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0020033",
+  "originalCodeUrl": "/win32/ntstatus-h/rpc_nt_unknown_authz_service/0xc0020033/"
+}

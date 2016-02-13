@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_transactions_unsupported_remote\0x80071a95\index.html.json
+canonical: /win32/winerror-h/error_transactions_unsupported_remote/6805/
+title: 0x80071a95 ERROR_TRANSACTIONS_UNSUPPORTED_REMOTE in winerror.h
+description: The remote server or share does not support transacted file operations.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80071a95",
+  "codeUrl": "/win32/winerror-h/error_transactions_unsupported_remote/0x80071a95/",
+  "numericCode": 0,
+  "define": "ERROR_TRANSACTIONS_UNSUPPORTED_REMOTE",
+  "defineUrl": "/win32/winerror-h/error_transactions_unsupported_remote/",
+  "message": "The remote server or share does not support transacted file operations.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "6805",
+  "originalCodeUrl": "/win32/winerror-h/error_transactions_unsupported_remote/6805/"
+}

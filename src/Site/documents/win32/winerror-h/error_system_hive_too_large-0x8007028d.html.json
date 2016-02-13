@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_system_hive_too_large\0x8007028d\index.html.json
+canonical: /win32/winerror-h/error_system_hive_too_large/653/
+title: 0x8007028d ERROR_SYSTEM_HIVE_TOO_LARGE in winerror.h
+description: System hive size has exceeded its limit.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007028d",
+  "codeUrl": "/win32/winerror-h/error_system_hive_too_large/0x8007028d/",
+  "numericCode": 0,
+  "define": "ERROR_SYSTEM_HIVE_TOO_LARGE",
+  "defineUrl": "/win32/winerror-h/error_system_hive_too_large/",
+  "message": "System hive size has exceeded its limit.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "653",
+  "originalCodeUrl": "/win32/winerror-h/error_system_hive_too_large/653/"
+}

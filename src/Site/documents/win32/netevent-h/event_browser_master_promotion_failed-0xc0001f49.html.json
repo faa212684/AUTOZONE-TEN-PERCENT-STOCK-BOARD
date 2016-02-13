@@ -1,0 +1,29 @@
+---
+output: win32\netevent-h\event_browser_master_promotion_failed\0xc0001f49\index.html.json
+
+title: 0xC0001F49 EVENT_BROWSER_MASTER_PROMOTION_FAILED in netevent.h
+description: The browser was unable to promote itself to master browser.  The computer that currently
+believes it is the master browser is %1.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC0001F49",
+  "codeUrl": "/win32/netevent-h/event_browser_master_promotion_failed/0xc0001f49/",
+  "numericCode": -1073733815,
+  "define": "EVENT_BROWSER_MASTER_PROMOTION_FAILED",
+  "defineUrl": "/win32/netevent-h/event_browser_master_promotion_failed/",
+  "message": "The browser was unable to promote itself to master browser.  The computer that currently\r\nbelieves it is the master browser is %1.",
+  "remarks": null,
+  "aka": [
+    "-1073733815"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_browser_master_promotion_failed/-1073733815/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

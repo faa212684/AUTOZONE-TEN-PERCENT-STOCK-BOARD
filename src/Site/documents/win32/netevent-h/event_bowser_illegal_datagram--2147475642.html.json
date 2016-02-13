@@ -1,0 +1,24 @@
+---
+output: win32\netevent-h\event_bowser_illegal_datagram\-2147475642\index.html.json
+canonical: /win32/netevent-h/event_bowser_illegal_datagram/0x80001f46/
+title: -2147475642 EVENT_BOWSER_ILLEGAL_DATAGRAM in netevent.h
+description: The browser has received an illegal datagram from the remote computer %2 to name %3 on transport %4.  The data is the datagram.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "-2147475642",
+  "codeUrl": "/win32/netevent-h/event_bowser_illegal_datagram/-2147475642/",
+  "numericCode": 0,
+  "define": "EVENT_BOWSER_ILLEGAL_DATAGRAM",
+  "defineUrl": "/win32/netevent-h/event_bowser_illegal_datagram/",
+  "message": "The browser has received an illegal datagram from the remote computer %2 to name %3 on transport %4.  The data is the datagram.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80001F46",
+  "originalCodeUrl": "/win32/netevent-h/event_bowser_illegal_datagram/0x80001f46/"
+}

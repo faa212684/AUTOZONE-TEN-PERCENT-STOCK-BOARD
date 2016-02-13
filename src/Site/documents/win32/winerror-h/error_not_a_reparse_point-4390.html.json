@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_not_a_reparse_point\4390\index.html.json
+
+title: 4390 ERROR_NOT_A_REPARSE_POINT in winerror.h
+description: The file or directory is not a reparse point.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "4390",
+  "codeUrl": "/win32/winerror-h/error_not_a_reparse_point/4390/",
+  "numericCode": 4390,
+  "define": "ERROR_NOT_A_REPARSE_POINT",
+  "defineUrl": "/win32/winerror-h/error_not_a_reparse_point/",
+  "message": "The file or directory is not a reparse point.",
+  "remarks": null,
+  "aka": [
+    "0x80071126",
+    "-2147020506"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_not_a_reparse_point/0x80071126/",
+    "/win32/winerror-h/error_not_a_reparse_point/-2147020506/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

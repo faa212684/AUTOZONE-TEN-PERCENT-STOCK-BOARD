@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\fve_e_policy_passphrase_too_simple\0x80310081\index.html.json
+
+title: 0x80310081 FVE_E_POLICY_PASSPHRASE_TOO_SIMPLE in winerror.h
+description: Your password does not meet the complexity requirements set by your system administrator. Try adding upper and lowercase characters, numbers, and symbols.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80310081",
+  "codeUrl": "/win32/winerror-h/fve_e_policy_passphrase_too_simple/0x80310081/",
+  "numericCode": -2144272255,
+  "define": "FVE_E_POLICY_PASSPHRASE_TOO_SIMPLE",
+  "defineUrl": "/win32/winerror-h/fve_e_policy_passphrase_too_simple/",
+  "message": "Your password does not meet the complexity requirements set by your system administrator. Try adding upper and lowercase characters, numbers, and symbols.",
+  "remarks": null,
+  "aka": [
+    "-2144272255"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/fve_e_policy_passphrase_too_simple/-2144272255/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

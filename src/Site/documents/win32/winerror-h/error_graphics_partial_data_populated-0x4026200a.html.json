@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\error_graphics_partial_data_populated\0x4026200a\index.html.json
+
+title: 0x4026200A ERROR_GRAPHICS_PARTIAL_DATA_POPULATED in winerror.h
+description: Specified buffer is not big enough to contain entire requested dataset. Partial data populated up to the size of the buffer. Caller needs to provide buffer of size as specified in the partially populated buffer's content (interface specific).
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x4026200A",
+  "codeUrl": "/win32/winerror-h/error_graphics_partial_data_populated/0x4026200a/",
+  "numericCode": 1076240394,
+  "define": "ERROR_GRAPHICS_PARTIAL_DATA_POPULATED",
+  "defineUrl": "/win32/winerror-h/error_graphics_partial_data_populated/",
+  "message": "Specified buffer is not big enough to contain entire requested dataset. Partial data populated up to the size of the buffer. Caller needs to provide buffer of size as specified in the partially populated buffer's content (interface specific).",
+  "remarks": null,
+  "aka": [
+    "1076240394"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_graphics_partial_data_populated/1076240394/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

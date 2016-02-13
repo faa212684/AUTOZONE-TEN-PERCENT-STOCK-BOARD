@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_wrong_efs\0xc000028f\index.html.json
+
+title: 0xC000028F STATUS_WRONG_EFS in ntstatus.h
+description: The file was encrypted with a different encryption driver than is currently loaded.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000028F",
+  "codeUrl": "/win32/ntstatus-h/status_wrong_efs/0xc000028f/",
+  "numericCode": -1073741169,
+  "define": "STATUS_WRONG_EFS",
+  "defineUrl": "/win32/ntstatus-h/status_wrong_efs/",
+  "message": "The file was encrypted with a different encryption driver than is currently loaded.",
+  "remarks": null,
+  "aka": [
+    "-1073741169"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_wrong_efs/-1073741169/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

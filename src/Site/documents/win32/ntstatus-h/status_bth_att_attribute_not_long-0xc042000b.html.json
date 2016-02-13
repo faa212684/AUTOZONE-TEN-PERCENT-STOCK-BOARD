@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_bth_att_attribute_not_long\0xc042000b\index.html.json
+
+title: 0xC042000B STATUS_BTH_ATT_ATTRIBUTE_NOT_LONG in ntstatus.h
+description: The attribute cannot be read or written using the Read Blob Request.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC042000B",
+  "codeUrl": "/win32/ntstatus-h/status_bth_att_attribute_not_long/0xc042000b/",
+  "numericCode": -1069416437,
+  "define": "STATUS_BTH_ATT_ATTRIBUTE_NOT_LONG",
+  "defineUrl": "/win32/ntstatus-h/status_bth_att_attribute_not_long/",
+  "message": "The attribute cannot be read or written using the Read Blob Request.",
+  "remarks": null,
+  "aka": [
+    "-1069416437"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_bth_att_attribute_not_long/-1069416437/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

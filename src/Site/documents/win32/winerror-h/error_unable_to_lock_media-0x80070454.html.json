@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_unable_to_lock_media\0x80070454\index.html.json
+canonical: /win32/winerror-h/error_unable_to_lock_media/1108/
+title: 0x80070454 ERROR_UNABLE_TO_LOCK_MEDIA in winerror.h
+description: Unable to lock the media eject mechanism.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80070454",
+  "codeUrl": "/win32/winerror-h/error_unable_to_lock_media/0x80070454/",
+  "numericCode": 0,
+  "define": "ERROR_UNABLE_TO_LOCK_MEDIA",
+  "defineUrl": "/win32/winerror-h/error_unable_to_lock_media/",
+  "message": "Unable to lock the media eject mechanism.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "1108",
+  "originalCodeUrl": "/win32/winerror-h/error_unable_to_lock_media/1108/"
+}

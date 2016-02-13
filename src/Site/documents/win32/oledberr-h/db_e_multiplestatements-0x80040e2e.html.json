@@ -1,0 +1,28 @@
+---
+output: win32\oledberr-h\db_e_multiplestatements\0x80040e2e\index.html.json
+
+title: 0x80040E2E DB_E_MULTIPLESTATEMENTS in oledberr.h
+description: Multiple-statement commands are not supported by this provider.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "oledberr.h",
+  "sourceUrl": "/win32/oledberr-h/",
+  "code": "0x80040E2E",
+  "codeUrl": "/win32/oledberr-h/db_e_multiplestatements/0x80040e2e/",
+  "numericCode": -2147217874,
+  "define": "DB_E_MULTIPLESTATEMENTS",
+  "defineUrl": "/win32/oledberr-h/db_e_multiplestatements/",
+  "message": "Multiple-statement commands are not supported by this provider.",
+  "remarks": null,
+  "aka": [
+    "-2147217874"
+  ],
+  "akaUrl": [
+    "/win32/oledberr-h/db_e_multiplestatements/-2147217874/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

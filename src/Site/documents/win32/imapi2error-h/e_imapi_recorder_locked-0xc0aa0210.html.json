@@ -1,0 +1,28 @@
+---
+output: win32\imapi2error-h\e_imapi_recorder_locked\0xc0aa0210\index.html.json
+
+title: 0xC0AA0210 E_IMAPI_RECORDER_LOCKED in imapi2error.h
+description: The device associated with this recorder during the last operation has been exclusively locked, causing this operation to failed.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "imapi2error.h",
+  "sourceUrl": "/win32/imapi2error-h/",
+  "code": "0xC0AA0210",
+  "codeUrl": "/win32/imapi2error-h/e_imapi_recorder_locked/0xc0aa0210/",
+  "numericCode": -1062600176,
+  "define": "E_IMAPI_RECORDER_LOCKED",
+  "defineUrl": "/win32/imapi2error-h/e_imapi_recorder_locked/",
+  "message": "The device associated with this recorder during the last operation has been exclusively locked, causing this operation to failed.",
+  "remarks": null,
+  "aka": [
+    "-1062600176"
+  ],
+  "akaUrl": [
+    "/win32/imapi2error-h/e_imapi_recorder_locked/-1062600176/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,25 @@
+---
+output: win32\wsmerror-h\error_wsman_client_encodeobject_null_param\-2144108334\index.html.json
+canonical: /win32/wsmerror-h/error_wsman_client_encodeobject_null_param/0x803380d2/
+title: -2144108334 ERROR_WSMAN_CLIENT_ENCODEOBJECT_NULL_PARAM in wsmerror.h
+description: The WinRM client cannot process the request. One of the parameters required for the WSManEncodeObject(Ex) function is null or zero.
+Change the request to include the missing parameter and try again.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "-2144108334",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_client_encodeobject_null_param/-2144108334/",
+  "numericCode": 0,
+  "define": "ERROR_WSMAN_CLIENT_ENCODEOBJECT_NULL_PARAM",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_client_encodeobject_null_param/",
+  "message": "The WinRM client cannot process the request. One of the parameters required for the WSManEncodeObject(Ex) function is null or zero.\r\nChange the request to include the missing parameter and try again.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x803380D2",
+  "originalCodeUrl": "/win32/wsmerror-h/error_wsman_client_encodeobject_null_param/0x803380d2/"
+}

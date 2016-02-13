@@ -1,0 +1,24 @@
+---
+output: win32\netevent-h\event_srv_disk_full\-2147481635\index.html.json
+canonical: /win32/netevent-h/event_srv_disk_full/0x800007dd/
+title: -2147481635 EVENT_SRV_DISK_FULL in netevent.h
+description: The %2 disk is at or near capacity.  You may need to delete some files.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "-2147481635",
+  "codeUrl": "/win32/netevent-h/event_srv_disk_full/-2147481635/",
+  "numericCode": 0,
+  "define": "EVENT_SRV_DISK_FULL",
+  "defineUrl": "/win32/netevent-h/event_srv_disk_full/",
+  "message": "The %2 disk is at or near capacity.  You may need to delete some files.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x800007DD",
+  "originalCodeUrl": "/win32/netevent-h/event_srv_disk_full/0x800007dd/"
+}

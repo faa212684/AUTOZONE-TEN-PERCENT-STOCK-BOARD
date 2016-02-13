@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ea_table_full\277\index.html.json
+
+title: 277 ERROR_EA_TABLE_FULL in winerror.h
+description: The extended attribute table file is full.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "277",
+  "codeUrl": "/win32/winerror-h/error_ea_table_full/277/",
+  "numericCode": 277,
+  "define": "ERROR_EA_TABLE_FULL",
+  "defineUrl": "/win32/winerror-h/error_ea_table_full/",
+  "message": "The extended attribute table file is full.",
+  "remarks": null,
+  "aka": [
+    "0x80070115",
+    "-2147024619"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ea_table_full/0x80070115/",
+    "/win32/winerror-h/error_ea_table_full/-2147024619/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

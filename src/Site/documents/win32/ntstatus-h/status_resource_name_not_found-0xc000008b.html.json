@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_resource_name_not_found\0xc000008b\index.html.json
+
+title: 0xC000008B STATUS_RESOURCE_NAME_NOT_FOUND in ntstatus.h
+description: Indicates the specified resource name cannot be found in the image file.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000008B",
+  "codeUrl": "/win32/ntstatus-h/status_resource_name_not_found/0xc000008b/",
+  "numericCode": -1073741685,
+  "define": "STATUS_RESOURCE_NAME_NOT_FOUND",
+  "defineUrl": "/win32/ntstatus-h/status_resource_name_not_found/",
+  "message": "Indicates the specified resource name cannot be found in the image file.",
+  "remarks": null,
+  "aka": [
+    "-1073741685"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_resource_name_not_found/-1073741685/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

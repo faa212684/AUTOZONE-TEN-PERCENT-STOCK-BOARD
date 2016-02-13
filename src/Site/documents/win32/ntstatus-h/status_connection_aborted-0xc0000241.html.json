@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_connection_aborted\0xc0000241\index.html.json
+
+title: 0xC0000241 STATUS_CONNECTION_ABORTED in ntstatus.h
+description: The transport connection was aborted by the local system.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000241",
+  "codeUrl": "/win32/ntstatus-h/status_connection_aborted/0xc0000241/",
+  "numericCode": -1073741247,
+  "define": "STATUS_CONNECTION_ABORTED",
+  "defineUrl": "/win32/ntstatus-h/status_connection_aborted/",
+  "message": "The transport connection was aborted by the local system.",
+  "remarks": null,
+  "aka": [
+    "-1073741247"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_connection_aborted/-1073741247/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

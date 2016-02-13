@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\tpm_e_badindex\0x80280002\index.html.json
+
+title: 0x80280002 TPM_E_BADINDEX in winerror.h
+description: The index to a PCR, DIR or other register is incorrect.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80280002",
+  "codeUrl": "/win32/winerror-h/tpm_e_badindex/0x80280002/",
+  "numericCode": -2144862206,
+  "define": "TPM_E_BADINDEX",
+  "defineUrl": "/win32/winerror-h/tpm_e_badindex/",
+  "message": "The index to a PCR, DIR or other register is incorrect.",
+  "remarks": null,
+  "aka": [
+    "-2144862206"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/tpm_e_badindex/-2144862206/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

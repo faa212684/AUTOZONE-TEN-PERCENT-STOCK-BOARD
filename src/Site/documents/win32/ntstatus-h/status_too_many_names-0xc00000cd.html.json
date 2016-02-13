@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_too_many_names\0xc00000cd\index.html.json
+
+title: 0xC00000CD STATUS_TOO_MANY_NAMES in ntstatus.h
+description: The name limit for the local computer network adapter card was exceeded.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC00000CD",
+  "codeUrl": "/win32/ntstatus-h/status_too_many_names/0xc00000cd/",
+  "numericCode": -1073741619,
+  "define": "STATUS_TOO_MANY_NAMES",
+  "defineUrl": "/win32/ntstatus-h/status_too_many_names/",
+  "message": "The name limit for the local computer network adapter card was exceeded.",
+  "remarks": null,
+  "aka": [
+    "-1073741619"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_too_many_names/-1073741619/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_offload_read_file_not_supported\0xc000a2a3\index.html.json
+
+title: 0xC000A2A3 STATUS_OFFLOAD_READ_FILE_NOT_SUPPORTED in ntstatus.h
+description: The copy offload read operation is not supported for the file.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000A2A3",
+  "codeUrl": "/win32/ntstatus-h/status_offload_read_file_not_supported/0xc000a2a3/",
+  "numericCode": -1073700189,
+  "define": "STATUS_OFFLOAD_READ_FILE_NOT_SUPPORTED",
+  "defineUrl": "/win32/ntstatus-h/status_offload_read_file_not_supported/",
+  "message": "The copy offload read operation is not supported for the file.",
+  "remarks": null,
+  "aka": [
+    "-1073700189"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_offload_read_file_not_supported/-1073700189/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

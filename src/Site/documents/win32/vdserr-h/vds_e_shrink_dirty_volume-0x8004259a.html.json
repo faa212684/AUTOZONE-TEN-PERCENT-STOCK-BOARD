@@ -1,0 +1,30 @@
+---
+output: win32\vdserr-h\vds_e_shrink_dirty_volume\0x8004259a\index.html.json
+
+title: 0x8004259A VDS_E_SHRINK_DIRTY_VOLUME in vdserr.h
+description: The volume you have selected to shrink may be corrupted. 
+Use Chkdsk to fix the corruption problem, and then try to shrink the 
+volume again.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x8004259A",
+  "codeUrl": "/win32/vdserr-h/vds_e_shrink_dirty_volume/0x8004259a/",
+  "numericCode": -2147211878,
+  "define": "VDS_E_SHRINK_DIRTY_VOLUME",
+  "defineUrl": "/win32/vdserr-h/vds_e_shrink_dirty_volume/",
+  "message": "The volume you have selected to shrink may be corrupted. \r\nUse Chkdsk to fix the corruption problem, and then try to shrink the \r\nvolume again.",
+  "remarks": null,
+  "aka": [
+    "-2147211878"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_shrink_dirty_volume/-2147211878/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

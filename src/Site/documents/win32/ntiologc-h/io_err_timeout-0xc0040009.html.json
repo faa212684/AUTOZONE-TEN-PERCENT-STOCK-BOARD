@@ -1,0 +1,28 @@
+---
+output: win32\ntiologc-h\io_err_timeout\0xc0040009\index.html.json
+
+title: 0xC0040009 IO_ERR_TIMEOUT in ntiologc.h
+description: The device, %1, did not respond within the timeout period.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntiologc.h",
+  "sourceUrl": "/win32/ntiologc-h/",
+  "code": "0xC0040009",
+  "codeUrl": "/win32/ntiologc-h/io_err_timeout/0xc0040009/",
+  "numericCode": -1073479671,
+  "define": "IO_ERR_TIMEOUT",
+  "defineUrl": "/win32/ntiologc-h/io_err_timeout/",
+  "message": "The device, %1, did not respond within the timeout period.",
+  "remarks": null,
+  "aka": [
+    "-1073479671"
+  ],
+  "akaUrl": [
+    "/win32/ntiologc-h/io_err_timeout/-1073479671/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\wsmerror-h\error_wsman_no_dhcp_addresses\0x8033807d\index.html.json
+
+title: 0x8033807D ERROR_WSMAN_NO_DHCP_ADDRESSES in wsmerror.h
+description: The WS-Management service cannot find the dynamic IP address on the adapter with the configured MAC address.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x8033807D",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_no_dhcp_addresses/0x8033807d/",
+  "numericCode": -2144108419,
+  "define": "ERROR_WSMAN_NO_DHCP_ADDRESSES",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_no_dhcp_addresses/",
+  "message": "The WS-Management service cannot find the dynamic IP address on the adapter with the configured MAC address.",
+  "remarks": null,
+  "aka": [
+    "-2144108419"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_no_dhcp_addresses/-2144108419/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

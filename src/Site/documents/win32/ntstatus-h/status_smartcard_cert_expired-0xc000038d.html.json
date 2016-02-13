@@ -1,0 +1,29 @@
+---
+output: win32\ntstatus-h\status_smartcard_cert_expired\0xc000038d\index.html.json
+
+title: 0xC000038D STATUS_SMARTCARD_CERT_EXPIRED in ntstatus.h
+description: The smartcard certificate used for authentication has expired. Please
+contact your system administrator.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000038D",
+  "codeUrl": "/win32/ntstatus-h/status_smartcard_cert_expired/0xc000038d/",
+  "numericCode": -1073740915,
+  "define": "STATUS_SMARTCARD_CERT_EXPIRED",
+  "defineUrl": "/win32/ntstatus-h/status_smartcard_cert_expired/",
+  "message": "The smartcard certificate used for authentication has expired. Please\r\ncontact your system administrator.",
+  "remarks": null,
+  "aka": [
+    "-1073740915"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_smartcard_cert_expired/-1073740915/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

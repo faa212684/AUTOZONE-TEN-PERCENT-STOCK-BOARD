@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_meta_expansion_too_long\0x800700d0\index.html.json
+canonical: /win32/winerror-h/error_meta_expansion_too_long/208/
+title: 0x800700d0 ERROR_META_EXPANSION_TOO_LONG in winerror.h
+description: The global filename characters, * or ?, are entered incorrectly or too many global filename characters are specified.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800700d0",
+  "codeUrl": "/win32/winerror-h/error_meta_expansion_too_long/0x800700d0/",
+  "numericCode": 0,
+  "define": "ERROR_META_EXPANSION_TOO_LONG",
+  "defineUrl": "/win32/winerror-h/error_meta_expansion_too_long/",
+  "message": "The global filename characters, * or ?, are entered incorrectly or too many global filename characters are specified.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "208",
+  "originalCodeUrl": "/win32/winerror-h/error_meta_expansion_too_long/208/"
+}

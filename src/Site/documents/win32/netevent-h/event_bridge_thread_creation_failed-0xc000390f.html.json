@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_bridge_thread_creation_failed\0xc000390f\index.html.json
+
+title: 0xC000390F EVENT_BRIDGE_THREAD_CREATION_FAILED in netevent.h
+description: Bridge: The bridge could not initialize because it failed to create a system thread.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC000390F",
+  "codeUrl": "/win32/netevent-h/event_bridge_thread_creation_failed/0xc000390f/",
+  "numericCode": -1073727217,
+  "define": "EVENT_BRIDGE_THREAD_CREATION_FAILED",
+  "defineUrl": "/win32/netevent-h/event_bridge_thread_creation_failed/",
+  "message": "Bridge: The bridge could not initialize because it failed to create a system thread.",
+  "remarks": null,
+  "aka": [
+    "-1073727217"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_bridge_thread_creation_failed/-1073727217/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,30 @@
+---
+output: win32\netevent-h\event_service_stop_success_with_reason\0x40001b82\index.html.json
+
+title: 0x40001B82 EVENT_SERVICE_STOP_SUCCESS_WITH_REASON in netevent.h
+description: The %1 service was successfully sent a %2 control.%n%n
+The reason specified was: %3 [%4]%n%n
+Comment: %5
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x40001B82",
+  "codeUrl": "/win32/netevent-h/event_service_stop_success_with_reason/0x40001b82/",
+  "numericCode": 1073748866,
+  "define": "EVENT_SERVICE_STOP_SUCCESS_WITH_REASON",
+  "defineUrl": "/win32/netevent-h/event_service_stop_success_with_reason/",
+  "message": "The %1 service was successfully sent a %2 control.%n%n\r\nThe reason specified was: %3 [%4]%n%n\r\nComment: %5",
+  "remarks": null,
+  "aka": [
+    "1073748866"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_service_stop_success_with_reason/1073748866/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

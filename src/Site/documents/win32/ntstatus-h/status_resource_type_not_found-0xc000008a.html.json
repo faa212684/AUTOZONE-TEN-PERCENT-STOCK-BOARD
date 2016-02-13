@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_resource_type_not_found\0xc000008a\index.html.json
+
+title: 0xC000008A STATUS_RESOURCE_TYPE_NOT_FOUND in ntstatus.h
+description: Indicates the specified resource type cannot be found in the image file.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000008A",
+  "codeUrl": "/win32/ntstatus-h/status_resource_type_not_found/0xc000008a/",
+  "numericCode": -1073741686,
+  "define": "STATUS_RESOURCE_TYPE_NOT_FOUND",
+  "defineUrl": "/win32/ntstatus-h/status_resource_type_not_found/",
+  "message": "Indicates the specified resource type cannot be found in the image file.",
+  "remarks": null,
+  "aka": [
+    "-1073741686"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_resource_type_not_found/-1073741686/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

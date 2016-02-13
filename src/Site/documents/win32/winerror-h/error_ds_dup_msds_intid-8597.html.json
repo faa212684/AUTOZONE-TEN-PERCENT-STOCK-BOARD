@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ds_dup_msds_intid\8597\index.html.json
+
+title: 8597 ERROR_DS_DUP_MSDS_INTID in winerror.h
+description: Schema update failed: Duplicate msDS-INtId. Retry the operation.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "8597",
+  "codeUrl": "/win32/winerror-h/error_ds_dup_msds_intid/8597/",
+  "numericCode": 8597,
+  "define": "ERROR_DS_DUP_MSDS_INTID",
+  "defineUrl": "/win32/winerror-h/error_ds_dup_msds_intid/",
+  "message": "Schema update failed: Duplicate msDS-INtId. Retry the operation.",
+  "remarks": null,
+  "aka": [
+    "0x80072195",
+    "-2147016299"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ds_dup_msds_intid/0x80072195/",
+    "/win32/winerror-h/error_ds_dup_msds_intid/-2147016299/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

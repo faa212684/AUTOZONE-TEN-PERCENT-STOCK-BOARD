@@ -1,0 +1,28 @@
+---
+output: win32\windowssearcherrors-h\prth_s_try_impersonating\0x00041225\index.html.json
+
+title: 0x00041225 PRTH_S_TRY_IMPERSONATING in WindowsSearchErrors.h
+description: The item should be accessed while impersonating a user. Protocol handler is expected to implement IUrlAccessor3.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "0x00041225",
+  "codeUrl": "/win32/windowssearcherrors-h/prth_s_try_impersonating/0x00041225/",
+  "numericCode": 266789,
+  "define": "PRTH_S_TRY_IMPERSONATING",
+  "defineUrl": "/win32/windowssearcherrors-h/prth_s_try_impersonating/",
+  "message": "The item should be accessed while impersonating a user. Protocol handler is expected to implement IUrlAccessor3.",
+  "remarks": null,
+  "aka": [
+    "266789"
+  ],
+  "akaUrl": [
+    "/win32/windowssearcherrors-h/prth_s_try_impersonating/266789/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

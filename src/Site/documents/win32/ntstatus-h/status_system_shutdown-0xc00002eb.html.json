@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_system_shutdown\0xc00002eb\index.html.json
+
+title: 0xC00002EB STATUS_SYSTEM_SHUTDOWN in ntstatus.h
+description: The system is in the process of shutting down.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC00002EB",
+  "codeUrl": "/win32/ntstatus-h/status_system_shutdown/0xc00002eb/",
+  "numericCode": -1073741077,
+  "define": "STATUS_SYSTEM_SHUTDOWN",
+  "defineUrl": "/win32/ntstatus-h/status_system_shutdown/",
+  "message": "The system is in the process of shutting down.",
+  "remarks": null,
+  "aka": [
+    "-1073741077"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_system_shutdown/-1073741077/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

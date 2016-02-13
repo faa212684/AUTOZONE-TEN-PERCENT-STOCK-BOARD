@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\e_syncengine_storage_service_blocked\0x8802d00a\index.html.json
+
+title: 0x8802D00A E_SYNCENGINE_STORAGE_SERVICE_BLOCKED in winerror.h
+description: The service has blocked your account from accessing the storage service.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8802D00A",
+  "codeUrl": "/win32/winerror-h/e_syncengine_storage_service_blocked/0x8802d00a/",
+  "numericCode": -2013081590,
+  "define": "E_SYNCENGINE_STORAGE_SERVICE_BLOCKED",
+  "defineUrl": "/win32/winerror-h/e_syncengine_storage_service_blocked/",
+  "message": "The service has blocked your account from accessing the storage service.",
+  "remarks": null,
+  "aka": [
+    "-2013081590"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/e_syncengine_storage_service_blocked/-2013081590/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

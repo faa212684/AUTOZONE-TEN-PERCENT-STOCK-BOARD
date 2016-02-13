@@ -1,0 +1,25 @@
+---
+output: win32\winerror-h\dxgi_error_frame_statistics_disjoint\-2005270517\index.html.json
+canonical: /win32/winerror-h/dxgi_error_frame_statistics_disjoint/0x887a000b/
+title: -2005270517 DXGI_ERROR_FRAME_STATISTICS_DISJOINT in winerror.h
+description: An event (such as power cycle) interrupted the gathering of presentation statistics. Any previous statistics should be
+considered invalid.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2005270517",
+  "codeUrl": "/win32/winerror-h/dxgi_error_frame_statistics_disjoint/-2005270517/",
+  "numericCode": 0,
+  "define": "DXGI_ERROR_FRAME_STATISTICS_DISJOINT",
+  "defineUrl": "/win32/winerror-h/dxgi_error_frame_statistics_disjoint/",
+  "message": "An event (such as power cycle) interrupted the gathering of presentation statistics. Any previous statistics should be\r\nconsidered invalid.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x887A000B",
+  "originalCodeUrl": "/win32/winerror-h/dxgi_error_frame_statistics_disjoint/0x887a000b/"
+}

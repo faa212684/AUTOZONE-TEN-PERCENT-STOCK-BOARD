@@ -1,0 +1,31 @@
+---
+output: win32\wdsmcerr-h\evt_wdsmcs_e_non_wds_duplicate_multicast_addr\0xc1210203\index.html.json
+
+title: 0xC1210203 EVT_WDSMCS_E_NON_WDS_DUPLICATE_MULTICAST_ADDR in wdsmcerr.h
+description: The multicast IP address %1 is being used by another multicast server, which has 
+IP %2. Use the Windows Deployment Services management tools to configure your 
+multicast IP address range to avoid this multicast IP address. If you allow this
+overlap to continue, your network usage will be increased.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wdsmcerr.h",
+  "sourceUrl": "/win32/wdsmcerr-h/",
+  "code": "0xC1210203",
+  "codeUrl": "/win32/wdsmcerr-h/evt_wdsmcs_e_non_wds_duplicate_multicast_addr/0xc1210203/",
+  "numericCode": -1054801405,
+  "define": "EVT_WDSMCS_E_NON_WDS_DUPLICATE_MULTICAST_ADDR",
+  "defineUrl": "/win32/wdsmcerr-h/evt_wdsmcs_e_non_wds_duplicate_multicast_addr/",
+  "message": "The multicast IP address %1 is being used by another multicast server, which has \r\nIP %2. Use the Windows Deployment Services management tools to configure your \r\nmulticast IP address range to avoid this multicast IP address. If you allow this\r\noverlap to continue, your network usage will be increased.",
+  "remarks": null,
+  "aka": [
+    "-1054801405"
+  ],
+  "akaUrl": [
+    "/win32/wdsmcerr-h/evt_wdsmcs_e_non_wds_duplicate_multicast_addr/-1054801405/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

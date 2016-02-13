@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_volmgr_pack_config_update_failed\-1070071804\index.html.json
+canonical: /win32/ntstatus-h/status_volmgr_pack_config_update_failed/0xc0380004/
+title: -1070071804 STATUS_VOLMGR_PACK_CONFIG_UPDATE_FAILED in ntstatus.h
+description: A majority of disks failed to be updated with the new configuration.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1070071804",
+  "codeUrl": "/win32/ntstatus-h/status_volmgr_pack_config_update_failed/-1070071804/",
+  "numericCode": 0,
+  "define": "STATUS_VOLMGR_PACK_CONFIG_UPDATE_FAILED",
+  "defineUrl": "/win32/ntstatus-h/status_volmgr_pack_config_update_failed/",
+  "message": "A majority of disks failed to be updated with the new configuration.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0380004",
+  "originalCodeUrl": "/win32/ntstatus-h/status_volmgr_pack_config_update_failed/0xc0380004/"
+}

@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_invalid_printer_command\1803\index.html.json
+
+title: 1803 ERROR_INVALID_PRINTER_COMMAND in winerror.h
+description: The printer command is invalid.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1803",
+  "codeUrl": "/win32/winerror-h/error_invalid_printer_command/1803/",
+  "numericCode": 1803,
+  "define": "ERROR_INVALID_PRINTER_COMMAND",
+  "defineUrl": "/win32/winerror-h/error_invalid_printer_command/",
+  "message": "The printer command is invalid.",
+  "remarks": null,
+  "aka": [
+    "0x8007070b",
+    "-2147023093"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_invalid_printer_command/0x8007070b/",
+    "/win32/winerror-h/error_invalid_printer_command/-2147023093/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

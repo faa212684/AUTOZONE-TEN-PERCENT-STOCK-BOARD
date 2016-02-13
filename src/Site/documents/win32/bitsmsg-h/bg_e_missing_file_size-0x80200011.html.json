@@ -1,0 +1,28 @@
+---
+output: win32\bitsmsg-h\bg_e_missing_file_size\0x80200011\index.html.json
+
+title: 0x80200011 BG_E_MISSING_FILE_SIZE in BitsMsg.h
+description: The server did not return the file size. The URL might point to dynamic content. The Content-Length header is not available in the server's HTTP reply.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "BitsMsg.h",
+  "sourceUrl": "/win32/bitsmsg-h/",
+  "code": "0x80200011",
+  "codeUrl": "/win32/bitsmsg-h/bg_e_missing_file_size/0x80200011/",
+  "numericCode": -2145386479,
+  "define": "BG_E_MISSING_FILE_SIZE",
+  "defineUrl": "/win32/bitsmsg-h/bg_e_missing_file_size/",
+  "message": "The server did not return the file size. The URL might point to dynamic content. The Content-Length header is not available in the server's HTTP reply.",
+  "remarks": null,
+  "aka": [
+    "-2145386479"
+  ],
+  "akaUrl": [
+    "/win32/bitsmsg-h/bg_e_missing_file_size/-2145386479/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

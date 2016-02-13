@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_kdc_cert_expired\-1073740786\index.html.json
+canonical: /win32/ntstatus-h/status_kdc_cert_expired/0xc000040e/
+title: -1073740786 STATUS_KDC_CERT_EXPIRED in ntstatus.h
+description: The domain controller certificate used for smartcard logon has expired. Please contact your system administrator with the contents of your system event log.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073740786",
+  "codeUrl": "/win32/ntstatus-h/status_kdc_cert_expired/-1073740786/",
+  "numericCode": 0,
+  "define": "STATUS_KDC_CERT_EXPIRED",
+  "defineUrl": "/win32/ntstatus-h/status_kdc_cert_expired/",
+  "message": "The domain controller certificate used for smartcard logon has expired. Please contact your system administrator with the contents of your system event log.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC000040E",
+  "originalCodeUrl": "/win32/ntstatus-h/status_kdc_cert_expired/0xc000040e/"
+}

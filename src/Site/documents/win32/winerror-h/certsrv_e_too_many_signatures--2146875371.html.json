@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\certsrv_e_too_many_signatures\-2146875371\index.html.json
+canonical: /win32/winerror-h/certsrv_e_too_many_signatures/0x80094815/
+title: -2146875371 CERTSRV_E_TOO_MANY_SIGNATURES in winerror.h
+description: The certificate template requires too many RA signatures. Only one RA signature is allowed.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2146875371",
+  "codeUrl": "/win32/winerror-h/certsrv_e_too_many_signatures/-2146875371/",
+  "numericCode": 0,
+  "define": "CERTSRV_E_TOO_MANY_SIGNATURES",
+  "defineUrl": "/win32/winerror-h/certsrv_e_too_many_signatures/",
+  "message": "The certificate template requires too many RA signatures. Only one RA signature is allowed.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80094815",
+  "originalCodeUrl": "/win32/winerror-h/certsrv_e_too_many_signatures/0x80094815/"
+}

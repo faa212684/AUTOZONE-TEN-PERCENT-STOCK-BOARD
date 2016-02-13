@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_insufficient_power\0xc00002de\index.html.json
+
+title: 0xC00002DE STATUS_INSUFFICIENT_POWER in ntstatus.h
+description: There is not enough power to complete the requested operation.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC00002DE",
+  "codeUrl": "/win32/ntstatus-h/status_insufficient_power/0xc00002de/",
+  "numericCode": -1073741090,
+  "define": "STATUS_INSUFFICIENT_POWER",
+  "defineUrl": "/win32/ntstatus-h/status_insufficient_power/",
+  "message": "There is not enough power to complete the requested operation.",
+  "remarks": null,
+  "aka": [
+    "-1073741090"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_insufficient_power/-1073741090/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

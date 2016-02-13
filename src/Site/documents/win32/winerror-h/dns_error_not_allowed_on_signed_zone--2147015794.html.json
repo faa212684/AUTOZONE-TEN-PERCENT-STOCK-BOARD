@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\dns_error_not_allowed_on_signed_zone\-2147015794\index.html.json
+canonical: /win32/winerror-h/dns_error_not_allowed_on_signed_zone/9102/
+title: -2147015794 DNS_ERROR_NOT_ALLOWED_ON_SIGNED_ZONE in winerror.h
+description: This operation is not allowed on a zone that is signed or has signing keys.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147015794",
+  "codeUrl": "/win32/winerror-h/dns_error_not_allowed_on_signed_zone/-2147015794/",
+  "numericCode": 0,
+  "define": "DNS_ERROR_NOT_ALLOWED_ON_SIGNED_ZONE",
+  "defineUrl": "/win32/winerror-h/dns_error_not_allowed_on_signed_zone/",
+  "message": "This operation is not allowed on a zone that is signed or has signing keys.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "9102",
+  "originalCodeUrl": "/win32/winerror-h/dns_error_not_allowed_on_signed_zone/9102/"
+}

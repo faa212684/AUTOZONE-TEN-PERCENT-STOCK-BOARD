@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_smartcard_logon_required\-1073741062\index.html.json
+canonical: /win32/ntstatus-h/status_smartcard_logon_required/0xc00002fa/
+title: -1073741062 STATUS_SMARTCARD_LOGON_REQUIRED in ntstatus.h
+description: Smartcard logon is required and was not used.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741062",
+  "codeUrl": "/win32/ntstatus-h/status_smartcard_logon_required/-1073741062/",
+  "numericCode": 0,
+  "define": "STATUS_SMARTCARD_LOGON_REQUIRED",
+  "defineUrl": "/win32/ntstatus-h/status_smartcard_logon_required/",
+  "message": "Smartcard logon is required and was not used.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC00002FA",
+  "originalCodeUrl": "/win32/ntstatus-h/status_smartcard_logon_required/0xc00002fa/"
+}

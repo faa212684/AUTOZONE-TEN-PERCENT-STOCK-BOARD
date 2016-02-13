@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_incompatible_driver_blocked\-1073740764\index.html.json
+canonical: /win32/ntstatus-h/status_incompatible_driver_blocked/0xc0000424/
+title: -1073740764 STATUS_INCOMPATIBLE_DRIVER_BLOCKED in ntstatus.h
+description: %2 has been blocked from loading due to incompatibility with this system. Please contact your software vendor for a compatible version of the driver.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073740764",
+  "codeUrl": "/win32/ntstatus-h/status_incompatible_driver_blocked/-1073740764/",
+  "numericCode": 0,
+  "define": "STATUS_INCOMPATIBLE_DRIVER_BLOCKED",
+  "defineUrl": "/win32/ntstatus-h/status_incompatible_driver_blocked/",
+  "message": "%2 has been blocked from loading due to incompatibility with this system. Please contact your software vendor for a compatible version of the driver.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000424",
+  "originalCodeUrl": "/win32/ntstatus-h/status_incompatible_driver_blocked/0xc0000424/"
+}

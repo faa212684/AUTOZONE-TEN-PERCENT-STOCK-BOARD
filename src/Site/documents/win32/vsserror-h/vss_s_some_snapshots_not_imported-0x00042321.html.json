@@ -1,0 +1,28 @@
+---
+output: win32\vsserror-h\vss_s_some_snapshots_not_imported\0x00042321\index.html.json
+
+title: 0x00042321 VSS_S_SOME_SNAPSHOTS_NOT_IMPORTED in vsserror.h
+description: Some shadow copies were not successfully imported.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vsserror.h",
+  "sourceUrl": "/win32/vsserror-h/",
+  "code": "0x00042321",
+  "codeUrl": "/win32/vsserror-h/vss_s_some_snapshots_not_imported/0x00042321/",
+  "numericCode": 271137,
+  "define": "VSS_S_SOME_SNAPSHOTS_NOT_IMPORTED",
+  "defineUrl": "/win32/vsserror-h/vss_s_some_snapshots_not_imported/",
+  "message": "Some shadow copies were not successfully imported.",
+  "remarks": null,
+  "aka": [
+    "271137"
+  ],
+  "akaUrl": [
+    "/win32/vsserror-h/vss_s_some_snapshots_not_imported/271137/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

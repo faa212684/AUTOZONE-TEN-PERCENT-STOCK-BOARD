@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_transaction_not_active\-1072103421\index.html.json
+canonical: /win32/ntstatus-h/status_transaction_not_active/0xc0190003/
+title: -1072103421 STATUS_TRANSACTION_NOT_ACTIVE in ntstatus.h
+description: The requested operation was made in the context of a transaction that is no longer active.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1072103421",
+  "codeUrl": "/win32/ntstatus-h/status_transaction_not_active/-1072103421/",
+  "numericCode": 0,
+  "define": "STATUS_TRANSACTION_NOT_ACTIVE",
+  "defineUrl": "/win32/ntstatus-h/status_transaction_not_active/",
+  "message": "The requested operation was made in the context of a transaction that is no longer active.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0190003",
+  "originalCodeUrl": "/win32/ntstatus-h/status_transaction_not_active/0xc0190003/"
+}

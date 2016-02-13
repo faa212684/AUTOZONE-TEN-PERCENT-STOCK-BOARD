@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_bridge_thread_ref_failed\0xc0003910\index.html.json
+
+title: 0xC0003910 EVENT_BRIDGE_THREAD_REF_FAILED in netevent.h
+description: Bridge: The bridge could not initialize because it failed to reference its system thread.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC0003910",
+  "codeUrl": "/win32/netevent-h/event_bridge_thread_ref_failed/0xc0003910/",
+  "numericCode": -1073727216,
+  "define": "EVENT_BRIDGE_THREAD_REF_FAILED",
+  "defineUrl": "/win32/netevent-h/event_bridge_thread_ref_failed/",
+  "message": "Bridge: The bridge could not initialize because it failed to reference its system thread.",
+  "remarks": null,
+  "aka": [
+    "-1073727216"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_bridge_thread_ref_failed/-1073727216/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

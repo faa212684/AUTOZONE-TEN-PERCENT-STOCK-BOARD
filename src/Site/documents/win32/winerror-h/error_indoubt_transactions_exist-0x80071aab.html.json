@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_indoubt_transactions_exist\0x80071aab\index.html.json
+canonical: /win32/winerror-h/error_indoubt_transactions_exist/6827/
+title: 0x80071aab ERROR_INDOUBT_TRANSACTIONS_EXIST in winerror.h
+description: The operation would leave a transactional resource manager in an inconsistent state and is therefore not allowed.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80071aab",
+  "codeUrl": "/win32/winerror-h/error_indoubt_transactions_exist/0x80071aab/",
+  "numericCode": 0,
+  "define": "ERROR_INDOUBT_TRANSACTIONS_EXIST",
+  "defineUrl": "/win32/winerror-h/error_indoubt_transactions_exist/",
+  "message": "The operation would leave a transactional resource manager in an inconsistent state and is therefore not allowed.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "6827",
+  "originalCodeUrl": "/win32/winerror-h/error_indoubt_transactions_exist/6827/"
+}

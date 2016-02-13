@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\crypt_e_invalid_x500_string\-2146885597\index.html.json
+canonical: /win32/winerror-h/crypt_e_invalid_x500_string/0x80092023/
+title: -2146885597 CRYPT_E_INVALID_X500_STRING in winerror.h
+description: The string contains an invalid X500 name attribute key, oid, value or delimiter.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2146885597",
+  "codeUrl": "/win32/winerror-h/crypt_e_invalid_x500_string/-2146885597/",
+  "numericCode": 0,
+  "define": "CRYPT_E_INVALID_X500_STRING",
+  "defineUrl": "/win32/winerror-h/crypt_e_invalid_x500_string/",
+  "message": "The string contains an invalid X500 name attribute key, oid, value or delimiter.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80092023",
+  "originalCodeUrl": "/win32/winerror-h/crypt_e_invalid_x500_string/0x80092023/"
+}

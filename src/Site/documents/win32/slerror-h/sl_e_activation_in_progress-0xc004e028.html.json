@@ -1,0 +1,28 @@
+---
+output: win32\slerror-h\sl_e_activation_in_progress\0xc004e028\index.html.json
+
+title: 0xC004E028 SL_E_ACTIVATION_IN_PROGRESS in slerror.h
+description: The Software Licensing Service reported that there is another activation attempt in progress for this sku.  Please wait for that attempt to complete before trying again.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "slerror.h",
+  "sourceUrl": "/win32/slerror-h/",
+  "code": "0xC004E028",
+  "codeUrl": "/win32/slerror-h/sl_e_activation_in_progress/0xc004e028/",
+  "numericCode": -1073422296,
+  "define": "SL_E_ACTIVATION_IN_PROGRESS",
+  "defineUrl": "/win32/slerror-h/sl_e_activation_in_progress/",
+  "message": "The Software Licensing Service reported that there is another activation attempt in progress for this sku.  Please wait for that attempt to complete before trying again.",
+  "remarks": null,
+  "aka": [
+    "-1073422296"
+  ],
+  "akaUrl": [
+    "/win32/slerror-h/sl_e_activation_in_progress/-1073422296/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

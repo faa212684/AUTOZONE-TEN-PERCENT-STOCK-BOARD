@@ -1,0 +1,29 @@
+---
+output: win32\winerror-h\dxgi_error_device_reset\0x887a0007\index.html.json
+
+title: 0x887A0007 DXGI_ERROR_DEVICE_RESET in winerror.h
+description: The GPU will not respond to more commands, most likely because some other application submitted invalid commands.
+The calling application should re-create the device and continue.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x887A0007",
+  "codeUrl": "/win32/winerror-h/dxgi_error_device_reset/0x887a0007/",
+  "numericCode": -2005270521,
+  "define": "DXGI_ERROR_DEVICE_RESET",
+  "defineUrl": "/win32/winerror-h/dxgi_error_device_reset/",
+  "message": "The GPU will not respond to more commands, most likely because some other application submitted invalid commands.\r\nThe calling application should re-create the device and continue.",
+  "remarks": null,
+  "aka": [
+    "-2005270521"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/dxgi_error_device_reset/-2005270521/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

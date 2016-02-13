@@ -1,0 +1,28 @@
+---
+output: win32\wsmerror-h\error_wsman_invalid_parameter\0x8033803a\index.html.json
+
+title: 0x8033803A ERROR_WSMAN_INVALID_PARAMETER in wsmerror.h
+description: The WS-Management service cannot process the request because a parameter for the operation is not valid.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x8033803A",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_invalid_parameter/0x8033803a/",
+  "numericCode": -2144108486,
+  "define": "ERROR_WSMAN_INVALID_PARAMETER",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_invalid_parameter/",
+  "message": "The WS-Management service cannot process the request because a parameter for the operation is not valid.",
+  "remarks": null,
+  "aka": [
+    "-2144108486"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_invalid_parameter/-2144108486/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

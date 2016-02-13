@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_resident_file_not_supported\0xc000047a\index.html.json
+
+title: 0xC000047A STATUS_RESIDENT_FILE_NOT_SUPPORTED in ntstatus.h
+description: An operation is not supported on a resident file.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000047A",
+  "codeUrl": "/win32/ntstatus-h/status_resident_file_not_supported/0xc000047a/",
+  "numericCode": -1073740678,
+  "define": "STATUS_RESIDENT_FILE_NOT_SUPPORTED",
+  "defineUrl": "/win32/ntstatus-h/status_resident_file_not_supported/",
+  "message": "An operation is not supported on a resident file.",
+  "remarks": null,
+  "aka": [
+    "-1073740678"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_resident_file_not_supported/-1073740678/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\winbio_err-h\winbio_fp_merge_failure\0x0000000a\index.html.json
+
+title: 0x0000000A WINBIO_FP_MERGE_FAILURE in winbio_err.h
+description: The fingerprint reader could not capture a good sample. Check to be sure the sensor is clean.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winbio_err.h",
+  "sourceUrl": "/win32/winbio_err-h/",
+  "code": "0x0000000A",
+  "codeUrl": "/win32/winbio_err-h/winbio_fp_merge_failure/0x0000000a/",
+  "numericCode": 10,
+  "define": "WINBIO_FP_MERGE_FAILURE",
+  "defineUrl": "/win32/winbio_err-h/winbio_fp_merge_failure/",
+  "message": "The fingerprint reader could not capture a good sample. Check to be sure the sensor is clean.",
+  "remarks": null,
+  "aka": [
+    "10"
+  ],
+  "akaUrl": [
+    "/win32/winbio_err-h/winbio_fp_merge_failure/10/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

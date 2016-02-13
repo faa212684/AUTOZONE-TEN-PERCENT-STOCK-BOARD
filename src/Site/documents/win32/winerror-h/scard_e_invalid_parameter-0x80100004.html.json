@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\scard_e_invalid_parameter\0x80100004\index.html.json
+
+title: 0x80100004 SCARD_E_INVALID_PARAMETER in winerror.h
+description: One or more of the supplied parameters could not be properly interpreted.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80100004",
+  "codeUrl": "/win32/winerror-h/scard_e_invalid_parameter/0x80100004/",
+  "numericCode": -2146435068,
+  "define": "SCARD_E_INVALID_PARAMETER",
+  "defineUrl": "/win32/winerror-h/scard_e_invalid_parameter/",
+  "message": "One or more of the supplied parameters could not be properly interpreted.",
+  "remarks": null,
+  "aka": [
+    "-2146435068"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/scard_e_invalid_parameter/-2146435068/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

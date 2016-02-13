@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_bth_att_unlikely\0xc042000e\index.html.json
+
+title: 0xC042000E STATUS_BTH_ATT_UNLIKELY in ntstatus.h
+description: The attribute request that was requested has encountered an error that was unlikely, and therefore could not be completed as requested.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC042000E",
+  "codeUrl": "/win32/ntstatus-h/status_bth_att_unlikely/0xc042000e/",
+  "numericCode": -1069416434,
+  "define": "STATUS_BTH_ATT_UNLIKELY",
+  "defineUrl": "/win32/ntstatus-h/status_bth_att_unlikely/",
+  "message": "The attribute request that was requested has encountered an error that was unlikely, and therefore could not be completed as requested.",
+  "remarks": null,
+  "aka": [
+    "-1069416434"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_bth_att_unlikely/-1069416434/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

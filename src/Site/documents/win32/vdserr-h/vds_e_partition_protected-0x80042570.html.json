@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_e_partition_protected\0x80042570\index.html.json
+
+title: 0x80042570 VDS_E_PARTITION_PROTECTED in vdserr.h
+description: Cannot delete a protected partition without the force protected parameter set.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x80042570",
+  "codeUrl": "/win32/vdserr-h/vds_e_partition_protected/0x80042570/",
+  "numericCode": -2147211920,
+  "define": "VDS_E_PARTITION_PROTECTED",
+  "defineUrl": "/win32/vdserr-h/vds_e_partition_protected/",
+  "message": "Cannot delete a protected partition without the force protected parameter set.",
+  "remarks": null,
+  "aka": [
+    "-2147211920"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_partition_protected/-2147211920/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

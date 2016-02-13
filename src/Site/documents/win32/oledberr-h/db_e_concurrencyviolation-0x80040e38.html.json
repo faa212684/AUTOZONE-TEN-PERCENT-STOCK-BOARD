@@ -1,0 +1,28 @@
+---
+output: win32\oledberr-h\db_e_concurrencyviolation\0x80040e38\index.html.json
+
+title: 0x80040E38 DB_E_CONCURRENCYVIOLATION in oledberr.h
+description: Rowset used optimistic concurrency and the value of a column has changed since it was last read.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "oledberr.h",
+  "sourceUrl": "/win32/oledberr-h/",
+  "code": "0x80040E38",
+  "codeUrl": "/win32/oledberr-h/db_e_concurrencyviolation/0x80040e38/",
+  "numericCode": -2147217864,
+  "define": "DB_E_CONCURRENCYVIOLATION",
+  "defineUrl": "/win32/oledberr-h/db_e_concurrencyviolation/",
+  "message": "Rowset used optimistic concurrency and the value of a column has changed since it was last read.",
+  "remarks": null,
+  "aka": [
+    "-2147217864"
+  ],
+  "akaUrl": [
+    "/win32/oledberr-h/db_e_concurrencyviolation/-2147217864/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

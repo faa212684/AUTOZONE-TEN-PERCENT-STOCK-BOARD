@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\xact_e_connection_request_denied\0x8004d100\index.html.json
+
+title: 0x8004D100 XACT_E_CONNECTION_REQUEST_DENIED in winerror.h
+description: The request to connect to the specified transaction coordinator was denied.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8004D100",
+  "codeUrl": "/win32/winerror-h/xact_e_connection_request_denied/0x8004d100/",
+  "numericCode": -2147168000,
+  "define": "XACT_E_CONNECTION_REQUEST_DENIED",
+  "defineUrl": "/win32/winerror-h/xact_e_connection_request_denied/",
+  "message": "The request to connect to the specified transaction coordinator was denied.",
+  "remarks": null,
+  "aka": [
+    "-2147168000"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/xact_e_connection_request_denied/-2147168000/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

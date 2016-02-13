@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_not_a_directory\-1073741565\index.html.json
+canonical: /win32/ntstatus-h/status_not_a_directory/0xc0000103/
+title: -1073741565 STATUS_NOT_A_DIRECTORY in ntstatus.h
+description: A requested opened file is not a directory.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741565",
+  "codeUrl": "/win32/ntstatus-h/status_not_a_directory/-1073741565/",
+  "numericCode": 0,
+  "define": "STATUS_NOT_A_DIRECTORY",
+  "defineUrl": "/win32/ntstatus-h/status_not_a_directory/",
+  "message": "A requested opened file is not a directory.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000103",
+  "originalCodeUrl": "/win32/ntstatus-h/status_not_a_directory/0xc0000103/"
+}

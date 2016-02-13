@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_advanced_installer_failed\-1072365536\index.html.json
+canonical: /win32/ntstatus-h/status_advanced_installer_failed/0xc0150020/
+title: -1072365536 STATUS_ADVANCED_INSTALLER_FAILED in ntstatus.h
+description: An advanced installer failed during setup or servicing.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1072365536",
+  "codeUrl": "/win32/ntstatus-h/status_advanced_installer_failed/-1072365536/",
+  "numericCode": 0,
+  "define": "STATUS_ADVANCED_INSTALLER_FAILED",
+  "defineUrl": "/win32/ntstatus-h/status_advanced_installer_failed/",
+  "message": "An advanced installer failed during setup or servicing.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0150020",
+  "originalCodeUrl": "/win32/ntstatus-h/status_advanced_installer_failed/0xc0150020/"
+}

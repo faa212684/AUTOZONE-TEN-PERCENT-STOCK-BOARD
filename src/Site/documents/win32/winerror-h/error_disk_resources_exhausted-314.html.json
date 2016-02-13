@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_disk_resources_exhausted\314\index.html.json
+
+title: 314 ERROR_DISK_RESOURCES_EXHAUSTED in winerror.h
+description: The physical resources of this disk have been exhausted.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "314",
+  "codeUrl": "/win32/winerror-h/error_disk_resources_exhausted/314/",
+  "numericCode": 314,
+  "define": "ERROR_DISK_RESOURCES_EXHAUSTED",
+  "defineUrl": "/win32/winerror-h/error_disk_resources_exhausted/",
+  "message": "The physical resources of this disk have been exhausted.",
+  "remarks": null,
+  "aka": [
+    "0x8007013a",
+    "-2147024582"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_disk_resources_exhausted/0x8007013a/",
+    "/win32/winerror-h/error_disk_resources_exhausted/-2147024582/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

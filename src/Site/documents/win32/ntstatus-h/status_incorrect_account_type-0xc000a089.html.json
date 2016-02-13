@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_incorrect_account_type\0xc000a089\index.html.json
+
+title: 0xC000A089 STATUS_INCORRECT_ACCOUNT_TYPE in ntstatus.h
+description: The system is not authoritative for the specified account and therefore cannot complete the operation. Please retry the operation using the provider associated with this account. If this is an online provider please use the provider's online site.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000A089",
+  "codeUrl": "/win32/ntstatus-h/status_incorrect_account_type/0xc000a089/",
+  "numericCode": -1073700727,
+  "define": "STATUS_INCORRECT_ACCOUNT_TYPE",
+  "defineUrl": "/win32/ntstatus-h/status_incorrect_account_type/",
+  "message": "The system is not authoritative for the specified account and therefore cannot complete the operation. Please retry the operation using the provider associated with this account. If this is an online provider please use the provider's online site.",
+  "remarks": null,
+  "aka": [
+    "-1073700727"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_incorrect_account_type/-1073700727/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

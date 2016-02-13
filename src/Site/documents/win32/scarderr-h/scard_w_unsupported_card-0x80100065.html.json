@@ -1,0 +1,28 @@
+---
+output: win32\scarderr-h\scard_w_unsupported_card\0x80100065\index.html.json
+
+title: 0x80100065 SCARD_W_UNSUPPORTED_CARD in SCardErr.h
+description: The reader cannot communicate with the smart card, due to ATR configuration conflicts.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "SCardErr.h",
+  "sourceUrl": "/win32/scarderr-h/",
+  "code": "0x80100065",
+  "codeUrl": "/win32/scarderr-h/scard_w_unsupported_card/0x80100065/",
+  "numericCode": -2146434971,
+  "define": "SCARD_W_UNSUPPORTED_CARD",
+  "defineUrl": "/win32/scarderr-h/scard_w_unsupported_card/",
+  "message": "The reader cannot communicate with the smart card, due to ATR configuration conflicts.",
+  "remarks": null,
+  "aka": [
+    "-2146434971"
+  ],
+  "akaUrl": [
+    "/win32/scarderr-h/scard_w_unsupported_card/-2146434971/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

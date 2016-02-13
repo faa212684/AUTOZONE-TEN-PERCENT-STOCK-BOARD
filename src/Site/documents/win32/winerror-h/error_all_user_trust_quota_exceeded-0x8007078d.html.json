@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_all_user_trust_quota_exceeded\0x8007078d\index.html.json
+canonical: /win32/winerror-h/error_all_user_trust_quota_exceeded/1933/
+title: 0x8007078d ERROR_ALL_USER_TRUST_QUOTA_EXCEEDED in winerror.h
+description: The total delegated trust creation quota has been exceeded.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007078d",
+  "codeUrl": "/win32/winerror-h/error_all_user_trust_quota_exceeded/0x8007078d/",
+  "numericCode": 0,
+  "define": "ERROR_ALL_USER_TRUST_QUOTA_EXCEEDED",
+  "defineUrl": "/win32/winerror-h/error_all_user_trust_quota_exceeded/",
+  "message": "The total delegated trust creation quota has been exceeded.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "1933",
+  "originalCodeUrl": "/win32/winerror-h/error_all_user_trust_quota_exceeded/1933/"
+}

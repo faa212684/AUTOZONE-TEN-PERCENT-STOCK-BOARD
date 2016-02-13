@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_wmi_guid_disconnected\0x8007106f\index.html.json
+canonical: /win32/winerror-h/error_wmi_guid_disconnected/4207/
+title: 0x8007106f ERROR_WMI_GUID_DISCONNECTED in winerror.h
+description: The WMI data block is no longer available.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007106f",
+  "codeUrl": "/win32/winerror-h/error_wmi_guid_disconnected/0x8007106f/",
+  "numericCode": 0,
+  "define": "ERROR_WMI_GUID_DISCONNECTED",
+  "defineUrl": "/win32/winerror-h/error_wmi_guid_disconnected/",
+  "message": "The WMI data block is no longer available.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "4207",
+  "originalCodeUrl": "/win32/winerror-h/error_wmi_guid_disconnected/4207/"
+}

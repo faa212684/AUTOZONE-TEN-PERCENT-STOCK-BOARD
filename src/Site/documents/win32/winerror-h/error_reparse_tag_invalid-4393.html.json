@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_reparse_tag_invalid\4393\index.html.json
+
+title: 4393 ERROR_REPARSE_TAG_INVALID in winerror.h
+description: The tag present in the reparse point buffer is invalid.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "4393",
+  "codeUrl": "/win32/winerror-h/error_reparse_tag_invalid/4393/",
+  "numericCode": 4393,
+  "define": "ERROR_REPARSE_TAG_INVALID",
+  "defineUrl": "/win32/winerror-h/error_reparse_tag_invalid/",
+  "message": "The tag present in the reparse point buffer is invalid.",
+  "remarks": null,
+  "aka": [
+    "0x80071129",
+    "-2147020503"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_reparse_tag_invalid/0x80071129/",
+    "/win32/winerror-h/error_reparse_tag_invalid/-2147020503/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_allocate_bucket\0xc000022f\index.html.json
+
+title: 0xC000022F STATUS_ALLOCATE_BUCKET in ntstatus.h
+description: The bucket array must be grown. Retry transaction after doing so.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000022F",
+  "codeUrl": "/win32/ntstatus-h/status_allocate_bucket/0xc000022f/",
+  "numericCode": -1073741265,
+  "define": "STATUS_ALLOCATE_BUCKET",
+  "defineUrl": "/win32/ntstatus-h/status_allocate_bucket/",
+  "message": "The bucket array must be grown. Retry transaction after doing so.",
+  "remarks": null,
+  "aka": [
+    "-1073741265"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_allocate_bucket/-1073741265/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

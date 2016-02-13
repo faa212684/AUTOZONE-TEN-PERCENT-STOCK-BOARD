@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_no_tracking_service\1172\index.html.json
+
+title: 1172 ERROR_NO_TRACKING_SERVICE in winerror.h
+description: The tracking (workstation) service is not running.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1172",
+  "codeUrl": "/win32/winerror-h/error_no_tracking_service/1172/",
+  "numericCode": 1172,
+  "define": "ERROR_NO_TRACKING_SERVICE",
+  "defineUrl": "/win32/winerror-h/error_no_tracking_service/",
+  "message": "The tracking (workstation) service is not running.",
+  "remarks": null,
+  "aka": [
+    "0x80070494",
+    "-2147023724"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_no_tracking_service/0x80070494/",
+    "/win32/winerror-h/error_no_tracking_service/-2147023724/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

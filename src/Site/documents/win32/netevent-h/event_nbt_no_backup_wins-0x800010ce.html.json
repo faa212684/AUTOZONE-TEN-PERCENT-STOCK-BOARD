@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_nbt_no_backup_wins\0x800010ce\index.html.json
+
+title: 0x800010CE EVENT_NBT_NO_BACKUP_WINS in netevent.h
+description: The backup WINS server address is not configured in the registry.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x800010CE",
+  "codeUrl": "/win32/netevent-h/event_nbt_no_backup_wins/0x800010ce/",
+  "numericCode": -2147479346,
+  "define": "EVENT_NBT_NO_BACKUP_WINS",
+  "defineUrl": "/win32/netevent-h/event_nbt_no_backup_wins/",
+  "message": "The backup WINS server address is not configured in the registry.",
+  "remarks": null,
+  "aka": [
+    "-2147479346"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_nbt_no_backup_wins/-2147479346/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

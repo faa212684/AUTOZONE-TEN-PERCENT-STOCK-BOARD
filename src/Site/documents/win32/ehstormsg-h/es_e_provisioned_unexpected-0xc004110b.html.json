@@ -1,0 +1,28 @@
+---
+output: win32\ehstormsg-h\es_e_provisioned_unexpected\0xc004110b\index.html.json
+
+title: 0xC004110B ES_E_PROVISIONED_UNEXPECTED in ehstormsg.h
+description: Expected the silo to be in Not Provisioned state, but it was not.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ehstormsg.h",
+  "sourceUrl": "/win32/ehstormsg-h/",
+  "code": "0xC004110B",
+  "codeUrl": "/win32/ehstormsg-h/es_e_provisioned_unexpected/0xc004110b/",
+  "numericCode": -1073475317,
+  "define": "ES_E_PROVISIONED_UNEXPECTED",
+  "defineUrl": "/win32/ehstormsg-h/es_e_provisioned_unexpected/",
+  "message": "Expected the silo to be in Not Provisioned state, but it was not.",
+  "remarks": null,
+  "aka": [
+    "-1073475317"
+  ],
+  "akaUrl": [
+    "/win32/ehstormsg-h/es_e_provisioned_unexpected/-1073475317/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

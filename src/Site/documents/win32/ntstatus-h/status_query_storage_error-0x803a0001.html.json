@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_query_storage_error\0x803a0001\index.html.json
+
+title: 0x803A0001 STATUS_QUERY_STORAGE_ERROR in ntstatus.h
+description: The virtualization storage subsystem has generated an error.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0x803A0001",
+  "codeUrl": "/win32/ntstatus-h/status_query_storage_error/0x803a0001/",
+  "numericCode": -2143682559,
+  "define": "STATUS_QUERY_STORAGE_ERROR",
+  "defineUrl": "/win32/ntstatus-h/status_query_storage_error/",
+  "message": "The virtualization storage subsystem has generated an error.",
+  "remarks": null,
+  "aka": [
+    "-2143682559"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_query_storage_error/-2143682559/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

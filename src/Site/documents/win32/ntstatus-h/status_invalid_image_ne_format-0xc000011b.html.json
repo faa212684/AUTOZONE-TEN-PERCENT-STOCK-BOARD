@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_invalid_image_ne_format\0xc000011b\index.html.json
+
+title: 0xC000011B STATUS_INVALID_IMAGE_NE_FORMAT in ntstatus.h
+description: The specified image file did not have the correct format. It appears to be NE format.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000011B",
+  "codeUrl": "/win32/ntstatus-h/status_invalid_image_ne_format/0xc000011b/",
+  "numericCode": -1073741541,
+  "define": "STATUS_INVALID_IMAGE_NE_FORMAT",
+  "defineUrl": "/win32/ntstatus-h/status_invalid_image_ne_format/",
+  "message": "The specified image file did not have the correct format. It appears to be NE format.",
+  "remarks": null,
+  "aka": [
+    "-1073741541"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_invalid_image_ne_format/-1073741541/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

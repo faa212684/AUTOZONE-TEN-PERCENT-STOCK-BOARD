@@ -1,0 +1,28 @@
+---
+output: win32\wsmerror-h\error_wsman_max_envelope_size_exceeded\0x80338048\index.html.json
+
+title: 0x80338048 ERROR_WSMAN_MAX_ENVELOPE_SIZE_EXCEEDED in wsmerror.h
+description: The response that the WS-Management service computed exceeds the maximum envelope size in the request.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x80338048",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_max_envelope_size_exceeded/0x80338048/",
+  "numericCode": -2144108472,
+  "define": "ERROR_WSMAN_MAX_ENVELOPE_SIZE_EXCEEDED",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_max_envelope_size_exceeded/",
+  "message": "The response that the WS-Management service computed exceeds the maximum envelope size in the request.",
+  "remarks": null,
+  "aka": [
+    "-2144108472"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_max_envelope_size_exceeded/-2144108472/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,30 @@
+---
+output: win32\wsmerror-h\error_wsman_client_null_publishers\0x80338165\index.html.json
+
+title: 0x80338165 ERROR_WSMAN_CLIENT_NULL_PUBLISHERS in wsmerror.h
+description: The WinRM client cannot process the request.
+The required WSMAN_ALLOWED_PUBLISHERS settings is null or zero.
+Change the request to include the missing parameter and try again.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x80338165",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_client_null_publishers/0x80338165/",
+  "numericCode": -2144108187,
+  "define": "ERROR_WSMAN_CLIENT_NULL_PUBLISHERS",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_client_null_publishers/",
+  "message": "The WinRM client cannot process the request.\r\nThe required WSMAN_ALLOWED_PUBLISHERS settings is null or zero.\r\nChange the request to include the missing parameter and try again.",
+  "remarks": null,
+  "aka": [
+    "-2144108187"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_client_null_publishers/-2144108187/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

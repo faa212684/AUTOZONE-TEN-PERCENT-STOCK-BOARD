@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_graphics_opm_no_protected_outputs_exist\0xc01e0505\index.html.json
+
+title: 0xC01E0505 STATUS_GRAPHICS_OPM_NO_PROTECTED_OUTPUTS_EXIST in ntstatus.h
+description: The GDI display device passed to this function does not have any active protected outputs.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC01E0505",
+  "codeUrl": "/win32/ntstatus-h/status_graphics_opm_no_protected_outputs_exist/0xc01e0505/",
+  "numericCode": -1071774459,
+  "define": "STATUS_GRAPHICS_OPM_NO_PROTECTED_OUTPUTS_EXIST",
+  "defineUrl": "/win32/ntstatus-h/status_graphics_opm_no_protected_outputs_exist/",
+  "message": "The GDI display device passed to this function does not have any active protected outputs.",
+  "remarks": null,
+  "aka": [
+    "-1071774459"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_graphics_opm_no_protected_outputs_exist/-1071774459/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

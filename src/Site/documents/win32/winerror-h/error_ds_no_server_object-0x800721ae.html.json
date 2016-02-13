@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_ds_no_server_object\0x800721ae\index.html.json
+canonical: /win32/winerror-h/error_ds_no_server_object/8622/
+title: 0x800721ae ERROR_DS_NO_SERVER_OBJECT in winerror.h
+description: The server object for the domain controller does not exist.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800721ae",
+  "codeUrl": "/win32/winerror-h/error_ds_no_server_object/0x800721ae/",
+  "numericCode": 0,
+  "define": "ERROR_DS_NO_SERVER_OBJECT",
+  "defineUrl": "/win32/winerror-h/error_ds_no_server_object/",
+  "message": "The server object for the domain controller does not exist.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "8622",
+  "originalCodeUrl": "/win32/winerror-h/error_ds_no_server_object/8622/"
+}

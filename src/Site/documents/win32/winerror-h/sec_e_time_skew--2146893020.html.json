@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\sec_e_time_skew\-2146893020\index.html.json
+canonical: /win32/winerror-h/sec_e_time_skew/0x80090324/
+title: -2146893020 SEC_E_TIME_SKEW in winerror.h
+description: The clocks on the client and server machines are skewed.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2146893020",
+  "codeUrl": "/win32/winerror-h/sec_e_time_skew/-2146893020/",
+  "numericCode": 0,
+  "define": "SEC_E_TIME_SKEW",
+  "defineUrl": "/win32/winerror-h/sec_e_time_skew/",
+  "message": "The clocks on the client and server machines are skewed.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80090324",
+  "originalCodeUrl": "/win32/winerror-h/sec_e_time_skew/0x80090324/"
+}

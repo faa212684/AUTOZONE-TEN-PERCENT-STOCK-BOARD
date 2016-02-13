@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\crypt_e_invalid_numeric_string\0x80092020\index.html.json
+
+title: 0x80092020 CRYPT_E_INVALID_NUMERIC_STRING in winerror.h
+description: The string contains a non-numeric character.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80092020",
+  "codeUrl": "/win32/winerror-h/crypt_e_invalid_numeric_string/0x80092020/",
+  "numericCode": -2146885600,
+  "define": "CRYPT_E_INVALID_NUMERIC_STRING",
+  "defineUrl": "/win32/winerror-h/crypt_e_invalid_numeric_string/",
+  "message": "The string contains a non-numeric character.",
+  "remarks": null,
+  "aka": [
+    "-2146885600"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/crypt_e_invalid_numeric_string/-2146885600/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

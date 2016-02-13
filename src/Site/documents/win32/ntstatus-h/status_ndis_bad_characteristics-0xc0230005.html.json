@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_ndis_bad_characteristics\0xc0230005\index.html.json
+
+title: 0xC0230005 STATUS_NDIS_BAD_CHARACTERISTICS in ntstatus.h
+description: An invalid characteristics table was used.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0230005",
+  "codeUrl": "/win32/ntstatus-h/status_ndis_bad_characteristics/0xc0230005/",
+  "numericCode": -1071448059,
+  "define": "STATUS_NDIS_BAD_CHARACTERISTICS",
+  "defineUrl": "/win32/ntstatus-h/status_ndis_bad_characteristics/",
+  "message": "An invalid characteristics table was used.",
+  "remarks": null,
+  "aka": [
+    "-1071448059"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_ndis_bad_characteristics/-1071448059/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

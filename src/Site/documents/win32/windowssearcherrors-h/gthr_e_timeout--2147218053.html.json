@@ -1,0 +1,24 @@
+---
+output: win32\windowssearcherrors-h\gthr_e_timeout\-2147218053\index.html.json
+canonical: /win32/windowssearcherrors-h/gthr_e_timeout/0x80040d7b/
+title: -2147218053 GTHR_E_TIMEOUT in WindowsSearchErrors.h
+description: Document filtering cannot be completed because the document server did not respond within the specified timeout. Try crawling the server later, or increase the timeout values.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "-2147218053",
+  "codeUrl": "/win32/windowssearcherrors-h/gthr_e_timeout/-2147218053/",
+  "numericCode": 0,
+  "define": "GTHR_E_TIMEOUT",
+  "defineUrl": "/win32/windowssearcherrors-h/gthr_e_timeout/",
+  "message": "Document filtering cannot be completed because the document server did not respond within the specified timeout. Try crawling the server later, or increase the timeout values.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80040D7B",
+  "originalCodeUrl": "/win32/windowssearcherrors-h/gthr_e_timeout/0x80040d7b/"
+}

@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\stg_e_abnormalapiexit\0x800300fa\index.html.json
+
+title: 0x800300FA STG_E_ABNORMALAPIEXIT in winerror.h
+description: An API call exited abnormally.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800300FA",
+  "codeUrl": "/win32/winerror-h/stg_e_abnormalapiexit/0x800300fa/",
+  "numericCode": -2147286790,
+  "define": "STG_E_ABNORMALAPIEXIT",
+  "defineUrl": "/win32/winerror-h/stg_e_abnormalapiexit/",
+  "message": "An API call exited abnormally.",
+  "remarks": null,
+  "aka": [
+    "-2147286790"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/stg_e_abnormalapiexit/-2147286790/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

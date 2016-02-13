@@ -1,0 +1,29 @@
+---
+output: win32\vdserr-h\vds_s_unable_to_get_gpt_attributes\0x0004245b\index.html.json
+
+title: 0x0004245B VDS_S_UNABLE_TO_GET_GPT_ATTRIBUTES in vdserr.h
+description: Unable to retrieve the GPT attributes for this volume, (hidden, read only 
+and no drive letter).
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x0004245B",
+  "codeUrl": "/win32/vdserr-h/vds_s_unable_to_get_gpt_attributes/0x0004245b/",
+  "numericCode": 271451,
+  "define": "VDS_S_UNABLE_TO_GET_GPT_ATTRIBUTES",
+  "defineUrl": "/win32/vdserr-h/vds_s_unable_to_get_gpt_attributes/",
+  "message": "Unable to retrieve the GPT attributes for this volume, (hidden, read only \r\nand no drive letter).",
+  "remarks": null,
+  "aka": [
+    "271451"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_s_unable_to_get_gpt_attributes/271451/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

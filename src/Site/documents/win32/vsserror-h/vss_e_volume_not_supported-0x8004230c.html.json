@@ -1,0 +1,28 @@
+---
+output: win32\vsserror-h\vss_e_volume_not_supported\0x8004230c\index.html.json
+
+title: 0x8004230C VSS_E_VOLUME_NOT_SUPPORTED in vsserror.h
+description: Shadow copying the specified volume is not supported.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vsserror.h",
+  "sourceUrl": "/win32/vsserror-h/",
+  "code": "0x8004230C",
+  "codeUrl": "/win32/vsserror-h/vss_e_volume_not_supported/0x8004230c/",
+  "numericCode": -2147212532,
+  "define": "VSS_E_VOLUME_NOT_SUPPORTED",
+  "defineUrl": "/win32/vsserror-h/vss_e_volume_not_supported/",
+  "message": "Shadow copying the specified volume is not supported.",
+  "remarks": null,
+  "aka": [
+    "-2147212532"
+  ],
+  "akaUrl": [
+    "/win32/vsserror-h/vss_e_volume_not_supported/-2147212532/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

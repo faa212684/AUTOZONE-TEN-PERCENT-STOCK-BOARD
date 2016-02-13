@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_fve_not_allowed_on_cluster\0xc0210035\index.html.json
+
+title: 0xC0210035 STATUS_FVE_NOT_ALLOWED_ON_CLUSTER in ntstatus.h
+description: This command cannot be performed on a volume when it is part of a cluster.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0210035",
+  "codeUrl": "/win32/ntstatus-h/status_fve_not_allowed_on_cluster/0xc0210035/",
+  "numericCode": -1071579083,
+  "define": "STATUS_FVE_NOT_ALLOWED_ON_CLUSTER",
+  "defineUrl": "/win32/ntstatus-h/status_fve_not_allowed_on_cluster/",
+  "message": "This command cannot be performed on a volume when it is part of a cluster.",
+  "remarks": null,
+  "aka": [
+    "-1071579083"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_fve_not_allowed_on_cluster/-1071579083/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

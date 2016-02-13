@@ -1,0 +1,25 @@
+---
+output: win32\ntstatus-h\status_device_support_in_progress\-2147483600\index.html.json
+canonical: /win32/ntstatus-h/status_device_support_in_progress/0x80000030/
+title: -2147483600 STATUS_DEVICE_SUPPORT_IN_PROGRESS in ntstatus.h
+description: "{Support Being Determined}
+Device's command support detection is in progress."
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-2147483600",
+  "codeUrl": "/win32/ntstatus-h/status_device_support_in_progress/-2147483600/",
+  "numericCode": 0,
+  "define": "STATUS_DEVICE_SUPPORT_IN_PROGRESS",
+  "defineUrl": "/win32/ntstatus-h/status_device_support_in_progress/",
+  "message": "{Support Being Determined}\r\nDevice's command support detection is in progress.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80000030",
+  "originalCodeUrl": "/win32/ntstatus-h/status_device_support_in_progress/0x80000030/"
+}

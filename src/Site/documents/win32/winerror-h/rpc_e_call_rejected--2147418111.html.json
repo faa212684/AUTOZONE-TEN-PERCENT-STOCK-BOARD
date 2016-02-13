@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\rpc_e_call_rejected\-2147418111\index.html.json
+canonical: /win32/winerror-h/rpc_e_call_rejected/0x80010001/
+title: -2147418111 RPC_E_CALL_REJECTED in winerror.h
+description: Call was rejected by callee.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147418111",
+  "codeUrl": "/win32/winerror-h/rpc_e_call_rejected/-2147418111/",
+  "numericCode": 0,
+  "define": "RPC_E_CALL_REJECTED",
+  "defineUrl": "/win32/winerror-h/rpc_e_call_rejected/",
+  "message": "Call was rejected by callee.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80010001",
+  "originalCodeUrl": "/win32/winerror-h/rpc_e_call_rejected/0x80010001/"
+}

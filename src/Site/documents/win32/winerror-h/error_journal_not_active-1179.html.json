@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_journal_not_active\1179\index.html.json
+
+title: 1179 ERROR_JOURNAL_NOT_ACTIVE in winerror.h
+description: The volume change journal is not active.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1179",
+  "codeUrl": "/win32/winerror-h/error_journal_not_active/1179/",
+  "numericCode": 1179,
+  "define": "ERROR_JOURNAL_NOT_ACTIVE",
+  "defineUrl": "/win32/winerror-h/error_journal_not_active/",
+  "message": "The volume change journal is not active.",
+  "remarks": null,
+  "aka": [
+    "0x8007049b",
+    "-2147023717"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_journal_not_active/0x8007049b/",
+    "/win32/winerror-h/error_journal_not_active/-2147023717/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

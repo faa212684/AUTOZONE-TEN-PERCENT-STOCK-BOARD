@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\error_graphics_clientvidpn_not_set\0xc026235c\index.html.json
+
+title: 0xC026235C ERROR_GRAPHICS_CLIENTVIDPN_NOT_SET in winerror.h
+description: Client VidPN is not set on this adapter (e.g. no user mode initiated mode changes took place on this adapter yet).
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0xC026235C",
+  "codeUrl": "/win32/winerror-h/error_graphics_clientvidpn_not_set/0xc026235c/",
+  "numericCode": -1071242404,
+  "define": "ERROR_GRAPHICS_CLIENTVIDPN_NOT_SET",
+  "defineUrl": "/win32/winerror-h/error_graphics_clientvidpn_not_set/",
+  "message": "Client VidPN is not set on this adapter (e.g. no user mode initiated mode changes took place on this adapter yet).",
+  "remarks": null,
+  "aka": [
+    "-1071242404"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_graphics_clientvidpn_not_set/-1071242404/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

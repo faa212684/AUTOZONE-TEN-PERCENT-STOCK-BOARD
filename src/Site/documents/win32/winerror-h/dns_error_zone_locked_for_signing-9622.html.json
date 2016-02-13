@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\dns_error_zone_locked_for_signing\9622\index.html.json
+
+title: 9622 DNS_ERROR_ZONE_LOCKED_FOR_SIGNING in winerror.h
+description: This operation cannot be performed because the zone is currently being signed. Please try again later.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "9622",
+  "codeUrl": "/win32/winerror-h/dns_error_zone_locked_for_signing/9622/",
+  "numericCode": 9622,
+  "define": "DNS_ERROR_ZONE_LOCKED_FOR_SIGNING",
+  "defineUrl": "/win32/winerror-h/dns_error_zone_locked_for_signing/",
+  "message": "This operation cannot be performed because the zone is currently being signed. Please try again later.",
+  "remarks": null,
+  "aka": [
+    "0x80072596",
+    "-2147015274"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/dns_error_zone_locked_for_signing/0x80072596/",
+    "/win32/winerror-h/dns_error_zone_locked_for_signing/-2147015274/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

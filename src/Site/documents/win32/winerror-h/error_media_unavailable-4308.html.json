@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_media_unavailable\4308\index.html.json
+
+title: 4308 ERROR_MEDIA_UNAVAILABLE in winerror.h
+description: No media is currently available in this media pool or library.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "4308",
+  "codeUrl": "/win32/winerror-h/error_media_unavailable/4308/",
+  "numericCode": 4308,
+  "define": "ERROR_MEDIA_UNAVAILABLE",
+  "defineUrl": "/win32/winerror-h/error_media_unavailable/",
+  "message": "No media is currently available in this media pool or library.",
+  "remarks": null,
+  "aka": [
+    "0x800710d4",
+    "-2147020588"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_media_unavailable/0x800710d4/",
+    "/win32/winerror-h/error_media_unavailable/-2147020588/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

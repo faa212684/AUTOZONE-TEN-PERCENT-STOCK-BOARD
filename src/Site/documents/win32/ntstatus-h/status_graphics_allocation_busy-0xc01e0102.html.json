@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_graphics_allocation_busy\0xc01e0102\index.html.json
+
+title: 0xC01E0102 STATUS_GRAPHICS_ALLOCATION_BUSY in ntstatus.h
+description: The allocation is currently busy.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC01E0102",
+  "codeUrl": "/win32/ntstatus-h/status_graphics_allocation_busy/0xc01e0102/",
+  "numericCode": -1071775486,
+  "define": "STATUS_GRAPHICS_ALLOCATION_BUSY",
+  "defineUrl": "/win32/ntstatus-h/status_graphics_allocation_busy/",
+  "message": "The allocation is currently busy.",
+  "remarks": null,
+  "aka": [
+    "-1071775486"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_graphics_allocation_busy/-1071775486/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

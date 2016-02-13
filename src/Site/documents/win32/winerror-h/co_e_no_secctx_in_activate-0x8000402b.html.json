@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\co_e_no_secctx_in_activate\0x8000402b\index.html.json
+
+title: 0x8000402B CO_E_NO_SECCTX_IN_ACTIVATE in winerror.h
+description: Unable to complete the call since there is no COM+ security context inside IObjectControl.Activate.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8000402B",
+  "codeUrl": "/win32/winerror-h/co_e_no_secctx_in_activate/0x8000402b/",
+  "numericCode": -2147467221,
+  "define": "CO_E_NO_SECCTX_IN_ACTIVATE",
+  "defineUrl": "/win32/winerror-h/co_e_no_secctx_in_activate/",
+  "message": "Unable to complete the call since there is no COM+ security context inside IObjectControl.Activate.",
+  "remarks": null,
+  "aka": [
+    "-2147467221"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/co_e_no_secctx_in_activate/-2147467221/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

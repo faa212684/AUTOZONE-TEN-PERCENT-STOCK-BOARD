@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_no_such_member\0x8007056b\index.html.json
+canonical: /win32/winerror-h/error_no_such_member/1387/
+title: 0x8007056b ERROR_NO_SUCH_MEMBER in winerror.h
+description: A member could not be added to or removed from the local group because the member does not exist.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007056b",
+  "codeUrl": "/win32/winerror-h/error_no_such_member/0x8007056b/",
+  "numericCode": 0,
+  "define": "ERROR_NO_SUCH_MEMBER",
+  "defineUrl": "/win32/winerror-h/error_no_such_member/",
+  "message": "A member could not be added to or removed from the local group because the member does not exist.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "1387",
+  "originalCodeUrl": "/win32/winerror-h/error_no_such_member/1387/"
+}

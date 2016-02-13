@@ -1,0 +1,30 @@
+---
+output: win32\wsmerror-h\error_wsman_eventing_fast_sender\0x8033808c\index.html.json
+
+title: 0x8033808C ERROR_WSMAN_EVENTING_FAST_SENDER in wsmerror.h
+description: The source is sending event batches faster than the subscriber can consume.
+This can happen if acknowledgments are not specified for the subscription and
+new events are arriving from the source before the client has consumed them.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x8033808C",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_eventing_fast_sender/0x8033808c/",
+  "numericCode": -2144108404,
+  "define": "ERROR_WSMAN_EVENTING_FAST_SENDER",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_eventing_fast_sender/",
+  "message": "The source is sending event batches faster than the subscriber can consume.\r\nThis can happen if acknowledgments are not specified for the subscription and\r\nnew events are arriving from the source before the client has consumed them.",
+  "remarks": null,
+  "aka": [
+    "-2144108404"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_eventing_fast_sender/-2144108404/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

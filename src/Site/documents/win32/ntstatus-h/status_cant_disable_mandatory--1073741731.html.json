@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_cant_disable_mandatory\-1073741731\index.html.json
+canonical: /win32/ntstatus-h/status_cant_disable_mandatory/0xc000005d/
+title: -1073741731 STATUS_CANT_DISABLE_MANDATORY in ntstatus.h
+description: A mandatory group may not be disabled.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741731",
+  "codeUrl": "/win32/ntstatus-h/status_cant_disable_mandatory/-1073741731/",
+  "numericCode": 0,
+  "define": "STATUS_CANT_DISABLE_MANDATORY",
+  "defineUrl": "/win32/ntstatus-h/status_cant_disable_mandatory/",
+  "message": "A mandatory group may not be disabled.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC000005D",
+  "originalCodeUrl": "/win32/ntstatus-h/status_cant_disable_mandatory/0xc000005d/"
+}

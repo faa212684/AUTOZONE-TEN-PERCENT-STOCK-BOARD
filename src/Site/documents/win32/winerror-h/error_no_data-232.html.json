@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_no_data\232\index.html.json
+
+title: 232 ERROR_NO_DATA in winerror.h
+description: The pipe is being closed.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "232",
+  "codeUrl": "/win32/winerror-h/error_no_data/232/",
+  "numericCode": 232,
+  "define": "ERROR_NO_DATA",
+  "defineUrl": "/win32/winerror-h/error_no_data/",
+  "message": "The pipe is being closed.",
+  "remarks": null,
+  "aka": [
+    "0x800700e8",
+    "-2147024664"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_no_data/0x800700e8/",
+    "/win32/winerror-h/error_no_data/-2147024664/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

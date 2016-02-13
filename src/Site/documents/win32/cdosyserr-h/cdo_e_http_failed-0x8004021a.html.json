@@ -1,0 +1,28 @@
+---
+output: win32\cdosyserr-h\cdo_e_http_failed\0x8004021a\index.html.json
+
+title: 0x8004021A CDO_E_HTTP_FAILED in CDOSysErr.h
+description: The HTTP request failed.  The server response was: %1.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "CDOSysErr.h",
+  "sourceUrl": "/win32/cdosyserr-h/",
+  "code": "0x8004021A",
+  "codeUrl": "/win32/cdosyserr-h/cdo_e_http_failed/0x8004021a/",
+  "numericCode": -2147220966,
+  "define": "CDO_E_HTTP_FAILED",
+  "defineUrl": "/win32/cdosyserr-h/cdo_e_http_failed/",
+  "message": "The HTTP request failed.  The server response was: %1.",
+  "remarks": null,
+  "aka": [
+    "-2147220966"
+  ],
+  "akaUrl": [
+    "/win32/cdosyserr-h/cdo_e_http_failed/-2147220966/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

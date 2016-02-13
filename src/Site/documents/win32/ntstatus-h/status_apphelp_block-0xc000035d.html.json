@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_apphelp_block\0xc000035d\index.html.json
+
+title: 0xC000035D STATUS_APPHELP_BLOCK in ntstatus.h
+description: AppHelp dialog canceled thus preventing the application from starting.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000035D",
+  "codeUrl": "/win32/ntstatus-h/status_apphelp_block/0xc000035d/",
+  "numericCode": -1073740963,
+  "define": "STATUS_APPHELP_BLOCK",
+  "defineUrl": "/win32/ntstatus-h/status_apphelp_block/",
+  "message": "AppHelp dialog canceled thus preventing the application from starting.",
+  "remarks": null,
+  "aka": [
+    "-1073740963"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_apphelp_block/-1073740963/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

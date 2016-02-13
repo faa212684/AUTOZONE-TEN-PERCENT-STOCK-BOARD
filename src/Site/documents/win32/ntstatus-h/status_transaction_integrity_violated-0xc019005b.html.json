@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_transaction_integrity_violated\0xc019005b\index.html.json
+
+title: 0xC019005B STATUS_TRANSACTION_INTEGRITY_VIOLATED in ntstatus.h
+description: The kernel transaction manager had to abort or forget the transaction because it blocked forward progress.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC019005B",
+  "codeUrl": "/win32/ntstatus-h/status_transaction_integrity_violated/0xc019005b/",
+  "numericCode": -1072103333,
+  "define": "STATUS_TRANSACTION_INTEGRITY_VIOLATED",
+  "defineUrl": "/win32/ntstatus-h/status_transaction_integrity_violated/",
+  "message": "The kernel transaction manager had to abort or forget the transaction because it blocked forward progress.",
+  "remarks": null,
+  "aka": [
+    "-1072103333"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_transaction_integrity_violated/-1072103333/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_hv_invalid_save_restore_state\-1070268393\index.html.json
+canonical: /win32/ntstatus-h/status_hv_invalid_save_restore_state/0xc0350017/
+title: -1070268393 STATUS_HV_INVALID_SAVE_RESTORE_STATE in ntstatus.h
+description: The indicated partition is not in a valid state for saving or restoring.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1070268393",
+  "codeUrl": "/win32/ntstatus-h/status_hv_invalid_save_restore_state/-1070268393/",
+  "numericCode": 0,
+  "define": "STATUS_HV_INVALID_SAVE_RESTORE_STATE",
+  "defineUrl": "/win32/ntstatus-h/status_hv_invalid_save_restore_state/",
+  "message": "The indicated partition is not in a valid state for saving or restoring.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0350017",
+  "originalCodeUrl": "/win32/ntstatus-h/status_hv_invalid_save_restore_state/0xc0350017/"
+}

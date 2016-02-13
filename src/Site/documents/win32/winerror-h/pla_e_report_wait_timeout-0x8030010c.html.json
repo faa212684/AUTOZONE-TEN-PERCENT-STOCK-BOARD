@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\pla_e_report_wait_timeout\0x8030010c\index.html.json
+
+title: 0x8030010C PLA_E_REPORT_WAIT_TIMEOUT in winerror.h
+description: The wait for the report generation tool to finish has timed out.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8030010C",
+  "codeUrl": "/win32/winerror-h/pla_e_report_wait_timeout/0x8030010c/",
+  "numericCode": -2144337652,
+  "define": "PLA_E_REPORT_WAIT_TIMEOUT",
+  "defineUrl": "/win32/winerror-h/pla_e_report_wait_timeout/",
+  "message": "The wait for the report generation tool to finish has timed out.",
+  "remarks": null,
+  "aka": [
+    "-2144337652"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/pla_e_report_wait_timeout/-2144337652/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

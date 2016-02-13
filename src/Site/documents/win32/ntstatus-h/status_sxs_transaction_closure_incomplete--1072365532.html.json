@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_sxs_transaction_closure_incomplete\-1072365532\index.html.json
+canonical: /win32/ntstatus-h/status_sxs_transaction_closure_incomplete/0xc0150024/
+title: -1072365532 STATUS_SXS_TRANSACTION_CLOSURE_INCOMPLETE in ntstatus.h
+description: One or more required members of the transaction are not present.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1072365532",
+  "codeUrl": "/win32/ntstatus-h/status_sxs_transaction_closure_incomplete/-1072365532/",
+  "numericCode": 0,
+  "define": "STATUS_SXS_TRANSACTION_CLOSURE_INCOMPLETE",
+  "defineUrl": "/win32/ntstatus-h/status_sxs_transaction_closure_incomplete/",
+  "message": "One or more required members of the transaction are not present.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0150024",
+  "originalCodeUrl": "/win32/ntstatus-h/status_sxs_transaction_closure_incomplete/0xc0150024/"
+}

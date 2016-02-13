@@ -1,0 +1,28 @@
+---
+output: win32\windowssearcherrors-h\fte_e_cb_not_enough_avail_phy_mem\0x8004cb02\index.html.json
+
+title: 0x8004CB02 FTE_E_CB_NOT_ENOUGH_AVAIL_PHY_MEM in WindowsSearchErrors.h
+description: There is not enough available physical or virtual memory for chunk buffers. Chunk buffers are needed to index data. Please free up memory.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "0x8004CB02",
+  "codeUrl": "/win32/windowssearcherrors-h/fte_e_cb_not_enough_avail_phy_mem/0x8004cb02/",
+  "numericCode": -2147169534,
+  "define": "FTE_E_CB_NOT_ENOUGH_AVAIL_PHY_MEM",
+  "defineUrl": "/win32/windowssearcherrors-h/fte_e_cb_not_enough_avail_phy_mem/",
+  "message": "There is not enough available physical or virtual memory for chunk buffers. Chunk buffers are needed to index data. Please free up memory.",
+  "remarks": null,
+  "aka": [
+    "-2147169534"
+  ],
+  "akaUrl": [
+    "/win32/windowssearcherrors-h/fte_e_cb_not_enough_avail_phy_mem/-2147169534/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

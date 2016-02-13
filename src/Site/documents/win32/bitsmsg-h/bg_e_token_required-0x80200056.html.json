@@ -1,0 +1,28 @@
+---
+output: win32\bitsmsg-h\bg_e_token_required\0x80200056\index.html.json
+
+title: 0x80200056 BG_E_TOKEN_REQUIRED in BitsMsg.h
+description: The job is configured to use a different security token for some operations, but the token is not currently available.  The application must provide a token and then resume the job.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "BitsMsg.h",
+  "sourceUrl": "/win32/bitsmsg-h/",
+  "code": "0x80200056",
+  "codeUrl": "/win32/bitsmsg-h/bg_e_token_required/0x80200056/",
+  "numericCode": -2145386410,
+  "define": "BG_E_TOKEN_REQUIRED",
+  "defineUrl": "/win32/bitsmsg-h/bg_e_token_required/",
+  "message": "The job is configured to use a different security token for some operations, but the token is not currently available.  The application must provide a token and then resume the job.",
+  "remarks": null,
+  "aka": [
+    "-2145386410"
+  ],
+  "akaUrl": [
+    "/win32/bitsmsg-h/bg_e_token_required/-2145386410/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

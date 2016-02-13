@@ -1,0 +1,28 @@
+---
+output: win32\nserror-h\ns_e_wmp_network_error\0xc00d11c0\index.html.json
+
+title: 0xC00D11C0 NS_E_WMP_NETWORK_ERROR in nserror.h
+description: Windows Media Player cannot play the file because a network error occurred. The server might not be available (for example, the server is busy or not online) or you might not be connected to the network.%0
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "nserror.h",
+  "sourceUrl": "/win32/nserror-h/",
+  "code": "0xC00D11C0",
+  "codeUrl": "/win32/nserror-h/ns_e_wmp_network_error/0xc00d11c0/",
+  "numericCode": -1072885312,
+  "define": "NS_E_WMP_NETWORK_ERROR",
+  "defineUrl": "/win32/nserror-h/ns_e_wmp_network_error/",
+  "message": "Windows Media Player cannot play the file because a network error occurred. The server might not be available (for example, the server is busy or not online) or you might not be connected to the network.%0",
+  "remarks": null,
+  "aka": [
+    "-1072885312"
+  ],
+  "akaUrl": [
+    "/win32/nserror-h/ns_e_wmp_network_error/-1072885312/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

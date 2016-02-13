@@ -1,0 +1,24 @@
+---
+output: win32\vsserror-h\vss_e_writer_status_not_available\-2147212279\index.html.json
+canonical: /win32/vsserror-h/vss_e_writer_status_not_available/0x80042409/
+title: -2147212279 VSS_E_WRITER_STATUS_NOT_AVAILABLE in vsserror.h
+description: Writer status is not available for one or more writers.  A writer may have reached the limit to the number of available backup-restore session states.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vsserror.h",
+  "sourceUrl": "/win32/vsserror-h/",
+  "code": "-2147212279",
+  "codeUrl": "/win32/vsserror-h/vss_e_writer_status_not_available/-2147212279/",
+  "numericCode": 0,
+  "define": "VSS_E_WRITER_STATUS_NOT_AVAILABLE",
+  "defineUrl": "/win32/vsserror-h/vss_e_writer_status_not_available/",
+  "message": "Writer status is not available for one or more writers.  A writer may have reached the limit to the number of available backup-restore session states.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80042409",
+  "originalCodeUrl": "/win32/vsserror-h/vss_e_writer_status_not_available/0x80042409/"
+}

@@ -1,0 +1,29 @@
+---
+output: win32\netevent-h\event_scope_too_long\0x800010de\index.html.json
+
+title: 0x800010DE EVENT_SCOPE_TOO_LONG in netevent.h
+description: The Netbios Name Scope is too long. The scope cannot be longer than
+255 bytes.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x800010DE",
+  "codeUrl": "/win32/netevent-h/event_scope_too_long/0x800010de/",
+  "numericCode": -2147479330,
+  "define": "EVENT_SCOPE_TOO_LONG",
+  "defineUrl": "/win32/netevent-h/event_scope_too_long/",
+  "message": "The Netbios Name Scope is too long. The scope cannot be longer than\r\n255 bytes.",
+  "remarks": null,
+  "aka": [
+    "-2147479330"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_scope_too_long/-2147479330/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

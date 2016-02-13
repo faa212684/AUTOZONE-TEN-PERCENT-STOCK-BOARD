@@ -1,0 +1,29 @@
+---
+output: win32\vdserr-h\vds_e_iscsi_session_not_found\0x8004270a\index.html.json
+
+title: 0x8004270A VDS_E_ISCSI_SESSION_NOT_FOUND in vdserr.h
+description: The specified iSCSI session with a connection matching the specified target, 
+target portal, and/or initiator portal could not be found.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x8004270A",
+  "codeUrl": "/win32/vdserr-h/vds_e_iscsi_session_not_found/0x8004270a/",
+  "numericCode": -2147211510,
+  "define": "VDS_E_ISCSI_SESSION_NOT_FOUND",
+  "defineUrl": "/win32/vdserr-h/vds_e_iscsi_session_not_found/",
+  "message": "The specified iSCSI session with a connection matching the specified target, \r\ntarget portal, and/or initiator portal could not be found.",
+  "remarks": null,
+  "aka": [
+    "-2147211510"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_iscsi_session_not_found/-2147211510/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

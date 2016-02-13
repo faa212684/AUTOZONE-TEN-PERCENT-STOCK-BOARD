@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\inet_e_cannot_connect\0x800c0004\index.html.json
+
+title: 0x800C0004 INET_E_CANNOT_CONNECT in winerror.h
+description: Unable to connect to the target server.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800C0004",
+  "codeUrl": "/win32/winerror-h/inet_e_cannot_connect/0x800c0004/",
+  "numericCode": -2146697212,
+  "define": "INET_E_CANNOT_CONNECT",
+  "defineUrl": "/win32/winerror-h/inet_e_cannot_connect/",
+  "message": "Unable to connect to the target server.",
+  "remarks": null,
+  "aka": [
+    "-2146697212"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/inet_e_cannot_connect/-2146697212/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

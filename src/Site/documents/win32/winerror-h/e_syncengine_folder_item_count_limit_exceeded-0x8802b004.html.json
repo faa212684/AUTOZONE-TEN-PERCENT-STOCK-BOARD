@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\e_syncengine_folder_item_count_limit_exceeded\0x8802b004\index.html.json
+
+title: 0x8802B004 E_SYNCENGINE_FOLDER_ITEM_COUNT_LIMIT_EXCEEDED in winerror.h
+description: The maximum file count has been reached for this folder in the sync engine.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8802B004",
+  "codeUrl": "/win32/winerror-h/e_syncengine_folder_item_count_limit_exceeded/0x8802b004/",
+  "numericCode": -2013089788,
+  "define": "E_SYNCENGINE_FOLDER_ITEM_COUNT_LIMIT_EXCEEDED",
+  "defineUrl": "/win32/winerror-h/e_syncengine_folder_item_count_limit_exceeded/",
+  "message": "The maximum file count has been reached for this folder in the sync engine.",
+  "remarks": null,
+  "aka": [
+    "-2013089788"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/e_syncengine_folder_item_count_limit_exceeded/-2013089788/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

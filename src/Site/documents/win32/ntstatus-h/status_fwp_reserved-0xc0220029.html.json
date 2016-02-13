@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_fwp_reserved\0xc0220029\index.html.json
+
+title: 0xC0220029 STATUS_FWP_RESERVED in ntstatus.h
+description: A reserved field is non-zero.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0220029",
+  "codeUrl": "/win32/ntstatus-h/status_fwp_reserved/0xc0220029/",
+  "numericCode": -1071513559,
+  "define": "STATUS_FWP_RESERVED",
+  "defineUrl": "/win32/ntstatus-h/status_fwp_reserved/",
+  "message": "A reserved field is non-zero.",
+  "remarks": null,
+  "aka": [
+    "-1071513559"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_fwp_reserved/-1071513559/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

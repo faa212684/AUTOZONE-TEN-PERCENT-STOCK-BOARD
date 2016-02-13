@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_disk_corrupt\1393\index.html.json
+
+title: 1393 ERROR_DISK_CORRUPT in winerror.h
+description: The disk structure is corrupted and unreadable.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1393",
+  "codeUrl": "/win32/winerror-h/error_disk_corrupt/1393/",
+  "numericCode": 1393,
+  "define": "ERROR_DISK_CORRUPT",
+  "defineUrl": "/win32/winerror-h/error_disk_corrupt/",
+  "message": "The disk structure is corrupted and unreadable.",
+  "remarks": null,
+  "aka": [
+    "0x80070571",
+    "-2147023503"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_disk_corrupt/0x80070571/",
+    "/win32/winerror-h/error_disk_corrupt/-2147023503/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

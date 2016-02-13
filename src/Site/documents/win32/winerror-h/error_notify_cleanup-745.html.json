@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_notify_cleanup\745\index.html.json
+
+title: 745 ERROR_NOTIFY_CLEANUP in winerror.h
+description: This indicates that a notify change request has been completed due to closing the handle which made the notify change request.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "745",
+  "codeUrl": "/win32/winerror-h/error_notify_cleanup/745/",
+  "numericCode": 745,
+  "define": "ERROR_NOTIFY_CLEANUP",
+  "defineUrl": "/win32/winerror-h/error_notify_cleanup/",
+  "message": "This indicates that a notify change request has been completed due to closing the handle which made the notify change request.",
+  "remarks": null,
+  "aka": [
+    "0x800702e9",
+    "-2147024151"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_notify_cleanup/0x800702e9/",
+    "/win32/winerror-h/error_notify_cleanup/-2147024151/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

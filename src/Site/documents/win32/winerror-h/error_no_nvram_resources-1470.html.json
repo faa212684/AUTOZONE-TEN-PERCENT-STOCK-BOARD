@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_no_nvram_resources\1470\index.html.json
+
+title: 1470 ERROR_NO_NVRAM_RESOURCES in winerror.h
+description: Insufficient NVRAM resources exist to complete the requested service. A reboot might be required.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1470",
+  "codeUrl": "/win32/winerror-h/error_no_nvram_resources/1470/",
+  "numericCode": 1470,
+  "define": "ERROR_NO_NVRAM_RESOURCES",
+  "defineUrl": "/win32/winerror-h/error_no_nvram_resources/",
+  "message": "Insufficient NVRAM resources exist to complete the requested service. A reboot might be required.",
+  "remarks": null,
+  "aka": [
+    "0x800705be",
+    "-2147023426"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_no_nvram_resources/0x800705be/",
+    "/win32/winerror-h/error_no_nvram_resources/-2147023426/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

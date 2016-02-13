@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_invalid_port_attributes\0xc000002e\index.html.json
+
+title: 0xC000002E STATUS_INVALID_PORT_ATTRIBUTES in ntstatus.h
+description: Invalid Object Attributes specified to NtCreatePort or invalid Port Attributes specified to NtConnectPort
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000002E",
+  "codeUrl": "/win32/ntstatus-h/status_invalid_port_attributes/0xc000002e/",
+  "numericCode": -1073741778,
+  "define": "STATUS_INVALID_PORT_ATTRIBUTES",
+  "defineUrl": "/win32/ntstatus-h/status_invalid_port_attributes/",
+  "message": "Invalid Object Attributes specified to NtCreatePort or invalid Port Attributes specified to NtConnectPort",
+  "remarks": null,
+  "aka": [
+    "-1073741778"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_invalid_port_attributes/-1073741778/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

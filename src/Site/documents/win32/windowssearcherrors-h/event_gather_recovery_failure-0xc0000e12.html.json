@@ -1,0 +1,28 @@
+---
+output: win32\windowssearcherrors-h\event_gather_recovery_failure\0xc0000e12\index.html.json
+
+title: 0xC0000E12 EVENT_GATHER_RECOVERY_FAILURE in WindowsSearchErrors.h
+description: Error ID %2 happened in Windows Search recovery stage, please restart the service. If this error persists, please recreate the index.%1
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "0xC0000E12",
+  "codeUrl": "/win32/windowssearcherrors-h/event_gather_recovery_failure/0xc0000e12/",
+  "numericCode": -1073738222,
+  "define": "EVENT_GATHER_RECOVERY_FAILURE",
+  "defineUrl": "/win32/windowssearcherrors-h/event_gather_recovery_failure/",
+  "message": "Error ID %2 happened in Windows Search recovery stage, please restart the service. If this error persists, please recreate the index.%1",
+  "remarks": null,
+  "aka": [
+    "-1073738222"
+  ],
+  "akaUrl": [
+    "/win32/windowssearcherrors-h/event_gather_recovery_failure/-1073738222/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

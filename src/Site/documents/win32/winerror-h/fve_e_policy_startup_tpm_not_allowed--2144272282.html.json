@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\fve_e_policy_startup_tpm_not_allowed\-2144272282\index.html.json
+canonical: /win32/winerror-h/fve_e_policy_startup_tpm_not_allowed/0x80310066/
+title: -2144272282 FVE_E_POLICY_STARTUP_TPM_NOT_ALLOWED in winerror.h
+description: Group policy does not permit the use of TPM-only at startup. Please choose a different BitLocker startup option.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2144272282",
+  "codeUrl": "/win32/winerror-h/fve_e_policy_startup_tpm_not_allowed/-2144272282/",
+  "numericCode": 0,
+  "define": "FVE_E_POLICY_STARTUP_TPM_NOT_ALLOWED",
+  "defineUrl": "/win32/winerror-h/fve_e_policy_startup_tpm_not_allowed/",
+  "message": "Group policy does not permit the use of TPM-only at startup. Please choose a different BitLocker startup option.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80310066",
+  "originalCodeUrl": "/win32/winerror-h/fve_e_policy_startup_tpm_not_allowed/0x80310066/"
+}

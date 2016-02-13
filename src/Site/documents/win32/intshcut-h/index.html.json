@@ -1,0 +1,23 @@
+---
+layout: list
+title: win32 IntShCut.h
+description: win32
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "IntShCut.h",
+  "sourceUrl": "/win32/intshcut-h/",
+  "items": [
+    "0x80041000",
+    "0x80041001",
+    "0x80041002",
+    "0x80042002"
+  ],
+  "itemUrls": [
+    "/win32/intshcut-h/e_flags/0x80041000/",
+    "/win32/intshcut-h/url_e_invalid_syntax/0x80041001/",
+    "/win32/intshcut-h/url_e_unregistered_protocol/0x80041002/",
+    "/win32/intshcut-h/is_e_exec_failed/0x80042002/"
+  ]
+}

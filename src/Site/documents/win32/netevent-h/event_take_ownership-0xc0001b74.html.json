@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_take_ownership\0xc0001b74\index.html.json
+
+title: 0xC0001B74 EVENT_TAKE_OWNERSHIP in netevent.h
+description: The %1 Registry key denied access to SYSTEM account programs so the Service Control Manager took ownership of the Registry key.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC0001B74",
+  "codeUrl": "/win32/netevent-h/event_take_ownership/0xc0001b74/",
+  "numericCode": -1073734796,
+  "define": "EVENT_TAKE_OWNERSHIP",
+  "defineUrl": "/win32/netevent-h/event_take_ownership/",
+  "message": "The %1 Registry key denied access to SYSTEM account programs so the Service Control Manager took ownership of the Registry key.",
+  "remarks": null,
+  "aka": [
+    "-1073734796"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_take_ownership/-1073734796/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

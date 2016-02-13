@@ -1,0 +1,28 @@
+---
+output: win32\windowssearcherrors-h\psink_s_large_word\0x00041793\index.html.json
+
+title: 0x00041793 PSINK_S_LARGE_WORD in WindowsSearchErrors.h
+description: The word exceeds the maximum length, and may be truncated by the phrase sink.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "0x00041793",
+  "codeUrl": "/win32/windowssearcherrors-h/psink_s_large_word/0x00041793/",
+  "numericCode": 268179,
+  "define": "PSINK_S_LARGE_WORD",
+  "defineUrl": "/win32/windowssearcherrors-h/psink_s_large_word/",
+  "message": "The word exceeds the maximum length, and may be truncated by the phrase sink.",
+  "remarks": null,
+  "aka": [
+    "268179"
+  ],
+  "akaUrl": [
+    "/win32/windowssearcherrors-h/psink_s_large_word/268179/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

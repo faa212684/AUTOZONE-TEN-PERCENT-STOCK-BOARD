@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_ds_naming_master_gc\0x8007214b\index.html.json
+canonical: /win32/winerror-h/error_ds_naming_master_gc/8523/
+title: 0x8007214b ERROR_DS_NAMING_MASTER_GC in winerror.h
+description: Only DSAs configured to be Global Catalog servers should be allowed to hold the Domain Naming Master FSMO role. (Applies only to Windows 2000 servers)
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007214b",
+  "codeUrl": "/win32/winerror-h/error_ds_naming_master_gc/0x8007214b/",
+  "numericCode": 0,
+  "define": "ERROR_DS_NAMING_MASTER_GC",
+  "defineUrl": "/win32/winerror-h/error_ds_naming_master_gc/",
+  "message": "Only DSAs configured to be Global Catalog servers should be allowed to hold the Domain Naming Master FSMO role. (Applies only to Windows 2000 servers)",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "8523",
+  "originalCodeUrl": "/win32/winerror-h/error_ds_naming_master_gc/8523/"
+}

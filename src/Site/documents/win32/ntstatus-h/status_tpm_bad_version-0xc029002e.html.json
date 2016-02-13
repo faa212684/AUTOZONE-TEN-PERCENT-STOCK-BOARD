@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_tpm_bad_version\0xc029002e\index.html.json
+
+title: 0xC029002E STATUS_TPM_BAD_VERSION in ntstatus.h
+description: The TPM cannot perform this version of the capability.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC029002E",
+  "codeUrl": "/win32/ntstatus-h/status_tpm_bad_version/0xc029002e/",
+  "numericCode": -1071054802,
+  "define": "STATUS_TPM_BAD_VERSION",
+  "defineUrl": "/win32/ntstatus-h/status_tpm_bad_version/",
+  "message": "The TPM cannot perform this version of the capability.",
+  "remarks": null,
+  "aka": [
+    "-1071054802"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_tpm_bad_version/-1071054802/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

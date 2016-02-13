@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\ro_e_blocked_cross_asta_call\0x8000001f\index.html.json
+
+title: 0x8000001F RO_E_BLOCKED_CROSS_ASTA_CALL in winerror.h
+description: A COM call to an ASTA was blocked because the call chain originated in or passed through another ASTA. This call pattern is deadlock-prone and disallowed by apartment call control.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8000001F",
+  "codeUrl": "/win32/winerror-h/ro_e_blocked_cross_asta_call/0x8000001f/",
+  "numericCode": -2147483617,
+  "define": "RO_E_BLOCKED_CROSS_ASTA_CALL",
+  "defineUrl": "/win32/winerror-h/ro_e_blocked_cross_asta_call/",
+  "message": "A COM call to an ASTA was blocked because the call chain originated in or passed through another ASTA. This call pattern is deadlock-prone and disallowed by apartment call control.",
+  "remarks": null,
+  "aka": [
+    "-2147483617"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/ro_e_blocked_cross_asta_call/-2147483617/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

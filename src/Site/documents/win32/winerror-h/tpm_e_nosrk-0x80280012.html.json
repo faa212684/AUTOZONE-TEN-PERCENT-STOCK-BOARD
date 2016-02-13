@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\tpm_e_nosrk\0x80280012\index.html.json
+
+title: 0x80280012 TPM_E_NOSRK in winerror.h
+description: There is no Storage Root Key (SRK) set.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80280012",
+  "codeUrl": "/win32/winerror-h/tpm_e_nosrk/0x80280012/",
+  "numericCode": -2144862190,
+  "define": "TPM_E_NOSRK",
+  "defineUrl": "/win32/winerror-h/tpm_e_nosrk/",
+  "message": "There is no Storage Root Key (SRK) set.",
+  "remarks": null,
+  "aka": [
+    "-2144862190"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/tpm_e_nosrk/-2144862190/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

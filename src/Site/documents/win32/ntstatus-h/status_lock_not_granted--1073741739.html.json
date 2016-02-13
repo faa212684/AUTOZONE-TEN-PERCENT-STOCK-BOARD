@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_lock_not_granted\-1073741739\index.html.json
+canonical: /win32/ntstatus-h/status_lock_not_granted/0xc0000055/
+title: -1073741739 STATUS_LOCK_NOT_GRANTED in ntstatus.h
+description: A requested file lock cannot be granted due to other existing locks.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741739",
+  "codeUrl": "/win32/ntstatus-h/status_lock_not_granted/-1073741739/",
+  "numericCode": 0,
+  "define": "STATUS_LOCK_NOT_GRANTED",
+  "defineUrl": "/win32/ntstatus-h/status_lock_not_granted/",
+  "message": "A requested file lock cannot be granted due to other existing locks.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000055",
+  "originalCodeUrl": "/win32/ntstatus-h/status_lock_not_granted/0xc0000055/"
+}

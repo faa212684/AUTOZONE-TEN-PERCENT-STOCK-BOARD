@@ -1,0 +1,28 @@
+---
+output: win32\mq-h\mq_error_transaction_usage\0xc00e0050\index.html.json
+
+title: 0xC00E0050 MQ_ERROR_TRANSACTION_USAGE in Mq.h
+description: An attempted action cannot be performed within a transaction.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "Mq.h",
+  "sourceUrl": "/win32/mq-h/",
+  "code": "0xC00E0050",
+  "codeUrl": "/win32/mq-h/mq_error_transaction_usage/0xc00e0050/",
+  "numericCode": -1072824240,
+  "define": "MQ_ERROR_TRANSACTION_USAGE",
+  "defineUrl": "/win32/mq-h/mq_error_transaction_usage/",
+  "message": "An attempted action cannot be performed within a transaction.",
+  "remarks": null,
+  "aka": [
+    "-1072824240"
+  ],
+  "akaUrl": [
+    "/win32/mq-h/mq_error_transaction_usage/-1072824240/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

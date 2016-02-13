@@ -1,0 +1,24 @@
+---
+output: win32\fsrmerr-h\fsrm_e_expiration_path_not_writeable\-2147200105\index.html.json
+canonical: /win32/fsrmerr-h/fsrm_e_expiration_path_not_writeable/0x80045397/
+title: -2147200105 FSRM_E_EXPIRATION_PATH_NOT_WRITEABLE in fsrmerr.h
+description: Cannot write to the specified expiration directory. Confirm that the permissions of the expiration directory grant Write permission to the computer account of the server performing the file expiration task.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "fsrmerr.h",
+  "sourceUrl": "/win32/fsrmerr-h/",
+  "code": "-2147200105",
+  "codeUrl": "/win32/fsrmerr-h/fsrm_e_expiration_path_not_writeable/-2147200105/",
+  "numericCode": 0,
+  "define": "FSRM_E_EXPIRATION_PATH_NOT_WRITEABLE",
+  "defineUrl": "/win32/fsrmerr-h/fsrm_e_expiration_path_not_writeable/",
+  "message": "Cannot write to the specified expiration directory. Confirm that the permissions of the expiration directory grant Write permission to the computer account of the server performing the file expiration task.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80045397",
+  "originalCodeUrl": "/win32/fsrmerr-h/fsrm_e_expiration_path_not_writeable/0x80045397/"
+}

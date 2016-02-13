@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\dxgi_error_sdk_component_missing\-2005270483\index.html.json
+canonical: /win32/winerror-h/dxgi_error_sdk_component_missing/0x887a002d/
+title: -2005270483 DXGI_ERROR_SDK_COMPONENT_MISSING in winerror.h
+description: The application requested an operation that depends on an SDK component that is missing or mismatched.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2005270483",
+  "codeUrl": "/win32/winerror-h/dxgi_error_sdk_component_missing/-2005270483/",
+  "numericCode": 0,
+  "define": "DXGI_ERROR_SDK_COMPONENT_MISSING",
+  "defineUrl": "/win32/winerror-h/dxgi_error_sdk_component_missing/",
+  "message": "The application requested an operation that depends on an SDK component that is missing or mismatched.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x887A002D",
+  "originalCodeUrl": "/win32/winerror-h/dxgi_error_sdk_component_missing/0x887a002d/"
+}

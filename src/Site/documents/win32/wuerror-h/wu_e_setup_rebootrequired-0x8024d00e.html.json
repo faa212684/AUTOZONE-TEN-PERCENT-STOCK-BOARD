@@ -1,0 +1,28 @@
+---
+output: win32\wuerror-h\wu_e_setup_rebootrequired\0x8024d00e\index.html.json
+
+title: 0x8024D00E WU_E_SETUP_REBOOTREQUIRED in wuerror.h
+description: Windows Update Agent setup package requires a reboot to complete installation.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wuerror.h",
+  "sourceUrl": "/win32/wuerror-h/",
+  "code": "0x8024D00E",
+  "codeUrl": "/win32/wuerror-h/wu_e_setup_rebootrequired/0x8024d00e/",
+  "numericCode": -2145071090,
+  "define": "WU_E_SETUP_REBOOTREQUIRED",
+  "defineUrl": "/win32/wuerror-h/wu_e_setup_rebootrequired/",
+  "message": "Windows Update Agent setup package requires a reboot to complete installation.",
+  "remarks": null,
+  "aka": [
+    "-2145071090"
+  ],
+  "akaUrl": [
+    "/win32/wuerror-h/wu_e_setup_rebootrequired/-2145071090/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

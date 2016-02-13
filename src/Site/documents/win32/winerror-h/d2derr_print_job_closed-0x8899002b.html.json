@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\d2derr_print_job_closed\0x8899002b\index.html.json
+
+title: 0x8899002B D2DERR_PRINT_JOB_CLOSED in winerror.h
+description: AddPage or Close called after print job is already closed.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8899002B",
+  "codeUrl": "/win32/winerror-h/d2derr_print_job_closed/0x8899002b/",
+  "numericCode": -2003238869,
+  "define": "D2DERR_PRINT_JOB_CLOSED",
+  "defineUrl": "/win32/winerror-h/d2derr_print_job_closed/",
+  "message": "AddPage or Close called after print job is already closed.",
+  "remarks": null,
+  "aka": [
+    "-2003238869"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/d2derr_print_job_closed/-2003238869/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

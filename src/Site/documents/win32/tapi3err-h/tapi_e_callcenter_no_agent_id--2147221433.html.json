@@ -1,0 +1,24 @@
+---
+output: win32\tapi3err-h\tapi_e_callcenter_no_agent_id\-2147221433\index.html.json
+canonical: /win32/tapi3err-h/tapi_e_callcenter_no_agent_id/0x80040047/
+title: -2147221433 TAPI_E_CALLCENTER_NO_AGENT_ID in Tapi3Err.h
+description: The Agent object was created with CreateAgent. It does not have an ID, use CreateAgentWithID.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "Tapi3Err.h",
+  "sourceUrl": "/win32/tapi3err-h/",
+  "code": "-2147221433",
+  "codeUrl": "/win32/tapi3err-h/tapi_e_callcenter_no_agent_id/-2147221433/",
+  "numericCode": 0,
+  "define": "TAPI_E_CALLCENTER_NO_AGENT_ID",
+  "defineUrl": "/win32/tapi3err-h/tapi_e_callcenter_no_agent_id/",
+  "message": "The Agent object was created with CreateAgent. It does not have an ID, use CreateAgentWithID.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80040047",
+  "originalCodeUrl": "/win32/tapi3err-h/tapi_e_callcenter_no_agent_id/0x80040047/"
+}

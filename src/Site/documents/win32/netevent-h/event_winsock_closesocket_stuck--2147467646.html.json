@@ -1,0 +1,24 @@
+---
+output: win32\netevent-h\event_winsock_closesocket_stuck\-2147467646\index.html.json
+canonical: /win32/netevent-h/event_winsock_closesocket_stuck/0x80003e82/
+title: -2147467646 EVENT_WINSOCK_CLOSESOCKET_STUCK in netevent.h
+description: Closing a %2 socket with local port number %3 in process %4 is taking longer than expected. The local port number may not be available until the close operation is completed. This happens typically due to misbehaving network drivers. Ensure latest updates are installed for Windows and any third-party networking software including NIC drivers, firewalls, or other security products.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "-2147467646",
+  "codeUrl": "/win32/netevent-h/event_winsock_closesocket_stuck/-2147467646/",
+  "numericCode": 0,
+  "define": "EVENT_WINSOCK_CLOSESOCKET_STUCK",
+  "defineUrl": "/win32/netevent-h/event_winsock_closesocket_stuck/",
+  "message": "Closing a %2 socket with local port number %3 in process %4 is taking longer than expected. The local port number may not be available until the close operation is completed. This happens typically due to misbehaving network drivers. Ensure latest updates are installed for Windows and any third-party networking software including NIC drivers, firewalls, or other security products.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80003E82",
+  "originalCodeUrl": "/win32/netevent-h/event_winsock_closesocket_stuck/0x80003e82/"
+}

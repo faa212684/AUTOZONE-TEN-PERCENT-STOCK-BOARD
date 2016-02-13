@@ -1,0 +1,24 @@
+---
+output: win32\netevent-h\event_ps_bad_besteffort_limit\-2147469548\index.html.json
+canonical: /win32/netevent-h/event_ps_bad_besteffort_limit/0x80003714/
+title: -2147469548 EVENT_PS_BAD_BESTEFFORT_LIMIT in netevent.h
+description: QoS [Adapter %2]:%nThe BestEffortLimit value set in the registry exceeds the LinkSpeed. Defaulting to Unlimited BestEffort.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "-2147469548",
+  "codeUrl": "/win32/netevent-h/event_ps_bad_besteffort_limit/-2147469548/",
+  "numericCode": 0,
+  "define": "EVENT_PS_BAD_BESTEFFORT_LIMIT",
+  "defineUrl": "/win32/netevent-h/event_ps_bad_besteffort_limit/",
+  "message": "QoS [Adapter %2]:%nThe BestEffortLimit value set in the registry exceeds the LinkSpeed. Defaulting to Unlimited BestEffort.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80003714",
+  "originalCodeUrl": "/win32/netevent-h/event_ps_bad_besteffort_limit/0x80003714/"
+}

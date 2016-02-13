@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_cluster_csv_volume_not_local\0xc0130019\index.html.json
+
+title: 0xC0130019 STATUS_CLUSTER_CSV_VOLUME_NOT_LOCAL in ntstatus.h
+description: The cluster shared volume is not locally mounted.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0130019",
+  "codeUrl": "/win32/ntstatus-h/status_cluster_csv_volume_not_local/0xc0130019/",
+  "numericCode": -1072496615,
+  "define": "STATUS_CLUSTER_CSV_VOLUME_NOT_LOCAL",
+  "defineUrl": "/win32/ntstatus-h/status_cluster_csv_volume_not_local/",
+  "message": "The cluster shared volume is not locally mounted.",
+  "remarks": null,
+  "aka": [
+    "-1072496615"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_cluster_csv_volume_not_local/-1072496615/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

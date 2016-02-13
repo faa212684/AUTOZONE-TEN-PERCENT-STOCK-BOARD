@@ -1,0 +1,32 @@
+---
+output: win32\wsmerror-h\error_wsman_invalid_ipfilter\-2144108308\index.html.json
+canonical: /win32/wsmerror-h/error_wsman_invalid_ipfilter/0x803380ec/
+title: -2144108308 ERROR_WSMAN_INVALID_IPFILTER in wsmerror.h
+description: The WinRM client cannot process the request. The IP Filter is invalid.
+Ranges are specified using the syntax IP1-IP2. Multiple ranges are separated using , as delimiter.
+* is used to indicate that the service should listen on all available IPs on the machine.
+When * is used, other ranges in the filter are ignored. If filter is blank, the service doesn't listen on any address.
+For example, if service should be restricted to listen on only IPv4 addresses, IPv6 filter should be left empty.
+%nExample IPv4 filters:
+2.0.0.1-2.0.0.20, 24.0.0.1-24.0.0.22
+%n Example IPv6 filters:
+3FFE:FFFF:7654:FEDA:1245:BA98:0000:0000-3FFE:FFFF:7654:FEDA:1245:BA98:3210:4562
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "-2144108308",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_invalid_ipfilter/-2144108308/",
+  "numericCode": 0,
+  "define": "ERROR_WSMAN_INVALID_IPFILTER",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_invalid_ipfilter/",
+  "message": "The WinRM client cannot process the request. The IP Filter is invalid.\r\nRanges are specified using the syntax IP1-IP2. Multiple ranges are separated using , as delimiter.\r\n* is used to indicate that the service should listen on all available IPs on the machine.\r\nWhen * is used, other ranges in the filter are ignored. If filter is blank, the service doesn't listen on any address.\r\nFor example, if service should be restricted to listen on only IPv4 addresses, IPv6 filter should be left empty.\r\n%nExample IPv4 filters:\r\n2.0.0.1-2.0.0.20, 24.0.0.1-24.0.0.22\r\n%n Example IPv6 filters:\r\n3FFE:FFFF:7654:FEDA:1245:BA98:0000:0000-3FFE:FFFF:7654:FEDA:1245:BA98:3210:4562",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x803380EC",
+  "originalCodeUrl": "/win32/wsmerror-h/error_wsman_invalid_ipfilter/0x803380ec/"
+}

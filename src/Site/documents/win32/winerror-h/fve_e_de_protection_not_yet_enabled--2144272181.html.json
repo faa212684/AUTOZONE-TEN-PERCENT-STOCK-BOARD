@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\fve_e_de_protection_not_yet_enabled\-2144272181\index.html.json
+canonical: /win32/winerror-h/fve_e_de_protection_not_yet_enabled/0x803100cb/
+title: -2144272181 FVE_E_DE_PROTECTION_NOT_YET_ENABLED in winerror.h
+description: Protection has not been enabled on the volume. Enabling protection requires a connected account. If you already have a connected account and are seeing this error, please refer to the event log for more information.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2144272181",
+  "codeUrl": "/win32/winerror-h/fve_e_de_protection_not_yet_enabled/-2144272181/",
+  "numericCode": 0,
+  "define": "FVE_E_DE_PROTECTION_NOT_YET_ENABLED",
+  "defineUrl": "/win32/winerror-h/fve_e_de_protection_not_yet_enabled/",
+  "message": "Protection has not been enabled on the volume. Enabling protection requires a connected account. If you already have a connected account and are seeing this error, please refer to the event log for more information.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x803100CB",
+  "originalCodeUrl": "/win32/winerror-h/fve_e_de_protection_not_yet_enabled/0x803100cb/"
+}

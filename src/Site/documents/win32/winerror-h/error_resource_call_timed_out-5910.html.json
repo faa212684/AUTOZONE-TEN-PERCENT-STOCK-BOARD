@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_resource_call_timed_out\5910\index.html.json
+
+title: 5910 ERROR_RESOURCE_CALL_TIMED_OUT in winerror.h
+description: The call to the cluster resource DLL timed out.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "5910",
+  "codeUrl": "/win32/winerror-h/error_resource_call_timed_out/5910/",
+  "numericCode": 5910,
+  "define": "ERROR_RESOURCE_CALL_TIMED_OUT",
+  "defineUrl": "/win32/winerror-h/error_resource_call_timed_out/",
+  "message": "The call to the cluster resource DLL timed out.",
+  "remarks": null,
+  "aka": [
+    "0x80071716",
+    "-2147018986"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_resource_call_timed_out/0x80071716/",
+    "/win32/winerror-h/error_resource_call_timed_out/-2147018986/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

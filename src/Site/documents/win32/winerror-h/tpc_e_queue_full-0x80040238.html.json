@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\tpc_e_queue_full\0x80040238\index.html.json
+
+title: 0x80040238 TPC_E_QUEUE_FULL in winerror.h
+description: TabletPC inking error code. Queue is full
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80040238",
+  "codeUrl": "/win32/winerror-h/tpc_e_queue_full/0x80040238/",
+  "numericCode": -2147220936,
+  "define": "TPC_E_QUEUE_FULL",
+  "defineUrl": "/win32/winerror-h/tpc_e_queue_full/",
+  "message": "TabletPC inking error code. Queue is full",
+  "remarks": null,
+  "aka": [
+    "-2147220936"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/tpc_e_queue_full/-2147220936/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

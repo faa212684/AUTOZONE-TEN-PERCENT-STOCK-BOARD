@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_tpm_bad_mode\0xc029002c\index.html.json
+
+title: 0xC029002C STATUS_TPM_BAD_MODE in ntstatus.h
+description: A mode parameter is bad, such as capArea or subCapArea for TPM_GetCapability, phsicalPresence parameter for TPM_PhysicalPresence, or migrationType for TPM_CreateMigrationBlob.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC029002C",
+  "codeUrl": "/win32/ntstatus-h/status_tpm_bad_mode/0xc029002c/",
+  "numericCode": -1071054804,
+  "define": "STATUS_TPM_BAD_MODE",
+  "defineUrl": "/win32/ntstatus-h/status_tpm_bad_mode/",
+  "message": "A mode parameter is bad, such as capArea or subCapArea for TPM_GetCapability, phsicalPresence parameter for TPM_PhysicalPresence, or migrationType for TPM_CreateMigrationBlob.",
+  "remarks": null,
+  "aka": [
+    "-1071054804"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_tpm_bad_mode/-1071054804/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

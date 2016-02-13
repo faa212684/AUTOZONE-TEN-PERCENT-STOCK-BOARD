@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_more_entries\0x00000105\index.html.json
+
+title: 0x00000105 STATUS_MORE_ENTRIES in ntstatus.h
+description: Returned by enumeration APIs to indicate more information is available to successive calls.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0x00000105",
+  "codeUrl": "/win32/ntstatus-h/status_more_entries/0x00000105/",
+  "numericCode": 261,
+  "define": "STATUS_MORE_ENTRIES",
+  "defineUrl": "/win32/ntstatus-h/status_more_entries/",
+  "message": "Returned by enumeration APIs to indicate more information is available to successive calls.",
+  "remarks": null,
+  "aka": [
+    "261"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_more_entries/261/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

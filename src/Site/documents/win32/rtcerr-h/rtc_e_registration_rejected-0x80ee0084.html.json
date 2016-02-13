@@ -1,0 +1,28 @@
+---
+output: win32\rtcerr-h\rtc_e_registration_rejected\0x80ee0084\index.html.json
+
+title: 0x80EE0084 RTC_E_REGISTRATION_REJECTED in rtcerr.h
+description: The user's account was disabled or deleted or the SIP URI changed
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "rtcerr.h",
+  "sourceUrl": "/win32/rtcerr-h/",
+  "code": "0x80EE0084",
+  "codeUrl": "/win32/rtcerr-h/rtc_e_registration_rejected/0x80ee0084/",
+  "numericCode": -2131885948,
+  "define": "RTC_E_REGISTRATION_REJECTED",
+  "defineUrl": "/win32/rtcerr-h/rtc_e_registration_rejected/",
+  "message": "The user's account was disabled or deleted or the SIP URI changed",
+  "remarks": null,
+  "aka": [
+    "-2131885948"
+  ],
+  "akaUrl": [
+    "/win32/rtcerr-h/rtc_e_registration_rejected/-2131885948/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

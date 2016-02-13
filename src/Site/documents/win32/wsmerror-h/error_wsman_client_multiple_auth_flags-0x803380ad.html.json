@@ -1,0 +1,30 @@
+---
+output: win32\wsmerror-h\error_wsman_client_multiple_auth_flags\0x803380ad\index.html.json
+
+title: 0x803380AD ERROR_WSMAN_CLIENT_MULTIPLE_AUTH_FLAGS in wsmerror.h
+description: The WinRM client cannot process the request. The request must specify only one authentication mechanism.
+If the No Authentication flag is set, no authentication mechanism should be specified.
+Change the request to specify only one authentication mechanism or 'no authentication' and try again.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x803380AD",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_client_multiple_auth_flags/0x803380ad/",
+  "numericCode": -2144108371,
+  "define": "ERROR_WSMAN_CLIENT_MULTIPLE_AUTH_FLAGS",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_client_multiple_auth_flags/",
+  "message": "The WinRM client cannot process the request. The request must specify only one authentication mechanism.\r\nIf the No Authentication flag is set, no authentication mechanism should be specified.\r\nChange the request to specify only one authentication mechanism or 'no authentication' and try again.",
+  "remarks": null,
+  "aka": [
+    "-2144108371"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_client_multiple_auth_flags/-2144108371/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_io_reissue_as_cached\0xc0040039\index.html.json
+
+title: 0xC0040039 STATUS_IO_REISSUE_AS_CACHED in ntstatus.h
+description: Reissue the given operation as a cached IO operation
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0040039",
+  "codeUrl": "/win32/ntstatus-h/status_io_reissue_as_cached/0xc0040039/",
+  "numericCode": -1073479623,
+  "define": "STATUS_IO_REISSUE_AS_CACHED",
+  "defineUrl": "/win32/ntstatus-h/status_io_reissue_as_cached/",
+  "message": "Reissue the given operation as a cached IO operation",
+  "remarks": null,
+  "aka": [
+    "-1073479623"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_io_reissue_as_cached/-1073479623/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

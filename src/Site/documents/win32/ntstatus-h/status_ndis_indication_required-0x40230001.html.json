@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_ndis_indication_required\0x40230001\index.html.json
+
+title: 0x40230001 STATUS_NDIS_INDICATION_REQUIRED in ntstatus.h
+description: The request will be completed later by NDIS status indication.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0x40230001",
+  "codeUrl": "/win32/ntstatus-h/status_ndis_indication_required/0x40230001/",
+  "numericCode": 1076035585,
+  "define": "STATUS_NDIS_INDICATION_REQUIRED",
+  "defineUrl": "/win32/ntstatus-h/status_ndis_indication_required/",
+  "message": "The request will be completed later by NDIS status indication.",
+  "remarks": null,
+  "aka": [
+    "1076035585"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_ndis_indication_required/1076035585/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

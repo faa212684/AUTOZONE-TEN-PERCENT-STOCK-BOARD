@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\crypt_e_no_verify_usage_check\-2146885592\index.html.json
+canonical: /win32/winerror-h/crypt_e_no_verify_usage_check/0x80092028/
+title: -2146885592 CRYPT_E_NO_VERIFY_USAGE_CHECK in winerror.h
+description: The called function was unable to do a usage check on the subject.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2146885592",
+  "codeUrl": "/win32/winerror-h/crypt_e_no_verify_usage_check/-2146885592/",
+  "numericCode": 0,
+  "define": "CRYPT_E_NO_VERIFY_USAGE_CHECK",
+  "defineUrl": "/win32/winerror-h/crypt_e_no_verify_usage_check/",
+  "message": "The called function was unable to do a usage check on the subject.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80092028",
+  "originalCodeUrl": "/win32/winerror-h/crypt_e_no_verify_usage_check/0x80092028/"
+}

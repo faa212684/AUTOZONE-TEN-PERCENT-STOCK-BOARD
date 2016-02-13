@@ -1,0 +1,28 @@
+---
+output: win32\nserror-h\ns_e_drm_backuprestore_busy\0xc00d2744\index.html.json
+
+title: 0xC00D2744 NS_E_DRM_BACKUPRESTORE_BUSY in nserror.h
+description: You cannot begin a new backup process until the current process has been completed.%0
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "nserror.h",
+  "sourceUrl": "/win32/nserror-h/",
+  "code": "0xC00D2744",
+  "codeUrl": "/win32/nserror-h/ns_e_drm_backuprestore_busy/0xc00d2744/",
+  "numericCode": -1072879804,
+  "define": "NS_E_DRM_BACKUPRESTORE_BUSY",
+  "defineUrl": "/win32/nserror-h/ns_e_drm_backuprestore_busy/",
+  "message": "You cannot begin a new backup process until the current process has been completed.%0",
+  "remarks": null,
+  "aka": [
+    "-1072879804"
+  ],
+  "akaUrl": [
+    "/win32/nserror-h/ns_e_drm_backuprestore_busy/-1072879804/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

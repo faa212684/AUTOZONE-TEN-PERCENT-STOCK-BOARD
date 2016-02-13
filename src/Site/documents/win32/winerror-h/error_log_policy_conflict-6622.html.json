@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_log_policy_conflict\6622\index.html.json
+
+title: 6622 ERROR_LOG_POLICY_CONFLICT in winerror.h
+description: A policy on the log in question prevented the operation from completing.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "6622",
+  "codeUrl": "/win32/winerror-h/error_log_policy_conflict/6622/",
+  "numericCode": 6622,
+  "define": "ERROR_LOG_POLICY_CONFLICT",
+  "defineUrl": "/win32/winerror-h/error_log_policy_conflict/",
+  "message": "A policy on the log in question prevented the operation from completing.",
+  "remarks": null,
+  "aka": [
+    "0x800719de",
+    "-2147018274"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_log_policy_conflict/0x800719de/",
+    "/win32/winerror-h/error_log_policy_conflict/-2147018274/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_printer_driver_warned\3013\index.html.json
+
+title: 3013 ERROR_PRINTER_DRIVER_WARNED in winerror.h
+description: The printer driver is known to be unreliable.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "3013",
+  "codeUrl": "/win32/winerror-h/error_printer_driver_warned/3013/",
+  "numericCode": 3013,
+  "define": "ERROR_PRINTER_DRIVER_WARNED",
+  "defineUrl": "/win32/winerror-h/error_printer_driver_warned/",
+  "message": "The printer driver is known to be unreliable.",
+  "remarks": null,
+  "aka": [
+    "0x80070bc5",
+    "-2147021883"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_printer_driver_warned/0x80070bc5/",
+    "/win32/winerror-h/error_printer_driver_warned/-2147021883/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

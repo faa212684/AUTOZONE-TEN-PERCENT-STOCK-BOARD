@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_file_is_a_directory\0xc00000ba\index.html.json
+
+title: 0xC00000BA STATUS_FILE_IS_A_DIRECTORY in ntstatus.h
+description: The file that was specified as a target is a directory and the caller specified that it could be anything but a directory.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC00000BA",
+  "codeUrl": "/win32/ntstatus-h/status_file_is_a_directory/0xc00000ba/",
+  "numericCode": -1073741638,
+  "define": "STATUS_FILE_IS_A_DIRECTORY",
+  "defineUrl": "/win32/ntstatus-h/status_file_is_a_directory/",
+  "message": "The file that was specified as a target is a directory and the caller specified that it could be anything but a directory.",
+  "remarks": null,
+  "aka": [
+    "-1073741638"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_file_is_a_directory/-1073741638/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_vid_invalid_object_name\0xc0370005\index.html.json
+
+title: 0xC0370005 STATUS_VID_INVALID_OBJECT_NAME in ntstatus.h
+description: The name of the partition or message queue for the virtualization infrastructure driver is invalid. Restarting the virtual machine may fix the problem. If the problem persists, try restarting the physical computer.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0370005",
+  "codeUrl": "/win32/ntstatus-h/status_vid_invalid_object_name/0xc0370005/",
+  "numericCode": -1070137339,
+  "define": "STATUS_VID_INVALID_OBJECT_NAME",
+  "defineUrl": "/win32/ntstatus-h/status_vid_invalid_object_name/",
+  "message": "The name of the partition or message queue for the virtualization infrastructure driver is invalid. Restarting the virtual machine may fix the problem. If the problem persists, try restarting the physical computer.",
+  "remarks": null,
+  "aka": [
+    "-1070137339"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_vid_invalid_object_name/-1070137339/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\fve_e_no_bootsector_metric\-2144272380\index.html.json
+canonical: /win32/winerror-h/fve_e_no_bootsector_metric/0x80310004/
+title: -2144272380 FVE_E_NO_BOOTSECTOR_METRIC in winerror.h
+description: A required TPM measurement is missing. If there is a bootable CD or DVD in your computer, remove it, restart the computer, and turn on BitLocker again. If the problem persists, ensure the master boot record is up to date.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2144272380",
+  "codeUrl": "/win32/winerror-h/fve_e_no_bootsector_metric/-2144272380/",
+  "numericCode": 0,
+  "define": "FVE_E_NO_BOOTSECTOR_METRIC",
+  "defineUrl": "/win32/winerror-h/fve_e_no_bootsector_metric/",
+  "message": "A required TPM measurement is missing. If there is a bootable CD or DVD in your computer, remove it, restart the computer, and turn on BitLocker again. If the problem persists, ensure the master boot record is up to date.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80310004",
+  "originalCodeUrl": "/win32/winerror-h/fve_e_no_bootsector_metric/0x80310004/"
+}

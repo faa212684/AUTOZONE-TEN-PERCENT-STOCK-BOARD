@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_nt_cross_encryption_required\0xc000015d\index.html.json
+
+title: 0xC000015D STATUS_NT_CROSS_ENCRYPTION_REQUIRED in ntstatus.h
+description: An attempt was made to change a user password in the security account manager without providing the necessary Windows cross-encrypted password.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000015D",
+  "codeUrl": "/win32/ntstatus-h/status_nt_cross_encryption_required/0xc000015d/",
+  "numericCode": -1073741475,
+  "define": "STATUS_NT_CROSS_ENCRYPTION_REQUIRED",
+  "defineUrl": "/win32/ntstatus-h/status_nt_cross_encryption_required/",
+  "message": "An attempt was made to change a user password in the security account manager without providing the necessary Windows cross-encrypted password.",
+  "remarks": null,
+  "aka": [
+    "-1073741475"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_nt_cross_encryption_required/-1073741475/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_log_no_restart\0x401a000c\index.html.json
+
+title: 0x401A000C STATUS_LOG_NO_RESTART in ntstatus.h
+description: Log service encountered a log stream with no restart area.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0x401A000C",
+  "codeUrl": "/win32/ntstatus-h/status_log_no_restart/0x401a000c/",
+  "numericCode": 1075445772,
+  "define": "STATUS_LOG_NO_RESTART",
+  "defineUrl": "/win32/ntstatus-h/status_log_no_restart/",
+  "message": "Log service encountered a log stream with no restart area.",
+  "remarks": null,
+  "aka": [
+    "1075445772"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_log_no_restart/1075445772/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

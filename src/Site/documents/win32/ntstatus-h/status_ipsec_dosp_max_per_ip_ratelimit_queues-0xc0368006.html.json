@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_ipsec_dosp_max_per_ip_ratelimit_queues\0xc0368006\index.html.json
+
+title: 0xC0368006 STATUS_IPSEC_DOSP_MAX_PER_IP_RATELIMIT_QUEUES in ntstatus.h
+description: IPsec DoS Protection failed to create a per internal IP rate limit queue because the maximum number of queues allowed by policy has been reached.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0368006",
+  "codeUrl": "/win32/ntstatus-h/status_ipsec_dosp_max_per_ip_ratelimit_queues/0xc0368006/",
+  "numericCode": -1070170106,
+  "define": "STATUS_IPSEC_DOSP_MAX_PER_IP_RATELIMIT_QUEUES",
+  "defineUrl": "/win32/ntstatus-h/status_ipsec_dosp_max_per_ip_ratelimit_queues/",
+  "message": "IPsec DoS Protection failed to create a per internal IP rate limit queue because the maximum number of queues allowed by policy has been reached.",
+  "remarks": null,
+  "aka": [
+    "-1070170106"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_ipsec_dosp_max_per_ip_ratelimit_queues/-1070170106/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

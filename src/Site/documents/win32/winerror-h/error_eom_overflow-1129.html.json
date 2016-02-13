@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_eom_overflow\1129\index.html.json
+
+title: 1129 ERROR_EOM_OVERFLOW in winerror.h
+description: Physical end of tape encountered.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1129",
+  "codeUrl": "/win32/winerror-h/error_eom_overflow/1129/",
+  "numericCode": 1129,
+  "define": "ERROR_EOM_OVERFLOW",
+  "defineUrl": "/win32/winerror-h/error_eom_overflow/",
+  "message": "Physical end of tape encountered.",
+  "remarks": null,
+  "aka": [
+    "0x80070469",
+    "-2147023767"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_eom_overflow/0x80070469/",
+    "/win32/winerror-h/error_eom_overflow/-2147023767/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

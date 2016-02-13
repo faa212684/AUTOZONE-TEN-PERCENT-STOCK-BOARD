@@ -1,0 +1,24 @@
+---
+output: win32\windowssearcherrors-h\_mapi_e_too_complex\-2147221225\index.html.json
+canonical: /win32/windowssearcherrors-h/_mapi_e_too_complex/0x80040117/
+title: -2147221225 _MAPI_E_TOO_COMPLEX in WindowsSearchErrors.h
+description: The calling process is an NT service, and registry keys required by MAPI could not be initialized.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "-2147221225",
+  "codeUrl": "/win32/windowssearcherrors-h/_mapi_e_too_complex/-2147221225/",
+  "numericCode": 0,
+  "define": "_MAPI_E_TOO_COMPLEX",
+  "defineUrl": "/win32/windowssearcherrors-h/_mapi_e_too_complex/",
+  "message": "The calling process is an NT service, and registry keys required by MAPI could not be initialized.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80040117",
+  "originalCodeUrl": "/win32/windowssearcherrors-h/_mapi_e_too_complex/0x80040117/"
+}

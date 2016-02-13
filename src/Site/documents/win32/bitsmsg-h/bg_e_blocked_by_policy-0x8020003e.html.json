@@ -1,0 +1,28 @@
+---
+output: win32\bitsmsg-h\bg_e_blocked_by_policy\0x8020003e\index.html.json
+
+title: 0x8020003E BG_E_BLOCKED_BY_POLICY in BitsMsg.h
+description: Group Policy settings prevent background jobs from running at this time.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "BitsMsg.h",
+  "sourceUrl": "/win32/bitsmsg-h/",
+  "code": "0x8020003E",
+  "codeUrl": "/win32/bitsmsg-h/bg_e_blocked_by_policy/0x8020003e/",
+  "numericCode": -2145386434,
+  "define": "BG_E_BLOCKED_BY_POLICY",
+  "defineUrl": "/win32/bitsmsg-h/bg_e_blocked_by_policy/",
+  "message": "Group Policy settings prevent background jobs from running at this time.",
+  "remarks": null,
+  "aka": [
+    "-2145386434"
+  ],
+  "akaUrl": [
+    "/win32/bitsmsg-h/bg_e_blocked_by_policy/-2145386434/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

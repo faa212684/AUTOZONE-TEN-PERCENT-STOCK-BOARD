@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_ds_cant_find_dc_for_src_domain\0x80072159\index.html.json
+canonical: /win32/winerror-h/error_ds_cant_find_dc_for_src_domain/8537/
+title: 0x80072159 ERROR_DS_CANT_FIND_DC_FOR_SRC_DOMAIN in winerror.h
+description: The operation couldn't locate a DC for the source domain.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80072159",
+  "codeUrl": "/win32/winerror-h/error_ds_cant_find_dc_for_src_domain/0x80072159/",
+  "numericCode": 0,
+  "define": "ERROR_DS_CANT_FIND_DC_FOR_SRC_DOMAIN",
+  "defineUrl": "/win32/winerror-h/error_ds_cant_find_dc_for_src_domain/",
+  "message": "The operation couldn't locate a DC for the source domain.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "8537",
+  "originalCodeUrl": "/win32/winerror-h/error_ds_cant_find_dc_for_src_domain/8537/"
+}

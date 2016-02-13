@@ -1,0 +1,29 @@
+---
+output: win32\cdosyserr-h\evtsaveinvalidstartappt\0xc003202f\index.html.json
+
+title: 0xC003202F evtSaveInvalidStartAppt in CDOSysErr.h
+description: An appointment with the subject "%1" was saved to mailbox %2. The start time is missing, so the calendaring agent cannot publish the free/busy information for this appointment. To correct this, please delete the appointment and recreate it.
+%n%nFor more information, click http:www.microsoft.com/contentredirect.asp.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "CDOSysErr.h",
+  "sourceUrl": "/win32/cdosyserr-h/",
+  "code": "0xC003202F",
+  "codeUrl": "/win32/cdosyserr-h/evtsaveinvalidstartappt/0xc003202f/",
+  "numericCode": -1073536977,
+  "define": "evtSaveInvalidStartAppt",
+  "defineUrl": "/win32/cdosyserr-h/evtsaveinvalidstartappt/",
+  "message": "An appointment with the subject \"%1\" was saved to mailbox %2. The start time is missing, so the calendaring agent cannot publish the free/busy information for this appointment. To correct this, please delete the appointment and recreate it.\r\n%n%nFor more information, click http:www.microsoft.com/contentredirect.asp.",
+  "remarks": null,
+  "aka": [
+    "-1073536977"
+  ],
+  "akaUrl": [
+    "/win32/cdosyserr-h/evtsaveinvalidstartappt/-1073536977/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

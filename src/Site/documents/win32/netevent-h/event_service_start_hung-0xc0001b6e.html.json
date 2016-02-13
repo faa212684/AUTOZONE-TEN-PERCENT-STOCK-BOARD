@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_service_start_hung\0xc0001b6e\index.html.json
+
+title: 0xC0001B6E EVENT_SERVICE_START_HUNG in netevent.h
+description: The %1 service hung on starting.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC0001B6E",
+  "codeUrl": "/win32/netevent-h/event_service_start_hung/0xc0001b6e/",
+  "numericCode": -1073734802,
+  "define": "EVENT_SERVICE_START_HUNG",
+  "defineUrl": "/win32/netevent-h/event_service_start_hung/",
+  "message": "The %1 service hung on starting.",
+  "remarks": null,
+  "aka": [
+    "-1073734802"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_service_start_hung/-1073734802/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

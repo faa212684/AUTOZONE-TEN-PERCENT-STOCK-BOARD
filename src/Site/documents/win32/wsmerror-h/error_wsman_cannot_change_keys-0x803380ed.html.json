@@ -1,0 +1,30 @@
+---
+output: win32\wsmerror-h\error_wsman_cannot_change_keys\0x803380ed\index.html.json
+
+title: 0x803380ED ERROR_WSMAN_CANNOT_CHANGE_KEYS in wsmerror.h
+description: The WinRM client cannot process the request. The input XML modifies selectors or keys for the instance.
+You cannot create a new instance or change the identity of an instance by changing the keys.
+Change the input XML and try the request again.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x803380ED",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_cannot_change_keys/0x803380ed/",
+  "numericCode": -2144108307,
+  "define": "ERROR_WSMAN_CANNOT_CHANGE_KEYS",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_cannot_change_keys/",
+  "message": "The WinRM client cannot process the request. The input XML modifies selectors or keys for the instance.\r\nYou cannot create a new instance or change the identity of an instance by changing the keys.\r\nChange the input XML and try the request again.",
+  "remarks": null,
+  "aka": [
+    "-2144108307"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_cannot_change_keys/-2144108307/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\mq-h\mq_error_label_too_long\0xc00e005d\index.html.json
+
+title: 0xC00E005D MQ_ERROR_LABEL_TOO_LONG in Mq.h
+description: The message label is too long. Its length should be less than or equal to MQ_MAX_MSG_LABEL_LEN.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "Mq.h",
+  "sourceUrl": "/win32/mq-h/",
+  "code": "0xC00E005D",
+  "codeUrl": "/win32/mq-h/mq_error_label_too_long/0xc00e005d/",
+  "numericCode": -1072824227,
+  "define": "MQ_ERROR_LABEL_TOO_LONG",
+  "defineUrl": "/win32/mq-h/mq_error_label_too_long/",
+  "message": "The message label is too long. Its length should be less than or equal to MQ_MAX_MSG_LABEL_LEN.",
+  "remarks": null,
+  "aka": [
+    "-1072824227"
+  ],
+  "akaUrl": [
+    "/win32/mq-h/mq_error_label_too_long/-1072824227/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_tpm_bad_datasize\0xc029002b\index.html.json
+
+title: 0xC029002B STATUS_TPM_BAD_DATASIZE in ntstatus.h
+description: The size of the data (or blob) parameter is bad or inconsistent with the referenced key.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC029002B",
+  "codeUrl": "/win32/ntstatus-h/status_tpm_bad_datasize/0xc029002b/",
+  "numericCode": -1071054805,
+  "define": "STATUS_TPM_BAD_DATASIZE",
+  "defineUrl": "/win32/ntstatus-h/status_tpm_bad_datasize/",
+  "message": "The size of the data (or blob) parameter is bad or inconsistent with the referenced key.",
+  "remarks": null,
+  "aka": [
+    "-1071054805"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_tpm_bad_datasize/-1071054805/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

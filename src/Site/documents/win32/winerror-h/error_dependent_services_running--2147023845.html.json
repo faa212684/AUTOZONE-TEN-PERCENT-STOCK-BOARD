@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_dependent_services_running\-2147023845\index.html.json
+canonical: /win32/winerror-h/error_dependent_services_running/1051/
+title: -2147023845 ERROR_DEPENDENT_SERVICES_RUNNING in winerror.h
+description: A stop control has been sent to a service that other running services are dependent on.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147023845",
+  "codeUrl": "/win32/winerror-h/error_dependent_services_running/-2147023845/",
+  "numericCode": 0,
+  "define": "ERROR_DEPENDENT_SERVICES_RUNNING",
+  "defineUrl": "/win32/winerror-h/error_dependent_services_running/",
+  "message": "A stop control has been sent to a service that other running services are dependent on.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "1051",
+  "originalCodeUrl": "/win32/winerror-h/error_dependent_services_running/1051/"
+}

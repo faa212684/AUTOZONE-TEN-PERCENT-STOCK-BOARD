@@ -1,0 +1,31 @@
+---
+output: win32\winerror-h\error_rxact_commit_necessary\678\index.html.json
+
+title: 678 ERROR_RXACT_COMMIT_NECESSARY in winerror.h
+description: This warning level status indicates that the transaction state already exists for the registry sub-tree, but that a transaction commit was previously aborted.
+The commit has NOT been completed, but has not been rolled back either (so it may still be committed if desired).
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "678",
+  "codeUrl": "/win32/winerror-h/error_rxact_commit_necessary/678/",
+  "numericCode": 678,
+  "define": "ERROR_RXACT_COMMIT_NECESSARY",
+  "defineUrl": "/win32/winerror-h/error_rxact_commit_necessary/",
+  "message": "This warning level status indicates that the transaction state already exists for the registry sub-tree, but that a transaction commit was previously aborted.\r\nThe commit has NOT been completed, but has not been rolled back either (so it may still be committed if desired).",
+  "remarks": null,
+  "aka": [
+    "0x800702a6",
+    "-2147024218"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_rxact_commit_necessary/0x800702a6/",
+    "/win32/winerror-h/error_rxact_commit_necessary/-2147024218/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

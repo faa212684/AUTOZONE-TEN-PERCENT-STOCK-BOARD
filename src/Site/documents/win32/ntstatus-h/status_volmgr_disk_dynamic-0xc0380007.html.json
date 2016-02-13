@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_volmgr_disk_dynamic\0xc0380007\index.html.json
+
+title: 0xC0380007 STATUS_VOLMGR_DISK_DYNAMIC in ntstatus.h
+description: The disk is already dynamic.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0380007",
+  "codeUrl": "/win32/ntstatus-h/status_volmgr_disk_dynamic/0xc0380007/",
+  "numericCode": -1070071801,
+  "define": "STATUS_VOLMGR_DISK_DYNAMIC",
+  "defineUrl": "/win32/ntstatus-h/status_volmgr_disk_dynamic/",
+  "message": "The disk is already dynamic.",
+  "remarks": null,
+  "aka": [
+    "-1070071801"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_volmgr_disk_dynamic/-1070071801/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\wuerror-h\wu_e_setup_source_version_mismatch\0x8024d005\index.html.json
+
+title: 0x8024D005 WU_E_SETUP_SOURCE_VERSION_MISMATCH in wuerror.h
+description: Windows Update Agent could not be updated because the versions specified in the INF do not match the actual source file versions.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wuerror.h",
+  "sourceUrl": "/win32/wuerror-h/",
+  "code": "0x8024D005",
+  "codeUrl": "/win32/wuerror-h/wu_e_setup_source_version_mismatch/0x8024d005/",
+  "numericCode": -2145071099,
+  "define": "WU_E_SETUP_SOURCE_VERSION_MISMATCH",
+  "defineUrl": "/win32/wuerror-h/wu_e_setup_source_version_mismatch/",
+  "message": "Windows Update Agent could not be updated because the versions specified in the INF do not match the actual source file versions.",
+  "remarks": null,
+  "aka": [
+    "-2145071099"
+  ],
+  "akaUrl": [
+    "/win32/wuerror-h/wu_e_setup_source_version_mismatch/-2145071099/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

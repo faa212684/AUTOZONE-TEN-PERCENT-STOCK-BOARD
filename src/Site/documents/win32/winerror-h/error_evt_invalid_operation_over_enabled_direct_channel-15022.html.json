@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_evt_invalid_operation_over_enabled_direct_channel\15022\index.html.json
+
+title: 15022 ERROR_EVT_INVALID_OPERATION_OVER_ENABLED_DIRECT_CHANNEL in winerror.h
+description: The requested operation cannot be performed over an enabled direct channel. The channel must first be disabled before performing the requested operation.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "15022",
+  "codeUrl": "/win32/winerror-h/error_evt_invalid_operation_over_enabled_direct_channel/15022/",
+  "numericCode": 15022,
+  "define": "ERROR_EVT_INVALID_OPERATION_OVER_ENABLED_DIRECT_CHANNEL",
+  "defineUrl": "/win32/winerror-h/error_evt_invalid_operation_over_enabled_direct_channel/",
+  "message": "The requested operation cannot be performed over an enabled direct channel. The channel must first be disabled before performing the requested operation.",
+  "remarks": null,
+  "aka": [
+    "0x80073aae",
+    "-2147009874"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_evt_invalid_operation_over_enabled_direct_channel/0x80073aae/",
+    "/win32/winerror-h/error_evt_invalid_operation_over_enabled_direct_channel/-2147009874/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

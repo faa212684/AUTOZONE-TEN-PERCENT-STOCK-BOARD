@@ -1,0 +1,28 @@
+---
+output: win32\fsrmerr-h\fsrm_e_shadow_copy\0x8004532c\index.html.json
+
+title: 0x8004532C FSRM_E_SHADOW_COPY in fsrmerr.h
+description: A volume shadow copy could not be created or was unexpectedly deleted.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "fsrmerr.h",
+  "sourceUrl": "/win32/fsrmerr-h/",
+  "code": "0x8004532C",
+  "codeUrl": "/win32/fsrmerr-h/fsrm_e_shadow_copy/0x8004532c/",
+  "numericCode": -2147200212,
+  "define": "FSRM_E_SHADOW_COPY",
+  "defineUrl": "/win32/fsrmerr-h/fsrm_e_shadow_copy/",
+  "message": "A volume shadow copy could not be created or was unexpectedly deleted.",
+  "remarks": null,
+  "aka": [
+    "-2147200212"
+  ],
+  "akaUrl": [
+    "/win32/fsrmerr-h/fsrm_e_shadow_copy/-2147200212/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

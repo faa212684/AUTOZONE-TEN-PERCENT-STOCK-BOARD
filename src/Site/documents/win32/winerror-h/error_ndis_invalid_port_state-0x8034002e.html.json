@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\error_ndis_invalid_port_state\0x8034002e\index.html.json
+
+title: 0x8034002E ERROR_NDIS_INVALID_PORT_STATE in winerror.h
+description: The current state of the specified port on this network interface does not support the requested operation.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8034002E",
+  "codeUrl": "/win32/winerror-h/error_ndis_invalid_port_state/0x8034002e/",
+  "numericCode": -2144075730,
+  "define": "ERROR_NDIS_INVALID_PORT_STATE",
+  "defineUrl": "/win32/winerror-h/error_ndis_invalid_port_state/",
+  "message": "The current state of the specified port on this network interface does not support the requested operation.",
+  "remarks": null,
+  "aka": [
+    "-2144075730"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ndis_invalid_port_state/-2144075730/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

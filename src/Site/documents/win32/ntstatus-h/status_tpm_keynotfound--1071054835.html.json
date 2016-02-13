@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_tpm_keynotfound\-1071054835\index.html.json
+canonical: /win32/ntstatus-h/status_tpm_keynotfound/0xc029000d/
+title: -1071054835 STATUS_TPM_KEYNOTFOUND in ntstatus.h
+description: The key handle points to an invalid key.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071054835",
+  "codeUrl": "/win32/ntstatus-h/status_tpm_keynotfound/-1071054835/",
+  "numericCode": 0,
+  "define": "STATUS_TPM_KEYNOTFOUND",
+  "defineUrl": "/win32/ntstatus-h/status_tpm_keynotfound/",
+  "message": "The key handle points to an invalid key.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC029000D",
+  "originalCodeUrl": "/win32/ntstatus-h/status_tpm_keynotfound/0xc029000d/"
+}

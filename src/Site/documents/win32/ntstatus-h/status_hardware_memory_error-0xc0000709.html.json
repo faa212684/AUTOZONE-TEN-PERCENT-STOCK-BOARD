@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_hardware_memory_error\0xc0000709\index.html.json
+
+title: 0xC0000709 STATUS_HARDWARE_MEMORY_ERROR in ntstatus.h
+description: The hardware has reported an uncorrectable memory error.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000709",
+  "codeUrl": "/win32/ntstatus-h/status_hardware_memory_error/0xc0000709/",
+  "numericCode": -1073740023,
+  "define": "STATUS_HARDWARE_MEMORY_ERROR",
+  "defineUrl": "/win32/ntstatus-h/status_hardware_memory_error/",
+  "message": "The hardware has reported an uncorrectable memory error.",
+  "remarks": null,
+  "aka": [
+    "-1073740023"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_hardware_memory_error/-1073740023/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

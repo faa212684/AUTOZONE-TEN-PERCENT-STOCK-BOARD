@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\regdb_e_writeregdb\0x80040151\index.html.json
+
+title: 0x80040151 REGDB_E_WRITEREGDB in winerror.h
+description: Could not write key to registry
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80040151",
+  "codeUrl": "/win32/winerror-h/regdb_e_writeregdb/0x80040151/",
+  "numericCode": -2147221167,
+  "define": "REGDB_E_WRITEREGDB",
+  "defineUrl": "/win32/winerror-h/regdb_e_writeregdb/",
+  "message": "Could not write key to registry",
+  "remarks": null,
+  "aka": [
+    "-2147221167"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/regdb_e_writeregdb/-2147221167/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

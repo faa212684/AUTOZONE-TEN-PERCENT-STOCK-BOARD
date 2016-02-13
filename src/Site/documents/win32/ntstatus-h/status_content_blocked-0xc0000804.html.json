@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_content_blocked\0xc0000804\index.html.json
+
+title: 0xC0000804 STATUS_CONTENT_BLOCKED in ntstatus.h
+description: The requested file operation failed because the storage policy blocks that type of file. For more information, contact your system administrator.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000804",
+  "codeUrl": "/win32/ntstatus-h/status_content_blocked/0xc0000804/",
+  "numericCode": -1073739772,
+  "define": "STATUS_CONTENT_BLOCKED",
+  "defineUrl": "/win32/ntstatus-h/status_content_blocked/",
+  "message": "The requested file operation failed because the storage policy blocks that type of file. For more information, contact your system administrator.",
+  "remarks": null,
+  "aka": [
+    "-1073739772"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_content_blocked/-1073739772/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

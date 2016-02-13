@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_ds_invalid_name_for_spn\0x8007216a\index.html.json
+canonical: /win32/winerror-h/error_ds_invalid_name_for_spn/8554/
+title: 0x8007216a ERROR_DS_INVALID_NAME_FOR_SPN in winerror.h
+description: A Service Principal Name (SPN) could not be constructed because the provided hostname is not in the necessary format.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007216a",
+  "codeUrl": "/win32/winerror-h/error_ds_invalid_name_for_spn/0x8007216a/",
+  "numericCode": 0,
+  "define": "ERROR_DS_INVALID_NAME_FOR_SPN",
+  "defineUrl": "/win32/winerror-h/error_ds_invalid_name_for_spn/",
+  "message": "A Service Principal Name (SPN) could not be constructed because the provided hostname is not in the necessary format.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "8554",
+  "originalCodeUrl": "/win32/winerror-h/error_ds_invalid_name_for_spn/8554/"
+}

@@ -1,0 +1,28 @@
+---
+output: win32\ntiologc-h\io_warning_io_operation_retried\0x80040099\index.html.json
+
+title: 0x80040099 IO_WARNING_IO_OPERATION_RETRIED in ntiologc.h
+description: The IO operation at logical block address %2 for Disk %3 (PDO name: %4) was retried.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntiologc.h",
+  "sourceUrl": "/win32/ntiologc-h/",
+  "code": "0x80040099",
+  "codeUrl": "/win32/ntiologc-h/io_warning_io_operation_retried/0x80040099/",
+  "numericCode": -2147221351,
+  "define": "IO_WARNING_IO_OPERATION_RETRIED",
+  "defineUrl": "/win32/ntiologc-h/io_warning_io_operation_retried/",
+  "message": "The IO operation at logical block address %2 for Disk %3 (PDO name: %4) was retried.",
+  "remarks": null,
+  "aka": [
+    "-2147221351"
+  ],
+  "akaUrl": [
+    "/win32/ntiologc-h/io_warning_io_operation_retried/-2147221351/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

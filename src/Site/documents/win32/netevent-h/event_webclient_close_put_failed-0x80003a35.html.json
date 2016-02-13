@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_webclient_close_put_failed\0x80003a35\index.html.json
+
+title: 0x80003A35 EVENT_WEBCLIENT_CLOSE_PUT_FAILED in netevent.h
+description: PUT failed for file %1 on Close. ErrorStatus: %2.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x80003A35",
+  "codeUrl": "/win32/netevent-h/event_webclient_close_put_failed/0x80003a35/",
+  "numericCode": -2147468747,
+  "define": "EVENT_WEBCLIENT_CLOSE_PUT_FAILED",
+  "defineUrl": "/win32/netevent-h/event_webclient_close_put_failed/",
+  "message": "PUT failed for file %1 on Close. ErrorStatus: %2.",
+  "remarks": null,
+  "aka": [
+    "-2147468747"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_webclient_close_put_failed/-2147468747/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

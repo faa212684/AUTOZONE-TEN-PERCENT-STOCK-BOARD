@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\error_hv_partition_too_deep\0xc035000c\index.html.json
+
+title: 0xC035000C ERROR_HV_PARTITION_TOO_DEEP in winerror.h
+description: The maximum partition depth has been exceeded for the partition hierarchy.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0xC035000C",
+  "codeUrl": "/win32/winerror-h/error_hv_partition_too_deep/0xc035000c/",
+  "numericCode": -1070268404,
+  "define": "ERROR_HV_PARTITION_TOO_DEEP",
+  "defineUrl": "/win32/winerror-h/error_hv_partition_too_deep/",
+  "message": "The maximum partition depth has been exceeded for the partition hierarchy.",
+  "remarks": null,
+  "aka": [
+    "-1070268404"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_hv_partition_too_deep/-1070268404/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,29 @@
+---
+output: win32\wsmerror-h\error_wsman_proxy_authentication_invalid_flag\0x8033819a\index.html.json
+
+title: 0x8033819A ERROR_WSMAN_PROXY_AUTHENTICATION_INVALID_FLAG in wsmerror.h
+description: The WinRM client cannot process the request. The flag that specifies the proxy authentication mechanism to use is incorrect. 
+Remove or change the invalid flag and try the request again.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x8033819A",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_proxy_authentication_invalid_flag/0x8033819a/",
+  "numericCode": -2144108134,
+  "define": "ERROR_WSMAN_PROXY_AUTHENTICATION_INVALID_FLAG",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_proxy_authentication_invalid_flag/",
+  "message": "The WinRM client cannot process the request. The flag that specifies the proxy authentication mechanism to use is incorrect. \r\nRemove or change the invalid flag and try the request again.",
+  "remarks": null,
+  "aka": [
+    "-2144108134"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_proxy_authentication_invalid_flag/-2144108134/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

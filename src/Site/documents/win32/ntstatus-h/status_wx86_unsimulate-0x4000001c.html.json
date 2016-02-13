@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_wx86_unsimulate\0x4000001c\index.html.json
+
+title: 0x4000001C STATUS_WX86_UNSIMULATE in ntstatus.h
+description: Exception status code used by Win32 x86 emulation subsystem.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0x4000001C",
+  "codeUrl": "/win32/ntstatus-h/status_wx86_unsimulate/0x4000001c/",
+  "numericCode": 1073741852,
+  "define": "STATUS_WX86_UNSIMULATE",
+  "defineUrl": "/win32/ntstatus-h/status_wx86_unsimulate/",
+  "message": "Exception status code used by Win32 x86 emulation subsystem.",
+  "remarks": null,
+  "aka": [
+    "1073741852"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_wx86_unsimulate/1073741852/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

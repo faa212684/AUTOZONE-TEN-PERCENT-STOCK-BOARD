@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_ds_dra_connection_failed\0x800720fc\index.html.json
+canonical: /win32/winerror-h/error_ds_dra_connection_failed/8444/
+title: 0x800720fc ERROR_DS_DRA_CONNECTION_FAILED in winerror.h
+description: The server specified for this replication operation could not be contacted.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800720fc",
+  "codeUrl": "/win32/winerror-h/error_ds_dra_connection_failed/0x800720fc/",
+  "numericCode": 0,
+  "define": "ERROR_DS_DRA_CONNECTION_FAILED",
+  "defineUrl": "/win32/winerror-h/error_ds_dra_connection_failed/",
+  "message": "The server specified for this replication operation could not be contacted.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "8444",
+  "originalCodeUrl": "/win32/winerror-h/error_ds_dra_connection_failed/8444/"
+}

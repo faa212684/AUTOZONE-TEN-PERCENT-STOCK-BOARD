@@ -1,0 +1,28 @@
+---
+output: win32\wsmerror-h\error_wsman_failed_authentication\0x80338036\index.html.json
+
+title: 0x80338036 ERROR_WSMAN_FAILED_AUTHENTICATION in wsmerror.h
+description: The WS-Management service cannot authenticate the sender.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x80338036",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_failed_authentication/0x80338036/",
+  "numericCode": -2144108490,
+  "define": "ERROR_WSMAN_FAILED_AUTHENTICATION",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_failed_authentication/",
+  "message": "The WS-Management service cannot authenticate the sender.",
+  "remarks": null,
+  "aka": [
+    "-2144108490"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_failed_authentication/-2144108490/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

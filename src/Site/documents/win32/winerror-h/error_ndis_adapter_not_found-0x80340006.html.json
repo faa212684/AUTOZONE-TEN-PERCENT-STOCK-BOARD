@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\error_ndis_adapter_not_found\0x80340006\index.html.json
+
+title: 0x80340006 ERROR_NDIS_ADAPTER_NOT_FOUND in winerror.h
+description: Failed to find the network interface or network interface is not ready.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80340006",
+  "codeUrl": "/win32/winerror-h/error_ndis_adapter_not_found/0x80340006/",
+  "numericCode": -2144075770,
+  "define": "ERROR_NDIS_ADAPTER_NOT_FOUND",
+  "defineUrl": "/win32/winerror-h/error_ndis_adapter_not_found/",
+  "message": "Failed to find the network interface or network interface is not ready.",
+  "remarks": null,
+  "aka": [
+    "-2144075770"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ndis_adapter_not_found/-2144075770/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

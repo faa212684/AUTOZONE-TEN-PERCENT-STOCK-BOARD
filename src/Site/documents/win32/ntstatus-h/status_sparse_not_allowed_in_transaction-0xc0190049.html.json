@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_sparse_not_allowed_in_transaction\0xc0190049\index.html.json
+
+title: 0xC0190049 STATUS_SPARSE_NOT_ALLOWED_IN_TRANSACTION in ntstatus.h
+description: The sparse operation could not be completed because a transaction is active on the file.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0190049",
+  "codeUrl": "/win32/ntstatus-h/status_sparse_not_allowed_in_transaction/0xc0190049/",
+  "numericCode": -1072103351,
+  "define": "STATUS_SPARSE_NOT_ALLOWED_IN_TRANSACTION",
+  "defineUrl": "/win32/ntstatus-h/status_sparse_not_allowed_in_transaction/",
+  "message": "The sparse operation could not be completed because a transaction is active on the file.",
+  "remarks": null,
+  "aka": [
+    "-1072103351"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_sparse_not_allowed_in_transaction/-1072103351/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

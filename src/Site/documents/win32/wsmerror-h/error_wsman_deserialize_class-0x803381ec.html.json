@@ -1,0 +1,28 @@
+---
+output: win32\wsmerror-h\error_wsman_deserialize_class\0x803381ec\index.html.json
+
+title: 0x803381EC ERROR_WSMAN_DESERIALIZE_CLASS in wsmerror.h
+description: The WinRM client cannot process the request because the metadata could not be deserialized.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x803381EC",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_deserialize_class/0x803381ec/",
+  "numericCode": -2144108052,
+  "define": "ERROR_WSMAN_DESERIALIZE_CLASS",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_deserialize_class/",
+  "message": "The WinRM client cannot process the request because the metadata could not be deserialized.",
+  "remarks": null,
+  "aka": [
+    "-2144108052"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_deserialize_class/-2144108052/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

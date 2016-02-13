@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_system_powerstate_complex_transition\0x40000031\index.html.json
+
+title: 0x40000031 STATUS_SYSTEM_POWERSTATE_COMPLEX_TRANSITION in ntstatus.h
+description: The system power state is transitioning from %2 to %3 but could enter %4.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0x40000031",
+  "codeUrl": "/win32/ntstatus-h/status_system_powerstate_complex_transition/0x40000031/",
+  "numericCode": 1073741873,
+  "define": "STATUS_SYSTEM_POWERSTATE_COMPLEX_TRANSITION",
+  "defineUrl": "/win32/ntstatus-h/status_system_powerstate_complex_transition/",
+  "message": "The system power state is transitioning from %2 to %3 but could enter %4.",
+  "remarks": null,
+  "aka": [
+    "1073741873"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_system_powerstate_complex_transition/1073741873/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_log_records_reserved_invalid\0xc01a001a\index.html.json
+
+title: 0xC01A001A STATUS_LOG_RECORDS_RESERVED_INVALID in ntstatus.h
+description: Number of reserved log records or the adjustment of the number of reserved log records is invalid.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC01A001A",
+  "codeUrl": "/win32/ntstatus-h/status_log_records_reserved_invalid/0xc01a001a/",
+  "numericCode": -1072037862,
+  "define": "STATUS_LOG_RECORDS_RESERVED_INVALID",
+  "defineUrl": "/win32/ntstatus-h/status_log_records_reserved_invalid/",
+  "message": "Number of reserved log records or the adjustment of the number of reserved log records is invalid.",
+  "remarks": null,
+  "aka": [
+    "-1072037862"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_log_records_reserved_invalid/-1072037862/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

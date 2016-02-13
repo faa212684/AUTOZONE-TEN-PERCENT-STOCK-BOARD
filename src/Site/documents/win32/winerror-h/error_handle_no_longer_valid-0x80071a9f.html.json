@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_handle_no_longer_valid\0x80071a9f\index.html.json
+canonical: /win32/winerror-h/error_handle_no_longer_valid/6815/
+title: 0x80071a9f ERROR_HANDLE_NO_LONGER_VALID in winerror.h
+description: The handle has been invalidated by a transaction. The most likely cause is the presence of memory mapping on a file or an open handle when the transaction ended or rolled back to savepoint.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80071a9f",
+  "codeUrl": "/win32/winerror-h/error_handle_no_longer_valid/0x80071a9f/",
+  "numericCode": 0,
+  "define": "ERROR_HANDLE_NO_LONGER_VALID",
+  "defineUrl": "/win32/winerror-h/error_handle_no_longer_valid/",
+  "message": "The handle has been invalidated by a transaction. The most likely cause is the presence of memory mapping on a file or an open handle when the transaction ended or rolled back to savepoint.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "6815",
+  "originalCodeUrl": "/win32/winerror-h/error_handle_no_longer_valid/6815/"
+}

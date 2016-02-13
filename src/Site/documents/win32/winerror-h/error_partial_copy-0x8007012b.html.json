@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_partial_copy\0x8007012b\index.html.json
+canonical: /win32/winerror-h/error_partial_copy/299/
+title: 0x8007012b ERROR_PARTIAL_COPY in winerror.h
+description: Only part of a ReadProcessMemory or WriteProcessMemory request was completed.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007012b",
+  "codeUrl": "/win32/winerror-h/error_partial_copy/0x8007012b/",
+  "numericCode": 0,
+  "define": "ERROR_PARTIAL_COPY",
+  "defineUrl": "/win32/winerror-h/error_partial_copy/",
+  "message": "Only part of a ReadProcessMemory or WriteProcessMemory request was completed.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "299",
+  "originalCodeUrl": "/win32/winerror-h/error_partial_copy/299/"
+}

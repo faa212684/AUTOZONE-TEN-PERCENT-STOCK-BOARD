@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_resmon_online_failed\0x8007139a\index.html.json
+canonical: /win32/winerror-h/error_resmon_online_failed/5018/
+title: 0x8007139a ERROR_RESMON_ONLINE_FAILED in winerror.h
+description: The cluster resource could not be brought online by the resource monitor.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007139a",
+  "codeUrl": "/win32/winerror-h/error_resmon_online_failed/0x8007139a/",
+  "numericCode": 0,
+  "define": "ERROR_RESMON_ONLINE_FAILED",
+  "defineUrl": "/win32/winerror-h/error_resmon_online_failed/",
+  "message": "The cluster resource could not be brought online by the resource monitor.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "5018",
+  "originalCodeUrl": "/win32/winerror-h/error_resmon_online_failed/5018/"
+}

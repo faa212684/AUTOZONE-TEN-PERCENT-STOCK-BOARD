@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_cantscrollbackwards\771\index.html.json
+
+title: 771 ERROR_CANTSCROLLBACKWARDS in winerror.h
+description: The data provider cannot scroll backwards through a result set.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "771",
+  "codeUrl": "/win32/winerror-h/error_cantscrollbackwards/771/",
+  "numericCode": 771,
+  "define": "ERROR_CANTSCROLLBACKWARDS",
+  "defineUrl": "/win32/winerror-h/error_cantscrollbackwards/",
+  "message": "The data provider cannot scroll backwards through a result set.",
+  "remarks": null,
+  "aka": [
+    "0x80070303",
+    "-2147024125"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_cantscrollbackwards/0x80070303/",
+    "/win32/winerror-h/error_cantscrollbackwards/-2147024125/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

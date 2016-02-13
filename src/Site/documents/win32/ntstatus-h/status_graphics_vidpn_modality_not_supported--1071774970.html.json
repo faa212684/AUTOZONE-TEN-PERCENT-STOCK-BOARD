@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_graphics_vidpn_modality_not_supported\-1071774970\index.html.json
+canonical: /win32/ntstatus-h/status_graphics_vidpn_modality_not_supported/0xc01e0306/
+title: -1071774970 STATUS_GRAPHICS_VIDPN_MODALITY_NOT_SUPPORTED in ntstatus.h
+description: Specified VidPN modality is not supported (e.g. at least two of the pinned modes are not cofunctional).
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071774970",
+  "codeUrl": "/win32/ntstatus-h/status_graphics_vidpn_modality_not_supported/-1071774970/",
+  "numericCode": 0,
+  "define": "STATUS_GRAPHICS_VIDPN_MODALITY_NOT_SUPPORTED",
+  "defineUrl": "/win32/ntstatus-h/status_graphics_vidpn_modality_not_supported/",
+  "message": "Specified VidPN modality is not supported (e.g. at least two of the pinned modes are not cofunctional).",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC01E0306",
+  "originalCodeUrl": "/win32/ntstatus-h/status_graphics_vidpn_modality_not_supported/0xc01e0306/"
+}

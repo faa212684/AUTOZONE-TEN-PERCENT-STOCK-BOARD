@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_invalid_verify_switch\118\index.html.json
+
+title: 118 ERROR_INVALID_VERIFY_SWITCH in winerror.h
+description: The verify-on-write switch parameter value is not correct.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "118",
+  "codeUrl": "/win32/winerror-h/error_invalid_verify_switch/118/",
+  "numericCode": 118,
+  "define": "ERROR_INVALID_VERIFY_SWITCH",
+  "defineUrl": "/win32/winerror-h/error_invalid_verify_switch/",
+  "message": "The verify-on-write switch parameter value is not correct.",
+  "remarks": null,
+  "aka": [
+    "0x80070076",
+    "-2147024778"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_invalid_verify_switch/0x80070076/",
+    "/win32/winerror-h/error_invalid_verify_switch/-2147024778/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

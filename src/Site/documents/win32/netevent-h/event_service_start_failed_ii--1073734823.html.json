@@ -1,0 +1,24 @@
+---
+output: win32\netevent-h\event_service_start_failed_ii\-1073734823\index.html.json
+canonical: /win32/netevent-h/event_service_start_failed_ii/0xc0001b59/
+title: -1073734823 EVENT_SERVICE_START_FAILED_II in netevent.h
+description: The %1 service depends on the %2 service which failed to start because of the following error: %n%3
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "-1073734823",
+  "codeUrl": "/win32/netevent-h/event_service_start_failed_ii/-1073734823/",
+  "numericCode": 0,
+  "define": "EVENT_SERVICE_START_FAILED_II",
+  "defineUrl": "/win32/netevent-h/event_service_start_failed_ii/",
+  "message": "The %1 service depends on the %2 service which failed to start because of the following error: %n%3",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0001B59",
+  "originalCodeUrl": "/win32/netevent-h/event_service_start_failed_ii/0xc0001b59/"
+}

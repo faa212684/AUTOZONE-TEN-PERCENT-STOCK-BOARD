@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_io_reparse_data_invalid\0xc0000278\index.html.json
+
+title: 0xC0000278 STATUS_IO_REPARSE_DATA_INVALID in ntstatus.h
+description: The user data passed for the NTFS reparse point is invalid.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000278",
+  "codeUrl": "/win32/ntstatus-h/status_io_reparse_data_invalid/0xc0000278/",
+  "numericCode": -1073741192,
+  "define": "STATUS_IO_REPARSE_DATA_INVALID",
+  "defineUrl": "/win32/ntstatus-h/status_io_reparse_data_invalid/",
+  "message": "The user data passed for the NTFS reparse point is invalid.",
+  "remarks": null,
+  "aka": [
+    "-1073741192"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_io_reparse_data_invalid/-1073741192/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

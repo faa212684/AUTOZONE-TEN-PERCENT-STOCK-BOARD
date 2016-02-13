@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_dev_not_exist\55\index.html.json
+
+title: 55 ERROR_DEV_NOT_EXIST in winerror.h
+description: The specified network resource or device is no longer available.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "55",
+  "codeUrl": "/win32/winerror-h/error_dev_not_exist/55/",
+  "numericCode": 55,
+  "define": "ERROR_DEV_NOT_EXIST",
+  "defineUrl": "/win32/winerror-h/error_dev_not_exist/",
+  "message": "The specified network resource or device is no longer available.",
+  "remarks": null,
+  "aka": [
+    "0x80070037",
+    "-2147024841"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_dev_not_exist/0x80070037/",
+    "/win32/winerror-h/error_dev_not_exist/-2147024841/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

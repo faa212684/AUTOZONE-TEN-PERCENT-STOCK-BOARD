@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_sxs_root_manifest_dependency_not_installed\0x800736bf\index.html.json
+canonical: /win32/winerror-h/error_sxs_root_manifest_dependency_not_installed/14015/
+title: 0x800736bf ERROR_SXS_ROOT_MANIFEST_DEPENDENCY_NOT_INSTALLED in winerror.h
+description: The application manifest contains a reference to a dependent assembly which is not installed
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800736bf",
+  "codeUrl": "/win32/winerror-h/error_sxs_root_manifest_dependency_not_installed/0x800736bf/",
+  "numericCode": 0,
+  "define": "ERROR_SXS_ROOT_MANIFEST_DEPENDENCY_NOT_INSTALLED",
+  "defineUrl": "/win32/winerror-h/error_sxs_root_manifest_dependency_not_installed/",
+  "message": "The application manifest contains a reference to a dependent assembly which is not installed",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "14015",
+  "originalCodeUrl": "/win32/winerror-h/error_sxs_root_manifest_dependency_not_installed/14015/"
+}

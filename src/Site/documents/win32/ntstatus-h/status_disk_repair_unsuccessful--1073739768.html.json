@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_disk_repair_unsuccessful\-1073739768\index.html.json
+canonical: /win32/ntstatus-h/status_disk_repair_unsuccessful/0xc0000808/
+title: -1073739768 STATUS_DISK_REPAIR_UNSUCCESSFUL in ntstatus.h
+description: The volume repair was not successful.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073739768",
+  "codeUrl": "/win32/ntstatus-h/status_disk_repair_unsuccessful/-1073739768/",
+  "numericCode": 0,
+  "define": "STATUS_DISK_REPAIR_UNSUCCESSFUL",
+  "defineUrl": "/win32/ntstatus-h/status_disk_repair_unsuccessful/",
+  "message": "The volume repair was not successful.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000808",
+  "originalCodeUrl": "/win32/ntstatus-h/status_disk_repair_unsuccessful/0xc0000808/"
+}

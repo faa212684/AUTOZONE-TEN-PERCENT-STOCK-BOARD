@@ -1,0 +1,28 @@
+---
+output: win32\wuerror-h\wu_e_setup_handler_exec_failure\0x8024d00f\index.html.json
+
+title: 0x8024D00F WU_E_SETUP_HANDLER_EXEC_FAILURE in wuerror.h
+description: Windows Update Agent could not be updated because the setup handler failed during execution.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wuerror.h",
+  "sourceUrl": "/win32/wuerror-h/",
+  "code": "0x8024D00F",
+  "codeUrl": "/win32/wuerror-h/wu_e_setup_handler_exec_failure/0x8024d00f/",
+  "numericCode": -2145071089,
+  "define": "WU_E_SETUP_HANDLER_EXEC_FAILURE",
+  "defineUrl": "/win32/wuerror-h/wu_e_setup_handler_exec_failure/",
+  "message": "Windows Update Agent could not be updated because the setup handler failed during execution.",
+  "remarks": null,
+  "aka": [
+    "-2145071089"
+  ],
+  "akaUrl": [
+    "/win32/wuerror-h/wu_e_setup_handler_exec_failure/-2145071089/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

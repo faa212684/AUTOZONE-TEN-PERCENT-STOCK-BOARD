@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_cant_open_miniversion_with_modify_intent\0xc0190025\index.html.json
+
+title: 0xC0190025 STATUS_CANT_OPEN_MINIVERSION_WITH_MODIFY_INTENT in ntstatus.h
+description: It is not possible to open a miniversion with modify access.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0190025",
+  "codeUrl": "/win32/ntstatus-h/status_cant_open_miniversion_with_modify_intent/0xc0190025/",
+  "numericCode": -1072103387,
+  "define": "STATUS_CANT_OPEN_MINIVERSION_WITH_MODIFY_INTENT",
+  "defineUrl": "/win32/ntstatus-h/status_cant_open_miniversion_with_modify_intent/",
+  "message": "It is not possible to open a miniversion with modify access.",
+  "remarks": null,
+  "aka": [
+    "-1072103387"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_cant_open_miniversion_with_modify_intent/-1072103387/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

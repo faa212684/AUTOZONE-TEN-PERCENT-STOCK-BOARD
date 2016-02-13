@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\comadmin_e_svcapp_not_poolable_or_recyclable\0x8011080d\index.html.json
+
+title: 0x8011080D COMADMIN_E_SVCAPP_NOT_POOLABLE_OR_RECYCLABLE in winerror.h
+description: COM+ applications that run as NT service may not be pooled or recycled
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8011080D",
+  "codeUrl": "/win32/winerror-h/comadmin_e_svcapp_not_poolable_or_recyclable/0x8011080d/",
+  "numericCode": -2146367475,
+  "define": "COMADMIN_E_SVCAPP_NOT_POOLABLE_OR_RECYCLABLE",
+  "defineUrl": "/win32/winerror-h/comadmin_e_svcapp_not_poolable_or_recyclable/",
+  "message": "COM+ applications that run as NT service may not be pooled or recycled",
+  "remarks": null,
+  "aka": [
+    "-2146367475"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/comadmin_e_svcapp_not_poolable_or_recyclable/-2146367475/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

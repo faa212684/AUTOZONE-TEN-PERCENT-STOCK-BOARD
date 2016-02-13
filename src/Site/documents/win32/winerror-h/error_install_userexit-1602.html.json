@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_install_userexit\1602\index.html.json
+
+title: 1602 ERROR_INSTALL_USEREXIT in winerror.h
+description: User cancelled installation.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1602",
+  "codeUrl": "/win32/winerror-h/error_install_userexit/1602/",
+  "numericCode": 1602,
+  "define": "ERROR_INSTALL_USEREXIT",
+  "defineUrl": "/win32/winerror-h/error_install_userexit/",
+  "message": "User cancelled installation.",
+  "remarks": null,
+  "aka": [
+    "0x80070642",
+    "-2147023294"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_install_userexit/0x80070642/",
+    "/win32/winerror-h/error_install_userexit/-2147023294/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

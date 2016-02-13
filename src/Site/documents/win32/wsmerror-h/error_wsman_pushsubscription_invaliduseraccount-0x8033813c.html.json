@@ -1,0 +1,28 @@
+---
+output: win32\wsmerror-h\error_wsman_pushsubscription_invaliduseraccount\0x8033813c\index.html.json
+
+title: 0x8033813C ERROR_WSMAN_PUSHSUBSCRIPTION_INVALIDUSERACCOUNT in wsmerror.h
+description: The WS-Management client cannot process the request. To use the WSManSubscribe API the user has to be running under Network Service account. No other account is supported currently for push subscriptions.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x8033813C",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_pushsubscription_invaliduseraccount/0x8033813c/",
+  "numericCode": -2144108228,
+  "define": "ERROR_WSMAN_PUSHSUBSCRIPTION_INVALIDUSERACCOUNT",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_pushsubscription_invaliduseraccount/",
+  "message": "The WS-Management client cannot process the request. To use the WSManSubscribe API the user has to be running under Network Service account. No other account is supported currently for push subscriptions.",
+  "remarks": null,
+  "aka": [
+    "-2144108228"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_pushsubscription_invaliduseraccount/-2144108228/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

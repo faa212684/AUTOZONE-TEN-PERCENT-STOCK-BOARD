@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_volmgr_extent_not_contiguous\-1070071781\index.html.json
+canonical: /win32/winerror-h/error_volmgr_extent_not_contiguous/0xc038001b/
+title: -1070071781 ERROR_VOLMGR_EXTENT_NOT_CONTIGUOUS in winerror.h
+description: The specified volume is retained and can only be extended into a contiguous extent. The specified extent to grow the volume is not contiguous with the specified volume.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-1070071781",
+  "codeUrl": "/win32/winerror-h/error_volmgr_extent_not_contiguous/-1070071781/",
+  "numericCode": 0,
+  "define": "ERROR_VOLMGR_EXTENT_NOT_CONTIGUOUS",
+  "defineUrl": "/win32/winerror-h/error_volmgr_extent_not_contiguous/",
+  "message": "The specified volume is retained and can only be extended into a contiguous extent. The specified extent to grow the volume is not contiguous with the specified volume.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC038001B",
+  "originalCodeUrl": "/win32/winerror-h/error_volmgr_extent_not_contiguous/0xc038001b/"
+}

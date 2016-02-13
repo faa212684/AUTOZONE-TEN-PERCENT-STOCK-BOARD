@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\rpc_s_no_interfaces\1817\index.html.json
+
+title: 1817 RPC_S_NO_INTERFACES in winerror.h
+description: No interfaces have been registered.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1817",
+  "codeUrl": "/win32/winerror-h/rpc_s_no_interfaces/1817/",
+  "numericCode": 1817,
+  "define": "RPC_S_NO_INTERFACES",
+  "defineUrl": "/win32/winerror-h/rpc_s_no_interfaces/",
+  "message": "No interfaces have been registered.",
+  "remarks": null,
+  "aka": [
+    "0x80070719",
+    "-2147023079"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/rpc_s_no_interfaces/0x80070719/",
+    "/win32/winerror-h/rpc_s_no_interfaces/-2147023079/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

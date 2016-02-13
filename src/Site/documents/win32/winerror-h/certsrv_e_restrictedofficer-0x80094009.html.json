@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\certsrv_e_restrictedofficer\0x80094009\index.html.json
+
+title: 0x80094009 CERTSRV_E_RESTRICTEDOFFICER in winerror.h
+description: The operation is denied. It can only be performed by a certificate manager that is allowed to manage certificates for the current requester.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80094009",
+  "codeUrl": "/win32/winerror-h/certsrv_e_restrictedofficer/0x80094009/",
+  "numericCode": -2146877431,
+  "define": "CERTSRV_E_RESTRICTEDOFFICER",
+  "defineUrl": "/win32/winerror-h/certsrv_e_restrictedofficer/",
+  "message": "The operation is denied. It can only be performed by a certificate manager that is allowed to manage certificates for the current requester.",
+  "remarks": null,
+  "aka": [
+    "-2146877431"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/certsrv_e_restrictedofficer/-2146877431/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

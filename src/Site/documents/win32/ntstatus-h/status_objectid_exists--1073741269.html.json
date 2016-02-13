@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_objectid_exists\-1073741269\index.html.json
+canonical: /win32/ntstatus-h/status_objectid_exists/0xc000022b/
+title: -1073741269 STATUS_OBJECTID_EXISTS in ntstatus.h
+description: The attempt to set the object's ID failed because the object already has an ID.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741269",
+  "codeUrl": "/win32/ntstatus-h/status_objectid_exists/-1073741269/",
+  "numericCode": 0,
+  "define": "STATUS_OBJECTID_EXISTS",
+  "defineUrl": "/win32/ntstatus-h/status_objectid_exists/",
+  "message": "The attempt to set the object's ID failed because the object already has an ID.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC000022B",
+  "originalCodeUrl": "/win32/ntstatus-h/status_objectid_exists/0xc000022b/"
+}

@@ -1,0 +1,29 @@
+---
+output: win32\ntiologc-h\io_file_system_corrupt\0xc0040029\index.html.json
+
+title: 0xC0040029 IO_FILE_SYSTEM_CORRUPT in ntiologc.h
+description: The file system structure on the disk is corrupt and unusable.
+Please run the chkdsk utility on the device %1 with label "%2".
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntiologc.h",
+  "sourceUrl": "/win32/ntiologc-h/",
+  "code": "0xC0040029",
+  "codeUrl": "/win32/ntiologc-h/io_file_system_corrupt/0xc0040029/",
+  "numericCode": -1073479639,
+  "define": "IO_FILE_SYSTEM_CORRUPT",
+  "defineUrl": "/win32/ntiologc-h/io_file_system_corrupt/",
+  "message": "The file system structure on the disk is corrupt and unusable.\r\nPlease run the chkdsk utility on the device %1 with label \"%2\".",
+  "remarks": null,
+  "aka": [
+    "-1073479639"
+  ],
+  "akaUrl": [
+    "/win32/ntiologc-h/io_file_system_corrupt/-1073479639/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

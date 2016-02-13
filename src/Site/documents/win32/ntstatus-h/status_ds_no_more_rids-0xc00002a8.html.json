@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_ds_no_more_rids\0xc00002a8\index.html.json
+
+title: 0xC00002A8 STATUS_DS_NO_MORE_RIDS in ntstatus.h
+description: The directory service has exhausted the pool of relative identifiers.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC00002A8",
+  "codeUrl": "/win32/ntstatus-h/status_ds_no_more_rids/0xc00002a8/",
+  "numericCode": -1073741144,
+  "define": "STATUS_DS_NO_MORE_RIDS",
+  "defineUrl": "/win32/ntstatus-h/status_ds_no_more_rids/",
+  "message": "The directory service has exhausted the pool of relative identifiers.",
+  "remarks": null,
+  "aka": [
+    "-1073741144"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_ds_no_more_rids/-1073741144/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

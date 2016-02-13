@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_invalid_block_length\-1073741453\index.html.json
+canonical: /win32/ntstatus-h/status_invalid_block_length/0xc0000173/
+title: -1073741453 STATUS_INVALID_BLOCK_LENGTH in ntstatus.h
+description: When accessing a new tape of a multivolume partition, the current blocksize is incorrect.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741453",
+  "codeUrl": "/win32/ntstatus-h/status_invalid_block_length/-1073741453/",
+  "numericCode": 0,
+  "define": "STATUS_INVALID_BLOCK_LENGTH",
+  "defineUrl": "/win32/ntstatus-h/status_invalid_block_length/",
+  "message": "When accessing a new tape of a multivolume partition, the current blocksize is incorrect.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000173",
+  "originalCodeUrl": "/win32/ntstatus-h/status_invalid_block_length/0xc0000173/"
+}

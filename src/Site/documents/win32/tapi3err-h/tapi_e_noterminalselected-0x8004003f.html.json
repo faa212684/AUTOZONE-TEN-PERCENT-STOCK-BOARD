@@ -1,0 +1,28 @@
+---
+output: win32\tapi3err-h\tapi_e_noterminalselected\0x8004003f\index.html.json
+
+title: 0x8004003F TAPI_E_NOTERMINALSELECTED in Tapi3Err.h
+description: The operation could not be performed because it requires terminals to be selected.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "Tapi3Err.h",
+  "sourceUrl": "/win32/tapi3err-h/",
+  "code": "0x8004003F",
+  "codeUrl": "/win32/tapi3err-h/tapi_e_noterminalselected/0x8004003f/",
+  "numericCode": -2147221441,
+  "define": "TAPI_E_NOTERMINALSELECTED",
+  "defineUrl": "/win32/tapi3err-h/tapi_e_noterminalselected/",
+  "message": "The operation could not be performed because it requires terminals to be selected.",
+  "remarks": null,
+  "aka": [
+    "-2147221441"
+  ],
+  "akaUrl": [
+    "/win32/tapi3err-h/tapi_e_noterminalselected/-2147221441/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

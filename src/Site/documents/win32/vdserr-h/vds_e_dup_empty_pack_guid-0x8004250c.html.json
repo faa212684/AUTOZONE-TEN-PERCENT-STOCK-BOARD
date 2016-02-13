@@ -1,0 +1,29 @@
+---
+output: win32\vdserr-h\vds_e_dup_empty_pack_guid\0x8004250c\index.html.json
+
+title: 0x8004250C VDS_E_DUP_EMPTY_PACK_GUID in vdserr.h
+description: An empty pack already exists. Release the existing empty pack before 
+creating another empty pack.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x8004250C",
+  "codeUrl": "/win32/vdserr-h/vds_e_dup_empty_pack_guid/0x8004250c/",
+  "numericCode": -2147212020,
+  "define": "VDS_E_DUP_EMPTY_PACK_GUID",
+  "defineUrl": "/win32/vdserr-h/vds_e_dup_empty_pack_guid/",
+  "message": "An empty pack already exists. Release the existing empty pack before \r\ncreating another empty pack.",
+  "remarks": null,
+  "aka": [
+    "-2147212020"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_dup_empty_pack_guid/-2147212020/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

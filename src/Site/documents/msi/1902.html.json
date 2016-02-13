@@ -1,0 +1,24 @@
+---
+output: msi\1902\index.html.json
+
+title: msi 1902
+description: Scheduling restart operation: Renaming file [2] to [3]. Must restart to complete operation.
+disqus: true
+---
+{
+  "area": "msi",
+  "areaUrl": "/msi/",
+  "source": null,
+  "sourceUrl": "/msi/",
+  "code": "1902",
+  "codeUrl": "/msi/1902/",
+  "numericCode": 1902,
+  "define": null,
+  "defineUrl": "/msi/",
+  "message": "Scheduling restart operation: Renaming file [2] to [3]. Must restart to complete operation.",
+  "remarks": "An file being updated by the installation is currently in use. Windows Installer renames the file to update it and removes the old version  at the next restart of the system.",
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": null,
+  "originalCodeUrl": null
+}

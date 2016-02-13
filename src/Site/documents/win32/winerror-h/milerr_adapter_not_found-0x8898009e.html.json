@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\milerr_adapter_not_found\0x8898009e\index.html.json
+
+title: 0x8898009E MILERR_ADAPTER_NOT_FOUND in winerror.h
+description: DWM can not find the adapter specified by the LUID.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8898009E",
+  "codeUrl": "/win32/winerror-h/milerr_adapter_not_found/0x8898009e/",
+  "numericCode": -2003304290,
+  "define": "MILERR_ADAPTER_NOT_FOUND",
+  "defineUrl": "/win32/winerror-h/milerr_adapter_not_found/",
+  "message": "DWM can not find the adapter specified by the LUID.",
+  "remarks": null,
+  "aka": [
+    "-2003304290"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/milerr_adapter_not_found/-2003304290/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

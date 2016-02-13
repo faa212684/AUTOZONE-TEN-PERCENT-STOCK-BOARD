@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_pcp_internal_error\0xc0292007\index.html.json
+
+title: 0xC0292007 STATUS_PCP_INTERNAL_ERROR in ntstatus.h
+description: An unexpected internal error has occurred in the Platform Crypto Provider.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0292007",
+  "codeUrl": "/win32/ntstatus-h/status_pcp_internal_error/0xc0292007/",
+  "numericCode": -1071046649,
+  "define": "STATUS_PCP_INTERNAL_ERROR",
+  "defineUrl": "/win32/ntstatus-h/status_pcp_internal_error/",
+  "message": "An unexpected internal error has occurred in the Platform Crypto Provider.",
+  "remarks": null,
+  "aka": [
+    "-1071046649"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_pcp_internal_error/-1071046649/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

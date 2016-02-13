@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\fve_e_policy_user_cert_must_be_hw\0x80310074\index.html.json
+
+title: 0x80310074 FVE_E_POLICY_USER_CERT_MUST_BE_HW in winerror.h
+description: Group Policy settings requires that you use a smart card-based key protector with BitLocker Drive Encryption.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80310074",
+  "codeUrl": "/win32/winerror-h/fve_e_policy_user_cert_must_be_hw/0x80310074/",
+  "numericCode": -2144272268,
+  "define": "FVE_E_POLICY_USER_CERT_MUST_BE_HW",
+  "defineUrl": "/win32/winerror-h/fve_e_policy_user_cert_must_be_hw/",
+  "message": "Group Policy settings requires that you use a smart card-based key protector with BitLocker Drive Encryption.",
+  "remarks": null,
+  "aka": [
+    "-2144272268"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/fve_e_policy_user_cert_must_be_hw/-2144272268/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

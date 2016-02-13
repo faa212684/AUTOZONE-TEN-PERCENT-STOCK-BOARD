@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\xact_e_notransaction\0x8004d00e\index.html.json
+
+title: 0x8004D00E XACT_E_NOTRANSACTION in winerror.h
+description: The transaction has already been implicitly or explicitly committed or aborted
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8004D00E",
+  "codeUrl": "/win32/winerror-h/xact_e_notransaction/0x8004d00e/",
+  "numericCode": -2147168242,
+  "define": "XACT_E_NOTRANSACTION",
+  "defineUrl": "/win32/winerror-h/xact_e_notransaction/",
+  "message": "The transaction has already been implicitly or explicitly committed or aborted",
+  "remarks": null,
+  "aka": [
+    "-2147168242"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/xact_e_notransaction/-2147168242/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

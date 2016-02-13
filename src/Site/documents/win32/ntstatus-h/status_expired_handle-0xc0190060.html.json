@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_expired_handle\0xc0190060\index.html.json
+
+title: 0xC0190060 STATUS_EXPIRED_HANDLE in ntstatus.h
+description: The handle is no longer properly associated with its transaction.  It may have been opened in a transactional resource manager that was subsequently forced to restart.  Please close the handle and open a new one.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0190060",
+  "codeUrl": "/win32/ntstatus-h/status_expired_handle/0xc0190060/",
+  "numericCode": -1072103328,
+  "define": "STATUS_EXPIRED_HANDLE",
+  "defineUrl": "/win32/ntstatus-h/status_expired_handle/",
+  "message": "The handle is no longer properly associated with its transaction.  It may have been opened in a transactional resource manager that was subsequently forced to restart.  Please close the handle and open a new one.",
+  "remarks": null,
+  "aka": [
+    "-1072103328"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_expired_handle/-1072103328/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

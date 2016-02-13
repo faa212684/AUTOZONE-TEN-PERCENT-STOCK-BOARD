@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\comadmin_e_dllregisterserver\0x8011041a\index.html.json
+
+title: 0x8011041A COMADMIN_E_DLLREGISTERSERVER in winerror.h
+description: DllRegisterServer failed on component install
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8011041A",
+  "codeUrl": "/win32/winerror-h/comadmin_e_dllregisterserver/0x8011041a/",
+  "numericCode": -2146368486,
+  "define": "COMADMIN_E_DLLREGISTERSERVER",
+  "defineUrl": "/win32/winerror-h/comadmin_e_dllregisterserver/",
+  "message": "DllRegisterServer failed on component install",
+  "remarks": null,
+  "aka": [
+    "-2146368486"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/comadmin_e_dllregisterserver/-2146368486/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

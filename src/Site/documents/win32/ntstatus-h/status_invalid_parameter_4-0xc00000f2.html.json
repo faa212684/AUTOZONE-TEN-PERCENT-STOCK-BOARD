@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_invalid_parameter_4\0xc00000f2\index.html.json
+
+title: 0xC00000F2 STATUS_INVALID_PARAMETER_4 in ntstatus.h
+description: An invalid parameter was passed to a service or function as the fourth argument.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC00000F2",
+  "codeUrl": "/win32/ntstatus-h/status_invalid_parameter_4/0xc00000f2/",
+  "numericCode": -1073741582,
+  "define": "STATUS_INVALID_PARAMETER_4",
+  "defineUrl": "/win32/ntstatus-h/status_invalid_parameter_4/",
+  "message": "An invalid parameter was passed to a service or function as the fourth argument.",
+  "remarks": null,
+  "aka": [
+    "-1073741582"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_invalid_parameter_4/-1073741582/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

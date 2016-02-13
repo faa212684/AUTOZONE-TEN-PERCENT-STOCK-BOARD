@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_ndis_paused\0xc023002a\index.html.json
+
+title: 0xC023002A STATUS_NDIS_PAUSED in ntstatus.h
+description: The offload operation on the network interface has been paused.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC023002A",
+  "codeUrl": "/win32/ntstatus-h/status_ndis_paused/0xc023002a/",
+  "numericCode": -1071448022,
+  "define": "STATUS_NDIS_PAUSED",
+  "defineUrl": "/win32/ntstatus-h/status_ndis_paused/",
+  "message": "The offload operation on the network interface has been paused.",
+  "remarks": null,
+  "aka": [
+    "-1071448022"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_ndis_paused/-1071448022/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

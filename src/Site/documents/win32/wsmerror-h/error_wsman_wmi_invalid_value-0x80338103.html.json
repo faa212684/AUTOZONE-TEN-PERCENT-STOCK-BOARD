@@ -1,0 +1,28 @@
+---
+output: win32\wsmerror-h\error_wsman_wmi_invalid_value\0x80338103\index.html.json
+
+title: 0x80338103 ERROR_WSMAN_WMI_INVALID_VALUE in wsmerror.h
+description: The WS-Management service cannot process the request. A value retrieved from the WMI service or the WMI provider is invalid.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x80338103",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_wmi_invalid_value/0x80338103/",
+  "numericCode": -2144108285,
+  "define": "ERROR_WSMAN_WMI_INVALID_VALUE",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_wmi_invalid_value/",
+  "message": "The WS-Management service cannot process the request. A value retrieved from the WMI service or the WMI provider is invalid.",
+  "remarks": null,
+  "aka": [
+    "-2144108285"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_wmi_invalid_value/-2144108285/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

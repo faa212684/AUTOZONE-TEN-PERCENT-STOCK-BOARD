@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_access_audit_by_policy\0x40000032\index.html.json
+
+title: 0x40000032 STATUS_ACCESS_AUDIT_BY_POLICY in ntstatus.h
+description: Access to %1 is monitored by policy rule %2.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0x40000032",
+  "codeUrl": "/win32/ntstatus-h/status_access_audit_by_policy/0x40000032/",
+  "numericCode": 1073741874,
+  "define": "STATUS_ACCESS_AUDIT_BY_POLICY",
+  "defineUrl": "/win32/ntstatus-h/status_access_audit_by_policy/",
+  "message": "Access to %1 is monitored by policy rule %2.",
+  "remarks": null,
+  "aka": [
+    "1073741874"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_access_audit_by_policy/1073741874/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

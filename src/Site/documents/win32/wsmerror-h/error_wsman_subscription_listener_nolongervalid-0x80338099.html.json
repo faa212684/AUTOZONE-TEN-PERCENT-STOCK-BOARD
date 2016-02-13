@@ -1,0 +1,29 @@
+---
+output: win32\wsmerror-h\error_wsman_subscription_listener_nolongervalid\0x80338099\index.html.json
+
+title: 0x80338099 ERROR_WSMAN_SUBSCRIPTION_LISTENER_NOLONGERVALID in wsmerror.h
+description: The listener on which the subscription session was established is no longer valid. This can happen if the WSMAN service listener configuration has been changed
+and a subscription was already active and using one of the configurations that was deleted.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x80338099",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_subscription_listener_nolongervalid/0x80338099/",
+  "numericCode": -2144108391,
+  "define": "ERROR_WSMAN_SUBSCRIPTION_LISTENER_NOLONGERVALID",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_subscription_listener_nolongervalid/",
+  "message": "The listener on which the subscription session was established is no longer valid. This can happen if the WSMAN service listener configuration has been changed\r\nand a subscription was already active and using one of the configurations that was deleted.",
+  "remarks": null,
+  "aka": [
+    "-2144108391"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_subscription_listener_nolongervalid/-2144108391/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

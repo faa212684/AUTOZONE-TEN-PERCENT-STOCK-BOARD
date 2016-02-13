@@ -1,0 +1,24 @@
+---
+output: msi\2810\index.html.json
+
+title: msi 2810
+description: On the dialog [2] the next control pointers do not form a cycle. There is a pointer from both [3] and [5] to [4].
+disqus: true
+---
+{
+  "area": "msi",
+  "areaUrl": "/msi/",
+  "source": null,
+  "sourceUrl": "/msi/",
+  "code": "2810",
+  "codeUrl": "/msi/2810/",
+  "numericCode": 2810,
+  "define": null,
+  "defineUrl": "/msi/",
+  "message": "On the dialog [2] the next control pointers do not form a cycle. There is a pointer from both [3] and [5] to [4].",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": null,
+  "originalCodeUrl": null
+}

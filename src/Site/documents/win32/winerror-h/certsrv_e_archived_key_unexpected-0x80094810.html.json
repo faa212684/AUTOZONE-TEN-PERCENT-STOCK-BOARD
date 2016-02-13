@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\certsrv_e_archived_key_unexpected\0x80094810\index.html.json
+
+title: 0x80094810 CERTSRV_E_ARCHIVED_KEY_UNEXPECTED in winerror.h
+description: The request includes a private key for archival by the server, but key archival is not enabled for the specified certificate template.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80094810",
+  "codeUrl": "/win32/winerror-h/certsrv_e_archived_key_unexpected/0x80094810/",
+  "numericCode": -2146875376,
+  "define": "CERTSRV_E_ARCHIVED_KEY_UNEXPECTED",
+  "defineUrl": "/win32/winerror-h/certsrv_e_archived_key_unexpected/",
+  "message": "The request includes a private key for archival by the server, but key archival is not enabled for the specified certificate template.",
+  "remarks": null,
+  "aka": [
+    "-2146875376"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/certsrv_e_archived_key_unexpected/-2146875376/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

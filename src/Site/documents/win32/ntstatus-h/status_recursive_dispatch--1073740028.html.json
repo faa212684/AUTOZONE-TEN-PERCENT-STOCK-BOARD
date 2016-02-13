@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_recursive_dispatch\-1073740028\index.html.json
+canonical: /win32/ntstatus-h/status_recursive_dispatch/0xc0000704/
+title: -1073740028 STATUS_RECURSIVE_DISPATCH in ntstatus.h
+description: Invalid recursive dispatch attempt.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073740028",
+  "codeUrl": "/win32/ntstatus-h/status_recursive_dispatch/-1073740028/",
+  "numericCode": 0,
+  "define": "STATUS_RECURSIVE_DISPATCH",
+  "defineUrl": "/win32/ntstatus-h/status_recursive_dispatch/",
+  "message": "Invalid recursive dispatch attempt.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000704",
+  "originalCodeUrl": "/win32/ntstatus-h/status_recursive_dispatch/0xc0000704/"
+}

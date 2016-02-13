@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_smartcard_silent_context\0xc000038f\index.html.json
+
+title: 0xC000038F STATUS_SMARTCARD_SILENT_CONTEXT in ntstatus.h
+description: The smartcard provider could not perform the action since the context was acquired as silent.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000038F",
+  "codeUrl": "/win32/ntstatus-h/status_smartcard_silent_context/0xc000038f/",
+  "numericCode": -1073740913,
+  "define": "STATUS_SMARTCARD_SILENT_CONTEXT",
+  "defineUrl": "/win32/ntstatus-h/status_smartcard_silent_context/",
+  "message": "The smartcard provider could not perform the action since the context was acquired as silent.",
+  "remarks": null,
+  "aka": [
+    "-1073740913"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_smartcard_silent_context/-1073740913/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

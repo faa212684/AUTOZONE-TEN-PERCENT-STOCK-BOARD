@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_s_vss_flush_and_hold_writes\0x00042581\index.html.json
+
+title: 0x00042581 VDS_S_VSS_FLUSH_AND_HOLD_WRITES in vdserr.h
+description: Failed to flush and hold Volume Snapshot Service writes.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x00042581",
+  "codeUrl": "/win32/vdserr-h/vds_s_vss_flush_and_hold_writes/0x00042581/",
+  "numericCode": 271745,
+  "define": "VDS_S_VSS_FLUSH_AND_HOLD_WRITES",
+  "defineUrl": "/win32/vdserr-h/vds_s_vss_flush_and_hold_writes/",
+  "message": "Failed to flush and hold Volume Snapshot Service writes.",
+  "remarks": null,
+  "aka": [
+    "271745"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_s_vss_flush_and_hold_writes/271745/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

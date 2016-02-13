@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_fve_wipe_not_allowed_on_tp_storage\-1071579085\index.html.json
+canonical: /win32/ntstatus-h/status_fve_wipe_not_allowed_on_tp_storage/0xc0210033/
+title: -1071579085 STATUS_FVE_WIPE_NOT_ALLOWED_ON_TP_STORAGE in ntstatus.h
+description: BitLocker Drive Encryption does not support wiping free space on thin provisioned storage.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071579085",
+  "codeUrl": "/win32/ntstatus-h/status_fve_wipe_not_allowed_on_tp_storage/-1071579085/",
+  "numericCode": 0,
+  "define": "STATUS_FVE_WIPE_NOT_ALLOWED_ON_TP_STORAGE",
+  "defineUrl": "/win32/ntstatus-h/status_fve_wipe_not_allowed_on_tp_storage/",
+  "message": "BitLocker Drive Encryption does not support wiping free space on thin provisioned storage.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0210033",
+  "originalCodeUrl": "/win32/ntstatus-h/status_fve_wipe_not_allowed_on_tp_storage/0xc0210033/"
+}

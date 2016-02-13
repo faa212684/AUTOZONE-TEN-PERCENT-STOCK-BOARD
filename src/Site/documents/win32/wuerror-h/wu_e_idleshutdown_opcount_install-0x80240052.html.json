@@ -1,0 +1,28 @@
+---
+output: win32\wuerror-h\wu_e_idleshutdown_opcount_install\0x80240052\index.html.json
+
+title: 0x80240052 WU_E_IDLESHUTDOWN_OPCOUNT_INSTALL in wuerror.h
+description: An install call contributed to a non-zero operation count at idle timer shutdown.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wuerror.h",
+  "sourceUrl": "/win32/wuerror-h/",
+  "code": "0x80240052",
+  "codeUrl": "/win32/wuerror-h/wu_e_idleshutdown_opcount_install/0x80240052/",
+  "numericCode": -2145124270,
+  "define": "WU_E_IDLESHUTDOWN_OPCOUNT_INSTALL",
+  "defineUrl": "/win32/wuerror-h/wu_e_idleshutdown_opcount_install/",
+  "message": "An install call contributed to a non-zero operation count at idle timer shutdown.",
+  "remarks": null,
+  "aka": [
+    "-2145124270"
+  ],
+  "akaUrl": [
+    "/win32/wuerror-h/wu_e_idleshutdown_opcount_install/-2145124270/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_s_fs_lock\0x00042583\index.html.json
+
+title: 0x00042583 VDS_S_FS_LOCK in vdserr.h
+description: Failed to obtain a file system lock.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x00042583",
+  "codeUrl": "/win32/vdserr-h/vds_s_fs_lock/0x00042583/",
+  "numericCode": 271747,
+  "define": "VDS_S_FS_LOCK",
+  "defineUrl": "/win32/vdserr-h/vds_s_fs_lock/",
+  "message": "Failed to obtain a file system lock.",
+  "remarks": null,
+  "aka": [
+    "271747"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_s_fs_lock/271747/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

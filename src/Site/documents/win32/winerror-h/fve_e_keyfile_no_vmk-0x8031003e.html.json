@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\fve_e_keyfile_no_vmk\0x8031003e\index.html.json
+
+title: 0x8031003E FVE_E_KEYFILE_NO_VMK in winerror.h
+description: The BitLocker encryption key cannot be obtained from the startup key or recovery password. Verify that you have the correct startup key or recovery password and try again.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8031003E",
+  "codeUrl": "/win32/winerror-h/fve_e_keyfile_no_vmk/0x8031003e/",
+  "numericCode": -2144272322,
+  "define": "FVE_E_KEYFILE_NO_VMK",
+  "defineUrl": "/win32/winerror-h/fve_e_keyfile_no_vmk/",
+  "message": "The BitLocker encryption key cannot be obtained from the startup key or recovery password. Verify that you have the correct startup key or recovery password and try again.",
+  "remarks": null,
+  "aka": [
+    "-2144272322"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/fve_e_keyfile_no_vmk/-2144272322/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

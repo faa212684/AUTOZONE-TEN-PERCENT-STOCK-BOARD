@@ -1,0 +1,24 @@
+---
+output: win32\netevent-h\event_rdr_primary_transport_connect_failed\-2147480619\index.html.json
+canonical: /win32/netevent-h/event_rdr_primary_transport_connect_failed/0x80000bd5/
+title: -2147480619 EVENT_RDR_PRIMARY_TRANSPORT_CONNECT_FAILED in netevent.h
+description: The redirector has failed to connect to the server %2 on the primary transport.  The data contains the error.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "-2147480619",
+  "codeUrl": "/win32/netevent-h/event_rdr_primary_transport_connect_failed/-2147480619/",
+  "numericCode": 0,
+  "define": "EVENT_RDR_PRIMARY_TRANSPORT_CONNECT_FAILED",
+  "defineUrl": "/win32/netevent-h/event_rdr_primary_transport_connect_failed/",
+  "message": "The redirector has failed to connect to the server %2 on the primary transport.  The data contains the error.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80000BD5",
+  "originalCodeUrl": "/win32/netevent-h/event_rdr_primary_transport_connect_failed/0x80000bd5/"
+}

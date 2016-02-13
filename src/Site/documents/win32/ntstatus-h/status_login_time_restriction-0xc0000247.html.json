@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_login_time_restriction\0xc0000247\index.html.json
+
+title: 0xC0000247 STATUS_LOGIN_TIME_RESTRICTION in ntstatus.h
+description: Attempting to login during an unauthorized time of day for this account.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000247",
+  "codeUrl": "/win32/ntstatus-h/status_login_time_restriction/0xc0000247/",
+  "numericCode": -1073741241,
+  "define": "STATUS_LOGIN_TIME_RESTRICTION",
+  "defineUrl": "/win32/ntstatus-h/status_login_time_restriction/",
+  "message": "Attempting to login during an unauthorized time of day for this account.",
+  "remarks": null,
+  "aka": [
+    "-1073741241"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_login_time_restriction/-1073741241/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

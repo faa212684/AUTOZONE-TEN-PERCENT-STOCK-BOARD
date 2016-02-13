@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_needs_remediation\15612\index.html.json
+
+title: 15612 ERROR_NEEDS_REMEDIATION in winerror.h
+description: The application cannot be started. Try reinstalling the application to fix the problem.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "15612",
+  "codeUrl": "/win32/winerror-h/error_needs_remediation/15612/",
+  "numericCode": 15612,
+  "define": "ERROR_NEEDS_REMEDIATION",
+  "defineUrl": "/win32/winerror-h/error_needs_remediation/",
+  "message": "The application cannot be started. Try reinstalling the application to fix the problem.",
+  "remarks": null,
+  "aka": [
+    "0x80073cfc",
+    "-2147009284"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_needs_remediation/0x80073cfc/",
+    "/win32/winerror-h/error_needs_remediation/-2147009284/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

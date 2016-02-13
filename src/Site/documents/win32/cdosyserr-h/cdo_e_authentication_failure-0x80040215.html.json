@@ -1,0 +1,28 @@
+---
+output: win32\cdosyserr-h\cdo_e_authentication_failure\0x80040215\index.html.json
+
+title: 0x80040215 CDO_E_AUTHENTICATION_FAILURE in CDOSysErr.h
+description: The server rejected the logon attempt due to authentication failure. The server response was: %1
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "CDOSysErr.h",
+  "sourceUrl": "/win32/cdosyserr-h/",
+  "code": "0x80040215",
+  "codeUrl": "/win32/cdosyserr-h/cdo_e_authentication_failure/0x80040215/",
+  "numericCode": -2147220971,
+  "define": "CDO_E_AUTHENTICATION_FAILURE",
+  "defineUrl": "/win32/cdosyserr-h/cdo_e_authentication_failure/",
+  "message": "The server rejected the logon attempt due to authentication failure. The server response was: %1",
+  "remarks": null,
+  "aka": [
+    "-2147220971"
+  ],
+  "akaUrl": [
+    "/win32/cdosyserr-h/cdo_e_authentication_failure/-2147220971/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

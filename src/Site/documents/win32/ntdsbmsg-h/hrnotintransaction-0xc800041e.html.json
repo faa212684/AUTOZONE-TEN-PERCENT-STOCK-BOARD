@@ -1,0 +1,28 @@
+---
+output: win32\ntdsbmsg-h\hrnotintransaction\0xc800041e\index.html.json
+
+title: 0xC800041E hrNotInTransaction in NtDsBMsg.h
+description: The operation must be within a transaction.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "NtDsBMsg.h",
+  "sourceUrl": "/win32/ntdsbmsg-h/",
+  "code": "0xC800041E",
+  "codeUrl": "/win32/ntdsbmsg-h/hrnotintransaction/0xc800041e/",
+  "numericCode": -939523042,
+  "define": "hrNotInTransaction",
+  "defineUrl": "/win32/ntdsbmsg-h/hrnotintransaction/",
+  "message": "The operation must be within a transaction.",
+  "remarks": null,
+  "aka": [
+    "-939523042"
+  ],
+  "akaUrl": [
+    "/win32/ntdsbmsg-h/hrnotintransaction/-939523042/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

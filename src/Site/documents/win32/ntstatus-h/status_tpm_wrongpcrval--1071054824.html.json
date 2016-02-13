@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_tpm_wrongpcrval\-1071054824\index.html.json
+canonical: /win32/ntstatus-h/status_tpm_wrongpcrval/0xc0290018/
+title: -1071054824 STATUS_TPM_WRONGPCRVAL in ntstatus.h
+description: The named PCR value does not match the current PCR value.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071054824",
+  "codeUrl": "/win32/ntstatus-h/status_tpm_wrongpcrval/-1071054824/",
+  "numericCode": 0,
+  "define": "STATUS_TPM_WRONGPCRVAL",
+  "defineUrl": "/win32/ntstatus-h/status_tpm_wrongpcrval/",
+  "message": "The named PCR value does not match the current PCR value.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0290018",
+  "originalCodeUrl": "/win32/ntstatus-h/status_tpm_wrongpcrval/0xc0290018/"
+}

@@ -1,0 +1,25 @@
+---
+output: win32\ntstatus-h\status_not_same_device\-1073741612\index.html.json
+canonical: /win32/ntstatus-h/status_not_same_device/0xc00000d4/
+title: -1073741612 STATUS_NOT_SAME_DEVICE in ntstatus.h
+description: "{Incorrect Volume}
+The target file of a rename request is located on a different device than the source of the rename request."
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741612",
+  "codeUrl": "/win32/ntstatus-h/status_not_same_device/-1073741612/",
+  "numericCode": 0,
+  "define": "STATUS_NOT_SAME_DEVICE",
+  "defineUrl": "/win32/ntstatus-h/status_not_same_device/",
+  "message": "{Incorrect Volume}\r\nThe target file of a rename request is located on a different device than the source of the rename request.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC00000D4",
+  "originalCodeUrl": "/win32/ntstatus-h/status_not_same_device/0xc00000d4/"
+}

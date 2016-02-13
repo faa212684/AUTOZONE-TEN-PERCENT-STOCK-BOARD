@@ -1,0 +1,28 @@
+---
+output: win32\wuerror-h\wu_e_call_cancelled_by_policy\0x8024002f\index.html.json
+
+title: 0x8024002F WU_E_CALL_CANCELLED_BY_POLICY in wuerror.h
+description: Operation did not complete because the DisableWindowsUpdateAccess policy was set.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wuerror.h",
+  "sourceUrl": "/win32/wuerror-h/",
+  "code": "0x8024002F",
+  "codeUrl": "/win32/wuerror-h/wu_e_call_cancelled_by_policy/0x8024002f/",
+  "numericCode": -2145124305,
+  "define": "WU_E_CALL_CANCELLED_BY_POLICY",
+  "defineUrl": "/win32/wuerror-h/wu_e_call_cancelled_by_policy/",
+  "message": "Operation did not complete because the DisableWindowsUpdateAccess policy was set.",
+  "remarks": null,
+  "aka": [
+    "-2145124305"
+  ],
+  "akaUrl": [
+    "/win32/wuerror-h/wu_e_call_cancelled_by_policy/-2145124305/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

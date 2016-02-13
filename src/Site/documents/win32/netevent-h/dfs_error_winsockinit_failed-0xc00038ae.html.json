@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\dfs_error_winsockinit_failed\0xc00038ae\index.html.json
+
+title: 0xC00038AE DFS_ERROR_WINSOCKINIT_FAILED in netevent.h
+description: DFS could not initialize winsock library. The return code is in the record data.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC00038AE",
+  "codeUrl": "/win32/netevent-h/dfs_error_winsockinit_failed/0xc00038ae/",
+  "numericCode": -1073727314,
+  "define": "DFS_ERROR_WINSOCKINIT_FAILED",
+  "defineUrl": "/win32/netevent-h/dfs_error_winsockinit_failed/",
+  "message": "DFS could not initialize winsock library. The return code is in the record data.",
+  "remarks": null,
+  "aka": [
+    "-1073727314"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/dfs_error_winsockinit_failed/-1073727314/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

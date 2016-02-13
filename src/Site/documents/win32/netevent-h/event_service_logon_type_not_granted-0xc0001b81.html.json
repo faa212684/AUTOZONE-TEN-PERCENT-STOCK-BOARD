@@ -1,0 +1,43 @@
+---
+output: win32\netevent-h\event_service_logon_type_not_granted\0xc0001b81\index.html.json
+
+title: 0xC0001B81 EVENT_SERVICE_LOGON_TYPE_NOT_GRANTED in netevent.h
+description: The %1 service was unable to log on as %2 with the currently configured
+password due to the following error:
+%nLogon failure: the user has not been granted the requested logon type at this
+computer.%n
+%nService: %1
+%nDomain and account: %2%n
+%nThis service account does not have the necessary user right "Log on as a service."%n
+%nUser Action%n
+%nAssign "Log on as a service" to the service account on this computer. You can
+use Local Security Settings (Secpol.msc) to do this. If this computer is a
+node in a cluster, check that this user right is assigned to the Cluster
+service account on all nodes in the cluster.%n
+%nIf you have already assigned this user right to the service account, and the
+user right appears to be removed, a Group Policy object associated with this
+node might be removing the right. Check with your domain administrator to find
+out if this is happening.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC0001B81",
+  "codeUrl": "/win32/netevent-h/event_service_logon_type_not_granted/0xc0001b81/",
+  "numericCode": -1073734783,
+  "define": "EVENT_SERVICE_LOGON_TYPE_NOT_GRANTED",
+  "defineUrl": "/win32/netevent-h/event_service_logon_type_not_granted/",
+  "message": "The %1 service was unable to log on as %2 with the currently configured\r\npassword due to the following error:\r\n%nLogon failure: the user has not been granted the requested logon type at this\r\ncomputer.%n\r\n%nService: %1\r\n%nDomain and account: %2%n\r\n%nThis service account does not have the necessary user right \"Log on as a service.\"%n\r\n%nUser Action%n\r\n%nAssign \"Log on as a service\" to the service account on this computer. You can\r\nuse Local Security Settings (Secpol.msc) to do this. If this computer is a\r\nnode in a cluster, check that this user right is assigned to the Cluster\r\nservice account on all nodes in the cluster.%n\r\n%nIf you have already assigned this user right to the service account, and the\r\nuser right appears to be removed, a Group Policy object associated with this\r\nnode might be removing the right. Check with your domain administrator to find\r\nout if this is happening.",
+  "remarks": null,
+  "aka": [
+    "-1073734783"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_service_logon_type_not_granted/-1073734783/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

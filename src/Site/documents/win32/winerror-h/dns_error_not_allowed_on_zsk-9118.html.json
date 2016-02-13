@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\dns_error_not_allowed_on_zsk\9118\index.html.json
+
+title: 9118 DNS_ERROR_NOT_ALLOWED_ON_ZSK in winerror.h
+description: This operation is not allowed on a zone signing key (ZSK).
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "9118",
+  "codeUrl": "/win32/winerror-h/dns_error_not_allowed_on_zsk/9118/",
+  "numericCode": 9118,
+  "define": "DNS_ERROR_NOT_ALLOWED_ON_ZSK",
+  "defineUrl": "/win32/winerror-h/dns_error_not_allowed_on_zsk/",
+  "message": "This operation is not allowed on a zone signing key (ZSK).",
+  "remarks": null,
+  "aka": [
+    "0x8007239e",
+    "-2147015778"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/dns_error_not_allowed_on_zsk/0x8007239e/",
+    "/win32/winerror-h/dns_error_not_allowed_on_zsk/-2147015778/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_fve_dry_run_failed\-1071579106\index.html.json
+canonical: /win32/ntstatus-h/status_fve_dry_run_failed/0xc021001e/
+title: -1071579106 STATUS_FVE_DRY_RUN_FAILED in ntstatus.h
+description: The BitLocker encryption key could not be obtained.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071579106",
+  "codeUrl": "/win32/ntstatus-h/status_fve_dry_run_failed/-1071579106/",
+  "numericCode": 0,
+  "define": "STATUS_FVE_DRY_RUN_FAILED",
+  "defineUrl": "/win32/ntstatus-h/status_fve_dry_run_failed/",
+  "message": "The BitLocker encryption key could not be obtained.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC021001E",
+  "originalCodeUrl": "/win32/ntstatus-h/status_fve_dry_run_failed/0xc021001e/"
+}

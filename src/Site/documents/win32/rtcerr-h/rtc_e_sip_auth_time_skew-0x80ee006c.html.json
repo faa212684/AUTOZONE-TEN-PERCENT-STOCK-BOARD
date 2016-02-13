@@ -1,0 +1,28 @@
+---
+output: win32\rtcerr-h\rtc_e_sip_auth_time_skew\0x80ee006c\index.html.json
+
+title: 0x80EE006C RTC_E_SIP_AUTH_TIME_SKEW in rtcerr.h
+description: Authentication failure because of time skew between client and server
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "rtcerr.h",
+  "sourceUrl": "/win32/rtcerr-h/",
+  "code": "0x80EE006C",
+  "codeUrl": "/win32/rtcerr-h/rtc_e_sip_auth_time_skew/0x80ee006c/",
+  "numericCode": -2131885972,
+  "define": "RTC_E_SIP_AUTH_TIME_SKEW",
+  "defineUrl": "/win32/rtcerr-h/rtc_e_sip_auth_time_skew/",
+  "message": "Authentication failure because of time skew between client and server",
+  "remarks": null,
+  "aka": [
+    "-2131885972"
+  ],
+  "akaUrl": [
+    "/win32/rtcerr-h/rtc_e_sip_auth_time_skew/-2131885972/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

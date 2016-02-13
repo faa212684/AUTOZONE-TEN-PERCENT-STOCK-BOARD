@@ -1,0 +1,27 @@
+---
+output: win32\wdsmcerr-h\evt_wdsmcs_w_cp_dll_load_failed_not_critical\-2128543142\index.html.json
+canonical: /win32/wdsmcerr-h/evt_wdsmcs_w_cp_dll_load_failed_not_critical/0x8121025a/
+title: -2128543142 EVT_WDSMCS_W_CP_DLL_LOAD_FAILED_NOT_CRITICAL in wdsmcerr.h
+description: The Content Provider %1 failed to initialize. The provider is marked as non-critical.
+WDS Multicast server will continue to start.%n
+%n
+Error Information: %2 %n
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wdsmcerr.h",
+  "sourceUrl": "/win32/wdsmcerr-h/",
+  "code": "-2128543142",
+  "codeUrl": "/win32/wdsmcerr-h/evt_wdsmcs_w_cp_dll_load_failed_not_critical/-2128543142/",
+  "numericCode": 0,
+  "define": "EVT_WDSMCS_W_CP_DLL_LOAD_FAILED_NOT_CRITICAL",
+  "defineUrl": "/win32/wdsmcerr-h/evt_wdsmcs_w_cp_dll_load_failed_not_critical/",
+  "message": "The Content Provider %1 failed to initialize. The provider is marked as non-critical.\r\nWDS Multicast server will continue to start.%n\r\n%n\r\nError Information: %2 %n",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x8121025A",
+  "originalCodeUrl": "/win32/wdsmcerr-h/evt_wdsmcs_w_cp_dll_load_failed_not_critical/0x8121025a/"
+}

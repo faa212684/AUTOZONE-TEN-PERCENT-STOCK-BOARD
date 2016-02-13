@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_tpm_ma_authority\0xc029005f\index.html.json
+
+title: 0xC029005F STATUS_TPM_MA_AUTHORITY in ntstatus.h
+description: Incorrect migration authority.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC029005F",
+  "codeUrl": "/win32/ntstatus-h/status_tpm_ma_authority/0xc029005f/",
+  "numericCode": -1071054753,
+  "define": "STATUS_TPM_MA_AUTHORITY",
+  "defineUrl": "/win32/ntstatus-h/status_tpm_ma_authority/",
+  "message": "Incorrect migration authority.",
+  "remarks": null,
+  "aka": [
+    "-1071054753"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_tpm_ma_authority/-1071054753/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

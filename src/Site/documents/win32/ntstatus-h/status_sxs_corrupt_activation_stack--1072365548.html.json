@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_sxs_corrupt_activation_stack\-1072365548\index.html.json
+canonical: /win32/ntstatus-h/status_sxs_corrupt_activation_stack/0xc0150014/
+title: -1072365548 STATUS_SXS_CORRUPT_ACTIVATION_STACK in ntstatus.h
+description: The activation context activation stack for the running thread of execution is corrupt.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1072365548",
+  "codeUrl": "/win32/ntstatus-h/status_sxs_corrupt_activation_stack/-1072365548/",
+  "numericCode": 0,
+  "define": "STATUS_SXS_CORRUPT_ACTIVATION_STACK",
+  "defineUrl": "/win32/ntstatus-h/status_sxs_corrupt_activation_stack/",
+  "message": "The activation context activation stack for the running thread of execution is corrupt.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0150014",
+  "originalCodeUrl": "/win32/ntstatus-h/status_sxs_corrupt_activation_stack/0xc0150014/"
+}

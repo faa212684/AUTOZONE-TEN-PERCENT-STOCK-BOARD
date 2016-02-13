@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_tm_identity_mismatch\0xc019004a\index.html.json
+
+title: 0xC019004A STATUS_TM_IDENTITY_MISMATCH in ntstatus.h
+description: The call to create a TransactionManager object failed because the Tm Identity stored in the logfile does not match the Tm Identity that was passed in as an argument.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC019004A",
+  "codeUrl": "/win32/ntstatus-h/status_tm_identity_mismatch/0xc019004a/",
+  "numericCode": -1072103350,
+  "define": "STATUS_TM_IDENTITY_MISMATCH",
+  "defineUrl": "/win32/ntstatus-h/status_tm_identity_mismatch/",
+  "message": "The call to create a TransactionManager object failed because the Tm Identity stored in the logfile does not match the Tm Identity that was passed in as an argument.",
+  "remarks": null,
+  "aka": [
+    "-1072103350"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_tm_identity_mismatch/-1072103350/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

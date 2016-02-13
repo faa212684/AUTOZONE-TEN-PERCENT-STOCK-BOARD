@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_invalid_driver_dependency\0xc0001b67\index.html.json
+
+title: 0xC0001B67 EVENT_INVALID_DRIVER_DEPENDENCY in netevent.h
+description: Boot-start or system-start driver (%1) must not depend on a service.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC0001B67",
+  "codeUrl": "/win32/netevent-h/event_invalid_driver_dependency/0xc0001b67/",
+  "numericCode": -1073734809,
+  "define": "EVENT_INVALID_DRIVER_DEPENDENCY",
+  "defineUrl": "/win32/netevent-h/event_invalid_driver_dependency/",
+  "message": "Boot-start or system-start driver (%1) must not depend on a service.",
+  "remarks": null,
+  "aka": [
+    "-1073734809"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_invalid_driver_dependency/-1073734809/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

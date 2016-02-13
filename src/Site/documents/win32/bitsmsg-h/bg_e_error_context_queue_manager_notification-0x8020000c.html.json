@@ -1,0 +1,28 @@
+---
+output: win32\bitsmsg-h\bg_e_error_context_queue_manager_notification\0x8020000c\index.html.json
+
+title: 0x8020000C BG_E_ERROR_CONTEXT_QUEUE_MANAGER_NOTIFICATION in BitsMsg.h
+description: The error occurred while the notification callback was being processed. Background Intelligent Transfer Service (BITS) will try again later.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "BitsMsg.h",
+  "sourceUrl": "/win32/bitsmsg-h/",
+  "code": "0x8020000C",
+  "codeUrl": "/win32/bitsmsg-h/bg_e_error_context_queue_manager_notification/0x8020000c/",
+  "numericCode": -2145386484,
+  "define": "BG_E_ERROR_CONTEXT_QUEUE_MANAGER_NOTIFICATION",
+  "defineUrl": "/win32/bitsmsg-h/bg_e_error_context_queue_manager_notification/",
+  "message": "The error occurred while the notification callback was being processed. Background Intelligent Transfer Service (BITS) will try again later.",
+  "remarks": null,
+  "aka": [
+    "-2145386484"
+  ],
+  "akaUrl": [
+    "/win32/bitsmsg-h/bg_e_error_context_queue_manager_notification/-2145386484/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

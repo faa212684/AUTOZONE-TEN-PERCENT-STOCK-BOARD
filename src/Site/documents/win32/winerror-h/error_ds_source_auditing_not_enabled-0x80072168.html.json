@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_ds_source_auditing_not_enabled\0x80072168\index.html.json
+canonical: /win32/winerror-h/error_ds_source_auditing_not_enabled/8552/
+title: 0x80072168 ERROR_DS_SOURCE_AUDITING_NOT_ENABLED in winerror.h
+description: The operation requires that source domain auditing be enabled.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80072168",
+  "codeUrl": "/win32/winerror-h/error_ds_source_auditing_not_enabled/0x80072168/",
+  "numericCode": 0,
+  "define": "ERROR_DS_SOURCE_AUDITING_NOT_ENABLED",
+  "defineUrl": "/win32/winerror-h/error_ds_source_auditing_not_enabled/",
+  "message": "The operation requires that source domain auditing be enabled.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "8552",
+  "originalCodeUrl": "/win32/winerror-h/error_ds_source_auditing_not_enabled/8552/"
+}

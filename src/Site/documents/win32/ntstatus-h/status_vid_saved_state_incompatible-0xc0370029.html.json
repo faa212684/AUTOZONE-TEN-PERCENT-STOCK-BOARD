@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_vid_saved_state_incompatible\0xc0370029\index.html.json
+
+title: 0xC0370029 STATUS_VID_SAVED_STATE_INCOMPATIBLE in ntstatus.h
+description: Cannot restore this virtual machine to the saved state because of hypervisor incompatibility. Delete the saved state data and then try to start the virtual machine.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0370029",
+  "codeUrl": "/win32/ntstatus-h/status_vid_saved_state_incompatible/0xc0370029/",
+  "numericCode": -1070137303,
+  "define": "STATUS_VID_SAVED_STATE_INCOMPATIBLE",
+  "defineUrl": "/win32/ntstatus-h/status_vid_saved_state_incompatible/",
+  "message": "Cannot restore this virtual machine to the saved state because of hypervisor incompatibility. Delete the saved state data and then try to start the virtual machine.",
+  "remarks": null,
+  "aka": [
+    "-1070137303"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_vid_saved_state_incompatible/-1070137303/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\milerr_not_queuing_presents\0x88980094\index.html.json
+
+title: 0x88980094 MILERR_NOT_QUEUING_PRESENTS in winerror.h
+description: Queued Presents are not being used.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x88980094",
+  "codeUrl": "/win32/winerror-h/milerr_not_queuing_presents/0x88980094/",
+  "numericCode": -2003304300,
+  "define": "MILERR_NOT_QUEUING_PRESENTS",
+  "defineUrl": "/win32/winerror-h/milerr_not_queuing_presents/",
+  "message": "Queued Presents are not being used.",
+  "remarks": null,
+  "aka": [
+    "-2003304300"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/milerr_not_queuing_presents/-2003304300/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

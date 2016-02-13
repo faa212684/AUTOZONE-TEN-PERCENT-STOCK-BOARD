@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\wsaetimedout\10060\index.html.json
+
+title: 10060 WSAETIMEDOUT in winerror.h
+description: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "10060",
+  "codeUrl": "/win32/winerror-h/wsaetimedout/10060/",
+  "numericCode": 10060,
+  "define": "WSAETIMEDOUT",
+  "defineUrl": "/win32/winerror-h/wsaetimedout/",
+  "message": "A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.",
+  "remarks": null,
+  "aka": [
+    "0x8007274c",
+    "-2147014836"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/wsaetimedout/0x8007274c/",
+    "/win32/winerror-h/wsaetimedout/-2147014836/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

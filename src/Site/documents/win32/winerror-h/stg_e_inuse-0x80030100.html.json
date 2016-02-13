@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\stg_e_inuse\0x80030100\index.html.json
+
+title: 0x80030100 STG_E_INUSE in winerror.h
+description: Attempted to use an object that is busy.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80030100",
+  "codeUrl": "/win32/winerror-h/stg_e_inuse/0x80030100/",
+  "numericCode": -2147286784,
+  "define": "STG_E_INUSE",
+  "defineUrl": "/win32/winerror-h/stg_e_inuse/",
+  "message": "Attempted to use an object that is busy.",
+  "remarks": null,
+  "aka": [
+    "-2147286784"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/stg_e_inuse/-2147286784/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

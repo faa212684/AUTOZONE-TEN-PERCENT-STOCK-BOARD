@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_wins_internal\4000\index.html.json
+
+title: 4000 ERROR_WINS_INTERNAL in winerror.h
+description: WINS encountered an error while processing the command.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "4000",
+  "codeUrl": "/win32/winerror-h/error_wins_internal/4000/",
+  "numericCode": 4000,
+  "define": "ERROR_WINS_INTERNAL",
+  "defineUrl": "/win32/winerror-h/error_wins_internal/",
+  "message": "WINS encountered an error while processing the command.",
+  "remarks": null,
+  "aka": [
+    "0x80070fa0",
+    "-2147020896"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_wins_internal/0x80070fa0/",
+    "/win32/winerror-h/error_wins_internal/-2147020896/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

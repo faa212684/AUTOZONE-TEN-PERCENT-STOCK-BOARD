@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_mapped_file_size_zero\0xc000011e\index.html.json
+
+title: 0xC000011E STATUS_MAPPED_FILE_SIZE_ZERO in ntstatus.h
+description: An attempt was made to map a file of size zero with the maximum size specified as zero.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000011E",
+  "codeUrl": "/win32/ntstatus-h/status_mapped_file_size_zero/0xc000011e/",
+  "numericCode": -1073741538,
+  "define": "STATUS_MAPPED_FILE_SIZE_ZERO",
+  "defineUrl": "/win32/ntstatus-h/status_mapped_file_size_zero/",
+  "message": "An attempt was made to map a file of size zero with the maximum size specified as zero.",
+  "remarks": null,
+  "aka": [
+    "-1073741538"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_mapped_file_size_zero/-1073741538/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

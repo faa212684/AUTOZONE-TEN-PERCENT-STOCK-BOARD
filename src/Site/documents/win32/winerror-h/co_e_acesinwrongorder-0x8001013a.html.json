@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\co_e_acesinwrongorder\0x8001013a\index.html.json
+
+title: 0x8001013A CO_E_ACESINWRONGORDER in winerror.h
+description: Not all the DENY_ACCESS ACEs are arranged in front of the GRANT_ACCESS ACEs in the stream.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8001013A",
+  "codeUrl": "/win32/winerror-h/co_e_acesinwrongorder/0x8001013a/",
+  "numericCode": -2147417798,
+  "define": "CO_E_ACESINWRONGORDER",
+  "defineUrl": "/win32/winerror-h/co_e_acesinwrongorder/",
+  "message": "Not all the DENY_ACCESS ACEs are arranged in front of the GRANT_ACCESS ACEs in the stream.",
+  "remarks": null,
+  "aka": [
+    "-2147417798"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/co_e_acesinwrongorder/-2147417798/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

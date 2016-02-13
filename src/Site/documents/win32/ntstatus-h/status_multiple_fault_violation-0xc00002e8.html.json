@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_multiple_fault_violation\0xc00002e8\index.html.json
+
+title: 0xC00002E8 STATUS_MULTIPLE_FAULT_VIOLATION in ntstatus.h
+description: STATUS_MULTIPLE_FAULT_VIOLATION
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC00002E8",
+  "codeUrl": "/win32/ntstatus-h/status_multiple_fault_violation/0xc00002e8/",
+  "numericCode": -1073741080,
+  "define": "STATUS_MULTIPLE_FAULT_VIOLATION",
+  "defineUrl": "/win32/ntstatus-h/status_multiple_fault_violation/",
+  "message": "STATUS_MULTIPLE_FAULT_VIOLATION",
+  "remarks": null,
+  "aka": [
+    "-1073741080"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_multiple_fault_violation/-1073741080/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

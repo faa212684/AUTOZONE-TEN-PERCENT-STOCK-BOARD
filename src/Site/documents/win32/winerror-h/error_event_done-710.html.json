@@ -1,0 +1,31 @@
+---
+output: win32\winerror-h\error_event_done\710\index.html.json
+
+title: 710 ERROR_EVENT_DONE in winerror.h
+description: "{TDI Event Done}
+The TDI indication has completed successfully."
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "710",
+  "codeUrl": "/win32/winerror-h/error_event_done/710/",
+  "numericCode": 710,
+  "define": "ERROR_EVENT_DONE",
+  "defineUrl": "/win32/winerror-h/error_event_done/",
+  "message": "{TDI Event Done}\r\nThe TDI indication has completed successfully.",
+  "remarks": null,
+  "aka": [
+    "0x800702c6",
+    "-2147024186"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_event_done/0x800702c6/",
+    "/win32/winerror-h/error_event_done/-2147024186/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

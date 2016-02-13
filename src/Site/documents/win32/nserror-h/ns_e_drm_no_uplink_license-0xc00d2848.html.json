@@ -1,0 +1,28 @@
+---
+output: win32\nserror-h\ns_e_drm_no_uplink_license\0xc00d2848\index.html.json
+
+title: 0xC00D2848 NS_E_DRM_NO_UPLINK_LICENSE in nserror.h
+description: The chained license cannot be created because the referenced uplink license does not exist.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "nserror.h",
+  "sourceUrl": "/win32/nserror-h/",
+  "code": "0xC00D2848",
+  "codeUrl": "/win32/nserror-h/ns_e_drm_no_uplink_license/0xc00d2848/",
+  "numericCode": -1072879544,
+  "define": "NS_E_DRM_NO_UPLINK_LICENSE",
+  "defineUrl": "/win32/nserror-h/ns_e_drm_no_uplink_license/",
+  "message": "The chained license cannot be created because the referenced uplink license does not exist.",
+  "remarks": null,
+  "aka": [
+    "-1072879544"
+  ],
+  "akaUrl": [
+    "/win32/nserror-h/ns_e_drm_no_uplink_license/-1072879544/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

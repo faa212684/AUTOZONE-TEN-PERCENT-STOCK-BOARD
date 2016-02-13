@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_ctx_invalid_modemname\-1073086455\index.html.json
+canonical: /win32/ntstatus-h/status_ctx_invalid_modemname/0xc00a0009/
+title: -1073086455 STATUS_CTX_INVALID_MODEMNAME in ntstatus.h
+description: The modem (%1) was not found in MODEM.INF.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073086455",
+  "codeUrl": "/win32/ntstatus-h/status_ctx_invalid_modemname/-1073086455/",
+  "numericCode": 0,
+  "define": "STATUS_CTX_INVALID_MODEMNAME",
+  "defineUrl": "/win32/ntstatus-h/status_ctx_invalid_modemname/",
+  "message": "The modem (%1) was not found in MODEM.INF.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC00A0009",
+  "originalCodeUrl": "/win32/ntstatus-h/status_ctx_invalid_modemname/0xc00a0009/"
+}

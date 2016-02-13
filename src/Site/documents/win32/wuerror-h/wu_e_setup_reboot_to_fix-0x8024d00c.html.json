@@ -1,0 +1,28 @@
+---
+output: win32\wuerror-h\wu_e_setup_reboot_to_fix\0x8024d00c\index.html.json
+
+title: 0x8024D00C WU_E_SETUP_REBOOT_TO_FIX in wuerror.h
+description: Windows Update Agent could not be updated because a restart of the system is required.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wuerror.h",
+  "sourceUrl": "/win32/wuerror-h/",
+  "code": "0x8024D00C",
+  "codeUrl": "/win32/wuerror-h/wu_e_setup_reboot_to_fix/0x8024d00c/",
+  "numericCode": -2145071092,
+  "define": "WU_E_SETUP_REBOOT_TO_FIX",
+  "defineUrl": "/win32/wuerror-h/wu_e_setup_reboot_to_fix/",
+  "message": "Windows Update Agent could not be updated because a restart of the system is required.",
+  "remarks": null,
+  "aka": [
+    "-2145071092"
+  ],
+  "akaUrl": [
+    "/win32/wuerror-h/wu_e_setup_reboot_to_fix/-2145071092/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

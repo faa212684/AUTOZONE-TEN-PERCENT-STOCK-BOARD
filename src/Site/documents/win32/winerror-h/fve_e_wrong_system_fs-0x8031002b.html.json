@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\fve_e_wrong_system_fs\0x8031002b\index.html.json
+
+title: 0x8031002B FVE_E_WRONG_SYSTEM_FS in winerror.h
+description: BitLocker Drive Encryption operating system drives must be formatted with the NTFS file system in order to be encrypted. Convert the drive to NTFS, and then turn on BitLocker.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8031002B",
+  "codeUrl": "/win32/winerror-h/fve_e_wrong_system_fs/0x8031002b/",
+  "numericCode": -2144272341,
+  "define": "FVE_E_WRONG_SYSTEM_FS",
+  "defineUrl": "/win32/winerror-h/fve_e_wrong_system_fs/",
+  "message": "BitLocker Drive Encryption operating system drives must be formatted with the NTFS file system in order to be encrypted. Convert the drive to NTFS, and then turn on BitLocker.",
+  "remarks": null,
+  "aka": [
+    "-2144272341"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/fve_e_wrong_system_fs/-2144272341/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

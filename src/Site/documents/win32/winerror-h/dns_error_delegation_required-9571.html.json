@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\dns_error_delegation_required\9571\index.html.json
+
+title: 9571 DNS_ERROR_DELEGATION_REQUIRED in winerror.h
+description: This operation requires credentials delegation.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "9571",
+  "codeUrl": "/win32/winerror-h/dns_error_delegation_required/9571/",
+  "numericCode": 9571,
+  "define": "DNS_ERROR_DELEGATION_REQUIRED",
+  "defineUrl": "/win32/winerror-h/dns_error_delegation_required/",
+  "message": "This operation requires credentials delegation.",
+  "remarks": null,
+  "aka": [
+    "0x80072563",
+    "-2147015325"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/dns_error_delegation_required/0x80072563/",
+    "/win32/winerror-h/dns_error_delegation_required/-2147015325/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

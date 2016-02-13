@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_account_expired\-1073741421\index.html.json
+canonical: /win32/ntstatus-h/status_account_expired/0xc0000193/
+title: -1073741421 STATUS_ACCOUNT_EXPIRED in ntstatus.h
+description: The user's account has expired.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741421",
+  "codeUrl": "/win32/ntstatus-h/status_account_expired/-1073741421/",
+  "numericCode": 0,
+  "define": "STATUS_ACCOUNT_EXPIRED",
+  "defineUrl": "/win32/ntstatus-h/status_account_expired/",
+  "message": "The user's account has expired.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000193",
+  "originalCodeUrl": "/win32/ntstatus-h/status_account_expired/0xc0000193/"
+}

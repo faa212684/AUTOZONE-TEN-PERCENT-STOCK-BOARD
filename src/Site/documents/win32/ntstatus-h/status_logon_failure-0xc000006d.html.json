@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_logon_failure\0xc000006d\index.html.json
+
+title: 0xC000006D STATUS_LOGON_FAILURE in ntstatus.h
+description: The attempted logon is invalid. This is either due to a bad username or authentication information.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000006D",
+  "codeUrl": "/win32/ntstatus-h/status_logon_failure/0xc000006d/",
+  "numericCode": -1073741715,
+  "define": "STATUS_LOGON_FAILURE",
+  "defineUrl": "/win32/ntstatus-h/status_logon_failure/",
+  "message": "The attempted logon is invalid. This is either due to a bad username or authentication information.",
+  "remarks": null,
+  "aka": [
+    "-1073741715"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_logon_failure/-1073741715/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

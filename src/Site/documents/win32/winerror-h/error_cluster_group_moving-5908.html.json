@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_cluster_group_moving\5908\index.html.json
+
+title: 5908 ERROR_CLUSTER_GROUP_MOVING in winerror.h
+description: The group is unable to accept the request since it is moving to another node.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "5908",
+  "codeUrl": "/win32/winerror-h/error_cluster_group_moving/5908/",
+  "numericCode": 5908,
+  "define": "ERROR_CLUSTER_GROUP_MOVING",
+  "defineUrl": "/win32/winerror-h/error_cluster_group_moving/",
+  "message": "The group is unable to accept the request since it is moving to another node.",
+  "remarks": null,
+  "aka": [
+    "0x80071714",
+    "-2147018988"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_cluster_group_moving/0x80071714/",
+    "/win32/winerror-h/error_cluster_group_moving/-2147018988/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

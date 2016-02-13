@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\fve_e_policy_invalid_pin_length\0x80310068\index.html.json
+
+title: 0x80310068 FVE_E_POLICY_INVALID_PIN_LENGTH in winerror.h
+description: The PIN provided does not meet minimum or maximum length requirements.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80310068",
+  "codeUrl": "/win32/winerror-h/fve_e_policy_invalid_pin_length/0x80310068/",
+  "numericCode": -2144272280,
+  "define": "FVE_E_POLICY_INVALID_PIN_LENGTH",
+  "defineUrl": "/win32/winerror-h/fve_e_policy_invalid_pin_length/",
+  "message": "The PIN provided does not meet minimum or maximum length requirements.",
+  "remarks": null,
+  "aka": [
+    "-2144272280"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/fve_e_policy_invalid_pin_length/-2144272280/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

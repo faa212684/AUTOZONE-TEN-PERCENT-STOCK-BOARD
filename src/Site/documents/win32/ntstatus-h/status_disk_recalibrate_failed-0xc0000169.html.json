@@ -1,0 +1,29 @@
+---
+output: win32\ntstatus-h\status_disk_recalibrate_failed\0xc0000169\index.html.json
+
+title: 0xC0000169 STATUS_DISK_RECALIBRATE_FAILED in ntstatus.h
+description: "{Hard Disk Error}
+While accessing the hard disk, a recalibrate operation failed, even after retries."
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000169",
+  "codeUrl": "/win32/ntstatus-h/status_disk_recalibrate_failed/0xc0000169/",
+  "numericCode": -1073741463,
+  "define": "STATUS_DISK_RECALIBRATE_FAILED",
+  "defineUrl": "/win32/ntstatus-h/status_disk_recalibrate_failed/",
+  "message": "{Hard Disk Error}\r\nWhile accessing the hard disk, a recalibrate operation failed, even after retries.",
+  "remarks": null,
+  "aka": [
+    "-1073741463"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_disk_recalibrate_failed/-1073741463/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

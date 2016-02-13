@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_not_server_session\-1073741290\index.html.json
+canonical: /win32/ntstatus-h/status_not_server_session/0xc0000216/
+title: -1073741290 STATUS_NOT_SERVER_SESSION in ntstatus.h
+description: The transport can only process the specified request on the server side of a session.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741290",
+  "codeUrl": "/win32/ntstatus-h/status_not_server_session/-1073741290/",
+  "numericCode": 0,
+  "define": "STATUS_NOT_SERVER_SESSION",
+  "defineUrl": "/win32/ntstatus-h/status_not_server_session/",
+  "message": "The transport can only process the specified request on the server side of a session.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000216",
+  "originalCodeUrl": "/win32/ntstatus-h/status_not_server_session/0xc0000216/"
+}

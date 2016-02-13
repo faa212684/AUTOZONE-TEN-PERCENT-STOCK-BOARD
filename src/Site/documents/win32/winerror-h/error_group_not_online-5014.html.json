@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_group_not_online\5014\index.html.json
+
+title: 5014 ERROR_GROUP_NOT_ONLINE in winerror.h
+description: The operation could not be completed because the cluster group is not online.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "5014",
+  "codeUrl": "/win32/winerror-h/error_group_not_online/5014/",
+  "numericCode": 5014,
+  "define": "ERROR_GROUP_NOT_ONLINE",
+  "defineUrl": "/win32/winerror-h/error_group_not_online/",
+  "message": "The operation could not be completed because the cluster group is not online.",
+  "remarks": null,
+  "aka": [
+    "0x80071396",
+    "-2147019882"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_group_not_online/0x80071396/",
+    "/win32/winerror-h/error_group_not_online/-2147019882/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

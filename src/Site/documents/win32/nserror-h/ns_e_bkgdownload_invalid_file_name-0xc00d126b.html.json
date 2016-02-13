@@ -1,0 +1,28 @@
+---
+output: win32\nserror-h\ns_e_bkgdownload_invalid_file_name\0xc00d126b\index.html.json
+
+title: 0xC00D126B NS_E_BKGDOWNLOAD_INVALID_FILE_NAME in nserror.h
+description: Windows Media Player cannot get the file name of the requested download. The requested download will be canceled.%0
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "nserror.h",
+  "sourceUrl": "/win32/nserror-h/",
+  "code": "0xC00D126B",
+  "codeUrl": "/win32/nserror-h/ns_e_bkgdownload_invalid_file_name/0xc00d126b/",
+  "numericCode": -1072885141,
+  "define": "NS_E_BKGDOWNLOAD_INVALID_FILE_NAME",
+  "defineUrl": "/win32/nserror-h/ns_e_bkgdownload_invalid_file_name/",
+  "message": "Windows Media Player cannot get the file name of the requested download. The requested download will be canceled.%0",
+  "remarks": null,
+  "aka": [
+    "-1072885141"
+  ],
+  "akaUrl": [
+    "/win32/nserror-h/ns_e_bkgdownload_invalid_file_name/-1072885141/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

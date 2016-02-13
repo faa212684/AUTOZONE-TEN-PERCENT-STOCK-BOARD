@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\certsrv_e_no_valid_kra\0x8009400b\index.html.json
+
+title: 0x8009400B CERTSRV_E_NO_VALID_KRA in winerror.h
+description: Cannot archive private key. The certification authority could not verify one or more key recovery certificates.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8009400B",
+  "codeUrl": "/win32/winerror-h/certsrv_e_no_valid_kra/0x8009400b/",
+  "numericCode": -2146877429,
+  "define": "CERTSRV_E_NO_VALID_KRA",
+  "defineUrl": "/win32/winerror-h/certsrv_e_no_valid_kra/",
+  "message": "Cannot archive private key. The certification authority could not verify one or more key recovery certificates.",
+  "remarks": null,
+  "aka": [
+    "-2146877429"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/certsrv_e_no_valid_kra/-2146877429/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

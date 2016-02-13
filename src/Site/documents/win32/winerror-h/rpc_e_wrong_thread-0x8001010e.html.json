@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\rpc_e_wrong_thread\0x8001010e\index.html.json
+
+title: 0x8001010E RPC_E_WRONG_THREAD in winerror.h
+description: The application called an interface that was marshalled for a different thread.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8001010E",
+  "codeUrl": "/win32/winerror-h/rpc_e_wrong_thread/0x8001010e/",
+  "numericCode": -2147417842,
+  "define": "RPC_E_WRONG_THREAD",
+  "defineUrl": "/win32/winerror-h/rpc_e_wrong_thread/",
+  "message": "The application called an interface that was marshalled for a different thread.",
+  "remarks": null,
+  "aka": [
+    "-2147417842"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/rpc_e_wrong_thread/-2147417842/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

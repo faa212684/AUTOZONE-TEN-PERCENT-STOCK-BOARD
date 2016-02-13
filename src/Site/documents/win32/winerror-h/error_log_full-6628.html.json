@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_log_full\6628\index.html.json
+
+title: 6628 ERROR_LOG_FULL in winerror.h
+description: Log space is exhausted.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "6628",
+  "codeUrl": "/win32/winerror-h/error_log_full/6628/",
+  "numericCode": 6628,
+  "define": "ERROR_LOG_FULL",
+  "defineUrl": "/win32/winerror-h/error_log_full/",
+  "message": "Log space is exhausted.",
+  "remarks": null,
+  "aka": [
+    "0x800719e4",
+    "-2147018268"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_log_full/0x800719e4/",
+    "/win32/winerror-h/error_log_full/-2147018268/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

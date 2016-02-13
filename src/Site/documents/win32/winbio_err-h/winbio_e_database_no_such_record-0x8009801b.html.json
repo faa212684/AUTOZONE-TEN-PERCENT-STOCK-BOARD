@@ -1,0 +1,28 @@
+---
+output: win32\winbio_err-h\winbio_e_database_no_such_record\0x8009801b\index.html.json
+
+title: 0x8009801B WINBIO_E_DATABASE_NO_SUCH_RECORD in winbio_err.h
+description: No records were deleted because the specified identity and sub-factor are not present in the database.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winbio_err.h",
+  "sourceUrl": "/win32/winbio_err-h/",
+  "code": "0x8009801B",
+  "codeUrl": "/win32/winbio_err-h/winbio_e_database_no_such_record/0x8009801b/",
+  "numericCode": -2146861029,
+  "define": "WINBIO_E_DATABASE_NO_SUCH_RECORD",
+  "defineUrl": "/win32/winbio_err-h/winbio_e_database_no_such_record/",
+  "message": "No records were deleted because the specified identity and sub-factor are not present in the database.",
+  "remarks": null,
+  "aka": [
+    "-2146861029"
+  ],
+  "akaUrl": [
+    "/win32/winbio_err-h/winbio_e_database_no_such_record/-2146861029/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

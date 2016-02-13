@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_fail_check\0xc0000229\index.html.json
+
+title: 0xC0000229 STATUS_FAIL_CHECK in ntstatus.h
+description: A consistency check failed.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000229",
+  "codeUrl": "/win32/ntstatus-h/status_fail_check/0xc0000229/",
+  "numericCode": -1073741271,
+  "define": "STATUS_FAIL_CHECK",
+  "defineUrl": "/win32/ntstatus-h/status_fail_check/",
+  "message": "A consistency check failed.",
+  "remarks": null,
+  "aka": [
+    "-1073741271"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_fail_check/-1073741271/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

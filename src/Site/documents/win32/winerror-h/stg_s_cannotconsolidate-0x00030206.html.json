@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\stg_s_cannotconsolidate\0x00030206\index.html.json
+
+title: 0x00030206 STG_S_CANNOTCONSOLIDATE in winerror.h
+description: Consolidation of the storage file is inappropriate. (commit succeeded).
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x00030206",
+  "codeUrl": "/win32/winerror-h/stg_s_cannotconsolidate/0x00030206/",
+  "numericCode": 197126,
+  "define": "STG_S_CANNOTCONSOLIDATE",
+  "defineUrl": "/win32/winerror-h/stg_s_cannotconsolidate/",
+  "message": "Consolidation of the storage file is inappropriate. (commit succeeded).",
+  "remarks": null,
+  "aka": [
+    "197126"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/stg_s_cannotconsolidate/197126/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

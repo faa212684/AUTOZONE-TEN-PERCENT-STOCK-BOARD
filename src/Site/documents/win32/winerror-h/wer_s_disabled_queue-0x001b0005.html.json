@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\wer_s_disabled_queue\0x001b0005\index.html.json
+
+title: 0x001B0005 WER_S_DISABLED_QUEUE in winerror.h
+description: Report was not queued to queueing being disabled.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x001B0005",
+  "codeUrl": "/win32/winerror-h/wer_s_disabled_queue/0x001b0005/",
+  "numericCode": 1769477,
+  "define": "WER_S_DISABLED_QUEUE",
+  "defineUrl": "/win32/winerror-h/wer_s_disabled_queue/",
+  "message": "Report was not queued to queueing being disabled.",
+  "remarks": null,
+  "aka": [
+    "1769477"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/wer_s_disabled_queue/1769477/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\bitsmsg-h\bg_e_server_execute_enable\0x80200023\index.html.json
+
+title: 0x80200023 BG_E_SERVER_EXECUTE_ENABLE in BitsMsg.h
+description: Scripting OR execute permissions are enabled on the IIS virtual directory associated with the job. To upload files to the virtual directory, disable the scripting and execute permissions on the virtual directory.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "BitsMsg.h",
+  "sourceUrl": "/win32/bitsmsg-h/",
+  "code": "0x80200023",
+  "codeUrl": "/win32/bitsmsg-h/bg_e_server_execute_enable/0x80200023/",
+  "numericCode": -2145386461,
+  "define": "BG_E_SERVER_EXECUTE_ENABLE",
+  "defineUrl": "/win32/bitsmsg-h/bg_e_server_execute_enable/",
+  "message": "Scripting OR execute permissions are enabled on the IIS virtual directory associated with the job. To upload files to the virtual directory, disable the scripting and execute permissions on the virtual directory.",
+  "remarks": null,
+  "aka": [
+    "-2145386461"
+  ],
+  "akaUrl": [
+    "/win32/bitsmsg-h/bg_e_server_execute_enable/-2145386461/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

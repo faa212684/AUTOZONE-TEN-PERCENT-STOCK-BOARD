@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_cluster_invalid_network\-1072496624\index.html.json
+canonical: /win32/ntstatus-h/status_cluster_invalid_network/0xc0130010/
+title: -1072496624 STATUS_CLUSTER_INVALID_NETWORK in ntstatus.h
+description: The cluster network is not valid.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1072496624",
+  "codeUrl": "/win32/ntstatus-h/status_cluster_invalid_network/-1072496624/",
+  "numericCode": 0,
+  "define": "STATUS_CLUSTER_INVALID_NETWORK",
+  "defineUrl": "/win32/ntstatus-h/status_cluster_invalid_network/",
+  "message": "The cluster network is not valid.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0130010",
+  "originalCodeUrl": "/win32/ntstatus-h/status_cluster_invalid_network/0xc0130010/"
+}

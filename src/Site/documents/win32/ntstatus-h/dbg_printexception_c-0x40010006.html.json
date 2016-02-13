@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\dbg_printexception_c\0x40010006\index.html.json
+
+title: 0x40010006 DBG_PRINTEXCEPTION_C in ntstatus.h
+description: Debugger printed exception on control C.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0x40010006",
+  "codeUrl": "/win32/ntstatus-h/dbg_printexception_c/0x40010006/",
+  "numericCode": 1073807366,
+  "define": "DBG_PRINTEXCEPTION_C",
+  "defineUrl": "/win32/ntstatus-h/dbg_printexception_c/",
+  "message": "Debugger printed exception on control C.",
+  "remarks": null,
+  "aka": [
+    "1073807366"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/dbg_printexception_c/1073807366/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

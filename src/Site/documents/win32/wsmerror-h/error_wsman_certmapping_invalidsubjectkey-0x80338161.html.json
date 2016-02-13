@@ -1,0 +1,33 @@
+---
+output: win32\wsmerror-h\error_wsman_certmapping_invalidsubjectkey\0x80338161\index.html.json
+
+title: 0x80338161 ERROR_WSMAN_CERTMAPPING_INVALIDSUBJECTKEY in wsmerror.h
+description: WinRM cannot make the configuration change.
+The Subject used for the certificate mapping operation is not valid. 
+It must contain at least one character. 
+It must contain at most one "*" character which should be the first character.
+(This may be the only character in which case it matches all subjects). 
+The Subject cannot be longer than 1023 characters.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x80338161",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_certmapping_invalidsubjectkey/0x80338161/",
+  "numericCode": -2144108191,
+  "define": "ERROR_WSMAN_CERTMAPPING_INVALIDSUBJECTKEY",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_certmapping_invalidsubjectkey/",
+  "message": "WinRM cannot make the configuration change.\r\nThe Subject used for the certificate mapping operation is not valid. \r\nIt must contain at least one character. \r\nIt must contain at most one \"*\" character which should be the first character.\r\n(This may be the only character in which case it matches all subjects). \r\nThe Subject cannot be longer than 1023 characters.",
+  "remarks": null,
+  "aka": [
+    "-2144108191"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_certmapping_invalidsubjectkey/-2144108191/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

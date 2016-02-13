@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_volmgr_unexpected_disk_layout_change\0xc0380044\index.html.json
+
+title: 0xC0380044 STATUS_VOLMGR_UNEXPECTED_DISK_LAYOUT_CHANGE in ntstatus.h
+description: An unexpected layout change occurred outside of the volume manager.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0380044",
+  "codeUrl": "/win32/ntstatus-h/status_volmgr_unexpected_disk_layout_change/0xc0380044/",
+  "numericCode": -1070071740,
+  "define": "STATUS_VOLMGR_UNEXPECTED_DISK_LAYOUT_CHANGE",
+  "defineUrl": "/win32/ntstatus-h/status_volmgr_unexpected_disk_layout_change/",
+  "message": "An unexpected layout change occurred outside of the volume manager.",
+  "remarks": null,
+  "aka": [
+    "-1070071740"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_volmgr_unexpected_disk_layout_change/-1070071740/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

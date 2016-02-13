@@ -1,0 +1,25 @@
+---
+output: win32\wsmerror-h\error_wsman_policy_cannot_comply\-2144108194\index.html.json
+canonical: /win32/wsmerror-h/error_wsman_policy_cannot_comply/0x8033815e/
+title: -2144108194 ERROR_WSMAN_POLICY_CANNOT_COMPLY in wsmerror.h
+description: The WinRM service cannot process the request because the WS-Policy contained in the DeliverTo does not contain any options that the service can comply with.
+The WinRM service supports the following profiles: Negotiate or Kerberos over HTTP, Negotiate or Kerberos over HTTPS, and mutual certificate authentication over HTTPS using issuer thumbprints.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "-2144108194",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_policy_cannot_comply/-2144108194/",
+  "numericCode": 0,
+  "define": "ERROR_WSMAN_POLICY_CANNOT_COMPLY",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_policy_cannot_comply/",
+  "message": "The WinRM service cannot process the request because the WS-Policy contained in the DeliverTo does not contain any options that the service can comply with.\r\nThe WinRM service supports the following profiles: Negotiate or Kerberos over HTTP, Negotiate or Kerberos over HTTPS, and mutual certificate authentication over HTTPS using issuer thumbprints.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x8033815E",
+  "originalCodeUrl": "/win32/wsmerror-h/error_wsman_policy_cannot_comply/0x8033815e/"
+}

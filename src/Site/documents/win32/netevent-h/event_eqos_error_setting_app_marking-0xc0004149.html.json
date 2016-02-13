@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_eqos_error_setting_app_marking\0xc0004149\index.html.json
+
+title: 0xC0004149 EVENT_EQOS_ERROR_SETTING_APP_MARKING in netevent.h
+description: QoS failed to read or set the DSCP marking override setting, error code: "%2".
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC0004149",
+  "codeUrl": "/win32/netevent-h/event_eqos_error_setting_app_marking/0xc0004149/",
+  "numericCode": -1073725111,
+  "define": "EVENT_EQOS_ERROR_SETTING_APP_MARKING",
+  "defineUrl": "/win32/netevent-h/event_eqos_error_setting_app_marking/",
+  "message": "QoS failed to read or set the DSCP marking override setting, error code: \"%2\".",
+  "remarks": null,
+  "aka": [
+    "-1073725111"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_eqos_error_setting_app_marking/-1073725111/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,30 @@
+---
+output: win32\wsmerror-h\error_wsman_quota_system\0x803381a8\index.html.json
+
+title: 0x803381A8 ERROR_WSMAN_QUOTA_SYSTEM in wsmerror.h
+description: The WS-Management service cannot process the request.
+The load quota for the system has been exceeded.
+Send future requests at a slower rate or raise the system quota.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x803381A8",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_quota_system/0x803381a8/",
+  "numericCode": -2144108120,
+  "define": "ERROR_WSMAN_QUOTA_SYSTEM",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_quota_system/",
+  "message": "The WS-Management service cannot process the request.\r\nThe load quota for the system has been exceeded.\r\nSend future requests at a slower rate or raise the system quota.",
+  "remarks": null,
+  "aka": [
+    "-2144108120"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_quota_system/-2144108120/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

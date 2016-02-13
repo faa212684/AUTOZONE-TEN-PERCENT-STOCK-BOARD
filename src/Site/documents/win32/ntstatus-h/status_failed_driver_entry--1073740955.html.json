@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_failed_driver_entry\-1073740955\index.html.json
+canonical: /win32/ntstatus-h/status_failed_driver_entry/0xc0000365/
+title: -1073740955 STATUS_FAILED_DRIVER_ENTRY in ntstatus.h
+description: The driver was not loaded because it failed its initialization call.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073740955",
+  "codeUrl": "/win32/ntstatus-h/status_failed_driver_entry/-1073740955/",
+  "numericCode": 0,
+  "define": "STATUS_FAILED_DRIVER_ENTRY",
+  "defineUrl": "/win32/ntstatus-h/status_failed_driver_entry/",
+  "message": "The driver was not loaded because it failed its initialization call.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000365",
+  "originalCodeUrl": "/win32/ntstatus-h/status_failed_driver_entry/0xc0000365/"
+}

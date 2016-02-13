@@ -1,0 +1,39 @@
+---
+output: win32\vsserror-h\vss_e_asrerror_rdisk_for_system_disk_not_found\-2147212270\index.html.json
+canonical: /win32/vsserror-h/vss_e_asrerror_rdisk_for_system_disk_not_found/0x80042412/
+title: -2147212270 VSS_E_ASRERROR_RDISK_FOR_SYSTEM_DISK_NOT_FOUND in vsserror.h
+description: No disk that can be used for recovering the system disk can be found.
+Try the following:
+1) A probable system disk may have been excluded by mistake.
+a.  Review the list of disks that you have excluded from the recovery
+for a likely disk.
+b.  Type LIST DISK command in the DISKPART command interpreter. The
+probable system disk is usually the first disk listed in the results.
+c.  If possible, remove the disk from the exclusion list and then retry
+the recovery.
+2) A USB disk may have been assigned as a system disk.
+a.  Detach all USB disks from the computer.
+b.  Reboot into Windows Recovery Environment (Win RE),
+then reattach USB disks and retry the recovery.
+3) An invalid disk may have been assigned as system disk.
+a.  Physically detach the disk from your computer. Then boot
+into Win RE to retry the recovery.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vsserror.h",
+  "sourceUrl": "/win32/vsserror-h/",
+  "code": "-2147212270",
+  "codeUrl": "/win32/vsserror-h/vss_e_asrerror_rdisk_for_system_disk_not_found/-2147212270/",
+  "numericCode": 0,
+  "define": "VSS_E_ASRERROR_RDISK_FOR_SYSTEM_DISK_NOT_FOUND",
+  "defineUrl": "/win32/vsserror-h/vss_e_asrerror_rdisk_for_system_disk_not_found/",
+  "message": "No disk that can be used for recovering the system disk can be found.\r\nTry the following:\r\n1) A probable system disk may have been excluded by mistake.\r\na.  Review the list of disks that you have excluded from the recovery\r\nfor a likely disk.\r\nb.  Type LIST DISK command in the DISKPART command interpreter. The\r\nprobable system disk is usually the first disk listed in the results.\r\nc.  If possible, remove the disk from the exclusion list and then retry\r\nthe recovery.\r\n2) A USB disk may have been assigned as a system disk.\r\na.  Detach all USB disks from the computer.\r\nb.  Reboot into Windows Recovery Environment (Win RE),\r\nthen reattach USB disks and retry the recovery.\r\n3) An invalid disk may have been assigned as system disk.\r\na.  Physically detach the disk from your computer. Then boot\r\ninto Win RE to retry the recovery.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80042412",
+  "originalCodeUrl": "/win32/vsserror-h/vss_e_asrerror_rdisk_for_system_disk_not_found/0x80042412/"
+}

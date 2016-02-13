@@ -1,0 +1,24 @@
+---
+output: win32\netevent-h\event_bridge_packet_pool_creation_failed\-1073727215\index.html.json
+canonical: /win32/netevent-h/event_bridge_packet_pool_creation_failed/0xc0003911/
+title: -1073727215 EVENT_BRIDGE_PACKET_POOL_CREATION_FAILED in netevent.h
+description: Bridge: The bridge could not initialize because it failed to create a packet pool.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "-1073727215",
+  "codeUrl": "/win32/netevent-h/event_bridge_packet_pool_creation_failed/-1073727215/",
+  "numericCode": 0,
+  "define": "EVENT_BRIDGE_PACKET_POOL_CREATION_FAILED",
+  "defineUrl": "/win32/netevent-h/event_bridge_packet_pool_creation_failed/",
+  "message": "Bridge: The bridge could not initialize because it failed to create a packet pool.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0003911",
+  "originalCodeUrl": "/win32/netevent-h/event_bridge_packet_pool_creation_failed/0xc0003911/"
+}

@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_cluster_backup_in_progress\0x8007173d\index.html.json
+canonical: /win32/winerror-h/error_cluster_backup_in_progress/5949/
+title: 0x8007173d ERROR_CLUSTER_BACKUP_IN_PROGRESS in winerror.h
+description: Back up is in progress. Please wait for backup completion before trying this operation again.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007173d",
+  "codeUrl": "/win32/winerror-h/error_cluster_backup_in_progress/0x8007173d/",
+  "numericCode": 0,
+  "define": "ERROR_CLUSTER_BACKUP_IN_PROGRESS",
+  "defineUrl": "/win32/winerror-h/error_cluster_backup_in_progress/",
+  "message": "Back up is in progress. Please wait for backup completion before trying this operation again.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "5949",
+  "originalCodeUrl": "/win32/winerror-h/error_cluster_backup_in_progress/5949/"
+}

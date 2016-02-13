@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_pcp_authentication_failed\0xc0292008\index.html.json
+
+title: 0xC0292008 STATUS_PCP_AUTHENTICATION_FAILED in ntstatus.h
+description: The authorization to use a provider object has failed.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0292008",
+  "codeUrl": "/win32/ntstatus-h/status_pcp_authentication_failed/0xc0292008/",
+  "numericCode": -1071046648,
+  "define": "STATUS_PCP_AUTHENTICATION_FAILED",
+  "defineUrl": "/win32/ntstatus-h/status_pcp_authentication_failed/",
+  "message": "The authorization to use a provider object has failed.",
+  "remarks": null,
+  "aka": [
+    "-1071046648"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_pcp_authentication_failed/-1071046648/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

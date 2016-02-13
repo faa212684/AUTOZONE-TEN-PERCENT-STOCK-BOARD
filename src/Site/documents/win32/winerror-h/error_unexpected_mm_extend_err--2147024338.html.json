@@ -1,0 +1,25 @@
+---
+output: win32\winerror-h\error_unexpected_mm_extend_err\-2147024338\index.html.json
+canonical: /win32/winerror-h/error_unexpected_mm_extend_err/558/
+title: -2147024338 ERROR_UNEXPECTED_MM_EXTEND_ERR in winerror.h
+description: If an MM error is returned which is not defined in the standard FsRtl filter, it is converted to one of the following errors which is guaranteed to be in the filter.
+In this case information is lost, however, the filter correctly handles the exception.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147024338",
+  "codeUrl": "/win32/winerror-h/error_unexpected_mm_extend_err/-2147024338/",
+  "numericCode": 0,
+  "define": "ERROR_UNEXPECTED_MM_EXTEND_ERR",
+  "defineUrl": "/win32/winerror-h/error_unexpected_mm_extend_err/",
+  "message": "If an MM error is returned which is not defined in the standard FsRtl filter, it is converted to one of the following errors which is guaranteed to be in the filter.\r\nIn this case information is lost, however, the filter correctly handles the exception.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "558",
+  "originalCodeUrl": "/win32/winerror-h/error_unexpected_mm_extend_err/558/"
+}

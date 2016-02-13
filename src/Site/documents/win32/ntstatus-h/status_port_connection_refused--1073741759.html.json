@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_port_connection_refused\-1073741759\index.html.json
+canonical: /win32/ntstatus-h/status_port_connection_refused/0xc0000041/
+title: -1073741759 STATUS_PORT_CONNECTION_REFUSED in ntstatus.h
+description: The NtConnectPort request is refused.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741759",
+  "codeUrl": "/win32/ntstatus-h/status_port_connection_refused/-1073741759/",
+  "numericCode": 0,
+  "define": "STATUS_PORT_CONNECTION_REFUSED",
+  "defineUrl": "/win32/ntstatus-h/status_port_connection_refused/",
+  "message": "The NtConnectPort request is refused.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000041",
+  "originalCodeUrl": "/win32/ntstatus-h/status_port_connection_refused/0xc0000041/"
+}

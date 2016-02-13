@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_graphics_ddcci_invalid_capabilities_string\-1071774329\index.html.json
+canonical: /win32/ntstatus-h/status_graphics_ddcci_invalid_capabilities_string/0xc01e0587/
+title: -1071774329 STATUS_GRAPHICS_DDCCI_INVALID_CAPABILITIES_STRING in ntstatus.h
+description: A monitor returned a DDC/CI capabilities string which did not comply with the ACCESS.bus 3.0, DDC/CI 1.1, or MCCS 2 Revision 1 specification.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071774329",
+  "codeUrl": "/win32/ntstatus-h/status_graphics_ddcci_invalid_capabilities_string/-1071774329/",
+  "numericCode": 0,
+  "define": "STATUS_GRAPHICS_DDCCI_INVALID_CAPABILITIES_STRING",
+  "defineUrl": "/win32/ntstatus-h/status_graphics_ddcci_invalid_capabilities_string/",
+  "message": "A monitor returned a DDC/CI capabilities string which did not comply with the ACCESS.bus 3.0, DDC/CI 1.1, or MCCS 2 Revision 1 specification.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC01E0587",
+  "originalCodeUrl": "/win32/ntstatus-h/status_graphics_ddcci_invalid_capabilities_string/0xc01e0587/"
+}

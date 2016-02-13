@@ -1,0 +1,25 @@
+---
+output: win32\ntstatus-h\status_callback_returned_pri_back\-1073740000\index.html.json
+canonical: /win32/ntstatus-h/status_callback_returned_pri_back/0xc0000720/
+title: -1073740000 STATUS_CALLBACK_RETURNED_PRI_BACK in ntstatus.h
+description: A threadpool worker thread enter a callback, which left with background priorities set.
+This is unexpected, indicating that the callback missed restoring the original priorities.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073740000",
+  "codeUrl": "/win32/ntstatus-h/status_callback_returned_pri_back/-1073740000/",
+  "numericCode": 0,
+  "define": "STATUS_CALLBACK_RETURNED_PRI_BACK",
+  "defineUrl": "/win32/ntstatus-h/status_callback_returned_pri_back/",
+  "message": "A threadpool worker thread enter a callback, which left with background priorities set.\r\nThis is unexpected, indicating that the callback missed restoring the original priorities.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000720",
+  "originalCodeUrl": "/win32/ntstatus-h/status_callback_returned_pri_back/0xc0000720/"
+}

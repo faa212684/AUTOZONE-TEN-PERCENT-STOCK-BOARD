@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_current_domain_not_allowed\0xc00002e9\index.html.json
+
+title: 0xC00002E9 STATUS_CURRENT_DOMAIN_NOT_ALLOWED in ntstatus.h
+description: This operation cannot be performed on the current domain.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC00002E9",
+  "codeUrl": "/win32/ntstatus-h/status_current_domain_not_allowed/0xc00002e9/",
+  "numericCode": -1073741079,
+  "define": "STATUS_CURRENT_DOMAIN_NOT_ALLOWED",
+  "defineUrl": "/win32/ntstatus-h/status_current_domain_not_allowed/",
+  "message": "This operation cannot be performed on the current domain.",
+  "remarks": null,
+  "aka": [
+    "-1073741079"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_current_domain_not_allowed/-1073741079/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

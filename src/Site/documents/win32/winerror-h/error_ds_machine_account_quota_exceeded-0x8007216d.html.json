@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_ds_machine_account_quota_exceeded\0x8007216d\index.html.json
+canonical: /win32/winerror-h/error_ds_machine_account_quota_exceeded/8557/
+title: 0x8007216d ERROR_DS_MACHINE_ACCOUNT_QUOTA_EXCEEDED in winerror.h
+description: Your computer could not be joined to the domain. You have exceeded the maximum number of computer accounts you are allowed to create in this domain. Contact your system administrator to have this limit reset or increased.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007216d",
+  "codeUrl": "/win32/winerror-h/error_ds_machine_account_quota_exceeded/0x8007216d/",
+  "numericCode": 0,
+  "define": "ERROR_DS_MACHINE_ACCOUNT_QUOTA_EXCEEDED",
+  "defineUrl": "/win32/winerror-h/error_ds_machine_account_quota_exceeded/",
+  "message": "Your computer could not be joined to the domain. You have exceeded the maximum number of computer accounts you are allowed to create in this domain. Contact your system administrator to have this limit reset or increased.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "8557",
+  "originalCodeUrl": "/win32/winerror-h/error_ds_machine_account_quota_exceeded/8557/"
+}

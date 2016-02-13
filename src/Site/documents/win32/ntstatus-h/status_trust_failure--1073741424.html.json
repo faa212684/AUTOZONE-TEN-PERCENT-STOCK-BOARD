@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_trust_failure\-1073741424\index.html.json
+canonical: /win32/ntstatus-h/status_trust_failure/0xc0000190/
+title: -1073741424 STATUS_TRUST_FAILURE in ntstatus.h
+description: The network logon failed. This may be because the validation authority can't be reached.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741424",
+  "codeUrl": "/win32/ntstatus-h/status_trust_failure/-1073741424/",
+  "numericCode": 0,
+  "define": "STATUS_TRUST_FAILURE",
+  "defineUrl": "/win32/ntstatus-h/status_trust_failure/",
+  "message": "The network logon failed. This may be because the validation authority can't be reached.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000190",
+  "originalCodeUrl": "/win32/ntstatus-h/status_trust_failure/0xc0000190/"
+}

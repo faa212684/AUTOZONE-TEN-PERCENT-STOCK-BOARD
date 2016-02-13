@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\d3d11_error_deferred_context_map_without_initial_discard\-2005139452\index.html.json
+canonical: /win32/winerror-h/d3d11_error_deferred_context_map_without_initial_discard/0x887c0004/
+title: -2005139452 D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD in winerror.h
+description: The application's first call per command list to Map on a deferred context did not use D3D11_MAP_WRITE_DISCARD.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2005139452",
+  "codeUrl": "/win32/winerror-h/d3d11_error_deferred_context_map_without_initial_discard/-2005139452/",
+  "numericCode": 0,
+  "define": "D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD",
+  "defineUrl": "/win32/winerror-h/d3d11_error_deferred_context_map_without_initial_discard/",
+  "message": "The application's first call per command list to Map on a deferred context did not use D3D11_MAP_WRITE_DISCARD.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x887C0004",
+  "originalCodeUrl": "/win32/winerror-h/d3d11_error_deferred_context_map_without_initial_discard/0x887c0004/"
+}

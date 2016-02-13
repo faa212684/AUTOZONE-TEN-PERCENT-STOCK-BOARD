@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\e_bluetooth_att_insufficient_encryption\0x8065000f\index.html.json
+
+title: 0x8065000F E_BLUETOOTH_ATT_INSUFFICIENT_ENCRYPTION in winerror.h
+description: The attribute requires encryption before it can be read or written.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8065000F",
+  "codeUrl": "/win32/winerror-h/e_bluetooth_att_insufficient_encryption/0x8065000f/",
+  "numericCode": -2140864497,
+  "define": "E_BLUETOOTH_ATT_INSUFFICIENT_ENCRYPTION",
+  "defineUrl": "/win32/winerror-h/e_bluetooth_att_insufficient_encryption/",
+  "message": "The attribute requires encryption before it can be read or written.",
+  "remarks": null,
+  "aka": [
+    "-2140864497"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/e_bluetooth_att_insufficient_encryption/-2140864497/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

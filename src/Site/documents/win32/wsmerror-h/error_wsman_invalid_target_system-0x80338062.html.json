@@ -1,0 +1,28 @@
+---
+output: win32\wsmerror-h\error_wsman_invalid_target_system\0x80338062\index.html.json
+
+title: 0x80338062 ERROR_WSMAN_INVALID_TARGET_SYSTEM in wsmerror.h
+description: The WS-Management service cannot process the request because the request contains an invalid target system.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x80338062",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_invalid_target_system/0x80338062/",
+  "numericCode": -2144108446,
+  "define": "ERROR_WSMAN_INVALID_TARGET_SYSTEM",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_invalid_target_system/",
+  "message": "The WS-Management service cannot process the request because the request contains an invalid target system.",
+  "remarks": null,
+  "aka": [
+    "-2144108446"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_invalid_target_system/-2144108446/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

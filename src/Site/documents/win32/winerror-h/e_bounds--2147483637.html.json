@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\e_bounds\-2147483637\index.html.json
+canonical: /win32/winerror-h/e_bounds/0x8000000b/
+title: -2147483637 E_BOUNDS in winerror.h
+description: The operation attempted to access data outside the valid range
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147483637",
+  "codeUrl": "/win32/winerror-h/e_bounds/-2147483637/",
+  "numericCode": 0,
+  "define": "E_BOUNDS",
+  "defineUrl": "/win32/winerror-h/e_bounds/",
+  "message": "The operation attempted to access data outside the valid range",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x8000000B",
+  "originalCodeUrl": "/win32/winerror-h/e_bounds/0x8000000b/"
+}

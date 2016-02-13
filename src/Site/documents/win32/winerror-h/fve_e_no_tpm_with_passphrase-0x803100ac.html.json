@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\fve_e_no_tpm_with_passphrase\0x803100ac\index.html.json
+
+title: 0x803100AC FVE_E_NO_TPM_WITH_PASSPHRASE in winerror.h
+description: A TPM key protector cannot be added because a password protector exists on the drive.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x803100AC",
+  "codeUrl": "/win32/winerror-h/fve_e_no_tpm_with_passphrase/0x803100ac/",
+  "numericCode": -2144272212,
+  "define": "FVE_E_NO_TPM_WITH_PASSPHRASE",
+  "defineUrl": "/win32/winerror-h/fve_e_no_tpm_with_passphrase/",
+  "message": "A TPM key protector cannot be added because a password protector exists on the drive.",
+  "remarks": null,
+  "aka": [
+    "-2144272212"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/fve_e_no_tpm_with_passphrase/-2144272212/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

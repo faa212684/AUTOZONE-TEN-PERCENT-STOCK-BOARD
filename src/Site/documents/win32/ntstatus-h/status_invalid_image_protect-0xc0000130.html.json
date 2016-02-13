@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_invalid_image_protect\0xc0000130\index.html.json
+
+title: 0xC0000130 STATUS_INVALID_IMAGE_PROTECT in ntstatus.h
+description: The specified image file did not have the correct format, it did not have a proper e_lfarlc in the MZ header.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000130",
+  "codeUrl": "/win32/ntstatus-h/status_invalid_image_protect/0xc0000130/",
+  "numericCode": -1073741520,
+  "define": "STATUS_INVALID_IMAGE_PROTECT",
+  "defineUrl": "/win32/ntstatus-h/status_invalid_image_protect/",
+  "message": "The specified image file did not have the correct format, it did not have a proper e_lfarlc in the MZ header.",
+  "remarks": null,
+  "aka": [
+    "-1073741520"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_invalid_image_protect/-1073741520/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

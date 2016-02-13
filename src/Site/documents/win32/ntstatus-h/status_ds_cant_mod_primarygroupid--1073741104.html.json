@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_ds_cant_mod_primarygroupid\-1073741104\index.html.json
+canonical: /win32/ntstatus-h/status_ds_cant_mod_primarygroupid/0xc00002d0/
+title: -1073741104 STATUS_DS_CANT_MOD_PRIMARYGROUPID in ntstatus.h
+description: Cannot change the primary group ID of a domain controller account.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741104",
+  "codeUrl": "/win32/ntstatus-h/status_ds_cant_mod_primarygroupid/-1073741104/",
+  "numericCode": 0,
+  "define": "STATUS_DS_CANT_MOD_PRIMARYGROUPID",
+  "defineUrl": "/win32/ntstatus-h/status_ds_cant_mod_primarygroupid/",
+  "message": "Cannot change the primary group ID of a domain controller account.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC00002D0",
+  "originalCodeUrl": "/win32/ntstatus-h/status_ds_cant_mod_primarygroupid/0xc00002d0/"
+}

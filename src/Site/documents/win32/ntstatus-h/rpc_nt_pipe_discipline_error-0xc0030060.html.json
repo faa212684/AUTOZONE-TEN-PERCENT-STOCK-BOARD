@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\rpc_nt_pipe_discipline_error\0xc0030060\index.html.json
+
+title: 0xC0030060 RPC_NT_PIPE_DISCIPLINE_ERROR in ntstatus.h
+description: The RPC call completed before all pipes were processed.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0030060",
+  "codeUrl": "/win32/ntstatus-h/rpc_nt_pipe_discipline_error/0xc0030060/",
+  "numericCode": -1073545120,
+  "define": "RPC_NT_PIPE_DISCIPLINE_ERROR",
+  "defineUrl": "/win32/ntstatus-h/rpc_nt_pipe_discipline_error/",
+  "message": "The RPC call completed before all pipes were processed.",
+  "remarks": null,
+  "aka": [
+    "-1073545120"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/rpc_nt_pipe_discipline_error/-1073545120/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

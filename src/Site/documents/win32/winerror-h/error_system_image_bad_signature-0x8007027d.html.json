@@ -1,0 +1,27 @@
+---
+output: win32\winerror-h\error_system_image_bad_signature\0x8007027d\index.html.json
+canonical: /win32/winerror-h/error_system_image_bad_signature/637/
+title: 0x8007027d ERROR_SYSTEM_IMAGE_BAD_SIGNATURE in winerror.h
+description: "{Fatal System Error}
+The system image %s is not properly signed.
+The file has been replaced with the signed file.
+The system has been shut down."
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007027d",
+  "codeUrl": "/win32/winerror-h/error_system_image_bad_signature/0x8007027d/",
+  "numericCode": 0,
+  "define": "ERROR_SYSTEM_IMAGE_BAD_SIGNATURE",
+  "defineUrl": "/win32/winerror-h/error_system_image_bad_signature/",
+  "message": "{Fatal System Error}\r\nThe system image %s is not properly signed.\r\nThe file has been replaced with the signed file.\r\nThe system has been shut down.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "637",
+  "originalCodeUrl": "/win32/winerror-h/error_system_image_bad_signature/637/"
+}

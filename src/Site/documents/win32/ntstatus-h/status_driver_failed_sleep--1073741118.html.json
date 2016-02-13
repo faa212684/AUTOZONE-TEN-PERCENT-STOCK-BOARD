@@ -1,0 +1,25 @@
+---
+output: win32\ntstatus-h\status_driver_failed_sleep\-1073741118\index.html.json
+canonical: /win32/ntstatus-h/status_driver_failed_sleep/0xc00002c2/
+title: -1073741118 STATUS_DRIVER_FAILED_SLEEP in ntstatus.h
+description: "{System Standby Failed}
+The driver %hs does not support standby mode. Updating this driver may allow the system to go to standby mode."
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741118",
+  "codeUrl": "/win32/ntstatus-h/status_driver_failed_sleep/-1073741118/",
+  "numericCode": 0,
+  "define": "STATUS_DRIVER_FAILED_SLEEP",
+  "defineUrl": "/win32/ntstatus-h/status_driver_failed_sleep/",
+  "message": "{System Standby Failed}\r\nThe driver %hs does not support standby mode. Updating this driver may allow the system to go to standby mode.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC00002C2",
+  "originalCodeUrl": "/win32/ntstatus-h/status_driver_failed_sleep/0xc00002c2/"
+}

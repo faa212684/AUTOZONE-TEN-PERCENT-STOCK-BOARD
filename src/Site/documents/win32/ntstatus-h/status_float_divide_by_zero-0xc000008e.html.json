@@ -1,0 +1,29 @@
+---
+output: win32\ntstatus-h\status_float_divide_by_zero\0xc000008e\index.html.json
+
+title: 0xC000008E STATUS_FLOAT_DIVIDE_BY_ZERO in ntstatus.h
+description: "{EXCEPTION}
+Floating-point division by zero."
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000008E",
+  "codeUrl": "/win32/ntstatus-h/status_float_divide_by_zero/0xc000008e/",
+  "numericCode": -1073741682,
+  "define": "STATUS_FLOAT_DIVIDE_BY_ZERO",
+  "defineUrl": "/win32/ntstatus-h/status_float_divide_by_zero/",
+  "message": "{EXCEPTION}\r\nFloating-point division by zero.",
+  "remarks": null,
+  "aka": [
+    "-1073741682"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_float_divide_by_zero/-1073741682/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

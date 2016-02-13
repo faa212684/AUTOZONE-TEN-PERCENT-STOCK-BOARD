@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_patch_removal_unsupported\1646\index.html.json
+
+title: 1646 ERROR_PATCH_REMOVAL_UNSUPPORTED in winerror.h
+description: Uninstallation of the update package is not supported.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1646",
+  "codeUrl": "/win32/winerror-h/error_patch_removal_unsupported/1646/",
+  "numericCode": 1646,
+  "define": "ERROR_PATCH_REMOVAL_UNSUPPORTED",
+  "defineUrl": "/win32/winerror-h/error_patch_removal_unsupported/",
+  "message": "Uninstallation of the update package is not supported.",
+  "remarks": null,
+  "aka": [
+    "0x8007066e",
+    "-2147023250"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_patch_removal_unsupported/0x8007066e/",
+    "/win32/winerror-h/error_patch_removal_unsupported/-2147023250/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

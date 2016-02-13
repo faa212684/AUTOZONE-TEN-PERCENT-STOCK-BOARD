@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_domain_controller_not_found\0xc0000233\index.html.json
+
+title: 0xC0000233 STATUS_DOMAIN_CONTROLLER_NOT_FOUND in ntstatus.h
+description: Could not find a domain controller for this domain.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000233",
+  "codeUrl": "/win32/ntstatus-h/status_domain_controller_not_found/0xc0000233/",
+  "numericCode": -1073741261,
+  "define": "STATUS_DOMAIN_CONTROLLER_NOT_FOUND",
+  "defineUrl": "/win32/ntstatus-h/status_domain_controller_not_found/",
+  "message": "Could not find a domain controller for this domain.",
+  "remarks": null,
+  "aka": [
+    "-1073741261"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_domain_controller_not_found/-1073741261/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_pku2u_cert_failure\0xc000042f\index.html.json
+
+title: 0xC000042F STATUS_PKU2U_CERT_FAILURE in ntstatus.h
+description: The PKU2U protocol encountered an error while attempting to utilize the associated certificates.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000042F",
+  "codeUrl": "/win32/ntstatus-h/status_pku2u_cert_failure/0xc000042f/",
+  "numericCode": -1073740753,
+  "define": "STATUS_PKU2U_CERT_FAILURE",
+  "defineUrl": "/win32/ntstatus-h/status_pku2u_cert_failure/",
+  "message": "The PKU2U protocol encountered an error while attempting to utilize the associated certificates.",
+  "remarks": null,
+  "aka": [
+    "-1073740753"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_pku2u_cert_failure/-1073740753/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

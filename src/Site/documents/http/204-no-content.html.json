@@ -1,0 +1,24 @@
+---
+output: http\204-no-content\index.html.json
+
+title: http 204 No Content
+description: The server has fulfilled the request but does not need to return an entity-body, and might want to return updated metainformation.
+disqus: true
+---
+{
+  "area": "http",
+  "areaUrl": "/http/",
+  "source": null,
+  "sourceUrl": "/http/",
+  "code": "204 No Content",
+  "codeUrl": "/http/204-no-content/",
+  "numericCode": 204,
+  "define": null,
+  "defineUrl": "/http/",
+  "message": "The server has fulfilled the request but does not need to return an entity-body, and might want to return updated metainformation.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_fullscreen_mode\0xc0000159\index.html.json
+
+title: 0xC0000159 STATUS_FULLSCREEN_MODE in ntstatus.h
+description: The requested operation cannot be performed in fullscreen mode.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000159",
+  "codeUrl": "/win32/ntstatus-h/status_fullscreen_mode/0xc0000159/",
+  "numericCode": -1073741479,
+  "define": "STATUS_FULLSCREEN_MODE",
+  "defineUrl": "/win32/ntstatus-h/status_fullscreen_mode/",
+  "message": "The requested operation cannot be performed in fullscreen mode.",
+  "remarks": null,
+  "aka": [
+    "-1073741479"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_fullscreen_mode/-1073741479/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

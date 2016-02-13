@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_bridge_packet_pool_creation_failed\0xc0003911\index.html.json
+
+title: 0xC0003911 EVENT_BRIDGE_PACKET_POOL_CREATION_FAILED in netevent.h
+description: Bridge: The bridge could not initialize because it failed to create a packet pool.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC0003911",
+  "codeUrl": "/win32/netevent-h/event_bridge_packet_pool_creation_failed/0xc0003911/",
+  "numericCode": -1073727215,
+  "define": "EVENT_BRIDGE_PACKET_POOL_CREATION_FAILED",
+  "defineUrl": "/win32/netevent-h/event_bridge_packet_pool_creation_failed/",
+  "message": "Bridge: The bridge could not initialize because it failed to create a packet pool.",
+  "remarks": null,
+  "aka": [
+    "-1073727215"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_bridge_packet_pool_creation_failed/-1073727215/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

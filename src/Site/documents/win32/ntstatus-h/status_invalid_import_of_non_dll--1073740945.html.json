@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_invalid_import_of_non_dll\-1073740945\index.html.json
+canonical: /win32/ntstatus-h/status_invalid_import_of_non_dll/0xc000036f/
+title: -1073740945 STATUS_INVALID_IMPORT_OF_NON_DLL in ntstatus.h
+description: A dynamic link library (DLL) referenced a module that was neither a DLL nor the process's executable image.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073740945",
+  "codeUrl": "/win32/ntstatus-h/status_invalid_import_of_non_dll/-1073740945/",
+  "numericCode": 0,
+  "define": "STATUS_INVALID_IMPORT_OF_NON_DLL",
+  "defineUrl": "/win32/ntstatus-h/status_invalid_import_of_non_dll/",
+  "message": "A dynamic link library (DLL) referenced a module that was neither a DLL nor the process's executable image.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC000036F",
+  "originalCodeUrl": "/win32/ntstatus-h/status_invalid_import_of_non_dll/0xc000036f/"
+}

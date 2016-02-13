@@ -1,0 +1,28 @@
+---
+output: win32\windowssearcherrors-h\mss_e_unicodefileheadermissing\0x80042105\index.html.json
+
+title: 0x80042105 MSS_E_UNICODEFILEHEADERMISSING in WindowsSearchErrors.h
+description: This file is shorter than 2 bytes. Unicode text file must begin with a wide character that indicates byte order.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "0x80042105",
+  "codeUrl": "/win32/windowssearcherrors-h/mss_e_unicodefileheadermissing/0x80042105/",
+  "numericCode": -2147213051,
+  "define": "MSS_E_UNICODEFILEHEADERMISSING",
+  "defineUrl": "/win32/windowssearcherrors-h/mss_e_unicodefileheadermissing/",
+  "message": "This file is shorter than 2 bytes. Unicode text file must begin with a wide character that indicates byte order.",
+  "remarks": null,
+  "aka": [
+    "-2147213051"
+  ],
+  "akaUrl": [
+    "/win32/windowssearcherrors-h/mss_e_unicodefileheadermissing/-2147213051/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

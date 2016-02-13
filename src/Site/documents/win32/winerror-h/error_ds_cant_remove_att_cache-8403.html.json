@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ds_cant_remove_att_cache\8403\index.html.json
+
+title: 8403 ERROR_DS_CANT_REMOVE_ATT_CACHE in winerror.h
+description: The attribute could not be removed from the cache.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "8403",
+  "codeUrl": "/win32/winerror-h/error_ds_cant_remove_att_cache/8403/",
+  "numericCode": 8403,
+  "define": "ERROR_DS_CANT_REMOVE_ATT_CACHE",
+  "defineUrl": "/win32/winerror-h/error_ds_cant_remove_att_cache/",
+  "message": "The attribute could not be removed from the cache.",
+  "remarks": null,
+  "aka": [
+    "0x800720d3",
+    "-2147016493"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ds_cant_remove_att_cache/0x800720d3/",
+    "/win32/winerror-h/error_ds_cant_remove_att_cache/-2147016493/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

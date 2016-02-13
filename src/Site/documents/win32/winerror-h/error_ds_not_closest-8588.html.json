@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ds_not_closest\8588\index.html.json
+
+title: 8588 ERROR_DS_NOT_CLOSEST in winerror.h
+description: The Global catalog server is not in the closest site.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "8588",
+  "codeUrl": "/win32/winerror-h/error_ds_not_closest/8588/",
+  "numericCode": 8588,
+  "define": "ERROR_DS_NOT_CLOSEST",
+  "defineUrl": "/win32/winerror-h/error_ds_not_closest/",
+  "message": "The Global catalog server is not in the closest site.",
+  "remarks": null,
+  "aka": [
+    "0x8007218c",
+    "-2147016308"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ds_not_closest/0x8007218c/",
+    "/win32/winerror-h/error_ds_not_closest/-2147016308/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

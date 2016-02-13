@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_invalid_parameter_1\-1073741585\index.html.json
+canonical: /win32/ntstatus-h/status_invalid_parameter_1/0xc00000ef/
+title: -1073741585 STATUS_INVALID_PARAMETER_1 in ntstatus.h
+description: An invalid parameter was passed to a service or function as the first argument.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741585",
+  "codeUrl": "/win32/ntstatus-h/status_invalid_parameter_1/-1073741585/",
+  "numericCode": 0,
+  "define": "STATUS_INVALID_PARAMETER_1",
+  "defineUrl": "/win32/ntstatus-h/status_invalid_parameter_1/",
+  "message": "An invalid parameter was passed to a service or function as the first argument.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC00000EF",
+  "originalCodeUrl": "/win32/ntstatus-h/status_invalid_parameter_1/0xc00000ef/"
+}

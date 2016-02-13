@@ -1,0 +1,28 @@
+---
+output: win32\wsmerror-h\error_wsman_ambiguous_selectors\0x8033805e\index.html.json
+
+title: 0x8033805E ERROR_WSMAN_AMBIGUOUS_SELECTORS in wsmerror.h
+description: The WS-Management service cannot process the request because the selectors for the resource are ambiguous.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x8033805E",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_ambiguous_selectors/0x8033805e/",
+  "numericCode": -2144108450,
+  "define": "ERROR_WSMAN_AMBIGUOUS_SELECTORS",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_ambiguous_selectors/",
+  "message": "The WS-Management service cannot process the request because the selectors for the resource are ambiguous.",
+  "remarks": null,
+  "aka": [
+    "-2144108450"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_ambiguous_selectors/-2144108450/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\winbio_err-h\winbio_e_duplicate_enrollment\0x8009801c\index.html.json
+
+title: 0x8009801C WINBIO_E_DUPLICATE_ENROLLMENT in winbio_err.h
+description: The specified identity and sub-factor are already enrolled in the database.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winbio_err.h",
+  "sourceUrl": "/win32/winbio_err-h/",
+  "code": "0x8009801C",
+  "codeUrl": "/win32/winbio_err-h/winbio_e_duplicate_enrollment/0x8009801c/",
+  "numericCode": -2146861028,
+  "define": "WINBIO_E_DUPLICATE_ENROLLMENT",
+  "defineUrl": "/win32/winbio_err-h/winbio_e_duplicate_enrollment/",
+  "message": "The specified identity and sub-factor are already enrolled in the database.",
+  "remarks": null,
+  "aka": [
+    "-2146861028"
+  ],
+  "akaUrl": [
+    "/win32/winbio_err-h/winbio_e_duplicate_enrollment/-2146861028/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

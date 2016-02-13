@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\onl_e_user_authentication_required\0x8086000f\index.html.json
+
+title: 0x8086000F ONL_E_USER_AUTHENTICATION_REQUIRED in winerror.h
+description: User authentication is required for this operation.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8086000F",
+  "codeUrl": "/win32/winerror-h/onl_e_user_authentication_required/0x8086000f/",
+  "numericCode": -2138701809,
+  "define": "ONL_E_USER_AUTHENTICATION_REQUIRED",
+  "defineUrl": "/win32/winerror-h/onl_e_user_authentication_required/",
+  "message": "User authentication is required for this operation.",
+  "remarks": null,
+  "aka": [
+    "-2138701809"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/onl_e_user_authentication_required/-2138701809/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

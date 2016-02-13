@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_e_cluster_count_beyond_32bits\0x80042430\index.html.json
+
+title: 0x80042430 VDS_E_CLUSTER_COUNT_BEYOND_32BITS in vdserr.h
+description: The number of clusters is too big for 32 bit integer.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x80042430",
+  "codeUrl": "/win32/vdserr-h/vds_e_cluster_count_beyond_32bits/0x80042430/",
+  "numericCode": -2147212240,
+  "define": "VDS_E_CLUSTER_COUNT_BEYOND_32BITS",
+  "defineUrl": "/win32/vdserr-h/vds_e_cluster_count_beyond_32bits/",
+  "message": "The number of clusters is too big for 32 bit integer.",
+  "remarks": null,
+  "aka": [
+    "-2147212240"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_cluster_count_beyond_32bits/-2147212240/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

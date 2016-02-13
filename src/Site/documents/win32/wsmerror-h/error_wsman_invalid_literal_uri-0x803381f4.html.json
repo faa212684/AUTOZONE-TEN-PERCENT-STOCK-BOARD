@@ -1,0 +1,28 @@
+---
+output: win32\wsmerror-h\error_wsman_invalid_literal_uri\0x803381f4\index.html.json
+
+title: 0x803381F4 ERROR_WSMAN_INVALID_LITERAL_URI in wsmerror.h
+description: The WinRM client cannot process the request because the MI_OperationOptions contained both a Resource URI and a Resource URI Prefix. Specify only one of these two options and try again.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x803381F4",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_invalid_literal_uri/0x803381f4/",
+  "numericCode": -2144108044,
+  "define": "ERROR_WSMAN_INVALID_LITERAL_URI",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_invalid_literal_uri/",
+  "message": "The WinRM client cannot process the request because the MI_OperationOptions contained both a Resource URI and a Resource URI Prefix. Specify only one of these two options and try again.",
+  "remarks": null,
+  "aka": [
+    "-2144108044"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_invalid_literal_uri/-2144108044/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\fve_e_no_feature_license\-2144272294\index.html.json
+canonical: /win32/winerror-h/fve_e_no_feature_license/0x8031005a/
+title: -2144272294 FVE_E_NO_FEATURE_LICENSE in winerror.h
+description: This version of Windows does not support this feature of BitLocker Drive Encryption. To use this feature, upgrade the operating system.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2144272294",
+  "codeUrl": "/win32/winerror-h/fve_e_no_feature_license/-2144272294/",
+  "numericCode": 0,
+  "define": "FVE_E_NO_FEATURE_LICENSE",
+  "defineUrl": "/win32/winerror-h/fve_e_no_feature_license/",
+  "message": "This version of Windows does not support this feature of BitLocker Drive Encryption. To use this feature, upgrade the operating system.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x8031005A",
+  "originalCodeUrl": "/win32/winerror-h/fve_e_no_feature_license/0x8031005a/"
+}

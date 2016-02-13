@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\e_bluetooth_att_attribute_not_long\0x8065000b\index.html.json
+
+title: 0x8065000B E_BLUETOOTH_ATT_ATTRIBUTE_NOT_LONG in winerror.h
+description: The attribute cannot be read or written using the Read Blob Request.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8065000B",
+  "codeUrl": "/win32/winerror-h/e_bluetooth_att_attribute_not_long/0x8065000b/",
+  "numericCode": -2140864501,
+  "define": "E_BLUETOOTH_ATT_ATTRIBUTE_NOT_LONG",
+  "defineUrl": "/win32/winerror-h/e_bluetooth_att_attribute_not_long/",
+  "message": "The attribute cannot be read or written using the Read Blob Request.",
+  "remarks": null,
+  "aka": [
+    "-2140864501"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/e_bluetooth_att_attribute_not_long/-2140864501/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\appx_e_invalid_manifest\0x80080204\index.html.json
+
+title: 0x80080204 APPX_E_INVALID_MANIFEST in winerror.h
+description: The Appx package's manifest is invalid.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80080204",
+  "codeUrl": "/win32/winerror-h/appx_e_invalid_manifest/0x80080204/",
+  "numericCode": -2146958844,
+  "define": "APPX_E_INVALID_MANIFEST",
+  "defineUrl": "/win32/winerror-h/appx_e_invalid_manifest/",
+  "message": "The Appx package's manifest is invalid.",
+  "remarks": null,
+  "aka": [
+    "-2146958844"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/appx_e_invalid_manifest/-2146958844/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

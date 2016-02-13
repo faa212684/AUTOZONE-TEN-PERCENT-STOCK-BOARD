@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_no_more_devices\1248\index.html.json
+
+title: 1248 ERROR_NO_MORE_DEVICES in winerror.h
+description: No more local devices.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1248",
+  "codeUrl": "/win32/winerror-h/error_no_more_devices/1248/",
+  "numericCode": 1248,
+  "define": "ERROR_NO_MORE_DEVICES",
+  "defineUrl": "/win32/winerror-h/error_no_more_devices/",
+  "message": "No more local devices.",
+  "remarks": null,
+  "aka": [
+    "0x800704e0",
+    "-2147023648"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_no_more_devices/0x800704e0/",
+    "/win32/winerror-h/error_no_more_devices/-2147023648/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

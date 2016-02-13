@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_not_supported\0xc00000bb\index.html.json
+
+title: 0xC00000BB STATUS_NOT_SUPPORTED in ntstatus.h
+description: The request is not supported.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC00000BB",
+  "codeUrl": "/win32/ntstatus-h/status_not_supported/0xc00000bb/",
+  "numericCode": -1073741637,
+  "define": "STATUS_NOT_SUPPORTED",
+  "defineUrl": "/win32/ntstatus-h/status_not_supported/",
+  "message": "The request is not supported.",
+  "remarks": null,
+  "aka": [
+    "-1073741637"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_not_supported/-1073741637/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

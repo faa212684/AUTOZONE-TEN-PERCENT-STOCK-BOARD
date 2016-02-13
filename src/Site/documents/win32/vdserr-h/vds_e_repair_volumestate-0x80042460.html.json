@@ -1,0 +1,29 @@
+---
+output: win32\vdserr-h\vds_e_repair_volumestate\0x80042460\index.html.json
+
+title: 0x80042460 VDS_E_REPAIR_VOLUMESTATE in vdserr.h
+description: To repair a volume, both the volume and plex must be online, and must not be 
+healthy or rebuilding.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x80042460",
+  "codeUrl": "/win32/vdserr-h/vds_e_repair_volumestate/0x80042460/",
+  "numericCode": -2147212192,
+  "define": "VDS_E_REPAIR_VOLUMESTATE",
+  "defineUrl": "/win32/vdserr-h/vds_e_repair_volumestate/",
+  "message": "To repair a volume, both the volume and plex must be online, and must not be \r\nhealthy or rebuilding.",
+  "remarks": null,
+  "aka": [
+    "-2147212192"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_repair_volumestate/-2147212192/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

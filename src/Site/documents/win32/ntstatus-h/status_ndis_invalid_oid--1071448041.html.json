@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_ndis_invalid_oid\-1071448041\index.html.json
+canonical: /win32/ntstatus-h/status_ndis_invalid_oid/0xc0230017/
+title: -1071448041 STATUS_NDIS_INVALID_OID in ntstatus.h
+description: Network interface does not support this OID (Object Identifier)
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071448041",
+  "codeUrl": "/win32/ntstatus-h/status_ndis_invalid_oid/-1071448041/",
+  "numericCode": 0,
+  "define": "STATUS_NDIS_INVALID_OID",
+  "defineUrl": "/win32/ntstatus-h/status_ndis_invalid_oid/",
+  "message": "Network interface does not support this OID (Object Identifier)",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0230017",
+  "originalCodeUrl": "/win32/ntstatus-h/status_ndis_invalid_oid/0xc0230017/"
+}

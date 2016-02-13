@@ -1,0 +1,28 @@
+---
+output: win32\imapi2fserror-h\imapi_e_udf_not_write_compatible\0xc0aab15a\index.html.json
+
+title: 0xC0AAB15A IMAPI_E_UDF_NOT_WRITE_COMPATIBLE in imapi2fserror.h
+description: IMAPI can not do multi-session with the current media because it does not support a compatible UDF revision for write.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "imapi2fserror.h",
+  "sourceUrl": "/win32/imapi2fserror-h/",
+  "code": "0xC0AAB15A",
+  "codeUrl": "/win32/imapi2fserror-h/imapi_e_udf_not_write_compatible/0xc0aab15a/",
+  "numericCode": -1062555302,
+  "define": "IMAPI_E_UDF_NOT_WRITE_COMPATIBLE",
+  "defineUrl": "/win32/imapi2fserror-h/imapi_e_udf_not_write_compatible/",
+  "message": "IMAPI can not do multi-session with the current media because it does not support a compatible UDF revision for write.",
+  "remarks": null,
+  "aka": [
+    "-1062555302"
+  ],
+  "akaUrl": [
+    "/win32/imapi2fserror-h/imapi_e_udf_not_write_compatible/-1062555302/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

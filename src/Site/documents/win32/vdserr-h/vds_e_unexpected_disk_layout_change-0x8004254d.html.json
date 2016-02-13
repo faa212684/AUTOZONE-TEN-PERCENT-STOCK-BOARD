@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_e_unexpected_disk_layout_change\0x8004254d\index.html.json
+
+title: 0x8004254D VDS_E_UNEXPECTED_DISK_LAYOUT_CHANGE in vdserr.h
+description: An unexpected layout change occurred external to the volume manager.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x8004254D",
+  "codeUrl": "/win32/vdserr-h/vds_e_unexpected_disk_layout_change/0x8004254d/",
+  "numericCode": -2147211955,
+  "define": "VDS_E_UNEXPECTED_DISK_LAYOUT_CHANGE",
+  "defineUrl": "/win32/vdserr-h/vds_e_unexpected_disk_layout_change/",
+  "message": "An unexpected layout change occurred external to the volume manager.",
+  "remarks": null,
+  "aka": [
+    "-2147211955"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_unexpected_disk_layout_change/-2147211955/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\error_graphics_opm_hdcp_srm_never_set\0xc0262516\index.html.json
+
+title: 0xC0262516 ERROR_GRAPHICS_OPM_HDCP_SRM_NEVER_SET in winerror.h
+description: The IOPMVideoOutput::GetInformation method cannot return the version of the SRM being used because the application never successfully passed an SRM to the video output.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0xC0262516",
+  "codeUrl": "/win32/winerror-h/error_graphics_opm_hdcp_srm_never_set/0xc0262516/",
+  "numericCode": -1071241962,
+  "define": "ERROR_GRAPHICS_OPM_HDCP_SRM_NEVER_SET",
+  "defineUrl": "/win32/winerror-h/error_graphics_opm_hdcp_srm_never_set/",
+  "message": "The IOPMVideoOutput::GetInformation method cannot return the version of the SRM being used because the application never successfully passed an SRM to the video output.",
+  "remarks": null,
+  "aka": [
+    "-1071241962"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_graphics_opm_hdcp_srm_never_set/-1071241962/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

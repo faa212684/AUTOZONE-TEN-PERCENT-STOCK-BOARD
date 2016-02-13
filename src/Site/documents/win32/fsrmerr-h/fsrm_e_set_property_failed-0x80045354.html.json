@@ -1,0 +1,28 @@
+---
+output: win32\fsrmerr-h\fsrm_e_set_property_failed\0x80045354\index.html.json
+
+title: 0x80045354 FSRM_E_SET_PROPERTY_FAILED in fsrmerr.h
+description: File Server Resource Manager failed to set a file property to the file because a failure occurred while saving the file properties.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "fsrmerr.h",
+  "sourceUrl": "/win32/fsrmerr-h/",
+  "code": "0x80045354",
+  "codeUrl": "/win32/fsrmerr-h/fsrm_e_set_property_failed/0x80045354/",
+  "numericCode": -2147200172,
+  "define": "FSRM_E_SET_PROPERTY_FAILED",
+  "defineUrl": "/win32/fsrmerr-h/fsrm_e_set_property_failed/",
+  "message": "File Server Resource Manager failed to set a file property to the file because a failure occurred while saving the file properties.",
+  "remarks": null,
+  "aka": [
+    "-2147200172"
+  ],
+  "akaUrl": [
+    "/win32/fsrmerr-h/fsrm_e_set_property_failed/-2147200172/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,25 @@
+---
+output: win32\ntstatus-h\status_commitment_minimum\-1073741112\index.html.json
+canonical: /win32/ntstatus-h/status_commitment_minimum/0xc00002c8/
+title: -1073741112 STATUS_COMMITMENT_MINIMUM in ntstatus.h
+description: "{Virtual Memory Minimum Too Low}
+Your system is low on virtual memory. Windows is increasing the size of your virtual memory paging file. During this process, memory requests for some applications may be denied. For more information, see Help."
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741112",
+  "codeUrl": "/win32/ntstatus-h/status_commitment_minimum/-1073741112/",
+  "numericCode": 0,
+  "define": "STATUS_COMMITMENT_MINIMUM",
+  "defineUrl": "/win32/ntstatus-h/status_commitment_minimum/",
+  "message": "{Virtual Memory Minimum Too Low}\r\nYour system is low on virtual memory. Windows is increasing the size of your virtual memory paging file. During this process, memory requests for some applications may be denied. For more information, see Help.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC00002C8",
+  "originalCodeUrl": "/win32/ntstatus-h/status_commitment_minimum/0xc00002c8/"
+}

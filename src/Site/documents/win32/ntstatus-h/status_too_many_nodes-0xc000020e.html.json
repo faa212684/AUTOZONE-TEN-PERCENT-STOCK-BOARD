@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_too_many_nodes\0xc000020e\index.html.json
+
+title: 0xC000020E STATUS_TOO_MANY_NODES in ntstatus.h
+description: The transport cannot dynamically acquire any more nodes.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000020E",
+  "codeUrl": "/win32/ntstatus-h/status_too_many_nodes/0xc000020e/",
+  "numericCode": -1073741298,
+  "define": "STATUS_TOO_MANY_NODES",
+  "defineUrl": "/win32/ntstatus-h/status_too_many_nodes/",
+  "message": "The transport cannot dynamically acquire any more nodes.",
+  "remarks": null,
+  "aka": [
+    "-1073741298"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_too_many_nodes/-1073741298/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ds_cross_nc_dn_rename\8368\index.html.json
+
+title: 8368 ERROR_DS_CROSS_NC_DN_RENAME in winerror.h
+description: Modification of a DN across a naming context is not permitted.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "8368",
+  "codeUrl": "/win32/winerror-h/error_ds_cross_nc_dn_rename/8368/",
+  "numericCode": 8368,
+  "define": "ERROR_DS_CROSS_NC_DN_RENAME",
+  "defineUrl": "/win32/winerror-h/error_ds_cross_nc_dn_rename/",
+  "message": "Modification of a DN across a naming context is not permitted.",
+  "remarks": null,
+  "aka": [
+    "0x800720b0",
+    "-2147016528"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ds_cross_nc_dn_rename/0x800720b0/",
+    "/win32/winerror-h/error_ds_cross_nc_dn_rename/-2147016528/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

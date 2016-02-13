@@ -1,0 +1,28 @@
+---
+output: win32\fsrmerr-h\fsrm_e_different_cluster_group\0x80045331\index.html.json
+
+title: 0x80045331 FSRM_E_DIFFERENT_CLUSTER_GROUP in fsrmerr.h
+description: There are at least two paths which reside on different cluster shared disks which are not in the same cluster resource group.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "fsrmerr.h",
+  "sourceUrl": "/win32/fsrmerr-h/",
+  "code": "0x80045331",
+  "codeUrl": "/win32/fsrmerr-h/fsrm_e_different_cluster_group/0x80045331/",
+  "numericCode": -2147200207,
+  "define": "FSRM_E_DIFFERENT_CLUSTER_GROUP",
+  "defineUrl": "/win32/fsrmerr-h/fsrm_e_different_cluster_group/",
+  "message": "There are at least two paths which reside on different cluster shared disks which are not in the same cluster resource group.",
+  "remarks": null,
+  "aka": [
+    "-2147200207"
+  ],
+  "akaUrl": [
+    "/win32/fsrmerr-h/fsrm_e_different_cluster_group/-2147200207/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

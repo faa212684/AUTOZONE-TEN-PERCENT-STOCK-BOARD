@@ -1,0 +1,31 @@
+---
+output: win32\wdsmcerr-h\evt_wdsmcs_e_nsreg_failure\0xc1210303\index.html.json
+
+title: 0xC1210303 EVT_WDSMCS_E_NSREG_FAILURE in wdsmcerr.h
+description: The namespace %1 using content provider %2 could not be registered due to an 
+unknown error. %n
+%n
+Error Information: %3 %n
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wdsmcerr.h",
+  "sourceUrl": "/win32/wdsmcerr-h/",
+  "code": "0xC1210303",
+  "codeUrl": "/win32/wdsmcerr-h/evt_wdsmcs_e_nsreg_failure/0xc1210303/",
+  "numericCode": -1054801149,
+  "define": "EVT_WDSMCS_E_NSREG_FAILURE",
+  "defineUrl": "/win32/wdsmcerr-h/evt_wdsmcs_e_nsreg_failure/",
+  "message": "The namespace %1 using content provider %2 could not be registered due to an \r\nunknown error. %n\r\n%n\r\nError Information: %3 %n",
+  "remarks": null,
+  "aka": [
+    "-1054801149"
+  ],
+  "akaUrl": [
+    "/win32/wdsmcerr-h/evt_wdsmcs_e_nsreg_failure/-1054801149/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

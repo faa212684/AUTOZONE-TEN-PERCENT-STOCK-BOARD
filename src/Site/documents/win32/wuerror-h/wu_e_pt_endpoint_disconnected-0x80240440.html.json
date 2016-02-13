@@ -1,0 +1,28 @@
+---
+output: win32\wuerror-h\wu_e_pt_endpoint_disconnected\0x80240440\index.html.json
+
+title: 0x80240440 WU_E_PT_ENDPOINT_DISCONNECTED in wuerror.h
+description: The connection to the service endpoint died.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wuerror.h",
+  "sourceUrl": "/win32/wuerror-h/",
+  "code": "0x80240440",
+  "codeUrl": "/win32/wuerror-h/wu_e_pt_endpoint_disconnected/0x80240440/",
+  "numericCode": -2145123264,
+  "define": "WU_E_PT_ENDPOINT_DISCONNECTED",
+  "defineUrl": "/win32/wuerror-h/wu_e_pt_endpoint_disconnected/",
+  "message": "The connection to the service endpoint died.",
+  "remarks": null,
+  "aka": [
+    "-2145123264"
+  ],
+  "akaUrl": [
+    "/win32/wuerror-h/wu_e_pt_endpoint_disconnected/-2145123264/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

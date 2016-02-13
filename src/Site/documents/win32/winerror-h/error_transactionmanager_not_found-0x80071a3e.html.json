@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_transactionmanager_not_found\0x80071a3e\index.html.json
+canonical: /win32/winerror-h/error_transactionmanager_not_found/6718/
+title: 0x80071a3e ERROR_TRANSACTIONMANAGER_NOT_FOUND in winerror.h
+description: The specified TransactionManager object could not be opened, because it was not found.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80071a3e",
+  "codeUrl": "/win32/winerror-h/error_transactionmanager_not_found/0x80071a3e/",
+  "numericCode": 0,
+  "define": "ERROR_TRANSACTIONMANAGER_NOT_FOUND",
+  "defineUrl": "/win32/winerror-h/error_transactionmanager_not_found/",
+  "message": "The specified TransactionManager object could not be opened, because it was not found.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "6718",
+  "originalCodeUrl": "/win32/winerror-h/error_transactionmanager_not_found/6718/"
+}

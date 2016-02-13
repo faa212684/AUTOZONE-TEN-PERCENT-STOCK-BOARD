@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_invalid_address_component\0xc0000207\index.html.json
+
+title: 0xC0000207 STATUS_INVALID_ADDRESS_COMPONENT in ntstatus.h
+description: The transport rejected the network address specified as invalid.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000207",
+  "codeUrl": "/win32/ntstatus-h/status_invalid_address_component/0xc0000207/",
+  "numericCode": -1073741305,
+  "define": "STATUS_INVALID_ADDRESS_COMPONENT",
+  "defineUrl": "/win32/ntstatus-h/status_invalid_address_component/",
+  "message": "The transport rejected the network address specified as invalid.",
+  "remarks": null,
+  "aka": [
+    "-1073741305"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_invalid_address_component/-1073741305/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

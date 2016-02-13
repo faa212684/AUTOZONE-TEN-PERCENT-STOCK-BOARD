@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_fwp_invalid_flags\0xc022001e\index.html.json
+
+title: 0xC022001E STATUS_FWP_INVALID_FLAGS in ntstatus.h
+description: The flags field contains an invalid value.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC022001E",
+  "codeUrl": "/win32/ntstatus-h/status_fwp_invalid_flags/0xc022001e/",
+  "numericCode": -1071513570,
+  "define": "STATUS_FWP_INVALID_FLAGS",
+  "defineUrl": "/win32/ntstatus-h/status_fwp_invalid_flags/",
+  "message": "The flags field contains an invalid value.",
+  "remarks": null,
+  "aka": [
+    "-1071513570"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_fwp_invalid_flags/-1071513570/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,30 @@
+---
+output: win32\netevent-h\event_bowser_other_master_on_net\0xc0001f43\index.html.json
+
+title: 0xC0001F43 EVENT_BOWSER_OTHER_MASTER_ON_NET in netevent.h
+description: The master browser has received a server announcement from the computer %2
+that believes that it is the master browser for the domain on transport %3.
+The master browser is stopping or an election is being forced.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC0001F43",
+  "codeUrl": "/win32/netevent-h/event_bowser_other_master_on_net/0xc0001f43/",
+  "numericCode": -1073733821,
+  "define": "EVENT_BOWSER_OTHER_MASTER_ON_NET",
+  "defineUrl": "/win32/netevent-h/event_bowser_other_master_on_net/",
+  "message": "The master browser has received a server announcement from the computer %2\r\nthat believes that it is the master browser for the domain on transport %3.\r\nThe master browser is stopping or an election is being forced.",
+  "remarks": null,
+  "aka": [
+    "-1073733821"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_bowser_other_master_on_net/-1073733821/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

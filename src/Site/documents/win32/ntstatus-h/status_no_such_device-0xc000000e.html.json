@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_no_such_device\0xc000000e\index.html.json
+
+title: 0xC000000E STATUS_NO_SUCH_DEVICE in ntstatus.h
+description: A device which does not exist was specified.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000000E",
+  "codeUrl": "/win32/ntstatus-h/status_no_such_device/0xc000000e/",
+  "numericCode": -1073741810,
+  "define": "STATUS_NO_SUCH_DEVICE",
+  "defineUrl": "/win32/ntstatus-h/status_no_such_device/",
+  "message": "A device which does not exist was specified.",
+  "remarks": null,
+  "aka": [
+    "-1073741810"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_no_such_device/-1073741810/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

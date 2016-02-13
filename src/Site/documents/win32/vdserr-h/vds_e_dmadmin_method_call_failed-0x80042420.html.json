@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_e_dmadmin_method_call_failed\0x80042420\index.html.json
+
+title: 0x80042420 VDS_E_DMADMIN_METHOD_CALL_FAILED in vdserr.h
+description: A method call to the Logical Disk Management Administrative service failed.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x80042420",
+  "codeUrl": "/win32/vdserr-h/vds_e_dmadmin_method_call_failed/0x80042420/",
+  "numericCode": -2147212256,
+  "define": "VDS_E_DMADMIN_METHOD_CALL_FAILED",
+  "defineUrl": "/win32/vdserr-h/vds_e_dmadmin_method_call_failed/",
+  "message": "A method call to the Logical Disk Management Administrative service failed.",
+  "remarks": null,
+  "aka": [
+    "-2147212256"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_dmadmin_method_call_failed/-2147212256/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

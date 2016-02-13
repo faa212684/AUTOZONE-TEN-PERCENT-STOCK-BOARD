@@ -1,0 +1,24 @@
+---
+output: win32\wsmerror-h\error_wsman_invalid_target_resourceuri\-2144108447\index.html.json
+canonical: /win32/wsmerror-h/error_wsman_invalid_target_resourceuri/0x80338061/
+title: -2144108447 ERROR_WSMAN_INVALID_TARGET_RESOURCEURI in wsmerror.h
+description: The WS-Management service cannot process the request because the request contains an invalid URI for the target resource.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "-2144108447",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_invalid_target_resourceuri/-2144108447/",
+  "numericCode": 0,
+  "define": "ERROR_WSMAN_INVALID_TARGET_RESOURCEURI",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_invalid_target_resourceuri/",
+  "message": "The WS-Management service cannot process the request because the request contains an invalid URI for the target resource.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80338061",
+  "originalCodeUrl": "/win32/wsmerror-h/error_wsman_invalid_target_resourceuri/0x80338061/"
+}

@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_cant_enable_deny_only\0xc00002b3\index.html.json
+
+title: 0xC00002B3 STATUS_CANT_ENABLE_DENY_ONLY in ntstatus.h
+description: A group marked use for deny only cannot be enabled.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC00002B3",
+  "codeUrl": "/win32/ntstatus-h/status_cant_enable_deny_only/0xc00002b3/",
+  "numericCode": -1073741133,
+  "define": "STATUS_CANT_ENABLE_DENY_ONLY",
+  "defineUrl": "/win32/ntstatus-h/status_cant_enable_deny_only/",
+  "message": "A group marked use for deny only cannot be enabled.",
+  "remarks": null,
+  "aka": [
+    "-1073741133"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_cant_enable_deny_only/-1073741133/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

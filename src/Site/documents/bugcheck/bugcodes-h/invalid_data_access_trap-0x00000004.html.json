@@ -1,0 +1,28 @@
+---
+output: bugcheck\bugcodes-h\invalid_data_access_trap\0x00000004\index.html.json
+
+title: 0x00000004 INVALID_DATA_ACCESS_TRAP in bugcodes.h
+description: INVALID_DATA_ACCESS_TRAP
+disqus: true
+---
+{
+  "area": "bugcheck",
+  "areaUrl": "/bugcheck/",
+  "source": "bugcodes.h",
+  "sourceUrl": "/bugcheck/bugcodes-h/",
+  "code": "0x00000004",
+  "codeUrl": "/bugcheck/bugcodes-h/invalid_data_access_trap/0x00000004/",
+  "numericCode": 4,
+  "define": "INVALID_DATA_ACCESS_TRAP",
+  "defineUrl": "/bugcheck/bugcodes-h/invalid_data_access_trap/",
+  "message": "INVALID_DATA_ACCESS_TRAP",
+  "remarks": null,
+  "aka": [
+    "4"
+  ],
+  "akaUrl": [
+    "/bugcheck/bugcodes-h/invalid_data_access_trap/4/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

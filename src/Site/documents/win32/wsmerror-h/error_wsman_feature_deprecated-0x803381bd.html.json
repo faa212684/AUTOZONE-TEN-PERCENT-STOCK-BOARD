@@ -1,0 +1,29 @@
+---
+output: win32\wsmerror-h\error_wsman_feature_deprecated\0x803381bd\index.html.json
+
+title: 0x803381BD ERROR_WSMAN_FEATURE_DEPRECATED in wsmerror.h
+description: The WinRM client cannot process the request.
+The feature in use has been deprecated and cannot be used.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x803381BD",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_feature_deprecated/0x803381bd/",
+  "numericCode": -2144108099,
+  "define": "ERROR_WSMAN_FEATURE_DEPRECATED",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_feature_deprecated/",
+  "message": "The WinRM client cannot process the request.\r\nThe feature in use has been deprecated and cannot be used.",
+  "remarks": null,
+  "aka": [
+    "-2144108099"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_feature_deprecated/-2144108099/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

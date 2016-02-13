@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\comqc_e_application_not_queued\0x80110600\index.html.json
+
+title: 0x80110600 COMQC_E_APPLICATION_NOT_QUEUED in winerror.h
+description: Only COM+ Applications marked "queued" can be invoked using the "queue" moniker
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80110600",
+  "codeUrl": "/win32/winerror-h/comqc_e_application_not_queued/0x80110600/",
+  "numericCode": -2146368000,
+  "define": "COMQC_E_APPLICATION_NOT_QUEUED",
+  "defineUrl": "/win32/winerror-h/comqc_e_application_not_queued/",
+  "message": "Only COM+ Applications marked \"queued\" can be invoked using the \"queue\" moniker",
+  "remarks": null,
+  "aka": [
+    "-2146368000"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/comqc_e_application_not_queued/-2146368000/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

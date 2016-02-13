@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_cant_cross_rm_boundary\-1072103368\index.html.json
+canonical: /win32/ntstatus-h/status_cant_cross_rm_boundary/0xc0190038/
+title: -1072103368 STATUS_CANT_CROSS_RM_BOUNDARY in ntstatus.h
+description: The operation would involve a single file with two transactional resource managers and is therefore not allowed.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1072103368",
+  "codeUrl": "/win32/ntstatus-h/status_cant_cross_rm_boundary/-1072103368/",
+  "numericCode": 0,
+  "define": "STATUS_CANT_CROSS_RM_BOUNDARY",
+  "defineUrl": "/win32/ntstatus-h/status_cant_cross_rm_boundary/",
+  "message": "The operation would involve a single file with two transactional resource managers and is therefore not allowed.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0190038",
+  "originalCodeUrl": "/win32/ntstatus-h/status_cant_cross_rm_boundary/0xc0190038/"
+}

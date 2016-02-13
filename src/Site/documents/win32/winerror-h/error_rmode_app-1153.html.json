@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_rmode_app\1153\index.html.json
+
+title: 1153 ERROR_RMODE_APP in winerror.h
+description: The specified program was written for an earlier version of Windows.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1153",
+  "codeUrl": "/win32/winerror-h/error_rmode_app/1153/",
+  "numericCode": 1153,
+  "define": "ERROR_RMODE_APP",
+  "defineUrl": "/win32/winerror-h/error_rmode_app/",
+  "message": "The specified program was written for an earlier version of Windows.",
+  "remarks": null,
+  "aka": [
+    "0x80070481",
+    "-2147023743"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_rmode_app/0x80070481/",
+    "/win32/winerror-h/error_rmode_app/-2147023743/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

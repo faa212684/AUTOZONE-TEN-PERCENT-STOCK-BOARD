@@ -1,0 +1,24 @@
+---
+output: win32\netevent-h\event_computernamechange\-2147477637\index.html.json
+canonical: /win32/netevent-h/event_computernamechange/0x8000177b/
+title: -2147477637 EVENT_ComputerNameChange in netevent.h
+description: The NetBIOS name and DNS host name of this machine have been changed from %1 to %2.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "-2147477637",
+  "codeUrl": "/win32/netevent-h/event_computernamechange/-2147477637/",
+  "numericCode": 0,
+  "define": "EVENT_ComputerNameChange",
+  "defineUrl": "/win32/netevent-h/event_computernamechange/",
+  "message": "The NetBIOS name and DNS host name of this machine have been changed from %1 to %2.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x8000177B",
+  "originalCodeUrl": "/win32/netevent-h/event_computernamechange/0x8000177b/"
+}

@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_is_subst_target\149\index.html.json
+
+title: 149 ERROR_IS_SUBST_TARGET in winerror.h
+description: An attempt was made to join or substitute a drive for which a directory on the drive is the target of a previous substitute.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "149",
+  "codeUrl": "/win32/winerror-h/error_is_subst_target/149/",
+  "numericCode": 149,
+  "define": "ERROR_IS_SUBST_TARGET",
+  "defineUrl": "/win32/winerror-h/error_is_subst_target/",
+  "message": "An attempt was made to join or substitute a drive for which a directory on the drive is the target of a previous substitute.",
+  "remarks": null,
+  "aka": [
+    "0x80070095",
+    "-2147024747"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_is_subst_target/0x80070095/",
+    "/win32/winerror-h/error_is_subst_target/-2147024747/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

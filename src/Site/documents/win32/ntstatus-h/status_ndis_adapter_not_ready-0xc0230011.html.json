@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_ndis_adapter_not_ready\0xc0230011\index.html.json
+
+title: 0xC0230011 STATUS_NDIS_ADAPTER_NOT_READY in ntstatus.h
+description: Network interface is not ready to complete this operation.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0230011",
+  "codeUrl": "/win32/ntstatus-h/status_ndis_adapter_not_ready/0xc0230011/",
+  "numericCode": -1071448047,
+  "define": "STATUS_NDIS_ADAPTER_NOT_READY",
+  "defineUrl": "/win32/ntstatus-h/status_ndis_adapter_not_ready/",
+  "message": "Network interface is not ready to complete this operation.",
+  "remarks": null,
+  "aka": [
+    "-1071448047"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_ndis_adapter_not_ready/-1071448047/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

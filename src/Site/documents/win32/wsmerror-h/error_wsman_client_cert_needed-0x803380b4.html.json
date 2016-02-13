@@ -1,0 +1,29 @@
+---
+output: win32\wsmerror-h\error_wsman_client_cert_needed\0x803380b4\index.html.json
+
+title: 0x803380B4 ERROR_WSMAN_CLIENT_CERT_NEEDED in wsmerror.h
+description: The WinRM client cannot process the request. Requests must include the certificate thumbprint when a certificate is used for authentication.
+Change the request to include the certificate thumbprint and try again.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x803380B4",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_client_cert_needed/0x803380b4/",
+  "numericCode": -2144108364,
+  "define": "ERROR_WSMAN_CLIENT_CERT_NEEDED",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_client_cert_needed/",
+  "message": "The WinRM client cannot process the request. Requests must include the certificate thumbprint when a certificate is used for authentication.\r\nChange the request to include the certificate thumbprint and try again.",
+  "remarks": null,
+  "aka": [
+    "-2144108364"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_client_cert_needed/-2144108364/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

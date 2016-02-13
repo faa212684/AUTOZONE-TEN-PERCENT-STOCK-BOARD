@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\stg_e_lockviolation\0x80030021\index.html.json
+
+title: 0x80030021 STG_E_LOCKVIOLATION in winerror.h
+description: A lock violation has occurred.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80030021",
+  "codeUrl": "/win32/winerror-h/stg_e_lockviolation/0x80030021/",
+  "numericCode": -2147287007,
+  "define": "STG_E_LOCKVIOLATION",
+  "defineUrl": "/win32/winerror-h/stg_e_lockviolation/",
+  "message": "A lock violation has occurred.",
+  "remarks": null,
+  "aka": [
+    "-2147287007"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/stg_e_lockviolation/-2147287007/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

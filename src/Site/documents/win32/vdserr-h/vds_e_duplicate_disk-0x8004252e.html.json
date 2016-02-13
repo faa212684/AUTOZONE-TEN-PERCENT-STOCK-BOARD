@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_e_duplicate_disk\0x8004252e\index.html.json
+
+title: 0x8004252E VDS_E_DUPLICATE_DISK in vdserr.h
+description: The same disk was specified more than once.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x8004252E",
+  "codeUrl": "/win32/vdserr-h/vds_e_duplicate_disk/0x8004252e/",
+  "numericCode": -2147211986,
+  "define": "VDS_E_DUPLICATE_DISK",
+  "defineUrl": "/win32/vdserr-h/vds_e_duplicate_disk/",
+  "message": "The same disk was specified more than once.",
+  "remarks": null,
+  "aka": [
+    "-2147211986"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_duplicate_disk/-2147211986/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

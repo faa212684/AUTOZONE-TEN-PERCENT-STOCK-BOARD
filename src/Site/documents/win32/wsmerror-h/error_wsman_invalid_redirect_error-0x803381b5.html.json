@@ -1,0 +1,30 @@
+---
+output: win32\wsmerror-h\error_wsman_invalid_redirect_error\0x803381b5\index.html.json
+
+title: 0x803381B5 ERROR_WSMAN_INVALID_REDIRECT_ERROR in wsmerror.h
+description: The WinRM client received a redirect error from the server when it is not appropriate.  
+The only time a redirect error can be reported correctly is during the authorization of a user.
+This would result in a properly formatted redirect response from the server that includes the redirect endpoint.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x803381B5",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_invalid_redirect_error/0x803381b5/",
+  "numericCode": -2144108107,
+  "define": "ERROR_WSMAN_INVALID_REDIRECT_ERROR",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_invalid_redirect_error/",
+  "message": "The WinRM client received a redirect error from the server when it is not appropriate.  \r\nThe only time a redirect error can be reported correctly is during the authorization of a user.\r\nThis would result in a properly formatted redirect response from the server that includes the redirect endpoint.",
+  "remarks": null,
+  "aka": [
+    "-2144108107"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_invalid_redirect_error/-2144108107/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

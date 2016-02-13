@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_open_failed\-1073741514\index.html.json
+canonical: /win32/ntstatus-h/status_open_failed/0xc0000136/
+title: -1073741514 STATUS_OPEN_FAILED in ntstatus.h
+description: The NtCreateFile API failed. This error should never be returned to an application, it is a place holder for the Windows Lan Manager Redirector to use in its internal error mapping routines.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741514",
+  "codeUrl": "/win32/ntstatus-h/status_open_failed/-1073741514/",
+  "numericCode": 0,
+  "define": "STATUS_OPEN_FAILED",
+  "defineUrl": "/win32/ntstatus-h/status_open_failed/",
+  "message": "The NtCreateFile API failed. This error should never be returned to an application, it is a place holder for the Windows Lan Manager Redirector to use in its internal error mapping routines.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000136",
+  "originalCodeUrl": "/win32/ntstatus-h/status_open_failed/0xc0000136/"
+}

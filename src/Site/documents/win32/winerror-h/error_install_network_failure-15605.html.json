@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_install_network_failure\15605\index.html.json
+
+title: 15605 ERROR_INSTALL_NETWORK_FAILURE in winerror.h
+description: There was a problem downloading your product.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "15605",
+  "codeUrl": "/win32/winerror-h/error_install_network_failure/15605/",
+  "numericCode": 15605,
+  "define": "ERROR_INSTALL_NETWORK_FAILURE",
+  "defineUrl": "/win32/winerror-h/error_install_network_failure/",
+  "message": "There was a problem downloading your product.",
+  "remarks": null,
+  "aka": [
+    "0x80073cf5",
+    "-2147009291"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_install_network_failure/0x80073cf5/",
+    "/win32/winerror-h/error_install_network_failure/-2147009291/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

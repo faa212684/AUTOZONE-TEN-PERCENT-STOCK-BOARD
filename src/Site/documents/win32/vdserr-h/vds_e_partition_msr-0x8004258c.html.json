@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_e_partition_msr\0x8004258c\index.html.json
+
+title: 0x8004258C VDS_E_PARTITION_MSR in vdserr.h
+description: This operation is not supported on MSR partitions.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x8004258C",
+  "codeUrl": "/win32/vdserr-h/vds_e_partition_msr/0x8004258c/",
+  "numericCode": -2147211892,
+  "define": "VDS_E_PARTITION_MSR",
+  "defineUrl": "/win32/vdserr-h/vds_e_partition_msr/",
+  "message": "This operation is not supported on MSR partitions.",
+  "remarks": null,
+  "aka": [
+    "-2147211892"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_partition_msr/-2147211892/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

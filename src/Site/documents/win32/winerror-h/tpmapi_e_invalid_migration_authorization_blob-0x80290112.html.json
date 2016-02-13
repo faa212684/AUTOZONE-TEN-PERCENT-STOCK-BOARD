@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\tpmapi_e_invalid_migration_authorization_blob\0x80290112\index.html.json
+
+title: 0x80290112 TPMAPI_E_INVALID_MIGRATION_AUTHORIZATION_BLOB in winerror.h
+description: The requested supplied data does not appear to be a valid migration authorization blob.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80290112",
+  "codeUrl": "/win32/winerror-h/tpmapi_e_invalid_migration_authorization_blob/0x80290112/",
+  "numericCode": -2144796398,
+  "define": "TPMAPI_E_INVALID_MIGRATION_AUTHORIZATION_BLOB",
+  "defineUrl": "/win32/winerror-h/tpmapi_e_invalid_migration_authorization_blob/",
+  "message": "The requested supplied data does not appear to be a valid migration authorization blob.",
+  "remarks": null,
+  "aka": [
+    "-2144796398"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/tpmapi_e_invalid_migration_authorization_blob/-2144796398/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

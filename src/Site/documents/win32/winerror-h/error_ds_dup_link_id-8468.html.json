@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ds_dup_link_id\8468\index.html.json
+
+title: 8468 ERROR_DS_DUP_LINK_ID in winerror.h
+description: Schema update failed: An attribute with the same link identifier already exists.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "8468",
+  "codeUrl": "/win32/winerror-h/error_ds_dup_link_id/8468/",
+  "numericCode": 8468,
+  "define": "ERROR_DS_DUP_LINK_ID",
+  "defineUrl": "/win32/winerror-h/error_ds_dup_link_id/",
+  "message": "Schema update failed: An attribute with the same link identifier already exists.",
+  "remarks": null,
+  "aka": [
+    "0x80072114",
+    "-2147016428"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ds_dup_link_id/0x80072114/",
+    "/win32/winerror-h/error_ds_dup_link_id/-2147016428/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

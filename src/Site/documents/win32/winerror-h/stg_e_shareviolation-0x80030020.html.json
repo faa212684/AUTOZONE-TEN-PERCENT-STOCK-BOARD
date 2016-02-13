@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\stg_e_shareviolation\0x80030020\index.html.json
+
+title: 0x80030020 STG_E_SHAREVIOLATION in winerror.h
+description: A share violation has occurred.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80030020",
+  "codeUrl": "/win32/winerror-h/stg_e_shareviolation/0x80030020/",
+  "numericCode": -2147287008,
+  "define": "STG_E_SHAREVIOLATION",
+  "defineUrl": "/win32/winerror-h/stg_e_shareviolation/",
+  "message": "A share violation has occurred.",
+  "remarks": null,
+  "aka": [
+    "-2147287008"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/stg_e_shareviolation/-2147287008/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

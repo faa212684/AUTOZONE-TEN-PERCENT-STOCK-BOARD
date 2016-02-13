@@ -1,0 +1,28 @@
+---
+output: win32\nserror-h\ns_e_plugin_notshutdown\0xc00d0fd6\index.html.json
+
+title: 0xC00D0FD6 NS_E_PLUGIN_NOTSHUTDOWN in nserror.h
+description: Windows Media Player was not closed properly. A damaged or incompatible plug-in might have caused the problem to occur. As a precaution, all optional plug-ins have been disabled.%0
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "nserror.h",
+  "sourceUrl": "/win32/nserror-h/",
+  "code": "0xC00D0FD6",
+  "codeUrl": "/win32/nserror-h/ns_e_plugin_notshutdown/0xc00d0fd6/",
+  "numericCode": -1072885802,
+  "define": "NS_E_PLUGIN_NOTSHUTDOWN",
+  "defineUrl": "/win32/nserror-h/ns_e_plugin_notshutdown/",
+  "message": "Windows Media Player was not closed properly. A damaged or incompatible plug-in might have caused the problem to occur. As a precaution, all optional plug-ins have been disabled.%0",
+  "remarks": null,
+  "aka": [
+    "-1072885802"
+  ],
+  "akaUrl": [
+    "/win32/nserror-h/ns_e_plugin_notshutdown/-1072885802/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

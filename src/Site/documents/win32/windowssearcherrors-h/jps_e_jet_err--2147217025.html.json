@@ -1,0 +1,24 @@
+---
+output: win32\windowssearcherrors-h\jps_e_jet_err\-2147217025\index.html.json
+canonical: /win32/windowssearcherrors-h/jps_e_jet_err/0x8004117f/
+title: -2147217025 JPS_E_JET_ERR in WindowsSearchErrors.h
+description: The content index server cannot update or access information because of a database error.  Stop and restart the search service.  If the problem persists, reset and recrawl the content index.  In some cases it may be necessary to delete and recreate the content index.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "-2147217025",
+  "codeUrl": "/win32/windowssearcherrors-h/jps_e_jet_err/-2147217025/",
+  "numericCode": 0,
+  "define": "JPS_E_JET_ERR",
+  "defineUrl": "/win32/windowssearcherrors-h/jps_e_jet_err/",
+  "message": "The content index server cannot update or access information because of a database error.  Stop and restart the search service.  If the problem persists, reset and recrawl the content index.  In some cases it may be necessary to delete and recreate the content index.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x8004117F",
+  "originalCodeUrl": "/win32/windowssearcherrors-h/jps_e_jet_err/0x8004117f/"
+}

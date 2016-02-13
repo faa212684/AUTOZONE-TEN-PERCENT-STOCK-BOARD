@@ -1,0 +1,29 @@
+---
+output: win32\ntstatus-h\status_disk_operation_failed\0xc000016a\index.html.json
+
+title: 0xC000016A STATUS_DISK_OPERATION_FAILED in ntstatus.h
+description: "{Hard Disk Error}
+While accessing the hard disk, a disk operation failed even after retries."
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000016A",
+  "codeUrl": "/win32/ntstatus-h/status_disk_operation_failed/0xc000016a/",
+  "numericCode": -1073741462,
+  "define": "STATUS_DISK_OPERATION_FAILED",
+  "defineUrl": "/win32/ntstatus-h/status_disk_operation_failed/",
+  "message": "{Hard Disk Error}\r\nWhile accessing the hard disk, a disk operation failed even after retries.",
+  "remarks": null,
+  "aka": [
+    "-1073741462"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_disk_operation_failed/-1073741462/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

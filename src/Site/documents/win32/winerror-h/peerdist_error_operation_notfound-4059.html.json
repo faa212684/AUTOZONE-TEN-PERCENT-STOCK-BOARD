@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\peerdist_error_operation_notfound\4059\index.html.json
+
+title: 4059 PEERDIST_ERROR_OPERATION_NOTFOUND in winerror.h
+description: Can not cancel the requested operation as it has already been completed.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "4059",
+  "codeUrl": "/win32/winerror-h/peerdist_error_operation_notfound/4059/",
+  "numericCode": 4059,
+  "define": "PEERDIST_ERROR_OPERATION_NOTFOUND",
+  "defineUrl": "/win32/winerror-h/peerdist_error_operation_notfound/",
+  "message": "Can not cancel the requested operation as it has already been completed.",
+  "remarks": null,
+  "aka": [
+    "0x80070fdb",
+    "-2147020837"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/peerdist_error_operation_notfound/0x80070fdb/",
+    "/win32/winerror-h/peerdist_error_operation_notfound/-2147020837/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

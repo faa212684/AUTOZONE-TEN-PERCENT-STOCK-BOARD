@@ -1,0 +1,28 @@
+---
+output: win32\slerror-h\sl_e_tka_cert_cng_not_available\0xc004f313\index.html.json
+
+title: 0xC004F313 SL_E_TKA_CERT_CNG_NOT_AVAILABLE in slerror.h
+description: The Software Licensing Service reported that the CNG encryption library could not be loaded.  The current certificate may not be available on this version of Windows.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "slerror.h",
+  "sourceUrl": "/win32/slerror-h/",
+  "code": "0xC004F313",
+  "codeUrl": "/win32/slerror-h/sl_e_tka_cert_cng_not_available/0xc004f313/",
+  "numericCode": -1073417453,
+  "define": "SL_E_TKA_CERT_CNG_NOT_AVAILABLE",
+  "defineUrl": "/win32/slerror-h/sl_e_tka_cert_cng_not_available/",
+  "message": "The Software Licensing Service reported that the CNG encryption library could not be loaded.  The current certificate may not be available on this version of Windows.",
+  "remarks": null,
+  "aka": [
+    "-1073417453"
+  ],
+  "akaUrl": [
+    "/win32/slerror-h/sl_e_tka_cert_cng_not_available/-1073417453/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

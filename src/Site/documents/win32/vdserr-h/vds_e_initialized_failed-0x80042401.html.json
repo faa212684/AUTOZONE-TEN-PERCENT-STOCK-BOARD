@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_e_initialized_failed\0x80042401\index.html.json
+
+title: 0x80042401 VDS_E_INITIALIZED_FAILED in vdserr.h
+description: The service failed to initialize.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x80042401",
+  "codeUrl": "/win32/vdserr-h/vds_e_initialized_failed/0x80042401/",
+  "numericCode": -2147212287,
+  "define": "VDS_E_INITIALIZED_FAILED",
+  "defineUrl": "/win32/vdserr-h/vds_e_initialized_failed/",
+  "message": "The service failed to initialize.",
+  "remarks": null,
+  "aka": [
+    "-2147212287"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_initialized_failed/-2147212287/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

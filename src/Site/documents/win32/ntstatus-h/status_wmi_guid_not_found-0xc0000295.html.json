@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_wmi_guid_not_found\0xc0000295\index.html.json
+
+title: 0xC0000295 STATUS_WMI_GUID_NOT_FOUND in ntstatus.h
+description: The guid passed was not recognized as valid by a WMI data provider.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000295",
+  "codeUrl": "/win32/ntstatus-h/status_wmi_guid_not_found/0xc0000295/",
+  "numericCode": -1073741163,
+  "define": "STATUS_WMI_GUID_NOT_FOUND",
+  "defineUrl": "/win32/ntstatus-h/status_wmi_guid_not_found/",
+  "message": "The guid passed was not recognized as valid by a WMI data provider.",
+  "remarks": null,
+  "aka": [
+    "-1073741163"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_wmi_guid_not_found/-1073741163/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

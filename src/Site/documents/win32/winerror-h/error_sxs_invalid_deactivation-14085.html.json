@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_sxs_invalid_deactivation\14085\index.html.json
+
+title: 14085 ERROR_SXS_INVALID_DEACTIVATION in winerror.h
+description: The activation context being deactivated is not active for the current thread of execution.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "14085",
+  "codeUrl": "/win32/winerror-h/error_sxs_invalid_deactivation/14085/",
+  "numericCode": 14085,
+  "define": "ERROR_SXS_INVALID_DEACTIVATION",
+  "defineUrl": "/win32/winerror-h/error_sxs_invalid_deactivation/",
+  "message": "The activation context being deactivated is not active for the current thread of execution.",
+  "remarks": null,
+  "aka": [
+    "0x80073705",
+    "-2147010811"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_sxs_invalid_deactivation/0x80073705/",
+    "/win32/winerror-h/error_sxs_invalid_deactivation/-2147010811/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

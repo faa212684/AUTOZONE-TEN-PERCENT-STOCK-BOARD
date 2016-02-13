@@ -1,0 +1,25 @@
+---
+output: win32\ntdsbmsg-h\hrincrementalbackupdisabled\-939589623\index.html.json
+canonical: /win32/ntdsbmsg-h/hrincrementalbackupdisabled/0xc7ff0009/
+title: -939589623 hrIncrementalBackupDisabled in NtDsBMsg.h
+description: Another application has modified the specified Windows NT Directory Service database such that any
+subsequent backups will fail. You must perform a full backup to fix this problem.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "NtDsBMsg.h",
+  "sourceUrl": "/win32/ntdsbmsg-h/",
+  "code": "-939589623",
+  "codeUrl": "/win32/ntdsbmsg-h/hrincrementalbackupdisabled/-939589623/",
+  "numericCode": 0,
+  "define": "hrIncrementalBackupDisabled",
+  "defineUrl": "/win32/ntdsbmsg-h/hrincrementalbackupdisabled/",
+  "message": "Another application has modified the specified Windows NT Directory Service database such that any\r\nsubsequent backups will fail. You must perform a full backup to fix this problem.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC7FF0009",
+  "originalCodeUrl": "/win32/ntdsbmsg-h/hrincrementalbackupdisabled/0xc7ff0009/"
+}

@@ -1,0 +1,28 @@
+---
+output: win32\windowssearcherrors-h\ghtr_e_insufficient_disk_space\0x80040d8b\index.html.json
+
+title: 0x80040D8B GHTR_E_INSUFFICIENT_DISK_SPACE in WindowsSearchErrors.h
+description: The new content index cannot be added because there is not enough disk space.  Free up at least 10 megabytes of free space, and then try again.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "0x80040D8B",
+  "codeUrl": "/win32/windowssearcherrors-h/ghtr_e_insufficient_disk_space/0x80040d8b/",
+  "numericCode": -2147218037,
+  "define": "GHTR_E_INSUFFICIENT_DISK_SPACE",
+  "defineUrl": "/win32/windowssearcherrors-h/ghtr_e_insufficient_disk_space/",
+  "message": "The new content index cannot be added because there is not enough disk space.  Free up at least 10 megabytes of free space, and then try again.",
+  "remarks": null,
+  "aka": [
+    "-2147218037"
+  ],
+  "akaUrl": [
+    "/win32/windowssearcherrors-h/ghtr_e_insufficient_disk_space/-2147218037/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,26 @@
+---
+output: win32\ntiologc-h\io_driver_cancel_timeout\-2147221450\index.html.json
+canonical: /win32/ntiologc-h/io_driver_cancel_timeout/0x80040036/
+title: -2147221450 IO_DRIVER_CANCEL_TIMEOUT in ntiologc.h
+description: An Io Request to the device %1 did not complete or canceled within the
+specific timeout. This can occur if the device driver does not set a
+cancel routine for a given IO request packet.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntiologc.h",
+  "sourceUrl": "/win32/ntiologc-h/",
+  "code": "-2147221450",
+  "codeUrl": "/win32/ntiologc-h/io_driver_cancel_timeout/-2147221450/",
+  "numericCode": 0,
+  "define": "IO_DRIVER_CANCEL_TIMEOUT",
+  "defineUrl": "/win32/ntiologc-h/io_driver_cancel_timeout/",
+  "message": "An Io Request to the device %1 did not complete or canceled within the\r\nspecific timeout. This can occur if the device driver does not set a\r\ncancel routine for a given IO request packet.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80040036",
+  "originalCodeUrl": "/win32/ntiologc-h/io_driver_cancel_timeout/0x80040036/"
+}

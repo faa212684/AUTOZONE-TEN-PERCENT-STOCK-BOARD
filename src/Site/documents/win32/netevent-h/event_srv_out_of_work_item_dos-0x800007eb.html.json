@@ -1,0 +1,30 @@
+---
+output: win32\netevent-h\event_srv_out_of_work_item_dos\0x800007eb\index.html.json
+
+title: 0x800007EB EVENT_SRV_OUT_OF_WORK_ITEM_DOS in netevent.h
+description: The server has detected a potential Denial-of-Service attack caused by consuming all the work-items.  Some connections
+were disconnected to protect against this.  If this is not the case, please raise the MaxWorkItems for the server or
+disable DoS detection.  This event will not be logged again for 24 hours.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x800007EB",
+  "codeUrl": "/win32/netevent-h/event_srv_out_of_work_item_dos/0x800007eb/",
+  "numericCode": -2147481621,
+  "define": "EVENT_SRV_OUT_OF_WORK_ITEM_DOS",
+  "defineUrl": "/win32/netevent-h/event_srv_out_of_work_item_dos/",
+  "message": "The server has detected a potential Denial-of-Service attack caused by consuming all the work-items.  Some connections\r\nwere disconnected to protect against this.  If this is not the case, please raise the MaxWorkItems for the server or\r\ndisable DoS detection.  This event will not be logged again for 24 hours.",
+  "remarks": null,
+  "aka": [
+    "-2147481621"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_srv_out_of_work_item_dos/-2147481621/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

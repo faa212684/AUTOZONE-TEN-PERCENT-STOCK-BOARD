@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_colorspace_mismatch\2021\index.html.json
+
+title: 2021 ERROR_COLORSPACE_MISMATCH in winerror.h
+description: The specified transform does not match the bitmap's color space.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "2021",
+  "codeUrl": "/win32/winerror-h/error_colorspace_mismatch/2021/",
+  "numericCode": 2021,
+  "define": "ERROR_COLORSPACE_MISMATCH",
+  "defineUrl": "/win32/winerror-h/error_colorspace_mismatch/",
+  "message": "The specified transform does not match the bitmap's color space.",
+  "remarks": null,
+  "aka": [
+    "0x800707e5",
+    "-2147022875"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_colorspace_mismatch/0x800707e5/",
+    "/win32/winerror-h/error_colorspace_mismatch/-2147022875/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

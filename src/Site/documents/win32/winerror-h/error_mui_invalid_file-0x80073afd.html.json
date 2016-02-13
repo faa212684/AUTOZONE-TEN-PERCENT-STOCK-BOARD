@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_mui_invalid_file\0x80073afd\index.html.json
+canonical: /win32/winerror-h/error_mui_invalid_file/15101/
+title: 0x80073afd ERROR_MUI_INVALID_FILE in winerror.h
+description: The resource loader failed to load MUI file because the file fail to pass validation.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80073afd",
+  "codeUrl": "/win32/winerror-h/error_mui_invalid_file/0x80073afd/",
+  "numericCode": 0,
+  "define": "ERROR_MUI_INVALID_FILE",
+  "defineUrl": "/win32/winerror-h/error_mui_invalid_file/",
+  "message": "The resource loader failed to load MUI file because the file fail to pass validation.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "15101",
+  "originalCodeUrl": "/win32/winerror-h/error_mui_invalid_file/15101/"
+}

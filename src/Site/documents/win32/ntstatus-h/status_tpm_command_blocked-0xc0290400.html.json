@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_tpm_command_blocked\0xc0290400\index.html.json
+
+title: 0xC0290400 STATUS_TPM_COMMAND_BLOCKED in ntstatus.h
+description: The command was blocked.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0290400",
+  "codeUrl": "/win32/ntstatus-h/status_tpm_command_blocked/0xc0290400/",
+  "numericCode": -1071053824,
+  "define": "STATUS_TPM_COMMAND_BLOCKED",
+  "defineUrl": "/win32/ntstatus-h/status_tpm_command_blocked/",
+  "message": "The command was blocked.",
+  "remarks": null,
+  "aka": [
+    "-1071053824"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_tpm_command_blocked/-1071053824/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

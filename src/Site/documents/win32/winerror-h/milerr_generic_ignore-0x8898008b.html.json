@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\milerr_generic_ignore\0x8898008b\index.html.json
+
+title: 0x8898008B MILERR_GENERIC_IGNORE in winerror.h
+description: Marker error for known Win32 errors that are currently being ignored by the compositor. This is to avoid returning S_OK when an error has occurred, but still unwind the stack in the correct location.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8898008B",
+  "codeUrl": "/win32/winerror-h/milerr_generic_ignore/0x8898008b/",
+  "numericCode": -2003304309,
+  "define": "MILERR_GENERIC_IGNORE",
+  "defineUrl": "/win32/winerror-h/milerr_generic_ignore/",
+  "message": "Marker error for known Win32 errors that are currently being ignored by the compositor. This is to avoid returning S_OK when an error has occurred, but still unwind the stack in the correct location.",
+  "remarks": null,
+  "aka": [
+    "-2003304309"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/milerr_generic_ignore/-2003304309/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

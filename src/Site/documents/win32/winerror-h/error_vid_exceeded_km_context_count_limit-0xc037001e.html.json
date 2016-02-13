@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\error_vid_exceeded_km_context_count_limit\0xc037001e\index.html.json
+
+title: 0xC037001E ERROR_VID_EXCEEDED_KM_CONTEXT_COUNT_LIMIT in winerror.h
+description: The maximum number of kernel mode clients for the virtualization infrastructure driver has been reached. Restarting the virtual machine may fix the problem. If the problem persists, try restarting the physical computer.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0xC037001E",
+  "codeUrl": "/win32/winerror-h/error_vid_exceeded_km_context_count_limit/0xc037001e/",
+  "numericCode": -1070137314,
+  "define": "ERROR_VID_EXCEEDED_KM_CONTEXT_COUNT_LIMIT",
+  "defineUrl": "/win32/winerror-h/error_vid_exceeded_km_context_count_limit/",
+  "message": "The maximum number of kernel mode clients for the virtualization infrastructure driver has been reached. Restarting the virtual machine may fix the problem. If the problem persists, try restarting the physical computer.",
+  "remarks": null,
+  "aka": [
+    "-1070137314"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_vid_exceeded_km_context_count_limit/-1070137314/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

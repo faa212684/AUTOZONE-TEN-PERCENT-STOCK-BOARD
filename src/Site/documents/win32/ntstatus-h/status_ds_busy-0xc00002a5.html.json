@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_ds_busy\0xc00002a5\index.html.json
+
+title: 0xC00002A5 STATUS_DS_BUSY in ntstatus.h
+description: The directory service is busy.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC00002A5",
+  "codeUrl": "/win32/ntstatus-h/status_ds_busy/0xc00002a5/",
+  "numericCode": -1073741147,
+  "define": "STATUS_DS_BUSY",
+  "defineUrl": "/win32/ntstatus-h/status_ds_busy/",
+  "message": "The directory service is busy.",
+  "remarks": null,
+  "aka": [
+    "-1073741147"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_ds_busy/-1073741147/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

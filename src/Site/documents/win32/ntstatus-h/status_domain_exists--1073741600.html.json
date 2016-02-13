@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_domain_exists\-1073741600\index.html.json
+canonical: /win32/ntstatus-h/status_domain_exists/0xc00000e0/
+title: -1073741600 STATUS_DOMAIN_EXISTS in ntstatus.h
+description: The specified Domain already exists.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741600",
+  "codeUrl": "/win32/ntstatus-h/status_domain_exists/-1073741600/",
+  "numericCode": 0,
+  "define": "STATUS_DOMAIN_EXISTS",
+  "defineUrl": "/win32/ntstatus-h/status_domain_exists/",
+  "message": "The specified Domain already exists.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC00000E0",
+  "originalCodeUrl": "/win32/ntstatus-h/status_domain_exists/0xc00000e0/"
+}

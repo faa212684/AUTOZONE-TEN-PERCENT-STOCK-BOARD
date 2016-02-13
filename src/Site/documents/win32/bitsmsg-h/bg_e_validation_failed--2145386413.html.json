@@ -1,0 +1,24 @@
+---
+output: win32\bitsmsg-h\bg_e_validation_failed\-2145386413\index.html.json
+canonical: /win32/bitsmsg-h/bg_e_validation_failed/0x80200053/
+title: -2145386413 BG_E_VALIDATION_FAILED in BitsMsg.h
+description: The application requested data from a web site, but the response was invalid. Using Event Viewer, check the log 'Application Logs \ Microsoft \ Windows \ Bits-client \ Operational' for more details.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "BitsMsg.h",
+  "sourceUrl": "/win32/bitsmsg-h/",
+  "code": "-2145386413",
+  "codeUrl": "/win32/bitsmsg-h/bg_e_validation_failed/-2145386413/",
+  "numericCode": 0,
+  "define": "BG_E_VALIDATION_FAILED",
+  "defineUrl": "/win32/bitsmsg-h/bg_e_validation_failed/",
+  "message": "The application requested data from a web site, but the response was invalid. Using Event Viewer, check the log 'Application Logs \\ Microsoft \\ Windows \\ Bits-client \\ Operational' for more details.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80200053",
+  "originalCodeUrl": "/win32/bitsmsg-h/bg_e_validation_failed/0x80200053/"
+}

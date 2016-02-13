@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\dns_error_record_only_at_zone_root\9710\index.html.json
+
+title: 9710 DNS_ERROR_RECORD_ONLY_AT_ZONE_ROOT in winerror.h
+description: Record only at DNS zone root.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "9710",
+  "codeUrl": "/win32/winerror-h/dns_error_record_only_at_zone_root/9710/",
+  "numericCode": 9710,
+  "define": "DNS_ERROR_RECORD_ONLY_AT_ZONE_ROOT",
+  "defineUrl": "/win32/winerror-h/dns_error_record_only_at_zone_root/",
+  "message": "Record only at DNS zone root.",
+  "remarks": null,
+  "aka": [
+    "0x800725ee",
+    "-2147015186"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/dns_error_record_only_at_zone_root/0x800725ee/",
+    "/win32/winerror-h/dns_error_record_only_at_zone_root/-2147015186/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

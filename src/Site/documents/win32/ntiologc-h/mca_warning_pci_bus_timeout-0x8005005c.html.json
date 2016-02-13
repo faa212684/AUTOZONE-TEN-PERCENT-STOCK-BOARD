@@ -1,0 +1,28 @@
+---
+output: win32\ntiologc-h\mca_warning_pci_bus_timeout\0x8005005c\index.html.json
+
+title: 0x8005005C MCA_WARNING_PCI_BUS_TIMEOUT in ntiologc.h
+description: Machine Check Event reported is a corrected PCI bus Timeout error during a transaction type %3 at address %4 on PCI bus %5 reported to CPU %1. %2 additional error(s) are contained within the record.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntiologc.h",
+  "sourceUrl": "/win32/ntiologc-h/",
+  "code": "0x8005005C",
+  "codeUrl": "/win32/ntiologc-h/mca_warning_pci_bus_timeout/0x8005005c/",
+  "numericCode": -2147155876,
+  "define": "MCA_WARNING_PCI_BUS_TIMEOUT",
+  "defineUrl": "/win32/ntiologc-h/mca_warning_pci_bus_timeout/",
+  "message": "Machine Check Event reported is a corrected PCI bus Timeout error during a transaction type %3 at address %4 on PCI bus %5 reported to CPU %1. %2 additional error(s) are contained within the record.",
+  "remarks": null,
+  "aka": [
+    "-2147155876"
+  ],
+  "akaUrl": [
+    "/win32/ntiologc-h/mca_warning_pci_bus_timeout/-2147155876/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

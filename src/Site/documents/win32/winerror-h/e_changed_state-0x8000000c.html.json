@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\e_changed_state\0x8000000c\index.html.json
+
+title: 0x8000000C E_CHANGED_STATE in winerror.h
+description: A concurrent or interleaved operation changed the state of the object, invalidating this operation.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8000000C",
+  "codeUrl": "/win32/winerror-h/e_changed_state/0x8000000c/",
+  "numericCode": -2147483636,
+  "define": "E_CHANGED_STATE",
+  "defineUrl": "/win32/winerror-h/e_changed_state/",
+  "message": "A concurrent or interleaved operation changed the state of the object, invalidating this operation.",
+  "remarks": null,
+  "aka": [
+    "-2147483636"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/e_changed_state/-2147483636/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

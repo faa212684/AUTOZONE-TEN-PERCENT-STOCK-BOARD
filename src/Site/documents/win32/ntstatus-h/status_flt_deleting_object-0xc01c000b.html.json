@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_flt_deleting_object\0xc01c000b\index.html.json
+
+title: 0xC01C000B STATUS_FLT_DELETING_OBJECT in ntstatus.h
+description: The object specified for this action is in the process of being deleted, therefore the action requested cannot be completed at this time.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC01C000B",
+  "codeUrl": "/win32/ntstatus-h/status_flt_deleting_object/0xc01c000b/",
+  "numericCode": -1071906805,
+  "define": "STATUS_FLT_DELETING_OBJECT",
+  "defineUrl": "/win32/ntstatus-h/status_flt_deleting_object/",
+  "message": "The object specified for this action is in the process of being deleted, therefore the action requested cannot be completed at this time.",
+  "remarks": null,
+  "aka": [
+    "-1071906805"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_flt_deleting_object/-1071906805/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

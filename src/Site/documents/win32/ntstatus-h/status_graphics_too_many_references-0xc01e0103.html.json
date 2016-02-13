@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_graphics_too_many_references\0xc01e0103\index.html.json
+
+title: 0xC01E0103 STATUS_GRAPHICS_TOO_MANY_REFERENCES in ntstatus.h
+description: An object being referenced has already reached the maximum reference count and can't be referenced any further.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC01E0103",
+  "codeUrl": "/win32/ntstatus-h/status_graphics_too_many_references/0xc01e0103/",
+  "numericCode": -1071775485,
+  "define": "STATUS_GRAPHICS_TOO_MANY_REFERENCES",
+  "defineUrl": "/win32/ntstatus-h/status_graphics_too_many_references/",
+  "message": "An object being referenced has already reached the maximum reference count and can't be referenced any further.",
+  "remarks": null,
+  "aka": [
+    "-1071775485"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_graphics_too_many_references/-1071775485/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

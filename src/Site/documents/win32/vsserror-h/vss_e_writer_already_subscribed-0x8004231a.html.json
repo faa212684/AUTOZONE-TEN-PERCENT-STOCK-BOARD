@@ -1,0 +1,29 @@
+---
+output: win32\vsserror-h\vss_e_writer_already_subscribed\0x8004231a\index.html.json
+
+title: 0x8004231A VSS_E_WRITER_ALREADY_SUBSCRIBED in vsserror.h
+description: The writer has already successfully called the Subscribe function.  It cannot call
+Subscribe multiple times.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vsserror.h",
+  "sourceUrl": "/win32/vsserror-h/",
+  "code": "0x8004231A",
+  "codeUrl": "/win32/vsserror-h/vss_e_writer_already_subscribed/0x8004231a/",
+  "numericCode": -2147212518,
+  "define": "VSS_E_WRITER_ALREADY_SUBSCRIBED",
+  "defineUrl": "/win32/vsserror-h/vss_e_writer_already_subscribed/",
+  "message": "The writer has already successfully called the Subscribe function.  It cannot call\r\nSubscribe multiple times.",
+  "remarks": null,
+  "aka": [
+    "-2147212518"
+  ],
+  "akaUrl": [
+    "/win32/vsserror-h/vss_e_writer_already_subscribed/-2147212518/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

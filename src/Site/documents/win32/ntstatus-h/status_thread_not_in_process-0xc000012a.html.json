@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_thread_not_in_process\0xc000012a\index.html.json
+
+title: 0xC000012A STATUS_THREAD_NOT_IN_PROCESS in ntstatus.h
+description: An attempt was made to operate on a thread within a specific process, but the thread specified is not in the process specified.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000012A",
+  "codeUrl": "/win32/ntstatus-h/status_thread_not_in_process/0xc000012a/",
+  "numericCode": -1073741526,
+  "define": "STATUS_THREAD_NOT_IN_PROCESS",
+  "defineUrl": "/win32/ntstatus-h/status_thread_not_in_process/",
+  "message": "An attempt was made to operate on a thread within a specific process, but the thread specified is not in the process specified.",
+  "remarks": null,
+  "aka": [
+    "-1073741526"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_thread_not_in_process/-1073741526/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

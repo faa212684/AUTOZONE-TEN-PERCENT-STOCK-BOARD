@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\onl_e_account_update_required\0x80860005\index.html.json
+
+title: 0x80860005 ONL_E_ACCOUNT_UPDATE_REQUIRED in winerror.h
+description: Online Id account properties must be updated before signin.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80860005",
+  "codeUrl": "/win32/winerror-h/onl_e_account_update_required/0x80860005/",
+  "numericCode": -2138701819,
+  "define": "ONL_E_ACCOUNT_UPDATE_REQUIRED",
+  "defineUrl": "/win32/winerror-h/onl_e_account_update_required/",
+  "message": "Online Id account properties must be updated before signin.",
+  "remarks": null,
+  "aka": [
+    "-2138701819"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/onl_e_account_update_required/-2138701819/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_log_container_open_failed\6641\index.html.json
+
+title: 6641 ERROR_LOG_CONTAINER_OPEN_FAILED in winerror.h
+description: Log service encountered an error when attempting open a log container.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "6641",
+  "codeUrl": "/win32/winerror-h/error_log_container_open_failed/6641/",
+  "numericCode": 6641,
+  "define": "ERROR_LOG_CONTAINER_OPEN_FAILED",
+  "defineUrl": "/win32/winerror-h/error_log_container_open_failed/",
+  "message": "Log service encountered an error when attempting open a log container.",
+  "remarks": null,
+  "aka": [
+    "0x800719f1",
+    "-2147018255"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_log_container_open_failed/0x800719f1/",
+    "/win32/winerror-h/error_log_container_open_failed/-2147018255/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

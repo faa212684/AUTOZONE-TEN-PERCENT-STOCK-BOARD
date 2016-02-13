@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_e_disk_removeable\0x8004255a\index.html.json
+
+title: 0x8004255A VDS_E_DISK_REMOVEABLE in vdserr.h
+description: The operation is not supported on removable media.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x8004255A",
+  "codeUrl": "/win32/vdserr-h/vds_e_disk_removeable/0x8004255a/",
+  "numericCode": -2147211942,
+  "define": "VDS_E_DISK_REMOVEABLE",
+  "defineUrl": "/win32/vdserr-h/vds_e_disk_removeable/",
+  "message": "The operation is not supported on removable media.",
+  "remarks": null,
+  "aka": [
+    "-2147211942"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_disk_removeable/-2147211942/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

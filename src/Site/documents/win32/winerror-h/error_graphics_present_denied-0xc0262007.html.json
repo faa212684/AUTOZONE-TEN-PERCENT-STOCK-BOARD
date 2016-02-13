@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\error_graphics_present_denied\0xc0262007\index.html.json
+
+title: 0xC0262007 ERROR_GRAPHICS_PRESENT_DENIED in winerror.h
+description: Not able to present due to denial of desktop access
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0xC0262007",
+  "codeUrl": "/win32/winerror-h/error_graphics_present_denied/0xc0262007/",
+  "numericCode": -1071243257,
+  "define": "ERROR_GRAPHICS_PRESENT_DENIED",
+  "defineUrl": "/win32/winerror-h/error_graphics_present_denied/",
+  "message": "Not able to present due to denial of desktop access",
+  "remarks": null,
+  "aka": [
+    "-1071243257"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_graphics_present_denied/-1071243257/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

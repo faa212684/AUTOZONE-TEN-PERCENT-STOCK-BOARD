@@ -1,0 +1,24 @@
+---
+output: win32\vsserror-h\vss_e_asrerror_no_physical_disk_available\-2147212269\index.html.json
+canonical: /win32/vsserror-h/vss_e_asrerror_no_physical_disk_available/0x80042413/
+title: -2147212269 VSS_E_ASRERROR_NO_PHYSICAL_DISK_AVAILABLE in vsserror.h
+description: Windows did not find any fixed disk that can be used to recreate volumes present in backup. Ensure disks are online, and disk drivers are installed to access the disk(s). 'diskpart.exe' tool with list disks command can be used to see the list of available fixed disks on the system.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vsserror.h",
+  "sourceUrl": "/win32/vsserror-h/",
+  "code": "-2147212269",
+  "codeUrl": "/win32/vsserror-h/vss_e_asrerror_no_physical_disk_available/-2147212269/",
+  "numericCode": 0,
+  "define": "VSS_E_ASRERROR_NO_PHYSICAL_DISK_AVAILABLE",
+  "defineUrl": "/win32/vsserror-h/vss_e_asrerror_no_physical_disk_available/",
+  "message": "Windows did not find any fixed disk that can be used to recreate volumes present in backup. Ensure disks are online, and disk drivers are installed to access the disk(s). 'diskpart.exe' tool with list disks command can be used to see the list of available fixed disks on the system.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80042413",
+  "originalCodeUrl": "/win32/vsserror-h/vss_e_asrerror_no_physical_disk_available/0x80042413/"
+}

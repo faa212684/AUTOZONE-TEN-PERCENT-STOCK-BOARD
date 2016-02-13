@@ -1,0 +1,29 @@
+---
+output: win32\wsmerror-h\error_wsman_client_receive_null_param\0x8033818c\index.html.json
+
+title: 0x8033818C ERROR_WSMAN_CLIENT_RECEIVE_NULL_PARAM in wsmerror.h
+description: The WinRM Shell client cannot process the request. One of the parameters required for the WSManReceiveShellOutput function is null or zero.
+Change the request to include the missing parameter and try again.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x8033818C",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_client_receive_null_param/0x8033818c/",
+  "numericCode": -2144108148,
+  "define": "ERROR_WSMAN_CLIENT_RECEIVE_NULL_PARAM",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_client_receive_null_param/",
+  "message": "The WinRM Shell client cannot process the request. One of the parameters required for the WSManReceiveShellOutput function is null or zero.\r\nChange the request to include the missing parameter and try again.",
+  "remarks": null,
+  "aka": [
+    "-2144108148"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_client_receive_null_param/-2144108148/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

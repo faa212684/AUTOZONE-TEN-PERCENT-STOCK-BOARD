@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_ds_invalid_search_flag_subtree\0x800721b2\index.html.json
+canonical: /win32/winerror-h/error_ds_invalid_search_flag_subtree/8626/
+title: 0x800721b2 ERROR_DS_INVALID_SEARCH_FLAG_SUBTREE in winerror.h
+description: The search flags for the attribute are invalid. The subtree index bit is valid only on single valued attributes.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800721b2",
+  "codeUrl": "/win32/winerror-h/error_ds_invalid_search_flag_subtree/0x800721b2/",
+  "numericCode": 0,
+  "define": "ERROR_DS_INVALID_SEARCH_FLAG_SUBTREE",
+  "defineUrl": "/win32/winerror-h/error_ds_invalid_search_flag_subtree/",
+  "message": "The search flags for the attribute are invalid. The subtree index bit is valid only on single valued attributes.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "8626",
+  "originalCodeUrl": "/win32/winerror-h/error_ds_invalid_search_flag_subtree/8626/"
+}

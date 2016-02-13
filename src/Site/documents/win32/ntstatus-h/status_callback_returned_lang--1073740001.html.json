@@ -1,0 +1,25 @@
+---
+output: win32\ntstatus-h\status_callback_returned_lang\-1073740001\index.html.json
+canonical: /win32/ntstatus-h/status_callback_returned_lang/0xc000071f/
+title: -1073740001 STATUS_CALLBACK_RETURNED_LANG in ntstatus.h
+description: A threadpool worker thread enter a callback, which left with preferred languages set.
+This is unexpected, indicating that the callback missed clearing them.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073740001",
+  "codeUrl": "/win32/ntstatus-h/status_callback_returned_lang/-1073740001/",
+  "numericCode": 0,
+  "define": "STATUS_CALLBACK_RETURNED_LANG",
+  "defineUrl": "/win32/ntstatus-h/status_callback_returned_lang/",
+  "message": "A threadpool worker thread enter a callback, which left with preferred languages set.\r\nThis is unexpected, indicating that the callback missed clearing them.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC000071F",
+  "originalCodeUrl": "/win32/ntstatus-h/status_callback_returned_lang/0xc000071f/"
+}

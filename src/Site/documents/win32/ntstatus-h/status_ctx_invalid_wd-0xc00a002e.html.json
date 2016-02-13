@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_ctx_invalid_wd\0xc00a002e\index.html.json
+
+title: 0xC00A002E STATUS_CTX_INVALID_WD in ntstatus.h
+description: The Terminal Connection driver %1 is invalid.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC00A002E",
+  "codeUrl": "/win32/ntstatus-h/status_ctx_invalid_wd/0xc00a002e/",
+  "numericCode": -1073086418,
+  "define": "STATUS_CTX_INVALID_WD",
+  "defineUrl": "/win32/ntstatus-h/status_ctx_invalid_wd/",
+  "message": "The Terminal Connection driver %1 is invalid.",
+  "remarks": null,
+  "aka": [
+    "-1073086418"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_ctx_invalid_wd/-1073086418/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_tpm_delegate_family\0xc029004c\index.html.json
+
+title: 0xC029004C STATUS_TPM_DELEGATE_FAMILY in ntstatus.h
+description: Attempt to manage a family other then the delegated family.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC029004C",
+  "codeUrl": "/win32/ntstatus-h/status_tpm_delegate_family/0xc029004c/",
+  "numericCode": -1071054772,
+  "define": "STATUS_TPM_DELEGATE_FAMILY",
+  "defineUrl": "/win32/ntstatus-h/status_tpm_delegate_family/",
+  "message": "Attempt to manage a family other then the delegated family.",
+  "remarks": null,
+  "aka": [
+    "-1071054772"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_tpm_delegate_family/-1071054772/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\scarderr-h\scard_e_pci_too_small\0x80100019\index.html.json
+
+title: 0x80100019 SCARD_E_PCI_TOO_SMALL in SCardErr.h
+description: The PCI Receive buffer was too small.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "SCardErr.h",
+  "sourceUrl": "/win32/scarderr-h/",
+  "code": "0x80100019",
+  "codeUrl": "/win32/scarderr-h/scard_e_pci_too_small/0x80100019/",
+  "numericCode": -2146435047,
+  "define": "SCARD_E_PCI_TOO_SMALL",
+  "defineUrl": "/win32/scarderr-h/scard_e_pci_too_small/",
+  "message": "The PCI Receive buffer was too small.",
+  "remarks": null,
+  "aka": [
+    "-2146435047"
+  ],
+  "akaUrl": [
+    "/win32/scarderr-h/scard_e_pci_too_small/-2146435047/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

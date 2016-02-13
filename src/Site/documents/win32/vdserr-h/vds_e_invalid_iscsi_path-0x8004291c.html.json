@@ -1,0 +1,30 @@
+---
+output: win32\vdserr-h\vds_e_invalid_iscsi_path\0x8004291c\index.html.json
+
+title: 0x8004291C VDS_E_INVALID_ISCSI_PATH in vdserr.h
+description: The path returned for the LUN is invalid. Either it has an incorrect 
+path type specified, or, the initiator portal properties structure 
+is NULL.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x8004291C",
+  "codeUrl": "/win32/vdserr-h/vds_e_invalid_iscsi_path/0x8004291c/",
+  "numericCode": -2147210980,
+  "define": "VDS_E_INVALID_ISCSI_PATH",
+  "defineUrl": "/win32/vdserr-h/vds_e_invalid_iscsi_path/",
+  "message": "The path returned for the LUN is invalid. Either it has an incorrect \r\npath type specified, or, the initiator portal properties structure \r\nis NULL.",
+  "remarks": null,
+  "aka": [
+    "-2147210980"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_invalid_iscsi_path/-2147210980/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

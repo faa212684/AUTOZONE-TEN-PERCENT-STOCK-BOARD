@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\dfs_error_threadinit_failed\0xc00038b0\index.html.json
+
+title: 0xC00038B0 DFS_ERROR_THREADINIT_FAILED in netevent.h
+description: DFS could not create DFS support thread. The return code is in the record data.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC00038B0",
+  "codeUrl": "/win32/netevent-h/dfs_error_threadinit_failed/0xc00038b0/",
+  "numericCode": -1073727312,
+  "define": "DFS_ERROR_THREADINIT_FAILED",
+  "defineUrl": "/win32/netevent-h/dfs_error_threadinit_failed/",
+  "message": "DFS could not create DFS support thread. The return code is in the record data.",
+  "remarks": null,
+  "aka": [
+    "-1073727312"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/dfs_error_threadinit_failed/-1073727312/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

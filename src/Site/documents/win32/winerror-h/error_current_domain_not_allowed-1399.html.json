@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_current_domain_not_allowed\1399\index.html.json
+
+title: 1399 ERROR_CURRENT_DOMAIN_NOT_ALLOWED in winerror.h
+description: This operation cannot be performed on the current domain.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1399",
+  "codeUrl": "/win32/winerror-h/error_current_domain_not_allowed/1399/",
+  "numericCode": 1399,
+  "define": "ERROR_CURRENT_DOMAIN_NOT_ALLOWED",
+  "defineUrl": "/win32/winerror-h/error_current_domain_not_allowed/",
+  "message": "This operation cannot be performed on the current domain.",
+  "remarks": null,
+  "aka": [
+    "0x80070577",
+    "-2147023497"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_current_domain_not_allowed/0x80070577/",
+    "/win32/winerror-h/error_current_domain_not_allowed/-2147023497/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

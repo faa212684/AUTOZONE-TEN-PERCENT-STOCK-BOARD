@@ -1,0 +1,25 @@
+---
+output: win32\ntstatus-h\status_system_image_bad_signature\-1073741103\index.html.json
+canonical: /win32/ntstatus-h/status_system_image_bad_signature/0xc00002d1/
+title: -1073741103 STATUS_SYSTEM_IMAGE_BAD_SIGNATURE in ntstatus.h
+description: "{Fatal System Error}
+The system image %s is not properly signed. The file has been replaced with the signed file. The system has been shut down."
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741103",
+  "codeUrl": "/win32/ntstatus-h/status_system_image_bad_signature/-1073741103/",
+  "numericCode": 0,
+  "define": "STATUS_SYSTEM_IMAGE_BAD_SIGNATURE",
+  "defineUrl": "/win32/ntstatus-h/status_system_image_bad_signature/",
+  "message": "{Fatal System Error}\r\nThe system image %s is not properly signed. The file has been replaced with the signed file. The system has been shut down.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC00002D1",
+  "originalCodeUrl": "/win32/ntstatus-h/status_system_image_bad_signature/0xc00002d1/"
+}

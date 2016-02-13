@@ -1,0 +1,28 @@
+---
+output: win32\ntdsbmsg-h\hrpatchfilemismatch\0xc8000228\index.html.json
+
+title: 0xC8000228 hrPatchFileMismatch in NtDsBMsg.h
+description: The patch file is not generated from this backup.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "NtDsBMsg.h",
+  "sourceUrl": "/win32/ntdsbmsg-h/",
+  "code": "0xC8000228",
+  "codeUrl": "/win32/ntdsbmsg-h/hrpatchfilemismatch/0xc8000228/",
+  "numericCode": -939523544,
+  "define": "hrPatchFileMismatch",
+  "defineUrl": "/win32/ntdsbmsg-h/hrpatchfilemismatch/",
+  "message": "The patch file is not generated from this backup.",
+  "remarks": null,
+  "aka": [
+    "-939523544"
+  ],
+  "akaUrl": [
+    "/win32/ntdsbmsg-h/hrpatchfilemismatch/-939523544/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

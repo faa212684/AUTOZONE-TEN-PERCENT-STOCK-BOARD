@@ -1,0 +1,28 @@
+---
+output: win32\mq-h\mq_error_stale_handle\0xc00e0056\index.html.json
+
+title: 0xC00E0056 MQ_ERROR_STALE_HANDLE in Mq.h
+description: The Message Queuing service was restarted. Any open queue handles should be closed.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "Mq.h",
+  "sourceUrl": "/win32/mq-h/",
+  "code": "0xC00E0056",
+  "codeUrl": "/win32/mq-h/mq_error_stale_handle/0xc00e0056/",
+  "numericCode": -1072824234,
+  "define": "MQ_ERROR_STALE_HANDLE",
+  "defineUrl": "/win32/mq-h/mq_error_stale_handle/",
+  "message": "The Message Queuing service was restarted. Any open queue handles should be closed.",
+  "remarks": null,
+  "aka": [
+    "-1072824234"
+  ],
+  "akaUrl": [
+    "/win32/mq-h/mq_error_stale_handle/-1072824234/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\tapi3err-h\tapi_e_callcenter_group_removed\0x80040045\index.html.json
+
+title: 0x80040045 TAPI_E_CALLCENTER_GROUP_REMOVED in Tapi3Err.h
+description: The ACD Proxy has removed this Group. Operations on this object are invalid.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "Tapi3Err.h",
+  "sourceUrl": "/win32/tapi3err-h/",
+  "code": "0x80040045",
+  "codeUrl": "/win32/tapi3err-h/tapi_e_callcenter_group_removed/0x80040045/",
+  "numericCode": -2147221435,
+  "define": "TAPI_E_CALLCENTER_GROUP_REMOVED",
+  "defineUrl": "/win32/tapi3err-h/tapi_e_callcenter_group_removed/",
+  "message": "The ACD Proxy has removed this Group. Operations on this object are invalid.",
+  "remarks": null,
+  "aka": [
+    "-2147221435"
+  ],
+  "akaUrl": [
+    "/win32/tapi3err-h/tapi_e_callcenter_group_removed/-2147221435/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_cluster_cant_deserialize_data\5923\index.html.json
+
+title: 5923 ERROR_CLUSTER_CANT_DESERIALIZE_DATA in winerror.h
+description: An error occurred while deserializing a stream of cluster data.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "5923",
+  "codeUrl": "/win32/winerror-h/error_cluster_cant_deserialize_data/5923/",
+  "numericCode": 5923,
+  "define": "ERROR_CLUSTER_CANT_DESERIALIZE_DATA",
+  "defineUrl": "/win32/winerror-h/error_cluster_cant_deserialize_data/",
+  "message": "An error occurred while deserializing a stream of cluster data.",
+  "remarks": null,
+  "aka": [
+    "0x80071723",
+    "-2147018973"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_cluster_cant_deserialize_data/0x80071723/",
+    "/win32/winerror-h/error_cluster_cant_deserialize_data/-2147018973/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

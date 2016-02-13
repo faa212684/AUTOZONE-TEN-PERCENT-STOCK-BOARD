@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\dwrite_e_flowdirectionconflicts\0x8898500b\index.html.json
+
+title: 0x8898500B DWRITE_E_FLOWDIRECTIONCONFLICTS in winerror.h
+description: The flow direction conflicts with the reading direction. They must be perpendicular to each other.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8898500B",
+  "codeUrl": "/win32/winerror-h/dwrite_e_flowdirectionconflicts/0x8898500b/",
+  "numericCode": -2003283957,
+  "define": "DWRITE_E_FLOWDIRECTIONCONFLICTS",
+  "defineUrl": "/win32/winerror-h/dwrite_e_flowdirectionconflicts/",
+  "message": "The flow direction conflicts with the reading direction. They must be perpendicular to each other.",
+  "remarks": null,
+  "aka": [
+    "-2003283957"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/dwrite_e_flowdirectionconflicts/-2003283957/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

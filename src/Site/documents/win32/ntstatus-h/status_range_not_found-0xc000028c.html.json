@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_range_not_found\0xc000028c\index.html.json
+
+title: 0xC000028C STATUS_RANGE_NOT_FOUND in ntstatus.h
+description: The specified range could not be found in the range list.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000028C",
+  "codeUrl": "/win32/ntstatus-h/status_range_not_found/0xc000028c/",
+  "numericCode": -1073741172,
+  "define": "STATUS_RANGE_NOT_FOUND",
+  "defineUrl": "/win32/ntstatus-h/status_range_not_found/",
+  "message": "The specified range could not be found in the range list.",
+  "remarks": null,
+  "aka": [
+    "-1073741172"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_range_not_found/-1073741172/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

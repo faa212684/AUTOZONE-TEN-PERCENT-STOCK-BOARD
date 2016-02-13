@@ -1,0 +1,24 @@
+---
+output: bugcheck\bugcodes-h\pci_config_space_access_failure\192\index.html.json
+canonical: /bugcheck/bugcodes-h/pci_config_space_access_failure/0x000000c0/
+title: 192 PCI_CONFIG_SPACE_ACCESS_FAILURE in bugcodes.h
+description: PCI_CONFIG_SPACE_ACCESS_FAILURE
+disqus: false
+---
+{
+  "area": "bugcheck",
+  "areaUrl": "/bugcheck/",
+  "source": "bugcodes.h",
+  "sourceUrl": "/bugcheck/bugcodes-h/",
+  "code": "192",
+  "codeUrl": "/bugcheck/bugcodes-h/pci_config_space_access_failure/192/",
+  "numericCode": 0,
+  "define": "PCI_CONFIG_SPACE_ACCESS_FAILURE",
+  "defineUrl": "/bugcheck/bugcodes-h/pci_config_space_access_failure/",
+  "message": "PCI_CONFIG_SPACE_ACCESS_FAILURE",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x000000C0",
+  "originalCodeUrl": "/bugcheck/bugcodes-h/pci_config_space_access_failure/0x000000c0/"
+}

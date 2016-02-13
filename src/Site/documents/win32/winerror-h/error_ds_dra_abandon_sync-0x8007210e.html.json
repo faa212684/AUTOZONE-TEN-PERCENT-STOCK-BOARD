@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_ds_dra_abandon_sync\0x8007210e\index.html.json
+canonical: /win32/winerror-h/error_ds_dra_abandon_sync/8462/
+title: 0x8007210e ERROR_DS_DRA_ABANDON_SYNC in winerror.h
+description: The replication synchronization attempt was abandoned because of a lack of updates.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007210e",
+  "codeUrl": "/win32/winerror-h/error_ds_dra_abandon_sync/0x8007210e/",
+  "numericCode": 0,
+  "define": "ERROR_DS_DRA_ABANDON_SYNC",
+  "defineUrl": "/win32/winerror-h/error_ds_dra_abandon_sync/",
+  "message": "The replication synchronization attempt was abandoned because of a lack of updates.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "8462",
+  "originalCodeUrl": "/win32/winerror-h/error_ds_dra_abandon_sync/8462/"
+}

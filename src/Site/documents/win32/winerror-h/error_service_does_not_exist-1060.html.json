@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_service_does_not_exist\1060\index.html.json
+
+title: 1060 ERROR_SERVICE_DOES_NOT_EXIST in winerror.h
+description: The specified service does not exist as an installed service.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1060",
+  "codeUrl": "/win32/winerror-h/error_service_does_not_exist/1060/",
+  "numericCode": 1060,
+  "define": "ERROR_SERVICE_DOES_NOT_EXIST",
+  "defineUrl": "/win32/winerror-h/error_service_does_not_exist/",
+  "message": "The specified service does not exist as an installed service.",
+  "remarks": null,
+  "aka": [
+    "0x80070424",
+    "-2147023836"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_service_does_not_exist/0x80070424/",
+    "/win32/winerror-h/error_service_does_not_exist/-2147023836/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

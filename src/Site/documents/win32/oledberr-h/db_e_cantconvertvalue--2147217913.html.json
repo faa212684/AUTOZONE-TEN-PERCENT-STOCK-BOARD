@@ -1,0 +1,24 @@
+---
+output: win32\oledberr-h\db_e_cantconvertvalue\-2147217913\index.html.json
+canonical: /win32/oledberr-h/db_e_cantconvertvalue/0x80040e07/
+title: -2147217913 DB_E_CANTCONVERTVALUE in oledberr.h
+description: Data or literal value could not be converted to the type of the column in the data source, and the provider was unable to determine which columns could not be converted.  Data overflow or sign mismatch was not the cause.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "oledberr.h",
+  "sourceUrl": "/win32/oledberr-h/",
+  "code": "-2147217913",
+  "codeUrl": "/win32/oledberr-h/db_e_cantconvertvalue/-2147217913/",
+  "numericCode": 0,
+  "define": "DB_E_CANTCONVERTVALUE",
+  "defineUrl": "/win32/oledberr-h/db_e_cantconvertvalue/",
+  "message": "Data or literal value could not be converted to the type of the column in the data source, and the provider was unable to determine which columns could not be converted.  Data overflow or sign mismatch was not the cause.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80040E07",
+  "originalCodeUrl": "/win32/oledberr-h/db_e_cantconvertvalue/0x80040e07/"
+}

@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_can_not_del_local_wins\4001\index.html.json
+
+title: 4001 ERROR_CAN_NOT_DEL_LOCAL_WINS in winerror.h
+description: The local WINS cannot be deleted.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "4001",
+  "codeUrl": "/win32/winerror-h/error_can_not_del_local_wins/4001/",
+  "numericCode": 4001,
+  "define": "ERROR_CAN_NOT_DEL_LOCAL_WINS",
+  "defineUrl": "/win32/winerror-h/error_can_not_del_local_wins/",
+  "message": "The local WINS cannot be deleted.",
+  "remarks": null,
+  "aka": [
+    "0x80070fa1",
+    "-2147020895"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_can_not_del_local_wins/0x80070fa1/",
+    "/win32/winerror-h/error_can_not_del_local_wins/-2147020895/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

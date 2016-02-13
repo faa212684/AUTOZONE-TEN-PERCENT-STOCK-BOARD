@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\wer_s_report_debug\0x001b0000\index.html.json
+
+title: 0x001B0000 WER_S_REPORT_DEBUG in winerror.h
+description: Debugger was attached.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x001B0000",
+  "codeUrl": "/win32/winerror-h/wer_s_report_debug/0x001b0000/",
+  "numericCode": 1769472,
+  "define": "WER_S_REPORT_DEBUG",
+  "defineUrl": "/win32/winerror-h/wer_s_report_debug/",
+  "message": "Debugger was attached.",
+  "remarks": null,
+  "aka": [
+    "1769472"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/wer_s_report_debug/1769472/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

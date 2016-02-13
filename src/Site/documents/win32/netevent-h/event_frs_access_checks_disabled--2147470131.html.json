@@ -1,0 +1,35 @@
+---
+output: win32\netevent-h\event_frs_access_checks_disabled\-2147470131\index.html.json
+canonical: /win32/netevent-h/event_frs_access_checks_disabled/0x800034cd/
+title: -2147470131 EVENT_FRS_ACCESS_CHECKS_DISABLED in netevent.h
+description: The File Replication Service will not check access to the API "%1".
+%n
+%nAccess checks can be enabled for "%1" by running regedt32.
+%n
+%nClick on Start, Run, and type regedt32.
+%n
+%nClick on the window entitled HKEY_LOCAL_MACHINE. Double click on SYSTEM,
+CurrentControlSet, Services, NtFrs, Parameters, Access Checks, "%1", and "%2".
+Change the string to Enabled.
+%n
+%nPermissions can be changed by highlighting "%1" and then clicking on the
+toolbar option Security and then Permissions...
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "-2147470131",
+  "codeUrl": "/win32/netevent-h/event_frs_access_checks_disabled/-2147470131/",
+  "numericCode": 0,
+  "define": "EVENT_FRS_ACCESS_CHECKS_DISABLED",
+  "defineUrl": "/win32/netevent-h/event_frs_access_checks_disabled/",
+  "message": "The File Replication Service will not check access to the API \"%1\".\r\n%n\r\n%nAccess checks can be enabled for \"%1\" by running regedt32.\r\n%n\r\n%nClick on Start, Run, and type regedt32.\r\n%n\r\n%nClick on the window entitled HKEY_LOCAL_MACHINE. Double click on SYSTEM,\r\nCurrentControlSet, Services, NtFrs, Parameters, Access Checks, \"%1\", and \"%2\".\r\nChange the string to Enabled.\r\n%n\r\n%nPermissions can be changed by highlighting \"%1\" and then clicking on the\r\ntoolbar option Security and then Permissions...",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x800034CD",
+  "originalCodeUrl": "/win32/netevent-h/event_frs_access_checks_disabled/0x800034cd/"
+}

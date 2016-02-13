@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_graphics_inconsistent_device_link_state\0xc01e0436\index.html.json
+
+title: 0xC01E0436 STATUS_GRAPHICS_INCONSISTENT_DEVICE_LINK_STATE in ntstatus.h
+description: The adapter link was found to be in an inconsistent state. Not all adapters are in an expected PNP/Power state.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC01E0436",
+  "codeUrl": "/win32/ntstatus-h/status_graphics_inconsistent_device_link_state/0xc01e0436/",
+  "numericCode": -1071774666,
+  "define": "STATUS_GRAPHICS_INCONSISTENT_DEVICE_LINK_STATE",
+  "defineUrl": "/win32/ntstatus-h/status_graphics_inconsistent_device_link_state/",
+  "message": "The adapter link was found to be in an inconsistent state. Not all adapters are in an expected PNP/Power state.",
+  "remarks": null,
+  "aka": [
+    "-1071774666"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_graphics_inconsistent_device_link_state/-1071774666/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

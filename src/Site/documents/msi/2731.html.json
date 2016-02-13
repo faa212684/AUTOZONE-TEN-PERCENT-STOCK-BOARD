@@ -1,0 +1,24 @@
+---
+output: msi\2731\index.html.json
+
+title: msi 2731
+description: Selection Manager not initialized.
+disqus: true
+---
+{
+  "area": "msi",
+  "areaUrl": "/msi/",
+  "source": null,
+  "sourceUrl": "/msi/",
+  "code": "2731",
+  "codeUrl": "/msi/2731/",
+  "numericCode": 2731,
+  "define": null,
+  "defineUrl": "/msi/",
+  "message": "Selection Manager not initialized.",
+  "remarks": "The selection manager is responsible for determining component and feature states. It is initialized during the costing actions (\r\n<a href=\"https://msdn.microsoft.com/en-us/library/aa368050(v=vs.85).aspx\">CostInitialize action</a>, \r\n<a href=\"https://msdn.microsoft.com/en-us/library/aa368589(v=vs.85).aspx\">FileCost action</a>, and \r\n<a href=\"https://msdn.microsoft.com/en-us/library/aa368048(v=vs.85).aspx\">CostFinalize action</a>.) A standard action or custom action made a call to a function requiring the selection manager before the initialization of the selection manager. This action should be sequenced after the costing actions.",
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": null,
+  "originalCodeUrl": null
+}

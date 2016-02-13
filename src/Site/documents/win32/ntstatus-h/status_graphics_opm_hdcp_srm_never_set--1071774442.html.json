@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_graphics_opm_hdcp_srm_never_set\-1071774442\index.html.json
+canonical: /win32/ntstatus-h/status_graphics_opm_hdcp_srm_never_set/0xc01e0516/
+title: -1071774442 STATUS_GRAPHICS_OPM_HDCP_SRM_NEVER_SET in ntstatus.h
+description: The DxgkDdiOPMGetInformation function cannot return the version of the SRM being used because the application never successfully passed an SRM to the protected output.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071774442",
+  "codeUrl": "/win32/ntstatus-h/status_graphics_opm_hdcp_srm_never_set/-1071774442/",
+  "numericCode": 0,
+  "define": "STATUS_GRAPHICS_OPM_HDCP_SRM_NEVER_SET",
+  "defineUrl": "/win32/ntstatus-h/status_graphics_opm_hdcp_srm_never_set/",
+  "message": "The DxgkDdiOPMGetInformation function cannot return the version of the SRM being used because the application never successfully passed an SRM to the protected output.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC01E0516",
+  "originalCodeUrl": "/win32/ntstatus-h/status_graphics_opm_hdcp_srm_never_set/0xc01e0516/"
+}

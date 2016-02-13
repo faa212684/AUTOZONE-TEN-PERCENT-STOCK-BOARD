@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_bth_att_insufficient_encryption_key_size\-1069416436\index.html.json
+canonical: /win32/ntstatus-h/status_bth_att_insufficient_encryption_key_size/0xc042000c/
+title: -1069416436 STATUS_BTH_ATT_INSUFFICIENT_ENCRYPTION_KEY_SIZE in ntstatus.h
+description: The Encryption Key Size used for encrypting this link is insufficient.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1069416436",
+  "codeUrl": "/win32/ntstatus-h/status_bth_att_insufficient_encryption_key_size/-1069416436/",
+  "numericCode": 0,
+  "define": "STATUS_BTH_ATT_INSUFFICIENT_ENCRYPTION_KEY_SIZE",
+  "defineUrl": "/win32/ntstatus-h/status_bth_att_insufficient_encryption_key_size/",
+  "message": "The Encryption Key Size used for encrypting this link is insufficient.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC042000C",
+  "originalCodeUrl": "/win32/ntstatus-h/status_bth_att_insufficient_encryption_key_size/0xc042000c/"
+}

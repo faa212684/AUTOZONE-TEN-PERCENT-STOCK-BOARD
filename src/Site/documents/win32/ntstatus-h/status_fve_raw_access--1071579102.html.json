@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_fve_raw_access\-1071579102\index.html.json
+canonical: /win32/ntstatus-h/status_fve_raw_access/0xc0210022/
+title: -1071579102 STATUS_FVE_RAW_ACCESS in ntstatus.h
+description: No action was taken as BitLocker Drive Encryption is in RAW access mode.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071579102",
+  "codeUrl": "/win32/ntstatus-h/status_fve_raw_access/-1071579102/",
+  "numericCode": 0,
+  "define": "STATUS_FVE_RAW_ACCESS",
+  "defineUrl": "/win32/ntstatus-h/status_fve_raw_access/",
+  "message": "No action was taken as BitLocker Drive Encryption is in RAW access mode.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0210022",
+  "originalCodeUrl": "/win32/ntstatus-h/status_fve_raw_access/0xc0210022/"
+}

@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_tm_identity_mismatch\0x80071abd\index.html.json
+canonical: /win32/winerror-h/error_tm_identity_mismatch/6845/
+title: 0x80071abd ERROR_TM_IDENTITY_MISMATCH in winerror.h
+description: The call to create a TransactionManager object failed because the Tm Identity stored in the logfile does not match the Tm Identity that was passed in as an argument.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80071abd",
+  "codeUrl": "/win32/winerror-h/error_tm_identity_mismatch/0x80071abd/",
+  "numericCode": 0,
+  "define": "ERROR_TM_IDENTITY_MISMATCH",
+  "defineUrl": "/win32/winerror-h/error_tm_identity_mismatch/",
+  "message": "The call to create a TransactionManager object failed because the Tm Identity stored in the logfile does not match the Tm Identity that was passed in as an argument.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "6845",
+  "originalCodeUrl": "/win32/winerror-h/error_tm_identity_mismatch/6845/"
+}

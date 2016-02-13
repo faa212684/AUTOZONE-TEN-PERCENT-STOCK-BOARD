@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\ws_e_endpoint_failure\0x803d000f\index.html.json
+
+title: 0x803D000F WS_E_ENDPOINT_FAILURE in winerror.h
+description: The remote endpoint could not process the request.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x803D000F",
+  "codeUrl": "/win32/winerror-h/ws_e_endpoint_failure/0x803d000f/",
+  "numericCode": -2143485937,
+  "define": "WS_E_ENDPOINT_FAILURE",
+  "defineUrl": "/win32/winerror-h/ws_e_endpoint_failure/",
+  "message": "The remote endpoint could not process the request.",
+  "remarks": null,
+  "aka": [
+    "-2143485937"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/ws_e_endpoint_failure/-2143485937/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

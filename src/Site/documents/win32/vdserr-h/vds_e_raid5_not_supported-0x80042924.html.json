@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_e_raid5_not_supported\0x80042924\index.html.json
+
+title: 0x80042924 VDS_E_RAID5_NOT_SUPPORTED in vdserr.h
+description: RAID-5 volumes are not supported by this operating system.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x80042924",
+  "codeUrl": "/win32/vdserr-h/vds_e_raid5_not_supported/0x80042924/",
+  "numericCode": -2147210972,
+  "define": "VDS_E_RAID5_NOT_SUPPORTED",
+  "defineUrl": "/win32/vdserr-h/vds_e_raid5_not_supported/",
+  "message": "RAID-5 volumes are not supported by this operating system.",
+  "remarks": null,
+  "aka": [
+    "-2147210972"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_raid5_not_supported/-2147210972/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,29 @@
+---
+output: win32\wsmerror-h\error_wsman_client_invalid_ui_language\0x80338195\index.html.json
+
+title: 0x80338195 ERROR_WSMAN_CLIENT_INVALID_UI_LANGUAGE in wsmerror.h
+description: The WinRM client cannot process the request. The UI language option is invalid.
+Change the UI language and try again.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x80338195",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_client_invalid_ui_language/0x80338195/",
+  "numericCode": -2144108139,
+  "define": "ERROR_WSMAN_CLIENT_INVALID_UI_LANGUAGE",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_client_invalid_ui_language/",
+  "message": "The WinRM client cannot process the request. The UI language option is invalid.\r\nChange the UI language and try again.",
+  "remarks": null,
+  "aka": [
+    "-2144108139"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_client_invalid_ui_language/-2144108139/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

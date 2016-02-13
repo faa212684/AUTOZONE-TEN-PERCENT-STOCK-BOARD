@@ -1,0 +1,24 @@
+---
+output: msi\1723\index.html.json
+
+title: msi 1723
+description: There is a problem with this Windows Installer package. A DLL required for this install to complete could not be run. Contact your support personnel or package vendor. Action [2], entry: [3], library: [4]
+disqus: true
+---
+{
+  "area": "msi",
+  "areaUrl": "/msi/",
+  "source": null,
+  "sourceUrl": "/msi/",
+  "code": "1723",
+  "codeUrl": "/msi/1723/",
+  "numericCode": 1723,
+  "define": null,
+  "defineUrl": "/msi/",
+  "message": "There is a problem with this Windows Installer package. A DLL required for this install to complete could not be run. Contact your support personnel or package vendor. Action [2], entry: [3], library: [4]",
+  "remarks": "Ensure that the functions used by custom actions are actually exported. For more information about custom actions based upon a DLL, see <a href=\"https://msdn.microsoft.com/en-us/library/aa368338(v=vs.85).aspx\">Dynamic-Link Libraries</a>.",
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": null,
+  "originalCodeUrl": null
+}

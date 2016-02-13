@@ -1,0 +1,28 @@
+---
+output: win32\wuerror-h\wu_e_reg_value_invalid\0x80240012\index.html.json
+
+title: 0x80240012 WU_E_REG_VALUE_INVALID in wuerror.h
+description: An invalid registry value was read.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wuerror.h",
+  "sourceUrl": "/win32/wuerror-h/",
+  "code": "0x80240012",
+  "codeUrl": "/win32/wuerror-h/wu_e_reg_value_invalid/0x80240012/",
+  "numericCode": -2145124334,
+  "define": "WU_E_REG_VALUE_INVALID",
+  "defineUrl": "/win32/wuerror-h/wu_e_reg_value_invalid/",
+  "message": "An invalid registry value was read.",
+  "remarks": null,
+  "aka": [
+    "-2145124334"
+  ],
+  "akaUrl": [
+    "/win32/wuerror-h/wu_e_reg_value_invalid/-2145124334/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

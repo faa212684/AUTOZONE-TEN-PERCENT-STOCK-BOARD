@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_sparse_not_allowed_in_transaction\0x80071abc\index.html.json
+canonical: /win32/winerror-h/error_sparse_not_allowed_in_transaction/6844/
+title: 0x80071abc ERROR_SPARSE_NOT_ALLOWED_IN_TRANSACTION in winerror.h
+description: The sparse operation could not be completed because a transaction is active on the file.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80071abc",
+  "codeUrl": "/win32/winerror-h/error_sparse_not_allowed_in_transaction/0x80071abc/",
+  "numericCode": 0,
+  "define": "ERROR_SPARSE_NOT_ALLOWED_IN_TRANSACTION",
+  "defineUrl": "/win32/winerror-h/error_sparse_not_allowed_in_transaction/",
+  "message": "The sparse operation could not be completed because a transaction is active on the file.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "6844",
+  "originalCodeUrl": "/win32/winerror-h/error_sparse_not_allowed_in_transaction/6844/"
+}

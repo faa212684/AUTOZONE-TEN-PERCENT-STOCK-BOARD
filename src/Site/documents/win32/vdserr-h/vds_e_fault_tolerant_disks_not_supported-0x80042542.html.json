@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_e_fault_tolerant_disks_not_supported\0x80042542\index.html.json
+
+title: 0x80042542 VDS_E_FAULT_TOLERANT_DISKS_NOT_SUPPORTED in vdserr.h
+description: The fault tolerant disks are not supported by this operating system.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x80042542",
+  "codeUrl": "/win32/vdserr-h/vds_e_fault_tolerant_disks_not_supported/0x80042542/",
+  "numericCode": -2147211966,
+  "define": "VDS_E_FAULT_TOLERANT_DISKS_NOT_SUPPORTED",
+  "defineUrl": "/win32/vdserr-h/vds_e_fault_tolerant_disks_not_supported/",
+  "message": "The fault tolerant disks are not supported by this operating system.",
+  "remarks": null,
+  "aka": [
+    "-2147211966"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_fault_tolerant_disks_not_supported/-2147211966/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

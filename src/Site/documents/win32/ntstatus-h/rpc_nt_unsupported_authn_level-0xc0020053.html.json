@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\rpc_nt_unsupported_authn_level\0xc0020053\index.html.json
+
+title: 0xC0020053 RPC_NT_UNSUPPORTED_AUTHN_LEVEL in ntstatus.h
+description: The requested authentication level is not supported.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0020053",
+  "codeUrl": "/win32/ntstatus-h/rpc_nt_unsupported_authn_level/0xc0020053/",
+  "numericCode": -1073610669,
+  "define": "RPC_NT_UNSUPPORTED_AUTHN_LEVEL",
+  "defineUrl": "/win32/ntstatus-h/rpc_nt_unsupported_authn_level/",
+  "message": "The requested authentication level is not supported.",
+  "remarks": null,
+  "aka": [
+    "-1073610669"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/rpc_nt_unsupported_authn_level/-1073610669/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

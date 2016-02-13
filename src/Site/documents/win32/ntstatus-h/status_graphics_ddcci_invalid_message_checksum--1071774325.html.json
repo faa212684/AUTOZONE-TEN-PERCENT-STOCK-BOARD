@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_graphics_ddcci_invalid_message_checksum\-1071774325\index.html.json
+canonical: /win32/ntstatus-h/status_graphics_ddcci_invalid_message_checksum/0xc01e058b/
+title: -1071774325 STATUS_GRAPHICS_DDCCI_INVALID_MESSAGE_CHECKSUM in ntstatus.h
+description: An error occurred because the checksum field in a DDC/CI message did not match the message's computed checksum value. This error implies that the data was corrupted while it was being transmitted from a monitor to a computer.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071774325",
+  "codeUrl": "/win32/ntstatus-h/status_graphics_ddcci_invalid_message_checksum/-1071774325/",
+  "numericCode": 0,
+  "define": "STATUS_GRAPHICS_DDCCI_INVALID_MESSAGE_CHECKSUM",
+  "defineUrl": "/win32/ntstatus-h/status_graphics_ddcci_invalid_message_checksum/",
+  "message": "An error occurred because the checksum field in a DDC/CI message did not match the message's computed checksum value. This error implies that the data was corrupted while it was being transmitted from a monitor to a computer.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC01E058B",
+  "originalCodeUrl": "/win32/ntstatus-h/status_graphics_ddcci_invalid_message_checksum/0xc01e058b/"
+}

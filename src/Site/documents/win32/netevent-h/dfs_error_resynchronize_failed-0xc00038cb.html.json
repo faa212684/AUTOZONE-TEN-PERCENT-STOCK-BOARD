@@ -1,0 +1,30 @@
+---
+output: win32\netevent-h\dfs_error_resynchronize_failed\0xc00038cb\index.html.json
+
+title: 0xC00038CB DFS_ERROR_RESYNCHRONIZE_FAILED in netevent.h
+description: DFS was unable to resynchronize this root target for root: %1. This may lead to inaccessability of portions of the DFS namespace. 
+Please verify the share %1 has all the link directories created for the DFS links. This error may occur if there are directories 
+on this share that may be preventing creation of links.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC00038CB",
+  "codeUrl": "/win32/netevent-h/dfs_error_resynchronize_failed/0xc00038cb/",
+  "numericCode": -1073727285,
+  "define": "DFS_ERROR_RESYNCHRONIZE_FAILED",
+  "defineUrl": "/win32/netevent-h/dfs_error_resynchronize_failed/",
+  "message": "DFS was unable to resynchronize this root target for root: %1. This may lead to inaccessability of portions of the DFS namespace. \r\nPlease verify the share %1 has all the link directories created for the DFS links. This error may occur if there are directories \r\non this share that may be preventing creation of links.",
+  "remarks": null,
+  "aka": [
+    "-1073727285"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/dfs_error_resynchronize_failed/-1073727285/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

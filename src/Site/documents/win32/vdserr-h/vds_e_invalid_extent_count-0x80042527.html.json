@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_e_invalid_extent_count\0x80042527\index.html.json
+
+title: 0x80042527 VDS_E_INVALID_EXTENT_COUNT in vdserr.h
+description: An invalid number of extents was specified for at least one disk.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x80042527",
+  "codeUrl": "/win32/vdserr-h/vds_e_invalid_extent_count/0x80042527/",
+  "numericCode": -2147211993,
+  "define": "VDS_E_INVALID_EXTENT_COUNT",
+  "defineUrl": "/win32/vdserr-h/vds_e_invalid_extent_count/",
+  "message": "An invalid number of extents was specified for at least one disk.",
+  "remarks": null,
+  "aka": [
+    "-2147211993"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_invalid_extent_count/-2147211993/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

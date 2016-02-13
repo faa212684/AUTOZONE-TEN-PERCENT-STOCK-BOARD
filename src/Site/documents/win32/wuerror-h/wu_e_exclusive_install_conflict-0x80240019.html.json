@@ -1,0 +1,28 @@
+---
+output: win32\wuerror-h\wu_e_exclusive_install_conflict\0x80240019\index.html.json
+
+title: 0x80240019 WU_E_EXCLUSIVE_INSTALL_CONFLICT in wuerror.h
+description: An exclusive update cannot be installed with other updates at the same time.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wuerror.h",
+  "sourceUrl": "/win32/wuerror-h/",
+  "code": "0x80240019",
+  "codeUrl": "/win32/wuerror-h/wu_e_exclusive_install_conflict/0x80240019/",
+  "numericCode": -2145124327,
+  "define": "WU_E_EXCLUSIVE_INSTALL_CONFLICT",
+  "defineUrl": "/win32/wuerror-h/wu_e_exclusive_install_conflict/",
+  "message": "An exclusive update cannot be installed with other updates at the same time.",
+  "remarks": null,
+  "aka": [
+    "-2145124327"
+  ],
+  "akaUrl": [
+    "/win32/wuerror-h/wu_e_exclusive_install_conflict/-2145124327/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\cierror-h\ci_e_sharing_violation\0x8004181b\index.html.json
+
+title: 0x8004181B CI_E_SHARING_VIOLATION in CiError.h
+description: A sharing or locking violation caused a failure.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "CiError.h",
+  "sourceUrl": "/win32/cierror-h/",
+  "code": "0x8004181B",
+  "codeUrl": "/win32/cierror-h/ci_e_sharing_violation/0x8004181b/",
+  "numericCode": -2147215333,
+  "define": "CI_E_SHARING_VIOLATION",
+  "defineUrl": "/win32/cierror-h/ci_e_sharing_violation/",
+  "message": "A sharing or locking violation caused a failure.",
+  "remarks": null,
+  "aka": [
+    "-2147215333"
+  ],
+  "akaUrl": [
+    "/win32/cierror-h/ci_e_sharing_violation/-2147215333/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

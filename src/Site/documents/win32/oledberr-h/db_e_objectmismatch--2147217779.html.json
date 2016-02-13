@@ -1,0 +1,24 @@
+---
+output: win32\oledberr-h\db_e_objectmismatch\-2147217779\index.html.json
+canonical: /win32/oledberr-h/db_e_objectmismatch/0x80040e8d/
+title: -2147217779 DB_E_OBJECTMISMATCH in oledberr.h
+description: rguidColumnType points to a GUID that does not match the object type of this column, or this column was not set.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "oledberr.h",
+  "sourceUrl": "/win32/oledberr-h/",
+  "code": "-2147217779",
+  "codeUrl": "/win32/oledberr-h/db_e_objectmismatch/-2147217779/",
+  "numericCode": 0,
+  "define": "DB_E_OBJECTMISMATCH",
+  "defineUrl": "/win32/oledberr-h/db_e_objectmismatch/",
+  "message": "rguidColumnType points to a GUID that does not match the object type of this column, or this column was not set.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80040E8D",
+  "originalCodeUrl": "/win32/oledberr-h/db_e_objectmismatch/0x80040e8d/"
+}

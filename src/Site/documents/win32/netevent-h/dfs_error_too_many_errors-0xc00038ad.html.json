@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\dfs_error_too_many_errors\0xc00038ad\index.html.json
+
+title: 0xC00038AD DFS_ERROR_TOO_MANY_ERRORS in netevent.h
+description: Root %1 has too many errors. No further eventlogs will be logged on this root.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC00038AD",
+  "codeUrl": "/win32/netevent-h/dfs_error_too_many_errors/0xc00038ad/",
+  "numericCode": -1073727315,
+  "define": "DFS_ERROR_TOO_MANY_ERRORS",
+  "defineUrl": "/win32/netevent-h/dfs_error_too_many_errors/",
+  "message": "Root %1 has too many errors. No further eventlogs will be logged on this root.",
+  "remarks": null,
+  "aka": [
+    "-1073727315"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/dfs_error_too_many_errors/-1073727315/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

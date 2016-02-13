@@ -1,0 +1,28 @@
+---
+output: win32\oledberr-h\db_e_objectcreationlimitreached\0x80040e69\index.html.json
+
+title: 0x80040E69 DB_E_OBJECTCREATIONLIMITREACHED in oledberr.h
+description: Session cannot be created because maximum number of active sessions was already reached. Consumer must release one or more sessions before creating a new session object.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "oledberr.h",
+  "sourceUrl": "/win32/oledberr-h/",
+  "code": "0x80040E69",
+  "codeUrl": "/win32/oledberr-h/db_e_objectcreationlimitreached/0x80040e69/",
+  "numericCode": -2147217815,
+  "define": "DB_E_OBJECTCREATIONLIMITREACHED",
+  "defineUrl": "/win32/oledberr-h/db_e_objectcreationlimitreached/",
+  "message": "Session cannot be created because maximum number of active sessions was already reached. Consumer must release one or more sessions before creating a new session object.",
+  "remarks": null,
+  "aka": [
+    "-2147217815"
+  ],
+  "akaUrl": [
+    "/win32/oledberr-h/db_e_objectcreationlimitreached/-2147217815/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

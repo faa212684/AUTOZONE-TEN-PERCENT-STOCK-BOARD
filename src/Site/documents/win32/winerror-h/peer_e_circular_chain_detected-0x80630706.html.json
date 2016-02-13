@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\peer_e_circular_chain_detected\0x80630706\index.html.json
+
+title: 0x80630706 PEER_E_CIRCULAR_CHAIN_DETECTED in winerror.h
+description: A circular cert chain was detected.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80630706",
+  "codeUrl": "/win32/winerror-h/peer_e_circular_chain_detected/0x80630706/",
+  "numericCode": -2140993786,
+  "define": "PEER_E_CIRCULAR_CHAIN_DETECTED",
+  "defineUrl": "/win32/winerror-h/peer_e_circular_chain_detected/",
+  "message": "A circular cert chain was detected.",
+  "remarks": null,
+  "aka": [
+    "-2140993786"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/peer_e_circular_chain_detected/-2140993786/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

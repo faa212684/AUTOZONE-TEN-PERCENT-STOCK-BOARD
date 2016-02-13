@@ -1,0 +1,29 @@
+---
+output: win32\wsmerror-h\error_wsman_client_blank_uri\0x803380bf\index.html.json
+
+title: 0x803380BF ERROR_WSMAN_CLIENT_BLANK_URI in wsmerror.h
+description: The WinRM client cannot process the request. The resource URI must not be "" (blank or empty string) or NULL.
+Change the resource URI and try the request again.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x803380BF",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_client_blank_uri/0x803380bf/",
+  "numericCode": -2144108353,
+  "define": "ERROR_WSMAN_CLIENT_BLANK_URI",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_client_blank_uri/",
+  "message": "The WinRM client cannot process the request. The resource URI must not be \"\" (blank or empty string) or NULL.\r\nChange the resource URI and try the request again.",
+  "remarks": null,
+  "aka": [
+    "-2144108353"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_client_blank_uri/-2144108353/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

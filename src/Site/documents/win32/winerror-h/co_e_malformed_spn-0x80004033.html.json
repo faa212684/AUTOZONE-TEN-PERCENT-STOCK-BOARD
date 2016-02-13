@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\co_e_malformed_spn\0x80004033\index.html.json
+
+title: 0x80004033 CO_E_MALFORMED_SPN in winerror.h
+description: The server principal name (SPN) obtained during security negotiation is malformed.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80004033",
+  "codeUrl": "/win32/winerror-h/co_e_malformed_spn/0x80004033/",
+  "numericCode": -2147467213,
+  "define": "CO_E_MALFORMED_SPN",
+  "defineUrl": "/win32/winerror-h/co_e_malformed_spn/",
+  "message": "The server principal name (SPN) obtained during security negotiation is malformed.",
+  "remarks": null,
+  "aka": [
+    "-2147467213"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/co_e_malformed_spn/-2147467213/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

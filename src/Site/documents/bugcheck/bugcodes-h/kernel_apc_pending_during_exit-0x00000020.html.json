@@ -1,0 +1,28 @@
+---
+output: bugcheck\bugcodes-h\kernel_apc_pending_during_exit\0x00000020\index.html.json
+
+title: 0x00000020 KERNEL_APC_PENDING_DURING_EXIT in bugcodes.h
+description: KERNEL_APC_PENDING_DURING_EXIT
+disqus: true
+---
+{
+  "area": "bugcheck",
+  "areaUrl": "/bugcheck/",
+  "source": "bugcodes.h",
+  "sourceUrl": "/bugcheck/bugcodes-h/",
+  "code": "0x00000020",
+  "codeUrl": "/bugcheck/bugcodes-h/kernel_apc_pending_during_exit/0x00000020/",
+  "numericCode": 32,
+  "define": "KERNEL_APC_PENDING_DURING_EXIT",
+  "defineUrl": "/bugcheck/bugcodes-h/kernel_apc_pending_during_exit/",
+  "message": "KERNEL_APC_PENDING_DURING_EXIT",
+  "remarks": null,
+  "aka": [
+    "32"
+  ],
+  "akaUrl": [
+    "/bugcheck/bugcodes-h/kernel_apc_pending_during_exit/32/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

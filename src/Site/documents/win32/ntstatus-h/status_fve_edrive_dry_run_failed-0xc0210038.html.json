@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_fve_edrive_dry_run_failed\0xc0210038\index.html.json
+
+title: 0xC0210038 STATUS_FVE_EDRIVE_DRY_RUN_FAILED in ntstatus.h
+description: Your computer doesn't support BitLocker hardware-based encryption. Check with your computer manufacturer for firmware updates.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0210038",
+  "codeUrl": "/win32/ntstatus-h/status_fve_edrive_dry_run_failed/0xc0210038/",
+  "numericCode": -1071579080,
+  "define": "STATUS_FVE_EDRIVE_DRY_RUN_FAILED",
+  "defineUrl": "/win32/ntstatus-h/status_fve_edrive_dry_run_failed/",
+  "message": "Your computer doesn't support BitLocker hardware-based encryption. Check with your computer manufacturer for firmware updates.",
+  "remarks": null,
+  "aka": [
+    "-1071579080"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_fve_edrive_dry_run_failed/-1071579080/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

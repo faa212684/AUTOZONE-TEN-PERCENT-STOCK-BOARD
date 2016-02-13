@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\dns_status_dotted_name\9558\index.html.json
+
+title: 9558 DNS_STATUS_DOTTED_NAME in winerror.h
+description: DNS name is dotted (multi-label).
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "9558",
+  "codeUrl": "/win32/winerror-h/dns_status_dotted_name/9558/",
+  "numericCode": 9558,
+  "define": "DNS_STATUS_DOTTED_NAME",
+  "defineUrl": "/win32/winerror-h/dns_status_dotted_name/",
+  "message": "DNS name is dotted (multi-label).",
+  "remarks": null,
+  "aka": [
+    "0x80072556",
+    "-2147015338"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/dns_status_dotted_name/0x80072556/",
+    "/win32/winerror-h/dns_status_dotted_name/-2147015338/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

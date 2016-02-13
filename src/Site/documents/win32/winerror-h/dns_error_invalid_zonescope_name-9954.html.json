@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\dns_error_invalid_zonescope_name\9954\index.html.json
+
+title: 9954 DNS_ERROR_INVALID_ZONESCOPE_NAME in winerror.h
+description: The scope name contains invalid characters.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "9954",
+  "codeUrl": "/win32/winerror-h/dns_error_invalid_zonescope_name/9954/",
+  "numericCode": 9954,
+  "define": "DNS_ERROR_INVALID_ZONESCOPE_NAME",
+  "defineUrl": "/win32/winerror-h/dns_error_invalid_zonescope_name/",
+  "message": "The scope name contains invalid characters.",
+  "remarks": null,
+  "aka": [
+    "0x800726e2",
+    "-2147014942"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/dns_error_invalid_zonescope_name/0x800726e2/",
+    "/win32/winerror-h/dns_error_invalid_zonescope_name/-2147014942/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

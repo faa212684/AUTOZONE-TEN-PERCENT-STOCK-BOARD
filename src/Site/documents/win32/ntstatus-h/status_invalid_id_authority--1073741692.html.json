@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_invalid_id_authority\-1073741692\index.html.json
+canonical: /win32/ntstatus-h/status_invalid_id_authority/0xc0000084/
+title: -1073741692 STATUS_INVALID_ID_AUTHORITY in ntstatus.h
+description: The value provided was an invalid value for an identifier authority.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741692",
+  "codeUrl": "/win32/ntstatus-h/status_invalid_id_authority/-1073741692/",
+  "numericCode": 0,
+  "define": "STATUS_INVALID_ID_AUTHORITY",
+  "defineUrl": "/win32/ntstatus-h/status_invalid_id_authority/",
+  "message": "The value provided was an invalid value for an identifier authority.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000084",
+  "originalCodeUrl": "/win32/ntstatus-h/status_invalid_id_authority/0xc0000084/"
+}

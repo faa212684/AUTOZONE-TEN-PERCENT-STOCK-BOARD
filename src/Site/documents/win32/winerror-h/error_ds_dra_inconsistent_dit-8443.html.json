@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ds_dra_inconsistent_dit\8443\index.html.json
+
+title: 8443 ERROR_DS_DRA_INCONSISTENT_DIT in winerror.h
+description: The replication operation encountered a database inconsistency.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "8443",
+  "codeUrl": "/win32/winerror-h/error_ds_dra_inconsistent_dit/8443/",
+  "numericCode": 8443,
+  "define": "ERROR_DS_DRA_INCONSISTENT_DIT",
+  "defineUrl": "/win32/winerror-h/error_ds_dra_inconsistent_dit/",
+  "message": "The replication operation encountered a database inconsistency.",
+  "remarks": null,
+  "aka": [
+    "0x800720fb",
+    "-2147016453"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ds_dra_inconsistent_dit/0x800720fb/",
+    "/win32/winerror-h/error_ds_dra_inconsistent_dit/-2147016453/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

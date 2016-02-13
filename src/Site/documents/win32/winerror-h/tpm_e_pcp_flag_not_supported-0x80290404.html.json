@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\tpm_e_pcp_flag_not_supported\0x80290404\index.html.json
+
+title: 0x80290404 TPM_E_PCP_FLAG_NOT_SUPPORTED in winerror.h
+description: A provided flag to the Platform Crypto Provider is not supported.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80290404",
+  "codeUrl": "/win32/winerror-h/tpm_e_pcp_flag_not_supported/0x80290404/",
+  "numericCode": -2144795644,
+  "define": "TPM_E_PCP_FLAG_NOT_SUPPORTED",
+  "defineUrl": "/win32/winerror-h/tpm_e_pcp_flag_not_supported/",
+  "message": "A provided flag to the Platform Crypto Provider is not supported.",
+  "remarks": null,
+  "aka": [
+    "-2144795644"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/tpm_e_pcp_flag_not_supported/-2144795644/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

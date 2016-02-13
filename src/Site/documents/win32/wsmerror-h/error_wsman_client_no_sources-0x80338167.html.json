@@ -1,0 +1,29 @@
+---
+output: win32\wsmerror-h\error_wsman_client_no_sources\0x80338167\index.html.json
+
+title: 0x80338167 ERROR_WSMAN_CLIENT_NO_SOURCES in wsmerror.h
+description: The WinRM client cannot process the request because the subscription contains no domain or non-domain sources.
+Subscriptions using WSMAN_MULTIPLE_PUBLISHERS must specify either a security descriptor or an issuer list or both.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x80338167",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_client_no_sources/0x80338167/",
+  "numericCode": -2144108185,
+  "define": "ERROR_WSMAN_CLIENT_NO_SOURCES",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_client_no_sources/",
+  "message": "The WinRM client cannot process the request because the subscription contains no domain or non-domain sources.\r\nSubscriptions using WSMAN_MULTIPLE_PUBLISHERS must specify either a security descriptor or an issuer list or both.",
+  "remarks": null,
+  "aka": [
+    "-2144108185"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_client_no_sources/-2144108185/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\oledberr-h\db_e_resourcelocked\0x80040e92\index.html.json
+
+title: 0x80040E92 DB_E_RESOURCELOCKED in oledberr.h
+description: OLE DB object represented by this URL is locked by one or more other processes.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "oledberr.h",
+  "sourceUrl": "/win32/oledberr-h/",
+  "code": "0x80040E92",
+  "codeUrl": "/win32/oledberr-h/db_e_resourcelocked/0x80040e92/",
+  "numericCode": -2147217774,
+  "define": "DB_E_RESOURCELOCKED",
+  "defineUrl": "/win32/oledberr-h/db_e_resourcelocked/",
+  "message": "OLE DB object represented by this URL is locked by one or more other processes.",
+  "remarks": null,
+  "aka": [
+    "-2147217774"
+  ],
+  "akaUrl": [
+    "/win32/oledberr-h/db_e_resourcelocked/-2147217774/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_discarded\157\index.html.json
+
+title: 157 ERROR_DISCARDED in winerror.h
+description: The segment is already discarded and cannot be locked.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "157",
+  "codeUrl": "/win32/winerror-h/error_discarded/157/",
+  "numericCode": 157,
+  "define": "ERROR_DISCARDED",
+  "defineUrl": "/win32/winerror-h/error_discarded/",
+  "message": "The segment is already discarded and cannot be locked.",
+  "remarks": null,
+  "aka": [
+    "0x8007009d",
+    "-2147024739"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_discarded/0x8007009d/",
+    "/win32/winerror-h/error_discarded/-2147024739/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

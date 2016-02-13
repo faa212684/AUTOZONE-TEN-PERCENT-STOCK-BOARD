@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_compressed_file_not_supported\0xc000047b\index.html.json
+
+title: 0xC000047B STATUS_COMPRESSED_FILE_NOT_SUPPORTED in ntstatus.h
+description: An operation is not supported on a compressed file.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000047B",
+  "codeUrl": "/win32/ntstatus-h/status_compressed_file_not_supported/0xc000047b/",
+  "numericCode": -1073740677,
+  "define": "STATUS_COMPRESSED_FILE_NOT_SUPPORTED",
+  "defineUrl": "/win32/ntstatus-h/status_compressed_file_not_supported/",
+  "message": "An operation is not supported on a compressed file.",
+  "remarks": null,
+  "aka": [
+    "-1073740677"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_compressed_file_not_supported/-1073740677/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

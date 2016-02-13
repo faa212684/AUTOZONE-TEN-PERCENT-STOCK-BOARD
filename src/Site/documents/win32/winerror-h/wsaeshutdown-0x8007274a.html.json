@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\wsaeshutdown\0x8007274a\index.html.json
+canonical: /win32/winerror-h/wsaeshutdown/10058/
+title: 0x8007274a WSAESHUTDOWN in winerror.h
+description: A request to send or receive data was disallowed because the socket had already been shut down in that direction with a previous shutdown call.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007274a",
+  "codeUrl": "/win32/winerror-h/wsaeshutdown/0x8007274a/",
+  "numericCode": 0,
+  "define": "WSAESHUTDOWN",
+  "defineUrl": "/win32/winerror-h/wsaeshutdown/",
+  "message": "A request to send or receive data was disallowed because the socket had already been shut down in that direction with a previous shutdown call.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "10058",
+  "originalCodeUrl": "/win32/winerror-h/wsaeshutdown/10058/"
+}

@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_srv_cant_create_device\0xc00007d2\index.html.json
+
+title: 0xC00007D2 EVENT_SRV_CANT_CREATE_DEVICE in netevent.h
+description: The server could not create its device.  The server could not be started.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC00007D2",
+  "codeUrl": "/win32/netevent-h/event_srv_cant_create_device/0xc00007d2/",
+  "numericCode": -1073739822,
+  "define": "EVENT_SRV_CANT_CREATE_DEVICE",
+  "defineUrl": "/win32/netevent-h/event_srv_cant_create_device/",
+  "message": "The server could not create its device.  The server could not be started.",
+  "remarks": null,
+  "aka": [
+    "-1073739822"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_srv_cant_create_device/-1073739822/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

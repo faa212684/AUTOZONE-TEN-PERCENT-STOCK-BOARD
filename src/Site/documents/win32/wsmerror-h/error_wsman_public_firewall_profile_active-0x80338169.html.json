@@ -1,0 +1,29 @@
+---
+output: win32\wsmerror-h\error_wsman_public_firewall_profile_active\0x80338169\index.html.json
+
+title: 0x80338169 ERROR_WSMAN_PUBLIC_FIREWALL_PROFILE_ACTIVE in wsmerror.h
+description: WinRM firewall exception will not work since one of the network connection types on this machine is set to Public.
+Change the network connection type to either Domain or Private and try again.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x80338169",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_public_firewall_profile_active/0x80338169/",
+  "numericCode": -2144108183,
+  "define": "ERROR_WSMAN_PUBLIC_FIREWALL_PROFILE_ACTIVE",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_public_firewall_profile_active/",
+  "message": "WinRM firewall exception will not work since one of the network connection types on this machine is set to Public.\r\nChange the network connection type to either Domain or Private and try again.",
+  "remarks": null,
+  "aka": [
+    "-2144108183"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_public_firewall_profile_active/-2144108183/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

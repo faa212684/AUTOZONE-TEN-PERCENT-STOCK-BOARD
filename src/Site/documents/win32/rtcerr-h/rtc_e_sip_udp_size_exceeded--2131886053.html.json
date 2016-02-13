@@ -1,0 +1,24 @@
+---
+output: win32\rtcerr-h\rtc_e_sip_udp_size_exceeded\-2131886053\index.html.json
+canonical: /win32/rtcerr-h/rtc_e_sip_udp_size_exceeded/0x80ee001b/
+title: -2131886053 RTC_E_SIP_UDP_SIZE_EXCEEDED in rtcerr.h
+description: The sip message size is greater than the UDP message size allowed
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "rtcerr.h",
+  "sourceUrl": "/win32/rtcerr-h/",
+  "code": "-2131886053",
+  "codeUrl": "/win32/rtcerr-h/rtc_e_sip_udp_size_exceeded/-2131886053/",
+  "numericCode": 0,
+  "define": "RTC_E_SIP_UDP_SIZE_EXCEEDED",
+  "defineUrl": "/win32/rtcerr-h/rtc_e_sip_udp_size_exceeded/",
+  "message": "The sip message size is greater than the UDP message size allowed",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80EE001B",
+  "originalCodeUrl": "/win32/rtcerr-h/rtc_e_sip_udp_size_exceeded/0x80ee001b/"
+}

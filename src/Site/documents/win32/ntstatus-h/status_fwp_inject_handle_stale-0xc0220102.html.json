@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_fwp_inject_handle_stale\0xc0220102\index.html.json
+
+title: 0xC0220102 STATUS_FWP_INJECT_HANDLE_STALE in ntstatus.h
+description: The injection handle is stale.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0220102",
+  "codeUrl": "/win32/ntstatus-h/status_fwp_inject_handle_stale/0xc0220102/",
+  "numericCode": -1071513342,
+  "define": "STATUS_FWP_INJECT_HANDLE_STALE",
+  "defineUrl": "/win32/ntstatus-h/status_fwp_inject_handle_stale/",
+  "message": "The injection handle is stale.",
+  "remarks": null,
+  "aka": [
+    "-1071513342"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_fwp_inject_handle_stale/-1071513342/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

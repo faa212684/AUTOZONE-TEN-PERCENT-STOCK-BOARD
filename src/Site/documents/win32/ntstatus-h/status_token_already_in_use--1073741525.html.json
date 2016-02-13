@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_token_already_in_use\-1073741525\index.html.json
+canonical: /win32/ntstatus-h/status_token_already_in_use/0xc000012b/
+title: -1073741525 STATUS_TOKEN_ALREADY_IN_USE in ntstatus.h
+description: An attempt was made to establish a token for use as a primary token but the token is already in use. A token can only be the primary token of one process at a time.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741525",
+  "codeUrl": "/win32/ntstatus-h/status_token_already_in_use/-1073741525/",
+  "numericCode": 0,
+  "define": "STATUS_TOKEN_ALREADY_IN_USE",
+  "defineUrl": "/win32/ntstatus-h/status_token_already_in_use/",
+  "message": "An attempt was made to establish a token for use as a primary token but the token is already in use. A token can only be the primary token of one process at a time.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC000012B",
+  "originalCodeUrl": "/win32/ntstatus-h/status_token_already_in_use/0xc000012b/"
+}

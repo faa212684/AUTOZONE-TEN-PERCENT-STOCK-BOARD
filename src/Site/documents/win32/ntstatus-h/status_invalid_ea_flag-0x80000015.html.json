@@ -1,0 +1,29 @@
+---
+output: win32\ntstatus-h\status_invalid_ea_flag\0x80000015\index.html.json
+
+title: 0x80000015 STATUS_INVALID_EA_FLAG in ntstatus.h
+description: "{Invalid EA Flag}
+An invalid extended attribute (EA) flag was set."
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0x80000015",
+  "codeUrl": "/win32/ntstatus-h/status_invalid_ea_flag/0x80000015/",
+  "numericCode": -2147483627,
+  "define": "STATUS_INVALID_EA_FLAG",
+  "defineUrl": "/win32/ntstatus-h/status_invalid_ea_flag/",
+  "message": "{Invalid EA Flag}\r\nAn invalid extended attribute (EA) flag was set.",
+  "remarks": null,
+  "aka": [
+    "-2147483627"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_invalid_ea_flag/-2147483627/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

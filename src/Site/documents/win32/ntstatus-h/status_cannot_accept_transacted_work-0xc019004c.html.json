@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_cannot_accept_transacted_work\0xc019004c\index.html.json
+
+title: 0xC019004C STATUS_CANNOT_ACCEPT_TRANSACTED_WORK in ntstatus.h
+description: The transactional resource manager cannot currently accept transacted work due to a transient condition such as low resources.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC019004C",
+  "codeUrl": "/win32/ntstatus-h/status_cannot_accept_transacted_work/0xc019004c/",
+  "numericCode": -1072103348,
+  "define": "STATUS_CANNOT_ACCEPT_TRANSACTED_WORK",
+  "defineUrl": "/win32/ntstatus-h/status_cannot_accept_transacted_work/",
+  "message": "The transactional resource manager cannot currently accept transacted work due to a transient condition such as low resources.",
+  "remarks": null,
+  "aka": [
+    "-1072103348"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_cannot_accept_transacted_work/-1072103348/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\co_e_wrong_server_identity\-2147467243\index.html.json
+canonical: /win32/winerror-h/co_e_wrong_server_identity/0x80004015/
+title: -2147467243 CO_E_WRONG_SERVER_IDENTITY in winerror.h
+description: The class is configured to run as a security id different from the caller
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147467243",
+  "codeUrl": "/win32/winerror-h/co_e_wrong_server_identity/-2147467243/",
+  "numericCode": 0,
+  "define": "CO_E_WRONG_SERVER_IDENTITY",
+  "defineUrl": "/win32/winerror-h/co_e_wrong_server_identity/",
+  "message": "The class is configured to run as a security id different from the caller",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80004015",
+  "originalCodeUrl": "/win32/winerror-h/co_e_wrong_server_identity/0x80004015/"
+}

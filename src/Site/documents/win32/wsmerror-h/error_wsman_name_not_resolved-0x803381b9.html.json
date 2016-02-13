@@ -1,0 +1,28 @@
+---
+output: win32\wsmerror-h\error_wsman_name_not_resolved\0x803381b9\index.html.json
+
+title: 0x803381B9 ERROR_WSMAN_NAME_NOT_RESOLVED in wsmerror.h
+description: The WinRM client cannot process the request because the server name cannot be resolved.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x803381B9",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_name_not_resolved/0x803381b9/",
+  "numericCode": -2144108103,
+  "define": "ERROR_WSMAN_NAME_NOT_RESOLVED",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_name_not_resolved/",
+  "message": "The WinRM client cannot process the request because the server name cannot be resolved.",
+  "remarks": null,
+  "aka": [
+    "-2144108103"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_name_not_resolved/-2144108103/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

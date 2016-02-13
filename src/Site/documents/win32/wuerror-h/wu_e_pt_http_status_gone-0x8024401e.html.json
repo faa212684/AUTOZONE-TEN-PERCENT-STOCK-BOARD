@@ -1,0 +1,28 @@
+---
+output: win32\wuerror-h\wu_e_pt_http_status_gone\0x8024401e\index.html.json
+
+title: 0x8024401E WU_E_PT_HTTP_STATUS_GONE in wuerror.h
+description: Same as HTTP status 410 - requested resource is no longer available at the server.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wuerror.h",
+  "sourceUrl": "/win32/wuerror-h/",
+  "code": "0x8024401E",
+  "codeUrl": "/win32/wuerror-h/wu_e_pt_http_status_gone/0x8024401e/",
+  "numericCode": -2145107938,
+  "define": "WU_E_PT_HTTP_STATUS_GONE",
+  "defineUrl": "/win32/wuerror-h/wu_e_pt_http_status_gone/",
+  "message": "Same as HTTP status 410 - requested resource is no longer available at the server.",
+  "remarks": null,
+  "aka": [
+    "-2145107938"
+  ],
+  "akaUrl": [
+    "/win32/wuerror-h/wu_e_pt_http_status_gone/-2145107938/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

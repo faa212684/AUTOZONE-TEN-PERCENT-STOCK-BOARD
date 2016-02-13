@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_transaction_scope_callbacks_not_set\6836\index.html.json
+
+title: 6836 ERROR_TRANSACTION_SCOPE_CALLBACKS_NOT_SET in winerror.h
+description: A transaction scope could not be entered because the scope handler has not been initialized.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "6836",
+  "codeUrl": "/win32/winerror-h/error_transaction_scope_callbacks_not_set/6836/",
+  "numericCode": 6836,
+  "define": "ERROR_TRANSACTION_SCOPE_CALLBACKS_NOT_SET",
+  "defineUrl": "/win32/winerror-h/error_transaction_scope_callbacks_not_set/",
+  "message": "A transaction scope could not be entered because the scope handler has not been initialized.",
+  "remarks": null,
+  "aka": [
+    "0x80071ab4",
+    "-2147018060"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_transaction_scope_callbacks_not_set/0x80071ab4/",
+    "/win32/winerror-h/error_transaction_scope_callbacks_not_set/-2147018060/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

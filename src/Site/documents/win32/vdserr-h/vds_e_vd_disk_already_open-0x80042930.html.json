@@ -1,0 +1,30 @@
+---
+output: win32\vdserr-h\vds_e_vd_disk_already_open\0x80042930\index.html.json
+
+title: 0x80042930 VDS_E_VD_DISK_ALREADY_OPEN in vdserr.h
+description: The virtual disk is already open and cannot be opened
+a second time. Please close all clients that may have opened
+the virtual disk and retry.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x80042930",
+  "codeUrl": "/win32/vdserr-h/vds_e_vd_disk_already_open/0x80042930/",
+  "numericCode": -2147210960,
+  "define": "VDS_E_VD_DISK_ALREADY_OPEN",
+  "defineUrl": "/win32/vdserr-h/vds_e_vd_disk_already_open/",
+  "message": "The virtual disk is already open and cannot be opened\r\na second time. Please close all clients that may have opened\r\nthe virtual disk and retry.",
+  "remarks": null,
+  "aka": [
+    "-2147210960"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_vd_disk_already_open/-2147210960/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

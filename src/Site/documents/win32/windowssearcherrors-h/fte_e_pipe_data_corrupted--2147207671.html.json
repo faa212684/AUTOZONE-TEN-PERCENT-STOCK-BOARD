@@ -1,0 +1,24 @@
+---
+output: win32\windowssearcherrors-h\fte_e_pipe_data_corrupted\-2147207671\index.html.json
+canonical: /win32/windowssearcherrors-h/fte_e_pipe_data_corrupted/0x80043609/
+title: -2147207671 FTE_E_PIPE_DATA_CORRUPTED in WindowsSearchErrors.h
+description: Data transferred between the MSFTESQL service and a filter daemon process is corrupted. This is an internal error.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "-2147207671",
+  "codeUrl": "/win32/windowssearcherrors-h/fte_e_pipe_data_corrupted/-2147207671/",
+  "numericCode": 0,
+  "define": "FTE_E_PIPE_DATA_CORRUPTED",
+  "defineUrl": "/win32/windowssearcherrors-h/fte_e_pipe_data_corrupted/",
+  "message": "Data transferred between the MSFTESQL service and a filter daemon process is corrupted. This is an internal error.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80043609",
+  "originalCodeUrl": "/win32/windowssearcherrors-h/fte_e_pipe_data_corrupted/0x80043609/"
+}

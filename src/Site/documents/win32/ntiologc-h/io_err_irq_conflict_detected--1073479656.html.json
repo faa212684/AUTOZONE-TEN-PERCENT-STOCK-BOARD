@@ -1,0 +1,26 @@
+---
+output: win32\ntiologc-h\io_err_irq_conflict_detected\-1073479656\index.html.json
+canonical: /win32/ntiologc-h/io_err_irq_conflict_detected/0xc0040018/
+title: -1073479656 IO_ERR_IRQ_CONFLICT_DETECTED in ntiologc.h
+description: A conflict has been detected between two drivers which claimed equivalent IRQs.
+Driver %2, with device <%3>, claimed an interrupt with Level in data address
+0x28, vector in data address 0x2c and Affinity in data address 0x30.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntiologc.h",
+  "sourceUrl": "/win32/ntiologc-h/",
+  "code": "-1073479656",
+  "codeUrl": "/win32/ntiologc-h/io_err_irq_conflict_detected/-1073479656/",
+  "numericCode": 0,
+  "define": "IO_ERR_IRQ_CONFLICT_DETECTED",
+  "defineUrl": "/win32/ntiologc-h/io_err_irq_conflict_detected/",
+  "message": "A conflict has been detected between two drivers which claimed equivalent IRQs.\r\nDriver %2, with device <%3>, claimed an interrupt with Level in data address\r\n0x28, vector in data address 0x2c and Affinity in data address 0x30.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0040018",
+  "originalCodeUrl": "/win32/ntiologc-h/io_err_irq_conflict_detected/0xc0040018/"
+}

@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_device_already_remembered\0x800704b2\index.html.json
+canonical: /win32/winerror-h/error_device_already_remembered/1202/
+title: 0x800704b2 ERROR_DEVICE_ALREADY_REMEMBERED in winerror.h
+description: The local device name has a remembered connection to another network resource.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800704b2",
+  "codeUrl": "/win32/winerror-h/error_device_already_remembered/0x800704b2/",
+  "numericCode": 0,
+  "define": "ERROR_DEVICE_ALREADY_REMEMBERED",
+  "defineUrl": "/win32/winerror-h/error_device_already_remembered/",
+  "message": "The local device name has a remembered connection to another network resource.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "1202",
+  "originalCodeUrl": "/win32/winerror-h/error_device_already_remembered/1202/"
+}

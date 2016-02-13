@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_ps_query_oid_gen_maximum_frame_size\0xc0003715\index.html.json
+
+title: 0xC0003715 EVENT_PS_QUERY_OID_GEN_MAXIMUM_FRAME_SIZE in netevent.h
+description: QoS [Adapter %2]:%nThe network adapter driver failed the query for OID_GEN_MAXIMUM_FRAME_SIZE.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC0003715",
+  "codeUrl": "/win32/netevent-h/event_ps_query_oid_gen_maximum_frame_size/0xc0003715/",
+  "numericCode": -1073727723,
+  "define": "EVENT_PS_QUERY_OID_GEN_MAXIMUM_FRAME_SIZE",
+  "defineUrl": "/win32/netevent-h/event_ps_query_oid_gen_maximum_frame_size/",
+  "message": "QoS [Adapter %2]:%nThe network adapter driver failed the query for OID_GEN_MAXIMUM_FRAME_SIZE.",
+  "remarks": null,
+  "aka": [
+    "-1073727723"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_ps_query_oid_gen_maximum_frame_size/-1073727723/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

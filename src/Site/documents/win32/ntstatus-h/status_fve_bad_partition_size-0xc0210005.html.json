@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_fve_bad_partition_size\0xc0210005\index.html.json
+
+title: 0xC0210005 STATUS_FVE_BAD_PARTITION_SIZE in ntstatus.h
+description: The file system size is larger than the partition size in the partition table.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0210005",
+  "codeUrl": "/win32/ntstatus-h/status_fve_bad_partition_size/0xc0210005/",
+  "numericCode": -1071579131,
+  "define": "STATUS_FVE_BAD_PARTITION_SIZE",
+  "defineUrl": "/win32/ntstatus-h/status_fve_bad_partition_size/",
+  "message": "The file system size is larger than the partition size in the partition table.",
+  "remarks": null,
+  "aka": [
+    "-1071579131"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_fve_bad_partition_size/-1071579131/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

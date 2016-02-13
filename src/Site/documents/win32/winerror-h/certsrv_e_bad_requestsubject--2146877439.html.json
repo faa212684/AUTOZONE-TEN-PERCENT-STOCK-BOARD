@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\certsrv_e_bad_requestsubject\-2146877439\index.html.json
+canonical: /win32/winerror-h/certsrv_e_bad_requestsubject/0x80094001/
+title: -2146877439 CERTSRV_E_BAD_REQUESTSUBJECT in winerror.h
+description: The request subject name is invalid or too long.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2146877439",
+  "codeUrl": "/win32/winerror-h/certsrv_e_bad_requestsubject/-2146877439/",
+  "numericCode": 0,
+  "define": "CERTSRV_E_BAD_REQUESTSUBJECT",
+  "defineUrl": "/win32/winerror-h/certsrv_e_bad_requestsubject/",
+  "message": "The request subject name is invalid or too long.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80094001",
+  "originalCodeUrl": "/win32/winerror-h/certsrv_e_bad_requestsubject/0x80094001/"
+}

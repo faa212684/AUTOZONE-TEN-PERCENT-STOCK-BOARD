@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_recovery_file_corrupt\15619\index.html.json
+
+title: 15619 ERROR_RECOVERY_FILE_CORRUPT in winerror.h
+description: The package could not be recovered because necessary data for recovery have been corrupted.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "15619",
+  "codeUrl": "/win32/winerror-h/error_recovery_file_corrupt/15619/",
+  "numericCode": 15619,
+  "define": "ERROR_RECOVERY_FILE_CORRUPT",
+  "defineUrl": "/win32/winerror-h/error_recovery_file_corrupt/",
+  "message": "The package could not be recovered because necessary data for recovery have been corrupted.",
+  "remarks": null,
+  "aka": [
+    "0x80073d03",
+    "-2147009277"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_recovery_file_corrupt/0x80073d03/",
+    "/win32/winerror-h/error_recovery_file_corrupt/-2147009277/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

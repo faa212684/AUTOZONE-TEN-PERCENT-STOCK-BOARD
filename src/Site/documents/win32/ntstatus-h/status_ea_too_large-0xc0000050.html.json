@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_ea_too_large\0xc0000050\index.html.json
+
+title: 0xC0000050 STATUS_EA_TOO_LARGE in ntstatus.h
+description: An EA operation failed because EA set is too large.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000050",
+  "codeUrl": "/win32/ntstatus-h/status_ea_too_large/0xc0000050/",
+  "numericCode": -1073741744,
+  "define": "STATUS_EA_TOO_LARGE",
+  "defineUrl": "/win32/ntstatus-h/status_ea_too_large/",
+  "message": "An EA operation failed because EA set is too large.",
+  "remarks": null,
+  "aka": [
+    "-1073741744"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_ea_too_large/-1073741744/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

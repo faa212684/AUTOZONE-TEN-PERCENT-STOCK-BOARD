@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_log_tail_invalid\0xc01a001c\index.html.json
+
+title: 0xC01A001C STATUS_LOG_TAIL_INVALID in ntstatus.h
+description: A new or existing archive tail or base of the active log is invalid.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC01A001C",
+  "codeUrl": "/win32/ntstatus-h/status_log_tail_invalid/0xc01a001c/",
+  "numericCode": -1072037860,
+  "define": "STATUS_LOG_TAIL_INVALID",
+  "defineUrl": "/win32/ntstatus-h/status_log_tail_invalid/",
+  "message": "A new or existing archive tail or base of the active log is invalid.",
+  "remarks": null,
+  "aka": [
+    "-1072037860"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_log_tail_invalid/-1072037860/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

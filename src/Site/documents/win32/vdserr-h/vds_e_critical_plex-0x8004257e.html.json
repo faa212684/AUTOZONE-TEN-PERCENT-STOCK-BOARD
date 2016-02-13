@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_e_critical_plex\0x8004257e\index.html.json
+
+title: 0x8004257E VDS_E_CRITICAL_PLEX in vdserr.h
+description: The specified plex is a the current system or boot plex.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x8004257E",
+  "codeUrl": "/win32/vdserr-h/vds_e_critical_plex/0x8004257e/",
+  "numericCode": -2147211906,
+  "define": "VDS_E_CRITICAL_PLEX",
+  "defineUrl": "/win32/vdserr-h/vds_e_critical_plex/",
+  "message": "The specified plex is a the current system or boot plex.",
+  "remarks": null,
+  "aka": [
+    "-2147211906"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_critical_plex/-2147211906/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

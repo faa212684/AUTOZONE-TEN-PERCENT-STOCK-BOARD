@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_vid_mmio_range_destroyed\0xc0370021\index.html.json
+
+title: 0xC0370021 STATUS_VID_MMIO_RANGE_DESTROYED in ntstatus.h
+description: The memory mapped I/O for this page range no longer exists. Restarting the virtual machine may fix the problem. If the problem persists, try restarting the physical computer.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0370021",
+  "codeUrl": "/win32/ntstatus-h/status_vid_mmio_range_destroyed/0xc0370021/",
+  "numericCode": -1070137311,
+  "define": "STATUS_VID_MMIO_RANGE_DESTROYED",
+  "defineUrl": "/win32/ntstatus-h/status_vid_mmio_range_destroyed/",
+  "message": "The memory mapped I/O for this page range no longer exists. Restarting the virtual machine may fix the problem. If the problem persists, try restarting the physical computer.",
+  "remarks": null,
+  "aka": [
+    "-1070137311"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_vid_mmio_range_destroyed/-1070137311/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

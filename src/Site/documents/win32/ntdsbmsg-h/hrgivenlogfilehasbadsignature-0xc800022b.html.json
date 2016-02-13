@@ -1,0 +1,28 @@
+---
+output: win32\ntdsbmsg-h\hrgivenlogfilehasbadsignature\0xc800022b\index.html.json
+
+title: 0xC800022B hrGivenLogFileHasBadSignature in NtDsBMsg.h
+description: The log file downloaded from the tape is damaged.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "NtDsBMsg.h",
+  "sourceUrl": "/win32/ntdsbmsg-h/",
+  "code": "0xC800022B",
+  "codeUrl": "/win32/ntdsbmsg-h/hrgivenlogfilehasbadsignature/0xc800022b/",
+  "numericCode": -939523541,
+  "define": "hrGivenLogFileHasBadSignature",
+  "defineUrl": "/win32/ntdsbmsg-h/hrgivenlogfilehasbadsignature/",
+  "message": "The log file downloaded from the tape is damaged.",
+  "remarks": null,
+  "aka": [
+    "-939523541"
+  ],
+  "akaUrl": [
+    "/win32/ntdsbmsg-h/hrgivenlogfilehasbadsignature/-939523541/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

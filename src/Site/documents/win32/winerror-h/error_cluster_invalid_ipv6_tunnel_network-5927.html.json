@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_cluster_invalid_ipv6_tunnel_network\5927\index.html.json
+
+title: 5927 ERROR_CLUSTER_INVALID_IPV6_TUNNEL_NETWORK in winerror.h
+description: The cluster network is not valid for an IPv6 Tunnel resource. Check the configuration of the IP Address resource on which the IPv6 Tunnel resource depends.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "5927",
+  "codeUrl": "/win32/winerror-h/error_cluster_invalid_ipv6_tunnel_network/5927/",
+  "numericCode": 5927,
+  "define": "ERROR_CLUSTER_INVALID_IPV6_TUNNEL_NETWORK",
+  "defineUrl": "/win32/winerror-h/error_cluster_invalid_ipv6_tunnel_network/",
+  "message": "The cluster network is not valid for an IPv6 Tunnel resource. Check the configuration of the IP Address resource on which the IPv6 Tunnel resource depends.",
+  "remarks": null,
+  "aka": [
+    "0x80071727",
+    "-2147018969"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_cluster_invalid_ipv6_tunnel_network/0x80071727/",
+    "/win32/winerror-h/error_cluster_invalid_ipv6_tunnel_network/-2147018969/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

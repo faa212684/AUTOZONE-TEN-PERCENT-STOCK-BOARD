@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\error_graphics_opm_video_output_does_not_have_opm_semantics\0xc026251f\index.html.json
+
+title: 0xC026251F ERROR_GRAPHICS_OPM_VIDEO_OUTPUT_DOES_NOT_HAVE_OPM_SEMANTICS in winerror.h
+description: Either the IOPMVideoOutput::COPPCompatibleGetInformation, IOPMVideoOutput::GetInformation, or IOPMVideoOutput::Configure method failed. This error is returned when the caller tries to use an OPM specific command while the video output has COPP semantics only.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0xC026251F",
+  "codeUrl": "/win32/winerror-h/error_graphics_opm_video_output_does_not_have_opm_semantics/0xc026251f/",
+  "numericCode": -1071241953,
+  "define": "ERROR_GRAPHICS_OPM_VIDEO_OUTPUT_DOES_NOT_HAVE_OPM_SEMANTICS",
+  "defineUrl": "/win32/winerror-h/error_graphics_opm_video_output_does_not_have_opm_semantics/",
+  "message": "Either the IOPMVideoOutput::COPPCompatibleGetInformation, IOPMVideoOutput::GetInformation, or IOPMVideoOutput::Configure method failed. This error is returned when the caller tries to use an OPM specific command while the video output has COPP semantics only.",
+  "remarks": null,
+  "aka": [
+    "-1071241953"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_graphics_opm_video_output_does_not_have_opm_semantics/-1071241953/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

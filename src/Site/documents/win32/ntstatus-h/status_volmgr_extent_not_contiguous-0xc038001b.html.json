@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_volmgr_extent_not_contiguous\0xc038001b\index.html.json
+
+title: 0xC038001B STATUS_VOLMGR_EXTENT_NOT_CONTIGUOUS in ntstatus.h
+description: The specified volume is retained and can only be extended into a contiguous extent. The specified extent to grow the volume is not contiguous with the specified volume.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC038001B",
+  "codeUrl": "/win32/ntstatus-h/status_volmgr_extent_not_contiguous/0xc038001b/",
+  "numericCode": -1070071781,
+  "define": "STATUS_VOLMGR_EXTENT_NOT_CONTIGUOUS",
+  "defineUrl": "/win32/ntstatus-h/status_volmgr_extent_not_contiguous/",
+  "message": "The specified volume is retained and can only be extended into a contiguous extent. The specified extent to grow the volume is not contiguous with the specified volume.",
+  "remarks": null,
+  "aka": [
+    "-1070071781"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_volmgr_extent_not_contiguous/-1070071781/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

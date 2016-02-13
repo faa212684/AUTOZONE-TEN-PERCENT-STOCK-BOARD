@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\fwp_e_wrong_session\0x8032000c\index.html.json
+
+title: 0x8032000C FWP_E_WRONG_SESSION in winerror.h
+description: The call was made from the wrong session so cannot be completed.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8032000C",
+  "codeUrl": "/win32/winerror-h/fwp_e_wrong_session/0x8032000c/",
+  "numericCode": -2144206836,
+  "define": "FWP_E_WRONG_SESSION",
+  "defineUrl": "/win32/winerror-h/fwp_e_wrong_session/",
+  "message": "The call was made from the wrong session so cannot be completed.",
+  "remarks": null,
+  "aka": [
+    "-2144206836"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/fwp_e_wrong_session/-2144206836/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

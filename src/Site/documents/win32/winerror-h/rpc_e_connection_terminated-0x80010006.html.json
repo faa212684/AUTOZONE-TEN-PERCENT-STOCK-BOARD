@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\rpc_e_connection_terminated\0x80010006\index.html.json
+
+title: 0x80010006 RPC_E_CONNECTION_TERMINATED in winerror.h
+description: The connection terminated or is in a bogus state and cannot be used any more. Other connections are still valid.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80010006",
+  "codeUrl": "/win32/winerror-h/rpc_e_connection_terminated/0x80010006/",
+  "numericCode": -2147418106,
+  "define": "RPC_E_CONNECTION_TERMINATED",
+  "defineUrl": "/win32/winerror-h/rpc_e_connection_terminated/",
+  "message": "The connection terminated or is in a bogus state and cannot be used any more. Other connections are still valid.",
+  "remarks": null,
+  "aka": [
+    "-2147418106"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/rpc_e_connection_terminated/-2147418106/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

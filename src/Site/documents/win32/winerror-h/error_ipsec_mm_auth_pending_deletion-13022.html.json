@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ipsec_mm_auth_pending_deletion\13022\index.html.json
+
+title: 13022 ERROR_IPSEC_MM_AUTH_PENDING_DELETION in winerror.h
+description: The Main Mode authentication bundle is pending deletion.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "13022",
+  "codeUrl": "/win32/winerror-h/error_ipsec_mm_auth_pending_deletion/13022/",
+  "numericCode": 13022,
+  "define": "ERROR_IPSEC_MM_AUTH_PENDING_DELETION",
+  "defineUrl": "/win32/winerror-h/error_ipsec_mm_auth_pending_deletion/",
+  "message": "The Main Mode authentication bundle is pending deletion.",
+  "remarks": null,
+  "aka": [
+    "0x800732de",
+    "-2147011874"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ipsec_mm_auth_pending_deletion/0x800732de/",
+    "/win32/winerror-h/error_ipsec_mm_auth_pending_deletion/-2147011874/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

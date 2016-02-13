@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\d2derr_wrong_factory\0x88990012\index.html.json
+
+title: 0x88990012 D2DERR_WRONG_FACTORY in winerror.h
+description: Objects used together must be created from the same factory instance.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x88990012",
+  "codeUrl": "/win32/winerror-h/d2derr_wrong_factory/0x88990012/",
+  "numericCode": -2003238894,
+  "define": "D2DERR_WRONG_FACTORY",
+  "defineUrl": "/win32/winerror-h/d2derr_wrong_factory/",
+  "message": "Objects used together must be created from the same factory instance.",
+  "remarks": null,
+  "aka": [
+    "-2003238894"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/d2derr_wrong_factory/-2003238894/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

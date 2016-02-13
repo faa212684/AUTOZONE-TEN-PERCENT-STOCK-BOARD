@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\e_multiple_extensions_for_application\-2144927147\index.html.json
+canonical: /win32/winerror-h/e_multiple_extensions_for_application/0x80270255/
+title: -2144927147 E_MULTIPLE_EXTENSIONS_FOR_APPLICATION in winerror.h
+description: This app has mulitple extensions registered to support the specified contract. Activation by AppUserModelId is ambiguous.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2144927147",
+  "codeUrl": "/win32/winerror-h/e_multiple_extensions_for_application/-2144927147/",
+  "numericCode": 0,
+  "define": "E_MULTIPLE_EXTENSIONS_FOR_APPLICATION",
+  "defineUrl": "/win32/winerror-h/e_multiple_extensions_for_application/",
+  "message": "This app has mulitple extensions registered to support the specified contract. Activation by AppUserModelId is ambiguous.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80270255",
+  "originalCodeUrl": "/win32/winerror-h/e_multiple_extensions_for_application/0x80270255/"
+}

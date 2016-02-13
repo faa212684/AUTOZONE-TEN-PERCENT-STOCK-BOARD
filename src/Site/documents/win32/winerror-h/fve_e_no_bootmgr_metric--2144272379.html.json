@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\fve_e_no_bootmgr_metric\-2144272379\index.html.json
+canonical: /win32/winerror-h/fve_e_no_bootmgr_metric/0x80310005/
+title: -2144272379 FVE_E_NO_BOOTMGR_METRIC in winerror.h
+description: The boot sector of this drive is not compatible with BitLocker Drive Encryption. Use the Bootrec.exe tool in the Windows Recovery Environment to update or repair the boot manager (BOOTMGR).
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2144272379",
+  "codeUrl": "/win32/winerror-h/fve_e_no_bootmgr_metric/-2144272379/",
+  "numericCode": 0,
+  "define": "FVE_E_NO_BOOTMGR_METRIC",
+  "defineUrl": "/win32/winerror-h/fve_e_no_bootmgr_metric/",
+  "message": "The boot sector of this drive is not compatible with BitLocker Drive Encryption. Use the Bootrec.exe tool in the Windows Recovery Environment to update or repair the boot manager (BOOTMGR).",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80310005",
+  "originalCodeUrl": "/win32/winerror-h/fve_e_no_bootmgr_metric/0x80310005/"
+}

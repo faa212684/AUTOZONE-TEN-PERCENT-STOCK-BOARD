@@ -1,0 +1,28 @@
+---
+output: win32\wuerror-h\wu_e_rangeoverlap\0x80240005\index.html.json
+
+title: 0x80240005 WU_E_RANGEOVERLAP in wuerror.h
+description: The update handler requested a byte range overlapping a previously requested range.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wuerror.h",
+  "sourceUrl": "/win32/wuerror-h/",
+  "code": "0x80240005",
+  "codeUrl": "/win32/wuerror-h/wu_e_rangeoverlap/0x80240005/",
+  "numericCode": -2145124347,
+  "define": "WU_E_RANGEOVERLAP",
+  "defineUrl": "/win32/wuerror-h/wu_e_rangeoverlap/",
+  "message": "The update handler requested a byte range overlapping a previously requested range.",
+  "remarks": null,
+  "aka": [
+    "-2145124347"
+  ],
+  "akaUrl": [
+    "/win32/wuerror-h/wu_e_rangeoverlap/-2145124347/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

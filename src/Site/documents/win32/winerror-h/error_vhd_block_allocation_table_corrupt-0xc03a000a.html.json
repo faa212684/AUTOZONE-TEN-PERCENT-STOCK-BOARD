@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\error_vhd_block_allocation_table_corrupt\0xc03a000a\index.html.json
+
+title: 0xC03A000A ERROR_VHD_BLOCK_ALLOCATION_TABLE_CORRUPT in winerror.h
+description: The virtual hard disk is corrupted. The block allocation table in the virtual hard disk is corrupt.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0xC03A000A",
+  "codeUrl": "/win32/winerror-h/error_vhd_block_allocation_table_corrupt/0xc03a000a/",
+  "numericCode": -1069940726,
+  "define": "ERROR_VHD_BLOCK_ALLOCATION_TABLE_CORRUPT",
+  "defineUrl": "/win32/winerror-h/error_vhd_block_allocation_table_corrupt/",
+  "message": "The virtual hard disk is corrupted. The block allocation table in the virtual hard disk is corrupt.",
+  "remarks": null,
+  "aka": [
+    "-1069940726"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_vhd_block_allocation_table_corrupt/-1069940726/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

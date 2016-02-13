@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_service_start_failed_none\0xc0001b5b\index.html.json
+
+title: 0xC0001B5B EVENT_SERVICE_START_FAILED_NONE in netevent.h
+description: The %1 service depends on the following nonexistent service: %2
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC0001B5B",
+  "codeUrl": "/win32/netevent-h/event_service_start_failed_none/0xc0001b5b/",
+  "numericCode": -1073734821,
+  "define": "EVENT_SERVICE_START_FAILED_NONE",
+  "defineUrl": "/win32/netevent-h/event_service_start_failed_none/",
+  "message": "The %1 service depends on the following nonexistent service: %2",
+  "remarks": null,
+  "aka": [
+    "-1073734821"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_service_start_failed_none/-1073734821/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

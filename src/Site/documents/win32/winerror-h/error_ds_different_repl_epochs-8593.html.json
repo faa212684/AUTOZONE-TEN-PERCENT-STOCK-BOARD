@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ds_different_repl_epochs\8593\index.html.json
+
+title: 8593 ERROR_DS_DIFFERENT_REPL_EPOCHS in winerror.h
+description: The directory service cannot perform the requested operation because the servers involved are of different replication epochs (which is usually related to a domain rename that is in progress).
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "8593",
+  "codeUrl": "/win32/winerror-h/error_ds_different_repl_epochs/8593/",
+  "numericCode": 8593,
+  "define": "ERROR_DS_DIFFERENT_REPL_EPOCHS",
+  "defineUrl": "/win32/winerror-h/error_ds_different_repl_epochs/",
+  "message": "The directory service cannot perform the requested operation because the servers involved are of different replication epochs (which is usually related to a domain rename that is in progress).",
+  "remarks": null,
+  "aka": [
+    "0x80072191",
+    "-2147016303"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ds_different_repl_epochs/0x80072191/",
+    "/win32/winerror-h/error_ds_different_repl_epochs/-2147016303/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

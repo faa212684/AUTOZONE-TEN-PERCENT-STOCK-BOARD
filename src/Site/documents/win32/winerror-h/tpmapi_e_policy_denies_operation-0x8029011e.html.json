@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\tpmapi_e_policy_denies_operation\0x8029011e\index.html.json
+
+title: 0x8029011E TPMAPI_E_POLICY_DENIES_OPERATION in winerror.h
+description: The requested operation was blocked by current TPM policy. Please contact your system administrator for assistance.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8029011E",
+  "codeUrl": "/win32/winerror-h/tpmapi_e_policy_denies_operation/0x8029011e/",
+  "numericCode": -2144796386,
+  "define": "TPMAPI_E_POLICY_DENIES_OPERATION",
+  "defineUrl": "/win32/winerror-h/tpmapi_e_policy_denies_operation/",
+  "message": "The requested operation was blocked by current TPM policy. Please contact your system administrator for assistance.",
+  "remarks": null,
+  "aka": [
+    "-2144796386"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/tpmapi_e_policy_denies_operation/-2144796386/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

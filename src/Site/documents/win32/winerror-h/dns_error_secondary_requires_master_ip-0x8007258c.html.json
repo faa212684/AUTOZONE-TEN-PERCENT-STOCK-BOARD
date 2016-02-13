@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\dns_error_secondary_requires_master_ip\0x8007258c\index.html.json
+canonical: /win32/winerror-h/dns_error_secondary_requires_master_ip/9612/
+title: 0x8007258c DNS_ERROR_SECONDARY_REQUIRES_MASTER_IP in winerror.h
+description: Secondary DNS zone requires master IP address.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007258c",
+  "codeUrl": "/win32/winerror-h/dns_error_secondary_requires_master_ip/0x8007258c/",
+  "numericCode": 0,
+  "define": "DNS_ERROR_SECONDARY_REQUIRES_MASTER_IP",
+  "defineUrl": "/win32/winerror-h/dns_error_secondary_requires_master_ip/",
+  "message": "Secondary DNS zone requires master IP address.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "9612",
+  "originalCodeUrl": "/win32/winerror-h/dns_error_secondary_requires_master_ip/9612/"
+}

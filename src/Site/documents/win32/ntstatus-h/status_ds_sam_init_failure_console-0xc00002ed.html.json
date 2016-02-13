@@ -1,0 +1,31 @@
+---
+output: win32\ntstatus-h\status_ds_sam_init_failure_console\0xc00002ed\index.html.json
+
+title: 0xC00002ED STATUS_DS_SAM_INIT_FAILURE_CONSOLE in ntstatus.h
+description: Security Accounts Manager initialization failed because of the following error:
+%hs
+Error Status: 0x%x.
+Please click OK to shutdown the system. You can use the recovery console to diagnose the system further.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC00002ED",
+  "codeUrl": "/win32/ntstatus-h/status_ds_sam_init_failure_console/0xc00002ed/",
+  "numericCode": -1073741075,
+  "define": "STATUS_DS_SAM_INIT_FAILURE_CONSOLE",
+  "defineUrl": "/win32/ntstatus-h/status_ds_sam_init_failure_console/",
+  "message": "Security Accounts Manager initialization failed because of the following error:\r\n%hs\r\nError Status: 0x%x.\r\nPlease click OK to shutdown the system. You can use the recovery console to diagnose the system further.",
+  "remarks": null,
+  "aka": [
+    "-1073741075"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_ds_sam_init_failure_console/-1073741075/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

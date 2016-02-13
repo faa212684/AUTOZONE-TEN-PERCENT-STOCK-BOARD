@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_buffer_overflow\111\index.html.json
+
+title: 111 ERROR_BUFFER_OVERFLOW in winerror.h
+description: The file name is too long.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "111",
+  "codeUrl": "/win32/winerror-h/error_buffer_overflow/111/",
+  "numericCode": 111,
+  "define": "ERROR_BUFFER_OVERFLOW",
+  "defineUrl": "/win32/winerror-h/error_buffer_overflow/",
+  "message": "The file name is too long.",
+  "remarks": null,
+  "aka": [
+    "0x8007006f",
+    "-2147024785"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_buffer_overflow/0x8007006f/",
+    "/win32/winerror-h/error_buffer_overflow/-2147024785/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_port_not_set\-2147024254\index.html.json
+canonical: /win32/winerror-h/error_port_not_set/642/
+title: -2147024254 ERROR_PORT_NOT_SET in winerror.h
+description: An attempt to remove a processes DebugPort was made, but a port was not already associated with the process.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147024254",
+  "codeUrl": "/win32/winerror-h/error_port_not_set/-2147024254/",
+  "numericCode": 0,
+  "define": "ERROR_PORT_NOT_SET",
+  "defineUrl": "/win32/winerror-h/error_port_not_set/",
+  "message": "An attempt to remove a processes DebugPort was made, but a port was not already associated with the process.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "642",
+  "originalCodeUrl": "/win32/winerror-h/error_port_not_set/642/"
+}

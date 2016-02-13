@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_threadpool_release_mutex_on_completion_failed\0xc000070d\index.html.json
+
+title: 0xC000070D STATUS_THREADPOOL_RELEASE_MUTEX_ON_COMPLETION_FAILED in ntstatus.h
+description: After a callback to 0x%p(0x%p), a completion call to ReleaseMutex(%p) failed with status 0x%08x.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000070D",
+  "codeUrl": "/win32/ntstatus-h/status_threadpool_release_mutex_on_completion_failed/0xc000070d/",
+  "numericCode": -1073740019,
+  "define": "STATUS_THREADPOOL_RELEASE_MUTEX_ON_COMPLETION_FAILED",
+  "defineUrl": "/win32/ntstatus-h/status_threadpool_release_mutex_on_completion_failed/",
+  "message": "After a callback to 0x%p(0x%p), a completion call to ReleaseMutex(%p) failed with status 0x%08x.",
+  "remarks": null,
+  "aka": [
+    "-1073740019"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_threadpool_release_mutex_on_completion_failed/-1073740019/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

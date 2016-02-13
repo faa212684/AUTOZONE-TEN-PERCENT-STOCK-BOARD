@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\dns_error_cname_collision\-2147015187\index.html.json
+canonical: /win32/winerror-h/dns_error_cname_collision/9709/
+title: -2147015187 DNS_ERROR_CNAME_COLLISION in winerror.h
+description: A CNAME record already exists for given name.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147015187",
+  "codeUrl": "/win32/winerror-h/dns_error_cname_collision/-2147015187/",
+  "numericCode": 0,
+  "define": "DNS_ERROR_CNAME_COLLISION",
+  "defineUrl": "/win32/winerror-h/dns_error_cname_collision/",
+  "message": "A CNAME record already exists for given name.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "9709",
+  "originalCodeUrl": "/win32/winerror-h/dns_error_cname_collision/9709/"
+}

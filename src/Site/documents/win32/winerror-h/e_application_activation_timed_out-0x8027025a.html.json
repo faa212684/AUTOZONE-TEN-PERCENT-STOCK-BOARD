@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\e_application_activation_timed_out\0x8027025a\index.html.json
+
+title: 0x8027025A E_APPLICATION_ACTIVATION_TIMED_OUT in winerror.h
+description: The app didn't start in the required time.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8027025A",
+  "codeUrl": "/win32/winerror-h/e_application_activation_timed_out/0x8027025a/",
+  "numericCode": -2144927142,
+  "define": "E_APPLICATION_ACTIVATION_TIMED_OUT",
+  "defineUrl": "/win32/winerror-h/e_application_activation_timed_out/",
+  "message": "The app didn't start in the required time.",
+  "remarks": null,
+  "aka": [
+    "-2144927142"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/e_application_activation_timed_out/-2144927142/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_pipe_local\229\index.html.json
+
+title: 229 ERROR_PIPE_LOCAL in winerror.h
+description: The pipe is local.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "229",
+  "codeUrl": "/win32/winerror-h/error_pipe_local/229/",
+  "numericCode": 229,
+  "define": "ERROR_PIPE_LOCAL",
+  "defineUrl": "/win32/winerror-h/error_pipe_local/",
+  "message": "The pipe is local.",
+  "remarks": null,
+  "aka": [
+    "0x800700e5",
+    "-2147024667"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_pipe_local/0x800700e5/",
+    "/win32/winerror-h/error_pipe_local/-2147024667/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

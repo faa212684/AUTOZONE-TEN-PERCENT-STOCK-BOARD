@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_verifier_stop\0xc0000421\index.html.json
+
+title: 0xC0000421 STATUS_VERIFIER_STOP in ntstatus.h
+description: Application verifier has found an error in the current process.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000421",
+  "codeUrl": "/win32/ntstatus-h/status_verifier_stop/0xc0000421/",
+  "numericCode": -1073740767,
+  "define": "STATUS_VERIFIER_STOP",
+  "defineUrl": "/win32/ntstatus-h/status_verifier_stop/",
+  "message": "Application verifier has found an error in the current process.",
+  "remarks": null,
+  "aka": [
+    "-1073740767"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_verifier_stop/-1073740767/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

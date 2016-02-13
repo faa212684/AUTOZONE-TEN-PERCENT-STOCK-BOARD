@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_internal_db_error\0xc0000158\index.html.json
+
+title: 0xC0000158 STATUS_INTERNAL_DB_ERROR in ntstatus.h
+description: The Local Security Authority (LSA) database contains an internal inconsistency.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000158",
+  "codeUrl": "/win32/ntstatus-h/status_internal_db_error/0xc0000158/",
+  "numericCode": -1073741480,
+  "define": "STATUS_INTERNAL_DB_ERROR",
+  "defineUrl": "/win32/ntstatus-h/status_internal_db_error/",
+  "message": "The Local Security Authority (LSA) database contains an internal inconsistency.",
+  "remarks": null,
+  "aka": [
+    "-1073741480"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_internal_db_error/-1073741480/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

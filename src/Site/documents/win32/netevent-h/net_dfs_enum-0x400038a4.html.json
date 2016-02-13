@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\net_dfs_enum\0x400038a4\index.html.json
+
+title: 0x400038A4 NET_DFS_ENUM in netevent.h
+description: NetrDfsEnum received an enumeration.  The return code is in the record data.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x400038A4",
+  "codeUrl": "/win32/netevent-h/net_dfs_enum/0x400038a4/",
+  "numericCode": 1073756324,
+  "define": "NET_DFS_ENUM",
+  "defineUrl": "/win32/netevent-h/net_dfs_enum/",
+  "message": "NetrDfsEnum received an enumeration.  The return code is in the record data.",
+  "remarks": null,
+  "aka": [
+    "1073756324"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/net_dfs_enum/1073756324/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

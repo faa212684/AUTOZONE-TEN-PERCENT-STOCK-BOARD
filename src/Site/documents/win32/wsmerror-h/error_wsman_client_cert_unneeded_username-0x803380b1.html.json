@@ -1,0 +1,29 @@
+---
+output: win32\wsmerror-h\error_wsman_client_cert_unneeded_username\0x803380b1\index.html.json
+
+title: 0x803380B1 ERROR_WSMAN_CLIENT_CERT_UNNEEDED_USERNAME in wsmerror.h
+description: The WinRM client cannot process the request. Requests must not include user name and password when a certificate is used for authentication.
+Remove the user name and password or change the authentication mechanism and try the request again.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x803380B1",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_client_cert_unneeded_username/0x803380b1/",
+  "numericCode": -2144108367,
+  "define": "ERROR_WSMAN_CLIENT_CERT_UNNEEDED_USERNAME",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_client_cert_unneeded_username/",
+  "message": "The WinRM client cannot process the request. Requests must not include user name and password when a certificate is used for authentication.\r\nRemove the user name and password or change the authentication mechanism and try the request again.",
+  "remarks": null,
+  "aka": [
+    "-2144108367"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_client_cert_unneeded_username/-2144108367/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

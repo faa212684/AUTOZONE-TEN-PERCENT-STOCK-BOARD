@@ -1,0 +1,28 @@
+---
+output: bugcheck\bugcodes-h\invalid_process_attach_attempt\0x00000005\index.html.json
+
+title: 0x00000005 INVALID_PROCESS_ATTACH_ATTEMPT in bugcodes.h
+description: INVALID_PROCESS_ATTACH_ATTEMPT
+disqus: true
+---
+{
+  "area": "bugcheck",
+  "areaUrl": "/bugcheck/",
+  "source": "bugcodes.h",
+  "sourceUrl": "/bugcheck/bugcodes-h/",
+  "code": "0x00000005",
+  "codeUrl": "/bugcheck/bugcodes-h/invalid_process_attach_attempt/0x00000005/",
+  "numericCode": 5,
+  "define": "INVALID_PROCESS_ATTACH_ATTEMPT",
+  "defineUrl": "/bugcheck/bugcodes-h/invalid_process_attach_attempt/",
+  "message": "INVALID_PROCESS_ATTACH_ATTEMPT",
+  "remarks": null,
+  "aka": [
+    "5"
+  ],
+  "akaUrl": [
+    "/bugcheck/bugcodes-h/invalid_process_attach_attempt/5/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

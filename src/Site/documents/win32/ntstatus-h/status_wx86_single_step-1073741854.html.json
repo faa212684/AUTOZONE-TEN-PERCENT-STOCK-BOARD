@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_wx86_single_step\1073741854\index.html.json
+canonical: /win32/ntstatus-h/status_wx86_single_step/0x4000001e/
+title: 1073741854 STATUS_WX86_SINGLE_STEP in ntstatus.h
+description: Exception status code used by Win32 x86 emulation subsystem.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "1073741854",
+  "codeUrl": "/win32/ntstatus-h/status_wx86_single_step/1073741854/",
+  "numericCode": 0,
+  "define": "STATUS_WX86_SINGLE_STEP",
+  "defineUrl": "/win32/ntstatus-h/status_wx86_single_step/",
+  "message": "Exception status code used by Win32 x86 emulation subsystem.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x4000001E",
+  "originalCodeUrl": "/win32/ntstatus-h/status_wx86_single_step/0x4000001e/"
+}

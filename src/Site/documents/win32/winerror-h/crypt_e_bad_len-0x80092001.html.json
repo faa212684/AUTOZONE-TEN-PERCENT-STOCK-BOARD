@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\crypt_e_bad_len\0x80092001\index.html.json
+
+title: 0x80092001 CRYPT_E_BAD_LEN in winerror.h
+description: The length specified for the output data was insufficient.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80092001",
+  "codeUrl": "/win32/winerror-h/crypt_e_bad_len/0x80092001/",
+  "numericCode": -2146885631,
+  "define": "CRYPT_E_BAD_LEN",
+  "defineUrl": "/win32/winerror-h/crypt_e_bad_len/",
+  "message": "The length specified for the output data was insufficient.",
+  "remarks": null,
+  "aka": [
+    "-2146885631"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/crypt_e_bad_len/-2146885631/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

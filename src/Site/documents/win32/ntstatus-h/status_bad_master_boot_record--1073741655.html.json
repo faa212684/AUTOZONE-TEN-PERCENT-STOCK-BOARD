@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_bad_master_boot_record\-1073741655\index.html.json
+canonical: /win32/ntstatus-h/status_bad_master_boot_record/0xc00000a9/
+title: -1073741655 STATUS_BAD_MASTER_BOOT_RECORD in ntstatus.h
+description: The type of a token object is inappropriate for its attempted use.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741655",
+  "codeUrl": "/win32/ntstatus-h/status_bad_master_boot_record/-1073741655/",
+  "numericCode": 0,
+  "define": "STATUS_BAD_MASTER_BOOT_RECORD",
+  "defineUrl": "/win32/ntstatus-h/status_bad_master_boot_record/",
+  "message": "The type of a token object is inappropriate for its attempted use.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC00000A9",
+  "originalCodeUrl": "/win32/ntstatus-h/status_bad_master_boot_record/0xc00000a9/"
+}

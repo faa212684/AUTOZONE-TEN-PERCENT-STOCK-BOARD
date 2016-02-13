@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\certsrv_e_signature_rejected\-2146875381\index.html.json
+canonical: /win32/winerror-h/certsrv_e_signature_rejected/0x8009480b/
+title: -2146875381 CERTSRV_E_SIGNATURE_REJECTED in winerror.h
+description: One or more signatures did not include the required application or issuance policies. The request is missing one or more required valid signatures.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2146875381",
+  "codeUrl": "/win32/winerror-h/certsrv_e_signature_rejected/-2146875381/",
+  "numericCode": 0,
+  "define": "CERTSRV_E_SIGNATURE_REJECTED",
+  "defineUrl": "/win32/winerror-h/certsrv_e_signature_rejected/",
+  "message": "One or more signatures did not include the required application or issuance policies. The request is missing one or more required valid signatures.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x8009480B",
+  "originalCodeUrl": "/win32/winerror-h/certsrv_e_signature_rejected/0x8009480b/"
+}

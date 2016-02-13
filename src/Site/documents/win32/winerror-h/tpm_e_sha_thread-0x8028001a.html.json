@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\tpm_e_sha_thread\0x8028001a\index.html.json
+
+title: 0x8028001A TPM_E_SHA_THREAD in winerror.h
+description: There is no existing SHA-1 thread.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8028001A",
+  "codeUrl": "/win32/winerror-h/tpm_e_sha_thread/0x8028001a/",
+  "numericCode": -2144862182,
+  "define": "TPM_E_SHA_THREAD",
+  "defineUrl": "/win32/winerror-h/tpm_e_sha_thread/",
+  "message": "There is no existing SHA-1 thread.",
+  "remarks": null,
+  "aka": [
+    "-2144862182"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/tpm_e_sha_thread/-2144862182/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

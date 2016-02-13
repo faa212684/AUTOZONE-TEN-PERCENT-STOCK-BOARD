@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\certsrv_e_signature_policy_required\0x80094809\index.html.json
+
+title: 0x80094809 CERTSRV_E_SIGNATURE_POLICY_REQUIRED in winerror.h
+description: The request is missing required signature policy information.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80094809",
+  "codeUrl": "/win32/winerror-h/certsrv_e_signature_policy_required/0x80094809/",
+  "numericCode": -2146875383,
+  "define": "CERTSRV_E_SIGNATURE_POLICY_REQUIRED",
+  "defineUrl": "/win32/winerror-h/certsrv_e_signature_policy_required/",
+  "message": "The request is missing required signature policy information.",
+  "remarks": null,
+  "aka": [
+    "-2146875383"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/certsrv_e_signature_policy_required/-2146875383/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

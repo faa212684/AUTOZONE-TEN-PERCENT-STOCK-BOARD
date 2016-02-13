@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_e_partition_ldm\0x8004258d\index.html.json
+
+title: 0x8004258D VDS_E_PARTITION_LDM in vdserr.h
+description: This operation is not supported on LDM partitions.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x8004258D",
+  "codeUrl": "/win32/vdserr-h/vds_e_partition_ldm/0x8004258d/",
+  "numericCode": -2147211891,
+  "define": "VDS_E_PARTITION_LDM",
+  "defineUrl": "/win32/vdserr-h/vds_e_partition_ldm/",
+  "message": "This operation is not supported on LDM partitions.",
+  "remarks": null,
+  "aka": [
+    "-2147211891"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_partition_ldm/-2147211891/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

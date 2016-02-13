@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_key_deleted\0xc000017c\index.html.json
+
+title: 0xC000017C STATUS_KEY_DELETED in ntstatus.h
+description: Illegal operation attempted on a registry key which has been marked for deletion.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000017C",
+  "codeUrl": "/win32/ntstatus-h/status_key_deleted/0xc000017c/",
+  "numericCode": -1073741444,
+  "define": "STATUS_KEY_DELETED",
+  "defineUrl": "/win32/ntstatus-h/status_key_deleted/",
+  "message": "Illegal operation attempted on a registry key which has been marked for deletion.",
+  "remarks": null,
+  "aka": [
+    "-1073741444"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_key_deleted/-1073741444/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

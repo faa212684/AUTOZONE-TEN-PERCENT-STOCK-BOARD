@@ -1,0 +1,24 @@
+---
+output: win32\mdmsg-h\md_warning_path_not_inserted\837639\index.html.json
+canonical: /win32/mdmsg-h/md_warning_path_not_inserted/0x000cc807/
+title: 837639 MD_WARNING_PATH_NOT_INSERTED in Mdmsg.h
+description: The path was not inserted into the string as requested. The probable cause is that the data is at an object at a higher level than the handle.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "Mdmsg.h",
+  "sourceUrl": "/win32/mdmsg-h/",
+  "code": "837639",
+  "codeUrl": "/win32/mdmsg-h/md_warning_path_not_inserted/837639/",
+  "numericCode": 0,
+  "define": "MD_WARNING_PATH_NOT_INSERTED",
+  "defineUrl": "/win32/mdmsg-h/md_warning_path_not_inserted/",
+  "message": "The path was not inserted into the string as requested. The probable cause is that the data is at an object at a higher level than the handle.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x000CC807",
+  "originalCodeUrl": "/win32/mdmsg-h/md_warning_path_not_inserted/0x000cc807/"
+}

@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\tpm_e_area_locked\0x8028003c\index.html.json
+
+title: 0x8028003C TPM_E_AREA_LOCKED in winerror.h
+description: The NV area is locked and not writtable.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8028003C",
+  "codeUrl": "/win32/winerror-h/tpm_e_area_locked/0x8028003c/",
+  "numericCode": -2144862148,
+  "define": "TPM_E_AREA_LOCKED",
+  "defineUrl": "/win32/winerror-h/tpm_e_area_locked/",
+  "message": "The NV area is locked and not writtable.",
+  "remarks": null,
+  "aka": [
+    "-2144862148"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/tpm_e_area_locked/-2144862148/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

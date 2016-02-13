@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_orphan_name_exhausted\0x8007031f\index.html.json
+canonical: /win32/winerror-h/error_orphan_name_exhausted/799/
+title: 0x8007031f ERROR_ORPHAN_NAME_EXHAUSTED in winerror.h
+description: Orphaned files exist on the volume but could not be recovered because no more new names could be created in the recovery directory. Files must be moved from the recovery directory.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007031f",
+  "codeUrl": "/win32/winerror-h/error_orphan_name_exhausted/0x8007031f/",
+  "numericCode": 0,
+  "define": "ERROR_ORPHAN_NAME_EXHAUSTED",
+  "defineUrl": "/win32/winerror-h/error_orphan_name_exhausted/",
+  "message": "Orphaned files exist on the volume but could not be recovered because no more new names could be created in the recovery directory. Files must be moved from the recovery directory.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "799",
+  "originalCodeUrl": "/win32/winerror-h/error_orphan_name_exhausted/799/"
+}

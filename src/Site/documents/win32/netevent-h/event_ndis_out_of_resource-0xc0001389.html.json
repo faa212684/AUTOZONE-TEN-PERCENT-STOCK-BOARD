@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_ndis_out_of_resource\0xc0001389\index.html.json
+
+title: 0xC0001389 EVENT_NDIS_OUT_OF_RESOURCE in netevent.h
+description: %2 : Could not allocate the resources necessary for operation.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC0001389",
+  "codeUrl": "/win32/netevent-h/event_ndis_out_of_resource/0xc0001389/",
+  "numericCode": -1073736823,
+  "define": "EVENT_NDIS_OUT_OF_RESOURCE",
+  "defineUrl": "/win32/netevent-h/event_ndis_out_of_resource/",
+  "message": "%2 : Could not allocate the resources necessary for operation.",
+  "remarks": null,
+  "aka": [
+    "-1073736823"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_ndis_out_of_resource/-1073736823/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

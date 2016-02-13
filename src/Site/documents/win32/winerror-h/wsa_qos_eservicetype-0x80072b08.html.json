@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\wsa_qos_eservicetype\0x80072b08\index.html.json
+canonical: /win32/winerror-h/wsa_qos_eservicetype/11016/
+title: 0x80072b08 WSA_QOS_ESERVICETYPE in winerror.h
+description: An invalid or unrecognized service type was found in the flowspec.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80072b08",
+  "codeUrl": "/win32/winerror-h/wsa_qos_eservicetype/0x80072b08/",
+  "numericCode": 0,
+  "define": "WSA_QOS_ESERVICETYPE",
+  "defineUrl": "/win32/winerror-h/wsa_qos_eservicetype/",
+  "message": "An invalid or unrecognized service type was found in the flowspec.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "11016",
+  "originalCodeUrl": "/win32/winerror-h/wsa_qos_eservicetype/11016/"
+}

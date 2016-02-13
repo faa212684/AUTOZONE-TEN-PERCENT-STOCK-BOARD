@@ -1,0 +1,24 @@
+---
+output: win32\cdosyserr-h\cdo_e_invalid_encoding_for_multipart\-2147220964\index.html.json
+canonical: /win32/cdosyserr-h/cdo_e_invalid_encoding_for_multipart/0x8004021c/
+title: -2147220964 CDO_E_INVALID_ENCODING_FOR_MULTIPART in CDOSysErr.h
+description: Multipart body parts must be encoded as 7bit, 8bit, or binary.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "CDOSysErr.h",
+  "sourceUrl": "/win32/cdosyserr-h/",
+  "code": "-2147220964",
+  "codeUrl": "/win32/cdosyserr-h/cdo_e_invalid_encoding_for_multipart/-2147220964/",
+  "numericCode": 0,
+  "define": "CDO_E_INVALID_ENCODING_FOR_MULTIPART",
+  "defineUrl": "/win32/cdosyserr-h/cdo_e_invalid_encoding_for_multipart/",
+  "message": "Multipart body parts must be encoded as 7bit, 8bit, or binary.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x8004021C",
+  "originalCodeUrl": "/win32/cdosyserr-h/cdo_e_invalid_encoding_for_multipart/0x8004021c/"
+}

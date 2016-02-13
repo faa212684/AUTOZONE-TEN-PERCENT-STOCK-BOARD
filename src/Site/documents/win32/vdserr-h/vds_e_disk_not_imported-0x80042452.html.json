@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_e_disk_not_imported\0x80042452\index.html.json
+
+title: 0x80042452 VDS_E_DISK_NOT_IMPORTED in vdserr.h
+description: A disk in the import's source pack was not imported.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x80042452",
+  "codeUrl": "/win32/vdserr-h/vds_e_disk_not_imported/0x80042452/",
+  "numericCode": -2147212206,
+  "define": "VDS_E_DISK_NOT_IMPORTED",
+  "defineUrl": "/win32/vdserr-h/vds_e_disk_not_imported/",
+  "message": "A disk in the import's source pack was not imported.",
+  "remarks": null,
+  "aka": [
+    "-2147212206"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_disk_not_imported/-2147212206/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

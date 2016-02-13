@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_ipsec_dosp_received_multicast\-1070170111\index.html.json
+canonical: /win32/ntstatus-h/status_ipsec_dosp_received_multicast/0xc0368001/
+title: -1070170111 STATUS_IPSEC_DOSP_RECEIVED_MULTICAST in ntstatus.h
+description: IPsec DoS Protection received an IPsec specific multicast packet which is not allowed.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1070170111",
+  "codeUrl": "/win32/ntstatus-h/status_ipsec_dosp_received_multicast/-1070170111/",
+  "numericCode": 0,
+  "define": "STATUS_IPSEC_DOSP_RECEIVED_MULTICAST",
+  "defineUrl": "/win32/ntstatus-h/status_ipsec_dosp_received_multicast/",
+  "message": "IPsec DoS Protection received an IPsec specific multicast packet which is not allowed.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0368001",
+  "originalCodeUrl": "/win32/ntstatus-h/status_ipsec_dosp_received_multicast/0xc0368001/"
+}

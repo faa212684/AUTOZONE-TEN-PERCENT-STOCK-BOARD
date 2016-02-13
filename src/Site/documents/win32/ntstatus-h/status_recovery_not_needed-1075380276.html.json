@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_recovery_not_needed\1075380276\index.html.json
+canonical: /win32/ntstatus-h/status_recovery_not_needed/0x40190034/
+title: 1075380276 STATUS_RECOVERY_NOT_NEEDED in ntstatus.h
+description: The transactional resource manager is already consistent. Recovery is not needed.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "1075380276",
+  "codeUrl": "/win32/ntstatus-h/status_recovery_not_needed/1075380276/",
+  "numericCode": 0,
+  "define": "STATUS_RECOVERY_NOT_NEEDED",
+  "defineUrl": "/win32/ntstatus-h/status_recovery_not_needed/",
+  "message": "The transactional resource manager is already consistent. Recovery is not needed.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x40190034",
+  "originalCodeUrl": "/win32/ntstatus-h/status_recovery_not_needed/0x40190034/"
+}

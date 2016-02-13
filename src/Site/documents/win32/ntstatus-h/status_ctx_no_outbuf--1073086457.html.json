@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_ctx_no_outbuf\-1073086457\index.html.json
+canonical: /win32/ntstatus-h/status_ctx_no_outbuf/0xc00a0007/
+title: -1073086457 STATUS_CTX_NO_OUTBUF in ntstatus.h
+description: There are no free output buffers available.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073086457",
+  "codeUrl": "/win32/ntstatus-h/status_ctx_no_outbuf/-1073086457/",
+  "numericCode": 0,
+  "define": "STATUS_CTX_NO_OUTBUF",
+  "defineUrl": "/win32/ntstatus-h/status_ctx_no_outbuf/",
+  "message": "There are no free output buffers available.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC00A0007",
+  "originalCodeUrl": "/win32/ntstatus-h/status_ctx_no_outbuf/0xc00a0007/"
+}

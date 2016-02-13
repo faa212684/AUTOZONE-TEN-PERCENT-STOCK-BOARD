@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_volume_dirty\6851\index.html.json
+
+title: 6851 ERROR_VOLUME_DIRTY in winerror.h
+description: The operation could not be completed because the volume is dirty. Please run chkdsk and try again.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "6851",
+  "codeUrl": "/win32/winerror-h/error_volume_dirty/6851/",
+  "numericCode": 6851,
+  "define": "ERROR_VOLUME_DIRTY",
+  "defineUrl": "/win32/winerror-h/error_volume_dirty/",
+  "message": "The operation could not be completed because the volume is dirty. Please run chkdsk and try again.",
+  "remarks": null,
+  "aka": [
+    "0x80071ac3",
+    "-2147018045"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_volume_dirty/0x80071ac3/",
+    "/win32/winerror-h/error_volume_dirty/-2147018045/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\tapi3err-h\tapi_e_invaladdress\0x8004000c\index.html.json
+
+title: 0x8004000C TAPI_E_INVALADDRESS in Tapi3Err.h
+description: The phone number is invalid or not properly formatted.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "Tapi3Err.h",
+  "sourceUrl": "/win32/tapi3err-h/",
+  "code": "0x8004000C",
+  "codeUrl": "/win32/tapi3err-h/tapi_e_invaladdress/0x8004000c/",
+  "numericCode": -2147221492,
+  "define": "TAPI_E_INVALADDRESS",
+  "defineUrl": "/win32/tapi3err-h/tapi_e_invaladdress/",
+  "message": "The phone number is invalid or not properly formatted.",
+  "remarks": null,
+  "aka": [
+    "-2147221492"
+  ],
+  "akaUrl": [
+    "/win32/tapi3err-h/tapi_e_invaladdress/-2147221492/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

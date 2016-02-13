@@ -1,0 +1,31 @@
+---
+output: win32\cdosyserr-h\evtbackgroundlogonfailed\0xc003203f\index.html.json
+
+title: 0xC003203F evtBackgroundLogonFailed in CDOSysErr.h
+description: The background calendaring agent failed to logon to the MDB, or create a session object on the MDB:%1.  
+The error code is %2.
+The rendering of large calendars with the web client or Microsoft Internet Explorer for the mailbox %3 with GUID:%4 will be slower.
+%n%nFor more information, click http:www.microsoft.com/contentredirect.asp.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "CDOSysErr.h",
+  "sourceUrl": "/win32/cdosyserr-h/",
+  "code": "0xC003203F",
+  "codeUrl": "/win32/cdosyserr-h/evtbackgroundlogonfailed/0xc003203f/",
+  "numericCode": -1073536961,
+  "define": "evtBackgroundLogonFailed",
+  "defineUrl": "/win32/cdosyserr-h/evtbackgroundlogonfailed/",
+  "message": "The background calendaring agent failed to logon to the MDB, or create a session object on the MDB:%1.  \r\nThe error code is %2.\r\nThe rendering of large calendars with the web client or Microsoft Internet Explorer for the mailbox %3 with GUID:%4 will be slower.\r\n%n%nFor more information, click http:www.microsoft.com/contentredirect.asp.",
+  "remarks": null,
+  "aka": [
+    "-1073536961"
+  ],
+  "akaUrl": [
+    "/win32/cdosyserr-h/evtbackgroundlogonfailed/-1073536961/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

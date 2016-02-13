@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_host_node_not_group_owner\-2147019880\index.html.json
+canonical: /win32/winerror-h/error_host_node_not_group_owner/5016/
+title: -2147019880 ERROR_HOST_NODE_NOT_GROUP_OWNER in winerror.h
+description: The operation failed because either the specified cluster node is not the owner of the group, or the node is not a possible owner of the group.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147019880",
+  "codeUrl": "/win32/winerror-h/error_host_node_not_group_owner/-2147019880/",
+  "numericCode": 0,
+  "define": "ERROR_HOST_NODE_NOT_GROUP_OWNER",
+  "defineUrl": "/win32/winerror-h/error_host_node_not_group_owner/",
+  "message": "The operation failed because either the specified cluster node is not the owner of the group, or the node is not a possible owner of the group.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "5016",
+  "originalCodeUrl": "/win32/winerror-h/error_host_node_not_group_owner/5016/"
+}

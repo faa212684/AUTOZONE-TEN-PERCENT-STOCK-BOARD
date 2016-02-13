@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_ipsec_ike_benign_reinit\0x80073636\index.html.json
+canonical: /win32/winerror-h/error_ipsec_ike_benign_reinit/13878/
+title: 0x80073636 ERROR_IPSEC_IKE_BENIGN_REINIT in winerror.h
+description: Temporary state created to perform reinitialization. This is not a real failure.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80073636",
+  "codeUrl": "/win32/winerror-h/error_ipsec_ike_benign_reinit/0x80073636/",
+  "numericCode": 0,
+  "define": "ERROR_IPSEC_IKE_BENIGN_REINIT",
+  "defineUrl": "/win32/winerror-h/error_ipsec_ike_benign_reinit/",
+  "message": "Temporary state created to perform reinitialization. This is not a real failure.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "13878",
+  "originalCodeUrl": "/win32/winerror-h/error_ipsec_ike_benign_reinit/13878/"
+}

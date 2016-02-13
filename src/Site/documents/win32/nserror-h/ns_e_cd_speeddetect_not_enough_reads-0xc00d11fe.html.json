@@ -1,0 +1,28 @@
+---
+output: win32\nserror-h\ns_e_cd_speeddetect_not_enough_reads\0xc00d11fe\index.html.json
+
+title: 0xC00D11FE NS_E_CD_SPEEDDETECT_NOT_ENOUGH_READS in nserror.h
+description: Windows Media Player cannot estimate the CD drive's playback speed because the CD track is too short.%0
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "nserror.h",
+  "sourceUrl": "/win32/nserror-h/",
+  "code": "0xC00D11FE",
+  "codeUrl": "/win32/nserror-h/ns_e_cd_speeddetect_not_enough_reads/0xc00d11fe/",
+  "numericCode": -1072885250,
+  "define": "NS_E_CD_SPEEDDETECT_NOT_ENOUGH_READS",
+  "defineUrl": "/win32/nserror-h/ns_e_cd_speeddetect_not_enough_reads/",
+  "message": "Windows Media Player cannot estimate the CD drive's playback speed because the CD track is too short.%0",
+  "remarks": null,
+  "aka": [
+    "-1072885250"
+  ],
+  "akaUrl": [
+    "/win32/nserror-h/ns_e_cd_speeddetect_not_enough_reads/-1072885250/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

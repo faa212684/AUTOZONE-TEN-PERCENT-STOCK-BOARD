@@ -1,0 +1,28 @@
+---
+output: bugcheck\bugcodes-h\worker_thread_returned_with_bad_paging_io_priority\0x00000129\index.html.json
+
+title: 0x00000129 WORKER_THREAD_RETURNED_WITH_BAD_PAGING_IO_PRIORITY in bugcodes.h
+description: WORKER_THREAD_RETURNED_WITH_BAD_PAGING_IO_PRIORITY
+disqus: true
+---
+{
+  "area": "bugcheck",
+  "areaUrl": "/bugcheck/",
+  "source": "bugcodes.h",
+  "sourceUrl": "/bugcheck/bugcodes-h/",
+  "code": "0x00000129",
+  "codeUrl": "/bugcheck/bugcodes-h/worker_thread_returned_with_bad_paging_io_priority/0x00000129/",
+  "numericCode": 297,
+  "define": "WORKER_THREAD_RETURNED_WITH_BAD_PAGING_IO_PRIORITY",
+  "defineUrl": "/bugcheck/bugcodes-h/worker_thread_returned_with_bad_paging_io_priority/",
+  "message": "WORKER_THREAD_RETURNED_WITH_BAD_PAGING_IO_PRIORITY",
+  "remarks": null,
+  "aka": [
+    "297"
+  ],
+  "akaUrl": [
+    "/bugcheck/bugcodes-h/worker_thread_returned_with_bad_paging_io_priority/297/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

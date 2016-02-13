@@ -1,0 +1,24 @@
+---
+output: win32\mferror-h\mf_e_net_incompatible_pushserver\-1072872828\index.html.json
+canonical: /win32/mferror-h/mf_e_net_incompatible_pushserver/0xc00d4284/
+title: -1072872828 MF_E_NET_INCOMPATIBLE_PUSHSERVER in Mferror.h
+description: The Server service that received the HTTP push request is not a compatible version of Windows Media Services (WMS).  This error may indicate the push request was received by IIS instead of WMS.  Ensure WMS is started and has the HTTP Server control protocol properly enabled and try again.%0
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "Mferror.h",
+  "sourceUrl": "/win32/mferror-h/",
+  "code": "-1072872828",
+  "codeUrl": "/win32/mferror-h/mf_e_net_incompatible_pushserver/-1072872828/",
+  "numericCode": 0,
+  "define": "MF_E_NET_INCOMPATIBLE_PUSHSERVER",
+  "defineUrl": "/win32/mferror-h/mf_e_net_incompatible_pushserver/",
+  "message": "The Server service that received the HTTP push request is not a compatible version of Windows Media Services (WMS).  This error may indicate the push request was received by IIS instead of WMS.  Ensure WMS is started and has the HTTP Server control protocol properly enabled and try again.%0",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC00D4284",
+  "originalCodeUrl": "/win32/mferror-h/mf_e_net_incompatible_pushserver/0xc00d4284/"
+}

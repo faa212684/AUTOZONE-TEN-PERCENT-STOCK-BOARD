@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_fwp_context_incompatible_with_callout\0xc022002f\index.html.json
+
+title: 0xC022002F STATUS_FWP_CONTEXT_INCOMPATIBLE_WITH_CALLOUT in ntstatus.h
+description: The raw context or the provider context is not compatible with the callout.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC022002F",
+  "codeUrl": "/win32/ntstatus-h/status_fwp_context_incompatible_with_callout/0xc022002f/",
+  "numericCode": -1071513553,
+  "define": "STATUS_FWP_CONTEXT_INCOMPATIBLE_WITH_CALLOUT",
+  "defineUrl": "/win32/ntstatus-h/status_fwp_context_incompatible_with_callout/",
+  "message": "The raw context or the provider context is not compatible with the callout.",
+  "remarks": null,
+  "aka": [
+    "-1071513553"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_fwp_context_incompatible_with_callout/-1071513553/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

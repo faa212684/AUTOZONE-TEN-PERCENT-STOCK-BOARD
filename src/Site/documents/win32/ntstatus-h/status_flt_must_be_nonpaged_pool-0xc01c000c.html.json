@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_flt_must_be_nonpaged_pool\0xc01c000c\index.html.json
+
+title: 0xC01C000C STATUS_FLT_MUST_BE_NONPAGED_POOL in ntstatus.h
+description: Non-paged pool must be used for this type of context.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC01C000C",
+  "codeUrl": "/win32/ntstatus-h/status_flt_must_be_nonpaged_pool/0xc01c000c/",
+  "numericCode": -1071906804,
+  "define": "STATUS_FLT_MUST_BE_NONPAGED_POOL",
+  "defineUrl": "/win32/ntstatus-h/status_flt_must_be_nonpaged_pool/",
+  "message": "Non-paged pool must be used for this type of context.",
+  "remarks": null,
+  "aka": [
+    "-1071906804"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_flt_must_be_nonpaged_pool/-1071906804/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

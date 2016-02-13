@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_cluster_last_internal_network\-2147019830\index.html.json
+canonical: /win32/winerror-h/error_cluster_last_internal_network/5066/
+title: -2147019830 ERROR_CLUSTER_LAST_INTERNAL_NETWORK in winerror.h
+description: The cluster network is the only one configured for internal cluster communication between two or more active cluster nodes. The internal communication capability cannot be removed from the network.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147019830",
+  "codeUrl": "/win32/winerror-h/error_cluster_last_internal_network/-2147019830/",
+  "numericCode": 0,
+  "define": "ERROR_CLUSTER_LAST_INTERNAL_NETWORK",
+  "defineUrl": "/win32/winerror-h/error_cluster_last_internal_network/",
+  "message": "The cluster network is the only one configured for internal cluster communication between two or more active cluster nodes. The internal communication capability cannot be removed from the network.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "5066",
+  "originalCodeUrl": "/win32/winerror-h/error_cluster_last_internal_network/5066/"
+}

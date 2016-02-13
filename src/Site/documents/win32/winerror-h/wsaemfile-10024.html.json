@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\wsaemfile\10024\index.html.json
+
+title: 10024 WSAEMFILE in winerror.h
+description: Too many open sockets.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "10024",
+  "codeUrl": "/win32/winerror-h/wsaemfile/10024/",
+  "numericCode": 10024,
+  "define": "WSAEMFILE",
+  "defineUrl": "/win32/winerror-h/wsaemfile/",
+  "message": "Too many open sockets.",
+  "remarks": null,
+  "aka": [
+    "0x80072728",
+    "-2147014872"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/wsaemfile/0x80072728/",
+    "/win32/winerror-h/wsaemfile/-2147014872/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

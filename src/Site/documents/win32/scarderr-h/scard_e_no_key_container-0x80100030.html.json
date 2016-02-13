@@ -1,0 +1,28 @@
+---
+output: win32\scarderr-h\scard_e_no_key_container\0x80100030\index.html.json
+
+title: 0x80100030 SCARD_E_NO_KEY_CONTAINER in SCardErr.h
+description: The requested key container does not exist on the smart card.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "SCardErr.h",
+  "sourceUrl": "/win32/scarderr-h/",
+  "code": "0x80100030",
+  "codeUrl": "/win32/scarderr-h/scard_e_no_key_container/0x80100030/",
+  "numericCode": -2146435024,
+  "define": "SCARD_E_NO_KEY_CONTAINER",
+  "defineUrl": "/win32/scarderr-h/scard_e_no_key_container/",
+  "message": "The requested key container does not exist on the smart card.",
+  "remarks": null,
+  "aka": [
+    "-2146435024"
+  ],
+  "akaUrl": [
+    "/win32/scarderr-h/scard_e_no_key_container/-2146435024/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

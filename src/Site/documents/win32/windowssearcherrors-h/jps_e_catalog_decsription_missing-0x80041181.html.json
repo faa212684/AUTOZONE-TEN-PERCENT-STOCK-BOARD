@@ -1,0 +1,28 @@
+---
+output: win32\windowssearcherrors-h\jps_e_catalog_decsription_missing\0x80041181\index.html.json
+
+title: 0x80041181 JPS_E_CATALOG_DECSRIPTION_MISSING in WindowsSearchErrors.h
+description: The content index server cannot find a description of the content index in its database. Search will automatically attempt to recreate the content index description.  If this problem persists, stop and restart the search service and, if necessary, delete  and recreate the content index.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "0x80041181",
+  "codeUrl": "/win32/windowssearcherrors-h/jps_e_catalog_decsription_missing/0x80041181/",
+  "numericCode": -2147217023,
+  "define": "JPS_E_CATALOG_DECSRIPTION_MISSING",
+  "defineUrl": "/win32/windowssearcherrors-h/jps_e_catalog_decsription_missing/",
+  "message": "The content index server cannot find a description of the content index in its database. Search will automatically attempt to recreate the content index description.  If this problem persists, stop and restart the search service and, if necessary, delete  and recreate the content index.",
+  "remarks": null,
+  "aka": [
+    "-2147217023"
+  ],
+  "akaUrl": [
+    "/win32/windowssearcherrors-h/jps_e_catalog_decsription_missing/-2147217023/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

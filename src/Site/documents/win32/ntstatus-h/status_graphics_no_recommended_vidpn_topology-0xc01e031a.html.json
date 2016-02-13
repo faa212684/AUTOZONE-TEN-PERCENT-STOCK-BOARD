@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_graphics_no_recommended_vidpn_topology\0xc01e031a\index.html.json
+
+title: 0xC01E031A STATUS_GRAPHICS_NO_RECOMMENDED_VIDPN_TOPOLOGY in ntstatus.h
+description: Miniport has no recommendation for augmentation of the specified VidPN's topology.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC01E031A",
+  "codeUrl": "/win32/ntstatus-h/status_graphics_no_recommended_vidpn_topology/0xc01e031a/",
+  "numericCode": -1071774950,
+  "define": "STATUS_GRAPHICS_NO_RECOMMENDED_VIDPN_TOPOLOGY",
+  "defineUrl": "/win32/ntstatus-h/status_graphics_no_recommended_vidpn_topology/",
+  "message": "Miniport has no recommendation for augmentation of the specified VidPN's topology.",
+  "remarks": null,
+  "aka": [
+    "-1071774950"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_graphics_no_recommended_vidpn_topology/-1071774950/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

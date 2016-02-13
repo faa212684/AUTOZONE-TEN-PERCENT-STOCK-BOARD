@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\rpc_nt_unknown_authn_level\0xc0020031\index.html.json
+
+title: 0xC0020031 RPC_NT_UNKNOWN_AUTHN_LEVEL in ntstatus.h
+description: The authentication level is unknown.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0020031",
+  "codeUrl": "/win32/ntstatus-h/rpc_nt_unknown_authn_level/0xc0020031/",
+  "numericCode": -1073610703,
+  "define": "RPC_NT_UNKNOWN_AUTHN_LEVEL",
+  "defineUrl": "/win32/ntstatus-h/rpc_nt_unknown_authn_level/",
+  "message": "The authentication level is unknown.",
+  "remarks": null,
+  "aka": [
+    "-1073610703"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/rpc_nt_unknown_authn_level/-1073610703/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

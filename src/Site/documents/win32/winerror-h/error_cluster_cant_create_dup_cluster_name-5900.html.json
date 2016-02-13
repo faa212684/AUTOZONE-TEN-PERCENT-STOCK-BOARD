@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_cluster_cant_create_dup_cluster_name\5900\index.html.json
+
+title: 5900 ERROR_CLUSTER_CANT_CREATE_DUP_CLUSTER_NAME in winerror.h
+description: A cluster cannot be created with the specified cluster name because that cluster name is already in use. Specify a different name for the cluster.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "5900",
+  "codeUrl": "/win32/winerror-h/error_cluster_cant_create_dup_cluster_name/5900/",
+  "numericCode": 5900,
+  "define": "ERROR_CLUSTER_CANT_CREATE_DUP_CLUSTER_NAME",
+  "defineUrl": "/win32/winerror-h/error_cluster_cant_create_dup_cluster_name/",
+  "message": "A cluster cannot be created with the specified cluster name because that cluster name is already in use. Specify a different name for the cluster.",
+  "remarks": null,
+  "aka": [
+    "0x8007170c",
+    "-2147018996"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_cluster_cant_create_dup_cluster_name/0x8007170c/",
+    "/win32/winerror-h/error_cluster_cant_create_dup_cluster_name/-2147018996/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

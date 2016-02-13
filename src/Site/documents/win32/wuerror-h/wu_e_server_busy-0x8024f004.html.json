@@ -1,0 +1,28 @@
+---
+output: win32\wuerror-h\wu_e_server_busy\0x8024f004\index.html.json
+
+title: 0x8024F004 WU_E_SERVER_BUSY in wuerror.h
+description: The server rejected an event because the server was too busy.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wuerror.h",
+  "sourceUrl": "/win32/wuerror-h/",
+  "code": "0x8024F004",
+  "codeUrl": "/win32/wuerror-h/wu_e_server_busy/0x8024f004/",
+  "numericCode": -2145062908,
+  "define": "WU_E_SERVER_BUSY",
+  "defineUrl": "/win32/wuerror-h/wu_e_server_busy/",
+  "message": "The server rejected an event because the server was too busy.",
+  "remarks": null,
+  "aka": [
+    "-2145062908"
+  ],
+  "akaUrl": [
+    "/win32/wuerror-h/wu_e_server_busy/-2145062908/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

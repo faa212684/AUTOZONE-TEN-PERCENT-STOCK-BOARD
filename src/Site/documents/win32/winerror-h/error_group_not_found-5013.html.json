@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_group_not_found\5013\index.html.json
+
+title: 5013 ERROR_GROUP_NOT_FOUND in winerror.h
+description: The cluster group could not be found.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "5013",
+  "codeUrl": "/win32/winerror-h/error_group_not_found/5013/",
+  "numericCode": 5013,
+  "define": "ERROR_GROUP_NOT_FOUND",
+  "defineUrl": "/win32/winerror-h/error_group_not_found/",
+  "message": "The cluster group could not be found.",
+  "remarks": null,
+  "aka": [
+    "0x80071395",
+    "-2147019883"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_group_not_found/0x80071395/",
+    "/win32/winerror-h/error_group_not_found/-2147019883/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

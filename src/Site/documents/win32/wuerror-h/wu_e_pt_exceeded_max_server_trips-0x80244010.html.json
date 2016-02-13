@@ -1,0 +1,28 @@
+---
+output: win32\wuerror-h\wu_e_pt_exceeded_max_server_trips\0x80244010\index.html.json
+
+title: 0x80244010 WU_E_PT_EXCEEDED_MAX_SERVER_TRIPS in wuerror.h
+description: The number of round trips to the server exceeded the maximum limit.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wuerror.h",
+  "sourceUrl": "/win32/wuerror-h/",
+  "code": "0x80244010",
+  "codeUrl": "/win32/wuerror-h/wu_e_pt_exceeded_max_server_trips/0x80244010/",
+  "numericCode": -2145107952,
+  "define": "WU_E_PT_EXCEEDED_MAX_SERVER_TRIPS",
+  "defineUrl": "/win32/wuerror-h/wu_e_pt_exceeded_max_server_trips/",
+  "message": "The number of round trips to the server exceeded the maximum limit.",
+  "remarks": null,
+  "aka": [
+    "-2145107952"
+  ],
+  "akaUrl": [
+    "/win32/wuerror-h/wu_e_pt_exceeded_max_server_trips/-2145107952/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

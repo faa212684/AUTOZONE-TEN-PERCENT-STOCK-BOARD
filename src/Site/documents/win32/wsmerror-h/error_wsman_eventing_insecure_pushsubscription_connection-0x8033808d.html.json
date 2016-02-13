@@ -1,0 +1,28 @@
+---
+output: win32\wsmerror-h\error_wsman_eventing_insecure_pushsubscription_connection\0x8033808d\index.html.json
+
+title: 0x8033808D ERROR_WSMAN_EVENTING_INSECURE_PUSHSUBSCRIPTION_CONNECTION in wsmerror.h
+description: The source is sending events in a connection that did not match the security restrictions imposed by the client.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x8033808D",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_eventing_insecure_pushsubscription_connection/0x8033808d/",
+  "numericCode": -2144108403,
+  "define": "ERROR_WSMAN_EVENTING_INSECURE_PUSHSUBSCRIPTION_CONNECTION",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_eventing_insecure_pushsubscription_connection/",
+  "message": "The source is sending events in a connection that did not match the security restrictions imposed by the client.",
+  "remarks": null,
+  "aka": [
+    "-2144108403"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_eventing_insecure_pushsubscription_connection/-2144108403/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

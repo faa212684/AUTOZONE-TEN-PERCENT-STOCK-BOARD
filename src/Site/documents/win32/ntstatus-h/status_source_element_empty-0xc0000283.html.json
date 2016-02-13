@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_source_element_empty\0xc0000283\index.html.json
+
+title: 0xC0000283 STATUS_SOURCE_ELEMENT_EMPTY in ntstatus.h
+description: The specified medium changer source element contains no media.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000283",
+  "codeUrl": "/win32/ntstatus-h/status_source_element_empty/0xc0000283/",
+  "numericCode": -1073741181,
+  "define": "STATUS_SOURCE_ELEMENT_EMPTY",
+  "defineUrl": "/win32/ntstatus-h/status_source_element_empty/",
+  "message": "The specified medium changer source element contains no media.",
+  "remarks": null,
+  "aka": [
+    "-1073741181"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_source_element_empty/-1073741181/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\rpc_e_cantcallout_again\0x80010011\index.html.json
+
+title: 0x80010011 RPC_E_CANTCALLOUT_AGAIN in winerror.h
+description: There is no second outgoing call on same channel in DDE conversation.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80010011",
+  "codeUrl": "/win32/winerror-h/rpc_e_cantcallout_again/0x80010011/",
+  "numericCode": -2147418095,
+  "define": "RPC_E_CANTCALLOUT_AGAIN",
+  "defineUrl": "/win32/winerror-h/rpc_e_cantcallout_again/",
+  "message": "There is no second outgoing call on same channel in DDE conversation.",
+  "remarks": null,
+  "aka": [
+    "-2147418095"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/rpc_e_cantcallout_again/-2147418095/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

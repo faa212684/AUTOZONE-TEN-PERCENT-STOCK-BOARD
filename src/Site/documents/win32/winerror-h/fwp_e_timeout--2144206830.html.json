@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\fwp_e_timeout\-2144206830\index.html.json
+canonical: /win32/winerror-h/fwp_e_timeout/0x80320012/
+title: -2144206830 FWP_E_TIMEOUT in winerror.h
+description: The call timed out while waiting to acquire the transaction lock.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2144206830",
+  "codeUrl": "/win32/winerror-h/fwp_e_timeout/-2144206830/",
+  "numericCode": 0,
+  "define": "FWP_E_TIMEOUT",
+  "defineUrl": "/win32/winerror-h/fwp_e_timeout/",
+  "message": "The call timed out while waiting to acquire the transaction lock.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80320012",
+  "originalCodeUrl": "/win32/winerror-h/fwp_e_timeout/0x80320012/"
+}

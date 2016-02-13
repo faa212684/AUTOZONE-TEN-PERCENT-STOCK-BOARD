@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_volmgr_disk_last_voter\-1070071798\index.html.json
+canonical: /win32/winerror-h/error_volmgr_disk_last_voter/0xc038000a/
+title: -1070071798 ERROR_VOLMGR_DISK_LAST_VOTER in winerror.h
+description: The specified disk(s) cannot be removed since it is the last remaining voter.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-1070071798",
+  "codeUrl": "/win32/winerror-h/error_volmgr_disk_last_voter/-1070071798/",
+  "numericCode": 0,
+  "define": "ERROR_VOLMGR_DISK_LAST_VOTER",
+  "defineUrl": "/win32/winerror-h/error_volmgr_disk_last_voter/",
+  "message": "The specified disk(s) cannot be removed since it is the last remaining voter.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC038000A",
+  "originalCodeUrl": "/win32/winerror-h/error_volmgr_disk_last_voter/0xc038000a/"
+}

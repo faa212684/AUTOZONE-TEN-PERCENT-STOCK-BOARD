@@ -1,0 +1,28 @@
+---
+output: win32\ntiologc-h\io_err_invalid_iobase\0xc004000e\index.html.json
+
+title: 0xC004000E IO_ERR_INVALID_IOBASE in ntiologc.h
+description: The driver was configured with an invalid I/O base address for %1.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntiologc.h",
+  "sourceUrl": "/win32/ntiologc-h/",
+  "code": "0xC004000E",
+  "codeUrl": "/win32/ntiologc-h/io_err_invalid_iobase/0xc004000e/",
+  "numericCode": -1073479666,
+  "define": "IO_ERR_INVALID_IOBASE",
+  "defineUrl": "/win32/ntiologc-h/io_err_invalid_iobase/",
+  "message": "The driver was configured with an invalid I/O base address for %1.",
+  "remarks": null,
+  "aka": [
+    "-1073479666"
+  ],
+  "akaUrl": [
+    "/win32/ntiologc-h/io_err_invalid_iobase/-1073479666/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_log_dedicated\6631\index.html.json
+
+title: 6631 ERROR_LOG_DEDICATED in winerror.h
+description: The operation failed because the log is a dedicated log.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "6631",
+  "codeUrl": "/win32/winerror-h/error_log_dedicated/6631/",
+  "numericCode": 6631,
+  "define": "ERROR_LOG_DEDICATED",
+  "defineUrl": "/win32/winerror-h/error_log_dedicated/",
+  "message": "The operation failed because the log is a dedicated log.",
+  "remarks": null,
+  "aka": [
+    "0x800719e7",
+    "-2147018265"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_log_dedicated/0x800719e7/",
+    "/win32/winerror-h/error_log_dedicated/-2147018265/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

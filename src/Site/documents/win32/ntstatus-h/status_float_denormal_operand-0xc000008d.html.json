@@ -1,0 +1,29 @@
+---
+output: win32\ntstatus-h\status_float_denormal_operand\0xc000008d\index.html.json
+
+title: 0xC000008D STATUS_FLOAT_DENORMAL_OPERAND in ntstatus.h
+description: "{EXCEPTION}
+Floating-point denormal operand."
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000008D",
+  "codeUrl": "/win32/ntstatus-h/status_float_denormal_operand/0xc000008d/",
+  "numericCode": -1073741683,
+  "define": "STATUS_FLOAT_DENORMAL_OPERAND",
+  "defineUrl": "/win32/ntstatus-h/status_float_denormal_operand/",
+  "message": "{EXCEPTION}\r\nFloating-point denormal operand.",
+  "remarks": null,
+  "aka": [
+    "-1073741683"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_float_denormal_operand/-1073741683/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_runlevel_switch_agent_timeout\-1073700539\index.html.json
+canonical: /win32/ntstatus-h/status_runlevel_switch_agent_timeout/0xc000a145/
+title: -1073700539 STATUS_RUNLEVEL_SWITCH_AGENT_TIMEOUT in ntstatus.h
+description: A run level switch agent did not respond within the specified timeout.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073700539",
+  "codeUrl": "/win32/ntstatus-h/status_runlevel_switch_agent_timeout/-1073700539/",
+  "numericCode": 0,
+  "define": "STATUS_RUNLEVEL_SWITCH_AGENT_TIMEOUT",
+  "defineUrl": "/win32/ntstatus-h/status_runlevel_switch_agent_timeout/",
+  "message": "A run level switch agent did not respond within the specified timeout.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC000A145",
+  "originalCodeUrl": "/win32/ntstatus-h/status_runlevel_switch_agent_timeout/0xc000a145/"
+}

@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_floppy_bad_registers\1125\index.html.json
+
+title: 1125 ERROR_FLOPPY_BAD_REGISTERS in winerror.h
+description: The floppy disk controller returned inconsistent results in its registers.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1125",
+  "codeUrl": "/win32/winerror-h/error_floppy_bad_registers/1125/",
+  "numericCode": 1125,
+  "define": "ERROR_FLOPPY_BAD_REGISTERS",
+  "defineUrl": "/win32/winerror-h/error_floppy_bad_registers/",
+  "message": "The floppy disk controller returned inconsistent results in its registers.",
+  "remarks": null,
+  "aka": [
+    "0x80070465",
+    "-2147023771"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_floppy_bad_registers/0x80070465/",
+    "/win32/winerror-h/error_floppy_bad_registers/-2147023771/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

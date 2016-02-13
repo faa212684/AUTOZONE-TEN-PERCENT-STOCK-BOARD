@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\event_s_some_subscribers_failed\262656\index.html.json
+canonical: /win32/winerror-h/event_s_some_subscribers_failed/0x00040200/
+title: 262656 EVENT_S_SOME_SUBSCRIBERS_FAILED in winerror.h
+description: An event was able to invoke some but not all of the subscribers
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "262656",
+  "codeUrl": "/win32/winerror-h/event_s_some_subscribers_failed/262656/",
+  "numericCode": 0,
+  "define": "EVENT_S_SOME_SUBSCRIBERS_FAILED",
+  "defineUrl": "/win32/winerror-h/event_s_some_subscribers_failed/",
+  "message": "An event was able to invoke some but not all of the subscribers",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x00040200",
+  "originalCodeUrl": "/win32/winerror-h/event_s_some_subscribers_failed/0x00040200/"
+}

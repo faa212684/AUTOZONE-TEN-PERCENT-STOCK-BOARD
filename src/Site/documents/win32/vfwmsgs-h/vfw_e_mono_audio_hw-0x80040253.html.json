@@ -1,0 +1,28 @@
+---
+output: win32\vfwmsgs-h\vfw_e_mono_audio_hw\0x80040253\index.html.json
+
+title: 0x80040253 VFW_E_MONO_AUDIO_HW in vfwmsgs.h
+description: Cannot change balance because audio device is mono only.%0
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vfwmsgs.h",
+  "sourceUrl": "/win32/vfwmsgs-h/",
+  "code": "0x80040253",
+  "codeUrl": "/win32/vfwmsgs-h/vfw_e_mono_audio_hw/0x80040253/",
+  "numericCode": -2147220909,
+  "define": "VFW_E_MONO_AUDIO_HW",
+  "defineUrl": "/win32/vfwmsgs-h/vfw_e_mono_audio_hw/",
+  "message": "Cannot change balance because audio device is mono only.%0",
+  "remarks": null,
+  "aka": [
+    "-2147220909"
+  ],
+  "akaUrl": [
+    "/win32/vfwmsgs-h/vfw_e_mono_audio_hw/-2147220909/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

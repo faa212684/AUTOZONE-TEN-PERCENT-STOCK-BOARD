@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\cs_e_invalid_path\0x8004016b\index.html.json
+
+title: 0x8004016B CS_E_INVALID_PATH in winerror.h
+description: The path to the software installation data in the Active Directory is not correct.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8004016B",
+  "codeUrl": "/win32/winerror-h/cs_e_invalid_path/0x8004016b/",
+  "numericCode": -2147221141,
+  "define": "CS_E_INVALID_PATH",
+  "defineUrl": "/win32/winerror-h/cs_e_invalid_path/",
+  "message": "The path to the software installation data in the Active Directory is not correct.",
+  "remarks": null,
+  "aka": [
+    "-2147221141"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/cs_e_invalid_path/-2147221141/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\rpc_nt_null_ref_pointer\-1073545207\index.html.json
+canonical: /win32/ntstatus-h/rpc_nt_null_ref_pointer/0xc0030009/
+title: -1073545207 RPC_NT_NULL_REF_POINTER in ntstatus.h
+description: A null reference pointer was passed to the stub.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073545207",
+  "codeUrl": "/win32/ntstatus-h/rpc_nt_null_ref_pointer/-1073545207/",
+  "numericCode": 0,
+  "define": "RPC_NT_NULL_REF_POINTER",
+  "defineUrl": "/win32/ntstatus-h/rpc_nt_null_ref_pointer/",
+  "message": "A null reference pointer was passed to the stub.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0030009",
+  "originalCodeUrl": "/win32/ntstatus-h/rpc_nt_null_ref_pointer/0xc0030009/"
+}

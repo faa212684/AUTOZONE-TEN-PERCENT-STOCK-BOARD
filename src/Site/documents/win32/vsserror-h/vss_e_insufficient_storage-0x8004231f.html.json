@@ -1,0 +1,28 @@
+---
+output: win32\vsserror-h\vss_e_insufficient_storage\0x8004231f\index.html.json
+
+title: 0x8004231F VSS_E_INSUFFICIENT_STORAGE in vsserror.h
+description: Insufficient storage available to create either the shadow copy storage file or other shadow copy data.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vsserror.h",
+  "sourceUrl": "/win32/vsserror-h/",
+  "code": "0x8004231F",
+  "codeUrl": "/win32/vsserror-h/vss_e_insufficient_storage/0x8004231f/",
+  "numericCode": -2147212513,
+  "define": "VSS_E_INSUFFICIENT_STORAGE",
+  "defineUrl": "/win32/vsserror-h/vss_e_insufficient_storage/",
+  "message": "Insufficient storage available to create either the shadow copy storage file or other shadow copy data.",
+  "remarks": null,
+  "aka": [
+    "-2147212513"
+  ],
+  "akaUrl": [
+    "/win32/vsserror-h/vss_e_insufficient_storage/-2147212513/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

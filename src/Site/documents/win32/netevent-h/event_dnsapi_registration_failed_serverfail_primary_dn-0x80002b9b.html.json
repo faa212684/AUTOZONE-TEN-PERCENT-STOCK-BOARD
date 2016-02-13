@@ -1,0 +1,46 @@
+---
+output: win32\netevent-h\event_dnsapi_registration_failed_serverfail_primary_dn\0x80002b9b\index.html.json
+
+title: 0x80002B9B EVENT_DNSAPI_REGISTRATION_FAILED_SERVERFAIL_PRIMARY_DN in netevent.h
+description: The system failed to register host (A or AAAA) resource records (RRs) for
+network adapter%nwith settings:%n%n
+Adapter Name : %1%n
+Host Name : %2%n
+Primary Domain Suffix : %3%n
+DNS server list :%n
+%4%n
+Sent update to server : %5%n
+IP Address(es) :%n
+%6%n%n
+The reason the system could not register these RRs was because the
+DNS server failed the update request. The most likely cause of this
+is that the authoritative DNS server required to process this update
+request has a lock in place on the zone, probably because a zone
+transfer is in progress.%n%n
+You can manually retry DNS registration of the network adapter and
+its settings by typing "ipconfig /registerdns" at the command prompt.
+If problems still persist, contact your DNS server or network systems
+administrator.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x80002B9B",
+  "codeUrl": "/win32/netevent-h/event_dnsapi_registration_failed_serverfail_primary_dn/0x80002b9b/",
+  "numericCode": -2147472485,
+  "define": "EVENT_DNSAPI_REGISTRATION_FAILED_SERVERFAIL_PRIMARY_DN",
+  "defineUrl": "/win32/netevent-h/event_dnsapi_registration_failed_serverfail_primary_dn/",
+  "message": "The system failed to register host (A or AAAA) resource records (RRs) for\r\nnetwork adapter%nwith settings:%n%n\r\nAdapter Name : %1%n\r\nHost Name : %2%n\r\nPrimary Domain Suffix : %3%n\r\nDNS server list :%n\r\n%4%n\r\nSent update to server : %5%n\r\nIP Address(es) :%n\r\n%6%n%n\r\nThe reason the system could not register these RRs was because the\r\nDNS server failed the update request. The most likely cause of this\r\nis that the authoritative DNS server required to process this update\r\nrequest has a lock in place on the zone, probably because a zone\r\ntransfer is in progress.%n%n\r\nYou can manually retry DNS registration of the network adapter and\r\nits settings by typing \"ipconfig /registerdns\" at the command prompt.\r\nIf problems still persist, contact your DNS server or network systems\r\nadministrator.",
+  "remarks": null,
+  "aka": [
+    "-2147472485"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_dnsapi_registration_failed_serverfail_primary_dn/-2147472485/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

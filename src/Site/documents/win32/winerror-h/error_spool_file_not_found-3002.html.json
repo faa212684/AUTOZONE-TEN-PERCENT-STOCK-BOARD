@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_spool_file_not_found\3002\index.html.json
+
+title: 3002 ERROR_SPOOL_FILE_NOT_FOUND in winerror.h
+description: The spool file was not found.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "3002",
+  "codeUrl": "/win32/winerror-h/error_spool_file_not_found/3002/",
+  "numericCode": 3002,
+  "define": "ERROR_SPOOL_FILE_NOT_FOUND",
+  "defineUrl": "/win32/winerror-h/error_spool_file_not_found/",
+  "message": "The spool file was not found.",
+  "remarks": null,
+  "aka": [
+    "0x80070bba",
+    "-2147021894"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_spool_file_not_found/0x80070bba/",
+    "/win32/winerror-h/error_spool_file_not_found/-2147021894/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

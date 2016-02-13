@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_invalid_label\1299\index.html.json
+
+title: 1299 ERROR_INVALID_LABEL in winerror.h
+description: Indicates a particular Security ID may not be assigned as the label of an object.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1299",
+  "codeUrl": "/win32/winerror-h/error_invalid_label/1299/",
+  "numericCode": 1299,
+  "define": "ERROR_INVALID_LABEL",
+  "defineUrl": "/win32/winerror-h/error_invalid_label/",
+  "message": "Indicates a particular Security ID may not be assigned as the label of an object.",
+  "remarks": null,
+  "aka": [
+    "0x80070513",
+    "-2147023597"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_invalid_label/0x80070513/",
+    "/win32/winerror-h/error_invalid_label/-2147023597/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

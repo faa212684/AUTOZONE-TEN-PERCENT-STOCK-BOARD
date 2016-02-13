@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_ps_register_address_family_failed\0xc000371a\index.html.json
+
+title: 0xC000371A EVENT_PS_REGISTER_ADDRESS_FAMILY_FAILED in netevent.h
+description: QoS [Adapter %2]:%nThe Packet Scheduler was unable to register with the NDISWAN Call Manager.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC000371A",
+  "codeUrl": "/win32/netevent-h/event_ps_register_address_family_failed/0xc000371a/",
+  "numericCode": -1073727718,
+  "define": "EVENT_PS_REGISTER_ADDRESS_FAMILY_FAILED",
+  "defineUrl": "/win32/netevent-h/event_ps_register_address_family_failed/",
+  "message": "QoS [Adapter %2]:%nThe Packet Scheduler was unable to register with the NDISWAN Call Manager.",
+  "remarks": null,
+  "aka": [
+    "-1073727718"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_ps_register_address_family_failed/-1073727718/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

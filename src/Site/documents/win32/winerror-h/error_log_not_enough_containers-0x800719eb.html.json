@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_log_not_enough_containers\0x800719eb\index.html.json
+canonical: /win32/winerror-h/error_log_not_enough_containers/6635/
+title: 0x800719eb ERROR_LOG_NOT_ENOUGH_CONTAINERS in winerror.h
+description: The log must have at least two containers before it can be read from or written to.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800719eb",
+  "codeUrl": "/win32/winerror-h/error_log_not_enough_containers/0x800719eb/",
+  "numericCode": 0,
+  "define": "ERROR_LOG_NOT_ENOUGH_CONTAINERS",
+  "defineUrl": "/win32/winerror-h/error_log_not_enough_containers/",
+  "message": "The log must have at least two containers before it can be read from or written to.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "6635",
+  "originalCodeUrl": "/win32/winerror-h/error_log_not_enough_containers/6635/"
+}

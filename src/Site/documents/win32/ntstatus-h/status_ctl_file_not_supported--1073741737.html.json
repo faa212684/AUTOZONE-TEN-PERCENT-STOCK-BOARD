@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_ctl_file_not_supported\-1073741737\index.html.json
+canonical: /win32/ntstatus-h/status_ctl_file_not_supported/0xc0000057/
+title: -1073741737 STATUS_CTL_FILE_NOT_SUPPORTED in ntstatus.h
+description: An attempt was made to set the control attribute on a file. This attribute is not supported in the target file system.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741737",
+  "codeUrl": "/win32/ntstatus-h/status_ctl_file_not_supported/-1073741737/",
+  "numericCode": 0,
+  "define": "STATUS_CTL_FILE_NOT_SUPPORTED",
+  "defineUrl": "/win32/ntstatus-h/status_ctl_file_not_supported/",
+  "message": "An attempt was made to set the control attribute on a file. This attribute is not supported in the target file system.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000057",
+  "originalCodeUrl": "/win32/ntstatus-h/status_ctl_file_not_supported/0xc0000057/"
+}

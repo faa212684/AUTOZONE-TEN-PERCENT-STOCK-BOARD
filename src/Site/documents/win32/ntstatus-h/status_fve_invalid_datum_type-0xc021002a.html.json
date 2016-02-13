@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_fve_invalid_datum_type\0xc021002a\index.html.json
+
+title: 0xC021002A STATUS_FVE_INVALID_DATUM_TYPE in ntstatus.h
+description: The management information stored on the drive contained an unknown type. If you are using an old version of Windows, try accessing the drive from the latest version.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC021002A",
+  "codeUrl": "/win32/ntstatus-h/status_fve_invalid_datum_type/0xc021002a/",
+  "numericCode": -1071579094,
+  "define": "STATUS_FVE_INVALID_DATUM_TYPE",
+  "defineUrl": "/win32/ntstatus-h/status_fve_invalid_datum_type/",
+  "message": "The management information stored on the drive contained an unknown type. If you are using an old version of Windows, try accessing the drive from the latest version.",
+  "remarks": null,
+  "aka": [
+    "-1071579094"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_fve_invalid_datum_type/-1071579094/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

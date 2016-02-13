@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_transactional_conflict\-1072103423\index.html.json
+canonical: /win32/ntstatus-h/status_transactional_conflict/0xc0190001/
+title: -1072103423 STATUS_TRANSACTIONAL_CONFLICT in ntstatus.h
+description: The function attempted to use a name that is reserved for use by another transaction.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1072103423",
+  "codeUrl": "/win32/ntstatus-h/status_transactional_conflict/-1072103423/",
+  "numericCode": 0,
+  "define": "STATUS_TRANSACTIONAL_CONFLICT",
+  "defineUrl": "/win32/ntstatus-h/status_transactional_conflict/",
+  "message": "The function attempted to use a name that is reserved for use by another transaction.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0190001",
+  "originalCodeUrl": "/win32/ntstatus-h/status_transactional_conflict/0xc0190001/"
+}

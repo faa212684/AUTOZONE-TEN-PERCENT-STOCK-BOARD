@@ -1,0 +1,28 @@
+---
+output: win32\winbio_err-h\winbio_e_enrollment_in_progress\0x80098007\index.html.json
+
+title: 0x80098007 WINBIO_E_ENROLLMENT_IN_PROGRESS in winbio_err.h
+description: An enrollment transaction could not be started because another enrollment is already in progress.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winbio_err.h",
+  "sourceUrl": "/win32/winbio_err-h/",
+  "code": "0x80098007",
+  "codeUrl": "/win32/winbio_err-h/winbio_e_enrollment_in_progress/0x80098007/",
+  "numericCode": -2146861049,
+  "define": "WINBIO_E_ENROLLMENT_IN_PROGRESS",
+  "defineUrl": "/win32/winbio_err-h/winbio_e_enrollment_in_progress/",
+  "message": "An enrollment transaction could not be started because another enrollment is already in progress.",
+  "remarks": null,
+  "aka": [
+    "-2146861049"
+  ],
+  "akaUrl": [
+    "/win32/winbio_err-h/winbio_e_enrollment_in_progress/-2146861049/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

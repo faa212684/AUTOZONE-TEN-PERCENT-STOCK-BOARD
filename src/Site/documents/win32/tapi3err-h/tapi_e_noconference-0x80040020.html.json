@@ -1,0 +1,28 @@
+---
+output: win32\tapi3err-h\tapi_e_noconference\0x80040020\index.html.json
+
+title: 0x80040020 TAPI_E_NOCONFERENCE in Tapi3Err.h
+description: The call is not part of a conference.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "Tapi3Err.h",
+  "sourceUrl": "/win32/tapi3err-h/",
+  "code": "0x80040020",
+  "codeUrl": "/win32/tapi3err-h/tapi_e_noconference/0x80040020/",
+  "numericCode": -2147221472,
+  "define": "TAPI_E_NOCONFERENCE",
+  "defineUrl": "/win32/tapi3err-h/tapi_e_noconference/",
+  "message": "The call is not part of a conference.",
+  "remarks": null,
+  "aka": [
+    "-2147221472"
+  ],
+  "akaUrl": [
+    "/win32/tapi3err-h/tapi_e_noconference/-2147221472/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

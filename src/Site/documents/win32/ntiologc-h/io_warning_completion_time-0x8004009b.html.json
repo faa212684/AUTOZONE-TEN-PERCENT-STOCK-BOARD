@@ -1,0 +1,28 @@
+---
+output: win32\ntiologc-h\io_warning_completion_time\0x8004009b\index.html.json
+
+title: 0x8004009B IO_WARNING_COMPLETION_TIME in ntiologc.h
+description: The IO operation at logical block address %2 for Disk %3 took %4 milliseconds. This was longer than the maximum expected time of %5 milliseconds.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntiologc.h",
+  "sourceUrl": "/win32/ntiologc-h/",
+  "code": "0x8004009B",
+  "codeUrl": "/win32/ntiologc-h/io_warning_completion_time/0x8004009b/",
+  "numericCode": -2147221349,
+  "define": "IO_WARNING_COMPLETION_TIME",
+  "defineUrl": "/win32/ntiologc-h/io_warning_completion_time/",
+  "message": "The IO operation at logical block address %2 for Disk %3 took %4 milliseconds. This was longer than the maximum expected time of %5 milliseconds.",
+  "remarks": null,
+  "aka": [
+    "-2147221349"
+  ],
+  "akaUrl": [
+    "/win32/ntiologc-h/io_warning_completion_time/-2147221349/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

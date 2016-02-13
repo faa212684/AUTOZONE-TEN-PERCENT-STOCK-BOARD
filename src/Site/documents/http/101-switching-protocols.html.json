@@ -1,0 +1,24 @@
+---
+output: http\101-switching-protocols\index.html.json
+
+title: http 101 Switching Protocols
+description: The server understands and is willing to comply with the client's request, via the Upgrade message header field, for a change in the application protocol being used on this connection.
+disqus: true
+---
+{
+  "area": "http",
+  "areaUrl": "/http/",
+  "source": null,
+  "sourceUrl": "/http/",
+  "code": "101 Switching Protocols",
+  "codeUrl": "/http/101-switching-protocols/",
+  "numericCode": 101,
+  "define": null,
+  "defineUrl": "/http/",
+  "message": "The server understands and is willing to comply with the client's request, via the Upgrade message header field, for a change in the application protocol being used on this connection.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": null,
+  "originalCodeUrl": null
+}

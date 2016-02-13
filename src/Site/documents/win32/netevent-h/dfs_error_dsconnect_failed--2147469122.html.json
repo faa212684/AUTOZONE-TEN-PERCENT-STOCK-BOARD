@@ -1,0 +1,24 @@
+---
+output: win32\netevent-h\dfs_error_dsconnect_failed\-2147469122\index.html.json
+canonical: /win32/netevent-h/dfs_error_dsconnect_failed/0x800038be/
+title: -2147469122 DFS_ERROR_DSCONNECT_FAILED in netevent.h
+description: DFS could not contact the %1 Active Directory. DFS will be using cached data. The return code is in the record data.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "-2147469122",
+  "codeUrl": "/win32/netevent-h/dfs_error_dsconnect_failed/-2147469122/",
+  "numericCode": 0,
+  "define": "DFS_ERROR_DSCONNECT_FAILED",
+  "defineUrl": "/win32/netevent-h/dfs_error_dsconnect_failed/",
+  "message": "DFS could not contact the %1 Active Directory. DFS will be using cached data. The return code is in the record data.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x800038BE",
+  "originalCodeUrl": "/win32/netevent-h/dfs_error_dsconnect_failed/0x800038be/"
+}

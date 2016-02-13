@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_ds_invalid_ldap_display_name\0x8007211f\index.html.json
+canonical: /win32/winerror-h/error_ds_invalid_ldap_display_name/8479/
+title: 0x8007211f ERROR_DS_INVALID_LDAP_DISPLAY_NAME in winerror.h
+description: The LDAP display name of the class or attribute contains non-ASCII characters.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007211f",
+  "codeUrl": "/win32/winerror-h/error_ds_invalid_ldap_display_name/0x8007211f/",
+  "numericCode": 0,
+  "define": "ERROR_DS_INVALID_LDAP_DISPLAY_NAME",
+  "defineUrl": "/win32/winerror-h/error_ds_invalid_ldap_display_name/",
+  "message": "The LDAP display name of the class or attribute contains non-ASCII characters.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "8479",
+  "originalCodeUrl": "/win32/winerror-h/error_ds_invalid_ldap_display_name/8479/"
+}

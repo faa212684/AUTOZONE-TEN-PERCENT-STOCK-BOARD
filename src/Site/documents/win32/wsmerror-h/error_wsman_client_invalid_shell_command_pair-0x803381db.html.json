@@ -1,0 +1,29 @@
+---
+output: win32\wsmerror-h\error_wsman_client_invalid_shell_command_pair\0x803381db\index.html.json
+
+title: 0x803381DB ERROR_WSMAN_CLIENT_INVALID_SHELL_COMMAND_PAIR in wsmerror.h
+description: The WinRM client cannot process the request
+because the command handle is not associated with the provided shell handle.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x803381DB",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_client_invalid_shell_command_pair/0x803381db/",
+  "numericCode": -2144108069,
+  "define": "ERROR_WSMAN_CLIENT_INVALID_SHELL_COMMAND_PAIR",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_client_invalid_shell_command_pair/",
+  "message": "The WinRM client cannot process the request\r\nbecause the command handle is not associated with the provided shell handle.",
+  "remarks": null,
+  "aka": [
+    "-2144108069"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_client_invalid_shell_command_pair/-2144108069/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\windowssearcherrors-h\event_gather_save_failed\0xc0000c11\index.html.json
+
+title: 0xC0000C11 EVENT_GATHER_SAVE_FAILED in WindowsSearchErrors.h
+description: The gatherer files cannot be saved, and this action cannot be completed. The gatherer will attempt to save the files again. If the problem persists, restart the service, free system resources or verify that your hardware is working properly. %1
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "0xC0000C11",
+  "codeUrl": "/win32/windowssearcherrors-h/event_gather_save_failed/0xc0000c11/",
+  "numericCode": -1073738735,
+  "define": "EVENT_GATHER_SAVE_FAILED",
+  "defineUrl": "/win32/windowssearcherrors-h/event_gather_save_failed/",
+  "message": "The gatherer files cannot be saved, and this action cannot be completed. The gatherer will attempt to save the files again. If the problem persists, restart the service, free system resources or verify that your hardware is working properly. %1",
+  "remarks": null,
+  "aka": [
+    "-1073738735"
+  ],
+  "akaUrl": [
+    "/win32/windowssearcherrors-h/event_gather_save_failed/-1073738735/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

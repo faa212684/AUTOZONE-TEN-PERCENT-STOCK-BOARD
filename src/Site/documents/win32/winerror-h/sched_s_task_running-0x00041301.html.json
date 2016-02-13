@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\sched_s_task_running\0x00041301\index.html.json
+
+title: 0x00041301 SCHED_S_TASK_RUNNING in winerror.h
+description: The task is currently running.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x00041301",
+  "codeUrl": "/win32/winerror-h/sched_s_task_running/0x00041301/",
+  "numericCode": 267009,
+  "define": "SCHED_S_TASK_RUNNING",
+  "defineUrl": "/win32/winerror-h/sched_s_task_running/",
+  "message": "The task is currently running.",
+  "remarks": null,
+  "aka": [
+    "267009"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/sched_s_task_running/267009/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

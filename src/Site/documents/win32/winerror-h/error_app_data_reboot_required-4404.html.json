@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_app_data_reboot_required\4404\index.html.json
+
+title: 4404 ERROR_APP_DATA_REBOOT_REQUIRED in winerror.h
+description: Fast Cache has been ReArmed and requires a reboot until it can be updated.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "4404",
+  "codeUrl": "/win32/winerror-h/error_app_data_reboot_required/4404/",
+  "numericCode": 4404,
+  "define": "ERROR_APP_DATA_REBOOT_REQUIRED",
+  "defineUrl": "/win32/winerror-h/error_app_data_reboot_required/",
+  "message": "Fast Cache has been ReArmed and requires a reboot until it can be updated.",
+  "remarks": null,
+  "aka": [
+    "0x80071134",
+    "-2147020492"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_app_data_reboot_required/0x80071134/",
+    "/win32/winerror-h/error_app_data_reboot_required/-2147020492/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

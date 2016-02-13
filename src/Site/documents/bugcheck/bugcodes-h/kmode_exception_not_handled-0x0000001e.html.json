@@ -1,0 +1,28 @@
+---
+output: bugcheck\bugcodes-h\kmode_exception_not_handled\0x0000001e\index.html.json
+
+title: 0x0000001E KMODE_EXCEPTION_NOT_HANDLED in bugcodes.h
+description: KMODE_EXCEPTION_NOT_HANDLED
+disqus: true
+---
+{
+  "area": "bugcheck",
+  "areaUrl": "/bugcheck/",
+  "source": "bugcodes.h",
+  "sourceUrl": "/bugcheck/bugcodes-h/",
+  "code": "0x0000001E",
+  "codeUrl": "/bugcheck/bugcodes-h/kmode_exception_not_handled/0x0000001e/",
+  "numericCode": 30,
+  "define": "KMODE_EXCEPTION_NOT_HANDLED",
+  "defineUrl": "/bugcheck/bugcodes-h/kmode_exception_not_handled/",
+  "message": "KMODE_EXCEPTION_NOT_HANDLED",
+  "remarks": null,
+  "aka": [
+    "30"
+  ],
+  "akaUrl": [
+    "/bugcheck/bugcodes-h/kmode_exception_not_handled/30/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

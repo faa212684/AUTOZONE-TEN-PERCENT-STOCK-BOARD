@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_up_driver_on_mp\0xc00017d4\index.html.json
+
+title: 0xC00017D4 EVENT_UP_DRIVER_ON_MP in netevent.h
+description: A uniprocessor-specific driver was loaded on a multiprocessor system.  The driver could not load.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC00017D4",
+  "codeUrl": "/win32/netevent-h/event_up_driver_on_mp/0xc00017d4/",
+  "numericCode": -1073735724,
+  "define": "EVENT_UP_DRIVER_ON_MP",
+  "defineUrl": "/win32/netevent-h/event_up_driver_on_mp/",
+  "message": "A uniprocessor-specific driver was loaded on a multiprocessor system.  The driver could not load.",
+  "remarks": null,
+  "aka": [
+    "-1073735724"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_up_driver_on_mp/-1073735724/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

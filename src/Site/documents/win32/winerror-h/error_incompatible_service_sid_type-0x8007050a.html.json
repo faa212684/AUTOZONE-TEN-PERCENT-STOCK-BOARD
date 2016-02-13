@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_incompatible_service_sid_type\0x8007050a\index.html.json
+canonical: /win32/winerror-h/error_incompatible_service_sid_type/1290/
+title: 0x8007050a ERROR_INCOMPATIBLE_SERVICE_SID_TYPE in winerror.h
+description: The service start failed since one or more services in the same process have an incompatible service SID type setting. A service with restricted service SID type can only coexist in the same process with other services with a restricted SID type. If the service SID type for this service was just configured, the hosting process must be restarted in order to start this service.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007050a",
+  "codeUrl": "/win32/winerror-h/error_incompatible_service_sid_type/0x8007050a/",
+  "numericCode": 0,
+  "define": "ERROR_INCOMPATIBLE_SERVICE_SID_TYPE",
+  "defineUrl": "/win32/winerror-h/error_incompatible_service_sid_type/",
+  "message": "The service start failed since one or more services in the same process have an incompatible service SID type setting. A service with restricted service SID type can only coexist in the same process with other services with a restricted SID type. If the service SID type for this service was just configured, the hosting process must be restarted in order to start this service.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "1290",
+  "originalCodeUrl": "/win32/winerror-h/error_incompatible_service_sid_type/1290/"
+}

@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\wsaemsgsize\10040\index.html.json
+
+title: 10040 WSAEMSGSIZE in winerror.h
+description: A message sent on a datagram socket was larger than the internal message buffer or some other network limit, or the buffer used to receive a datagram into was smaller than the datagram itself.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "10040",
+  "codeUrl": "/win32/winerror-h/wsaemsgsize/10040/",
+  "numericCode": 10040,
+  "define": "WSAEMSGSIZE",
+  "defineUrl": "/win32/winerror-h/wsaemsgsize/",
+  "message": "A message sent on a datagram socket was larger than the internal message buffer or some other network limit, or the buffer used to receive a datagram into was smaller than the datagram itself.",
+  "remarks": null,
+  "aka": [
+    "0x80072738",
+    "-2147014856"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/wsaemsgsize/0x80072738/",
+    "/win32/winerror-h/wsaemsgsize/-2147014856/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

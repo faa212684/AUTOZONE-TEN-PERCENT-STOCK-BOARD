@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_open_files\0x80070961\index.html.json
+canonical: /win32/winerror-h/error_open_files/2401/
+title: 0x80070961 ERROR_OPEN_FILES in winerror.h
+description: This network connection has files open or requests pending.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80070961",
+  "codeUrl": "/win32/winerror-h/error_open_files/0x80070961/",
+  "numericCode": 0,
+  "define": "ERROR_OPEN_FILES",
+  "defineUrl": "/win32/winerror-h/error_open_files/",
+  "message": "This network connection has files open or requests pending.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "2401",
+  "originalCodeUrl": "/win32/winerror-h/error_open_files/2401/"
+}

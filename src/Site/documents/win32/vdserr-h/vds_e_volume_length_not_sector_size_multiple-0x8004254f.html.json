@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_e_volume_length_not_sector_size_multiple\0x8004254f\index.html.json
+
+title: 0x8004254F VDS_E_VOLUME_LENGTH_NOT_SECTOR_SIZE_MULTIPLE in vdserr.h
+description: The volume length is not a multiple of the sector size.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x8004254F",
+  "codeUrl": "/win32/vdserr-h/vds_e_volume_length_not_sector_size_multiple/0x8004254f/",
+  "numericCode": -2147211953,
+  "define": "VDS_E_VOLUME_LENGTH_NOT_SECTOR_SIZE_MULTIPLE",
+  "defineUrl": "/win32/vdserr-h/vds_e_volume_length_not_sector_size_multiple/",
+  "message": "The volume length is not a multiple of the sector size.",
+  "remarks": null,
+  "aka": [
+    "-2147211953"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_volume_length_not_sector_size_multiple/-2147211953/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

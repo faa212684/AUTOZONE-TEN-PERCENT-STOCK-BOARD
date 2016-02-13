@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_corrupt_log_overfull\-2147024102\index.html.json
+canonical: /win32/winerror-h/error_corrupt_log_overfull/794/
+title: -2147024102 ERROR_CORRUPT_LOG_OVERFULL in winerror.h
+description: One of the volume corruption logs is full. Further corruptions that may be detected won't be logged.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147024102",
+  "codeUrl": "/win32/winerror-h/error_corrupt_log_overfull/-2147024102/",
+  "numericCode": 0,
+  "define": "ERROR_CORRUPT_LOG_OVERFULL",
+  "defineUrl": "/win32/winerror-h/error_corrupt_log_overfull/",
+  "message": "One of the volume corruption logs is full. Further corruptions that may be detected won't be logged.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "794",
+  "originalCodeUrl": "/win32/winerror-h/error_corrupt_log_overfull/794/"
+}

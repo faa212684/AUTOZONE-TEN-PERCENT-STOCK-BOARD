@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_dfs_unavailable\-1073741203\index.html.json
+canonical: /win32/ntstatus-h/status_dfs_unavailable/0xc000026d/
+title: -1073741203 STATUS_DFS_UNAVAILABLE in ntstatus.h
+description: DFS is unavailable on the contacted server.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741203",
+  "codeUrl": "/win32/ntstatus-h/status_dfs_unavailable/-1073741203/",
+  "numericCode": 0,
+  "define": "STATUS_DFS_UNAVAILABLE",
+  "defineUrl": "/win32/ntstatus-h/status_dfs_unavailable/",
+  "message": "DFS is unavailable on the contacted server.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC000026D",
+  "originalCodeUrl": "/win32/ntstatus-h/status_dfs_unavailable/0xc000026d/"
+}

@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\sched_e_unknown_object_version\0x80041313\index.html.json
+
+title: 0x80041313 SCHED_E_UNKNOWN_OBJECT_VERSION in winerror.h
+description: The task object version is either unsupported or invalid.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80041313",
+  "codeUrl": "/win32/winerror-h/sched_e_unknown_object_version/0x80041313/",
+  "numericCode": -2147216621,
+  "define": "SCHED_E_UNKNOWN_OBJECT_VERSION",
+  "defineUrl": "/win32/winerror-h/sched_e_unknown_object_version/",
+  "message": "The task object version is either unsupported or invalid.",
+  "remarks": null,
+  "aka": [
+    "-2147216621"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/sched_e_unknown_object_version/-2147216621/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

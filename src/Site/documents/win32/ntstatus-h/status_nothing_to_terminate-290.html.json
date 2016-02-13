@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_nothing_to_terminate\290\index.html.json
+canonical: /win32/ntstatus-h/status_nothing_to_terminate/0x00000122/
+title: 290 STATUS_NOTHING_TO_TERMINATE in ntstatus.h
+description: A process being terminated has no threads to terminate.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "290",
+  "codeUrl": "/win32/ntstatus-h/status_nothing_to_terminate/290/",
+  "numericCode": 0,
+  "define": "STATUS_NOTHING_TO_TERMINATE",
+  "defineUrl": "/win32/ntstatus-h/status_nothing_to_terminate/",
+  "message": "A process being terminated has no threads to terminate.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x00000122",
+  "originalCodeUrl": "/win32/ntstatus-h/status_nothing_to_terminate/0x00000122/"
+}

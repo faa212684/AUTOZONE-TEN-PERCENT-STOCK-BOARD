@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\machine_unjoined\0xc00037ed\index.html.json
+
+title: 0xC00037ED MACHINE_UNJOINED in netevent.h
+description: The machine %2 has become unlinked from the domain. Re-join the machine the machine to this domain.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC00037ED",
+  "codeUrl": "/win32/netevent-h/machine_unjoined/0xc00037ed/",
+  "numericCode": -1073727507,
+  "define": "MACHINE_UNJOINED",
+  "defineUrl": "/win32/netevent-h/machine_unjoined/",
+  "message": "The machine %2 has become unlinked from the domain. Re-join the machine the machine to this domain.",
+  "remarks": null,
+  "aka": [
+    "-1073727507"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/machine_unjoined/-1073727507/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

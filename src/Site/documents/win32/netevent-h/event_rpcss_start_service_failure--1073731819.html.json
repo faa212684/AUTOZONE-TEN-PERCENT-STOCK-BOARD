@@ -1,0 +1,25 @@
+---
+output: win32\netevent-h\event_rpcss_start_service_failure\-1073731819\index.html.json
+canonical: /win32/netevent-h/event_rpcss_start_service_failure/0xc0002715/
+title: -1073731819 EVENT_RPCSS_START_SERVICE_FAILURE in netevent.h
+description: DCOM got error "%%%1" attempting to start the service %2 with arguments "%3"
+in order to run the server:%n%4
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "-1073731819",
+  "codeUrl": "/win32/netevent-h/event_rpcss_start_service_failure/-1073731819/",
+  "numericCode": 0,
+  "define": "EVENT_RPCSS_START_SERVICE_FAILURE",
+  "defineUrl": "/win32/netevent-h/event_rpcss_start_service_failure/",
+  "message": "DCOM got error \"%%%1\" attempting to start the service %2 with arguments \"%3\"\r\nin order to run the server:%n%4",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0002715",
+  "originalCodeUrl": "/win32/netevent-h/event_rpcss_start_service_failure/0xc0002715/"
+}

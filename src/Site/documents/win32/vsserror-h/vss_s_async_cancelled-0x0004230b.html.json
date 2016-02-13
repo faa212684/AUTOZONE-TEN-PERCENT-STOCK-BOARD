@@ -1,0 +1,28 @@
+---
+output: win32\vsserror-h\vss_s_async_cancelled\0x0004230b\index.html.json
+
+title: 0x0004230B VSS_S_ASYNC_CANCELLED in vsserror.h
+description: The asynchronous operation has been cancelled.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vsserror.h",
+  "sourceUrl": "/win32/vsserror-h/",
+  "code": "0x0004230B",
+  "codeUrl": "/win32/vsserror-h/vss_s_async_cancelled/0x0004230b/",
+  "numericCode": 271115,
+  "define": "VSS_S_ASYNC_CANCELLED",
+  "defineUrl": "/win32/vsserror-h/vss_s_async_cancelled/",
+  "message": "The asynchronous operation has been cancelled.",
+  "remarks": null,
+  "aka": [
+    "271115"
+  ],
+  "akaUrl": [
+    "/win32/vsserror-h/vss_s_async_cancelled/271115/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

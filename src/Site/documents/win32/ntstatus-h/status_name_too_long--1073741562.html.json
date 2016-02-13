@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_name_too_long\-1073741562\index.html.json
+canonical: /win32/ntstatus-h/status_name_too_long/0xc0000106/
+title: -1073741562 STATUS_NAME_TOO_LONG in ntstatus.h
+description: A specified name string is too long for its intended use.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741562",
+  "codeUrl": "/win32/ntstatus-h/status_name_too_long/-1073741562/",
+  "numericCode": 0,
+  "define": "STATUS_NAME_TOO_LONG",
+  "defineUrl": "/win32/ntstatus-h/status_name_too_long/",
+  "message": "A specified name string is too long for its intended use.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000106",
+  "originalCodeUrl": "/win32/ntstatus-h/status_name_too_long/0xc0000106/"
+}

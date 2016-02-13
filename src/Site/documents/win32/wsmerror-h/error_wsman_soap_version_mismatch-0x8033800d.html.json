@@ -1,0 +1,28 @@
+---
+output: win32\wsmerror-h\error_wsman_soap_version_mismatch\0x8033800d\index.html.json
+
+title: 0x8033800D ERROR_WSMAN_SOAP_VERSION_MISMATCH in wsmerror.h
+description: The WS-Management service does not support the SOAP version specified in the request.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x8033800D",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_soap_version_mismatch/0x8033800d/",
+  "numericCode": -2144108531,
+  "define": "ERROR_WSMAN_SOAP_VERSION_MISMATCH",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_soap_version_mismatch/",
+  "message": "The WS-Management service does not support the SOAP version specified in the request.",
+  "remarks": null,
+  "aka": [
+    "-2144108531"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_soap_version_mismatch/-2144108531/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

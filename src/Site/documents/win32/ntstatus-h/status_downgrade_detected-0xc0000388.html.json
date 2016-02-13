@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_downgrade_detected\0xc0000388\index.html.json
+
+title: 0xC0000388 STATUS_DOWNGRADE_DETECTED in ntstatus.h
+description: The system cannot contact a domain controller to service the authentication request. Please try again later.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000388",
+  "codeUrl": "/win32/ntstatus-h/status_downgrade_detected/0xc0000388/",
+  "numericCode": -1073740920,
+  "define": "STATUS_DOWNGRADE_DETECTED",
+  "defineUrl": "/win32/ntstatus-h/status_downgrade_detected/",
+  "message": "The system cannot contact a domain controller to service the authentication request. Please try again later.",
+  "remarks": null,
+  "aka": [
+    "-1073740920"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_downgrade_detected/-1073740920/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

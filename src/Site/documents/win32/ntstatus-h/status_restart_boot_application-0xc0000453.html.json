@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_restart_boot_application\0xc0000453\index.html.json
+
+title: 0xC0000453 STATUS_RESTART_BOOT_APPLICATION in ntstatus.h
+description: This boot application must be restarted.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000453",
+  "codeUrl": "/win32/ntstatus-h/status_restart_boot_application/0xc0000453/",
+  "numericCode": -1073740717,
+  "define": "STATUS_RESTART_BOOT_APPLICATION",
+  "defineUrl": "/win32/ntstatus-h/status_restart_boot_application/",
+  "message": "This boot application must be restarted.",
+  "remarks": null,
+  "aka": [
+    "-1073740717"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_restart_boot_application/-1073740717/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

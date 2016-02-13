@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_sxs_invalid_deactivation\-1072365552\index.html.json
+canonical: /win32/ntstatus-h/status_sxs_invalid_deactivation/0xc0150010/
+title: -1072365552 STATUS_SXS_INVALID_DEACTIVATION in ntstatus.h
+description: The activation context being deactivated is not active for the current thread of execution.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1072365552",
+  "codeUrl": "/win32/ntstatus-h/status_sxs_invalid_deactivation/-1072365552/",
+  "numericCode": 0,
+  "define": "STATUS_SXS_INVALID_DEACTIVATION",
+  "defineUrl": "/win32/ntstatus-h/status_sxs_invalid_deactivation/",
+  "message": "The activation context being deactivated is not active for the current thread of execution.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0150010",
+  "originalCodeUrl": "/win32/ntstatus-h/status_sxs_invalid_deactivation/0xc0150010/"
+}

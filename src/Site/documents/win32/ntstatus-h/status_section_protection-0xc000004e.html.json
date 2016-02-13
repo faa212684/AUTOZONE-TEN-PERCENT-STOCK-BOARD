@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_section_protection\0xc000004e\index.html.json
+
+title: 0xC000004E STATUS_SECTION_PROTECTION in ntstatus.h
+description: A view to a section specifies a protection which is incompatible with the initial view's protection.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000004E",
+  "codeUrl": "/win32/ntstatus-h/status_section_protection/0xc000004e/",
+  "numericCode": -1073741746,
+  "define": "STATUS_SECTION_PROTECTION",
+  "defineUrl": "/win32/ntstatus-h/status_section_protection/",
+  "message": "A view to a section specifies a protection which is incompatible with the initial view's protection.",
+  "remarks": null,
+  "aka": [
+    "-1073741746"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_section_protection/-1073741746/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

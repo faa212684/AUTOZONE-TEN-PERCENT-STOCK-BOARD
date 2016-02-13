@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_invalid_device_object_parameter\650\index.html.json
+
+title: 650 ERROR_INVALID_DEVICE_OBJECT_PARAMETER in winerror.h
+description: The device object parameter is either not a valid device object or is not attached to the volume specified by the file name.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "650",
+  "codeUrl": "/win32/winerror-h/error_invalid_device_object_parameter/650/",
+  "numericCode": 650,
+  "define": "ERROR_INVALID_DEVICE_OBJECT_PARAMETER",
+  "defineUrl": "/win32/winerror-h/error_invalid_device_object_parameter/",
+  "message": "The device object parameter is either not a valid device object or is not attached to the volume specified by the file name.",
+  "remarks": null,
+  "aka": [
+    "0x8007028a",
+    "-2147024246"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_invalid_device_object_parameter/0x8007028a/",
+    "/win32/winerror-h/error_invalid_device_object_parameter/-2147024246/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

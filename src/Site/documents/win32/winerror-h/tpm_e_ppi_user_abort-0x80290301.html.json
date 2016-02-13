@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\tpm_e_ppi_user_abort\0x80290301\index.html.json
+
+title: 0x80290301 TPM_E_PPI_USER_ABORT in winerror.h
+description: The user failed to confirm the TPM operation request.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80290301",
+  "codeUrl": "/win32/winerror-h/tpm_e_ppi_user_abort/0x80290301/",
+  "numericCode": -2144795903,
+  "define": "TPM_E_PPI_USER_ABORT",
+  "defineUrl": "/win32/winerror-h/tpm_e_ppi_user_abort/",
+  "message": "The user failed to confirm the TPM operation request.",
+  "remarks": null,
+  "aka": [
+    "-2144795903"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/tpm_e_ppi_user_abort/-2144795903/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

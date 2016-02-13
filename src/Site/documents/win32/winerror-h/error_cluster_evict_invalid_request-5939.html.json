@@ -1,0 +1,31 @@
+---
+output: win32\winerror-h\error_cluster_evict_invalid_request\5939\index.html.json
+
+title: 5939 ERROR_CLUSTER_EVICT_INVALID_REQUEST in winerror.h
+description: Eviction of this node is invalid at this time. Due to quorum requirements node eviction will result in cluster shutdown.
+If it is the last node in the cluster, destroy cluster command should be used.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "5939",
+  "codeUrl": "/win32/winerror-h/error_cluster_evict_invalid_request/5939/",
+  "numericCode": 5939,
+  "define": "ERROR_CLUSTER_EVICT_INVALID_REQUEST",
+  "defineUrl": "/win32/winerror-h/error_cluster_evict_invalid_request/",
+  "message": "Eviction of this node is invalid at this time. Due to quorum requirements node eviction will result in cluster shutdown.\r\nIf it is the last node in the cluster, destroy cluster command should be used.",
+  "remarks": null,
+  "aka": [
+    "0x80071733",
+    "-2147018957"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_cluster_evict_invalid_request/0x80071733/",
+    "/win32/winerror-h/error_cluster_evict_invalid_request/-2147018957/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

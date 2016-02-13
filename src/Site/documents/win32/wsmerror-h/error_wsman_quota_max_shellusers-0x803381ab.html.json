@@ -1,0 +1,30 @@
+---
+output: win32\wsmerror-h\error_wsman_quota_max_shellusers\0x803381ab\index.html.json
+
+title: 0x803381AB ERROR_WSMAN_QUOTA_MAX_SHELLUSERS in wsmerror.h
+description: The WS-Management service cannot process the request.
+The maximum number of users executing shell operations has been exceeded.
+Retry after some time or raise the quota for concurrent shell users.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x803381AB",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_quota_max_shellusers/0x803381ab/",
+  "numericCode": -2144108117,
+  "define": "ERROR_WSMAN_QUOTA_MAX_SHELLUSERS",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_quota_max_shellusers/",
+  "message": "The WS-Management service cannot process the request.\r\nThe maximum number of users executing shell operations has been exceeded.\r\nRetry after some time or raise the quota for concurrent shell users.",
+  "remarks": null,
+  "aka": [
+    "-2144108117"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_quota_max_shellusers/-2144108117/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

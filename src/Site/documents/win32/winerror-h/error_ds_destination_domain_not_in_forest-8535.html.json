@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ds_destination_domain_not_in_forest\8535\index.html.json
+
+title: 8535 ERROR_DS_DESTINATION_DOMAIN_NOT_IN_FOREST in winerror.h
+description: The destination domain must be in the forest.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "8535",
+  "codeUrl": "/win32/winerror-h/error_ds_destination_domain_not_in_forest/8535/",
+  "numericCode": 8535,
+  "define": "ERROR_DS_DESTINATION_DOMAIN_NOT_IN_FOREST",
+  "defineUrl": "/win32/winerror-h/error_ds_destination_domain_not_in_forest/",
+  "message": "The destination domain must be in the forest.",
+  "remarks": null,
+  "aka": [
+    "0x80072157",
+    "-2147016361"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ds_destination_domain_not_in_forest/0x80072157/",
+    "/win32/winerror-h/error_ds_destination_domain_not_in_forest/-2147016361/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

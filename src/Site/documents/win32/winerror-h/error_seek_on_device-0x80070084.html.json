@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_seek_on_device\0x80070084\index.html.json
+canonical: /win32/winerror-h/error_seek_on_device/132/
+title: 0x80070084 ERROR_SEEK_ON_DEVICE in winerror.h
+description: The file pointer cannot be set on the specified device or file.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80070084",
+  "codeUrl": "/win32/winerror-h/error_seek_on_device/0x80070084/",
+  "numericCode": 0,
+  "define": "ERROR_SEEK_ON_DEVICE",
+  "defineUrl": "/win32/winerror-h/error_seek_on_device/",
+  "message": "The file pointer cannot be set on the specified device or file.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "132",
+  "originalCodeUrl": "/win32/winerror-h/error_seek_on_device/132/"
+}

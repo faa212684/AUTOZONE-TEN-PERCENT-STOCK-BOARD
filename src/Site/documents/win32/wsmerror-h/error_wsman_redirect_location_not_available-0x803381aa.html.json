@@ -1,0 +1,29 @@
+---
+output: win32\wsmerror-h\error_wsman_redirect_location_not_available\0x803381aa\index.html.json
+
+title: 0x803381AA ERROR_WSMAN_REDIRECT_LOCATION_NOT_AVAILABLE in wsmerror.h
+description: An application tried to retrieve the HTTP Redirect location from the session when no redirect error (ERROR_WSMAN_REDIRECT_REQUESTED) was returned.
+The application needs to be updated so as to only retrieve the location after this error is returned.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x803381AA",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_redirect_location_not_available/0x803381aa/",
+  "numericCode": -2144108118,
+  "define": "ERROR_WSMAN_REDIRECT_LOCATION_NOT_AVAILABLE",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_redirect_location_not_available/",
+  "message": "An application tried to retrieve the HTTP Redirect location from the session when no redirect error (ERROR_WSMAN_REDIRECT_REQUESTED) was returned.\r\nThe application needs to be updated so as to only retrieve the location after this error is returned.",
+  "remarks": null,
+  "aka": [
+    "-2144108118"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_redirect_location_not_available/-2144108118/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

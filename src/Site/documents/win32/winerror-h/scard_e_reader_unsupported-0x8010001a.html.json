@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\scard_e_reader_unsupported\0x8010001a\index.html.json
+
+title: 0x8010001A SCARD_E_READER_UNSUPPORTED in winerror.h
+description: The reader driver does not meet minimal requirements for support.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8010001A",
+  "codeUrl": "/win32/winerror-h/scard_e_reader_unsupported/0x8010001a/",
+  "numericCode": -2146435046,
+  "define": "SCARD_E_READER_UNSUPPORTED",
+  "defineUrl": "/win32/winerror-h/scard_e_reader_unsupported/",
+  "message": "The reader driver does not meet minimal requirements for support.",
+  "remarks": null,
+  "aka": [
+    "-2146435046"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/scard_e_reader_unsupported/-2146435046/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

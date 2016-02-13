@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\dfs_error_clusterinfo_failed\0xc00038b5\index.html.json
+
+title: 0xC00038B5 DFS_ERROR_CLUSTERINFO_FAILED in netevent.h
+description: DFS could not get required cluster information. The return code is in the record data.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC00038B5",
+  "codeUrl": "/win32/netevent-h/dfs_error_clusterinfo_failed/0xc00038b5/",
+  "numericCode": -1073727307,
+  "define": "DFS_ERROR_CLUSTERINFO_FAILED",
+  "defineUrl": "/win32/netevent-h/dfs_error_clusterinfo_failed/",
+  "message": "DFS could not get required cluster information. The return code is in the record data.",
+  "remarks": null,
+  "aka": [
+    "-1073727307"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/dfs_error_clusterinfo_failed/-1073727307/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

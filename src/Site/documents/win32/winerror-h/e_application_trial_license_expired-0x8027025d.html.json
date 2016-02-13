@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\e_application_trial_license_expired\0x8027025d\index.html.json
+
+title: 0x8027025D E_APPLICATION_TRIAL_LICENSE_EXPIRED in winerror.h
+description: This app failed to launch because its trial license has expired.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8027025D",
+  "codeUrl": "/win32/winerror-h/e_application_trial_license_expired/0x8027025d/",
+  "numericCode": -2144927139,
+  "define": "E_APPLICATION_TRIAL_LICENSE_EXPIRED",
+  "defineUrl": "/win32/winerror-h/e_application_trial_license_expired/",
+  "message": "This app failed to launch because its trial license has expired.",
+  "remarks": null,
+  "aka": [
+    "-2144927139"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/e_application_trial_license_expired/-2144927139/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\wsmerror-h\error_wsman_eventing_invalid_eventsource\0x8033808e\index.html.json
+
+title: 0x8033808E ERROR_WSMAN_EVENTING_INVALID_EVENTSOURCE in wsmerror.h
+description: The WS-Management client cannot process the request.The event source identity does not match the identity of the machine that the client subscribed to.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x8033808E",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_eventing_invalid_eventsource/0x8033808e/",
+  "numericCode": -2144108402,
+  "define": "ERROR_WSMAN_EVENTING_INVALID_EVENTSOURCE",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_eventing_invalid_eventsource/",
+  "message": "The WS-Management client cannot process the request.The event source identity does not match the identity of the machine that the client subscribed to.",
+  "remarks": null,
+  "aka": [
+    "-2144108402"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_eventing_invalid_eventsource/-2144108402/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

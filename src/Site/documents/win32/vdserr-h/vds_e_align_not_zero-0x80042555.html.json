@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_e_align_not_zero\0x80042555\index.html.json
+
+title: 0x80042555 VDS_E_ALIGN_NOT_ZERO in vdserr.h
+description: The specified partition type cannot be created with a non-zero alignment.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x80042555",
+  "codeUrl": "/win32/vdserr-h/vds_e_align_not_zero/0x80042555/",
+  "numericCode": -2147211947,
+  "define": "VDS_E_ALIGN_NOT_ZERO",
+  "defineUrl": "/win32/vdserr-h/vds_e_align_not_zero/",
+  "message": "The specified partition type cannot be created with a non-zero alignment.",
+  "remarks": null,
+  "aka": [
+    "-2147211947"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_align_not_zero/-2147211947/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

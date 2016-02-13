@@ -1,0 +1,30 @@
+---
+output: win32\ntstatus-h\status_driver_unable_to_load\0xc000026c\index.html.json
+
+title: 0xC000026C STATUS_DRIVER_UNABLE_TO_LOAD in ntstatus.h
+description: "{Unable to Load Device Driver}
+%hs device driver could not be loaded.
+Error Status was 0x%x"
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000026C",
+  "codeUrl": "/win32/ntstatus-h/status_driver_unable_to_load/0xc000026c/",
+  "numericCode": -1073741204,
+  "define": "STATUS_DRIVER_UNABLE_TO_LOAD",
+  "defineUrl": "/win32/ntstatus-h/status_driver_unable_to_load/",
+  "message": "{Unable to Load Device Driver}\r\n%hs device driver could not be loaded.\r\nError Status was 0x%x",
+  "remarks": null,
+  "aka": [
+    "-1073741204"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_driver_unable_to_load/-1073741204/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

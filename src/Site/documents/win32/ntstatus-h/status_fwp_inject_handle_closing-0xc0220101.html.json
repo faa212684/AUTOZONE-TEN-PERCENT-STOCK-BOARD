@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_fwp_inject_handle_closing\0xc0220101\index.html.json
+
+title: 0xC0220101 STATUS_FWP_INJECT_HANDLE_CLOSING in ntstatus.h
+description: The injection handle is being closed by another thread.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0220101",
+  "codeUrl": "/win32/ntstatus-h/status_fwp_inject_handle_closing/0xc0220101/",
+  "numericCode": -1071513343,
+  "define": "STATUS_FWP_INJECT_HANDLE_CLOSING",
+  "defineUrl": "/win32/ntstatus-h/status_fwp_inject_handle_closing/",
+  "message": "The injection handle is being closed by another thread.",
+  "remarks": null,
+  "aka": [
+    "-1071513343"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_fwp_inject_handle_closing/-1071513343/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

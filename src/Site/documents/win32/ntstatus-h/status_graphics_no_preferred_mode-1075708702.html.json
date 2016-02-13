@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_graphics_no_preferred_mode\1075708702\index.html.json
+canonical: /win32/ntstatus-h/status_graphics_no_preferred_mode/0x401e031e/
+title: 1075708702 STATUS_GRAPHICS_NO_PREFERRED_MODE in ntstatus.h
+description: Specified mode set does not specify preference for one of its modes.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "1075708702",
+  "codeUrl": "/win32/ntstatus-h/status_graphics_no_preferred_mode/1075708702/",
+  "numericCode": 0,
+  "define": "STATUS_GRAPHICS_NO_PREFERRED_MODE",
+  "defineUrl": "/win32/ntstatus-h/status_graphics_no_preferred_mode/",
+  "message": "Specified mode set does not specify preference for one of its modes.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x401E031E",
+  "originalCodeUrl": "/win32/ntstatus-h/status_graphics_no_preferred_mode/0x401e031e/"
+}

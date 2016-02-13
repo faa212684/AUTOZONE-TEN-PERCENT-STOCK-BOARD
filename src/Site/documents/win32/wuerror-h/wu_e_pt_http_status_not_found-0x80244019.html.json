@@ -1,0 +1,28 @@
+---
+output: win32\wuerror-h\wu_e_pt_http_status_not_found\0x80244019\index.html.json
+
+title: 0x80244019 WU_E_PT_HTTP_STATUS_NOT_FOUND in wuerror.h
+description: Same as HTTP status 404 - the server cannot find the requested URI (Uniform Resource Identifier).
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wuerror.h",
+  "sourceUrl": "/win32/wuerror-h/",
+  "code": "0x80244019",
+  "codeUrl": "/win32/wuerror-h/wu_e_pt_http_status_not_found/0x80244019/",
+  "numericCode": -2145107943,
+  "define": "WU_E_PT_HTTP_STATUS_NOT_FOUND",
+  "defineUrl": "/win32/wuerror-h/wu_e_pt_http_status_not_found/",
+  "message": "Same as HTTP status 404 - the server cannot find the requested URI (Uniform Resource Identifier).",
+  "remarks": null,
+  "aka": [
+    "-2145107943"
+  ],
+  "akaUrl": [
+    "/win32/wuerror-h/wu_e_pt_http_status_not_found/-2145107943/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

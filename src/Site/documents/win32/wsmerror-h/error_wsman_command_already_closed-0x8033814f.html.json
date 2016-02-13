@@ -1,0 +1,29 @@
+---
+output: win32\wsmerror-h\error_wsman_command_already_closed\0x8033814f\index.html.json
+
+title: 0x8033814F ERROR_WSMAN_COMMAND_ALREADY_CLOSED in wsmerror.h
+description: An operation is being attempted on a command that is being closed. This can happen if the command handle that is being used is also being freed
+by another thread.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x8033814F",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_command_already_closed/0x8033814f/",
+  "numericCode": -2144108209,
+  "define": "ERROR_WSMAN_COMMAND_ALREADY_CLOSED",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_command_already_closed/",
+  "message": "An operation is being attempted on a command that is being closed. This can happen if the command handle that is being used is also being freed\r\nby another thread.",
+  "remarks": null,
+  "aka": [
+    "-2144108209"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_command_already_closed/-2144108209/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

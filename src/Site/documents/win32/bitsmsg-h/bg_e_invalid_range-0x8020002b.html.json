@@ -1,0 +1,28 @@
+---
+output: win32\bitsmsg-h\bg_e_invalid_range\0x8020002b\index.html.json
+
+title: 0x8020002B BG_E_INVALID_RANGE in BitsMsg.h
+description: The requested byte range extends beyond the end of the web page.  Use byte ranges that are wholly within the page.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "BitsMsg.h",
+  "sourceUrl": "/win32/bitsmsg-h/",
+  "code": "0x8020002B",
+  "codeUrl": "/win32/bitsmsg-h/bg_e_invalid_range/0x8020002b/",
+  "numericCode": -2145386453,
+  "define": "BG_E_INVALID_RANGE",
+  "defineUrl": "/win32/bitsmsg-h/bg_e_invalid_range/",
+  "message": "The requested byte range extends beyond the end of the web page.  Use byte ranges that are wholly within the page.",
+  "remarks": null,
+  "aka": [
+    "-2145386453"
+  ],
+  "akaUrl": [
+    "/win32/bitsmsg-h/bg_e_invalid_range/-2145386453/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

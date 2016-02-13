@@ -1,0 +1,30 @@
+---
+output: win32\cdosyserr-h\evtgetmsgclassfrommaster\0x8003202c\index.html.json
+
+title: 0x8003202C evtGetMsgClassFromMaster in CDOSysErr.h
+description: Calendaring agent failed with error %1 while attempting to retrieve the message class for a recurring appointment.  The message class for the instance
+when viewed with the Web Client will not be the same as the one in the series if it is not IPM.Appointment.
+%n%nFor more information, click http:www.microsoft.com/contentredirect.asp.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "CDOSysErr.h",
+  "sourceUrl": "/win32/cdosyserr-h/",
+  "code": "0x8003202C",
+  "codeUrl": "/win32/cdosyserr-h/evtgetmsgclassfrommaster/0x8003202c/",
+  "numericCode": -2147278804,
+  "define": "evtGetMsgClassFromMaster",
+  "defineUrl": "/win32/cdosyserr-h/evtgetmsgclassfrommaster/",
+  "message": "Calendaring agent failed with error %1 while attempting to retrieve the message class for a recurring appointment.  The message class for the instance\r\nwhen viewed with the Web Client will not be the same as the one in the series if it is not IPM.Appointment.\r\n%n%nFor more information, click http:www.microsoft.com/contentredirect.asp.",
+  "remarks": null,
+  "aka": [
+    "-2147278804"
+  ],
+  "akaUrl": [
+    "/win32/cdosyserr-h/evtgetmsgclassfrommaster/-2147278804/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

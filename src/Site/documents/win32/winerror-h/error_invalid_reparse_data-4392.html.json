@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_invalid_reparse_data\4392\index.html.json
+
+title: 4392 ERROR_INVALID_REPARSE_DATA in winerror.h
+description: The data present in the reparse point buffer is invalid.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "4392",
+  "codeUrl": "/win32/winerror-h/error_invalid_reparse_data/4392/",
+  "numericCode": 4392,
+  "define": "ERROR_INVALID_REPARSE_DATA",
+  "defineUrl": "/win32/winerror-h/error_invalid_reparse_data/",
+  "message": "The data present in the reparse point buffer is invalid.",
+  "remarks": null,
+  "aka": [
+    "0x80071128",
+    "-2147020504"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_invalid_reparse_data/0x80071128/",
+    "/win32/winerror-h/error_invalid_reparse_data/-2147020504/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

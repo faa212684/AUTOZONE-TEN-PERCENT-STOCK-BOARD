@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_file_identity_not_persistent\-2147018073\index.html.json
+canonical: /win32/winerror-h/error_file_identity_not_persistent/6823/
+title: -2147018073 ERROR_FILE_IDENTITY_NOT_PERSISTENT in winerror.h
+description: The file cannot be opened transactionally, because its identity depends on the outcome of an unresolved transaction.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147018073",
+  "codeUrl": "/win32/winerror-h/error_file_identity_not_persistent/-2147018073/",
+  "numericCode": 0,
+  "define": "ERROR_FILE_IDENTITY_NOT_PERSISTENT",
+  "defineUrl": "/win32/winerror-h/error_file_identity_not_persistent/",
+  "message": "The file cannot be opened transactionally, because its identity depends on the outcome of an unresolved transaction.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "6823",
+  "originalCodeUrl": "/win32/winerror-h/error_file_identity_not_persistent/6823/"
+}

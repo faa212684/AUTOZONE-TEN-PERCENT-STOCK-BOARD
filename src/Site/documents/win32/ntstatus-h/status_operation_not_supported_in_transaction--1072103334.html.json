@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_operation_not_supported_in_transaction\-1072103334\index.html.json
+canonical: /win32/ntstatus-h/status_operation_not_supported_in_transaction/0xc019005a/
+title: -1072103334 STATUS_OPERATION_NOT_SUPPORTED_IN_TRANSACTION in ntstatus.h
+description: This operation cannot be performed in a transaction.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1072103334",
+  "codeUrl": "/win32/ntstatus-h/status_operation_not_supported_in_transaction/-1072103334/",
+  "numericCode": 0,
+  "define": "STATUS_OPERATION_NOT_SUPPORTED_IN_TRANSACTION",
+  "defineUrl": "/win32/ntstatus-h/status_operation_not_supported_in_transaction/",
+  "message": "This operation cannot be performed in a transaction.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC019005A",
+  "originalCodeUrl": "/win32/ntstatus-h/status_operation_not_supported_in_transaction/0xc019005a/"
+}

@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\dbg_ripexception\1073807367\index.html.json
+canonical: /win32/ntstatus-h/dbg_ripexception/0x40010007/
+title: 1073807367 DBG_RIPEXCEPTION in ntstatus.h
+description: Debugger received RIP exception.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "1073807367",
+  "codeUrl": "/win32/ntstatus-h/dbg_ripexception/1073807367/",
+  "numericCode": 0,
+  "define": "DBG_RIPEXCEPTION",
+  "defineUrl": "/win32/ntstatus-h/dbg_ripexception/",
+  "message": "Debugger received RIP exception.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x40010007",
+  "originalCodeUrl": "/win32/ntstatus-h/dbg_ripexception/0x40010007/"
+}

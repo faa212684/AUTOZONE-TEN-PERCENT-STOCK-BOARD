@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_vid_invalid_object_name\-1070137339\index.html.json
+canonical: /win32/winerror-h/error_vid_invalid_object_name/0xc0370005/
+title: -1070137339 ERROR_VID_INVALID_OBJECT_NAME in winerror.h
+description: The name of the partition or message queue for the virtualization infrastructure driver is invalid. Restarting the virtual machine may fix the problem. If the problem persists, try restarting the physical computer.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-1070137339",
+  "codeUrl": "/win32/winerror-h/error_vid_invalid_object_name/-1070137339/",
+  "numericCode": 0,
+  "define": "ERROR_VID_INVALID_OBJECT_NAME",
+  "defineUrl": "/win32/winerror-h/error_vid_invalid_object_name/",
+  "message": "The name of the partition or message queue for the virtualization infrastructure driver is invalid. Restarting the virtual machine may fix the problem. If the problem persists, try restarting the physical computer.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0370005",
+  "originalCodeUrl": "/win32/winerror-h/error_vid_invalid_object_name/0xc0370005/"
+}

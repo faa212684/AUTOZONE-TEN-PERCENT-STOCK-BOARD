@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_fail_reboot_initiated\0x80070bca\index.html.json
+canonical: /win32/winerror-h/error_fail_reboot_initiated/3018/
+title: 0x80070bca ERROR_FAIL_REBOOT_INITIATED in winerror.h
+description: The requested operation failed. A system reboot has been initiated to roll back changes made.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80070bca",
+  "codeUrl": "/win32/winerror-h/error_fail_reboot_initiated/0x80070bca/",
+  "numericCode": 0,
+  "define": "ERROR_FAIL_REBOOT_INITIATED",
+  "defineUrl": "/win32/winerror-h/error_fail_reboot_initiated/",
+  "message": "The requested operation failed. A system reboot has been initiated to roll back changes made.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "3018",
+  "originalCodeUrl": "/win32/winerror-h/error_fail_reboot_initiated/3018/"
+}

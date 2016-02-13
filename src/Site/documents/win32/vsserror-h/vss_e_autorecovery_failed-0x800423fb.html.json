@@ -1,0 +1,28 @@
+---
+output: win32\vsserror-h\vss_e_autorecovery_failed\0x800423fb\index.html.json
+
+title: 0x800423FB VSS_E_AUTORECOVERY_FAILED in vsserror.h
+description: The autorecovery operation failed to complete on the shadow copy.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vsserror.h",
+  "sourceUrl": "/win32/vsserror-h/",
+  "code": "0x800423FB",
+  "codeUrl": "/win32/vsserror-h/vss_e_autorecovery_failed/0x800423fb/",
+  "numericCode": -2147212293,
+  "define": "VSS_E_AUTORECOVERY_FAILED",
+  "defineUrl": "/win32/vsserror-h/vss_e_autorecovery_failed/",
+  "message": "The autorecovery operation failed to complete on the shadow copy.",
+  "remarks": null,
+  "aka": [
+    "-2147212293"
+  ],
+  "akaUrl": [
+    "/win32/vsserror-h/vss_e_autorecovery_failed/-2147212293/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

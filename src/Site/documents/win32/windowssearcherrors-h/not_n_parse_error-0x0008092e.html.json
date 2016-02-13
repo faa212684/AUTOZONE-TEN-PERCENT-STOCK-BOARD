@@ -1,0 +1,30 @@
+---
+output: win32\windowssearcherrors-h\not_n_parse_error\0x0008092e\index.html.json
+
+title: 0x0008092E NOT_N_PARSE_ERROR in WindowsSearchErrors.h
+description: NOTE:  This dummy error message is necessary to force MC to output
+the above defines inside the FACILITY_WINDOWS guard instead
+of leaving it empty.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "0x0008092E",
+  "codeUrl": "/win32/windowssearcherrors-h/not_n_parse_error/0x0008092e/",
+  "numericCode": 526638,
+  "define": "NOT_N_PARSE_ERROR",
+  "defineUrl": "/win32/windowssearcherrors-h/not_n_parse_error/",
+  "message": "NOTE:  This dummy error message is necessary to force MC to output\r\nthe above defines inside the FACILITY_WINDOWS guard instead\r\nof leaving it empty.",
+  "remarks": null,
+  "aka": [
+    "526638"
+  ],
+  "akaUrl": [
+    "/win32/windowssearcherrors-h/not_n_parse_error/526638/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

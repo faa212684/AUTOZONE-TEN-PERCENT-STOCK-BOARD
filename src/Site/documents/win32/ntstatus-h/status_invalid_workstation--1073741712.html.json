@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_invalid_workstation\-1073741712\index.html.json
+canonical: /win32/ntstatus-h/status_invalid_workstation/0xc0000070/
+title: -1073741712 STATUS_INVALID_WORKSTATION in ntstatus.h
+description: The user account is restricted such that it may not be used to log on from the source workstation.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741712",
+  "codeUrl": "/win32/ntstatus-h/status_invalid_workstation/-1073741712/",
+  "numericCode": 0,
+  "define": "STATUS_INVALID_WORKSTATION",
+  "defineUrl": "/win32/ntstatus-h/status_invalid_workstation/",
+  "message": "The user account is restricted such that it may not be used to log on from the source workstation.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000070",
+  "originalCodeUrl": "/win32/ntstatus-h/status_invalid_workstation/0xc0000070/"
+}

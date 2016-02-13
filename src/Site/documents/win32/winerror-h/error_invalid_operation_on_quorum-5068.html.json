@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_invalid_operation_on_quorum\5068\index.html.json
+
+title: 5068 ERROR_INVALID_OPERATION_ON_QUORUM in winerror.h
+description: This operation cannot currently be performed on the cluster group containing the quorum resource.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "5068",
+  "codeUrl": "/win32/winerror-h/error_invalid_operation_on_quorum/5068/",
+  "numericCode": 5068,
+  "define": "ERROR_INVALID_OPERATION_ON_QUORUM",
+  "defineUrl": "/win32/winerror-h/error_invalid_operation_on_quorum/",
+  "message": "This operation cannot currently be performed on the cluster group containing the quorum resource.",
+  "remarks": null,
+  "aka": [
+    "0x800713cc",
+    "-2147019828"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_invalid_operation_on_quorum/0x800713cc/",
+    "/win32/winerror-h/error_invalid_operation_on_quorum/-2147019828/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

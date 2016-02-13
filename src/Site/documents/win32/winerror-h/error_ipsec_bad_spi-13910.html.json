@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ipsec_bad_spi\13910\index.html.json
+
+title: 13910 ERROR_IPSEC_BAD_SPI in winerror.h
+description: The SPI in the packet does not match a valid IPsec SA.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "13910",
+  "codeUrl": "/win32/winerror-h/error_ipsec_bad_spi/13910/",
+  "numericCode": 13910,
+  "define": "ERROR_IPSEC_BAD_SPI",
+  "defineUrl": "/win32/winerror-h/error_ipsec_bad_spi/",
+  "message": "The SPI in the packet does not match a valid IPsec SA.",
+  "remarks": null,
+  "aka": [
+    "0x80073656",
+    "-2147010986"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ipsec_bad_spi/0x80073656/",
+    "/win32/winerror-h/error_ipsec_bad_spi/-2147010986/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

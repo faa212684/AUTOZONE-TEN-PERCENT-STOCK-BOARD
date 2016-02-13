@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_buffer_all_zeros\279\index.html.json
+canonical: /win32/ntstatus-h/status_buffer_all_zeros/0x00000117/
+title: 279 STATUS_BUFFER_ALL_ZEROS in ntstatus.h
+description: Specified buffer contains all zeros.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "279",
+  "codeUrl": "/win32/ntstatus-h/status_buffer_all_zeros/279/",
+  "numericCode": 0,
+  "define": "STATUS_BUFFER_ALL_ZEROS",
+  "defineUrl": "/win32/ntstatus-h/status_buffer_all_zeros/",
+  "message": "Specified buffer contains all zeros.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x00000117",
+  "originalCodeUrl": "/win32/ntstatus-h/status_buffer_all_zeros/0x00000117/"
+}

@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_cluster_gum_not_locker\5085\index.html.json
+
+title: 5085 ERROR_CLUSTER_GUM_NOT_LOCKER in winerror.h
+description: A non locker code got a request to reserve the lock for making global updates.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "5085",
+  "codeUrl": "/win32/winerror-h/error_cluster_gum_not_locker/5085/",
+  "numericCode": 5085,
+  "define": "ERROR_CLUSTER_GUM_NOT_LOCKER",
+  "defineUrl": "/win32/winerror-h/error_cluster_gum_not_locker/",
+  "message": "A non locker code got a request to reserve the lock for making global updates.",
+  "remarks": null,
+  "aka": [
+    "0x800713dd",
+    "-2147019811"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_cluster_gum_not_locker/0x800713dd/",
+    "/win32/winerror-h/error_cluster_gum_not_locker/-2147019811/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

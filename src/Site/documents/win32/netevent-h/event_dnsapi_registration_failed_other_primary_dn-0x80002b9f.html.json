@@ -1,0 +1,43 @@
+---
+output: win32\netevent-h\event_dnsapi_registration_failed_other_primary_dn\0x80002b9f\index.html.json
+
+title: 0x80002B9F EVENT_DNSAPI_REGISTRATION_FAILED_OTHER_PRIMARY_DN in netevent.h
+description: The system failed to register host (A or AAAA) resource records (RRs) for
+network adapter%nwith settings:%n%n
+Adapter Name : %1%n
+Host Name : %2%n
+Primary Domain Suffix : %3%n
+DNS server list :%n
+%4%n
+Sent update to server : %5%n
+IP Address(es) :%n
+%6%n%n
+The reason the system could not register these RRs during the
+update request was because of a system problem. You can manually
+retry DNS registration of the network adapter and its settings by
+typing "ipconfig /registerdns" at the command prompt. If problems
+still persist, contact your DNS server or network systems
+administrator. See event details for specific error code information.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x80002B9F",
+  "codeUrl": "/win32/netevent-h/event_dnsapi_registration_failed_other_primary_dn/0x80002b9f/",
+  "numericCode": -2147472481,
+  "define": "EVENT_DNSAPI_REGISTRATION_FAILED_OTHER_PRIMARY_DN",
+  "defineUrl": "/win32/netevent-h/event_dnsapi_registration_failed_other_primary_dn/",
+  "message": "The system failed to register host (A or AAAA) resource records (RRs) for\r\nnetwork adapter%nwith settings:%n%n\r\nAdapter Name : %1%n\r\nHost Name : %2%n\r\nPrimary Domain Suffix : %3%n\r\nDNS server list :%n\r\n%4%n\r\nSent update to server : %5%n\r\nIP Address(es) :%n\r\n%6%n%n\r\nThe reason the system could not register these RRs during the\r\nupdate request was because of a system problem. You can manually\r\nretry DNS registration of the network adapter and its settings by\r\ntyping \"ipconfig /registerdns\" at the command prompt. If problems\r\nstill persist, contact your DNS server or network systems\r\nadministrator. See event details for specific error code information.",
+  "remarks": null,
+  "aka": [
+    "-2147472481"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_dnsapi_registration_failed_other_primary_dn/-2147472481/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\iscsierr-h\isdsc_too_many_sessions\0xefff001e\index.html.json
+
+title: 0xEFFF001E ISDSC_TOO_MANY_SESSIONS in iscsierr.h
+description: Exceeded max sessions for this initiator.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "iscsierr.h",
+  "sourceUrl": "/win32/iscsierr-h/",
+  "code": "0xEFFF001E",
+  "codeUrl": "/win32/iscsierr-h/isdsc_too_many_sessions/0xefff001e/",
+  "numericCode": -268500962,
+  "define": "ISDSC_TOO_MANY_SESSIONS",
+  "defineUrl": "/win32/iscsierr-h/isdsc_too_many_sessions/",
+  "message": "Exceeded max sessions for this initiator.",
+  "remarks": null,
+  "aka": [
+    "-268500962"
+  ],
+  "akaUrl": [
+    "/win32/iscsierr-h/isdsc_too_many_sessions/-268500962/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

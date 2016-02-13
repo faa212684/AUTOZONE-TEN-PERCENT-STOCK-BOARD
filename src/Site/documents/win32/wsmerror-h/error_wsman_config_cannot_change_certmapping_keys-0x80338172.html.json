@@ -1,0 +1,29 @@
+---
+output: win32\wsmerror-h\error_wsman_config_cannot_change_certmapping_keys\0x80338172\index.html.json
+
+title: 0x80338172 ERROR_WSMAN_CONFIG_CANNOT_CHANGE_CERTMAPPING_KEYS in wsmerror.h
+description: The WinRM service cannot make the configuration change.
+The selector keys of Subject, URI or Issuer cannot be changed by overriding the selector key value in the body.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x80338172",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_config_cannot_change_certmapping_keys/0x80338172/",
+  "numericCode": -2144108174,
+  "define": "ERROR_WSMAN_CONFIG_CANNOT_CHANGE_CERTMAPPING_KEYS",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_config_cannot_change_certmapping_keys/",
+  "message": "The WinRM service cannot make the configuration change.\r\nThe selector keys of Subject, URI or Issuer cannot be changed by overriding the selector key value in the body.",
+  "remarks": null,
+  "aka": [
+    "-2144108174"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_config_cannot_change_certmapping_keys/-2144108174/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

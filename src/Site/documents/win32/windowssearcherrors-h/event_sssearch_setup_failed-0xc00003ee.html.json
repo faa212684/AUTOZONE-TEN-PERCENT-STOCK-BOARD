@@ -1,0 +1,28 @@
+---
+output: win32\windowssearcherrors-h\event_sssearch_setup_failed\0xc00003ee\index.html.json
+
+title: 0xC00003EE EVENT_SSSEARCH_SETUP_FAILED in WindowsSearchErrors.h
+description: The Windows Search Service has failed to create the new search index. Internal error <%2, %3, %4>. %1
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "0xC00003EE",
+  "codeUrl": "/win32/windowssearcherrors-h/event_sssearch_setup_failed/0xc00003ee/",
+  "numericCode": -1073740818,
+  "define": "EVENT_SSSEARCH_SETUP_FAILED",
+  "defineUrl": "/win32/windowssearcherrors-h/event_sssearch_setup_failed/",
+  "message": "The Windows Search Service has failed to create the new search index. Internal error <%2, %3, %4>. %1",
+  "remarks": null,
+  "aka": [
+    "-1073740818"
+  ],
+  "akaUrl": [
+    "/win32/windowssearcherrors-h/event_sssearch_setup_failed/-1073740818/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

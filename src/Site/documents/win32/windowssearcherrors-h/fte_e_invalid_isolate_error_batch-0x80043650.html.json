@@ -1,0 +1,28 @@
+---
+output: win32\windowssearcherrors-h\fte_e_invalid_isolate_error_batch\0x80043650\index.html.json
+
+title: 0x80043650 FTE_E_INVALID_ISOLATE_ERROR_BATCH in WindowsSearchErrors.h
+description: A batch flagged to isolate a previous error had too many transactions in it.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "0x80043650",
+  "codeUrl": "/win32/windowssearcherrors-h/fte_e_invalid_isolate_error_batch/0x80043650/",
+  "numericCode": -2147207600,
+  "define": "FTE_E_INVALID_ISOLATE_ERROR_BATCH",
+  "defineUrl": "/win32/windowssearcherrors-h/fte_e_invalid_isolate_error_batch/",
+  "message": "A batch flagged to isolate a previous error had too many transactions in it.",
+  "remarks": null,
+  "aka": [
+    "-2147207600"
+  ],
+  "akaUrl": [
+    "/win32/windowssearcherrors-h/fte_e_invalid_isolate_error_batch/-2147207600/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

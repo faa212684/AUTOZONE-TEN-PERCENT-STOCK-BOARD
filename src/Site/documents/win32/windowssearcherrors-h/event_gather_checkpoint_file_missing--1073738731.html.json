@@ -1,0 +1,24 @@
+---
+output: win32\windowssearcherrors-h\event_gather_checkpoint_file_missing\-1073738731\index.html.json
+canonical: /win32/windowssearcherrors-h/event_gather_checkpoint_file_missing/0xc0000c15/
+title: -1073738731 EVENT_GATHER_CHECKPOINT_FILE_MISSING in WindowsSearchErrors.h
+description: The project cannot be initialized, because one of the checkpoint files is missing. The data structures on the disk will be reset.  Check to see if someone is manually deleting files, and verify that your hardware is working properly. %1
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "-1073738731",
+  "codeUrl": "/win32/windowssearcherrors-h/event_gather_checkpoint_file_missing/-1073738731/",
+  "numericCode": 0,
+  "define": "EVENT_GATHER_CHECKPOINT_FILE_MISSING",
+  "defineUrl": "/win32/windowssearcherrors-h/event_gather_checkpoint_file_missing/",
+  "message": "The project cannot be initialized, because one of the checkpoint files is missing. The data structures on the disk will be reset.  Check to see if someone is manually deleting files, and verify that your hardware is working properly. %1",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000C15",
+  "originalCodeUrl": "/win32/windowssearcherrors-h/event_gather_checkpoint_file_missing/0xc0000c15/"
+}

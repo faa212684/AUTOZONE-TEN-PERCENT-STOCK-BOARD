@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_ds_ridmgr_disabled\-2147016633\index.html.json
+canonical: /win32/winerror-h/error_ds_ridmgr_disabled/8263/
+title: -2147016633 ERROR_DS_RIDMGR_DISABLED in winerror.h
+description: The directory service detected the subsystem that allocates relative identifiers is disabled. This can occur as a protective mechanism when the system determines a significant portion of relative identifiers (RIDs) have been exhausted. Please see http:go.microsoft.com/fwlink/?LinkId=228610 for recommended diagnostic steps and the procedure to re-enable account creation.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147016633",
+  "codeUrl": "/win32/winerror-h/error_ds_ridmgr_disabled/-2147016633/",
+  "numericCode": 0,
+  "define": "ERROR_DS_RIDMGR_DISABLED",
+  "defineUrl": "/win32/winerror-h/error_ds_ridmgr_disabled/",
+  "message": "The directory service detected the subsystem that allocates relative identifiers is disabled. This can occur as a protective mechanism when the system determines a significant portion of relative identifiers (RIDs) have been exhausted. Please see http:go.microsoft.com/fwlink/?LinkId=228610 for recommended diagnostic steps and the procedure to re-enable account creation.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "8263",
+  "originalCodeUrl": "/win32/winerror-h/error_ds_ridmgr_disabled/8263/"
+}

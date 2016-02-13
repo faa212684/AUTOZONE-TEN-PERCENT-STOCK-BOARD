@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_app_data_limit_exceeded\4403\index.html.json
+
+title: 4403 ERROR_APP_DATA_LIMIT_EXCEEDED in winerror.h
+description: Fast Cache data has exceeded its max size and cannot be updated.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "4403",
+  "codeUrl": "/win32/winerror-h/error_app_data_limit_exceeded/4403/",
+  "numericCode": 4403,
+  "define": "ERROR_APP_DATA_LIMIT_EXCEEDED",
+  "defineUrl": "/win32/winerror-h/error_app_data_limit_exceeded/",
+  "message": "Fast Cache data has exceeded its max size and cannot be updated.",
+  "remarks": null,
+  "aka": [
+    "0x80071133",
+    "-2147020493"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_app_data_limit_exceeded/0x80071133/",
+    "/win32/winerror-h/error_app_data_limit_exceeded/-2147020493/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

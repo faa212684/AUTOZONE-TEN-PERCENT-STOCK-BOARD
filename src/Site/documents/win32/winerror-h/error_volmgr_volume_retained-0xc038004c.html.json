@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\error_volmgr_volume_retained\0xc038004c\index.html.json
+
+title: 0xC038004C ERROR_VOLMGR_VOLUME_RETAINED in winerror.h
+description: The specified volume already has a retain partition.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0xC038004C",
+  "codeUrl": "/win32/winerror-h/error_volmgr_volume_retained/0xc038004c/",
+  "numericCode": -1070071732,
+  "define": "ERROR_VOLMGR_VOLUME_RETAINED",
+  "defineUrl": "/win32/winerror-h/error_volmgr_volume_retained/",
+  "message": "The specified volume already has a retain partition.",
+  "remarks": null,
+  "aka": [
+    "-1070071732"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_volmgr_volume_retained/-1070071732/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

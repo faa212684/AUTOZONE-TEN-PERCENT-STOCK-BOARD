@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_invalid_image_hash\-1073740760\index.html.json
+canonical: /win32/ntstatus-h/status_invalid_image_hash/0xc0000428/
+title: -1073740760 STATUS_INVALID_IMAGE_HASH in ntstatus.h
+description: Windows cannot verify the digital signature for this file. A recent hardware or software change might have installed a file that is signed incorrectly or damaged, or that might be malicious software from an unknown source.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073740760",
+  "codeUrl": "/win32/ntstatus-h/status_invalid_image_hash/-1073740760/",
+  "numericCode": 0,
+  "define": "STATUS_INVALID_IMAGE_HASH",
+  "defineUrl": "/win32/ntstatus-h/status_invalid_image_hash/",
+  "message": "Windows cannot verify the digital signature for this file. A recent hardware or software change might have installed a file that is signed incorrectly or damaged, or that might be malicious software from an unknown source.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000428",
+  "originalCodeUrl": "/win32/ntstatus-h/status_invalid_image_hash/0xc0000428/"
+}

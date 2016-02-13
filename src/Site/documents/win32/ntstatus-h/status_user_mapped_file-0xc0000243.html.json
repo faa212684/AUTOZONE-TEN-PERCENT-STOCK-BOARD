@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_user_mapped_file\0xc0000243\index.html.json
+
+title: 0xC0000243 STATUS_USER_MAPPED_FILE in ntstatus.h
+description: The requested operation cannot be performed on a file with a user mapped section open.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000243",
+  "codeUrl": "/win32/ntstatus-h/status_user_mapped_file/0xc0000243/",
+  "numericCode": -1073741245,
+  "define": "STATUS_USER_MAPPED_FILE",
+  "defineUrl": "/win32/ntstatus-h/status_user_mapped_file/",
+  "message": "The requested operation cannot be performed on a file with a user mapped section open.",
+  "remarks": null,
+  "aka": [
+    "-1073741245"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_user_mapped_file/-1073741245/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

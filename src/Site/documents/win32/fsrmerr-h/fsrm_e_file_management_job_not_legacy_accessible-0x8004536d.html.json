@@ -1,0 +1,28 @@
+---
+output: win32\fsrmerr-h\fsrm_e_file_management_job_not_legacy_accessible\0x8004536d\index.html.json
+
+title: 0x8004536D FSRM_E_FILE_MANAGEMENT_JOB_NOT_LEGACY_ACCESSIBLE in fsrmerr.h
+description: The file management task cannot be accessed because task conditions were modified by using WMI or Windows PowerShell interfaces. To access or edit the file management task, use the WMI or Windows PowerShell interfaces.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "fsrmerr.h",
+  "sourceUrl": "/win32/fsrmerr-h/",
+  "code": "0x8004536D",
+  "codeUrl": "/win32/fsrmerr-h/fsrm_e_file_management_job_not_legacy_accessible/0x8004536d/",
+  "numericCode": -2147200147,
+  "define": "FSRM_E_FILE_MANAGEMENT_JOB_NOT_LEGACY_ACCESSIBLE",
+  "defineUrl": "/win32/fsrmerr-h/fsrm_e_file_management_job_not_legacy_accessible/",
+  "message": "The file management task cannot be accessed because task conditions were modified by using WMI or Windows PowerShell interfaces. To access or edit the file management task, use the WMI or Windows PowerShell interfaces.",
+  "remarks": null,
+  "aka": [
+    "-2147200147"
+  ],
+  "akaUrl": [
+    "/win32/fsrmerr-h/fsrm_e_file_management_job_not_legacy_accessible/-2147200147/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

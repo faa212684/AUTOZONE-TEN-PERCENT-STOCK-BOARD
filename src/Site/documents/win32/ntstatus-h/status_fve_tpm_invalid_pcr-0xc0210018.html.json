@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_fve_tpm_invalid_pcr\0xc0210018\index.html.json
+
+title: 0xC0210018 STATUS_FVE_TPM_INVALID_PCR in ntstatus.h
+description: The system boot information changed or the Trusted Platform Module (TPM) locked out access to BitLocker encryption keys until the computer is restarted.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0210018",
+  "codeUrl": "/win32/ntstatus-h/status_fve_tpm_invalid_pcr/0xc0210018/",
+  "numericCode": -1071579112,
+  "define": "STATUS_FVE_TPM_INVALID_PCR",
+  "defineUrl": "/win32/ntstatus-h/status_fve_tpm_invalid_pcr/",
+  "message": "The system boot information changed or the Trusted Platform Module (TPM) locked out access to BitLocker encryption keys until the computer is restarted.",
+  "remarks": null,
+  "aka": [
+    "-1071579112"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_fve_tpm_invalid_pcr/-1071579112/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

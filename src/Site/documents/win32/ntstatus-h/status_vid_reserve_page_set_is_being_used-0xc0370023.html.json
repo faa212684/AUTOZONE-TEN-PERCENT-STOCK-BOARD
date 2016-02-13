@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_vid_reserve_page_set_is_being_used\0xc0370023\index.html.json
+
+title: 0xC0370023 STATUS_VID_RESERVE_PAGE_SET_IS_BEING_USED in ntstatus.h
+description: Cannot destroy or reuse the reserve page set for the virtualization infrastructure driver because it is in use. Restarting the virtual machine may fix the problem. If the problem persists, try restarting the physical computer.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0370023",
+  "codeUrl": "/win32/ntstatus-h/status_vid_reserve_page_set_is_being_used/0xc0370023/",
+  "numericCode": -1070137309,
+  "define": "STATUS_VID_RESERVE_PAGE_SET_IS_BEING_USED",
+  "defineUrl": "/win32/ntstatus-h/status_vid_reserve_page_set_is_being_used/",
+  "message": "Cannot destroy or reuse the reserve page set for the virtualization infrastructure driver because it is in use. Restarting the virtual machine may fix the problem. If the problem persists, try restarting the physical computer.",
+  "remarks": null,
+  "aka": [
+    "-1070137309"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_vid_reserve_page_set_is_being_used/-1070137309/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

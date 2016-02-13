@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_fve_failed_wrong_fs\0xc0210004\index.html.json
+
+title: 0xC0210004 STATUS_FVE_FAILED_WRONG_FS in ntstatus.h
+description: The volume cannot be encrypted because the file system is not supported.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0210004",
+  "codeUrl": "/win32/ntstatus-h/status_fve_failed_wrong_fs/0xc0210004/",
+  "numericCode": -1071579132,
+  "define": "STATUS_FVE_FAILED_WRONG_FS",
+  "defineUrl": "/win32/ntstatus-h/status_fve_failed_wrong_fs/",
+  "message": "The volume cannot be encrypted because the file system is not supported.",
+  "remarks": null,
+  "aka": [
+    "-1071579132"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_fve_failed_wrong_fs/-1071579132/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

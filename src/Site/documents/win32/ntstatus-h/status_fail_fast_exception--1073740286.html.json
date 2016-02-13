@@ -1,0 +1,25 @@
+---
+output: win32\ntstatus-h\status_fail_fast_exception\-1073740286\index.html.json
+canonical: /win32/ntstatus-h/status_fail_fast_exception/0xc0000602/
+title: -1073740286 STATUS_FAIL_FAST_EXCEPTION in ntstatus.h
+description: "{Fail Fast Exception}
+A fail fast exception occurred. Exception handlers will not be invoked and the process will be terminated immediately."
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073740286",
+  "codeUrl": "/win32/ntstatus-h/status_fail_fast_exception/-1073740286/",
+  "numericCode": 0,
+  "define": "STATUS_FAIL_FAST_EXCEPTION",
+  "defineUrl": "/win32/ntstatus-h/status_fail_fast_exception/",
+  "message": "{Fail Fast Exception}\r\nA fail fast exception occurred. Exception handlers will not be invoked and the process will be terminated immediately.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000602",
+  "originalCodeUrl": "/win32/ntstatus-h/status_fail_fast_exception/0xc0000602/"
+}

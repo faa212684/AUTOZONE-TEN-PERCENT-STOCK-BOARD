@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_invalid_sid\-1073741704\index.html.json
+canonical: /win32/ntstatus-h/status_invalid_sid/0xc0000078/
+title: -1073741704 STATUS_INVALID_SID in ntstatus.h
+description: Indicates the SID structure is not valid.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741704",
+  "codeUrl": "/win32/ntstatus-h/status_invalid_sid/-1073741704/",
+  "numericCode": 0,
+  "define": "STATUS_INVALID_SID",
+  "defineUrl": "/win32/ntstatus-h/status_invalid_sid/",
+  "message": "Indicates the SID structure is not valid.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000078",
+  "originalCodeUrl": "/win32/ntstatus-h/status_invalid_sid/0xc0000078/"
+}

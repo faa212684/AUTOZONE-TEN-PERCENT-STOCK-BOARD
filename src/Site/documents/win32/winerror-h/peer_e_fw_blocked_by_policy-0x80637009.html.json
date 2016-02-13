@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\peer_e_fw_blocked_by_policy\0x80637009\index.html.json
+
+title: 0x80637009 PEER_E_FW_BLOCKED_BY_POLICY in winerror.h
+description: The service is blocked by a firewall policy.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80637009",
+  "codeUrl": "/win32/winerror-h/peer_e_fw_blocked_by_policy/0x80637009/",
+  "numericCode": -2140966903,
+  "define": "PEER_E_FW_BLOCKED_BY_POLICY",
+  "defineUrl": "/win32/winerror-h/peer_e_fw_blocked_by_policy/",
+  "message": "The service is blocked by a firewall policy.",
+  "remarks": null,
+  "aka": [
+    "-2140966903"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/peer_e_fw_blocked_by_policy/-2140966903/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_already_thread\0x80070501\index.html.json
+canonical: /win32/winerror-h/error_already_thread/1281/
+title: 0x80070501 ERROR_ALREADY_THREAD in winerror.h
+description: The current thread has already been converted from a fiber.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80070501",
+  "codeUrl": "/win32/winerror-h/error_already_thread/0x80070501/",
+  "numericCode": 0,
+  "define": "ERROR_ALREADY_THREAD",
+  "defineUrl": "/win32/winerror-h/error_already_thread/",
+  "message": "The current thread has already been converted from a fiber.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "1281",
+  "originalCodeUrl": "/win32/winerror-h/error_already_thread/1281/"
+}

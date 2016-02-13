@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\comadmin_e_comp_move_source\0x8011081c\index.html.json
+
+title: 0x8011081C COMADMIN_E_COMP_MOVE_SOURCE in winerror.h
+description: A component cannot be moved (or copied) from the System Application, an application proxy or a non-changeable application
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8011081C",
+  "codeUrl": "/win32/winerror-h/comadmin_e_comp_move_source/0x8011081c/",
+  "numericCode": -2146367460,
+  "define": "COMADMIN_E_COMP_MOVE_SOURCE",
+  "defineUrl": "/win32/winerror-h/comadmin_e_comp_move_source/",
+  "message": "A component cannot be moved (or copied) from the System Application, an application proxy or a non-changeable application",
+  "remarks": null,
+  "aka": [
+    "-2146367460"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/comadmin_e_comp_move_source/-2146367460/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

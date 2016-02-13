@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ipsec_mm_auth_exists\13010\index.html.json
+
+title: 13010 ERROR_IPSEC_MM_AUTH_EXISTS in winerror.h
+description: The specified main mode authentication list exists.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "13010",
+  "codeUrl": "/win32/winerror-h/error_ipsec_mm_auth_exists/13010/",
+  "numericCode": 13010,
+  "define": "ERROR_IPSEC_MM_AUTH_EXISTS",
+  "defineUrl": "/win32/winerror-h/error_ipsec_mm_auth_exists/",
+  "message": "The specified main mode authentication list exists.",
+  "remarks": null,
+  "aka": [
+    "0x800732d2",
+    "-2147011886"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ipsec_mm_auth_exists/0x800732d2/",
+    "/win32/winerror-h/error_ipsec_mm_auth_exists/-2147011886/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\nserror-h\ns_e_wmp_burn_disc_overflow\0xc00d11d9\index.html.json
+
+title: 0xC00D11D9 NS_E_WMP_BURN_DISC_OVERFLOW in nserror.h
+description: Some files might not fit on the CD. The required space cannot be calculated accurately because some files might be missing duration information. To ensure the calculation is accurate, play the files that are missing duration information.%0
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "nserror.h",
+  "sourceUrl": "/win32/nserror-h/",
+  "code": "0xC00D11D9",
+  "codeUrl": "/win32/nserror-h/ns_e_wmp_burn_disc_overflow/0xc00d11d9/",
+  "numericCode": -1072885287,
+  "define": "NS_E_WMP_BURN_DISC_OVERFLOW",
+  "defineUrl": "/win32/nserror-h/ns_e_wmp_burn_disc_overflow/",
+  "message": "Some files might not fit on the CD. The required space cannot be calculated accurately because some files might be missing duration information. To ensure the calculation is accurate, play the files that are missing duration information.%0",
+  "remarks": null,
+  "aka": [
+    "-1072885287"
+  ],
+  "akaUrl": [
+    "/win32/nserror-h/ns_e_wmp_burn_disc_overflow/-1072885287/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

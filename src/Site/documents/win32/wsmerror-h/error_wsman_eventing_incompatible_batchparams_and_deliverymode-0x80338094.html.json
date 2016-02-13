@@ -1,0 +1,30 @@
+---
+output: win32\wsmerror-h\error_wsman_eventing_incompatible_batchparams_and_deliverymode\0x80338094\index.html.json
+
+title: 0x80338094 ERROR_WSMAN_EVENTING_INCOMPATIBLE_BATCHPARAMS_AND_DELIVERYMODE in wsmerror.h
+description: The specified batch parameter is incompatible with the specified event delivery mode. This can happen if batchSettings for a specific mode are
+passed for a different mode. For example, batchSettings like "MaxItems" and
+"MaxLatency" are not compatible with single event push mode or pull mode.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x80338094",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_eventing_incompatible_batchparams_and_deliverymode/0x80338094/",
+  "numericCode": -2144108396,
+  "define": "ERROR_WSMAN_EVENTING_INCOMPATIBLE_BATCHPARAMS_AND_DELIVERYMODE",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_eventing_incompatible_batchparams_and_deliverymode/",
+  "message": "The specified batch parameter is incompatible with the specified event delivery mode. This can happen if batchSettings for a specific mode are\r\npassed for a different mode. For example, batchSettings like \"MaxItems\" and\r\n\"MaxLatency\" are not compatible with single event push mode or pull mode.",
+  "remarks": null,
+  "aka": [
+    "-2144108396"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_eventing_incompatible_batchparams_and_deliverymode/-2144108396/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

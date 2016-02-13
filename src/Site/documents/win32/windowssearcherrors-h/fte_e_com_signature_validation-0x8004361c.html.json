@@ -1,0 +1,28 @@
+---
+output: win32\windowssearcherrors-h\fte_e_com_signature_validation\0x8004361c\index.html.json
+
+title: 0x8004361C FTE_E_COM_SIGNATURE_VALIDATION in WindowsSearchErrors.h
+description: Signature validation cannot be performed on modules loaded by COM, so the object will not be created. The object is likely a filter, wordbreaker, stemmer, or protocol handler.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "0x8004361C",
+  "codeUrl": "/win32/windowssearcherrors-h/fte_e_com_signature_validation/0x8004361c/",
+  "numericCode": -2147207652,
+  "define": "FTE_E_COM_SIGNATURE_VALIDATION",
+  "defineUrl": "/win32/windowssearcherrors-h/fte_e_com_signature_validation/",
+  "message": "Signature validation cannot be performed on modules loaded by COM, so the object will not be created. The object is likely a filter, wordbreaker, stemmer, or protocol handler.",
+  "remarks": null,
+  "aka": [
+    "-2147207652"
+  ],
+  "akaUrl": [
+    "/win32/windowssearcherrors-h/fte_e_com_signature_validation/-2147207652/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

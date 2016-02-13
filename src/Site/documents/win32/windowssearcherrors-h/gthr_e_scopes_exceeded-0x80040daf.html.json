@@ -1,0 +1,28 @@
+---
+output: win32\windowssearcherrors-h\gthr_e_scopes_exceeded\0x80040daf\index.html.json
+
+title: 0x80040DAF GTHR_E_SCOPES_EXCEEDED in WindowsSearchErrors.h
+description: The maximum number of search scopes was reached. Use one of the existing scopes.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "0x80040DAF",
+  "codeUrl": "/win32/windowssearcherrors-h/gthr_e_scopes_exceeded/0x80040daf/",
+  "numericCode": -2147218001,
+  "define": "GTHR_E_SCOPES_EXCEEDED",
+  "defineUrl": "/win32/windowssearcherrors-h/gthr_e_scopes_exceeded/",
+  "message": "The maximum number of search scopes was reached. Use one of the existing scopes.",
+  "remarks": null,
+  "aka": [
+    "-2147218001"
+  ],
+  "akaUrl": [
+    "/win32/windowssearcherrors-h/gthr_e_scopes_exceeded/-2147218001/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_wx86_internal_error\-1073741201\index.html.json
+canonical: /win32/ntstatus-h/status_wx86_internal_error/0xc000026f/
+title: -1073741201 STATUS_WX86_INTERNAL_ERROR in ntstatus.h
+description: An internal error occurred in the Win32 x86 emulation subsystem.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741201",
+  "codeUrl": "/win32/ntstatus-h/status_wx86_internal_error/-1073741201/",
+  "numericCode": 0,
+  "define": "STATUS_WX86_INTERNAL_ERROR",
+  "defineUrl": "/win32/ntstatus-h/status_wx86_internal_error/",
+  "message": "An internal error occurred in the Win32 x86 emulation subsystem.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC000026F",
+  "originalCodeUrl": "/win32/ntstatus-h/status_wx86_internal_error/0xc000026f/"
+}

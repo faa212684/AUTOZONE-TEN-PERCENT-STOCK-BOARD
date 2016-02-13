@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_ctx_console_connect\0xc00a0028\index.html.json
+
+title: 0xC00A0028 STATUS_CTX_CONSOLE_CONNECT in ntstatus.h
+description: Reconnecting a disconnected session to the console is not supported.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC00A0028",
+  "codeUrl": "/win32/ntstatus-h/status_ctx_console_connect/0xc00a0028/",
+  "numericCode": -1073086424,
+  "define": "STATUS_CTX_CONSOLE_CONNECT",
+  "defineUrl": "/win32/ntstatus-h/status_ctx_console_connect/",
+  "message": "Reconnecting a disconnected session to the console is not supported.",
+  "remarks": null,
+  "aka": [
+    "-1073086424"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_ctx_console_connect/-1073086424/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

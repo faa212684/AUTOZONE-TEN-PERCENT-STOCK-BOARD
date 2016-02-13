@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\fve_e_conv_write\0x8031001c\index.html.json
+
+title: 0x8031001C FVE_E_CONV_WRITE in winerror.h
+description: A write operation failed while converting the drive. The drive was not converted. Please re-enable BitLocker.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8031001C",
+  "codeUrl": "/win32/winerror-h/fve_e_conv_write/0x8031001c/",
+  "numericCode": -2144272356,
+  "define": "FVE_E_CONV_WRITE",
+  "defineUrl": "/win32/winerror-h/fve_e_conv_write/",
+  "message": "A write operation failed while converting the drive. The drive was not converted. Please re-enable BitLocker.",
+  "remarks": null,
+  "aka": [
+    "-2144272356"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/fve_e_conv_write/-2144272356/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

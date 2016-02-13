@@ -1,0 +1,24 @@
+---
+output: win32\scarderr-h\scard_e_no_service\-2146435043\index.html.json
+canonical: /win32/scarderr-h/scard_e_no_service/0x8010001d/
+title: -2146435043 SCARD_E_NO_SERVICE in SCardErr.h
+description: The Smart Card Resource Manager is not running.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "SCardErr.h",
+  "sourceUrl": "/win32/scarderr-h/",
+  "code": "-2146435043",
+  "codeUrl": "/win32/scarderr-h/scard_e_no_service/-2146435043/",
+  "numericCode": 0,
+  "define": "SCARD_E_NO_SERVICE",
+  "defineUrl": "/win32/scarderr-h/scard_e_no_service/",
+  "message": "The Smart Card Resource Manager is not running.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x8010001D",
+  "originalCodeUrl": "/win32/scarderr-h/scard_e_no_service/0x8010001d/"
+}

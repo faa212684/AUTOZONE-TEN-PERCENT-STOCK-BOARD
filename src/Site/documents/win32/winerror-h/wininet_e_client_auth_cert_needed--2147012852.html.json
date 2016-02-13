@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\wininet_e_client_auth_cert_needed\-2147012852\index.html.json
+canonical: /win32/winerror-h/wininet_e_client_auth_cert_needed/0x80072f0c/
+title: -2147012852 WININET_E_CLIENT_AUTH_CERT_NEEDED in winerror.h
+description: A certificate is required to complete client authentication
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147012852",
+  "codeUrl": "/win32/winerror-h/wininet_e_client_auth_cert_needed/-2147012852/",
+  "numericCode": 0,
+  "define": "WININET_E_CLIENT_AUTH_CERT_NEEDED",
+  "defineUrl": "/win32/winerror-h/wininet_e_client_auth_cert_needed/",
+  "message": "A certificate is required to complete client authentication",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80072F0C",
+  "originalCodeUrl": "/win32/winerror-h/wininet_e_client_auth_cert_needed/0x80072f0c/"
+}

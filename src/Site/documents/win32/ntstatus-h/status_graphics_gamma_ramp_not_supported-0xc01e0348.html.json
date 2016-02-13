@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_graphics_gamma_ramp_not_supported\0xc01e0348\index.html.json
+
+title: 0xC01E0348 STATUS_GRAPHICS_GAMMA_RAMP_NOT_SUPPORTED in ntstatus.h
+description: Specified gamma ramp is not supported on the respective VidPN present path.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC01E0348",
+  "codeUrl": "/win32/ntstatus-h/status_graphics_gamma_ramp_not_supported/0xc01e0348/",
+  "numericCode": -1071774904,
+  "define": "STATUS_GRAPHICS_GAMMA_RAMP_NOT_SUPPORTED",
+  "defineUrl": "/win32/ntstatus-h/status_graphics_gamma_ramp_not_supported/",
+  "message": "Specified gamma ramp is not supported on the respective VidPN present path.",
+  "remarks": null,
+  "aka": [
+    "-1071774904"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_graphics_gamma_ramp_not_supported/-1071774904/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\rpc_e_too_late\-2147417831\index.html.json
+canonical: /win32/winerror-h/rpc_e_too_late/0x80010119/
+title: -2147417831 RPC_E_TOO_LATE in winerror.h
+description: Security must be initialized before any interfaces are marshalled or unmarshalled. It cannot be changed once initialized.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147417831",
+  "codeUrl": "/win32/winerror-h/rpc_e_too_late/-2147417831/",
+  "numericCode": 0,
+  "define": "RPC_E_TOO_LATE",
+  "defineUrl": "/win32/winerror-h/rpc_e_too_late/",
+  "message": "Security must be initialized before any interfaces are marshalled or unmarshalled. It cannot be changed once initialized.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80010119",
+  "originalCodeUrl": "/win32/winerror-h/rpc_e_too_late/0x80010119/"
+}

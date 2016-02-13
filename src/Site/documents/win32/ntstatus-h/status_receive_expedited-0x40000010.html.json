@@ -1,0 +1,29 @@
+---
+output: win32\ntstatus-h\status_receive_expedited\0x40000010\index.html.json
+
+title: 0x40000010 STATUS_RECEIVE_EXPEDITED in ntstatus.h
+description: "{Expedited Data Received}
+The network transport returned data to its client that was marked as expedited by the remote system."
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0x40000010",
+  "codeUrl": "/win32/ntstatus-h/status_receive_expedited/0x40000010/",
+  "numericCode": 1073741840,
+  "define": "STATUS_RECEIVE_EXPEDITED",
+  "defineUrl": "/win32/ntstatus-h/status_receive_expedited/",
+  "message": "{Expedited Data Received}\r\nThe network transport returned data to its client that was marked as expedited by the remote system.",
+  "remarks": null,
+  "aka": [
+    "1073741840"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_receive_expedited/1073741840/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

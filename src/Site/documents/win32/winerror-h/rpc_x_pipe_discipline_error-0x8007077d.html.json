@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\rpc_x_pipe_discipline_error\0x8007077d\index.html.json
+canonical: /win32/winerror-h/rpc_x_pipe_discipline_error/1917/
+title: 0x8007077d RPC_X_PIPE_DISCIPLINE_ERROR in winerror.h
+description: The RPC call completed before all pipes were processed.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007077d",
+  "codeUrl": "/win32/winerror-h/rpc_x_pipe_discipline_error/0x8007077d/",
+  "numericCode": 0,
+  "define": "RPC_X_PIPE_DISCIPLINE_ERROR",
+  "defineUrl": "/win32/winerror-h/rpc_x_pipe_discipline_error/",
+  "message": "The RPC call completed before all pipes were processed.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "1917",
+  "originalCodeUrl": "/win32/winerror-h/rpc_x_pipe_discipline_error/1917/"
+}

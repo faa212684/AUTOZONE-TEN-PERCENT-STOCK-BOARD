@@ -1,0 +1,30 @@
+---
+output: win32\wsmerror-h\error_wsman_quota_min_requirement_not_available_ppq\0x803381ea\index.html.json
+
+title: 0x803381EA ERROR_WSMAN_QUOTA_MIN_REQUIREMENT_NOT_AVAILABLE_PPQ in wsmerror.h
+description: The WS-Management service cannot process the request.
+There are not enough resources available to process this operation.
+Retry the operation later or close one or more of the currently running operations.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x803381EA",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_quota_min_requirement_not_available_ppq/0x803381ea/",
+  "numericCode": -2144108054,
+  "define": "ERROR_WSMAN_QUOTA_MIN_REQUIREMENT_NOT_AVAILABLE_PPQ",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_quota_min_requirement_not_available_ppq/",
+  "message": "The WS-Management service cannot process the request.\r\nThere are not enough resources available to process this operation.\r\nRetry the operation later or close one or more of the currently running operations.",
+  "remarks": null,
+  "aka": [
+    "-2144108054"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_quota_min_requirement_not_available_ppq/-2144108054/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

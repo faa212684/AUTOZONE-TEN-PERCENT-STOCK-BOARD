@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\d2derr_print_format_not_supported\0x8899002c\index.html.json
+
+title: 0x8899002C D2DERR_PRINT_FORMAT_NOT_SUPPORTED in winerror.h
+description: Error during print control creation. Indicates that none of the package target types (representing printer formats) are supported by Direct2D print control.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8899002C",
+  "codeUrl": "/win32/winerror-h/d2derr_print_format_not_supported/0x8899002c/",
+  "numericCode": -2003238868,
+  "define": "D2DERR_PRINT_FORMAT_NOT_SUPPORTED",
+  "defineUrl": "/win32/winerror-h/d2derr_print_format_not_supported/",
+  "message": "Error during print control creation. Indicates that none of the package target types (representing printer formats) are supported by Direct2D print control.",
+  "remarks": null,
+  "aka": [
+    "-2003238868"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/d2derr_print_format_not_supported/-2003238868/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

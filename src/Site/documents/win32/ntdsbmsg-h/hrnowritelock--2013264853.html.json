@@ -1,0 +1,24 @@
+---
+output: win32\ntdsbmsg-h\hrnowritelock\-2013264853\index.html.json
+canonical: /win32/ntdsbmsg-h/hrnowritelock/0x8800042b/
+title: -2013264853 hrNoWriteLock in NtDsBMsg.h
+description: There is no write lock at transaction level 0.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "NtDsBMsg.h",
+  "sourceUrl": "/win32/ntdsbmsg-h/",
+  "code": "-2013264853",
+  "codeUrl": "/win32/ntdsbmsg-h/hrnowritelock/-2013264853/",
+  "numericCode": 0,
+  "define": "hrNoWriteLock",
+  "defineUrl": "/win32/ntdsbmsg-h/hrnowritelock/",
+  "message": "There is no write lock at transaction level 0.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x8800042B",
+  "originalCodeUrl": "/win32/ntdsbmsg-h/hrnowritelock/0x8800042b/"
+}

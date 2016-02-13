@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_access_disabled_by_policy_path\0xc0000362\index.html.json
+
+title: 0xC0000362 STATUS_ACCESS_DISABLED_BY_POLICY_PATH in ntstatus.h
+description: Access to %1 has been restricted by your Administrator by location with policy rule %2 placed on path %3
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000362",
+  "codeUrl": "/win32/ntstatus-h/status_access_disabled_by_policy_path/0xc0000362/",
+  "numericCode": -1073740958,
+  "define": "STATUS_ACCESS_DISABLED_BY_POLICY_PATH",
+  "defineUrl": "/win32/ntstatus-h/status_access_disabled_by_policy_path/",
+  "message": "Access to %1 has been restricted by your Administrator by location with policy rule %2 placed on path %3",
+  "remarks": null,
+  "aka": [
+    "-1073740958"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_access_disabled_by_policy_path/-1073740958/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

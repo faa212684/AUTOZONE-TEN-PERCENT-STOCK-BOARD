@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_too_many_sids\0x8007056d\index.html.json
+canonical: /win32/winerror-h/error_too_many_sids/1389/
+title: 0x8007056d ERROR_TOO_MANY_SIDS in winerror.h
+description: Too many security IDs have been specified.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007056d",
+  "codeUrl": "/win32/winerror-h/error_too_many_sids/0x8007056d/",
+  "numericCode": 0,
+  "define": "ERROR_TOO_MANY_SIDS",
+  "defineUrl": "/win32/winerror-h/error_too_many_sids/",
+  "message": "Too many security IDs have been specified.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "1389",
+  "originalCodeUrl": "/win32/winerror-h/error_too_many_sids/1389/"
+}

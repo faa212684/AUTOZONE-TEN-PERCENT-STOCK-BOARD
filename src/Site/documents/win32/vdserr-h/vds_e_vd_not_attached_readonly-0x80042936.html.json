@@ -1,0 +1,29 @@
+---
+output: win32\vdserr-h\vds_e_vd_not_attached_readonly\0x80042936\index.html.json
+
+title: 0x80042936 VDS_E_VD_NOT_ATTACHED_READONLY in vdserr.h
+description: The requested operation requires that the virtual disk be
+attached read only.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x80042936",
+  "codeUrl": "/win32/vdserr-h/vds_e_vd_not_attached_readonly/0x80042936/",
+  "numericCode": -2147210954,
+  "define": "VDS_E_VD_NOT_ATTACHED_READONLY",
+  "defineUrl": "/win32/vdserr-h/vds_e_vd_not_attached_readonly/",
+  "message": "The requested operation requires that the virtual disk be\r\nattached read only.",
+  "remarks": null,
+  "aka": [
+    "-2147210954"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_vd_not_attached_readonly/-2147210954/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

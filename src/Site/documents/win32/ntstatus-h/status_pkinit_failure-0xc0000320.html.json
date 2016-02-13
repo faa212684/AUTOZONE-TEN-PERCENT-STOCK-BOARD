@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_pkinit_failure\0xc0000320\index.html.json
+
+title: 0xC0000320 STATUS_PKINIT_FAILURE in ntstatus.h
+description: The Kerberos protocol encountered an error while validating the KDC certificate during smartcard Logon. There is more information in the system event log.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000320",
+  "codeUrl": "/win32/ntstatus-h/status_pkinit_failure/0xc0000320/",
+  "numericCode": -1073741024,
+  "define": "STATUS_PKINIT_FAILURE",
+  "defineUrl": "/win32/ntstatus-h/status_pkinit_failure/",
+  "message": "The Kerberos protocol encountered an error while validating the KDC certificate during smartcard Logon. There is more information in the system event log.",
+  "remarks": null,
+  "aka": [
+    "-1073741024"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_pkinit_failure/-1073741024/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

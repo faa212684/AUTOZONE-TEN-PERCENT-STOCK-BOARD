@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_e_block_clustered\0x80042a03\index.html.json
+
+title: 0x80042A03 VDS_E_BLOCK_CLUSTERED in vdserr.h
+description: The specified disk or volume is managed by Microsoft Failover Clustering. The disk must be removed from the cluster to perform this operation.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x80042A03",
+  "codeUrl": "/win32/vdserr-h/vds_e_block_clustered/0x80042a03/",
+  "numericCode": -2147210749,
+  "define": "VDS_E_BLOCK_CLUSTERED",
+  "defineUrl": "/win32/vdserr-h/vds_e_block_clustered/",
+  "message": "The specified disk or volume is managed by Microsoft Failover Clustering. The disk must be removed from the cluster to perform this operation.",
+  "remarks": null,
+  "aka": [
+    "-2147210749"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_block_clustered/-2147210749/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

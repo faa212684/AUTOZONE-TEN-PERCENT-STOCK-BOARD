@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\xact_e_rm_failure\0x8004d106\index.html.json
+
+title: 0x8004D106 XACT_E_RM_FAILURE in winerror.h
+description: xa_open call failed for the XA resource.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8004D106",
+  "codeUrl": "/win32/winerror-h/xact_e_rm_failure/0x8004d106/",
+  "numericCode": -2147167994,
+  "define": "XACT_E_RM_FAILURE",
+  "defineUrl": "/win32/winerror-h/xact_e_rm_failure/",
+  "message": "xa_open call failed for the XA resource.",
+  "remarks": null,
+  "aka": [
+    "-2147167994"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/xact_e_rm_failure/-2147167994/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

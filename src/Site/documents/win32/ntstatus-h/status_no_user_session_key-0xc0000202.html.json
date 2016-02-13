@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_no_user_session_key\0xc0000202\index.html.json
+
+title: 0xC0000202 STATUS_NO_USER_SESSION_KEY in ntstatus.h
+description: There is no user session key for the specified logon session.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000202",
+  "codeUrl": "/win32/ntstatus-h/status_no_user_session_key/0xc0000202/",
+  "numericCode": -1073741310,
+  "define": "STATUS_NO_USER_SESSION_KEY",
+  "defineUrl": "/win32/ntstatus-h/status_no_user_session_key/",
+  "message": "There is no user session key for the specified logon session.",
+  "remarks": null,
+  "aka": [
+    "-1073741310"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_no_user_session_key/-1073741310/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

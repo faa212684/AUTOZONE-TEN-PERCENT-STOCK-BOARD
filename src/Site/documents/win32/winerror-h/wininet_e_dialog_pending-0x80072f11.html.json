@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\wininet_e_dialog_pending\0x80072f11\index.html.json
+
+title: 0x80072F11 WININET_E_DIALOG_PENDING in winerror.h
+description: There are operations awaiting retry
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80072F11",
+  "codeUrl": "/win32/winerror-h/wininet_e_dialog_pending/0x80072f11/",
+  "numericCode": -2147012847,
+  "define": "WININET_E_DIALOG_PENDING",
+  "defineUrl": "/win32/winerror-h/wininet_e_dialog_pending/",
+  "message": "There are operations awaiting retry",
+  "remarks": null,
+  "aka": [
+    "-2147012847"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/wininet_e_dialog_pending/-2147012847/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

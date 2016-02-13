@@ -1,0 +1,24 @@
+---
+output: win32\windowssearcherrors-h\schema_e_filechanged\-2147218415\index.html.json
+canonical: /win32/windowssearcherrors-h/schema_e_filechanged/0x80040c11/
+title: -2147218415 SCHEMA_E_FILECHANGED in WindowsSearchErrors.h
+description: The system cannot write to the configuration file, because it was modified since it was last read. Stop and restart the search service.  If this problem persists, reinstall search.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "-2147218415",
+  "codeUrl": "/win32/windowssearcherrors-h/schema_e_filechanged/-2147218415/",
+  "numericCode": 0,
+  "define": "SCHEMA_E_FILECHANGED",
+  "defineUrl": "/win32/windowssearcherrors-h/schema_e_filechanged/",
+  "message": "The system cannot write to the configuration file, because it was modified since it was last read. Stop and restart the search service.  If this problem persists, reinstall search.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80040C11",
+  "originalCodeUrl": "/win32/windowssearcherrors-h/schema_e_filechanged/0x80040c11/"
+}

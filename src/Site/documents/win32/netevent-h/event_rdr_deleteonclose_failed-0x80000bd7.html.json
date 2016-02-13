@@ -1,0 +1,29 @@
+---
+output: win32\netevent-h\event_rdr_deleteonclose_failed\0x80000bd7\index.html.json
+
+title: 0x80000BD7 EVENT_RDR_DELETEONCLOSE_FAILED in netevent.h
+description: The redirector was unable to delete the file specified on server %2 when it was closed by the application.
+The data contains the name of the file.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x80000BD7",
+  "codeUrl": "/win32/netevent-h/event_rdr_deleteonclose_failed/0x80000bd7/",
+  "numericCode": -2147480617,
+  "define": "EVENT_RDR_DELETEONCLOSE_FAILED",
+  "defineUrl": "/win32/netevent-h/event_rdr_deleteonclose_failed/",
+  "message": "The redirector was unable to delete the file specified on server %2 when it was closed by the application.\r\nThe data contains the name of the file.",
+  "remarks": null,
+  "aka": [
+    "-2147480617"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_rdr_deleteonclose_failed/-2147480617/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

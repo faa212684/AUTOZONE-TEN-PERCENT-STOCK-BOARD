@@ -1,0 +1,44 @@
+---
+output: win32\netevent-h\event_frs_cant_open_stage\0xc00034ee\index.html.json
+
+title: 0xC00034EE EVENT_FRS_CANT_OPEN_STAGE in netevent.h
+description: The File Replication Service is unable to open the customer designated
+staging directory for replica set %1.  The path used for the staging
+directory is,
+%n    "%2"
+%nThe customer designated root path for this replica set is:
+%n    "%3"
+%n
+The service is unable to start replication on this replica set.  Among the
+possible errors to check are:
+%n  --  an invalid staging path,
+%n  --  a missing directory,
+%n  --  a missing disk volume,
+%n  --  a file system on the volume that does not support ACLs,
+%n  --  a sharing conflict on the staging directory with some other application.
+%n
+%nCorrect the problem and the service will attempt to restart replication
+automatically at a later time.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC00034EE",
+  "codeUrl": "/win32/netevent-h/event_frs_cant_open_stage/0xc00034ee/",
+  "numericCode": -1073728274,
+  "define": "EVENT_FRS_CANT_OPEN_STAGE",
+  "defineUrl": "/win32/netevent-h/event_frs_cant_open_stage/",
+  "message": "The File Replication Service is unable to open the customer designated\r\nstaging directory for replica set %1.  The path used for the staging\r\ndirectory is,\r\n%n    \"%2\"\r\n%nThe customer designated root path for this replica set is:\r\n%n    \"%3\"\r\n%n\r\nThe service is unable to start replication on this replica set.  Among the\r\npossible errors to check are:\r\n%n  --  an invalid staging path,\r\n%n  --  a missing directory,\r\n%n  --  a missing disk volume,\r\n%n  --  a file system on the volume that does not support ACLs,\r\n%n  --  a sharing conflict on the staging directory with some other application.\r\n%n\r\n%nCorrect the problem and the service will attempt to restart replication\r\nautomatically at a later time.",
+  "remarks": null,
+  "aka": [
+    "-1073728274"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_frs_cant_open_stage/-1073728274/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

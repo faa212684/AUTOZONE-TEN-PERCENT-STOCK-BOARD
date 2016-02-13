@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\rpc_s_zero_divide\1767\index.html.json
+
+title: 1767 RPC_S_ZERO_DIVIDE in winerror.h
+description: The RPC server attempted an integer division by zero.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1767",
+  "codeUrl": "/win32/winerror-h/rpc_s_zero_divide/1767/",
+  "numericCode": 1767,
+  "define": "RPC_S_ZERO_DIVIDE",
+  "defineUrl": "/win32/winerror-h/rpc_s_zero_divide/",
+  "message": "The RPC server attempted an integer division by zero.",
+  "remarks": null,
+  "aka": [
+    "0x800706e7",
+    "-2147023129"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/rpc_s_zero_divide/0x800706e7/",
+    "/win32/winerror-h/rpc_s_zero_divide/-2147023129/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_cant_break_transactional_dependency\6824\index.html.json
+
+title: 6824 ERROR_CANT_BREAK_TRANSACTIONAL_DEPENDENCY in winerror.h
+description: The operation cannot be performed because another transaction is depending on the fact that this property will not change.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "6824",
+  "codeUrl": "/win32/winerror-h/error_cant_break_transactional_dependency/6824/",
+  "numericCode": 6824,
+  "define": "ERROR_CANT_BREAK_TRANSACTIONAL_DEPENDENCY",
+  "defineUrl": "/win32/winerror-h/error_cant_break_transactional_dependency/",
+  "message": "The operation cannot be performed because another transaction is depending on the fact that this property will not change.",
+  "remarks": null,
+  "aka": [
+    "0x80071aa8",
+    "-2147018072"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_cant_break_transactional_dependency/0x80071aa8/",
+    "/win32/winerror-h/error_cant_break_transactional_dependency/-2147018072/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

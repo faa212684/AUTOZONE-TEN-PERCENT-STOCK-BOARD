@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_tpm_key_notsupported\-1071054790\index.html.json
+canonical: /win32/ntstatus-h/status_tpm_key_notsupported/0xc029003a/
+title: -1071054790 STATUS_TPM_KEY_NOTSUPPORTED in ntstatus.h
+description: Wrong operation to load an NV key.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071054790",
+  "codeUrl": "/win32/ntstatus-h/status_tpm_key_notsupported/-1071054790/",
+  "numericCode": 0,
+  "define": "STATUS_TPM_KEY_NOTSUPPORTED",
+  "defineUrl": "/win32/ntstatus-h/status_tpm_key_notsupported/",
+  "message": "Wrong operation to load an NV key.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC029003A",
+  "originalCodeUrl": "/win32/ntstatus-h/status_tpm_key_notsupported/0xc029003a/"
+}

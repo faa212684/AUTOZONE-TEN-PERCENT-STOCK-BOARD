@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_pwd_history_conflict\-1073741220\index.html.json
+canonical: /win32/ntstatus-h/status_pwd_history_conflict/0xc000025c/
+title: -1073741220 STATUS_PWD_HISTORY_CONFLICT in ntstatus.h
+description: You have attempted to change your password to one that you have used in the past. The policy of your user account does not allow this. Please select a password that you have not previously used.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741220",
+  "codeUrl": "/win32/ntstatus-h/status_pwd_history_conflict/-1073741220/",
+  "numericCode": 0,
+  "define": "STATUS_PWD_HISTORY_CONFLICT",
+  "defineUrl": "/win32/ntstatus-h/status_pwd_history_conflict/",
+  "message": "You have attempted to change your password to one that you have used in the past. The policy of your user account does not allow this. Please select a password that you have not previously used.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC000025C",
+  "originalCodeUrl": "/win32/ntstatus-h/status_pwd_history_conflict/0xc000025c/"
+}

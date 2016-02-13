@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_e_disk_not_found_in_pack\0x8004252d\index.html.json
+
+title: 0x8004252D VDS_E_DISK_NOT_FOUND_IN_PACK in vdserr.h
+description: The specified disks do not belong to the same pack.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x8004252D",
+  "codeUrl": "/win32/vdserr-h/vds_e_disk_not_found_in_pack/0x8004252d/",
+  "numericCode": -2147211987,
+  "define": "VDS_E_DISK_NOT_FOUND_IN_PACK",
+  "defineUrl": "/win32/vdserr-h/vds_e_disk_not_found_in_pack/",
+  "message": "The specified disks do not belong to the same pack.",
+  "remarks": null,
+  "aka": [
+    "-2147211987"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_disk_not_found_in_pack/-2147211987/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

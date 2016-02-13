@@ -1,0 +1,28 @@
+---
+output: win32\wuerror-h\wu_e_pt_http_status_bad_method\0x8024401a\index.html.json
+
+title: 0x8024401A WU_E_PT_HTTP_STATUS_BAD_METHOD in wuerror.h
+description: Same as HTTP status 405 - the HTTP method is not allowed.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wuerror.h",
+  "sourceUrl": "/win32/wuerror-h/",
+  "code": "0x8024401A",
+  "codeUrl": "/win32/wuerror-h/wu_e_pt_http_status_bad_method/0x8024401a/",
+  "numericCode": -2145107942,
+  "define": "WU_E_PT_HTTP_STATUS_BAD_METHOD",
+  "defineUrl": "/win32/wuerror-h/wu_e_pt_http_status_bad_method/",
+  "message": "Same as HTTP status 405 - the HTTP method is not allowed.",
+  "remarks": null,
+  "aka": [
+    "-2145107942"
+  ],
+  "akaUrl": [
+    "/win32/wuerror-h/wu_e_pt_http_status_bad_method/-2145107942/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

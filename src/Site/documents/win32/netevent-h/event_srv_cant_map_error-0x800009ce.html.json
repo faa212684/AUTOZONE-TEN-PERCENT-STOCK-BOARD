@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_srv_cant_map_error\0x800009ce\index.html.json
+
+title: 0x800009CE EVENT_SRV_CANT_MAP_ERROR in netevent.h
+description: The server service was unable to map error code %1.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x800009CE",
+  "codeUrl": "/win32/netevent-h/event_srv_cant_map_error/0x800009ce/",
+  "numericCode": -2147481138,
+  "define": "EVENT_SRV_CANT_MAP_ERROR",
+  "defineUrl": "/win32/netevent-h/event_srv_cant_map_error/",
+  "message": "The server service was unable to map error code %1.",
+  "remarks": null,
+  "aka": [
+    "-2147481138"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_srv_cant_map_error/-2147481138/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_tpm_wrong_entitytype\-1071054811\index.html.json
+canonical: /win32/ntstatus-h/status_tpm_wrong_entitytype/0xc0290025/
+title: -1071054811 STATUS_TPM_WRONG_ENTITYTYPE in ntstatus.h
+description: The submitted entity type is not allowed.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071054811",
+  "codeUrl": "/win32/ntstatus-h/status_tpm_wrong_entitytype/-1071054811/",
+  "numericCode": 0,
+  "define": "STATUS_TPM_WRONG_ENTITYTYPE",
+  "defineUrl": "/win32/ntstatus-h/status_tpm_wrong_entitytype/",
+  "message": "The submitted entity type is not allowed.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0290025",
+  "originalCodeUrl": "/win32/ntstatus-h/status_tpm_wrong_entitytype/0xc0290025/"
+}

@@ -1,0 +1,28 @@
+---
+output: win32\iscsierr-h\isdsc_failed_to_configure_ipsec\0xefff0053\index.html.json
+
+title: 0xEFFF0053 ISDSC_FAILED_TO_CONFIGURE_IPSEC in iscsierr.h
+description: Initiator failed to configure IPSec for the given connection. This could be because of low resources.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "iscsierr.h",
+  "sourceUrl": "/win32/iscsierr-h/",
+  "code": "0xEFFF0053",
+  "codeUrl": "/win32/iscsierr-h/isdsc_failed_to_configure_ipsec/0xefff0053/",
+  "numericCode": -268500909,
+  "define": "ISDSC_FAILED_TO_CONFIGURE_IPSEC",
+  "defineUrl": "/win32/iscsierr-h/isdsc_failed_to_configure_ipsec/",
+  "message": "Initiator failed to configure IPSec for the given connection. This could be because of low resources.",
+  "remarks": null,
+  "aka": [
+    "-268500909"
+  ],
+  "akaUrl": [
+    "/win32/iscsierr-h/isdsc_failed_to_configure_ipsec/-268500909/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

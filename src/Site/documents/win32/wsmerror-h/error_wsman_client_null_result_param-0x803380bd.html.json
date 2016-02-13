@@ -1,0 +1,29 @@
+---
+output: win32\wsmerror-h\error_wsman_client_null_result_param\0x803380bd\index.html.json
+
+title: 0x803380BD ERROR_WSMAN_CLIENT_NULL_RESULT_PARAM in wsmerror.h
+description: The WinRM client cannot process the request. The parameter that should contain the result of the request is null.
+Change the request to include the missing parameter and try again.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x803380BD",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_client_null_result_param/0x803380bd/",
+  "numericCode": -2144108355,
+  "define": "ERROR_WSMAN_CLIENT_NULL_RESULT_PARAM",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_client_null_result_param/",
+  "message": "The WinRM client cannot process the request. The parameter that should contain the result of the request is null.\r\nChange the request to include the missing parameter and try again.",
+  "remarks": null,
+  "aka": [
+    "-2144108355"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_client_null_result_param/-2144108355/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

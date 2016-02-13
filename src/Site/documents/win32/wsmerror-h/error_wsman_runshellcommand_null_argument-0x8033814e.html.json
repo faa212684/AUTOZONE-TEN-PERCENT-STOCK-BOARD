@@ -1,0 +1,29 @@
+---
+output: win32\wsmerror-h\error_wsman_runshellcommand_null_argument\0x8033814e\index.html.json
+
+title: 0x8033814E ERROR_WSMAN_RUNSHELLCOMMAND_NULL_ARGUMENT in wsmerror.h
+description: The WinRM Shell client cannot process the request. One of the argument value passed to the WSManRunShellCommand function is null or zero.
+Change the request to include the missing parameter and try again.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x8033814E",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_runshellcommand_null_argument/0x8033814e/",
+  "numericCode": -2144108210,
+  "define": "ERROR_WSMAN_RUNSHELLCOMMAND_NULL_ARGUMENT",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_runshellcommand_null_argument/",
+  "message": "The WinRM Shell client cannot process the request. One of the argument value passed to the WSManRunShellCommand function is null or zero.\r\nChange the request to include the missing parameter and try again.",
+  "remarks": null,
+  "aka": [
+    "-2144108210"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_runshellcommand_null_argument/-2144108210/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

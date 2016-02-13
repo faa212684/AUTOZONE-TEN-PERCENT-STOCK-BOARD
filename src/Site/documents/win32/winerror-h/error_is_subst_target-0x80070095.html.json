@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_is_subst_target\0x80070095\index.html.json
+canonical: /win32/winerror-h/error_is_subst_target/149/
+title: 0x80070095 ERROR_IS_SUBST_TARGET in winerror.h
+description: An attempt was made to join or substitute a drive for which a directory on the drive is the target of a previous substitute.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80070095",
+  "codeUrl": "/win32/winerror-h/error_is_subst_target/0x80070095/",
+  "numericCode": 0,
+  "define": "ERROR_IS_SUBST_TARGET",
+  "defineUrl": "/win32/winerror-h/error_is_subst_target/",
+  "message": "An attempt was made to join or substitute a drive for which a directory on the drive is the target of a previous substitute.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "149",
+  "originalCodeUrl": "/win32/winerror-h/error_is_subst_target/149/"
+}

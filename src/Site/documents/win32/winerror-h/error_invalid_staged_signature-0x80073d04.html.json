@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_invalid_staged_signature\0x80073d04\index.html.json
+canonical: /win32/winerror-h/error_invalid_staged_signature/15620/
+title: 0x80073d04 ERROR_INVALID_STAGED_SIGNATURE in winerror.h
+description: The signature is invalid. To register in developer mode, AppxSignature.p7x and AppxBlockMap.xml must be valid or should not be present.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80073d04",
+  "codeUrl": "/win32/winerror-h/error_invalid_staged_signature/0x80073d04/",
+  "numericCode": 0,
+  "define": "ERROR_INVALID_STAGED_SIGNATURE",
+  "defineUrl": "/win32/winerror-h/error_invalid_staged_signature/",
+  "message": "The signature is invalid. To register in developer mode, AppxSignature.p7x and AppxBlockMap.xml must be valid or should not be present.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "15620",
+  "originalCodeUrl": "/win32/winerror-h/error_invalid_staged_signature/15620/"
+}

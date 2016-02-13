@@ -1,0 +1,29 @@
+---
+output: win32\ntstatus-h\status_invalid_token\0xc0000465\index.html.json
+
+title: 0xC0000465 STATUS_INVALID_TOKEN in ntstatus.h
+description: "{Invalid Proxy Data Token}
+The token representing the data is invalid."
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000465",
+  "codeUrl": "/win32/ntstatus-h/status_invalid_token/0xc0000465/",
+  "numericCode": -1073740699,
+  "define": "STATUS_INVALID_TOKEN",
+  "defineUrl": "/win32/ntstatus-h/status_invalid_token/",
+  "message": "{Invalid Proxy Data Token}\r\nThe token representing the data is invalid.",
+  "remarks": null,
+  "aka": [
+    "-1073740699"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_invalid_token/-1073740699/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

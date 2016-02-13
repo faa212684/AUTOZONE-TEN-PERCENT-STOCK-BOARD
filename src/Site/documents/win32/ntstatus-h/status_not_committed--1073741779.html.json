@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_not_committed\-1073741779\index.html.json
+canonical: /win32/ntstatus-h/status_not_committed/0xc000002d/
+title: -1073741779 STATUS_NOT_COMMITTED in ntstatus.h
+description: An attempt was made to change the attributes on memory that has not been committed.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741779",
+  "codeUrl": "/win32/ntstatus-h/status_not_committed/-1073741779/",
+  "numericCode": 0,
+  "define": "STATUS_NOT_COMMITTED",
+  "defineUrl": "/win32/ntstatus-h/status_not_committed/",
+  "message": "An attempt was made to change the attributes on memory that has not been committed.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC000002D",
+  "originalCodeUrl": "/win32/ntstatus-h/status_not_committed/0xc000002d/"
+}

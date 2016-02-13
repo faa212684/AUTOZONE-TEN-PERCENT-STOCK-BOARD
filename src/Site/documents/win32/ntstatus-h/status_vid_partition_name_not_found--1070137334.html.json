@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_vid_partition_name_not_found\-1070137334\index.html.json
+canonical: /win32/ntstatus-h/status_vid_partition_name_not_found/0xc037000a/
+title: -1070137334 STATUS_VID_PARTITION_NAME_NOT_FOUND in ntstatus.h
+description: The virtualization infrastructure driver has encountered an error. Could not find the requested partition. Restarting the virtual machine may fix the problem. If the problem persists, try restarting the physical computer.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1070137334",
+  "codeUrl": "/win32/ntstatus-h/status_vid_partition_name_not_found/-1070137334/",
+  "numericCode": 0,
+  "define": "STATUS_VID_PARTITION_NAME_NOT_FOUND",
+  "defineUrl": "/win32/ntstatus-h/status_vid_partition_name_not_found/",
+  "message": "The virtualization infrastructure driver has encountered an error. Could not find the requested partition. Restarting the virtual machine may fix the problem. If the problem persists, try restarting the physical computer.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC037000A",
+  "originalCodeUrl": "/win32/ntstatus-h/status_vid_partition_name_not_found/0xc037000a/"
+}

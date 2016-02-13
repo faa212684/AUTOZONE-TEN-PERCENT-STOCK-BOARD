@@ -1,0 +1,28 @@
+---
+output: win32\wsmerror-h\error_wsman_unsupported_feature_options\0x803380a6\index.html.json
+
+title: 0x803380A6 ERROR_WSMAN_UNSUPPORTED_FEATURE_OPTIONS in wsmerror.h
+description: The WS-Management service does not support the options feature for the specified resource. Remove the options from the request and retry.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x803380A6",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_unsupported_feature_options/0x803380a6/",
+  "numericCode": -2144108378,
+  "define": "ERROR_WSMAN_UNSUPPORTED_FEATURE_OPTIONS",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_unsupported_feature_options/",
+  "message": "The WS-Management service does not support the options feature for the specified resource. Remove the options from the request and retry.",
+  "remarks": null,
+  "aka": [
+    "-2144108378"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_unsupported_feature_options/-2144108378/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

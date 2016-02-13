@@ -1,0 +1,28 @@
+---
+output: win32\rtcerr-h\rtc_e_sip_ssl_tunnel_failed\0x80ee001c\index.html.json
+
+title: 0x80EE001C RTC_E_SIP_SSL_TUNNEL_FAILED in rtcerr.h
+description: Cannot establish SSL tunnel to Http proxy
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "rtcerr.h",
+  "sourceUrl": "/win32/rtcerr-h/",
+  "code": "0x80EE001C",
+  "codeUrl": "/win32/rtcerr-h/rtc_e_sip_ssl_tunnel_failed/0x80ee001c/",
+  "numericCode": -2131886052,
+  "define": "RTC_E_SIP_SSL_TUNNEL_FAILED",
+  "defineUrl": "/win32/rtcerr-h/rtc_e_sip_ssl_tunnel_failed/",
+  "message": "Cannot establish SSL tunnel to Http proxy",
+  "remarks": null,
+  "aka": [
+    "-2131886052"
+  ],
+  "akaUrl": [
+    "/win32/rtcerr-h/rtc_e_sip_ssl_tunnel_failed/-2131886052/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

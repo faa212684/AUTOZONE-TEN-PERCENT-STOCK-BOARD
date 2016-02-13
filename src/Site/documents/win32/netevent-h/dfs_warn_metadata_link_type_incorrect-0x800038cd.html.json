@@ -1,0 +1,29 @@
+---
+output: win32\netevent-h\dfs_warn_metadata_link_type_incorrect\0x800038cd\index.html.json
+
+title: 0x800038CD DFS_WARN_METADATA_LINK_TYPE_INCORRECT in netevent.h
+description: DFS link %1 was marked incorrectly as a DFS root. The DFS namespace is operational on this server. If this namespace is hosted on servers running Windows Server 2003 prior to Service Pack 2 (SP2), or if the server is running Windows 2000 Server, the namespace might not be fully functional on those servers.
+Please consult the Microsoft Knowledge Base for more information on correcting this issue.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x800038CD",
+  "codeUrl": "/win32/netevent-h/dfs_warn_metadata_link_type_incorrect/0x800038cd/",
+  "numericCode": -2147469107,
+  "define": "DFS_WARN_METADATA_LINK_TYPE_INCORRECT",
+  "defineUrl": "/win32/netevent-h/dfs_warn_metadata_link_type_incorrect/",
+  "message": "DFS link %1 was marked incorrectly as a DFS root. The DFS namespace is operational on this server. If this namespace is hosted on servers running Windows Server 2003 prior to Service Pack 2 (SP2), or if the server is running Windows 2000 Server, the namespace might not be fully functional on those servers.\r\nPlease consult the Microsoft Knowledge Base for more information on correcting this issue.",
+  "remarks": null,
+  "aka": [
+    "-2147469107"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/dfs_warn_metadata_link_type_incorrect/-2147469107/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,29 @@
+---
+output: win32\ntstatus-h\status_working_set_limit_range\0x40000002\index.html.json
+
+title: 0x40000002 STATUS_WORKING_SET_LIMIT_RANGE in ntstatus.h
+description: "{Working Set Range Error}
+An attempt was made to set the working set minimum or maximum to values which are outside of the allowable range."
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0x40000002",
+  "codeUrl": "/win32/ntstatus-h/status_working_set_limit_range/0x40000002/",
+  "numericCode": 1073741826,
+  "define": "STATUS_WORKING_SET_LIMIT_RANGE",
+  "defineUrl": "/win32/ntstatus-h/status_working_set_limit_range/",
+  "message": "{Working Set Range Error}\r\nAn attempt was made to set the working set minimum or maximum to values which are outside of the allowable range.",
+  "remarks": null,
+  "aka": [
+    "1073741826"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_working_set_limit_range/1073741826/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

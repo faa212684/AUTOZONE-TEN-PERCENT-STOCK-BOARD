@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\dns_error_invalid_zone_type\9611\index.html.json
+
+title: 9611 DNS_ERROR_INVALID_ZONE_TYPE in winerror.h
+description: Invalid DNS zone type.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "9611",
+  "codeUrl": "/win32/winerror-h/dns_error_invalid_zone_type/9611/",
+  "numericCode": 9611,
+  "define": "DNS_ERROR_INVALID_ZONE_TYPE",
+  "defineUrl": "/win32/winerror-h/dns_error_invalid_zone_type/",
+  "message": "Invalid DNS zone type.",
+  "remarks": null,
+  "aka": [
+    "0x8007258b",
+    "-2147015285"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/dns_error_invalid_zone_type/0x8007258b/",
+    "/win32/winerror-h/dns_error_invalid_zone_type/-2147015285/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

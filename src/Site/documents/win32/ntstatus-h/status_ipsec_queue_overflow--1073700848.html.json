@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_ipsec_queue_overflow\-1073700848\index.html.json
+canonical: /win32/ntstatus-h/status_ipsec_queue_overflow/0xc000a010/
+title: -1073700848 STATUS_IPSEC_QUEUE_OVERFLOW in ntstatus.h
+description: The IPSEC queue overflowed.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073700848",
+  "codeUrl": "/win32/ntstatus-h/status_ipsec_queue_overflow/-1073700848/",
+  "numericCode": 0,
+  "define": "STATUS_IPSEC_QUEUE_OVERFLOW",
+  "defineUrl": "/win32/ntstatus-h/status_ipsec_queue_overflow/",
+  "message": "The IPSEC queue overflowed.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC000A010",
+  "originalCodeUrl": "/win32/ntstatus-h/status_ipsec_queue_overflow/0xc000a010/"
+}

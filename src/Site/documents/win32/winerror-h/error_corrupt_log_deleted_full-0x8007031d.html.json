@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_corrupt_log_deleted_full\0x8007031d\index.html.json
+canonical: /win32/winerror-h/error_corrupt_log_deleted_full/797/
+title: 0x8007031d ERROR_CORRUPT_LOG_DELETED_FULL in winerror.h
+description: One of the volume corruption logs was deleted while still having corruption records in them. The volume contains detected corruptions and must be scanned.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007031d",
+  "codeUrl": "/win32/winerror-h/error_corrupt_log_deleted_full/0x8007031d/",
+  "numericCode": 0,
+  "define": "ERROR_CORRUPT_LOG_DELETED_FULL",
+  "defineUrl": "/win32/winerror-h/error_corrupt_log_deleted_full/",
+  "message": "One of the volume corruption logs was deleted while still having corruption records in them. The volume contains detected corruptions and must be scanned.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "797",
+  "originalCodeUrl": "/win32/winerror-h/error_corrupt_log_deleted_full/797/"
+}

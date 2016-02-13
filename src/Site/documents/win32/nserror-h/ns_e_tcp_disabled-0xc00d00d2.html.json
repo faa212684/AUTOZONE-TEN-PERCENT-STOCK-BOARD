@@ -1,0 +1,28 @@
+---
+output: win32\nserror-h\ns_e_tcp_disabled\0xc00d00d2\index.html.json
+
+title: 0xC00D00D2 NS_E_TCP_DISABLED in nserror.h
+description: TCP protocol not enabled. Not trying %1!ls!.%0
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "nserror.h",
+  "sourceUrl": "/win32/nserror-h/",
+  "code": "0xC00D00D2",
+  "codeUrl": "/win32/nserror-h/ns_e_tcp_disabled/0xc00d00d2/",
+  "numericCode": -1072889646,
+  "define": "NS_E_TCP_DISABLED",
+  "defineUrl": "/win32/nserror-h/ns_e_tcp_disabled/",
+  "message": "TCP protocol not enabled. Not trying %1!ls!.%0",
+  "remarks": null,
+  "aka": [
+    "-1072889646"
+  ],
+  "akaUrl": [
+    "/win32/nserror-h/ns_e_tcp_disabled/-1072889646/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

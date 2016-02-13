@@ -1,0 +1,28 @@
+---
+output: win32\windowssearcherrors-h\fte_e_project_shutdown\0x80043607\index.html.json
+
+title: 0x80043607 FTE_E_PROJECT_SHUTDOWN in WindowsSearchErrors.h
+description: An internal interface is being used after the corresponding catalog has been shutdown. The operation will be aborted.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "0x80043607",
+  "codeUrl": "/win32/windowssearcherrors-h/fte_e_project_shutdown/0x80043607/",
+  "numericCode": -2147207673,
+  "define": "FTE_E_PROJECT_SHUTDOWN",
+  "defineUrl": "/win32/windowssearcherrors-h/fte_e_project_shutdown/",
+  "message": "An internal interface is being used after the corresponding catalog has been shutdown. The operation will be aborted.",
+  "remarks": null,
+  "aka": [
+    "-2147207673"
+  ],
+  "akaUrl": [
+    "/win32/windowssearcherrors-h/fte_e_project_shutdown/-2147207673/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

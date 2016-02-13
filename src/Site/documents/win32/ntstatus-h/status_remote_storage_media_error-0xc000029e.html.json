@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_remote_storage_media_error\0xc000029e\index.html.json
+
+title: 0xC000029E STATUS_REMOTE_STORAGE_MEDIA_ERROR in ntstatus.h
+description: The remote storage service encountered a media error.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000029E",
+  "codeUrl": "/win32/ntstatus-h/status_remote_storage_media_error/0xc000029e/",
+  "numericCode": -1073741154,
+  "define": "STATUS_REMOTE_STORAGE_MEDIA_ERROR",
+  "defineUrl": "/win32/ntstatus-h/status_remote_storage_media_error/",
+  "message": "The remote storage service encountered a media error.",
+  "remarks": null,
+  "aka": [
+    "-1073741154"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_remote_storage_media_error/-1073741154/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

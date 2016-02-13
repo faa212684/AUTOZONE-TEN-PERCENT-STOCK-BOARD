@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\tpm_e_doing_selftest\0x80280802\index.html.json
+
+title: 0x80280802 TPM_E_DOING_SELFTEST in winerror.h
+description: The TPM is currently executing a full selftest.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80280802",
+  "codeUrl": "/win32/winerror-h/tpm_e_doing_selftest/0x80280802/",
+  "numericCode": -2144860158,
+  "define": "TPM_E_DOING_SELFTEST",
+  "defineUrl": "/win32/winerror-h/tpm_e_doing_selftest/",
+  "message": "The TPM is currently executing a full selftest.",
+  "remarks": null,
+  "aka": [
+    "-2144860158"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/tpm_e_doing_selftest/-2144860158/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

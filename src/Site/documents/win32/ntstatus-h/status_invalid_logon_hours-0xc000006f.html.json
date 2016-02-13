@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_invalid_logon_hours\0xc000006f\index.html.json
+
+title: 0xC000006F STATUS_INVALID_LOGON_HOURS in ntstatus.h
+description: The user account has time restrictions and may not be logged onto at this time.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000006F",
+  "codeUrl": "/win32/ntstatus-h/status_invalid_logon_hours/0xc000006f/",
+  "numericCode": -1073741713,
+  "define": "STATUS_INVALID_LOGON_HOURS",
+  "defineUrl": "/win32/ntstatus-h/status_invalid_logon_hours/",
+  "message": "The user account has time restrictions and may not be logged onto at this time.",
+  "remarks": null,
+  "aka": [
+    "-1073741713"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_invalid_logon_hours/-1073741713/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_tcpip_pcf_multicast_oid_issue\0x800010c2\index.html.json
+
+title: 0x800010C2 EVENT_TCPIP_PCF_MULTICAST_OID_ISSUE in netevent.h
+description: Multicast address list could not be set on the network adapter with hardware address %2 (%3 %4 %5 %6).
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x800010C2",
+  "codeUrl": "/win32/netevent-h/event_tcpip_pcf_multicast_oid_issue/0x800010c2/",
+  "numericCode": -2147479358,
+  "define": "EVENT_TCPIP_PCF_MULTICAST_OID_ISSUE",
+  "defineUrl": "/win32/netevent-h/event_tcpip_pcf_multicast_oid_issue/",
+  "message": "Multicast address list could not be set on the network adapter with hardware address %2 (%3 %4 %5 %6).",
+  "remarks": null,
+  "aka": [
+    "-2147479358"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_tcpip_pcf_multicast_oid_issue/-2147479358/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

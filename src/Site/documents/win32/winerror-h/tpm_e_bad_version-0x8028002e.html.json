@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\tpm_e_bad_version\0x8028002e\index.html.json
+
+title: 0x8028002E TPM_E_BAD_VERSION in winerror.h
+description: The TPM cannot perform this version of the capability.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8028002E",
+  "codeUrl": "/win32/winerror-h/tpm_e_bad_version/0x8028002e/",
+  "numericCode": -2144862162,
+  "define": "TPM_E_BAD_VERSION",
+  "defineUrl": "/win32/winerror-h/tpm_e_bad_version/",
+  "message": "The TPM cannot perform this version of the capability.",
+  "remarks": null,
+  "aka": [
+    "-2144862162"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/tpm_e_bad_version/-2144862162/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

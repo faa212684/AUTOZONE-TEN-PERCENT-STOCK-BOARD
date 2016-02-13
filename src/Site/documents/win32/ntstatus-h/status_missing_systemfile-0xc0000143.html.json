@@ -1,0 +1,29 @@
+---
+output: win32\ntstatus-h\status_missing_systemfile\0xc0000143\index.html.json
+
+title: 0xC0000143 STATUS_MISSING_SYSTEMFILE in ntstatus.h
+description: "{Missing System File}
+The required system file %hs is bad or missing."
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000143",
+  "codeUrl": "/win32/ntstatus-h/status_missing_systemfile/0xc0000143/",
+  "numericCode": -1073741501,
+  "define": "STATUS_MISSING_SYSTEMFILE",
+  "defineUrl": "/win32/ntstatus-h/status_missing_systemfile/",
+  "message": "{Missing System File}\r\nThe required system file %hs is bad or missing.",
+  "remarks": null,
+  "aka": [
+    "-1073741501"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_missing_systemfile/-1073741501/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

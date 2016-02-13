@@ -1,0 +1,29 @@
+---
+output: win32\netevent-h\event_tcpip_no_bindings\0xc0001063\index.html.json
+
+title: 0xC0001063 EVENT_TCPIP_NO_BINDINGS in netevent.h
+description: IP was unable to read its bindings from the registry. No network interfaces
+were configured.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC0001063",
+  "codeUrl": "/win32/netevent-h/event_tcpip_no_bindings/0xc0001063/",
+  "numericCode": -1073737629,
+  "define": "EVENT_TCPIP_NO_BINDINGS",
+  "defineUrl": "/win32/netevent-h/event_tcpip_no_bindings/",
+  "message": "IP was unable to read its bindings from the registry. No network interfaces\r\nwere configured.",
+  "remarks": null,
+  "aka": [
+    "-1073737629"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_tcpip_no_bindings/-1073737629/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

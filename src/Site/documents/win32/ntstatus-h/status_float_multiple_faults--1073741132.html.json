@@ -1,0 +1,25 @@
+---
+output: win32\ntstatus-h\status_float_multiple_faults\-1073741132\index.html.json
+canonical: /win32/ntstatus-h/status_float_multiple_faults/0xc00002b4/
+title: -1073741132 STATUS_FLOAT_MULTIPLE_FAULTS in ntstatus.h
+description: "{EXCEPTION}
+Multiple floating point faults."
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741132",
+  "codeUrl": "/win32/ntstatus-h/status_float_multiple_faults/-1073741132/",
+  "numericCode": 0,
+  "define": "STATUS_FLOAT_MULTIPLE_FAULTS",
+  "defineUrl": "/win32/ntstatus-h/status_float_multiple_faults/",
+  "message": "{EXCEPTION}\r\nMultiple floating point faults.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC00002B4",
+  "originalCodeUrl": "/win32/ntstatus-h/status_float_multiple_faults/0xc00002b4/"
+}

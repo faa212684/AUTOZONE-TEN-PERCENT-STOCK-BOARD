@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_monitor_invalid_user_friendly_mondsc_block\-1071841273\index.html.json
+canonical: /win32/ntstatus-h/status_monitor_invalid_user_friendly_mondsc_block/0xc01d0007/
+title: -1071841273 STATUS_MONITOR_INVALID_USER_FRIENDLY_MONDSC_BLOCK in ntstatus.h
+description: Provided monitor descriptor block is either corrupted or does not contain monitor's user friendly name.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071841273",
+  "codeUrl": "/win32/ntstatus-h/status_monitor_invalid_user_friendly_mondsc_block/-1071841273/",
+  "numericCode": 0,
+  "define": "STATUS_MONITOR_INVALID_USER_FRIENDLY_MONDSC_BLOCK",
+  "defineUrl": "/win32/ntstatus-h/status_monitor_invalid_user_friendly_mondsc_block/",
+  "message": "Provided monitor descriptor block is either corrupted or does not contain monitor's user friendly name.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC01D0007",
+  "originalCodeUrl": "/win32/ntstatus-h/status_monitor_invalid_user_friendly_mondsc_block/0xc01d0007/"
+}

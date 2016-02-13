@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_invalid_pep_info_version\0xc000a005\index.html.json
+
+title: 0xC000A005 STATUS_INVALID_PEP_INFO_VERSION in ntstatus.h
+description: The supplied PEP information version is invalid.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000A005",
+  "codeUrl": "/win32/ntstatus-h/status_invalid_pep_info_version/0xc000a005/",
+  "numericCode": -1073700859,
+  "define": "STATUS_INVALID_PEP_INFO_VERSION",
+  "defineUrl": "/win32/ntstatus-h/status_invalid_pep_info_version/",
+  "message": "The supplied PEP information version is invalid.",
+  "remarks": null,
+  "aka": [
+    "-1073700859"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_invalid_pep_info_version/-1073700859/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

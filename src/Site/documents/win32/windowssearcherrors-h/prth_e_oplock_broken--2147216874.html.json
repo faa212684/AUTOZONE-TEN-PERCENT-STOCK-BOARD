@@ -1,0 +1,24 @@
+---
+output: win32\windowssearcherrors-h\prth_e_oplock_broken\-2147216874\index.html.json
+canonical: /win32/windowssearcherrors-h/prth_e_oplock_broken/0x80041216/
+title: -2147216874 PRTH_E_OPLOCK_BROKEN in WindowsSearchErrors.h
+description: Filtering was interrupted because of a sharing conflict with another process. Crawl the file again when it is not in use.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "-2147216874",
+  "codeUrl": "/win32/windowssearcherrors-h/prth_e_oplock_broken/-2147216874/",
+  "numericCode": 0,
+  "define": "PRTH_E_OPLOCK_BROKEN",
+  "defineUrl": "/win32/windowssearcherrors-h/prth_e_oplock_broken/",
+  "message": "Filtering was interrupted because of a sharing conflict with another process. Crawl the file again when it is not in use.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80041216",
+  "originalCodeUrl": "/win32/windowssearcherrors-h/prth_e_oplock_broken/0x80041216/"
+}

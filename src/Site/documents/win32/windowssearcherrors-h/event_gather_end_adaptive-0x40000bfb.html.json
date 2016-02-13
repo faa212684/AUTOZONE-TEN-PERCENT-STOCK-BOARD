@@ -1,0 +1,28 @@
+---
+output: win32\windowssearcherrors-h\event_gather_end_adaptive\0x40000bfb\index.html.json
+
+title: 0x40000BFB EVENT_GATHER_END_ADAPTIVE in WindowsSearchErrors.h
+description: The adaptive update is complete. The gatherer successfully processed %2 documents totaling %3K. It failed to filter %4 documents. %5 documents were modified. %6 URLs were not found or denied access.%1
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "0x40000BFB",
+  "codeUrl": "/win32/windowssearcherrors-h/event_gather_end_adaptive/0x40000bfb/",
+  "numericCode": 1073744891,
+  "define": "EVENT_GATHER_END_ADAPTIVE",
+  "defineUrl": "/win32/windowssearcherrors-h/event_gather_end_adaptive/",
+  "message": "The adaptive update is complete. The gatherer successfully processed %2 documents totaling %3K. It failed to filter %4 documents. %5 documents were modified. %6 URLs were not found or denied access.%1",
+  "remarks": null,
+  "aka": [
+    "1073744891"
+  ],
+  "akaUrl": [
+    "/win32/windowssearcherrors-h/event_gather_end_adaptive/1073744891/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_cluster_non_csv_path\0xc0130018\index.html.json
+
+title: 0xC0130018 STATUS_CLUSTER_NON_CSV_PATH in ntstatus.h
+description: The path does not belong to a cluster shared volume.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0130018",
+  "codeUrl": "/win32/ntstatus-h/status_cluster_non_csv_path/0xc0130018/",
+  "numericCode": -1072496616,
+  "define": "STATUS_CLUSTER_NON_CSV_PATH",
+  "defineUrl": "/win32/ntstatus-h/status_cluster_non_csv_path/",
+  "message": "The path does not belong to a cluster shared volume.",
+  "remarks": null,
+  "aka": [
+    "-1072496616"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_cluster_non_csv_path/-1072496616/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,39 @@
+---
+output: win32\netevent-h\event_frs_root_has_moved\-1073728265\index.html.json
+canonical: /win32/netevent-h/event_frs_root_has_moved/0xc00034f7/
+title: -1073728265 EVENT_FRS_ROOT_HAS_MOVED in netevent.h
+description: The File Replication Service has detected that the replica root path has changed
+from "%2" to "%3". If this is an intentional move then a file with the name
+NTFRS_CMD_FILE_MOVE_ROOT needs to be created under the new root path.
+%nThis was detected for the following replica set:
+%n    "%1"
+%n
+%nChanging the replica root path is a two step process which is triggered by
+the creation of the NTFRS_CMD_FILE_MOVE_ROOT file.
+%n
+%n [1] At the first poll which will occur in %4 minutes this computer will be
+deleted from the replica set.
+%n [2] At the poll following the deletion this computer will be re-added to the
+replica set with the new root path. This re-addition will trigger a full tree
+sync for the replica set. At the end of the sync all the files will be at the new
+location. The files may or may not be deleted from the old location depending on whether
+they are needed or not.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "-1073728265",
+  "codeUrl": "/win32/netevent-h/event_frs_root_has_moved/-1073728265/",
+  "numericCode": 0,
+  "define": "EVENT_FRS_ROOT_HAS_MOVED",
+  "defineUrl": "/win32/netevent-h/event_frs_root_has_moved/",
+  "message": "The File Replication Service has detected that the replica root path has changed\r\nfrom \"%2\" to \"%3\". If this is an intentional move then a file with the name\r\nNTFRS_CMD_FILE_MOVE_ROOT needs to be created under the new root path.\r\n%nThis was detected for the following replica set:\r\n%n    \"%1\"\r\n%n\r\n%nChanging the replica root path is a two step process which is triggered by\r\nthe creation of the NTFRS_CMD_FILE_MOVE_ROOT file.\r\n%n\r\n%n [1] At the first poll which will occur in %4 minutes this computer will be\r\ndeleted from the replica set.\r\n%n [2] At the poll following the deletion this computer will be re-added to the\r\nreplica set with the new root path. This re-addition will trigger a full tree\r\nsync for the replica set. At the end of the sync all the files will be at the new\r\nlocation. The files may or may not be deleted from the old location depending on whether\r\nthey are needed or not.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC00034F7",
+  "originalCodeUrl": "/win32/netevent-h/event_frs_root_has_moved/0xc00034f7/"
+}

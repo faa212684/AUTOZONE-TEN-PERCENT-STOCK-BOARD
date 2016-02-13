@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_transaction_no_superior\0x80071a4a\index.html.json
+canonical: /win32/winerror-h/error_transaction_no_superior/6730/
+title: 0x80071a4a ERROR_TRANSACTION_NO_SUPERIOR in winerror.h
+description: The transaction does not have a superior enlistment.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80071a4a",
+  "codeUrl": "/win32/winerror-h/error_transaction_no_superior/0x80071a4a/",
+  "numericCode": 0,
+  "define": "ERROR_TRANSACTION_NO_SUPERIOR",
+  "defineUrl": "/win32/winerror-h/error_transaction_no_superior/",
+  "message": "The transaction does not have a superior enlistment.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "6730",
+  "originalCodeUrl": "/win32/winerror-h/error_transaction_no_superior/6730/"
+}

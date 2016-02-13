@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_secureboot_policy_publisher_not_found\0xc0430004\index.html.json
+
+title: 0xC0430004 STATUS_SECUREBOOT_POLICY_PUBLISHER_NOT_FOUND in ntstatus.h
+description: A new Secure Boot policy did not contain the current publisher on its update list.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0430004",
+  "codeUrl": "/win32/ntstatus-h/status_secureboot_policy_publisher_not_found/0xc0430004/",
+  "numericCode": -1069350908,
+  "define": "STATUS_SECUREBOOT_POLICY_PUBLISHER_NOT_FOUND",
+  "defineUrl": "/win32/ntstatus-h/status_secureboot_policy_publisher_not_found/",
+  "message": "A new Secure Boot policy did not contain the current publisher on its update list.",
+  "remarks": null,
+  "aka": [
+    "-1069350908"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_secureboot_policy_publisher_not_found/-1069350908/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

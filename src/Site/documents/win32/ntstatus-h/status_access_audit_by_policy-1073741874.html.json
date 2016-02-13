@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_access_audit_by_policy\1073741874\index.html.json
+canonical: /win32/ntstatus-h/status_access_audit_by_policy/0x40000032/
+title: 1073741874 STATUS_ACCESS_AUDIT_BY_POLICY in ntstatus.h
+description: Access to %1 is monitored by policy rule %2.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "1073741874",
+  "codeUrl": "/win32/ntstatus-h/status_access_audit_by_policy/1073741874/",
+  "numericCode": 0,
+  "define": "STATUS_ACCESS_AUDIT_BY_POLICY",
+  "defineUrl": "/win32/ntstatus-h/status_access_audit_by_policy/",
+  "message": "Access to %1 is monitored by policy rule %2.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x40000032",
+  "originalCodeUrl": "/win32/ntstatus-h/status_access_audit_by_policy/0x40000032/"
+}

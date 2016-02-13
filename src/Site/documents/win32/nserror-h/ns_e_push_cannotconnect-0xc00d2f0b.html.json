@@ -1,0 +1,28 @@
+---
+output: win32\nserror-h\ns_e_push_cannotconnect\0xc00d2f0b\index.html.json
+
+title: 0xC00D2F0B NS_E_PUSH_CANNOTCONNECT in nserror.h
+description: Unable to establish a connection to the server. Ensure Windows Media Services is started and the HTTP Server control protocol is properly enabled.%0
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "nserror.h",
+  "sourceUrl": "/win32/nserror-h/",
+  "code": "0xC00D2F0B",
+  "codeUrl": "/win32/nserror-h/ns_e_push_cannotconnect/0xc00d2f0b/",
+  "numericCode": -1072877813,
+  "define": "NS_E_PUSH_CANNOTCONNECT",
+  "defineUrl": "/win32/nserror-h/ns_e_push_cannotconnect/",
+  "message": "Unable to establish a connection to the server. Ensure Windows Media Services is started and the HTTP Server control protocol is properly enabled.%0",
+  "remarks": null,
+  "aka": [
+    "-1072877813"
+  ],
+  "akaUrl": [
+    "/win32/nserror-h/ns_e_push_cannotconnect/-1072877813/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_invalid_operation_on_quorum\0x800713cc\index.html.json
+canonical: /win32/winerror-h/error_invalid_operation_on_quorum/5068/
+title: 0x800713cc ERROR_INVALID_OPERATION_ON_QUORUM in winerror.h
+description: This operation cannot currently be performed on the cluster group containing the quorum resource.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800713cc",
+  "codeUrl": "/win32/winerror-h/error_invalid_operation_on_quorum/0x800713cc/",
+  "numericCode": 0,
+  "define": "ERROR_INVALID_OPERATION_ON_QUORUM",
+  "defineUrl": "/win32/winerror-h/error_invalid_operation_on_quorum/",
+  "message": "This operation cannot currently be performed on the cluster group containing the quorum resource.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "5068",
+  "originalCodeUrl": "/win32/winerror-h/error_invalid_operation_on_quorum/5068/"
+}

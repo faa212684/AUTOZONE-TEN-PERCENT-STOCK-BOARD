@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\fve_e_failed_sector_size\-2144272346\index.html.json
+canonical: /win32/winerror-h/fve_e_failed_sector_size/0x80310026/
+title: -2144272346 FVE_E_FAILED_SECTOR_SIZE in winerror.h
+description: The drive encryption algorithm cannot be used on this sector size.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2144272346",
+  "codeUrl": "/win32/winerror-h/fve_e_failed_sector_size/-2144272346/",
+  "numericCode": 0,
+  "define": "FVE_E_FAILED_SECTOR_SIZE",
+  "defineUrl": "/win32/winerror-h/fve_e_failed_sector_size/",
+  "message": "The drive encryption algorithm cannot be used on this sector size.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80310026",
+  "originalCodeUrl": "/win32/winerror-h/fve_e_failed_sector_size/0x80310026/"
+}

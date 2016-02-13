@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\error_hv_invalid_vp_index\0xc035000e\index.html.json
+
+title: 0xC035000E ERROR_HV_INVALID_VP_INDEX in winerror.h
+description: The hypervisor could not perform the operation because the specified VP index is invalid.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0xC035000E",
+  "codeUrl": "/win32/winerror-h/error_hv_invalid_vp_index/0xc035000e/",
+  "numericCode": -1070268402,
+  "define": "ERROR_HV_INVALID_VP_INDEX",
+  "defineUrl": "/win32/winerror-h/error_hv_invalid_vp_index/",
+  "message": "The hypervisor could not perform the operation because the specified VP index is invalid.",
+  "remarks": null,
+  "aka": [
+    "-1070268402"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_hv_invalid_vp_index/-1070268402/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

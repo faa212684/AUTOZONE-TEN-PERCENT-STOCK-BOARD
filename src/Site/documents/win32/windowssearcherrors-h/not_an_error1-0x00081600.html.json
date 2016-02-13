@@ -1,0 +1,30 @@
+---
+output: win32\windowssearcherrors-h\not_an_error1\0x00081600\index.html.json
+
+title: 0x00081600 NOT_AN_ERROR1 in WindowsSearchErrors.h
+description: NOTE:  This dummy error message is necessary to force MC to output
+the above defines inside the FACILITY_WINDOWS guard instead
+of leaving it empty.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "0x00081600",
+  "codeUrl": "/win32/windowssearcherrors-h/not_an_error1/0x00081600/",
+  "numericCode": 529920,
+  "define": "NOT_AN_ERROR1",
+  "defineUrl": "/win32/windowssearcherrors-h/not_an_error1/",
+  "message": "NOTE:  This dummy error message is necessary to force MC to output\r\nthe above defines inside the FACILITY_WINDOWS guard instead\r\nof leaving it empty.",
+  "remarks": null,
+  "aka": [
+    "529920"
+  ],
+  "akaUrl": [
+    "/win32/windowssearcherrors-h/not_an_error1/529920/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

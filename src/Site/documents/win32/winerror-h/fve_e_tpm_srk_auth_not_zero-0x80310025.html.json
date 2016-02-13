@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\fve_e_tpm_srk_auth_not_zero\0x80310025\index.html.json
+
+title: 0x80310025 FVE_E_TPM_SRK_AUTH_NOT_ZERO in winerror.h
+description: The authorization data for the storage root key (SRK) of the Trusted Platform Module (TPM) is not zero and is therefore incompatible with BitLocker. Please initialize the TPM before attempting to use it with BitLocker.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80310025",
+  "codeUrl": "/win32/winerror-h/fve_e_tpm_srk_auth_not_zero/0x80310025/",
+  "numericCode": -2144272347,
+  "define": "FVE_E_TPM_SRK_AUTH_NOT_ZERO",
+  "defineUrl": "/win32/winerror-h/fve_e_tpm_srk_auth_not_zero/",
+  "message": "The authorization data for the storage root key (SRK) of the Trusted Platform Module (TPM) is not zero and is therefore incompatible with BitLocker. Please initialize the TPM before attempting to use it with BitLocker.",
+  "remarks": null,
+  "aka": [
+    "-2144272347"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/fve_e_tpm_srk_auth_not_zero/-2144272347/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

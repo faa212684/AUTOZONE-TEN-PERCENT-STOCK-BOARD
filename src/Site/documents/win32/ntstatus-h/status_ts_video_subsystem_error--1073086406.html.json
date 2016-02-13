@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_ts_video_subsystem_error\-1073086406\index.html.json
+canonical: /win32/ntstatus-h/status_ts_video_subsystem_error/0xc00a003a/
+title: -1073086406 STATUS_TS_VIDEO_SUBSYSTEM_ERROR in ntstatus.h
+description: Windows can't connect to your session because a problem occurred in the Windows video subsystem. Try connecting again later, or contact the server administrator for assistance.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073086406",
+  "codeUrl": "/win32/ntstatus-h/status_ts_video_subsystem_error/-1073086406/",
+  "numericCode": 0,
+  "define": "STATUS_TS_VIDEO_SUBSYSTEM_ERROR",
+  "defineUrl": "/win32/ntstatus-h/status_ts_video_subsystem_error/",
+  "message": "Windows can't connect to your session because a problem occurred in the Windows video subsystem. Try connecting again later, or contact the server administrator for assistance.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC00A003A",
+  "originalCodeUrl": "/win32/ntstatus-h/status_ts_video_subsystem_error/0xc00a003a/"
+}

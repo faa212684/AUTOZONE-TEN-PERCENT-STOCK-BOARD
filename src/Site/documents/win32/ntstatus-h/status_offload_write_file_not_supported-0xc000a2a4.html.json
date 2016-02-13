@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_offload_write_file_not_supported\0xc000a2a4\index.html.json
+
+title: 0xC000A2A4 STATUS_OFFLOAD_WRITE_FILE_NOT_SUPPORTED in ntstatus.h
+description: The copy offload write operation is not supported for the file.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000A2A4",
+  "codeUrl": "/win32/ntstatus-h/status_offload_write_file_not_supported/0xc000a2a4/",
+  "numericCode": -1073700188,
+  "define": "STATUS_OFFLOAD_WRITE_FILE_NOT_SUPPORTED",
+  "defineUrl": "/win32/ntstatus-h/status_offload_write_file_not_supported/",
+  "message": "The copy offload write operation is not supported for the file.",
+  "remarks": null,
+  "aka": [
+    "-1073700188"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_offload_write_file_not_supported/-1073700188/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

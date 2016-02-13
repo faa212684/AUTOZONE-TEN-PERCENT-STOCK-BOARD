@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_wmi_dp_failed\4209\index.html.json
+
+title: 4209 ERROR_WMI_DP_FAILED in winerror.h
+description: The WMI data provider failed to carry out the request.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "4209",
+  "codeUrl": "/win32/winerror-h/error_wmi_dp_failed/4209/",
+  "numericCode": 4209,
+  "define": "ERROR_WMI_DP_FAILED",
+  "defineUrl": "/win32/winerror-h/error_wmi_dp_failed/",
+  "message": "The WMI data provider failed to carry out the request.",
+  "remarks": null,
+  "aka": [
+    "0x80071071",
+    "-2147020687"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_wmi_dp_failed/0x80071071/",
+    "/win32/winerror-h/error_wmi_dp_failed/-2147020687/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\windowssearcherrors-h\event_outofmemory\0xc00003ef\index.html.json
+
+title: 0xC00003EF EVENT_OUTOFMEMORY in WindowsSearchErrors.h
+description: The Windows Search Service was unable to allocate memory.%1
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "0xC00003EF",
+  "codeUrl": "/win32/windowssearcherrors-h/event_outofmemory/0xc00003ef/",
+  "numericCode": -1073740817,
+  "define": "EVENT_OUTOFMEMORY",
+  "defineUrl": "/win32/windowssearcherrors-h/event_outofmemory/",
+  "message": "The Windows Search Service was unable to allocate memory.%1",
+  "remarks": null,
+  "aka": [
+    "-1073740817"
+  ],
+  "akaUrl": [
+    "/win32/windowssearcherrors-h/event_outofmemory/-1073740817/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

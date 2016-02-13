@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_cluster_invalid_node\5039\index.html.json
+
+title: 5039 ERROR_CLUSTER_INVALID_NODE in winerror.h
+description: The cluster node is not valid.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "5039",
+  "codeUrl": "/win32/winerror-h/error_cluster_invalid_node/5039/",
+  "numericCode": 5039,
+  "define": "ERROR_CLUSTER_INVALID_NODE",
+  "defineUrl": "/win32/winerror-h/error_cluster_invalid_node/",
+  "message": "The cluster node is not valid.",
+  "remarks": null,
+  "aka": [
+    "0x800713af",
+    "-2147019857"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_cluster_invalid_node/0x800713af/",
+    "/win32/winerror-h/error_cluster_invalid_node/-2147019857/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

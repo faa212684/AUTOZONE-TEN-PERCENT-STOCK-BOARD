@@ -1,0 +1,31 @@
+---
+output: win32\ntstatus-h\status_sam_init_failure\0xc00002e3\index.html.json
+
+title: 0xC00002E3 STATUS_SAM_INIT_FAILURE in ntstatus.h
+description: Security Accounts Manager initialization failed because of the following error:
+%hs
+Error Status: 0x%x.
+Please click OK to shutdown this system and reboot into Safe Mode, check the event log for more detailed information.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC00002E3",
+  "codeUrl": "/win32/ntstatus-h/status_sam_init_failure/0xc00002e3/",
+  "numericCode": -1073741085,
+  "define": "STATUS_SAM_INIT_FAILURE",
+  "defineUrl": "/win32/ntstatus-h/status_sam_init_failure/",
+  "message": "Security Accounts Manager initialization failed because of the following error:\r\n%hs\r\nError Status: 0x%x.\r\nPlease click OK to shutdown this system and reboot into Safe Mode, check the event log for more detailed information.",
+  "remarks": null,
+  "aka": [
+    "-1073741085"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_sam_init_failure/-1073741085/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

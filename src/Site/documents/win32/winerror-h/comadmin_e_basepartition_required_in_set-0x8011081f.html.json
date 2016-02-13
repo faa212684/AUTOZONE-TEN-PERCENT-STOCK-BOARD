@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\comadmin_e_basepartition_required_in_set\0x8011081f\index.html.json
+
+title: 0x8011081F COMADMIN_E_BASEPARTITION_REQUIRED_IN_SET in winerror.h
+description: The Base Application Partition exists in all partition sets and cannot be removed.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8011081F",
+  "codeUrl": "/win32/winerror-h/comadmin_e_basepartition_required_in_set/0x8011081f/",
+  "numericCode": -2146367457,
+  "define": "COMADMIN_E_BASEPARTITION_REQUIRED_IN_SET",
+  "defineUrl": "/win32/winerror-h/comadmin_e_basepartition_required_in_set/",
+  "message": "The Base Application Partition exists in all partition sets and cannot be removed.",
+  "remarks": null,
+  "aka": [
+    "-2146367457"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/comadmin_e_basepartition_required_in_set/-2146367457/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

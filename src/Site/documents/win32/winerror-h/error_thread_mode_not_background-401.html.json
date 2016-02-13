@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_thread_mode_not_background\401\index.html.json
+
+title: 401 ERROR_THREAD_MODE_NOT_BACKGROUND in winerror.h
+description: The thread is not in background processing mode.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "401",
+  "codeUrl": "/win32/winerror-h/error_thread_mode_not_background/401/",
+  "numericCode": 401,
+  "define": "ERROR_THREAD_MODE_NOT_BACKGROUND",
+  "defineUrl": "/win32/winerror-h/error_thread_mode_not_background/",
+  "message": "The thread is not in background processing mode.",
+  "remarks": null,
+  "aka": [
+    "0x80070191",
+    "-2147024495"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_thread_mode_not_background/0x80070191/",
+    "/win32/winerror-h/error_thread_mode_not_background/-2147024495/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

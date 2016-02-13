@@ -1,0 +1,28 @@
+---
+output: win32\windowssearcherrors-h\ds_e_datanotpresent\0x80040410\index.html.json
+
+title: 0x80040410 DS_E_DATANOTPRESENT in WindowsSearchErrors.h
+description: The search server cannot find one or more catalog files. Check the event log for related failures.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "0x80040410",
+  "codeUrl": "/win32/windowssearcherrors-h/ds_e_datanotpresent/0x80040410/",
+  "numericCode": -2147220464,
+  "define": "DS_E_DATANOTPRESENT",
+  "defineUrl": "/win32/windowssearcherrors-h/ds_e_datanotpresent/",
+  "message": "The search server cannot find one or more catalog files. Check the event log for related failures.",
+  "remarks": null,
+  "aka": [
+    "-2147220464"
+  ],
+  "akaUrl": [
+    "/win32/windowssearcherrors-h/ds_e_datanotpresent/-2147220464/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

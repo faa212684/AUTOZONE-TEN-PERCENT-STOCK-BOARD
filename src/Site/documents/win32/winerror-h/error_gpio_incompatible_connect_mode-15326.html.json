@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_gpio_incompatible_connect_mode\15326\index.html.json
+
+title: 15326 ERROR_GPIO_INCOMPATIBLE_CONNECT_MODE in winerror.h
+description: The requested connect mode conflicts with an existing mode on one or more of the specified pins.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "15326",
+  "codeUrl": "/win32/winerror-h/error_gpio_incompatible_connect_mode/15326/",
+  "numericCode": 15326,
+  "define": "ERROR_GPIO_INCOMPATIBLE_CONNECT_MODE",
+  "defineUrl": "/win32/winerror-h/error_gpio_incompatible_connect_mode/",
+  "message": "The requested connect mode conflicts with an existing mode on one or more of the specified pins.",
+  "remarks": null,
+  "aka": [
+    "0x80073bde",
+    "-2147009570"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_gpio_incompatible_connect_mode/0x80073bde/",
+    "/win32/winerror-h/error_gpio_incompatible_connect_mode/-2147009570/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

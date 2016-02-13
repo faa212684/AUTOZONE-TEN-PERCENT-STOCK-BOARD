@@ -1,0 +1,24 @@
+---
+output: msi\2735\index.html.json
+
+title: msi 2735
+description: Custom action '[2]' has caused an unhandled exception and has been stopped. This may be the result of an internal error in the custom action, such as an access violation.
+disqus: true
+---
+{
+  "area": "msi",
+  "areaUrl": "/msi/",
+  "source": null,
+  "sourceUrl": "/msi/",
+  "code": "2735",
+  "codeUrl": "/msi/2735/",
+  "numericCode": 2735,
+  "define": null,
+  "defineUrl": "/msi/",
+  "message": "Custom action '[2]' has caused an unhandled exception and has been stopped. This may be the result of an internal error in the custom action, such as an access violation.",
+  "remarks": "This  error is caused by a custom action that is based on <a href=\"https://msdn.microsoft.com/en-us/library/aa368338(v=vs.85).aspx\">Dynamic-Link Libraries</a>. When trouble-shooting the DLL you may need to use one or more of the tools described in <a href=\"Http://go.microsoft.com/fwlink/p/?linkid=83983\">KB198038</a>.",
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": null,
+  "originalCodeUrl": null
+}

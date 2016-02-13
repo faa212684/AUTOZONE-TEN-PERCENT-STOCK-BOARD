@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_no_such_member\-1073741446\index.html.json
+canonical: /win32/ntstatus-h/status_no_such_member/0xc000017a/
+title: -1073741446 STATUS_NO_SUCH_MEMBER in ntstatus.h
+description: A member could not be added to or removed from the local group because the member does not exist.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741446",
+  "codeUrl": "/win32/ntstatus-h/status_no_such_member/-1073741446/",
+  "numericCode": 0,
+  "define": "STATUS_NO_SUCH_MEMBER",
+  "defineUrl": "/win32/ntstatus-h/status_no_such_member/",
+  "message": "A member could not be added to or removed from the local group because the member does not exist.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC000017A",
+  "originalCodeUrl": "/win32/ntstatus-h/status_no_such_member/0xc000017a/"
+}

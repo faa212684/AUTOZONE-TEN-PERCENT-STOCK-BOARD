@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_special_account\-1073741532\index.html.json
+canonical: /win32/ntstatus-h/status_special_account/0xc0000124/
+title: -1073741532 STATUS_SPECIAL_ACCOUNT in ntstatus.h
+description: Indicates an operation has been attempted on a built-in (special) SAM account which is incompatible with built-in accounts. For example, built-in accounts cannot be deleted.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741532",
+  "codeUrl": "/win32/ntstatus-h/status_special_account/-1073741532/",
+  "numericCode": 0,
+  "define": "STATUS_SPECIAL_ACCOUNT",
+  "defineUrl": "/win32/ntstatus-h/status_special_account/",
+  "message": "Indicates an operation has been attempted on a built-in (special) SAM account which is incompatible with built-in accounts. For example, built-in accounts cannot be deleted.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000124",
+  "originalCodeUrl": "/win32/ntstatus-h/status_special_account/0xc0000124/"
+}

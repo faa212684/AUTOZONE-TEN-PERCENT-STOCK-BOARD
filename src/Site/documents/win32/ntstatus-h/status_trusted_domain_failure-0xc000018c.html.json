@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_trusted_domain_failure\0xc000018c\index.html.json
+
+title: 0xC000018C STATUS_TRUSTED_DOMAIN_FAILURE in ntstatus.h
+description: The logon request failed because the trust relationship between the primary domain and the trusted domain failed.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000018C",
+  "codeUrl": "/win32/ntstatus-h/status_trusted_domain_failure/0xc000018c/",
+  "numericCode": -1073741428,
+  "define": "STATUS_TRUSTED_DOMAIN_FAILURE",
+  "defineUrl": "/win32/ntstatus-h/status_trusted_domain_failure/",
+  "message": "The logon request failed because the trust relationship between the primary domain and the trusted domain failed.",
+  "remarks": null,
+  "aka": [
+    "-1073741428"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_trusted_domain_failure/-1073741428/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

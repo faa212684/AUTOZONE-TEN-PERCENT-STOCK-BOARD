@@ -1,0 +1,31 @@
+---
+output: win32\ntiologc-h\io_err_thread_stuck_in_device_driver\0xc004006c\index.html.json
+
+title: 0xC004006C IO_ERR_THREAD_STUCK_IN_DEVICE_DRIVER in ntiologc.h
+description: The driver %3 for the %2 device %1 got stuck in an infinite loop. This
+usually indicates a problem with the device itself or with the device
+driver programming the hardware incorrectly. Please check with your
+hardware device vendor for any driver updates.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntiologc.h",
+  "sourceUrl": "/win32/ntiologc-h/",
+  "code": "0xC004006C",
+  "codeUrl": "/win32/ntiologc-h/io_err_thread_stuck_in_device_driver/0xc004006c/",
+  "numericCode": -1073479572,
+  "define": "IO_ERR_THREAD_STUCK_IN_DEVICE_DRIVER",
+  "defineUrl": "/win32/ntiologc-h/io_err_thread_stuck_in_device_driver/",
+  "message": "The driver %3 for the %2 device %1 got stuck in an infinite loop. This\r\nusually indicates a problem with the device itself or with the device\r\ndriver programming the hardware incorrectly. Please check with your\r\nhardware device vendor for any driver updates.",
+  "remarks": null,
+  "aka": [
+    "-1073479572"
+  ],
+  "akaUrl": [
+    "/win32/ntiologc-h/io_err_thread_stuck_in_device_driver/-1073479572/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

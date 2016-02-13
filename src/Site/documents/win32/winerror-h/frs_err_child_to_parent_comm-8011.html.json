@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\frs_err_child_to_parent_comm\8011\index.html.json
+
+title: 8011 FRS_ERR_CHILD_TO_PARENT_COMM in winerror.h
+description: The file replication service cannot communicate with the file replication service on the domain controller. The event log may have more information.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "8011",
+  "codeUrl": "/win32/winerror-h/frs_err_child_to_parent_comm/8011/",
+  "numericCode": 8011,
+  "define": "FRS_ERR_CHILD_TO_PARENT_COMM",
+  "defineUrl": "/win32/winerror-h/frs_err_child_to_parent_comm/",
+  "message": "The file replication service cannot communicate with the file replication service on the domain controller. The event log may have more information.",
+  "remarks": null,
+  "aka": [
+    "0x80071f4b",
+    "-2147016885"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/frs_err_child_to_parent_comm/0x80071f4b/",
+    "/win32/winerror-h/frs_err_child_to_parent_comm/-2147016885/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

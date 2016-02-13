@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_ndis_invalid_address\-1071448030\index.html.json
+canonical: /win32/ntstatus-h/status_ndis_invalid_address/0xc0230022/
+title: -1071448030 STATUS_NDIS_INVALID_ADDRESS in ntstatus.h
+description: The network address used in the request is invalid.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071448030",
+  "codeUrl": "/win32/ntstatus-h/status_ndis_invalid_address/-1071448030/",
+  "numericCode": 0,
+  "define": "STATUS_NDIS_INVALID_ADDRESS",
+  "defineUrl": "/win32/ntstatus-h/status_ndis_invalid_address/",
+  "message": "The network address used in the request is invalid.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0230022",
+  "originalCodeUrl": "/win32/ntstatus-h/status_ndis_invalid_address/0xc0230022/"
+}

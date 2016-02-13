@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_fve_tpm_no_vmk\0xc0210019\index.html.json
+
+title: 0xC0210019 STATUS_FVE_TPM_NO_VMK in ntstatus.h
+description: The BitLocker encryption key could not be obtained from the Trusted Platform Module (TPM).
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0210019",
+  "codeUrl": "/win32/ntstatus-h/status_fve_tpm_no_vmk/0xc0210019/",
+  "numericCode": -1071579111,
+  "define": "STATUS_FVE_TPM_NO_VMK",
+  "defineUrl": "/win32/ntstatus-h/status_fve_tpm_no_vmk/",
+  "message": "The BitLocker encryption key could not be obtained from the Trusted Platform Module (TPM).",
+  "remarks": null,
+  "aka": [
+    "-1071579111"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_fve_tpm_no_vmk/-1071579111/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

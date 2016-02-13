@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_ctlog_vhd_changed_offline\0xc03a0022\index.html.json
+
+title: 0xC03A0022 STATUS_CTLOG_VHD_CHANGED_OFFLINE in ntstatus.h
+description: VHD file is changed due to compaction, expansion, or offline updates.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC03A0022",
+  "codeUrl": "/win32/ntstatus-h/status_ctlog_vhd_changed_offline/0xc03a0022/",
+  "numericCode": -1069940702,
+  "define": "STATUS_CTLOG_VHD_CHANGED_OFFLINE",
+  "defineUrl": "/win32/ntstatus-h/status_ctlog_vhd_changed_offline/",
+  "message": "VHD file is changed due to compaction, expansion, or offline updates.",
+  "remarks": null,
+  "aka": [
+    "-1069940702"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_ctlog_vhd_changed_offline/-1069940702/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

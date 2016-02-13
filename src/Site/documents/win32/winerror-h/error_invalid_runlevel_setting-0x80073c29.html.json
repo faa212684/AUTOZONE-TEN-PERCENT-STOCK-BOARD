@@ -1,0 +1,25 @@
+---
+output: win32\winerror-h\error_invalid_runlevel_setting\0x80073c29\index.html.json
+canonical: /win32/winerror-h/error_invalid_runlevel_setting/15401/
+title: 0x80073c29 ERROR_INVALID_RUNLEVEL_SETTING in winerror.h
+description: The service has an invalid run level setting. The run level for a service
+must not be higher than the run level of its dependent services.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80073c29",
+  "codeUrl": "/win32/winerror-h/error_invalid_runlevel_setting/0x80073c29/",
+  "numericCode": 0,
+  "define": "ERROR_INVALID_RUNLEVEL_SETTING",
+  "defineUrl": "/win32/winerror-h/error_invalid_runlevel_setting/",
+  "message": "The service has an invalid run level setting. The run level for a service\r\nmust not be higher than the run level of its dependent services.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "15401",
+  "originalCodeUrl": "/win32/winerror-h/error_invalid_runlevel_setting/15401/"
+}

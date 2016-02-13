@@ -1,0 +1,30 @@
+---
+output: win32\netevent-h\dfs_error_no_dfs_data\0xc00038c2\index.html.json
+
+title: 0xC00038C2 DFS_ERROR_NO_DFS_DATA in netevent.h
+description: DFS could not access its private data from the Active Directory. Please manually check
+network connectivity, security access, and/or consistency of DFS information
+in the Active Directory. This error occurred on root %1.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC00038C2",
+  "codeUrl": "/win32/netevent-h/dfs_error_no_dfs_data/0xc00038c2/",
+  "numericCode": -1073727294,
+  "define": "DFS_ERROR_NO_DFS_DATA",
+  "defineUrl": "/win32/netevent-h/dfs_error_no_dfs_data/",
+  "message": "DFS could not access its private data from the Active Directory. Please manually check\r\nnetwork connectivity, security access, and/or consistency of DFS information\r\nin the Active Directory. This error occurred on root %1.",
+  "remarks": null,
+  "aka": [
+    "-1073727294"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/dfs_error_no_dfs_data/-1073727294/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

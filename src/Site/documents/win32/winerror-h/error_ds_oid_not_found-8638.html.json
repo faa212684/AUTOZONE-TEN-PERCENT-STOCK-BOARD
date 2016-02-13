@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ds_oid_not_found\8638\index.html.json
+
+title: 8638 ERROR_DS_OID_NOT_FOUND in winerror.h
+description: The specified OID cannot be found.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "8638",
+  "codeUrl": "/win32/winerror-h/error_ds_oid_not_found/8638/",
+  "numericCode": 8638,
+  "define": "ERROR_DS_OID_NOT_FOUND",
+  "defineUrl": "/win32/winerror-h/error_ds_oid_not_found/",
+  "message": "The specified OID cannot be found.",
+  "remarks": null,
+  "aka": [
+    "0x800721be",
+    "-2147016258"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ds_oid_not_found/0x800721be/",
+    "/win32/winerror-h/error_ds_oid_not_found/-2147016258/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

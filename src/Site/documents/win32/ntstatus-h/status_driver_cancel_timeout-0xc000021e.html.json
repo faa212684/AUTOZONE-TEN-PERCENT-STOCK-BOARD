@@ -1,0 +1,29 @@
+---
+output: win32\ntstatus-h\status_driver_cancel_timeout\0xc000021e\index.html.json
+
+title: 0xC000021E STATUS_DRIVER_CANCEL_TIMEOUT in ntstatus.h
+description: "{Cancel Timeout}
+The driver %hs failed to complete a cancelled I/O request in the allotted time."
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000021E",
+  "codeUrl": "/win32/ntstatus-h/status_driver_cancel_timeout/0xc000021e/",
+  "numericCode": -1073741282,
+  "define": "STATUS_DRIVER_CANCEL_TIMEOUT",
+  "defineUrl": "/win32/ntstatus-h/status_driver_cancel_timeout/",
+  "message": "{Cancel Timeout}\r\nThe driver %hs failed to complete a cancelled I/O request in the allotted time.",
+  "remarks": null,
+  "aka": [
+    "-1073741282"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_driver_cancel_timeout/-1073741282/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

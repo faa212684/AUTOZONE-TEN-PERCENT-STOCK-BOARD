@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_invalid_member\1388\index.html.json
+
+title: 1388 ERROR_INVALID_MEMBER in winerror.h
+description: A new member could not be added to a local group because the member has the wrong account type.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1388",
+  "codeUrl": "/win32/winerror-h/error_invalid_member/1388/",
+  "numericCode": 1388,
+  "define": "ERROR_INVALID_MEMBER",
+  "defineUrl": "/win32/winerror-h/error_invalid_member/",
+  "message": "A new member could not be added to a local group because the member has the wrong account type.",
+  "remarks": null,
+  "aka": [
+    "0x8007056c",
+    "-2147023508"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_invalid_member/0x8007056c/",
+    "/win32/winerror-h/error_invalid_member/-2147023508/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

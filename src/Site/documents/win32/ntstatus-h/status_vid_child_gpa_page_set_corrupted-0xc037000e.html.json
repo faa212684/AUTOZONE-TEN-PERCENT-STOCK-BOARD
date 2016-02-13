@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_vid_child_gpa_page_set_corrupted\0xc037000e\index.html.json
+
+title: 0xC037000E STATUS_VID_CHILD_GPA_PAGE_SET_CORRUPTED in ntstatus.h
+description: Cannot unlock the page array for the guest operating system memory address because it does not match a previous lock request. Restarting the virtual machine may fix the problem. If the problem persists, try restarting the physical computer.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC037000E",
+  "codeUrl": "/win32/ntstatus-h/status_vid_child_gpa_page_set_corrupted/0xc037000e/",
+  "numericCode": -1070137330,
+  "define": "STATUS_VID_CHILD_GPA_PAGE_SET_CORRUPTED",
+  "defineUrl": "/win32/ntstatus-h/status_vid_child_gpa_page_set_corrupted/",
+  "message": "Cannot unlock the page array for the guest operating system memory address because it does not match a previous lock request. Restarting the virtual machine may fix the problem. If the problem persists, try restarting the physical computer.",
+  "remarks": null,
+  "aka": [
+    "-1070137330"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_vid_child_gpa_page_set_corrupted/-1070137330/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

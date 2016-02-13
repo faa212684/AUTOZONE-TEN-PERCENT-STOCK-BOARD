@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_device_in_use\0x80070964\index.html.json
+canonical: /win32/winerror-h/error_device_in_use/2404/
+title: 0x80070964 ERROR_DEVICE_IN_USE in winerror.h
+description: The device is in use by an active process and cannot be disconnected.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80070964",
+  "codeUrl": "/win32/winerror-h/error_device_in_use/0x80070964/",
+  "numericCode": 0,
+  "define": "ERROR_DEVICE_IN_USE",
+  "defineUrl": "/win32/winerror-h/error_device_in_use/",
+  "message": "The device is in use by an active process and cannot be disconnected.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "2404",
+  "originalCodeUrl": "/win32/winerror-h/error_device_in_use/2404/"
+}

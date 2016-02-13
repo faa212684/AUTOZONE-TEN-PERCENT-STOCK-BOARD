@@ -1,0 +1,28 @@
+---
+output: win32\windowssearcherrors-h\event_gather_daemon_terminated\0x80000c06\index.html.json
+
+title: 0x80000C06 EVENT_GATHER_DAEMON_TERMINATED in WindowsSearchErrors.h
+description: The Windows Search service stopped the Protocol Host process because it was consuming too many resources.  A new Protocol Host process will be started.  No user action is required.%1
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "0x80000C06",
+  "codeUrl": "/win32/windowssearcherrors-h/event_gather_daemon_terminated/0x80000c06/",
+  "numericCode": -2147480570,
+  "define": "EVENT_GATHER_DAEMON_TERMINATED",
+  "defineUrl": "/win32/windowssearcherrors-h/event_gather_daemon_terminated/",
+  "message": "The Windows Search service stopped the Protocol Host process because it was consuming too many resources.  A new Protocol Host process will be started.  No user action is required.%1",
+  "remarks": null,
+  "aka": [
+    "-2147480570"
+  ],
+  "akaUrl": [
+    "/win32/windowssearcherrors-h/event_gather_daemon_terminated/-2147480570/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

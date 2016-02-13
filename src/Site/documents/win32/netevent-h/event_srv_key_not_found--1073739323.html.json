@@ -1,0 +1,24 @@
+---
+output: win32\netevent-h\event_srv_key_not_found\-1073739323\index.html.json
+canonical: /win32/netevent-h/event_srv_key_not_found/0xc00009c5/
+title: -1073739323 EVENT_SRV_KEY_NOT_FOUND in netevent.h
+description: The server's Registry key %1 was not present.  The server could not start.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "-1073739323",
+  "codeUrl": "/win32/netevent-h/event_srv_key_not_found/-1073739323/",
+  "numericCode": 0,
+  "define": "EVENT_SRV_KEY_NOT_FOUND",
+  "defineUrl": "/win32/netevent-h/event_srv_key_not_found/",
+  "message": "The server's Registry key %1 was not present.  The server could not start.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC00009C5",
+  "originalCodeUrl": "/win32/netevent-h/event_srv_key_not_found/0xc00009c5/"
+}

@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_flt_already_enlisted\-2145452005\index.html.json
+canonical: /win32/winerror-h/error_flt_already_enlisted/0x801f001b/
+title: -2145452005 ERROR_FLT_ALREADY_ENLISTED in winerror.h
+description: The specified Transaction Context is already enlisted in a transaction
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2145452005",
+  "codeUrl": "/win32/winerror-h/error_flt_already_enlisted/-2145452005/",
+  "numericCode": 0,
+  "define": "ERROR_FLT_ALREADY_ENLISTED",
+  "defineUrl": "/win32/winerror-h/error_flt_already_enlisted/",
+  "message": "The specified Transaction Context is already enlisted in a transaction",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x801F001B",
+  "originalCodeUrl": "/win32/winerror-h/error_flt_already_enlisted/0x801f001b/"
+}

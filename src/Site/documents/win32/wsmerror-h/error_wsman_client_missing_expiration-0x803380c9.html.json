@@ -1,0 +1,29 @@
+---
+output: win32\wsmerror-h\error_wsman_client_missing_expiration\0x803380c9\index.html.json
+
+title: 0x803380C9 ERROR_WSMAN_CLIENT_MISSING_EXPIRATION in wsmerror.h
+description: The WinRM client cannot process the request. The request specified the type of the expiration time (absolute or relative) but it did not contain an expiration time.
+Change the request to include the expiration time and try again.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x803380C9",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_client_missing_expiration/0x803380c9/",
+  "numericCode": -2144108343,
+  "define": "ERROR_WSMAN_CLIENT_MISSING_EXPIRATION",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_client_missing_expiration/",
+  "message": "The WinRM client cannot process the request. The request specified the type of the expiration time (absolute or relative) but it did not contain an expiration time.\r\nChange the request to include the expiration time and try again.",
+  "remarks": null,
+  "aka": [
+    "-2144108343"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_client_missing_expiration/-2144108343/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

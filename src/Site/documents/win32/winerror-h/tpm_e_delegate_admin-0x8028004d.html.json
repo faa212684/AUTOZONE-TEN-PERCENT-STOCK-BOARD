@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\tpm_e_delegate_admin\0x8028004d\index.html.json
+
+title: 0x8028004D TPM_E_DELEGATE_ADMIN in winerror.h
+description: Delegation table management not enabled.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8028004D",
+  "codeUrl": "/win32/winerror-h/tpm_e_delegate_admin/0x8028004d/",
+  "numericCode": -2144862131,
+  "define": "TPM_E_DELEGATE_ADMIN",
+  "defineUrl": "/win32/winerror-h/tpm_e_delegate_admin/",
+  "message": "Delegation table management not enabled.",
+  "remarks": null,
+  "aka": [
+    "-2144862131"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/tpm_e_delegate_admin/-2144862131/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

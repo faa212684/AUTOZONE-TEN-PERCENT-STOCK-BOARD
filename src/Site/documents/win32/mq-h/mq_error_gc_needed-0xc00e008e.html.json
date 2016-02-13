@@ -1,0 +1,28 @@
+---
+output: win32\mq-h\mq_error_gc_needed\0xc00e008e\index.html.json
+
+title: 0xC00E008E MQ_ERROR_GC_NEEDED in Mq.h
+description: An MSMQ Configuration (msmq) object with the GUID supplied cannot be created. By default, an Active Directory Domain Services forest does not support adding an object with a supplied GUID.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "Mq.h",
+  "sourceUrl": "/win32/mq-h/",
+  "code": "0xC00E008E",
+  "codeUrl": "/win32/mq-h/mq_error_gc_needed/0xc00e008e/",
+  "numericCode": -1072824178,
+  "define": "MQ_ERROR_GC_NEEDED",
+  "defineUrl": "/win32/mq-h/mq_error_gc_needed/",
+  "message": "An MSMQ Configuration (msmq) object with the GUID supplied cannot be created. By default, an Active Directory Domain Services forest does not support adding an object with a supplied GUID.",
+  "remarks": null,
+  "aka": [
+    "-1072824178"
+  ],
+  "akaUrl": [
+    "/win32/mq-h/mq_error_gc_needed/-1072824178/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

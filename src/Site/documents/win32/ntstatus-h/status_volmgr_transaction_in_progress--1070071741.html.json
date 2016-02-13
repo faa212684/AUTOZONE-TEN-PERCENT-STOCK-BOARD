@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_volmgr_transaction_in_progress\-1070071741\index.html.json
+canonical: /win32/ntstatus-h/status_volmgr_transaction_in_progress/0xc0380043/
+title: -1070071741 STATUS_VOLMGR_TRANSACTION_IN_PROGRESS in ntstatus.h
+description: There is currently a transaction in process.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1070071741",
+  "codeUrl": "/win32/ntstatus-h/status_volmgr_transaction_in_progress/-1070071741/",
+  "numericCode": 0,
+  "define": "STATUS_VOLMGR_TRANSACTION_IN_PROGRESS",
+  "defineUrl": "/win32/ntstatus-h/status_volmgr_transaction_in_progress/",
+  "message": "There is currently a transaction in process.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0380043",
+  "originalCodeUrl": "/win32/ntstatus-h/status_volmgr_transaction_in_progress/0xc0380043/"
+}

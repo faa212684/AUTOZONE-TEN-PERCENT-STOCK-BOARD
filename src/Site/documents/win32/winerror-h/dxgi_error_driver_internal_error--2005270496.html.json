@@ -1,0 +1,25 @@
+---
+output: win32\winerror-h\dxgi_error_driver_internal_error\-2005270496\index.html.json
+canonical: /win32/winerror-h/dxgi_error_driver_internal_error/0x887a0020/
+title: -2005270496 DXGI_ERROR_DRIVER_INTERNAL_ERROR in winerror.h
+description: An internal issue prevented the driver from carrying out the specified operation. The driver's state is probably suspect,
+and the application should not continue.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2005270496",
+  "codeUrl": "/win32/winerror-h/dxgi_error_driver_internal_error/-2005270496/",
+  "numericCode": 0,
+  "define": "DXGI_ERROR_DRIVER_INTERNAL_ERROR",
+  "defineUrl": "/win32/winerror-h/dxgi_error_driver_internal_error/",
+  "message": "An internal issue prevented the driver from carrying out the specified operation. The driver's state is probably suspect,\r\nand the application should not continue.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x887A0020",
+  "originalCodeUrl": "/win32/winerror-h/dxgi_error_driver_internal_error/0x887a0020/"
+}

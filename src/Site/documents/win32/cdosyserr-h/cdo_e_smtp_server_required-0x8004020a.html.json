@@ -1,0 +1,28 @@
+---
+output: win32\cdosyserr-h\cdo_e_smtp_server_required\0x8004020a\index.html.json
+
+title: 0x8004020A CDO_E_SMTP_SERVER_REQUIRED in CDOSysErr.h
+description: The SMTP server name is required, and was not found in the configuration source.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "CDOSysErr.h",
+  "sourceUrl": "/win32/cdosyserr-h/",
+  "code": "0x8004020A",
+  "codeUrl": "/win32/cdosyserr-h/cdo_e_smtp_server_required/0x8004020a/",
+  "numericCode": -2147220982,
+  "define": "CDO_E_SMTP_SERVER_REQUIRED",
+  "defineUrl": "/win32/cdosyserr-h/cdo_e_smtp_server_required/",
+  "message": "The SMTP server name is required, and was not found in the configuration source.",
+  "remarks": null,
+  "aka": [
+    "-2147220982"
+  ],
+  "akaUrl": [
+    "/win32/cdosyserr-h/cdo_e_smtp_server_required/-2147220982/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

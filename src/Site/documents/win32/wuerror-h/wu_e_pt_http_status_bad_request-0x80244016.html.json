@@ -1,0 +1,28 @@
+---
+output: win32\wuerror-h\wu_e_pt_http_status_bad_request\0x80244016\index.html.json
+
+title: 0x80244016 WU_E_PT_HTTP_STATUS_BAD_REQUEST in wuerror.h
+description: Same as HTTP status 400 - the server could not process the request due to invalid syntax.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wuerror.h",
+  "sourceUrl": "/win32/wuerror-h/",
+  "code": "0x80244016",
+  "codeUrl": "/win32/wuerror-h/wu_e_pt_http_status_bad_request/0x80244016/",
+  "numericCode": -2145107946,
+  "define": "WU_E_PT_HTTP_STATUS_BAD_REQUEST",
+  "defineUrl": "/win32/wuerror-h/wu_e_pt_http_status_bad_request/",
+  "message": "Same as HTTP status 400 - the server could not process the request due to invalid syntax.",
+  "remarks": null,
+  "aka": [
+    "-2145107946"
+  ],
+  "akaUrl": [
+    "/win32/wuerror-h/wu_e_pt_http_status_bad_request/-2145107946/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

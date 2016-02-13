@@ -1,0 +1,29 @@
+---
+output: win32\netevent-h\event_browser_server_list_retrieved\0x00001f59\index.html.json
+
+title: 0x00001F59 EVENT_BROWSER_SERVER_LIST_RETRIEVED in netevent.h
+description: The browser has retrieved a list of servers from remote computer %1 on transport %2.%n
+There were %3 entries read, and %4 total entries.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x00001F59",
+  "codeUrl": "/win32/netevent-h/event_browser_server_list_retrieved/0x00001f59/",
+  "numericCode": 8025,
+  "define": "EVENT_BROWSER_SERVER_LIST_RETRIEVED",
+  "defineUrl": "/win32/netevent-h/event_browser_server_list_retrieved/",
+  "message": "The browser has retrieved a list of servers from remote computer %1 on transport %2.%n\r\nThere were %3 entries read, and %4 total entries.",
+  "remarks": null,
+  "aka": [
+    "8025"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_browser_server_list_retrieved/8025/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

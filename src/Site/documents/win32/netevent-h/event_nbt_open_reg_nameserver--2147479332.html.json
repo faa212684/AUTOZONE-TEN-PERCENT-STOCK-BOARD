@@ -1,0 +1,24 @@
+---
+output: win32\netevent-h\event_nbt_open_reg_nameserver\-2147479332\index.html.json
+canonical: /win32/netevent-h/event_nbt_open_reg_nameserver/0x800010dc/
+title: -2147479332 EVENT_NBT_OPEN_REG_NAMESERVER in netevent.h
+description: Unable to open the registry to read the WINS server addresses.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "-2147479332",
+  "codeUrl": "/win32/netevent-h/event_nbt_open_reg_nameserver/-2147479332/",
+  "numericCode": 0,
+  "define": "EVENT_NBT_OPEN_REG_NAMESERVER",
+  "defineUrl": "/win32/netevent-h/event_nbt_open_reg_nameserver/",
+  "message": "Unable to open the registry to read the WINS server addresses.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x800010DC",
+  "originalCodeUrl": "/win32/netevent-h/event_nbt_open_reg_nameserver/0x800010dc/"
+}

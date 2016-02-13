@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_graphics_dataset_is_empty\0x401e034b\index.html.json
+
+title: 0x401E034B STATUS_GRAPHICS_DATASET_IS_EMPTY in ntstatus.h
+description: Specified data set (e.g. mode set, frequency range set, descriptor set, topology, etc.) is empty.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0x401E034B",
+  "codeUrl": "/win32/ntstatus-h/status_graphics_dataset_is_empty/0x401e034b/",
+  "numericCode": 1075708747,
+  "define": "STATUS_GRAPHICS_DATASET_IS_EMPTY",
+  "defineUrl": "/win32/ntstatus-h/status_graphics_dataset_is_empty/",
+  "message": "Specified data set (e.g. mode set, frequency range set, descriptor set, topology, etc.) is empty.",
+  "remarks": null,
+  "aka": [
+    "1075708747"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_graphics_dataset_is_empty/1075708747/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

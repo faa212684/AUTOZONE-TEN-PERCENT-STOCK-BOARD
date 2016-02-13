@@ -1,0 +1,31 @@
+---
+output: win32\ntstatus-h\status_ctx_client_license_in_use\0xc00a0034\index.html.json
+
+title: 0xC00A0034 STATUS_CTX_CLIENT_LICENSE_IN_USE in ntstatus.h
+description: Your request to connect to this Terminal server has been rejected.
+Your Terminal Server Client license number is currently being used by another user.
+Please call your system administrator to obtain a new copy of the Terminal Server Client with a valid, unique license number.
+Click OK to continue.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC00A0034",
+  "codeUrl": "/win32/ntstatus-h/status_ctx_client_license_in_use/0xc00a0034/",
+  "numericCode": -1073086412,
+  "define": "STATUS_CTX_CLIENT_LICENSE_IN_USE",
+  "defineUrl": "/win32/ntstatus-h/status_ctx_client_license_in_use/",
+  "message": "Your request to connect to this Terminal server has been rejected.\r\nYour Terminal Server Client license number is currently being used by another user.\r\nPlease call your system administrator to obtain a new copy of the Terminal Server Client with a valid, unique license number.\r\nClick OK to continue.",
+  "remarks": null,
+  "aka": [
+    "-1073086412"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_ctx_client_license_in_use/-1073086412/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,29 @@
+---
+output: win32\wsmerror-h\error_wsman_client_invalid_locale\0x80338194\index.html.json
+
+title: 0x80338194 ERROR_WSMAN_CLIENT_INVALID_LOCALE in wsmerror.h
+description: The WinRM client cannot process the request. The locale option is invalid.
+Change the locale and try again.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x80338194",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_client_invalid_locale/0x80338194/",
+  "numericCode": -2144108140,
+  "define": "ERROR_WSMAN_CLIENT_INVALID_LOCALE",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_client_invalid_locale/",
+  "message": "The WinRM client cannot process the request. The locale option is invalid.\r\nChange the locale and try again.",
+  "remarks": null,
+  "aka": [
+    "-2144108140"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_client_invalid_locale/-2144108140/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

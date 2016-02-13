@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_e_missing_disk\0x80042454\index.html.json
+
+title: 0x80042454 VDS_E_MISSING_DISK in vdserr.h
+description: The disk is missing.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x80042454",
+  "codeUrl": "/win32/vdserr-h/vds_e_missing_disk/0x80042454/",
+  "numericCode": -2147212204,
+  "define": "VDS_E_MISSING_DISK",
+  "defineUrl": "/win32/vdserr-h/vds_e_missing_disk/",
+  "message": "The disk is missing.",
+  "remarks": null,
+  "aka": [
+    "-2147212204"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_missing_disk/-2147212204/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

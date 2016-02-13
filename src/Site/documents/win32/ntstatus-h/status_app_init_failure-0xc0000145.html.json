@@ -1,0 +1,29 @@
+---
+output: win32\ntstatus-h\status_app_init_failure\0xc0000145\index.html.json
+
+title: 0xC0000145 STATUS_APP_INIT_FAILURE in ntstatus.h
+description: "{Application Error}
+The application was unable to start correctly (0x%lx). Click OK to close the application."
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000145",
+  "codeUrl": "/win32/ntstatus-h/status_app_init_failure/0xc0000145/",
+  "numericCode": -1073741499,
+  "define": "STATUS_APP_INIT_FAILURE",
+  "defineUrl": "/win32/ntstatus-h/status_app_init_failure/",
+  "message": "{Application Error}\r\nThe application was unable to start correctly (0x%lx). Click OK to close the application.",
+  "remarks": null,
+  "aka": [
+    "-1073741499"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_app_init_failure/-1073741499/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

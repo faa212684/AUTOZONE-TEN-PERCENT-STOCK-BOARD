@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\error_graphics_invalid_driver_model\0xc0262004\index.html.json
+
+title: 0xC0262004 ERROR_GRAPHICS_INVALID_DRIVER_MODEL in winerror.h
+description: The driver stack doesn't match the expected driver model.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0xC0262004",
+  "codeUrl": "/win32/winerror-h/error_graphics_invalid_driver_model/0xc0262004/",
+  "numericCode": -1071243260,
+  "define": "ERROR_GRAPHICS_INVALID_DRIVER_MODEL",
+  "defineUrl": "/win32/winerror-h/error_graphics_invalid_driver_model/",
+  "message": "The driver stack doesn't match the expected driver model.",
+  "remarks": null,
+  "aka": [
+    "-1071243260"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_graphics_invalid_driver_model/-1071243260/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

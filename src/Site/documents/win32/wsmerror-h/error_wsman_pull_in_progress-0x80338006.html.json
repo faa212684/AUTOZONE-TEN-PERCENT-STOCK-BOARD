@@ -1,0 +1,28 @@
+---
+output: win32\wsmerror-h\error_wsman_pull_in_progress\0x80338006\index.html.json
+
+title: 0x80338006 ERROR_WSMAN_PULL_IN_PROGRESS in wsmerror.h
+description: The WS-Management service cannot process a pull request because a pull operation is already in progress.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x80338006",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_pull_in_progress/0x80338006/",
+  "numericCode": -2144108538,
+  "define": "ERROR_WSMAN_PULL_IN_PROGRESS",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_pull_in_progress/",
+  "message": "The WS-Management service cannot process a pull request because a pull operation is already in progress.",
+  "remarks": null,
+  "aka": [
+    "-2144108538"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_pull_in_progress/-2144108538/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

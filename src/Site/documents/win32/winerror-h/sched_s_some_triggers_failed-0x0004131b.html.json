@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\sched_s_some_triggers_failed\0x0004131b\index.html.json
+
+title: 0x0004131B SCHED_S_SOME_TRIGGERS_FAILED in winerror.h
+description: The task is registered, but not all specified triggers will start the task, check task scheduler event log for detailed information.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x0004131B",
+  "codeUrl": "/win32/winerror-h/sched_s_some_triggers_failed/0x0004131b/",
+  "numericCode": 267035,
+  "define": "SCHED_S_SOME_TRIGGERS_FAILED",
+  "defineUrl": "/win32/winerror-h/sched_s_some_triggers_failed/",
+  "message": "The task is registered, but not all specified triggers will start the task, check task scheduler event log for detailed information.",
+  "remarks": null,
+  "aka": [
+    "267035"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/sched_s_some_triggers_failed/267035/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

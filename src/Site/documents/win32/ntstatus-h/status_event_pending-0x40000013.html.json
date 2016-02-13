@@ -1,0 +1,29 @@
+---
+output: win32\ntstatus-h\status_event_pending\0x40000013\index.html.json
+
+title: 0x40000013 STATUS_EVENT_PENDING in ntstatus.h
+description: "{TDI Event Pending}
+The TDI indication has entered the pending state."
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0x40000013",
+  "codeUrl": "/win32/ntstatus-h/status_event_pending/0x40000013/",
+  "numericCode": 1073741843,
+  "define": "STATUS_EVENT_PENDING",
+  "defineUrl": "/win32/ntstatus-h/status_event_pending/",
+  "message": "{TDI Event Pending}\r\nThe TDI indication has entered the pending state.",
+  "remarks": null,
+  "aka": [
+    "1073741843"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_event_pending/1073741843/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

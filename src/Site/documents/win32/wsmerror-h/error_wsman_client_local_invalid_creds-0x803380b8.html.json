@@ -1,0 +1,29 @@
+---
+output: win32\wsmerror-h\error_wsman_client_local_invalid_creds\0x803380b8\index.html.json
+
+title: 0x803380B8 ERROR_WSMAN_CLIENT_LOCAL_INVALID_CREDS in wsmerror.h
+description: The WinRM client cannot process the request. Credentials must not be provided for local requests.
+Remove the credentials and try the request again.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x803380B8",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_client_local_invalid_creds/0x803380b8/",
+  "numericCode": -2144108360,
+  "define": "ERROR_WSMAN_CLIENT_LOCAL_INVALID_CREDS",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_client_local_invalid_creds/",
+  "message": "The WinRM client cannot process the request. Credentials must not be provided for local requests.\r\nRemove the credentials and try the request again.",
+  "remarks": null,
+  "aka": [
+    "-2144108360"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_client_local_invalid_creds/-2144108360/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

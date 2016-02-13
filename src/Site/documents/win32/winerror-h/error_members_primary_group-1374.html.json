@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_members_primary_group\1374\index.html.json
+
+title: 1374 ERROR_MEMBERS_PRIMARY_GROUP in winerror.h
+description: The user cannot be removed from a group because the group is currently the user's primary group.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1374",
+  "codeUrl": "/win32/winerror-h/error_members_primary_group/1374/",
+  "numericCode": 1374,
+  "define": "ERROR_MEMBERS_PRIMARY_GROUP",
+  "defineUrl": "/win32/winerror-h/error_members_primary_group/",
+  "message": "The user cannot be removed from a group because the group is currently the user's primary group.",
+  "remarks": null,
+  "aka": [
+    "0x8007055e",
+    "-2147023522"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_members_primary_group/0x8007055e/",
+    "/win32/winerror-h/error_members_primary_group/-2147023522/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

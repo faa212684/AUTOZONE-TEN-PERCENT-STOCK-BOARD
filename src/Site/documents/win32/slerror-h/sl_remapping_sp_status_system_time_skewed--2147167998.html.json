@@ -1,0 +1,24 @@
+---
+output: win32\slerror-h\sl_remapping_sp_status_system_time_skewed\-2147167998\index.html.json
+canonical: /win32/slerror-h/sl_remapping_sp_status_system_time_skewed/0x8004d102/
+title: -2147167998 SL_REMAPPING_SP_STATUS_SYSTEM_TIME_SKEWED in slerror.h
+description: The security processor reported that the machine time is inconsistent with the trusted time.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "slerror.h",
+  "sourceUrl": "/win32/slerror-h/",
+  "code": "-2147167998",
+  "codeUrl": "/win32/slerror-h/sl_remapping_sp_status_system_time_skewed/-2147167998/",
+  "numericCode": 0,
+  "define": "SL_REMAPPING_SP_STATUS_SYSTEM_TIME_SKEWED",
+  "defineUrl": "/win32/slerror-h/sl_remapping_sp_status_system_time_skewed/",
+  "message": "The security processor reported that the machine time is inconsistent with the trusted time.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x8004D102",
+  "originalCodeUrl": "/win32/slerror-h/sl_remapping_sp_status_system_time_skewed/0x8004d102/"
+}

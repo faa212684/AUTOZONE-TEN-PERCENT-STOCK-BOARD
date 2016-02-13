@@ -1,0 +1,30 @@
+---
+output: win32\netevent-h\event_bowser_pdc_lost_election\0x40001f5b\index.html.json
+
+title: 0x40001F5B EVENT_BOWSER_PDC_LOST_ELECTION in netevent.h
+description: The browser running on the Domain Controller has lost an election.  The computer that won the election is %2, on the transport %3.%n
+The data contains the election version, election criteria, and remote computer time up, and the same information for
+the current computer.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x40001F5B",
+  "codeUrl": "/win32/netevent-h/event_bowser_pdc_lost_election/0x40001f5b/",
+  "numericCode": 1073749851,
+  "define": "EVENT_BOWSER_PDC_LOST_ELECTION",
+  "defineUrl": "/win32/netevent-h/event_bowser_pdc_lost_election/",
+  "message": "The browser running on the Domain Controller has lost an election.  The computer that won the election is %2, on the transport %3.%n\r\nThe data contains the election version, election criteria, and remote computer time up, and the same information for\r\nthe current computer.",
+  "remarks": null,
+  "aka": [
+    "1073749851"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_bowser_pdc_lost_election/1073749851/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

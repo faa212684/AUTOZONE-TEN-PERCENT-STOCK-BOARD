@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_cs_encryption_new_encrypted_file\0x80071784\index.html.json
+canonical: /win32/winerror-h/error_cs_encryption_new_encrypted_file/6020/
+title: 0x80071784 ERROR_CS_ENCRYPTION_NEW_ENCRYPTED_FILE in winerror.h
+description: A new encrypted file is being created and a $EFS needs to be provided.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80071784",
+  "codeUrl": "/win32/winerror-h/error_cs_encryption_new_encrypted_file/0x80071784/",
+  "numericCode": 0,
+  "define": "ERROR_CS_ENCRYPTION_NEW_ENCRYPTED_FILE",
+  "defineUrl": "/win32/winerror-h/error_cs_encryption_new_encrypted_file/",
+  "message": "A new encrypted file is being created and a $EFS needs to be provided.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "6020",
+  "originalCodeUrl": "/win32/winerror-h/error_cs_encryption_new_encrypted_file/6020/"
+}

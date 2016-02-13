@@ -1,0 +1,28 @@
+---
+output: win32\wsmerror-h\error_wsman_eventing_nomatching_listener\0x8033808f\index.html.json
+
+title: 0x8033808F ERROR_WSMAN_EVENTING_NOMATCHING_LISTENER in wsmerror.h
+description: The client could not start a valid listener to receive subscription events based on the specified input settings.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x8033808F",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_eventing_nomatching_listener/0x8033808f/",
+  "numericCode": -2144108401,
+  "define": "ERROR_WSMAN_EVENTING_NOMATCHING_LISTENER",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_eventing_nomatching_listener/",
+  "message": "The client could not start a valid listener to receive subscription events based on the specified input settings.",
+  "remarks": null,
+  "aka": [
+    "-2144108401"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_eventing_nomatching_listener/-2144108401/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ctx_client_license_not_set\7053\index.html.json
+
+title: 7053 ERROR_CTX_CLIENT_LICENSE_NOT_SET in winerror.h
+description: Your request to connect to this Terminal Server has been rejected. Your Terminal Server client license number has not been entered for this copy of the Terminal Server client. Please contact your system administrator.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "7053",
+  "codeUrl": "/win32/winerror-h/error_ctx_client_license_not_set/7053/",
+  "numericCode": 7053,
+  "define": "ERROR_CTX_CLIENT_LICENSE_NOT_SET",
+  "defineUrl": "/win32/winerror-h/error_ctx_client_license_not_set/",
+  "message": "Your request to connect to this Terminal Server has been rejected. Your Terminal Server client license number has not been entered for this copy of the Terminal Server client. Please contact your system administrator.",
+  "remarks": null,
+  "aka": [
+    "0x80071b8d",
+    "-2147017843"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ctx_client_license_not_set/0x80071b8d/",
+    "/win32/winerror-h/error_ctx_client_license_not_set/-2147017843/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

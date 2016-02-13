@@ -1,0 +1,28 @@
+---
+output: win32\wsmerror-h\error_wsman_cert_not_found\0x80338082\index.html.json
+
+title: 0x80338082 ERROR_WSMAN_CERT_NOT_FOUND in wsmerror.h
+description: The WS-Management service cannot find the certificate that was requested.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x80338082",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_cert_not_found/0x80338082/",
+  "numericCode": -2144108414,
+  "define": "ERROR_WSMAN_CERT_NOT_FOUND",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_cert_not_found/",
+  "message": "The WS-Management service cannot find the certificate that was requested.",
+  "remarks": null,
+  "aka": [
+    "-2144108414"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_cert_not_found/-2144108414/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

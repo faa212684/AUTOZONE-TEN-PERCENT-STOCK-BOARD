@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ds_cant_add_to_gc\8550\index.html.json
+
+title: 8550 ERROR_DS_CANT_ADD_TO_GC in winerror.h
+description: The attribute is not allowed to be replicated to the GC because of security reasons.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "8550",
+  "codeUrl": "/win32/winerror-h/error_ds_cant_add_to_gc/8550/",
+  "numericCode": 8550,
+  "define": "ERROR_DS_CANT_ADD_TO_GC",
+  "defineUrl": "/win32/winerror-h/error_ds_cant_add_to_gc/",
+  "message": "The attribute is not allowed to be replicated to the GC because of security reasons.",
+  "remarks": null,
+  "aka": [
+    "0x80072166",
+    "-2147016346"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ds_cant_add_to_gc/0x80072166/",
+    "/win32/winerror-h/error_ds_cant_add_to_gc/-2147016346/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

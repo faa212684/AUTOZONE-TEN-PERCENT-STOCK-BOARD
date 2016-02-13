@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\dns_error_alias_loop\0x800725fa\index.html.json
+canonical: /win32/winerror-h/dns_error_alias_loop/9722/
+title: 0x800725fa DNS_ERROR_ALIAS_LOOP in winerror.h
+description: An alias loop has been detected with either CNAME or DNAME records.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800725fa",
+  "codeUrl": "/win32/winerror-h/dns_error_alias_loop/0x800725fa/",
+  "numericCode": 0,
+  "define": "DNS_ERROR_ALIAS_LOOP",
+  "defineUrl": "/win32/winerror-h/dns_error_alias_loop/",
+  "message": "An alias loop has been detected with either CNAME or DNAME records.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "9722",
+  "originalCodeUrl": "/win32/winerror-h/dns_error_alias_loop/9722/"
+}

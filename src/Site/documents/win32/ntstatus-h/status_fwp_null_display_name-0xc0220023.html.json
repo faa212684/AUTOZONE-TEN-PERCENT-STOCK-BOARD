@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_fwp_null_display_name\0xc0220023\index.html.json
+
+title: 0xC0220023 STATUS_FWP_NULL_DISPLAY_NAME in ntstatus.h
+description: The displayData.name field cannot be null.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0220023",
+  "codeUrl": "/win32/ntstatus-h/status_fwp_null_display_name/0xc0220023/",
+  "numericCode": -1071513565,
+  "define": "STATUS_FWP_NULL_DISPLAY_NAME",
+  "defineUrl": "/win32/ntstatus-h/status_fwp_null_display_name/",
+  "message": "The displayData.name field cannot be null.",
+  "remarks": null,
+  "aka": [
+    "-1071513565"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_fwp_null_display_name/-1071513565/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

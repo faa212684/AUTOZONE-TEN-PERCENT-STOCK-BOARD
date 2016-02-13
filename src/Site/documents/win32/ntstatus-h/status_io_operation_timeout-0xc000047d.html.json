@@ -1,0 +1,29 @@
+---
+output: win32\ntstatus-h\status_io_operation_timeout\0xc000047d\index.html.json
+
+title: 0xC000047D STATUS_IO_OPERATION_TIMEOUT in ntstatus.h
+description: "{IO Operation Timeout}
+The specified I/O operation failed to complete within the expected time period."
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000047D",
+  "codeUrl": "/win32/ntstatus-h/status_io_operation_timeout/0xc000047d/",
+  "numericCode": -1073740675,
+  "define": "STATUS_IO_OPERATION_TIMEOUT",
+  "defineUrl": "/win32/ntstatus-h/status_io_operation_timeout/",
+  "message": "{IO Operation Timeout}\r\nThe specified I/O operation failed to complete within the expected time period.",
+  "remarks": null,
+  "aka": [
+    "-1073740675"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_io_operation_timeout/-1073740675/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

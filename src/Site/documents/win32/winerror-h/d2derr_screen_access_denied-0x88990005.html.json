@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\d2derr_screen_access_denied\0x88990005\index.html.json
+
+title: 0x88990005 D2DERR_SCREEN_ACCESS_DENIED in winerror.h
+description: Direct2D could not access the screen.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x88990005",
+  "codeUrl": "/win32/winerror-h/d2derr_screen_access_denied/0x88990005/",
+  "numericCode": -2003238907,
+  "define": "D2DERR_SCREEN_ACCESS_DENIED",
+  "defineUrl": "/win32/winerror-h/d2derr_screen_access_denied/",
+  "message": "Direct2D could not access the screen.",
+  "remarks": null,
+  "aka": [
+    "-2003238907"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/d2derr_screen_access_denied/-2003238907/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

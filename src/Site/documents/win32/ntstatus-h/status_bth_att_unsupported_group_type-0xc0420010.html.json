@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_bth_att_unsupported_group_type\0xc0420010\index.html.json
+
+title: 0xC0420010 STATUS_BTH_ATT_UNSUPPORTED_GROUP_TYPE in ntstatus.h
+description: The attribute type is not a supported grouping attribute as defined by a higher layer specification.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0420010",
+  "codeUrl": "/win32/ntstatus-h/status_bth_att_unsupported_group_type/0xc0420010/",
+  "numericCode": -1069416432,
+  "define": "STATUS_BTH_ATT_UNSUPPORTED_GROUP_TYPE",
+  "defineUrl": "/win32/ntstatus-h/status_bth_att_unsupported_group_type/",
+  "message": "The attribute type is not a supported grouping attribute as defined by a higher layer specification.",
+  "remarks": null,
+  "aka": [
+    "-1069416432"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_bth_att_unsupported_group_type/-1069416432/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

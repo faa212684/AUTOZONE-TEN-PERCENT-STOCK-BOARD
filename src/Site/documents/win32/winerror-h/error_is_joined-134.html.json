@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_is_joined\134\index.html.json
+
+title: 134 ERROR_IS_JOINED in winerror.h
+description: An attempt was made to use a JOIN or SUBST command on a drive that has already been joined.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "134",
+  "codeUrl": "/win32/winerror-h/error_is_joined/134/",
+  "numericCode": 134,
+  "define": "ERROR_IS_JOINED",
+  "defineUrl": "/win32/winerror-h/error_is_joined/",
+  "message": "An attempt was made to use a JOIN or SUBST command on a drive that has already been joined.",
+  "remarks": null,
+  "aka": [
+    "0x80070086",
+    "-2147024762"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_is_joined/0x80070086/",
+    "/win32/winerror-h/error_is_joined/-2147024762/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

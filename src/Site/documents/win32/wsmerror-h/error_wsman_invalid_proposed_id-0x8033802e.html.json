@@ -1,0 +1,28 @@
+---
+output: win32\wsmerror-h\error_wsman_invalid_proposed_id\0x8033802e\index.html.json
+
+title: 0x8033802E ERROR_WSMAN_INVALID_PROPOSED_ID in wsmerror.h
+description: The WS-Management service cannot process the request because the subscription ID is invalid.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x8033802E",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_invalid_proposed_id/0x8033802e/",
+  "numericCode": -2144108498,
+  "define": "ERROR_WSMAN_INVALID_PROPOSED_ID",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_invalid_proposed_id/",
+  "message": "The WS-Management service cannot process the request because the subscription ID is invalid.",
+  "remarks": null,
+  "aka": [
+    "-2144108498"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_invalid_proposed_id/-2144108498/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

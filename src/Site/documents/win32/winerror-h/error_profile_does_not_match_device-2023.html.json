@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_profile_does_not_match_device\2023\index.html.json
+
+title: 2023 ERROR_PROFILE_DOES_NOT_MATCH_DEVICE in winerror.h
+description: The specified profile is intended for a device of a different type than the specified device.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "2023",
+  "codeUrl": "/win32/winerror-h/error_profile_does_not_match_device/2023/",
+  "numericCode": 2023,
+  "define": "ERROR_PROFILE_DOES_NOT_MATCH_DEVICE",
+  "defineUrl": "/win32/winerror-h/error_profile_does_not_match_device/",
+  "message": "The specified profile is intended for a device of a different type than the specified device.",
+  "remarks": null,
+  "aka": [
+    "0x800707e7",
+    "-2147022873"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_profile_does_not_match_device/0x800707e7/",
+    "/win32/winerror-h/error_profile_does_not_match_device/-2147022873/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

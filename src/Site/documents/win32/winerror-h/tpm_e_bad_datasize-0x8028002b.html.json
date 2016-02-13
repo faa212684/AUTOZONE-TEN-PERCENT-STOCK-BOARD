@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\tpm_e_bad_datasize\0x8028002b\index.html.json
+
+title: 0x8028002B TPM_E_BAD_DATASIZE in winerror.h
+description: The size of the data (or blob) parameter is bad or inconsistent with the referenced key.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8028002B",
+  "codeUrl": "/win32/winerror-h/tpm_e_bad_datasize/0x8028002b/",
+  "numericCode": -2144862165,
+  "define": "TPM_E_BAD_DATASIZE",
+  "defineUrl": "/win32/winerror-h/tpm_e_bad_datasize/",
+  "message": "The size of the data (or blob) parameter is bad or inconsistent with the referenced key.",
+  "remarks": null,
+  "aka": [
+    "-2144862165"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/tpm_e_bad_datasize/-2144862165/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

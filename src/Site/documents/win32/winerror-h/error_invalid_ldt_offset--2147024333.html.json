@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_invalid_ldt_offset\-2147024333\index.html.json
+canonical: /win32/winerror-h/error_invalid_ldt_offset/563/
+title: -2147024333 ERROR_INVALID_LDT_OFFSET in winerror.h
+description: Indicates that the starting value for the LDT information was not an integral multiple of the selector size.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147024333",
+  "codeUrl": "/win32/winerror-h/error_invalid_ldt_offset/-2147024333/",
+  "numericCode": 0,
+  "define": "ERROR_INVALID_LDT_OFFSET",
+  "defineUrl": "/win32/winerror-h/error_invalid_ldt_offset/",
+  "message": "Indicates that the starting value for the LDT information was not an integral multiple of the selector size.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "563",
+  "originalCodeUrl": "/win32/winerror-h/error_invalid_ldt_offset/563/"
+}

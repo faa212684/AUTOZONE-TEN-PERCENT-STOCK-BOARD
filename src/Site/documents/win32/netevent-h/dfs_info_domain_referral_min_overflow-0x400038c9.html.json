@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\dfs_info_domain_referral_min_overflow\0x400038c9\index.html.json
+
+title: 0x400038C9 DFS_INFO_DOMAIN_REFERRAL_MIN_OVERFLOW in netevent.h
+description: DFS is requesting the client for a larger buffer for trusted domain information. Some Win98 clients may not be able to access DFS namespaces.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x400038C9",
+  "codeUrl": "/win32/netevent-h/dfs_info_domain_referral_min_overflow/0x400038c9/",
+  "numericCode": 1073756361,
+  "define": "DFS_INFO_DOMAIN_REFERRAL_MIN_OVERFLOW",
+  "defineUrl": "/win32/netevent-h/dfs_info_domain_referral_min_overflow/",
+  "message": "DFS is requesting the client for a larger buffer for trusted domain information. Some Win98 clients may not be able to access DFS namespaces.",
+  "remarks": null,
+  "aka": [
+    "1073756361"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/dfs_info_domain_referral_min_overflow/1073756361/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

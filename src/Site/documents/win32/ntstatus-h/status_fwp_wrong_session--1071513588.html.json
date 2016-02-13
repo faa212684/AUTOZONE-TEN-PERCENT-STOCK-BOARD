@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_fwp_wrong_session\-1071513588\index.html.json
+canonical: /win32/ntstatus-h/status_fwp_wrong_session/0xc022000c/
+title: -1071513588 STATUS_FWP_WRONG_SESSION in ntstatus.h
+description: The call was made from the wrong session so cannot be completed.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071513588",
+  "codeUrl": "/win32/ntstatus-h/status_fwp_wrong_session/-1071513588/",
+  "numericCode": 0,
+  "define": "STATUS_FWP_WRONG_SESSION",
+  "defineUrl": "/win32/ntstatus-h/status_fwp_wrong_session/",
+  "message": "The call was made from the wrong session so cannot be completed.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC022000C",
+  "originalCodeUrl": "/win32/ntstatus-h/status_fwp_wrong_session/0xc022000c/"
+}

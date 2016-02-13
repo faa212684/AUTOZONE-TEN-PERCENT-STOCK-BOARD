@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\rpc_nt_invalid_pipe_object\0xc003005c\index.html.json
+
+title: 0xC003005C RPC_NT_INVALID_PIPE_OBJECT in ntstatus.h
+description: The RPC pipe object is invalid or corrupted.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC003005C",
+  "codeUrl": "/win32/ntstatus-h/rpc_nt_invalid_pipe_object/0xc003005c/",
+  "numericCode": -1073545124,
+  "define": "RPC_NT_INVALID_PIPE_OBJECT",
+  "defineUrl": "/win32/ntstatus-h/rpc_nt_invalid_pipe_object/",
+  "message": "The RPC pipe object is invalid or corrupted.",
+  "remarks": null,
+  "aka": [
+    "-1073545124"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/rpc_nt_invalid_pipe_object/-1073545124/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

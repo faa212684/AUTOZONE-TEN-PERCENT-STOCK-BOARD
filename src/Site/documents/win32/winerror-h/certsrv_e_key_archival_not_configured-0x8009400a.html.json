@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\certsrv_e_key_archival_not_configured\0x8009400a\index.html.json
+
+title: 0x8009400A CERTSRV_E_KEY_ARCHIVAL_NOT_CONFIGURED in winerror.h
+description: Cannot archive private key. The certification authority is not configured for key archival.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8009400A",
+  "codeUrl": "/win32/winerror-h/certsrv_e_key_archival_not_configured/0x8009400a/",
+  "numericCode": -2146877430,
+  "define": "CERTSRV_E_KEY_ARCHIVAL_NOT_CONFIGURED",
+  "defineUrl": "/win32/winerror-h/certsrv_e_key_archival_not_configured/",
+  "message": "Cannot archive private key. The certification authority is not configured for key archival.",
+  "remarks": null,
+  "aka": [
+    "-2146877430"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/certsrv_e_key_archival_not_configured/-2146877430/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

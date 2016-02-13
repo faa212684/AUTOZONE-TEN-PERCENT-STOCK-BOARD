@@ -1,0 +1,39 @@
+---
+output: win32\netevent-h\event_frs_rmtco_time_skew\-1073728275\index.html.json
+canonical: /win32/netevent-h/event_frs_rmtco_time_skew/0xc00034ed/
+title: -1073728275 EVENT_FRS_RMTCO_TIME_SKEW in netevent.h
+description: The File Replication Service is unable to replicate from a partner computer
+because the event time associated with the file to be replicated is too far
+into the future.  It is %1 minutes greater than the current time.  This can
+happen if the system time on the partner computer was set incorrectly when
+the file was created or updated.  To preserve the integrity of the replica
+set this file update will not be performed or propagated further.
+%n
+%nThe file name is: "%2"
+%nThe connection to the partner computer is:
+%n  "%3"
+%n
+%nNote: If this time difference is close to a multiple of 60 minutes then it
+is likely that this file may have been created or updated on the partner
+computer while the computer was set to the incorrect time zone when its
+computer time was initially set.  Check that the timezone and time are
+correctly set on the partner computer.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "-1073728275",
+  "codeUrl": "/win32/netevent-h/event_frs_rmtco_time_skew/-1073728275/",
+  "numericCode": 0,
+  "define": "EVENT_FRS_RMTCO_TIME_SKEW",
+  "defineUrl": "/win32/netevent-h/event_frs_rmtco_time_skew/",
+  "message": "The File Replication Service is unable to replicate from a partner computer\r\nbecause the event time associated with the file to be replicated is too far\r\ninto the future.  It is %1 minutes greater than the current time.  This can\r\nhappen if the system time on the partner computer was set incorrectly when\r\nthe file was created or updated.  To preserve the integrity of the replica\r\nset this file update will not be performed or propagated further.\r\n%n\r\n%nThe file name is: \"%2\"\r\n%nThe connection to the partner computer is:\r\n%n  \"%3\"\r\n%n\r\n%nNote: If this time difference is close to a multiple of 60 minutes then it\r\nis likely that this file may have been created or updated on the partner\r\ncomputer while the computer was set to the incorrect time zone when its\r\ncomputer time was initially set.  Check that the timezone and time are\r\ncorrectly set on the partner computer.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC00034ED",
+  "originalCodeUrl": "/win32/netevent-h/event_frs_rmtco_time_skew/0xc00034ed/"
+}

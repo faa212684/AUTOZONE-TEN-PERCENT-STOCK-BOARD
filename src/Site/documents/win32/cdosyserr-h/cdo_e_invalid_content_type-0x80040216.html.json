@@ -1,0 +1,28 @@
+---
+output: win32\cdosyserr-h\cdo_e_invalid_content_type\0x80040216\index.html.json
+
+title: 0x80040216 CDO_E_INVALID_CONTENT_TYPE in CDOSysErr.h
+description: The content type was not valid in this context. For example, the root of an MHTML message must be an HTML document.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "CDOSysErr.h",
+  "sourceUrl": "/win32/cdosyserr-h/",
+  "code": "0x80040216",
+  "codeUrl": "/win32/cdosyserr-h/cdo_e_invalid_content_type/0x80040216/",
+  "numericCode": -2147220970,
+  "define": "CDO_E_INVALID_CONTENT_TYPE",
+  "defineUrl": "/win32/cdosyserr-h/cdo_e_invalid_content_type/",
+  "message": "The content type was not valid in this context. For example, the root of an MHTML message must be an HTML document.",
+  "remarks": null,
+  "aka": [
+    "-2147220970"
+  ],
+  "akaUrl": [
+    "/win32/cdosyserr-h/cdo_e_invalid_content_type/-2147220970/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_cred_requires_confirmation\-1073740736\index.html.json
+canonical: /win32/ntstatus-h/status_cred_requires_confirmation/0xc0000440/
+title: -1073740736 STATUS_CRED_REQUIRES_CONFIRMATION in ntstatus.h
+description: The requested credential requires confirmation.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073740736",
+  "codeUrl": "/win32/ntstatus-h/status_cred_requires_confirmation/-1073740736/",
+  "numericCode": 0,
+  "define": "STATUS_CRED_REQUIRES_CONFIRMATION",
+  "defineUrl": "/win32/ntstatus-h/status_cred_requires_confirmation/",
+  "message": "The requested credential requires confirmation.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000440",
+  "originalCodeUrl": "/win32/ntstatus-h/status_cred_requires_confirmation/0xc0000440/"
+}

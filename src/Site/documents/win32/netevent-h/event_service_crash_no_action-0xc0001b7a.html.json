@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_service_crash_no_action\0xc0001b7a\index.html.json
+
+title: 0xC0001B7A EVENT_SERVICE_CRASH_NO_ACTION in netevent.h
+description: The %1 service terminated unexpectedly.  It has done this %2 time(s).
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC0001B7A",
+  "codeUrl": "/win32/netevent-h/event_service_crash_no_action/0xc0001b7a/",
+  "numericCode": -1073734790,
+  "define": "EVENT_SERVICE_CRASH_NO_ACTION",
+  "defineUrl": "/win32/netevent-h/event_service_crash_no_action/",
+  "message": "The %1 service terminated unexpectedly.  It has done this %2 time(s).",
+  "remarks": null,
+  "aka": [
+    "-1073734790"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_service_crash_no_action/-1073734790/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

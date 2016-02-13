@@ -1,0 +1,28 @@
+---
+output: win32\ntdsbmsg-h\hrbadcheckpointsignature\0xc8000214\index.html.json
+
+title: 0xC8000214 hrBadCheckpointSignature in NtDsBMsg.h
+description: A checkpoint file is damaged.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "NtDsBMsg.h",
+  "sourceUrl": "/win32/ntdsbmsg-h/",
+  "code": "0xC8000214",
+  "codeUrl": "/win32/ntdsbmsg-h/hrbadcheckpointsignature/0xc8000214/",
+  "numericCode": -939523564,
+  "define": "hrBadCheckpointSignature",
+  "defineUrl": "/win32/ntdsbmsg-h/hrbadcheckpointsignature/",
+  "message": "A checkpoint file is damaged.",
+  "remarks": null,
+  "aka": [
+    "-939523564"
+  ],
+  "akaUrl": [
+    "/win32/ntdsbmsg-h/hrbadcheckpointsignature/-939523564/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

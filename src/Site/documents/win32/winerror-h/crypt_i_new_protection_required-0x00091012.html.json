@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\crypt_i_new_protection_required\0x00091012\index.html.json
+
+title: 0x00091012 CRYPT_I_NEW_PROTECTION_REQUIRED in winerror.h
+description: The protected data needs to be re-protected.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x00091012",
+  "codeUrl": "/win32/winerror-h/crypt_i_new_protection_required/0x00091012/",
+  "numericCode": 593938,
+  "define": "CRYPT_I_NEW_PROTECTION_REQUIRED",
+  "defineUrl": "/win32/winerror-h/crypt_i_new_protection_required/",
+  "message": "The protected data needs to be re-protected.",
+  "remarks": null,
+  "aka": [
+    "593938"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/crypt_i_new_protection_required/593938/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

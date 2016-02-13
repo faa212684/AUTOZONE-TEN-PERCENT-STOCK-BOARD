@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\milerr_qpc_time_went_backward\-2003304293\index.html.json
+canonical: /win32/winerror-h/milerr_qpc_time_went_backward/0x8898009b/
+title: -2003304293 MILERR_QPC_TIME_WENT_BACKWARD in winerror.h
+description: QueryPerformanceCounter returned a time in the past.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2003304293",
+  "codeUrl": "/win32/winerror-h/milerr_qpc_time_went_backward/-2003304293/",
+  "numericCode": 0,
+  "define": "MILERR_QPC_TIME_WENT_BACKWARD",
+  "defineUrl": "/win32/winerror-h/milerr_qpc_time_went_backward/",
+  "message": "QueryPerformanceCounter returned a time in the past.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x8898009B",
+  "originalCodeUrl": "/win32/winerror-h/milerr_qpc_time_went_backward/0x8898009b/"
+}

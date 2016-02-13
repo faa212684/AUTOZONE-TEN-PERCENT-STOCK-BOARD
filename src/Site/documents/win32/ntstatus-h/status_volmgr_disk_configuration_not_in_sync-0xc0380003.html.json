@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_volmgr_disk_configuration_not_in_sync\0xc0380003\index.html.json
+
+title: 0xC0380003 STATUS_VOLMGR_DISK_CONFIGURATION_NOT_IN_SYNC in ntstatus.h
+description: The configuration on the disk is not insync with the in-memory configuration.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0380003",
+  "codeUrl": "/win32/ntstatus-h/status_volmgr_disk_configuration_not_in_sync/0xc0380003/",
+  "numericCode": -1070071805,
+  "define": "STATUS_VOLMGR_DISK_CONFIGURATION_NOT_IN_SYNC",
+  "defineUrl": "/win32/ntstatus-h/status_volmgr_disk_configuration_not_in_sync/",
+  "message": "The configuration on the disk is not insync with the in-memory configuration.",
+  "remarks": null,
+  "aka": [
+    "-1070071805"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_volmgr_disk_configuration_not_in_sync/-1070071805/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

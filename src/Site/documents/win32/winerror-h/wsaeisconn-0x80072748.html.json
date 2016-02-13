@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\wsaeisconn\0x80072748\index.html.json
+canonical: /win32/winerror-h/wsaeisconn/10056/
+title: 0x80072748 WSAEISCONN in winerror.h
+description: A connect request was made on an already connected socket.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80072748",
+  "codeUrl": "/win32/winerror-h/wsaeisconn/0x80072748/",
+  "numericCode": 0,
+  "define": "WSAEISCONN",
+  "defineUrl": "/win32/winerror-h/wsaeisconn/",
+  "message": "A connect request was made on an already connected socket.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "10056",
+  "originalCodeUrl": "/win32/winerror-h/wsaeisconn/10056/"
+}

@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\error_dbg_create_process_failure_lockdown\0x80b00001\index.html.json
+
+title: 0x80B00001 ERROR_DBG_CREATE_PROCESS_FAILURE_LOCKDOWN in winerror.h
+description: Could not create new process from ARM architecture device.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80B00001",
+  "codeUrl": "/win32/winerror-h/error_dbg_create_process_failure_lockdown/0x80b00001/",
+  "numericCode": -2135949311,
+  "define": "ERROR_DBG_CREATE_PROCESS_FAILURE_LOCKDOWN",
+  "defineUrl": "/win32/winerror-h/error_dbg_create_process_failure_lockdown/",
+  "message": "Could not create new process from ARM architecture device.",
+  "remarks": null,
+  "aka": [
+    "-2135949311"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_dbg_create_process_failure_lockdown/-2135949311/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

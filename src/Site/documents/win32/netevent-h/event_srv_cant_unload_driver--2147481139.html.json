@@ -1,0 +1,24 @@
+---
+output: win32\netevent-h\event_srv_cant_unload_driver\-2147481139\index.html.json
+canonical: /win32/netevent-h/event_srv_cant_unload_driver/0x800009cd/
+title: -2147481139 EVENT_SRV_CANT_UNLOAD_DRIVER in netevent.h
+description: The server service was unable to unload the server driver.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "-2147481139",
+  "codeUrl": "/win32/netevent-h/event_srv_cant_unload_driver/-2147481139/",
+  "numericCode": 0,
+  "define": "EVENT_SRV_CANT_UNLOAD_DRIVER",
+  "defineUrl": "/win32/netevent-h/event_srv_cant_unload_driver/",
+  "message": "The server service was unable to unload the server driver.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x800009CD",
+  "originalCodeUrl": "/win32/netevent-h/event_srv_cant_unload_driver/0x800009cd/"
+}

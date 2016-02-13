@@ -1,0 +1,28 @@
+---
+output: win32\wsmerror-h\error_wsman_service_remote_access_disabled\0x803381dd\index.html.json
+
+title: 0x803381DD ERROR_WSMAN_SERVICE_REMOTE_ACCESS_DISABLED in wsmerror.h
+description: The WS-Management service is configured to not allow remote requests.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x803381DD",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_service_remote_access_disabled/0x803381dd/",
+  "numericCode": -2144108067,
+  "define": "ERROR_WSMAN_SERVICE_REMOTE_ACCESS_DISABLED",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_service_remote_access_disabled/",
+  "message": "The WS-Management service is configured to not allow remote requests.",
+  "remarks": null,
+  "aka": [
+    "-2144108067"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_service_remote_access_disabled/-2144108067/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

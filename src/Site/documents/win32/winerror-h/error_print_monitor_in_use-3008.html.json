@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_print_monitor_in_use\3008\index.html.json
+
+title: 3008 ERROR_PRINT_MONITOR_IN_USE in winerror.h
+description: The specified print monitor is currently in use.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "3008",
+  "codeUrl": "/win32/winerror-h/error_print_monitor_in_use/3008/",
+  "numericCode": 3008,
+  "define": "ERROR_PRINT_MONITOR_IN_USE",
+  "defineUrl": "/win32/winerror-h/error_print_monitor_in_use/",
+  "message": "The specified print monitor is currently in use.",
+  "remarks": null,
+  "aka": [
+    "0x80070bc0",
+    "-2147021888"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_print_monitor_in_use/0x80070bc0/",
+    "/win32/winerror-h/error_print_monitor_in_use/-2147021888/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,30 @@
+---
+output: win32\windowssearcherrors-h\event_sssearch_create_path_rules_failed\0x800003f6\index.html.json
+
+title: 0x800003F6 EVENT_SSSEARCH_CREATE_PATH_RULES_FAILED in WindowsSearchErrors.h
+description: The Windows Search Service has failed to create one or more path rules. 
+The service will continue creating the SystemIndex search index. 
+Debug information: <%2>. %1
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "0x800003F6",
+  "codeUrl": "/win32/windowssearcherrors-h/event_sssearch_create_path_rules_failed/0x800003f6/",
+  "numericCode": -2147482634,
+  "define": "EVENT_SSSEARCH_CREATE_PATH_RULES_FAILED",
+  "defineUrl": "/win32/windowssearcherrors-h/event_sssearch_create_path_rules_failed/",
+  "message": "The Windows Search Service has failed to create one or more path rules. \r\nThe service will continue creating the SystemIndex search index. \r\nDebug information: <%2>. %1",
+  "remarks": null,
+  "aka": [
+    "-2147482634"
+  ],
+  "akaUrl": [
+    "/win32/windowssearcherrors-h/event_sssearch_create_path_rules_failed/-2147482634/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

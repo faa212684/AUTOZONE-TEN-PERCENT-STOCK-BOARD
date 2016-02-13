@@ -1,0 +1,32 @@
+---
+output: win32\winerror-h\error_lost_writebehind_data_local_disk_error\790\index.html.json
+
+title: 790 ERROR_LOST_WRITEBEHIND_DATA_LOCAL_DISK_ERROR in winerror.h
+description: "{Delayed Write Failed}
+Windows was unable to save all the data for the file %hs; the data has been lost.
+This error may be caused if the device has been removed or the media is write-protected."
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "790",
+  "codeUrl": "/win32/winerror-h/error_lost_writebehind_data_local_disk_error/790/",
+  "numericCode": 790,
+  "define": "ERROR_LOST_WRITEBEHIND_DATA_LOCAL_DISK_ERROR",
+  "defineUrl": "/win32/winerror-h/error_lost_writebehind_data_local_disk_error/",
+  "message": "{Delayed Write Failed}\r\nWindows was unable to save all the data for the file %hs; the data has been lost.\r\nThis error may be caused if the device has been removed or the media is write-protected.",
+  "remarks": null,
+  "aka": [
+    "0x80070316",
+    "-2147024106"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_lost_writebehind_data_local_disk_error/0x80070316/",
+    "/win32/winerror-h/error_lost_writebehind_data_local_disk_error/-2147024106/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

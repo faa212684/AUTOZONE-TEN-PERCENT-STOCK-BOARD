@@ -1,0 +1,25 @@
+---
+output: win32\vdserr-h\vds_e_disk_not_convertible\-2147211943\index.html.json
+canonical: /win32/vdserr-h/vds_e_disk_not_convertible/0x80042559/
+title: -2147211943 VDS_E_DISK_NOT_CONVERTIBLE in vdserr.h
+description: The specified disk is not convertible. CDROMs and DVDs 
+are examples of disks that are not convertable.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "-2147211943",
+  "codeUrl": "/win32/vdserr-h/vds_e_disk_not_convertible/-2147211943/",
+  "numericCode": 0,
+  "define": "VDS_E_DISK_NOT_CONVERTIBLE",
+  "defineUrl": "/win32/vdserr-h/vds_e_disk_not_convertible/",
+  "message": "The specified disk is not convertible. CDROMs and DVDs \r\nare examples of disks that are not convertable.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80042559",
+  "originalCodeUrl": "/win32/vdserr-h/vds_e_disk_not_convertible/0x80042559/"
+}

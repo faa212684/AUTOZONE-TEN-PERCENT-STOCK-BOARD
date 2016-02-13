@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\error_graphics_pvp_invalid_certificate_length\0xc026250e\index.html.json
+
+title: 0xC026250E ERROR_GRAPHICS_PVP_INVALID_CERTIFICATE_LENGTH in winerror.h
+description: A certificate could not be returned because the certificate buffer passed to the function was too small.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0xC026250E",
+  "codeUrl": "/win32/winerror-h/error_graphics_pvp_invalid_certificate_length/0xc026250e/",
+  "numericCode": -1071241970,
+  "define": "ERROR_GRAPHICS_PVP_INVALID_CERTIFICATE_LENGTH",
+  "defineUrl": "/win32/winerror-h/error_graphics_pvp_invalid_certificate_length/",
+  "message": "A certificate could not be returned because the certificate buffer passed to the function was too small.",
+  "remarks": null,
+  "aka": [
+    "-1071241970"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_graphics_pvp_invalid_certificate_length/-1071241970/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

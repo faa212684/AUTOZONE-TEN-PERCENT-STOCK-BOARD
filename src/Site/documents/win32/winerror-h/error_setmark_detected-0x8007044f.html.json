@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_setmark_detected\0x8007044f\index.html.json
+canonical: /win32/winerror-h/error_setmark_detected/1103/
+title: 0x8007044f ERROR_SETMARK_DETECTED in winerror.h
+description: A tape access reached the end of a set of files.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007044f",
+  "codeUrl": "/win32/winerror-h/error_setmark_detected/0x8007044f/",
+  "numericCode": 0,
+  "define": "ERROR_SETMARK_DETECTED",
+  "defineUrl": "/win32/winerror-h/error_setmark_detected/",
+  "message": "A tape access reached the end of a set of files.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "1103",
+  "originalCodeUrl": "/win32/winerror-h/error_setmark_detected/1103/"
+}

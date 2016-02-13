@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_crm_protocol_already_exists\0xc019000f\index.html.json
+
+title: 0xC019000F STATUS_CRM_PROTOCOL_ALREADY_EXISTS in ntstatus.h
+description: The RM tried to register a protocol that already exists.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC019000F",
+  "codeUrl": "/win32/ntstatus-h/status_crm_protocol_already_exists/0xc019000f/",
+  "numericCode": -1072103409,
+  "define": "STATUS_CRM_PROTOCOL_ALREADY_EXISTS",
+  "defineUrl": "/win32/ntstatus-h/status_crm_protocol_already_exists/",
+  "message": "The RM tried to register a protocol that already exists.",
+  "remarks": null,
+  "aka": [
+    "-1072103409"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_crm_protocol_already_exists/-1072103409/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

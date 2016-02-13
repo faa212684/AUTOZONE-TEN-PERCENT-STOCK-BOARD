@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_wmi_not_supported\0xc00002dd\index.html.json
+
+title: 0xC00002DD STATUS_WMI_NOT_SUPPORTED in ntstatus.h
+description: The WMI operation is not supported by the data block or method.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC00002DD",
+  "codeUrl": "/win32/ntstatus-h/status_wmi_not_supported/0xc00002dd/",
+  "numericCode": -1073741091,
+  "define": "STATUS_WMI_NOT_SUPPORTED",
+  "defineUrl": "/win32/ntstatus-h/status_wmi_not_supported/",
+  "message": "The WMI operation is not supported by the data block or method.",
+  "remarks": null,
+  "aka": [
+    "-1073741091"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_wmi_not_supported/-1073741091/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

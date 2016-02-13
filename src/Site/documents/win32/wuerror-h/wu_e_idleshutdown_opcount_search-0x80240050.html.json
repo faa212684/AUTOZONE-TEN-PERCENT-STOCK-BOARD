@@ -1,0 +1,28 @@
+---
+output: win32\wuerror-h\wu_e_idleshutdown_opcount_search\0x80240050\index.html.json
+
+title: 0x80240050 WU_E_IDLESHUTDOWN_OPCOUNT_SEARCH in wuerror.h
+description: A search call contributed to a non-zero operation count at idle timer shutdown.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wuerror.h",
+  "sourceUrl": "/win32/wuerror-h/",
+  "code": "0x80240050",
+  "codeUrl": "/win32/wuerror-h/wu_e_idleshutdown_opcount_search/0x80240050/",
+  "numericCode": -2145124272,
+  "define": "WU_E_IDLESHUTDOWN_OPCOUNT_SEARCH",
+  "defineUrl": "/win32/wuerror-h/wu_e_idleshutdown_opcount_search/",
+  "message": "A search call contributed to a non-zero operation count at idle timer shutdown.",
+  "remarks": null,
+  "aka": [
+    "-2145124272"
+  ],
+  "akaUrl": [
+    "/win32/wuerror-h/wu_e_idleshutdown_opcount_search/-2145124272/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

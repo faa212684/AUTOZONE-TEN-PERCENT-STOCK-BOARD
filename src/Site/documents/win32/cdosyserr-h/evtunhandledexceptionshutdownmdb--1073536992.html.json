@@ -1,0 +1,25 @@
+---
+output: win32\cdosyserr-h\evtunhandledexceptionshutdownmdb\-1073536992\index.html.json
+canonical: /win32/cdosyserr-h/evtunhandledexceptionshutdownmdb/0xc0032020/
+title: -1073536992 evtUnhandledExceptionShutdownMDB in CDOSysErr.h
+description: Unhandled exception %1 caught trying to stop server agents while an MDB is unmounted.
+%n%nFor more information, click http:www.microsoft.com/contentredirect.asp.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "CDOSysErr.h",
+  "sourceUrl": "/win32/cdosyserr-h/",
+  "code": "-1073536992",
+  "codeUrl": "/win32/cdosyserr-h/evtunhandledexceptionshutdownmdb/-1073536992/",
+  "numericCode": 0,
+  "define": "evtUnhandledExceptionShutdownMDB",
+  "defineUrl": "/win32/cdosyserr-h/evtunhandledexceptionshutdownmdb/",
+  "message": "Unhandled exception %1 caught trying to stop server agents while an MDB is unmounted.\r\n%n%nFor more information, click http:www.microsoft.com/contentredirect.asp.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0032020",
+  "originalCodeUrl": "/win32/cdosyserr-h/evtunhandledexceptionshutdownmdb/0xc0032020/"
+}

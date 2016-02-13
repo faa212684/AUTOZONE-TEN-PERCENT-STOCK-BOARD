@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_txf_attribute_corrupt\0xc019003d\index.html.json
+
+title: 0xC019003D STATUS_TXF_ATTRIBUTE_CORRUPT in ntstatus.h
+description: The transactional metadata attribute on the file or directory %hs is corrupt and unreadable.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC019003D",
+  "codeUrl": "/win32/ntstatus-h/status_txf_attribute_corrupt/0xc019003d/",
+  "numericCode": -1072103363,
+  "define": "STATUS_TXF_ATTRIBUTE_CORRUPT",
+  "defineUrl": "/win32/ntstatus-h/status_txf_attribute_corrupt/",
+  "message": "The transactional metadata attribute on the file or directory %hs is corrupt and unreadable.",
+  "remarks": null,
+  "aka": [
+    "-1072103363"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_txf_attribute_corrupt/-1072103363/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

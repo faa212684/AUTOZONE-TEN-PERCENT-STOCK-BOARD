@@ -1,0 +1,29 @@
+---
+output: win32\wsmerror-h\error_wsman_client_multiple_enum_mode_flags\0x8033811f\index.html.json
+
+title: 0x8033811F ERROR_WSMAN_CLIENT_MULTIPLE_ENUM_MODE_FLAGS in wsmerror.h
+description: The WinRM client cannot process the request. The request must contain one and only one enumeration mode.
+Change the request to contain only one enumeration mode and try again.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x8033811F",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_client_multiple_enum_mode_flags/0x8033811f/",
+  "numericCode": -2144108257,
+  "define": "ERROR_WSMAN_CLIENT_MULTIPLE_ENUM_MODE_FLAGS",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_client_multiple_enum_mode_flags/",
+  "message": "The WinRM client cannot process the request. The request must contain one and only one enumeration mode.\r\nChange the request to contain only one enumeration mode and try again.",
+  "remarks": null,
+  "aka": [
+    "-2144108257"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_client_multiple_enum_mode_flags/-2144108257/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

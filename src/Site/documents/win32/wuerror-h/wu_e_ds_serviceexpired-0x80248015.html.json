@@ -1,0 +1,28 @@
+---
+output: win32\wuerror-h\wu_e_ds_serviceexpired\0x80248015\index.html.json
+
+title: 0x80248015 WU_E_DS_SERVICEEXPIRED in wuerror.h
+description: An operation did not complete because the registration of the service has expired.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wuerror.h",
+  "sourceUrl": "/win32/wuerror-h/",
+  "code": "0x80248015",
+  "codeUrl": "/win32/wuerror-h/wu_e_ds_serviceexpired/0x80248015/",
+  "numericCode": -2145091563,
+  "define": "WU_E_DS_SERVICEEXPIRED",
+  "defineUrl": "/win32/wuerror-h/wu_e_ds_serviceexpired/",
+  "message": "An operation did not complete because the registration of the service has expired.",
+  "remarks": null,
+  "aka": [
+    "-2145091563"
+  ],
+  "akaUrl": [
+    "/win32/wuerror-h/wu_e_ds_serviceexpired/-2145091563/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

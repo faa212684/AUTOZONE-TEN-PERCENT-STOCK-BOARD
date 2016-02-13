@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_app_data_limit_exceeded\-1073700220\index.html.json
+canonical: /win32/ntstatus-h/status_app_data_limit_exceeded/0xc000a284/
+title: -1073700220 STATUS_APP_DATA_LIMIT_EXCEEDED in ntstatus.h
+description: Fast Cache data has exceeded its max size and cannot be updated.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073700220",
+  "codeUrl": "/win32/ntstatus-h/status_app_data_limit_exceeded/-1073700220/",
+  "numericCode": 0,
+  "define": "STATUS_APP_DATA_LIMIT_EXCEEDED",
+  "defineUrl": "/win32/ntstatus-h/status_app_data_limit_exceeded/",
+  "message": "Fast Cache data has exceeded its max size and cannot be updated.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC000A284",
+  "originalCodeUrl": "/win32/ntstatus-h/status_app_data_limit_exceeded/0xc000a284/"
+}

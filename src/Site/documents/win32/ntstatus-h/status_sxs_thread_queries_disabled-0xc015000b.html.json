@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_sxs_thread_queries_disabled\0xc015000b\index.html.json
+
+title: 0xC015000B STATUS_SXS_THREAD_QUERIES_DISABLED in ntstatus.h
+description: Lack of system resources has required isolated activation to be disabled for the current thread of execution.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC015000B",
+  "codeUrl": "/win32/ntstatus-h/status_sxs_thread_queries_disabled/0xc015000b/",
+  "numericCode": -1072365557,
+  "define": "STATUS_SXS_THREAD_QUERIES_DISABLED",
+  "defineUrl": "/win32/ntstatus-h/status_sxs_thread_queries_disabled/",
+  "message": "Lack of system resources has required isolated activation to be disabled for the current thread of execution.",
+  "remarks": null,
+  "aka": [
+    "-1072365557"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_sxs_thread_queries_disabled/-1072365557/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

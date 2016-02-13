@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_evt_event_definition_not_found\0x80073ab8\index.html.json
+canonical: /win32/winerror-h/error_evt_event_definition_not_found/15032/
+title: 0x80073ab8 ERROR_EVT_EVENT_DEFINITION_NOT_FOUND in winerror.h
+description: The event definition could not be found for event id (%1).
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80073ab8",
+  "codeUrl": "/win32/winerror-h/error_evt_event_definition_not_found/0x80073ab8/",
+  "numericCode": 0,
+  "define": "ERROR_EVT_EVENT_DEFINITION_NOT_FOUND",
+  "defineUrl": "/win32/winerror-h/error_evt_event_definition_not_found/",
+  "message": "The event definition could not be found for event id (%1).",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "15032",
+  "originalCodeUrl": "/win32/winerror-h/error_evt_event_definition_not_found/15032/"
+}

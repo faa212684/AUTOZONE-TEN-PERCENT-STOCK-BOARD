@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\rpc_nt_not_rpc_error\0xc0020055\index.html.json
+
+title: 0xC0020055 RPC_NT_NOT_RPC_ERROR in ntstatus.h
+description: The error specified is not a valid Windows RPC error code.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0020055",
+  "codeUrl": "/win32/ntstatus-h/rpc_nt_not_rpc_error/0xc0020055/",
+  "numericCode": -1073610667,
+  "define": "RPC_NT_NOT_RPC_ERROR",
+  "defineUrl": "/win32/ntstatus-h/rpc_nt_not_rpc_error/",
+  "message": "The error specified is not a valid Windows RPC error code.",
+  "remarks": null,
+  "aka": [
+    "-1073610667"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/rpc_nt_not_rpc_error/-1073610667/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

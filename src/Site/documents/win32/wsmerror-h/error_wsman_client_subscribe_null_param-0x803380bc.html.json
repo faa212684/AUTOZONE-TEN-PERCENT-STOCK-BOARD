@@ -1,0 +1,29 @@
+---
+output: win32\wsmerror-h\error_wsman_client_subscribe_null_param\0x803380bc\index.html.json
+
+title: 0x803380BC ERROR_WSMAN_CLIENT_SUBSCRIBE_NULL_PARAM in wsmerror.h
+description: The WinRM client cannot process the request. One of the parameters required for the WSManSubscribe function is null or zero.
+Change the request to include the missing parameter and try again.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x803380BC",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_client_subscribe_null_param/0x803380bc/",
+  "numericCode": -2144108356,
+  "define": "ERROR_WSMAN_CLIENT_SUBSCRIBE_NULL_PARAM",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_client_subscribe_null_param/",
+  "message": "The WinRM client cannot process the request. One of the parameters required for the WSManSubscribe function is null or zero.\r\nChange the request to include the missing parameter and try again.",
+  "remarks": null,
+  "aka": [
+    "-2144108356"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_client_subscribe_null_param/-2144108356/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

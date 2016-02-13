@@ -1,0 +1,28 @@
+---
+output: win32\oledberr-h\db_e_abortlimitreached\0x80040e31\index.html.json
+
+title: 0x80040E31 DB_E_ABORTLIMITREACHED in oledberr.h
+description: Execution stopped because a resource limit was reached. No results were returned.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "oledberr.h",
+  "sourceUrl": "/win32/oledberr-h/",
+  "code": "0x80040E31",
+  "codeUrl": "/win32/oledberr-h/db_e_abortlimitreached/0x80040e31/",
+  "numericCode": -2147217871,
+  "define": "DB_E_ABORTLIMITREACHED",
+  "defineUrl": "/win32/oledberr-h/db_e_abortlimitreached/",
+  "message": "Execution stopped because a resource limit was reached. No results were returned.",
+  "remarks": null,
+  "aka": [
+    "-2147217871"
+  ],
+  "akaUrl": [
+    "/win32/oledberr-h/db_e_abortlimitreached/-2147217871/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

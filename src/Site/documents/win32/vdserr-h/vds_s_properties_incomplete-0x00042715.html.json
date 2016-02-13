@@ -1,0 +1,29 @@
+---
+output: win32\vdserr-h\vds_s_properties_incomplete\0x00042715\index.html.json
+
+title: 0x00042715 VDS_S_PROPERTIES_INCOMPLETE in vdserr.h
+description: Unable to retrieve all properties for this object. 
+Some attributes may be incomplete or missing.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x00042715",
+  "codeUrl": "/win32/vdserr-h/vds_s_properties_incomplete/0x00042715/",
+  "numericCode": 272149,
+  "define": "VDS_S_PROPERTIES_INCOMPLETE",
+  "defineUrl": "/win32/vdserr-h/vds_s_properties_incomplete/",
+  "message": "Unable to retrieve all properties for this object. \r\nSome attributes may be incomplete or missing.",
+  "remarks": null,
+  "aka": [
+    "272149"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_s_properties_incomplete/272149/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

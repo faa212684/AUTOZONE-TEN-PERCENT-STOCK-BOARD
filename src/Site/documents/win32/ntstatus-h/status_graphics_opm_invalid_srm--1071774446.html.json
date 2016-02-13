@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_graphics_opm_invalid_srm\-1071774446\index.html.json
+canonical: /win32/ntstatus-h/status_graphics_opm_invalid_srm/0xc01e0512/
+title: -1071774446 STATUS_GRAPHICS_OPM_INVALID_SRM in ntstatus.h
+description: The HDCP System Renewability Message passed to this function did not comply with section 5 of the HDCP 1.1 specification.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071774446",
+  "codeUrl": "/win32/ntstatus-h/status_graphics_opm_invalid_srm/-1071774446/",
+  "numericCode": 0,
+  "define": "STATUS_GRAPHICS_OPM_INVALID_SRM",
+  "defineUrl": "/win32/ntstatus-h/status_graphics_opm_invalid_srm/",
+  "message": "The HDCP System Renewability Message passed to this function did not comply with section 5 of the HDCP 1.1 specification.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC01E0512",
+  "originalCodeUrl": "/win32/ntstatus-h/status_graphics_opm_invalid_srm/0xc01e0512/"
+}

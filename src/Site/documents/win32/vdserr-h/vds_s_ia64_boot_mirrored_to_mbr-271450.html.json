@@ -1,0 +1,25 @@
+---
+output: win32\vdserr-h\vds_s_ia64_boot_mirrored_to_mbr\271450\index.html.json
+canonical: /win32/vdserr-h/vds_s_ia64_boot_mirrored_to_mbr/0x0004245a/
+title: 271450 VDS_S_IA64_BOOT_MIRRORED_TO_MBR in vdserr.h
+description: You have mirrored your boot volume on a GPT disk, to an MBR disk. 
+You will not be able to boot your machine from the secondary plex.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "271450",
+  "codeUrl": "/win32/vdserr-h/vds_s_ia64_boot_mirrored_to_mbr/271450/",
+  "numericCode": 0,
+  "define": "VDS_S_IA64_BOOT_MIRRORED_TO_MBR",
+  "defineUrl": "/win32/vdserr-h/vds_s_ia64_boot_mirrored_to_mbr/",
+  "message": "You have mirrored your boot volume on a GPT disk, to an MBR disk. \r\nYou will not be able to boot your machine from the secondary plex.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x0004245A",
+  "originalCodeUrl": "/win32/vdserr-h/vds_s_ia64_boot_mirrored_to_mbr/0x0004245a/"
+}

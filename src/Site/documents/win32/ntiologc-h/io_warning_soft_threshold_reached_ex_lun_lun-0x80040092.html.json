@@ -1,0 +1,28 @@
+---
+output: win32\ntiologc-h\io_warning_soft_threshold_reached_ex_lun_lun\0x80040092\index.html.json
+
+title: 0x80040092 IO_WARNING_SOFT_THRESHOLD_REACHED_EX_LUN_LUN in ntiologc.h
+description: Disk %2 has crossed a capacity utilization threshold and used %3 bytes. When the threshold was crossed, the disk had %4 bytes of remaining capacity.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntiologc.h",
+  "sourceUrl": "/win32/ntiologc-h/",
+  "code": "0x80040092",
+  "codeUrl": "/win32/ntiologc-h/io_warning_soft_threshold_reached_ex_lun_lun/0x80040092/",
+  "numericCode": -2147221358,
+  "define": "IO_WARNING_SOFT_THRESHOLD_REACHED_EX_LUN_LUN",
+  "defineUrl": "/win32/ntiologc-h/io_warning_soft_threshold_reached_ex_lun_lun/",
+  "message": "Disk %2 has crossed a capacity utilization threshold and used %3 bytes. When the threshold was crossed, the disk had %4 bytes of remaining capacity.",
+  "remarks": null,
+  "aka": [
+    "-2147221358"
+  ],
+  "akaUrl": [
+    "/win32/ntiologc-h/io_warning_soft_threshold_reached_ex_lun_lun/-2147221358/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

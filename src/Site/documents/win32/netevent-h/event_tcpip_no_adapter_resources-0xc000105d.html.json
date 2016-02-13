@@ -1,0 +1,29 @@
+---
+output: win32\netevent-h\event_tcpip_no_adapter_resources\0xc000105d\index.html.json
+
+title: 0xC000105D EVENT_TCPIP_NO_ADAPTER_RESOURCES in netevent.h
+description: IP could not allocate some resources required to configure network adapter %2.
+Some interfaces on this network adapter will not be initialized.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC000105D",
+  "codeUrl": "/win32/netevent-h/event_tcpip_no_adapter_resources/0xc000105d/",
+  "numericCode": -1073737635,
+  "define": "EVENT_TCPIP_NO_ADAPTER_RESOURCES",
+  "defineUrl": "/win32/netevent-h/event_tcpip_no_adapter_resources/",
+  "message": "IP could not allocate some resources required to configure network adapter %2.\r\nSome interfaces on this network adapter will not be initialized.",
+  "remarks": null,
+  "aka": [
+    "-1073737635"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_tcpip_no_adapter_resources/-1073737635/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

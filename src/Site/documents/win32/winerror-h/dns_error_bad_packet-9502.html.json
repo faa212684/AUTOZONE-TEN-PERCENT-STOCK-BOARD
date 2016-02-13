@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\dns_error_bad_packet\9502\index.html.json
+
+title: 9502 DNS_ERROR_BAD_PACKET in winerror.h
+description: Bad DNS packet.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "9502",
+  "codeUrl": "/win32/winerror-h/dns_error_bad_packet/9502/",
+  "numericCode": 9502,
+  "define": "DNS_ERROR_BAD_PACKET",
+  "defineUrl": "/win32/winerror-h/dns_error_bad_packet/",
+  "message": "Bad DNS packet.",
+  "remarks": null,
+  "aka": [
+    "0x8007251e",
+    "-2147015394"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/dns_error_bad_packet/0x8007251e/",
+    "/win32/winerror-h/dns_error_bad_packet/-2147015394/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

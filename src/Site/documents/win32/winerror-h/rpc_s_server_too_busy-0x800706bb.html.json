@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\rpc_s_server_too_busy\0x800706bb\index.html.json
+canonical: /win32/winerror-h/rpc_s_server_too_busy/1723/
+title: 0x800706bb RPC_S_SERVER_TOO_BUSY in winerror.h
+description: The RPC server is too busy to complete this operation.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800706bb",
+  "codeUrl": "/win32/winerror-h/rpc_s_server_too_busy/0x800706bb/",
+  "numericCode": 0,
+  "define": "RPC_S_SERVER_TOO_BUSY",
+  "defineUrl": "/win32/winerror-h/rpc_s_server_too_busy/",
+  "message": "The RPC server is too busy to complete this operation.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "1723",
+  "originalCodeUrl": "/win32/winerror-h/rpc_s_server_too_busy/1723/"
+}

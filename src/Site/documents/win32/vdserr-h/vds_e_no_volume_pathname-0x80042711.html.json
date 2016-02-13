@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_e_no_volume_pathname\0x80042711\index.html.json
+
+title: 0x80042711 VDS_E_NO_VOLUME_PATHNAME in vdserr.h
+description: Failed to retrieve the volume's pathname.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x80042711",
+  "codeUrl": "/win32/vdserr-h/vds_e_no_volume_pathname/0x80042711/",
+  "numericCode": -2147211503,
+  "define": "VDS_E_NO_VOLUME_PATHNAME",
+  "defineUrl": "/win32/vdserr-h/vds_e_no_volume_pathname/",
+  "message": "Failed to retrieve the volume's pathname.",
+  "remarks": null,
+  "aka": [
+    "-2147211503"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_no_volume_pathname/-2147211503/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

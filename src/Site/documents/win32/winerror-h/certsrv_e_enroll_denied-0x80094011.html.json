@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\certsrv_e_enroll_denied\0x80094011\index.html.json
+
+title: 0x80094011 CERTSRV_E_ENROLL_DENIED in winerror.h
+description: The permissions on this certification authority do not allow the current user to enroll for certificates.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80094011",
+  "codeUrl": "/win32/winerror-h/certsrv_e_enroll_denied/0x80094011/",
+  "numericCode": -2146877423,
+  "define": "CERTSRV_E_ENROLL_DENIED",
+  "defineUrl": "/win32/winerror-h/certsrv_e_enroll_denied/",
+  "message": "The permissions on this certification authority do not allow the current user to enroll for certificates.",
+  "remarks": null,
+  "aka": [
+    "-2146877423"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/certsrv_e_enroll_denied/-2146877423/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

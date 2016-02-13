@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_domain_ctrlr_config_error\0xc000015e\index.html.json
+
+title: 0xC000015E STATUS_DOMAIN_CTRLR_CONFIG_ERROR in ntstatus.h
+description: A Windows Server has an incorrect configuration.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000015E",
+  "codeUrl": "/win32/ntstatus-h/status_domain_ctrlr_config_error/0xc000015e/",
+  "numericCode": -1073741474,
+  "define": "STATUS_DOMAIN_CTRLR_CONFIG_ERROR",
+  "defineUrl": "/win32/ntstatus-h/status_domain_ctrlr_config_error/",
+  "message": "A Windows Server has an incorrect configuration.",
+  "remarks": null,
+  "aka": [
+    "-1073741474"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_domain_ctrlr_config_error/-1073741474/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_too_many_posts\298\index.html.json
+
+title: 298 ERROR_TOO_MANY_POSTS in winerror.h
+description: Too many posts were made to a semaphore.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "298",
+  "codeUrl": "/win32/winerror-h/error_too_many_posts/298/",
+  "numericCode": 298,
+  "define": "ERROR_TOO_MANY_POSTS",
+  "defineUrl": "/win32/winerror-h/error_too_many_posts/",
+  "message": "Too many posts were made to a semaphore.",
+  "remarks": null,
+  "aka": [
+    "0x8007012a",
+    "-2147024598"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_too_many_posts/0x8007012a/",
+    "/win32/winerror-h/error_too_many_posts/-2147024598/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

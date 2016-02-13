@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_network_access_denied\0xc00000ca\index.html.json
+
+title: 0xC00000CA STATUS_NETWORK_ACCESS_DENIED in ntstatus.h
+description: Network access is denied.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC00000CA",
+  "codeUrl": "/win32/ntstatus-h/status_network_access_denied/0xc00000ca/",
+  "numericCode": -1073741622,
+  "define": "STATUS_NETWORK_ACCESS_DENIED",
+  "defineUrl": "/win32/ntstatus-h/status_network_access_denied/",
+  "message": "Network access is denied.",
+  "remarks": null,
+  "aka": [
+    "-1073741622"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_network_access_denied/-1073741622/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

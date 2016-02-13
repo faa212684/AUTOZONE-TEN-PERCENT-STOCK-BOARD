@@ -1,0 +1,28 @@
+---
+output: win32\fsrmerr-h\fsrm_e_auto_quota\0x0004531b\index.html.json
+
+title: 0x0004531B FSRM_E_AUTO_QUOTA in fsrmerr.h
+description: Auto apply quota configuration for one or more folders failed.  Check the application event log for more information.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "fsrmerr.h",
+  "sourceUrl": "/win32/fsrmerr-h/",
+  "code": "0x0004531B",
+  "codeUrl": "/win32/fsrmerr-h/fsrm_e_auto_quota/0x0004531b/",
+  "numericCode": 283419,
+  "define": "FSRM_E_AUTO_QUOTA",
+  "defineUrl": "/win32/fsrmerr-h/fsrm_e_auto_quota/",
+  "message": "Auto apply quota configuration for one or more folders failed.  Check the application event log for more information.",
+  "remarks": null,
+  "aka": [
+    "283419"
+  ],
+  "akaUrl": [
+    "/win32/fsrmerr-h/fsrm_e_auto_quota/283419/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

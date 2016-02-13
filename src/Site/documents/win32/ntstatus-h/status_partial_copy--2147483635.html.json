@@ -1,0 +1,25 @@
+---
+output: win32\ntstatus-h\status_partial_copy\-2147483635\index.html.json
+canonical: /win32/ntstatus-h/status_partial_copy/0x8000000d/
+title: -2147483635 STATUS_PARTIAL_COPY in ntstatus.h
+description: "{Partial Copy}
+Due to protection conflicts not all the requested bytes could be copied."
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-2147483635",
+  "codeUrl": "/win32/ntstatus-h/status_partial_copy/-2147483635/",
+  "numericCode": 0,
+  "define": "STATUS_PARTIAL_COPY",
+  "defineUrl": "/win32/ntstatus-h/status_partial_copy/",
+  "message": "{Partial Copy}\r\nDue to protection conflicts not all the requested bytes could be copied.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x8000000D",
+  "originalCodeUrl": "/win32/ntstatus-h/status_partial_copy/0x8000000d/"
+}

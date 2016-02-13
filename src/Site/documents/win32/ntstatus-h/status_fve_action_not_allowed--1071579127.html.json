@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_fve_action_not_allowed\-1071579127\index.html.json
+canonical: /win32/ntstatus-h/status_fve_action_not_allowed/0xc0210009/
+title: -1071579127 STATUS_FVE_ACTION_NOT_ALLOWED in ntstatus.h
+description: Requested action not allowed in the current volume state.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071579127",
+  "codeUrl": "/win32/ntstatus-h/status_fve_action_not_allowed/-1071579127/",
+  "numericCode": 0,
+  "define": "STATUS_FVE_ACTION_NOT_ALLOWED",
+  "defineUrl": "/win32/ntstatus-h/status_fve_action_not_allowed/",
+  "message": "Requested action not allowed in the current volume state.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0210009",
+  "originalCodeUrl": "/win32/ntstatus-h/status_fve_action_not_allowed/0xc0210009/"
+}

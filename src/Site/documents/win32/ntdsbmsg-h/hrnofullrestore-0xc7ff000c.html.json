@@ -1,0 +1,29 @@
+---
+output: win32\ntdsbmsg-h\hrnofullrestore\0xc7ff000c\index.html.json
+
+title: 0xC7FF000C hrNoFullRestore in NtDsBMsg.h
+description: The databases have not been restored to this machine. You cannot restore an incremental backup
+until a full backup has been restored.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "NtDsBMsg.h",
+  "sourceUrl": "/win32/ntdsbmsg-h/",
+  "code": "0xC7FF000C",
+  "codeUrl": "/win32/ntdsbmsg-h/hrnofullrestore/0xc7ff000c/",
+  "numericCode": -939589620,
+  "define": "hrNoFullRestore",
+  "defineUrl": "/win32/ntdsbmsg-h/hrnofullrestore/",
+  "message": "The databases have not been restored to this machine. You cannot restore an incremental backup\r\nuntil a full backup has been restored.",
+  "remarks": null,
+  "aka": [
+    "-939589620"
+  ],
+  "akaUrl": [
+    "/win32/ntdsbmsg-h/hrnofullrestore/-939589620/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

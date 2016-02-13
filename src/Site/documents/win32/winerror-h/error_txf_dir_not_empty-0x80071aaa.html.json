@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_txf_dir_not_empty\0x80071aaa\index.html.json
+canonical: /win32/winerror-h/error_txf_dir_not_empty/6826/
+title: 0x80071aaa ERROR_TXF_DIR_NOT_EMPTY in winerror.h
+description: The $Txf directory must be empty for this operation to succeed.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80071aaa",
+  "codeUrl": "/win32/winerror-h/error_txf_dir_not_empty/0x80071aaa/",
+  "numericCode": 0,
+  "define": "ERROR_TXF_DIR_NOT_EMPTY",
+  "defineUrl": "/win32/winerror-h/error_txf_dir_not_empty/",
+  "message": "The $Txf directory must be empty for this operation to succeed.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "6826",
+  "originalCodeUrl": "/win32/winerror-h/error_txf_dir_not_empty/6826/"
+}

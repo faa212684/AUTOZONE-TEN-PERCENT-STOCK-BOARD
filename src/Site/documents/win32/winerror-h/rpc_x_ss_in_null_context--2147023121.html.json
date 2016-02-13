@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\rpc_x_ss_in_null_context\-2147023121\index.html.json
+canonical: /win32/winerror-h/rpc_x_ss_in_null_context/1775/
+title: -2147023121 RPC_X_SS_IN_NULL_CONTEXT in winerror.h
+description: A null context handle was passed from the client to the host during a remote procedure call.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147023121",
+  "codeUrl": "/win32/winerror-h/rpc_x_ss_in_null_context/-2147023121/",
+  "numericCode": 0,
+  "define": "RPC_X_SS_IN_NULL_CONTEXT",
+  "defineUrl": "/win32/winerror-h/rpc_x_ss_in_null_context/",
+  "message": "A null context handle was passed from the client to the host during a remote procedure call.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "1775",
+  "originalCodeUrl": "/win32/winerror-h/rpc_x_ss_in_null_context/1775/"
+}

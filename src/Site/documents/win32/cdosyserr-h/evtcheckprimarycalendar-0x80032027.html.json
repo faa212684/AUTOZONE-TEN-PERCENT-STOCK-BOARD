@@ -1,0 +1,29 @@
+---
+output: win32\cdosyserr-h\evtcheckprimarycalendar\0x80032027\index.html.json
+
+title: 0x80032027 evtCheckPrimaryCalendar in CDOSysErr.h
+description: Calendar agent failed to determine the primary calendar for mailbox: %1.
+%n%nFor more information, click http:www.microsoft.com/contentredirect.asp.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "CDOSysErr.h",
+  "sourceUrl": "/win32/cdosyserr-h/",
+  "code": "0x80032027",
+  "codeUrl": "/win32/cdosyserr-h/evtcheckprimarycalendar/0x80032027/",
+  "numericCode": -2147278809,
+  "define": "evtCheckPrimaryCalendar",
+  "defineUrl": "/win32/cdosyserr-h/evtcheckprimarycalendar/",
+  "message": "Calendar agent failed to determine the primary calendar for mailbox: %1.\r\n%n%nFor more information, click http:www.microsoft.com/contentredirect.asp.",
+  "remarks": null,
+  "aka": [
+    "-2147278809"
+  ],
+  "akaUrl": [
+    "/win32/cdosyserr-h/evtcheckprimarycalendar/-2147278809/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

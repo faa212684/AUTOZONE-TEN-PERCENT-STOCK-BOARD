@@ -1,0 +1,28 @@
+---
+output: win32\nserror-h\ns_w_file_bandwidth_limit\0x800d0004\index.html.json
+
+title: 0x800D0004 NS_W_FILE_BANDWIDTH_LIMIT in nserror.h
+description: The maximum bandwidth value specified is less than the maximum filebitrate.%0
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "nserror.h",
+  "sourceUrl": "/win32/nserror-h/",
+  "code": "0x800D0004",
+  "codeUrl": "/win32/nserror-h/ns_w_file_bandwidth_limit/0x800d0004/",
+  "numericCode": -2146631676,
+  "define": "NS_W_FILE_BANDWIDTH_LIMIT",
+  "defineUrl": "/win32/nserror-h/ns_w_file_bandwidth_limit/",
+  "message": "The maximum bandwidth value specified is less than the maximum filebitrate.%0",
+  "remarks": null,
+  "aka": [
+    "-2146631676"
+  ],
+  "akaUrl": [
+    "/win32/nserror-h/ns_w_file_bandwidth_limit/-2146631676/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

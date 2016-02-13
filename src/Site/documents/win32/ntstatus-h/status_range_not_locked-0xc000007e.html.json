@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_range_not_locked\0xc000007e\index.html.json
+
+title: 0xC000007E STATUS_RANGE_NOT_LOCKED in ntstatus.h
+description: The range specified in NtUnlockFile was not locked.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000007E",
+  "codeUrl": "/win32/ntstatus-h/status_range_not_locked/0xc000007e/",
+  "numericCode": -1073741698,
+  "define": "STATUS_RANGE_NOT_LOCKED",
+  "defineUrl": "/win32/ntstatus-h/status_range_not_locked/",
+  "message": "The range specified in NtUnlockFile was not locked.",
+  "remarks": null,
+  "aka": [
+    "-1073741698"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_range_not_locked/-1073741698/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

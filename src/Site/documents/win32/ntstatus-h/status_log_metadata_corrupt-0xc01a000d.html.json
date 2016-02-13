@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_log_metadata_corrupt\0xc01a000d\index.html.json
+
+title: 0xC01A000D STATUS_LOG_METADATA_CORRUPT in ntstatus.h
+description: Log service encountered a corrupted metadata file.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC01A000D",
+  "codeUrl": "/win32/ntstatus-h/status_log_metadata_corrupt/0xc01a000d/",
+  "numericCode": -1072037875,
+  "define": "STATUS_LOG_METADATA_CORRUPT",
+  "defineUrl": "/win32/ntstatus-h/status_log_metadata_corrupt/",
+  "message": "Log service encountered a corrupted metadata file.",
+  "remarks": null,
+  "aka": [
+    "-1072037875"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_log_metadata_corrupt/-1072037875/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

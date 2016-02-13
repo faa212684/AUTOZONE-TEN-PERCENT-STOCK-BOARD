@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\dfs_error_remove_link_failed\0xc00038cc\index.html.json
+
+title: 0xC00038CC DFS_ERROR_REMOVE_LINK_FAILED in netevent.h
+description: DFS was unable to delete link: %2  for root: %1 during a link move operation.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC00038CC",
+  "codeUrl": "/win32/netevent-h/dfs_error_remove_link_failed/0xc00038cc/",
+  "numericCode": -1073727284,
+  "define": "DFS_ERROR_REMOVE_LINK_FAILED",
+  "defineUrl": "/win32/netevent-h/dfs_error_remove_link_failed/",
+  "message": "DFS was unable to delete link: %2  for root: %1 during a link move operation.",
+  "remarks": null,
+  "aka": [
+    "-1073727284"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/dfs_error_remove_link_failed/-1073727284/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

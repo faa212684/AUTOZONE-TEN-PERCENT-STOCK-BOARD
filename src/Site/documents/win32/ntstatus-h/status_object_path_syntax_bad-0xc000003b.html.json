@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_object_path_syntax_bad\0xc000003b\index.html.json
+
+title: 0xC000003B STATUS_OBJECT_PATH_SYNTAX_BAD in ntstatus.h
+description: Object Path Component was not a directory object.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000003B",
+  "codeUrl": "/win32/ntstatus-h/status_object_path_syntax_bad/0xc000003b/",
+  "numericCode": -1073741765,
+  "define": "STATUS_OBJECT_PATH_SYNTAX_BAD",
+  "defineUrl": "/win32/ntstatus-h/status_object_path_syntax_bad/",
+  "message": "Object Path Component was not a directory object.",
+  "remarks": null,
+  "aka": [
+    "-1073741765"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_object_path_syntax_bad/-1073741765/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

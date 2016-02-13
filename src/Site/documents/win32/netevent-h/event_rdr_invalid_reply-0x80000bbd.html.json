@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_rdr_invalid_reply\0x80000bbd\index.html.json
+
+title: 0x80000BBD EVENT_RDR_INVALID_REPLY in netevent.h
+description: The redirector received an incorrectly formatted response from %2.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x80000BBD",
+  "codeUrl": "/win32/netevent-h/event_rdr_invalid_reply/0x80000bbd/",
+  "numericCode": -2147480643,
+  "define": "EVENT_RDR_INVALID_REPLY",
+  "defineUrl": "/win32/netevent-h/event_rdr_invalid_reply/",
+  "message": "The redirector received an incorrectly formatted response from %2.",
+  "remarks": null,
+  "aka": [
+    "-2147480643"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_rdr_invalid_reply/-2147480643/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

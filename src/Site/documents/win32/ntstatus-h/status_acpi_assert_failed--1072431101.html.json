@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_acpi_assert_failed\-1072431101\index.html.json
+canonical: /win32/ntstatus-h/status_acpi_assert_failed/0xc0140003/
+title: -1072431101 STATUS_ACPI_ASSERT_FAILED in ntstatus.h
+description: An inconsistent state has occurred
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1072431101",
+  "codeUrl": "/win32/ntstatus-h/status_acpi_assert_failed/-1072431101/",
+  "numericCode": 0,
+  "define": "STATUS_ACPI_ASSERT_FAILED",
+  "defineUrl": "/win32/ntstatus-h/status_acpi_assert_failed/",
+  "message": "An inconsistent state has occurred",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0140003",
+  "originalCodeUrl": "/win32/ntstatus-h/status_acpi_assert_failed/0xc0140003/"
+}

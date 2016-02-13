@@ -1,0 +1,29 @@
+---
+output: win32\wsmerror-h\error_wsman_max_envelope_size\0x80338047\index.html.json
+
+title: 0x80338047 ERROR_WSMAN_MAX_ENVELOPE_SIZE in wsmerror.h
+description: The maximum envelope size in the request is too large.
+Change the maximum envelope size and try the request again.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x80338047",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_max_envelope_size/0x80338047/",
+  "numericCode": -2144108473,
+  "define": "ERROR_WSMAN_MAX_ENVELOPE_SIZE",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_max_envelope_size/",
+  "message": "The maximum envelope size in the request is too large.\r\nChange the maximum envelope size and try the request again.",
+  "remarks": null,
+  "aka": [
+    "-2144108473"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_max_envelope_size/-2144108473/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

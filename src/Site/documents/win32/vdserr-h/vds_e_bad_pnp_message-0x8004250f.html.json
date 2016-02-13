@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_e_bad_pnp_message\0x8004250f\index.html.json
+
+title: 0x8004250F VDS_E_BAD_PNP_MESSAGE in vdserr.h
+description: The PNP service sent a corrupted notification to the provider.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x8004250F",
+  "codeUrl": "/win32/vdserr-h/vds_e_bad_pnp_message/0x8004250f/",
+  "numericCode": -2147212017,
+  "define": "VDS_E_BAD_PNP_MESSAGE",
+  "defineUrl": "/win32/vdserr-h/vds_e_bad_pnp_message/",
+  "message": "The PNP service sent a corrupted notification to the provider.",
+  "remarks": null,
+  "aka": [
+    "-2147212017"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_bad_pnp_message/-2147212017/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

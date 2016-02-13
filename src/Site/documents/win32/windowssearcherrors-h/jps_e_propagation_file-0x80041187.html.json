@@ -1,0 +1,28 @@
+---
+output: win32\windowssearcherrors-h\jps_e_propagation_file\0x80041187\index.html.json
+
+title: 0x80041187 JPS_E_PROPAGATION_FILE in WindowsSearchErrors.h
+description: The property store was unable to open, close, or delete a data file used in propagation.  Check that your index volume has enough disk space.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "0x80041187",
+  "codeUrl": "/win32/windowssearcherrors-h/jps_e_propagation_file/0x80041187/",
+  "numericCode": -2147217017,
+  "define": "JPS_E_PROPAGATION_FILE",
+  "defineUrl": "/win32/windowssearcherrors-h/jps_e_propagation_file/",
+  "message": "The property store was unable to open, close, or delete a data file used in propagation.  Check that your index volume has enough disk space.",
+  "remarks": null,
+  "aka": [
+    "-2147217017"
+  ],
+  "akaUrl": [
+    "/win32/windowssearcherrors-h/jps_e_propagation_file/-2147217017/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

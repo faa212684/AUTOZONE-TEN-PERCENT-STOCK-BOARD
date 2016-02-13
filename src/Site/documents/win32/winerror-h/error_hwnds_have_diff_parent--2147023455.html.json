@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_hwnds_have_diff_parent\-2147023455\index.html.json
+canonical: /win32/winerror-h/error_hwnds_have_diff_parent/1441/
+title: -2147023455 ERROR_HWNDS_HAVE_DIFF_PARENT in winerror.h
+description: All handles to windows in a multiple-window position structure must have the same parent.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147023455",
+  "codeUrl": "/win32/winerror-h/error_hwnds_have_diff_parent/-2147023455/",
+  "numericCode": 0,
+  "define": "ERROR_HWNDS_HAVE_DIFF_PARENT",
+  "defineUrl": "/win32/winerror-h/error_hwnds_have_diff_parent/",
+  "message": "All handles to windows in a multiple-window position structure must have the same parent.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "1441",
+  "originalCodeUrl": "/win32/winerror-h/error_hwnds_have_diff_parent/1441/"
+}

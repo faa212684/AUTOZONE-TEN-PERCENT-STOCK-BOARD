@@ -1,0 +1,30 @@
+---
+output: win32\wsmerror-h\error_wsman_quota_max_shells\0x803381a5\index.html.json
+
+title: 0x803381A5 ERROR_WSMAN_QUOTA_MAX_SHELLS in wsmerror.h
+description: The WS-Management service cannot process the request.
+The maximum number of concurrent shells for this user has been exceeded.
+Close existing shells or raise the quota for this user.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x803381A5",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_quota_max_shells/0x803381a5/",
+  "numericCode": -2144108123,
+  "define": "ERROR_WSMAN_QUOTA_MAX_SHELLS",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_quota_max_shells/",
+  "message": "The WS-Management service cannot process the request.\r\nThe maximum number of concurrent shells for this user has been exceeded.\r\nClose existing shells or raise the quota for this user.",
+  "remarks": null,
+  "aka": [
+    "-2144108123"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_quota_max_shells/-2144108123/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

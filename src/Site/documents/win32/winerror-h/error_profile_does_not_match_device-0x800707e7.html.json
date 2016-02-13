@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_profile_does_not_match_device\0x800707e7\index.html.json
+canonical: /win32/winerror-h/error_profile_does_not_match_device/2023/
+title: 0x800707e7 ERROR_PROFILE_DOES_NOT_MATCH_DEVICE in winerror.h
+description: The specified profile is intended for a device of a different type than the specified device.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800707e7",
+  "codeUrl": "/win32/winerror-h/error_profile_does_not_match_device/0x800707e7/",
+  "numericCode": 0,
+  "define": "ERROR_PROFILE_DOES_NOT_MATCH_DEVICE",
+  "defineUrl": "/win32/winerror-h/error_profile_does_not_match_device/",
+  "message": "The specified profile is intended for a device of a different type than the specified device.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "2023",
+  "originalCodeUrl": "/win32/winerror-h/error_profile_does_not_match_device/2023/"
+}

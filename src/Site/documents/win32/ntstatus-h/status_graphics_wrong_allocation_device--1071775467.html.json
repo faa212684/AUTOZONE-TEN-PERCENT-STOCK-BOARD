@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_graphics_wrong_allocation_device\-1071775467\index.html.json
+canonical: /win32/ntstatus-h/status_graphics_wrong_allocation_device/0xc01e0115/
+title: -1071775467 STATUS_GRAPHICS_WRONG_ALLOCATION_DEVICE in ntstatus.h
+description: The allocation being referenced doesn't belong to the current device.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071775467",
+  "codeUrl": "/win32/ntstatus-h/status_graphics_wrong_allocation_device/-1071775467/",
+  "numericCode": 0,
+  "define": "STATUS_GRAPHICS_WRONG_ALLOCATION_DEVICE",
+  "defineUrl": "/win32/ntstatus-h/status_graphics_wrong_allocation_device/",
+  "message": "The allocation being referenced doesn't belong to the current device.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC01E0115",
+  "originalCodeUrl": "/win32/ntstatus-h/status_graphics_wrong_allocation_device/0xc01e0115/"
+}

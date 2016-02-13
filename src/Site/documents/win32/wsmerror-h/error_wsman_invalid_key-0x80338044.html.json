@@ -1,0 +1,28 @@
+---
+output: win32\wsmerror-h\error_wsman_invalid_key\0x80338044\index.html.json
+
+title: 0x80338044 ERROR_WSMAN_INVALID_KEY in wsmerror.h
+description: The WS-Management service cannot process the request because the URI contains an unexpected selector.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x80338044",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_invalid_key/0x80338044/",
+  "numericCode": -2144108476,
+  "define": "ERROR_WSMAN_INVALID_KEY",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_invalid_key/",
+  "message": "The WS-Management service cannot process the request because the URI contains an unexpected selector.",
+  "remarks": null,
+  "aka": [
+    "-2144108476"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_invalid_key/-2144108476/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

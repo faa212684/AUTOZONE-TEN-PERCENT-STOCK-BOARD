@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_invalid_field_in_parameter_list\328\index.html.json
+
+title: 328 ERROR_INVALID_FIELD_IN_PARAMETER_LIST in winerror.h
+description: The command specified an invalid field in its parameter list.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "328",
+  "codeUrl": "/win32/winerror-h/error_invalid_field_in_parameter_list/328/",
+  "numericCode": 328,
+  "define": "ERROR_INVALID_FIELD_IN_PARAMETER_LIST",
+  "defineUrl": "/win32/winerror-h/error_invalid_field_in_parameter_list/",
+  "message": "The command specified an invalid field in its parameter list.",
+  "remarks": null,
+  "aka": [
+    "0x80070148",
+    "-2147024568"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_invalid_field_in_parameter_list/0x80070148/",
+    "/win32/winerror-h/error_invalid_field_in_parameter_list/-2147024568/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

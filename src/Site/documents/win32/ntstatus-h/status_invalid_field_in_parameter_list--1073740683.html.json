@@ -1,0 +1,25 @@
+---
+output: win32\ntstatus-h\status_invalid_field_in_parameter_list\-1073740683\index.html.json
+canonical: /win32/ntstatus-h/status_invalid_field_in_parameter_list/0xc0000475/
+title: -1073740683 STATUS_INVALID_FIELD_IN_PARAMETER_LIST in ntstatus.h
+description: "{Invalid Field In Parameter List}
+The command specified an invalid field in its parameter list."
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073740683",
+  "codeUrl": "/win32/ntstatus-h/status_invalid_field_in_parameter_list/-1073740683/",
+  "numericCode": 0,
+  "define": "STATUS_INVALID_FIELD_IN_PARAMETER_LIST",
+  "defineUrl": "/win32/ntstatus-h/status_invalid_field_in_parameter_list/",
+  "message": "{Invalid Field In Parameter List}\r\nThe command specified an invalid field in its parameter list.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000475",
+  "originalCodeUrl": "/win32/ntstatus-h/status_invalid_field_in_parameter_list/0xc0000475/"
+}

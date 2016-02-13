@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_shutdown_in_progress\-1073741058\index.html.json
+canonical: /win32/ntstatus-h/status_shutdown_in_progress/0xc00002fe/
+title: -1073741058 STATUS_SHUTDOWN_IN_PROGRESS in ntstatus.h
+description: A system shutdown is in progress.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741058",
+  "codeUrl": "/win32/ntstatus-h/status_shutdown_in_progress/-1073741058/",
+  "numericCode": 0,
+  "define": "STATUS_SHUTDOWN_IN_PROGRESS",
+  "defineUrl": "/win32/ntstatus-h/status_shutdown_in_progress/",
+  "message": "A system shutdown is in progress.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC00002FE",
+  "originalCodeUrl": "/win32/ntstatus-h/status_shutdown_in_progress/0xc00002fe/"
+}

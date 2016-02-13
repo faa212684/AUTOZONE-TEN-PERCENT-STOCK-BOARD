@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_authip_failure\0xc000a086\index.html.json
+
+title: 0xC000A086 STATUS_AUTHIP_FAILURE in ntstatus.h
+description: Indicates that there was an AuthIP failure when attempting to connect to the remote host.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000A086",
+  "codeUrl": "/win32/ntstatus-h/status_authip_failure/0xc000a086/",
+  "numericCode": -1073700730,
+  "define": "STATUS_AUTHIP_FAILURE",
+  "defineUrl": "/win32/ntstatus-h/status_authip_failure/",
+  "message": "Indicates that there was an AuthIP failure when attempting to connect to the remote host.",
+  "remarks": null,
+  "aka": [
+    "-1073700730"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_authip_failure/-1073700730/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

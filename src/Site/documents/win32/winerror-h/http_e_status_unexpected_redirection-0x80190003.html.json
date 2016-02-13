@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\http_e_status_unexpected_redirection\0x80190003\index.html.json
+
+title: 0x80190003 HTTP_E_STATUS_UNEXPECTED_REDIRECTION in winerror.h
+description: Unexpected redirection status code (3xx).
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80190003",
+  "codeUrl": "/win32/winerror-h/http_e_status_unexpected_redirection/0x80190003/",
+  "numericCode": -2145845245,
+  "define": "HTTP_E_STATUS_UNEXPECTED_REDIRECTION",
+  "defineUrl": "/win32/winerror-h/http_e_status_unexpected_redirection/",
+  "message": "Unexpected redirection status code (3xx).",
+  "remarks": null,
+  "aka": [
+    "-2145845245"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/http_e_status_unexpected_redirection/-2145845245/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

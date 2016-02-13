@@ -1,0 +1,25 @@
+---
+output: win32\ntstatus-h\status_data_overrun\-1073741764\index.html.json
+canonical: /win32/ntstatus-h/status_data_overrun/0xc000003c/
+title: -1073741764 STATUS_DATA_OVERRUN in ntstatus.h
+description: "{Data Overrun}
+A data overrun error occurred."
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741764",
+  "codeUrl": "/win32/ntstatus-h/status_data_overrun/-1073741764/",
+  "numericCode": 0,
+  "define": "STATUS_DATA_OVERRUN",
+  "defineUrl": "/win32/ntstatus-h/status_data_overrun/",
+  "message": "{Data Overrun}\r\nA data overrun error occurred.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC000003C",
+  "originalCodeUrl": "/win32/ntstatus-h/status_data_overrun/0xc000003c/"
+}

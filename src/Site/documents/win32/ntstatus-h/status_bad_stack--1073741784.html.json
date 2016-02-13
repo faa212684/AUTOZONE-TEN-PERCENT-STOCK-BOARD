@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_bad_stack\-1073741784\index.html.json
+canonical: /win32/ntstatus-h/status_bad_stack/0xc0000028/
+title: -1073741784 STATUS_BAD_STACK in ntstatus.h
+description: An invalid or unaligned stack was encountered during an unwind operation.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741784",
+  "codeUrl": "/win32/ntstatus-h/status_bad_stack/-1073741784/",
+  "numericCode": 0,
+  "define": "STATUS_BAD_STACK",
+  "defineUrl": "/win32/ntstatus-h/status_bad_stack/",
+  "message": "An invalid or unaligned stack was encountered during an unwind operation.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000028",
+  "originalCodeUrl": "/win32/ntstatus-h/status_bad_stack/0xc0000028/"
+}

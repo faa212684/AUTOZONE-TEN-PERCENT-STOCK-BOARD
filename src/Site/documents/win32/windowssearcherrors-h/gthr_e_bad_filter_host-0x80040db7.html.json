@@ -1,0 +1,28 @@
+---
+output: win32\windowssearcherrors-h\gthr_e_bad_filter_host\0x80040db7\index.html.json
+
+title: 0x80040DB7 GTHR_E_BAD_FILTER_HOST in WindowsSearchErrors.h
+description: The filter host process cannot be started. The system is most likely low on resources, or the filter host process binary was modified. If the resources are available, check the search binaries with an antivirus program.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "0x80040DB7",
+  "codeUrl": "/win32/windowssearcherrors-h/gthr_e_bad_filter_host/0x80040db7/",
+  "numericCode": -2147217993,
+  "define": "GTHR_E_BAD_FILTER_HOST",
+  "defineUrl": "/win32/windowssearcherrors-h/gthr_e_bad_filter_host/",
+  "message": "The filter host process cannot be started. The system is most likely low on resources, or the filter host process binary was modified. If the resources are available, check the search binaries with an antivirus program.",
+  "remarks": null,
+  "aka": [
+    "-2147217993"
+  ],
+  "akaUrl": [
+    "/win32/windowssearcherrors-h/gthr_e_bad_filter_host/-2147217993/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

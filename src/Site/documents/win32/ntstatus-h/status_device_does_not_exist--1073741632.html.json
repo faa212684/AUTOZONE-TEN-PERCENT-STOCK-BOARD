@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_device_does_not_exist\-1073741632\index.html.json
+canonical: /win32/ntstatus-h/status_device_does_not_exist/0xc00000c0/
+title: -1073741632 STATUS_DEVICE_DOES_NOT_EXIST in ntstatus.h
+description: This device does not exist.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741632",
+  "codeUrl": "/win32/ntstatus-h/status_device_does_not_exist/-1073741632/",
+  "numericCode": 0,
+  "define": "STATUS_DEVICE_DOES_NOT_EXIST",
+  "defineUrl": "/win32/ntstatus-h/status_device_does_not_exist/",
+  "message": "This device does not exist.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC00000C0",
+  "originalCodeUrl": "/win32/ntstatus-h/status_device_does_not_exist/0xc00000c0/"
+}

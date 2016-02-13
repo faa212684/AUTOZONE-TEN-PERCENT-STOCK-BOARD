@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_ipsec_invalid_packet\-2147010982\index.html.json
+canonical: /win32/winerror-h/error_ipsec_invalid_packet/13914/
+title: -2147010982 ERROR_IPSEC_INVALID_PACKET in winerror.h
+description: IPsec header and/or trailer in the packet is invalid.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147010982",
+  "codeUrl": "/win32/winerror-h/error_ipsec_invalid_packet/-2147010982/",
+  "numericCode": 0,
+  "define": "ERROR_IPSEC_INVALID_PACKET",
+  "defineUrl": "/win32/winerror-h/error_ipsec_invalid_packet/",
+  "message": "IPsec header and/or trailer in the packet is invalid.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "13914",
+  "originalCodeUrl": "/win32/winerror-h/error_ipsec_invalid_packet/13914/"
+}

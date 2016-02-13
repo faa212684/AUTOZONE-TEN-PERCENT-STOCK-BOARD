@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_volmgr_disk_layout_invalid\0xc038000b\index.html.json
+
+title: 0xC038000B STATUS_VOLMGR_DISK_LAYOUT_INVALID in ntstatus.h
+description: The specified disk has an invalid disk layout.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC038000B",
+  "codeUrl": "/win32/ntstatus-h/status_volmgr_disk_layout_invalid/0xc038000b/",
+  "numericCode": -1070071797,
+  "define": "STATUS_VOLMGR_DISK_LAYOUT_INVALID",
+  "defineUrl": "/win32/ntstatus-h/status_volmgr_disk_layout_invalid/",
+  "message": "The specified disk has an invalid disk layout.",
+  "remarks": null,
+  "aka": [
+    "-1070071797"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_volmgr_disk_layout_invalid/-1070071797/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

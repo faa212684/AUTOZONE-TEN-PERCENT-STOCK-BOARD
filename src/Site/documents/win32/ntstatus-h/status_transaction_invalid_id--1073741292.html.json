@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_transaction_invalid_id\-1073741292\index.html.json
+canonical: /win32/ntstatus-h/status_transaction_invalid_id/0xc0000214/
+title: -1073741292 STATUS_TRANSACTION_INVALID_ID in ntstatus.h
+description: The transport does not recognized the transaction request identifier specified.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741292",
+  "codeUrl": "/win32/ntstatus-h/status_transaction_invalid_id/-1073741292/",
+  "numericCode": 0,
+  "define": "STATUS_TRANSACTION_INVALID_ID",
+  "defineUrl": "/win32/ntstatus-h/status_transaction_invalid_id/",
+  "message": "The transport does not recognized the transaction request identifier specified.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000214",
+  "originalCodeUrl": "/win32/ntstatus-h/status_transaction_invalid_id/0xc0000214/"
+}

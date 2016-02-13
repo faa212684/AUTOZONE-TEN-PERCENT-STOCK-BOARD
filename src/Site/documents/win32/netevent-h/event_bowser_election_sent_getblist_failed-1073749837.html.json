@@ -1,0 +1,24 @@
+---
+output: win32\netevent-h\event_bowser_election_sent_getblist_failed\1073749837\index.html.json
+canonical: /win32/netevent-h/event_bowser_election_sent_getblist_failed/0x40001f4d/
+title: 1073749837 EVENT_BOWSER_ELECTION_SENT_GETBLIST_FAILED in netevent.h
+description: The browser driver has forced an election on network %2 because it was unable to find a master browser to retrieve a backup list on that network.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "1073749837",
+  "codeUrl": "/win32/netevent-h/event_bowser_election_sent_getblist_failed/1073749837/",
+  "numericCode": 0,
+  "define": "EVENT_BOWSER_ELECTION_SENT_GETBLIST_FAILED",
+  "defineUrl": "/win32/netevent-h/event_bowser_election_sent_getblist_failed/",
+  "message": "The browser driver has forced an election on network %2 because it was unable to find a master browser to retrieve a backup list on that network.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x40001F4D",
+  "originalCodeUrl": "/win32/netevent-h/event_bowser_election_sent_getblist_failed/0x40001f4d/"
+}

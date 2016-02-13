@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ds_hierarchy_table_malloc_failed\8429\index.html.json
+
+title: 8429 ERROR_DS_HIERARCHY_TABLE_MALLOC_FAILED in winerror.h
+description: The allocation of the hierarchy table failed.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "8429",
+  "codeUrl": "/win32/winerror-h/error_ds_hierarchy_table_malloc_failed/8429/",
+  "numericCode": 8429,
+  "define": "ERROR_DS_HIERARCHY_TABLE_MALLOC_FAILED",
+  "defineUrl": "/win32/winerror-h/error_ds_hierarchy_table_malloc_failed/",
+  "message": "The allocation of the hierarchy table failed.",
+  "remarks": null,
+  "aka": [
+    "0x800720ed",
+    "-2147016467"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ds_hierarchy_table_malloc_failed/0x800720ed/",
+    "/win32/winerror-h/error_ds_hierarchy_table_malloc_failed/-2147016467/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

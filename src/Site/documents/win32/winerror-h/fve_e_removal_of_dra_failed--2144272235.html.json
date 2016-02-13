@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\fve_e_removal_of_dra_failed\-2144272235\index.html.json
+canonical: /win32/winerror-h/fve_e_removal_of_dra_failed/0x80310095/
+title: -2144272235 FVE_E_REMOVAL_OF_DRA_FAILED in winerror.h
+description: Removal of the data recovery agent certificate must be done using the Certificates snap-in.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2144272235",
+  "codeUrl": "/win32/winerror-h/fve_e_removal_of_dra_failed/-2144272235/",
+  "numericCode": 0,
+  "define": "FVE_E_REMOVAL_OF_DRA_FAILED",
+  "defineUrl": "/win32/winerror-h/fve_e_removal_of_dra_failed/",
+  "message": "Removal of the data recovery agent certificate must be done using the Certificates snap-in.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80310095",
+  "originalCodeUrl": "/win32/winerror-h/fve_e_removal_of_dra_failed/0x80310095/"
+}

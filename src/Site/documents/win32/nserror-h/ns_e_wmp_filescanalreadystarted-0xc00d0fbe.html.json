@@ -1,0 +1,28 @@
+---
+output: win32\nserror-h\ns_e_wmp_filescanalreadystarted\0xc00d0fbe\index.html.json
+
+title: 0xC00D0FBE NS_E_WMP_FILESCANALREADYSTARTED in nserror.h
+description: Windows Media Player is already searching for files to add to your library. Wait for the current process to finish before attempting to search again.%0
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "nserror.h",
+  "sourceUrl": "/win32/nserror-h/",
+  "code": "0xC00D0FBE",
+  "codeUrl": "/win32/nserror-h/ns_e_wmp_filescanalreadystarted/0xc00d0fbe/",
+  "numericCode": -1072885826,
+  "define": "NS_E_WMP_FILESCANALREADYSTARTED",
+  "defineUrl": "/win32/nserror-h/ns_e_wmp_filescanalreadystarted/",
+  "message": "Windows Media Player is already searching for files to add to your library. Wait for the current process to finish before attempting to search again.%0",
+  "remarks": null,
+  "aka": [
+    "-1072885826"
+  ],
+  "akaUrl": [
+    "/win32/nserror-h/ns_e_wmp_filescanalreadystarted/-1072885826/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

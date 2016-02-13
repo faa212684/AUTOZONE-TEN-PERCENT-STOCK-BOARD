@@ -1,0 +1,28 @@
+---
+output: win32\wsmerror-h\error_wsman_character_set\0x8033804c\index.html.json
+
+title: 0x8033804C ERROR_WSMAN_CHARACTER_SET in wsmerror.h
+description: The WS-Management service does not support the character set used in the request. Change the request to use UTF-8 or UTF-16.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x8033804C",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_character_set/0x8033804c/",
+  "numericCode": -2144108468,
+  "define": "ERROR_WSMAN_CHARACTER_SET",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_character_set/",
+  "message": "The WS-Management service does not support the character set used in the request. Change the request to use UTF-8 or UTF-16.",
+  "remarks": null,
+  "aka": [
+    "-2144108468"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_character_set/-2144108468/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

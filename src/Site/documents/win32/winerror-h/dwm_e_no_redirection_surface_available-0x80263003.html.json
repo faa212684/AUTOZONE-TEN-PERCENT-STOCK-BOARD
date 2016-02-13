@@ -1,0 +1,29 @@
+---
+output: win32\winerror-h\dwm_e_no_redirection_surface_available\0x80263003\index.html.json
+
+title: 0x80263003 DWM_E_NO_REDIRECTION_SURFACE_AVAILABLE in winerror.h
+description: "{No DWM redirection surface is available}
+The DWM was unable to provide a redireciton surface to complete the DirectX present."
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80263003",
+  "codeUrl": "/win32/winerror-h/dwm_e_no_redirection_surface_available/0x80263003/",
+  "numericCode": -2144980989,
+  "define": "DWM_E_NO_REDIRECTION_SURFACE_AVAILABLE",
+  "defineUrl": "/win32/winerror-h/dwm_e_no_redirection_surface_available/",
+  "message": "{No DWM redirection surface is available}\r\nThe DWM was unable to provide a redireciton surface to complete the DirectX present.",
+  "remarks": null,
+  "aka": [
+    "-2144980989"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/dwm_e_no_redirection_surface_available/-2144980989/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

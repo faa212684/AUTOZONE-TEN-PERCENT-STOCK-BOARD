@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_invalid_message\-1073740030\index.html.json
+canonical: /win32/ntstatus-h/status_invalid_message/0xc0000702/
+title: -1073740030 STATUS_INVALID_MESSAGE in ntstatus.h
+description: The ALPC message supplied is invalid.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073740030",
+  "codeUrl": "/win32/ntstatus-h/status_invalid_message/-1073740030/",
+  "numericCode": 0,
+  "define": "STATUS_INVALID_MESSAGE",
+  "defineUrl": "/win32/ntstatus-h/status_invalid_message/",
+  "message": "The ALPC message supplied is invalid.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000702",
+  "originalCodeUrl": "/win32/ntstatus-h/status_invalid_message/0xc0000702/"
+}

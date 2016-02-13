@@ -1,0 +1,28 @@
+---
+output: win32\oledberr-h\db_s_multiplechanges\0x00040edc\index.html.json
+
+title: 0x00040EDC DB_S_MULTIPLECHANGES in oledberr.h
+description: Updating a row caused more than one row to be updated in the data source.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "oledberr.h",
+  "sourceUrl": "/win32/oledberr-h/",
+  "code": "0x00040EDC",
+  "codeUrl": "/win32/oledberr-h/db_s_multiplechanges/0x00040edc/",
+  "numericCode": 265948,
+  "define": "DB_S_MULTIPLECHANGES",
+  "defineUrl": "/win32/oledberr-h/db_s_multiplechanges/",
+  "message": "Updating a row caused more than one row to be updated in the data source.",
+  "remarks": null,
+  "aka": [
+    "265948"
+  ],
+  "akaUrl": [
+    "/win32/oledberr-h/db_s_multiplechanges/265948/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

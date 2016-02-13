@@ -1,0 +1,28 @@
+---
+output: win32\fsrmerr-h\fsrm_e_inproc_module_blocked\0x80045352\index.html.json
+
+title: 0x80045352 FSRM_E_INPROC_MODULE_BLOCKED in fsrmerr.h
+description: An unknown module cannot be run inside the service process.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "fsrmerr.h",
+  "sourceUrl": "/win32/fsrmerr-h/",
+  "code": "0x80045352",
+  "codeUrl": "/win32/fsrmerr-h/fsrm_e_inproc_module_blocked/0x80045352/",
+  "numericCode": -2147200174,
+  "define": "FSRM_E_INPROC_MODULE_BLOCKED",
+  "defineUrl": "/win32/fsrmerr-h/fsrm_e_inproc_module_blocked/",
+  "message": "An unknown module cannot be run inside the service process.",
+  "remarks": null,
+  "aka": [
+    "-2147200174"
+  ],
+  "akaUrl": [
+    "/win32/fsrmerr-h/fsrm_e_inproc_module_blocked/-2147200174/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

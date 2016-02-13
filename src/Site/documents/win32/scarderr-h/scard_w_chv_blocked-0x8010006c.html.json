@@ -1,0 +1,28 @@
+---
+output: win32\scarderr-h\scard_w_chv_blocked\0x8010006c\index.html.json
+
+title: 0x8010006C SCARD_W_CHV_BLOCKED in SCardErr.h
+description: The card cannot be accessed because the maximum number of PIN entry attempts has been reached.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "SCardErr.h",
+  "sourceUrl": "/win32/scarderr-h/",
+  "code": "0x8010006C",
+  "codeUrl": "/win32/scarderr-h/scard_w_chv_blocked/0x8010006c/",
+  "numericCode": -2146434964,
+  "define": "SCARD_W_CHV_BLOCKED",
+  "defineUrl": "/win32/scarderr-h/scard_w_chv_blocked/",
+  "message": "The card cannot be accessed because the maximum number of PIN entry attempts has been reached.",
+  "remarks": null,
+  "aka": [
+    "-2146434964"
+  ],
+  "akaUrl": [
+    "/win32/scarderr-h/scard_w_chv_blocked/-2146434964/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

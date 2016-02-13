@@ -1,0 +1,28 @@
+---
+output: win32\wsmerror-h\error_wsman_http_no_response_data\0x803380f5\index.html.json
+
+title: 0x803380F5 ERROR_WSMAN_HTTP_NO_RESPONSE_DATA in wsmerror.h
+description: The WinRM client cannot process the request. The destination computer returned an empty response to the request.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x803380F5",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_http_no_response_data/0x803380f5/",
+  "numericCode": -2144108299,
+  "define": "ERROR_WSMAN_HTTP_NO_RESPONSE_DATA",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_http_no_response_data/",
+  "message": "The WinRM client cannot process the request. The destination computer returned an empty response to the request.",
+  "remarks": null,
+  "aka": [
+    "-2144108299"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_http_no_response_data/-2144108299/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

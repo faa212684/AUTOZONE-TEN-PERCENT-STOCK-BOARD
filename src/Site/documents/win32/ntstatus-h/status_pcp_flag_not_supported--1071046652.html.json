@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_pcp_flag_not_supported\-1071046652\index.html.json
+canonical: /win32/ntstatus-h/status_pcp_flag_not_supported/0xc0292004/
+title: -1071046652 STATUS_PCP_FLAG_NOT_SUPPORTED in ntstatus.h
+description: A provided flag to the Platform Crypto Provider is not supported.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071046652",
+  "codeUrl": "/win32/ntstatus-h/status_pcp_flag_not_supported/-1071046652/",
+  "numericCode": 0,
+  "define": "STATUS_PCP_FLAG_NOT_SUPPORTED",
+  "defineUrl": "/win32/ntstatus-h/status_pcp_flag_not_supported/",
+  "message": "A provided flag to the Platform Crypto Provider is not supported.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0292004",
+  "originalCodeUrl": "/win32/ntstatus-h/status_pcp_flag_not_supported/0xc0292004/"
+}

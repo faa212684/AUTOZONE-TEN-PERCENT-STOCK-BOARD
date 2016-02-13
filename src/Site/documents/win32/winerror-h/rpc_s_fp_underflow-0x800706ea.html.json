@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\rpc_s_fp_underflow\0x800706ea\index.html.json
+canonical: /win32/winerror-h/rpc_s_fp_underflow/1770/
+title: 0x800706ea RPC_S_FP_UNDERFLOW in winerror.h
+description: A floating-point underflow occurred at the RPC server.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800706ea",
+  "codeUrl": "/win32/winerror-h/rpc_s_fp_underflow/0x800706ea/",
+  "numericCode": 0,
+  "define": "RPC_S_FP_UNDERFLOW",
+  "defineUrl": "/win32/winerror-h/rpc_s_fp_underflow/",
+  "message": "A floating-point underflow occurred at the RPC server.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "1770",
+  "originalCodeUrl": "/win32/winerror-h/rpc_s_fp_underflow/1770/"
+}

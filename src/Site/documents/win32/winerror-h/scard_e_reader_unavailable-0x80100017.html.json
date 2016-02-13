@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\scard_e_reader_unavailable\0x80100017\index.html.json
+
+title: 0x80100017 SCARD_E_READER_UNAVAILABLE in winerror.h
+description: The specified reader is not currently available for use.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80100017",
+  "codeUrl": "/win32/winerror-h/scard_e_reader_unavailable/0x80100017/",
+  "numericCode": -2146435049,
+  "define": "SCARD_E_READER_UNAVAILABLE",
+  "defineUrl": "/win32/winerror-h/scard_e_reader_unavailable/",
+  "message": "The specified reader is not currently available for use.",
+  "remarks": null,
+  "aka": [
+    "-2146435049"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/scard_e_reader_unavailable/-2146435049/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\bitsmsg-h\bg_e_invalid_state\0x80200002\index.html.json
+
+title: 0x80200002 BG_E_INVALID_STATE in BitsMsg.h
+description: The requested action is not allowed in the current job state. The job might have been canceled or completed transferring. It is in a read-only state now.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "BitsMsg.h",
+  "sourceUrl": "/win32/bitsmsg-h/",
+  "code": "0x80200002",
+  "codeUrl": "/win32/bitsmsg-h/bg_e_invalid_state/0x80200002/",
+  "numericCode": -2145386494,
+  "define": "BG_E_INVALID_STATE",
+  "defineUrl": "/win32/bitsmsg-h/bg_e_invalid_state/",
+  "message": "The requested action is not allowed in the current job state. The job might have been canceled or completed transferring. It is in a read-only state now.",
+  "remarks": null,
+  "aka": [
+    "-2145386494"
+  ],
+  "akaUrl": [
+    "/win32/bitsmsg-h/bg_e_invalid_state/-2145386494/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\fve_e_not_on_stack\0x8031004a\index.html.json
+
+title: 0x8031004A FVE_E_NOT_ON_STACK in winerror.h
+description: BitLocker Drive Encryption cannot be used because critical BitLocker system files are missing or corrupted. Use Windows Startup Repair to restore these files to your computer.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8031004A",
+  "codeUrl": "/win32/winerror-h/fve_e_not_on_stack/0x8031004a/",
+  "numericCode": -2144272310,
+  "define": "FVE_E_NOT_ON_STACK",
+  "defineUrl": "/win32/winerror-h/fve_e_not_on_stack/",
+  "message": "BitLocker Drive Encryption cannot be used because critical BitLocker system files are missing or corrupted. Use Windows Startup Repair to restore these files to your computer.",
+  "remarks": null,
+  "aka": [
+    "-2144272310"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/fve_e_not_on_stack/-2144272310/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_ds_no_parent_object\0x80072089\index.html.json
+canonical: /win32/winerror-h/error_ds_no_parent_object/8329/
+title: 0x80072089 ERROR_DS_NO_PARENT_OBJECT in winerror.h
+description: The operation could not be performed because the object's parent is either uninstantiated or deleted.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80072089",
+  "codeUrl": "/win32/winerror-h/error_ds_no_parent_object/0x80072089/",
+  "numericCode": 0,
+  "define": "ERROR_DS_NO_PARENT_OBJECT",
+  "defineUrl": "/win32/winerror-h/error_ds_no_parent_object/",
+  "message": "The operation could not be performed because the object's parent is either uninstantiated or deleted.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "8329",
+  "originalCodeUrl": "/win32/winerror-h/error_ds_no_parent_object/8329/"
+}

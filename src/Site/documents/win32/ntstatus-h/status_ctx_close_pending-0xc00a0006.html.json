@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_ctx_close_pending\0xc00a0006\index.html.json
+
+title: 0xC00A0006 STATUS_CTX_CLOSE_PENDING in ntstatus.h
+description: A close operation is pending on the Terminal Connection.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC00A0006",
+  "codeUrl": "/win32/ntstatus-h/status_ctx_close_pending/0xc00a0006/",
+  "numericCode": -1073086458,
+  "define": "STATUS_CTX_CLOSE_PENDING",
+  "defineUrl": "/win32/ntstatus-h/status_ctx_close_pending/",
+  "message": "A close operation is pending on the Terminal Connection.",
+  "remarks": null,
+  "aka": [
+    "-1073086458"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_ctx_close_pending/-1073086458/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

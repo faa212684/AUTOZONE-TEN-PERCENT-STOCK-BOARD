@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_fwp_l2_driver_not_ready\0xc022003e\index.html.json
+
+title: 0xC022003E STATUS_FWP_L2_DRIVER_NOT_READY in ntstatus.h
+description: The WFP MAC Layers are not ready.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC022003E",
+  "codeUrl": "/win32/ntstatus-h/status_fwp_l2_driver_not_ready/0xc022003e/",
+  "numericCode": -1071513538,
+  "define": "STATUS_FWP_L2_DRIVER_NOT_READY",
+  "defineUrl": "/win32/ntstatus-h/status_fwp_l2_driver_not_ready/",
+  "message": "The WFP MAC Layers are not ready.",
+  "remarks": null,
+  "aka": [
+    "-1071513538"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_fwp_l2_driver_not_ready/-1071513538/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

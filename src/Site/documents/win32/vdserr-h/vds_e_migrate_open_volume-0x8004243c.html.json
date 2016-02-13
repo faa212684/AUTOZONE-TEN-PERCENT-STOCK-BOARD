@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_e_migrate_open_volume\0x8004243c\index.html.json
+
+title: 0x8004243C VDS_E_MIGRATE_OPEN_VOLUME in vdserr.h
+description: A volume on the selected disk could not be opened.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x8004243C",
+  "codeUrl": "/win32/vdserr-h/vds_e_migrate_open_volume/0x8004243c/",
+  "numericCode": -2147212228,
+  "define": "VDS_E_MIGRATE_OPEN_VOLUME",
+  "defineUrl": "/win32/vdserr-h/vds_e_migrate_open_volume/",
+  "message": "A volume on the selected disk could not be opened.",
+  "remarks": null,
+  "aka": [
+    "-2147212228"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_migrate_open_volume/-2147212228/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

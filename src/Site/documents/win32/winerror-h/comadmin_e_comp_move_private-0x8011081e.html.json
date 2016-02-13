@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\comadmin_e_comp_move_private\0x8011081e\index.html.json
+
+title: 0x8011081E COMADMIN_E_COMP_MOVE_PRIVATE in winerror.h
+description: A private component cannot be moved (or copied) to a library application or to the base partition
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8011081E",
+  "codeUrl": "/win32/winerror-h/comadmin_e_comp_move_private/0x8011081e/",
+  "numericCode": -2146367458,
+  "define": "COMADMIN_E_COMP_MOVE_PRIVATE",
+  "defineUrl": "/win32/winerror-h/comadmin_e_comp_move_private/",
+  "message": "A private component cannot be moved (or copied) to a library application or to the base partition",
+  "remarks": null,
+  "aka": [
+    "-2146367458"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/comadmin_e_comp_move_private/-2146367458/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

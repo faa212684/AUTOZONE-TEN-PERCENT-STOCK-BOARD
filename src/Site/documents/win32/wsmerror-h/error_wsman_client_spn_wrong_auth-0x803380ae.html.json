@@ -1,0 +1,29 @@
+---
+output: win32\wsmerror-h\error_wsman_client_spn_wrong_auth\0x803380ae\index.html.json
+
+title: 0x803380AE ERROR_WSMAN_CLIENT_SPN_WRONG_AUTH in wsmerror.h
+description: The WinRM client cannot process the request. The SPN Server Port can only be used when the authentication mechanism is Negotiate or Kerberos.
+Remove the SPN Server Port or change the authentication mechanism and try the request again.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x803380AE",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_client_spn_wrong_auth/0x803380ae/",
+  "numericCode": -2144108370,
+  "define": "ERROR_WSMAN_CLIENT_SPN_WRONG_AUTH",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_client_spn_wrong_auth/",
+  "message": "The WinRM client cannot process the request. The SPN Server Port can only be used when the authentication mechanism is Negotiate or Kerberos.\r\nRemove the SPN Server Port or change the authentication mechanism and try the request again.",
+  "remarks": null,
+  "aka": [
+    "-2144108370"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_client_spn_wrong_auth/-2144108370/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

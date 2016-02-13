@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\rpc_s_invalid_name_syntax\1736\index.html.json
+
+title: 1736 RPC_S_INVALID_NAME_SYNTAX in winerror.h
+description: The name syntax is invalid.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1736",
+  "codeUrl": "/win32/winerror-h/rpc_s_invalid_name_syntax/1736/",
+  "numericCode": 1736,
+  "define": "RPC_S_INVALID_NAME_SYNTAX",
+  "defineUrl": "/win32/winerror-h/rpc_s_invalid_name_syntax/",
+  "message": "The name syntax is invalid.",
+  "remarks": null,
+  "aka": [
+    "0x800706c8",
+    "-2147023160"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/rpc_s_invalid_name_syntax/0x800706c8/",
+    "/win32/winerror-h/rpc_s_invalid_name_syntax/-2147023160/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

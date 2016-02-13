@@ -1,0 +1,24 @@
+---
+output: win32\windowssearcherrors-h\jps_s_duplicate_doc_detected\266624\index.html.json
+canonical: /win32/windowssearcherrors-h/jps_s_duplicate_doc_detected/0x00041180/
+title: 266624 JPS_S_DUPLICATE_DOC_DETECTED in WindowsSearchErrors.h
+description: The content index server detected a previously crawled document with the same content. This is an internal error code and should not be reported to users.  Call Microsoft Product Support.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "266624",
+  "codeUrl": "/win32/windowssearcherrors-h/jps_s_duplicate_doc_detected/266624/",
+  "numericCode": 0,
+  "define": "JPS_S_DUPLICATE_DOC_DETECTED",
+  "defineUrl": "/win32/windowssearcherrors-h/jps_s_duplicate_doc_detected/",
+  "message": "The content index server detected a previously crawled document with the same content. This is an internal error code and should not be reported to users.  Call Microsoft Product Support.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x00041180",
+  "originalCodeUrl": "/win32/windowssearcherrors-h/jps_s_duplicate_doc_detected/0x00041180/"
+}

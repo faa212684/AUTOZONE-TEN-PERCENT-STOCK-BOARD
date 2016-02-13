@@ -1,0 +1,29 @@
+---
+output: win32\ntstatus-h\status_callback_returned_ldr_lock\0xc000071e\index.html.json
+
+title: 0xC000071E STATUS_CALLBACK_RETURNED_LDR_LOCK in ntstatus.h
+description: A threadpool worker thread enter a callback, which left the loader lock held.
+This is unexpected, indicating that the callback missed releasing the lock.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000071E",
+  "codeUrl": "/win32/ntstatus-h/status_callback_returned_ldr_lock/0xc000071e/",
+  "numericCode": -1073740002,
+  "define": "STATUS_CALLBACK_RETURNED_LDR_LOCK",
+  "defineUrl": "/win32/ntstatus-h/status_callback_returned_ldr_lock/",
+  "message": "A threadpool worker thread enter a callback, which left the loader lock held.\r\nThis is unexpected, indicating that the callback missed releasing the lock.",
+  "remarks": null,
+  "aka": [
+    "-1073740002"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_callback_returned_ldr_lock/-1073740002/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

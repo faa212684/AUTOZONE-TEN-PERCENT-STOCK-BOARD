@@ -1,0 +1,24 @@
+---
+output: win32\windowssearcherrors-h\idx_e_prop_major_version_mismatch\-2147217128\index.html.json
+canonical: /win32/windowssearcherrors-h/idx_e_prop_major_version_mismatch/0x80041118/
+title: -2147217128 IDX_E_PROP_MAJOR_VERSION_MISMATCH in WindowsSearchErrors.h
+description: There is a mismatch in the major version number. Check that the same versions of search are used on both the content index and search servers.  If necessary, crawl the index again and repropagate the index.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "-2147217128",
+  "codeUrl": "/win32/windowssearcherrors-h/idx_e_prop_major_version_mismatch/-2147217128/",
+  "numericCode": 0,
+  "define": "IDX_E_PROP_MAJOR_VERSION_MISMATCH",
+  "defineUrl": "/win32/windowssearcherrors-h/idx_e_prop_major_version_mismatch/",
+  "message": "There is a mismatch in the major version number. Check that the same versions of search are used on both the content index and search servers.  If necessary, crawl the index again and repropagate the index.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80041118",
+  "originalCodeUrl": "/win32/windowssearcherrors-h/idx_e_prop_major_version_mismatch/0x80041118/"
+}

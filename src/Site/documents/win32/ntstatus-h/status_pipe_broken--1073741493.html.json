@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_pipe_broken\-1073741493\index.html.json
+canonical: /win32/ntstatus-h/status_pipe_broken/0xc000014b/
+title: -1073741493 STATUS_PIPE_BROKEN in ntstatus.h
+description: The pipe operation has failed because the other end of the pipe has been closed.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741493",
+  "codeUrl": "/win32/ntstatus-h/status_pipe_broken/-1073741493/",
+  "numericCode": 0,
+  "define": "STATUS_PIPE_BROKEN",
+  "defineUrl": "/win32/ntstatus-h/status_pipe_broken/",
+  "message": "The pipe operation has failed because the other end of the pipe has been closed.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC000014B",
+  "originalCodeUrl": "/win32/ntstatus-h/status_pipe_broken/0xc000014b/"
+}

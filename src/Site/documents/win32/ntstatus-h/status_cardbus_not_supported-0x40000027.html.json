@@ -1,0 +1,29 @@
+---
+output: win32\ntstatus-h\status_cardbus_not_supported\0x40000027\index.html.json
+
+title: 0x40000027 STATUS_CARDBUS_NOT_SUPPORTED in ntstatus.h
+description: The device "%hs" has detected a CardBus card in its slot, but the firmware on this system is not configured to allow the CardBus controller to be run in CardBus mode.
+The operating system will currently accept only 16-bit (R2) pc-cards on this controller.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0x40000027",
+  "codeUrl": "/win32/ntstatus-h/status_cardbus_not_supported/0x40000027/",
+  "numericCode": 1073741863,
+  "define": "STATUS_CARDBUS_NOT_SUPPORTED",
+  "defineUrl": "/win32/ntstatus-h/status_cardbus_not_supported/",
+  "message": "The device \"%hs\" has detected a CardBus card in its slot, but the firmware on this system is not configured to allow the CardBus controller to be run in CardBus mode.\r\nThe operating system will currently accept only 16-bit (R2) pc-cards on this controller.",
+  "remarks": null,
+  "aka": [
+    "1073741863"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_cardbus_not_supported/1073741863/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

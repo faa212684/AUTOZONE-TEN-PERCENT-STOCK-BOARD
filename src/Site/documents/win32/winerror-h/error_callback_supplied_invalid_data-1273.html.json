@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_callback_supplied_invalid_data\1273\index.html.json
+
+title: 1273 ERROR_CALLBACK_SUPPLIED_INVALID_DATA in winerror.h
+description: An application-defined callback gave invalid data when called.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1273",
+  "codeUrl": "/win32/winerror-h/error_callback_supplied_invalid_data/1273/",
+  "numericCode": 1273,
+  "define": "ERROR_CALLBACK_SUPPLIED_INVALID_DATA",
+  "defineUrl": "/win32/winerror-h/error_callback_supplied_invalid_data/",
+  "message": "An application-defined callback gave invalid data when called.",
+  "remarks": null,
+  "aka": [
+    "0x800704f9",
+    "-2147023623"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_callback_supplied_invalid_data/0x800704f9/",
+    "/win32/winerror-h/error_callback_supplied_invalid_data/-2147023623/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

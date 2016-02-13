@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\rpc_s_call_in_progress\1791\index.html.json
+
+title: 1791 RPC_S_CALL_IN_PROGRESS in winerror.h
+description: A remote procedure call is already in progress for this thread.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1791",
+  "codeUrl": "/win32/winerror-h/rpc_s_call_in_progress/1791/",
+  "numericCode": 1791,
+  "define": "RPC_S_CALL_IN_PROGRESS",
+  "defineUrl": "/win32/winerror-h/rpc_s_call_in_progress/",
+  "message": "A remote procedure call is already in progress for this thread.",
+  "remarks": null,
+  "aka": [
+    "0x800706ff",
+    "-2147023105"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/rpc_s_call_in_progress/0x800706ff/",
+    "/win32/winerror-h/rpc_s_call_in_progress/-2147023105/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

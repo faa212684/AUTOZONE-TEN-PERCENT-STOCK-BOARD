@@ -1,0 +1,28 @@
+---
+output: win32\windowssearcherrors-h\coll_e_incompatiblecolumns\0x80040503\index.html.json
+
+title: 0x80040503 COLL_E_INCOMPATIBLECOLUMNS in WindowsSearchErrors.h
+description: The query cannot be collated, because columns using the same name have different types.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "0x80040503",
+  "codeUrl": "/win32/windowssearcherrors-h/coll_e_incompatiblecolumns/0x80040503/",
+  "numericCode": -2147220221,
+  "define": "COLL_E_INCOMPATIBLECOLUMNS",
+  "defineUrl": "/win32/windowssearcherrors-h/coll_e_incompatiblecolumns/",
+  "message": "The query cannot be collated, because columns using the same name have different types.",
+  "remarks": null,
+  "aka": [
+    "-2147220221"
+  ],
+  "akaUrl": [
+    "/win32/windowssearcherrors-h/coll_e_incompatiblecolumns/-2147220221/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

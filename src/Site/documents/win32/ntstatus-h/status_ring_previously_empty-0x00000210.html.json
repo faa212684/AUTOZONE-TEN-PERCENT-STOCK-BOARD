@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_ring_previously_empty\0x00000210\index.html.json
+
+title: 0x00000210 STATUS_RING_PREVIOUSLY_EMPTY in ntstatus.h
+description: The specified ring buffer was empty before the packet was successfully inserted.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0x00000210",
+  "codeUrl": "/win32/ntstatus-h/status_ring_previously_empty/0x00000210/",
+  "numericCode": 528,
+  "define": "STATUS_RING_PREVIOUSLY_EMPTY",
+  "defineUrl": "/win32/ntstatus-h/status_ring_previously_empty/",
+  "message": "The specified ring buffer was empty before the packet was successfully inserted.",
+  "remarks": null,
+  "aka": [
+    "528"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_ring_previously_empty/528/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_invalid_ea_name\254\index.html.json
+
+title: 254 ERROR_INVALID_EA_NAME in winerror.h
+description: The specified extended attribute name was invalid.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "254",
+  "codeUrl": "/win32/winerror-h/error_invalid_ea_name/254/",
+  "numericCode": 254,
+  "define": "ERROR_INVALID_EA_NAME",
+  "defineUrl": "/win32/winerror-h/error_invalid_ea_name/",
+  "message": "The specified extended attribute name was invalid.",
+  "remarks": null,
+  "aka": [
+    "0x800700fe",
+    "-2147024642"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_invalid_ea_name/0x800700fe/",
+    "/win32/winerror-h/error_invalid_ea_name/-2147024642/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_unrecognized_volume\-1073741489\index.html.json
+canonical: /win32/ntstatus-h/status_unrecognized_volume/0xc000014f/
+title: -1073741489 STATUS_UNRECOGNIZED_VOLUME in ntstatus.h
+description: The volume does not contain a recognized file system. Please make sure that all required file system drivers are loaded and that the volume is not corrupt.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741489",
+  "codeUrl": "/win32/ntstatus-h/status_unrecognized_volume/-1073741489/",
+  "numericCode": 0,
+  "define": "STATUS_UNRECOGNIZED_VOLUME",
+  "defineUrl": "/win32/ntstatus-h/status_unrecognized_volume/",
+  "message": "The volume does not contain a recognized file system. Please make sure that all required file system drivers are loaded and that the volume is not corrupt.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC000014F",
+  "originalCodeUrl": "/win32/ntstatus-h/status_unrecognized_volume/0xc000014f/"
+}

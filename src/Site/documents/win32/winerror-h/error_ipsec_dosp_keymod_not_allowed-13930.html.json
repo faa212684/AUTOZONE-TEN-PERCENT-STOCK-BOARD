@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ipsec_dosp_keymod_not_allowed\13930\index.html.json
+
+title: 13930 ERROR_IPSEC_DOSP_KEYMOD_NOT_ALLOWED in winerror.h
+description: IPsec DoS Protection received an IPsec negotiation packet for a keying module which is not allowed by policy.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "13930",
+  "codeUrl": "/win32/winerror-h/error_ipsec_dosp_keymod_not_allowed/13930/",
+  "numericCode": 13930,
+  "define": "ERROR_IPSEC_DOSP_KEYMOD_NOT_ALLOWED",
+  "defineUrl": "/win32/winerror-h/error_ipsec_dosp_keymod_not_allowed/",
+  "message": "IPsec DoS Protection received an IPsec negotiation packet for a keying module which is not allowed by policy.",
+  "remarks": null,
+  "aka": [
+    "0x8007366a",
+    "-2147010966"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ipsec_dosp_keymod_not_allowed/0x8007366a/",
+    "/win32/winerror-h/error_ipsec_dosp_keymod_not_allowed/-2147010966/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

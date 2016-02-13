@@ -1,0 +1,24 @@
+---
+output: win32\netevent-h\event_bowser_getbrowserlist_threshold_exceeded\1073749855\index.html.json
+canonical: /win32/netevent-h/event_bowser_getbrowserlist_threshold_exceeded/0x40001f5f/
+title: 1073749855 EVENT_BOWSER_GETBROWSERLIST_THRESHOLD_EXCEEDED in netevent.h
+description: The browser driver has discarded too many GetBrowserServerList requests.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "1073749855",
+  "codeUrl": "/win32/netevent-h/event_bowser_getbrowserlist_threshold_exceeded/1073749855/",
+  "numericCode": 0,
+  "define": "EVENT_BOWSER_GETBROWSERLIST_THRESHOLD_EXCEEDED",
+  "defineUrl": "/win32/netevent-h/event_bowser_getbrowserlist_threshold_exceeded/",
+  "message": "The browser driver has discarded too many GetBrowserServerList requests.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x40001F5F",
+  "originalCodeUrl": "/win32/netevent-h/event_bowser_getbrowserlist_threshold_exceeded/0x40001f5f/"
+}

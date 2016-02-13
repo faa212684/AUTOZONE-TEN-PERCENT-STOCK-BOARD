@@ -1,0 +1,24 @@
+---
+output: win32\vdserr-h\vds_e_invalid_block_size\-2147211982\index.html.json
+canonical: /win32/vdserr-h/vds_e_invalid_block_size/0x80042532/
+title: -2147211982 VDS_E_INVALID_BLOCK_SIZE in vdserr.h
+description: Neither the volume stripe size or disk sector size was found to be non-zero.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "-2147211982",
+  "codeUrl": "/win32/vdserr-h/vds_e_invalid_block_size/-2147211982/",
+  "numericCode": 0,
+  "define": "VDS_E_INVALID_BLOCK_SIZE",
+  "defineUrl": "/win32/vdserr-h/vds_e_invalid_block_size/",
+  "message": "Neither the volume stripe size or disk sector size was found to be non-zero.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80042532",
+  "originalCodeUrl": "/win32/vdserr-h/vds_e_invalid_block_size/0x80042532/"
+}

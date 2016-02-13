@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_volume_not_upgraded\0xc000029c\index.html.json
+
+title: 0xC000029C STATUS_VOLUME_NOT_UPGRADED in ntstatus.h
+description: The volume must be upgraded to enable this feature
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000029C",
+  "codeUrl": "/win32/ntstatus-h/status_volume_not_upgraded/0xc000029c/",
+  "numericCode": -1073741156,
+  "define": "STATUS_VOLUME_NOT_UPGRADED",
+  "defineUrl": "/win32/ntstatus-h/status_volume_not_upgraded/",
+  "message": "The volume must be upgraded to enable this feature",
+  "remarks": null,
+  "aka": [
+    "-1073741156"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_volume_not_upgraded/-1073741156/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

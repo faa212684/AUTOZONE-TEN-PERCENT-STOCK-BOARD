@@ -1,0 +1,26 @@
+---
+output: win32\ntstatus-h\status_single_step\-2147483644\index.html.json
+canonical: /win32/ntstatus-h/status_single_step/0x80000004/
+title: -2147483644 STATUS_SINGLE_STEP in ntstatus.h
+description: "{EXCEPTION}
+Single Step
+A single step or trace operation has just been completed."
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-2147483644",
+  "codeUrl": "/win32/ntstatus-h/status_single_step/-2147483644/",
+  "numericCode": 0,
+  "define": "STATUS_SINGLE_STEP",
+  "defineUrl": "/win32/ntstatus-h/status_single_step/",
+  "message": "{EXCEPTION}\r\nSingle Step\r\nA single step or trace operation has just been completed.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80000004",
+  "originalCodeUrl": "/win32/ntstatus-h/status_single_step/0x80000004/"
+}

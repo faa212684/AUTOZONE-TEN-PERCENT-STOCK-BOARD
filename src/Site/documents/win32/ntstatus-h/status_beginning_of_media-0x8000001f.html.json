@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_beginning_of_media\0x8000001f\index.html.json
+
+title: 0x8000001F STATUS_BEGINNING_OF_MEDIA in ntstatus.h
+description: Beginning of tape or partition has been detected.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0x8000001F",
+  "codeUrl": "/win32/ntstatus-h/status_beginning_of_media/0x8000001f/",
+  "numericCode": -2147483617,
+  "define": "STATUS_BEGINNING_OF_MEDIA",
+  "defineUrl": "/win32/ntstatus-h/status_beginning_of_media/",
+  "message": "Beginning of tape or partition has been detected.",
+  "remarks": null,
+  "aka": [
+    "-2147483617"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_beginning_of_media/-2147483617/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

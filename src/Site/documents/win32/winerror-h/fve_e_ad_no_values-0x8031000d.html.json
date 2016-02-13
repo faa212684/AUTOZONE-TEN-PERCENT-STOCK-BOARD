@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\fve_e_ad_no_values\0x8031000d\index.html.json
+
+title: 0x8031000D FVE_E_AD_NO_VALUES in winerror.h
+description: The attribute read from Active Directory does not contain any values. The BitLocker recovery information may be missing or corrupted.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8031000D",
+  "codeUrl": "/win32/winerror-h/fve_e_ad_no_values/0x8031000d/",
+  "numericCode": -2144272371,
+  "define": "FVE_E_AD_NO_VALUES",
+  "defineUrl": "/win32/winerror-h/fve_e_ad_no_values/",
+  "message": "The attribute read from Active Directory does not contain any values. The BitLocker recovery information may be missing or corrupted.",
+  "remarks": null,
+  "aka": [
+    "-2144272371"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/fve_e_ad_no_values/-2144272371/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

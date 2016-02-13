@@ -1,0 +1,28 @@
+---
+output: win32\bitsmsg-h\bg_e_http_error_502\0x801901f6\index.html.json
+
+title: 0x801901F6 BG_E_HTTP_ERROR_502 in BitsMsg.h
+description: HTTP status 502: The server, while acting as a gateway or proxy to fulfill the request, received an invalid response from the upstream server it accessed.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "BitsMsg.h",
+  "sourceUrl": "/win32/bitsmsg-h/",
+  "code": "0x801901F6",
+  "codeUrl": "/win32/bitsmsg-h/bg_e_http_error_502/0x801901f6/",
+  "numericCode": -2145844746,
+  "define": "BG_E_HTTP_ERROR_502",
+  "defineUrl": "/win32/bitsmsg-h/bg_e_http_error_502/",
+  "message": "HTTP status 502: The server, while acting as a gateway or proxy to fulfill the request, received an invalid response from the upstream server it accessed.",
+  "remarks": null,
+  "aka": [
+    "-2145844746"
+  ],
+  "akaUrl": [
+    "/win32/bitsmsg-h/bg_e_http_error_502/-2145844746/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

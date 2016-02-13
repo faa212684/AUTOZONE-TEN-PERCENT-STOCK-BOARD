@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ds_cant_mix_master_and_reps\8331\index.html.json
+
+title: 8331 ERROR_DS_CANT_MIX_MASTER_AND_REPS in winerror.h
+description: The object and parent must be of the same type, either both masters or both replicas.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "8331",
+  "codeUrl": "/win32/winerror-h/error_ds_cant_mix_master_and_reps/8331/",
+  "numericCode": 8331,
+  "define": "ERROR_DS_CANT_MIX_MASTER_AND_REPS",
+  "defineUrl": "/win32/winerror-h/error_ds_cant_mix_master_and_reps/",
+  "message": "The object and parent must be of the same type, either both masters or both replicas.",
+  "remarks": null,
+  "aka": [
+    "0x8007208b",
+    "-2147016565"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ds_cant_mix_master_and_reps/0x8007208b/",
+    "/win32/winerror-h/error_ds_cant_mix_master_and_reps/-2147016565/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

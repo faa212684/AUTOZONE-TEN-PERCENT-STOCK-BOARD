@@ -1,0 +1,28 @@
+---
+output: win32\fsrmerr-h\fsrm_s_classification_scan_failures\0x00045306\index.html.json
+
+title: 0x00045306 FSRM_S_CLASSIFICATION_SCAN_FAILURES in fsrmerr.h
+description: Classification failed on one or more volumes. Check the application event log for more information.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "fsrmerr.h",
+  "sourceUrl": "/win32/fsrmerr-h/",
+  "code": "0x00045306",
+  "codeUrl": "/win32/fsrmerr-h/fsrm_s_classification_scan_failures/0x00045306/",
+  "numericCode": 283398,
+  "define": "FSRM_S_CLASSIFICATION_SCAN_FAILURES",
+  "defineUrl": "/win32/fsrmerr-h/fsrm_s_classification_scan_failures/",
+  "message": "Classification failed on one or more volumes. Check the application event log for more information.",
+  "remarks": null,
+  "aka": [
+    "283398"
+  ],
+  "akaUrl": [
+    "/win32/fsrmerr-h/fsrm_s_classification_scan_failures/283398/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

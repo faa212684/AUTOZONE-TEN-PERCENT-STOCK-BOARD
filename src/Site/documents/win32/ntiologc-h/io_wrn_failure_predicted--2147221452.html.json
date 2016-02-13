@@ -1,0 +1,26 @@
+---
+output: win32\ntiologc-h\io_wrn_failure_predicted\-2147221452\index.html.json
+canonical: /win32/ntiologc-h/io_wrn_failure_predicted/0x80040034/
+title: -2147221452 IO_WRN_FAILURE_PREDICTED in ntiologc.h
+description: The driver has detected that device %1 has predicted that it will fail.
+Immediately back up your data and replace your hard disk drive. A failure
+may be imminent.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntiologc.h",
+  "sourceUrl": "/win32/ntiologc-h/",
+  "code": "-2147221452",
+  "codeUrl": "/win32/ntiologc-h/io_wrn_failure_predicted/-2147221452/",
+  "numericCode": 0,
+  "define": "IO_WRN_FAILURE_PREDICTED",
+  "defineUrl": "/win32/ntiologc-h/io_wrn_failure_predicted/",
+  "message": "The driver has detected that device %1 has predicted that it will fail.\r\nImmediately back up your data and replace your hard disk drive. A failure\r\nmay be imminent.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80040034",
+  "originalCodeUrl": "/win32/ntiologc-h/io_wrn_failure_predicted/0x80040034/"
+}

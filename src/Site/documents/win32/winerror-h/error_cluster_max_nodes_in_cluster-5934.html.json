@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_cluster_max_nodes_in_cluster\5934\index.html.json
+
+title: 5934 ERROR_CLUSTER_MAX_NODES_IN_CLUSTER in winerror.h
+description: A new node can not be added since this cluster is already at its maximum number of nodes.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "5934",
+  "codeUrl": "/win32/winerror-h/error_cluster_max_nodes_in_cluster/5934/",
+  "numericCode": 5934,
+  "define": "ERROR_CLUSTER_MAX_NODES_IN_CLUSTER",
+  "defineUrl": "/win32/winerror-h/error_cluster_max_nodes_in_cluster/",
+  "message": "A new node can not be added since this cluster is already at its maximum number of nodes.",
+  "remarks": null,
+  "aka": [
+    "0x8007172e",
+    "-2147018962"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_cluster_max_nodes_in_cluster/0x8007172e/",
+    "/win32/winerror-h/error_cluster_max_nodes_in_cluster/-2147018962/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

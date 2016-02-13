@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_ft_write_failure\0xc000046b\index.html.json
+
+title: 0xC000046B STATUS_FT_WRITE_FAILURE in ntstatus.h
+description: The specified data could not be written to any of the copies.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000046B",
+  "codeUrl": "/win32/ntstatus-h/status_ft_write_failure/0xc000046b/",
+  "numericCode": -1073740693,
+  "define": "STATUS_FT_WRITE_FAILURE",
+  "defineUrl": "/win32/ntstatus-h/status_ft_write_failure/",
+  "message": "The specified data could not be written to any of the copies.",
+  "remarks": null,
+  "aka": [
+    "-1073740693"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_ft_write_failure/-1073740693/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

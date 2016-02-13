@@ -1,0 +1,28 @@
+---
+output: win32\iscsierr-h\isdsc_session_busy\0xefff001f\index.html.json
+
+title: 0xEFFF001F ISDSC_SESSION_BUSY in iscsierr.h
+description: Session is busy since a request is already in progress.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "iscsierr.h",
+  "sourceUrl": "/win32/iscsierr-h/",
+  "code": "0xEFFF001F",
+  "codeUrl": "/win32/iscsierr-h/isdsc_session_busy/0xefff001f/",
+  "numericCode": -268500961,
+  "define": "ISDSC_SESSION_BUSY",
+  "defineUrl": "/win32/iscsierr-h/isdsc_session_busy/",
+  "message": "Session is busy since a request is already in progress.",
+  "remarks": null,
+  "aka": [
+    "-268500961"
+  ],
+  "akaUrl": [
+    "/win32/iscsierr-h/isdsc_session_busy/-268500961/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

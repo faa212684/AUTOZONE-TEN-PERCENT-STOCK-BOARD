@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_port_disconnected\-1073741769\index.html.json
+canonical: /win32/ntstatus-h/status_port_disconnected/0xc0000037/
+title: -1073741769 STATUS_PORT_DISCONNECTED in ntstatus.h
+description: Attempt to send a message to a disconnected communication port.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741769",
+  "codeUrl": "/win32/ntstatus-h/status_port_disconnected/-1073741769/",
+  "numericCode": 0,
+  "define": "STATUS_PORT_DISCONNECTED",
+  "defineUrl": "/win32/ntstatus-h/status_port_disconnected/",
+  "message": "Attempt to send a message to a disconnected communication port.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000037",
+  "originalCodeUrl": "/win32/ntstatus-h/status_port_disconnected/0xc0000037/"
+}

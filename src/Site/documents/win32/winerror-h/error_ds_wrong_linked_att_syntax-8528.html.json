@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ds_wrong_linked_att_syntax\8528\index.html.json
+
+title: 8528 ERROR_DS_WRONG_LINKED_ATT_SYNTAX in winerror.h
+description: The syntax of the linked attribute being added is incorrect. Forward links can only have syntax 2.5.5.1, 2.5.5.7, and 2.5.5.14, and backlinks can only have syntax 2.5.5.1
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "8528",
+  "codeUrl": "/win32/winerror-h/error_ds_wrong_linked_att_syntax/8528/",
+  "numericCode": 8528,
+  "define": "ERROR_DS_WRONG_LINKED_ATT_SYNTAX",
+  "defineUrl": "/win32/winerror-h/error_ds_wrong_linked_att_syntax/",
+  "message": "The syntax of the linked attribute being added is incorrect. Forward links can only have syntax 2.5.5.1, 2.5.5.7, and 2.5.5.14, and backlinks can only have syntax 2.5.5.1",
+  "remarks": null,
+  "aka": [
+    "0x80072150",
+    "-2147016368"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ds_wrong_linked_att_syntax/0x80072150/",
+    "/win32/winerror-h/error_ds_wrong_linked_att_syntax/-2147016368/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

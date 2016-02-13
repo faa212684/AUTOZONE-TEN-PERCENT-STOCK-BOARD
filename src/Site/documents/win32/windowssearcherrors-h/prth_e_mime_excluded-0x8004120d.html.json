@@ -1,0 +1,28 @@
+---
+output: win32\windowssearcherrors-h\prth_e_mime_excluded\0x8004120d\index.html.json
+
+title: 0x8004120D PRTH_E_MIME_EXCLUDED in WindowsSearchErrors.h
+description: The URL was excluded because its content type (multipart/x-mixed-replace) is not supported.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "0x8004120D",
+  "codeUrl": "/win32/windowssearcherrors-h/prth_e_mime_excluded/0x8004120d/",
+  "numericCode": -2147216883,
+  "define": "PRTH_E_MIME_EXCLUDED",
+  "defineUrl": "/win32/windowssearcherrors-h/prth_e_mime_excluded/",
+  "message": "The URL was excluded because its content type (multipart/x-mixed-replace) is not supported.",
+  "remarks": null,
+  "aka": [
+    "-2147216883"
+  ],
+  "akaUrl": [
+    "/win32/windowssearcherrors-h/prth_e_mime_excluded/-2147216883/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

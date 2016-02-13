@@ -1,0 +1,29 @@
+---
+output: win32\ntstatus-h\status_section_too_big\0xc0000040\index.html.json
+
+title: 0xC0000040 STATUS_SECTION_TOO_BIG in ntstatus.h
+description: "{Section Too Large}
+The specified section is too big to map the file."
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000040",
+  "codeUrl": "/win32/ntstatus-h/status_section_too_big/0xc0000040/",
+  "numericCode": -1073741760,
+  "define": "STATUS_SECTION_TOO_BIG",
+  "defineUrl": "/win32/ntstatus-h/status_section_too_big/",
+  "message": "{Section Too Large}\r\nThe specified section is too big to map the file.",
+  "remarks": null,
+  "aka": [
+    "-1073741760"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_section_too_big/-1073741760/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

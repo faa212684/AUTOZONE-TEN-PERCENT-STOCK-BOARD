@@ -1,0 +1,33 @@
+---
+output: win32\netevent-h\event_dnsapi_registered_adapter_primary_dn\1073753026\index.html.json
+canonical: /win32/netevent-h/event_dnsapi_registered_adapter_primary_dn/0x40002bc2/
+title: 1073753026 EVENT_DNSAPI_REGISTERED_ADAPTER_PRIMARY_DN in netevent.h
+description: The system registered host (A or AAAA) resource records (RRs) for network
+adapter%nwith settings :%n%n
+Adapter Name : %1%n
+Host Name : %2%n
+Primary Domain Suffix : %3%n
+DNS server list :%n
+%4%n
+Sent update to server : %5%n
+IP Address(es) :%n
+%6
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "1073753026",
+  "codeUrl": "/win32/netevent-h/event_dnsapi_registered_adapter_primary_dn/1073753026/",
+  "numericCode": 0,
+  "define": "EVENT_DNSAPI_REGISTERED_ADAPTER_PRIMARY_DN",
+  "defineUrl": "/win32/netevent-h/event_dnsapi_registered_adapter_primary_dn/",
+  "message": "The system registered host (A or AAAA) resource records (RRs) for network\r\nadapter%nwith settings :%n%n\r\nAdapter Name : %1%n\r\nHost Name : %2%n\r\nPrimary Domain Suffix : %3%n\r\nDNS server list :%n\r\n%4%n\r\nSent update to server : %5%n\r\nIP Address(es) :%n\r\n%6",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x40002BC2",
+  "originalCodeUrl": "/win32/netevent-h/event_dnsapi_registered_adapter_primary_dn/0x40002bc2/"
+}

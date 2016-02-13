@@ -1,0 +1,25 @@
+---
+output: win32\ntstatus-h\status_css_region_mismatch\-1073741046\index.html.json
+canonical: /win32/ntstatus-h/status_css_region_mismatch/0xc000030a/
+title: -1073741046 STATUS_CSS_REGION_MISMATCH in ntstatus.h
+description: Copy protection error - The given DVD's region does not correspond to the
+region setting of the drive.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741046",
+  "codeUrl": "/win32/ntstatus-h/status_css_region_mismatch/-1073741046/",
+  "numericCode": 0,
+  "define": "STATUS_CSS_REGION_MISMATCH",
+  "defineUrl": "/win32/ntstatus-h/status_css_region_mismatch/",
+  "message": "Copy protection error - The given DVD's region does not correspond to the\r\nregion setting of the drive.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC000030A",
+  "originalCodeUrl": "/win32/ntstatus-h/status_css_region_mismatch/0xc000030a/"
+}

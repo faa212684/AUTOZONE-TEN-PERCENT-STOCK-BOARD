@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_fve_raw_blocked\0xc0210023\index.html.json
+
+title: 0xC0210023 STATUS_FVE_RAW_BLOCKED in ntstatus.h
+description: BitLocker Drive Encryption cannot enter raw access mode for this volume.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0210023",
+  "codeUrl": "/win32/ntstatus-h/status_fve_raw_blocked/0xc0210023/",
+  "numericCode": -1071579101,
+  "define": "STATUS_FVE_RAW_BLOCKED",
+  "defineUrl": "/win32/ntstatus-h/status_fve_raw_blocked/",
+  "message": "BitLocker Drive Encryption cannot enter raw access mode for this volume.",
+  "remarks": null,
+  "aka": [
+    "-1071579101"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_fve_raw_blocked/-1071579101/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

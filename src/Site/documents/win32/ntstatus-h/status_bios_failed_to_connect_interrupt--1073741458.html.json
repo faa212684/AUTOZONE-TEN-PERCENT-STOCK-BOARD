@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_bios_failed_to_connect_interrupt\-1073741458\index.html.json
+canonical: /win32/ntstatus-h/status_bios_failed_to_connect_interrupt/0xc000016e/
+title: -1073741458 STATUS_BIOS_FAILED_TO_CONNECT_INTERRUPT in ntstatus.h
+description: The system bios failed to connect a system interrupt to the device or bus for which the device is connected.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741458",
+  "codeUrl": "/win32/ntstatus-h/status_bios_failed_to_connect_interrupt/-1073741458/",
+  "numericCode": 0,
+  "define": "STATUS_BIOS_FAILED_TO_CONNECT_INTERRUPT",
+  "defineUrl": "/win32/ntstatus-h/status_bios_failed_to_connect_interrupt/",
+  "message": "The system bios failed to connect a system interrupt to the device or bus for which the device is connected.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC000016E",
+  "originalCodeUrl": "/win32/ntstatus-h/status_bios_failed_to_connect_interrupt/0xc000016e/"
+}

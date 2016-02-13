@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_kdc_unable_to_refer\0xc00002fc\index.html.json
+
+title: 0xC00002FC STATUS_KDC_UNABLE_TO_REFER in ntstatus.h
+description: The KDC was unable to generate a referral for the service requested.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC00002FC",
+  "codeUrl": "/win32/ntstatus-h/status_kdc_unable_to_refer/0xc00002fc/",
+  "numericCode": -1073741060,
+  "define": "STATUS_KDC_UNABLE_TO_REFER",
+  "defineUrl": "/win32/ntstatus-h/status_kdc_unable_to_refer/",
+  "message": "The KDC was unable to generate a referral for the service requested.",
+  "remarks": null,
+  "aka": [
+    "-1073741060"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_kdc_unable_to_refer/-1073741060/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

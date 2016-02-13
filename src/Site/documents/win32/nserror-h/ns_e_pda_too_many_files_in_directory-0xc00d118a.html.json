@@ -1,0 +1,28 @@
+---
+output: win32\nserror-h\ns_e_pda_too_many_files_in_directory\0xc00d118a\index.html.json
+
+title: 0xC00D118A NS_E_PDA_TOO_MANY_FILES_IN_DIRECTORY in nserror.h
+description: You have reached the maximum number of files your device allows in a folder. If your device supports playback from subfolders, try creating subfolders on the device and storing some files in them.%0
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "nserror.h",
+  "sourceUrl": "/win32/nserror-h/",
+  "code": "0xC00D118A",
+  "codeUrl": "/win32/nserror-h/ns_e_pda_too_many_files_in_directory/0xc00d118a/",
+  "numericCode": -1072885366,
+  "define": "NS_E_PDA_TOO_MANY_FILES_IN_DIRECTORY",
+  "defineUrl": "/win32/nserror-h/ns_e_pda_too_many_files_in_directory/",
+  "message": "You have reached the maximum number of files your device allows in a folder. If your device supports playback from subfolders, try creating subfolders on the device and storing some files in them.%0",
+  "remarks": null,
+  "aka": [
+    "-1072885366"
+  ],
+  "akaUrl": [
+    "/win32/nserror-h/ns_e_pda_too_many_files_in_directory/-1072885366/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

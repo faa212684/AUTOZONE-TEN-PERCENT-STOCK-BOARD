@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_fve_fs_mounted\-1071579129\index.html.json
+canonical: /win32/ntstatus-h/status_fve_fs_mounted/0xc0210007/
+title: -1071579129 STATUS_FVE_FS_MOUNTED in ntstatus.h
+description: This operation cannot be performed while a file system is mounted on the volume.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071579129",
+  "codeUrl": "/win32/ntstatus-h/status_fve_fs_mounted/-1071579129/",
+  "numericCode": 0,
+  "define": "STATUS_FVE_FS_MOUNTED",
+  "defineUrl": "/win32/ntstatus-h/status_fve_fs_mounted/",
+  "message": "This operation cannot be performed while a file system is mounted on the volume.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0210007",
+  "originalCodeUrl": "/win32/ntstatus-h/status_fve_fs_mounted/0xc0210007/"
+}

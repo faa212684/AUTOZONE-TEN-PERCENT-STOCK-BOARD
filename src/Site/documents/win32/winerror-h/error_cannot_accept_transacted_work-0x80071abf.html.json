@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_cannot_accept_transacted_work\0x80071abf\index.html.json
+canonical: /win32/winerror-h/error_cannot_accept_transacted_work/6847/
+title: 0x80071abf ERROR_CANNOT_ACCEPT_TRANSACTED_WORK in winerror.h
+description: The transactional resource manager cannot currently accept transacted work due to a transient condition such as low resources.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80071abf",
+  "codeUrl": "/win32/winerror-h/error_cannot_accept_transacted_work/0x80071abf/",
+  "numericCode": 0,
+  "define": "ERROR_CANNOT_ACCEPT_TRANSACTED_WORK",
+  "defineUrl": "/win32/winerror-h/error_cannot_accept_transacted_work/",
+  "message": "The transactional resource manager cannot currently accept transacted work due to a transient condition such as low resources.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "6847",
+  "originalCodeUrl": "/win32/winerror-h/error_cannot_accept_transacted_work/6847/"
+}

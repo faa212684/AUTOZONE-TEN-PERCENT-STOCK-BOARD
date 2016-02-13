@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\xact_e_duplicate_transid\0x8004d10b\index.html.json
+
+title: 0x8004D10B XACT_E_DUPLICATE_TRANSID in winerror.h
+description: A transaction with the given identifier already exists.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8004D10B",
+  "codeUrl": "/win32/winerror-h/xact_e_duplicate_transid/0x8004d10b/",
+  "numericCode": -2147167989,
+  "define": "XACT_E_DUPLICATE_TRANSID",
+  "defineUrl": "/win32/winerror-h/xact_e_duplicate_transid/",
+  "message": "A transaction with the given identifier already exists.",
+  "remarks": null,
+  "aka": [
+    "-2147167989"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/xact_e_duplicate_transid/-2147167989/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

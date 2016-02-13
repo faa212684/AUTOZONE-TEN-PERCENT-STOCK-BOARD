@@ -1,0 +1,57 @@
+---
+layout: list
+title: win32 AdsErr.h
+description: win32
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "AdsErr.h",
+  "sourceUrl": "/win32/adserr-h/",
+  "items": [
+    "0x00005011",
+    "0x00005012",
+    "0x00005013",
+    "0x80005000",
+    "0x80005001",
+    "0x80005002",
+    "0x80005003",
+    "0x80005004",
+    "0x80005005",
+    "0x80005006",
+    "0x80005007",
+    "0x80005008",
+    "0x80005009",
+    "0x8000500A",
+    "0x8000500B",
+    "0x8000500C",
+    "0x8000500D",
+    "0x8000500E",
+    "0x8000500F",
+    "0x80005010",
+    "0x80005014"
+  ],
+  "itemUrls": [
+    "/win32/adserr-h/s_ads_errorsoccurred/0x00005011/",
+    "/win32/adserr-h/s_ads_nomore_rows/0x00005012/",
+    "/win32/adserr-h/s_ads_nomore_columns/0x00005013/",
+    "/win32/adserr-h/e_ads_bad_pathname/0x80005000/",
+    "/win32/adserr-h/e_ads_invalid_domain_object/0x80005001/",
+    "/win32/adserr-h/e_ads_invalid_user_object/0x80005002/",
+    "/win32/adserr-h/e_ads_invalid_computer_object/0x80005003/",
+    "/win32/adserr-h/e_ads_unknown_object/0x80005004/",
+    "/win32/adserr-h/e_ads_property_not_set/0x80005005/",
+    "/win32/adserr-h/e_ads_property_not_supported/0x80005006/",
+    "/win32/adserr-h/e_ads_property_invalid/0x80005007/",
+    "/win32/adserr-h/e_ads_bad_parameter/0x80005008/",
+    "/win32/adserr-h/e_ads_object_unbound/0x80005009/",
+    "/win32/adserr-h/e_ads_property_not_modified/0x8000500a/",
+    "/win32/adserr-h/e_ads_property_modified/0x8000500b/",
+    "/win32/adserr-h/e_ads_cant_convert_datatype/0x8000500c/",
+    "/win32/adserr-h/e_ads_property_not_found/0x8000500d/",
+    "/win32/adserr-h/e_ads_object_exists/0x8000500e/",
+    "/win32/adserr-h/e_ads_schema_violation/0x8000500f/",
+    "/win32/adserr-h/e_ads_column_not_set/0x80005010/",
+    "/win32/adserr-h/e_ads_invalid_filter/0x80005014/"
+  ]
+}

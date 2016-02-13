@@ -1,0 +1,28 @@
+---
+output: win32\scarderr-h\scard_e_invalid_target\0x80100005\index.html.json
+
+title: 0x80100005 SCARD_E_INVALID_TARGET in SCardErr.h
+description: Registry startup information is missing or invalid.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "SCardErr.h",
+  "sourceUrl": "/win32/scarderr-h/",
+  "code": "0x80100005",
+  "codeUrl": "/win32/scarderr-h/scard_e_invalid_target/0x80100005/",
+  "numericCode": -2146435067,
+  "define": "SCARD_E_INVALID_TARGET",
+  "defineUrl": "/win32/scarderr-h/scard_e_invalid_target/",
+  "message": "Registry startup information is missing or invalid.",
+  "remarks": null,
+  "aka": [
+    "-2146435067"
+  ],
+  "akaUrl": [
+    "/win32/scarderr-h/scard_e_invalid_target/-2146435067/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

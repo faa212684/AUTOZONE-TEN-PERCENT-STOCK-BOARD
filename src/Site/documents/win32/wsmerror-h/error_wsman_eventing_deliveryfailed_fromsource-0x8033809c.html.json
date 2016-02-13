@@ -1,0 +1,29 @@
+---
+output: win32\wsmerror-h\error_wsman_eventing_deliveryfailed_fromsource\0x8033809c\index.html.json
+
+title: 0x8033809C ERROR_WSMAN_EVENTING_DELIVERYFAILED_FROMSOURCE in wsmerror.h
+description: The event source was unable to deliver events to the client.This can happen due to network issues preventing the source from connecting
+to the client.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x8033809C",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_eventing_deliveryfailed_fromsource/0x8033809c/",
+  "numericCode": -2144108388,
+  "define": "ERROR_WSMAN_EVENTING_DELIVERYFAILED_FROMSOURCE",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_eventing_deliveryfailed_fromsource/",
+  "message": "The event source was unable to deliver events to the client.This can happen due to network issues preventing the source from connecting\r\nto the client.",
+  "remarks": null,
+  "aka": [
+    "-2144108388"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_eventing_deliveryfailed_fromsource/-2144108388/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

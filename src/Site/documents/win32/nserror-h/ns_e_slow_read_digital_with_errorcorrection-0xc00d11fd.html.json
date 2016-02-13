@@ -1,0 +1,28 @@
+---
+output: win32\nserror-h\ns_e_slow_read_digital_with_errorcorrection\0xc00d11fd\index.html.json
+
+title: 0xC00D11FD NS_E_SLOW_READ_DIGITAL_WITH_ERRORCORRECTION in nserror.h
+description: Windows Media Player cannot play audio CDs correctly because the CD drive is slow and error correction is turned on. To increase performance, turn off playback error correction for this drive.%0
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "nserror.h",
+  "sourceUrl": "/win32/nserror-h/",
+  "code": "0xC00D11FD",
+  "codeUrl": "/win32/nserror-h/ns_e_slow_read_digital_with_errorcorrection/0xc00d11fd/",
+  "numericCode": -1072885251,
+  "define": "NS_E_SLOW_READ_DIGITAL_WITH_ERRORCORRECTION",
+  "defineUrl": "/win32/nserror-h/ns_e_slow_read_digital_with_errorcorrection/",
+  "message": "Windows Media Player cannot play audio CDs correctly because the CD drive is slow and error correction is turned on. To increase performance, turn off playback error correction for this drive.%0",
+  "remarks": null,
+  "aka": [
+    "-1072885251"
+  ],
+  "akaUrl": [
+    "/win32/nserror-h/ns_e_slow_read_digital_with_errorcorrection/-1072885251/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\xact_e_notcurrent\0x8004d00d\index.html.json
+
+title: 0x8004D00D XACT_E_NOTCURRENT in winerror.h
+description: The transaction failed to commit due to the failure of optimistic concurrency control in at least one of the resource managers.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8004D00D",
+  "codeUrl": "/win32/winerror-h/xact_e_notcurrent/0x8004d00d/",
+  "numericCode": -2147168243,
+  "define": "XACT_E_NOTCURRENT",
+  "defineUrl": "/win32/winerror-h/xact_e_notcurrent/",
+  "message": "The transaction failed to commit due to the failure of optimistic concurrency control in at least one of the resource managers.",
+  "remarks": null,
+  "aka": [
+    "-2147168243"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/xact_e_notcurrent/-2147168243/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

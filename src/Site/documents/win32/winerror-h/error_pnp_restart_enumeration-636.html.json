@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_pnp_restart_enumeration\636\index.html.json
+
+title: 636 ERROR_PNP_RESTART_ENUMERATION in winerror.h
+description: A device was removed so enumeration must be restarted.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "636",
+  "codeUrl": "/win32/winerror-h/error_pnp_restart_enumeration/636/",
+  "numericCode": 636,
+  "define": "ERROR_PNP_RESTART_ENUMERATION",
+  "defineUrl": "/win32/winerror-h/error_pnp_restart_enumeration/",
+  "message": "A device was removed so enumeration must be restarted.",
+  "remarks": null,
+  "aka": [
+    "0x8007027c",
+    "-2147024260"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_pnp_restart_enumeration/0x8007027c/",
+    "/win32/winerror-h/error_pnp_restart_enumeration/-2147024260/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

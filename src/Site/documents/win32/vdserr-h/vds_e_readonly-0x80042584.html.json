@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_e_readonly\0x80042584\index.html.json
+
+title: 0x80042584 VDS_E_READONLY in vdserr.h
+description: The volume is read only.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x80042584",
+  "codeUrl": "/win32/vdserr-h/vds_e_readonly/0x80042584/",
+  "numericCode": -2147211900,
+  "define": "VDS_E_READONLY",
+  "defineUrl": "/win32/vdserr-h/vds_e_readonly/",
+  "message": "The volume is read only.",
+  "remarks": null,
+  "aka": [
+    "-2147211900"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_readonly/-2147211900/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

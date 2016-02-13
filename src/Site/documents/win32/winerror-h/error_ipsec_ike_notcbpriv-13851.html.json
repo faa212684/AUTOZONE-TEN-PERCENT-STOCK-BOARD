@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ipsec_ike_notcbpriv\13851\index.html.json
+
+title: 13851 ERROR_IPSEC_IKE_NOTCBPRIV in winerror.h
+description: Failed to enabled TCB privilege.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "13851",
+  "codeUrl": "/win32/winerror-h/error_ipsec_ike_notcbpriv/13851/",
+  "numericCode": 13851,
+  "define": "ERROR_IPSEC_IKE_NOTCBPRIV",
+  "defineUrl": "/win32/winerror-h/error_ipsec_ike_notcbpriv/",
+  "message": "Failed to enabled TCB privilege.",
+  "remarks": null,
+  "aka": [
+    "0x8007361b",
+    "-2147011045"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ipsec_ike_notcbpriv/0x8007361b/",
+    "/win32/winerror-h/error_ipsec_ike_notcbpriv/-2147011045/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\scarderr-h\scard_e_certificate_unavailable\0x8010002d\index.html.json
+
+title: 0x8010002D SCARD_E_CERTIFICATE_UNAVAILABLE in SCardErr.h
+description: The requested certificate could not be obtained.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "SCardErr.h",
+  "sourceUrl": "/win32/scarderr-h/",
+  "code": "0x8010002D",
+  "codeUrl": "/win32/scarderr-h/scard_e_certificate_unavailable/0x8010002d/",
+  "numericCode": -2146435027,
+  "define": "SCARD_E_CERTIFICATE_UNAVAILABLE",
+  "defineUrl": "/win32/scarderr-h/scard_e_certificate_unavailable/",
+  "message": "The requested certificate could not be obtained.",
+  "remarks": null,
+  "aka": [
+    "-2146435027"
+  ],
+  "akaUrl": [
+    "/win32/scarderr-h/scard_e_certificate_unavailable/-2146435027/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

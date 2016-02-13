@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_vhd_parent_vhd_not_found\-1069940723\index.html.json
+canonical: /win32/ntstatus-h/status_vhd_parent_vhd_not_found/0xc03a000d/
+title: -1069940723 STATUS_VHD_PARENT_VHD_NOT_FOUND in ntstatus.h
+description: The chain of virtual hard disks is broken. The system cannot locate the parent virtual hard disk for the differencing disk.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1069940723",
+  "codeUrl": "/win32/ntstatus-h/status_vhd_parent_vhd_not_found/-1069940723/",
+  "numericCode": 0,
+  "define": "STATUS_VHD_PARENT_VHD_NOT_FOUND",
+  "defineUrl": "/win32/ntstatus-h/status_vhd_parent_vhd_not_found/",
+  "message": "The chain of virtual hard disks is broken. The system cannot locate the parent virtual hard disk for the differencing disk.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC03A000D",
+  "originalCodeUrl": "/win32/ntstatus-h/status_vhd_parent_vhd_not_found/0xc03a000d/"
+}

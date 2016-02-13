@@ -1,0 +1,25 @@
+---
+output: win32\winerror-h\error_reply_message_mismatch\-2147024301\index.html.json
+canonical: /win32/winerror-h/error_reply_message_mismatch/595/
+title: -2147024301 ERROR_REPLY_MESSAGE_MISMATCH in winerror.h
+description: "{Reply Message Mismatch}
+An attempt was made to reply to an LPC message, but the thread specified by the client ID in the message was not waiting on that message."
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147024301",
+  "codeUrl": "/win32/winerror-h/error_reply_message_mismatch/-2147024301/",
+  "numericCode": 0,
+  "define": "ERROR_REPLY_MESSAGE_MISMATCH",
+  "defineUrl": "/win32/winerror-h/error_reply_message_mismatch/",
+  "message": "{Reply Message Mismatch}\r\nAn attempt was made to reply to an LPC message, but the thread specified by the client ID in the message was not waiting on that message.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "595",
+  "originalCodeUrl": "/win32/winerror-h/error_reply_message_mismatch/595/"
+}

@@ -1,0 +1,29 @@
+---
+output: win32\wsmerror-h\error_wsman_cannot_use_proxy_settings_for_kerberos\0x803381b2\index.html.json
+
+title: 0x803381B2 ERROR_WSMAN_CANNOT_USE_PROXY_SETTINGS_FOR_KERBEROS in wsmerror.h
+description: The WinRM client cannot process the request. Setting proxy information is not valid when the authentication mechanism with the remote machine is Kerberos.
+Remove the proxy information or change the authentication mechanism and try the request again.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x803381B2",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_cannot_use_proxy_settings_for_kerberos/0x803381b2/",
+  "numericCode": -2144108110,
+  "define": "ERROR_WSMAN_CANNOT_USE_PROXY_SETTINGS_FOR_KERBEROS",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_cannot_use_proxy_settings_for_kerberos/",
+  "message": "The WinRM client cannot process the request. Setting proxy information is not valid when the authentication mechanism with the remote machine is Kerberos.\r\nRemove the proxy information or change the authentication mechanism and try the request again.",
+  "remarks": null,
+  "aka": [
+    "-2144108110"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_cannot_use_proxy_settings_for_kerberos/-2144108110/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

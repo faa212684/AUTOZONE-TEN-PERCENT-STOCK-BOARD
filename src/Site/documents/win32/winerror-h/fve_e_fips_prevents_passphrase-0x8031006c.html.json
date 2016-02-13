@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\fve_e_fips_prevents_passphrase\0x8031006c\index.html.json
+
+title: 0x8031006C FVE_E_FIPS_PREVENTS_PASSPHRASE in winerror.h
+description: The Group Policy setting requiring FIPS compliance prevents passwords from being generated or used. Please contact your system administrator for more information.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8031006C",
+  "codeUrl": "/win32/winerror-h/fve_e_fips_prevents_passphrase/0x8031006c/",
+  "numericCode": -2144272276,
+  "define": "FVE_E_FIPS_PREVENTS_PASSPHRASE",
+  "defineUrl": "/win32/winerror-h/fve_e_fips_prevents_passphrase/",
+  "message": "The Group Policy setting requiring FIPS compliance prevents passwords from being generated or used. Please contact your system administrator for more information.",
+  "remarks": null,
+  "aka": [
+    "-2144272276"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/fve_e_fips_prevents_passphrase/-2144272276/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

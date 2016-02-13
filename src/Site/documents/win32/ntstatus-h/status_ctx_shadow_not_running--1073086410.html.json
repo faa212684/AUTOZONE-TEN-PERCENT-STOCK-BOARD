@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_ctx_shadow_not_running\-1073086410\index.html.json
+canonical: /win32/ntstatus-h/status_ctx_shadow_not_running/0xc00a0036/
+title: -1073086410 STATUS_CTX_SHADOW_NOT_RUNNING in ntstatus.h
+description: Remote control could not be terminated because the specified session is not currently being remotely controlled.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073086410",
+  "codeUrl": "/win32/ntstatus-h/status_ctx_shadow_not_running/-1073086410/",
+  "numericCode": 0,
+  "define": "STATUS_CTX_SHADOW_NOT_RUNNING",
+  "defineUrl": "/win32/ntstatus-h/status_ctx_shadow_not_running/",
+  "message": "Remote control could not be terminated because the specified session is not currently being remotely controlled.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC00A0036",
+  "originalCodeUrl": "/win32/ntstatus-h/status_ctx_shadow_not_running/0xc00a0036/"
+}

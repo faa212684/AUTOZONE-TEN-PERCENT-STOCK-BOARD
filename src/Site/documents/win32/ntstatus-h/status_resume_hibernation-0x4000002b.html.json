@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_resume_hibernation\0x4000002b\index.html.json
+
+title: 0x4000002B STATUS_RESUME_HIBERNATION in ntstatus.h
+description: The system was resumed from hibernation.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0x4000002B",
+  "codeUrl": "/win32/ntstatus-h/status_resume_hibernation/0x4000002b/",
+  "numericCode": 1073741867,
+  "define": "STATUS_RESUME_HIBERNATION",
+  "defineUrl": "/win32/ntstatus-h/status_resume_hibernation/",
+  "message": "The system was resumed from hibernation.",
+  "remarks": null,
+  "aka": [
+    "1073741867"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_resume_hibernation/1073741867/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\fve_e_keyfile_not_found\-2144272324\index.html.json
+canonical: /win32/winerror-h/fve_e_keyfile_not_found/0x8031003c/
+title: -2144272324 FVE_E_KEYFILE_NOT_FOUND in winerror.h
+description: The BitLocker startup key or recovery password cannot be found on the USB device. Verify that you have the correct USB device, that the USB device is plugged into the computer on an active USB port, restart the computer, and then try again. If the problem persists, contact the computer manufacturer for BIOS upgrade instructions.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2144272324",
+  "codeUrl": "/win32/winerror-h/fve_e_keyfile_not_found/-2144272324/",
+  "numericCode": 0,
+  "define": "FVE_E_KEYFILE_NOT_FOUND",
+  "defineUrl": "/win32/winerror-h/fve_e_keyfile_not_found/",
+  "message": "The BitLocker startup key or recovery password cannot be found on the USB device. Verify that you have the correct USB device, that the USB device is plugged into the computer on an active USB port, restart the computer, and then try again. If the problem persists, contact the computer manufacturer for BIOS upgrade instructions.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x8031003C",
+  "originalCodeUrl": "/win32/winerror-h/fve_e_keyfile_not_found/0x8031003c/"
+}

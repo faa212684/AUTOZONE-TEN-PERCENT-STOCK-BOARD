@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_dependency_not_found\5002\index.html.json
+
+title: 5002 ERROR_DEPENDENCY_NOT_FOUND in winerror.h
+description: The cluster resource dependency cannot be found.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "5002",
+  "codeUrl": "/win32/winerror-h/error_dependency_not_found/5002/",
+  "numericCode": 5002,
+  "define": "ERROR_DEPENDENCY_NOT_FOUND",
+  "defineUrl": "/win32/winerror-h/error_dependency_not_found/",
+  "message": "The cluster resource dependency cannot be found.",
+  "remarks": null,
+  "aka": [
+    "0x8007138a",
+    "-2147019894"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_dependency_not_found/0x8007138a/",
+    "/win32/winerror-h/error_dependency_not_found/-2147019894/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

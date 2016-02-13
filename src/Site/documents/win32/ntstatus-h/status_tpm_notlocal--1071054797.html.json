@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_tpm_notlocal\-1071054797\index.html.json
+canonical: /win32/ntstatus-h/status_tpm_notlocal/0xc0290033/
+title: -1071054797 STATUS_TPM_NOTLOCAL in ntstatus.h
+description: Attempt to reset a PCR register that requires locality and locality modifier not part of command transport.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071054797",
+  "codeUrl": "/win32/ntstatus-h/status_tpm_notlocal/-1071054797/",
+  "numericCode": 0,
+  "define": "STATUS_TPM_NOTLOCAL",
+  "defineUrl": "/win32/ntstatus-h/status_tpm_notlocal/",
+  "message": "Attempt to reset a PCR register that requires locality and locality modifier not part of command transport.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0290033",
+  "originalCodeUrl": "/win32/ntstatus-h/status_tpm_notlocal/0xc0290033/"
+}

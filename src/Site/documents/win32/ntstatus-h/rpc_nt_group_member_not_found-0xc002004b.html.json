@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\rpc_nt_group_member_not_found\0xc002004b\index.html.json
+
+title: 0xC002004B RPC_NT_GROUP_MEMBER_NOT_FOUND in ntstatus.h
+description: The group member was not found.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC002004B",
+  "codeUrl": "/win32/ntstatus-h/rpc_nt_group_member_not_found/0xc002004b/",
+  "numericCode": -1073610677,
+  "define": "RPC_NT_GROUP_MEMBER_NOT_FOUND",
+  "defineUrl": "/win32/ntstatus-h/rpc_nt_group_member_not_found/",
+  "message": "The group member was not found.",
+  "remarks": null,
+  "aka": [
+    "-1073610677"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/rpc_nt_group_member_not_found/-1073610677/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_evt_invalid_channel_property_value\0x80073aaf\index.html.json
+canonical: /win32/winerror-h/error_evt_invalid_channel_property_value/15023/
+title: 0x80073aaf ERROR_EVT_INVALID_CHANNEL_PROPERTY_VALUE in winerror.h
+description: Channel property %1!s! contains invalid value. The value has invalid type, is outside of valid range, can't be updated or is not supported by this type of channel.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80073aaf",
+  "codeUrl": "/win32/winerror-h/error_evt_invalid_channel_property_value/0x80073aaf/",
+  "numericCode": 0,
+  "define": "ERROR_EVT_INVALID_CHANNEL_PROPERTY_VALUE",
+  "defineUrl": "/win32/winerror-h/error_evt_invalid_channel_property_value/",
+  "message": "Channel property %1!s! contains invalid value. The value has invalid type, is outside of valid range, can't be updated or is not supported by this type of channel.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "15023",
+  "originalCodeUrl": "/win32/winerror-h/error_evt_invalid_channel_property_value/15023/"
+}

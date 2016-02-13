@@ -1,0 +1,29 @@
+---
+output: win32\vdserr-h\vds_e_lun_disk_no_media\0x8004281b\index.html.json
+
+title: 0x8004281B VDS_E_LUN_DISK_NO_MEDIA in vdserr.h
+description: The SHRINK operation against the selected LUN cannot be completed. 
+The current state of the disk associated with the LUN is NO MEDIA.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x8004281B",
+  "codeUrl": "/win32/vdserr-h/vds_e_lun_disk_no_media/0x8004281b/",
+  "numericCode": -2147211237,
+  "define": "VDS_E_LUN_DISK_NO_MEDIA",
+  "defineUrl": "/win32/vdserr-h/vds_e_lun_disk_no_media/",
+  "message": "The SHRINK operation against the selected LUN cannot be completed. \r\nThe current state of the disk associated with the LUN is NO MEDIA.",
+  "remarks": null,
+  "aka": [
+    "-2147211237"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_lun_disk_no_media/-2147211237/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

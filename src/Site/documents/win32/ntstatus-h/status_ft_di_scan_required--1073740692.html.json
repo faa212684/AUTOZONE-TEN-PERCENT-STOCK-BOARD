@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_ft_di_scan_required\-1073740692\index.html.json
+canonical: /win32/ntstatus-h/status_ft_di_scan_required/0xc000046c/
+title: -1073740692 STATUS_FT_DI_SCAN_REQUIRED in ntstatus.h
+description: One or more copies of data on this device may be out of sync. No writes may be performed until a data integrity scan is completed.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073740692",
+  "codeUrl": "/win32/ntstatus-h/status_ft_di_scan_required/-1073740692/",
+  "numericCode": 0,
+  "define": "STATUS_FT_DI_SCAN_REQUIRED",
+  "defineUrl": "/win32/ntstatus-h/status_ft_di_scan_required/",
+  "message": "One or more copies of data on this device may be out of sync. No writes may be performed until a data integrity scan is completed.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC000046C",
+  "originalCodeUrl": "/win32/ntstatus-h/status_ft_di_scan_required/0xc000046c/"
+}

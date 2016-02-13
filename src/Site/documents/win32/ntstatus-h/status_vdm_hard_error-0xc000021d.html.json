@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_vdm_hard_error\0xc000021d\index.html.json
+
+title: 0xC000021D STATUS_VDM_HARD_ERROR in ntstatus.h
+description: NTVDM encountered a hard error.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000021D",
+  "codeUrl": "/win32/ntstatus-h/status_vdm_hard_error/0xc000021d/",
+  "numericCode": -1073741283,
+  "define": "STATUS_VDM_HARD_ERROR",
+  "defineUrl": "/win32/ntstatus-h/status_vdm_hard_error/",
+  "message": "NTVDM encountered a hard error.",
+  "remarks": null,
+  "aka": [
+    "-1073741283"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_vdm_hard_error/-1073741283/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

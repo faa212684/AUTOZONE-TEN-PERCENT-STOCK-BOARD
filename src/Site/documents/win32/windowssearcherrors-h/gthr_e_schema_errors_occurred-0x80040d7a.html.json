@@ -1,0 +1,28 @@
+---
+output: win32\windowssearcherrors-h\gthr_e_schema_errors_occurred\0x80040d7a\index.html.json
+
+title: 0x80040D7A GTHR_E_SCHEMA_ERRORS_OCCURRED in WindowsSearchErrors.h
+description: Schema/schema cache error (%1) occurred. Schema collection ref: %2, content class: %3. This error is internal, for debugging.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "0x80040D7A",
+  "codeUrl": "/win32/windowssearcherrors-h/gthr_e_schema_errors_occurred/0x80040d7a/",
+  "numericCode": -2147218054,
+  "define": "GTHR_E_SCHEMA_ERRORS_OCCURRED",
+  "defineUrl": "/win32/windowssearcherrors-h/gthr_e_schema_errors_occurred/",
+  "message": "Schema/schema cache error (%1) occurred. Schema collection ref: %2, content class: %3. This error is internal, for debugging.",
+  "remarks": null,
+  "aka": [
+    "-2147218054"
+  ],
+  "akaUrl": [
+    "/win32/windowssearcherrors-h/gthr_e_schema_errors_occurred/-2147218054/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

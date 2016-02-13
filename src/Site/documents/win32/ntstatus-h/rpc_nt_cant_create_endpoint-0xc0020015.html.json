@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\rpc_nt_cant_create_endpoint\0xc0020015\index.html.json
+
+title: 0xC0020015 RPC_NT_CANT_CREATE_ENDPOINT in ntstatus.h
+description: The endpoint cannot be created.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0020015",
+  "codeUrl": "/win32/ntstatus-h/rpc_nt_cant_create_endpoint/0xc0020015/",
+  "numericCode": -1073610731,
+  "define": "RPC_NT_CANT_CREATE_ENDPOINT",
+  "defineUrl": "/win32/ntstatus-h/rpc_nt_cant_create_endpoint/",
+  "message": "The endpoint cannot be created.",
+  "remarks": null,
+  "aka": [
+    "-1073610731"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/rpc_nt_cant_create_endpoint/-1073610731/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

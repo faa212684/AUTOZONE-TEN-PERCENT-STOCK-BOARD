@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\co_e_accesscheckfailed\0x8001012a\index.html.json
+
+title: 0x8001012A CO_E_ACCESSCHECKFAILED in winerror.h
+description: The system function, AccessCheck, returned false
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8001012A",
+  "codeUrl": "/win32/winerror-h/co_e_accesscheckfailed/0x8001012a/",
+  "numericCode": -2147417814,
+  "define": "CO_E_ACCESSCHECKFAILED",
+  "defineUrl": "/win32/winerror-h/co_e_accesscheckfailed/",
+  "message": "The system function, AccessCheck, returned false",
+  "remarks": null,
+  "aka": [
+    "-2147417814"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/co_e_accesscheckfailed/-2147417814/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

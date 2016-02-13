@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_wmi_set_failure\0xc00002c7\index.html.json
+
+title: 0xC00002C7 STATUS_WMI_SET_FAILURE in ntstatus.h
+description: The WMI data item or data block could not be changed.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC00002C7",
+  "codeUrl": "/win32/ntstatus-h/status_wmi_set_failure/0xc00002c7/",
+  "numericCode": -1073741113,
+  "define": "STATUS_WMI_SET_FAILURE",
+  "defineUrl": "/win32/ntstatus-h/status_wmi_set_failure/",
+  "message": "The WMI data item or data block could not be changed.",
+  "remarks": null,
+  "aka": [
+    "-1073741113"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_wmi_set_failure/-1073741113/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

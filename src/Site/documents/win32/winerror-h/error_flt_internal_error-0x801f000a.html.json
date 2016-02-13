@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\error_flt_internal_error\0x801f000a\index.html.json
+
+title: 0x801F000A ERROR_FLT_INTERNAL_ERROR in winerror.h
+description: The Filter Manager had an internal error from which it cannot recover, therefore the operation has been failed. This is usually the result of a filter returning an invalid value from a pre-operation callback.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x801F000A",
+  "codeUrl": "/win32/winerror-h/error_flt_internal_error/0x801f000a/",
+  "numericCode": -2145452022,
+  "define": "ERROR_FLT_INTERNAL_ERROR",
+  "defineUrl": "/win32/winerror-h/error_flt_internal_error/",
+  "message": "The Filter Manager had an internal error from which it cannot recover, therefore the operation has been failed. This is usually the result of a filter returning an invalid value from a pre-operation callback.",
+  "remarks": null,
+  "aka": [
+    "-2145452022"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_flt_internal_error/-2145452022/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

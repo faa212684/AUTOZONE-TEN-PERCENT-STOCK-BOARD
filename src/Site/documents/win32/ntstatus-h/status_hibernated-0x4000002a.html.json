@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_hibernated\0x4000002a\index.html.json
+
+title: 0x4000002A STATUS_HIBERNATED in ntstatus.h
+description: The system was put into hibernation.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0x4000002A",
+  "codeUrl": "/win32/ntstatus-h/status_hibernated/0x4000002a/",
+  "numericCode": 1073741866,
+  "define": "STATUS_HIBERNATED",
+  "defineUrl": "/win32/ntstatus-h/status_hibernated/",
+  "message": "The system was put into hibernation.",
+  "remarks": null,
+  "aka": [
+    "1073741866"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_hibernated/1073741866/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

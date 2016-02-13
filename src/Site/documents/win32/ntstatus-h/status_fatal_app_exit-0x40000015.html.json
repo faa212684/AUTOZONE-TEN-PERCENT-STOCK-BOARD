@@ -1,0 +1,29 @@
+---
+output: win32\ntstatus-h\status_fatal_app_exit\0x40000015\index.html.json
+
+title: 0x40000015 STATUS_FATAL_APP_EXIT in ntstatus.h
+description: "{Fatal Application Exit}
+%hs"
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0x40000015",
+  "codeUrl": "/win32/ntstatus-h/status_fatal_app_exit/0x40000015/",
+  "numericCode": 1073741845,
+  "define": "STATUS_FATAL_APP_EXIT",
+  "defineUrl": "/win32/ntstatus-h/status_fatal_app_exit/",
+  "message": "{Fatal Application Exit}\r\n%hs",
+  "remarks": null,
+  "aka": [
+    "1073741845"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_fatal_app_exit/1073741845/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

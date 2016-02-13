@@ -1,0 +1,29 @@
+---
+output: win32\vdserr-h\vds_e_bad_boot_disk\0x80042586\index.html.json
+
+title: 0x80042586 VDS_E_BAD_BOOT_DISK in vdserr.h
+description: The boot disk experienced failures when the driver attempted to online 
+the pack.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x80042586",
+  "codeUrl": "/win32/vdserr-h/vds_e_bad_boot_disk/0x80042586/",
+  "numericCode": -2147211898,
+  "define": "VDS_E_BAD_BOOT_DISK",
+  "defineUrl": "/win32/vdserr-h/vds_e_bad_boot_disk/",
+  "message": "The boot disk experienced failures when the driver attempted to online \r\nthe pack.",
+  "remarks": null,
+  "aka": [
+    "-2147211898"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_bad_boot_disk/-2147211898/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

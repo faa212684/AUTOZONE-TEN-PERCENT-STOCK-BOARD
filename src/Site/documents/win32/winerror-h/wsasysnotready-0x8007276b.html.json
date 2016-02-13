@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\wsasysnotready\0x8007276b\index.html.json
+canonical: /win32/winerror-h/wsasysnotready/10091/
+title: 0x8007276b WSASYSNOTREADY in winerror.h
+description: WSAStartup cannot function at this time because the underlying system it uses to provide network services is currently unavailable.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007276b",
+  "codeUrl": "/win32/winerror-h/wsasysnotready/0x8007276b/",
+  "numericCode": 0,
+  "define": "WSASYSNOTREADY",
+  "defineUrl": "/win32/winerror-h/wsasysnotready/",
+  "message": "WSAStartup cannot function at this time because the underlying system it uses to provide network services is currently unavailable.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "10091",
+  "originalCodeUrl": "/win32/winerror-h/wsasysnotready/10091/"
+}

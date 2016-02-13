@@ -1,0 +1,29 @@
+---
+output: win32\ntstatus-h\status_bad_inheritance_acl\0xc000007d\index.html.json
+
+title: 0xC000007D STATUS_BAD_INHERITANCE_ACL in ntstatus.h
+description: Indicates that an attempt to build either an inherited ACL or ACE was not successful.
+This can be caused by a number of things. One of the more probable causes is the replacement of a CreatorId with an SID that didn't fit into the ACE or ACL.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000007D",
+  "codeUrl": "/win32/ntstatus-h/status_bad_inheritance_acl/0xc000007d/",
+  "numericCode": -1073741699,
+  "define": "STATUS_BAD_INHERITANCE_ACL",
+  "defineUrl": "/win32/ntstatus-h/status_bad_inheritance_acl/",
+  "message": "Indicates that an attempt to build either an inherited ACL or ACE was not successful.\r\nThis can be caused by a number of things. One of the more probable causes is the replacement of a CreatorId with an SID that didn't fit into the ACE or ACL.",
+  "remarks": null,
+  "aka": [
+    "-1073741699"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_bad_inheritance_acl/-1073741699/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

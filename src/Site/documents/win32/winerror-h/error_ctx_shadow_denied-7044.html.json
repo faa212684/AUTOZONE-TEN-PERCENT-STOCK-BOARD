@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ctx_shadow_denied\7044\index.html.json
+
+title: 7044 ERROR_CTX_SHADOW_DENIED in winerror.h
+description: The request to control another session remotely was denied.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "7044",
+  "codeUrl": "/win32/winerror-h/error_ctx_shadow_denied/7044/",
+  "numericCode": 7044,
+  "define": "ERROR_CTX_SHADOW_DENIED",
+  "defineUrl": "/win32/winerror-h/error_ctx_shadow_denied/",
+  "message": "The request to control another session remotely was denied.",
+  "remarks": null,
+  "aka": [
+    "0x80071b84",
+    "-2147017852"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ctx_shadow_denied/0x80071b84/",
+    "/win32/winerror-h/error_ctx_shadow_denied/-2147017852/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

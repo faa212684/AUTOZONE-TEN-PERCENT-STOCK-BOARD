@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_rec_non_existent\4005\index.html.json
+
+title: 4005 ERROR_REC_NON_EXISTENT in winerror.h
+description: The name does not exist in the WINS database.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "4005",
+  "codeUrl": "/win32/winerror-h/error_rec_non_existent/4005/",
+  "numericCode": 4005,
+  "define": "ERROR_REC_NON_EXISTENT",
+  "defineUrl": "/win32/winerror-h/error_rec_non_existent/",
+  "message": "The name does not exist in the WINS database.",
+  "remarks": null,
+  "aka": [
+    "0x80070fa5",
+    "-2147020891"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_rec_non_existent/0x80070fa5/",
+    "/win32/winerror-h/error_rec_non_existent/-2147020891/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

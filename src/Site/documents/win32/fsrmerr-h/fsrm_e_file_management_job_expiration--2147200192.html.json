@@ -1,0 +1,24 @@
+---
+output: win32\fsrmerr-h\fsrm_e_file_management_job_expiration\-2147200192\index.html.json
+canonical: /win32/fsrmerr-h/fsrm_e_file_management_job_expiration/0x80045340/
+title: -2147200192 FSRM_E_FILE_MANAGEMENT_JOB_EXPIRATION in fsrmerr.h
+description: Cannot expire a file while running a file management task.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "fsrmerr.h",
+  "sourceUrl": "/win32/fsrmerr-h/",
+  "code": "-2147200192",
+  "codeUrl": "/win32/fsrmerr-h/fsrm_e_file_management_job_expiration/-2147200192/",
+  "numericCode": 0,
+  "define": "FSRM_E_FILE_MANAGEMENT_JOB_EXPIRATION",
+  "defineUrl": "/win32/fsrmerr-h/fsrm_e_file_management_job_expiration/",
+  "message": "Cannot expire a file while running a file management task.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80045340",
+  "originalCodeUrl": "/win32/fsrmerr-h/fsrm_e_file_management_job_expiration/0x80045340/"
+}

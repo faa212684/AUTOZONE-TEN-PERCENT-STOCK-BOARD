@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_e_drive_letter_not_free\0x8004255c\index.html.json
+
+title: 0x8004255C VDS_E_DRIVE_LETTER_NOT_FREE in vdserr.h
+description: The specified drive letter is not free to be assigned.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x8004255C",
+  "codeUrl": "/win32/vdserr-h/vds_e_drive_letter_not_free/0x8004255c/",
+  "numericCode": -2147211940,
+  "define": "VDS_E_DRIVE_LETTER_NOT_FREE",
+  "defineUrl": "/win32/vdserr-h/vds_e_drive_letter_not_free/",
+  "message": "The specified drive letter is not free to be assigned.",
+  "remarks": null,
+  "aka": [
+    "-2147211940"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_drive_letter_not_free/-2147211940/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

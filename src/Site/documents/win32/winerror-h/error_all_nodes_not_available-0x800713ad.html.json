@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_all_nodes_not_available\0x800713ad\index.html.json
+canonical: /win32/winerror-h/error_all_nodes_not_available/5037/
+title: 0x800713ad ERROR_ALL_NODES_NOT_AVAILABLE in winerror.h
+description: All cluster nodes must be running to perform this operation.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800713ad",
+  "codeUrl": "/win32/winerror-h/error_all_nodes_not_available/0x800713ad/",
+  "numericCode": 0,
+  "define": "ERROR_ALL_NODES_NOT_AVAILABLE",
+  "defineUrl": "/win32/winerror-h/error_all_nodes_not_available/",
+  "message": "All cluster nodes must be running to perform this operation.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "5037",
+  "originalCodeUrl": "/win32/winerror-h/error_all_nodes_not_available/5037/"
+}

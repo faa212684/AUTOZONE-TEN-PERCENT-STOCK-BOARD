@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\nte_bad_hash_state\0x8009000c\index.html.json
+
+title: 0x8009000C NTE_BAD_HASH_STATE in winerror.h
+description: Hash not valid for use in specified state.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8009000C",
+  "codeUrl": "/win32/winerror-h/nte_bad_hash_state/0x8009000c/",
+  "numericCode": -2146893812,
+  "define": "NTE_BAD_HASH_STATE",
+  "defineUrl": "/win32/winerror-h/nte_bad_hash_state/",
+  "message": "Hash not valid for use in specified state.",
+  "remarks": null,
+  "aka": [
+    "-2146893812"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/nte_bad_hash_state/-2146893812/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

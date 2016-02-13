@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_dll_might_be_insecure\0x8000002b\index.html.json
+
+title: 0x8000002B STATUS_DLL_MIGHT_BE_INSECURE in ntstatus.h
+description: The application is attempting to run executable code from the module %hs. This may be insecure. An alternative, %hs, is available. Should the application use the secure module %hs?
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0x8000002B",
+  "codeUrl": "/win32/ntstatus-h/status_dll_might_be_insecure/0x8000002b/",
+  "numericCode": -2147483605,
+  "define": "STATUS_DLL_MIGHT_BE_INSECURE",
+  "defineUrl": "/win32/ntstatus-h/status_dll_might_be_insecure/",
+  "message": "The application is attempting to run executable code from the module %hs. This may be insecure. An alternative, %hs, is available. Should the application use the secure module %hs?",
+  "remarks": null,
+  "aka": [
+    "-2147483605"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_dll_might_be_insecure/-2147483605/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

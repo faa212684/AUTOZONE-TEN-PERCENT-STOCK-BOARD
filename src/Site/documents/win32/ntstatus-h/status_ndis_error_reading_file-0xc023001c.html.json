@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_ndis_error_reading_file\0xc023001c\index.html.json
+
+title: 0xC023001C STATUS_NDIS_ERROR_READING_FILE in ntstatus.h
+description: An error occurred while NDIS tried to map the file.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC023001C",
+  "codeUrl": "/win32/ntstatus-h/status_ndis_error_reading_file/0xc023001c/",
+  "numericCode": -1071448036,
+  "define": "STATUS_NDIS_ERROR_READING_FILE",
+  "defineUrl": "/win32/ntstatus-h/status_ndis_error_reading_file/",
+  "message": "An error occurred while NDIS tried to map the file.",
+  "remarks": null,
+  "aka": [
+    "-1071448036"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_ndis_error_reading_file/-1071448036/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

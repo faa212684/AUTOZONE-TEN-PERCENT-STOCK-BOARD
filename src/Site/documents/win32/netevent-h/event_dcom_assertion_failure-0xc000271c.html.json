@@ -1,0 +1,31 @@
+---
+output: win32\netevent-h\event_dcom_assertion_failure\0xc000271c\index.html.json
+
+title: 0xC000271C EVENT_DCOM_ASSERTION_FAILURE in netevent.h
+description: There is an assertion failure in DCOM.  Context follows:
+%1
+%2
+%3
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC000271C",
+  "codeUrl": "/win32/netevent-h/event_dcom_assertion_failure/0xc000271c/",
+  "numericCode": -1073731812,
+  "define": "EVENT_DCOM_ASSERTION_FAILURE",
+  "defineUrl": "/win32/netevent-h/event_dcom_assertion_failure/",
+  "message": "There is an assertion failure in DCOM.  Context follows:\r\n%1\r\n%2\r\n%3",
+  "remarks": null,
+  "aka": [
+    "-1073731812"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_dcom_assertion_failure/-1073731812/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

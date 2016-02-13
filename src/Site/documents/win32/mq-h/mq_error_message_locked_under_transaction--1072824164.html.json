@@ -1,0 +1,24 @@
+---
+output: win32\mq-h\mq_error_message_locked_under_transaction\-1072824164\index.html.json
+canonical: /win32/mq-h/mq_error_message_locked_under_transaction/0xc00e009c/
+title: -1072824164 MQ_ERROR_MESSAGE_LOCKED_UNDER_TRANSACTION in Mq.h
+description: The message is currently being processed under a transaction. Till the transaction outcome is determined, the message cannot be processed in any other transaction.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "Mq.h",
+  "sourceUrl": "/win32/mq-h/",
+  "code": "-1072824164",
+  "codeUrl": "/win32/mq-h/mq_error_message_locked_under_transaction/-1072824164/",
+  "numericCode": 0,
+  "define": "MQ_ERROR_MESSAGE_LOCKED_UNDER_TRANSACTION",
+  "defineUrl": "/win32/mq-h/mq_error_message_locked_under_transaction/",
+  "message": "The message is currently being processed under a transaction. Till the transaction outcome is determined, the message cannot be processed in any other transaction.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC00E009C",
+  "originalCodeUrl": "/win32/mq-h/mq_error_message_locked_under_transaction/0xc00e009c/"
+}

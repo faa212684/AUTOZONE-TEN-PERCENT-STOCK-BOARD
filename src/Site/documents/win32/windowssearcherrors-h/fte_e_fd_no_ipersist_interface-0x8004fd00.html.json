@@ -1,0 +1,28 @@
+---
+output: win32\windowssearcherrors-h\fte_e_fd_no_ipersist_interface\0x8004fd00\index.html.json
+
+title: 0x8004FD00 FTE_E_FD_NO_IPERSIST_INTERFACE in WindowsSearchErrors.h
+description: The IPersistStream and IPersistFile interfaces were unavailable from an IFilter filter DLL to load data for indexing.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "0x8004FD00",
+  "codeUrl": "/win32/windowssearcherrors-h/fte_e_fd_no_ipersist_interface/0x8004fd00/",
+  "numericCode": -2147156736,
+  "define": "FTE_E_FD_NO_IPERSIST_INTERFACE",
+  "defineUrl": "/win32/windowssearcherrors-h/fte_e_fd_no_ipersist_interface/",
+  "message": "The IPersistStream and IPersistFile interfaces were unavailable from an IFilter filter DLL to load data for indexing.",
+  "remarks": null,
+  "aka": [
+    "-2147156736"
+  ],
+  "akaUrl": [
+    "/win32/windowssearcherrors-h/fte_e_fd_no_ipersist_interface/-2147156736/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

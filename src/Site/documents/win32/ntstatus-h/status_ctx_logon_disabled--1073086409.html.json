@@ -1,0 +1,25 @@
+---
+output: win32\ntstatus-h\status_ctx_logon_disabled\-1073086409\index.html.json
+canonical: /win32/ntstatus-h/status_ctx_logon_disabled/0xc00a0037/
+title: -1073086409 STATUS_CTX_LOGON_DISABLED in ntstatus.h
+description: Your interactive logon privilege has been disabled.
+Please contact your system administrator.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073086409",
+  "codeUrl": "/win32/ntstatus-h/status_ctx_logon_disabled/-1073086409/",
+  "numericCode": 0,
+  "define": "STATUS_CTX_LOGON_DISABLED",
+  "defineUrl": "/win32/ntstatus-h/status_ctx_logon_disabled/",
+  "message": "Your interactive logon privilege has been disabled.\r\nPlease contact your system administrator.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC00A0037",
+  "originalCodeUrl": "/win32/ntstatus-h/status_ctx_logon_disabled/0xc00a0037/"
+}

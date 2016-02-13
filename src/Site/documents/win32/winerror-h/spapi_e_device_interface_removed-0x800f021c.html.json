@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\spapi_e_device_interface_removed\0x800f021c\index.html.json
+
+title: 0x800F021C SPAPI_E_DEVICE_INTERFACE_REMOVED in winerror.h
+description: The operation cannot be performed because the device interface has been removed from the system.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800F021C",
+  "codeUrl": "/win32/winerror-h/spapi_e_device_interface_removed/0x800f021c/",
+  "numericCode": -2146500068,
+  "define": "SPAPI_E_DEVICE_INTERFACE_REMOVED",
+  "defineUrl": "/win32/winerror-h/spapi_e_device_interface_removed/",
+  "message": "The operation cannot be performed because the device interface has been removed from the system.",
+  "remarks": null,
+  "aka": [
+    "-2146500068"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/spapi_e_device_interface_removed/-2146500068/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

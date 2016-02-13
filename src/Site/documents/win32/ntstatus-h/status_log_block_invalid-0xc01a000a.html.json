@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_log_block_invalid\0xc01a000a\index.html.json
+
+title: 0xC01A000A STATUS_LOG_BLOCK_INVALID in ntstatus.h
+description: Log service encountered an invalid log block.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC01A000A",
+  "codeUrl": "/win32/ntstatus-h/status_log_block_invalid/0xc01a000a/",
+  "numericCode": -1072037878,
+  "define": "STATUS_LOG_BLOCK_INVALID",
+  "defineUrl": "/win32/ntstatus-h/status_log_block_invalid/",
+  "message": "Log service encountered an invalid log block.",
+  "remarks": null,
+  "aka": [
+    "-1072037878"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_log_block_invalid/-1072037878/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

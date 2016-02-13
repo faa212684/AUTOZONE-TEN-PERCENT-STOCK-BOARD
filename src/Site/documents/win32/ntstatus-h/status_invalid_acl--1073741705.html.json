@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_invalid_acl\-1073741705\index.html.json
+canonical: /win32/ntstatus-h/status_invalid_acl/0xc0000077/
+title: -1073741705 STATUS_INVALID_ACL in ntstatus.h
+description: Indicates the ACL structure is not valid.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741705",
+  "codeUrl": "/win32/ntstatus-h/status_invalid_acl/-1073741705/",
+  "numericCode": 0,
+  "define": "STATUS_INVALID_ACL",
+  "defineUrl": "/win32/ntstatus-h/status_invalid_acl/",
+  "message": "Indicates the ACL structure is not valid.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000077",
+  "originalCodeUrl": "/win32/ntstatus-h/status_invalid_acl/0xc0000077/"
+}

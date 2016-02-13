@@ -1,0 +1,28 @@
+---
+output: win32\vsserror-h\vss_e_nested_volume_limit\0x8004232c\index.html.json
+
+title: 0x8004232C VSS_E_NESTED_VOLUME_LIMIT in vsserror.h
+description: The specified volume is nested too deeply to participate in the VSS operation.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vsserror.h",
+  "sourceUrl": "/win32/vsserror-h/",
+  "code": "0x8004232C",
+  "codeUrl": "/win32/vsserror-h/vss_e_nested_volume_limit/0x8004232c/",
+  "numericCode": -2147212500,
+  "define": "VSS_E_NESTED_VOLUME_LIMIT",
+  "defineUrl": "/win32/vsserror-h/vss_e_nested_volume_limit/",
+  "message": "The specified volume is nested too deeply to participate in the VSS operation.",
+  "remarks": null,
+  "aka": [
+    "-2147212500"
+  ],
+  "akaUrl": [
+    "/win32/vsserror-h/vss_e_nested_volume_limit/-2147212500/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

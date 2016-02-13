@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\milerr_notlocked\0x88980087\index.html.json
+
+title: 0x88980087 MILERR_NOTLOCKED in winerror.h
+description: Unlock attempted on an unlocked object.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x88980087",
+  "codeUrl": "/win32/winerror-h/milerr_notlocked/0x88980087/",
+  "numericCode": -2003304313,
+  "define": "MILERR_NOTLOCKED",
+  "defineUrl": "/win32/winerror-h/milerr_notlocked/",
+  "message": "Unlock attempted on an unlocked object.",
+  "remarks": null,
+  "aka": [
+    "-2003304313"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/milerr_notlocked/-2003304313/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

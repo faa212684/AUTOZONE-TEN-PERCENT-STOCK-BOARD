@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_rdr_timeout\0x80000bc5\index.html.json
+
+title: 0x80000BC5 EVENT_RDR_TIMEOUT in netevent.h
+description: The redirector has timed out a request to %2.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x80000BC5",
+  "codeUrl": "/win32/netevent-h/event_rdr_timeout/0x80000bc5/",
+  "numericCode": -2147480635,
+  "define": "EVENT_RDR_TIMEOUT",
+  "defineUrl": "/win32/netevent-h/event_rdr_timeout/",
+  "message": "The redirector has timed out a request to %2.",
+  "remarks": null,
+  "aka": [
+    "-2147480635"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_rdr_timeout/-2147480635/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

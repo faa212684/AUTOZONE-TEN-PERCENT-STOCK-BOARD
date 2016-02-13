@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_e_volume_has_path\0x8004245e\index.html.json
+
+title: 0x8004245E VDS_E_VOLUME_HAS_PATH in vdserr.h
+description: The volume still has access path to it.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x8004245E",
+  "codeUrl": "/win32/vdserr-h/vds_e_volume_has_path/0x8004245e/",
+  "numericCode": -2147212194,
+  "define": "VDS_E_VOLUME_HAS_PATH",
+  "defineUrl": "/win32/vdserr-h/vds_e_volume_has_path/",
+  "message": "The volume still has access path to it.",
+  "remarks": null,
+  "aka": [
+    "-2147212194"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_volume_has_path/-2147212194/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

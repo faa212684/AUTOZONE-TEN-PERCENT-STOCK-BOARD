@@ -1,0 +1,28 @@
+---
+output: win32\issper16-h\sec_e_logon_denied\0x130c\index.html.json
+
+title: 0x130C SEC_E_LOGON_DENIED in IssPer16.h
+description: The logon attempt failed
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "IssPer16.h",
+  "sourceUrl": "/win32/issper16-h/",
+  "code": "0x130C",
+  "codeUrl": "/win32/issper16-h/sec_e_logon_denied/0x130c/",
+  "numericCode": 4876,
+  "define": "SEC_E_LOGON_DENIED",
+  "defineUrl": "/win32/issper16-h/sec_e_logon_denied/",
+  "message": "The logon attempt failed",
+  "remarks": null,
+  "aka": [
+    "4876"
+  ],
+  "akaUrl": [
+    "/win32/issper16-h/sec_e_logon_denied/4876/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

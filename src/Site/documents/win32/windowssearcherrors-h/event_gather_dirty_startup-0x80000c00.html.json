@@ -1,0 +1,28 @@
+---
+output: win32\windowssearcherrors-h\event_gather_dirty_startup\0x80000c00\index.html.json
+
+title: 0x80000C00 EVENT_GATHER_DIRTY_STARTUP in WindowsSearchErrors.h
+description: The gatherer is recovering after an improper shutdown.  This will delay availability of gathering functions, and may result in some noncritical data loss.%1
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "0x80000C00",
+  "codeUrl": "/win32/windowssearcherrors-h/event_gather_dirty_startup/0x80000c00/",
+  "numericCode": -2147480576,
+  "define": "EVENT_GATHER_DIRTY_STARTUP",
+  "defineUrl": "/win32/windowssearcherrors-h/event_gather_dirty_startup/",
+  "message": "The gatherer is recovering after an improper shutdown.  This will delay availability of gathering functions, and may result in some noncritical data loss.%1",
+  "remarks": null,
+  "aka": [
+    "-2147480576"
+  ],
+  "akaUrl": [
+    "/win32/windowssearcherrors-h/event_gather_dirty_startup/-2147480576/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

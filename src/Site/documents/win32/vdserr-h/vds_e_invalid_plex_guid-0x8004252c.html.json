@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_e_invalid_plex_guid\0x8004252c\index.html.json
+
+title: 0x8004252C VDS_E_INVALID_PLEX_GUID in vdserr.h
+description: GUID_NULL is not a valid plex GUID.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x8004252C",
+  "codeUrl": "/win32/vdserr-h/vds_e_invalid_plex_guid/0x8004252c/",
+  "numericCode": -2147211988,
+  "define": "VDS_E_INVALID_PLEX_GUID",
+  "defineUrl": "/win32/vdserr-h/vds_e_invalid_plex_guid/",
+  "message": "GUID_NULL is not a valid plex GUID.",
+  "remarks": null,
+  "aka": [
+    "-2147211988"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_invalid_plex_guid/-2147211988/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

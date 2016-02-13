@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_pipe_not_available\-1073741652\index.html.json
+canonical: /win32/ntstatus-h/status_pipe_not_available/0xc00000ac/
+title: -1073741652 STATUS_PIPE_NOT_AVAILABLE in ntstatus.h
+description: An instance of a named pipe cannot be found in the listening state.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741652",
+  "codeUrl": "/win32/ntstatus-h/status_pipe_not_available/-1073741652/",
+  "numericCode": 0,
+  "define": "STATUS_PIPE_NOT_AVAILABLE",
+  "defineUrl": "/win32/ntstatus-h/status_pipe_not_available/",
+  "message": "An instance of a named pipe cannot be found in the listening state.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC00000AC",
+  "originalCodeUrl": "/win32/ntstatus-h/status_pipe_not_available/0xc00000ac/"
+}

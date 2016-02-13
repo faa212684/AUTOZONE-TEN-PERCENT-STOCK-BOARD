@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_ndis_invalid_port_state\-1071448018\index.html.json
+canonical: /win32/ntstatus-h/status_ndis_invalid_port_state/0xc023002e/
+title: -1071448018 STATUS_NDIS_INVALID_PORT_STATE in ntstatus.h
+description: The current state of the specified port on this network interface does not support the requested operation.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071448018",
+  "codeUrl": "/win32/ntstatus-h/status_ndis_invalid_port_state/-1071448018/",
+  "numericCode": 0,
+  "define": "STATUS_NDIS_INVALID_PORT_STATE",
+  "defineUrl": "/win32/ntstatus-h/status_ndis_invalid_port_state/",
+  "message": "The current state of the specified port on this network interface does not support the requested operation.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC023002E",
+  "originalCodeUrl": "/win32/ntstatus-h/status_ndis_invalid_port_state/0xc023002e/"
+}

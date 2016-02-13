@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\tbs_e_service_start_pending\0x8028400b\index.html.json
+
+title: 0x8028400B TBS_E_SERVICE_START_PENDING in winerror.h
+description: The TBS service has been started but is not yet running.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8028400B",
+  "codeUrl": "/win32/winerror-h/tbs_e_service_start_pending/0x8028400b/",
+  "numericCode": -2144845813,
+  "define": "TBS_E_SERVICE_START_PENDING",
+  "defineUrl": "/win32/winerror-h/tbs_e_service_start_pending/",
+  "message": "The TBS service has been started but is not yet running.",
+  "remarks": null,
+  "aka": [
+    "-2144845813"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/tbs_e_service_start_pending/-2144845813/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

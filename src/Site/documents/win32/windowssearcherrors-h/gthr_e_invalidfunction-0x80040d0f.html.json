@@ -1,0 +1,28 @@
+---
+output: win32\windowssearcherrors-h\gthr_e_invalidfunction\0x80040d0f\index.html.json
+
+title: 0x80040D0F GTHR_E_INVALIDFUNCTION in WindowsSearchErrors.h
+description: The function is not implemented in this context, and cannot be called.  This error is internal, and cannot normally occur. Reinstall the application.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "0x80040D0F",
+  "codeUrl": "/win32/windowssearcherrors-h/gthr_e_invalidfunction/0x80040d0f/",
+  "numericCode": -2147218161,
+  "define": "GTHR_E_INVALIDFUNCTION",
+  "defineUrl": "/win32/windowssearcherrors-h/gthr_e_invalidfunction/",
+  "message": "The function is not implemented in this context, and cannot be called.  This error is internal, and cannot normally occur. Reinstall the application.",
+  "remarks": null,
+  "aka": [
+    "-2147218161"
+  ],
+  "akaUrl": [
+    "/win32/windowssearcherrors-h/gthr_e_invalidfunction/-2147218161/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

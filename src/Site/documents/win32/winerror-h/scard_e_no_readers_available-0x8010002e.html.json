@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\scard_e_no_readers_available\0x8010002e\index.html.json
+
+title: 0x8010002E SCARD_E_NO_READERS_AVAILABLE in winerror.h
+description: Cannot find a smart card reader.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8010002E",
+  "codeUrl": "/win32/winerror-h/scard_e_no_readers_available/0x8010002e/",
+  "numericCode": -2146435026,
+  "define": "SCARD_E_NO_READERS_AVAILABLE",
+  "defineUrl": "/win32/winerror-h/scard_e_no_readers_available/",
+  "message": "Cannot find a smart card reader.",
+  "remarks": null,
+  "aka": [
+    "-2146435026"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/scard_e_no_readers_available/-2146435026/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,34 @@
+---
+output: win32\netevent-h\event_frs_prepare_root_failed\0xc00034ea\index.html.json
+
+title: 0xC00034EA EVENT_FRS_PREPARE_ROOT_FAILED in netevent.h
+description: The File Replication Service could not prepare the root directory
+%1 for replication.  This is likely due to a problem creating the
+root directory or a problem removing preexisting files in the root
+directory.
+%n
+%nCheck that the path leading up to the root directory exists and is
+accessible.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC00034EA",
+  "codeUrl": "/win32/netevent-h/event_frs_prepare_root_failed/0xc00034ea/",
+  "numericCode": -1073728278,
+  "define": "EVENT_FRS_PREPARE_ROOT_FAILED",
+  "defineUrl": "/win32/netevent-h/event_frs_prepare_root_failed/",
+  "message": "The File Replication Service could not prepare the root directory\r\n%1 for replication.  This is likely due to a problem creating the\r\nroot directory or a problem removing preexisting files in the root\r\ndirectory.\r\n%n\r\n%nCheck that the path leading up to the root directory exists and is\r\naccessible.",
+  "remarks": null,
+  "aka": [
+    "-1073728278"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_frs_prepare_root_failed/-1073728278/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_tpm_migratefail\0xc029000f\index.html.json
+
+title: 0xC029000F STATUS_TPM_MIGRATEFAIL in ntstatus.h
+description: Migration authorization failed.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC029000F",
+  "codeUrl": "/win32/ntstatus-h/status_tpm_migratefail/0xc029000f/",
+  "numericCode": -1071054833,
+  "define": "STATUS_TPM_MIGRATEFAIL",
+  "defineUrl": "/win32/ntstatus-h/status_tpm_migratefail/",
+  "message": "Migration authorization failed.",
+  "remarks": null,
+  "aka": [
+    "-1071054833"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_tpm_migratefail/-1071054833/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_cluster_partial_send\-2147018982\index.html.json
+canonical: /win32/winerror-h/error_cluster_partial_send/5914/
+title: -2147018982 ERROR_CLUSTER_PARTIAL_SEND in winerror.h
+description: A network error occurred while sending data to another node in the cluster. The number of bytes transmitted was less than required.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147018982",
+  "codeUrl": "/win32/winerror-h/error_cluster_partial_send/-2147018982/",
+  "numericCode": 0,
+  "define": "ERROR_CLUSTER_PARTIAL_SEND",
+  "defineUrl": "/win32/winerror-h/error_cluster_partial_send/",
+  "message": "A network error occurred while sending data to another node in the cluster. The number of bytes transmitted was less than required.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "5914",
+  "originalCodeUrl": "/win32/winerror-h/error_cluster_partial_send/5914/"
+}

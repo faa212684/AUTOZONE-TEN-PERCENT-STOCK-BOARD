@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_volmgr_disk_layout_partitions_too_small\0xc038000e\index.html.json
+
+title: 0xC038000E STATUS_VOLMGR_DISK_LAYOUT_PARTITIONS_TOO_SMALL in ntstatus.h
+description: The disk layout contains partitions which are samller than the minimum size.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC038000E",
+  "codeUrl": "/win32/ntstatus-h/status_volmgr_disk_layout_partitions_too_small/0xc038000e/",
+  "numericCode": -1070071794,
+  "define": "STATUS_VOLMGR_DISK_LAYOUT_PARTITIONS_TOO_SMALL",
+  "defineUrl": "/win32/ntstatus-h/status_volmgr_disk_layout_partitions_too_small/",
+  "message": "The disk layout contains partitions which are samller than the minimum size.",
+  "remarks": null,
+  "aka": [
+    "-1070071794"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_volmgr_disk_layout_partitions_too_small/-1070071794/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

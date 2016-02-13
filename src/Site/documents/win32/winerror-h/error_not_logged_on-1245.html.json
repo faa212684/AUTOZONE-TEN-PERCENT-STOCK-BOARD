@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_not_logged_on\1245\index.html.json
+
+title: 1245 ERROR_NOT_LOGGED_ON in winerror.h
+description: The operation being requested was not performed because the user has not logged on to the network. The specified service does not exist.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1245",
+  "codeUrl": "/win32/winerror-h/error_not_logged_on/1245/",
+  "numericCode": 1245,
+  "define": "ERROR_NOT_LOGGED_ON",
+  "defineUrl": "/win32/winerror-h/error_not_logged_on/",
+  "message": "The operation being requested was not performed because the user has not logged on to the network. The specified service does not exist.",
+  "remarks": null,
+  "aka": [
+    "0x800704dd",
+    "-2147023651"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_not_logged_on/0x800704dd/",
+    "/win32/winerror-h/error_not_logged_on/-2147023651/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

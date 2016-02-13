@@ -1,0 +1,25 @@
+---
+output: win32\ntstatus-h\status_filemark_detected\-2147483621\index.html.json
+canonical: /win32/ntstatus-h/status_filemark_detected/0x8000001b/
+title: -2147483621 STATUS_FILEMARK_DETECTED in ntstatus.h
+description: "{Filemark Found}
+A filemark was detected."
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-2147483621",
+  "codeUrl": "/win32/ntstatus-h/status_filemark_detected/-2147483621/",
+  "numericCode": 0,
+  "define": "STATUS_FILEMARK_DETECTED",
+  "defineUrl": "/win32/ntstatus-h/status_filemark_detected/",
+  "message": "{Filemark Found}\r\nA filemark was detected.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x8000001B",
+  "originalCodeUrl": "/win32/ntstatus-h/status_filemark_detected/0x8000001b/"
+}

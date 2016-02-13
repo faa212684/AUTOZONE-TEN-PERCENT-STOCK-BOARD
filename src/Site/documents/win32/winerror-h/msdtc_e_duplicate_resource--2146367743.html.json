@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\msdtc_e_duplicate_resource\-2146367743\index.html.json
+canonical: /win32/winerror-h/msdtc_e_duplicate_resource/0x80110701/
+title: -2146367743 MSDTC_E_DUPLICATE_RESOURCE in winerror.h
+description: Cannot create a duplicate resource of type Distributed Transaction Coordinator
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2146367743",
+  "codeUrl": "/win32/winerror-h/msdtc_e_duplicate_resource/-2146367743/",
+  "numericCode": 0,
+  "define": "MSDTC_E_DUPLICATE_RESOURCE",
+  "defineUrl": "/win32/winerror-h/msdtc_e_duplicate_resource/",
+  "message": "Cannot create a duplicate resource of type Distributed Transaction Coordinator",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80110701",
+  "originalCodeUrl": "/win32/winerror-h/msdtc_e_duplicate_resource/0x80110701/"
+}

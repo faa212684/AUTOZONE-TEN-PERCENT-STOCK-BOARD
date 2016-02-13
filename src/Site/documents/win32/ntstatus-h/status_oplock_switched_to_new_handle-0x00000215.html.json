@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_oplock_switched_to_new_handle\0x00000215\index.html.json
+
+title: 0x00000215 STATUS_OPLOCK_SWITCHED_TO_NEW_HANDLE in ntstatus.h
+description: The oplock that was associated with this handle is now associated with a different handle.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0x00000215",
+  "codeUrl": "/win32/ntstatus-h/status_oplock_switched_to_new_handle/0x00000215/",
+  "numericCode": 533,
+  "define": "STATUS_OPLOCK_SWITCHED_TO_NEW_HANDLE",
+  "defineUrl": "/win32/ntstatus-h/status_oplock_switched_to_new_handle/",
+  "message": "The oplock that was associated with this handle is now associated with a different handle.",
+  "remarks": null,
+  "aka": [
+    "533"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_oplock_switched_to_new_handle/533/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

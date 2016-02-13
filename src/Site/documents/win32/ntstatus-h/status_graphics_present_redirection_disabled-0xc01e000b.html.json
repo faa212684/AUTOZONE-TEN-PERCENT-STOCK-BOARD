@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_graphics_present_redirection_disabled\0xc01e000b\index.html.json
+
+title: 0xC01E000B STATUS_GRAPHICS_PRESENT_REDIRECTION_DISABLED in ntstatus.h
+description: Present redirection is disabled (desktop windowing management subsystem is off).
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC01E000B",
+  "codeUrl": "/win32/ntstatus-h/status_graphics_present_redirection_disabled/0xc01e000b/",
+  "numericCode": -1071775733,
+  "define": "STATUS_GRAPHICS_PRESENT_REDIRECTION_DISABLED",
+  "defineUrl": "/win32/ntstatus-h/status_graphics_present_redirection_disabled/",
+  "message": "Present redirection is disabled (desktop windowing management subsystem is off).",
+  "remarks": null,
+  "aka": [
+    "-1071775733"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_graphics_present_redirection_disabled/-1071775733/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

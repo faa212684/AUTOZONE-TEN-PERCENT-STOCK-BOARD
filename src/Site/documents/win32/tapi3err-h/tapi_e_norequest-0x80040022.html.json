@@ -1,0 +1,28 @@
+---
+output: win32\tapi3err-h\tapi_e_norequest\0x80040022\index.html.json
+
+title: 0x80040022 TAPI_E_NOREQUEST in Tapi3Err.h
+description: No Assisted Telephony requests are pending.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "Tapi3Err.h",
+  "sourceUrl": "/win32/tapi3err-h/",
+  "code": "0x80040022",
+  "codeUrl": "/win32/tapi3err-h/tapi_e_norequest/0x80040022/",
+  "numericCode": -2147221470,
+  "define": "TAPI_E_NOREQUEST",
+  "defineUrl": "/win32/tapi3err-h/tapi_e_norequest/",
+  "message": "No Assisted Telephony requests are pending.",
+  "remarks": null,
+  "aka": [
+    "-2147221470"
+  ],
+  "akaUrl": [
+    "/win32/tapi3err-h/tapi_e_norequest/-2147221470/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

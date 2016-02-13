@@ -1,0 +1,29 @@
+---
+output: win32\wsmerror-h\error_wsman_client_reconnectshellcommand_null_param\0x803381d2\index.html.json
+
+title: 0x803381D2 ERROR_WSMAN_CLIENT_RECONNECTSHELLCOMMAND_NULL_PARAM in wsmerror.h
+description: The WinRM Shell client cannot process the request. One of the parameters required for the WSManReconnectShellCommand function is null or zero.
+Change the request to include the missing parameter and try again.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x803381D2",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_client_reconnectshellcommand_null_param/0x803381d2/",
+  "numericCode": -2144108078,
+  "define": "ERROR_WSMAN_CLIENT_RECONNECTSHELLCOMMAND_NULL_PARAM",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_client_reconnectshellcommand_null_param/",
+  "message": "The WinRM Shell client cannot process the request. One of the parameters required for the WSManReconnectShellCommand function is null or zero.\r\nChange the request to include the missing parameter and try again.",
+  "remarks": null,
+  "aka": [
+    "-2144108078"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_client_reconnectshellcommand_null_param/-2144108078/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

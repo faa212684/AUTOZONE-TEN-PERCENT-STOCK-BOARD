@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_allotted_space_exceeded\1344\index.html.json
+
+title: 1344 ERROR_ALLOTTED_SPACE_EXCEEDED in winerror.h
+description: No more memory is available for security information updates.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1344",
+  "codeUrl": "/win32/winerror-h/error_allotted_space_exceeded/1344/",
+  "numericCode": 1344,
+  "define": "ERROR_ALLOTTED_SPACE_EXCEEDED",
+  "defineUrl": "/win32/winerror-h/error_allotted_space_exceeded/",
+  "message": "No more memory is available for security information updates.",
+  "remarks": null,
+  "aka": [
+    "0x80070540",
+    "-2147023552"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_allotted_space_exceeded/0x80070540/",
+    "/win32/winerror-h/error_allotted_space_exceeded/-2147023552/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

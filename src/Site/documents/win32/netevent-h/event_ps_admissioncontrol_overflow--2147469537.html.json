@@ -1,0 +1,24 @@
+---
+output: win32\netevent-h\event_ps_admissioncontrol_overflow\-2147469537\index.html.json
+canonical: /win32/netevent-h/event_ps_admissioncontrol_overflow/0x8000371f/
+title: -2147469537 EVENT_PS_ADMISSIONCONTROL_OVERFLOW in netevent.h
+description: QoS [Adapter %2]:%nTotal bandwidth allocated to flows exceeds the NonBestEffortLimit. This is because of a reduction in the LinkSpeed or because of a change to the NonBestEffortLimit registry key.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "-2147469537",
+  "codeUrl": "/win32/netevent-h/event_ps_admissioncontrol_overflow/-2147469537/",
+  "numericCode": 0,
+  "define": "EVENT_PS_ADMISSIONCONTROL_OVERFLOW",
+  "defineUrl": "/win32/netevent-h/event_ps_admissioncontrol_overflow/",
+  "message": "QoS [Adapter %2]:%nTotal bandwidth allocated to flows exceeds the NonBestEffortLimit. This is because of a reduction in the LinkSpeed or because of a change to the NonBestEffortLimit registry key.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x8000371F",
+  "originalCodeUrl": "/win32/netevent-h/event_ps_admissioncontrol_overflow/0x8000371f/"
+}

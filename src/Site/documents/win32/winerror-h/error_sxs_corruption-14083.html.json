@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_sxs_corruption\14083\index.html.json
+
+title: 14083 ERROR_SXS_CORRUPTION in winerror.h
+description: The application isolation metadata for this process or thread has become corrupt.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "14083",
+  "codeUrl": "/win32/winerror-h/error_sxs_corruption/14083/",
+  "numericCode": 14083,
+  "define": "ERROR_SXS_CORRUPTION",
+  "defineUrl": "/win32/winerror-h/error_sxs_corruption/",
+  "message": "The application isolation metadata for this process or thread has become corrupt.",
+  "remarks": null,
+  "aka": [
+    "0x80073703",
+    "-2147010813"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_sxs_corruption/0x80073703/",
+    "/win32/winerror-h/error_sxs_corruption/-2147010813/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

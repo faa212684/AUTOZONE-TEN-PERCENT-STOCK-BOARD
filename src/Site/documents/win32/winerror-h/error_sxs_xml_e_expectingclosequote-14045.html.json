@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_sxs_xml_e_expectingclosequote\14045\index.html.json
+
+title: 14045 ERROR_SXS_XML_E_EXPECTINGCLOSEQUOTE in winerror.h
+description: Manifest Parse Error : A single or double closing quote character (\' or \") is missing.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "14045",
+  "codeUrl": "/win32/winerror-h/error_sxs_xml_e_expectingclosequote/14045/",
+  "numericCode": 14045,
+  "define": "ERROR_SXS_XML_E_EXPECTINGCLOSEQUOTE",
+  "defineUrl": "/win32/winerror-h/error_sxs_xml_e_expectingclosequote/",
+  "message": "Manifest Parse Error : A single or double closing quote character (\\' or \\\") is missing.",
+  "remarks": null,
+  "aka": [
+    "0x800736dd",
+    "-2147010851"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_sxs_xml_e_expectingclosequote/0x800736dd/",
+    "/win32/winerror-h/error_sxs_xml_e_expectingclosequote/-2147010851/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

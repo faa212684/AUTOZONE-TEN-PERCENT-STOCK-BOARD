@@ -1,0 +1,30 @@
+---
+output: win32\wsmerror-h\error_wsman_invalid_uri_wmi_singleton\0x803380fa\index.html.json
+
+title: 0x803380FA ERROR_WSMAN_INVALID_URI_WMI_SINGLETON in wsmerror.h
+description: The WinRM client cannot process the request. The resource URI is not valid: it does not contain keys, but the class selected is not a singleton.
+To access an instance which is not a singleton, keys must be provided.
+Use the following command to get more information in how to construct a resource URI: "winrm help uris".
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x803380FA",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_invalid_uri_wmi_singleton/0x803380fa/",
+  "numericCode": -2144108294,
+  "define": "ERROR_WSMAN_INVALID_URI_WMI_SINGLETON",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_invalid_uri_wmi_singleton/",
+  "message": "The WinRM client cannot process the request. The resource URI is not valid: it does not contain keys, but the class selected is not a singleton.\r\nTo access an instance which is not a singleton, keys must be provided.\r\nUse the following command to get more information in how to construct a resource URI: \"winrm help uris\".",
+  "remarks": null,
+  "aka": [
+    "-2144108294"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_invalid_uri_wmi_singleton/-2144108294/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

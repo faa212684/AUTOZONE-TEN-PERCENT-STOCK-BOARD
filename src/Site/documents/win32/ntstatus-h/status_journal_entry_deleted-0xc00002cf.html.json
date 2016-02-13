@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_journal_entry_deleted\0xc00002cf\index.html.json
+
+title: 0xC00002CF STATUS_JOURNAL_ENTRY_DELETED in ntstatus.h
+description: The journal entry has been deleted from the journal.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC00002CF",
+  "codeUrl": "/win32/ntstatus-h/status_journal_entry_deleted/0xc00002cf/",
+  "numericCode": -1073741105,
+  "define": "STATUS_JOURNAL_ENTRY_DELETED",
+  "defineUrl": "/win32/ntstatus-h/status_journal_entry_deleted/",
+  "message": "The journal entry has been deleted from the journal.",
+  "remarks": null,
+  "aka": [
+    "-1073741105"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_journal_entry_deleted/-1073741105/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

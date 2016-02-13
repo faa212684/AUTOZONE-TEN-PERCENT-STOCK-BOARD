@@ -1,0 +1,28 @@
+---
+output: win32\nserror-h\ns_e_wmp_server_nonewconnections\0xc00d11de\index.html.json
+
+title: 0xC00D11DE NS_E_WMP_SERVER_NONEWCONNECTIONS in nserror.h
+description: Windows Media Player cannot connect to the server because it is not accepting any new connections. This could be because it has reached its maximum connection limit. Please try again later.%0
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "nserror.h",
+  "sourceUrl": "/win32/nserror-h/",
+  "code": "0xC00D11DE",
+  "codeUrl": "/win32/nserror-h/ns_e_wmp_server_nonewconnections/0xc00d11de/",
+  "numericCode": -1072885282,
+  "define": "NS_E_WMP_SERVER_NONEWCONNECTIONS",
+  "defineUrl": "/win32/nserror-h/ns_e_wmp_server_nonewconnections/",
+  "message": "Windows Media Player cannot connect to the server because it is not accepting any new connections. This could be because it has reached its maximum connection limit. Please try again later.%0",
+  "remarks": null,
+  "aka": [
+    "-1072885282"
+  ],
+  "akaUrl": [
+    "/win32/nserror-h/ns_e_wmp_server_nonewconnections/-1072885282/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

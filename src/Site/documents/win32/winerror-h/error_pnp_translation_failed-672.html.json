@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_pnp_translation_failed\672\index.html.json
+
+title: 672 ERROR_PNP_TRANSLATION_FAILED in winerror.h
+description: A translator failed to translate resources.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "672",
+  "codeUrl": "/win32/winerror-h/error_pnp_translation_failed/672/",
+  "numericCode": 672,
+  "define": "ERROR_PNP_TRANSLATION_FAILED",
+  "defineUrl": "/win32/winerror-h/error_pnp_translation_failed/",
+  "message": "A translator failed to translate resources.",
+  "remarks": null,
+  "aka": [
+    "0x800702a0",
+    "-2147024224"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_pnp_translation_failed/0x800702a0/",
+    "/win32/winerror-h/error_pnp_translation_failed/-2147024224/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

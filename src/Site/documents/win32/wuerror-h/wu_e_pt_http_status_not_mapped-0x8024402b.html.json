@@ -1,0 +1,28 @@
+---
+output: win32\wuerror-h\wu_e_pt_http_status_not_mapped\0x8024402b\index.html.json
+
+title: 0x8024402B WU_E_PT_HTTP_STATUS_NOT_MAPPED in wuerror.h
+description: The HTTP request could not be completed and the reason did not correspond to any of the WU_E_PT_HTTP_* error codes.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wuerror.h",
+  "sourceUrl": "/win32/wuerror-h/",
+  "code": "0x8024402B",
+  "codeUrl": "/win32/wuerror-h/wu_e_pt_http_status_not_mapped/0x8024402b/",
+  "numericCode": -2145107925,
+  "define": "WU_E_PT_HTTP_STATUS_NOT_MAPPED",
+  "defineUrl": "/win32/wuerror-h/wu_e_pt_http_status_not_mapped/",
+  "message": "The HTTP request could not be completed and the reason did not correspond to any of the WU_E_PT_HTTP_* error codes.",
+  "remarks": null,
+  "aka": [
+    "-2145107925"
+  ],
+  "akaUrl": [
+    "/win32/wuerror-h/wu_e_pt_http_status_not_mapped/-2145107925/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

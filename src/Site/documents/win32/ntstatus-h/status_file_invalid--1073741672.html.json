@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_file_invalid\-1073741672\index.html.json
+canonical: /win32/ntstatus-h/status_file_invalid/0xc0000098/
+title: -1073741672 STATUS_FILE_INVALID in ntstatus.h
+description: The volume for a file has been externally altered such that the opened file is no longer valid.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741672",
+  "codeUrl": "/win32/ntstatus-h/status_file_invalid/-1073741672/",
+  "numericCode": 0,
+  "define": "STATUS_FILE_INVALID",
+  "defineUrl": "/win32/ntstatus-h/status_file_invalid/",
+  "message": "The volume for a file has been externally altered such that the opened file is no longer valid.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000098",
+  "originalCodeUrl": "/win32/ntstatus-h/status_file_invalid/0xc0000098/"
+}

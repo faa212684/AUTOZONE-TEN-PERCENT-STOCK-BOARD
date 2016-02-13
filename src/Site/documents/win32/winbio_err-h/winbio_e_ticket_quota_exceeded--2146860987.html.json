@@ -1,0 +1,24 @@
+---
+output: win32\winbio_err-h\winbio_e_ticket_quota_exceeded\-2146860987\index.html.json
+canonical: /win32/winbio_err-h/winbio_e_ticket_quota_exceeded/0x80098045/
+title: -2146860987 WINBIO_E_TICKET_QUOTA_EXCEEDED in winbio_err.h
+description: The calling process has too many outstanding tickets.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winbio_err.h",
+  "sourceUrl": "/win32/winbio_err-h/",
+  "code": "-2146860987",
+  "codeUrl": "/win32/winbio_err-h/winbio_e_ticket_quota_exceeded/-2146860987/",
+  "numericCode": 0,
+  "define": "WINBIO_E_TICKET_QUOTA_EXCEEDED",
+  "defineUrl": "/win32/winbio_err-h/winbio_e_ticket_quota_exceeded/",
+  "message": "The calling process has too many outstanding tickets.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80098045",
+  "originalCodeUrl": "/win32/winbio_err-h/winbio_e_ticket_quota_exceeded/0x80098045/"
+}

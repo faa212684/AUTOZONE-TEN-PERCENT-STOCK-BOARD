@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_patch_managed_advertised_product\1651\index.html.json
+
+title: 1651 ERROR_PATCH_MANAGED_ADVERTISED_PRODUCT in winerror.h
+description: Windows Installer does not permit updating of managed advertised products. At least one feature of the product must be installed before applying the update.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1651",
+  "codeUrl": "/win32/winerror-h/error_patch_managed_advertised_product/1651/",
+  "numericCode": 1651,
+  "define": "ERROR_PATCH_MANAGED_ADVERTISED_PRODUCT",
+  "defineUrl": "/win32/winerror-h/error_patch_managed_advertised_product/",
+  "message": "Windows Installer does not permit updating of managed advertised products. At least one feature of the product must be installed before applying the update.",
+  "remarks": null,
+  "aka": [
+    "0x80070673",
+    "-2147023245"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_patch_managed_advertised_product/0x80070673/",
+    "/win32/winerror-h/error_patch_managed_advertised_product/-2147023245/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

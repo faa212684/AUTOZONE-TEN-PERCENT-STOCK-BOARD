@@ -1,0 +1,28 @@
+---
+output: win32\windowssearcherrors-h\gthr_e_dup_property_mapping\0x80040d2a\index.html.json
+
+title: 0x80040D2A GTHR_E_DUP_PROPERTY_MAPPING in WindowsSearchErrors.h
+description: The property mapping is duplicated in the schema. Remove the duplicate property schema.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "0x80040D2A",
+  "codeUrl": "/win32/windowssearcherrors-h/gthr_e_dup_property_mapping/0x80040d2a/",
+  "numericCode": -2147218134,
+  "define": "GTHR_E_DUP_PROPERTY_MAPPING",
+  "defineUrl": "/win32/windowssearcherrors-h/gthr_e_dup_property_mapping/",
+  "message": "The property mapping is duplicated in the schema. Remove the duplicate property schema.",
+  "remarks": null,
+  "aka": [
+    "-2147218134"
+  ],
+  "akaUrl": [
+    "/win32/windowssearcherrors-h/gthr_e_dup_property_mapping/-2147218134/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

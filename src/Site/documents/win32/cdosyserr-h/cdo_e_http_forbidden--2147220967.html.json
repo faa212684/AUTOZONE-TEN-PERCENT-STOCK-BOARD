@@ -1,0 +1,24 @@
+---
+output: win32\cdosyserr-h\cdo_e_http_forbidden\-2147220967\index.html.json
+canonical: /win32/cdosyserr-h/cdo_e_http_forbidden/0x80040219/
+title: -2147220967 CDO_E_HTTP_FORBIDDEN in CDOSysErr.h
+description: Access to the requested resource is denied. The server response was: %1.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "CDOSysErr.h",
+  "sourceUrl": "/win32/cdosyserr-h/",
+  "code": "-2147220967",
+  "codeUrl": "/win32/cdosyserr-h/cdo_e_http_forbidden/-2147220967/",
+  "numericCode": 0,
+  "define": "CDO_E_HTTP_FORBIDDEN",
+  "defineUrl": "/win32/cdosyserr-h/cdo_e_http_forbidden/",
+  "message": "Access to the requested resource is denied. The server response was: %1.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80040219",
+  "originalCodeUrl": "/win32/cdosyserr-h/cdo_e_http_forbidden/0x80040219/"
+}

@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_volmgr_disk_layout_not_cylinder_aligned\-1070071795\index.html.json
+canonical: /win32/ntstatus-h/status_volmgr_disk_layout_not_cylinder_aligned/0xc038000d/
+title: -1070071795 STATUS_VOLMGR_DISK_LAYOUT_NOT_CYLINDER_ALIGNED in ntstatus.h
+description: The disk layout contains partitions which are not cylinder aligned.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1070071795",
+  "codeUrl": "/win32/ntstatus-h/status_volmgr_disk_layout_not_cylinder_aligned/-1070071795/",
+  "numericCode": 0,
+  "define": "STATUS_VOLMGR_DISK_LAYOUT_NOT_CYLINDER_ALIGNED",
+  "defineUrl": "/win32/ntstatus-h/status_volmgr_disk_layout_not_cylinder_aligned/",
+  "message": "The disk layout contains partitions which are not cylinder aligned.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC038000D",
+  "originalCodeUrl": "/win32/ntstatus-h/status_volmgr_disk_layout_not_cylinder_aligned/0xc038000d/"
+}

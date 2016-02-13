@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_page_fault_copy_on_write\0x800702ed\index.html.json
+canonical: /win32/winerror-h/error_page_fault_copy_on_write/749/
+title: 0x800702ed ERROR_PAGE_FAULT_COPY_ON_WRITE in winerror.h
+description: Page fault was a demand zero fault.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800702ed",
+  "codeUrl": "/win32/winerror-h/error_page_fault_copy_on_write/0x800702ed/",
+  "numericCode": 0,
+  "define": "ERROR_PAGE_FAULT_COPY_ON_WRITE",
+  "defineUrl": "/win32/winerror-h/error_page_fault_copy_on_write/",
+  "message": "Page fault was a demand zero fault.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "749",
+  "originalCodeUrl": "/win32/winerror-h/error_page_fault_copy_on_write/749/"
+}

@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_invalid_task_index\-1073740543\index.html.json
+canonical: /win32/ntstatus-h/status_invalid_task_index/0xc0000501/
+title: -1073740543 STATUS_INVALID_TASK_INDEX in ntstatus.h
+description: The specified task index is invalid.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073740543",
+  "codeUrl": "/win32/ntstatus-h/status_invalid_task_index/-1073740543/",
+  "numericCode": 0,
+  "define": "STATUS_INVALID_TASK_INDEX",
+  "defineUrl": "/win32/ntstatus-h/status_invalid_task_index/",
+  "message": "The specified task index is invalid.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000501",
+  "originalCodeUrl": "/win32/ntstatus-h/status_invalid_task_index/0xc0000501/"
+}

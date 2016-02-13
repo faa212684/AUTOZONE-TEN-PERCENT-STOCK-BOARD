@@ -1,0 +1,29 @@
+---
+output: win32\netevent-h\event_eqos_info_app_marking_allowed\0x4000407f\index.html.json
+
+title: 0x4000407F EVENT_EQOS_INFO_APP_MARKING_ALLOWED in netevent.h
+description: The Advanced QoS Setting for DSCP marking overrides successfully refreshed. 
+Applications can set DSCP values independently of QoS policies.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x4000407F",
+  "codeUrl": "/win32/netevent-h/event_eqos_info_app_marking_allowed/0x4000407f/",
+  "numericCode": 1073758335,
+  "define": "EVENT_EQOS_INFO_APP_MARKING_ALLOWED",
+  "defineUrl": "/win32/netevent-h/event_eqos_info_app_marking_allowed/",
+  "message": "The Advanced QoS Setting for DSCP marking overrides successfully refreshed. \r\nApplications can set DSCP values independently of QoS policies.",
+  "remarks": null,
+  "aka": [
+    "1073758335"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_eqos_info_app_marking_allowed/1073758335/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

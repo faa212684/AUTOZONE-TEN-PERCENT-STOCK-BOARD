@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_intermixed_kernel_ea_operation\324\index.html.json
+
+title: 324 ERROR_INTERMIXED_KERNEL_EA_OPERATION in winerror.h
+description: An attempt was made to modify both a KERNEL and normal Extended Attribute (EA) in the same operation.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "324",
+  "codeUrl": "/win32/winerror-h/error_intermixed_kernel_ea_operation/324/",
+  "numericCode": 324,
+  "define": "ERROR_INTERMIXED_KERNEL_EA_OPERATION",
+  "defineUrl": "/win32/winerror-h/error_intermixed_kernel_ea_operation/",
+  "message": "An attempt was made to modify both a KERNEL and normal Extended Attribute (EA) in the same operation.",
+  "remarks": null,
+  "aka": [
+    "0x80070144",
+    "-2147024572"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_intermixed_kernel_ea_operation/0x80070144/",
+    "/win32/winerror-h/error_intermixed_kernel_ea_operation/-2147024572/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

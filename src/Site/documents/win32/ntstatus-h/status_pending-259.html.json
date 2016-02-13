@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_pending\259\index.html.json
+canonical: /win32/ntstatus-h/status_pending/0x00000103/
+title: 259 STATUS_PENDING in ntstatus.h
+description: The operation that was requested is pending completion.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "259",
+  "codeUrl": "/win32/ntstatus-h/status_pending/259/",
+  "numericCode": 0,
+  "define": "STATUS_PENDING",
+  "defineUrl": "/win32/ntstatus-h/status_pending/",
+  "message": "The operation that was requested is pending completion.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x00000103",
+  "originalCodeUrl": "/win32/ntstatus-h/status_pending/0x00000103/"
+}

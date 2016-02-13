@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_cluster_csv_auto_pause_error\0xc0130021\index.html.json
+
+title: 0xC0130021 STATUS_CLUSTER_CSV_AUTO_PAUSE_ERROR in ntstatus.h
+description: The operation has failed. CSVFS has to pause and refresh information.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0130021",
+  "codeUrl": "/win32/ntstatus-h/status_cluster_csv_auto_pause_error/0xc0130021/",
+  "numericCode": -1072496607,
+  "define": "STATUS_CLUSTER_CSV_AUTO_PAUSE_ERROR",
+  "defineUrl": "/win32/ntstatus-h/status_cluster_csv_auto_pause_error/",
+  "message": "The operation has failed. CSVFS has to pause and refresh information.",
+  "remarks": null,
+  "aka": [
+    "-1072496607"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_cluster_csv_auto_pause_error/-1072496607/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_parity_error\0xc000002b\index.html.json
+
+title: 0xC000002B STATUS_PARITY_ERROR in ntstatus.h
+description: Device parity error on I/O operation.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000002B",
+  "codeUrl": "/win32/ntstatus-h/status_parity_error/0xc000002b/",
+  "numericCode": -1073741781,
+  "define": "STATUS_PARITY_ERROR",
+  "defineUrl": "/win32/ntstatus-h/status_parity_error/",
+  "message": "Device parity error on I/O operation.",
+  "remarks": null,
+  "aka": [
+    "-1073741781"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_parity_error/-1073741781/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

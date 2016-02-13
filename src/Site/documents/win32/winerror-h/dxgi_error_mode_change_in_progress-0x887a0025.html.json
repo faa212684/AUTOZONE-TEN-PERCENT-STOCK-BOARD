@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\dxgi_error_mode_change_in_progress\0x887a0025\index.html.json
+
+title: 0x887A0025 DXGI_ERROR_MODE_CHANGE_IN_PROGRESS in winerror.h
+description: An on-going mode change prevented completion of the call. The call may succeed if attempted later.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x887A0025",
+  "codeUrl": "/win32/winerror-h/dxgi_error_mode_change_in_progress/0x887a0025/",
+  "numericCode": -2005270491,
+  "define": "DXGI_ERROR_MODE_CHANGE_IN_PROGRESS",
+  "defineUrl": "/win32/winerror-h/dxgi_error_mode_change_in_progress/",
+  "message": "An on-going mode change prevented completion of the call. The call may succeed if attempted later.",
+  "remarks": null,
+  "aka": [
+    "-2005270491"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/dxgi_error_mode_change_in_progress/-2005270491/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

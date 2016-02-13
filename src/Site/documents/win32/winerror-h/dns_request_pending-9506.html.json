@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\dns_request_pending\9506\index.html.json
+
+title: 9506 DNS_REQUEST_PENDING in winerror.h
+description: DNS query request is pending.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "9506",
+  "codeUrl": "/win32/winerror-h/dns_request_pending/9506/",
+  "numericCode": 9506,
+  "define": "DNS_REQUEST_PENDING",
+  "defineUrl": "/win32/winerror-h/dns_request_pending/",
+  "message": "DNS query request is pending.",
+  "remarks": null,
+  "aka": [
+    "0x80072522",
+    "-2147015390"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/dns_request_pending/0x80072522/",
+    "/win32/winerror-h/dns_request_pending/-2147015390/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

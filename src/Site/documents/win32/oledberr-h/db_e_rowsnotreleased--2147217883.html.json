@@ -1,0 +1,24 @@
+---
+output: win32\oledberr-h\db_e_rowsnotreleased\-2147217883\index.html.json
+canonical: /win32/oledberr-h/db_e_rowsnotreleased/0x80040e25/
+title: -2147217883 DB_E_ROWSNOTRELEASED in oledberr.h
+description: Row handles must all be released before new ones can be obtained.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "oledberr.h",
+  "sourceUrl": "/win32/oledberr-h/",
+  "code": "-2147217883",
+  "codeUrl": "/win32/oledberr-h/db_e_rowsnotreleased/-2147217883/",
+  "numericCode": 0,
+  "define": "DB_E_ROWSNOTRELEASED",
+  "defineUrl": "/win32/oledberr-h/db_e_rowsnotreleased/",
+  "message": "Row handles must all be released before new ones can be obtained.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80040E25",
+  "originalCodeUrl": "/win32/oledberr-h/db_e_rowsnotreleased/0x80040e25/"
+}

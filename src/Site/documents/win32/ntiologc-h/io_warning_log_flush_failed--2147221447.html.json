@@ -1,0 +1,24 @@
+---
+output: win32\ntiologc-h\io_warning_log_flush_failed\-2147221447\index.html.json
+canonical: /win32/ntiologc-h/io_warning_log_flush_failed/0x80040039/
+title: -2147221447 IO_WARNING_LOG_FLUSH_FAILED in ntiologc.h
+description: The system failed to flush data to the transaction log. Corruption may occur.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntiologc.h",
+  "sourceUrl": "/win32/ntiologc-h/",
+  "code": "-2147221447",
+  "codeUrl": "/win32/ntiologc-h/io_warning_log_flush_failed/-2147221447/",
+  "numericCode": 0,
+  "define": "IO_WARNING_LOG_FLUSH_FAILED",
+  "defineUrl": "/win32/ntiologc-h/io_warning_log_flush_failed/",
+  "message": "The system failed to flush data to the transaction log. Corruption may occur.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80040039",
+  "originalCodeUrl": "/win32/ntiologc-h/io_warning_log_flush_failed/0x80040039/"
+}

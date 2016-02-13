@@ -1,0 +1,28 @@
+---
+output: bugcheck\bugcodes-h\invalid_process_detach_attempt\0x00000006\index.html.json
+
+title: 0x00000006 INVALID_PROCESS_DETACH_ATTEMPT in bugcodes.h
+description: INVALID_PROCESS_DETACH_ATTEMPT
+disqus: true
+---
+{
+  "area": "bugcheck",
+  "areaUrl": "/bugcheck/",
+  "source": "bugcodes.h",
+  "sourceUrl": "/bugcheck/bugcodes-h/",
+  "code": "0x00000006",
+  "codeUrl": "/bugcheck/bugcodes-h/invalid_process_detach_attempt/0x00000006/",
+  "numericCode": 6,
+  "define": "INVALID_PROCESS_DETACH_ATTEMPT",
+  "defineUrl": "/bugcheck/bugcodes-h/invalid_process_detach_attempt/",
+  "message": "INVALID_PROCESS_DETACH_ATTEMPT",
+  "remarks": null,
+  "aka": [
+    "6"
+  ],
+  "akaUrl": [
+    "/bugcheck/bugcodes-h/invalid_process_detach_attempt/6/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

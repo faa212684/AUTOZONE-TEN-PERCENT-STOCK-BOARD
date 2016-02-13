@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_driver_failed_prior_unload\654\index.html.json
+
+title: 654 ERROR_DRIVER_FAILED_PRIOR_UNLOAD in winerror.h
+description: The driver could not be loaded because a previous version of the driver is still in memory.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "654",
+  "codeUrl": "/win32/winerror-h/error_driver_failed_prior_unload/654/",
+  "numericCode": 654,
+  "define": "ERROR_DRIVER_FAILED_PRIOR_UNLOAD",
+  "defineUrl": "/win32/winerror-h/error_driver_failed_prior_unload/",
+  "message": "The driver could not be loaded because a previous version of the driver is still in memory.",
+  "remarks": null,
+  "aka": [
+    "0x8007028e",
+    "-2147024242"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_driver_failed_prior_unload/0x8007028e/",
+    "/win32/winerror-h/error_driver_failed_prior_unload/-2147024242/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

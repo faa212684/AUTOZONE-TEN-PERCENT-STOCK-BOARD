@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_no_logon_servers\0xc000005e\index.html.json
+
+title: 0xC000005E STATUS_NO_LOGON_SERVERS in ntstatus.h
+description: There are currently no logon servers available to service the logon request.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000005E",
+  "codeUrl": "/win32/ntstatus-h/status_no_logon_servers/0xc000005e/",
+  "numericCode": -1073741730,
+  "define": "STATUS_NO_LOGON_SERVERS",
+  "defineUrl": "/win32/ntstatus-h/status_no_logon_servers/",
+  "message": "There are currently no logon servers available to service the logon request.",
+  "remarks": null,
+  "aka": [
+    "-1073741730"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_no_logon_servers/-1073741730/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

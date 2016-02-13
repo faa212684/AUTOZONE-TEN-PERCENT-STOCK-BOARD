@@ -1,0 +1,28 @@
+---
+output: win32\ntiologc-h\io_warning_duplicate_path\0x8004003b\index.html.json
+
+title: 0x8004003B IO_WARNING_DUPLICATE_PATH in ntiologc.h
+description: Disk %2 will not be used because it is a redundant path for disk %3.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntiologc.h",
+  "sourceUrl": "/win32/ntiologc-h/",
+  "code": "0x8004003B",
+  "codeUrl": "/win32/ntiologc-h/io_warning_duplicate_path/0x8004003b/",
+  "numericCode": -2147221445,
+  "define": "IO_WARNING_DUPLICATE_PATH",
+  "defineUrl": "/win32/ntiologc-h/io_warning_duplicate_path/",
+  "message": "Disk %2 will not be used because it is a redundant path for disk %3.",
+  "remarks": null,
+  "aka": [
+    "-2147221445"
+  ],
+  "akaUrl": [
+    "/win32/ntiologc-h/io_warning_duplicate_path/-2147221445/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

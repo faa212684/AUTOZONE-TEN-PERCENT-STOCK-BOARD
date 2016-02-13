@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_secureboot_rollback_detected\-1069350911\index.html.json
+canonical: /win32/ntstatus-h/status_secureboot_rollback_detected/0xc0430001/
+title: -1069350911 STATUS_SECUREBOOT_ROLLBACK_DETECTED in ntstatus.h
+description: Secure Boot detected that rollback of protected data has been attempted.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1069350911",
+  "codeUrl": "/win32/ntstatus-h/status_secureboot_rollback_detected/-1069350911/",
+  "numericCode": 0,
+  "define": "STATUS_SECUREBOOT_ROLLBACK_DETECTED",
+  "defineUrl": "/win32/ntstatus-h/status_secureboot_rollback_detected/",
+  "message": "Secure Boot detected that rollback of protected data has been attempted.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0430001",
+  "originalCodeUrl": "/win32/ntstatus-h/status_secureboot_rollback_detected/0xc0430001/"
+}

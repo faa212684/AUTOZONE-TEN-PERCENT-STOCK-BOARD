@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\certsrv_e_key_attestation\0x8009481a\index.html.json
+
+title: 0x8009481A CERTSRV_E_KEY_ATTESTATION in winerror.h
+description: The request does not support private key attestation as defined in the certificate template.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8009481A",
+  "codeUrl": "/win32/winerror-h/certsrv_e_key_attestation/0x8009481a/",
+  "numericCode": -2146875366,
+  "define": "CERTSRV_E_KEY_ATTESTATION",
+  "defineUrl": "/win32/winerror-h/certsrv_e_key_attestation/",
+  "message": "The request does not support private key attestation as defined in the certificate template.",
+  "remarks": null,
+  "aka": [
+    "-2146875366"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/certsrv_e_key_attestation/-2146875366/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

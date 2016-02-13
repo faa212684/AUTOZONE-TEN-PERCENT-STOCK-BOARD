@@ -1,0 +1,28 @@
+---
+output: win32\bitsmsg-h\bg_e_destination_locked\0x8020000d\index.html.json
+
+title: 0x8020000D BG_E_DESTINATION_LOCKED in BitsMsg.h
+description: The destination file system volume is not available. Verify that another program, such as CheckDisk, is not running, which would lock the volume. When the volume is available, Background Intelligent Transfer Service (BITS) will try again.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "BitsMsg.h",
+  "sourceUrl": "/win32/bitsmsg-h/",
+  "code": "0x8020000D",
+  "codeUrl": "/win32/bitsmsg-h/bg_e_destination_locked/0x8020000d/",
+  "numericCode": -2145386483,
+  "define": "BG_E_DESTINATION_LOCKED",
+  "defineUrl": "/win32/bitsmsg-h/bg_e_destination_locked/",
+  "message": "The destination file system volume is not available. Verify that another program, such as CheckDisk, is not running, which would lock the volume. When the volume is available, Background Intelligent Transfer Service (BITS) will try again.",
+  "remarks": null,
+  "aka": [
+    "-2145386483"
+  ],
+  "akaUrl": [
+    "/win32/bitsmsg-h/bg_e_destination_locked/-2145386483/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

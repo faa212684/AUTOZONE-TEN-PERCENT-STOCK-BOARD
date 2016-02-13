@@ -1,0 +1,28 @@
+---
+output: win32\scarderr-h\scard_e_no_memory\0x80100006\index.html.json
+
+title: 0x80100006 SCARD_E_NO_MEMORY in SCardErr.h
+description: Not enough memory available to complete this command.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "SCardErr.h",
+  "sourceUrl": "/win32/scarderr-h/",
+  "code": "0x80100006",
+  "codeUrl": "/win32/scarderr-h/scard_e_no_memory/0x80100006/",
+  "numericCode": -2146435066,
+  "define": "SCARD_E_NO_MEMORY",
+  "defineUrl": "/win32/scarderr-h/scard_e_no_memory/",
+  "message": "Not enough memory available to complete this command.",
+  "remarks": null,
+  "aka": [
+    "-2146435066"
+  ],
+  "akaUrl": [
+    "/win32/scarderr-h/scard_e_no_memory/-2146435066/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

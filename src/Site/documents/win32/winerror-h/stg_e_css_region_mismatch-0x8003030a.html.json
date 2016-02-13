@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\stg_e_css_region_mismatch\0x8003030a\index.html.json
+
+title: 0x8003030A STG_E_CSS_REGION_MISMATCH in winerror.h
+description: Copy Protection Error - The current DVD's region does not correspond to the region setting of the drive.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8003030A",
+  "codeUrl": "/win32/winerror-h/stg_e_css_region_mismatch/0x8003030a/",
+  "numericCode": -2147286262,
+  "define": "STG_E_CSS_REGION_MISMATCH",
+  "defineUrl": "/win32/winerror-h/stg_e_css_region_mismatch/",
+  "message": "Copy Protection Error - The current DVD's region does not correspond to the region setting of the drive.",
+  "remarks": null,
+  "aka": [
+    "-2147286262"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/stg_e_css_region_mismatch/-2147286262/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

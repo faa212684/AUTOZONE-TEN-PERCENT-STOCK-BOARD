@@ -1,0 +1,25 @@
+---
+output: win32\vsserror-h\vss_e_unexpected\-2147212542\index.html.json
+canonical: /win32/vsserror-h/vss_e_unexpected/0x80042302/
+title: -2147212542 VSS_E_UNEXPECTED in vsserror.h
+description: A Volume Shadow Copy Service component encountered an unexpected error.
+Check the Application event log for more information.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vsserror.h",
+  "sourceUrl": "/win32/vsserror-h/",
+  "code": "-2147212542",
+  "codeUrl": "/win32/vsserror-h/vss_e_unexpected/-2147212542/",
+  "numericCode": 0,
+  "define": "VSS_E_UNEXPECTED",
+  "defineUrl": "/win32/vsserror-h/vss_e_unexpected/",
+  "message": "A Volume Shadow Copy Service component encountered an unexpected error.\r\nCheck the Application event log for more information.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80042302",
+  "originalCodeUrl": "/win32/vsserror-h/vss_e_unexpected/0x80042302/"
+}

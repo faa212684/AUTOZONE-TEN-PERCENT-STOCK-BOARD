@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_graphics_no_available_vidpn_target\0xc01e0333\index.html.json
+
+title: 0xC01E0333 STATUS_GRAPHICS_NO_AVAILABLE_VIDPN_TARGET in ntstatus.h
+description: Specified VidPN source cannot be used because there is no available VidPN target to connect it to.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC01E0333",
+  "codeUrl": "/win32/ntstatus-h/status_graphics_no_available_vidpn_target/0xc01e0333/",
+  "numericCode": -1071774925,
+  "define": "STATUS_GRAPHICS_NO_AVAILABLE_VIDPN_TARGET",
+  "defineUrl": "/win32/ntstatus-h/status_graphics_no_available_vidpn_target/",
+  "message": "Specified VidPN source cannot be used because there is no available VidPN target to connect it to.",
+  "remarks": null,
+  "aka": [
+    "-1071774925"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_graphics_no_available_vidpn_target/-1071774925/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

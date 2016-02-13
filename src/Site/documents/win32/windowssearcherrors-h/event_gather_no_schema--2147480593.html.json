@@ -1,0 +1,24 @@
+---
+output: win32\windowssearcherrors-h\event_gather_no_schema\-2147480593\index.html.json
+canonical: /win32/windowssearcherrors-h/event_gather_no_schema/0x80000bef/
+title: -2147480593 EVENT_GATHER_NO_SCHEMA in WindowsSearchErrors.h
+description: The gatherer property mapping file cannot be opened. The default values are being used. You may have to copy the property mapping file from the setup CD, or reinstall the application.%1
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "-2147480593",
+  "codeUrl": "/win32/windowssearcherrors-h/event_gather_no_schema/-2147480593/",
+  "numericCode": 0,
+  "define": "EVENT_GATHER_NO_SCHEMA",
+  "defineUrl": "/win32/windowssearcherrors-h/event_gather_no_schema/",
+  "message": "The gatherer property mapping file cannot be opened. The default values are being used. You may have to copy the property mapping file from the setup CD, or reinstall the application.%1",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80000BEF",
+  "originalCodeUrl": "/win32/windowssearcherrors-h/event_gather_no_schema/0x80000bef/"
+}

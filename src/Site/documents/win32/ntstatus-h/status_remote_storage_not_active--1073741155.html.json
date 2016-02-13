@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_remote_storage_not_active\-1073741155\index.html.json
+canonical: /win32/ntstatus-h/status_remote_storage_not_active/0xc000029d/
+title: -1073741155 STATUS_REMOTE_STORAGE_NOT_ACTIVE in ntstatus.h
+description: The remote storage service is not operational at this time.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741155",
+  "codeUrl": "/win32/ntstatus-h/status_remote_storage_not_active/-1073741155/",
+  "numericCode": 0,
+  "define": "STATUS_REMOTE_STORAGE_NOT_ACTIVE",
+  "defineUrl": "/win32/ntstatus-h/status_remote_storage_not_active/",
+  "message": "The remote storage service is not operational at this time.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC000029D",
+  "originalCodeUrl": "/win32/ntstatus-h/status_remote_storage_not_active/0xc000029d/"
+}

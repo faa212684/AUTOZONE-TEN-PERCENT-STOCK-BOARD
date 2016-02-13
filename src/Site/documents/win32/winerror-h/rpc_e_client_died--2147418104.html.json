@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\rpc_e_client_died\-2147418104\index.html.json
+canonical: /win32/winerror-h/rpc_e_client_died/0x80010008/
+title: -2147418104 RPC_E_CLIENT_DIED in winerror.h
+description: The caller (client) disappeared while the callee (server) was processing a call.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147418104",
+  "codeUrl": "/win32/winerror-h/rpc_e_client_died/-2147418104/",
+  "numericCode": 0,
+  "define": "RPC_E_CLIENT_DIED",
+  "defineUrl": "/win32/winerror-h/rpc_e_client_died/",
+  "message": "The caller (client) disappeared while the callee (server) was processing a call.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80010008",
+  "originalCodeUrl": "/win32/winerror-h/rpc_e_client_died/0x80010008/"
+}

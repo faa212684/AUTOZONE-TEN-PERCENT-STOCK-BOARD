@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_srv_cant_create_process\0xc00007d3\index.html.json
+
+title: 0xC00007D3 EVENT_SRV_CANT_CREATE_PROCESS in netevent.h
+description: The server could not create a process.  The server could not be started.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC00007D3",
+  "codeUrl": "/win32/netevent-h/event_srv_cant_create_process/0xc00007d3/",
+  "numericCode": -1073739821,
+  "define": "EVENT_SRV_CANT_CREATE_PROCESS",
+  "defineUrl": "/win32/netevent-h/event_srv_cant_create_process/",
+  "message": "The server could not create a process.  The server could not be started.",
+  "remarks": null,
+  "aka": [
+    "-1073739821"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_srv_cant_create_process/-1073739821/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

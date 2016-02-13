@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\sec_e_incomplete_message\-2146893032\index.html.json
+canonical: /win32/winerror-h/sec_e_incomplete_message/0x80090318/
+title: -2146893032 SEC_E_INCOMPLETE_MESSAGE in winerror.h
+description: The supplied message is incomplete. The signature was not verified.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2146893032",
+  "codeUrl": "/win32/winerror-h/sec_e_incomplete_message/-2146893032/",
+  "numericCode": 0,
+  "define": "SEC_E_INCOMPLETE_MESSAGE",
+  "defineUrl": "/win32/winerror-h/sec_e_incomplete_message/",
+  "message": "The supplied message is incomplete. The signature was not verified.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80090318",
+  "originalCodeUrl": "/win32/winerror-h/sec_e_incomplete_message/0x80090318/"
+}

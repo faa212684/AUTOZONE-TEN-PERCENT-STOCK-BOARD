@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_tpm_bad_scheme\0xc029002a\index.html.json
+
+title: 0xC029002A STATUS_TPM_BAD_SCHEME in ntstatus.h
+description: The signature or encryption scheme for this key is incorrect or not permitted in this situation.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC029002A",
+  "codeUrl": "/win32/ntstatus-h/status_tpm_bad_scheme/0xc029002a/",
+  "numericCode": -1071054806,
+  "define": "STATUS_TPM_BAD_SCHEME",
+  "defineUrl": "/win32/ntstatus-h/status_tpm_bad_scheme/",
+  "message": "The signature or encryption scheme for this key is incorrect or not permitted in this situation.",
+  "remarks": null,
+  "aka": [
+    "-1071054806"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_tpm_bad_scheme/-1071054806/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

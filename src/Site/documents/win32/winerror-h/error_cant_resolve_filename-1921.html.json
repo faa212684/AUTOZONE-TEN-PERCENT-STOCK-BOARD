@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_cant_resolve_filename\1921\index.html.json
+
+title: 1921 ERROR_CANT_RESOLVE_FILENAME in winerror.h
+description: The name of the file cannot be resolved by the system.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1921",
+  "codeUrl": "/win32/winerror-h/error_cant_resolve_filename/1921/",
+  "numericCode": 1921,
+  "define": "ERROR_CANT_RESOLVE_FILENAME",
+  "defineUrl": "/win32/winerror-h/error_cant_resolve_filename/",
+  "message": "The name of the file cannot be resolved by the system.",
+  "remarks": null,
+  "aka": [
+    "0x80070781",
+    "-2147022975"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_cant_resolve_filename/0x80070781/",
+    "/win32/winerror-h/error_cant_resolve_filename/-2147022975/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

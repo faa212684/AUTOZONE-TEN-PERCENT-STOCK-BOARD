@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_e_online_pack_exists\0x80042464\index.html.json
+
+title: 0x80042464 VDS_E_ONLINE_PACK_EXISTS in vdserr.h
+description: Create pack operation failed. An online pack already exists.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x80042464",
+  "codeUrl": "/win32/vdserr-h/vds_e_online_pack_exists/0x80042464/",
+  "numericCode": -2147212188,
+  "define": "VDS_E_ONLINE_PACK_EXISTS",
+  "defineUrl": "/win32/vdserr-h/vds_e_online_pack_exists/",
+  "message": "Create pack operation failed. An online pack already exists.",
+  "remarks": null,
+  "aka": [
+    "-2147212188"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_online_pack_exists/-2147212188/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

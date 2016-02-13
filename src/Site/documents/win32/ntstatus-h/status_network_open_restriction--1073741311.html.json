@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_network_open_restriction\-1073741311\index.html.json
+canonical: /win32/ntstatus-h/status_network_open_restriction/0xc0000201/
+title: -1073741311 STATUS_NETWORK_OPEN_RESTRICTION in ntstatus.h
+description: A remote open failed because the network open restrictions were not satisfied.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741311",
+  "codeUrl": "/win32/ntstatus-h/status_network_open_restriction/-1073741311/",
+  "numericCode": 0,
+  "define": "STATUS_NETWORK_OPEN_RESTRICTION",
+  "defineUrl": "/win32/ntstatus-h/status_network_open_restriction/",
+  "message": "A remote open failed because the network open restrictions were not satisfied.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000201",
+  "originalCodeUrl": "/win32/ntstatus-h/status_network_open_restriction/0xc0000201/"
+}

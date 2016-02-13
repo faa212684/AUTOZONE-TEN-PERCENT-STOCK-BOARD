@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_io_reparse_tag_not_handled\0xc0000279\index.html.json
+
+title: 0xC0000279 STATUS_IO_REPARSE_TAG_NOT_HANDLED in ntstatus.h
+description: The layered file system driver for this IO tag did not handle it when needed.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000279",
+  "codeUrl": "/win32/ntstatus-h/status_io_reparse_tag_not_handled/0xc0000279/",
+  "numericCode": -1073741191,
+  "define": "STATUS_IO_REPARSE_TAG_NOT_HANDLED",
+  "defineUrl": "/win32/ntstatus-h/status_io_reparse_tag_not_handled/",
+  "message": "The layered file system driver for this IO tag did not handle it when needed.",
+  "remarks": null,
+  "aka": [
+    "-1073741191"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_io_reparse_tag_not_handled/-1073741191/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\wsmerror-h\error_wsman_invalid_filepath\0x80338191\index.html.json
+
+title: 0x80338191 ERROR_WSMAN_INVALID_FILEPATH in wsmerror.h
+description: The file path specified is either not absolute, not in the system32 directory, or not valid.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x80338191",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_invalid_filepath/0x80338191/",
+  "numericCode": -2144108143,
+  "define": "ERROR_WSMAN_INVALID_FILEPATH",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_invalid_filepath/",
+  "message": "The file path specified is either not absolute, not in the system32 directory, or not valid.",
+  "remarks": null,
+  "aka": [
+    "-2144108143"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_invalid_filepath/-2144108143/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

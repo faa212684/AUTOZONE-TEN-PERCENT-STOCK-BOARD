@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\spapi_e_authenticode_trust_not_established\0x800f0242\index.html.json
+
+title: 0x800F0242 SPAPI_E_AUTHENTICODE_TRUST_NOT_ESTABLISHED in winerror.h
+description: The publisher of an Authenticode(tm) signed catalog has not yet been established as trusted.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800F0242",
+  "codeUrl": "/win32/winerror-h/spapi_e_authenticode_trust_not_established/0x800f0242/",
+  "numericCode": -2146500030,
+  "define": "SPAPI_E_AUTHENTICODE_TRUST_NOT_ESTABLISHED",
+  "defineUrl": "/win32/winerror-h/spapi_e_authenticode_trust_not_established/",
+  "message": "The publisher of an Authenticode(tm) signed catalog has not yet been established as trusted.",
+  "remarks": null,
+  "aka": [
+    "-2146500030"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/spapi_e_authenticode_trust_not_established/-2146500030/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,29 @@
+---
+output: win32\vdserr-h\vds_e_format_critical\0x80042913\index.html.json
+
+title: 0x80042913 VDS_E_FORMAT_CRITICAL in vdserr.h
+description: Format is not allowed on the current boot, system, pagefile,
+crashdump or hibernation volume.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x80042913",
+  "codeUrl": "/win32/vdserr-h/vds_e_format_critical/0x80042913/",
+  "numericCode": -2147210989,
+  "define": "VDS_E_FORMAT_CRITICAL",
+  "defineUrl": "/win32/vdserr-h/vds_e_format_critical/",
+  "message": "Format is not allowed on the current boot, system, pagefile,\r\ncrashdump or hibernation volume.",
+  "remarks": null,
+  "aka": [
+    "-2147210989"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_format_critical/-2147210989/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

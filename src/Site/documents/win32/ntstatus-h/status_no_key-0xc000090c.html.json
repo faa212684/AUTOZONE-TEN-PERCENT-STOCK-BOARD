@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_no_key\0xc000090c\index.html.json
+
+title: 0xC000090C STATUS_NO_KEY in ntstatus.h
+description: Key does not exist.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000090C",
+  "codeUrl": "/win32/ntstatus-h/status_no_key/0xc000090c/",
+  "numericCode": -1073739508,
+  "define": "STATUS_NO_KEY",
+  "defineUrl": "/win32/ntstatus-h/status_no_key/",
+  "message": "Key does not exist.",
+  "remarks": null,
+  "aka": [
+    "-1073739508"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_no_key/-1073739508/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

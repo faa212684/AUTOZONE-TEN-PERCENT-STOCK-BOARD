@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_log_container_read_failed\6639\index.html.json
+
+title: 6639 ERROR_LOG_CONTAINER_READ_FAILED in winerror.h
+description: Log service encountered an error when attempting to read from a log container.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "6639",
+  "codeUrl": "/win32/winerror-h/error_log_container_read_failed/6639/",
+  "numericCode": 6639,
+  "define": "ERROR_LOG_CONTAINER_READ_FAILED",
+  "defineUrl": "/win32/winerror-h/error_log_container_read_failed/",
+  "message": "Log service encountered an error when attempting to read from a log container.",
+  "remarks": null,
+  "aka": [
+    "0x800719ef",
+    "-2147018257"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_log_container_read_failed/0x800719ef/",
+    "/win32/winerror-h/error_log_container_read_failed/-2147018257/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

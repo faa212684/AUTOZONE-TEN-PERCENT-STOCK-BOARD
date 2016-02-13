@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_e_invalid_pack\0x8004251a\index.html.json
+
+title: 0x8004251A VDS_E_INVALID_PACK in vdserr.h
+description: This operation is not allowed on the invalid disk pack.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x8004251A",
+  "codeUrl": "/win32/vdserr-h/vds_e_invalid_pack/0x8004251a/",
+  "numericCode": -2147212006,
+  "define": "VDS_E_INVALID_PACK",
+  "defineUrl": "/win32/vdserr-h/vds_e_invalid_pack/",
+  "message": "This operation is not allowed on the invalid disk pack.",
+  "remarks": null,
+  "aka": [
+    "-2147212006"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_invalid_pack/-2147212006/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

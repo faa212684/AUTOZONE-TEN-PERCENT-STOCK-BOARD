@@ -1,0 +1,28 @@
+---
+output: win32\wuerror-h\wu_e_setup_invalid_identdata\0x8024d002\index.html.json
+
+title: 0x8024D002 WU_E_SETUP_INVALID_IDENTDATA in wuerror.h
+description: Windows Update Agent could not be updated because the wuident.cab file contains invalid information.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wuerror.h",
+  "sourceUrl": "/win32/wuerror-h/",
+  "code": "0x8024D002",
+  "codeUrl": "/win32/wuerror-h/wu_e_setup_invalid_identdata/0x8024d002/",
+  "numericCode": -2145071102,
+  "define": "WU_E_SETUP_INVALID_IDENTDATA",
+  "defineUrl": "/win32/wuerror-h/wu_e_setup_invalid_identdata/",
+  "message": "Windows Update Agent could not be updated because the wuident.cab file contains invalid information.",
+  "remarks": null,
+  "aka": [
+    "-2145071102"
+  ],
+  "akaUrl": [
+    "/win32/wuerror-h/wu_e_setup_invalid_identdata/-2145071102/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

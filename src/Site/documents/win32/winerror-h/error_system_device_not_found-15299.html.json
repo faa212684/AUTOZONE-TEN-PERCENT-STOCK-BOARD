@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_system_device_not_found\15299\index.html.json
+
+title: 15299 ERROR_SYSTEM_DEVICE_NOT_FOUND in winerror.h
+description: The requested system device cannot be found.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "15299",
+  "codeUrl": "/win32/winerror-h/error_system_device_not_found/15299/",
+  "numericCode": 15299,
+  "define": "ERROR_SYSTEM_DEVICE_NOT_FOUND",
+  "defineUrl": "/win32/winerror-h/error_system_device_not_found/",
+  "message": "The requested system device cannot be found.",
+  "remarks": null,
+  "aka": [
+    "0x80073bc3",
+    "-2147009597"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_system_device_not_found/0x80073bc3/",
+    "/win32/winerror-h/error_system_device_not_found/-2147009597/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

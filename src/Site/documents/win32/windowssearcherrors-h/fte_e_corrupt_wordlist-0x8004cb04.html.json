@@ -1,0 +1,28 @@
+---
+output: win32\windowssearcherrors-h\fte_e_corrupt_wordlist\0x8004cb04\index.html.json
+
+title: 0x8004CB04 FTE_E_CORRUPT_WORDLIST in WindowsSearchErrors.h
+description: The in-memory wordlist is corrupted. This is due to a faulty filter, wordbreaker, or other indexing component.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "0x8004CB04",
+  "codeUrl": "/win32/windowssearcherrors-h/fte_e_corrupt_wordlist/0x8004cb04/",
+  "numericCode": -2147169532,
+  "define": "FTE_E_CORRUPT_WORDLIST",
+  "defineUrl": "/win32/windowssearcherrors-h/fte_e_corrupt_wordlist/",
+  "message": "The in-memory wordlist is corrupted. This is due to a faulty filter, wordbreaker, or other indexing component.",
+  "remarks": null,
+  "aka": [
+    "-2147169532"
+  ],
+  "akaUrl": [
+    "/win32/windowssearcherrors-h/fte_e_corrupt_wordlist/-2147169532/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

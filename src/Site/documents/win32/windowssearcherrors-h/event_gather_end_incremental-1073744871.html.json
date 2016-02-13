@@ -1,0 +1,24 @@
+---
+output: win32\windowssearcherrors-h\event_gather_end_incremental\1073744871\index.html.json
+canonical: /win32/windowssearcherrors-h/event_gather_end_incremental/0x40000be7/
+title: 1073744871 EVENT_GATHER_END_INCREMENTAL in WindowsSearchErrors.h
+description: The incremental update is complete. The gatherer successfully processed %2 documents totaling %3K. It failed to filter %4 documents. %5 documents were modified. %6 URLs were not found or denied access.%1
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "1073744871",
+  "codeUrl": "/win32/windowssearcherrors-h/event_gather_end_incremental/1073744871/",
+  "numericCode": 0,
+  "define": "EVENT_GATHER_END_INCREMENTAL",
+  "defineUrl": "/win32/windowssearcherrors-h/event_gather_end_incremental/",
+  "message": "The incremental update is complete. The gatherer successfully processed %2 documents totaling %3K. It failed to filter %4 documents. %5 documents were modified. %6 URLs were not found or denied access.%1",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x40000BE7",
+  "originalCodeUrl": "/win32/windowssearcherrors-h/event_gather_end_incremental/0x40000be7/"
+}

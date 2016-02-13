@@ -1,0 +1,29 @@
+---
+output: win32\wsmerror-h\error_winrs_client_freeruncommandresult_null_param\0x8033812d\index.html.json
+
+title: 0x8033812D ERROR_WINRS_CLIENT_FREERUNCOMMANDRESULT_NULL_PARAM in wsmerror.h
+description: The WinRS client cannot process the request. The parameter required for the WinrsFreeRunCommandResult function is null or zero.
+Change the request to include the missing parameter and try again.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x8033812D",
+  "codeUrl": "/win32/wsmerror-h/error_winrs_client_freeruncommandresult_null_param/0x8033812d/",
+  "numericCode": -2144108243,
+  "define": "ERROR_WINRS_CLIENT_FREERUNCOMMANDRESULT_NULL_PARAM",
+  "defineUrl": "/win32/wsmerror-h/error_winrs_client_freeruncommandresult_null_param/",
+  "message": "The WinRS client cannot process the request. The parameter required for the WinrsFreeRunCommandResult function is null or zero.\r\nChange the request to include the missing parameter and try again.",
+  "remarks": null,
+  "aka": [
+    "-2144108243"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_winrs_client_freeruncommandresult_null_param/-2144108243/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

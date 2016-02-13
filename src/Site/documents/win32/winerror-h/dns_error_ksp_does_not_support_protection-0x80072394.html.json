@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\dns_error_ksp_does_not_support_protection\0x80072394\index.html.json
+canonical: /win32/winerror-h/dns_error_ksp_does_not_support_protection/9108/
+title: 0x80072394 DNS_ERROR_KSP_DOES_NOT_SUPPORT_PROTECTION in winerror.h
+description: The specified key storage provider does not support DPAPI++ data protection. Zone signing will not be operational until this error is resolved.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80072394",
+  "codeUrl": "/win32/winerror-h/dns_error_ksp_does_not_support_protection/0x80072394/",
+  "numericCode": 0,
+  "define": "DNS_ERROR_KSP_DOES_NOT_SUPPORT_PROTECTION",
+  "defineUrl": "/win32/winerror-h/dns_error_ksp_does_not_support_protection/",
+  "message": "The specified key storage provider does not support DPAPI++ data protection. Zone signing will not be operational until this error is resolved.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "9108",
+  "originalCodeUrl": "/win32/winerror-h/dns_error_ksp_does_not_support_protection/9108/"
+}

@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_volmgr_partition_update_failed\-1070071753\index.html.json
+canonical: /win32/ntstatus-h/status_volmgr_partition_update_failed/0xc0380037/
+title: -1070071753 STATUS_VOLMGR_PARTITION_UPDATE_FAILED in ntstatus.h
+description: Failed to update the disk's partition layout.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1070071753",
+  "codeUrl": "/win32/ntstatus-h/status_volmgr_partition_update_failed/-1070071753/",
+  "numericCode": 0,
+  "define": "STATUS_VOLMGR_PARTITION_UPDATE_FAILED",
+  "defineUrl": "/win32/ntstatus-h/status_volmgr_partition_update_failed/",
+  "message": "Failed to update the disk's partition layout.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0380037",
+  "originalCodeUrl": "/win32/ntstatus-h/status_volmgr_partition_update_failed/0xc0380037/"
+}

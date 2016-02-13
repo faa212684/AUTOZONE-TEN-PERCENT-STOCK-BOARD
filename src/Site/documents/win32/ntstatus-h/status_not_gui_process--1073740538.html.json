@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_not_gui_process\-1073740538\index.html.json
+canonical: /win32/ntstatus-h/status_not_gui_process/0xc0000506/
+title: -1073740538 STATUS_NOT_GUI_PROCESS in ntstatus.h
+description: Unable to finish the requested operation because the specified process is not a GUI process.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073740538",
+  "codeUrl": "/win32/ntstatus-h/status_not_gui_process/-1073740538/",
+  "numericCode": 0,
+  "define": "STATUS_NOT_GUI_PROCESS",
+  "defineUrl": "/win32/ntstatus-h/status_not_gui_process/",
+  "message": "Unable to finish the requested operation because the specified process is not a GUI process.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000506",
+  "originalCodeUrl": "/win32/ntstatus-h/status_not_gui_process/0xc0000506/"
+}

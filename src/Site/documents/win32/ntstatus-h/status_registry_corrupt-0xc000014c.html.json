@@ -1,0 +1,29 @@
+---
+output: win32\ntstatus-h\status_registry_corrupt\0xc000014c\index.html.json
+
+title: 0xC000014C STATUS_REGISTRY_CORRUPT in ntstatus.h
+description: "{The Registry Is Corrupt}
+The structure of one of the files that contains Registry data is corrupt, or the image of the file in memory is corrupt, or the file could not be recovered because the alternate copy or log was absent or corrupt."
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000014C",
+  "codeUrl": "/win32/ntstatus-h/status_registry_corrupt/0xc000014c/",
+  "numericCode": -1073741492,
+  "define": "STATUS_REGISTRY_CORRUPT",
+  "defineUrl": "/win32/ntstatus-h/status_registry_corrupt/",
+  "message": "{The Registry Is Corrupt}\r\nThe structure of one of the files that contains Registry data is corrupt, or the image of the file in memory is corrupt, or the file could not be recovered because the alternate copy or log was absent or corrupt.",
+  "remarks": null,
+  "aka": [
+    "-1073741492"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_registry_corrupt/-1073741492/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

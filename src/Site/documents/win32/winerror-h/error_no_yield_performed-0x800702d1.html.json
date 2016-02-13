@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_no_yield_performed\0x800702d1\index.html.json
+canonical: /win32/winerror-h/error_no_yield_performed/721/
+title: 0x800702d1 ERROR_NO_YIELD_PERFORMED in winerror.h
+description: A yield execution was performed and no thread was available to run.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800702d1",
+  "codeUrl": "/win32/winerror-h/error_no_yield_performed/0x800702d1/",
+  "numericCode": 0,
+  "define": "ERROR_NO_YIELD_PERFORMED",
+  "defineUrl": "/win32/winerror-h/error_no_yield_performed/",
+  "message": "A yield execution was performed and no thread was available to run.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "721",
+  "originalCodeUrl": "/win32/winerror-h/error_no_yield_performed/721/"
+}

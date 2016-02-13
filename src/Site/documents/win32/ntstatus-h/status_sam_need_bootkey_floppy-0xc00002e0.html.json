@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_sam_need_bootkey_floppy\0xc00002e0\index.html.json
+
+title: 0xC00002E0 STATUS_SAM_NEED_BOOTKEY_FLOPPY in ntstatus.h
+description: Security Account Manager needs to get the boot key from floppy disk.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC00002E0",
+  "codeUrl": "/win32/ntstatus-h/status_sam_need_bootkey_floppy/0xc00002e0/",
+  "numericCode": -1073741088,
+  "define": "STATUS_SAM_NEED_BOOTKEY_FLOPPY",
+  "defineUrl": "/win32/ntstatus-h/status_sam_need_bootkey_floppy/",
+  "message": "Security Account Manager needs to get the boot key from floppy disk.",
+  "remarks": null,
+  "aka": [
+    "-1073741088"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_sam_need_bootkey_floppy/-1073741088/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

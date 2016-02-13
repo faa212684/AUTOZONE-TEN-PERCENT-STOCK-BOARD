@@ -1,0 +1,31 @@
+---
+output: win32\netevent-h\event_dcom_invalid_endpoint_data\0xc000271d\index.html.json
+
+title: 0xC000271D EVENT_DCOM_INVALID_ENDPOINT_DATA in netevent.h
+description: DCOM server attempted to listen on an invalid endpoint.
+Protseq:  %1
+Endpoint: %2
+Flags:    %3
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC000271D",
+  "codeUrl": "/win32/netevent-h/event_dcom_invalid_endpoint_data/0xc000271d/",
+  "numericCode": -1073731811,
+  "define": "EVENT_DCOM_INVALID_ENDPOINT_DATA",
+  "defineUrl": "/win32/netevent-h/event_dcom_invalid_endpoint_data/",
+  "message": "DCOM server attempted to listen on an invalid endpoint.\r\nProtseq:  %1\r\nEndpoint: %2\r\nFlags:    %3",
+  "remarks": null,
+  "aka": [
+    "-1073731811"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_dcom_invalid_endpoint_data/-1073731811/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

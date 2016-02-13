@@ -1,0 +1,28 @@
+---
+output: win32\vsserror-h\vss_e_dynamic_disk_error\0x800423fc\index.html.json
+
+title: 0x800423FC VSS_E_DYNAMIC_DISK_ERROR in vsserror.h
+description: An error occurred in processing the dynamic disks involved in the operation.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vsserror.h",
+  "sourceUrl": "/win32/vsserror-h/",
+  "code": "0x800423FC",
+  "codeUrl": "/win32/vsserror-h/vss_e_dynamic_disk_error/0x800423fc/",
+  "numericCode": -2147212292,
+  "define": "VSS_E_DYNAMIC_DISK_ERROR",
+  "defineUrl": "/win32/vsserror-h/vss_e_dynamic_disk_error/",
+  "message": "An error occurred in processing the dynamic disks involved in the operation.",
+  "remarks": null,
+  "aka": [
+    "-2147212292"
+  ],
+  "akaUrl": [
+    "/win32/vsserror-h/vss_e_dynamic_disk_error/-2147212292/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

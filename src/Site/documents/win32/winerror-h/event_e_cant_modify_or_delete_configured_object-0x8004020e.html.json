@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\event_e_cant_modify_or_delete_configured_object\0x8004020e\index.html.json
+
+title: 0x8004020E EVENT_E_CANT_MODIFY_OR_DELETE_CONFIGURED_OBJECT in winerror.h
+description: Cannot modify or delete an object that was added using the COM+ Admin SDK
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8004020E",
+  "codeUrl": "/win32/winerror-h/event_e_cant_modify_or_delete_configured_object/0x8004020e/",
+  "numericCode": -2147220978,
+  "define": "EVENT_E_CANT_MODIFY_OR_DELETE_CONFIGURED_OBJECT",
+  "defineUrl": "/win32/winerror-h/event_e_cant_modify_or_delete_configured_object/",
+  "message": "Cannot modify or delete an object that was added using the COM+ Admin SDK",
+  "remarks": null,
+  "aka": [
+    "-2147220978"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/event_e_cant_modify_or_delete_configured_object/-2147220978/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

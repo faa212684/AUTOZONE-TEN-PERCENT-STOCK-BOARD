@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\mssipotf_e_crypt\0x80097014\index.html.json
+
+title: 0x80097014 MSSIPOTF_E_CRYPT in winerror.h
+description: A call to a CryptoAPI function failed.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80097014",
+  "codeUrl": "/win32/winerror-h/mssipotf_e_crypt/0x80097014/",
+  "numericCode": -2146865132,
+  "define": "MSSIPOTF_E_CRYPT",
+  "defineUrl": "/win32/winerror-h/mssipotf_e_crypt/",
+  "message": "A call to a CryptoAPI function failed.",
+  "remarks": null,
+  "aka": [
+    "-2146865132"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/mssipotf_e_crypt/-2146865132/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

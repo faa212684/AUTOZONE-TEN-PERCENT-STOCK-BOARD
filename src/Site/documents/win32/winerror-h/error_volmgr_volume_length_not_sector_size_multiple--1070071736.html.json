@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_volmgr_volume_length_not_sector_size_multiple\-1070071736\index.html.json
+canonical: /win32/winerror-h/error_volmgr_volume_length_not_sector_size_multiple/0xc0380048/
+title: -1070071736 ERROR_VOLMGR_VOLUME_LENGTH_NOT_SECTOR_SIZE_MULTIPLE in winerror.h
+description: The specified size for the volume is not a multiple of the sector size.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-1070071736",
+  "codeUrl": "/win32/winerror-h/error_volmgr_volume_length_not_sector_size_multiple/-1070071736/",
+  "numericCode": 0,
+  "define": "ERROR_VOLMGR_VOLUME_LENGTH_NOT_SECTOR_SIZE_MULTIPLE",
+  "defineUrl": "/win32/winerror-h/error_volmgr_volume_length_not_sector_size_multiple/",
+  "message": "The specified size for the volume is not a multiple of the sector size.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0380048",
+  "originalCodeUrl": "/win32/winerror-h/error_volmgr_volume_length_not_sector_size_multiple/0xc0380048/"
+}

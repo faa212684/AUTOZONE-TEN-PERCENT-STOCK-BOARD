@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_fwp_notification_dropped\-1071513575\index.html.json
+canonical: /win32/ntstatus-h/status_fwp_notification_dropped/0xc0220019/
+title: -1071513575 STATUS_FWP_NOTIFICATION_DROPPED in ntstatus.h
+description: A notification could not be delivered because a message queue is at its maximum capacity.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071513575",
+  "codeUrl": "/win32/ntstatus-h/status_fwp_notification_dropped/-1071513575/",
+  "numericCode": 0,
+  "define": "STATUS_FWP_NOTIFICATION_DROPPED",
+  "defineUrl": "/win32/ntstatus-h/status_fwp_notification_dropped/",
+  "message": "A notification could not be delivered because a message queue is at its maximum capacity.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0220019",
+  "originalCodeUrl": "/win32/ntstatus-h/status_fwp_notification_dropped/0xc0220019/"
+}

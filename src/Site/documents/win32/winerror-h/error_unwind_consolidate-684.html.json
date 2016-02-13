@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_unwind_consolidate\684\index.html.json
+
+title: 684 ERROR_UNWIND_CONSOLIDATE in winerror.h
+description: A frame consolidation has been executed.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "684",
+  "codeUrl": "/win32/winerror-h/error_unwind_consolidate/684/",
+  "numericCode": 684,
+  "define": "ERROR_UNWIND_CONSOLIDATE",
+  "defineUrl": "/win32/winerror-h/error_unwind_consolidate/",
+  "message": "A frame consolidation has been executed.",
+  "remarks": null,
+  "aka": [
+    "0x800702ac",
+    "-2147024212"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_unwind_consolidate/0x800702ac/",
+    "/win32/winerror-h/error_unwind_consolidate/-2147024212/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

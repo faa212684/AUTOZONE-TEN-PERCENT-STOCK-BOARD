@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_ndis_invalid_port\-1071448019\index.html.json
+canonical: /win32/ntstatus-h/status_ndis_invalid_port/0xc023002d/
+title: -1071448019 STATUS_NDIS_INVALID_PORT in ntstatus.h
+description: The specified port does not exist on this network interface.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071448019",
+  "codeUrl": "/win32/ntstatus-h/status_ndis_invalid_port/-1071448019/",
+  "numericCode": 0,
+  "define": "STATUS_NDIS_INVALID_PORT",
+  "defineUrl": "/win32/ntstatus-h/status_ndis_invalid_port/",
+  "message": "The specified port does not exist on this network interface.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC023002D",
+  "originalCodeUrl": "/win32/ntstatus-h/status_ndis_invalid_port/0xc023002d/"
+}

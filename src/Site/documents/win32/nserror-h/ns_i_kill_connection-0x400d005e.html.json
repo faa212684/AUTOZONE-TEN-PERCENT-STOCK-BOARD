@@ -1,0 +1,28 @@
+---
+output: win32\nserror-h\ns_i_kill_connection\0x400d005e\index.html.json
+
+title: 0x400D005E NS_I_KILL_CONNECTION in nserror.h
+description: A NetShow administrator at network location %1 aborted obsolete connection %2 from the system.%0
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "nserror.h",
+  "sourceUrl": "/win32/nserror-h/",
+  "code": "0x400D005E",
+  "codeUrl": "/win32/nserror-h/ns_i_kill_connection/0x400d005e/",
+  "numericCode": 1074593886,
+  "define": "NS_I_KILL_CONNECTION",
+  "defineUrl": "/win32/nserror-h/ns_i_kill_connection/",
+  "message": "A NetShow administrator at network location %1 aborted obsolete connection %2 from the system.%0",
+  "remarks": null,
+  "aka": [
+    "1074593886"
+  ],
+  "akaUrl": [
+    "/win32/nserror-h/ns_i_kill_connection/1074593886/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

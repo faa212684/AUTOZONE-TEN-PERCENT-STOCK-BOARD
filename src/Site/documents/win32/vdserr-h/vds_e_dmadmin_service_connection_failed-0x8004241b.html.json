@@ -1,0 +1,29 @@
+---
+output: win32\vdserr-h\vds_e_dmadmin_service_connection_failed\0x8004241b\index.html.json
+
+title: 0x8004241B VDS_E_DMADMIN_SERVICE_CONNECTION_FAILED in vdserr.h
+description: The provider failed to connect to the Logical Disk Management 
+Administrative service.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x8004241B",
+  "codeUrl": "/win32/vdserr-h/vds_e_dmadmin_service_connection_failed/0x8004241b/",
+  "numericCode": -2147212261,
+  "define": "VDS_E_DMADMIN_SERVICE_CONNECTION_FAILED",
+  "defineUrl": "/win32/vdserr-h/vds_e_dmadmin_service_connection_failed/",
+  "message": "The provider failed to connect to the Logical Disk Management \r\nAdministrative service.",
+  "remarks": null,
+  "aka": [
+    "-2147212261"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_dmadmin_service_connection_failed/-2147212261/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

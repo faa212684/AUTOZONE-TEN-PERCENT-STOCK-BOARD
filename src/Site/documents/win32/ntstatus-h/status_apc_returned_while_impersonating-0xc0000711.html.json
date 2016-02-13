@@ -1,0 +1,29 @@
+---
+output: win32\ntstatus-h\status_apc_returned_while_impersonating\0xc0000711\index.html.json
+
+title: 0xC0000711 STATUS_APC_RETURNED_WHILE_IMPERSONATING in ntstatus.h
+description: A threadpool worker thread is impersonating a client, after executing an APC.
+This is unexpected, indicating that the APC is missing a call to revert the impersonation.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000711",
+  "codeUrl": "/win32/ntstatus-h/status_apc_returned_while_impersonating/0xc0000711/",
+  "numericCode": -1073740015,
+  "define": "STATUS_APC_RETURNED_WHILE_IMPERSONATING",
+  "defineUrl": "/win32/ntstatus-h/status_apc_returned_while_impersonating/",
+  "message": "A threadpool worker thread is impersonating a client, after executing an APC.\r\nThis is unexpected, indicating that the APC is missing a call to revert the impersonation.",
+  "remarks": null,
+  "aka": [
+    "-1073740015"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_apc_returned_while_impersonating/-1073740015/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_no_txf_metadata\0x80190029\index.html.json
+
+title: 0x80190029 STATUS_NO_TXF_METADATA in ntstatus.h
+description: There is no transaction metadata on the file.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0x80190029",
+  "codeUrl": "/win32/ntstatus-h/status_no_txf_metadata/0x80190029/",
+  "numericCode": -2145845207,
+  "define": "STATUS_NO_TXF_METADATA",
+  "defineUrl": "/win32/ntstatus-h/status_no_txf_metadata/",
+  "message": "There is no transaction metadata on the file.",
+  "remarks": null,
+  "aka": [
+    "-2145845207"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_no_txf_metadata/-2145845207/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

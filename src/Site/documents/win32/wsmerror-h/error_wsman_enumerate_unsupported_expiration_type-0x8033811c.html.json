@@ -1,0 +1,28 @@
+---
+output: win32\wsmerror-h\error_wsman_enumerate_unsupported_expiration_type\0x8033811c\index.html.json
+
+title: 0x8033811C ERROR_WSMAN_ENUMERATE_UNSUPPORTED_EXPIRATION_TYPE in wsmerror.h
+description: The expiration time specified for enumeration was invalid. Specify the expiration time as a duration.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x8033811C",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_enumerate_unsupported_expiration_type/0x8033811c/",
+  "numericCode": -2144108260,
+  "define": "ERROR_WSMAN_ENUMERATE_UNSUPPORTED_EXPIRATION_TYPE",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_enumerate_unsupported_expiration_type/",
+  "message": "The expiration time specified for enumeration was invalid. Specify the expiration time as a duration.",
+  "remarks": null,
+  "aka": [
+    "-2144108260"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_enumerate_unsupported_expiration_type/-2144108260/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

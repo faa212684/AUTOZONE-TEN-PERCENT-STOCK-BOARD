@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\rpc_s_uuid_no_address\0x800706cb\index.html.json
+canonical: /win32/winerror-h/rpc_s_uuid_no_address/1739/
+title: 0x800706cb RPC_S_UUID_NO_ADDRESS in winerror.h
+description: No network address is available to use to construct a universal unique identifier (UUID).
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800706cb",
+  "codeUrl": "/win32/winerror-h/rpc_s_uuid_no_address/0x800706cb/",
+  "numericCode": 0,
+  "define": "RPC_S_UUID_NO_ADDRESS",
+  "defineUrl": "/win32/winerror-h/rpc_s_uuid_no_address/",
+  "message": "No network address is available to use to construct a universal unique identifier (UUID).",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "1739",
+  "originalCodeUrl": "/win32/winerror-h/rpc_s_uuid_no_address/1739/"
+}

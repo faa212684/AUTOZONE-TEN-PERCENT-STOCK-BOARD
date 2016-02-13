@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_mui_invalid_locale_name\0xc00b0004\index.html.json
+
+title: 0xC00B0004 STATUS_MUI_INVALID_LOCALE_NAME in ntstatus.h
+description: The RC Manifest has invalid culture name.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC00B0004",
+  "codeUrl": "/win32/ntstatus-h/status_mui_invalid_locale_name/0xc00b0004/",
+  "numericCode": -1073020924,
+  "define": "STATUS_MUI_INVALID_LOCALE_NAME",
+  "defineUrl": "/win32/ntstatus-h/status_mui_invalid_locale_name/",
+  "message": "The RC Manifest has invalid culture name.",
+  "remarks": null,
+  "aka": [
+    "-1073020924"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_mui_invalid_locale_name/-1073020924/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,24 @@
+---
+output: win32\oledberr-h\db_e_rowlimitexceeded\-2147217919\index.html.json
+canonical: /win32/oledberr-h/db_e_rowlimitexceeded/0x80040e01/
+title: -2147217919 DB_E_ROWLIMITEXCEEDED in oledberr.h
+description: Row could not be inserted into the rowset without exceeding provider's maximum number of active rows.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "oledberr.h",
+  "sourceUrl": "/win32/oledberr-h/",
+  "code": "-2147217919",
+  "codeUrl": "/win32/oledberr-h/db_e_rowlimitexceeded/-2147217919/",
+  "numericCode": 0,
+  "define": "DB_E_ROWLIMITEXCEEDED",
+  "defineUrl": "/win32/oledberr-h/db_e_rowlimitexceeded/",
+  "message": "Row could not be inserted into the rowset without exceeding provider's maximum number of active rows.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80040E01",
+  "originalCodeUrl": "/win32/oledberr-h/db_e_rowlimitexceeded/0x80040e01/"
+}

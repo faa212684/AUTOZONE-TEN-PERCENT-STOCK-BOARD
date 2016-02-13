@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\nwsap_event_recvsem_fail\0xc000213f\index.html.json
+
+title: 0xC000213F NWSAP_EVENT_RECVSEM_FAIL in netevent.h
+description: Error creating receive semaphore.  The Sap Agent cannot continue.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC000213F",
+  "codeUrl": "/win32/netevent-h/nwsap_event_recvsem_fail/0xc000213f/",
+  "numericCode": -1073733313,
+  "define": "NWSAP_EVENT_RECVSEM_FAIL",
+  "defineUrl": "/win32/netevent-h/nwsap_event_recvsem_fail/",
+  "message": "Error creating receive semaphore.  The Sap Agent cannot continue.",
+  "remarks": null,
+  "aka": [
+    "-1073733313"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/nwsap_event_recvsem_fail/-1073733313/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

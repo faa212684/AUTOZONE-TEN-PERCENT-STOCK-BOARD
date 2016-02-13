@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_no_such_alias\0xc0000151\index.html.json
+
+title: 0xC0000151 STATUS_NO_SUCH_ALIAS in ntstatus.h
+description: The specified local group does not exist.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000151",
+  "codeUrl": "/win32/ntstatus-h/status_no_such_alias/0xc0000151/",
+  "numericCode": -1073741487,
+  "define": "STATUS_NO_SUCH_ALIAS",
+  "defineUrl": "/win32/ntstatus-h/status_no_such_alias/",
+  "message": "The specified local group does not exist.",
+  "remarks": null,
+  "aka": [
+    "-1073741487"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_no_such_alias/-1073741487/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

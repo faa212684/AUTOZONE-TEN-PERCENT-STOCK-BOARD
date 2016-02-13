@@ -1,0 +1,28 @@
+---
+output: win32\vsserror-h\vss_e_unsupported_context\0x8004231b\index.html.json
+
+title: 0x8004231B VSS_E_UNSUPPORTED_CONTEXT in vsserror.h
+description: The shadow copy provider does not support the specified shadow copy type.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vsserror.h",
+  "sourceUrl": "/win32/vsserror-h/",
+  "code": "0x8004231B",
+  "codeUrl": "/win32/vsserror-h/vss_e_unsupported_context/0x8004231b/",
+  "numericCode": -2147212517,
+  "define": "VSS_E_UNSUPPORTED_CONTEXT",
+  "defineUrl": "/win32/vsserror-h/vss_e_unsupported_context/",
+  "message": "The shadow copy provider does not support the specified shadow copy type.",
+  "remarks": null,
+  "aka": [
+    "-2147212517"
+  ],
+  "akaUrl": [
+    "/win32/vsserror-h/vss_e_unsupported_context/-2147212517/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

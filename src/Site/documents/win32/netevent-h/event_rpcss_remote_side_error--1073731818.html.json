@@ -1,0 +1,25 @@
+---
+output: win32\netevent-h\event_rpcss_remote_side_error\-1073731818\index.html.json
+canonical: /win32/netevent-h/event_rpcss_remote_side_error/0xc0002716/
+title: -1073731818 EVENT_RPCSS_REMOTE_SIDE_ERROR in netevent.h
+description: DCOM got error "%%%1" from the computer %2 when attempting to
+activate the server:%n%3
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "-1073731818",
+  "codeUrl": "/win32/netevent-h/event_rpcss_remote_side_error/-1073731818/",
+  "numericCode": 0,
+  "define": "EVENT_RPCSS_REMOTE_SIDE_ERROR",
+  "defineUrl": "/win32/netevent-h/event_rpcss_remote_side_error/",
+  "message": "DCOM got error \"%%%1\" from the computer %2 when attempting to\r\nactivate the server:%n%3",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0002716",
+  "originalCodeUrl": "/win32/netevent-h/event_rpcss_remote_side_error/0xc0002716/"
+}

@@ -1,0 +1,28 @@
+---
+output: win32\nserror-h\ns_e_invalid_push_publishing_point_start_request\0xc00d145b\index.html.json
+
+title: 0xC00D145B NS_E_INVALID_PUSH_PUBLISHING_POINT_START_REQUEST in nserror.h
+description: Push publishing points are started when the encoder starts pushing the stream. This publishing point cannot be started by the server administrator.%0
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "nserror.h",
+  "sourceUrl": "/win32/nserror-h/",
+  "code": "0xC00D145B",
+  "codeUrl": "/win32/nserror-h/ns_e_invalid_push_publishing_point_start_request/0xc00d145b/",
+  "numericCode": -1072884645,
+  "define": "NS_E_INVALID_PUSH_PUBLISHING_POINT_START_REQUEST",
+  "defineUrl": "/win32/nserror-h/ns_e_invalid_push_publishing_point_start_request/",
+  "message": "Push publishing points are started when the encoder starts pushing the stream. This publishing point cannot be started by the server administrator.%0",
+  "remarks": null,
+  "aka": [
+    "-1072884645"
+  ],
+  "akaUrl": [
+    "/win32/nserror-h/ns_e_invalid_push_publishing_point_start_request/-1072884645/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

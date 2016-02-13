@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\sec_e_wrong_principal\0x80090322\index.html.json
+
+title: 0x80090322 SEC_E_WRONG_PRINCIPAL in winerror.h
+description: The target principal name is incorrect.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80090322",
+  "codeUrl": "/win32/winerror-h/sec_e_wrong_principal/0x80090322/",
+  "numericCode": -2146893022,
+  "define": "SEC_E_WRONG_PRINCIPAL",
+  "defineUrl": "/win32/winerror-h/sec_e_wrong_principal/",
+  "message": "The target principal name is incorrect.",
+  "remarks": null,
+  "aka": [
+    "-2146893022"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/sec_e_wrong_principal/-2146893022/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

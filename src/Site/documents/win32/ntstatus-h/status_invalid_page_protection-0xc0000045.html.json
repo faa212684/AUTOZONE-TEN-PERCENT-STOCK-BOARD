@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_invalid_page_protection\0xc0000045\index.html.json
+
+title: 0xC0000045 STATUS_INVALID_PAGE_PROTECTION in ntstatus.h
+description: The specified page protection was not valid.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000045",
+  "codeUrl": "/win32/ntstatus-h/status_invalid_page_protection/0xc0000045/",
+  "numericCode": -1073741755,
+  "define": "STATUS_INVALID_PAGE_PROTECTION",
+  "defineUrl": "/win32/ntstatus-h/status_invalid_page_protection/",
+  "message": "The specified page protection was not valid.",
+  "remarks": null,
+  "aka": [
+    "-1073741755"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_invalid_page_protection/-1073741755/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

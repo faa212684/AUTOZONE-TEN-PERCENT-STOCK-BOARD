@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\dfs_root_share_acquire_success\0x400038da\index.html.json
+
+title: 0x400038DA DFS_ROOT_SHARE_ACQUIRE_SUCCESS in netevent.h
+description: The DFS Namespaces service has successfully initialized the shared folder that hosts the namespace root. Shared folder: %1
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x400038DA",
+  "codeUrl": "/win32/netevent-h/dfs_root_share_acquire_success/0x400038da/",
+  "numericCode": 1073756378,
+  "define": "DFS_ROOT_SHARE_ACQUIRE_SUCCESS",
+  "defineUrl": "/win32/netevent-h/dfs_root_share_acquire_success/",
+  "message": "The DFS Namespaces service has successfully initialized the shared folder that hosts the namespace root. Shared folder: %1",
+  "remarks": null,
+  "aka": [
+    "1073756378"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/dfs_root_share_acquire_success/1073756378/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

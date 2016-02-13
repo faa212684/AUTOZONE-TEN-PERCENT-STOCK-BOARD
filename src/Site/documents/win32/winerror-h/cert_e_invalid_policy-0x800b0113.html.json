@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\cert_e_invalid_policy\0x800b0113\index.html.json
+
+title: 0x800B0113 CERT_E_INVALID_POLICY in winerror.h
+description: The certificate has invalid policy.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800B0113",
+  "codeUrl": "/win32/winerror-h/cert_e_invalid_policy/0x800b0113/",
+  "numericCode": -2146762477,
+  "define": "CERT_E_INVALID_POLICY",
+  "defineUrl": "/win32/winerror-h/cert_e_invalid_policy/",
+  "message": "The certificate has invalid policy.",
+  "remarks": null,
+  "aka": [
+    "-2146762477"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/cert_e_invalid_policy/-2146762477/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

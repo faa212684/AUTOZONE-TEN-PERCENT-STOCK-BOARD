@@ -1,0 +1,24 @@
+---
+output: bugcheck\bugcodes-h\thread_terminate_held_mutex\1073741962\index.html.json
+canonical: /bugcheck/bugcodes-h/thread_terminate_held_mutex/0x4000008a/
+title: 1073741962 THREAD_TERMINATE_HELD_MUTEX in bugcodes.h
+description: A kernel thread terminated while holding a mutex
+disqus: false
+---
+{
+  "area": "bugcheck",
+  "areaUrl": "/bugcheck/",
+  "source": "bugcodes.h",
+  "sourceUrl": "/bugcheck/bugcodes-h/",
+  "code": "1073741962",
+  "codeUrl": "/bugcheck/bugcodes-h/thread_terminate_held_mutex/1073741962/",
+  "numericCode": 0,
+  "define": "THREAD_TERMINATE_HELD_MUTEX",
+  "defineUrl": "/bugcheck/bugcodes-h/thread_terminate_held_mutex/",
+  "message": "A kernel thread terminated while holding a mutex",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x4000008A",
+  "originalCodeUrl": "/bugcheck/bugcodes-h/thread_terminate_held_mutex/0x4000008a/"
+}

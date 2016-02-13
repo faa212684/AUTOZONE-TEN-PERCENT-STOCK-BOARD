@@ -1,0 +1,25 @@
+---
+output: win32\winerror-h\error_disk_quota_exceeded\0x8007050f\index.html.json
+canonical: /win32/winerror-h/error_disk_quota_exceeded/1295/
+title: 0x8007050f ERROR_DISK_QUOTA_EXCEEDED in winerror.h
+description: The requested file operation failed because the storage quota was exceeded.
+To free up disk space, move files to a different location or delete unnecessary files. For more information, contact your system administrator.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007050f",
+  "codeUrl": "/win32/winerror-h/error_disk_quota_exceeded/0x8007050f/",
+  "numericCode": 0,
+  "define": "ERROR_DISK_QUOTA_EXCEEDED",
+  "defineUrl": "/win32/winerror-h/error_disk_quota_exceeded/",
+  "message": "The requested file operation failed because the storage quota was exceeded.\r\nTo free up disk space, move files to a different location or delete unnecessary files. For more information, contact your system administrator.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "1295",
+  "originalCodeUrl": "/win32/winerror-h/error_disk_quota_exceeded/1295/"
+}

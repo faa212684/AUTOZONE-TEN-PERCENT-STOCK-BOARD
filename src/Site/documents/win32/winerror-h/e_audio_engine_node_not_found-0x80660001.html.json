@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\e_audio_engine_node_not_found\0x80660001\index.html.json
+
+title: 0x80660001 E_AUDIO_ENGINE_NODE_NOT_FOUND in winerror.h
+description: PortCls could not find an audio engine node exposed by a miniport driver claiming support for IMiniportAudioEngineNode.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80660001",
+  "codeUrl": "/win32/winerror-h/e_audio_engine_node_not_found/0x80660001/",
+  "numericCode": -2140798975,
+  "define": "E_AUDIO_ENGINE_NODE_NOT_FOUND",
+  "defineUrl": "/win32/winerror-h/e_audio_engine_node_not_found/",
+  "message": "PortCls could not find an audio engine node exposed by a miniport driver claiming support for IMiniportAudioEngineNode.",
+  "remarks": null,
+  "aka": [
+    "-2140798975"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/e_audio_engine_node_not_found/-2140798975/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\oledberr-h\db_e_paramunavailable\0x80040e51\index.html.json
+
+title: 0x80040E51 DB_E_PARAMUNAVAILABLE in oledberr.h
+description: Provider cannot derive parameter information and SetParameterInfo has not been called.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "oledberr.h",
+  "sourceUrl": "/win32/oledberr-h/",
+  "code": "0x80040E51",
+  "codeUrl": "/win32/oledberr-h/db_e_paramunavailable/0x80040e51/",
+  "numericCode": -2147217839,
+  "define": "DB_E_PARAMUNAVAILABLE",
+  "defineUrl": "/win32/oledberr-h/db_e_paramunavailable/",
+  "message": "Provider cannot derive parameter information and SetParameterInfo has not been called.",
+  "remarks": null,
+  "aka": [
+    "-2147217839"
+  ],
+  "akaUrl": [
+    "/win32/oledberr-h/db_e_paramunavailable/-2147217839/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

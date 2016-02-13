@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_cluster_evict_without_cleanup\0x80071708\index.html.json
+canonical: /win32/winerror-h/error_cluster_evict_without_cleanup/5896/
+title: 0x80071708 ERROR_CLUSTER_EVICT_WITHOUT_CLEANUP in winerror.h
+description: The cluster node was evicted from the cluster successfully, but the node was not cleaned up. To determine what cleanup steps failed and how to recover, see the Failover Clustering application event log using Event Viewer.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80071708",
+  "codeUrl": "/win32/winerror-h/error_cluster_evict_without_cleanup/0x80071708/",
+  "numericCode": 0,
+  "define": "ERROR_CLUSTER_EVICT_WITHOUT_CLEANUP",
+  "defineUrl": "/win32/winerror-h/error_cluster_evict_without_cleanup/",
+  "message": "The cluster node was evicted from the cluster successfully, but the node was not cleaned up. To determine what cleanup steps failed and how to recover, see the Failover Clustering application event log using Event Viewer.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "5896",
+  "originalCodeUrl": "/win32/winerror-h/error_cluster_evict_without_cleanup/5896/"
+}

@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_disk_not_csv_capable\-2147018932\index.html.json
+canonical: /win32/winerror-h/error_disk_not_csv_capable/5964/
+title: -2147018932 ERROR_DISK_NOT_CSV_CAPABLE in winerror.h
+description: The disk is not configured in a way to be used with CSV. CSV disks must have at least one partition that is formatted with NTFS or REFS.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147018932",
+  "codeUrl": "/win32/winerror-h/error_disk_not_csv_capable/-2147018932/",
+  "numericCode": 0,
+  "define": "ERROR_DISK_NOT_CSV_CAPABLE",
+  "defineUrl": "/win32/winerror-h/error_disk_not_csv_capable/",
+  "message": "The disk is not configured in a way to be used with CSV. CSV disks must have at least one partition that is formatted with NTFS or REFS.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "5964",
+  "originalCodeUrl": "/win32/winerror-h/error_disk_not_csv_capable/5964/"
+}

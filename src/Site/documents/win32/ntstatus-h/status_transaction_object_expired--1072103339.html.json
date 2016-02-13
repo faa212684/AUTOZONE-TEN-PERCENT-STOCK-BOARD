@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_transaction_object_expired\-1072103339\index.html.json
+canonical: /win32/ntstatus-h/status_transaction_object_expired/0xc0190055/
+title: -1072103339 STATUS_TRANSACTION_OBJECT_EXPIRED in ntstatus.h
+description: Because the associated transaction manager or resource manager has been closed, the handle is no longer valid.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1072103339",
+  "codeUrl": "/win32/ntstatus-h/status_transaction_object_expired/-1072103339/",
+  "numericCode": 0,
+  "define": "STATUS_TRANSACTION_OBJECT_EXPIRED",
+  "defineUrl": "/win32/ntstatus-h/status_transaction_object_expired/",
+  "message": "Because the associated transaction manager or resource manager has been closed, the handle is no longer valid.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0190055",
+  "originalCodeUrl": "/win32/ntstatus-h/status_transaction_object_expired/0xc0190055/"
+}

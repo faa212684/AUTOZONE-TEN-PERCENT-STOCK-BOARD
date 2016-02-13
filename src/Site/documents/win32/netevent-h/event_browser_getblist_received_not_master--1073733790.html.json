@@ -1,0 +1,24 @@
+---
+output: win32\netevent-h\event_browser_getblist_received_not_master\-1073733790\index.html.json
+canonical: /win32/netevent-h/event_browser_getblist_received_not_master/0xc0001f62/
+title: -1073733790 EVENT_BROWSER_GETBLIST_RECEIVED_NOT_MASTER in netevent.h
+description: The browser has received a GetBrowserServerList request when it is not the master browser.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "-1073733790",
+  "codeUrl": "/win32/netevent-h/event_browser_getblist_received_not_master/-1073733790/",
+  "numericCode": 0,
+  "define": "EVENT_BROWSER_GETBLIST_RECEIVED_NOT_MASTER",
+  "defineUrl": "/win32/netevent-h/event_browser_getblist_received_not_master/",
+  "message": "The browser has received a GetBrowserServerList request when it is not the master browser.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0001F62",
+  "originalCodeUrl": "/win32/netevent-h/event_browser_getblist_received_not_master/0xc0001f62/"
+}

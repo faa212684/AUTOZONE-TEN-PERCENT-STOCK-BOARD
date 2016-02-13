@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_log_state_invalid\0xc01a002b\index.html.json
+
+title: 0xC01A002B STATUS_LOG_STATE_INVALID in ntstatus.h
+description: Log service is not in the correct state to perform a requested action.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC01A002B",
+  "codeUrl": "/win32/ntstatus-h/status_log_state_invalid/0xc01a002b/",
+  "numericCode": -1072037845,
+  "define": "STATUS_LOG_STATE_INVALID",
+  "defineUrl": "/win32/ntstatus-h/status_log_state_invalid/",
+  "message": "Log service is not in the correct state to perform a requested action.",
+  "remarks": null,
+  "aka": [
+    "-1072037845"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_log_state_invalid/-1072037845/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

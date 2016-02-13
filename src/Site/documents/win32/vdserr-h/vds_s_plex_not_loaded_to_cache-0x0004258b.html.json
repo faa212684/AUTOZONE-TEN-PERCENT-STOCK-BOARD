@@ -1,0 +1,30 @@
+---
+output: win32\vdserr-h\vds_s_plex_not_loaded_to_cache\0x0004258b\index.html.json
+
+title: 0x0004258B VDS_S_PLEX_NOT_LOADED_TO_CACHE in vdserr.h
+description: This plex is present in the driver, but has not yet been loaded to the 
+provider cache. A volume modified notification will be sent by the service 
+once the plex has been loaded to the provider cache.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x0004258B",
+  "codeUrl": "/win32/vdserr-h/vds_s_plex_not_loaded_to_cache/0x0004258b/",
+  "numericCode": 271755,
+  "define": "VDS_S_PLEX_NOT_LOADED_TO_CACHE",
+  "defineUrl": "/win32/vdserr-h/vds_s_plex_not_loaded_to_cache/",
+  "message": "This plex is present in the driver, but has not yet been loaded to the \r\nprovider cache. A volume modified notification will be sent by the service \r\nonce the plex has been loaded to the provider cache.",
+  "remarks": null,
+  "aka": [
+    "271755"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_s_plex_not_loaded_to_cache/271755/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,29 @@
+---
+output: win32\cdosyserr-h\evtexpandsavingappt\0xc003200e\index.html.json
+
+title: 0xC003200E evtExpandSavingAppt in CDOSysErr.h
+description: Calendaring agent failed with error code %1 while saving appointment.
+%n%nFor more information, click http:www.microsoft.com/contentredirect.asp.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "CDOSysErr.h",
+  "sourceUrl": "/win32/cdosyserr-h/",
+  "code": "0xC003200E",
+  "codeUrl": "/win32/cdosyserr-h/evtexpandsavingappt/0xc003200e/",
+  "numericCode": -1073537010,
+  "define": "evtExpandSavingAppt",
+  "defineUrl": "/win32/cdosyserr-h/evtexpandsavingappt/",
+  "message": "Calendaring agent failed with error code %1 while saving appointment.\r\n%n%nFor more information, click http:www.microsoft.com/contentredirect.asp.",
+  "remarks": null,
+  "aka": [
+    "-1073537010"
+  ],
+  "akaUrl": [
+    "/win32/cdosyserr-h/evtexpandsavingappt/-1073537010/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

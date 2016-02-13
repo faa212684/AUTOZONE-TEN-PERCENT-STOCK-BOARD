@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\rpc_s_duplicate_endpoint\1740\index.html.json
+
+title: 1740 RPC_S_DUPLICATE_ENDPOINT in winerror.h
+description: The endpoint is a duplicate.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1740",
+  "codeUrl": "/win32/winerror-h/rpc_s_duplicate_endpoint/1740/",
+  "numericCode": 1740,
+  "define": "RPC_S_DUPLICATE_ENDPOINT",
+  "defineUrl": "/win32/winerror-h/rpc_s_duplicate_endpoint/",
+  "message": "The endpoint is a duplicate.",
+  "remarks": null,
+  "aka": [
+    "0x800706cc",
+    "-2147023156"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/rpc_s_duplicate_endpoint/0x800706cc/",
+    "/win32/winerror-h/rpc_s_duplicate_endpoint/-2147023156/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

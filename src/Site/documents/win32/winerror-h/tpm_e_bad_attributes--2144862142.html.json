@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\tpm_e_bad_attributes\-2144862142\index.html.json
+canonical: /win32/winerror-h/tpm_e_bad_attributes/0x80280042/
+title: -2144862142 TPM_E_BAD_ATTRIBUTES in winerror.h
+description: The NV area attributes conflict.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2144862142",
+  "codeUrl": "/win32/winerror-h/tpm_e_bad_attributes/-2144862142/",
+  "numericCode": 0,
+  "define": "TPM_E_BAD_ATTRIBUTES",
+  "defineUrl": "/win32/winerror-h/tpm_e_bad_attributes/",
+  "message": "The NV area attributes conflict.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80280042",
+  "originalCodeUrl": "/win32/winerror-h/tpm_e_bad_attributes/0x80280042/"
+}

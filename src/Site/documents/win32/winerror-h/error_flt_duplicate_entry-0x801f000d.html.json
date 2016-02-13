@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\error_flt_duplicate_entry\0x801f000d\index.html.json
+
+title: 0x801F000D ERROR_FLT_DUPLICATE_ENTRY in winerror.h
+description: A duplicate handler definition has been provided for an operation.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x801F000D",
+  "codeUrl": "/win32/winerror-h/error_flt_duplicate_entry/0x801f000d/",
+  "numericCode": -2145452019,
+  "define": "ERROR_FLT_DUPLICATE_ENTRY",
+  "defineUrl": "/win32/winerror-h/error_flt_duplicate_entry/",
+  "message": "A duplicate handler definition has been provided for an operation.",
+  "remarks": null,
+  "aka": [
+    "-2145452019"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_flt_duplicate_entry/-2145452019/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_txf_dir_not_empty\0xc0190039\index.html.json
+
+title: 0xC0190039 STATUS_TXF_DIR_NOT_EMPTY in ntstatus.h
+description: The $Txf directory must be empty for this operation to succeed.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0190039",
+  "codeUrl": "/win32/ntstatus-h/status_txf_dir_not_empty/0xc0190039/",
+  "numericCode": -1072103367,
+  "define": "STATUS_TXF_DIR_NOT_EMPTY",
+  "defineUrl": "/win32/ntstatus-h/status_txf_dir_not_empty/",
+  "message": "The $Txf directory must be empty for this operation to succeed.",
+  "remarks": null,
+  "aka": [
+    "-1072103367"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_txf_dir_not_empty/-1072103367/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

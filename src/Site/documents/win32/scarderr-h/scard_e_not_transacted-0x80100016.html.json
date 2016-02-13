@@ -1,0 +1,28 @@
+---
+output: win32\scarderr-h\scard_e_not_transacted\0x80100016\index.html.json
+
+title: 0x80100016 SCARD_E_NOT_TRANSACTED in SCardErr.h
+description: An attempt was made to end a non-existent transaction.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "SCardErr.h",
+  "sourceUrl": "/win32/scarderr-h/",
+  "code": "0x80100016",
+  "codeUrl": "/win32/scarderr-h/scard_e_not_transacted/0x80100016/",
+  "numericCode": -2146435050,
+  "define": "SCARD_E_NOT_TRANSACTED",
+  "defineUrl": "/win32/scarderr-h/scard_e_not_transacted/",
+  "message": "An attempt was made to end a non-existent transaction.",
+  "remarks": null,
+  "aka": [
+    "-2146435050"
+  ],
+  "akaUrl": [
+    "/win32/scarderr-h/scard_e_not_transacted/-2146435050/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

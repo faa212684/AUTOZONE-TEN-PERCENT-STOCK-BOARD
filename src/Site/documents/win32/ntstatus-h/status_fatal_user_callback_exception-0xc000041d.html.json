@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_fatal_user_callback_exception\0xc000041d\index.html.json
+
+title: 0xC000041D STATUS_FATAL_USER_CALLBACK_EXCEPTION in ntstatus.h
+description: An unhandled exception was encountered during a user callback.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000041D",
+  "codeUrl": "/win32/ntstatus-h/status_fatal_user_callback_exception/0xc000041d/",
+  "numericCode": -1073740771,
+  "define": "STATUS_FATAL_USER_CALLBACK_EXCEPTION",
+  "defineUrl": "/win32/ntstatus-h/status_fatal_user_callback_exception/",
+  "message": "An unhandled exception was encountered during a user callback.",
+  "remarks": null,
+  "aka": [
+    "-1073740771"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_fatal_user_callback_exception/-1073740771/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

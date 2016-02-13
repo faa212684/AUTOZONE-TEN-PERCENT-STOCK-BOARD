@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\wsa_qos_efiltercount\0x80072b0d\index.html.json
+canonical: /win32/winerror-h/wsa_qos_efiltercount/11021/
+title: 0x80072b0d WSA_QOS_EFILTERCOUNT in winerror.h
+description: An incorrect number of QOS FILTERSPECs were specified in the FLOWDESCRIPTOR.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80072b0d",
+  "codeUrl": "/win32/winerror-h/wsa_qos_efiltercount/0x80072b0d/",
+  "numericCode": 0,
+  "define": "WSA_QOS_EFILTERCOUNT",
+  "defineUrl": "/win32/winerror-h/wsa_qos_efiltercount/",
+  "message": "An incorrect number of QOS FILTERSPECs were specified in the FLOWDESCRIPTOR.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "11021",
+  "originalCodeUrl": "/win32/winerror-h/wsa_qos_efiltercount/11021/"
+}

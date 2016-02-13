@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_bridge_miniport_register_failed\0xc000390a\index.html.json
+
+title: 0xC000390A EVENT_BRIDGE_MINIPORT_REGISTER_FAILED in netevent.h
+description: Bridge: The bridge could not be initialized because the bridge failed to register as a miniport with NDIS.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC000390A",
+  "codeUrl": "/win32/netevent-h/event_bridge_miniport_register_failed/0xc000390a/",
+  "numericCode": -1073727222,
+  "define": "EVENT_BRIDGE_MINIPORT_REGISTER_FAILED",
+  "defineUrl": "/win32/netevent-h/event_bridge_miniport_register_failed/",
+  "message": "Bridge: The bridge could not be initialized because the bridge failed to register as a miniport with NDIS.",
+  "remarks": null,
+  "aka": [
+    "-1073727222"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_bridge_miniport_register_failed/-1073727222/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

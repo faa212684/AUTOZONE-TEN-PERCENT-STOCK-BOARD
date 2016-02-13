@@ -1,0 +1,24 @@
+---
+output: win32\fsrmerr-h\fsrm_e_loading_disabled_module\-2147200202\index.html.json
+canonical: /win32/fsrmerr-h/fsrm_e_loading_disabled_module/0x80045336/
+title: -2147200202 FSRM_E_LOADING_DISABLED_MODULE in fsrmerr.h
+description: A rule or policy attempted to load/use a disabled module.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "fsrmerr.h",
+  "sourceUrl": "/win32/fsrmerr-h/",
+  "code": "-2147200202",
+  "codeUrl": "/win32/fsrmerr-h/fsrm_e_loading_disabled_module/-2147200202/",
+  "numericCode": 0,
+  "define": "FSRM_E_LOADING_DISABLED_MODULE",
+  "defineUrl": "/win32/fsrmerr-h/fsrm_e_loading_disabled_module/",
+  "message": "A rule or policy attempted to load/use a disabled module.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80045336",
+  "originalCodeUrl": "/win32/fsrmerr-h/fsrm_e_loading_disabled_module/0x80045336/"
+}

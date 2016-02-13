@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_ds_cant_on_rdn\0x80072016\index.html.json
+canonical: /win32/winerror-h/error_ds_cant_on_rdn/8214/
+title: 0x80072016 ERROR_DS_CANT_ON_RDN in winerror.h
+description: The directory service cannot perform the requested operation on the RDN attribute of an object.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80072016",
+  "codeUrl": "/win32/winerror-h/error_ds_cant_on_rdn/0x80072016/",
+  "numericCode": 0,
+  "define": "ERROR_DS_CANT_ON_RDN",
+  "defineUrl": "/win32/winerror-h/error_ds_cant_on_rdn/",
+  "message": "The directory service cannot perform the requested operation on the RDN attribute of an object.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "8214",
+  "originalCodeUrl": "/win32/winerror-h/error_ds_cant_on_rdn/8214/"
+}

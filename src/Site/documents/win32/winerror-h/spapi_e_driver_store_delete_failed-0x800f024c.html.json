@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\spapi_e_driver_store_delete_failed\0x800f024c\index.html.json
+
+title: 0x800F024C SPAPI_E_DRIVER_STORE_DELETE_FAILED in winerror.h
+description: A problem was encountered while attempting to delete the driver from the store.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800F024C",
+  "codeUrl": "/win32/winerror-h/spapi_e_driver_store_delete_failed/0x800f024c/",
+  "numericCode": -2146500020,
+  "define": "SPAPI_E_DRIVER_STORE_DELETE_FAILED",
+  "defineUrl": "/win32/winerror-h/spapi_e_driver_store_delete_failed/",
+  "message": "A problem was encountered while attempting to delete the driver from the store.",
+  "remarks": null,
+  "aka": [
+    "-2146500020"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/spapi_e_driver_store_delete_failed/-2146500020/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

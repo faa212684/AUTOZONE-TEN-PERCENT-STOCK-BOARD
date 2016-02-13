@@ -1,0 +1,28 @@
+---
+output: win32\windowssearcherrors-h\idx_e_too_many_search_servers\0x80041103\index.html.json
+
+title: 0x80041103 IDX_E_TOO_MANY_SEARCH_SERVERS in WindowsSearchErrors.h
+description: The number of search servers exceeded the limit.  Ensure that the number of propagated content indexes is less than the documented maximum.  If so, start and restart the search service, and then try again.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "0x80041103",
+  "codeUrl": "/win32/windowssearcherrors-h/idx_e_too_many_search_servers/0x80041103/",
+  "numericCode": -2147217149,
+  "define": "IDX_E_TOO_MANY_SEARCH_SERVERS",
+  "defineUrl": "/win32/windowssearcherrors-h/idx_e_too_many_search_servers/",
+  "message": "The number of search servers exceeded the limit.  Ensure that the number of propagated content indexes is less than the documented maximum.  If so, start and restart the search service, and then try again.",
+  "remarks": null,
+  "aka": [
+    "-2147217149"
+  ],
+  "akaUrl": [
+    "/win32/windowssearcherrors-h/idx_e_too_many_search_servers/-2147217149/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ds_modifydn_disallowed_by_flag\8581\index.html.json
+
+title: 8581 ERROR_DS_MODIFYDN_DISALLOWED_BY_FLAG in winerror.h
+description: A system flag has been set on the object and does not allow the object to be moved or renamed.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "8581",
+  "codeUrl": "/win32/winerror-h/error_ds_modifydn_disallowed_by_flag/8581/",
+  "numericCode": 8581,
+  "define": "ERROR_DS_MODIFYDN_DISALLOWED_BY_FLAG",
+  "defineUrl": "/win32/winerror-h/error_ds_modifydn_disallowed_by_flag/",
+  "message": "A system flag has been set on the object and does not allow the object to be moved or renamed.",
+  "remarks": null,
+  "aka": [
+    "0x80072185",
+    "-2147016315"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ds_modifydn_disallowed_by_flag/0x80072185/",
+    "/win32/winerror-h/error_ds_modifydn_disallowed_by_flag/-2147016315/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_log_sector_remapped\6602\index.html.json
+
+title: 6602 ERROR_LOG_SECTOR_REMAPPED in winerror.h
+description: Log service encountered a remapped log sector.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "6602",
+  "codeUrl": "/win32/winerror-h/error_log_sector_remapped/6602/",
+  "numericCode": 6602,
+  "define": "ERROR_LOG_SECTOR_REMAPPED",
+  "defineUrl": "/win32/winerror-h/error_log_sector_remapped/",
+  "message": "Log service encountered a remapped log sector.",
+  "remarks": null,
+  "aka": [
+    "0x800719ca",
+    "-2147018294"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_log_sector_remapped/0x800719ca/",
+    "/win32/winerror-h/error_log_sector_remapped/-2147018294/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_css_key_not_present\0xc0000307\index.html.json
+
+title: 0xC0000307 STATUS_CSS_KEY_NOT_PRESENT in ntstatus.h
+description: Copy protection error - The given sector does not contain a valid key.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000307",
+  "codeUrl": "/win32/ntstatus-h/status_css_key_not_present/0xc0000307/",
+  "numericCode": -1073741049,
+  "define": "STATUS_CSS_KEY_NOT_PRESENT",
+  "defineUrl": "/win32/ntstatus-h/status_css_key_not_present/",
+  "message": "Copy protection error - The given sector does not contain a valid key.",
+  "remarks": null,
+  "aka": [
+    "-1073741049"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_css_key_not_present/-1073741049/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

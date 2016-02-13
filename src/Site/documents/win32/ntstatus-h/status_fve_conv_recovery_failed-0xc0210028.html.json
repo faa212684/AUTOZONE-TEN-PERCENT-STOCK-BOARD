@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_fve_conv_recovery_failed\0xc0210028\index.html.json
+
+title: 0xC0210028 STATUS_FVE_CONV_RECOVERY_FAILED in ntstatus.h
+description: Bitlocker Drive Encryption failed to recover from aborted conversion. This could be due to either all conversion logs being corrupted or the media being write-protected.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0210028",
+  "codeUrl": "/win32/ntstatus-h/status_fve_conv_recovery_failed/0xc0210028/",
+  "numericCode": -1071579096,
+  "define": "STATUS_FVE_CONV_RECOVERY_FAILED",
+  "defineUrl": "/win32/ntstatus-h/status_fve_conv_recovery_failed/",
+  "message": "Bitlocker Drive Encryption failed to recover from aborted conversion. This could be due to either all conversion logs being corrupted or the media being write-protected.",
+  "remarks": null,
+  "aka": [
+    "-1071579096"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_fve_conv_recovery_failed/-1071579096/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

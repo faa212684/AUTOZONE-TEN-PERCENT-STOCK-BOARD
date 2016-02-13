@@ -1,0 +1,28 @@
+---
+output: win32\ntdsbmsg-h\hrinvalidbackup\0xc800020e\index.html.json
+
+title: 0xC800020E hrInvalidBackup in NtDsBMsg.h
+description: An incremental backup cannot be performed when circular logging is enabled.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "NtDsBMsg.h",
+  "sourceUrl": "/win32/ntdsbmsg-h/",
+  "code": "0xC800020E",
+  "codeUrl": "/win32/ntdsbmsg-h/hrinvalidbackup/0xc800020e/",
+  "numericCode": -939523570,
+  "define": "hrInvalidBackup",
+  "defineUrl": "/win32/ntdsbmsg-h/hrinvalidbackup/",
+  "message": "An incremental backup cannot be performed when circular logging is enabled.",
+  "remarks": null,
+  "aka": [
+    "-939523570"
+  ],
+  "akaUrl": [
+    "/win32/ntdsbmsg-h/hrinvalidbackup/-939523570/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

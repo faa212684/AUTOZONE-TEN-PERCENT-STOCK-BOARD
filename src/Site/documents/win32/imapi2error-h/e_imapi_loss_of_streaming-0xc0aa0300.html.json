@@ -1,0 +1,28 @@
+---
+output: win32\imapi2error-h\e_imapi_loss_of_streaming\0xc0aa0300\index.html.json
+
+title: 0xC0AA0300 E_IMAPI_LOSS_OF_STREAMING in imapi2error.h
+description: The write failed because the drive did not receive data quickly enough to continue writing. Moving the source data to the local computer, reducing the write speed, or enabling a "buffer underrun free" setting may resolve this issue.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "imapi2error.h",
+  "sourceUrl": "/win32/imapi2error-h/",
+  "code": "0xC0AA0300",
+  "codeUrl": "/win32/imapi2error-h/e_imapi_loss_of_streaming/0xc0aa0300/",
+  "numericCode": -1062599936,
+  "define": "E_IMAPI_LOSS_OF_STREAMING",
+  "defineUrl": "/win32/imapi2error-h/e_imapi_loss_of_streaming/",
+  "message": "The write failed because the drive did not receive data quickly enough to continue writing. Moving the source data to the local computer, reducing the write speed, or enabling a \"buffer underrun free\" setting may resolve this issue.",
+  "remarks": null,
+  "aka": [
+    "-1062599936"
+  ],
+  "akaUrl": [
+    "/win32/imapi2error-h/e_imapi_loss_of_streaming/-1062599936/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\mq-h\mq_information_owner_ignored\0x400e000b\index.html.json
+
+title: 0x400E000B MQ_INFORMATION_OWNER_IGNORED in Mq.h
+description: The queue owner was not set during the processing of this call to MQSetQueueSecurity().
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "Mq.h",
+  "sourceUrl": "/win32/mq-h/",
+  "code": "0x400E000B",
+  "codeUrl": "/win32/mq-h/mq_information_owner_ignored/0x400e000b/",
+  "numericCode": 1074659339,
+  "define": "MQ_INFORMATION_OWNER_IGNORED",
+  "defineUrl": "/win32/mq-h/mq_information_owner_ignored/",
+  "message": "The queue owner was not set during the processing of this call to MQSetQueueSecurity().",
+  "remarks": null,
+  "aka": [
+    "1074659339"
+  ],
+  "akaUrl": [
+    "/win32/mq-h/mq_information_owner_ignored/1074659339/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

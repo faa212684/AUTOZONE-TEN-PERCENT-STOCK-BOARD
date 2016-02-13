@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\rpc_e_cantcallout_inexternalcall\0x80010005\index.html.json
+
+title: 0x80010005 RPC_E_CANTCALLOUT_INEXTERNALCALL in winerror.h
+description: It is illegal to call out while inside message filter.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80010005",
+  "codeUrl": "/win32/winerror-h/rpc_e_cantcallout_inexternalcall/0x80010005/",
+  "numericCode": -2147418107,
+  "define": "RPC_E_CANTCALLOUT_INEXTERNALCALL",
+  "defineUrl": "/win32/winerror-h/rpc_e_cantcallout_inexternalcall/",
+  "message": "It is illegal to call out while inside message filter.",
+  "remarks": null,
+  "aka": [
+    "-2147418107"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/rpc_e_cantcallout_inexternalcall/-2147418107/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

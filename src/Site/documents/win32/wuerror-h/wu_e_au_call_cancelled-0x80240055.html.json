@@ -1,0 +1,28 @@
+---
+output: win32\wuerror-h\wu_e_au_call_cancelled\0x80240055\index.html.json
+
+title: 0x80240055 WU_E_AU_CALL_CANCELLED in wuerror.h
+description: Automatic Updates cancelled this operation because it applies to an update that is no longer applicable to this computer.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wuerror.h",
+  "sourceUrl": "/win32/wuerror-h/",
+  "code": "0x80240055",
+  "codeUrl": "/win32/wuerror-h/wu_e_au_call_cancelled/0x80240055/",
+  "numericCode": -2145124267,
+  "define": "WU_E_AU_CALL_CANCELLED",
+  "defineUrl": "/win32/wuerror-h/wu_e_au_call_cancelled/",
+  "message": "Automatic Updates cancelled this operation because it applies to an update that is no longer applicable to this computer.",
+  "remarks": null,
+  "aka": [
+    "-2145124267"
+  ],
+  "akaUrl": [
+    "/win32/wuerror-h/wu_e_au_call_cancelled/-2145124267/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

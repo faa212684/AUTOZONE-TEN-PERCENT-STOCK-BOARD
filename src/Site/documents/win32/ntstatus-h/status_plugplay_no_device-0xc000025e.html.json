@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_plugplay_no_device\0xc000025e\index.html.json
+
+title: 0xC000025E STATUS_PLUGPLAY_NO_DEVICE in ntstatus.h
+description: You have attempted to load a legacy device driver while its device instance had been disabled.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000025E",
+  "codeUrl": "/win32/ntstatus-h/status_plugplay_no_device/0xc000025e/",
+  "numericCode": -1073741218,
+  "define": "STATUS_PLUGPLAY_NO_DEVICE",
+  "defineUrl": "/win32/ntstatus-h/status_plugplay_no_device/",
+  "message": "You have attempted to load a legacy device driver while its device instance had been disabled.",
+  "remarks": null,
+  "aka": [
+    "-1073741218"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_plugplay_no_device/-1073741218/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

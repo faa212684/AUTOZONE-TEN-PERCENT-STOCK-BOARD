@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_tpm_not_found\0xc0291003\index.html.json
+
+title: 0xC0291003 STATUS_TPM_NOT_FOUND in ntstatus.h
+description: TPM driver is not compatible with the version of TPM found on the system.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0291003",
+  "codeUrl": "/win32/ntstatus-h/status_tpm_not_found/0xc0291003/",
+  "numericCode": -1071050749,
+  "define": "STATUS_TPM_NOT_FOUND",
+  "defineUrl": "/win32/ntstatus-h/status_tpm_not_found/",
+  "message": "TPM driver is not compatible with the version of TPM found on the system.",
+  "remarks": null,
+  "aka": [
+    "-1071050749"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_tpm_not_found/-1071050749/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\frs_err_sysvol_is_busy\8015\index.html.json
+
+title: 8015 FRS_ERR_SYSVOL_IS_BUSY in winerror.h
+description: The file replication service cannot process the request. The system volume is busy with a previous request.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "8015",
+  "codeUrl": "/win32/winerror-h/frs_err_sysvol_is_busy/8015/",
+  "numericCode": 8015,
+  "define": "FRS_ERR_SYSVOL_IS_BUSY",
+  "defineUrl": "/win32/winerror-h/frs_err_sysvol_is_busy/",
+  "message": "The file replication service cannot process the request. The system volume is busy with a previous request.",
+  "remarks": null,
+  "aka": [
+    "0x80071f4f",
+    "-2147016881"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/frs_err_sysvol_is_busy/0x80071f4f/",
+    "/win32/winerror-h/frs_err_sysvol_is_busy/-2147016881/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

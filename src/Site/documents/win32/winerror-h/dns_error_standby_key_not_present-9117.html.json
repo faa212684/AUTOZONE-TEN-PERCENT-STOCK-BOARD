@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\dns_error_standby_key_not_present\9117\index.html.json
+
+title: 9117 DNS_ERROR_STANDBY_KEY_NOT_PRESENT in winerror.h
+description: The specified signing key does not have a standby key to revoke.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "9117",
+  "codeUrl": "/win32/winerror-h/dns_error_standby_key_not_present/9117/",
+  "numericCode": 9117,
+  "define": "DNS_ERROR_STANDBY_KEY_NOT_PRESENT",
+  "defineUrl": "/win32/winerror-h/dns_error_standby_key_not_present/",
+  "message": "The specified signing key does not have a standby key to revoke.",
+  "remarks": null,
+  "aka": [
+    "0x8007239d",
+    "-2147015779"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/dns_error_standby_key_not_present/0x8007239d/",
+    "/win32/winerror-h/dns_error_standby_key_not_present/-2147015779/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

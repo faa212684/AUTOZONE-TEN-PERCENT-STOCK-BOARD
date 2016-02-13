@@ -1,0 +1,28 @@
+---
+output: win32\bitsmsg-h\bg_e_max_download_size_invalid_value\0x80200063\index.html.json
+
+title: 0x80200063 BG_E_MAX_DOWNLOAD_SIZE_INVALID_VALUE in BitsMsg.h
+description: The value provided for BITS_JOB_PROPERTY_MAX_DOWNLOAD_SIZE property is invalid. Please provide value between 1 and UINT64_MAX.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "BitsMsg.h",
+  "sourceUrl": "/win32/bitsmsg-h/",
+  "code": "0x80200063",
+  "codeUrl": "/win32/bitsmsg-h/bg_e_max_download_size_invalid_value/0x80200063/",
+  "numericCode": -2145386397,
+  "define": "BG_E_MAX_DOWNLOAD_SIZE_INVALID_VALUE",
+  "defineUrl": "/win32/bitsmsg-h/bg_e_max_download_size_invalid_value/",
+  "message": "The value provided for BITS_JOB_PROPERTY_MAX_DOWNLOAD_SIZE property is invalid. Please provide value between 1 and UINT64_MAX.",
+  "remarks": null,
+  "aka": [
+    "-2145386397"
+  ],
+  "akaUrl": [
+    "/win32/bitsmsg-h/bg_e_max_download_size_invalid_value/-2145386397/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\nserror-h\ns_e_pda_cannot_sync_invalid_playlist\0xc00d1235\index.html.json
+
+title: 0xC00D1235 NS_E_PDA_CANNOT_SYNC_INVALID_PLAYLIST in nserror.h
+description: This playlist is not valid or is corrupted. Create a new playlist using Windows Media Player, then sync the new playlist instead.%0
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "nserror.h",
+  "sourceUrl": "/win32/nserror-h/",
+  "code": "0xC00D1235",
+  "codeUrl": "/win32/nserror-h/ns_e_pda_cannot_sync_invalid_playlist/0xc00d1235/",
+  "numericCode": -1072885195,
+  "define": "NS_E_PDA_CANNOT_SYNC_INVALID_PLAYLIST",
+  "defineUrl": "/win32/nserror-h/ns_e_pda_cannot_sync_invalid_playlist/",
+  "message": "This playlist is not valid or is corrupted. Create a new playlist using Windows Media Player, then sync the new playlist instead.%0",
+  "remarks": null,
+  "aka": [
+    "-1072885195"
+  ],
+  "akaUrl": [
+    "/win32/nserror-h/ns_e_pda_cannot_sync_invalid_playlist/-1072885195/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

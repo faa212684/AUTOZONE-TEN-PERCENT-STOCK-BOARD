@@ -1,0 +1,92 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>@Model.Document.Title</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+@if (Dynamic.Defined(Model.Document.Canonical)) {
+  <meta name="canonical" content="@Model.Document.Canonical">
+} <meta name="description" content="@Model.Document.Description">
+  @*<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootswatch/3.3.2/simplex/bootstrap.css"/>*@
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootswatch/3.3.2/simplex/bootstrap.min.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css"/>
+  <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.2/html5shiv.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.js"></script>
+  <![endif]-->
+  <script>(function(i, s, o, g, r, a, m) {i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function() {(i[r].q = i[r].q || []).push(arguments)}, i[r].l = 1 * new Date(); a = s.createElement(o),m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');ga('create', 'UA-9880037-4', 'auto');ga('send', 'pageview');</script>
+</head>
+<body>
+  <nav class="navbar navbar-default">
+    <div class="container">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="/"><span class="ion-pound"></span> ErrorCo.de</a>
+      </div>
+
+      <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+        <ul class="nav navbar-nav">
+          <li><a href="https://www.firegiant.com/">by FireGiant</a></li>
+        </ul>
+        <ul class="nav navbar-nav navbar-right">
+          <li><a href="/">Search</a></li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <div class="container">
+@Raw(Model.Document.Content)
+@if (Model.Document.Disqus.Equals("true")) {
+    <section class="row">
+      <div class="col-sm-11 col-sm-offset-1 text-right">
+        <a class="btn btn-default" data-toggle="collapse" href="#comments" aria-controls="comments" aria-expanded="false">
+          <span class="fa fa-comments"></span>
+        </a>
+      </div>
+    </section>
+    <section id="comments" class="row collapse">
+      <div class="col-sm-5 col-sm-offset-1">
+        <h4>ErrorCo.de Comment Policy</h4>
+        <ul>
+          <li>We reserve the right to remove any comment.</li>
+        </ul>
+      </div>
+      <div class="col-sm-6">
+        <div id="disqus_thread"></div>
+      </div>
+    </section>
+}
+    <footer class="row">
+      <div class="col-xs-12">
+        <hr/>
+      </div>
+      <div class="col-xs-7">
+        <h4><a href="/">ErrorCo.de</a> is built with love by the devs at <a href="https://www.firegiant.com/">FireGiant</a>.</h4>
+        <p>At FireGiant we support developers on their quest to create quality installations using the WiX Toolset. To
+        better support our customers we created ErrorCo.de to provide a quick look up of Win32 and MSI error codes found in Burn
+        and Windows installer log files.</p>
+      </div>
+      <div class="col-xs-5">
+        <h4>Want support for the <a href="http://wixtoolset.org/">WiX Toolset</a>?</h4>
+        <p><a class="btn btn-primary" href="https://www.firegiant.com/our-services/"><strong>Contact us at FireGiant</strong></a></p>
+        <h5>Install with confidence.</h5>
+      </div>
+    </footer>
+  </div>
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
+  <script src="/js/site.js"></script>
+@if (Model.Document.Disqus.Equals("true")) {
+  <script src="/js/disqus.js"></script>
+}
+</body>
+</html>

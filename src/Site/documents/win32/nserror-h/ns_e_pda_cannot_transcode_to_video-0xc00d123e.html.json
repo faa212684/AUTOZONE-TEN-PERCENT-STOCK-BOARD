@@ -1,0 +1,28 @@
+---
+output: win32\nserror-h\ns_e_pda_cannot_transcode_to_video\0xc00d123e\index.html.json
+
+title: 0xC00D123E NS_E_PDA_CANNOT_TRANSCODE_TO_VIDEO in nserror.h
+description: Your device requires that this file be converted in order to play on the device. However, the device either does not support playing video, or Windows Media Player cannot convert the file to a video format that is supported by the device.%0
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "nserror.h",
+  "sourceUrl": "/win32/nserror-h/",
+  "code": "0xC00D123E",
+  "codeUrl": "/win32/nserror-h/ns_e_pda_cannot_transcode_to_video/0xc00d123e/",
+  "numericCode": -1072885186,
+  "define": "NS_E_PDA_CANNOT_TRANSCODE_TO_VIDEO",
+  "defineUrl": "/win32/nserror-h/ns_e_pda_cannot_transcode_to_video/",
+  "message": "Your device requires that this file be converted in order to play on the device. However, the device either does not support playing video, or Windows Media Player cannot convert the file to a video format that is supported by the device.%0",
+  "remarks": null,
+  "aka": [
+    "-1072885186"
+  ],
+  "akaUrl": [
+    "/win32/nserror-h/ns_e_pda_cannot_transcode_to_video/-1072885186/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

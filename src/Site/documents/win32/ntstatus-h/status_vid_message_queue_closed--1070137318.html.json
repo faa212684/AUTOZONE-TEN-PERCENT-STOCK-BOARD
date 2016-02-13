@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_vid_message_queue_closed\-1070137318\index.html.json
+canonical: /win32/ntstatus-h/status_vid_message_queue_closed/0xc037001a/
+title: -1070137318 STATUS_VID_MESSAGE_QUEUE_CLOSED in ntstatus.h
+description: The message queue for the virtualization infrastructure driver has been closed. Restarting the virtual machine may fix the problem. If the problem persists, try restarting the physical computer.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1070137318",
+  "codeUrl": "/win32/ntstatus-h/status_vid_message_queue_closed/-1070137318/",
+  "numericCode": 0,
+  "define": "STATUS_VID_MESSAGE_QUEUE_CLOSED",
+  "defineUrl": "/win32/ntstatus-h/status_vid_message_queue_closed/",
+  "message": "The message queue for the virtualization infrastructure driver has been closed. Restarting the virtual machine may fix the problem. If the problem persists, try restarting the physical computer.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC037001A",
+  "originalCodeUrl": "/win32/ntstatus-h/status_vid_message_queue_closed/0xc037001a/"
+}

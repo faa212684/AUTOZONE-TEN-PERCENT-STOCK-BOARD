@@ -1,0 +1,31 @@
+---
+output: win32\netevent-h\ntfrsprf_collect_rpc_binding_error_set\0xc00034db\index.html.json
+
+title: 0xC00034DB NTFRSPRF_COLLECT_RPC_BINDING_ERROR_SET in netevent.h
+description: The RPC binding failed in the Collect function of the FileReplicaSet Object. The
+counter data for this object will not be available till the binding succeeds.
+The FileReplicaSet object contains the performance counters of the Replica sets
+whose files are being replicated by the File Replication Service.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC00034DB",
+  "codeUrl": "/win32/netevent-h/ntfrsprf_collect_rpc_binding_error_set/0xc00034db/",
+  "numericCode": -1073728293,
+  "define": "NTFRSPRF_COLLECT_RPC_BINDING_ERROR_SET",
+  "defineUrl": "/win32/netevent-h/ntfrsprf_collect_rpc_binding_error_set/",
+  "message": "The RPC binding failed in the Collect function of the FileReplicaSet Object. The\r\ncounter data for this object will not be available till the binding succeeds.\r\nThe FileReplicaSet object contains the performance counters of the Replica sets\r\nwhose files are being replicated by the File Replication Service.",
+  "remarks": null,
+  "aka": [
+    "-1073728293"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/ntfrsprf_collect_rpc_binding_error_set/-1073728293/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

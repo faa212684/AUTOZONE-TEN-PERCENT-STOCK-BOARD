@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\rpc_x_ss_cannot_get_call_handle\0x800706f3\index.html.json
+canonical: /win32/winerror-h/rpc_x_ss_cannot_get_call_handle/1779/
+title: 0x800706f3 RPC_X_SS_CANNOT_GET_CALL_HANDLE in winerror.h
+description: The stub is unable to get the remote procedure call handle.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800706f3",
+  "codeUrl": "/win32/winerror-h/rpc_x_ss_cannot_get_call_handle/0x800706f3/",
+  "numericCode": 0,
+  "define": "RPC_X_SS_CANNOT_GET_CALL_HANDLE",
+  "defineUrl": "/win32/winerror-h/rpc_x_ss_cannot_get_call_handle/",
+  "message": "The stub is unable to get the remote procedure call handle.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "1779",
+  "originalCodeUrl": "/win32/winerror-h/rpc_x_ss_cannot_get_call_handle/1779/"
+}

@@ -1,0 +1,28 @@
+---
+output: bugcheck\bugcodes-h\too_many_recursive_faults\0x0000011e\index.html.json
+
+title: 0x0000011E TOO_MANY_RECURSIVE_FAULTS in bugcodes.h
+description: TOO_MANY_RECURSIVE_FAULTS
+disqus: true
+---
+{
+  "area": "bugcheck",
+  "areaUrl": "/bugcheck/",
+  "source": "bugcodes.h",
+  "sourceUrl": "/bugcheck/bugcodes-h/",
+  "code": "0x0000011E",
+  "codeUrl": "/bugcheck/bugcodes-h/too_many_recursive_faults/0x0000011e/",
+  "numericCode": 286,
+  "define": "TOO_MANY_RECURSIVE_FAULTS",
+  "defineUrl": "/bugcheck/bugcodes-h/too_many_recursive_faults/",
+  "message": "TOO_MANY_RECURSIVE_FAULTS",
+  "remarks": null,
+  "aka": [
+    "286"
+  ],
+  "akaUrl": [
+    "/bugcheck/bugcodes-h/too_many_recursive_faults/286/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

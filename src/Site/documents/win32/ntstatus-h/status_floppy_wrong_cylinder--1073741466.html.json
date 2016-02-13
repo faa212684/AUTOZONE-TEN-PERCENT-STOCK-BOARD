@@ -1,0 +1,25 @@
+---
+output: win32\ntstatus-h\status_floppy_wrong_cylinder\-1073741466\index.html.json
+canonical: /win32/ntstatus-h/status_floppy_wrong_cylinder/0xc0000166/
+title: -1073741466 STATUS_FLOPPY_WRONG_CYLINDER in ntstatus.h
+description: "{Floppy Disk Error}
+While accessing a floppy disk, the track address from the sector ID field was found to be different than the track address maintained by the controller."
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741466",
+  "codeUrl": "/win32/ntstatus-h/status_floppy_wrong_cylinder/-1073741466/",
+  "numericCode": 0,
+  "define": "STATUS_FLOPPY_WRONG_CYLINDER",
+  "defineUrl": "/win32/ntstatus-h/status_floppy_wrong_cylinder/",
+  "message": "{Floppy Disk Error}\r\nWhile accessing a floppy disk, the track address from the sector ID field was found to be different than the track address maintained by the controller.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000166",
+  "originalCodeUrl": "/win32/ntstatus-h/status_floppy_wrong_cylinder/0xc0000166/"
+}

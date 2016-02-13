@@ -1,0 +1,28 @@
+---
+output: win32\bitsmsg-h\bg_e_http_error_205\0x801900cd\index.html.json
+
+title: 0x801900CD BG_E_HTTP_ERROR_205 in BitsMsg.h
+description: HTTP status 205: The server's response was not valid. The server was not following the defined protocol. Resume the job, and then Background Intelligent Transfer Service (BITS) will try again.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "BitsMsg.h",
+  "sourceUrl": "/win32/bitsmsg-h/",
+  "code": "0x801900CD",
+  "codeUrl": "/win32/bitsmsg-h/bg_e_http_error_205/0x801900cd/",
+  "numericCode": -2145845043,
+  "define": "BG_E_HTTP_ERROR_205",
+  "defineUrl": "/win32/bitsmsg-h/bg_e_http_error_205/",
+  "message": "HTTP status 205: The server's response was not valid. The server was not following the defined protocol. Resume the job, and then Background Intelligent Transfer Service (BITS) will try again.",
+  "remarks": null,
+  "aka": [
+    "-2145845043"
+  ],
+  "akaUrl": [
+    "/win32/bitsmsg-h/bg_e_http_error_205/-2145845043/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

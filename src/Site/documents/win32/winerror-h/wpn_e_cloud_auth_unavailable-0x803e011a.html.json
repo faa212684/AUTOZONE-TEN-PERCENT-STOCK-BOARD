@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\wpn_e_cloud_auth_unavailable\0x803e011a\index.html.json
+
+title: 0x803E011A WPN_E_CLOUD_AUTH_UNAVAILABLE in winerror.h
+description: The notification platform is unable to retrieve the authentication credentials required to connect to the cloud notification service.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x803E011A",
+  "codeUrl": "/win32/winerror-h/wpn_e_cloud_auth_unavailable/0x803e011a/",
+  "numericCode": -2143420134,
+  "define": "WPN_E_CLOUD_AUTH_UNAVAILABLE",
+  "defineUrl": "/win32/winerror-h/wpn_e_cloud_auth_unavailable/",
+  "message": "The notification platform is unable to retrieve the authentication credentials required to connect to the cloud notification service.",
+  "remarks": null,
+  "aka": [
+    "-2143420134"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/wpn_e_cloud_auth_unavailable/-2143420134/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

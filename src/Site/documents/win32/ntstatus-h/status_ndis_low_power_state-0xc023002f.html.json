@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_ndis_low_power_state\0xc023002f\index.html.json
+
+title: 0xC023002F STATUS_NDIS_LOW_POWER_STATE in ntstatus.h
+description: The miniport adapter is in lower power state.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC023002F",
+  "codeUrl": "/win32/ntstatus-h/status_ndis_low_power_state/0xc023002f/",
+  "numericCode": -1071448017,
+  "define": "STATUS_NDIS_LOW_POWER_STATE",
+  "defineUrl": "/win32/ntstatus-h/status_ndis_low_power_state/",
+  "message": "The miniport adapter is in lower power state.",
+  "remarks": null,
+  "aka": [
+    "-1071448017"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_ndis_low_power_state/-1071448017/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

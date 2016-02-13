@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_unsupported_compression\0xc000025f\index.html.json
+
+title: 0xC000025F STATUS_UNSUPPORTED_COMPRESSION in ntstatus.h
+description: The specified compression format is unsupported.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000025F",
+  "codeUrl": "/win32/ntstatus-h/status_unsupported_compression/0xc000025f/",
+  "numericCode": -1073741217,
+  "define": "STATUS_UNSUPPORTED_COMPRESSION",
+  "defineUrl": "/win32/ntstatus-h/status_unsupported_compression/",
+  "message": "The specified compression format is unsupported.",
+  "remarks": null,
+  "aka": [
+    "-1073741217"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_unsupported_compression/-1073741217/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,29 @@
+---
+output: win32\netevent-h\event_ipx_new_default_type\0x4000251d\index.html.json
+
+title: 0x4000251D EVENT_IPX_NEW_DEFAULT_TYPE in netevent.h
+description: The default frame type for auto-detection on %2 was changed to %3.
+This type is now the default if no frame type can be detected.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x4000251D",
+  "codeUrl": "/win32/netevent-h/event_ipx_new_default_type/0x4000251d/",
+  "numericCode": 1073751325,
+  "define": "EVENT_IPX_NEW_DEFAULT_TYPE",
+  "defineUrl": "/win32/netevent-h/event_ipx_new_default_type/",
+  "message": "The default frame type for auto-detection on %2 was changed to %3.\r\nThis type is now the default if no frame type can be detected.",
+  "remarks": null,
+  "aka": [
+    "1073751325"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_ipx_new_default_type/1073751325/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

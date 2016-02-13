@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_install_package_version\-2147023283\index.html.json
+canonical: /win32/winerror-h/error_install_package_version/1613/
+title: -2147023283 ERROR_INSTALL_PACKAGE_VERSION in winerror.h
+description: This installation package cannot be installed by the Windows Installer service. You must install a Windows service pack that contains a newer version of the Windows Installer service.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147023283",
+  "codeUrl": "/win32/winerror-h/error_install_package_version/-2147023283/",
+  "numericCode": 0,
+  "define": "ERROR_INSTALL_PACKAGE_VERSION",
+  "defineUrl": "/win32/winerror-h/error_install_package_version/",
+  "message": "This installation package cannot be installed by the Windows Installer service. You must install a Windows service pack that contains a newer version of the Windows Installer service.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "1613",
+  "originalCodeUrl": "/win32/winerror-h/error_install_package_version/1613/"
+}

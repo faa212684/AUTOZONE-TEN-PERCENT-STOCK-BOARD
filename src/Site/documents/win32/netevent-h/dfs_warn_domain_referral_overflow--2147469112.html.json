@@ -1,0 +1,24 @@
+---
+output: win32\netevent-h\dfs_warn_domain_referral_overflow\-2147469112\index.html.json
+canonical: /win32/netevent-h/dfs_warn_domain_referral_overflow/0x800038c8/
+title: -2147469112 DFS_WARN_DOMAIN_REFERRAL_OVERFLOW in netevent.h
+description: DFS is unable to return the entire list of trusted domains to the client. There are too many trusted domains.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "-2147469112",
+  "codeUrl": "/win32/netevent-h/dfs_warn_domain_referral_overflow/-2147469112/",
+  "numericCode": 0,
+  "define": "DFS_WARN_DOMAIN_REFERRAL_OVERFLOW",
+  "defineUrl": "/win32/netevent-h/dfs_warn_domain_referral_overflow/",
+  "message": "DFS is unable to return the entire list of trusted domains to the client. There are too many trusted domains.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x800038C8",
+  "originalCodeUrl": "/win32/netevent-h/dfs_warn_domain_referral_overflow/0x800038c8/"
+}

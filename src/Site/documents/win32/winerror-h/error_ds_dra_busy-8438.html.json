@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ds_dra_busy\8438\index.html.json
+
+title: 8438 ERROR_DS_DRA_BUSY in winerror.h
+description: The directory service is too busy to complete the replication operation at this time.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "8438",
+  "codeUrl": "/win32/winerror-h/error_ds_dra_busy/8438/",
+  "numericCode": 8438,
+  "define": "ERROR_DS_DRA_BUSY",
+  "defineUrl": "/win32/winerror-h/error_ds_dra_busy/",
+  "message": "The directory service is too busy to complete the replication operation at this time.",
+  "remarks": null,
+  "aka": [
+    "0x800720f6",
+    "-2147016458"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ds_dra_busy/0x800720f6/",
+    "/win32/winerror-h/error_ds_dra_busy/-2147016458/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

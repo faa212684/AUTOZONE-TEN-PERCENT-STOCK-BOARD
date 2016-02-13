@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_must_be_kdc\-1073741067\index.html.json
+canonical: /win32/ntstatus-h/status_must_be_kdc/0xc00002f5/
+title: -1073741067 STATUS_MUST_BE_KDC in ntstatus.h
+description: The local machine must be a Kerberos KDC (domain controller) and it is not.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741067",
+  "codeUrl": "/win32/ntstatus-h/status_must_be_kdc/-1073741067/",
+  "numericCode": 0,
+  "define": "STATUS_MUST_BE_KDC",
+  "defineUrl": "/win32/ntstatus-h/status_must_be_kdc/",
+  "message": "The local machine must be a Kerberos KDC (domain controller) and it is not.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC00002F5",
+  "originalCodeUrl": "/win32/ntstatus-h/status_must_be_kdc/0xc00002f5/"
+}

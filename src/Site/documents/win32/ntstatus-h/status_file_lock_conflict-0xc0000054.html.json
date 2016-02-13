@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_file_lock_conflict\0xc0000054\index.html.json
+
+title: 0xC0000054 STATUS_FILE_LOCK_CONFLICT in ntstatus.h
+description: A requested read/write cannot be granted due to a conflicting file lock.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000054",
+  "codeUrl": "/win32/ntstatus-h/status_file_lock_conflict/0xc0000054/",
+  "numericCode": -1073741740,
+  "define": "STATUS_FILE_LOCK_CONFLICT",
+  "defineUrl": "/win32/ntstatus-h/status_file_lock_conflict/",
+  "message": "A requested read/write cannot be granted due to a conflicting file lock.",
+  "remarks": null,
+  "aka": [
+    "-1073741740"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_file_lock_conflict/-1073741740/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

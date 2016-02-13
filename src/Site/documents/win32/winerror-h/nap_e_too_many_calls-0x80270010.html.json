@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\nap_e_too_many_calls\0x80270010\index.html.json
+
+title: 0x80270010 NAP_E_TOO_MANY_CALLS in winerror.h
+description: Too many simultaneous calls.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80270010",
+  "codeUrl": "/win32/winerror-h/nap_e_too_many_calls/0x80270010/",
+  "numericCode": -2144927728,
+  "define": "NAP_E_TOO_MANY_CALLS",
+  "defineUrl": "/win32/winerror-h/nap_e_too_many_calls/",
+  "message": "Too many simultaneous calls.",
+  "remarks": null,
+  "aka": [
+    "-2144927728"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/nap_e_too_many_calls/-2144927728/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

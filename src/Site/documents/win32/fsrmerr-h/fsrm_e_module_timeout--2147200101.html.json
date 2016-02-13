@@ -1,0 +1,24 @@
+---
+output: win32\fsrmerr-h\fsrm_e_module_timeout\-2147200101\index.html.json
+canonical: /win32/fsrmerr-h/fsrm_e_module_timeout/0x8004539b/
+title: -2147200101 FSRM_E_MODULE_TIMEOUT in fsrmerr.h
+description: A module was restarted due to excessive processing time of a file. Check the application event log for more information.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "fsrmerr.h",
+  "sourceUrl": "/win32/fsrmerr-h/",
+  "code": "-2147200101",
+  "codeUrl": "/win32/fsrmerr-h/fsrm_e_module_timeout/-2147200101/",
+  "numericCode": 0,
+  "define": "FSRM_E_MODULE_TIMEOUT",
+  "defineUrl": "/win32/fsrmerr-h/fsrm_e_module_timeout/",
+  "message": "A module was restarted due to excessive processing time of a file. Check the application event log for more information.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x8004539B",
+  "originalCodeUrl": "/win32/fsrmerr-h/fsrm_e_module_timeout/0x8004539b/"
+}

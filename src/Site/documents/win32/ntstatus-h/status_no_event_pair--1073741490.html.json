@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_no_event_pair\-1073741490\index.html.json
+canonical: /win32/ntstatus-h/status_no_event_pair/0xc000014e/
+title: -1073741490 STATUS_NO_EVENT_PAIR in ntstatus.h
+description: An event pair synchronization operation was performed using the thread specific client/server event pair object, but no event pair object was associated with the thread.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741490",
+  "codeUrl": "/win32/ntstatus-h/status_no_event_pair/-1073741490/",
+  "numericCode": 0,
+  "define": "STATUS_NO_EVENT_PAIR",
+  "defineUrl": "/win32/ntstatus-h/status_no_event_pair/",
+  "message": "An event pair synchronization operation was performed using the thread specific client/server event pair object, but no event pair object was associated with the thread.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC000014E",
+  "originalCodeUrl": "/win32/ntstatus-h/status_no_event_pair/0xc000014e/"
+}

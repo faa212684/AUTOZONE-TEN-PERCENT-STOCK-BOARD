@@ -1,0 +1,25 @@
+---
+output: win32\netevent-h\event_rdr_maxcmds\-2147480627\index.html.json
+canonical: /win32/netevent-h/event_rdr_maxcmds/0x80000bcd/
+title: -2147480627 EVENT_RDR_MAXCMDS in netevent.h
+description: The redirector failed to allocate a multiplex table entry.  This indicates that
+the MAXCMDS parameter to the redirector is insufficient for the users needs.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "-2147480627",
+  "codeUrl": "/win32/netevent-h/event_rdr_maxcmds/-2147480627/",
+  "numericCode": 0,
+  "define": "EVENT_RDR_MAXCMDS",
+  "defineUrl": "/win32/netevent-h/event_rdr_maxcmds/",
+  "message": "The redirector failed to allocate a multiplex table entry.  This indicates that\r\nthe MAXCMDS parameter to the redirector is insufficient for the users needs.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80000BCD",
+  "originalCodeUrl": "/win32/netevent-h/event_rdr_maxcmds/0x80000bcd/"
+}

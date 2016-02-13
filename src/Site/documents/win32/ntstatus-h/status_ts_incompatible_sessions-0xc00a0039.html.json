@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_ts_incompatible_sessions\0xc00a0039\index.html.json
+
+title: 0xC00A0039 STATUS_TS_INCOMPATIBLE_SESSIONS in ntstatus.h
+description: The target session is incompatible with the current session.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC00A0039",
+  "codeUrl": "/win32/ntstatus-h/status_ts_incompatible_sessions/0xc00a0039/",
+  "numericCode": -1073086407,
+  "define": "STATUS_TS_INCOMPATIBLE_SESSIONS",
+  "defineUrl": "/win32/ntstatus-h/status_ts_incompatible_sessions/",
+  "message": "The target session is incompatible with the current session.",
+  "remarks": null,
+  "aka": [
+    "-1073086407"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_ts_incompatible_sessions/-1073086407/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

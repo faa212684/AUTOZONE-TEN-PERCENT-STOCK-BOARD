@@ -1,0 +1,29 @@
+---
+output: win32\winerror-h\dxgi_error_invalid_call\0x887a0001\index.html.json
+
+title: 0x887A0001 DXGI_ERROR_INVALID_CALL in winerror.h
+description: The application made a call that is invalid. Either the parameters of the call or the state of some object was incorrect.
+Enable the D3D debug layer in order to see details via debug messages.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x887A0001",
+  "codeUrl": "/win32/winerror-h/dxgi_error_invalid_call/0x887a0001/",
+  "numericCode": -2005270527,
+  "define": "DXGI_ERROR_INVALID_CALL",
+  "defineUrl": "/win32/winerror-h/dxgi_error_invalid_call/",
+  "message": "The application made a call that is invalid. Either the parameters of the call or the state of some object was incorrect.\r\nEnable the D3D debug layer in order to see details via debug messages.",
+  "remarks": null,
+  "aka": [
+    "-2005270527"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/dxgi_error_invalid_call/-2005270527/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

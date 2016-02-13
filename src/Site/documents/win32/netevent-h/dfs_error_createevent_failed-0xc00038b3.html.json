@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\dfs_error_createevent_failed\0xc00038b3\index.html.json
+
+title: 0xC00038B3 DFS_ERROR_CREATEEVENT_FAILED in netevent.h
+description: DFS could not create event handle. The return code is in the record data.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC00038B3",
+  "codeUrl": "/win32/netevent-h/dfs_error_createevent_failed/0xc00038b3/",
+  "numericCode": -1073727309,
+  "define": "DFS_ERROR_CREATEEVENT_FAILED",
+  "defineUrl": "/win32/netevent-h/dfs_error_createevent_failed/",
+  "message": "DFS could not create event handle. The return code is in the record data.",
+  "remarks": null,
+  "aka": [
+    "-1073727309"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/dfs_error_createevent_failed/-1073727309/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

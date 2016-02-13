@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_ip_address_conflict1\-1073741228\index.html.json
+canonical: /win32/ntstatus-h/status_ip_address_conflict1/0xc0000254/
+title: -1073741228 STATUS_IP_ADDRESS_CONFLICT1 in ntstatus.h
+description: There is an IP address conflict with another system on the network
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741228",
+  "codeUrl": "/win32/ntstatus-h/status_ip_address_conflict1/-1073741228/",
+  "numericCode": 0,
+  "define": "STATUS_IP_ADDRESS_CONFLICT1",
+  "defineUrl": "/win32/ntstatus-h/status_ip_address_conflict1/",
+  "message": "There is an IP address conflict with another system on the network",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000254",
+  "originalCodeUrl": "/win32/ntstatus-h/status_ip_address_conflict1/0xc0000254/"
+}

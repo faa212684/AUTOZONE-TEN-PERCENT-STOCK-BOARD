@@ -1,0 +1,24 @@
+---
+output: win32\ntiologc-h\io_warning_write_fua_problem\-2147221372\index.html.json
+canonical: /win32/ntiologc-h/io_warning_write_fua_problem/0x80040084/
+title: -2147221372 IO_WARNING_WRITE_FUA_PROBLEM in ntiologc.h
+description: Device %1 is not correctly processing some write requests. In Device Manager, ensure that the Write Cache option is disabled for this device or data corruption may occur.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntiologc.h",
+  "sourceUrl": "/win32/ntiologc-h/",
+  "code": "-2147221372",
+  "codeUrl": "/win32/ntiologc-h/io_warning_write_fua_problem/-2147221372/",
+  "numericCode": 0,
+  "define": "IO_WARNING_WRITE_FUA_PROBLEM",
+  "defineUrl": "/win32/ntiologc-h/io_warning_write_fua_problem/",
+  "message": "Device %1 is not correctly processing some write requests. In Device Manager, ensure that the Write Cache option is disabled for this device or data corruption may occur.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80040084",
+  "originalCodeUrl": "/win32/ntiologc-h/io_warning_write_fua_problem/0x80040084/"
+}

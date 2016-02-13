@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ds_dra_schema_mismatch\8418\index.html.json
+
+title: 8418 ERROR_DS_DRA_SCHEMA_MISMATCH in winerror.h
+description: The replication operation failed because of a schema mismatch between the servers involved.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "8418",
+  "codeUrl": "/win32/winerror-h/error_ds_dra_schema_mismatch/8418/",
+  "numericCode": 8418,
+  "define": "ERROR_DS_DRA_SCHEMA_MISMATCH",
+  "defineUrl": "/win32/winerror-h/error_ds_dra_schema_mismatch/",
+  "message": "The replication operation failed because of a schema mismatch between the servers involved.",
+  "remarks": null,
+  "aka": [
+    "0x800720e2",
+    "-2147016478"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ds_dra_schema_mismatch/0x800720e2/",
+    "/win32/winerror-h/error_ds_dra_schema_mismatch/-2147016478/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

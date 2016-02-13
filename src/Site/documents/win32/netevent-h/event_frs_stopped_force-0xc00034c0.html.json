@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_frs_stopped_force\0xc00034c0\index.html.json
+
+title: 0xC00034C0 EVENT_FRS_STOPPED_FORCE in netevent.h
+description: The File Replication Service stopped without cleaning up.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC00034C0",
+  "codeUrl": "/win32/netevent-h/event_frs_stopped_force/0xc00034c0/",
+  "numericCode": -1073728320,
+  "define": "EVENT_FRS_STOPPED_FORCE",
+  "defineUrl": "/win32/netevent-h/event_frs_stopped_force/",
+  "message": "The File Replication Service stopped without cleaning up.",
+  "remarks": null,
+  "aka": [
+    "-1073728320"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_frs_stopped_force/-1073728320/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

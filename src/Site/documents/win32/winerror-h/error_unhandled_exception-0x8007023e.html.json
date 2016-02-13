@@ -1,0 +1,25 @@
+---
+output: win32\winerror-h\error_unhandled_exception\0x8007023e\index.html.json
+canonical: /win32/winerror-h/error_unhandled_exception/574/
+title: 0x8007023e ERROR_UNHANDLED_EXCEPTION in winerror.h
+description: "{Application Error}
+The exception %s (0x%08lx) occurred in the application at location 0x%08lx."
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007023e",
+  "codeUrl": "/win32/winerror-h/error_unhandled_exception/0x8007023e/",
+  "numericCode": 0,
+  "define": "ERROR_UNHANDLED_EXCEPTION",
+  "defineUrl": "/win32/winerror-h/error_unhandled_exception/",
+  "message": "{Application Error}\r\nThe exception %s (0x%08lx) occurred in the application at location 0x%08lx.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "574",
+  "originalCodeUrl": "/win32/winerror-h/error_unhandled_exception/574/"
+}

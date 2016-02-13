@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_rdr_server_reference\0x80000bc8\index.html.json
+
+title: 0x80000BC8 EVENT_RDR_SERVER_REFERENCE in netevent.h
+description: The redirector dereferenced a server through zero.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x80000BC8",
+  "codeUrl": "/win32/netevent-h/event_rdr_server_reference/0x80000bc8/",
+  "numericCode": -2147480632,
+  "define": "EVENT_RDR_SERVER_REFERENCE",
+  "defineUrl": "/win32/netevent-h/event_rdr_server_reference/",
+  "message": "The redirector dereferenced a server through zero.",
+  "remarks": null,
+  "aka": [
+    "-2147480632"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_rdr_server_reference/-2147480632/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

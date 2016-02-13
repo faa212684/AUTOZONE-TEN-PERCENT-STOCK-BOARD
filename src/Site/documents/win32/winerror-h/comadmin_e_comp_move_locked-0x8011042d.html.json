@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\comadmin_e_comp_move_locked\0x8011042d\index.html.json
+
+title: 0x8011042D COMADMIN_E_COMP_MOVE_LOCKED in winerror.h
+description: The component move was disallowed, because the source or destination application is either a system application or currently locked against changes
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8011042D",
+  "codeUrl": "/win32/winerror-h/comadmin_e_comp_move_locked/0x8011042d/",
+  "numericCode": -2146368467,
+  "define": "COMADMIN_E_COMP_MOVE_LOCKED",
+  "defineUrl": "/win32/winerror-h/comadmin_e_comp_move_locked/",
+  "message": "The component move was disallowed, because the source or destination application is either a system application or currently locked against changes",
+  "remarks": null,
+  "aka": [
+    "-2146368467"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/comadmin_e_comp_move_locked/-2146368467/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

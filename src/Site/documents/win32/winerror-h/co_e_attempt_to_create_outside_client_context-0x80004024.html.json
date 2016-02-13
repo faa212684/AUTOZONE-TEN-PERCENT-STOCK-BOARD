@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\co_e_attempt_to_create_outside_client_context\0x80004024\index.html.json
+
+title: 0x80004024 CO_E_ATTEMPT_TO_CREATE_OUTSIDE_CLIENT_CONTEXT in winerror.h
+description: The specified activation could not occur in the client context as specified.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80004024",
+  "codeUrl": "/win32/winerror-h/co_e_attempt_to_create_outside_client_context/0x80004024/",
+  "numericCode": -2147467228,
+  "define": "CO_E_ATTEMPT_TO_CREATE_OUTSIDE_CLIENT_CONTEXT",
+  "defineUrl": "/win32/winerror-h/co_e_attempt_to_create_outside_client_context/",
+  "message": "The specified activation could not occur in the client context as specified.",
+  "remarks": null,
+  "aka": [
+    "-2147467228"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/co_e_attempt_to_create_outside_client_context/-2147467228/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

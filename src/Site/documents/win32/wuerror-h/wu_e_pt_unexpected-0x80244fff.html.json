@@ -1,0 +1,28 @@
+---
+output: win32\wuerror-h\wu_e_pt_unexpected\0x80244fff\index.html.json
+
+title: 0x80244FFF WU_E_PT_UNEXPECTED in wuerror.h
+description: A communication error not covered by another WU_E_PT_* error code.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wuerror.h",
+  "sourceUrl": "/win32/wuerror-h/",
+  "code": "0x80244FFF",
+  "codeUrl": "/win32/wuerror-h/wu_e_pt_unexpected/0x80244fff/",
+  "numericCode": -2145103873,
+  "define": "WU_E_PT_UNEXPECTED",
+  "defineUrl": "/win32/wuerror-h/wu_e_pt_unexpected/",
+  "message": "A communication error not covered by another WU_E_PT_* error code.",
+  "remarks": null,
+  "aka": [
+    "-2145103873"
+  ],
+  "akaUrl": [
+    "/win32/wuerror-h/wu_e_pt_unexpected/-2145103873/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_corrupt_log_corrupted\-2147024101\index.html.json
+canonical: /win32/winerror-h/error_corrupt_log_corrupted/795/
+title: -2147024101 ERROR_CORRUPT_LOG_CORRUPTED in winerror.h
+description: One of the volume corruption logs is internally corrupted and needs to be recreated. The volume may contain undetected corruptions and must be scanned.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147024101",
+  "codeUrl": "/win32/winerror-h/error_corrupt_log_corrupted/-2147024101/",
+  "numericCode": 0,
+  "define": "ERROR_CORRUPT_LOG_CORRUPTED",
+  "defineUrl": "/win32/winerror-h/error_corrupt_log_corrupted/",
+  "message": "One of the volume corruption logs is internally corrupted and needs to be recreated. The volume may contain undetected corruptions and must be scanned.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "795",
+  "originalCodeUrl": "/win32/winerror-h/error_corrupt_log_corrupted/795/"
+}

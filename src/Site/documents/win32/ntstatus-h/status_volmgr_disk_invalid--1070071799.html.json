@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_volmgr_disk_invalid\-1070071799\index.html.json
+canonical: /win32/ntstatus-h/status_volmgr_disk_invalid/0xc0380009/
+title: -1070071799 STATUS_VOLMGR_DISK_INVALID in ntstatus.h
+description: The specified disk is an invalid disk. Operation cannot complete on an invalid disk.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1070071799",
+  "codeUrl": "/win32/ntstatus-h/status_volmgr_disk_invalid/-1070071799/",
+  "numericCode": 0,
+  "define": "STATUS_VOLMGR_DISK_INVALID",
+  "defineUrl": "/win32/ntstatus-h/status_volmgr_disk_invalid/",
+  "message": "The specified disk is an invalid disk. Operation cannot complete on an invalid disk.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0380009",
+  "originalCodeUrl": "/win32/ntstatus-h/status_volmgr_disk_invalid/0xc0380009/"
+}

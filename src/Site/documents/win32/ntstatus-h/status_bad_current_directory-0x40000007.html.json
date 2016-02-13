@@ -1,0 +1,30 @@
+---
+output: win32\ntstatus-h\status_bad_current_directory\0x40000007\index.html.json
+
+title: 0x40000007 STATUS_BAD_CURRENT_DIRECTORY in ntstatus.h
+description: "{Invalid Current Directory}
+The process cannot switch to the startup current directory %hs.
+Select OK to set current directory to %hs, or select CANCEL to exit."
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0x40000007",
+  "codeUrl": "/win32/ntstatus-h/status_bad_current_directory/0x40000007/",
+  "numericCode": 1073741831,
+  "define": "STATUS_BAD_CURRENT_DIRECTORY",
+  "defineUrl": "/win32/ntstatus-h/status_bad_current_directory/",
+  "message": "{Invalid Current Directory}\r\nThe process cannot switch to the startup current directory %hs.\r\nSelect OK to set current directory to %hs, or select CANCEL to exit.",
+  "remarks": null,
+  "aka": [
+    "1073741831"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_bad_current_directory/1073741831/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

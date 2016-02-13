@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ds_src_obj_not_group_or_user\8538\index.html.json
+
+title: 8538 ERROR_DS_SRC_OBJ_NOT_GROUP_OR_USER in winerror.h
+description: The source object must be a group or user.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "8538",
+  "codeUrl": "/win32/winerror-h/error_ds_src_obj_not_group_or_user/8538/",
+  "numericCode": 8538,
+  "define": "ERROR_DS_SRC_OBJ_NOT_GROUP_OR_USER",
+  "defineUrl": "/win32/winerror-h/error_ds_src_obj_not_group_or_user/",
+  "message": "The source object must be a group or user.",
+  "remarks": null,
+  "aka": [
+    "0x8007215a",
+    "-2147016358"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ds_src_obj_not_group_or_user/0x8007215a/",
+    "/win32/winerror-h/error_ds_src_obj_not_group_or_user/-2147016358/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

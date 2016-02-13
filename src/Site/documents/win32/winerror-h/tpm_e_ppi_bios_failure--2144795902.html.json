@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\tpm_e_ppi_bios_failure\-2144795902\index.html.json
+canonical: /win32/winerror-h/tpm_e_ppi_bios_failure/0x80290302/
+title: -2144795902 TPM_E_PPI_BIOS_FAILURE in winerror.h
+description: The BIOS failure prevented the successful execution of the requested TPM operation (e.g. invalid TPM operation request, BIOS communication error with the TPM).
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2144795902",
+  "codeUrl": "/win32/winerror-h/tpm_e_ppi_bios_failure/-2144795902/",
+  "numericCode": 0,
+  "define": "TPM_E_PPI_BIOS_FAILURE",
+  "defineUrl": "/win32/winerror-h/tpm_e_ppi_bios_failure/",
+  "message": "The BIOS failure prevented the successful execution of the requested TPM operation (e.g. invalid TPM operation request, BIOS communication error with the TPM).",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80290302",
+  "originalCodeUrl": "/win32/winerror-h/tpm_e_ppi_bios_failure/0x80290302/"
+}

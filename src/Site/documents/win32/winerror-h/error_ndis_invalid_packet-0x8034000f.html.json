@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\error_ndis_invalid_packet\0x8034000f\index.html.json
+
+title: 0x8034000F ERROR_NDIS_INVALID_PACKET in winerror.h
+description: An attempt was made to send an invalid packet on a network interface.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8034000F",
+  "codeUrl": "/win32/winerror-h/error_ndis_invalid_packet/0x8034000f/",
+  "numericCode": -2144075761,
+  "define": "ERROR_NDIS_INVALID_PACKET",
+  "defineUrl": "/win32/winerror-h/error_ndis_invalid_packet/",
+  "message": "An attempt was made to send an invalid packet on a network interface.",
+  "remarks": null,
+  "aka": [
+    "-2144075761"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ndis_invalid_packet/-2144075761/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

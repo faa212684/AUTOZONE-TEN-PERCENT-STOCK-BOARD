@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ds_no_pkt_privacy_on_connection\8533\index.html.json
+
+title: 8533 ERROR_DS_NO_PKT_PRIVACY_ON_CONNECTION in winerror.h
+description: The connection between client and server requires packet privacy or better.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "8533",
+  "codeUrl": "/win32/winerror-h/error_ds_no_pkt_privacy_on_connection/8533/",
+  "numericCode": 8533,
+  "define": "ERROR_DS_NO_PKT_PRIVACY_ON_CONNECTION",
+  "defineUrl": "/win32/winerror-h/error_ds_no_pkt_privacy_on_connection/",
+  "message": "The connection between client and server requires packet privacy or better.",
+  "remarks": null,
+  "aka": [
+    "0x80072155",
+    "-2147016363"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ds_no_pkt_privacy_on_connection/0x80072155/",
+    "/win32/winerror-h/error_ds_no_pkt_privacy_on_connection/-2147016363/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

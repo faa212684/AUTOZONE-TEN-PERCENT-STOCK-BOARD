@@ -1,0 +1,30 @@
+---
+output: win32\ntstatus-h\status_primary_transport_connect_failed\0x0000010e\index.html.json
+
+title: 0x0000010E STATUS_PRIMARY_TRANSPORT_CONNECT_FAILED in ntstatus.h
+description: "{Connect Failure on Primary Transport}
+An attempt was made to connect to the remote server %hs on the primary transport, but the connection failed.
+The computer WAS able to connect on a secondary transport."
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0x0000010E",
+  "codeUrl": "/win32/ntstatus-h/status_primary_transport_connect_failed/0x0000010e/",
+  "numericCode": 270,
+  "define": "STATUS_PRIMARY_TRANSPORT_CONNECT_FAILED",
+  "defineUrl": "/win32/ntstatus-h/status_primary_transport_connect_failed/",
+  "message": "{Connect Failure on Primary Transport}\r\nAn attempt was made to connect to the remote server %hs on the primary transport, but the connection failed.\r\nThe computer WAS able to connect on a secondary transport.",
+  "remarks": null,
+  "aka": [
+    "270"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_primary_transport_connect_failed/270/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

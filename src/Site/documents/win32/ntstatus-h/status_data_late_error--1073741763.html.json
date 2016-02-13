@@ -1,0 +1,25 @@
+---
+output: win32\ntstatus-h\status_data_late_error\-1073741763\index.html.json
+canonical: /win32/ntstatus-h/status_data_late_error/0xc000003d/
+title: -1073741763 STATUS_DATA_LATE_ERROR in ntstatus.h
+description: "{Data Late}
+A data late error occurred."
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741763",
+  "codeUrl": "/win32/ntstatus-h/status_data_late_error/-1073741763/",
+  "numericCode": 0,
+  "define": "STATUS_DATA_LATE_ERROR",
+  "defineUrl": "/win32/ntstatus-h/status_data_late_error/",
+  "message": "{Data Late}\r\nA data late error occurred.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC000003D",
+  "originalCodeUrl": "/win32/ntstatus-h/status_data_late_error/0xc000003d/"
+}

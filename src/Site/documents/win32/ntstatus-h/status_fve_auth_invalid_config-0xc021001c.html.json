@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_fve_auth_invalid_config\0xc021001c\index.html.json
+
+title: 0xC021001C STATUS_FVE_AUTH_INVALID_CONFIG in ntstatus.h
+description: The Boot Configuration Data (BCD) settings are not supported or have changed since BitLocker was enabled.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC021001C",
+  "codeUrl": "/win32/ntstatus-h/status_fve_auth_invalid_config/0xc021001c/",
+  "numericCode": -1071579108,
+  "define": "STATUS_FVE_AUTH_INVALID_CONFIG",
+  "defineUrl": "/win32/ntstatus-h/status_fve_auth_invalid_config/",
+  "message": "The Boot Configuration Data (BCD) settings are not supported or have changed since BitLocker was enabled.",
+  "remarks": null,
+  "aka": [
+    "-1071579108"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_fve_auth_invalid_config/-1071579108/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

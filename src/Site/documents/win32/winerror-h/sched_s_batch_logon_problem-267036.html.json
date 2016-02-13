@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\sched_s_batch_logon_problem\267036\index.html.json
+canonical: /win32/winerror-h/sched_s_batch_logon_problem/0x0004131c/
+title: 267036 SCHED_S_BATCH_LOGON_PROBLEM in winerror.h
+description: The task is registered, but may fail to start. Batch logon privilege needs to be enabled for the task principal.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "267036",
+  "codeUrl": "/win32/winerror-h/sched_s_batch_logon_problem/267036/",
+  "numericCode": 0,
+  "define": "SCHED_S_BATCH_LOGON_PROBLEM",
+  "defineUrl": "/win32/winerror-h/sched_s_batch_logon_problem/",
+  "message": "The task is registered, but may fail to start. Batch logon privilege needs to be enabled for the task principal.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x0004131C",
+  "originalCodeUrl": "/win32/winerror-h/sched_s_batch_logon_problem/0x0004131c/"
+}

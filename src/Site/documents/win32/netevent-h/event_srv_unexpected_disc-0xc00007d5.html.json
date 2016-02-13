@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_srv_unexpected_disc\0xc00007d5\index.html.json
+
+title: 0xC00007D5 EVENT_SRV_UNEXPECTED_DISC in netevent.h
+description: The server received an unexpected disconnection from a client.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC00007D5",
+  "codeUrl": "/win32/netevent-h/event_srv_unexpected_disc/0xc00007d5/",
+  "numericCode": -1073739819,
+  "define": "EVENT_SRV_UNEXPECTED_DISC",
+  "defineUrl": "/win32/netevent-h/event_srv_unexpected_disc/",
+  "message": "The server received an unexpected disconnection from a client.",
+  "remarks": null,
+  "aka": [
+    "-1073739819"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_srv_unexpected_disc/-1073739819/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,29 @@
+---
+output: win32\vdserr-h\vds_s_no_notification\0x00042517\index.html.json
+
+title: 0x00042517 VDS_S_NO_NOTIFICATION in vdserr.h
+description: No volume arrival notification was received. 
+Refresh the Disk Management display.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x00042517",
+  "codeUrl": "/win32/vdserr-h/vds_s_no_notification/0x00042517/",
+  "numericCode": 271639,
+  "define": "VDS_S_NO_NOTIFICATION",
+  "defineUrl": "/win32/vdserr-h/vds_s_no_notification/",
+  "message": "No volume arrival notification was received. \r\nRefresh the Disk Management display.",
+  "remarks": null,
+  "aka": [
+    "271639"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_s_no_notification/271639/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

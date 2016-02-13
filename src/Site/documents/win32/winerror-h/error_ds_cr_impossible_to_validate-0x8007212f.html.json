@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_ds_cr_impossible_to_validate\0x8007212f\index.html.json
+canonical: /win32/winerror-h/error_ds_cr_impossible_to_validate/8495/
+title: 0x8007212f ERROR_DS_CR_IMPOSSIBLE_TO_VALIDATE in winerror.h
+description: The directory cannot validate the proposed naming context name because it does not hold a replica of the naming context above the proposed naming context. Please ensure that the domain naming master role is held by a server that is configured as a global catalog server, and that the server is up to date with its replication partners. (Applies only to Windows 2000 Domain Naming masters)
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007212f",
+  "codeUrl": "/win32/winerror-h/error_ds_cr_impossible_to_validate/0x8007212f/",
+  "numericCode": 0,
+  "define": "ERROR_DS_CR_IMPOSSIBLE_TO_VALIDATE",
+  "defineUrl": "/win32/winerror-h/error_ds_cr_impossible_to_validate/",
+  "message": "The directory cannot validate the proposed naming context name because it does not hold a replica of the naming context above the proposed naming context. Please ensure that the domain naming master role is held by a server that is configured as a global catalog server, and that the server is up to date with its replication partners. (Applies only to Windows 2000 Domain Naming masters)",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "8495",
+  "originalCodeUrl": "/win32/winerror-h/error_ds_cr_impossible_to_validate/8495/"
+}

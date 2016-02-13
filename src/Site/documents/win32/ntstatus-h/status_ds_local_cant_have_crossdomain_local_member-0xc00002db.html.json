@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_ds_local_cant_have_crossdomain_local_member\0xc00002db\index.html.json
+
+title: 0xC00002DB STATUS_DS_LOCAL_CANT_HAVE_CROSSDOMAIN_LOCAL_MEMBER in ntstatus.h
+description: A local group cannot have another cross domain local group as a member.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC00002DB",
+  "codeUrl": "/win32/ntstatus-h/status_ds_local_cant_have_crossdomain_local_member/0xc00002db/",
+  "numericCode": -1073741093,
+  "define": "STATUS_DS_LOCAL_CANT_HAVE_CROSSDOMAIN_LOCAL_MEMBER",
+  "defineUrl": "/win32/ntstatus-h/status_ds_local_cant_have_crossdomain_local_member/",
+  "message": "A local group cannot have another cross domain local group as a member.",
+  "remarks": null,
+  "aka": [
+    "-1073741093"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_ds_local_cant_have_crossdomain_local_member/-1073741093/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,24 @@
+---
+output: win32\netevent-h\event_tcpip_tcp_global_ephemeral_port_space_exhausted\-2147479417\index.html.json
+canonical: /win32/netevent-h/event_tcpip_tcp_global_ephemeral_port_space_exhausted/0x80001087/
+title: -2147479417 EVENT_TCPIP_TCP_GLOBAL_EPHEMERAL_PORT_SPACE_EXHAUSTED in netevent.h
+description: A request to allocate an ephemeral port number from the global TCP port space has failed due to all such ports being in use.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "-2147479417",
+  "codeUrl": "/win32/netevent-h/event_tcpip_tcp_global_ephemeral_port_space_exhausted/-2147479417/",
+  "numericCode": 0,
+  "define": "EVENT_TCPIP_TCP_GLOBAL_EPHEMERAL_PORT_SPACE_EXHAUSTED",
+  "defineUrl": "/win32/netevent-h/event_tcpip_tcp_global_ephemeral_port_space_exhausted/",
+  "message": "A request to allocate an ephemeral port number from the global TCP port space has failed due to all such ports being in use.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80001087",
+  "originalCodeUrl": "/win32/netevent-h/event_tcpip_tcp_global_ephemeral_port_space_exhausted/0x80001087/"
+}

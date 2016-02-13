@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_tpm_insufficient_buffer\-1071050747\index.html.json
+canonical: /win32/ntstatus-h/status_tpm_insufficient_buffer/0xc0291005/
+title: -1071050747 STATUS_TPM_INSUFFICIENT_BUFFER in ntstatus.h
+description: The caller does not have the appropriate rights to perform the requested operation.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071050747",
+  "codeUrl": "/win32/ntstatus-h/status_tpm_insufficient_buffer/-1071050747/",
+  "numericCode": 0,
+  "define": "STATUS_TPM_INSUFFICIENT_BUFFER",
+  "defineUrl": "/win32/ntstatus-h/status_tpm_insufficient_buffer/",
+  "message": "The caller does not have the appropriate rights to perform the requested operation.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0291005",
+  "originalCodeUrl": "/win32/ntstatus-h/status_tpm_insufficient_buffer/0xc0291005/"
+}

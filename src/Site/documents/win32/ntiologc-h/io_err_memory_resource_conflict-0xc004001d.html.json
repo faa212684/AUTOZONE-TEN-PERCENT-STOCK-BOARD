@@ -1,0 +1,30 @@
+---
+output: win32\ntiologc-h\io_err_memory_resource_conflict\0xc004001d\index.html.json
+
+title: 0xC004001D IO_ERR_MEMORY_RESOURCE_CONFLICT in ntiologc.h
+description: The device could not allocate one or more required resources due to conflicts
+with other devices.  The device memory setting of '%2' could not be
+satisified due to a conflict with Driver '%3'.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntiologc.h",
+  "sourceUrl": "/win32/ntiologc-h/",
+  "code": "0xC004001D",
+  "codeUrl": "/win32/ntiologc-h/io_err_memory_resource_conflict/0xc004001d/",
+  "numericCode": -1073479651,
+  "define": "IO_ERR_MEMORY_RESOURCE_CONFLICT",
+  "defineUrl": "/win32/ntiologc-h/io_err_memory_resource_conflict/",
+  "message": "The device could not allocate one or more required resources due to conflicts\r\nwith other devices.  The device memory setting of '%2' could not be\r\nsatisified due to a conflict with Driver '%3'.",
+  "remarks": null,
+  "aka": [
+    "-1073479651"
+  ],
+  "akaUrl": [
+    "/win32/ntiologc-h/io_err_memory_resource_conflict/-1073479651/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

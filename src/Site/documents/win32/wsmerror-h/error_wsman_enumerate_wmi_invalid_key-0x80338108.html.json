@@ -1,0 +1,28 @@
+---
+output: win32\wsmerror-h\error_wsman_enumerate_wmi_invalid_key\0x80338108\index.html.json
+
+title: 0x80338108 ERROR_WSMAN_ENUMERATE_WMI_INVALID_KEY in wsmerror.h
+description: The WS-Management service cannot process the request. The resource URI for an Enumerate operation must not contain keys.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x80338108",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_enumerate_wmi_invalid_key/0x80338108/",
+  "numericCode": -2144108280,
+  "define": "ERROR_WSMAN_ENUMERATE_WMI_INVALID_KEY",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_enumerate_wmi_invalid_key/",
+  "message": "The WS-Management service cannot process the request. The resource URI for an Enumerate operation must not contain keys.",
+  "remarks": null,
+  "aka": [
+    "-2144108280"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_enumerate_wmi_invalid_key/-2144108280/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

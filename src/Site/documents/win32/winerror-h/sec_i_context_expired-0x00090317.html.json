@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\sec_i_context_expired\0x00090317\index.html.json
+
+title: 0x00090317 SEC_I_CONTEXT_EXPIRED in winerror.h
+description: The context has expired and can no longer be used.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x00090317",
+  "codeUrl": "/win32/winerror-h/sec_i_context_expired/0x00090317/",
+  "numericCode": 590615,
+  "define": "SEC_I_CONTEXT_EXPIRED",
+  "defineUrl": "/win32/winerror-h/sec_i_context_expired/",
+  "message": "The context has expired and can no longer be used.",
+  "remarks": null,
+  "aka": [
+    "590615"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/sec_i_context_expired/590615/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

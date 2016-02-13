@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_device_hardware_error\0xc0000483\index.html.json
+
+title: 0xC0000483 STATUS_DEVICE_HARDWARE_ERROR in ntstatus.h
+description: The request failed due to a fatal device hardware error.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000483",
+  "codeUrl": "/win32/ntstatus-h/status_device_hardware_error/0xc0000483/",
+  "numericCode": -1073740669,
+  "define": "STATUS_DEVICE_HARDWARE_ERROR",
+  "defineUrl": "/win32/ntstatus-h/status_device_hardware_error/",
+  "message": "The request failed due to a fatal device hardware error.",
+  "remarks": null,
+  "aka": [
+    "-1073740669"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_device_hardware_error/-1073740669/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

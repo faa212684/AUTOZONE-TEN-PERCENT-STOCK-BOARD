@@ -1,0 +1,28 @@
+---
+output: bugcheck\bugcodes-h\cancel_state_in_completed_irp\0x00000048\index.html.json
+
+title: 0x00000048 CANCEL_STATE_IN_COMPLETED_IRP in bugcodes.h
+description: CANCEL_STATE_IN_COMPLETED_IRP
+disqus: true
+---
+{
+  "area": "bugcheck",
+  "areaUrl": "/bugcheck/",
+  "source": "bugcodes.h",
+  "sourceUrl": "/bugcheck/bugcodes-h/",
+  "code": "0x00000048",
+  "codeUrl": "/bugcheck/bugcodes-h/cancel_state_in_completed_irp/0x00000048/",
+  "numericCode": 72,
+  "define": "CANCEL_STATE_IN_COMPLETED_IRP",
+  "defineUrl": "/bugcheck/bugcodes-h/cancel_state_in_completed_irp/",
+  "message": "CANCEL_STATE_IN_COMPLETED_IRP",
+  "remarks": null,
+  "aka": [
+    "72"
+  ],
+  "akaUrl": [
+    "/bugcheck/bugcodes-h/cancel_state_in_completed_irp/72/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\nserror-h\ns_e_wmp_audio_device_lost\0xc00d11e5\index.html.json
+
+title: 0xC00D11E5 NS_E_WMP_AUDIO_DEVICE_LOST in nserror.h
+description: An audio device was disconnected or reconfigured. Verify that the audio device is connected, and then try to play the item again.%0
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "nserror.h",
+  "sourceUrl": "/win32/nserror-h/",
+  "code": "0xC00D11E5",
+  "codeUrl": "/win32/nserror-h/ns_e_wmp_audio_device_lost/0xc00d11e5/",
+  "numericCode": -1072885275,
+  "define": "NS_E_WMP_AUDIO_DEVICE_LOST",
+  "defineUrl": "/win32/nserror-h/ns_e_wmp_audio_device_lost/",
+  "message": "An audio device was disconnected or reconfigured. Verify that the audio device is connected, and then try to play the item again.%0",
+  "remarks": null,
+  "aka": [
+    "-1072885275"
+  ],
+  "akaUrl": [
+    "/win32/nserror-h/ns_e_wmp_audio_device_lost/-1072885275/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

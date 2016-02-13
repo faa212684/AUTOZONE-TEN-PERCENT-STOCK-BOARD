@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\xact_e_noisoretain\0x8004d00b\index.html.json
+
+title: 0x8004D00B XACT_E_NOISORETAIN in winerror.h
+description: The requested semantics of retention of isolation across retaining commit and abort boundaries cannot be supported by this transaction implementation, or isoFlags was not equal to zero.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8004D00B",
+  "codeUrl": "/win32/winerror-h/xact_e_noisoretain/0x8004d00b/",
+  "numericCode": -2147168245,
+  "define": "XACT_E_NOISORETAIN",
+  "defineUrl": "/win32/winerror-h/xact_e_noisoretain/",
+  "message": "The requested semantics of retention of isolation across retaining commit and abort boundaries cannot be supported by this transaction implementation, or isoFlags was not equal to zero.",
+  "remarks": null,
+  "aka": [
+    "-2147168245"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/xact_e_noisoretain/-2147168245/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

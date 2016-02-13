@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_e_partition_not_oem\0x8004256f\index.html.json
+
+title: 0x8004256F VDS_E_PARTITION_NOT_OEM in vdserr.h
+description: The operation is not supported on non-OEM partitions.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x8004256F",
+  "codeUrl": "/win32/vdserr-h/vds_e_partition_not_oem/0x8004256f/",
+  "numericCode": -2147211921,
+  "define": "VDS_E_PARTITION_NOT_OEM",
+  "defineUrl": "/win32/vdserr-h/vds_e_partition_not_oem/",
+  "message": "The operation is not supported on non-OEM partitions.",
+  "remarks": null,
+  "aka": [
+    "-2147211921"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_partition_not_oem/-2147211921/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

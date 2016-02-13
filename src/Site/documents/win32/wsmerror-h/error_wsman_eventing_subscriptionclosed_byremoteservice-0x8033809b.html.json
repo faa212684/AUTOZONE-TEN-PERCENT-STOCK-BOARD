@@ -1,0 +1,30 @@
+---
+output: win32\wsmerror-h\error_wsman_eventing_subscriptionclosed_byremoteservice\0x8033809b\index.html.json
+
+title: 0x8033809B ERROR_WSMAN_EVENTING_SUBSCRIPTIONCLOSED_BYREMOTESERVICE in wsmerror.h
+description: The WS-Management service on the remote machine with which this subscription had been set up has requested that the subscription be closed.
+This can happen if the WS-Management service on the remote machine was being shutdown.
+To correct this problem restart the WS-Management service on the remote machine and re-create the subscription.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x8033809B",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_eventing_subscriptionclosed_byremoteservice/0x8033809b/",
+  "numericCode": -2144108389,
+  "define": "ERROR_WSMAN_EVENTING_SUBSCRIPTIONCLOSED_BYREMOTESERVICE",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_eventing_subscriptionclosed_byremoteservice/",
+  "message": "The WS-Management service on the remote machine with which this subscription had been set up has requested that the subscription be closed.\r\nThis can happen if the WS-Management service on the remote machine was being shutdown.\r\nTo correct this problem restart the WS-Management service on the remote machine and re-create the subscription.",
+  "remarks": null,
+  "aka": [
+    "-2144108389"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_eventing_subscriptionclosed_byremoteservice/-2144108389/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

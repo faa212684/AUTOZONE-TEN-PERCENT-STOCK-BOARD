@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_path_not_found\3\index.html.json
+
+title: 3 ERROR_PATH_NOT_FOUND in winerror.h
+description: The system cannot find the path specified.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "3",
+  "codeUrl": "/win32/winerror-h/error_path_not_found/3/",
+  "numericCode": 3,
+  "define": "ERROR_PATH_NOT_FOUND",
+  "defineUrl": "/win32/winerror-h/error_path_not_found/",
+  "message": "The system cannot find the path specified.",
+  "remarks": null,
+  "aka": [
+    "0x80070003",
+    "-2147024893"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_path_not_found/0x80070003/",
+    "/win32/winerror-h/error_path_not_found/-2147024893/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

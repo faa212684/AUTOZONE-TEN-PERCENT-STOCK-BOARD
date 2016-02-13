@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_invalid_drive\15\index.html.json
+
+title: 15 ERROR_INVALID_DRIVE in winerror.h
+description: The system cannot find the drive specified.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "15",
+  "codeUrl": "/win32/winerror-h/error_invalid_drive/15/",
+  "numericCode": 15,
+  "define": "ERROR_INVALID_DRIVE",
+  "defineUrl": "/win32/winerror-h/error_invalid_drive/",
+  "message": "The system cannot find the drive specified.",
+  "remarks": null,
+  "aka": [
+    "0x8007000f",
+    "-2147024881"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_invalid_drive/0x8007000f/",
+    "/win32/winerror-h/error_invalid_drive/-2147024881/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

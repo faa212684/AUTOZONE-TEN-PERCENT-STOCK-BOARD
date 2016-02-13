@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\tpm_e_ma_authority\0x8028005f\index.html.json
+
+title: 0x8028005F TPM_E_MA_AUTHORITY in winerror.h
+description: Incorrect migration authority.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8028005F",
+  "codeUrl": "/win32/winerror-h/tpm_e_ma_authority/0x8028005f/",
+  "numericCode": -2144862113,
+  "define": "TPM_E_MA_AUTHORITY",
+  "defineUrl": "/win32/winerror-h/tpm_e_ma_authority/",
+  "message": "Incorrect migration authority.",
+  "remarks": null,
+  "aka": [
+    "-2144862113"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/tpm_e_ma_authority/-2144862113/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

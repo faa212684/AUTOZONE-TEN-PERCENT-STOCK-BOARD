@@ -1,0 +1,24 @@
+---
+output: win32\wsmerror-h\error_wsman_response_invalid_enumeration_context\-2144108303\index.html.json
+canonical: /win32/wsmerror-h/error_wsman_response_invalid_enumeration_context/0x803380f1/
+title: -2144108303 ERROR_WSMAN_RESPONSE_INVALID_ENUMERATION_CONTEXT in wsmerror.h
+description: The WinRM client cannot process the request. The response from the destination computer does not contain a valid SOAP enumeration context.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "-2144108303",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_response_invalid_enumeration_context/-2144108303/",
+  "numericCode": 0,
+  "define": "ERROR_WSMAN_RESPONSE_INVALID_ENUMERATION_CONTEXT",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_response_invalid_enumeration_context/",
+  "message": "The WinRM client cannot process the request. The response from the destination computer does not contain a valid SOAP enumeration context.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x803380F1",
+  "originalCodeUrl": "/win32/wsmerror-h/error_wsman_response_invalid_enumeration_context/0x803380f1/"
+}

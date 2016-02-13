@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_arbitration_unhandled\1073741862\index.html.json
+canonical: /win32/ntstatus-h/status_arbitration_unhandled/0x40000026/
+title: 1073741862 STATUS_ARBITRATION_UNHANDLED in ntstatus.h
+description: The arbiter has deferred arbitration of these resources to its parent
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "1073741862",
+  "codeUrl": "/win32/ntstatus-h/status_arbitration_unhandled/1073741862/",
+  "numericCode": 0,
+  "define": "STATUS_ARBITRATION_UNHANDLED",
+  "defineUrl": "/win32/ntstatus-h/status_arbitration_unhandled/",
+  "message": "The arbiter has deferred arbitration of these resources to its parent",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x40000026",
+  "originalCodeUrl": "/win32/ntstatus-h/status_arbitration_unhandled/0x40000026/"
+}

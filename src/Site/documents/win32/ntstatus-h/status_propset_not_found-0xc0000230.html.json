@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_propset_not_found\0xc0000230\index.html.json
+
+title: 0xC0000230 STATUS_PROPSET_NOT_FOUND in ntstatus.h
+description: The property set specified does not exist on the object.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000230",
+  "codeUrl": "/win32/ntstatus-h/status_propset_not_found/0xc0000230/",
+  "numericCode": -1073741264,
+  "define": "STATUS_PROPSET_NOT_FOUND",
+  "defineUrl": "/win32/ntstatus-h/status_propset_not_found/",
+  "message": "The property set specified does not exist on the object.",
+  "remarks": null,
+  "aka": [
+    "-1073741264"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_propset_not_found/-1073741264/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

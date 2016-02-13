@@ -1,0 +1,28 @@
+---
+output: win32\wsmerror-h\error_wsman_options_invalid_name\0x80338052\index.html.json
+
+title: 0x80338052 ERROR_WSMAN_OPTIONS_INVALID_NAME in wsmerror.h
+description: The WS-Management service cannot process the request because one or more of the options has an invalid name.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x80338052",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_options_invalid_name/0x80338052/",
+  "numericCode": -2144108462,
+  "define": "ERROR_WSMAN_OPTIONS_INVALID_NAME",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_options_invalid_name/",
+  "message": "The WS-Management service cannot process the request because one or more of the options has an invalid name.",
+  "remarks": null,
+  "aka": [
+    "-2144108462"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_options_invalid_name/-2144108462/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

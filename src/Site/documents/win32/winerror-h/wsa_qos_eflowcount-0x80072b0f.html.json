@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\wsa_qos_eflowcount\0x80072b0f\index.html.json
+canonical: /win32/winerror-h/wsa_qos_eflowcount/11023/
+title: 0x80072b0f WSA_QOS_EFLOWCOUNT in winerror.h
+description: An incorrect number of flow descriptors was specified in the QOS structure.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80072b0f",
+  "codeUrl": "/win32/winerror-h/wsa_qos_eflowcount/0x80072b0f/",
+  "numericCode": 0,
+  "define": "WSA_QOS_EFLOWCOUNT",
+  "defineUrl": "/win32/winerror-h/wsa_qos_eflowcount/",
+  "message": "An incorrect number of flow descriptors was specified in the QOS structure.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "11023",
+  "originalCodeUrl": "/win32/winerror-h/wsa_qos_eflowcount/11023/"
+}

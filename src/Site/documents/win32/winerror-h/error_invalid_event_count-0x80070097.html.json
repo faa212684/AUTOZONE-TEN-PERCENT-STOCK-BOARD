@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_invalid_event_count\0x80070097\index.html.json
+canonical: /win32/winerror-h/error_invalid_event_count/151/
+title: 0x80070097 ERROR_INVALID_EVENT_COUNT in winerror.h
+description: The number of specified semaphore events for DosMuxSemWait is not correct.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80070097",
+  "codeUrl": "/win32/winerror-h/error_invalid_event_count/0x80070097/",
+  "numericCode": 0,
+  "define": "ERROR_INVALID_EVENT_COUNT",
+  "defineUrl": "/win32/winerror-h/error_invalid_event_count/",
+  "message": "The number of specified semaphore events for DosMuxSemWait is not correct.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "151",
+  "originalCodeUrl": "/win32/winerror-h/error_invalid_event_count/151/"
+}

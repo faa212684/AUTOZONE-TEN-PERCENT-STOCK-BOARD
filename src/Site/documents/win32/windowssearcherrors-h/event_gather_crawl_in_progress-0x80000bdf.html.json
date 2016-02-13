@@ -1,0 +1,28 @@
+---
+output: win32\windowssearcherrors-h\event_gather_crawl_in_progress\0x80000bdf\index.html.json
+
+title: 0x80000BDF EVENT_GATHER_CRAWL_IN_PROGRESS in WindowsSearchErrors.h
+description: A request to start the update has been ignored because the update is already in progress or is scheduled on one or more content sources.%1
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "0x80000BDF",
+  "codeUrl": "/win32/windowssearcherrors-h/event_gather_crawl_in_progress/0x80000bdf/",
+  "numericCode": -2147480609,
+  "define": "EVENT_GATHER_CRAWL_IN_PROGRESS",
+  "defineUrl": "/win32/windowssearcherrors-h/event_gather_crawl_in_progress/",
+  "message": "A request to start the update has been ignored because the update is already in progress or is scheduled on one or more content sources.%1",
+  "remarks": null,
+  "aka": [
+    "-2147480609"
+  ],
+  "akaUrl": [
+    "/win32/windowssearcherrors-h/event_gather_crawl_in_progress/-2147480609/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

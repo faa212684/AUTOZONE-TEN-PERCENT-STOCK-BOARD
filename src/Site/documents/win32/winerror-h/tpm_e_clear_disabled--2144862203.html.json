@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\tpm_e_clear_disabled\-2144862203\index.html.json
+canonical: /win32/winerror-h/tpm_e_clear_disabled/0x80280005/
+title: -2144862203 TPM_E_CLEAR_DISABLED in winerror.h
+description: The clear disable flag is set and all clear operations now require physical access.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2144862203",
+  "codeUrl": "/win32/winerror-h/tpm_e_clear_disabled/-2144862203/",
+  "numericCode": 0,
+  "define": "TPM_E_CLEAR_DISABLED",
+  "defineUrl": "/win32/winerror-h/tpm_e_clear_disabled/",
+  "message": "The clear disable flag is set and all clear operations now require physical access.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80280005",
+  "originalCodeUrl": "/win32/winerror-h/tpm_e_clear_disabled/0x80280005/"
+}

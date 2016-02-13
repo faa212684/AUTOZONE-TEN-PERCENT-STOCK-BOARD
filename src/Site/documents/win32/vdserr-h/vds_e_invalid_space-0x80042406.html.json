@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_e_invalid_space\0x80042406\index.html.json
+
+title: 0x80042406 VDS_E_INVALID_SPACE in vdserr.h
+description: The specified space is not free or not valid.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x80042406",
+  "codeUrl": "/win32/vdserr-h/vds_e_invalid_space/0x80042406/",
+  "numericCode": -2147212282,
+  "define": "VDS_E_INVALID_SPACE",
+  "defineUrl": "/win32/vdserr-h/vds_e_invalid_space/",
+  "message": "The specified space is not free or not valid.",
+  "remarks": null,
+  "aka": [
+    "-2147212282"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_invalid_space/-2147212282/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

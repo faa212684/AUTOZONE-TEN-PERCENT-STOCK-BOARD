@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\dns_error_secondary_requires_master_ip\9612\index.html.json
+
+title: 9612 DNS_ERROR_SECONDARY_REQUIRES_MASTER_IP in winerror.h
+description: Secondary DNS zone requires master IP address.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "9612",
+  "codeUrl": "/win32/winerror-h/dns_error_secondary_requires_master_ip/9612/",
+  "numericCode": 9612,
+  "define": "DNS_ERROR_SECONDARY_REQUIRES_MASTER_IP",
+  "defineUrl": "/win32/winerror-h/dns_error_secondary_requires_master_ip/",
+  "message": "Secondary DNS zone requires master IP address.",
+  "remarks": null,
+  "aka": [
+    "0x8007258c",
+    "-2147015284"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/dns_error_secondary_requires_master_ip/0x8007258c/",
+    "/win32/winerror-h/dns_error_secondary_requires_master_ip/-2147015284/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

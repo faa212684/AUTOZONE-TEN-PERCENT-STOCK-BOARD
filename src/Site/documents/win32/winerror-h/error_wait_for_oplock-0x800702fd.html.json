@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_wait_for_oplock\0x800702fd\index.html.json
+canonical: /win32/winerror-h/error_wait_for_oplock/765/
+title: 0x800702fd ERROR_WAIT_FOR_OPLOCK in winerror.h
+description: An operation is blocked waiting for an oplock.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800702fd",
+  "codeUrl": "/win32/winerror-h/error_wait_for_oplock/0x800702fd/",
+  "numericCode": 0,
+  "define": "ERROR_WAIT_FOR_OPLOCK",
+  "defineUrl": "/win32/winerror-h/error_wait_for_oplock/",
+  "message": "An operation is blocked waiting for an oplock.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "765",
+  "originalCodeUrl": "/win32/winerror-h/error_wait_for_oplock/765/"
+}

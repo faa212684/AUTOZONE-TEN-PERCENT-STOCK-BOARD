@@ -1,0 +1,28 @@
+---
+output: win32\oledberr-h\db_s_cantrelease\0x00040eca\index.html.json
+
+title: 0x00040ECA DB_S_CANTRELEASE in oledberr.h
+description: Server cannot release or downgrade a lock until the end of the transaction.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "oledberr.h",
+  "sourceUrl": "/win32/oledberr-h/",
+  "code": "0x00040ECA",
+  "codeUrl": "/win32/oledberr-h/db_s_cantrelease/0x00040eca/",
+  "numericCode": 265930,
+  "define": "DB_S_CANTRELEASE",
+  "defineUrl": "/win32/oledberr-h/db_s_cantrelease/",
+  "message": "Server cannot release or downgrade a lock until the end of the transaction.",
+  "remarks": null,
+  "aka": [
+    "265930"
+  ],
+  "akaUrl": [
+    "/win32/oledberr-h/db_s_cantrelease/265930/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\extra_exit_point\0xc00037dc\index.html.json
+
+title: 0xC00037DC EXTRA_EXIT_POINT in netevent.h
+description: An extra ExitPoint %2 was found at server %3
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC00037DC",
+  "codeUrl": "/win32/netevent-h/extra_exit_point/0xc00037dc/",
+  "numericCode": -1073727524,
+  "define": "EXTRA_EXIT_POINT",
+  "defineUrl": "/win32/netevent-h/extra_exit_point/",
+  "message": "An extra ExitPoint %2 was found at server %3",
+  "remarks": null,
+  "aka": [
+    "-1073727524"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/extra_exit_point/-1073727524/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\spapi_e_pnp_registry_error\0x800f023a\index.html.json
+
+title: 0x800F023A SPAPI_E_PNP_REGISTRY_ERROR in winerror.h
+description: A problem was encountered when accessing the Plug and Play registry database.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800F023A",
+  "codeUrl": "/win32/winerror-h/spapi_e_pnp_registry_error/0x800f023a/",
+  "numericCode": -2146500038,
+  "define": "SPAPI_E_PNP_REGISTRY_ERROR",
+  "defineUrl": "/win32/winerror-h/spapi_e_pnp_registry_error/",
+  "message": "A problem was encountered when accessing the Plug and Play registry database.",
+  "remarks": null,
+  "aka": [
+    "-2146500038"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/spapi_e_pnp_registry_error/-2146500038/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

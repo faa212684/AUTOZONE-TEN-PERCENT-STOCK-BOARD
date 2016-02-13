@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\wsaeacces\10013\index.html.json
+
+title: 10013 WSAEACCES in winerror.h
+description: An attempt was made to access a socket in a way forbidden by its access permissions.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "10013",
+  "codeUrl": "/win32/winerror-h/wsaeacces/10013/",
+  "numericCode": 10013,
+  "define": "WSAEACCES",
+  "defineUrl": "/win32/winerror-h/wsaeacces/",
+  "message": "An attempt was made to access a socket in a way forbidden by its access permissions.",
+  "remarks": null,
+  "aka": [
+    "0x8007271d",
+    "-2147014883"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/wsaeacces/0x8007271d/",
+    "/win32/winerror-h/wsaeacces/-2147014883/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

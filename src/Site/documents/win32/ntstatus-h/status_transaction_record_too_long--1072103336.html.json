@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_transaction_record_too_long\-1072103336\index.html.json
+canonical: /win32/ntstatus-h/status_transaction_record_too_long/0xc0190058/
+title: -1072103336 STATUS_TRANSACTION_RECORD_TOO_LONG in ntstatus.h
+description: The specified operation could not be performed, because the record that would be logged was too long. This can occur because of two conditions:  either there are too many Enlistments on this Transaction, or the combined RecoveryInformation being logged on behalf of those Enlistments is too long.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1072103336",
+  "codeUrl": "/win32/ntstatus-h/status_transaction_record_too_long/-1072103336/",
+  "numericCode": 0,
+  "define": "STATUS_TRANSACTION_RECORD_TOO_LONG",
+  "defineUrl": "/win32/ntstatus-h/status_transaction_record_too_long/",
+  "message": "The specified operation could not be performed, because the record that would be logged was too long. This can occur because of two conditions:  either there are too many Enlistments on this Transaction, or the combined RecoveryInformation being logged on behalf of those Enlistments is too long.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0190058",
+  "originalCodeUrl": "/win32/ntstatus-h/status_transaction_record_too_long/0xc0190058/"
+}

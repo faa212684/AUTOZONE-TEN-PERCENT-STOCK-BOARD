@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\frs_err_service_comm\8006\index.html.json
+
+title: 8006 FRS_ERR_SERVICE_COMM in winerror.h
+description: The file replication service cannot be contacted. The event log may have more information.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "8006",
+  "codeUrl": "/win32/winerror-h/frs_err_service_comm/8006/",
+  "numericCode": 8006,
+  "define": "FRS_ERR_SERVICE_COMM",
+  "defineUrl": "/win32/winerror-h/frs_err_service_comm/",
+  "message": "The file replication service cannot be contacted. The event log may have more information.",
+  "remarks": null,
+  "aka": [
+    "0x80071f46",
+    "-2147016890"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/frs_err_service_comm/0x80071f46/",
+    "/win32/winerror-h/frs_err_service_comm/-2147016890/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

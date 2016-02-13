@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_ds_gc_required\0x80072163\index.html.json
+canonical: /win32/winerror-h/error_ds_gc_required/8547/
+title: 0x80072163 ERROR_DS_GC_REQUIRED in winerror.h
+description: The requested operation can be performed only on a global catalog server.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80072163",
+  "codeUrl": "/win32/winerror-h/error_ds_gc_required/0x80072163/",
+  "numericCode": 0,
+  "define": "ERROR_DS_GC_REQUIRED",
+  "defineUrl": "/win32/winerror-h/error_ds_gc_required/",
+  "message": "The requested operation can be performed only on a global catalog server.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "8547",
+  "originalCodeUrl": "/win32/winerror-h/error_ds_gc_required/8547/"
+}

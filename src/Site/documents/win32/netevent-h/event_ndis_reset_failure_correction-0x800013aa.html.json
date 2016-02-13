@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_ndis_reset_failure_correction\0x800013aa\index.html.json
+
+title: 0x800013AA EVENT_NDIS_RESET_FAILURE_CORRECTION in netevent.h
+description: %2 : The network adapter has successfully completed a previously failed reset.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x800013AA",
+  "codeUrl": "/win32/netevent-h/event_ndis_reset_failure_correction/0x800013aa/",
+  "numericCode": -2147478614,
+  "define": "EVENT_NDIS_RESET_FAILURE_CORRECTION",
+  "defineUrl": "/win32/netevent-h/event_ndis_reset_failure_correction/",
+  "message": "%2 : The network adapter has successfully completed a previously failed reset.",
+  "remarks": null,
+  "aka": [
+    "-2147478614"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_ndis_reset_failure_correction/-2147478614/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

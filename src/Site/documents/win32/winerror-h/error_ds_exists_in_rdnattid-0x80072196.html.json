@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_ds_exists_in_rdnattid\0x80072196\index.html.json
+canonical: /win32/winerror-h/error_ds_exists_in_rdnattid/8598/
+title: 0x80072196 ERROR_DS_EXISTS_IN_RDNATTID in winerror.h
+description: Schema deletion failed: attribute is used in rDNAttID.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80072196",
+  "codeUrl": "/win32/winerror-h/error_ds_exists_in_rdnattid/0x80072196/",
+  "numericCode": 0,
+  "define": "ERROR_DS_EXISTS_IN_RDNATTID",
+  "defineUrl": "/win32/winerror-h/error_ds_exists_in_rdnattid/",
+  "message": "Schema deletion failed: attribute is used in rDNAttID.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "8598",
+  "originalCodeUrl": "/win32/winerror-h/error_ds_exists_in_rdnattid/8598/"
+}

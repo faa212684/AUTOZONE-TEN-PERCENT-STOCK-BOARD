@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_rollback_timer_expired\0xc019003c\index.html.json
+
+title: 0xC019003C STATUS_ROLLBACK_TIMER_EXPIRED in ntstatus.h
+description: A rollback could not be scheduled because a previously scheduled rollback has already executed or been queued for execution.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC019003C",
+  "codeUrl": "/win32/ntstatus-h/status_rollback_timer_expired/0xc019003c/",
+  "numericCode": -1072103364,
+  "define": "STATUS_ROLLBACK_TIMER_EXPIRED",
+  "defineUrl": "/win32/ntstatus-h/status_rollback_timer_expired/",
+  "message": "A rollback could not be scheduled because a previously scheduled rollback has already executed or been queued for execution.",
+  "remarks": null,
+  "aka": [
+    "-1072103364"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_rollback_timer_expired/-1072103364/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

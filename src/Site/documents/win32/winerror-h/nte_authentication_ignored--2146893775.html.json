@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\nte_authentication_ignored\-2146893775\index.html.json
+canonical: /win32/winerror-h/nte_authentication_ignored/0x80090031/
+title: -2146893775 NTE_AUTHENTICATION_IGNORED in winerror.h
+description: The dictionary attack mitigation is triggered and the provided authorization was ignored by the provider.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2146893775",
+  "codeUrl": "/win32/winerror-h/nte_authentication_ignored/-2146893775/",
+  "numericCode": 0,
+  "define": "NTE_AUTHENTICATION_IGNORED",
+  "defineUrl": "/win32/winerror-h/nte_authentication_ignored/",
+  "message": "The dictionary attack mitigation is triggered and the provided authorization was ignored by the provider.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80090031",
+  "originalCodeUrl": "/win32/winerror-h/nte_authentication_ignored/0x80090031/"
+}

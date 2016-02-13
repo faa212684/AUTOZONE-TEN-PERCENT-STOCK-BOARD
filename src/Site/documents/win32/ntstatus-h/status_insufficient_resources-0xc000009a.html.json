@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_insufficient_resources\0xc000009a\index.html.json
+
+title: 0xC000009A STATUS_INSUFFICIENT_RESOURCES in ntstatus.h
+description: Insufficient system resources exist to complete the API.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000009A",
+  "codeUrl": "/win32/ntstatus-h/status_insufficient_resources/0xc000009a/",
+  "numericCode": -1073741670,
+  "define": "STATUS_INSUFFICIENT_RESOURCES",
+  "defineUrl": "/win32/ntstatus-h/status_insufficient_resources/",
+  "message": "Insufficient system resources exist to complete the API.",
+  "remarks": null,
+  "aka": [
+    "-1073741670"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_insufficient_resources/-1073741670/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

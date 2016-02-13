@@ -1,0 +1,28 @@
+---
+output: win32\fltwinerror-h\error_flt_must_be_nonpaged_pool\0x801f000c\index.html.json
+
+title: 0x801F000C ERROR_FLT_MUST_BE_NONPAGED_POOL in fltWinError.h
+description: Non-paged pool must be used for this type of context.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "fltWinError.h",
+  "sourceUrl": "/win32/fltwinerror-h/",
+  "code": "0x801F000C",
+  "codeUrl": "/win32/fltwinerror-h/error_flt_must_be_nonpaged_pool/0x801f000c/",
+  "numericCode": -2145452020,
+  "define": "ERROR_FLT_MUST_BE_NONPAGED_POOL",
+  "defineUrl": "/win32/fltwinerror-h/error_flt_must_be_nonpaged_pool/",
+  "message": "Non-paged pool must be used for this type of context.",
+  "remarks": null,
+  "aka": [
+    "-2145452020"
+  ],
+  "akaUrl": [
+    "/win32/fltwinerror-h/error_flt_must_be_nonpaged_pool/-2145452020/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

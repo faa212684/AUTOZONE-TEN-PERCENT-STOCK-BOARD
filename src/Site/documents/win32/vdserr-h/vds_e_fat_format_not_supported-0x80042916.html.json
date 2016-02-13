@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_e_fat_format_not_supported\0x80042916\index.html.json
+
+title: 0x80042916 VDS_E_FAT_FORMAT_NOT_SUPPORTED in vdserr.h
+description: The FAT file system format is not supported on this volume.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x80042916",
+  "codeUrl": "/win32/vdserr-h/vds_e_fat_format_not_supported/0x80042916/",
+  "numericCode": -2147210986,
+  "define": "VDS_E_FAT_FORMAT_NOT_SUPPORTED",
+  "defineUrl": "/win32/vdserr-h/vds_e_fat_format_not_supported/",
+  "message": "The FAT file system format is not supported on this volume.",
+  "remarks": null,
+  "aka": [
+    "-2147210986"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_fat_format_not_supported/-2147210986/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

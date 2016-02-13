@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\co_e_runas_logon_failure\0x8000401a\index.html.json
+
+title: 0x8000401A CO_E_RUNAS_LOGON_FAILURE in winerror.h
+description: The server process could not be started because the configured identity is incorrect. Check the username and password.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8000401A",
+  "codeUrl": "/win32/winerror-h/co_e_runas_logon_failure/0x8000401a/",
+  "numericCode": -2147467238,
+  "define": "CO_E_RUNAS_LOGON_FAILURE",
+  "defineUrl": "/win32/winerror-h/co_e_runas_logon_failure/",
+  "message": "The server process could not be started because the configured identity is incorrect. Check the username and password.",
+  "remarks": null,
+  "aka": [
+    "-2147467238"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/co_e_runas_logon_failure/-2147467238/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

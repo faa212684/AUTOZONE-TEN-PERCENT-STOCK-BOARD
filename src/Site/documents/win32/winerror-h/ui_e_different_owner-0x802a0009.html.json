@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\ui_e_different_owner\0x802a0009\index.html.json
+
+title: 0x802A0009 UI_E_DIFFERENT_OWNER in winerror.h
+description: A parameter that should be owned by this object is owned by a different object.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x802A0009",
+  "codeUrl": "/win32/winerror-h/ui_e_different_owner/0x802a0009/",
+  "numericCode": -2144731127,
+  "define": "UI_E_DIFFERENT_OWNER",
+  "defineUrl": "/win32/winerror-h/ui_e_different_owner/",
+  "message": "A parameter that should be owned by this object is owned by a different object.",
+  "remarks": null,
+  "aka": [
+    "-2144731127"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/ui_e_different_owner/-2144731127/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\ntiologc-h\io_warning_soft_threshold_reached_ex_pool_pool\0x80040095\index.html.json
+
+title: 0x80040095 IO_WARNING_SOFT_THRESHOLD_REACHED_EX_POOL_POOL in ntiologc.h
+description: Disk %2 has crossed a capacity utilization threshold. When the threshold was crossed, %3 bytes from the pool were used and the pool had %4 bytes of remaining capacity.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntiologc.h",
+  "sourceUrl": "/win32/ntiologc-h/",
+  "code": "0x80040095",
+  "codeUrl": "/win32/ntiologc-h/io_warning_soft_threshold_reached_ex_pool_pool/0x80040095/",
+  "numericCode": -2147221355,
+  "define": "IO_WARNING_SOFT_THRESHOLD_REACHED_EX_POOL_POOL",
+  "defineUrl": "/win32/ntiologc-h/io_warning_soft_threshold_reached_ex_pool_pool/",
+  "message": "Disk %2 has crossed a capacity utilization threshold. When the threshold was crossed, %3 bytes from the pool were used and the pool had %4 bytes of remaining capacity.",
+  "remarks": null,
+  "aka": [
+    "-2147221355"
+  ],
+  "akaUrl": [
+    "/win32/ntiologc-h/io_warning_soft_threshold_reached_ex_pool_pool/-2147221355/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

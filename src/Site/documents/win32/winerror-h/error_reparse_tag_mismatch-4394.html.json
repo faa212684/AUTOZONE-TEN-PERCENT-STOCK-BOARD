@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_reparse_tag_mismatch\4394\index.html.json
+
+title: 4394 ERROR_REPARSE_TAG_MISMATCH in winerror.h
+description: There is a mismatch between the tag specified in the request and the tag present in the reparse point.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "4394",
+  "codeUrl": "/win32/winerror-h/error_reparse_tag_mismatch/4394/",
+  "numericCode": 4394,
+  "define": "ERROR_REPARSE_TAG_MISMATCH",
+  "defineUrl": "/win32/winerror-h/error_reparse_tag_mismatch/",
+  "message": "There is a mismatch between the tag specified in the request and the tag present in the reparse point.",
+  "remarks": null,
+  "aka": [
+    "0x8007112a",
+    "-2147020502"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_reparse_tag_mismatch/0x8007112a/",
+    "/win32/winerror-h/error_reparse_tag_mismatch/-2147020502/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

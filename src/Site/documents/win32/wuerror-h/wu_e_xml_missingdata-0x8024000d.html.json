@@ -1,0 +1,28 @@
+---
+output: win32\wuerror-h\wu_e_xml_missingdata\0x8024000d\index.html.json
+
+title: 0x8024000D WU_E_XML_MISSINGDATA in wuerror.h
+description: Windows Update Agent could not find required information in the update's XML data.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wuerror.h",
+  "sourceUrl": "/win32/wuerror-h/",
+  "code": "0x8024000D",
+  "codeUrl": "/win32/wuerror-h/wu_e_xml_missingdata/0x8024000d/",
+  "numericCode": -2145124339,
+  "define": "WU_E_XML_MISSINGDATA",
+  "defineUrl": "/win32/wuerror-h/wu_e_xml_missingdata/",
+  "message": "Windows Update Agent could not find required information in the update's XML data.",
+  "remarks": null,
+  "aka": [
+    "-2145124339"
+  ],
+  "akaUrl": [
+    "/win32/wuerror-h/wu_e_xml_missingdata/-2145124339/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

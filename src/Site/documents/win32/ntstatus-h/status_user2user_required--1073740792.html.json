@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_user2user_required\-1073740792\index.html.json
+canonical: /win32/ntstatus-h/status_user2user_required/0xc0000408/
+title: -1073740792 STATUS_USER2USER_REQUIRED in ntstatus.h
+description: Kerberos sub-protocol User2User is required.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073740792",
+  "codeUrl": "/win32/ntstatus-h/status_user2user_required/-1073740792/",
+  "numericCode": 0,
+  "define": "STATUS_USER2USER_REQUIRED",
+  "defineUrl": "/win32/ntstatus-h/status_user2user_required/",
+  "message": "Kerberos sub-protocol User2User is required.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000408",
+  "originalCodeUrl": "/win32/ntstatus-h/status_user2user_required/0xc0000408/"
+}

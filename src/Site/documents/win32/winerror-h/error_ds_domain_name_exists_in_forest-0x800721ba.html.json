@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_ds_domain_name_exists_in_forest\0x800721ba\index.html.json
+canonical: /win32/winerror-h/error_ds_domain_name_exists_in_forest/8634/
+title: 0x800721ba ERROR_DS_DOMAIN_NAME_EXISTS_IN_FOREST in winerror.h
+description: The domain name of the trusted domain already exists in the forest.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800721ba",
+  "codeUrl": "/win32/winerror-h/error_ds_domain_name_exists_in_forest/0x800721ba/",
+  "numericCode": 0,
+  "define": "ERROR_DS_DOMAIN_NAME_EXISTS_IN_FOREST",
+  "defineUrl": "/win32/winerror-h/error_ds_domain_name_exists_in_forest/",
+  "message": "The domain name of the trusted domain already exists in the forest.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "8634",
+  "originalCodeUrl": "/win32/winerror-h/error_ds_domain_name_exists_in_forest/8634/"
+}

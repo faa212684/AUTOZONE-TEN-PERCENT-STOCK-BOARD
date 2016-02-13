@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\rpc_e_server_cantmarshal_data\0x8001000d\index.html.json
+
+title: 0x8001000D RPC_E_SERVER_CANTMARSHAL_DATA in winerror.h
+description: The server (callee) cannot marshall the return data - low memory, etc.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8001000D",
+  "codeUrl": "/win32/winerror-h/rpc_e_server_cantmarshal_data/0x8001000d/",
+  "numericCode": -2147418099,
+  "define": "RPC_E_SERVER_CANTMARSHAL_DATA",
+  "defineUrl": "/win32/winerror-h/rpc_e_server_cantmarshal_data/",
+  "message": "The server (callee) cannot marshall the return data - low memory, etc.",
+  "remarks": null,
+  "aka": [
+    "-2147418099"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/rpc_e_server_cantmarshal_data/-2147418099/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

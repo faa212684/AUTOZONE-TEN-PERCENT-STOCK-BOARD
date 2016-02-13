@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_cardbus_not_supported\0x800702d4\index.html.json
+canonical: /win32/winerror-h/error_cardbus_not_supported/724/
+title: 0x800702d4 ERROR_CARDBUS_NOT_SUPPORTED in winerror.h
+description: The inserted CardBus device cannot be started because of a configuration error on "%hs".
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800702d4",
+  "codeUrl": "/win32/winerror-h/error_cardbus_not_supported/0x800702d4/",
+  "numericCode": 0,
+  "define": "ERROR_CARDBUS_NOT_SUPPORTED",
+  "defineUrl": "/win32/winerror-h/error_cardbus_not_supported/",
+  "message": "The inserted CardBus device cannot be started because of a configuration error on \"%hs\".",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "724",
+  "originalCodeUrl": "/win32/winerror-h/error_cardbus_not_supported/724/"
+}

@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\rpc_nt_ss_handles_mismatch\0xc0030007\index.html.json
+
+title: 0xC0030007 RPC_NT_SS_HANDLES_MISMATCH in ntstatus.h
+description: The binding handles passed to a remote procedure call do not match.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0030007",
+  "codeUrl": "/win32/ntstatus-h/rpc_nt_ss_handles_mismatch/0xc0030007/",
+  "numericCode": -1073545209,
+  "define": "RPC_NT_SS_HANDLES_MISMATCH",
+  "defineUrl": "/win32/ntstatus-h/rpc_nt_ss_handles_mismatch/",
+  "message": "The binding handles passed to a remote procedure call do not match.",
+  "remarks": null,
+  "aka": [
+    "-1073545209"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/rpc_nt_ss_handles_mismatch/-1073545209/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

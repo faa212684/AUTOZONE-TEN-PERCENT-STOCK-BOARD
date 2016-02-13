@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\certsrv_e_no_cert_type\0x80094801\index.html.json
+
+title: 0x80094801 CERTSRV_E_NO_CERT_TYPE in winerror.h
+description: The request contains no certificate template information.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80094801",
+  "codeUrl": "/win32/winerror-h/certsrv_e_no_cert_type/0x80094801/",
+  "numericCode": -2146875391,
+  "define": "CERTSRV_E_NO_CERT_TYPE",
+  "defineUrl": "/win32/winerror-h/certsrv_e_no_cert_type/",
+  "message": "The request contains no certificate template information.",
+  "remarks": null,
+  "aka": [
+    "-2146875391"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/certsrv_e_no_cert_type/-2146875391/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

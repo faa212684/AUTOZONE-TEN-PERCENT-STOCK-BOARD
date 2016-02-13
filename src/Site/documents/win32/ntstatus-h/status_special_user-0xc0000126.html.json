@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_special_user\0xc0000126\index.html.json
+
+title: 0xC0000126 STATUS_SPECIAL_USER in ntstatus.h
+description: The operation requested may not be performed on the specified user because it is a built-in special user.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000126",
+  "codeUrl": "/win32/ntstatus-h/status_special_user/0xc0000126/",
+  "numericCode": -1073741530,
+  "define": "STATUS_SPECIAL_USER",
+  "defineUrl": "/win32/ntstatus-h/status_special_user/",
+  "message": "The operation requested may not be performed on the specified user because it is a built-in special user.",
+  "remarks": null,
+  "aka": [
+    "-1073741530"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_special_user/-1073741530/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_license_quota_exceeded\-2147023501\index.html.json
+canonical: /win32/winerror-h/error_license_quota_exceeded/1395/
+title: -2147023501 ERROR_LICENSE_QUOTA_EXCEEDED in winerror.h
+description: The service being accessed is licensed for a particular number of connections. No more connections can be made to the service at this time because there are already as many connections as the service can accept.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147023501",
+  "codeUrl": "/win32/winerror-h/error_license_quota_exceeded/-2147023501/",
+  "numericCode": 0,
+  "define": "ERROR_LICENSE_QUOTA_EXCEEDED",
+  "defineUrl": "/win32/winerror-h/error_license_quota_exceeded/",
+  "message": "The service being accessed is licensed for a particular number of connections. No more connections can be made to the service at this time because there are already as many connections as the service can accept.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "1395",
+  "originalCodeUrl": "/win32/winerror-h/error_license_quota_exceeded/1395/"
+}

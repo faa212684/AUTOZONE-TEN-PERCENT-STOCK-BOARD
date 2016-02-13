@@ -1,0 +1,28 @@
+---
+output: win32\scarderr-h\scard_e_system_cancelled\0x80100012\index.html.json
+
+title: 0x80100012 SCARD_E_SYSTEM_CANCELLED in SCardErr.h
+description: The action was cancelled by the system, presumably to log off or shut down.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "SCardErr.h",
+  "sourceUrl": "/win32/scarderr-h/",
+  "code": "0x80100012",
+  "codeUrl": "/win32/scarderr-h/scard_e_system_cancelled/0x80100012/",
+  "numericCode": -2146435054,
+  "define": "SCARD_E_SYSTEM_CANCELLED",
+  "defineUrl": "/win32/scarderr-h/scard_e_system_cancelled/",
+  "message": "The action was cancelled by the system, presumably to log off or shut down.",
+  "remarks": null,
+  "aka": [
+    "-2146435054"
+  ],
+  "akaUrl": [
+    "/win32/scarderr-h/scard_e_system_cancelled/-2146435054/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

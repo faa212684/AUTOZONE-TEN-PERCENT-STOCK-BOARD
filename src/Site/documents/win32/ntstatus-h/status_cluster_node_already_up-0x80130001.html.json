@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_cluster_node_already_up\0x80130001\index.html.json
+
+title: 0x80130001 STATUS_CLUSTER_NODE_ALREADY_UP in ntstatus.h
+description: The cluster node is already up.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0x80130001",
+  "codeUrl": "/win32/ntstatus-h/status_cluster_node_already_up/0x80130001/",
+  "numericCode": -2146238463,
+  "define": "STATUS_CLUSTER_NODE_ALREADY_UP",
+  "defineUrl": "/win32/ntstatus-h/status_cluster_node_already_up/",
+  "message": "The cluster node is already up.",
+  "remarks": null,
+  "aka": [
+    "-2146238463"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_cluster_node_already_up/-2146238463/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

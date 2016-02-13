@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_flt_do_not_detach\0xc01c0010\index.html.json
+
+title: 0xC01C0010 STATUS_FLT_DO_NOT_DETACH in ntstatus.h
+description: Do not detach the filter from the volume at this time.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC01C0010",
+  "codeUrl": "/win32/ntstatus-h/status_flt_do_not_detach/0xc01c0010/",
+  "numericCode": -1071906800,
+  "define": "STATUS_FLT_DO_NOT_DETACH",
+  "defineUrl": "/win32/ntstatus-h/status_flt_do_not_detach/",
+  "message": "Do not detach the filter from the volume at this time.",
+  "remarks": null,
+  "aka": [
+    "-1071906800"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_flt_do_not_detach/-1071906800/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

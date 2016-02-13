@@ -1,0 +1,28 @@
+---
+output: win32\scarderr-h\scard_e_invalid_atr\0x80100015\index.html.json
+
+title: 0x80100015 SCARD_E_INVALID_ATR in SCardErr.h
+description: An ATR obtained from the registry is not a valid ATR string.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "SCardErr.h",
+  "sourceUrl": "/win32/scarderr-h/",
+  "code": "0x80100015",
+  "codeUrl": "/win32/scarderr-h/scard_e_invalid_atr/0x80100015/",
+  "numericCode": -2146435051,
+  "define": "SCARD_E_INVALID_ATR",
+  "defineUrl": "/win32/scarderr-h/scard_e_invalid_atr/",
+  "message": "An ATR obtained from the registry is not a valid ATR string.",
+  "remarks": null,
+  "aka": [
+    "-2146435051"
+  ],
+  "akaUrl": [
+    "/win32/scarderr-h/scard_e_invalid_atr/-2146435051/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

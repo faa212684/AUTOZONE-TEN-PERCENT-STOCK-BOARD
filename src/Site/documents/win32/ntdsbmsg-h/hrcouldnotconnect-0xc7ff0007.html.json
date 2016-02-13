@@ -1,0 +1,29 @@
+---
+output: win32\ntdsbmsg-h\hrcouldnotconnect\0xc7ff0007\index.html.json
+
+title: 0xC7FF0007 hrCouldNotConnect in NtDsBMsg.h
+description: Unable to perform the backup. Either you are not connected to the specified backup server
+or the service you are trying to backup is not running.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "NtDsBMsg.h",
+  "sourceUrl": "/win32/ntdsbmsg-h/",
+  "code": "0xC7FF0007",
+  "codeUrl": "/win32/ntdsbmsg-h/hrcouldnotconnect/0xc7ff0007/",
+  "numericCode": -939589625,
+  "define": "hrCouldNotConnect",
+  "defineUrl": "/win32/ntdsbmsg-h/hrcouldnotconnect/",
+  "message": "Unable to perform the backup. Either you are not connected to the specified backup server\r\nor the service you are trying to backup is not running.",
+  "remarks": null,
+  "aka": [
+    "-939589625"
+  ],
+  "akaUrl": [
+    "/win32/ntdsbmsg-h/hrcouldnotconnect/-939589625/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

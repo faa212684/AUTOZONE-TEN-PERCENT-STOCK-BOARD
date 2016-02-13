@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_e_volume_retained\0x80042551\index.html.json
+
+title: 0x80042551 VDS_E_VOLUME_RETAINED in vdserr.h
+description: The volume already has a retained partition association.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x80042551",
+  "codeUrl": "/win32/vdserr-h/vds_e_volume_retained/0x80042551/",
+  "numericCode": -2147211951,
+  "define": "VDS_E_VOLUME_RETAINED",
+  "defineUrl": "/win32/vdserr-h/vds_e_volume_retained/",
+  "message": "The volume already has a retained partition association.",
+  "remarks": null,
+  "aka": [
+    "-2147211951"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_volume_retained/-2147211951/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

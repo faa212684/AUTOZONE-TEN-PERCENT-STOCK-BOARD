@@ -1,0 +1,29 @@
+---
+output: win32\vdserr-h\vds_e_revert_on_close\0x80042458\index.html.json
+
+title: 0x80042458 VDS_E_REVERT_ON_CLOSE in vdserr.h
+description: REVERT ON CLOSE may only be used with GPT flags HIDDEN, READ ONLY, 
+NO DRIVE LETTER or SHADOW COPY.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x80042458",
+  "codeUrl": "/win32/vdserr-h/vds_e_revert_on_close/0x80042458/",
+  "numericCode": -2147212200,
+  "define": "VDS_E_REVERT_ON_CLOSE",
+  "defineUrl": "/win32/vdserr-h/vds_e_revert_on_close/",
+  "message": "REVERT ON CLOSE may only be used with GPT flags HIDDEN, READ ONLY, \r\nNO DRIVE LETTER or SHADOW COPY.",
+  "remarks": null,
+  "aka": [
+    "-2147212200"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_revert_on_close/-2147212200/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

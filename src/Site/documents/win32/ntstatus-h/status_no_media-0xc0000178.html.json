@@ -1,0 +1,29 @@
+---
+output: win32\ntstatus-h\status_no_media\0xc0000178\index.html.json
+
+title: 0xC0000178 STATUS_NO_MEDIA in ntstatus.h
+description: "{No Media}
+There is no media in the drive. Please insert media into drive %hs."
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000178",
+  "codeUrl": "/win32/ntstatus-h/status_no_media/0xc0000178/",
+  "numericCode": -1073741448,
+  "define": "STATUS_NO_MEDIA",
+  "defineUrl": "/win32/ntstatus-h/status_no_media/",
+  "message": "{No Media}\r\nThere is no media in the drive. Please insert media into drive %hs.",
+  "remarks": null,
+  "aka": [
+    "-1073741448"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_no_media/-1073741448/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

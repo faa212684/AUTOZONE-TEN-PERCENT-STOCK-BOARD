@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_cluster_node_not_ready\5072\index.html.json
+
+title: 5072 ERROR_CLUSTER_NODE_NOT_READY in winerror.h
+description: The cluster node is not ready to perform the requested operation.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "5072",
+  "codeUrl": "/win32/winerror-h/error_cluster_node_not_ready/5072/",
+  "numericCode": 5072,
+  "define": "ERROR_CLUSTER_NODE_NOT_READY",
+  "defineUrl": "/win32/winerror-h/error_cluster_node_not_ready/",
+  "message": "The cluster node is not ready to perform the requested operation.",
+  "remarks": null,
+  "aka": [
+    "0x800713d0",
+    "-2147019824"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_cluster_node_not_ready/0x800713d0/",
+    "/win32/winerror-h/error_cluster_node_not_ready/-2147019824/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_ntlm_blocked\-1073740776\index.html.json
+canonical: /win32/ntstatus-h/status_ntlm_blocked/0xc0000418/
+title: -1073740776 STATUS_NTLM_BLOCKED in ntstatus.h
+description: The authentication failed since NTLM was blocked.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073740776",
+  "codeUrl": "/win32/ntstatus-h/status_ntlm_blocked/-1073740776/",
+  "numericCode": 0,
+  "define": "STATUS_NTLM_BLOCKED",
+  "defineUrl": "/win32/ntstatus-h/status_ntlm_blocked/",
+  "message": "The authentication failed since NTLM was blocked.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000418",
+  "originalCodeUrl": "/win32/ntstatus-h/status_ntlm_blocked/0xc0000418/"
+}

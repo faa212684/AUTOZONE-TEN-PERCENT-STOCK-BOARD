@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_wmi_instance_not_found\4201\index.html.json
+
+title: 4201 ERROR_WMI_INSTANCE_NOT_FOUND in winerror.h
+description: The instance name passed was not recognized as valid by a WMI data provider.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "4201",
+  "codeUrl": "/win32/winerror-h/error_wmi_instance_not_found/4201/",
+  "numericCode": 4201,
+  "define": "ERROR_WMI_INSTANCE_NOT_FOUND",
+  "defineUrl": "/win32/winerror-h/error_wmi_instance_not_found/",
+  "message": "The instance name passed was not recognized as valid by a WMI data provider.",
+  "remarks": null,
+  "aka": [
+    "0x80071069",
+    "-2147020695"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_wmi_instance_not_found/0x80071069/",
+    "/win32/winerror-h/error_wmi_instance_not_found/-2147020695/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

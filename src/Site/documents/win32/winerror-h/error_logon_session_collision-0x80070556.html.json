@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_logon_session_collision\0x80070556\index.html.json
+canonical: /win32/winerror-h/error_logon_session_collision/1366/
+title: 0x80070556 ERROR_LOGON_SESSION_COLLISION in winerror.h
+description: The logon session ID is already in use.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80070556",
+  "codeUrl": "/win32/winerror-h/error_logon_session_collision/0x80070556/",
+  "numericCode": 0,
+  "define": "ERROR_LOGON_SESSION_COLLISION",
+  "defineUrl": "/win32/winerror-h/error_logon_session_collision/",
+  "message": "The logon session ID is already in use.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "1366",
+  "originalCodeUrl": "/win32/winerror-h/error_logon_session_collision/1366/"
+}

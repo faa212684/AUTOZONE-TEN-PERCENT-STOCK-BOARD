@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\ws_e_server_requires_digest_auth\0x803d001d\index.html.json
+
+title: 0x803D001D WS_E_SERVER_REQUIRES_DIGEST_AUTH in winerror.h
+description: The remote endpoint requires HTTP authentication scheme 'digest'.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x803D001D",
+  "codeUrl": "/win32/winerror-h/ws_e_server_requires_digest_auth/0x803d001d/",
+  "numericCode": -2143485923,
+  "define": "WS_E_SERVER_REQUIRES_DIGEST_AUTH",
+  "defineUrl": "/win32/winerror-h/ws_e_server_requires_digest_auth/",
+  "message": "The remote endpoint requires HTTP authentication scheme 'digest'.",
+  "remarks": null,
+  "aka": [
+    "-2143485923"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/ws_e_server_requires_digest_auth/-2143485923/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

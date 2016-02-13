@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_success_restart_required\-2147021885\index.html.json
+canonical: /win32/winerror-h/error_success_restart_required/3011/
+title: -2147021885 ERROR_SUCCESS_RESTART_REQUIRED in winerror.h
+description: The requested operation is successful. Changes will not be effective until the service is restarted.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147021885",
+  "codeUrl": "/win32/winerror-h/error_success_restart_required/-2147021885/",
+  "numericCode": 0,
+  "define": "ERROR_SUCCESS_RESTART_REQUIRED",
+  "defineUrl": "/win32/winerror-h/error_success_restart_required/",
+  "message": "The requested operation is successful. Changes will not be effective until the service is restarted.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "3011",
+  "originalCodeUrl": "/win32/winerror-h/error_success_restart_required/3011/"
+}

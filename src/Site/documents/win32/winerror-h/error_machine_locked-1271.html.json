@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_machine_locked\1271\index.html.json
+
+title: 1271 ERROR_MACHINE_LOCKED in winerror.h
+description: The machine is locked and cannot be shut down without the force option.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1271",
+  "codeUrl": "/win32/winerror-h/error_machine_locked/1271/",
+  "numericCode": 1271,
+  "define": "ERROR_MACHINE_LOCKED",
+  "defineUrl": "/win32/winerror-h/error_machine_locked/",
+  "message": "The machine is locked and cannot be shut down without the force option.",
+  "remarks": null,
+  "aka": [
+    "0x800704f7",
+    "-2147023625"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_machine_locked/0x800704f7/",
+    "/win32/winerror-h/error_machine_locked/-2147023625/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\dns_error_non_rfc_name\9556\index.html.json
+
+title: 9556 DNS_ERROR_NON_RFC_NAME in winerror.h
+description: DNS name does not comply with RFC specifications.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "9556",
+  "codeUrl": "/win32/winerror-h/dns_error_non_rfc_name/9556/",
+  "numericCode": 9556,
+  "define": "DNS_ERROR_NON_RFC_NAME",
+  "defineUrl": "/win32/winerror-h/dns_error_non_rfc_name/",
+  "message": "DNS name does not comply with RFC specifications.",
+  "remarks": null,
+  "aka": [
+    "0x80072554",
+    "-2147015340"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/dns_error_non_rfc_name/0x80072554/",
+    "/win32/winerror-h/dns_error_non_rfc_name/-2147015340/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

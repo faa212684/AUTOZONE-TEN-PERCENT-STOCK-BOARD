@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\d2derr_max_texture_size_exceeded\0x8899000f\index.html.json
+
+title: 0x8899000F D2DERR_MAX_TEXTURE_SIZE_EXCEEDED in winerror.h
+description: Requested DirectX surface size exceeded maximum texture size.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8899000F",
+  "codeUrl": "/win32/winerror-h/d2derr_max_texture_size_exceeded/0x8899000f/",
+  "numericCode": -2003238897,
+  "define": "D2DERR_MAX_TEXTURE_SIZE_EXCEEDED",
+  "defineUrl": "/win32/winerror-h/d2derr_max_texture_size_exceeded/",
+  "message": "Requested DirectX surface size exceeded maximum texture size.",
+  "remarks": null,
+  "aka": [
+    "-2003238897"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/d2derr_max_texture_size_exceeded/-2003238897/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

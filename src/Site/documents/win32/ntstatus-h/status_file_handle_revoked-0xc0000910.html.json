@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_file_handle_revoked\0xc0000910\index.html.json
+
+title: 0xC0000910 STATUS_FILE_HANDLE_REVOKED in ntstatus.h
+description: Access to the specified file handle has been revoked.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000910",
+  "codeUrl": "/win32/ntstatus-h/status_file_handle_revoked/0xc0000910/",
+  "numericCode": -1073739504,
+  "define": "STATUS_FILE_HANDLE_REVOKED",
+  "defineUrl": "/win32/ntstatus-h/status_file_handle_revoked/",
+  "message": "Access to the specified file handle has been revoked.",
+  "remarks": null,
+  "aka": [
+    "-1073739504"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_file_handle_revoked/-1073739504/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

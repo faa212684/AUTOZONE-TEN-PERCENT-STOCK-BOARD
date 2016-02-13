@@ -1,0 +1,29 @@
+---
+output: win32\ntstatus-h\status_receive_partial\0x4000000f\index.html.json
+
+title: 0x4000000F STATUS_RECEIVE_PARTIAL in ntstatus.h
+description: "{Partial Data Received}
+The network transport returned partial data to its client. The remaining data will be sent later."
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0x4000000F",
+  "codeUrl": "/win32/ntstatus-h/status_receive_partial/0x4000000f/",
+  "numericCode": 1073741839,
+  "define": "STATUS_RECEIVE_PARTIAL",
+  "defineUrl": "/win32/ntstatus-h/status_receive_partial/",
+  "message": "{Partial Data Received}\r\nThe network transport returned partial data to its client. The remaining data will be sent later.",
+  "remarks": null,
+  "aka": [
+    "1073741839"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_receive_partial/1073741839/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

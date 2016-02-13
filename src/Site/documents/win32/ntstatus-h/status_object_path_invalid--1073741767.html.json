@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_object_path_invalid\-1073741767\index.html.json
+canonical: /win32/ntstatus-h/status_object_path_invalid/0xc0000039/
+title: -1073741767 STATUS_OBJECT_PATH_INVALID in ntstatus.h
+description: Object Path Component was not a directory object.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741767",
+  "codeUrl": "/win32/ntstatus-h/status_object_path_invalid/-1073741767/",
+  "numericCode": 0,
+  "define": "STATUS_OBJECT_PATH_INVALID",
+  "defineUrl": "/win32/ntstatus-h/status_object_path_invalid/",
+  "message": "Object Path Component was not a directory object.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000039",
+  "originalCodeUrl": "/win32/ntstatus-h/status_object_path_invalid/0xc0000039/"
+}

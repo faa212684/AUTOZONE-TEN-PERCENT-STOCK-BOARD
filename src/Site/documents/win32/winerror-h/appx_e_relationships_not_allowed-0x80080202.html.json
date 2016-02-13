@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\appx_e_relationships_not_allowed\0x80080202\index.html.json
+
+title: 0x80080202 APPX_E_RELATIONSHIPS_NOT_ALLOWED in winerror.h
+description: The file is not a valid Appx package because it contains OPC relationships.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80080202",
+  "codeUrl": "/win32/winerror-h/appx_e_relationships_not_allowed/0x80080202/",
+  "numericCode": -2146958846,
+  "define": "APPX_E_RELATIONSHIPS_NOT_ALLOWED",
+  "defineUrl": "/win32/winerror-h/appx_e_relationships_not_allowed/",
+  "message": "The file is not a valid Appx package because it contains OPC relationships.",
+  "remarks": null,
+  "aka": [
+    "-2146958846"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/appx_e_relationships_not_allowed/-2146958846/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

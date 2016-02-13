@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_acpi_invalid_supername\0xc0140007\index.html.json
+
+title: 0xC0140007 STATUS_ACPI_INVALID_SUPERNAME in ntstatus.h
+description: An invalid SuperName was specified
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0140007",
+  "codeUrl": "/win32/ntstatus-h/status_acpi_invalid_supername/0xc0140007/",
+  "numericCode": -1072431097,
+  "define": "STATUS_ACPI_INVALID_SUPERNAME",
+  "defineUrl": "/win32/ntstatus-h/status_acpi_invalid_supername/",
+  "message": "An invalid SuperName was specified",
+  "remarks": null,
+  "aka": [
+    "-1072431097"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_acpi_invalid_supername/-1072431097/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

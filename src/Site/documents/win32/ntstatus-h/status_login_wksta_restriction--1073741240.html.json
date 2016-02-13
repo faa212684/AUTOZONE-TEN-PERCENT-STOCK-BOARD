@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_login_wksta_restriction\-1073741240\index.html.json
+canonical: /win32/ntstatus-h/status_login_wksta_restriction/0xc0000248/
+title: -1073741240 STATUS_LOGIN_WKSTA_RESTRICTION in ntstatus.h
+description: The account is not authorized to login from this station.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741240",
+  "codeUrl": "/win32/ntstatus-h/status_login_wksta_restriction/-1073741240/",
+  "numericCode": 0,
+  "define": "STATUS_LOGIN_WKSTA_RESTRICTION",
+  "defineUrl": "/win32/ntstatus-h/status_login_wksta_restriction/",
+  "message": "The account is not authorized to login from this station.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000248",
+  "originalCodeUrl": "/win32/ntstatus-h/status_login_wksta_restriction/0xc0000248/"
+}

@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_stream_miniversion_not_found\0xc0190022\index.html.json
+
+title: 0xC0190022 STATUS_STREAM_MINIVERSION_NOT_FOUND in ntstatus.h
+description: The specified file miniversion was not found for this transacted file open.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0190022",
+  "codeUrl": "/win32/ntstatus-h/status_stream_miniversion_not_found/0xc0190022/",
+  "numericCode": -1072103390,
+  "define": "STATUS_STREAM_MINIVERSION_NOT_FOUND",
+  "defineUrl": "/win32/ntstatus-h/status_stream_miniversion_not_found/",
+  "message": "The specified file miniversion was not found for this transacted file open.",
+  "remarks": null,
+  "aka": [
+    "-1072103390"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_stream_miniversion_not_found/-1072103390/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

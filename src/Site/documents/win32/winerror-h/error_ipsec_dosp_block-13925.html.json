@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ipsec_dosp_block\13925\index.html.json
+
+title: 13925 ERROR_IPSEC_DOSP_BLOCK in winerror.h
+description: IPsec DoS Protection matched an explicit block rule.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "13925",
+  "codeUrl": "/win32/winerror-h/error_ipsec_dosp_block/13925/",
+  "numericCode": 13925,
+  "define": "ERROR_IPSEC_DOSP_BLOCK",
+  "defineUrl": "/win32/winerror-h/error_ipsec_dosp_block/",
+  "message": "IPsec DoS Protection matched an explicit block rule.",
+  "remarks": null,
+  "aka": [
+    "0x80073665",
+    "-2147010971"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ipsec_dosp_block/0x80073665/",
+    "/win32/winerror-h/error_ipsec_dosp_block/-2147010971/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

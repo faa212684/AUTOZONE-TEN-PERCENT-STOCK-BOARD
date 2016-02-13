@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_subst_to_join\0x8007008d\index.html.json
+canonical: /win32/winerror-h/error_subst_to_join/141/
+title: 0x8007008d ERROR_SUBST_TO_JOIN in winerror.h
+description: The system tried to SUBST a drive to a directory on a joined drive.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007008d",
+  "codeUrl": "/win32/winerror-h/error_subst_to_join/0x8007008d/",
+  "numericCode": 0,
+  "define": "ERROR_SUBST_TO_JOIN",
+  "defineUrl": "/win32/winerror-h/error_subst_to_join/",
+  "message": "The system tried to SUBST a drive to a directory on a joined drive.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "141",
+  "originalCodeUrl": "/win32/winerror-h/error_subst_to_join/141/"
+}

@@ -1,0 +1,28 @@
+---
+output: win32\ntiologc-h\mca_error_mem_1_2_5\0xc005004b\index.html.json
+
+title: 0xC005004B MCA_ERROR_MEM_1_2_5 in ntiologc.h
+description: Machine Check Event reported is a fatal ECC memory error at physical address %3 on memory module %4 reported to CPU %1. %2 additional error(s) are contained within the record.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntiologc.h",
+  "sourceUrl": "/win32/ntiologc-h/",
+  "code": "0xC005004B",
+  "codeUrl": "/win32/ntiologc-h/mca_error_mem_1_2_5/0xc005004b/",
+  "numericCode": -1073414069,
+  "define": "MCA_ERROR_MEM_1_2_5",
+  "defineUrl": "/win32/ntiologc-h/mca_error_mem_1_2_5/",
+  "message": "Machine Check Event reported is a fatal ECC memory error at physical address %3 on memory module %4 reported to CPU %1. %2 additional error(s) are contained within the record.",
+  "remarks": null,
+  "aka": [
+    "-1073414069"
+  ],
+  "akaUrl": [
+    "/win32/ntiologc-h/mca_error_mem_1_2_5/-1073414069/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

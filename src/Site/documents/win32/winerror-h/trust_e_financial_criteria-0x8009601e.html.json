@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\trust_e_financial_criteria\0x8009601e\index.html.json
+
+title: 0x8009601E TRUST_E_FINANCIAL_CRITERIA in winerror.h
+description: The certificate does not meet or contain the Authenticode(tm) financial extensions.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8009601E",
+  "codeUrl": "/win32/winerror-h/trust_e_financial_criteria/0x8009601e/",
+  "numericCode": -2146869218,
+  "define": "TRUST_E_FINANCIAL_CRITERIA",
+  "defineUrl": "/win32/winerror-h/trust_e_financial_criteria/",
+  "message": "The certificate does not meet or contain the Authenticode(tm) financial extensions.",
+  "remarks": null,
+  "aka": [
+    "-2146869218"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/trust_e_financial_criteria/-2146869218/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

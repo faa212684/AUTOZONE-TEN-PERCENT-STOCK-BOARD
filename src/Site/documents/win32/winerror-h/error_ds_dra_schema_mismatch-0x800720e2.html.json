@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_ds_dra_schema_mismatch\0x800720e2\index.html.json
+canonical: /win32/winerror-h/error_ds_dra_schema_mismatch/8418/
+title: 0x800720e2 ERROR_DS_DRA_SCHEMA_MISMATCH in winerror.h
+description: The replication operation failed because of a schema mismatch between the servers involved.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800720e2",
+  "codeUrl": "/win32/winerror-h/error_ds_dra_schema_mismatch/0x800720e2/",
+  "numericCode": 0,
+  "define": "ERROR_DS_DRA_SCHEMA_MISMATCH",
+  "defineUrl": "/win32/winerror-h/error_ds_dra_schema_mismatch/",
+  "message": "The replication operation failed because of a schema mismatch between the servers involved.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "8418",
+  "originalCodeUrl": "/win32/winerror-h/error_ds_dra_schema_mismatch/8418/"
+}

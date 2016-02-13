@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\dns_error_invalid_scope_operation\9961\index.html.json
+
+title: 9961 DNS_ERROR_INVALID_SCOPE_OPERATION in winerror.h
+description: The operation is invalid on the scope.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "9961",
+  "codeUrl": "/win32/winerror-h/dns_error_invalid_scope_operation/9961/",
+  "numericCode": 9961,
+  "define": "DNS_ERROR_INVALID_SCOPE_OPERATION",
+  "defineUrl": "/win32/winerror-h/dns_error_invalid_scope_operation/",
+  "message": "The operation is invalid on the scope.",
+  "remarks": null,
+  "aka": [
+    "0x800726e9",
+    "-2147014935"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/dns_error_invalid_scope_operation/0x800726e9/",
+    "/win32/winerror-h/dns_error_invalid_scope_operation/-2147014935/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

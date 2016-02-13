@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\tbsimp_e_command_failed\0x80290211\index.html.json
+
+title: 0x80290211 TBSIMP_E_COMMAND_FAILED in winerror.h
+description: The TPM command failed.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80290211",
+  "codeUrl": "/win32/winerror-h/tbsimp_e_command_failed/0x80290211/",
+  "numericCode": -2144796143,
+  "define": "TBSIMP_E_COMMAND_FAILED",
+  "defineUrl": "/win32/winerror-h/tbsimp_e_command_failed/",
+  "message": "The TPM command failed.",
+  "remarks": null,
+  "aka": [
+    "-2144796143"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/tbsimp_e_command_failed/-2144796143/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

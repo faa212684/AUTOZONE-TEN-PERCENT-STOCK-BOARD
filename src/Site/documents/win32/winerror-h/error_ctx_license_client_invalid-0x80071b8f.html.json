@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_ctx_license_client_invalid\0x80071b8f\index.html.json
+canonical: /win32/winerror-h/error_ctx_license_client_invalid/7055/
+title: 0x80071b8f ERROR_CTX_LICENSE_CLIENT_INVALID in winerror.h
+description: The client you are using is not licensed to use this system. Your logon request is denied.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80071b8f",
+  "codeUrl": "/win32/winerror-h/error_ctx_license_client_invalid/0x80071b8f/",
+  "numericCode": 0,
+  "define": "ERROR_CTX_LICENSE_CLIENT_INVALID",
+  "defineUrl": "/win32/winerror-h/error_ctx_license_client_invalid/",
+  "message": "The client you are using is not licensed to use this system. Your logon request is denied.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "7055",
+  "originalCodeUrl": "/win32/winerror-h/error_ctx_license_client_invalid/7055/"
+}

@@ -1,0 +1,28 @@
+---
+output: win32\nserror-h\ns_e_wmp_saveas_readonly\0xc00d0ff0\index.html.json
+
+title: 0xC00D0FF0 NS_E_WMP_SAVEAS_READONLY in nserror.h
+description: Windows Media Player cannot overwrite a read-only file. Try using a different file name.%0
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "nserror.h",
+  "sourceUrl": "/win32/nserror-h/",
+  "code": "0xC00D0FF0",
+  "codeUrl": "/win32/nserror-h/ns_e_wmp_saveas_readonly/0xc00d0ff0/",
+  "numericCode": -1072885776,
+  "define": "NS_E_WMP_SAVEAS_READONLY",
+  "defineUrl": "/win32/nserror-h/ns_e_wmp_saveas_readonly/",
+  "message": "Windows Media Player cannot overwrite a read-only file. Try using a different file name.%0",
+  "remarks": null,
+  "aka": [
+    "-1072885776"
+  ],
+  "akaUrl": [
+    "/win32/nserror-h/ns_e_wmp_saveas_readonly/-1072885776/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

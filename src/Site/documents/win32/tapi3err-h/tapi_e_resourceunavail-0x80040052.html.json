@@ -1,0 +1,28 @@
+---
+output: win32\tapi3err-h\tapi_e_resourceunavail\0x80040052\index.html.json
+
+title: 0x80040052 TAPI_E_RESOURCEUNAVAIL in Tapi3Err.h
+description: A resource needed to fulfill the request is not available.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "Tapi3Err.h",
+  "sourceUrl": "/win32/tapi3err-h/",
+  "code": "0x80040052",
+  "codeUrl": "/win32/tapi3err-h/tapi_e_resourceunavail/0x80040052/",
+  "numericCode": -2147221422,
+  "define": "TAPI_E_RESOURCEUNAVAIL",
+  "defineUrl": "/win32/tapi3err-h/tapi_e_resourceunavail/",
+  "message": "A resource needed to fulfill the request is not available.",
+  "remarks": null,
+  "aka": [
+    "-2147221422"
+  ],
+  "akaUrl": [
+    "/win32/tapi3err-h/tapi_e_resourceunavail/-2147221422/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_too_many_sids\0xc000017e\index.html.json
+
+title: 0xC000017E STATUS_TOO_MANY_SIDS in ntstatus.h
+description: Too many Sids have been specified.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000017E",
+  "codeUrl": "/win32/ntstatus-h/status_too_many_sids/0xc000017e/",
+  "numericCode": -1073741442,
+  "define": "STATUS_TOO_MANY_SIDS",
+  "defineUrl": "/win32/ntstatus-h/status_too_many_sids/",
+  "message": "Too many Sids have been specified.",
+  "remarks": null,
+  "aka": [
+    "-1073741442"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_too_many_sids/-1073741442/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

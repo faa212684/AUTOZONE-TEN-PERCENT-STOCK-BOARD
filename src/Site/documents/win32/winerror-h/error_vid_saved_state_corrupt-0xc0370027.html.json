@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\error_vid_saved_state_corrupt\0xc0370027\index.html.json
+
+title: 0xC0370027 ERROR_VID_SAVED_STATE_CORRUPT in winerror.h
+description: Cannot restore this virtual machine because the saved state data cannot be read. Delete the saved state data and then try to start the virtual machine.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0xC0370027",
+  "codeUrl": "/win32/winerror-h/error_vid_saved_state_corrupt/0xc0370027/",
+  "numericCode": -1070137305,
+  "define": "ERROR_VID_SAVED_STATE_CORRUPT",
+  "defineUrl": "/win32/winerror-h/error_vid_saved_state_corrupt/",
+  "message": "Cannot restore this virtual machine because the saved state data cannot be read. Delete the saved state data and then try to start the virtual machine.",
+  "remarks": null,
+  "aka": [
+    "-1070137305"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_vid_saved_state_corrupt/-1070137305/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

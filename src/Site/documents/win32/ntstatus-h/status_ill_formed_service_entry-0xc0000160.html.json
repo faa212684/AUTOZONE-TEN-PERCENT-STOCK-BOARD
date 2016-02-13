@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_ill_formed_service_entry\0xc0000160\index.html.json
+
+title: 0xC0000160 STATUS_ILL_FORMED_SERVICE_ENTRY in ntstatus.h
+description: A configuration registry node representing a driver service entry was ill-formed and did not contain required value entries.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000160",
+  "codeUrl": "/win32/ntstatus-h/status_ill_formed_service_entry/0xc0000160/",
+  "numericCode": -1073741472,
+  "define": "STATUS_ILL_FORMED_SERVICE_ENTRY",
+  "defineUrl": "/win32/ntstatus-h/status_ill_formed_service_entry/",
+  "message": "A configuration registry node representing a driver service entry was ill-formed and did not contain required value entries.",
+  "remarks": null,
+  "aka": [
+    "-1073741472"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_ill_formed_service_entry/-1073741472/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

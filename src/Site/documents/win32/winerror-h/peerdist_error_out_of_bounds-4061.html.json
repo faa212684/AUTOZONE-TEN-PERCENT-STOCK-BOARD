@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\peerdist_error_out_of_bounds\4061\index.html.json
+
+title: 4061 PEERDIST_ERROR_OUT_OF_BOUNDS in winerror.h
+description: An operation accessed data beyond the bounds of valid data.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "4061",
+  "codeUrl": "/win32/winerror-h/peerdist_error_out_of_bounds/4061/",
+  "numericCode": 4061,
+  "define": "PEERDIST_ERROR_OUT_OF_BOUNDS",
+  "defineUrl": "/win32/winerror-h/peerdist_error_out_of_bounds/",
+  "message": "An operation accessed data beyond the bounds of valid data.",
+  "remarks": null,
+  "aka": [
+    "0x80070fdd",
+    "-2147020835"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/peerdist_error_out_of_bounds/0x80070fdd/",
+    "/win32/winerror-h/peerdist_error_out_of_bounds/-2147020835/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

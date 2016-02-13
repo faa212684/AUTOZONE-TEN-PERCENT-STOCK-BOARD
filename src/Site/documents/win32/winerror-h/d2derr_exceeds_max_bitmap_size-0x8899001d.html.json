@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\d2derr_exceeds_max_bitmap_size\0x8899001d\index.html.json
+
+title: 0x8899001D D2DERR_EXCEEDS_MAX_BITMAP_SIZE in winerror.h
+description: The requested size is larger than the guaranteed supported texture size at the Direct3D device's current feature level.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8899001D",
+  "codeUrl": "/win32/winerror-h/d2derr_exceeds_max_bitmap_size/0x8899001d/",
+  "numericCode": -2003238883,
+  "define": "D2DERR_EXCEEDS_MAX_BITMAP_SIZE",
+  "defineUrl": "/win32/winerror-h/d2derr_exceeds_max_bitmap_size/",
+  "message": "The requested size is larger than the guaranteed supported texture size at the Direct3D device's current feature level.",
+  "remarks": null,
+  "aka": [
+    "-2003238883"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/d2derr_exceeds_max_bitmap_size/-2003238883/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

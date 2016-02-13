@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\fve_e_policy_invalid_passphrase_length\0x80310080\index.html.json
+
+title: 0x80310080 FVE_E_POLICY_INVALID_PASSPHRASE_LENGTH in winerror.h
+description: Your password does not meet minimum password length requirements. By default, passwords must be at least 8 characters in length. Check with your system administrator for the password length requirement in your organization.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80310080",
+  "codeUrl": "/win32/winerror-h/fve_e_policy_invalid_passphrase_length/0x80310080/",
+  "numericCode": -2144272256,
+  "define": "FVE_E_POLICY_INVALID_PASSPHRASE_LENGTH",
+  "defineUrl": "/win32/winerror-h/fve_e_policy_invalid_passphrase_length/",
+  "message": "Your password does not meet minimum password length requirements. By default, passwords must be at least 8 characters in length. Check with your system administrator for the password length requirement in your organization.",
+  "remarks": null,
+  "aka": [
+    "-2144272256"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/fve_e_policy_invalid_passphrase_length/-2144272256/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

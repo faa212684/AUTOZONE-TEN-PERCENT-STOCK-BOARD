@@ -1,0 +1,25 @@
+---
+output: win32\vdserr-h\vds_e_shrink_lun_not_unmasked\-2147210979\index.html.json
+canonical: /win32/vdserr-h/vds_e_shrink_lun_not_unmasked/0x8004291d/
+title: -2147210979 VDS_E_SHRINK_LUN_NOT_UNMASKED in vdserr.h
+description: The SHRINK operation against the selected LUN cannot be completed. 
+The LUN is not unmasked to the local server.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "-2147210979",
+  "codeUrl": "/win32/vdserr-h/vds_e_shrink_lun_not_unmasked/-2147210979/",
+  "numericCode": 0,
+  "define": "VDS_E_SHRINK_LUN_NOT_UNMASKED",
+  "defineUrl": "/win32/vdserr-h/vds_e_shrink_lun_not_unmasked/",
+  "message": "The SHRINK operation against the selected LUN cannot be completed. \r\nThe LUN is not unmasked to the local server.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x8004291D",
+  "originalCodeUrl": "/win32/vdserr-h/vds_e_shrink_lun_not_unmasked/0x8004291d/"
+}

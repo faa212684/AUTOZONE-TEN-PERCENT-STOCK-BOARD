@@ -1,0 +1,29 @@
+---
+output: win32\wsmerror-h\error_wsman_client_cert_unneeded_creds\0x803380af\index.html.json
+
+title: 0x803380AF ERROR_WSMAN_CLIENT_CERT_UNNEEDED_CREDS in wsmerror.h
+description: The WinRM client cannot process the request. The request must not include credentials when using a smart card or default certificate.
+Remove the credentials or change the authentication mechanism and try the request again.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x803380AF",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_client_cert_unneeded_creds/0x803380af/",
+  "numericCode": -2144108369,
+  "define": "ERROR_WSMAN_CLIENT_CERT_UNNEEDED_CREDS",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_client_cert_unneeded_creds/",
+  "message": "The WinRM client cannot process the request. The request must not include credentials when using a smart card or default certificate.\r\nRemove the credentials or change the authentication mechanism and try the request again.",
+  "remarks": null,
+  "aka": [
+    "-2144108369"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_client_cert_unneeded_creds/-2144108369/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

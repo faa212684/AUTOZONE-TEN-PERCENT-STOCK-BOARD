@@ -1,0 +1,28 @@
+---
+output: win32\winbio_err-h\winbio_e_unsupported_purpose\0x8009800e\index.html.json
+
+title: 0x8009800E WINBIO_E_UNSUPPORTED_PURPOSE in winbio_err.h
+description: The biometric sensor driver does not support the requested data purpose.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winbio_err.h",
+  "sourceUrl": "/win32/winbio_err-h/",
+  "code": "0x8009800E",
+  "codeUrl": "/win32/winbio_err-h/winbio_e_unsupported_purpose/0x8009800e/",
+  "numericCode": -2146861042,
+  "define": "WINBIO_E_UNSUPPORTED_PURPOSE",
+  "defineUrl": "/win32/winbio_err-h/winbio_e_unsupported_purpose/",
+  "message": "The biometric sensor driver does not support the requested data purpose.",
+  "remarks": null,
+  "aka": [
+    "-2146861042"
+  ],
+  "akaUrl": [
+    "/win32/winbio_err-h/winbio_e_unsupported_purpose/-2146861042/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

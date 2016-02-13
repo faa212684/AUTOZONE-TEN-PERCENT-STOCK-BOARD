@@ -1,0 +1,28 @@
+---
+output: win32\wsmerror-h\error_wsman_response_no_results\0x803380ef\index.html.json
+
+title: 0x803380EF ERROR_WSMAN_RESPONSE_NO_RESULTS in wsmerror.h
+description: The WinRM client cannot process the request. The response from the destination computer does not include any results.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x803380EF",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_response_no_results/0x803380ef/",
+  "numericCode": -2144108305,
+  "define": "ERROR_WSMAN_RESPONSE_NO_RESULTS",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_response_no_results/",
+  "message": "The WinRM client cannot process the request. The response from the destination computer does not include any results.",
+  "remarks": null,
+  "aka": [
+    "-2144108305"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_response_no_results/-2144108305/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\xact_e_connection_denied\0x8004d01d\index.html.json
+
+title: 0x8004D01D XACT_E_CONNECTION_DENIED in winerror.h
+description: A request to establish a connection with the transaction manager was denied.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8004D01D",
+  "codeUrl": "/win32/winerror-h/xact_e_connection_denied/0x8004d01d/",
+  "numericCode": -2147168227,
+  "define": "XACT_E_CONNECTION_DENIED",
+  "defineUrl": "/win32/winerror-h/xact_e_connection_denied/",
+  "message": "A request to establish a connection with the transaction manager was denied.",
+  "remarks": null,
+  "aka": [
+    "-2147168227"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/xact_e_connection_denied/-2147168227/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

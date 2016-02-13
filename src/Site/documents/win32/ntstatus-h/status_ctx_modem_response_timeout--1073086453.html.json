@@ -1,0 +1,25 @@
+---
+output: win32\ntstatus-h\status_ctx_modem_response_timeout\-1073086453\index.html.json
+canonical: /win32/ntstatus-h/status_ctx_modem_response_timeout/0xc00a000b/
+title: -1073086453 STATUS_CTX_MODEM_RESPONSE_TIMEOUT in ntstatus.h
+description: The modem did not respond to the command sent to it.
+Verify the modem is properly cabled and powered on.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073086453",
+  "codeUrl": "/win32/ntstatus-h/status_ctx_modem_response_timeout/-1073086453/",
+  "numericCode": 0,
+  "define": "STATUS_CTX_MODEM_RESPONSE_TIMEOUT",
+  "defineUrl": "/win32/ntstatus-h/status_ctx_modem_response_timeout/",
+  "message": "The modem did not respond to the command sent to it.\r\nVerify the modem is properly cabled and powered on.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC00A000B",
+  "originalCodeUrl": "/win32/ntstatus-h/status_ctx_modem_response_timeout/0xc00a000b/"
+}

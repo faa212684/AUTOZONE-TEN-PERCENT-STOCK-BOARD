@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_driver_blocked_critical\0xc000036b\index.html.json
+
+title: 0xC000036B STATUS_DRIVER_BLOCKED_CRITICAL in ntstatus.h
+description: Driver %2 has been blocked from loading.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000036B",
+  "codeUrl": "/win32/ntstatus-h/status_driver_blocked_critical/0xc000036b/",
+  "numericCode": -1073740949,
+  "define": "STATUS_DRIVER_BLOCKED_CRITICAL",
+  "defineUrl": "/win32/ntstatus-h/status_driver_blocked_critical/",
+  "message": "Driver %2 has been blocked from loading.",
+  "remarks": null,
+  "aka": [
+    "-1073740949"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_driver_blocked_critical/-1073740949/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

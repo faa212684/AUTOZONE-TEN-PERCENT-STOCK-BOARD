@@ -1,0 +1,28 @@
+---
+output: win32\wuerror-h\wu_e_xml_invalid\0x8024000e\index.html.json
+
+title: 0x8024000E WU_E_XML_INVALID in wuerror.h
+description: Windows Update Agent found invalid information in the update's XML data.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wuerror.h",
+  "sourceUrl": "/win32/wuerror-h/",
+  "code": "0x8024000E",
+  "codeUrl": "/win32/wuerror-h/wu_e_xml_invalid/0x8024000e/",
+  "numericCode": -2145124338,
+  "define": "WU_E_XML_INVALID",
+  "defineUrl": "/win32/wuerror-h/wu_e_xml_invalid/",
+  "message": "Windows Update Agent found invalid information in the update's XML data.",
+  "remarks": null,
+  "aka": [
+    "-2145124338"
+  ],
+  "akaUrl": [
+    "/win32/wuerror-h/wu_e_xml_invalid/-2145124338/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_invalid_sharename\1215\index.html.json
+
+title: 1215 ERROR_INVALID_SHARENAME in winerror.h
+description: The format of the specified share name is invalid.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1215",
+  "codeUrl": "/win32/winerror-h/error_invalid_sharename/1215/",
+  "numericCode": 1215,
+  "define": "ERROR_INVALID_SHARENAME",
+  "defineUrl": "/win32/winerror-h/error_invalid_sharename/",
+  "message": "The format of the specified share name is invalid.",
+  "remarks": null,
+  "aka": [
+    "0x800704bf",
+    "-2147023681"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_invalid_sharename/0x800704bf/",
+    "/win32/winerror-h/error_invalid_sharename/-2147023681/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

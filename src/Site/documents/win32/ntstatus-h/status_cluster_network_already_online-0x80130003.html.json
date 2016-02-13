@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_cluster_network_already_online\0x80130003\index.html.json
+
+title: 0x80130003 STATUS_CLUSTER_NETWORK_ALREADY_ONLINE in ntstatus.h
+description: The cluster network is already online.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0x80130003",
+  "codeUrl": "/win32/ntstatus-h/status_cluster_network_already_online/0x80130003/",
+  "numericCode": -2146238461,
+  "define": "STATUS_CLUSTER_NETWORK_ALREADY_ONLINE",
+  "defineUrl": "/win32/ntstatus-h/status_cluster_network_already_online/",
+  "message": "The cluster network is already online.",
+  "remarks": null,
+  "aka": [
+    "-2146238461"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_cluster_network_already_online/-2146238461/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,24 @@
+---
+output: msi\1503\index.html.json
+
+title: msi 1503
+description: User '[2]' has previously initiated an install for product '[3]'. That user will need to run that install again before they can use that product.
+disqus: true
+---
+{
+  "area": "msi",
+  "areaUrl": "/msi/",
+  "source": null,
+  "sourceUrl": "/msi/",
+  "code": "1503",
+  "codeUrl": "/msi/1503/",
+  "numericCode": 1503,
+  "define": null,
+  "defineUrl": "/msi/",
+  "message": "User '[2]' has previously initiated an install for product '[3]'. That user will need to run that install again before they can use that product.",
+  "remarks": "Test packages in high-traffic environments  where users request the installation of many applications. For \r\n        more information, see <a href=\"https://msdn.microsoft.com/en-us/library/aa372909(v=vs.85).aspx\">_MSIExecute Mutex</a>.",
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": null,
+  "originalCodeUrl": null
+}

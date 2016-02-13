@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_sxs_wrong_section_type\0xc015000a\index.html.json
+
+title: 0xC015000A STATUS_SXS_WRONG_SECTION_TYPE in ntstatus.h
+description: The type requested activation context section does not match the query API used.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC015000A",
+  "codeUrl": "/win32/ntstatus-h/status_sxs_wrong_section_type/0xc015000a/",
+  "numericCode": -1072365558,
+  "define": "STATUS_SXS_WRONG_SECTION_TYPE",
+  "defineUrl": "/win32/ntstatus-h/status_sxs_wrong_section_type/",
+  "message": "The type requested activation context section does not match the query API used.",
+  "remarks": null,
+  "aka": [
+    "-1072365558"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_sxs_wrong_section_type/-1072365558/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

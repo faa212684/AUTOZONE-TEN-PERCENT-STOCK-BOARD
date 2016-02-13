@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_srv_no_free_raw_work_item\0x800007e7\index.html.json
+
+title: 0x800007E7 EVENT_SRV_NO_FREE_RAW_WORK_ITEM in netevent.h
+description: The server was unable to find a free raw work item %2 times in the last %3 seconds.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x800007E7",
+  "codeUrl": "/win32/netevent-h/event_srv_no_free_raw_work_item/0x800007e7/",
+  "numericCode": -2147481625,
+  "define": "EVENT_SRV_NO_FREE_RAW_WORK_ITEM",
+  "defineUrl": "/win32/netevent-h/event_srv_no_free_raw_work_item/",
+  "message": "The server was unable to find a free raw work item %2 times in the last %3 seconds.",
+  "remarks": null,
+  "aka": [
+    "-2147481625"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_srv_no_free_raw_work_item/-2147481625/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

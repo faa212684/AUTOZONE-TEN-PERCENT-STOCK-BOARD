@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_log_ephemeral\0x800719ea\index.html.json
+canonical: /win32/winerror-h/error_log_ephemeral/6634/
+title: 0x800719ea ERROR_LOG_EPHEMERAL in winerror.h
+description: The operation requires a non-ephemeral log, but the log is ephemeral.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800719ea",
+  "codeUrl": "/win32/winerror-h/error_log_ephemeral/0x800719ea/",
+  "numericCode": 0,
+  "define": "ERROR_LOG_EPHEMERAL",
+  "defineUrl": "/win32/winerror-h/error_log_ephemeral/",
+  "message": "The operation requires a non-ephemeral log, but the log is ephemeral.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "6634",
+  "originalCodeUrl": "/win32/winerror-h/error_log_ephemeral/6634/"
+}

@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\rpc_nt_wrong_kind_of_binding\-1073610750\index.html.json
+canonical: /win32/ntstatus-h/rpc_nt_wrong_kind_of_binding/0xc0020002/
+title: -1073610750 RPC_NT_WRONG_KIND_OF_BINDING in ntstatus.h
+description: The binding handle is not the correct type.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073610750",
+  "codeUrl": "/win32/ntstatus-h/rpc_nt_wrong_kind_of_binding/-1073610750/",
+  "numericCode": 0,
+  "define": "RPC_NT_WRONG_KIND_OF_BINDING",
+  "defineUrl": "/win32/ntstatus-h/rpc_nt_wrong_kind_of_binding/",
+  "message": "The binding handle is not the correct type.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0020002",
+  "originalCodeUrl": "/win32/ntstatus-h/rpc_nt_wrong_kind_of_binding/0xc0020002/"
+}

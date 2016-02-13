@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\dfs_error_reflectionengine_failed\0xc00038ba\index.html.json
+
+title: 0xC00038BA DFS_ERROR_REFLECTIONENGINE_FAILED in netevent.h
+description: DFS could not initialize User/kernel communication package. The return code is in the record data.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC00038BA",
+  "codeUrl": "/win32/netevent-h/dfs_error_reflectionengine_failed/0xc00038ba/",
+  "numericCode": -1073727302,
+  "define": "DFS_ERROR_REFLECTIONENGINE_FAILED",
+  "defineUrl": "/win32/netevent-h/dfs_error_reflectionengine_failed/",
+  "message": "DFS could not initialize User/kernel communication package. The return code is in the record data.",
+  "remarks": null,
+  "aka": [
+    "-1073727302"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/dfs_error_reflectionengine_failed/-1073727302/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

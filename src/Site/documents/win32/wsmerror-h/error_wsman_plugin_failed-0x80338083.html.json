@@ -1,0 +1,28 @@
+---
+output: win32\wsmerror-h\error_wsman_plugin_failed\0x80338083\index.html.json
+
+title: 0x80338083 ERROR_WSMAN_PLUGIN_FAILED in wsmerror.h
+description: The WS-Management service cannot process the request. The data source failed to return results for the request.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x80338083",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_plugin_failed/0x80338083/",
+  "numericCode": -2144108413,
+  "define": "ERROR_WSMAN_PLUGIN_FAILED",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_plugin_failed/",
+  "message": "The WS-Management service cannot process the request. The data source failed to return results for the request.",
+  "remarks": null,
+  "aka": [
+    "-2144108413"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_plugin_failed/-2144108413/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

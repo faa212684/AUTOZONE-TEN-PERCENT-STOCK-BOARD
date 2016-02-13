@@ -1,0 +1,28 @@
+---
+output: win32\cdosyserr-h\cdo_e_connection_dropped\0x80040212\index.html.json
+
+title: 0x80040212 CDO_E_CONNECTION_DROPPED in CDOSysErr.h
+description: The transport lost its connection to the server.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "CDOSysErr.h",
+  "sourceUrl": "/win32/cdosyserr-h/",
+  "code": "0x80040212",
+  "codeUrl": "/win32/cdosyserr-h/cdo_e_connection_dropped/0x80040212/",
+  "numericCode": -2147220974,
+  "define": "CDO_E_CONNECTION_DROPPED",
+  "defineUrl": "/win32/cdosyserr-h/cdo_e_connection_dropped/",
+  "message": "The transport lost its connection to the server.",
+  "remarks": null,
+  "aka": [
+    "-2147220974"
+  ],
+  "akaUrl": [
+    "/win32/cdosyserr-h/cdo_e_connection_dropped/-2147220974/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,26 @@
+---
+output: win32\netevent-h\event_srv_too_many_dos\-2147481622\index.html.json
+canonical: /win32/netevent-h/event_srv_too_many_dos/0x800007ea/
+title: -2147481622 EVENT_SRV_TOO_MANY_DOS in netevent.h
+description: The server has detected too many Denial-Of-Service attacks and will stop logging
+events for any more of them.  Be advised it is likely someone is actively attacking
+your machine.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "-2147481622",
+  "codeUrl": "/win32/netevent-h/event_srv_too_many_dos/-2147481622/",
+  "numericCode": 0,
+  "define": "EVENT_SRV_TOO_MANY_DOS",
+  "defineUrl": "/win32/netevent-h/event_srv_too_many_dos/",
+  "message": "The server has detected too many Denial-Of-Service attacks and will stop logging\r\nevents for any more of them.  Be advised it is likely someone is actively attacking\r\nyour machine.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x800007EA",
+  "originalCodeUrl": "/win32/netevent-h/event_srv_too_many_dos/0x800007ea/"
+}

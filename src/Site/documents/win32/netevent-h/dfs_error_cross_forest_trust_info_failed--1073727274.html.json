@@ -1,0 +1,24 @@
+---
+output: win32\netevent-h\dfs_error_cross_forest_trust_info_failed\-1073727274\index.html.json
+canonical: /win32/netevent-h/dfs_error_cross_forest_trust_info_failed/0xc00038d6/
+title: -1073727274 DFS_ERROR_CROSS_FOREST_TRUST_INFO_FAILED in netevent.h
+description: The DFS Namespace service could not initialize cross forest trust information on this domain controller, but it will periodically retry the operation. The return code is in the record data.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "-1073727274",
+  "codeUrl": "/win32/netevent-h/dfs_error_cross_forest_trust_info_failed/-1073727274/",
+  "numericCode": 0,
+  "define": "DFS_ERROR_CROSS_FOREST_TRUST_INFO_FAILED",
+  "defineUrl": "/win32/netevent-h/dfs_error_cross_forest_trust_info_failed/",
+  "message": "The DFS Namespace service could not initialize cross forest trust information on this domain controller, but it will periodically retry the operation. The return code is in the record data.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC00038D6",
+  "originalCodeUrl": "/win32/netevent-h/dfs_error_cross_forest_trust_info_failed/0xc00038d6/"
+}

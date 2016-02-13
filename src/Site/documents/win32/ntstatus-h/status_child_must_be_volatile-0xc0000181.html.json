@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_child_must_be_volatile\0xc0000181\index.html.json
+
+title: 0xC0000181 STATUS_CHILD_MUST_BE_VOLATILE in ntstatus.h
+description: An attempt was made to create a Stable subkey under a Volatile parent key.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000181",
+  "codeUrl": "/win32/ntstatus-h/status_child_must_be_volatile/0xc0000181/",
+  "numericCode": -1073741439,
+  "define": "STATUS_CHILD_MUST_BE_VOLATILE",
+  "defineUrl": "/win32/ntstatus-h/status_child_must_be_volatile/",
+  "message": "An attempt was made to create a Stable subkey under a Volatile parent key.",
+  "remarks": null,
+  "aka": [
+    "-1073741439"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_child_must_be_volatile/-1073741439/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

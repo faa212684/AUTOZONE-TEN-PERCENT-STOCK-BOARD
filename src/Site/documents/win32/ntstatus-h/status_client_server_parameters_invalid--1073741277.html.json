@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_client_server_parameters_invalid\-1073741277\index.html.json
+canonical: /win32/ntstatus-h/status_client_server_parameters_invalid/0xc0000223/
+title: -1073741277 STATUS_CLIENT_SERVER_PARAMETERS_INVALID in ntstatus.h
+description: The parameter(s) passed to the server in the client/server shared memory window were invalid. Too much data may have been put in the shared memory window.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741277",
+  "codeUrl": "/win32/ntstatus-h/status_client_server_parameters_invalid/-1073741277/",
+  "numericCode": 0,
+  "define": "STATUS_CLIENT_SERVER_PARAMETERS_INVALID",
+  "defineUrl": "/win32/ntstatus-h/status_client_server_parameters_invalid/",
+  "message": "The parameter(s) passed to the server in the client/server shared memory window were invalid. Too much data may have been put in the shared memory window.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000223",
+  "originalCodeUrl": "/win32/ntstatus-h/status_client_server_parameters_invalid/0xc0000223/"
+}

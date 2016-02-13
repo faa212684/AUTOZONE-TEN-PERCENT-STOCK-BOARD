@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_directory_not_empty\-1073741567\index.html.json
+canonical: /win32/ntstatus-h/status_directory_not_empty/0xc0000101/
+title: -1073741567 STATUS_DIRECTORY_NOT_EMPTY in ntstatus.h
+description: Indicates that the directory trying to be deleted is not empty.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741567",
+  "codeUrl": "/win32/ntstatus-h/status_directory_not_empty/-1073741567/",
+  "numericCode": 0,
+  "define": "STATUS_DIRECTORY_NOT_EMPTY",
+  "defineUrl": "/win32/ntstatus-h/status_directory_not_empty/",
+  "message": "Indicates that the directory trying to be deleted is not empty.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000101",
+  "originalCodeUrl": "/win32/ntstatus-h/status_directory_not_empty/0xc0000101/"
+}

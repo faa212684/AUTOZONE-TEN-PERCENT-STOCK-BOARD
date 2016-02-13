@@ -1,0 +1,29 @@
+---
+output: win32\netevent-h\event_eqos_info_app_marking_ignored\0x4000407e\index.html.json
+
+title: 0x4000407E EVENT_EQOS_INFO_APP_MARKING_IGNORED in netevent.h
+description: The Advanced QoS Setting for DSCP marking overrides successfully refreshed. 
+Application DSCP marking requests will be ignored. Only QoS policies can set DSCP values.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x4000407E",
+  "codeUrl": "/win32/netevent-h/event_eqos_info_app_marking_ignored/0x4000407e/",
+  "numericCode": 1073758334,
+  "define": "EVENT_EQOS_INFO_APP_MARKING_IGNORED",
+  "defineUrl": "/win32/netevent-h/event_eqos_info_app_marking_ignored/",
+  "message": "The Advanced QoS Setting for DSCP marking overrides successfully refreshed. \r\nApplication DSCP marking requests will be ignored. Only QoS policies can set DSCP values.",
+  "remarks": null,
+  "aka": [
+    "1073758334"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_eqos_info_app_marking_ignored/1073758334/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

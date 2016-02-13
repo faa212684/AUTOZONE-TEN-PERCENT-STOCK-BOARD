@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_ds_have_primary_members\0xc00002dc\index.html.json
+
+title: 0xC00002DC STATUS_DS_HAVE_PRIMARY_MEMBERS in ntstatus.h
+description: Cannot change to security disabled group because of having primary members in this group.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC00002DC",
+  "codeUrl": "/win32/ntstatus-h/status_ds_have_primary_members/0xc00002dc/",
+  "numericCode": -1073741092,
+  "define": "STATUS_DS_HAVE_PRIMARY_MEMBERS",
+  "defineUrl": "/win32/ntstatus-h/status_ds_have_primary_members/",
+  "message": "Cannot change to security disabled group because of having primary members in this group.",
+  "remarks": null,
+  "aka": [
+    "-1073741092"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_ds_have_primary_members/-1073741092/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

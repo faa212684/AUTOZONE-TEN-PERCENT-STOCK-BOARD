@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_too_many_luids_requested\-1073741708\index.html.json
+canonical: /win32/ntstatus-h/status_too_many_luids_requested/0xc0000074/
+title: -1073741708 STATUS_TOO_MANY_LUIDS_REQUESTED in ntstatus.h
+description: The number of LUIDs requested may not be allocated with a single allocation.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741708",
+  "codeUrl": "/win32/ntstatus-h/status_too_many_luids_requested/-1073741708/",
+  "numericCode": 0,
+  "define": "STATUS_TOO_MANY_LUIDS_REQUESTED",
+  "defineUrl": "/win32/ntstatus-h/status_too_many_luids_requested/",
+  "message": "The number of LUIDs requested may not be allocated with a single allocation.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000074",
+  "originalCodeUrl": "/win32/ntstatus-h/status_too_many_luids_requested/0xc0000074/"
+}

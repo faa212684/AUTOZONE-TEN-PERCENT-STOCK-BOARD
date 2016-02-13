@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_bad_command\22\index.html.json
+
+title: 22 ERROR_BAD_COMMAND in winerror.h
+description: The device does not recognize the command.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "22",
+  "codeUrl": "/win32/winerror-h/error_bad_command/22/",
+  "numericCode": 22,
+  "define": "ERROR_BAD_COMMAND",
+  "defineUrl": "/win32/winerror-h/error_bad_command/",
+  "message": "The device does not recognize the command.",
+  "remarks": null,
+  "aka": [
+    "0x80070016",
+    "-2147024874"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_bad_command/0x80070016/",
+    "/win32/winerror-h/error_bad_command/-2147024874/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

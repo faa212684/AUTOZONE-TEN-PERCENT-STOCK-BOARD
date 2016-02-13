@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_wmi_dp_failed\0x80071071\index.html.json
+canonical: /win32/winerror-h/error_wmi_dp_failed/4209/
+title: 0x80071071 ERROR_WMI_DP_FAILED in winerror.h
+description: The WMI data provider failed to carry out the request.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80071071",
+  "codeUrl": "/win32/winerror-h/error_wmi_dp_failed/0x80071071/",
+  "numericCode": 0,
+  "define": "ERROR_WMI_DP_FAILED",
+  "defineUrl": "/win32/winerror-h/error_wmi_dp_failed/",
+  "message": "The WMI data provider failed to carry out the request.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "4209",
+  "originalCodeUrl": "/win32/winerror-h/error_wmi_dp_failed/4209/"
+}

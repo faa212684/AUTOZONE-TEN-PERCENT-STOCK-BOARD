@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_invalid_ldt_offset\0xc0000119\index.html.json
+
+title: 0xC0000119 STATUS_INVALID_LDT_OFFSET in ntstatus.h
+description: Indicates that the starting value for the LDT information was not an integral multiple of the selector size.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000119",
+  "codeUrl": "/win32/ntstatus-h/status_invalid_ldt_offset/0xc0000119/",
+  "numericCode": -1073741543,
+  "define": "STATUS_INVALID_LDT_OFFSET",
+  "defineUrl": "/win32/ntstatus-h/status_invalid_ldt_offset/",
+  "message": "Indicates that the starting value for the LDT information was not an integral multiple of the selector size.",
+  "remarks": null,
+  "aka": [
+    "-1073741543"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_invalid_ldt_offset/-1073741543/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

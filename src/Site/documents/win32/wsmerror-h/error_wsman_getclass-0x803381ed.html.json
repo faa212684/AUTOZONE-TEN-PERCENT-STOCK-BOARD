@@ -1,0 +1,28 @@
+---
+output: win32\wsmerror-h\error_wsman_getclass\0x803381ed\index.html.json
+
+title: 0x803381ED ERROR_WSMAN_GETCLASS in wsmerror.h
+description: The WinRM client cannot process the request because the metadata failed to be retrieved from the server.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x803381ED",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_getclass/0x803381ed/",
+  "numericCode": -2144108051,
+  "define": "ERROR_WSMAN_GETCLASS",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_getclass/",
+  "message": "The WinRM client cannot process the request because the metadata failed to be retrieved from the server.",
+  "remarks": null,
+  "aka": [
+    "-2144108051"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_getclass/-2144108051/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

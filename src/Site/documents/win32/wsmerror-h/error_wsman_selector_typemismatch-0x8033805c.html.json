@@ -1,0 +1,28 @@
+---
+output: win32\wsmerror-h\error_wsman_selector_typemismatch\0x8033805c\index.html.json
+
+title: 0x8033805C ERROR_WSMAN_SELECTOR_TYPEMISMATCH in wsmerror.h
+description: The WS-Management service cannot process the request because a value for a selector is of the wrong type.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x8033805C",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_selector_typemismatch/0x8033805c/",
+  "numericCode": -2144108452,
+  "define": "ERROR_WSMAN_SELECTOR_TYPEMISMATCH",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_selector_typemismatch/",
+  "message": "The WS-Management service cannot process the request because a value for a selector is of the wrong type.",
+  "remarks": null,
+  "aka": [
+    "-2144108452"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_selector_typemismatch/-2144108452/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

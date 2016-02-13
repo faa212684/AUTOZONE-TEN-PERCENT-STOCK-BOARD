@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ds_modifydn_disallowed_by_instance_type\8579\index.html.json
+
+title: 8579 ERROR_DS_MODIFYDN_DISALLOWED_BY_INSTANCE_TYPE in winerror.h
+description: Rename or move operations on naming context heads or read-only objects are not allowed.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "8579",
+  "codeUrl": "/win32/winerror-h/error_ds_modifydn_disallowed_by_instance_type/8579/",
+  "numericCode": 8579,
+  "define": "ERROR_DS_MODIFYDN_DISALLOWED_BY_INSTANCE_TYPE",
+  "defineUrl": "/win32/winerror-h/error_ds_modifydn_disallowed_by_instance_type/",
+  "message": "Rename or move operations on naming context heads or read-only objects are not allowed.",
+  "remarks": null,
+  "aka": [
+    "0x80072183",
+    "-2147016317"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ds_modifydn_disallowed_by_instance_type/0x80072183/",
+    "/win32/winerror-h/error_ds_modifydn_disallowed_by_instance_type/-2147016317/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

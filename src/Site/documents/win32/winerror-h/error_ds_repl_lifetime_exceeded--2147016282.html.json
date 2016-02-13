@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_ds_repl_lifetime_exceeded\-2147016282\index.html.json
+canonical: /win32/winerror-h/error_ds_repl_lifetime_exceeded/8614/
+title: -2147016282 ERROR_DS_REPL_LIFETIME_EXCEEDED in winerror.h
+description: The directory service cannot replicate with this server because the time since the last replication with this server has exceeded the tombstone lifetime.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147016282",
+  "codeUrl": "/win32/winerror-h/error_ds_repl_lifetime_exceeded/-2147016282/",
+  "numericCode": 0,
+  "define": "ERROR_DS_REPL_LIFETIME_EXCEEDED",
+  "defineUrl": "/win32/winerror-h/error_ds_repl_lifetime_exceeded/",
+  "message": "The directory service cannot replicate with this server because the time since the last replication with this server has exceeded the tombstone lifetime.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "8614",
+  "originalCodeUrl": "/win32/winerror-h/error_ds_repl_lifetime_exceeded/8614/"
+}

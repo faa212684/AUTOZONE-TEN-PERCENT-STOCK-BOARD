@@ -1,0 +1,24 @@
+---
+output: bugcheck\bugcodes-h\windows_nt_info_string\1073741960\index.html.json
+canonical: /bugcheck/bugcodes-h/windows_nt_info_string/0x40000088/
+title: 1073741960 WINDOWS_NT_INFO_STRING in bugcodes.h
+description: %u System Processor [%u MB Memory] %Z
+disqus: false
+---
+{
+  "area": "bugcheck",
+  "areaUrl": "/bugcheck/",
+  "source": "bugcodes.h",
+  "sourceUrl": "/bugcheck/bugcodes-h/",
+  "code": "1073741960",
+  "codeUrl": "/bugcheck/bugcodes-h/windows_nt_info_string/1073741960/",
+  "numericCode": 0,
+  "define": "WINDOWS_NT_INFO_STRING",
+  "defineUrl": "/bugcheck/bugcodes-h/windows_nt_info_string/",
+  "message": "%u System Processor [%u MB Memory] %Z",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x40000088",
+  "originalCodeUrl": "/bugcheck/bugcodes-h/windows_nt_info_string/0x40000088/"
+}

@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_ps_resource_pool\0xc000371e\index.html.json
+
+title: 0xC000371E EVENT_PS_RESOURCE_POOL in netevent.h
+description: QoS [Adapter %2]:%nCould not initialize due to insufficient nonpaged pool memory.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC000371E",
+  "codeUrl": "/win32/netevent-h/event_ps_resource_pool/0xc000371e/",
+  "numericCode": -1073727714,
+  "define": "EVENT_PS_RESOURCE_POOL",
+  "defineUrl": "/win32/netevent-h/event_ps_resource_pool/",
+  "message": "QoS [Adapter %2]:%nCould not initialize due to insufficient nonpaged pool memory.",
+  "remarks": null,
+  "aka": [
+    "-1073727714"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_ps_resource_pool/-1073727714/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

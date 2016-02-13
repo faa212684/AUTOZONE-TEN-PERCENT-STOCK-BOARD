@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_svhdx_unit_attention_reservations_preempted\0xc05cff03\index.html.json
+
+title: 0xC05CFF03 STATUS_SVHDX_UNIT_ATTENTION_RESERVATIONS_PREEMPTED in ntstatus.h
+description: A previous operation resulted in this initiator's reservations being preempted, resulting in a Unit Attention condition.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC05CFF03",
+  "codeUrl": "/win32/ntstatus-h/status_svhdx_unit_attention_reservations_preempted/0xc05cff03/",
+  "numericCode": -1067647229,
+  "define": "STATUS_SVHDX_UNIT_ATTENTION_RESERVATIONS_PREEMPTED",
+  "defineUrl": "/win32/ntstatus-h/status_svhdx_unit_attention_reservations_preempted/",
+  "message": "A previous operation resulted in this initiator's reservations being preempted, resulting in a Unit Attention condition.",
+  "remarks": null,
+  "aka": [
+    "-1067647229"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_svhdx_unit_attention_reservations_preempted/-1067647229/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

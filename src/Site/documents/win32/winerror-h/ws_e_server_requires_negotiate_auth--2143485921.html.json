@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\ws_e_server_requires_negotiate_auth\-2143485921\index.html.json
+canonical: /win32/winerror-h/ws_e_server_requires_negotiate_auth/0x803d001f/
+title: -2143485921 WS_E_SERVER_REQUIRES_NEGOTIATE_AUTH in winerror.h
+description: The remote endpoint requires HTTP authentication scheme 'negotiate'.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2143485921",
+  "codeUrl": "/win32/winerror-h/ws_e_server_requires_negotiate_auth/-2143485921/",
+  "numericCode": 0,
+  "define": "WS_E_SERVER_REQUIRES_NEGOTIATE_AUTH",
+  "defineUrl": "/win32/winerror-h/ws_e_server_requires_negotiate_auth/",
+  "message": "The remote endpoint requires HTTP authentication scheme 'negotiate'.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x803D001F",
+  "originalCodeUrl": "/win32/winerror-h/ws_e_server_requires_negotiate_auth/0x803d001f/"
+}

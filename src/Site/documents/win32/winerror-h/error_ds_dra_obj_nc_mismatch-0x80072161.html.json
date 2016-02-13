@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_ds_dra_obj_nc_mismatch\0x80072161\index.html.json
+canonical: /win32/winerror-h/error_ds_dra_obj_nc_mismatch/8545/
+title: 0x80072161 ERROR_DS_DRA_OBJ_NC_MISMATCH in winerror.h
+description: The replication update could not be applied because either the source or the destination has not yet received information regarding a recent cross-domain move operation.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80072161",
+  "codeUrl": "/win32/winerror-h/error_ds_dra_obj_nc_mismatch/0x80072161/",
+  "numericCode": 0,
+  "define": "ERROR_DS_DRA_OBJ_NC_MISMATCH",
+  "defineUrl": "/win32/winerror-h/error_ds_dra_obj_nc_mismatch/",
+  "message": "The replication update could not be applied because either the source or the destination has not yet received information regarding a recent cross-domain move operation.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "8545",
+  "originalCodeUrl": "/win32/winerror-h/error_ds_dra_obj_nc_mismatch/8545/"
+}

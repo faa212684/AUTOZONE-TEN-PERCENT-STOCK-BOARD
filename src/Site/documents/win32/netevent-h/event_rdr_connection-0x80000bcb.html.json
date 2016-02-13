@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_rdr_connection\0x80000bcb\index.html.json
+
+title: 0x80000BCB EVENT_RDR_CONNECTION in netevent.h
+description: The redirector failed to determine the connection type.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x80000BCB",
+  "codeUrl": "/win32/netevent-h/event_rdr_connection/0x80000bcb/",
+  "numericCode": -2147480629,
+  "define": "EVENT_RDR_CONNECTION",
+  "defineUrl": "/win32/netevent-h/event_rdr_connection/",
+  "message": "The redirector failed to determine the connection type.",
+  "remarks": null,
+  "aka": [
+    "-2147480629"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_rdr_connection/-2147480629/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

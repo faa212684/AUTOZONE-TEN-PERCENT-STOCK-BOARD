@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_eventlogstarted\0x80001775\index.html.json
+
+title: 0x80001775 EVENT_EventlogStarted in netevent.h
+description: The Event log service was started.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x80001775",
+  "codeUrl": "/win32/netevent-h/event_eventlogstarted/0x80001775/",
+  "numericCode": -2147477643,
+  "define": "EVENT_EventlogStarted",
+  "defineUrl": "/win32/netevent-h/event_eventlogstarted/",
+  "message": "The Event log service was started.",
+  "remarks": null,
+  "aka": [
+    "-2147477643"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_eventlogstarted/-2147477643/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

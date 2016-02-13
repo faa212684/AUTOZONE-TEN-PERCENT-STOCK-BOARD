@@ -1,0 +1,31 @@
+---
+output: win32\wsmerror-h\error_wsman_ssl_connection_aborted\0x803381ba\index.html.json
+
+title: 0x803381BA ERROR_WSMAN_SSL_CONNECTION_ABORTED in wsmerror.h
+description: The SSL connection cannot be established.
+Verify that the service on the remote host is properly configured to listen for HTTPS requests.
+Consult the logs and documentation for the WS-Management service running on the destination, most commonly IIS or WinRM.
+If the destination is the WinRM service, run the following command on the destination to analyze and configure the WinRM service: "winrm quickconfig -transport:https".
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x803381BA",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_ssl_connection_aborted/0x803381ba/",
+  "numericCode": -2144108102,
+  "define": "ERROR_WSMAN_SSL_CONNECTION_ABORTED",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_ssl_connection_aborted/",
+  "message": "The SSL connection cannot be established.\r\nVerify that the service on the remote host is properly configured to listen for HTTPS requests.\r\nConsult the logs and documentation for the WS-Management service running on the destination, most commonly IIS or WinRM.\r\nIf the destination is the WinRM service, run the following command on the destination to analyze and configure the WinRM service: \"winrm quickconfig -transport:https\".",
+  "remarks": null,
+  "aka": [
+    "-2144108102"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_ssl_connection_aborted/-2144108102/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

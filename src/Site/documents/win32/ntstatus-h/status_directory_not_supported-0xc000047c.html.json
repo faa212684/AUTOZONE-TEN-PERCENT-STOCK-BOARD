@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_directory_not_supported\0xc000047c\index.html.json
+
+title: 0xC000047C STATUS_DIRECTORY_NOT_SUPPORTED in ntstatus.h
+description: An operation is not supported on a directory.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000047C",
+  "codeUrl": "/win32/ntstatus-h/status_directory_not_supported/0xc000047c/",
+  "numericCode": -1073740676,
+  "define": "STATUS_DIRECTORY_NOT_SUPPORTED",
+  "defineUrl": "/win32/ntstatus-h/status_directory_not_supported/",
+  "message": "An operation is not supported on a directory.",
+  "remarks": null,
+  "aka": [
+    "-1073740676"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_directory_not_supported/-1073740676/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

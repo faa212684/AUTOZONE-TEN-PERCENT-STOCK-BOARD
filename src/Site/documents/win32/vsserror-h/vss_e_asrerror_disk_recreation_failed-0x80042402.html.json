@@ -1,0 +1,28 @@
+---
+output: win32\vsserror-h\vss_e_asrerror_disk_recreation_failed\0x80042402\index.html.json
+
+title: 0x80042402 VSS_E_ASRERROR_DISK_RECREATION_FAILED in vsserror.h
+description: Windows cannot create a disk on this computer needed to restore from the backup. Make sure the disks are properly connected, or add or change disks, and try the restore again.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vsserror.h",
+  "sourceUrl": "/win32/vsserror-h/",
+  "code": "0x80042402",
+  "codeUrl": "/win32/vsserror-h/vss_e_asrerror_disk_recreation_failed/0x80042402/",
+  "numericCode": -2147212286,
+  "define": "VSS_E_ASRERROR_DISK_RECREATION_FAILED",
+  "defineUrl": "/win32/vsserror-h/vss_e_asrerror_disk_recreation_failed/",
+  "message": "Windows cannot create a disk on this computer needed to restore from the backup. Make sure the disks are properly connected, or add or change disks, and try the restore again.",
+  "remarks": null,
+  "aka": [
+    "-2147212286"
+  ],
+  "akaUrl": [
+    "/win32/vsserror-h/vss_e_asrerror_disk_recreation_failed/-2147212286/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

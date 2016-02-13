@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_core_resource\5026\index.html.json
+
+title: 5026 ERROR_CORE_RESOURCE in winerror.h
+description: The cluster resource could not be deleted since it is a core resource.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "5026",
+  "codeUrl": "/win32/winerror-h/error_core_resource/5026/",
+  "numericCode": 5026,
+  "define": "ERROR_CORE_RESOURCE",
+  "defineUrl": "/win32/winerror-h/error_core_resource/",
+  "message": "The cluster resource could not be deleted since it is a core resource.",
+  "remarks": null,
+  "aka": [
+    "0x800713a2",
+    "-2147019870"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_core_resource/0x800713a2/",
+    "/win32/winerror-h/error_core_resource/-2147019870/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

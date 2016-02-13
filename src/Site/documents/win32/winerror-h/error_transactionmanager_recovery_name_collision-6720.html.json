@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_transactionmanager_recovery_name_collision\6720\index.html.json
+
+title: 6720 ERROR_TRANSACTIONMANAGER_RECOVERY_NAME_COLLISION in winerror.h
+description: The specified TransactionManager was unable to create the objects contained in its logfile in the Ob namespace. Therefore, the TransactionManager was unable to recover.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "6720",
+  "codeUrl": "/win32/winerror-h/error_transactionmanager_recovery_name_collision/6720/",
+  "numericCode": 6720,
+  "define": "ERROR_TRANSACTIONMANAGER_RECOVERY_NAME_COLLISION",
+  "defineUrl": "/win32/winerror-h/error_transactionmanager_recovery_name_collision/",
+  "message": "The specified TransactionManager was unable to create the objects contained in its logfile in the Ob namespace. Therefore, the TransactionManager was unable to recover.",
+  "remarks": null,
+  "aka": [
+    "0x80071a40",
+    "-2147018176"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_transactionmanager_recovery_name_collision/0x80071a40/",
+    "/win32/winerror-h/error_transactionmanager_recovery_name_collision/-2147018176/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

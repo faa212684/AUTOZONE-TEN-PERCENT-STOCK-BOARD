@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ipsec_ike_add_update_key_failed\13860\index.html.json
+
+title: 13860 ERROR_IPSEC_IKE_ADD_UPDATE_KEY_FAILED in winerror.h
+description: Failed to add Security Association to IPsec Driver. The most common cause for this is if the IKE negotiation took too long to complete. If the problem persists, reduce the load on the faulting machine.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "13860",
+  "codeUrl": "/win32/winerror-h/error_ipsec_ike_add_update_key_failed/13860/",
+  "numericCode": 13860,
+  "define": "ERROR_IPSEC_IKE_ADD_UPDATE_KEY_FAILED",
+  "defineUrl": "/win32/winerror-h/error_ipsec_ike_add_update_key_failed/",
+  "message": "Failed to add Security Association to IPsec Driver. The most common cause for this is if the IKE negotiation took too long to complete. If the problem persists, reduce the load on the faulting machine.",
+  "remarks": null,
+  "aka": [
+    "0x80073624",
+    "-2147011036"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ipsec_ike_add_update_key_failed/0x80073624/",
+    "/win32/winerror-h/error_ipsec_ike_add_update_key_failed/-2147011036/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

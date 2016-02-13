@@ -1,0 +1,28 @@
+---
+output: win32\fsrmerr-h\fsrm_e_message_limit_exceeded\0x80045338\index.html.json
+
+title: 0x80045338 FSRM_E_MESSAGE_LIMIT_EXCEEDED in fsrmerr.h
+description: The limit of the number of messages that the current pipeline context can add to the property bag has been reached.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "fsrmerr.h",
+  "sourceUrl": "/win32/fsrmerr-h/",
+  "code": "0x80045338",
+  "codeUrl": "/win32/fsrmerr-h/fsrm_e_message_limit_exceeded/0x80045338/",
+  "numericCode": -2147200200,
+  "define": "FSRM_E_MESSAGE_LIMIT_EXCEEDED",
+  "defineUrl": "/win32/fsrmerr-h/fsrm_e_message_limit_exceeded/",
+  "message": "The limit of the number of messages that the current pipeline context can add to the property bag has been reached.",
+  "remarks": null,
+  "aka": [
+    "-2147200200"
+  ],
+  "akaUrl": [
+    "/win32/fsrmerr-h/fsrm_e_message_limit_exceeded/-2147200200/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

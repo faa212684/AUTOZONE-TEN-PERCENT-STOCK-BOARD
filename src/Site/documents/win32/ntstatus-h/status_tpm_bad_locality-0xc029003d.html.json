@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_tpm_bad_locality\0xc029003d\index.html.json
+
+title: 0xC029003D STATUS_TPM_BAD_LOCALITY in ntstatus.h
+description: The locality is incorrect for the attempted operation.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC029003D",
+  "codeUrl": "/win32/ntstatus-h/status_tpm_bad_locality/0xc029003d/",
+  "numericCode": -1071054787,
+  "define": "STATUS_TPM_BAD_LOCALITY",
+  "defineUrl": "/win32/ntstatus-h/status_tpm_bad_locality/",
+  "message": "The locality is incorrect for the attempted operation.",
+  "remarks": null,
+  "aka": [
+    "-1071054787"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_tpm_bad_locality/-1071054787/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

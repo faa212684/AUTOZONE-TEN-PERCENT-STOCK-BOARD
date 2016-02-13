@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\peer_e_too_many_identities\0x80630202\index.html.json
+
+title: 0x80630202 PEER_E_TOO_MANY_IDENTITIES in winerror.h
+description: The maximum number of identities have been created.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80630202",
+  "codeUrl": "/win32/winerror-h/peer_e_too_many_identities/0x80630202/",
+  "numericCode": -2140995070,
+  "define": "PEER_E_TOO_MANY_IDENTITIES",
+  "defineUrl": "/win32/winerror-h/peer_e_too_many_identities/",
+  "message": "The maximum number of identities have been created.",
+  "remarks": null,
+  "aka": [
+    "-2140995070"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/peer_e_too_many_identities/-2140995070/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

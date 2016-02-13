@@ -1,0 +1,28 @@
+---
+output: win32\oledberr-h\db_e_goalrejected\0x80040e1c\index.html.json
+
+title: 0x80040E1C DB_E_GOALREJECTED in oledberr.h
+description: Goal was rejected because no nonzero weights were specified for any goals supported. Current goal was not changed.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "oledberr.h",
+  "sourceUrl": "/win32/oledberr-h/",
+  "code": "0x80040E1C",
+  "codeUrl": "/win32/oledberr-h/db_e_goalrejected/0x80040e1c/",
+  "numericCode": -2147217892,
+  "define": "DB_E_GOALREJECTED",
+  "defineUrl": "/win32/oledberr-h/db_e_goalrejected/",
+  "message": "Goal was rejected because no nonzero weights were specified for any goals supported. Current goal was not changed.",
+  "remarks": null,
+  "aka": [
+    "-2147217892"
+  ],
+  "akaUrl": [
+    "/win32/oledberr-h/db_e_goalrejected/-2147217892/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

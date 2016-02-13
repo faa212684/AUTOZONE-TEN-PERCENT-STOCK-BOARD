@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\scard_e_write_too_many\0x80100028\index.html.json
+
+title: 0x80100028 SCARD_E_WRITE_TOO_MANY in winerror.h
+description: The smart card does not have enough memory to store the information.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80100028",
+  "codeUrl": "/win32/winerror-h/scard_e_write_too_many/0x80100028/",
+  "numericCode": -2146435032,
+  "define": "SCARD_E_WRITE_TOO_MANY",
+  "defineUrl": "/win32/winerror-h/scard_e_write_too_many/",
+  "message": "The smart card does not have enough memory to store the information.",
+  "remarks": null,
+  "aka": [
+    "-2146435032"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/scard_e_write_too_many/-2146435032/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

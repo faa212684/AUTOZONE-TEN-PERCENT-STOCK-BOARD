@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_vid_invalid_numa_settings\0xc037000f\index.html.json
+
+title: 0xC037000F STATUS_VID_INVALID_NUMA_SETTINGS in ntstatus.h
+description: The non-uniform memory access (NUMA) node settings do not match the system NUMA topology. In order to start the virtual machine, you will need to modify the NUMA configuration.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC037000F",
+  "codeUrl": "/win32/ntstatus-h/status_vid_invalid_numa_settings/0xc037000f/",
+  "numericCode": -1070137329,
+  "define": "STATUS_VID_INVALID_NUMA_SETTINGS",
+  "defineUrl": "/win32/ntstatus-h/status_vid_invalid_numa_settings/",
+  "message": "The non-uniform memory access (NUMA) node settings do not match the system NUMA topology. In order to start the virtual machine, you will need to modify the NUMA configuration.",
+  "remarks": null,
+  "aka": [
+    "-1070137329"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_vid_invalid_numa_settings/-1070137329/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

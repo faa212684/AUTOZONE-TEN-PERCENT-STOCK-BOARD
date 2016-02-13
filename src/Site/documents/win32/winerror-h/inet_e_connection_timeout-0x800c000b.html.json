@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\inet_e_connection_timeout\0x800c000b\index.html.json
+
+title: 0x800C000B INET_E_CONNECTION_TIMEOUT in winerror.h
+description: The operation was timed out.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800C000B",
+  "codeUrl": "/win32/winerror-h/inet_e_connection_timeout/0x800c000b/",
+  "numericCode": -2146697205,
+  "define": "INET_E_CONNECTION_TIMEOUT",
+  "defineUrl": "/win32/winerror-h/inet_e_connection_timeout/",
+  "message": "The operation was timed out.",
+  "remarks": null,
+  "aka": [
+    "-2146697205"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/inet_e_connection_timeout/-2146697205/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,31 @@
+---
+output: win32\netevent-h\ntfrsprf_collect_rpc_call_error_conn\0xc00034de\index.html.json
+
+title: 0xC00034DE NTFRSPRF_COLLECT_RPC_CALL_ERROR_CONN in netevent.h
+description: The RPC call failed in the Collect function of the FileReplicaConn Object. The
+counter data for this object will not be available till the call succeeds. The
+FileReplicaConn object contains the performance counters of the connections over
+which files are being replicated by the File Replication Service.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC00034DE",
+  "codeUrl": "/win32/netevent-h/ntfrsprf_collect_rpc_call_error_conn/0xc00034de/",
+  "numericCode": -1073728290,
+  "define": "NTFRSPRF_COLLECT_RPC_CALL_ERROR_CONN",
+  "defineUrl": "/win32/netevent-h/ntfrsprf_collect_rpc_call_error_conn/",
+  "message": "The RPC call failed in the Collect function of the FileReplicaConn Object. The\r\ncounter data for this object will not be available till the call succeeds. The\r\nFileReplicaConn object contains the performance counters of the connections over\r\nwhich files are being replicated by the File Replication Service.",
+  "remarks": null,
+  "aka": [
+    "-1073728290"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/ntfrsprf_collect_rpc_call_error_conn/-1073728290/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_fve_protection_cannot_be_disabled\-1071579073\index.html.json
+canonical: /win32/ntstatus-h/status_fve_protection_cannot_be_disabled/0xc021003f/
+title: -1071579073 STATUS_FVE_PROTECTION_CANNOT_BE_DISABLED in ntstatus.h
+description: BitLocker can't be suspended on this drive until the next restart.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071579073",
+  "codeUrl": "/win32/ntstatus-h/status_fve_protection_cannot_be_disabled/-1071579073/",
+  "numericCode": 0,
+  "define": "STATUS_FVE_PROTECTION_CANNOT_BE_DISABLED",
+  "defineUrl": "/win32/ntstatus-h/status_fve_protection_cannot_be_disabled/",
+  "message": "BitLocker can't be suspended on this drive until the next restart.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC021003F",
+  "originalCodeUrl": "/win32/ntstatus-h/status_fve_protection_cannot_be_disabled/0xc021003f/"
+}

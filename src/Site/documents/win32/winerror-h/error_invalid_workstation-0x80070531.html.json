@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_invalid_workstation\0x80070531\index.html.json
+canonical: /win32/winerror-h/error_invalid_workstation/1329/
+title: 0x80070531 ERROR_INVALID_WORKSTATION in winerror.h
+description: This user isn't allowed to sign in to this computer.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80070531",
+  "codeUrl": "/win32/winerror-h/error_invalid_workstation/0x80070531/",
+  "numericCode": 0,
+  "define": "ERROR_INVALID_WORKSTATION",
+  "defineUrl": "/win32/winerror-h/error_invalid_workstation/",
+  "message": "This user isn't allowed to sign in to this computer.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "1329",
+  "originalCodeUrl": "/win32/winerror-h/error_invalid_workstation/1329/"
+}

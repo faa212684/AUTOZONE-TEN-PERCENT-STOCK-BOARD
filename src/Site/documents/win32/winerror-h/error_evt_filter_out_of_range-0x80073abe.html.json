@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_evt_filter_out_of_range\0x80073abe\index.html.json
+canonical: /win32/winerror-h/error_evt_filter_out_of_range/15038/
+title: 0x80073abe ERROR_EVT_FILTER_OUT_OF_RANGE in winerror.h
+description: Attempted to create a numeric type that is outside of its valid range.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80073abe",
+  "codeUrl": "/win32/winerror-h/error_evt_filter_out_of_range/0x80073abe/",
+  "numericCode": 0,
+  "define": "ERROR_EVT_FILTER_OUT_OF_RANGE",
+  "defineUrl": "/win32/winerror-h/error_evt_filter_out_of_range/",
+  "message": "Attempted to create a numeric type that is outside of its valid range.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "15038",
+  "originalCodeUrl": "/win32/winerror-h/error_evt_filter_out_of_range/15038/"
+}

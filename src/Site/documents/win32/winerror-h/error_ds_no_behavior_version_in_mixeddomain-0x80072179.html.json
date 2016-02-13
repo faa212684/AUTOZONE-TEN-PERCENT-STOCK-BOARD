@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_ds_no_behavior_version_in_mixeddomain\0x80072179\index.html.json
+canonical: /win32/winerror-h/error_ds_no_behavior_version_in_mixeddomain/8569/
+title: 0x80072179 ERROR_DS_NO_BEHAVIOR_VERSION_IN_MIXEDDOMAIN in winerror.h
+description: The forest functional level cannot be raised to the requested value since one or more domains are still in mixed domain mode. All domains in the forest must be in native mode, for you to raise the forest functional level.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80072179",
+  "codeUrl": "/win32/winerror-h/error_ds_no_behavior_version_in_mixeddomain/0x80072179/",
+  "numericCode": 0,
+  "define": "ERROR_DS_NO_BEHAVIOR_VERSION_IN_MIXEDDOMAIN",
+  "defineUrl": "/win32/winerror-h/error_ds_no_behavior_version_in_mixeddomain/",
+  "message": "The forest functional level cannot be raised to the requested value since one or more domains are still in mixed domain mode. All domains in the forest must be in native mode, for you to raise the forest functional level.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "8569",
+  "originalCodeUrl": "/win32/winerror-h/error_ds_no_behavior_version_in_mixeddomain/8569/"
+}

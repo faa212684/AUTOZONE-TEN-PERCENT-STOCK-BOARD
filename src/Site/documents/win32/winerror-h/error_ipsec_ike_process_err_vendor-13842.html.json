@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ipsec_ike_process_err_vendor\13842\index.html.json
+
+title: 13842 ERROR_IPSEC_IKE_PROCESS_ERR_VENDOR in winerror.h
+description: Error processing VendorId payload
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "13842",
+  "codeUrl": "/win32/winerror-h/error_ipsec_ike_process_err_vendor/13842/",
+  "numericCode": 13842,
+  "define": "ERROR_IPSEC_IKE_PROCESS_ERR_VENDOR",
+  "defineUrl": "/win32/winerror-h/error_ipsec_ike_process_err_vendor/",
+  "message": "Error processing VendorId payload",
+  "remarks": null,
+  "aka": [
+    "0x80073612",
+    "-2147011054"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ipsec_ike_process_err_vendor/0x80073612/",
+    "/win32/winerror-h/error_ipsec_ike_process_err_vendor/-2147011054/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\error_vhd_child_parent_size_mismatch\0xc03a0017\index.html.json
+
+title: 0xC03A0017 ERROR_VHD_CHILD_PARENT_SIZE_MISMATCH in winerror.h
+description: The chain of virtual hard disks is corrupted. There is a mismatch in the virtual sizes of the parent virtual hard disk and differencing disk.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0xC03A0017",
+  "codeUrl": "/win32/winerror-h/error_vhd_child_parent_size_mismatch/0xc03a0017/",
+  "numericCode": -1069940713,
+  "define": "ERROR_VHD_CHILD_PARENT_SIZE_MISMATCH",
+  "defineUrl": "/win32/winerror-h/error_vhd_child_parent_size_mismatch/",
+  "message": "The chain of virtual hard disks is corrupted. There is a mismatch in the virtual sizes of the parent virtual hard disk and differencing disk.",
+  "remarks": null,
+  "aka": [
+    "-1069940713"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_vhd_child_parent_size_mismatch/-1069940713/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

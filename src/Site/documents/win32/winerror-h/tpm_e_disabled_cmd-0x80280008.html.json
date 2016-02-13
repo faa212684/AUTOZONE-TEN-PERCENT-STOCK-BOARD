@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\tpm_e_disabled_cmd\0x80280008\index.html.json
+
+title: 0x80280008 TPM_E_DISABLED_CMD in winerror.h
+description: The target command has been disabled.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80280008",
+  "codeUrl": "/win32/winerror-h/tpm_e_disabled_cmd/0x80280008/",
+  "numericCode": -2144862200,
+  "define": "TPM_E_DISABLED_CMD",
+  "defineUrl": "/win32/winerror-h/tpm_e_disabled_cmd/",
+  "message": "The target command has been disabled.",
+  "remarks": null,
+  "aka": [
+    "-2144862200"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/tpm_e_disabled_cmd/-2144862200/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

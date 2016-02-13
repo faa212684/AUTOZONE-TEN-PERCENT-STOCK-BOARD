@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_not_supported_on_standard_server\8584\index.html.json
+
+title: 8584 ERROR_NOT_SUPPORTED_ON_STANDARD_SERVER in winerror.h
+description: The requested action is not supported on standard server.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "8584",
+  "codeUrl": "/win32/winerror-h/error_not_supported_on_standard_server/8584/",
+  "numericCode": 8584,
+  "define": "ERROR_NOT_SUPPORTED_ON_STANDARD_SERVER",
+  "defineUrl": "/win32/winerror-h/error_not_supported_on_standard_server/",
+  "message": "The requested action is not supported on standard server.",
+  "remarks": null,
+  "aka": [
+    "0x80072188",
+    "-2147016312"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_not_supported_on_standard_server/0x80072188/",
+    "/win32/winerror-h/error_not_supported_on_standard_server/-2147016312/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

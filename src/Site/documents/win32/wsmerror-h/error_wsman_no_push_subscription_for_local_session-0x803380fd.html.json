@@ -1,0 +1,28 @@
+---
+output: win32\wsmerror-h\error_wsman_no_push_subscription_for_local_session\0x803380fd\index.html.json
+
+title: 0x803380FD ERROR_WSMAN_NO_PUSH_SUBSCRIPTION_FOR_LOCAL_SESSION in wsmerror.h
+description: Subscribe operation with Push delivery mode is only available on remote sessions.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x803380FD",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_no_push_subscription_for_local_session/0x803380fd/",
+  "numericCode": -2144108291,
+  "define": "ERROR_WSMAN_NO_PUSH_SUBSCRIPTION_FOR_LOCAL_SESSION",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_no_push_subscription_for_local_session/",
+  "message": "Subscribe operation with Push delivery mode is only available on remote sessions.",
+  "remarks": null,
+  "aka": [
+    "-2144108291"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_no_push_subscription_for_local_session/-2144108291/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

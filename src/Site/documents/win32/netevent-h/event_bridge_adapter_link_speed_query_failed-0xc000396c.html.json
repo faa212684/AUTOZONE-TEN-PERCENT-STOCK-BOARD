@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_bridge_adapter_link_speed_query_failed\0xc000396c\index.html.json
+
+title: 0xC000396C EVENT_BRIDGE_ADAPTER_LINK_SPEED_QUERY_FAILED in netevent.h
+description: Bridge [Adapter %2]:%nThe bridge could not determine the network adapter's link speed. The network adapter will not be used.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC000396C",
+  "codeUrl": "/win32/netevent-h/event_bridge_adapter_link_speed_query_failed/0xc000396c/",
+  "numericCode": -1073727124,
+  "define": "EVENT_BRIDGE_ADAPTER_LINK_SPEED_QUERY_FAILED",
+  "defineUrl": "/win32/netevent-h/event_bridge_adapter_link_speed_query_failed/",
+  "message": "Bridge [Adapter %2]:%nThe bridge could not determine the network adapter's link speed. The network adapter will not be used.",
+  "remarks": null,
+  "aka": [
+    "-1073727124"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_bridge_adapter_link_speed_query_failed/-1073727124/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

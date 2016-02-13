@@ -1,0 +1,28 @@
+---
+output: win32\cierror-h\ci_e_strange_pageorsector_size\0x8004181e\index.html.json
+
+title: 0x8004181E CI_E_STRANGE_PAGEORSECTOR_SIZE in CiError.h
+description: Page size is not an integral multiple of the sector size of the volume where index is located.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "CiError.h",
+  "sourceUrl": "/win32/cierror-h/",
+  "code": "0x8004181E",
+  "codeUrl": "/win32/cierror-h/ci_e_strange_pageorsector_size/0x8004181e/",
+  "numericCode": -2147215330,
+  "define": "CI_E_STRANGE_PAGEORSECTOR_SIZE",
+  "defineUrl": "/win32/cierror-h/ci_e_strange_pageorsector_size/",
+  "message": "Page size is not an integral multiple of the sector size of the volume where index is located.",
+  "remarks": null,
+  "aka": [
+    "-2147215330"
+  ],
+  "akaUrl": [
+    "/win32/cierror-h/ci_e_strange_pageorsector_size/-2147215330/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

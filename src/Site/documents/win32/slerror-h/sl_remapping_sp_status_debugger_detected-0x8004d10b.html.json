@@ -1,0 +1,28 @@
+---
+output: win32\slerror-h\sl_remapping_sp_status_debugger_detected\0x8004d10b\index.html.json
+
+title: 0x8004D10B SL_REMAPPING_SP_STATUS_DEBUGGER_DETECTED in slerror.h
+description: The security processor cannot operate while a debugger is attached.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "slerror.h",
+  "sourceUrl": "/win32/slerror-h/",
+  "code": "0x8004D10B",
+  "codeUrl": "/win32/slerror-h/sl_remapping_sp_status_debugger_detected/0x8004d10b/",
+  "numericCode": -2147167989,
+  "define": "SL_REMAPPING_SP_STATUS_DEBUGGER_DETECTED",
+  "defineUrl": "/win32/slerror-h/sl_remapping_sp_status_debugger_detected/",
+  "message": "The security processor cannot operate while a debugger is attached.",
+  "remarks": null,
+  "aka": [
+    "-2147167989"
+  ],
+  "akaUrl": [
+    "/win32/slerror-h/sl_remapping_sp_status_debugger_detected/-2147167989/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

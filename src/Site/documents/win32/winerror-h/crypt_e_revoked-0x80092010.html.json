@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\crypt_e_revoked\0x80092010\index.html.json
+
+title: 0x80092010 CRYPT_E_REVOKED in winerror.h
+description: The certificate is revoked.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80092010",
+  "codeUrl": "/win32/winerror-h/crypt_e_revoked/0x80092010/",
+  "numericCode": -2146885616,
+  "define": "CRYPT_E_REVOKED",
+  "defineUrl": "/win32/winerror-h/crypt_e_revoked/",
+  "message": "The certificate is revoked.",
+  "remarks": null,
+  "aka": [
+    "-2146885616"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/crypt_e_revoked/-2146885616/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

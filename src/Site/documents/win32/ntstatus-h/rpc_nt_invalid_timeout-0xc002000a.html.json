@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\rpc_nt_invalid_timeout\0xc002000a\index.html.json
+
+title: 0xC002000A RPC_NT_INVALID_TIMEOUT in ntstatus.h
+description: The timeout value is invalid.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC002000A",
+  "codeUrl": "/win32/ntstatus-h/rpc_nt_invalid_timeout/0xc002000a/",
+  "numericCode": -1073610742,
+  "define": "RPC_NT_INVALID_TIMEOUT",
+  "defineUrl": "/win32/ntstatus-h/rpc_nt_invalid_timeout/",
+  "message": "The timeout value is invalid.",
+  "remarks": null,
+  "aka": [
+    "-1073610742"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/rpc_nt_invalid_timeout/-1073610742/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

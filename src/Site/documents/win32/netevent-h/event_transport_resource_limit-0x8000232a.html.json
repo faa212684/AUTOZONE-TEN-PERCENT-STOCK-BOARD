@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_transport_resource_limit\0x8000232a\index.html.json
+
+title: 0x8000232A EVENT_TRANSPORT_RESOURCE_LIMIT in netevent.h
+description: %2 could not allocate a resource of type %3 due to its configured size of %4.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x8000232A",
+  "codeUrl": "/win32/netevent-h/event_transport_resource_limit/0x8000232a/",
+  "numericCode": -2147474646,
+  "define": "EVENT_TRANSPORT_RESOURCE_LIMIT",
+  "defineUrl": "/win32/netevent-h/event_transport_resource_limit/",
+  "message": "%2 could not allocate a resource of type %3 due to its configured size of %4.",
+  "remarks": null,
+  "aka": [
+    "-2147474646"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_transport_resource_limit/-2147474646/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

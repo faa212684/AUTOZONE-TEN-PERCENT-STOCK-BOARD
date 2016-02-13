@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\wininet_e_connection_aborted\0x80072efe\index.html.json
+
+title: 0x80072EFE WININET_E_CONNECTION_ABORTED in winerror.h
+description: The connection with the server was terminated abnormally
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80072EFE",
+  "codeUrl": "/win32/winerror-h/wininet_e_connection_aborted/0x80072efe/",
+  "numericCode": -2147012866,
+  "define": "WININET_E_CONNECTION_ABORTED",
+  "defineUrl": "/win32/winerror-h/wininet_e_connection_aborted/",
+  "message": "The connection with the server was terminated abnormally",
+  "remarks": null,
+  "aka": [
+    "-2147012866"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/wininet_e_connection_aborted/-2147012866/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

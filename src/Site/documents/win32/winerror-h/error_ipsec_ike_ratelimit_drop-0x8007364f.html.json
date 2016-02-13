@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_ipsec_ike_ratelimit_drop\0x8007364f\index.html.json
+canonical: /win32/winerror-h/error_ipsec_ike_ratelimit_drop/13903/
+title: 0x8007364f ERROR_IPSEC_IKE_RATELIMIT_DROP in winerror.h
+description: Incoming SA request was dropped due to peer IP address rate limiting.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007364f",
+  "codeUrl": "/win32/winerror-h/error_ipsec_ike_ratelimit_drop/0x8007364f/",
+  "numericCode": 0,
+  "define": "ERROR_IPSEC_IKE_RATELIMIT_DROP",
+  "defineUrl": "/win32/winerror-h/error_ipsec_ike_ratelimit_drop/",
+  "message": "Incoming SA request was dropped due to peer IP address rate limiting.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "13903",
+  "originalCodeUrl": "/win32/winerror-h/error_ipsec_ike_ratelimit_drop/13903/"
+}

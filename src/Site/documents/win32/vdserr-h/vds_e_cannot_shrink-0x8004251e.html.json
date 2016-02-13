@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_e_cannot_shrink\0x8004251e\index.html.json
+
+title: 0x8004251E VDS_E_CANNOT_SHRINK in vdserr.h
+description: The volume cannot be shrunk because the file system does not support it.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x8004251E",
+  "codeUrl": "/win32/vdserr-h/vds_e_cannot_shrink/0x8004251e/",
+  "numericCode": -2147212002,
+  "define": "VDS_E_CANNOT_SHRINK",
+  "defineUrl": "/win32/vdserr-h/vds_e_cannot_shrink/",
+  "message": "The volume cannot be shrunk because the file system does not support it.",
+  "remarks": null,
+  "aka": [
+    "-2147212002"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_cannot_shrink/-2147212002/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

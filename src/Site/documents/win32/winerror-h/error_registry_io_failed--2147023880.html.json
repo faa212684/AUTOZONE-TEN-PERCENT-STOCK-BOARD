@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_registry_io_failed\-2147023880\index.html.json
+canonical: /win32/winerror-h/error_registry_io_failed/1016/
+title: -2147023880 ERROR_REGISTRY_IO_FAILED in winerror.h
+description: An I/O operation initiated by the registry failed unrecoverably. The registry could not read in, or write out, or flush, one of the files that contain the system's image of the registry.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147023880",
+  "codeUrl": "/win32/winerror-h/error_registry_io_failed/-2147023880/",
+  "numericCode": 0,
+  "define": "ERROR_REGISTRY_IO_FAILED",
+  "defineUrl": "/win32/winerror-h/error_registry_io_failed/",
+  "message": "An I/O operation initiated by the registry failed unrecoverably. The registry could not read in, or write out, or flush, one of the files that contain the system's image of the registry.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "1016",
+  "originalCodeUrl": "/win32/winerror-h/error_registry_io_failed/1016/"
+}

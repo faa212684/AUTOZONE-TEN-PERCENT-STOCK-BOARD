@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\rpc_e_cantcallout_inasynccall\-2147418108\index.html.json
+canonical: /win32/winerror-h/rpc_e_cantcallout_inasynccall/0x80010004/
+title: -2147418108 RPC_E_CANTCALLOUT_INASYNCCALL in winerror.h
+description: The caller is dispatching an asynchronous call and cannot make an outgoing call on behalf of this call.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147418108",
+  "codeUrl": "/win32/winerror-h/rpc_e_cantcallout_inasynccall/-2147418108/",
+  "numericCode": 0,
+  "define": "RPC_E_CANTCALLOUT_INASYNCCALL",
+  "defineUrl": "/win32/winerror-h/rpc_e_cantcallout_inasynccall/",
+  "message": "The caller is dispatching an asynchronous call and cannot make an outgoing call on behalf of this call.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80010004",
+  "originalCodeUrl": "/win32/winerror-h/rpc_e_cantcallout_inasynccall/0x80010004/"
+}

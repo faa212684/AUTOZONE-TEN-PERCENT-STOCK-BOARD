@@ -1,0 +1,25 @@
+---
+output: win32\winerror-h\error_io_privilege_failed\-2147024325\index.html.json
+canonical: /win32/winerror-h/error_io_privilege_failed/571/
+title: -2147024325 ERROR_IO_PRIVILEGE_FAILED in winerror.h
+description: "{Privilege Failed}
+The I/O permissions for the process could not be changed."
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147024325",
+  "codeUrl": "/win32/winerror-h/error_io_privilege_failed/-2147024325/",
+  "numericCode": 0,
+  "define": "ERROR_IO_PRIVILEGE_FAILED",
+  "defineUrl": "/win32/winerror-h/error_io_privilege_failed/",
+  "message": "{Privilege Failed}\r\nThe I/O permissions for the process could not be changed.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "571",
+  "originalCodeUrl": "/win32/winerror-h/error_io_privilege_failed/571/"
+}

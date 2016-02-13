@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\spapi_e_bad_section_name_line\0x800f0001\index.html.json
+
+title: 0x800F0001 SPAPI_E_BAD_SECTION_NAME_LINE in winerror.h
+description: A section name marker in the INF is not complete, or does not exist on a line by itself.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800F0001",
+  "codeUrl": "/win32/winerror-h/spapi_e_bad_section_name_line/0x800f0001/",
+  "numericCode": -2146500607,
+  "define": "SPAPI_E_BAD_SECTION_NAME_LINE",
+  "defineUrl": "/win32/winerror-h/spapi_e_bad_section_name_line/",
+  "message": "A section name marker in the INF is not complete, or does not exist on a line by itself.",
+  "remarks": null,
+  "aka": [
+    "-2146500607"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/spapi_e_bad_section_name_line/-2146500607/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

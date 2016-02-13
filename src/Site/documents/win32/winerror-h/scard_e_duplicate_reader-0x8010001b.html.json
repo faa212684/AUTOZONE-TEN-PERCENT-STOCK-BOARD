@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\scard_e_duplicate_reader\0x8010001b\index.html.json
+
+title: 0x8010001B SCARD_E_DUPLICATE_READER in winerror.h
+description: The reader driver did not produce a unique reader name.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8010001B",
+  "codeUrl": "/win32/winerror-h/scard_e_duplicate_reader/0x8010001b/",
+  "numericCode": -2146435045,
+  "define": "SCARD_E_DUPLICATE_READER",
+  "defineUrl": "/win32/winerror-h/scard_e_duplicate_reader/",
+  "message": "The reader driver did not produce a unique reader name.",
+  "remarks": null,
+  "aka": [
+    "-2146435045"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/scard_e_duplicate_reader/-2146435045/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

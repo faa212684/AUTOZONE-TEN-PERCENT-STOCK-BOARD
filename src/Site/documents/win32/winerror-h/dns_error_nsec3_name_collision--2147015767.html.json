@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\dns_error_nsec3_name_collision\-2147015767\index.html.json
+canonical: /win32/winerror-h/dns_error_nsec3_name_collision/9129/
+title: -2147015767 DNS_ERROR_NSEC3_NAME_COLLISION in winerror.h
+description: Hash collision detected during NSEC3 signing. Specify a different user-provided salt, or use a randomly generated salt, and attempt to sign the zone again.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147015767",
+  "codeUrl": "/win32/winerror-h/dns_error_nsec3_name_collision/-2147015767/",
+  "numericCode": 0,
+  "define": "DNS_ERROR_NSEC3_NAME_COLLISION",
+  "defineUrl": "/win32/winerror-h/dns_error_nsec3_name_collision/",
+  "message": "Hash collision detected during NSEC3 signing. Specify a different user-provided salt, or use a randomly generated salt, and attempt to sign the zone again.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "9129",
+  "originalCodeUrl": "/win32/winerror-h/dns_error_nsec3_name_collision/9129/"
+}

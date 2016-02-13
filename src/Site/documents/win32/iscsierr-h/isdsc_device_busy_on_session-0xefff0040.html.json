@@ -1,0 +1,28 @@
+---
+output: win32\iscsierr-h\isdsc_device_busy_on_session\0xefff0040\index.html.json
+
+title: 0xEFFF0040 ISDSC_DEVICE_BUSY_ON_SESSION in iscsierr.h
+description: The session cannot be logged out since a device on that session is currently being used.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "iscsierr.h",
+  "sourceUrl": "/win32/iscsierr-h/",
+  "code": "0xEFFF0040",
+  "codeUrl": "/win32/iscsierr-h/isdsc_device_busy_on_session/0xefff0040/",
+  "numericCode": -268500928,
+  "define": "ISDSC_DEVICE_BUSY_ON_SESSION",
+  "defineUrl": "/win32/iscsierr-h/isdsc_device_busy_on_session/",
+  "message": "The session cannot be logged out since a device on that session is currently being used.",
+  "remarks": null,
+  "aka": [
+    "-268500928"
+  ],
+  "akaUrl": [
+    "/win32/iscsierr-h/isdsc_device_busy_on_session/-268500928/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_fwp_txn_in_progress\0xc022000e\index.html.json
+
+title: 0xC022000E STATUS_FWP_TXN_IN_PROGRESS in ntstatus.h
+description: The call is not allowed from within an explicit transaction.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC022000E",
+  "codeUrl": "/win32/ntstatus-h/status_fwp_txn_in_progress/0xc022000e/",
+  "numericCode": -1071513586,
+  "define": "STATUS_FWP_TXN_IN_PROGRESS",
+  "defineUrl": "/win32/ntstatus-h/status_fwp_txn_in_progress/",
+  "message": "The call is not allowed from within an explicit transaction.",
+  "remarks": null,
+  "aka": [
+    "-1071513586"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_fwp_txn_in_progress/-1071513586/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,29 @@
+---
+output: win32\wsmerror-h\error_wsman_creds_passed_with_no_auth_flag\0x803380ab\index.html.json
+
+title: 0x803380AB ERROR_WSMAN_CREDS_PASSED_WITH_NO_AUTH_FLAG in wsmerror.h
+description: The WinRM client could not process the request because credentials were specified along with the 'no authentication' flag.  
+No user name, password or client certificate should be specified with the 'no authentication' option.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x803380AB",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_creds_passed_with_no_auth_flag/0x803380ab/",
+  "numericCode": -2144108373,
+  "define": "ERROR_WSMAN_CREDS_PASSED_WITH_NO_AUTH_FLAG",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_creds_passed_with_no_auth_flag/",
+  "message": "The WinRM client could not process the request because credentials were specified along with the 'no authentication' flag.  \r\nNo user name, password or client certificate should be specified with the 'no authentication' option.",
+  "remarks": null,
+  "aka": [
+    "-2144108373"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_creds_passed_with_no_auth_flag/-2144108373/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

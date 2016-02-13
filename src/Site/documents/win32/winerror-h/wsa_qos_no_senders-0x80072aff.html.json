@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\wsa_qos_no_senders\0x80072aff\index.html.json
+canonical: /win32/winerror-h/wsa_qos_no_senders/11007/
+title: 0x80072aff WSA_QOS_NO_SENDERS in winerror.h
+description: There are no senders.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80072aff",
+  "codeUrl": "/win32/winerror-h/wsa_qos_no_senders/0x80072aff/",
+  "numericCode": 0,
+  "define": "WSA_QOS_NO_SENDERS",
+  "defineUrl": "/win32/winerror-h/wsa_qos_no_senders/",
+  "message": "There are no senders.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "11007",
+  "originalCodeUrl": "/win32/winerror-h/wsa_qos_no_senders/11007/"
+}

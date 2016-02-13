@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_alpc_check_completion_list\1073741872\index.html.json
+canonical: /win32/ntstatus-h/status_alpc_check_completion_list/0x40000030/
+title: 1073741872 STATUS_ALPC_CHECK_COMPLETION_LIST in ntstatus.h
+description: The receive operation was successful. Check the ALPC completion list for the received message.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "1073741872",
+  "codeUrl": "/win32/ntstatus-h/status_alpc_check_completion_list/1073741872/",
+  "numericCode": 0,
+  "define": "STATUS_ALPC_CHECK_COMPLETION_LIST",
+  "defineUrl": "/win32/ntstatus-h/status_alpc_check_completion_list/",
+  "message": "The receive operation was successful. Check the ALPC completion list for the received message.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x40000030",
+  "originalCodeUrl": "/win32/ntstatus-h/status_alpc_check_completion_list/0x40000030/"
+}

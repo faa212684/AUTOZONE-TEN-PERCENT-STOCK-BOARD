@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_e_iscsi_logout_incomplete\0x80042710\index.html.json
+
+title: 0x80042710 VDS_E_ISCSI_LOGOUT_INCOMPLETE in vdserr.h
+description: At least one session did not logout successfully.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x80042710",
+  "codeUrl": "/win32/vdserr-h/vds_e_iscsi_logout_incomplete/0x80042710/",
+  "numericCode": -2147211504,
+  "define": "VDS_E_ISCSI_LOGOUT_INCOMPLETE",
+  "defineUrl": "/win32/vdserr-h/vds_e_iscsi_logout_incomplete/",
+  "message": "At least one session did not logout successfully.",
+  "remarks": null,
+  "aka": [
+    "-2147211504"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_iscsi_logout_incomplete/-2147211504/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

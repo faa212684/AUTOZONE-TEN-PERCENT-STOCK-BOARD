@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_fve_secureboot_config_change\0xc021003a\index.html.json
+
+title: 0xC021003A STATUS_FVE_SECUREBOOT_CONFIG_CHANGE in ntstatus.h
+description: Secure Boot policy has unexpectedly changed.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC021003A",
+  "codeUrl": "/win32/ntstatus-h/status_fve_secureboot_config_change/0xc021003a/",
+  "numericCode": -1071579078,
+  "define": "STATUS_FVE_SECUREBOOT_CONFIG_CHANGE",
+  "defineUrl": "/win32/ntstatus-h/status_fve_secureboot_config_change/",
+  "message": "Secure Boot policy has unexpectedly changed.",
+  "remarks": null,
+  "aka": [
+    "-1071579078"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_fve_secureboot_config_change/-1071579078/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

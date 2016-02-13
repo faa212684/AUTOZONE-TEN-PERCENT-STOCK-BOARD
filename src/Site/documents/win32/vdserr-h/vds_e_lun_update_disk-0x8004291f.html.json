@@ -1,0 +1,30 @@
+---
+output: win32\vdserr-h\vds_e_lun_update_disk\0x8004291f\index.html.json
+
+title: 0x8004291F VDS_E_LUN_UPDATE_DISK in vdserr.h
+description: The operation against the selected LUN completed, but there was 
+a failure updating the status of the disk associated with the lun. 
+Call REFRESH to retry the status update for the disk.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x8004291F",
+  "codeUrl": "/win32/vdserr-h/vds_e_lun_update_disk/0x8004291f/",
+  "numericCode": -2147210977,
+  "define": "VDS_E_LUN_UPDATE_DISK",
+  "defineUrl": "/win32/vdserr-h/vds_e_lun_update_disk/",
+  "message": "The operation against the selected LUN completed, but there was \r\na failure updating the status of the disk associated with the lun. \r\nCall REFRESH to retry the status update for the disk.",
+  "remarks": null,
+  "aka": [
+    "-2147210977"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_lun_update_disk/-2147210977/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_not_quorum_class\0x800713a1\index.html.json
+canonical: /win32/winerror-h/error_not_quorum_class/5025/
+title: 0x800713a1 ERROR_NOT_QUORUM_CLASS in winerror.h
+description: The cluster could not make the specified resource a quorum resource because it does not belong to a shared storage class.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800713a1",
+  "codeUrl": "/win32/winerror-h/error_not_quorum_class/0x800713a1/",
+  "numericCode": 0,
+  "define": "ERROR_NOT_QUORUM_CLASS",
+  "defineUrl": "/win32/winerror-h/error_not_quorum_class/",
+  "message": "The cluster could not make the specified resource a quorum resource because it does not belong to a shared storage class.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "5025",
+  "originalCodeUrl": "/win32/winerror-h/error_not_quorum_class/5025/"
+}

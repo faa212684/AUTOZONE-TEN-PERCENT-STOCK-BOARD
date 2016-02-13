@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\co_e_runas_value_must_be_aaa\0x80080016\index.html.json
+
+title: 0x80080016 CO_E_RUNAS_VALUE_MUST_BE_AAA in winerror.h
+description: The activation requires that the RunAs value for the application is Activate As Activator.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80080016",
+  "codeUrl": "/win32/winerror-h/co_e_runas_value_must_be_aaa/0x80080016/",
+  "numericCode": -2146959338,
+  "define": "CO_E_RUNAS_VALUE_MUST_BE_AAA",
+  "defineUrl": "/win32/winerror-h/co_e_runas_value_must_be_aaa/",
+  "message": "The activation requires that the RunAs value for the application is Activate As Activator.",
+  "remarks": null,
+  "aka": [
+    "-2146959338"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/co_e_runas_value_must_be_aaa/-2146959338/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

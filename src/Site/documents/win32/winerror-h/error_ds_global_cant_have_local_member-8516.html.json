@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ds_global_cant_have_local_member\8516\index.html.json
+
+title: 8516 ERROR_DS_GLOBAL_CANT_HAVE_LOCAL_MEMBER in winerror.h
+description: A global group cannot have a local group as a member.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "8516",
+  "codeUrl": "/win32/winerror-h/error_ds_global_cant_have_local_member/8516/",
+  "numericCode": 8516,
+  "define": "ERROR_DS_GLOBAL_CANT_HAVE_LOCAL_MEMBER",
+  "defineUrl": "/win32/winerror-h/error_ds_global_cant_have_local_member/",
+  "message": "A global group cannot have a local group as a member.",
+  "remarks": null,
+  "aka": [
+    "0x80072144",
+    "-2147016380"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ds_global_cant_have_local_member/0x80072144/",
+    "/win32/winerror-h/error_ds_global_cant_have_local_member/-2147016380/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

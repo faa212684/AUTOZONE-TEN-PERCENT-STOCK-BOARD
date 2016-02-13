@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_working_set_quota\1453\index.html.json
+
+title: 1453 ERROR_WORKING_SET_QUOTA in winerror.h
+description: Insufficient quota to complete the requested service.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1453",
+  "codeUrl": "/win32/winerror-h/error_working_set_quota/1453/",
+  "numericCode": 1453,
+  "define": "ERROR_WORKING_SET_QUOTA",
+  "defineUrl": "/win32/winerror-h/error_working_set_quota/",
+  "message": "Insufficient quota to complete the requested service.",
+  "remarks": null,
+  "aka": [
+    "0x800705ad",
+    "-2147023443"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_working_set_quota/0x800705ad/",
+    "/win32/winerror-h/error_working_set_quota/-2147023443/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

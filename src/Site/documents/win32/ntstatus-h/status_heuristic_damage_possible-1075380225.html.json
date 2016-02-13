@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_heuristic_damage_possible\1075380225\index.html.json
+canonical: /win32/ntstatus-h/status_heuristic_damage_possible/0x40190001/
+title: 1075380225 STATUS_HEURISTIC_DAMAGE_POSSIBLE in ntstatus.h
+description: The attempt to commit the Transaction completed, but it is possible that some portion of the transaction tree did not commit successfully due to heuristics.  Therefore it is possible that some data modified in the transaction may not have committed, resulting in transactional inconsistency.  If possible, check the consistency of the associated data.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "1075380225",
+  "codeUrl": "/win32/ntstatus-h/status_heuristic_damage_possible/1075380225/",
+  "numericCode": 0,
+  "define": "STATUS_HEURISTIC_DAMAGE_POSSIBLE",
+  "defineUrl": "/win32/ntstatus-h/status_heuristic_damage_possible/",
+  "message": "The attempt to commit the Transaction completed, but it is possible that some portion of the transaction tree did not commit successfully due to heuristics.  Therefore it is possible that some data modified in the transaction may not have committed, resulting in transactional inconsistency.  If possible, check the consistency of the associated data.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x40190001",
+  "originalCodeUrl": "/win32/ntstatus-h/status_heuristic_damage_possible/0x40190001/"
+}

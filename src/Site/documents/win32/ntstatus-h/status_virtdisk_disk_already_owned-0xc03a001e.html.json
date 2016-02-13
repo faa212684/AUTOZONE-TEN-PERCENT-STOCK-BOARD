@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_virtdisk_disk_already_owned\0xc03a001e\index.html.json
+
+title: 0xC03A001E STATUS_VIRTDISK_DISK_ALREADY_OWNED in ntstatus.h
+description: The disk is already owned by a different owner.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC03A001E",
+  "codeUrl": "/win32/ntstatus-h/status_virtdisk_disk_already_owned/0xc03a001e/",
+  "numericCode": -1069940706,
+  "define": "STATUS_VIRTDISK_DISK_ALREADY_OWNED",
+  "defineUrl": "/win32/ntstatus-h/status_virtdisk_disk_already_owned/",
+  "message": "The disk is already owned by a different owner.",
+  "remarks": null,
+  "aka": [
+    "-1069940706"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_virtdisk_disk_already_owned/-1069940706/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

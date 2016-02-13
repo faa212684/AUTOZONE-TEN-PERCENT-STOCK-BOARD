@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_install_service_failure\1601\index.html.json
+
+title: 1601 ERROR_INSTALL_SERVICE_FAILURE in winerror.h
+description: The Windows Installer Service could not be accessed. This can occur if the Windows Installer is not correctly installed. Contact your support personnel for assistance.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1601",
+  "codeUrl": "/win32/winerror-h/error_install_service_failure/1601/",
+  "numericCode": 1601,
+  "define": "ERROR_INSTALL_SERVICE_FAILURE",
+  "defineUrl": "/win32/winerror-h/error_install_service_failure/",
+  "message": "The Windows Installer Service could not be accessed. This can occur if the Windows Installer is not correctly installed. Contact your support personnel for assistance.",
+  "remarks": null,
+  "aka": [
+    "0x80070641",
+    "-2147023295"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_install_service_failure/0x80070641/",
+    "/win32/winerror-h/error_install_service_failure/-2147023295/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

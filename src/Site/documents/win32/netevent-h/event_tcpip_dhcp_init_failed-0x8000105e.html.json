@@ -1,0 +1,31 @@
+---
+output: win32\netevent-h\event_tcpip_dhcp_init_failed\0x8000105e\index.html.json
+
+title: 0x8000105E EVENT_TCPIP_DHCP_INIT_FAILED in netevent.h
+description: IP was unable to initialize network adapter %2 for configuration by DHCP.
+If DHCP is enabled on this network adapter, the primary interface may not be
+configured properly. Interfaces on this network adapter not configured by
+DHCP will be unaffected.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x8000105E",
+  "codeUrl": "/win32/netevent-h/event_tcpip_dhcp_init_failed/0x8000105e/",
+  "numericCode": -2147479458,
+  "define": "EVENT_TCPIP_DHCP_INIT_FAILED",
+  "defineUrl": "/win32/netevent-h/event_tcpip_dhcp_init_failed/",
+  "message": "IP was unable to initialize network adapter %2 for configuration by DHCP.\r\nIf DHCP is enabled on this network adapter, the primary interface may not be\r\nconfigured properly. Interfaces on this network adapter not configured by\r\nDHCP will be unaffected.",
+  "remarks": null,
+  "aka": [
+    "-2147479458"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_tcpip_dhcp_init_failed/-2147479458/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

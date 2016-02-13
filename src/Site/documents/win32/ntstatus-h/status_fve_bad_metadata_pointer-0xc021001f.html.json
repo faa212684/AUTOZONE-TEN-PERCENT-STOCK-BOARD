@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_fve_bad_metadata_pointer\0xc021001f\index.html.json
+
+title: 0xC021001F STATUS_FVE_BAD_METADATA_POINTER in ntstatus.h
+description: The metadata disk region pointer is incorrect.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC021001F",
+  "codeUrl": "/win32/ntstatus-h/status_fve_bad_metadata_pointer/0xc021001f/",
+  "numericCode": -1071579105,
+  "define": "STATUS_FVE_BAD_METADATA_POINTER",
+  "defineUrl": "/win32/ntstatus-h/status_fve_bad_metadata_pointer/",
+  "message": "The metadata disk region pointer is incorrect.",
+  "remarks": null,
+  "aka": [
+    "-1071579105"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_fve_bad_metadata_pointer/-1071579105/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\wsmerror-h\error_wsman_invalid_subscription_manager\0x803380fe\index.html.json
+
+title: 0x803380FE ERROR_WSMAN_INVALID_SUBSCRIPTION_MANAGER in wsmerror.h
+description: The subscription manager address is invalid. The response was not received from the address to which the subscription request was sent.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x803380FE",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_invalid_subscription_manager/0x803380fe/",
+  "numericCode": -2144108290,
+  "define": "ERROR_WSMAN_INVALID_SUBSCRIPTION_MANAGER",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_invalid_subscription_manager/",
+  "message": "The subscription manager address is invalid. The response was not received from the address to which the subscription request was sent.",
+  "remarks": null,
+  "aka": [
+    "-2144108290"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_invalid_subscription_manager/-2144108290/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

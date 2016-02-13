@@ -1,0 +1,28 @@
+---
+output: win32\nserror-h\ns_s_reboot_required\0x000d2af9\index.html.json
+
+title: 0x000D2AF9 NS_S_REBOOT_REQUIRED in nserror.h
+description: Installation was successful; however, some file cleanup is not complete. To continue, you must restart your computer.%0
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "nserror.h",
+  "sourceUrl": "/win32/nserror-h/",
+  "code": "0x000D2AF9",
+  "codeUrl": "/win32/nserror-h/ns_s_reboot_required/0x000d2af9/",
+  "numericCode": 862969,
+  "define": "NS_S_REBOOT_REQUIRED",
+  "defineUrl": "/win32/nserror-h/ns_s_reboot_required/",
+  "message": "Installation was successful; however, some file cleanup is not complete. To continue, you must restart your computer.%0",
+  "remarks": null,
+  "aka": [
+    "862969"
+  ],
+  "akaUrl": [
+    "/win32/nserror-h/ns_s_reboot_required/862969/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

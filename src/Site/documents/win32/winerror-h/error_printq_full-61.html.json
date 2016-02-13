@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_printq_full\61\index.html.json
+
+title: 61 ERROR_PRINTQ_FULL in winerror.h
+description: The printer queue is full.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "61",
+  "codeUrl": "/win32/winerror-h/error_printq_full/61/",
+  "numericCode": 61,
+  "define": "ERROR_PRINTQ_FULL",
+  "defineUrl": "/win32/winerror-h/error_printq_full/",
+  "message": "The printer queue is full.",
+  "remarks": null,
+  "aka": [
+    "0x8007003d",
+    "-2147024835"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_printq_full/0x8007003d/",
+    "/win32/winerror-h/error_printq_full/-2147024835/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

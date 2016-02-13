@@ -1,0 +1,28 @@
+---
+output: win32\wsmerror-h\error_wsman_invalid_timeout_header\0x80338081\index.html.json
+
+title: 0x80338081 ERROR_WSMAN_INVALID_TIMEOUT_HEADER in wsmerror.h
+description: The WS-Management service cannot process the request because the timeout header in the request is invalid.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x80338081",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_invalid_timeout_header/0x80338081/",
+  "numericCode": -2144108415,
+  "define": "ERROR_WSMAN_INVALID_TIMEOUT_HEADER",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_invalid_timeout_header/",
+  "message": "The WS-Management service cannot process the request because the timeout header in the request is invalid.",
+  "remarks": null,
+  "aka": [
+    "-2144108415"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_invalid_timeout_header/-2144108415/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

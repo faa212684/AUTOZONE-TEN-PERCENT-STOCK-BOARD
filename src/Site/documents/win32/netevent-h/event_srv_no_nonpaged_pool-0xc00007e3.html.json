@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_srv_no_nonpaged_pool\0xc00007e3\index.html.json
+
+title: 0xC00007E3 EVENT_SRV_NO_NONPAGED_POOL in netevent.h
+description: The server was unable to allocate from the system nonpaged pool because the pool was empty.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC00007E3",
+  "codeUrl": "/win32/netevent-h/event_srv_no_nonpaged_pool/0xc00007e3/",
+  "numericCode": -1073739805,
+  "define": "EVENT_SRV_NO_NONPAGED_POOL",
+  "defineUrl": "/win32/netevent-h/event_srv_no_nonpaged_pool/",
+  "message": "The server was unable to allocate from the system nonpaged pool because the pool was empty.",
+  "remarks": null,
+  "aka": [
+    "-1073739805"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_srv_no_nonpaged_pool/-1073739805/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,24 @@
+---
+output: win32\vsserror-h\vss_e_asrerror_shared_cridisk\-2147212283\index.html.json
+canonical: /win32/vsserror-h/vss_e_asrerror_shared_cridisk/0x80042405/
+title: -2147212283 VSS_E_ASRERROR_SHARED_CRIDISK in vsserror.h
+description: Automated System Recovery failed the shadow copy, because a selected critical volume is located on a cluster shared disk. This is an unsupported configuration.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vsserror.h",
+  "sourceUrl": "/win32/vsserror-h/",
+  "code": "-2147212283",
+  "codeUrl": "/win32/vsserror-h/vss_e_asrerror_shared_cridisk/-2147212283/",
+  "numericCode": 0,
+  "define": "VSS_E_ASRERROR_SHARED_CRIDISK",
+  "defineUrl": "/win32/vsserror-h/vss_e_asrerror_shared_cridisk/",
+  "message": "Automated System Recovery failed the shadow copy, because a selected critical volume is located on a cluster shared disk. This is an unsupported configuration.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80042405",
+  "originalCodeUrl": "/win32/vsserror-h/vss_e_asrerror_shared_cridisk/0x80042405/"
+}

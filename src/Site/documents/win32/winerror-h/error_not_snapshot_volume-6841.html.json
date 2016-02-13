@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_not_snapshot_volume\6841\index.html.json
+
+title: 6841 ERROR_NOT_SNAPSHOT_VOLUME in winerror.h
+description: The target volume is not a snapshot volume. This operation is only valid on a volume mounted as a snapshot.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "6841",
+  "codeUrl": "/win32/winerror-h/error_not_snapshot_volume/6841/",
+  "numericCode": 6841,
+  "define": "ERROR_NOT_SNAPSHOT_VOLUME",
+  "defineUrl": "/win32/winerror-h/error_not_snapshot_volume/",
+  "message": "The target volume is not a snapshot volume. This operation is only valid on a volume mounted as a snapshot.",
+  "remarks": null,
+  "aka": [
+    "0x80071ab9",
+    "-2147018055"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_not_snapshot_volume/0x80071ab9/",
+    "/win32/winerror-h/error_not_snapshot_volume/-2147018055/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

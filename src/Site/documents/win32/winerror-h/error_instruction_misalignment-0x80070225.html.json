@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_instruction_misalignment\0x80070225\index.html.json
+canonical: /win32/winerror-h/error_instruction_misalignment/549/
+title: 0x80070225 ERROR_INSTRUCTION_MISALIGNMENT in winerror.h
+description: An attempt was made to execute an instruction at an unaligned address and the host system does not support unaligned instruction references.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80070225",
+  "codeUrl": "/win32/winerror-h/error_instruction_misalignment/0x80070225/",
+  "numericCode": 0,
+  "define": "ERROR_INSTRUCTION_MISALIGNMENT",
+  "defineUrl": "/win32/winerror-h/error_instruction_misalignment/",
+  "message": "An attempt was made to execute an instruction at an unaligned address and the host system does not support unaligned instruction references.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "549",
+  "originalCodeUrl": "/win32/winerror-h/error_instruction_misalignment/549/"
+}

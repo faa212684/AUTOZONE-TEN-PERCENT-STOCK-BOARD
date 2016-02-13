@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_rkf_key_not_found\-1069547519\index.html.json
+canonical: /win32/ntstatus-h/status_rkf_key_not_found/0xc0400001/
+title: -1069547519 STATUS_RKF_KEY_NOT_FOUND in ntstatus.h
+description: The Resume Key Filter could not find the resume key supplied for the operation.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1069547519",
+  "codeUrl": "/win32/ntstatus-h/status_rkf_key_not_found/-1069547519/",
+  "numericCode": 0,
+  "define": "STATUS_RKF_KEY_NOT_FOUND",
+  "defineUrl": "/win32/ntstatus-h/status_rkf_key_not_found/",
+  "message": "The Resume Key Filter could not find the resume key supplied for the operation.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0400001",
+  "originalCodeUrl": "/win32/ntstatus-h/status_rkf_key_not_found/0xc0400001/"
+}

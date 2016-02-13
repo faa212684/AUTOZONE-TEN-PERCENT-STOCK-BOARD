@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_e_requires_contiguous_disk_space\0x80042440\index.html.json
+
+title: 0x80042440 VDS_E_REQUIRES_CONTIGUOUS_DISK_SPACE in vdserr.h
+description: The volume requires contiguous disk extents.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x80042440",
+  "codeUrl": "/win32/vdserr-h/vds_e_requires_contiguous_disk_space/0x80042440/",
+  "numericCode": -2147212224,
+  "define": "VDS_E_REQUIRES_CONTIGUOUS_DISK_SPACE",
+  "defineUrl": "/win32/vdserr-h/vds_e_requires_contiguous_disk_space/",
+  "message": "The volume requires contiguous disk extents.",
+  "remarks": null,
+  "aka": [
+    "-2147212224"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_requires_contiguous_disk_space/-2147212224/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

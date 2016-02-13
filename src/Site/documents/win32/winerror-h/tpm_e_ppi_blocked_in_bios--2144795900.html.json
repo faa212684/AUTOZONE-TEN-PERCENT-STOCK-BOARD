@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\tpm_e_ppi_blocked_in_bios\-2144795900\index.html.json
+canonical: /win32/winerror-h/tpm_e_ppi_blocked_in_bios/0x80290304/
+title: -2144795900 TPM_E_PPI_BLOCKED_IN_BIOS in winerror.h
+description: The Physical Presence command was blocked by current BIOS settings. The system owner may be able to reconfigure the BIOS settings to allow the command.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2144795900",
+  "codeUrl": "/win32/winerror-h/tpm_e_ppi_blocked_in_bios/-2144795900/",
+  "numericCode": 0,
+  "define": "TPM_E_PPI_BLOCKED_IN_BIOS",
+  "defineUrl": "/win32/winerror-h/tpm_e_ppi_blocked_in_bios/",
+  "message": "The Physical Presence command was blocked by current BIOS settings. The system owner may be able to reconfigure the BIOS settings to allow the command.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80290304",
+  "originalCodeUrl": "/win32/winerror-h/tpm_e_ppi_blocked_in_bios/0x80290304/"
+}

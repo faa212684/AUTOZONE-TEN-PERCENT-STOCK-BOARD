@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_threadpool_released_during_operation\0xc000070f\index.html.json
+
+title: 0xC000070F STATUS_THREADPOOL_RELEASED_DURING_OPERATION in ntstatus.h
+description: The threadpool 0x%p was released while a thread was posting a callback to 0x%p(0x%p) to it.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000070F",
+  "codeUrl": "/win32/ntstatus-h/status_threadpool_released_during_operation/0xc000070f/",
+  "numericCode": -1073740017,
+  "define": "STATUS_THREADPOOL_RELEASED_DURING_OPERATION",
+  "defineUrl": "/win32/ntstatus-h/status_threadpool_released_during_operation/",
+  "message": "The threadpool 0x%p was released while a thread was posting a callback to 0x%p(0x%p) to it.",
+  "remarks": null,
+  "aka": [
+    "-1073740017"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_threadpool_released_during_operation/-1073740017/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

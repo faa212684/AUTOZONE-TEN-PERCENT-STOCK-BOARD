@@ -1,0 +1,24 @@
+---
+output: win32\windowssearcherrors-h\exci_e_not_admin_or_wrong_site\-2147216986\index.html.json
+canonical: /win32/windowssearcherrors-h/exci_e_not_admin_or_wrong_site/0x800411a6/
+title: -2147216986 EXCI_E_NOT_ADMIN_OR_WRONG_SITE in WindowsSearchErrors.h
+description: The service cannot access the Exchange 5.5 service. The account used by the search service may not be an Exchange administrator, or the site or organization settings on the search host may be invalid.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "-2147216986",
+  "codeUrl": "/win32/windowssearcherrors-h/exci_e_not_admin_or_wrong_site/-2147216986/",
+  "numericCode": 0,
+  "define": "EXCI_E_NOT_ADMIN_OR_WRONG_SITE",
+  "defineUrl": "/win32/windowssearcherrors-h/exci_e_not_admin_or_wrong_site/",
+  "message": "The service cannot access the Exchange 5.5 service. The account used by the search service may not be an Exchange administrator, or the site or organization settings on the search host may be invalid.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x800411A6",
+  "originalCodeUrl": "/win32/windowssearcherrors-h/exci_e_not_admin_or_wrong_site/0x800411a6/"
+}

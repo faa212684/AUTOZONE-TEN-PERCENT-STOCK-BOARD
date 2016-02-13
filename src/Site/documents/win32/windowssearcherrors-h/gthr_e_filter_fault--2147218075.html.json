@@ -1,0 +1,24 @@
+---
+output: win32\windowssearcherrors-h\gthr_e_filter_fault\-2147218075\index.html.json
+canonical: /win32/windowssearcherrors-h/gthr_e_filter_fault/0x80040d65/
+title: -2147218075 GTHR_E_FILTER_FAULT in WindowsSearchErrors.h
+description: The data size returned by the filter is greater than the allocated buffer. Download and install an update for the filter.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "-2147218075",
+  "codeUrl": "/win32/windowssearcherrors-h/gthr_e_filter_fault/-2147218075/",
+  "numericCode": 0,
+  "define": "GTHR_E_FILTER_FAULT",
+  "defineUrl": "/win32/windowssearcherrors-h/gthr_e_filter_fault/",
+  "message": "The data size returned by the filter is greater than the allocated buffer. Download and install an update for the filter.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80040D65",
+  "originalCodeUrl": "/win32/windowssearcherrors-h/gthr_e_filter_fault/0x80040d65/"
+}

@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\tpmapi_e_not_enough_data\0x80290101\index.html.json
+
+title: 0x80290101 TPMAPI_E_NOT_ENOUGH_DATA in winerror.h
+description: The command buffer does not contain enough data to satisfy the request.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80290101",
+  "codeUrl": "/win32/winerror-h/tpmapi_e_not_enough_data/0x80290101/",
+  "numericCode": -2144796415,
+  "define": "TPMAPI_E_NOT_ENOUGH_DATA",
+  "defineUrl": "/win32/winerror-h/tpmapi_e_not_enough_data/",
+  "message": "The command buffer does not contain enough data to satisfy the request.",
+  "remarks": null,
+  "aka": [
+    "-2144796415"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/tpmapi_e_not_enough_data/-2144796415/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

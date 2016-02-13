@@ -1,0 +1,28 @@
+---
+output: win32\windowssearcherrors-h\gthr_e_insufficient_feature_terms\0x80040da1\index.html.json
+
+title: 0x80040DA1 GTHR_E_INSUFFICIENT_FEATURE_TERMS in WindowsSearchErrors.h
+description: There were not enough keywords in the sample documents to train the Topic Assistant.  Try again when more sample documents are available.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "0x80040DA1",
+  "codeUrl": "/win32/windowssearcherrors-h/gthr_e_insufficient_feature_terms/0x80040da1/",
+  "numericCode": -2147218015,
+  "define": "GTHR_E_INSUFFICIENT_FEATURE_TERMS",
+  "defineUrl": "/win32/windowssearcherrors-h/gthr_e_insufficient_feature_terms/",
+  "message": "There were not enough keywords in the sample documents to train the Topic Assistant.  Try again when more sample documents are available.",
+  "remarks": null,
+  "aka": [
+    "-2147218015"
+  ],
+  "akaUrl": [
+    "/win32/windowssearcherrors-h/gthr_e_insufficient_feature_terms/-2147218015/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

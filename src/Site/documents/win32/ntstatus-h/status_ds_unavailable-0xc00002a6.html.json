@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_ds_unavailable\0xc00002a6\index.html.json
+
+title: 0xC00002A6 STATUS_DS_UNAVAILABLE in ntstatus.h
+description: The directory service is not available.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC00002A6",
+  "codeUrl": "/win32/ntstatus-h/status_ds_unavailable/0xc00002a6/",
+  "numericCode": -1073741146,
+  "define": "STATUS_DS_UNAVAILABLE",
+  "defineUrl": "/win32/ntstatus-h/status_ds_unavailable/",
+  "message": "The directory service is not available.",
+  "remarks": null,
+  "aka": [
+    "-1073741146"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_ds_unavailable/-1073741146/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

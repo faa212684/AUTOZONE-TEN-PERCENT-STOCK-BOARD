@@ -1,0 +1,29 @@
+---
+output: win32\ntstatus-h\status_crc_error\0xc000003f\index.html.json
+
+title: 0xC000003F STATUS_CRC_ERROR in ntstatus.h
+description: "{Bad CRC}
+A cyclic redundancy check (CRC) checksum error occurred."
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000003F",
+  "codeUrl": "/win32/ntstatus-h/status_crc_error/0xc000003f/",
+  "numericCode": -1073741761,
+  "define": "STATUS_CRC_ERROR",
+  "defineUrl": "/win32/ntstatus-h/status_crc_error/",
+  "message": "{Bad CRC}\r\nA cyclic redundancy check (CRC) checksum error occurred.",
+  "remarks": null,
+  "aka": [
+    "-1073741761"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_crc_error/-1073741761/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

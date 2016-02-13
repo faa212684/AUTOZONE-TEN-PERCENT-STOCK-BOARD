@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\stg_e_resets_exhausted\0x8003030b\index.html.json
+
+title: 0x8003030B STG_E_RESETS_EXHAUSTED in winerror.h
+description: Copy Protection Error - The drive's region setting may be permanent or the number of user resets has been exhausted.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8003030B",
+  "codeUrl": "/win32/winerror-h/stg_e_resets_exhausted/0x8003030b/",
+  "numericCode": -2147286261,
+  "define": "STG_E_RESETS_EXHAUSTED",
+  "defineUrl": "/win32/winerror-h/stg_e_resets_exhausted/",
+  "message": "Copy Protection Error - The drive's region setting may be permanent or the number of user resets has been exhausted.",
+  "remarks": null,
+  "aka": [
+    "-2147286261"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/stg_e_resets_exhausted/-2147286261/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

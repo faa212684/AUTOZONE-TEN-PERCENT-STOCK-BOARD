@@ -1,0 +1,28 @@
+---
+output: win32\wuerror-h\wu_e_dm_downloadlimitedbyupdatesize\0x8024600c\index.html.json
+
+title: 0x8024600C WU_E_DM_DOWNLOADLIMITEDBYUPDATESIZE in wuerror.h
+description: A download failed because the current network limits downloads by update size for the update service.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wuerror.h",
+  "sourceUrl": "/win32/wuerror-h/",
+  "code": "0x8024600C",
+  "codeUrl": "/win32/wuerror-h/wu_e_dm_downloadlimitedbyupdatesize/0x8024600c/",
+  "numericCode": -2145099764,
+  "define": "WU_E_DM_DOWNLOADLIMITEDBYUPDATESIZE",
+  "defineUrl": "/win32/wuerror-h/wu_e_dm_downloadlimitedbyupdatesize/",
+  "message": "A download failed because the current network limits downloads by update size for the update service.",
+  "remarks": null,
+  "aka": [
+    "-2145099764"
+  ],
+  "akaUrl": [
+    "/win32/wuerror-h/wu_e_dm_downloadlimitedbyupdatesize/-2145099764/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

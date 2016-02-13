@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\tbs_e_too_many_resources\0x8028400a\index.html.json
+
+title: 0x8028400A TBS_E_TOO_MANY_RESOURCES in winerror.h
+description: A new virtual resource could not be created because there are too many open virtual resources.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8028400A",
+  "codeUrl": "/win32/winerror-h/tbs_e_too_many_resources/0x8028400a/",
+  "numericCode": -2144845814,
+  "define": "TBS_E_TOO_MANY_RESOURCES",
+  "defineUrl": "/win32/winerror-h/tbs_e_too_many_resources/",
+  "message": "A new virtual resource could not be created because there are too many open virtual resources.",
+  "remarks": null,
+  "aka": [
+    "-2144845814"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/tbs_e_too_many_resources/-2144845814/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

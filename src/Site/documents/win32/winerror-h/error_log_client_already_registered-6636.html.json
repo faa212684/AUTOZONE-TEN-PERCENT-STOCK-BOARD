@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_log_client_already_registered\6636\index.html.json
+
+title: 6636 ERROR_LOG_CLIENT_ALREADY_REGISTERED in winerror.h
+description: A log client has already registered on the stream.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "6636",
+  "codeUrl": "/win32/winerror-h/error_log_client_already_registered/6636/",
+  "numericCode": 6636,
+  "define": "ERROR_LOG_CLIENT_ALREADY_REGISTERED",
+  "defineUrl": "/win32/winerror-h/error_log_client_already_registered/",
+  "message": "A log client has already registered on the stream.",
+  "remarks": null,
+  "aka": [
+    "0x800719ec",
+    "-2147018260"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_log_client_already_registered/0x800719ec/",
+    "/win32/winerror-h/error_log_client_already_registered/-2147018260/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\wsaenetreset\10052\index.html.json
+
+title: 10052 WSAENETRESET in winerror.h
+description: The connection has been broken due to keep-alive activity detecting a failure while the operation was in progress.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "10052",
+  "codeUrl": "/win32/winerror-h/wsaenetreset/10052/",
+  "numericCode": 10052,
+  "define": "WSAENETRESET",
+  "defineUrl": "/win32/winerror-h/wsaenetreset/",
+  "message": "The connection has been broken due to keep-alive activity detecting a failure while the operation was in progress.",
+  "remarks": null,
+  "aka": [
+    "0x80072744",
+    "-2147014844"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/wsaenetreset/0x80072744/",
+    "/win32/winerror-h/wsaenetreset/-2147014844/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

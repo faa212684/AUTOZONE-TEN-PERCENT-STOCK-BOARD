@@ -1,0 +1,29 @@
+---
+output: win32\wsmerror-h\error_wsman_client_invalid_flag\0x803380ac\index.html.json
+
+title: 0x803380AC ERROR_WSMAN_CLIENT_INVALID_FLAG in wsmerror.h
+description: The WinRM client cannot process the request. An invalid flag was specified for this request.
+Remove or change the invalid flag and try the request again.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x803380AC",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_client_invalid_flag/0x803380ac/",
+  "numericCode": -2144108372,
+  "define": "ERROR_WSMAN_CLIENT_INVALID_FLAG",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_client_invalid_flag/",
+  "message": "The WinRM client cannot process the request. An invalid flag was specified for this request.\r\nRemove or change the invalid flag and try the request again.",
+  "remarks": null,
+  "aka": [
+    "-2144108372"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_client_invalid_flag/-2144108372/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

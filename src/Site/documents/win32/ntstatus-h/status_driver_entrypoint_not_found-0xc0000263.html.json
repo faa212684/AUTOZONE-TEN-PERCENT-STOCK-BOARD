@@ -1,0 +1,29 @@
+---
+output: win32\ntstatus-h\status_driver_entrypoint_not_found\0xc0000263\index.html.json
+
+title: 0xC0000263 STATUS_DRIVER_ENTRYPOINT_NOT_FOUND in ntstatus.h
+description: "{Driver Entry Point Not Found}
+The %hs device driver could not locate the entry point %hs in driver %hs."
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000263",
+  "codeUrl": "/win32/ntstatus-h/status_driver_entrypoint_not_found/0xc0000263/",
+  "numericCode": -1073741213,
+  "define": "STATUS_DRIVER_ENTRYPOINT_NOT_FOUND",
+  "defineUrl": "/win32/ntstatus-h/status_driver_entrypoint_not_found/",
+  "message": "{Driver Entry Point Not Found}\r\nThe %hs device driver could not locate the entry point %hs in driver %hs.",
+  "remarks": null,
+  "aka": [
+    "-1073741213"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_driver_entrypoint_not_found/-1073741213/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

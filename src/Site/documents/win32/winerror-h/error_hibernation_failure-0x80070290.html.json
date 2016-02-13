@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_hibernation_failure\0x80070290\index.html.json
+canonical: /win32/winerror-h/error_hibernation_failure/656/
+title: 0x80070290 ERROR_HIBERNATION_FAILURE in winerror.h
+description: The system has failed to hibernate (The error code is %hs). Hibernation will be disabled until the system is restarted.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80070290",
+  "codeUrl": "/win32/winerror-h/error_hibernation_failure/0x80070290/",
+  "numericCode": 0,
+  "define": "ERROR_HIBERNATION_FAILURE",
+  "defineUrl": "/win32/winerror-h/error_hibernation_failure/",
+  "message": "The system has failed to hibernate (The error code is %hs). Hibernation will be disabled until the system is restarted.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "656",
+  "originalCodeUrl": "/win32/winerror-h/error_hibernation_failure/656/"
+}

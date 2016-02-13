@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_rdr_cant_get_security_context\0x80000bda\index.html.json
+
+title: 0x80000BDA EVENT_RDR_CANT_GET_SECURITY_CONTEXT in netevent.h
+description: The redirector was unable to initialize security context or query context attributes.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x80000BDA",
+  "codeUrl": "/win32/netevent-h/event_rdr_cant_get_security_context/0x80000bda/",
+  "numericCode": -2147480614,
+  "define": "EVENT_RDR_CANT_GET_SECURITY_CONTEXT",
+  "defineUrl": "/win32/netevent-h/event_rdr_cant_get_security_context/",
+  "message": "The redirector was unable to initialize security context or query context attributes.",
+  "remarks": null,
+  "aka": [
+    "-2147480614"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_rdr_cant_get_security_context/-2147480614/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

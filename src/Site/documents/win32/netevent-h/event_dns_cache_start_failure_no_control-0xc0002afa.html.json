@@ -1,0 +1,31 @@
+---
+output: win32\netevent-h\event_dns_cache_start_failure_no_control\0xc0002afa\index.html.json
+
+title: 0xC0002AFA EVENT_DNS_CACHE_START_FAILURE_NO_CONTROL in netevent.h
+description: Unable to start the DNS Client service. The system could not register a
+service control handler and could be out of resources. Close any
+applications not in use or reboot the computer. See event details for 
+specific error code information.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC0002AFA",
+  "codeUrl": "/win32/netevent-h/event_dns_cache_start_failure_no_control/0xc0002afa/",
+  "numericCode": -1073730822,
+  "define": "EVENT_DNS_CACHE_START_FAILURE_NO_CONTROL",
+  "defineUrl": "/win32/netevent-h/event_dns_cache_start_failure_no_control/",
+  "message": "Unable to start the DNS Client service. The system could not register a\r\nservice control handler and could be out of resources. Close any\r\napplications not in use or reboot the computer. See event details for \r\nspecific error code information.",
+  "remarks": null,
+  "aka": [
+    "-1073730822"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_dns_cache_start_failure_no_control/-1073730822/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

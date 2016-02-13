@@ -1,0 +1,25 @@
+---
+output: win32\cdosyserr-h\evtrebuildcalendar\-2147278810\index.html.json
+canonical: /win32/cdosyserr-h/evtrebuildcalendar/0x80032026/
+title: -2147278810 evtRebuildCalendar in CDOSysErr.h
+description: An inconsistency was detected in %2: %3.  The calendar is being repaired.  If other errors occur with this calendar, please view the calendar using Microsoft Outlook Web Access.  If a problem persists, please recreate the calendar or the containing mailbox.
+%n%nFor more information, click http:www.microsoft.com/contentredirect.asp.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "CDOSysErr.h",
+  "sourceUrl": "/win32/cdosyserr-h/",
+  "code": "-2147278810",
+  "codeUrl": "/win32/cdosyserr-h/evtrebuildcalendar/-2147278810/",
+  "numericCode": 0,
+  "define": "evtRebuildCalendar",
+  "defineUrl": "/win32/cdosyserr-h/evtrebuildcalendar/",
+  "message": "An inconsistency was detected in %2: %3.  The calendar is being repaired.  If other errors occur with this calendar, please view the calendar using Microsoft Outlook Web Access.  If a problem persists, please recreate the calendar or the containing mailbox.\r\n%n%nFor more information, click http:www.microsoft.com/contentredirect.asp.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80032026",
+  "originalCodeUrl": "/win32/cdosyserr-h/evtrebuildcalendar/0x80032026/"
+}

@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_authentication_firewall_failed\-2147022961\index.html.json
+canonical: /win32/winerror-h/error_authentication_firewall_failed/1935/
+title: -2147022961 ERROR_AUTHENTICATION_FIREWALL_FAILED in winerror.h
+description: The computer you are signing into is protected by an authentication firewall. The specified account is not allowed to authenticate to the computer.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147022961",
+  "codeUrl": "/win32/winerror-h/error_authentication_firewall_failed/-2147022961/",
+  "numericCode": 0,
+  "define": "ERROR_AUTHENTICATION_FIREWALL_FAILED",
+  "defineUrl": "/win32/winerror-h/error_authentication_firewall_failed/",
+  "message": "The computer you are signing into is protected by an authentication firewall. The specified account is not allowed to authenticate to the computer.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "1935",
+  "originalCodeUrl": "/win32/winerror-h/error_authentication_firewall_failed/1935/"
+}

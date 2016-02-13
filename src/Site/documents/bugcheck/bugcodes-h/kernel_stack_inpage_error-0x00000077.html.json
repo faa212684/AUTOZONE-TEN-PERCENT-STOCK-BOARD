@@ -1,0 +1,28 @@
+---
+output: bugcheck\bugcodes-h\kernel_stack_inpage_error\0x00000077\index.html.json
+
+title: 0x00000077 KERNEL_STACK_INPAGE_ERROR in bugcodes.h
+description: KERNEL_STACK_INPAGE_ERROR
+disqus: true
+---
+{
+  "area": "bugcheck",
+  "areaUrl": "/bugcheck/",
+  "source": "bugcodes.h",
+  "sourceUrl": "/bugcheck/bugcodes-h/",
+  "code": "0x00000077",
+  "codeUrl": "/bugcheck/bugcodes-h/kernel_stack_inpage_error/0x00000077/",
+  "numericCode": 119,
+  "define": "KERNEL_STACK_INPAGE_ERROR",
+  "defineUrl": "/bugcheck/bugcodes-h/kernel_stack_inpage_error/",
+  "message": "KERNEL_STACK_INPAGE_ERROR",
+  "remarks": null,
+  "aka": [
+    "119"
+  ],
+  "akaUrl": [
+    "/bugcheck/bugcodes-h/kernel_stack_inpage_error/119/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

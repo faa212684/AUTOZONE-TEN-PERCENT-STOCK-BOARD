@@ -1,0 +1,28 @@
+---
+output: win32\wsmerror-h\error_redirect_location_invalid\0x803381b7\index.html.json
+
+title: 0x803381B7 ERROR_REDIRECT_LOCATION_INVALID in wsmerror.h
+description: The WinRM service received a HTTP redirect message redirecting the client but the location URL is invalid.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x803381B7",
+  "codeUrl": "/win32/wsmerror-h/error_redirect_location_invalid/0x803381b7/",
+  "numericCode": -2144108105,
+  "define": "ERROR_REDIRECT_LOCATION_INVALID",
+  "defineUrl": "/win32/wsmerror-h/error_redirect_location_invalid/",
+  "message": "The WinRM service received a HTTP redirect message redirecting the client but the location URL is invalid.",
+  "remarks": null,
+  "aka": [
+    "-2144108105"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_redirect_location_invalid/-2144108105/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_cluster_affinity_conflict\5971\index.html.json
+
+title: 5971 ERROR_CLUSTER_AFFINITY_CONFLICT in winerror.h
+description: The operation cannot be completed because of cluster affinity conflicts
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "5971",
+  "codeUrl": "/win32/winerror-h/error_cluster_affinity_conflict/5971/",
+  "numericCode": 5971,
+  "define": "ERROR_CLUSTER_AFFINITY_CONFLICT",
+  "defineUrl": "/win32/winerror-h/error_cluster_affinity_conflict/",
+  "message": "The operation cannot be completed because of cluster affinity conflicts",
+  "remarks": null,
+  "aka": [
+    "0x80071753",
+    "-2147018925"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_cluster_affinity_conflict/0x80071753/",
+    "/win32/winerror-h/error_cluster_affinity_conflict/-2147018925/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

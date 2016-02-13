@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\tpm_e_retry\-2144860160\index.html.json
+canonical: /win32/winerror-h/tpm_e_retry/0x80280800/
+title: -2144860160 TPM_E_RETRY in winerror.h
+description: The TPM is too busy to respond to the command immediately, but the command could be resubmitted at a later time.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2144860160",
+  "codeUrl": "/win32/winerror-h/tpm_e_retry/-2144860160/",
+  "numericCode": 0,
+  "define": "TPM_E_RETRY",
+  "defineUrl": "/win32/winerror-h/tpm_e_retry/",
+  "message": "The TPM is too busy to respond to the command immediately, but the command could be resubmitted at a later time.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80280800",
+  "originalCodeUrl": "/win32/winerror-h/tpm_e_retry/0x80280800/"
+}

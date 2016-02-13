@@ -1,0 +1,24 @@
+---
+output: win32\fsrmerr-h\fsrm_e_cannot_allow_reparse_point_tag\-2147200170\index.html.json
+canonical: /win32/fsrmerr-h/fsrm_e_cannot_allow_reparse_point_tag/0x80045356/
+title: -2147200170 FSRM_E_CANNOT_ALLOW_REPARSE_POINT_TAG in fsrmerr.h
+description: Classification is not supported on the specified reparse point. File Server Resource Manager does not recognize the reparse point's identifier tag for the purposes of classification.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "fsrmerr.h",
+  "sourceUrl": "/win32/fsrmerr-h/",
+  "code": "-2147200170",
+  "codeUrl": "/win32/fsrmerr-h/fsrm_e_cannot_allow_reparse_point_tag/-2147200170/",
+  "numericCode": 0,
+  "define": "FSRM_E_CANNOT_ALLOW_REPARSE_POINT_TAG",
+  "defineUrl": "/win32/fsrmerr-h/fsrm_e_cannot_allow_reparse_point_tag/",
+  "message": "Classification is not supported on the specified reparse point. File Server Resource Manager does not recognize the reparse point's identifier tag for the purposes of classification.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80045356",
+  "originalCodeUrl": "/win32/fsrmerr-h/fsrm_e_cannot_allow_reparse_point_tag/0x80045356/"
+}

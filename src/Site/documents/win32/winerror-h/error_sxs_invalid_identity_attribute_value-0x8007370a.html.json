@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_sxs_invalid_identity_attribute_value\0x8007370a\index.html.json
+canonical: /win32/winerror-h/error_sxs_invalid_identity_attribute_value/14090/
+title: 0x8007370a ERROR_SXS_INVALID_IDENTITY_ATTRIBUTE_VALUE in winerror.h
+description: The value of an attribute in an identity is not within the legal range.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007370a",
+  "codeUrl": "/win32/winerror-h/error_sxs_invalid_identity_attribute_value/0x8007370a/",
+  "numericCode": 0,
+  "define": "ERROR_SXS_INVALID_IDENTITY_ATTRIBUTE_VALUE",
+  "defineUrl": "/win32/winerror-h/error_sxs_invalid_identity_attribute_value/",
+  "message": "The value of an attribute in an identity is not within the legal range.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "14090",
+  "originalCodeUrl": "/win32/winerror-h/error_sxs_invalid_identity_attribute_value/14090/"
+}

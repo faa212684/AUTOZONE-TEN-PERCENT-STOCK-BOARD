@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_acpi_invalid_data\0xc014000f\index.html.json
+
+title: 0xC014000F STATUS_ACPI_INVALID_DATA in ntstatus.h
+description: Invalid data for the target was specified
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC014000F",
+  "codeUrl": "/win32/ntstatus-h/status_acpi_invalid_data/0xc014000f/",
+  "numericCode": -1072431089,
+  "define": "STATUS_ACPI_INVALID_DATA",
+  "defineUrl": "/win32/ntstatus-h/status_acpi_invalid_data/",
+  "message": "Invalid data for the target was specified",
+  "remarks": null,
+  "aka": [
+    "-1072431089"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_acpi_invalid_data/-1072431089/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

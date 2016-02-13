@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_log_metadata_invalid\0xc01a000e\index.html.json
+
+title: 0xC01A000E STATUS_LOG_METADATA_INVALID in ntstatus.h
+description: Log service encountered a metadata file that could not be created by the log file system.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC01A000E",
+  "codeUrl": "/win32/ntstatus-h/status_log_metadata_invalid/0xc01a000e/",
+  "numericCode": -1072037874,
+  "define": "STATUS_LOG_METADATA_INVALID",
+  "defineUrl": "/win32/ntstatus-h/status_log_metadata_invalid/",
+  "message": "Log service encountered a metadata file that could not be created by the log file system.",
+  "remarks": null,
+  "aka": [
+    "-1072037874"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_log_metadata_invalid/-1072037874/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

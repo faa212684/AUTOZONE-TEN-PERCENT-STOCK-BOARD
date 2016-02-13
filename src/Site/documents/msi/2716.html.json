@@ -1,0 +1,24 @@
+---
+output: msi\2716\index.html.json
+
+title: msi 2716
+description: Could not create a random subcomponent name for component '[2]'.
+disqus: true
+---
+{
+  "area": "msi",
+  "areaUrl": "/msi/",
+  "source": null,
+  "sourceUrl": "/msi/",
+  "code": "2716",
+  "codeUrl": "/msi/2716/",
+  "numericCode": 2716,
+  "define": null,
+  "defineUrl": "/msi/",
+  "message": "Could not create a random subcomponent name for component '[2]'.",
+  "remarks": "May occur if the first 40 characters of two or more component names are identical. Ensure that the first 40 characters of component names are unique to the component.",
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": null,
+  "originalCodeUrl": null
+}

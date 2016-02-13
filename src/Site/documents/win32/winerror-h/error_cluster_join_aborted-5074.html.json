@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_cluster_join_aborted\5074\index.html.json
+
+title: 5074 ERROR_CLUSTER_JOIN_ABORTED in winerror.h
+description: The cluster join operation was aborted.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "5074",
+  "codeUrl": "/win32/winerror-h/error_cluster_join_aborted/5074/",
+  "numericCode": 5074,
+  "define": "ERROR_CLUSTER_JOIN_ABORTED",
+  "defineUrl": "/win32/winerror-h/error_cluster_join_aborted/",
+  "message": "The cluster join operation was aborted.",
+  "remarks": null,
+  "aka": [
+    "0x800713d2",
+    "-2147019822"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_cluster_join_aborted/0x800713d2/",
+    "/win32/winerror-h/error_cluster_join_aborted/-2147019822/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

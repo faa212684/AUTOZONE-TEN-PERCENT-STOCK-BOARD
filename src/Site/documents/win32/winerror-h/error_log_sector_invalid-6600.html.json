@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_log_sector_invalid\6600\index.html.json
+
+title: 6600 ERROR_LOG_SECTOR_INVALID in winerror.h
+description: Log service encountered an invalid log sector.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "6600",
+  "codeUrl": "/win32/winerror-h/error_log_sector_invalid/6600/",
+  "numericCode": 6600,
+  "define": "ERROR_LOG_SECTOR_INVALID",
+  "defineUrl": "/win32/winerror-h/error_log_sector_invalid/",
+  "message": "Log service encountered an invalid log sector.",
+  "remarks": null,
+  "aka": [
+    "0x800719c8",
+    "-2147018296"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_log_sector_invalid/0x800719c8/",
+    "/win32/winerror-h/error_log_sector_invalid/-2147018296/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

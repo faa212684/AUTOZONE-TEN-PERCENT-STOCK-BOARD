@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\wsaehostunreach\10065\index.html.json
+
+title: 10065 WSAEHOSTUNREACH in winerror.h
+description: A socket operation was attempted to an unreachable host.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "10065",
+  "codeUrl": "/win32/winerror-h/wsaehostunreach/10065/",
+  "numericCode": 10065,
+  "define": "WSAEHOSTUNREACH",
+  "defineUrl": "/win32/winerror-h/wsaehostunreach/",
+  "message": "A socket operation was attempted to an unreachable host.",
+  "remarks": null,
+  "aka": [
+    "0x80072751",
+    "-2147014831"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/wsaehostunreach/0x80072751/",
+    "/win32/winerror-h/wsaehostunreach/-2147014831/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

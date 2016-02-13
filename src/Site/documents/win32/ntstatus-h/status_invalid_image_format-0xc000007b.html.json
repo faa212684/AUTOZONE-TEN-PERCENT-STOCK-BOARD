@@ -1,0 +1,29 @@
+---
+output: win32\ntstatus-h\status_invalid_image_format\0xc000007b\index.html.json
+
+title: 0xC000007B STATUS_INVALID_IMAGE_FORMAT in ntstatus.h
+description: "{Bad Image}
+%hs is either not designed to run on Windows or it contains an error. Try installing the program again using the original installation media or contact your system administrator or the software vendor for support. Error status 0x%08lx."
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000007B",
+  "codeUrl": "/win32/ntstatus-h/status_invalid_image_format/0xc000007b/",
+  "numericCode": -1073741701,
+  "define": "STATUS_INVALID_IMAGE_FORMAT",
+  "defineUrl": "/win32/ntstatus-h/status_invalid_image_format/",
+  "message": "{Bad Image}\r\n%hs is either not designed to run on Windows or it contains an error. Try installing the program again using the original installation media or contact your system administrator or the software vendor for support. Error status 0x%08lx.",
+  "remarks": null,
+  "aka": [
+    "-1073741701"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_invalid_image_format/-1073741701/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

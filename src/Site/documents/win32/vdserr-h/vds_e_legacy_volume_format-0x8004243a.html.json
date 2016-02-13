@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_e_legacy_volume_format\0x8004243a\index.html.json
+
+title: 0x8004243A VDS_E_LEGACY_VOLUME_FORMAT in vdserr.h
+description: A partition with an unknown type was detected on the selected disk.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x8004243A",
+  "codeUrl": "/win32/vdserr-h/vds_e_legacy_volume_format/0x8004243a/",
+  "numericCode": -2147212230,
+  "define": "VDS_E_LEGACY_VOLUME_FORMAT",
+  "defineUrl": "/win32/vdserr-h/vds_e_legacy_volume_format/",
+  "message": "A partition with an unknown type was detected on the selected disk.",
+  "remarks": null,
+  "aka": [
+    "-2147212230"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_legacy_volume_format/-2147212230/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

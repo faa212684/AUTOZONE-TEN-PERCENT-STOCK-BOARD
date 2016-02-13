@@ -1,0 +1,28 @@
+---
+output: win32\oledberr-h\db_e_notreentrant\0x80040e20\index.html.json
+
+title: 0x80040E20 DB_E_NOTREENTRANT in oledberr.h
+description: Consumer's event handler called a non-reentrant method in the provider.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "oledberr.h",
+  "sourceUrl": "/win32/oledberr-h/",
+  "code": "0x80040E20",
+  "codeUrl": "/win32/oledberr-h/db_e_notreentrant/0x80040e20/",
+  "numericCode": -2147217888,
+  "define": "DB_E_NOTREENTRANT",
+  "defineUrl": "/win32/oledberr-h/db_e_notreentrant/",
+  "message": "Consumer's event handler called a non-reentrant method in the provider.",
+  "remarks": null,
+  "aka": [
+    "-2147217888"
+  ],
+  "akaUrl": [
+    "/win32/oledberr-h/db_e_notreentrant/-2147217888/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_agents_exhausted\0xc0000085\index.html.json
+
+title: 0xC0000085 STATUS_AGENTS_EXHAUSTED in ntstatus.h
+description: There are no more authority agent values available for the given identifier authority value.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000085",
+  "codeUrl": "/win32/ntstatus-h/status_agents_exhausted/0xc0000085/",
+  "numericCode": -1073741691,
+  "define": "STATUS_AGENTS_EXHAUSTED",
+  "defineUrl": "/win32/ntstatus-h/status_agents_exhausted/",
+  "message": "There are no more authority agent values available for the given identifier authority value.",
+  "remarks": null,
+  "aka": [
+    "-1073741691"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_agents_exhausted/-1073741691/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

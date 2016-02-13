@@ -1,0 +1,30 @@
+---
+output: win32\wsmerror-h\error_wsman_different_authz_token\0x803381a9\index.html.json
+
+title: 0x803381A9 ERROR_WSMAN_DIFFERENT_AUTHZ_TOKEN in wsmerror.h
+description: The WS-Management service cannot complete the authorization under the given token.
+A previous authorization attempt for the same user resulted in a different token.
+The user record will be revoked and the next request will reauthorize.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x803381A9",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_different_authz_token/0x803381a9/",
+  "numericCode": -2144108119,
+  "define": "ERROR_WSMAN_DIFFERENT_AUTHZ_TOKEN",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_different_authz_token/",
+  "message": "The WS-Management service cannot complete the authorization under the given token.\r\nA previous authorization attempt for the same user resulted in a different token.\r\nThe user record will be revoked and the next request will reauthorize.",
+  "remarks": null,
+  "aka": [
+    "-2144108119"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_different_authz_token/-2144108119/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

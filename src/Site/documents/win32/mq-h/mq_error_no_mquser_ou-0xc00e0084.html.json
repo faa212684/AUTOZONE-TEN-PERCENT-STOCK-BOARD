@@ -1,0 +1,28 @@
+---
+output: win32\mq-h\mq_error_no_mquser_ou\0xc00e0084\index.html.json
+
+title: 0xC00E0084 MQ_ERROR_NO_MQUSER_OU in Mq.h
+description: There is no MSMQ Users organizational unit object in Active Directory Domain Services for the domain. Please create one manually.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "Mq.h",
+  "sourceUrl": "/win32/mq-h/",
+  "code": "0xC00E0084",
+  "codeUrl": "/win32/mq-h/mq_error_no_mquser_ou/0xc00e0084/",
+  "numericCode": -1072824188,
+  "define": "MQ_ERROR_NO_MQUSER_OU",
+  "defineUrl": "/win32/mq-h/mq_error_no_mquser_ou/",
+  "message": "There is no MSMQ Users organizational unit object in Active Directory Domain Services for the domain. Please create one manually.",
+  "remarks": null,
+  "aka": [
+    "-1072824188"
+  ],
+  "akaUrl": [
+    "/win32/mq-h/mq_error_no_mquser_ou/-1072824188/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

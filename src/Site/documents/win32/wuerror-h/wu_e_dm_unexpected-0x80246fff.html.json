@@ -1,0 +1,28 @@
+---
+output: win32\wuerror-h\wu_e_dm_unexpected\0x80246fff\index.html.json
+
+title: 0x80246FFF WU_E_DM_UNEXPECTED in wuerror.h
+description: There was a download manager error not covered by another WU_E_DM_* error code.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wuerror.h",
+  "sourceUrl": "/win32/wuerror-h/",
+  "code": "0x80246FFF",
+  "codeUrl": "/win32/wuerror-h/wu_e_dm_unexpected/0x80246fff/",
+  "numericCode": -2145095681,
+  "define": "WU_E_DM_UNEXPECTED",
+  "defineUrl": "/win32/wuerror-h/wu_e_dm_unexpected/",
+  "message": "There was a download manager error not covered by another WU_E_DM_* error code.",
+  "remarks": null,
+  "aka": [
+    "-2145095681"
+  ],
+  "akaUrl": [
+    "/win32/wuerror-h/wu_e_dm_unexpected/-2145095681/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

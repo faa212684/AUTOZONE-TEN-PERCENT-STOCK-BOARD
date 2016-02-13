@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_transacted_mapping_unsupported_remote\-2147018062\index.html.json
+canonical: /win32/winerror-h/error_transacted_mapping_unsupported_remote/6834/
+title: -2147018062 ERROR_TRANSACTED_MAPPING_UNSUPPORTED_REMOTE in winerror.h
+description: Memory mapping (creating a mapped section) a remote file under a transaction is not supported.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147018062",
+  "codeUrl": "/win32/winerror-h/error_transacted_mapping_unsupported_remote/-2147018062/",
+  "numericCode": 0,
+  "define": "ERROR_TRANSACTED_MAPPING_UNSUPPORTED_REMOTE",
+  "defineUrl": "/win32/winerror-h/error_transacted_mapping_unsupported_remote/",
+  "message": "Memory mapping (creating a mapped section) a remote file under a transaction is not supported.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "6834",
+  "originalCodeUrl": "/win32/winerror-h/error_transacted_mapping_unsupported_remote/6834/"
+}

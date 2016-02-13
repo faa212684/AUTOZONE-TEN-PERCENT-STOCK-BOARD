@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\sec_e_pkinit_client_failure\-2146892972\index.html.json
+canonical: /win32/winerror-h/sec_e_pkinit_client_failure/0x80090354/
+title: -2146892972 SEC_E_PKINIT_CLIENT_FAILURE in winerror.h
+description: The smartcard certificate used for authentication was not trusted. Please contact your system administrator.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2146892972",
+  "codeUrl": "/win32/winerror-h/sec_e_pkinit_client_failure/-2146892972/",
+  "numericCode": 0,
+  "define": "SEC_E_PKINIT_CLIENT_FAILURE",
+  "defineUrl": "/win32/winerror-h/sec_e_pkinit_client_failure/",
+  "message": "The smartcard certificate used for authentication was not trusted. Please contact your system administrator.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80090354",
+  "originalCodeUrl": "/win32/winerror-h/sec_e_pkinit_client_failure/0x80090354/"
+}

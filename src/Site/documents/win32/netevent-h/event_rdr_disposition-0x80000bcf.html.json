@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_rdr_disposition\0x80000bcf\index.html.json
+
+title: 0x80000BCF EVENT_RDR_DISPOSITION in netevent.h
+description: The redirector failed to map the requested file disposition (for NtCreateFile).
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x80000BCF",
+  "codeUrl": "/win32/netevent-h/event_rdr_disposition/0x80000bcf/",
+  "numericCode": -2147480625,
+  "define": "EVENT_RDR_DISPOSITION",
+  "defineUrl": "/win32/netevent-h/event_rdr_disposition/",
+  "message": "The redirector failed to map the requested file disposition (for NtCreateFile).",
+  "remarks": null,
+  "aka": [
+    "-2147480625"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_rdr_disposition/-2147480625/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

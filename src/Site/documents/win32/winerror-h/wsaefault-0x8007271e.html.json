@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\wsaefault\0x8007271e\index.html.json
+canonical: /win32/winerror-h/wsaefault/10014/
+title: 0x8007271e WSAEFAULT in winerror.h
+description: The system detected an invalid pointer address in attempting to use a pointer argument in a call.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007271e",
+  "codeUrl": "/win32/winerror-h/wsaefault/0x8007271e/",
+  "numericCode": 0,
+  "define": "WSAEFAULT",
+  "defineUrl": "/win32/winerror-h/wsaefault/",
+  "message": "The system detected an invalid pointer address in attempting to use a pointer argument in a call.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "10014",
+  "originalCodeUrl": "/win32/winerror-h/wsaefault/10014/"
+}

@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_rxact_invalid_state\0xc000011c\index.html.json
+
+title: 0xC000011C STATUS_RXACT_INVALID_STATE in ntstatus.h
+description: Indicates that the transaction state of a registry sub-tree is incompatible with the requested operation. For example, a request has been made to start a new transaction with one already in progress, or a request has been made to apply a transaction when one is not currently in progress.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000011C",
+  "codeUrl": "/win32/ntstatus-h/status_rxact_invalid_state/0xc000011c/",
+  "numericCode": -1073741540,
+  "define": "STATUS_RXACT_INVALID_STATE",
+  "defineUrl": "/win32/ntstatus-h/status_rxact_invalid_state/",
+  "message": "Indicates that the transaction state of a registry sub-tree is incompatible with the requested operation. For example, a request has been made to start a new transaction with one already in progress, or a request has been made to apply a transaction when one is not currently in progress.",
+  "remarks": null,
+  "aka": [
+    "-1073741540"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_rxact_invalid_state/-1073741540/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

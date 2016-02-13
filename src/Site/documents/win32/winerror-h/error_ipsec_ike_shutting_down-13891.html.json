@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ipsec_ike_shutting_down\13891\index.html.json
+
+title: 13891 ERROR_IPSEC_IKE_SHUTTING_DOWN in winerror.h
+description: IKE service is shutting down.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "13891",
+  "codeUrl": "/win32/winerror-h/error_ipsec_ike_shutting_down/13891/",
+  "numericCode": 13891,
+  "define": "ERROR_IPSEC_IKE_SHUTTING_DOWN",
+  "defineUrl": "/win32/winerror-h/error_ipsec_ike_shutting_down/",
+  "message": "IKE service is shutting down.",
+  "remarks": null,
+  "aka": [
+    "0x80073643",
+    "-2147011005"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ipsec_ike_shutting_down/0x80073643/",
+    "/win32/winerror-h/error_ipsec_ike_shutting_down/-2147011005/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

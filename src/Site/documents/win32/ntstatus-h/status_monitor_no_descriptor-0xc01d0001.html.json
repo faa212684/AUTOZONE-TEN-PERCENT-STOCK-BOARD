@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_monitor_no_descriptor\0xc01d0001\index.html.json
+
+title: 0xC01D0001 STATUS_MONITOR_NO_DESCRIPTOR in ntstatus.h
+description: Monitor descriptor could not be obtained.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC01D0001",
+  "codeUrl": "/win32/ntstatus-h/status_monitor_no_descriptor/0xc01d0001/",
+  "numericCode": -1071841279,
+  "define": "STATUS_MONITOR_NO_DESCRIPTOR",
+  "defineUrl": "/win32/ntstatus-h/status_monitor_no_descriptor/",
+  "message": "Monitor descriptor could not be obtained.",
+  "remarks": null,
+  "aka": [
+    "-1071841279"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_monitor_no_descriptor/-1071841279/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

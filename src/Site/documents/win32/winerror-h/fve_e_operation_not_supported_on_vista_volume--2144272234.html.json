@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\fve_e_operation_not_supported_on_vista_volume\-2144272234\index.html.json
+canonical: /win32/winerror-h/fve_e_operation_not_supported_on_vista_volume/0x80310096/
+title: -2144272234 FVE_E_OPERATION_NOT_SUPPORTED_ON_VISTA_VOLUME in winerror.h
+description: This drive was encrypted using the version of BitLocker Drive Encryption included with Windows Vista and Windows Server 2008 which does not support organizational identifiers. To specify organizational identifiers for this drive upgrade the drive encryption to the latest version using the "manage-bde -upgrade" command.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2144272234",
+  "codeUrl": "/win32/winerror-h/fve_e_operation_not_supported_on_vista_volume/-2144272234/",
+  "numericCode": 0,
+  "define": "FVE_E_OPERATION_NOT_SUPPORTED_ON_VISTA_VOLUME",
+  "defineUrl": "/win32/winerror-h/fve_e_operation_not_supported_on_vista_volume/",
+  "message": "This drive was encrypted using the version of BitLocker Drive Encryption included with Windows Vista and Windows Server 2008 which does not support organizational identifiers. To specify organizational identifiers for this drive upgrade the drive encryption to the latest version using the \"manage-bde -upgrade\" command.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80310096",
+  "originalCodeUrl": "/win32/winerror-h/fve_e_operation_not_supported_on_vista_volume/0x80310096/"
+}

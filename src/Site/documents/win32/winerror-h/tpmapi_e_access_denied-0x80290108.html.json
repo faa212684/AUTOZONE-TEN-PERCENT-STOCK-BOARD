@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\tpmapi_e_access_denied\0x80290108\index.html.json
+
+title: 0x80290108 TPMAPI_E_ACCESS_DENIED in winerror.h
+description: The caller does not have the appropriate rights to perform the requested operation.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80290108",
+  "codeUrl": "/win32/winerror-h/tpmapi_e_access_denied/0x80290108/",
+  "numericCode": -2144796408,
+  "define": "TPMAPI_E_ACCESS_DENIED",
+  "defineUrl": "/win32/winerror-h/tpmapi_e_access_denied/",
+  "message": "The caller does not have the appropriate rights to perform the requested operation.",
+  "remarks": null,
+  "aka": [
+    "-2144796408"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/tpmapi_e_access_denied/-2144796408/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

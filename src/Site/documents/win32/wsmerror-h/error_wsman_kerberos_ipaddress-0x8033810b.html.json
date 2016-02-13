@@ -1,0 +1,30 @@
+---
+output: win32\wsmerror-h\error_wsman_kerberos_ipaddress\0x8033810b\index.html.json
+
+title: 0x8033810B ERROR_WSMAN_KERBEROS_IPADDRESS in wsmerror.h
+description: The WinRM client cannot process the request.
+Kerberos authentication cannot be used when the destination is an IP address.
+Specify a DNS or NetBIOS destination or specify Basic or Negotiate authentication.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x8033810B",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_kerberos_ipaddress/0x8033810b/",
+  "numericCode": -2144108277,
+  "define": "ERROR_WSMAN_KERBEROS_IPADDRESS",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_kerberos_ipaddress/",
+  "message": "The WinRM client cannot process the request.\r\nKerberos authentication cannot be used when the destination is an IP address.\r\nSpecify a DNS or NetBIOS destination or specify Basic or Negotiate authentication.",
+  "remarks": null,
+  "aka": [
+    "-2144108277"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_kerberos_ipaddress/-2144108277/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

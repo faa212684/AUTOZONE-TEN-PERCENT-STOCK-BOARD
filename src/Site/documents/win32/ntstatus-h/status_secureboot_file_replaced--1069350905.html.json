@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_secureboot_file_replaced\-1069350905\index.html.json
+canonical: /win32/ntstatus-h/status_secureboot_file_replaced/0xc0430007/
+title: -1069350905 STATUS_SECUREBOOT_FILE_REPLACED in ntstatus.h
+description: Secure Boot requires that certain files and drivers are not replaced by other files or drivers.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1069350905",
+  "codeUrl": "/win32/ntstatus-h/status_secureboot_file_replaced/-1069350905/",
+  "numericCode": 0,
+  "define": "STATUS_SECUREBOOT_FILE_REPLACED",
+  "defineUrl": "/win32/ntstatus-h/status_secureboot_file_replaced/",
+  "message": "Secure Boot requires that certain files and drivers are not replaced by other files or drivers.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0430007",
+  "originalCodeUrl": "/win32/ntstatus-h/status_secureboot_file_replaced/0xc0430007/"
+}

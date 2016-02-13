@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_e_no_discovery_domain\0x8004270d\index.html.json
+
+title: 0x8004270D VDS_E_NO_DISCOVERY_DOMAIN in vdserr.h
+description: The initiator does not exist in a iSNS discovery domain.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x8004270D",
+  "codeUrl": "/win32/vdserr-h/vds_e_no_discovery_domain/0x8004270d/",
+  "numericCode": -2147211507,
+  "define": "VDS_E_NO_DISCOVERY_DOMAIN",
+  "defineUrl": "/win32/vdserr-h/vds_e_no_discovery_domain/",
+  "message": "The initiator does not exist in a iSNS discovery domain.",
+  "remarks": null,
+  "aka": [
+    "-2147211507"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_no_discovery_domain/-2147211507/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

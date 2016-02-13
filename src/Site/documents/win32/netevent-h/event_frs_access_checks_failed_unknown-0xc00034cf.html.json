@@ -1,0 +1,40 @@
+---
+output: win32\netevent-h\event_frs_access_checks_failed_unknown\0xc00034cf\index.html.json
+
+title: 0xC00034CF EVENT_FRS_ACCESS_CHECKS_FAILED_UNKNOWN in netevent.h
+description: The File Replication Service could not grant an unknown user access to the
+API "%1".
+%n
+%nAccess checks can be disabled for "%1" by running regedt32.
+%n
+%nClick on Start, Run, and type regedt32.
+%n
+%nClick on the window entitled HKEY_LOCAL_MACHINE. Double click on SYSTEM,
+CurrentControlSet, Services, NtFrs, Parameters, Access Checks, "%1", and "%2".
+Change the string to Disabled.
+%n
+%nPermissions can be changed by highlighting "%1" and then clicking on the
+toolbar option Security and then Permissions...
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC00034CF",
+  "codeUrl": "/win32/netevent-h/event_frs_access_checks_failed_unknown/0xc00034cf/",
+  "numericCode": -1073728305,
+  "define": "EVENT_FRS_ACCESS_CHECKS_FAILED_UNKNOWN",
+  "defineUrl": "/win32/netevent-h/event_frs_access_checks_failed_unknown/",
+  "message": "The File Replication Service could not grant an unknown user access to the\r\nAPI \"%1\".\r\n%n\r\n%nAccess checks can be disabled for \"%1\" by running regedt32.\r\n%n\r\n%nClick on Start, Run, and type regedt32.\r\n%n\r\n%nClick on the window entitled HKEY_LOCAL_MACHINE. Double click on SYSTEM,\r\nCurrentControlSet, Services, NtFrs, Parameters, Access Checks, \"%1\", and \"%2\".\r\nChange the string to Disabled.\r\n%n\r\n%nPermissions can be changed by highlighting \"%1\" and then clicking on the\r\ntoolbar option Security and then Permissions...",
+  "remarks": null,
+  "aka": [
+    "-1073728305"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_frs_access_checks_failed_unknown/-1073728305/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

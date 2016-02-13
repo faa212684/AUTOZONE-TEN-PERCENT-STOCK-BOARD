@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_graphics_pvp_hfs_failed\-1071774447\index.html.json
+canonical: /win32/ntstatus-h/status_graphics_pvp_hfs_failed/0xc01e0511/
+title: -1071774447 STATUS_GRAPHICS_PVP_HFS_FAILED in ntstatus.h
+description: The function failed because the display adapter's Hardware Functionality Scan failed to validate the graphics hardware.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071774447",
+  "codeUrl": "/win32/ntstatus-h/status_graphics_pvp_hfs_failed/-1071774447/",
+  "numericCode": 0,
+  "define": "STATUS_GRAPHICS_PVP_HFS_FAILED",
+  "defineUrl": "/win32/ntstatus-h/status_graphics_pvp_hfs_failed/",
+  "message": "The function failed because the display adapter's Hardware Functionality Scan failed to validate the graphics hardware.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC01E0511",
+  "originalCodeUrl": "/win32/ntstatus-h/status_graphics_pvp_hfs_failed/0xc01e0511/"
+}

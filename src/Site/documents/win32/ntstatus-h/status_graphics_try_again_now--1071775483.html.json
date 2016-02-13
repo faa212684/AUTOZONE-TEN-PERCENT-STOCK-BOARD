@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_graphics_try_again_now\-1071775483\index.html.json
+canonical: /win32/ntstatus-h/status_graphics_try_again_now/0xc01e0105/
+title: -1071775483 STATUS_GRAPHICS_TRY_AGAIN_NOW in ntstatus.h
+description: A problem couldn't be solved due to some currently existing condition. The problem should be tried again immediately.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071775483",
+  "codeUrl": "/win32/ntstatus-h/status_graphics_try_again_now/-1071775483/",
+  "numericCode": 0,
+  "define": "STATUS_GRAPHICS_TRY_AGAIN_NOW",
+  "defineUrl": "/win32/ntstatus-h/status_graphics_try_again_now/",
+  "message": "A problem couldn't be solved due to some currently existing condition. The problem should be tried again immediately.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC01E0105",
+  "originalCodeUrl": "/win32/ntstatus-h/status_graphics_try_again_now/0xc01e0105/"
+}

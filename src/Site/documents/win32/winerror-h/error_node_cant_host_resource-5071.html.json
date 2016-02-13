@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_node_cant_host_resource\5071\index.html.json
+
+title: 5071 ERROR_NODE_CANT_HOST_RESOURCE in winerror.h
+description: The cluster resource cannot be brought online. The owner node cannot run this resource.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "5071",
+  "codeUrl": "/win32/winerror-h/error_node_cant_host_resource/5071/",
+  "numericCode": 5071,
+  "define": "ERROR_NODE_CANT_HOST_RESOURCE",
+  "defineUrl": "/win32/winerror-h/error_node_cant_host_resource/",
+  "message": "The cluster resource cannot be brought online. The owner node cannot run this resource.",
+  "remarks": null,
+  "aka": [
+    "0x800713cf",
+    "-2147019825"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_node_cant_host_resource/0x800713cf/",
+    "/win32/winerror-h/error_node_cant_host_resource/-2147019825/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

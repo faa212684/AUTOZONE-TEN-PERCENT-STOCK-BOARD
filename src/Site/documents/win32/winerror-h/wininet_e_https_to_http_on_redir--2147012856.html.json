@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\wininet_e_https_to_http_on_redir\-2147012856\index.html.json
+canonical: /win32/winerror-h/wininet_e_https_to_http_on_redir/0x80072f08/
+title: -2147012856 WININET_E_HTTPS_TO_HTTP_ON_REDIR in winerror.h
+description: A redirect request will change a secure to a non-secure connection
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147012856",
+  "codeUrl": "/win32/winerror-h/wininet_e_https_to_http_on_redir/-2147012856/",
+  "numericCode": 0,
+  "define": "WININET_E_HTTPS_TO_HTTP_ON_REDIR",
+  "defineUrl": "/win32/winerror-h/wininet_e_https_to_http_on_redir/",
+  "message": "A redirect request will change a secure to a non-secure connection",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80072F08",
+  "originalCodeUrl": "/win32/winerror-h/wininet_e_https_to_http_on_redir/0x80072f08/"
+}

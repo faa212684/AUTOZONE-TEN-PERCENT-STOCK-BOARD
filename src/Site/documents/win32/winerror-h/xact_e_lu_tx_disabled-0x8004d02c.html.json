@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\xact_e_lu_tx_disabled\0x8004d02c\index.html.json
+
+title: 0x8004D02C XACT_E_LU_TX_DISABLED in winerror.h
+description: The MSDTC transaction manager has disabled its support for SNA LU 6.2 transactions.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8004D02C",
+  "codeUrl": "/win32/winerror-h/xact_e_lu_tx_disabled/0x8004d02c/",
+  "numericCode": -2147168212,
+  "define": "XACT_E_LU_TX_DISABLED",
+  "defineUrl": "/win32/winerror-h/xact_e_lu_tx_disabled/",
+  "message": "The MSDTC transaction manager has disabled its support for SNA LU 6.2 transactions.",
+  "remarks": null,
+  "aka": [
+    "-2147168212"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/xact_e_lu_tx_disabled/-2147168212/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_timer_not_canceled\541\index.html.json
+
+title: 541 ERROR_TIMER_NOT_CANCELED in winerror.h
+description: An attempt was made to cancel or set a timer that has an associated APC and the subject thread is not the thread that originally set the timer with an associated APC routine.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "541",
+  "codeUrl": "/win32/winerror-h/error_timer_not_canceled/541/",
+  "numericCode": 541,
+  "define": "ERROR_TIMER_NOT_CANCELED",
+  "defineUrl": "/win32/winerror-h/error_timer_not_canceled/",
+  "message": "An attempt was made to cancel or set a timer that has an associated APC and the subject thread is not the thread that originally set the timer with an associated APC routine.",
+  "remarks": null,
+  "aka": [
+    "0x8007021d",
+    "-2147024355"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_timer_not_canceled/0x8007021d/",
+    "/win32/winerror-h/error_timer_not_canceled/-2147024355/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

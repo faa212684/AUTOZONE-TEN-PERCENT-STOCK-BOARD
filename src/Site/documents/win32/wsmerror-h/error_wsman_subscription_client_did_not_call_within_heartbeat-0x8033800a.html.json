@@ -1,0 +1,29 @@
+---
+output: win32\wsmerror-h\error_wsman_subscription_client_did_not_call_within_heartbeat\0x8033800a\index.html.json
+
+title: 0x8033800A ERROR_WSMAN_SUBSCRIPTION_CLIENT_DID_NOT_CALL_WITHIN_HEARTBEAT in wsmerror.h
+description: The application or script that has an event subscription did not request a pull operation within the heartbeat interval.
+The subscription session was closed. Start a new subscription.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x8033800A",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_subscription_client_did_not_call_within_heartbeat/0x8033800a/",
+  "numericCode": -2144108534,
+  "define": "ERROR_WSMAN_SUBSCRIPTION_CLIENT_DID_NOT_CALL_WITHIN_HEARTBEAT",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_subscription_client_did_not_call_within_heartbeat/",
+  "message": "The application or script that has an event subscription did not request a pull operation within the heartbeat interval.\r\nThe subscription session was closed. Start a new subscription.",
+  "remarks": null,
+  "aka": [
+    "-2144108534"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_subscription_client_did_not_call_within_heartbeat/-2144108534/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

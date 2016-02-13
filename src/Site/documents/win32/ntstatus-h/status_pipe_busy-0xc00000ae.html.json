@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_pipe_busy\0xc00000ae\index.html.json
+
+title: 0xC00000AE STATUS_PIPE_BUSY in ntstatus.h
+description: The specified pipe is set to complete operations and there are current I/O operations queued so it cannot be changed to queue operations.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC00000AE",
+  "codeUrl": "/win32/ntstatus-h/status_pipe_busy/0xc00000ae/",
+  "numericCode": -1073741650,
+  "define": "STATUS_PIPE_BUSY",
+  "defineUrl": "/win32/ntstatus-h/status_pipe_busy/",
+  "message": "The specified pipe is set to complete operations and there are current I/O operations queued so it cannot be changed to queue operations.",
+  "remarks": null,
+  "aka": [
+    "-1073741650"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_pipe_busy/-1073741650/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

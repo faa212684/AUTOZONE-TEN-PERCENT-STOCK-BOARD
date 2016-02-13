@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_access_violation\-1073741819\index.html.json
+canonical: /win32/ntstatus-h/status_access_violation/0xc0000005/
+title: -1073741819 STATUS_ACCESS_VIOLATION in ntstatus.h
+description: The instruction at 0x%08lx referenced memory at 0x%08lx. The memory could not be %s.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741819",
+  "codeUrl": "/win32/ntstatus-h/status_access_violation/-1073741819/",
+  "numericCode": 0,
+  "define": "STATUS_ACCESS_VIOLATION",
+  "defineUrl": "/win32/ntstatus-h/status_access_violation/",
+  "message": "The instruction at 0x%08lx referenced memory at 0x%08lx. The memory could not be %s.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000005",
+  "originalCodeUrl": "/win32/ntstatus-h/status_access_violation/0xc0000005/"
+}

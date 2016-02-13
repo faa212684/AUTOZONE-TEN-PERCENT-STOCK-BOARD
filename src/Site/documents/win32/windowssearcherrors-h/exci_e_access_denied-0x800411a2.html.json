@@ -1,0 +1,28 @@
+---
+output: win32\windowssearcherrors-h\exci_e_access_denied\0x800411a2\index.html.json
+
+title: 0x800411A2 EXCI_E_ACCESS_DENIED in WindowsSearchErrors.h
+description: There is insufficient privilege to access the Microsoft Exchange 5.5 server. Check that the Microsoft Exchange 5.5 configuration is valid and that the search service is running in the context of a user having administrative privileges on the Exchange server configuration node.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "0x800411A2",
+  "codeUrl": "/win32/windowssearcherrors-h/exci_e_access_denied/0x800411a2/",
+  "numericCode": -2147216990,
+  "define": "EXCI_E_ACCESS_DENIED",
+  "defineUrl": "/win32/windowssearcherrors-h/exci_e_access_denied/",
+  "message": "There is insufficient privilege to access the Microsoft Exchange 5.5 server. Check that the Microsoft Exchange 5.5 configuration is valid and that the search service is running in the context of a user having administrative privileges on the Exchange server configuration node.",
+  "remarks": null,
+  "aka": [
+    "-2147216990"
+  ],
+  "akaUrl": [
+    "/win32/windowssearcherrors-h/exci_e_access_denied/-2147216990/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

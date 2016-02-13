@@ -1,0 +1,25 @@
+---
+output: win32\vsserror-h\vss_e_invalid_xml_document\-2147212527\index.html.json
+canonical: /win32/vsserror-h/vss_e_invalid_xml_document/0x80042311/
+title: -2147212527 VSS_E_INVALID_XML_DOCUMENT in vsserror.h
+description: The given XML document is invalid.  It is either incorrectly-formed XML or it does not match the
+schema.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vsserror.h",
+  "sourceUrl": "/win32/vsserror-h/",
+  "code": "-2147212527",
+  "codeUrl": "/win32/vsserror-h/vss_e_invalid_xml_document/-2147212527/",
+  "numericCode": 0,
+  "define": "VSS_E_INVALID_XML_DOCUMENT",
+  "defineUrl": "/win32/vsserror-h/vss_e_invalid_xml_document/",
+  "message": "The given XML document is invalid.  It is either incorrectly-formed XML or it does not match the\r\nschema.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80042311",
+  "originalCodeUrl": "/win32/vsserror-h/vss_e_invalid_xml_document/0x80042311/"
+}

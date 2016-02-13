@@ -1,0 +1,28 @@
+---
+output: win32\tapi3err-h\tapi_e_useruserinfotoobig\0x80040028\index.html.json
+
+title: 0x80040028 TAPI_E_USERUSERINFOTOOBIG in Tapi3Err.h
+description: The amount of user-user info exceeds the maximum permitted.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "Tapi3Err.h",
+  "sourceUrl": "/win32/tapi3err-h/",
+  "code": "0x80040028",
+  "codeUrl": "/win32/tapi3err-h/tapi_e_useruserinfotoobig/0x80040028/",
+  "numericCode": -2147221464,
+  "define": "TAPI_E_USERUSERINFOTOOBIG",
+  "defineUrl": "/win32/tapi3err-h/tapi_e_useruserinfotoobig/",
+  "message": "The amount of user-user info exceeds the maximum permitted.",
+  "remarks": null,
+  "aka": [
+    "-2147221464"
+  ],
+  "akaUrl": [
+    "/win32/tapi3err-h/tapi_e_useruserinfotoobig/-2147221464/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

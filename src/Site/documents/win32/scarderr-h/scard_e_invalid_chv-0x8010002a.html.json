@@ -1,0 +1,28 @@
+---
+output: win32\scarderr-h\scard_e_invalid_chv\0x8010002a\index.html.json
+
+title: 0x8010002A SCARD_E_INVALID_CHV in SCardErr.h
+description: The supplied PIN is incorrect.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "SCardErr.h",
+  "sourceUrl": "/win32/scarderr-h/",
+  "code": "0x8010002A",
+  "codeUrl": "/win32/scarderr-h/scard_e_invalid_chv/0x8010002a/",
+  "numericCode": -2146435030,
+  "define": "SCARD_E_INVALID_CHV",
+  "defineUrl": "/win32/scarderr-h/scard_e_invalid_chv/",
+  "message": "The supplied PIN is incorrect.",
+  "remarks": null,
+  "aka": [
+    "-2146435030"
+  ],
+  "akaUrl": [
+    "/win32/scarderr-h/scard_e_invalid_chv/-2146435030/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\dns_error_nsec_incompatible_with_nsec3_rsa_sha1\0x800723aa\index.html.json
+canonical: /win32/winerror-h/dns_error_nsec_incompatible_with_nsec3_rsa_sha1/9130/
+title: 0x800723aa DNS_ERROR_NSEC_INCOMPATIBLE_WITH_NSEC3_RSA_SHA1 in winerror.h
+description: NSEC is not compatible with the NSEC3-RSA-SHA-1 algorithm. Choose a different algorithm or use NSEC3.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800723aa",
+  "codeUrl": "/win32/winerror-h/dns_error_nsec_incompatible_with_nsec3_rsa_sha1/0x800723aa/",
+  "numericCode": 0,
+  "define": "DNS_ERROR_NSEC_INCOMPATIBLE_WITH_NSEC3_RSA_SHA1",
+  "defineUrl": "/win32/winerror-h/dns_error_nsec_incompatible_with_nsec3_rsa_sha1/",
+  "message": "NSEC is not compatible with the NSEC3-RSA-SHA-1 algorithm. Choose a different algorithm or use NSEC3.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "9130",
+  "originalCodeUrl": "/win32/winerror-h/dns_error_nsec_incompatible_with_nsec3_rsa_sha1/9130/"
+}

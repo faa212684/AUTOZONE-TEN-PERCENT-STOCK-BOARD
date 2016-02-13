@@ -1,0 +1,29 @@
+---
+output: win32\wsmerror-h\error_wsman_proxy_access_type\0x8033819c\index.html.json
+
+title: 0x8033819C ERROR_WSMAN_PROXY_ACCESS_TYPE in wsmerror.h
+description: The WinRM client cannot process the request. The proxy access type is incorrect. Use one of the proxy access type flags; the flags cannot be combined.
+Change the invalid proxy access type and try the request again.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x8033819C",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_proxy_access_type/0x8033819c/",
+  "numericCode": -2144108132,
+  "define": "ERROR_WSMAN_PROXY_ACCESS_TYPE",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_proxy_access_type/",
+  "message": "The WinRM client cannot process the request. The proxy access type is incorrect. Use one of the proxy access type flags; the flags cannot be combined.\r\nChange the invalid proxy access type and try the request again.",
+  "remarks": null,
+  "aka": [
+    "-2144108132"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_proxy_access_type/-2144108132/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

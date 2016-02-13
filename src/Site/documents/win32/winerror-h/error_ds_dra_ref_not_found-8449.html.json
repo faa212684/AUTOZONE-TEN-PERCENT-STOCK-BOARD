@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ds_dra_ref_not_found\8449\index.html.json
+
+title: 8449 ERROR_DS_DRA_REF_NOT_FOUND in winerror.h
+description: The replication reference information for the target server does not exist.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "8449",
+  "codeUrl": "/win32/winerror-h/error_ds_dra_ref_not_found/8449/",
+  "numericCode": 8449,
+  "define": "ERROR_DS_DRA_REF_NOT_FOUND",
+  "defineUrl": "/win32/winerror-h/error_ds_dra_ref_not_found/",
+  "message": "The replication reference information for the target server does not exist.",
+  "remarks": null,
+  "aka": [
+    "0x80072101",
+    "-2147016447"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ds_dra_ref_not_found/0x80072101/",
+    "/win32/winerror-h/error_ds_dra_ref_not_found/-2147016447/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

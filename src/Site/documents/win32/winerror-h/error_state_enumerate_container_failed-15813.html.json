@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_state_enumerate_container_failed\15813\index.html.json
+
+title: 15813 ERROR_STATE_ENUMERATE_CONTAINER_FAILED in winerror.h
+description: State Manager failed to enumerate the containers.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "15813",
+  "codeUrl": "/win32/winerror-h/error_state_enumerate_container_failed/15813/",
+  "numericCode": 15813,
+  "define": "ERROR_STATE_ENUMERATE_CONTAINER_FAILED",
+  "defineUrl": "/win32/winerror-h/error_state_enumerate_container_failed/",
+  "message": "State Manager failed to enumerate the containers.",
+  "remarks": null,
+  "aka": [
+    "0x80073dc5",
+    "-2147009083"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_state_enumerate_container_failed/0x80073dc5/",
+    "/win32/winerror-h/error_state_enumerate_container_failed/-2147009083/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_log_resize_invalid_size\0xc019000b\index.html.json
+
+title: 0xC019000B STATUS_LOG_RESIZE_INVALID_SIZE in ntstatus.h
+description: The requested log size for the file system resource manager is invalid.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC019000B",
+  "codeUrl": "/win32/ntstatus-h/status_log_resize_invalid_size/0xc019000b/",
+  "numericCode": -1072103413,
+  "define": "STATUS_LOG_RESIZE_INVALID_SIZE",
+  "defineUrl": "/win32/ntstatus-h/status_log_resize_invalid_size/",
+  "message": "The requested log size for the file system resource manager is invalid.",
+  "remarks": null,
+  "aka": [
+    "-1072103413"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_log_resize_invalid_size/-1072103413/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

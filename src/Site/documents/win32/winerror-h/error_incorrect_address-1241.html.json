@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_incorrect_address\1241\index.html.json
+
+title: 1241 ERROR_INCORRECT_ADDRESS in winerror.h
+description: The network address could not be used for the operation requested.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1241",
+  "codeUrl": "/win32/winerror-h/error_incorrect_address/1241/",
+  "numericCode": 1241,
+  "define": "ERROR_INCORRECT_ADDRESS",
+  "defineUrl": "/win32/winerror-h/error_incorrect_address/",
+  "message": "The network address could not be used for the operation requested.",
+  "remarks": null,
+  "aka": [
+    "0x800704d9",
+    "-2147023655"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_incorrect_address/0x800704d9/",
+    "/win32/winerror-h/error_incorrect_address/-2147023655/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

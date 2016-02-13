@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_cannot_break_oplock\802\index.html.json
+
+title: 802 ERROR_CANNOT_BREAK_OPLOCK in winerror.h
+description: The operation did not complete successfully because it would cause an oplock to be broken. The caller has requested that existing oplocks not be broken.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "802",
+  "codeUrl": "/win32/winerror-h/error_cannot_break_oplock/802/",
+  "numericCode": 802,
+  "define": "ERROR_CANNOT_BREAK_OPLOCK",
+  "defineUrl": "/win32/winerror-h/error_cannot_break_oplock/",
+  "message": "The operation did not complete successfully because it would cause an oplock to be broken. The caller has requested that existing oplocks not be broken.",
+  "remarks": null,
+  "aka": [
+    "0x80070322",
+    "-2147024094"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_cannot_break_oplock/0x80070322/",
+    "/win32/winerror-h/error_cannot_break_oplock/-2147024094/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\comadmin_e_invalid_partition\0x8011080b\index.html.json
+
+title: 0x8011080B COMADMIN_E_INVALID_PARTITION in winerror.h
+description: The partition(s) specified are not valid.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8011080B",
+  "codeUrl": "/win32/winerror-h/comadmin_e_invalid_partition/0x8011080b/",
+  "numericCode": -2146367477,
+  "define": "COMADMIN_E_INVALID_PARTITION",
+  "defineUrl": "/win32/winerror-h/comadmin_e_invalid_partition/",
+  "message": "The partition(s) specified are not valid.",
+  "remarks": null,
+  "aka": [
+    "-2146367477"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/comadmin_e_invalid_partition/-2146367477/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

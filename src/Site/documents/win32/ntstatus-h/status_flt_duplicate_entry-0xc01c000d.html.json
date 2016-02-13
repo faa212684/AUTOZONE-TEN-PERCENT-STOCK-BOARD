@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_flt_duplicate_entry\0xc01c000d\index.html.json
+
+title: 0xC01C000D STATUS_FLT_DUPLICATE_ENTRY in ntstatus.h
+description: A duplicate handler definition has been provided for an operation.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC01C000D",
+  "codeUrl": "/win32/ntstatus-h/status_flt_duplicate_entry/0xc01c000d/",
+  "numericCode": -1071906803,
+  "define": "STATUS_FLT_DUPLICATE_ENTRY",
+  "defineUrl": "/win32/ntstatus-h/status_flt_duplicate_entry/",
+  "message": "A duplicate handler definition has been provided for an operation.",
+  "remarks": null,
+  "aka": [
+    "-1071906803"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_flt_duplicate_entry/-1071906803/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

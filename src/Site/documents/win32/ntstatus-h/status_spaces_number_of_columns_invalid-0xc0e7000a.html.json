@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_spaces_number_of_columns_invalid\0xc0e7000a\index.html.json
+
+title: 0xC0E7000A STATUS_SPACES_NUMBER_OF_COLUMNS_INVALID in ntstatus.h
+description: The number of columns specified is outside of the supported range of values.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0E7000A",
+  "codeUrl": "/win32/ntstatus-h/status_spaces_number_of_columns_invalid/0xc0e7000a/",
+  "numericCode": -1058602998,
+  "define": "STATUS_SPACES_NUMBER_OF_COLUMNS_INVALID",
+  "defineUrl": "/win32/ntstatus-h/status_spaces_number_of_columns_invalid/",
+  "message": "The number of columns specified is outside of the supported range of values.",
+  "remarks": null,
+  "aka": [
+    "-1058602998"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_spaces_number_of_columns_invalid/-1058602998/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

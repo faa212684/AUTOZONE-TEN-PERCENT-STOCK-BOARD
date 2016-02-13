@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_invalid_unwind_target\544\index.html.json
+
+title: 544 ERROR_INVALID_UNWIND_TARGET in winerror.h
+description: An invalid unwind target was encountered during an unwind operation.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "544",
+  "codeUrl": "/win32/winerror-h/error_invalid_unwind_target/544/",
+  "numericCode": 544,
+  "define": "ERROR_INVALID_UNWIND_TARGET",
+  "defineUrl": "/win32/winerror-h/error_invalid_unwind_target/",
+  "message": "An invalid unwind target was encountered during an unwind operation.",
+  "remarks": null,
+  "aka": [
+    "0x80070220",
+    "-2147024352"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_invalid_unwind_target/0x80070220/",
+    "/win32/winerror-h/error_invalid_unwind_target/-2147024352/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

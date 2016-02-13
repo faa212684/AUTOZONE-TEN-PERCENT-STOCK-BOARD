@@ -1,0 +1,28 @@
+---
+output: win32\wsmerror-h\error_wsman_invalid_header\0x8033811b\index.html.json
+
+title: 0x8033811B ERROR_WSMAN_INVALID_HEADER in wsmerror.h
+description: The WS-Management service cannot process the request because the a header in the request is invalid.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x8033811B",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_invalid_header/0x8033811b/",
+  "numericCode": -2144108261,
+  "define": "ERROR_WSMAN_INVALID_HEADER",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_invalid_header/",
+  "message": "The WS-Management service cannot process the request because the a header in the request is invalid.",
+  "remarks": null,
+  "aka": [
+    "-2144108261"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_invalid_header/-2144108261/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

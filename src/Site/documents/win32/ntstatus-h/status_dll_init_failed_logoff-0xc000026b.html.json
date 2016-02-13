@@ -1,0 +1,29 @@
+---
+output: win32\ntstatus-h\status_dll_init_failed_logoff\0xc000026b\index.html.json
+
+title: 0xC000026B STATUS_DLL_INIT_FAILED_LOGOFF in ntstatus.h
+description: "{DLL Initialization Failed}
+The application failed to initialize because the window station is shutting down."
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000026B",
+  "codeUrl": "/win32/ntstatus-h/status_dll_init_failed_logoff/0xc000026b/",
+  "numericCode": -1073741205,
+  "define": "STATUS_DLL_INIT_FAILED_LOGOFF",
+  "defineUrl": "/win32/ntstatus-h/status_dll_init_failed_logoff/",
+  "message": "{DLL Initialization Failed}\r\nThe application failed to initialize because the window station is shutting down.",
+  "remarks": null,
+  "aka": [
+    "-1073741205"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_dll_init_failed_logoff/-1073741205/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

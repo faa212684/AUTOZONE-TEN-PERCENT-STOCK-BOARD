@@ -1,0 +1,29 @@
+---
+output: win32\ntstatus-h\status_integer_divide_by_zero\0xc0000094\index.html.json
+
+title: 0xC0000094 STATUS_INTEGER_DIVIDE_BY_ZERO in ntstatus.h
+description: "{EXCEPTION}
+Integer division by zero."
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000094",
+  "codeUrl": "/win32/ntstatus-h/status_integer_divide_by_zero/0xc0000094/",
+  "numericCode": -1073741676,
+  "define": "STATUS_INTEGER_DIVIDE_BY_ZERO",
+  "defineUrl": "/win32/ntstatus-h/status_integer_divide_by_zero/",
+  "message": "{EXCEPTION}\r\nInteger division by zero.",
+  "remarks": null,
+  "aka": [
+    "-1073741676"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_integer_divide_by_zero/-1073741676/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_driver_blocked\-1073740948\index.html.json
+canonical: /win32/ntstatus-h/status_driver_blocked/0xc000036c/
+title: -1073740948 STATUS_DRIVER_BLOCKED in ntstatus.h
+description: Driver %2 has been blocked from loading.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073740948",
+  "codeUrl": "/win32/ntstatus-h/status_driver_blocked/-1073740948/",
+  "numericCode": 0,
+  "define": "STATUS_DRIVER_BLOCKED",
+  "defineUrl": "/win32/ntstatus-h/status_driver_blocked/",
+  "message": "Driver %2 has been blocked from loading.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC000036C",
+  "originalCodeUrl": "/win32/ntstatus-h/status_driver_blocked/0xc000036c/"
+}

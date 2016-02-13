@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_system_shutdown\641\index.html.json
+
+title: 641 ERROR_SYSTEM_SHUTDOWN in winerror.h
+description: The system is in the process of shutting down.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "641",
+  "codeUrl": "/win32/winerror-h/error_system_shutdown/641/",
+  "numericCode": 641,
+  "define": "ERROR_SYSTEM_SHUTDOWN",
+  "defineUrl": "/win32/winerror-h/error_system_shutdown/",
+  "message": "The system is in the process of shutting down.",
+  "remarks": null,
+  "aka": [
+    "0x80070281",
+    "-2147024255"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_system_shutdown/0x80070281/",
+    "/win32/winerror-h/error_system_shutdown/-2147024255/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

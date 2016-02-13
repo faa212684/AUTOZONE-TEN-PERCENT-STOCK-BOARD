@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\fve_e_de_device_lockedout\-2144272182\index.html.json
+canonical: /win32/winerror-h/fve_e_de_device_lockedout/0x803100ca/
+title: -2144272182 FVE_E_DE_DEVICE_LOCKEDOUT in winerror.h
+description: Device Lock has been triggered due to too many incorrect password attempts.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2144272182",
+  "codeUrl": "/win32/winerror-h/fve_e_de_device_lockedout/-2144272182/",
+  "numericCode": 0,
+  "define": "FVE_E_DE_DEVICE_LOCKEDOUT",
+  "defineUrl": "/win32/winerror-h/fve_e_de_device_lockedout/",
+  "message": "Device Lock has been triggered due to too many incorrect password attempts.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x803100CA",
+  "originalCodeUrl": "/win32/winerror-h/fve_e_de_device_lockedout/0x803100ca/"
+}

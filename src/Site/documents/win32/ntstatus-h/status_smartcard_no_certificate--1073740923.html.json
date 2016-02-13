@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_smartcard_no_certificate\-1073740923\index.html.json
+canonical: /win32/ntstatus-h/status_smartcard_no_certificate/0xc0000385/
+title: -1073740923 STATUS_SMARTCARD_NO_CERTIFICATE in ntstatus.h
+description: The requested certificate does not exist on the smart card
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073740923",
+  "codeUrl": "/win32/ntstatus-h/status_smartcard_no_certificate/-1073740923/",
+  "numericCode": 0,
+  "define": "STATUS_SMARTCARD_NO_CERTIFICATE",
+  "defineUrl": "/win32/ntstatus-h/status_smartcard_no_certificate/",
+  "message": "The requested certificate does not exist on the smart card",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000385",
+  "originalCodeUrl": "/win32/ntstatus-h/status_smartcard_no_certificate/0xc0000385/"
+}

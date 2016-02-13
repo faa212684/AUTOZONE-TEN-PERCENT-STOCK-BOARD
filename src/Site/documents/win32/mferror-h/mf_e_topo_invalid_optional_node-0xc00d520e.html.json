@@ -1,0 +1,28 @@
+---
+output: win32\mferror-h\mf_e_topo_invalid_optional_node\0xc00d520e\index.html.json
+
+title: 0xC00D520E MF_E_TOPO_INVALID_OPTIONAL_NODE in Mferror.h
+description: The topology contains an invalid optional node.  Possible reasons are incorrect number of outputs and inputs or optional node is at the beginning or end of a segment.%0
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "Mferror.h",
+  "sourceUrl": "/win32/mferror-h/",
+  "code": "0xC00D520E",
+  "codeUrl": "/win32/mferror-h/mf_e_topo_invalid_optional_node/0xc00d520e/",
+  "numericCode": -1072868850,
+  "define": "MF_E_TOPO_INVALID_OPTIONAL_NODE",
+  "defineUrl": "/win32/mferror-h/mf_e_topo_invalid_optional_node/",
+  "message": "The topology contains an invalid optional node.  Possible reasons are incorrect number of outputs and inputs or optional node is at the beginning or end of a segment.%0",
+  "remarks": null,
+  "aka": [
+    "-1072868850"
+  ],
+  "akaUrl": [
+    "/win32/mferror-h/mf_e_topo_invalid_optional_node/-1072868850/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

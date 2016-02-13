@@ -1,0 +1,25 @@
+---
+output: win32\ntstatus-h\status_serial_counter_timeout\1073741836\index.html.json
+canonical: /win32/ntstatus-h/status_serial_counter_timeout/0x4000000c/
+title: 1073741836 STATUS_SERIAL_COUNTER_TIMEOUT in ntstatus.h
+description: "{Serial IOCTL Timeout}
+A serial I/O operation completed because the time-out period expired. (The IOCTL_SERIAL_XOFF_COUNTER had not reached zero.)"
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "1073741836",
+  "codeUrl": "/win32/ntstatus-h/status_serial_counter_timeout/1073741836/",
+  "numericCode": 0,
+  "define": "STATUS_SERIAL_COUNTER_TIMEOUT",
+  "defineUrl": "/win32/ntstatus-h/status_serial_counter_timeout/",
+  "message": "{Serial IOCTL Timeout}\r\nA serial I/O operation completed because the time-out period expired. (The IOCTL_SERIAL_XOFF_COUNTER had not reached zero.)",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x4000000C",
+  "originalCodeUrl": "/win32/ntstatus-h/status_serial_counter_timeout/0x4000000c/"
+}

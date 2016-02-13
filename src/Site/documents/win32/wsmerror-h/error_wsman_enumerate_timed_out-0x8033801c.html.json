@@ -1,0 +1,29 @@
+---
+output: win32\wsmerror-h\error_wsman_enumerate_timed_out\0x8033801c\index.html.json
+
+title: 0x8033801C ERROR_WSMAN_ENUMERATE_TIMED_OUT in wsmerror.h
+description: The pull operation did not get any data in the MaxTime duration. But the enumeration is still valid.
+The client can attempt to do another pull request to retrieve data.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x8033801C",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_enumerate_timed_out/0x8033801c/",
+  "numericCode": -2144108516,
+  "define": "ERROR_WSMAN_ENUMERATE_TIMED_OUT",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_enumerate_timed_out/",
+  "message": "The pull operation did not get any data in the MaxTime duration. But the enumeration is still valid.\r\nThe client can attempt to do another pull request to retrieve data.",
+  "remarks": null,
+  "aka": [
+    "-2144108516"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_enumerate_timed_out/-2144108516/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

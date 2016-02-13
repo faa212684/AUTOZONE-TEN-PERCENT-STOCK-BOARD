@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_cant_terminate_self\555\index.html.json
+
+title: 555 ERROR_CANT_TERMINATE_SELF in winerror.h
+description: Indicates that a thread attempted to terminate itself by default (called NtTerminateThread with NULL) and it was the last thread in the current process.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "555",
+  "codeUrl": "/win32/winerror-h/error_cant_terminate_self/555/",
+  "numericCode": 555,
+  "define": "ERROR_CANT_TERMINATE_SELF",
+  "defineUrl": "/win32/winerror-h/error_cant_terminate_self/",
+  "message": "Indicates that a thread attempted to terminate itself by default (called NtTerminateThread with NULL) and it was the last thread in the current process.",
+  "remarks": null,
+  "aka": [
+    "0x8007022b",
+    "-2147024341"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_cant_terminate_self/0x8007022b/",
+    "/win32/winerror-h/error_cant_terminate_self/-2147024341/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

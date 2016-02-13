@@ -1,0 +1,35 @@
+---
+output: win32\netevent-h\event_frs_long_join\-2147470140\index.html.json
+canonical: /win32/netevent-h/event_frs_long_join/0x800034c4/
+title: -2147470140 EVENT_FRS_LONG_JOIN in netevent.h
+description: The File Replication Service is having trouble enabling replication
+from %1 to %2 for %3 using the DNS name %4. FRS will keep retrying.
+%n Following are some of the reasons you would see this warning.
+%n
+%n [1] FRS can not correctly resolve the DNS name %4 from this computer.
+%n [2] FRS is not running on %4.
+%n [3] The topology information in the Active Directory for this replica has not
+yet replicated to all the Domain Controllers.
+%n
+%n This event log message will appear once per connection, After the problem
+is fixed you will see another event log message indicating that the connection
+has been established.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "-2147470140",
+  "codeUrl": "/win32/netevent-h/event_frs_long_join/-2147470140/",
+  "numericCode": 0,
+  "define": "EVENT_FRS_LONG_JOIN",
+  "defineUrl": "/win32/netevent-h/event_frs_long_join/",
+  "message": "The File Replication Service is having trouble enabling replication\r\nfrom %1 to %2 for %3 using the DNS name %4. FRS will keep retrying.\r\n%n Following are some of the reasons you would see this warning.\r\n%n\r\n%n [1] FRS can not correctly resolve the DNS name %4 from this computer.\r\n%n [2] FRS is not running on %4.\r\n%n [3] The topology information in the Active Directory for this replica has not\r\nyet replicated to all the Domain Controllers.\r\n%n\r\n%n This event log message will appear once per connection, After the problem\r\nis fixed you will see another event log message indicating that the connection\r\nhas been established.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x800034C4",
+  "originalCodeUrl": "/win32/netevent-h/event_frs_long_join/0x800034c4/"
+}

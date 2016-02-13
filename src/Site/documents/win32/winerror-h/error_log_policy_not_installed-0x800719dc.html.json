@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_log_policy_not_installed\0x800719dc\index.html.json
+canonical: /win32/winerror-h/error_log_policy_not_installed/6620/
+title: 0x800719dc ERROR_LOG_POLICY_NOT_INSTALLED in winerror.h
+description: Log policy in question was not installed at the time of the request.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800719dc",
+  "codeUrl": "/win32/winerror-h/error_log_policy_not_installed/0x800719dc/",
+  "numericCode": 0,
+  "define": "ERROR_LOG_POLICY_NOT_INSTALLED",
+  "defineUrl": "/win32/winerror-h/error_log_policy_not_installed/",
+  "message": "Log policy in question was not installed at the time of the request.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "6620",
+  "originalCodeUrl": "/win32/winerror-h/error_log_policy_not_installed/6620/"
+}

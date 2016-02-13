@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_fve_transient_state\-2145320958\index.html.json
+canonical: /win32/ntstatus-h/status_fve_transient_state/0x80210002/
+title: -2145320958 STATUS_FVE_TRANSIENT_STATE in ntstatus.h
+description: BitLocker encryption keys were ignored because the volume was in a transient state.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-2145320958",
+  "codeUrl": "/win32/ntstatus-h/status_fve_transient_state/-2145320958/",
+  "numericCode": 0,
+  "define": "STATUS_FVE_TRANSIENT_STATE",
+  "defineUrl": "/win32/ntstatus-h/status_fve_transient_state/",
+  "message": "BitLocker encryption keys were ignored because the volume was in a transient state.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80210002",
+  "originalCodeUrl": "/win32/ntstatus-h/status_fve_transient_state/0x80210002/"
+}

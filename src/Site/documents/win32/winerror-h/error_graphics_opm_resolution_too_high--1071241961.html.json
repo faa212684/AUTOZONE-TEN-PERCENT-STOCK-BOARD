@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_graphics_opm_resolution_too_high\-1071241961\index.html.json
+canonical: /win32/winerror-h/error_graphics_opm_resolution_too_high/0xc0262517/
+title: -1071241961 ERROR_GRAPHICS_OPM_RESOLUTION_TOO_HIGH in winerror.h
+description: The IOPMVideoOutput::Configure method cannot enable the specified output protection technology because the output's screen resolution is too high.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-1071241961",
+  "codeUrl": "/win32/winerror-h/error_graphics_opm_resolution_too_high/-1071241961/",
+  "numericCode": 0,
+  "define": "ERROR_GRAPHICS_OPM_RESOLUTION_TOO_HIGH",
+  "defineUrl": "/win32/winerror-h/error_graphics_opm_resolution_too_high/",
+  "message": "The IOPMVideoOutput::Configure method cannot enable the specified output protection technology because the output's screen resolution is too high.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0262517",
+  "originalCodeUrl": "/win32/winerror-h/error_graphics_opm_resolution_too_high/0xc0262517/"
+}

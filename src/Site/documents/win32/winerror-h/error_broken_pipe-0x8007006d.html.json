@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_broken_pipe\0x8007006d\index.html.json
+canonical: /win32/winerror-h/error_broken_pipe/109/
+title: 0x8007006d ERROR_BROKEN_PIPE in winerror.h
+description: The pipe has been ended.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007006d",
+  "codeUrl": "/win32/winerror-h/error_broken_pipe/0x8007006d/",
+  "numericCode": 0,
+  "define": "ERROR_BROKEN_PIPE",
+  "defineUrl": "/win32/winerror-h/error_broken_pipe/",
+  "message": "The pipe has been ended.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "109",
+  "originalCodeUrl": "/win32/winerror-h/error_broken_pipe/109/"
+}

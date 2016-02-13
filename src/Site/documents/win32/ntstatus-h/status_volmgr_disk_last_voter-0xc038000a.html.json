@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_volmgr_disk_last_voter\0xc038000a\index.html.json
+
+title: 0xC038000A STATUS_VOLMGR_DISK_LAST_VOTER in ntstatus.h
+description: The specified disk(s) cannot be removed since it is the last remaining voter.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC038000A",
+  "codeUrl": "/win32/ntstatus-h/status_volmgr_disk_last_voter/0xc038000a/",
+  "numericCode": -1070071798,
+  "define": "STATUS_VOLMGR_DISK_LAST_VOTER",
+  "defineUrl": "/win32/ntstatus-h/status_volmgr_disk_last_voter/",
+  "message": "The specified disk(s) cannot be removed since it is the last remaining voter.",
+  "remarks": null,
+  "aka": [
+    "-1070071798"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_volmgr_disk_last_voter/-1070071798/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

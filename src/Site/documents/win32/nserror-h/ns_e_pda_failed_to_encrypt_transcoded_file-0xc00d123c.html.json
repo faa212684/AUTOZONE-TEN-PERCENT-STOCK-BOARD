@@ -1,0 +1,28 @@
+---
+output: win32\nserror-h\ns_e_pda_failed_to_encrypt_transcoded_file\0xc00d123c\index.html.json
+
+title: 0xC00D123C NS_E_PDA_FAILED_TO_ENCRYPT_TRANSCODED_FILE in nserror.h
+description: Windows Media Player cannot convert the file. The file might have been encrypted by the Encrypted File System (EFS). Try decrypting the file first and then syncing it. For information about how to decrypt a file, see Windows Help and Support.%0
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "nserror.h",
+  "sourceUrl": "/win32/nserror-h/",
+  "code": "0xC00D123C",
+  "codeUrl": "/win32/nserror-h/ns_e_pda_failed_to_encrypt_transcoded_file/0xc00d123c/",
+  "numericCode": -1072885188,
+  "define": "NS_E_PDA_FAILED_TO_ENCRYPT_TRANSCODED_FILE",
+  "defineUrl": "/win32/nserror-h/ns_e_pda_failed_to_encrypt_transcoded_file/",
+  "message": "Windows Media Player cannot convert the file. The file might have been encrypted by the Encrypted File System (EFS). Try decrypting the file first and then syncing it. For information about how to decrypt a file, see Windows Help and Support.%0",
+  "remarks": null,
+  "aka": [
+    "-1072885188"
+  ],
+  "akaUrl": [
+    "/win32/nserror-h/ns_e_pda_failed_to_encrypt_transcoded_file/-1072885188/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

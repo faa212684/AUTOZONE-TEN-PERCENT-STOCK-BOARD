@@ -1,0 +1,25 @@
+---
+output: win32\issper16-h\sec_i_complete_and_continue\4116\index.html.json
+canonical: /win32/issper16-h/sec_i_complete_and_continue/0x1014/
+title: 4116 SEC_I_COMPLETE_AND_CONTINUE in IssPer16.h
+description: The function completed successfully, but both CompleteToken
+and this function must be called to complete the context
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "IssPer16.h",
+  "sourceUrl": "/win32/issper16-h/",
+  "code": "4116",
+  "codeUrl": "/win32/issper16-h/sec_i_complete_and_continue/4116/",
+  "numericCode": 0,
+  "define": "SEC_I_COMPLETE_AND_CONTINUE",
+  "defineUrl": "/win32/issper16-h/sec_i_complete_and_continue/",
+  "message": "The function completed successfully, but both CompleteToken\r\nand this function must be called to complete the context",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x1014",
+  "originalCodeUrl": "/win32/issper16-h/sec_i_complete_and_continue/0x1014/"
+}

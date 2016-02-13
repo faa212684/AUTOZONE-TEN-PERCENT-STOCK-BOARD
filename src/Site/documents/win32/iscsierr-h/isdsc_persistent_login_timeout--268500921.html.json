@@ -1,0 +1,24 @@
+---
+output: win32\iscsierr-h\isdsc_persistent_login_timeout\-268500921\index.html.json
+canonical: /win32/iscsierr-h/isdsc_persistent_login_timeout/0xefff0047/
+title: -268500921 ISDSC_PERSISTENT_LOGIN_TIMEOUT in iscsierr.h
+description: The iSCSI service timed out waiting for all persistent logins to complete.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "iscsierr.h",
+  "sourceUrl": "/win32/iscsierr-h/",
+  "code": "-268500921",
+  "codeUrl": "/win32/iscsierr-h/isdsc_persistent_login_timeout/-268500921/",
+  "numericCode": 0,
+  "define": "ISDSC_PERSISTENT_LOGIN_TIMEOUT",
+  "defineUrl": "/win32/iscsierr-h/isdsc_persistent_login_timeout/",
+  "message": "The iSCSI service timed out waiting for all persistent logins to complete.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xEFFF0047",
+  "originalCodeUrl": "/win32/iscsierr-h/isdsc_persistent_login_timeout/0xefff0047/"
+}

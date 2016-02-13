@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_no_data_detected\1104\index.html.json
+
+title: 1104 ERROR_NO_DATA_DETECTED in winerror.h
+description: No more data is on the tape.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1104",
+  "codeUrl": "/win32/winerror-h/error_no_data_detected/1104/",
+  "numericCode": 1104,
+  "define": "ERROR_NO_DATA_DETECTED",
+  "defineUrl": "/win32/winerror-h/error_no_data_detected/",
+  "message": "No more data is on the tape.",
+  "remarks": null,
+  "aka": [
+    "0x80070450",
+    "-2147023792"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_no_data_detected/0x80070450/",
+    "/win32/winerror-h/error_no_data_detected/-2147023792/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

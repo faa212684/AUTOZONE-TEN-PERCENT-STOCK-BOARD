@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_volmgr_dynamic_disk_not_supported\-1070071783\index.html.json
+canonical: /win32/ntstatus-h/status_volmgr_dynamic_disk_not_supported/0xc0380019/
+title: -1070071783 STATUS_VOLMGR_DYNAMIC_DISK_NOT_SUPPORTED in ntstatus.h
+description: Dynamic disks are not supported on this system.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1070071783",
+  "codeUrl": "/win32/ntstatus-h/status_volmgr_dynamic_disk_not_supported/-1070071783/",
+  "numericCode": 0,
+  "define": "STATUS_VOLMGR_DYNAMIC_DISK_NOT_SUPPORTED",
+  "defineUrl": "/win32/ntstatus-h/status_volmgr_dynamic_disk_not_supported/",
+  "message": "Dynamic disks are not supported on this system.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0380019",
+  "originalCodeUrl": "/win32/ntstatus-h/status_volmgr_dynamic_disk_not_supported/0xc0380019/"
+}

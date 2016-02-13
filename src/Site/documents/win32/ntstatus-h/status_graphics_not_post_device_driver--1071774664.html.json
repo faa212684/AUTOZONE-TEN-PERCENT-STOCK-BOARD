@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_graphics_not_post_device_driver\-1071774664\index.html.json
+canonical: /win32/ntstatus-h/status_graphics_not_post_device_driver/0xc01e0438/
+title: -1071774664 STATUS_GRAPHICS_NOT_POST_DEVICE_DRIVER in ntstatus.h
+description: The driver trying to start is not the same as the driver for the POSTed display adapter.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071774664",
+  "codeUrl": "/win32/ntstatus-h/status_graphics_not_post_device_driver/-1071774664/",
+  "numericCode": 0,
+  "define": "STATUS_GRAPHICS_NOT_POST_DEVICE_DRIVER",
+  "defineUrl": "/win32/ntstatus-h/status_graphics_not_post_device_driver/",
+  "message": "The driver trying to start is not the same as the driver for the POSTed display adapter.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC01E0438",
+  "originalCodeUrl": "/win32/ntstatus-h/status_graphics_not_post_device_driver/0xc01e0438/"
+}

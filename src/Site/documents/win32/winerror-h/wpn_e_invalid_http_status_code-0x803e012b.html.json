@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\wpn_e_invalid_http_status_code\0x803e012b\index.html.json
+
+title: 0x803E012B WPN_E_INVALID_HTTP_STATUS_CODE in winerror.h
+description: The notification platform has received invalid HTTP status code other than 2xx for polling.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x803E012B",
+  "codeUrl": "/win32/winerror-h/wpn_e_invalid_http_status_code/0x803e012b/",
+  "numericCode": -2143420117,
+  "define": "WPN_E_INVALID_HTTP_STATUS_CODE",
+  "defineUrl": "/win32/winerror-h/wpn_e_invalid_http_status_code/",
+  "message": "The notification platform has received invalid HTTP status code other than 2xx for polling.",
+  "remarks": null,
+  "aka": [
+    "-2143420117"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/wpn_e_invalid_http_status_code/-2143420117/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

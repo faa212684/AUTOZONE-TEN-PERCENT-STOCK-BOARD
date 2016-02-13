@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_members_primary_group\0xc0000127\index.html.json
+
+title: 0xC0000127 STATUS_MEMBERS_PRIMARY_GROUP in ntstatus.h
+description: Indicates a member cannot be removed from a group because the group is currently the member's primary group.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000127",
+  "codeUrl": "/win32/ntstatus-h/status_members_primary_group/0xc0000127/",
+  "numericCode": -1073741529,
+  "define": "STATUS_MEMBERS_PRIMARY_GROUP",
+  "defineUrl": "/win32/ntstatus-h/status_members_primary_group/",
+  "message": "Indicates a member cannot be removed from a group because the group is currently the member's primary group.",
+  "remarks": null,
+  "aka": [
+    "-1073741529"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_members_primary_group/-1073741529/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\wsmerror-h\error_wsman_invalid_xml_values\0x80338056\index.html.json
+
+title: 0x80338056 ERROR_WSMAN_INVALID_XML_VALUES in wsmerror.h
+description: The WS-Management service cannot process the request because the XML content has invalid values.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x80338056",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_invalid_xml_values/0x80338056/",
+  "numericCode": -2144108458,
+  "define": "ERROR_WSMAN_INVALID_XML_VALUES",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_invalid_xml_values/",
+  "message": "The WS-Management service cannot process the request because the XML content has invalid values.",
+  "remarks": null,
+  "aka": [
+    "-2144108458"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_invalid_xml_values/-2144108458/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

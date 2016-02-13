@@ -1,0 +1,28 @@
+---
+output: win32\nserror-h\ns_e_wmp_protected_content\0xc00d120b\index.html.json
+
+title: 0xC00D120B NS_E_WMP_PROTECTED_CONTENT in nserror.h
+description: Windows Media Player cannot play, burn, or sync the file because the media usage rights are missing. If you obtained the file from an online store, sign in to the store, and then try again.%0
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "nserror.h",
+  "sourceUrl": "/win32/nserror-h/",
+  "code": "0xC00D120B",
+  "codeUrl": "/win32/nserror-h/ns_e_wmp_protected_content/0xc00d120b/",
+  "numericCode": -1072885237,
+  "define": "NS_E_WMP_PROTECTED_CONTENT",
+  "defineUrl": "/win32/nserror-h/ns_e_wmp_protected_content/",
+  "message": "Windows Media Player cannot play, burn, or sync the file because the media usage rights are missing. If you obtained the file from an online store, sign in to the store, and then try again.%0",
+  "remarks": null,
+  "aka": [
+    "-1072885237"
+  ],
+  "akaUrl": [
+    "/win32/nserror-h/ns_e_wmp_protected_content/-1072885237/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

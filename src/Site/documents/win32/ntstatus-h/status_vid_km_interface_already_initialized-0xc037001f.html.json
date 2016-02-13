@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_vid_km_interface_already_initialized\0xc037001f\index.html.json
+
+title: 0xC037001F STATUS_VID_KM_INTERFACE_ALREADY_INITIALIZED in ntstatus.h
+description: This kernel mode interface for the virtualization infrastructure driver has already been initialized. Restarting the virtual machine may fix the problem. If the problem persists, try restarting the physical computer.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC037001F",
+  "codeUrl": "/win32/ntstatus-h/status_vid_km_interface_already_initialized/0xc037001f/",
+  "numericCode": -1070137313,
+  "define": "STATUS_VID_KM_INTERFACE_ALREADY_INITIALIZED",
+  "defineUrl": "/win32/ntstatus-h/status_vid_km_interface_already_initialized/",
+  "message": "This kernel mode interface for the virtualization infrastructure driver has already been initialized. Restarting the virtual machine may fix the problem. If the problem persists, try restarting the physical computer.",
+  "remarks": null,
+  "aka": [
+    "-1070137313"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_vid_km_interface_already_initialized/-1070137313/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

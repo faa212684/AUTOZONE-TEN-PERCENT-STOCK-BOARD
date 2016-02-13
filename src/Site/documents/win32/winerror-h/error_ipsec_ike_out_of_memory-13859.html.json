@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ipsec_ike_out_of_memory\13859\index.html.json
+
+title: 13859 ERROR_IPSEC_IKE_OUT_OF_MEMORY in winerror.h
+description: Memory allocation failed.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "13859",
+  "codeUrl": "/win32/winerror-h/error_ipsec_ike_out_of_memory/13859/",
+  "numericCode": 13859,
+  "define": "ERROR_IPSEC_IKE_OUT_OF_MEMORY",
+  "defineUrl": "/win32/winerror-h/error_ipsec_ike_out_of_memory/",
+  "message": "Memory allocation failed.",
+  "remarks": null,
+  "aka": [
+    "0x80073623",
+    "-2147011037"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ipsec_ike_out_of_memory/0x80073623/",
+    "/win32/winerror-h/error_ipsec_ike_out_of_memory/-2147011037/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

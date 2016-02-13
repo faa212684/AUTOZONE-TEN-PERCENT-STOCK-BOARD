@@ -1,0 +1,28 @@
+---
+output: win32\windowssearcherrors-h\event_gather_end_crawl\0x40000bca\index.html.json
+
+title: 0x40000BCA EVENT_GATHER_END_CRAWL in WindowsSearchErrors.h
+description: The update is complete. The gatherer successfully processed %2 documents totaling %3K. It failed to filter %4 documents. %5 documents were modified. %6 URLs were not found or denied access.%1
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "0x40000BCA",
+  "codeUrl": "/win32/windowssearcherrors-h/event_gather_end_crawl/0x40000bca/",
+  "numericCode": 1073744842,
+  "define": "EVENT_GATHER_END_CRAWL",
+  "defineUrl": "/win32/windowssearcherrors-h/event_gather_end_crawl/",
+  "message": "The update is complete. The gatherer successfully processed %2 documents totaling %3K. It failed to filter %4 documents. %5 documents were modified. %6 URLs were not found or denied access.%1",
+  "remarks": null,
+  "aka": [
+    "1073744842"
+  ],
+  "akaUrl": [
+    "/win32/windowssearcherrors-h/event_gather_end_crawl/1073744842/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\nserror-h\ns_e_invalid_mtu_range\0xc00d1586\index.html.json
+
+title: 0xC00D1586 NS_E_INVALID_MTU_RANGE in nserror.h
+description: Invalid MTU specified. The valid range for maximum packet size is between 36  and 65507 bytes .%0
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "nserror.h",
+  "sourceUrl": "/win32/nserror-h/",
+  "code": "0xC00D1586",
+  "codeUrl": "/win32/nserror-h/ns_e_invalid_mtu_range/0xc00d1586/",
+  "numericCode": -1072884346,
+  "define": "NS_E_INVALID_MTU_RANGE",
+  "defineUrl": "/win32/nserror-h/ns_e_invalid_mtu_range/",
+  "message": "Invalid MTU specified. The valid range for maximum packet size is between 36  and 65507 bytes .%0",
+  "remarks": null,
+  "aka": [
+    "-1072884346"
+  ],
+  "akaUrl": [
+    "/win32/nserror-h/ns_e_invalid_mtu_range/-1072884346/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

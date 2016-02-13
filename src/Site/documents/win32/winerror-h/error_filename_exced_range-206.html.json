@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_filename_exced_range\206\index.html.json
+
+title: 206 ERROR_FILENAME_EXCED_RANGE in winerror.h
+description: The filename or extension is too long.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "206",
+  "codeUrl": "/win32/winerror-h/error_filename_exced_range/206/",
+  "numericCode": 206,
+  "define": "ERROR_FILENAME_EXCED_RANGE",
+  "defineUrl": "/win32/winerror-h/error_filename_exced_range/",
+  "message": "The filename or extension is too long.",
+  "remarks": null,
+  "aka": [
+    "0x800700ce",
+    "-2147024690"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_filename_exced_range/0x800700ce/",
+    "/win32/winerror-h/error_filename_exced_range/-2147024690/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

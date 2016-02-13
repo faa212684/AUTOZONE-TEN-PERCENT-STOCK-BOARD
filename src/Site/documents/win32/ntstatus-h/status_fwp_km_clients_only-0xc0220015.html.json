@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_fwp_km_clients_only\0xc0220015\index.html.json
+
+title: 0xC0220015 STATUS_FWP_KM_CLIENTS_ONLY in ntstatus.h
+description: The call is allowed for kernel-mode callers only.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0220015",
+  "codeUrl": "/win32/ntstatus-h/status_fwp_km_clients_only/0xc0220015/",
+  "numericCode": -1071513579,
+  "define": "STATUS_FWP_KM_CLIENTS_ONLY",
+  "defineUrl": "/win32/ntstatus-h/status_fwp_km_clients_only/",
+  "message": "The call is allowed for kernel-mode callers only.",
+  "remarks": null,
+  "aka": [
+    "-1071513579"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_fwp_km_clients_only/-1071513579/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

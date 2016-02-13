@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_hv_invalid_alignment\0xc0350004\index.html.json
+
+title: 0xC0350004 STATUS_HV_INVALID_ALIGNMENT in ntstatus.h
+description: The hypervisor could not perform the operation because a parameter has an invalid alignment.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0350004",
+  "codeUrl": "/win32/ntstatus-h/status_hv_invalid_alignment/0xc0350004/",
+  "numericCode": -1070268412,
+  "define": "STATUS_HV_INVALID_ALIGNMENT",
+  "defineUrl": "/win32/ntstatus-h/status_hv_invalid_alignment/",
+  "message": "The hypervisor could not perform the operation because a parameter has an invalid alignment.",
+  "remarks": null,
+  "aka": [
+    "-1070268412"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_hv_invalid_alignment/-1070268412/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: bugcheck\bugcodes-h\dpc_watchdog_timeout\0x00000102\index.html.json
+
+title: 0x00000102 DPC_WATCHDOG_TIMEOUT in bugcodes.h
+description: DPC_WATCHDOG_TIMEOUT
+disqus: true
+---
+{
+  "area": "bugcheck",
+  "areaUrl": "/bugcheck/",
+  "source": "bugcodes.h",
+  "sourceUrl": "/bugcheck/bugcodes-h/",
+  "code": "0x00000102",
+  "codeUrl": "/bugcheck/bugcodes-h/dpc_watchdog_timeout/0x00000102/",
+  "numericCode": 258,
+  "define": "DPC_WATCHDOG_TIMEOUT",
+  "defineUrl": "/bugcheck/bugcodes-h/dpc_watchdog_timeout/",
+  "message": "DPC_WATCHDOG_TIMEOUT",
+  "remarks": null,
+  "aka": [
+    "258"
+  ],
+  "akaUrl": [
+    "/bugcheck/bugcodes-h/dpc_watchdog_timeout/258/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

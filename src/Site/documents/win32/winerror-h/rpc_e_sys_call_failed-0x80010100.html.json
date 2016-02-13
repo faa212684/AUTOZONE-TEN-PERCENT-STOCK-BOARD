@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\rpc_e_sys_call_failed\0x80010100\index.html.json
+
+title: 0x80010100 RPC_E_SYS_CALL_FAILED in winerror.h
+description: System call failed.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80010100",
+  "codeUrl": "/win32/winerror-h/rpc_e_sys_call_failed/0x80010100/",
+  "numericCode": -2147417856,
+  "define": "RPC_E_SYS_CALL_FAILED",
+  "defineUrl": "/win32/winerror-h/rpc_e_sys_call_failed/",
+  "message": "System call failed.",
+  "remarks": null,
+  "aka": [
+    "-2147417856"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/rpc_e_sys_call_failed/-2147417856/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

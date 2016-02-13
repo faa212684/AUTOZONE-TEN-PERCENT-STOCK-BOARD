@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_transactionmanager_not_online\0x80071a3f\index.html.json
+canonical: /win32/winerror-h/error_transactionmanager_not_online/6719/
+title: 0x80071a3f ERROR_TRANSACTIONMANAGER_NOT_ONLINE in winerror.h
+description: The object specified could not be created or opened, because its associated TransactionManager is not online.  The TransactionManager must be brought fully Online by calling RecoverTransactionManager to recover to the end of its LogFile before objects in its Transaction or ResourceManager namespaces can be opened.  In addition, errors in writing records to its LogFile can cause a TransactionManager to go offline.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80071a3f",
+  "codeUrl": "/win32/winerror-h/error_transactionmanager_not_online/0x80071a3f/",
+  "numericCode": 0,
+  "define": "ERROR_TRANSACTIONMANAGER_NOT_ONLINE",
+  "defineUrl": "/win32/winerror-h/error_transactionmanager_not_online/",
+  "message": "The object specified could not be created or opened, because its associated TransactionManager is not online.  The TransactionManager must be brought fully Online by calling RecoverTransactionManager to recover to the end of its LogFile before objects in its Transaction or ResourceManager namespaces can be opened.  In addition, errors in writing records to its LogFile can cause a TransactionManager to go offline.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "6719",
+  "originalCodeUrl": "/win32/winerror-h/error_transactionmanager_not_online/6719/"
+}

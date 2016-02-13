@@ -1,0 +1,25 @@
+---
+output: win32\ntstatus-h\status_ft_orphaning\-1073741459\index.html.json
+canonical: /win32/ntstatus-h/status_ft_orphaning/0xc000016d/
+title: -1073741459 STATUS_FT_ORPHANING in ntstatus.h
+description: "{FT Orphaning}
+A disk that is part of a fault-tolerant volume can no longer be accessed."
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741459",
+  "codeUrl": "/win32/ntstatus-h/status_ft_orphaning/-1073741459/",
+  "numericCode": 0,
+  "define": "STATUS_FT_ORPHANING",
+  "defineUrl": "/win32/ntstatus-h/status_ft_orphaning/",
+  "message": "{FT Orphaning}\r\nA disk that is part of a fault-tolerant volume can no longer be accessed.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC000016D",
+  "originalCodeUrl": "/win32/ntstatus-h/status_ft_orphaning/0xc000016d/"
+}

@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\tpm_e_ioerror\0x8028001f\index.html.json
+
+title: 0x8028001F TPM_E_IOERROR in winerror.h
+description: An IO error occurred transmitting information to the TPM.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8028001F",
+  "codeUrl": "/win32/winerror-h/tpm_e_ioerror/0x8028001f/",
+  "numericCode": -2144862177,
+  "define": "TPM_E_IOERROR",
+  "defineUrl": "/win32/winerror-h/tpm_e_ioerror/",
+  "message": "An IO error occurred transmitting information to the TPM.",
+  "remarks": null,
+  "aka": [
+    "-2144862177"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/tpm_e_ioerror/-2144862177/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

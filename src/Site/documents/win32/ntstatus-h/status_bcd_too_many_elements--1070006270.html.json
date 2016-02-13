@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_bcd_too_many_elements\-1070006270\index.html.json
+canonical: /win32/ntstatus-h/status_bcd_too_many_elements/0xc0390002/
+title: -1070006270 STATUS_BCD_TOO_MANY_ELEMENTS in ntstatus.h
+description: Entries enumerated have exceeded the allowed threshold.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1070006270",
+  "codeUrl": "/win32/ntstatus-h/status_bcd_too_many_elements/-1070006270/",
+  "numericCode": 0,
+  "define": "STATUS_BCD_TOO_MANY_ELEMENTS",
+  "defineUrl": "/win32/ntstatus-h/status_bcd_too_many_elements/",
+  "message": "Entries enumerated have exceeded the allowed threshold.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0390002",
+  "originalCodeUrl": "/win32/ntstatus-h/status_bcd_too_many_elements/0xc0390002/"
+}

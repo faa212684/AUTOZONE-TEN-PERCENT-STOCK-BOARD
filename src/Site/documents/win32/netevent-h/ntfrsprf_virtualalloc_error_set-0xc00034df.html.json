@@ -1,0 +1,31 @@
+---
+output: win32\netevent-h\ntfrsprf_virtualalloc_error_set\0xc00034df\index.html.json
+
+title: 0xC00034DF NTFRSPRF_VIRTUALALLOC_ERROR_SET in netevent.h
+description: The call to VirtualAlloc failed in the Open function of the FileReplicaSet
+Object. The counter data for this object will not be available. The
+FileReplicaSet object contains the performance counters of the Replica sets
+whose files are being replicated by the File Replication Service.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC00034DF",
+  "codeUrl": "/win32/netevent-h/ntfrsprf_virtualalloc_error_set/0xc00034df/",
+  "numericCode": -1073728289,
+  "define": "NTFRSPRF_VIRTUALALLOC_ERROR_SET",
+  "defineUrl": "/win32/netevent-h/ntfrsprf_virtualalloc_error_set/",
+  "message": "The call to VirtualAlloc failed in the Open function of the FileReplicaSet\r\nObject. The counter data for this object will not be available. The\r\nFileReplicaSet object contains the performance counters of the Replica sets\r\nwhose files are being replicated by the File Replication Service.",
+  "remarks": null,
+  "aka": [
+    "-1073728289"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/ntfrsprf_virtualalloc_error_set/-1073728289/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

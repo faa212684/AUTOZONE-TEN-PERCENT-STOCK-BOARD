@@ -1,0 +1,28 @@
+---
+output: win32\wuerror-h\wu_e_uh_fallbacktoselfcontained\0x8024200c\index.html.json
+
+title: 0x8024200C WU_E_UH_FALLBACKTOSELFCONTAINED in wuerror.h
+description: The update handler should download self-contained content rather than delta-compressed content for the update.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wuerror.h",
+  "sourceUrl": "/win32/wuerror-h/",
+  "code": "0x8024200C",
+  "codeUrl": "/win32/wuerror-h/wu_e_uh_fallbacktoselfcontained/0x8024200c/",
+  "numericCode": -2145116148,
+  "define": "WU_E_UH_FALLBACKTOSELFCONTAINED",
+  "defineUrl": "/win32/wuerror-h/wu_e_uh_fallbacktoselfcontained/",
+  "message": "The update handler should download self-contained content rather than delta-compressed content for the update.",
+  "remarks": null,
+  "aka": [
+    "-2145116148"
+  ],
+  "akaUrl": [
+    "/win32/wuerror-h/wu_e_uh_fallbacktoselfcontained/-2145116148/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

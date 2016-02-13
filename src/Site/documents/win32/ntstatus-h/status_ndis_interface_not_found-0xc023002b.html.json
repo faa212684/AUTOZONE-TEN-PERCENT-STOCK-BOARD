@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_ndis_interface_not_found\0xc023002b\index.html.json
+
+title: 0xC023002B STATUS_NDIS_INTERFACE_NOT_FOUND in ntstatus.h
+description: Network interface was not found.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC023002B",
+  "codeUrl": "/win32/ntstatus-h/status_ndis_interface_not_found/0xc023002b/",
+  "numericCode": -1071448021,
+  "define": "STATUS_NDIS_INTERFACE_NOT_FOUND",
+  "defineUrl": "/win32/ntstatus-h/status_ndis_interface_not_found/",
+  "message": "Network interface was not found.",
+  "remarks": null,
+  "aka": [
+    "-1071448021"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_ndis_interface_not_found/-1071448021/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

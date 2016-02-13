@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_no_such_logon_session\-1073741729\index.html.json
+canonical: /win32/ntstatus-h/status_no_such_logon_session/0xc000005f/
+title: -1073741729 STATUS_NO_SUCH_LOGON_SESSION in ntstatus.h
+description: A specified logon session does not exist. It may already have been terminated.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741729",
+  "codeUrl": "/win32/ntstatus-h/status_no_such_logon_session/-1073741729/",
+  "numericCode": 0,
+  "define": "STATUS_NO_SUCH_LOGON_SESSION",
+  "defineUrl": "/win32/ntstatus-h/status_no_such_logon_session/",
+  "message": "A specified logon session does not exist. It may already have been terminated.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC000005F",
+  "originalCodeUrl": "/win32/ntstatus-h/status_no_such_logon_session/0xc000005f/"
+}

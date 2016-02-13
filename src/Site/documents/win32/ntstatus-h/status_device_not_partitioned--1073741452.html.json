@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_device_not_partitioned\-1073741452\index.html.json
+canonical: /win32/ntstatus-h/status_device_not_partitioned/0xc0000174/
+title: -1073741452 STATUS_DEVICE_NOT_PARTITIONED in ntstatus.h
+description: Tape partition information could not be found when loading a tape.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741452",
+  "codeUrl": "/win32/ntstatus-h/status_device_not_partitioned/-1073741452/",
+  "numericCode": 0,
+  "define": "STATUS_DEVICE_NOT_PARTITIONED",
+  "defineUrl": "/win32/ntstatus-h/status_device_not_partitioned/",
+  "message": "Tape partition information could not be found when loading a tape.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000174",
+  "originalCodeUrl": "/win32/ntstatus-h/status_device_not_partitioned/0xc0000174/"
+}

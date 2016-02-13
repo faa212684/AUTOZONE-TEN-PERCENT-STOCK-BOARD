@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\context_e_tmnotavailable\-2147164145\index.html.json
+canonical: /win32/winerror-h/context_e_tmnotavailable/0x8004e00f/
+title: -2147164145 CONTEXT_E_TMNOTAVAILABLE in winerror.h
+description: COM+ was unable to talk to the Microsoft Distributed Transaction Coordinator
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147164145",
+  "codeUrl": "/win32/winerror-h/context_e_tmnotavailable/-2147164145/",
+  "numericCode": 0,
+  "define": "CONTEXT_E_TMNOTAVAILABLE",
+  "defineUrl": "/win32/winerror-h/context_e_tmnotavailable/",
+  "message": "COM+ was unable to talk to the Microsoft Distributed Transaction Coordinator",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x8004E00F",
+  "originalCodeUrl": "/win32/winerror-h/context_e_tmnotavailable/0x8004e00f/"
+}

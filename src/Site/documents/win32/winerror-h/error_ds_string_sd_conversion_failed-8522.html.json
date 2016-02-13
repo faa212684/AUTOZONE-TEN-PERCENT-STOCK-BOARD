@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ds_string_sd_conversion_failed\8522\index.html.json
+
+title: 8522 ERROR_DS_STRING_SD_CONVERSION_FAILED in winerror.h
+description: The schema cache load failed to convert the string default SD on a class-schema object.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "8522",
+  "codeUrl": "/win32/winerror-h/error_ds_string_sd_conversion_failed/8522/",
+  "numericCode": 8522,
+  "define": "ERROR_DS_STRING_SD_CONVERSION_FAILED",
+  "defineUrl": "/win32/winerror-h/error_ds_string_sd_conversion_failed/",
+  "message": "The schema cache load failed to convert the string default SD on a class-schema object.",
+  "remarks": null,
+  "aka": [
+    "0x8007214a",
+    "-2147016374"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ds_string_sd_conversion_failed/0x8007214a/",
+    "/win32/winerror-h/error_ds_string_sd_conversion_failed/-2147016374/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_no_application_package\-1073741398\index.html.json
+canonical: /win32/ntstatus-h/status_no_application_package/0xc00001aa/
+title: -1073741398 STATUS_NO_APPLICATION_PACKAGE in ntstatus.h
+description: The operation failed because the application is not part of an application package.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741398",
+  "codeUrl": "/win32/ntstatus-h/status_no_application_package/-1073741398/",
+  "numericCode": 0,
+  "define": "STATUS_NO_APPLICATION_PACKAGE",
+  "defineUrl": "/win32/ntstatus-h/status_no_application_package/",
+  "message": "The operation failed because the application is not part of an application package.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC00001AA",
+  "originalCodeUrl": "/win32/ntstatus-h/status_no_application_package/0xc00001aa/"
+}

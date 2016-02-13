@@ -1,0 +1,28 @@
+---
+output: win32\wuerror-h\wu_e_ds_cantdelete\0x8024800b\index.html.json
+
+title: 0x8024800B WU_E_DS_CANTDELETE in wuerror.h
+description: The update was not deleted because it is still referenced by one or more services.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wuerror.h",
+  "sourceUrl": "/win32/wuerror-h/",
+  "code": "0x8024800B",
+  "codeUrl": "/win32/wuerror-h/wu_e_ds_cantdelete/0x8024800b/",
+  "numericCode": -2145091573,
+  "define": "WU_E_DS_CANTDELETE",
+  "defineUrl": "/win32/wuerror-h/wu_e_ds_cantdelete/",
+  "message": "The update was not deleted because it is still referenced by one or more services.",
+  "remarks": null,
+  "aka": [
+    "-2145091573"
+  ],
+  "akaUrl": [
+    "/win32/wuerror-h/wu_e_ds_cantdelete/-2145091573/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

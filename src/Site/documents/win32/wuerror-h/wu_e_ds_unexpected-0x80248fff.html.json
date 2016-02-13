@@ -1,0 +1,28 @@
+---
+output: win32\wuerror-h\wu_e_ds_unexpected\0x80248fff\index.html.json
+
+title: 0x80248FFF WU_E_DS_UNEXPECTED in wuerror.h
+description: A data store error not covered by another WU_E_DS_* code.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wuerror.h",
+  "sourceUrl": "/win32/wuerror-h/",
+  "code": "0x80248FFF",
+  "codeUrl": "/win32/wuerror-h/wu_e_ds_unexpected/0x80248fff/",
+  "numericCode": -2145087489,
+  "define": "WU_E_DS_UNEXPECTED",
+  "defineUrl": "/win32/wuerror-h/wu_e_ds_unexpected/",
+  "message": "A data store error not covered by another WU_E_DS_* code.",
+  "remarks": null,
+  "aka": [
+    "-2145087489"
+  ],
+  "akaUrl": [
+    "/win32/wuerror-h/wu_e_ds_unexpected/-2145087489/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

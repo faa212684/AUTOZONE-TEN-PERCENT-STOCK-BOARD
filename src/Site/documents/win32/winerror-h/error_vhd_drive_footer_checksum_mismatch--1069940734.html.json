@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_vhd_drive_footer_checksum_mismatch\-1069940734\index.html.json
+canonical: /win32/winerror-h/error_vhd_drive_footer_checksum_mismatch/0xc03a0002/
+title: -1069940734 ERROR_VHD_DRIVE_FOOTER_CHECKSUM_MISMATCH in winerror.h
+description: The virtual hard disk is corrupted. The virtual hard disk drive footer checksum does not match the on-disk checksum.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-1069940734",
+  "codeUrl": "/win32/winerror-h/error_vhd_drive_footer_checksum_mismatch/-1069940734/",
+  "numericCode": 0,
+  "define": "ERROR_VHD_DRIVE_FOOTER_CHECKSUM_MISMATCH",
+  "defineUrl": "/win32/winerror-h/error_vhd_drive_footer_checksum_mismatch/",
+  "message": "The virtual hard disk is corrupted. The virtual hard disk drive footer checksum does not match the on-disk checksum.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC03A0002",
+  "originalCodeUrl": "/win32/winerror-h/error_vhd_drive_footer_checksum_mismatch/0xc03a0002/"
+}

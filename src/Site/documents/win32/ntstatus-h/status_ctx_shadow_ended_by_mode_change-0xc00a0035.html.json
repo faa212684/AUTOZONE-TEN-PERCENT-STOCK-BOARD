@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_ctx_shadow_ended_by_mode_change\0xc00a0035\index.html.json
+
+title: 0xC00A0035 STATUS_CTX_SHADOW_ENDED_BY_MODE_CHANGE in ntstatus.h
+description: The remote control of the console was terminated because the display mode was changed. Changing the display mode in a remote control session is not supported.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC00A0035",
+  "codeUrl": "/win32/ntstatus-h/status_ctx_shadow_ended_by_mode_change/0xc00a0035/",
+  "numericCode": -1073086411,
+  "define": "STATUS_CTX_SHADOW_ENDED_BY_MODE_CHANGE",
+  "defineUrl": "/win32/ntstatus-h/status_ctx_shadow_ended_by_mode_change/",
+  "message": "The remote control of the console was terminated because the display mode was changed. Changing the display mode in a remote control session is not supported.",
+  "remarks": null,
+  "aka": [
+    "-1073086411"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_ctx_shadow_ended_by_mode_change/-1073086411/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

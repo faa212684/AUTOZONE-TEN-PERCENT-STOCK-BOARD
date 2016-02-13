@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\wininet_e_failed_duetosecuritycheck\0x80072f8b\index.html.json
+
+title: 0x80072F8B WININET_E_FAILED_DUETOSECURITYCHECK in winerror.h
+description: The Dialup failed because file sharing was turned on and a failure was requested if security check was needed
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80072F8B",
+  "codeUrl": "/win32/winerror-h/wininet_e_failed_duetosecuritycheck/0x80072f8b/",
+  "numericCode": -2147012725,
+  "define": "WININET_E_FAILED_DUETOSECURITYCHECK",
+  "defineUrl": "/win32/winerror-h/wininet_e_failed_duetosecuritycheck/",
+  "message": "The Dialup failed because file sharing was turned on and a failure was requested if security check was needed",
+  "remarks": null,
+  "aka": [
+    "-2147012725"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/wininet_e_failed_duetosecuritycheck/-2147012725/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

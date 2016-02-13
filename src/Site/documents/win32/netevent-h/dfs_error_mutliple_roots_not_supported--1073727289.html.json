@@ -1,0 +1,24 @@
+---
+output: win32\netevent-h\dfs_error_mutliple_roots_not_supported\-1073727289\index.html.json
+canonical: /win32/netevent-h/dfs_error_mutliple_roots_not_supported/0xc00038c7/
+title: -1073727289 DFS_ERROR_MUTLIPLE_ROOTS_NOT_SUPPORTED in netevent.h
+description: DFS does not support multiple roots on Standard server SKU. Please cleanup the roots or upgrade.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "-1073727289",
+  "codeUrl": "/win32/netevent-h/dfs_error_mutliple_roots_not_supported/-1073727289/",
+  "numericCode": 0,
+  "define": "DFS_ERROR_MUTLIPLE_ROOTS_NOT_SUPPORTED",
+  "defineUrl": "/win32/netevent-h/dfs_error_mutliple_roots_not_supported/",
+  "message": "DFS does not support multiple roots on Standard server SKU. Please cleanup the roots or upgrade.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC00038C7",
+  "originalCodeUrl": "/win32/netevent-h/dfs_error_mutliple_roots_not_supported/0xc00038c7/"
+}

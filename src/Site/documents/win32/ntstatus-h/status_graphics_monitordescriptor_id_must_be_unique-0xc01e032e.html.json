@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_graphics_monitordescriptor_id_must_be_unique\0xc01e032e\index.html.json
+
+title: 0xC01E032E STATUS_GRAPHICS_MONITORDESCRIPTOR_ID_MUST_BE_UNIQUE in ntstatus.h
+description: ID of the specified monitor descriptor is already used by another descriptor in the set.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC01E032E",
+  "codeUrl": "/win32/ntstatus-h/status_graphics_monitordescriptor_id_must_be_unique/0xc01e032e/",
+  "numericCode": -1071774930,
+  "define": "STATUS_GRAPHICS_MONITORDESCRIPTOR_ID_MUST_BE_UNIQUE",
+  "defineUrl": "/win32/ntstatus-h/status_graphics_monitordescriptor_id_must_be_unique/",
+  "message": "ID of the specified monitor descriptor is already used by another descriptor in the set.",
+  "remarks": null,
+  "aka": [
+    "-1071774930"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_graphics_monitordescriptor_id_must_be_unique/-1071774930/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

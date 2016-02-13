@@ -1,0 +1,28 @@
+---
+output: win32\oledberr-h\db_e_pendinginsert\0x80040e5b\index.html.json
+
+title: 0x80040E5B DB_E_PENDINGINSERT in oledberr.h
+description: Most recent data for a newly inserted row could not be retrieved because the insert is pending.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "oledberr.h",
+  "sourceUrl": "/win32/oledberr-h/",
+  "code": "0x80040E5B",
+  "codeUrl": "/win32/oledberr-h/db_e_pendinginsert/0x80040e5b/",
+  "numericCode": -2147217829,
+  "define": "DB_E_PENDINGINSERT",
+  "defineUrl": "/win32/oledberr-h/db_e_pendinginsert/",
+  "message": "Most recent data for a newly inserted row could not be retrieved because the insert is pending.",
+  "remarks": null,
+  "aka": [
+    "-2147217829"
+  ],
+  "akaUrl": [
+    "/win32/oledberr-h/db_e_pendinginsert/-2147217829/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

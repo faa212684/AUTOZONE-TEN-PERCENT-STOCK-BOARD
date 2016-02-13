@@ -1,0 +1,28 @@
+---
+output: win32\oledberr-h\db_e_readonly\0x80040e94\index.html.json
+
+title: 0x80040E94 DB_E_READONLY in oledberr.h
+description: Caller requested write access to a read-only object.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "oledberr.h",
+  "sourceUrl": "/win32/oledberr-h/",
+  "code": "0x80040E94",
+  "codeUrl": "/win32/oledberr-h/db_e_readonly/0x80040e94/",
+  "numericCode": -2147217772,
+  "define": "DB_E_READONLY",
+  "defineUrl": "/win32/oledberr-h/db_e_readonly/",
+  "message": "Caller requested write access to a read-only object.",
+  "remarks": null,
+  "aka": [
+    "-2147217772"
+  ],
+  "akaUrl": [
+    "/win32/oledberr-h/db_e_readonly/-2147217772/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

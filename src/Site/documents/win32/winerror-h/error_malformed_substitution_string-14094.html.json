@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_malformed_substitution_string\14094\index.html.json
+
+title: 14094 ERROR_MALFORMED_SUBSTITUTION_STRING in winerror.h
+description: A string containing localized substitutable content was malformed. Either a dollar sign ($) was followed by something other than a left parenthesis or another dollar sign or an substitution's right parenthesis was not found.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "14094",
+  "codeUrl": "/win32/winerror-h/error_malformed_substitution_string/14094/",
+  "numericCode": 14094,
+  "define": "ERROR_MALFORMED_SUBSTITUTION_STRING",
+  "defineUrl": "/win32/winerror-h/error_malformed_substitution_string/",
+  "message": "A string containing localized substitutable content was malformed. Either a dollar sign ($) was followed by something other than a left parenthesis or another dollar sign or an substitution's right parenthesis was not found.",
+  "remarks": null,
+  "aka": [
+    "0x8007370e",
+    "-2147010802"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_malformed_substitution_string/0x8007370e/",
+    "/win32/winerror-h/error_malformed_substitution_string/-2147010802/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

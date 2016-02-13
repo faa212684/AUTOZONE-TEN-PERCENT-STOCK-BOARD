@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_delay_load_failed\1285\index.html.json
+
+title: 1285 ERROR_DELAY_LOAD_FAILED in winerror.h
+description: An attempt to delay-load a .dll or get a function address in a delay-loaded .dll failed.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1285",
+  "codeUrl": "/win32/winerror-h/error_delay_load_failed/1285/",
+  "numericCode": 1285,
+  "define": "ERROR_DELAY_LOAD_FAILED",
+  "defineUrl": "/win32/winerror-h/error_delay_load_failed/",
+  "message": "An attempt to delay-load a .dll or get a function address in a delay-loaded .dll failed.",
+  "remarks": null,
+  "aka": [
+    "0x80070505",
+    "-2147023611"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_delay_load_failed/0x80070505/",
+    "/win32/winerror-h/error_delay_load_failed/-2147023611/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

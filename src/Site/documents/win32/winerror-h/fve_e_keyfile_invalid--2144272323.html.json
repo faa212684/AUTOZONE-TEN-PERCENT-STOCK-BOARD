@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\fve_e_keyfile_invalid\-2144272323\index.html.json
+canonical: /win32/winerror-h/fve_e_keyfile_invalid/0x8031003d/
+title: -2144272323 FVE_E_KEYFILE_INVALID in winerror.h
+description: The BitLocker startup key or recovery password file provided is corrupt or invalid. Verify that you have the correct startup key or recovery password file and try again.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2144272323",
+  "codeUrl": "/win32/winerror-h/fve_e_keyfile_invalid/-2144272323/",
+  "numericCode": 0,
+  "define": "FVE_E_KEYFILE_INVALID",
+  "defineUrl": "/win32/winerror-h/fve_e_keyfile_invalid/",
+  "message": "The BitLocker startup key or recovery password file provided is corrupt or invalid. Verify that you have the correct startup key or recovery password file and try again.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x8031003D",
+  "originalCodeUrl": "/win32/winerror-h/fve_e_keyfile_invalid/0x8031003d/"
+}

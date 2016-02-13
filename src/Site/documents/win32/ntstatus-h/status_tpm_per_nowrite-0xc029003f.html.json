@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_tpm_per_nowrite\0xc029003f\index.html.json
+
+title: 0xC029003F STATUS_TPM_PER_NOWRITE in ntstatus.h
+description: There is no protection on the write to the NV area.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC029003F",
+  "codeUrl": "/win32/ntstatus-h/status_tpm_per_nowrite/0xc029003f/",
+  "numericCode": -1071054785,
+  "define": "STATUS_TPM_PER_NOWRITE",
+  "defineUrl": "/win32/ntstatus-h/status_tpm_per_nowrite/",
+  "message": "There is no protection on the write to the NV area.",
+  "remarks": null,
+  "aka": [
+    "-1071054785"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_tpm_per_nowrite/-1071054785/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

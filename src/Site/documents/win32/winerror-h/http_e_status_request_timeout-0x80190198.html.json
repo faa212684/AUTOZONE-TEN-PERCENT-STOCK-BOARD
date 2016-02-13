@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\http_e_status_request_timeout\0x80190198\index.html.json
+
+title: 0x80190198 HTTP_E_STATUS_REQUEST_TIMEOUT in winerror.h
+description: Request timeout (408).
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80190198",
+  "codeUrl": "/win32/winerror-h/http_e_status_request_timeout/0x80190198/",
+  "numericCode": -2145844840,
+  "define": "HTTP_E_STATUS_REQUEST_TIMEOUT",
+  "defineUrl": "/win32/winerror-h/http_e_status_request_timeout/",
+  "message": "Request timeout (408).",
+  "remarks": null,
+  "aka": [
+    "-2145844840"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/http_e_status_request_timeout/-2145844840/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

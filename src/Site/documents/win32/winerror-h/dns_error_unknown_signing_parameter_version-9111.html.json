@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\dns_error_unknown_signing_parameter_version\9111\index.html.json
+
+title: 9111 DNS_ERROR_UNKNOWN_SIGNING_PARAMETER_VERSION in winerror.h
+description: The DNS server encountered a signing key with an unknown version. Zone signing will not be operational until this error is resolved.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "9111",
+  "codeUrl": "/win32/winerror-h/dns_error_unknown_signing_parameter_version/9111/",
+  "numericCode": 9111,
+  "define": "DNS_ERROR_UNKNOWN_SIGNING_PARAMETER_VERSION",
+  "defineUrl": "/win32/winerror-h/dns_error_unknown_signing_parameter_version/",
+  "message": "The DNS server encountered a signing key with an unknown version. Zone signing will not be operational until this error is resolved.",
+  "remarks": null,
+  "aka": [
+    "0x80072397",
+    "-2147015785"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/dns_error_unknown_signing_parameter_version/0x80072397/",
+    "/win32/winerror-h/dns_error_unknown_signing_parameter_version/-2147015785/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

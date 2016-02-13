@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\spapi_e_non_windows_nt_driver\0x800f022d\index.html.json
+
+title: 0x800F022D SPAPI_E_NON_WINDOWS_NT_DRIVER in winerror.h
+description: The driver selected for this device does not support this version of Windows.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800F022D",
+  "codeUrl": "/win32/winerror-h/spapi_e_non_windows_nt_driver/0x800f022d/",
+  "numericCode": -2146500051,
+  "define": "SPAPI_E_NON_WINDOWS_NT_DRIVER",
+  "defineUrl": "/win32/winerror-h/spapi_e_non_windows_nt_driver/",
+  "message": "The driver selected for this device does not support this version of Windows.",
+  "remarks": null,
+  "aka": [
+    "-2146500051"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/spapi_e_non_windows_nt_driver/-2146500051/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

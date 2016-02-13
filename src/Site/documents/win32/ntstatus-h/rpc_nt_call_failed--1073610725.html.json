@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\rpc_nt_call_failed\-1073610725\index.html.json
+canonical: /win32/ntstatus-h/rpc_nt_call_failed/0xc002001b/
+title: -1073610725 RPC_NT_CALL_FAILED in ntstatus.h
+description: The remote procedure call failed.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073610725",
+  "codeUrl": "/win32/ntstatus-h/rpc_nt_call_failed/-1073610725/",
+  "numericCode": 0,
+  "define": "RPC_NT_CALL_FAILED",
+  "defineUrl": "/win32/ntstatus-h/rpc_nt_call_failed/",
+  "message": "The remote procedure call failed.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC002001B",
+  "originalCodeUrl": "/win32/ntstatus-h/rpc_nt_call_failed/0xc002001b/"
+}

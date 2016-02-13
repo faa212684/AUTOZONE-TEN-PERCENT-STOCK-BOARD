@@ -1,0 +1,25 @@
+---
+output: win32\vsserror-h\vss_e_writer_not_responding\-2147212519\index.html.json
+canonical: /win32/vsserror-h/vss_e_writer_not_responding/0x80042319/
+title: -2147212519 VSS_E_WRITER_NOT_RESPONDING in vsserror.h
+description: A writer did not respond to a GatherWriterStatus call.  The writer may either have terminated
+or it may be stuck.  Check the System and Application event logs for more information.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vsserror.h",
+  "sourceUrl": "/win32/vsserror-h/",
+  "code": "-2147212519",
+  "codeUrl": "/win32/vsserror-h/vss_e_writer_not_responding/-2147212519/",
+  "numericCode": 0,
+  "define": "VSS_E_WRITER_NOT_RESPONDING",
+  "defineUrl": "/win32/vsserror-h/vss_e_writer_not_responding/",
+  "message": "A writer did not respond to a GatherWriterStatus call.  The writer may either have terminated\r\nor it may be stuck.  Check the System and Application event logs for more information.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80042319",
+  "originalCodeUrl": "/win32/vsserror-h/vss_e_writer_not_responding/0x80042319/"
+}

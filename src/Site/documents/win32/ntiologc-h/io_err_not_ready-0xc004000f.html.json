@@ -1,0 +1,28 @@
+---
+output: win32\ntiologc-h\io_err_not_ready\0xc004000f\index.html.json
+
+title: 0xC004000F IO_ERR_NOT_READY in ntiologc.h
+description: The device, %1, is not ready for access yet.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntiologc.h",
+  "sourceUrl": "/win32/ntiologc-h/",
+  "code": "0xC004000F",
+  "codeUrl": "/win32/ntiologc-h/io_err_not_ready/0xc004000f/",
+  "numericCode": -1073479665,
+  "define": "IO_ERR_NOT_READY",
+  "defineUrl": "/win32/ntiologc-h/io_err_not_ready/",
+  "message": "The device, %1, is not ready for access yet.",
+  "remarks": null,
+  "aka": [
+    "-1073479665"
+  ],
+  "akaUrl": [
+    "/win32/ntiologc-h/io_err_not_ready/-1073479665/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\fve_e_fips_disable_protection_not_allowed\-2144272314\index.html.json
+canonical: /win32/winerror-h/fve_e_fips_disable_protection_not_allowed/0x80310046/
+title: -2144272314 FVE_E_FIPS_DISABLE_PROTECTION_NOT_ALLOWED in winerror.h
+description: The Group Policy setting requiring FIPS compliance prohibits the use of unencrypted keys, which prevents BitLocker from being suspended on this drive. Please contact your domain administrator for more information.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2144272314",
+  "codeUrl": "/win32/winerror-h/fve_e_fips_disable_protection_not_allowed/-2144272314/",
+  "numericCode": 0,
+  "define": "FVE_E_FIPS_DISABLE_PROTECTION_NOT_ALLOWED",
+  "defineUrl": "/win32/winerror-h/fve_e_fips_disable_protection_not_allowed/",
+  "message": "The Group Policy setting requiring FIPS compliance prohibits the use of unencrypted keys, which prevents BitLocker from being suspended on this drive. Please contact your domain administrator for more information.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80310046",
+  "originalCodeUrl": "/win32/winerror-h/fve_e_fips_disable_protection_not_allowed/0x80310046/"
+}

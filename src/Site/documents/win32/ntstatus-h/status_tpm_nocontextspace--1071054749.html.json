@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_tpm_nocontextspace\-1071054749\index.html.json
+canonical: /win32/ntstatus-h/status_tpm_nocontextspace/0xc0290063/
+title: -1071054749 STATUS_TPM_NOCONTEXTSPACE in ntstatus.h
+description: There is no room in the context list for additional contexts.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071054749",
+  "codeUrl": "/win32/ntstatus-h/status_tpm_nocontextspace/-1071054749/",
+  "numericCode": 0,
+  "define": "STATUS_TPM_NOCONTEXTSPACE",
+  "defineUrl": "/win32/ntstatus-h/status_tpm_nocontextspace/",
+  "message": "There is no room in the context list for additional contexts.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0290063",
+  "originalCodeUrl": "/win32/ntstatus-h/status_tpm_nocontextspace/0xc0290063/"
+}

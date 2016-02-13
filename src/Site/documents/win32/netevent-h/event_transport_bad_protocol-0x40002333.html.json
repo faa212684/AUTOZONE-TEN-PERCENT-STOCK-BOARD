@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_transport_bad_protocol\0x40002333\index.html.json
+
+title: 0x40002333 EVENT_TRANSPORT_BAD_PROTOCOL in netevent.h
+description: %2 received an unexpected %3 packet from a remote computer.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x40002333",
+  "codeUrl": "/win32/netevent-h/event_transport_bad_protocol/0x40002333/",
+  "numericCode": 1073750835,
+  "define": "EVENT_TRANSPORT_BAD_PROTOCOL",
+  "defineUrl": "/win32/netevent-h/event_transport_bad_protocol/",
+  "message": "%2 received an unexpected %3 packet from a remote computer.",
+  "remarks": null,
+  "aka": [
+    "1073750835"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_transport_bad_protocol/1073750835/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

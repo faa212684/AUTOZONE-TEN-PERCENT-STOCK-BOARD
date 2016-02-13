@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_mrm_unsupported_file_type_for_load_unload_pri_file\15142\index.html.json
+
+title: 15142 ERROR_MRM_UNSUPPORTED_FILE_TYPE_FOR_LOAD_UNLOAD_PRI_FILE in winerror.h
+description: Load/UnloadPriFiles cannot be used with resource packages.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "15142",
+  "codeUrl": "/win32/winerror-h/error_mrm_unsupported_file_type_for_load_unload_pri_file/15142/",
+  "numericCode": 15142,
+  "define": "ERROR_MRM_UNSUPPORTED_FILE_TYPE_FOR_LOAD_UNLOAD_PRI_FILE",
+  "defineUrl": "/win32/winerror-h/error_mrm_unsupported_file_type_for_load_unload_pri_file/",
+  "message": "Load/UnloadPriFiles cannot be used with resource packages.",
+  "remarks": null,
+  "aka": [
+    "0x80073b26",
+    "-2147009754"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_mrm_unsupported_file_type_for_load_unload_pri_file/0x80073b26/",
+    "/win32/winerror-h/error_mrm_unsupported_file_type_for_load_unload_pri_file/-2147009754/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

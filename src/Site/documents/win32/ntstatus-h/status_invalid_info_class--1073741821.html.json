@@ -1,0 +1,25 @@
+---
+output: win32\ntstatus-h\status_invalid_info_class\-1073741821\index.html.json
+canonical: /win32/ntstatus-h/status_invalid_info_class/0xc0000003/
+title: -1073741821 STATUS_INVALID_INFO_CLASS in ntstatus.h
+description: "{Invalid Parameter}
+The specified information class is not a valid information class for the specified object."
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741821",
+  "codeUrl": "/win32/ntstatus-h/status_invalid_info_class/-1073741821/",
+  "numericCode": 0,
+  "define": "STATUS_INVALID_INFO_CLASS",
+  "defineUrl": "/win32/ntstatus-h/status_invalid_info_class/",
+  "message": "{Invalid Parameter}\r\nThe specified information class is not a valid information class for the specified object.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000003",
+  "originalCodeUrl": "/win32/ntstatus-h/status_invalid_info_class/0xc0000003/"
+}

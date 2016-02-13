@@ -1,0 +1,29 @@
+---
+output: win32\netevent-h\event_eqos_warning_user_policy_quota_exceeded\0x800040df\index.html.json
+
+title: 0x800040DF EVENT_EQOS_WARNING_USER_POLICY_QUOTA_EXCEEDED in netevent.h
+description: Exceeded the maximum number of user QoS policies. 
+The user QoS policy "%2" and subsequent user QoS policies will not be applied.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x800040DF",
+  "codeUrl": "/win32/netevent-h/event_eqos_warning_user_policy_quota_exceeded/0x800040df/",
+  "numericCode": -2147467041,
+  "define": "EVENT_EQOS_WARNING_USER_POLICY_QUOTA_EXCEEDED",
+  "defineUrl": "/win32/netevent-h/event_eqos_warning_user_policy_quota_exceeded/",
+  "message": "Exceeded the maximum number of user QoS policies. \r\nThe user QoS policy \"%2\" and subsequent user QoS policies will not be applied.",
+  "remarks": null,
+  "aka": [
+    "-2147467041"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_eqos_warning_user_policy_quota_exceeded/-2147467041/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

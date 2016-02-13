@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\rpc_s_unknown_authn_level\1748\index.html.json
+
+title: 1748 RPC_S_UNKNOWN_AUTHN_LEVEL in winerror.h
+description: The authentication level is unknown.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1748",
+  "codeUrl": "/win32/winerror-h/rpc_s_unknown_authn_level/1748/",
+  "numericCode": 1748,
+  "define": "RPC_S_UNKNOWN_AUTHN_LEVEL",
+  "defineUrl": "/win32/winerror-h/rpc_s_unknown_authn_level/",
+  "message": "The authentication level is unknown.",
+  "remarks": null,
+  "aka": [
+    "0x800706d4",
+    "-2147023148"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/rpc_s_unknown_authn_level/0x800706d4/",
+    "/win32/winerror-h/rpc_s_unknown_authn_level/-2147023148/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

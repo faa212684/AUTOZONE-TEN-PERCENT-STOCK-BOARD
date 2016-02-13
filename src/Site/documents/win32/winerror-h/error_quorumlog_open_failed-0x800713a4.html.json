@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_quorumlog_open_failed\0x800713a4\index.html.json
+canonical: /win32/winerror-h/error_quorumlog_open_failed/5028/
+title: 0x800713a4 ERROR_QUORUMLOG_OPEN_FAILED in winerror.h
+description: The quorum log could not be created or mounted successfully.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800713a4",
+  "codeUrl": "/win32/winerror-h/error_quorumlog_open_failed/0x800713a4/",
+  "numericCode": 0,
+  "define": "ERROR_QUORUMLOG_OPEN_FAILED",
+  "defineUrl": "/win32/winerror-h/error_quorumlog_open_failed/",
+  "message": "The quorum log could not be created or mounted successfully.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "5028",
+  "originalCodeUrl": "/win32/winerror-h/error_quorumlog_open_failed/5028/"
+}

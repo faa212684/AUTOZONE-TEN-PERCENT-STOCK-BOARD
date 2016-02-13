@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ds_no_attribute_or_value\8202\index.html.json
+
+title: 8202 ERROR_DS_NO_ATTRIBUTE_OR_VALUE in winerror.h
+description: The specified directory service attribute or value does not exist.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "8202",
+  "codeUrl": "/win32/winerror-h/error_ds_no_attribute_or_value/8202/",
+  "numericCode": 8202,
+  "define": "ERROR_DS_NO_ATTRIBUTE_OR_VALUE",
+  "defineUrl": "/win32/winerror-h/error_ds_no_attribute_or_value/",
+  "message": "The specified directory service attribute or value does not exist.",
+  "remarks": null,
+  "aka": [
+    "0x8007200a",
+    "-2147016694"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ds_no_attribute_or_value/0x8007200a/",
+    "/win32/winerror-h/error_ds_no_attribute_or_value/-2147016694/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

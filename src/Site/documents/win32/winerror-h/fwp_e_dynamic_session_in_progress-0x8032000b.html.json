@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\fwp_e_dynamic_session_in_progress\0x8032000b\index.html.json
+
+title: 0x8032000B FWP_E_DYNAMIC_SESSION_IN_PROGRESS in winerror.h
+description: The call is not allowed from within a dynamic session.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8032000B",
+  "codeUrl": "/win32/winerror-h/fwp_e_dynamic_session_in_progress/0x8032000b/",
+  "numericCode": -2144206837,
+  "define": "FWP_E_DYNAMIC_SESSION_IN_PROGRESS",
+  "defineUrl": "/win32/winerror-h/fwp_e_dynamic_session_in_progress/",
+  "message": "The call is not allowed from within a dynamic session.",
+  "remarks": null,
+  "aka": [
+    "-2144206837"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/fwp_e_dynamic_session_in_progress/-2144206837/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

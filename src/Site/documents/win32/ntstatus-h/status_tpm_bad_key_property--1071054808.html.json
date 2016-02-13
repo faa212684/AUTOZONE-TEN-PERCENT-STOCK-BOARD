@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_tpm_bad_key_property\-1071054808\index.html.json
+canonical: /win32/ntstatus-h/status_tpm_bad_key_property/0xc0290028/
+title: -1071054808 STATUS_TPM_BAD_KEY_PROPERTY in ntstatus.h
+description: The key properties in TPM_KEY_PARMs are not supported by this TPM.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071054808",
+  "codeUrl": "/win32/ntstatus-h/status_tpm_bad_key_property/-1071054808/",
+  "numericCode": 0,
+  "define": "STATUS_TPM_BAD_KEY_PROPERTY",
+  "defineUrl": "/win32/ntstatus-h/status_tpm_bad_key_property/",
+  "message": "The key properties in TPM_KEY_PARMs are not supported by this TPM.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0290028",
+  "originalCodeUrl": "/win32/ntstatus-h/status_tpm_bad_key_property/0xc0290028/"
+}

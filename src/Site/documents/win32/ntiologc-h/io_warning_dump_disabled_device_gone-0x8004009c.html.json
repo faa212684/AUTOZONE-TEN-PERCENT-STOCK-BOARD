@@ -1,0 +1,28 @@
+---
+output: win32\ntiologc-h\io_warning_dump_disabled_device_gone\0x8004009c\index.html.json
+
+title: 0x8004009C IO_WARNING_DUMP_DISABLED_DEVICE_GONE in ntiologc.h
+description: Crash dump is disabled. Crash dump device is not present in the system.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntiologc.h",
+  "sourceUrl": "/win32/ntiologc-h/",
+  "code": "0x8004009C",
+  "codeUrl": "/win32/ntiologc-h/io_warning_dump_disabled_device_gone/0x8004009c/",
+  "numericCode": -2147221348,
+  "define": "IO_WARNING_DUMP_DISABLED_DEVICE_GONE",
+  "defineUrl": "/win32/ntiologc-h/io_warning_dump_disabled_device_gone/",
+  "message": "Crash dump is disabled. Crash dump device is not present in the system.",
+  "remarks": null,
+  "aka": [
+    "-2147221348"
+  ],
+  "akaUrl": [
+    "/win32/ntiologc-h/io_warning_dump_disabled_device_gone/-2147221348/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

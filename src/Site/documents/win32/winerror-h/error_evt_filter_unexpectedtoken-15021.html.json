@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_evt_filter_unexpectedtoken\15021\index.html.json
+
+title: 15021 ERROR_EVT_FILTER_UNEXPECTEDTOKEN in winerror.h
+description: The token encountered was unexpected.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "15021",
+  "codeUrl": "/win32/winerror-h/error_evt_filter_unexpectedtoken/15021/",
+  "numericCode": 15021,
+  "define": "ERROR_EVT_FILTER_UNEXPECTEDTOKEN",
+  "defineUrl": "/win32/winerror-h/error_evt_filter_unexpectedtoken/",
+  "message": "The token encountered was unexpected.",
+  "remarks": null,
+  "aka": [
+    "0x80073aad",
+    "-2147009875"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_evt_filter_unexpectedtoken/0x80073aad/",
+    "/win32/winerror-h/error_evt_filter_unexpectedtoken/-2147009875/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

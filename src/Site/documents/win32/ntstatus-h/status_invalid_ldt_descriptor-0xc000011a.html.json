@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_invalid_ldt_descriptor\0xc000011a\index.html.json
+
+title: 0xC000011A STATUS_INVALID_LDT_DESCRIPTOR in ntstatus.h
+description: Indicates that the user supplied an invalid descriptor when trying to set up Ldt descriptors.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000011A",
+  "codeUrl": "/win32/ntstatus-h/status_invalid_ldt_descriptor/0xc000011a/",
+  "numericCode": -1073741542,
+  "define": "STATUS_INVALID_LDT_DESCRIPTOR",
+  "defineUrl": "/win32/ntstatus-h/status_invalid_ldt_descriptor/",
+  "message": "Indicates that the user supplied an invalid descriptor when trying to set up Ldt descriptors.",
+  "remarks": null,
+  "aka": [
+    "-1073741542"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_invalid_ldt_descriptor/-1073741542/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

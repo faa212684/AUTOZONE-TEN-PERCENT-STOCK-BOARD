@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_graphics_adapter_access_not_excluded\0xc01e043b\index.html.json
+
+title: 0xC01E043B STATUS_GRAPHICS_ADAPTER_ACCESS_NOT_EXCLUDED in ntstatus.h
+description: An operation is being attempted that requires the display adapter to be in a quiescent state.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC01E043B",
+  "codeUrl": "/win32/ntstatus-h/status_graphics_adapter_access_not_excluded/0xc01e043b/",
+  "numericCode": -1071774661,
+  "define": "STATUS_GRAPHICS_ADAPTER_ACCESS_NOT_EXCLUDED",
+  "defineUrl": "/win32/ntstatus-h/status_graphics_adapter_access_not_excluded/",
+  "message": "An operation is being attempted that requires the display adapter to be in a quiescent state.",
+  "remarks": null,
+  "aka": [
+    "-1071774661"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_graphics_adapter_access_not_excluded/-1071774661/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

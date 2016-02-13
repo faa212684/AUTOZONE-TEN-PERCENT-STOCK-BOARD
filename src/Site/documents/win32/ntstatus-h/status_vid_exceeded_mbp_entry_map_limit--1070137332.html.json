@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_vid_exceeded_mbp_entry_map_limit\-1070137332\index.html.json
+canonical: /win32/ntstatus-h/status_vid_exceeded_mbp_entry_map_limit/0xc037000c/
+title: -1070137332 STATUS_VID_EXCEEDED_MBP_ENTRY_MAP_LIMIT in ntstatus.h
+description: The memory block page for the virtualization infrastructure driver cannot be mapped because the page map limit has been reached. Restarting the virtual machine may fix the problem. If the problem persists, try restarting the physical computer.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1070137332",
+  "codeUrl": "/win32/ntstatus-h/status_vid_exceeded_mbp_entry_map_limit/-1070137332/",
+  "numericCode": 0,
+  "define": "STATUS_VID_EXCEEDED_MBP_ENTRY_MAP_LIMIT",
+  "defineUrl": "/win32/ntstatus-h/status_vid_exceeded_mbp_entry_map_limit/",
+  "message": "The memory block page for the virtualization infrastructure driver cannot be mapped because the page map limit has been reached. Restarting the virtual machine may fix the problem. If the problem persists, try restarting the physical computer.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC037000C",
+  "originalCodeUrl": "/win32/ntstatus-h/status_vid_exceeded_mbp_entry_map_limit/0xc037000c/"
+}

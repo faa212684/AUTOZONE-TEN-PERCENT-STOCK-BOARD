@@ -1,0 +1,28 @@
+---
+output: win32\fsrmerr-h\fsrm_e_rms_no_protectors_installed\0x80045382\index.html.json
+
+title: 0x80045382 FSRM_E_RMS_NO_PROTECTORS_INSTALLED in fsrmerr.h
+description: File Server Resource Manager cannot run the file management task because no RMS protectors are installed.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "fsrmerr.h",
+  "sourceUrl": "/win32/fsrmerr-h/",
+  "code": "0x80045382",
+  "codeUrl": "/win32/fsrmerr-h/fsrm_e_rms_no_protectors_installed/0x80045382/",
+  "numericCode": -2147200126,
+  "define": "FSRM_E_RMS_NO_PROTECTORS_INSTALLED",
+  "defineUrl": "/win32/fsrmerr-h/fsrm_e_rms_no_protectors_installed/",
+  "message": "File Server Resource Manager cannot run the file management task because no RMS protectors are installed.",
+  "remarks": null,
+  "aka": [
+    "-2147200126"
+  ],
+  "akaUrl": [
+    "/win32/fsrmerr-h/fsrm_e_rms_no_protectors_installed/-2147200126/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

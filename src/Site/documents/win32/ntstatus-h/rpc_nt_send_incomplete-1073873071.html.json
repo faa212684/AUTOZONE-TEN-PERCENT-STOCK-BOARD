@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\rpc_nt_send_incomplete\1073873071\index.html.json
+canonical: /win32/ntstatus-h/rpc_nt_send_incomplete/0x400200af/
+title: 1073873071 RPC_NT_SEND_INCOMPLETE in ntstatus.h
+description: Some data remains to be sent in the request buffer.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "1073873071",
+  "codeUrl": "/win32/ntstatus-h/rpc_nt_send_incomplete/1073873071/",
+  "numericCode": 0,
+  "define": "RPC_NT_SEND_INCOMPLETE",
+  "defineUrl": "/win32/ntstatus-h/rpc_nt_send_incomplete/",
+  "message": "Some data remains to be sent in the request buffer.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x400200AF",
+  "originalCodeUrl": "/win32/ntstatus-h/rpc_nt_send_incomplete/0x400200af/"
+}

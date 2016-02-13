@@ -1,0 +1,24 @@
+---
+output: win32\windowssearcherrors-h\gthr_s_status_change_ignored\265500\index.html.json
+canonical: /win32/windowssearcherrors-h/gthr_s_status_change_ignored/0x00040d1c/
+title: 265500 GTHR_S_STATUS_CHANGE_IGNORED in WindowsSearchErrors.h
+description: The status change request was ignored, because the same status change is already pending.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "265500",
+  "codeUrl": "/win32/windowssearcherrors-h/gthr_s_status_change_ignored/265500/",
+  "numericCode": 0,
+  "define": "GTHR_S_STATUS_CHANGE_IGNORED",
+  "defineUrl": "/win32/windowssearcherrors-h/gthr_s_status_change_ignored/",
+  "message": "The status change request was ignored, because the same status change is already pending.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x00040D1C",
+  "originalCodeUrl": "/win32/windowssearcherrors-h/gthr_s_status_change_ignored/0x00040d1c/"
+}

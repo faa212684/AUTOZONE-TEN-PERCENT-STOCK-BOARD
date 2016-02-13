@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\tpm_e_keynotfound\-2144862195\index.html.json
+canonical: /win32/winerror-h/tpm_e_keynotfound/0x8028000d/
+title: -2144862195 TPM_E_KEYNOTFOUND in winerror.h
+description: The key handle points to an invalid key.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2144862195",
+  "codeUrl": "/win32/winerror-h/tpm_e_keynotfound/-2144862195/",
+  "numericCode": 0,
+  "define": "TPM_E_KEYNOTFOUND",
+  "defineUrl": "/win32/winerror-h/tpm_e_keynotfound/",
+  "message": "The key handle points to an invalid key.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x8028000D",
+  "originalCodeUrl": "/win32/winerror-h/tpm_e_keynotfound/0x8028000d/"
+}

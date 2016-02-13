@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_graphics_opm_spanning_mode_enabled\-1071774449\index.html.json
+canonical: /win32/ntstatus-h/status_graphics_opm_spanning_mode_enabled/0xc01e050f/
+title: -1071774449 STATUS_GRAPHICS_OPM_SPANNING_MODE_ENABLED in ntstatus.h
+description: The DxgkDdiOpmCreateProtectedOutput function could not create a protected output because the Video Present Target is in spanning mode.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071774449",
+  "codeUrl": "/win32/ntstatus-h/status_graphics_opm_spanning_mode_enabled/-1071774449/",
+  "numericCode": 0,
+  "define": "STATUS_GRAPHICS_OPM_SPANNING_MODE_ENABLED",
+  "defineUrl": "/win32/ntstatus-h/status_graphics_opm_spanning_mode_enabled/",
+  "message": "The DxgkDdiOpmCreateProtectedOutput function could not create a protected output because the Video Present Target is in spanning mode.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC01E050F",
+  "originalCodeUrl": "/win32/ntstatus-h/status_graphics_opm_spanning_mode_enabled/0xc01e050f/"
+}

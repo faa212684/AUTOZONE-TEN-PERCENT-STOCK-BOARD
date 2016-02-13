@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_srv_cant_recreate_share\0x800009cf\index.html.json
+
+title: 0x800009CF EVENT_SRV_CANT_RECREATE_SHARE in netevent.h
+description: The server service was unable to recreate the share %1 because the directory %2 no longer exists.  Please run "net share %1 /delete" to delete the share, or recreate the directory %2.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x800009CF",
+  "codeUrl": "/win32/netevent-h/event_srv_cant_recreate_share/0x800009cf/",
+  "numericCode": -2147481137,
+  "define": "EVENT_SRV_CANT_RECREATE_SHARE",
+  "defineUrl": "/win32/netevent-h/event_srv_cant_recreate_share/",
+  "message": "The server service was unable to recreate the share %1 because the directory %2 no longer exists.  Please run \"net share %1 /delete\" to delete the share, or recreate the directory %2.",
+  "remarks": null,
+  "aka": [
+    "-2147481137"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_srv_cant_recreate_share/-2147481137/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\wsmerror-h\error_wsman_quota_limit\0x8033803f\index.html.json
+
+title: 0x8033803F ERROR_WSMAN_QUOTA_LIMIT in wsmerror.h
+description: The WS-Management service is busy servicing other requests. Retry later.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x8033803F",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_quota_limit/0x8033803f/",
+  "numericCode": -2144108481,
+  "define": "ERROR_WSMAN_QUOTA_LIMIT",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_quota_limit/",
+  "message": "The WS-Management service is busy servicing other requests. Retry later.",
+  "remarks": null,
+  "aka": [
+    "-2144108481"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_quota_limit/-2144108481/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

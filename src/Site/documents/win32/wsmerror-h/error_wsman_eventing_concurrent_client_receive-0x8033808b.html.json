@@ -1,0 +1,28 @@
+---
+output: win32\wsmerror-h\error_wsman_eventing_concurrent_client_receive\0x8033808b\index.html.json
+
+title: 0x8033808B ERROR_WSMAN_EVENTING_CONCURRENT_CLIENT_RECEIVE in wsmerror.h
+description: The client is attempting to concurrently receive events from a single subscription session.This is not supported.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x8033808B",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_eventing_concurrent_client_receive/0x8033808b/",
+  "numericCode": -2144108405,
+  "define": "ERROR_WSMAN_EVENTING_CONCURRENT_CLIENT_RECEIVE",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_eventing_concurrent_client_receive/",
+  "message": "The client is attempting to concurrently receive events from a single subscription session.This is not supported.",
+  "remarks": null,
+  "aka": [
+    "-2144108405"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_eventing_concurrent_client_receive/-2144108405/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

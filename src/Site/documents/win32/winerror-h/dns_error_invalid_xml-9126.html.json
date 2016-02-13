@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\dns_error_invalid_xml\9126\index.html.json
+
+title: 9126 DNS_ERROR_INVALID_XML in winerror.h
+description: This operation could not be completed because the XML stream received is empty or syntactically invalid.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "9126",
+  "codeUrl": "/win32/winerror-h/dns_error_invalid_xml/9126/",
+  "numericCode": 9126,
+  "define": "DNS_ERROR_INVALID_XML",
+  "defineUrl": "/win32/winerror-h/dns_error_invalid_xml/",
+  "message": "This operation could not be completed because the XML stream received is empty or syntactically invalid.",
+  "remarks": null,
+  "aka": [
+    "0x800723a6",
+    "-2147015770"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/dns_error_invalid_xml/0x800723a6/",
+    "/win32/winerror-h/dns_error_invalid_xml/-2147015770/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\tapi3err-h\tapi_e_nodevice\0x80040021\index.html.json
+
+title: 0x80040021 TAPI_E_NODEVICE in Tapi3Err.h
+description: The device was removed, or the device class is not recognized.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "Tapi3Err.h",
+  "sourceUrl": "/win32/tapi3err-h/",
+  "code": "0x80040021",
+  "codeUrl": "/win32/tapi3err-h/tapi_e_nodevice/0x80040021/",
+  "numericCode": -2147221471,
+  "define": "TAPI_E_NODEVICE",
+  "defineUrl": "/win32/tapi3err-h/tapi_e_nodevice/",
+  "message": "The device was removed, or the device class is not recognized.",
+  "remarks": null,
+  "aka": [
+    "-2147221471"
+  ],
+  "akaUrl": [
+    "/win32/tapi3err-h/tapi_e_nodevice/-2147221471/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

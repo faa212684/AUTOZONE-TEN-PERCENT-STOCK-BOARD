@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\fve_e_system_volume\0x80310012\index.html.json
+
+title: 0x80310012 FVE_E_SYSTEM_VOLUME in winerror.h
+description: The drive cannot be encrypted because it contains system boot information. Create a separate partition for use as the system drive that contains the boot information and a second partition for use as the operating system drive and then encrypt the operating system drive.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80310012",
+  "codeUrl": "/win32/winerror-h/fve_e_system_volume/0x80310012/",
+  "numericCode": -2144272366,
+  "define": "FVE_E_SYSTEM_VOLUME",
+  "defineUrl": "/win32/winerror-h/fve_e_system_volume/",
+  "message": "The drive cannot be encrypted because it contains system boot information. Create a separate partition for use as the system drive that contains the boot information and a second partition for use as the operating system drive and then encrypt the operating system drive.",
+  "remarks": null,
+  "aka": [
+    "-2144272366"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/fve_e_system_volume/-2144272366/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

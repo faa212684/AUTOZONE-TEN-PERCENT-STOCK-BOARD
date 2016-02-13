@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_fwp_lifetime_mismatch\-1071513578\index.html.json
+canonical: /win32/ntstatus-h/status_fwp_lifetime_mismatch/0xc0220016/
+title: -1071513578 STATUS_FWP_LIFETIME_MISMATCH in ntstatus.h
+description: The call tried to associate two objects with incompatible lifetimes.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071513578",
+  "codeUrl": "/win32/ntstatus-h/status_fwp_lifetime_mismatch/-1071513578/",
+  "numericCode": 0,
+  "define": "STATUS_FWP_LIFETIME_MISMATCH",
+  "defineUrl": "/win32/ntstatus-h/status_fwp_lifetime_mismatch/",
+  "message": "The call tried to associate two objects with incompatible lifetimes.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0220016",
+  "originalCodeUrl": "/win32/ntstatus-h/status_fwp_lifetime_mismatch/0xc0220016/"
+}

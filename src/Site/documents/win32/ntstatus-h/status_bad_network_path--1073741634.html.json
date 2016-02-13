@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_bad_network_path\-1073741634\index.html.json
+canonical: /win32/ntstatus-h/status_bad_network_path/0xc00000be/
+title: -1073741634 STATUS_BAD_NETWORK_PATH in ntstatus.h
+description: The network path cannot be located.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741634",
+  "codeUrl": "/win32/ntstatus-h/status_bad_network_path/-1073741634/",
+  "numericCode": 0,
+  "define": "STATUS_BAD_NETWORK_PATH",
+  "defineUrl": "/win32/ntstatus-h/status_bad_network_path/",
+  "message": "The network path cannot be located.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC00000BE",
+  "originalCodeUrl": "/win32/ntstatus-h/status_bad_network_path/0xc00000be/"
+}

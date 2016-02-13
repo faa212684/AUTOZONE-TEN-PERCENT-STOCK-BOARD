@@ -1,0 +1,25 @@
+---
+output: win32\fltwinerror-h\error_flt_filter_not_ready\-2145452024\index.html.json
+canonical: /win32/fltwinerror-h/error_flt_filter_not_ready/0x801f0008/
+title: -2145452024 ERROR_FLT_FILTER_NOT_READY in fltWinError.h
+description: The filter is not ready for attachment to volumes because it has not finished
+initializing (FltStartFiltering has not been called).
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "fltWinError.h",
+  "sourceUrl": "/win32/fltwinerror-h/",
+  "code": "-2145452024",
+  "codeUrl": "/win32/fltwinerror-h/error_flt_filter_not_ready/-2145452024/",
+  "numericCode": 0,
+  "define": "ERROR_FLT_FILTER_NOT_READY",
+  "defineUrl": "/win32/fltwinerror-h/error_flt_filter_not_ready/",
+  "message": "The filter is not ready for attachment to volumes because it has not finished\r\ninitializing (FltStartFiltering has not been called).",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x801F0008",
+  "originalCodeUrl": "/win32/fltwinerror-h/error_flt_filter_not_ready/0x801f0008/"
+}

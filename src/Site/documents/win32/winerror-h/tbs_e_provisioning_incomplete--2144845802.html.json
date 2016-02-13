@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\tbs_e_provisioning_incomplete\-2144845802\index.html.json
+canonical: /win32/winerror-h/tbs_e_provisioning_incomplete/0x80284016/
+title: -2144845802 TBS_E_PROVISIONING_INCOMPLETE in winerror.h
+description: The TPM provisioning did not complete.  For more information on completing the provisioning, call the Win32_Tpm WMI method for provisioning the TPM ('Provision') and check the returned Information.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2144845802",
+  "codeUrl": "/win32/winerror-h/tbs_e_provisioning_incomplete/-2144845802/",
+  "numericCode": 0,
+  "define": "TBS_E_PROVISIONING_INCOMPLETE",
+  "defineUrl": "/win32/winerror-h/tbs_e_provisioning_incomplete/",
+  "message": "The TPM provisioning did not complete.  For more information on completing the provisioning, call the Win32_Tpm WMI method for provisioning the TPM ('Provision') and check the returned Information.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80284016",
+  "originalCodeUrl": "/win32/winerror-h/tbs_e_provisioning_incomplete/0x80284016/"
+}

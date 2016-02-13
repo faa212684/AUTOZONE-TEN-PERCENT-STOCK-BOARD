@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\error_graphics_no_recommended_functional_vidpn\0xc0262323\index.html.json
+
+title: 0xC0262323 ERROR_GRAPHICS_NO_RECOMMENDED_FUNCTIONAL_VIDPN in winerror.h
+description: Miniport does not have any recommendation regarding the request to provide a functional VidPN given the current display adapter configuration.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0xC0262323",
+  "codeUrl": "/win32/winerror-h/error_graphics_no_recommended_functional_vidpn/0xc0262323/",
+  "numericCode": -1071242461,
+  "define": "ERROR_GRAPHICS_NO_RECOMMENDED_FUNCTIONAL_VIDPN",
+  "defineUrl": "/win32/winerror-h/error_graphics_no_recommended_functional_vidpn/",
+  "message": "Miniport does not have any recommendation regarding the request to provide a functional VidPN given the current display adapter configuration.",
+  "remarks": null,
+  "aka": [
+    "-1071242461"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_graphics_no_recommended_functional_vidpn/-1071242461/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

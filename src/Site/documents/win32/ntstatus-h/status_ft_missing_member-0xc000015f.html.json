@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_ft_missing_member\0xc000015f\index.html.json
+
+title: 0xC000015F STATUS_FT_MISSING_MEMBER in ntstatus.h
+description: An attempt was made to explicitly access the secondary copy of information via a device control to the Fault Tolerance driver and the secondary copy is not present in the system.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000015F",
+  "codeUrl": "/win32/ntstatus-h/status_ft_missing_member/0xc000015f/",
+  "numericCode": -1073741473,
+  "define": "STATUS_FT_MISSING_MEMBER",
+  "defineUrl": "/win32/ntstatus-h/status_ft_missing_member/",
+  "message": "An attempt was made to explicitly access the secondary copy of information via a device control to the Fault Tolerance driver and the secondary copy is not present in the system.",
+  "remarks": null,
+  "aka": [
+    "-1073741473"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_ft_missing_member/-1073741473/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

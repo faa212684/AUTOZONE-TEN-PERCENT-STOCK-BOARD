@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_cluster_owner_not_in_preflist\5082\index.html.json
+
+title: 5082 ERROR_CLUSTER_OWNER_NOT_IN_PREFLIST in winerror.h
+description: You cannot bring the group online because the owner of the group is not in the preferred list for the group. To change the owner node for the group, move the group.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "5082",
+  "codeUrl": "/win32/winerror-h/error_cluster_owner_not_in_preflist/5082/",
+  "numericCode": 5082,
+  "define": "ERROR_CLUSTER_OWNER_NOT_IN_PREFLIST",
+  "defineUrl": "/win32/winerror-h/error_cluster_owner_not_in_preflist/",
+  "message": "You cannot bring the group online because the owner of the group is not in the preferred list for the group. To change the owner node for the group, move the group.",
+  "remarks": null,
+  "aka": [
+    "0x800713da",
+    "-2147019814"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_cluster_owner_not_in_preflist/0x800713da/",
+    "/win32/winerror-h/error_cluster_owner_not_in_preflist/-2147019814/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

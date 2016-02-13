@@ -1,0 +1,25 @@
+---
+output: win32\ntstatus-h\status_link_timeout\-1073741505\index.html.json
+canonical: /win32/ntstatus-h/status_link_timeout/0xc000013f/
+title: -1073741505 STATUS_LINK_TIMEOUT in ntstatus.h
+description: "{Virtual Circuit Closed}
+The network transport on your computer has closed a network connection because it had to wait too long for a response from the remote computer."
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741505",
+  "codeUrl": "/win32/ntstatus-h/status_link_timeout/-1073741505/",
+  "numericCode": 0,
+  "define": "STATUS_LINK_TIMEOUT",
+  "defineUrl": "/win32/ntstatus-h/status_link_timeout/",
+  "message": "{Virtual Circuit Closed}\r\nThe network transport on your computer has closed a network connection because it had to wait too long for a response from the remote computer.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC000013F",
+  "originalCodeUrl": "/win32/ntstatus-h/status_link_timeout/0xc000013f/"
+}

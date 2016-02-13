@@ -1,0 +1,29 @@
+---
+output: win32\wsmerror-h\error_wsman_uri_security_uri\0x803381af\index.html.json
+
+title: 0x803381AF ERROR_WSMAN_URI_SECURITY_URI in wsmerror.h
+description: The WS-Management service cannot process the configuration settings.
+A Security element contains a URI that does not match its parent Resource element.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x803381AF",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_uri_security_uri/0x803381af/",
+  "numericCode": -2144108113,
+  "define": "ERROR_WSMAN_URI_SECURITY_URI",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_uri_security_uri/",
+  "message": "The WS-Management service cannot process the configuration settings.\r\nA Security element contains a URI that does not match its parent Resource element.",
+  "remarks": null,
+  "aka": [
+    "-2144108113"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_uri_security_uri/-2144108113/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

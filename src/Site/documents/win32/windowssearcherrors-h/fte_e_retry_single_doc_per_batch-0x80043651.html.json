@@ -1,0 +1,28 @@
+---
+output: win32\windowssearcherrors-h\fte_e_retry_single_doc_per_batch\0x80043651\index.html.json
+
+title: 0x80043651 FTE_E_RETRY_SINGLE_DOC_PER_BATCH in WindowsSearchErrors.h
+description: msftesql should reprocess this document in an isolated fashion to confirm the error.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "0x80043651",
+  "codeUrl": "/win32/windowssearcherrors-h/fte_e_retry_single_doc_per_batch/0x80043651/",
+  "numericCode": -2147207599,
+  "define": "FTE_E_RETRY_SINGLE_DOC_PER_BATCH",
+  "defineUrl": "/win32/windowssearcherrors-h/fte_e_retry_single_doc_per_batch/",
+  "message": "msftesql should reprocess this document in an isolated fashion to confirm the error.",
+  "remarks": null,
+  "aka": [
+    "-2147207599"
+  ],
+  "akaUrl": [
+    "/win32/windowssearcherrors-h/fte_e_retry_single_doc_per_batch/-2147207599/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

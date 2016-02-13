@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_cluster_csv_redirected\-1072496606\index.html.json
+canonical: /win32/ntstatus-h/status_cluster_csv_redirected/0xc0130022/
+title: -1072496606 STATUS_CLUSTER_CSV_REDIRECTED in ntstatus.h
+description: The operation has failed. CSVFS does not allow block i/o in redirected mode.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1072496606",
+  "codeUrl": "/win32/ntstatus-h/status_cluster_csv_redirected/-1072496606/",
+  "numericCode": 0,
+  "define": "STATUS_CLUSTER_CSV_REDIRECTED",
+  "defineUrl": "/win32/ntstatus-h/status_cluster_csv_redirected/",
+  "message": "The operation has failed. CSVFS does not allow block i/o in redirected mode.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0130022",
+  "originalCodeUrl": "/win32/ntstatus-h/status_cluster_csv_redirected/0xc0130022/"
+}

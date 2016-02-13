@@ -1,0 +1,30 @@
+---
+output: win32\wsmerror-h\error_wsman_network_timedout\0x80338126\index.html.json
+
+title: 0x80338126 ERROR_WSMAN_NETWORK_TIMEDOUT in wsmerror.h
+description: WinRM cannot complete the operation.
+Verify that the specified computer name is valid, that the computer is accessible over the network, and that a firewall exception for the WinRM service is enabled and allows access from this computer.
+By default, the WinRM firewall exception for public profiles limits access to remote computers within the same local subnet.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x80338126",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_network_timedout/0x80338126/",
+  "numericCode": -2144108250,
+  "define": "ERROR_WSMAN_NETWORK_TIMEDOUT",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_network_timedout/",
+  "message": "WinRM cannot complete the operation.\r\nVerify that the specified computer name is valid, that the computer is accessible over the network, and that a firewall exception for the WinRM service is enabled and allows access from this computer.\r\nBy default, the WinRM firewall exception for public profiles limits access to remote computers within the same local subnet.",
+  "remarks": null,
+  "aka": [
+    "-2144108250"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_network_timedout/-2144108250/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

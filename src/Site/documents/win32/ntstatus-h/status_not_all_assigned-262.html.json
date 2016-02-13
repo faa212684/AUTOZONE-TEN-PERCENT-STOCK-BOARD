@@ -1,0 +1,25 @@
+---
+output: win32\ntstatus-h\status_not_all_assigned\262\index.html.json
+canonical: /win32/ntstatus-h/status_not_all_assigned/0x00000106/
+title: 262 STATUS_NOT_ALL_ASSIGNED in ntstatus.h
+description: Indicates not all privileges or groups referenced are assigned to the caller.
+This allows, for example, all privileges to be disabled without having to know exactly which privileges are assigned.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "262",
+  "codeUrl": "/win32/ntstatus-h/status_not_all_assigned/262/",
+  "numericCode": 0,
+  "define": "STATUS_NOT_ALL_ASSIGNED",
+  "defineUrl": "/win32/ntstatus-h/status_not_all_assigned/",
+  "message": "Indicates not all privileges or groups referenced are assigned to the caller.\r\nThis allows, for example, all privileges to be disabled without having to know exactly which privileges are assigned.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x00000106",
+  "originalCodeUrl": "/win32/ntstatus-h/status_not_all_assigned/0x00000106/"
+}

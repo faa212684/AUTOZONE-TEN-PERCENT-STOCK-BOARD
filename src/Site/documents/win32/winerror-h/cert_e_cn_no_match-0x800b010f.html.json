@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\cert_e_cn_no_match\0x800b010f\index.html.json
+
+title: 0x800B010F CERT_E_CN_NO_MATCH in winerror.h
+description: The certificate's CN name does not match the passed value.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800B010F",
+  "codeUrl": "/win32/winerror-h/cert_e_cn_no_match/0x800b010f/",
+  "numericCode": -2146762481,
+  "define": "CERT_E_CN_NO_MATCH",
+  "defineUrl": "/win32/winerror-h/cert_e_cn_no_match/",
+  "message": "The certificate's CN name does not match the passed value.",
+  "remarks": null,
+  "aka": [
+    "-2146762481"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/cert_e_cn_no_match/-2146762481/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

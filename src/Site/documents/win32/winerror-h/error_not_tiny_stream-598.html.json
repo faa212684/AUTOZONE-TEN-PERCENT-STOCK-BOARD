@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_not_tiny_stream\598\index.html.json
+
+title: 598 ERROR_NOT_TINY_STREAM in winerror.h
+description: The stream is not a tiny stream.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "598",
+  "codeUrl": "/win32/winerror-h/error_not_tiny_stream/598/",
+  "numericCode": 598,
+  "define": "ERROR_NOT_TINY_STREAM",
+  "defineUrl": "/win32/winerror-h/error_not_tiny_stream/",
+  "message": "The stream is not a tiny stream.",
+  "remarks": null,
+  "aka": [
+    "0x80070256",
+    "-2147024298"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_not_tiny_stream/0x80070256/",
+    "/win32/winerror-h/error_not_tiny_stream/-2147024298/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

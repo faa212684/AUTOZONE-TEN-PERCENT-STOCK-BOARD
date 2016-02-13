@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\sec_e_too_many_principals\0x8009033b\index.html.json
+
+title: 0x8009033B SEC_E_TOO_MANY_PRINCIPALS in winerror.h
+description: The KDC reply contained more than one principal name.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8009033B",
+  "codeUrl": "/win32/winerror-h/sec_e_too_many_principals/0x8009033b/",
+  "numericCode": -2146892997,
+  "define": "SEC_E_TOO_MANY_PRINCIPALS",
+  "defineUrl": "/win32/winerror-h/sec_e_too_many_principals/",
+  "message": "The KDC reply contained more than one principal name.",
+  "remarks": null,
+  "aka": [
+    "-2146892997"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/sec_e_too_many_principals/-2146892997/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_sxs_incorrect_public_key_token\0x8007370f\index.html.json
+canonical: /win32/winerror-h/error_sxs_incorrect_public_key_token/14095/
+title: 0x8007370f ERROR_SXS_INCORRECT_PUBLIC_KEY_TOKEN in winerror.h
+description: The public key token does not correspond to the public key specified.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007370f",
+  "codeUrl": "/win32/winerror-h/error_sxs_incorrect_public_key_token/0x8007370f/",
+  "numericCode": 0,
+  "define": "ERROR_SXS_INCORRECT_PUBLIC_KEY_TOKEN",
+  "defineUrl": "/win32/winerror-h/error_sxs_incorrect_public_key_token/",
+  "message": "The public key token does not correspond to the public key specified.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "14095",
+  "originalCodeUrl": "/win32/winerror-h/error_sxs_incorrect_public_key_token/14095/"
+}

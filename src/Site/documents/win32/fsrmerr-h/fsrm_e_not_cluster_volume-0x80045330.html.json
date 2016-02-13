@@ -1,0 +1,28 @@
+---
+output: win32\fsrmerr-h\fsrm_e_not_cluster_volume\0x80045330\index.html.json
+
+title: 0x80045330 FSRM_E_NOT_CLUSTER_VOLUME in fsrmerr.h
+description: The volume does not reside on a cluster shared disk with an associated cluster resource.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "fsrmerr.h",
+  "sourceUrl": "/win32/fsrmerr-h/",
+  "code": "0x80045330",
+  "codeUrl": "/win32/fsrmerr-h/fsrm_e_not_cluster_volume/0x80045330/",
+  "numericCode": -2147200208,
+  "define": "FSRM_E_NOT_CLUSTER_VOLUME",
+  "defineUrl": "/win32/fsrmerr-h/fsrm_e_not_cluster_volume/",
+  "message": "The volume does not reside on a cluster shared disk with an associated cluster resource.",
+  "remarks": null,
+  "aka": [
+    "-2147200208"
+  ],
+  "akaUrl": [
+    "/win32/fsrmerr-h/fsrm_e_not_cluster_volume/-2147200208/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

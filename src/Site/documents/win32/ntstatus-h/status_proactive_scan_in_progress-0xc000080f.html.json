@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_proactive_scan_in_progress\0xc000080f\index.html.json
+
+title: 0xC000080F STATUS_PROACTIVE_SCAN_IN_PROGRESS in ntstatus.h
+description: The operation could not be completed because an instance of Proactive Scanner is currently running.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000080F",
+  "codeUrl": "/win32/ntstatus-h/status_proactive_scan_in_progress/0xc000080f/",
+  "numericCode": -1073739761,
+  "define": "STATUS_PROACTIVE_SCAN_IN_PROGRESS",
+  "defineUrl": "/win32/ntstatus-h/status_proactive_scan_in_progress/",
+  "message": "The operation could not be completed because an instance of Proactive Scanner is currently running.",
+  "remarks": null,
+  "aka": [
+    "-1073739761"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_proactive_scan_in_progress/-1073739761/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

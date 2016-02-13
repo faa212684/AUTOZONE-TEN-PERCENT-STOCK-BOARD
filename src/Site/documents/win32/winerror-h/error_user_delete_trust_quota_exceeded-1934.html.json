@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_user_delete_trust_quota_exceeded\1934\index.html.json
+
+title: 1934 ERROR_USER_DELETE_TRUST_QUOTA_EXCEEDED in winerror.h
+description: The current user's delegated trust deletion quota has been exceeded.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1934",
+  "codeUrl": "/win32/winerror-h/error_user_delete_trust_quota_exceeded/1934/",
+  "numericCode": 1934,
+  "define": "ERROR_USER_DELETE_TRUST_QUOTA_EXCEEDED",
+  "defineUrl": "/win32/winerror-h/error_user_delete_trust_quota_exceeded/",
+  "message": "The current user's delegated trust deletion quota has been exceeded.",
+  "remarks": null,
+  "aka": [
+    "0x8007078e",
+    "-2147022962"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_user_delete_trust_quota_exceeded/0x8007078e/",
+    "/win32/winerror-h/error_user_delete_trust_quota_exceeded/-2147022962/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

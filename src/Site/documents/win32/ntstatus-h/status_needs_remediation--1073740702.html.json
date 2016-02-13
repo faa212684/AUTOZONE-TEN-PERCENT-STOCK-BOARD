@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_needs_remediation\-1073740702\index.html.json
+canonical: /win32/ntstatus-h/status_needs_remediation/0xc0000462/
+title: -1073740702 STATUS_NEEDS_REMEDIATION in ntstatus.h
+description: The application cannot be started. Try reinstalling the application to fix the problem.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073740702",
+  "codeUrl": "/win32/ntstatus-h/status_needs_remediation/-1073740702/",
+  "numericCode": 0,
+  "define": "STATUS_NEEDS_REMEDIATION",
+  "defineUrl": "/win32/ntstatus-h/status_needs_remediation/",
+  "message": "The application cannot be started. Try reinstalling the application to fix the problem.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000462",
+  "originalCodeUrl": "/win32/ntstatus-h/status_needs_remediation/0xc0000462/"
+}

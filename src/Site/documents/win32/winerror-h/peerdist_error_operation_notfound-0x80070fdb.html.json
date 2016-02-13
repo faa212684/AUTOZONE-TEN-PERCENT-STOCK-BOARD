@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\peerdist_error_operation_notfound\0x80070fdb\index.html.json
+canonical: /win32/winerror-h/peerdist_error_operation_notfound/4059/
+title: 0x80070fdb PEERDIST_ERROR_OPERATION_NOTFOUND in winerror.h
+description: Can not cancel the requested operation as it has already been completed.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80070fdb",
+  "codeUrl": "/win32/winerror-h/peerdist_error_operation_notfound/0x80070fdb/",
+  "numericCode": 0,
+  "define": "PEERDIST_ERROR_OPERATION_NOTFOUND",
+  "defineUrl": "/win32/winerror-h/peerdist_error_operation_notfound/",
+  "message": "Can not cancel the requested operation as it has already been completed.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "4059",
+  "originalCodeUrl": "/win32/winerror-h/peerdist_error_operation_notfound/4059/"
+}

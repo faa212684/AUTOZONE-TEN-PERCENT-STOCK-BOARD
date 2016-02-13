@@ -1,0 +1,30 @@
+---
+output: win32\ntiologc-h\io_lost_delayed_write_network_disconnected\0x8004008b\index.html.json
+
+title: 0x8004008B IO_LOST_DELAYED_WRITE_NETWORK_DISCONNECTED in ntiologc.h
+description: "{Delayed Write Failed}
+Windows was unable to save all the data for the file %2; the data has been lost.
+This error may be caused by network connectivity issues. Please try to save this file elsewhere."
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntiologc.h",
+  "sourceUrl": "/win32/ntiologc-h/",
+  "code": "0x8004008B",
+  "codeUrl": "/win32/ntiologc-h/io_lost_delayed_write_network_disconnected/0x8004008b/",
+  "numericCode": -2147221365,
+  "define": "IO_LOST_DELAYED_WRITE_NETWORK_DISCONNECTED",
+  "defineUrl": "/win32/ntiologc-h/io_lost_delayed_write_network_disconnected/",
+  "message": "{Delayed Write Failed}\r\nWindows was unable to save all the data for the file %2; the data has been lost.\r\nThis error may be caused by network connectivity issues. Please try to save this file elsewhere.",
+  "remarks": null,
+  "aka": [
+    "-2147221365"
+  ],
+  "akaUrl": [
+    "/win32/ntiologc-h/io_lost_delayed_write_network_disconnected/-2147221365/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

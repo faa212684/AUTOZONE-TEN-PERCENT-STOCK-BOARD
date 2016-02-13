@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\d2derr_too_many_shader_elements\0x8899000d\index.html.json
+
+title: 0x8899000D D2DERR_TOO_MANY_SHADER_ELEMENTS in winerror.h
+description: Shader construction failed because it was too complex.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8899000D",
+  "codeUrl": "/win32/winerror-h/d2derr_too_many_shader_elements/0x8899000d/",
+  "numericCode": -2003238899,
+  "define": "D2DERR_TOO_MANY_SHADER_ELEMENTS",
+  "defineUrl": "/win32/winerror-h/d2derr_too_many_shader_elements/",
+  "message": "Shader construction failed because it was too complex.",
+  "remarks": null,
+  "aka": [
+    "-2003238899"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/d2derr_too_many_shader_elements/-2003238899/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

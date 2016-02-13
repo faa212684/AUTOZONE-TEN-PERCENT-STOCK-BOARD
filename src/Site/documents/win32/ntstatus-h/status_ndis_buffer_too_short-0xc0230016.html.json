@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_ndis_buffer_too_short\0xc0230016\index.html.json
+
+title: 0xC0230016 STATUS_NDIS_BUFFER_TOO_SHORT in ntstatus.h
+description: The length of buffer submitted for this operation is too small.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0230016",
+  "codeUrl": "/win32/ntstatus-h/status_ndis_buffer_too_short/0xc0230016/",
+  "numericCode": -1071448042,
+  "define": "STATUS_NDIS_BUFFER_TOO_SHORT",
+  "defineUrl": "/win32/ntstatus-h/status_ndis_buffer_too_short/",
+  "message": "The length of buffer submitted for this operation is too small.",
+  "remarks": null,
+  "aka": [
+    "-1071448042"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_ndis_buffer_too_short/-1071448042/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

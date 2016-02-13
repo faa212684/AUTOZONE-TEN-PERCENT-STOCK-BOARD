@@ -1,0 +1,28 @@
+---
+output: bugcheck\bugcodes-h\spin_lock_init_failure\0x00000081\index.html.json
+
+title: 0x00000081 SPIN_LOCK_INIT_FAILURE in bugcodes.h
+description: SPIN_LOCK_INIT_FAILURE
+disqus: true
+---
+{
+  "area": "bugcheck",
+  "areaUrl": "/bugcheck/",
+  "source": "bugcodes.h",
+  "sourceUrl": "/bugcheck/bugcodes-h/",
+  "code": "0x00000081",
+  "codeUrl": "/bugcheck/bugcodes-h/spin_lock_init_failure/0x00000081/",
+  "numericCode": 129,
+  "define": "SPIN_LOCK_INIT_FAILURE",
+  "defineUrl": "/bugcheck/bugcodes-h/spin_lock_init_failure/",
+  "message": "SPIN_LOCK_INIT_FAILURE",
+  "remarks": null,
+  "aka": [
+    "129"
+  ],
+  "akaUrl": [
+    "/bugcheck/bugcodes-h/spin_lock_init_failure/129/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

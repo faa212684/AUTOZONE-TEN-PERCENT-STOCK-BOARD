@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_domain_limit_exceeded\-1073741599\index.html.json
+canonical: /win32/ntstatus-h/status_domain_limit_exceeded/0xc00000e1/
+title: -1073741599 STATUS_DOMAIN_LIMIT_EXCEEDED in ntstatus.h
+description: An attempt was made to exceed the limit on the number of domains per server for this release.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741599",
+  "codeUrl": "/win32/ntstatus-h/status_domain_limit_exceeded/-1073741599/",
+  "numericCode": 0,
+  "define": "STATUS_DOMAIN_LIMIT_EXCEEDED",
+  "defineUrl": "/win32/ntstatus-h/status_domain_limit_exceeded/",
+  "message": "An attempt was made to exceed the limit on the number of domains per server for this release.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC00000E1",
+  "originalCodeUrl": "/win32/ntstatus-h/status_domain_limit_exceeded/0xc00000e1/"
+}

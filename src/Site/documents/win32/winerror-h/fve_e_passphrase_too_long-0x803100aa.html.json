@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\fve_e_passphrase_too_long\0x803100aa\index.html.json
+
+title: 0x803100AA FVE_E_PASSPHRASE_TOO_LONG in winerror.h
+description: The password cannot exceed 256 characters.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x803100AA",
+  "codeUrl": "/win32/winerror-h/fve_e_passphrase_too_long/0x803100aa/",
+  "numericCode": -2144272214,
+  "define": "FVE_E_PASSPHRASE_TOO_LONG",
+  "defineUrl": "/win32/winerror-h/fve_e_passphrase_too_long/",
+  "message": "The password cannot exceed 256 characters.",
+  "remarks": null,
+  "aka": [
+    "-2144272214"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/fve_e_passphrase_too_long/-2144272214/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

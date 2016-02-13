@@ -1,0 +1,29 @@
+---
+output: win32\netevent-h\event_rpcss_runas_createprocess_failure\0xc0002711\index.html.json
+
+title: 0xC0002711 EVENT_RPCSS_RUNAS_CREATEPROCESS_FAILURE in netevent.h
+description: Unable to start a DCOM Server: %3 as %4/%5.
+The error:%n"%%%2"%nHappened while starting this command:%n%1
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC0002711",
+  "codeUrl": "/win32/netevent-h/event_rpcss_runas_createprocess_failure/0xc0002711/",
+  "numericCode": -1073731823,
+  "define": "EVENT_RPCSS_RUNAS_CREATEPROCESS_FAILURE",
+  "defineUrl": "/win32/netevent-h/event_rpcss_runas_createprocess_failure/",
+  "message": "Unable to start a DCOM Server: %3 as %4/%5.\r\nThe error:%n\"%%%2\"%nHappened while starting this command:%n%1",
+  "remarks": null,
+  "aka": [
+    "-1073731823"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_rpcss_runas_createprocess_failure/-1073731823/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

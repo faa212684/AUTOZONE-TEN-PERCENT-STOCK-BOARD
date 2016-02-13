@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ipsec_key_module_impersonation_negotiation_pending\13901\index.html.json
+
+title: 13901 ERROR_IPSEC_KEY_MODULE_IMPERSONATION_NEGOTIATION_PENDING in winerror.h
+description: A negotiation running as the security principle who issued the connection is in progress
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "13901",
+  "codeUrl": "/win32/winerror-h/error_ipsec_key_module_impersonation_negotiation_pending/13901/",
+  "numericCode": 13901,
+  "define": "ERROR_IPSEC_KEY_MODULE_IMPERSONATION_NEGOTIATION_PENDING",
+  "defineUrl": "/win32/winerror-h/error_ipsec_key_module_impersonation_negotiation_pending/",
+  "message": "A negotiation running as the security principle who issued the connection is in progress",
+  "remarks": null,
+  "aka": [
+    "0x8007364d",
+    "-2147010995"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ipsec_key_module_impersonation_negotiation_pending/0x8007364d/",
+    "/win32/winerror-h/error_ipsec_key_module_impersonation_negotiation_pending/-2147010995/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_vid_partition_name_too_long\-1070137338\index.html.json
+canonical: /win32/ntstatus-h/status_vid_partition_name_too_long/0xc0370006/
+title: -1070137338 STATUS_VID_PARTITION_NAME_TOO_LONG in ntstatus.h
+description: The partition name of the virtualization infrastructure driver exceeds the maximum.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1070137338",
+  "codeUrl": "/win32/ntstatus-h/status_vid_partition_name_too_long/-1070137338/",
+  "numericCode": 0,
+  "define": "STATUS_VID_PARTITION_NAME_TOO_LONG",
+  "defineUrl": "/win32/ntstatus-h/status_vid_partition_name_too_long/",
+  "message": "The partition name of the virtualization infrastructure driver exceeds the maximum.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0370006",
+  "originalCodeUrl": "/win32/ntstatus-h/status_vid_partition_name_too_long/0xc0370006/"
+}

@@ -1,0 +1,31 @@
+---
+output: win32\wsmerror-h\error_wsman_server_not_trusted\0x803380e4\index.html.json
+
+title: 0x803380E4 ERROR_WSMAN_SERVER_NOT_TRUSTED in wsmerror.h
+description: The WinRM client cannot process the request. If the authentication scheme is different from Kerberos, or if the client computer is not joined to a domain,
+then HTTPS transport must be used or the destination machine must be added to the TrustedHosts configuration setting.
+Use winrm.cmd to configure TrustedHosts. Note that computers in the TrustedHosts list might not be authenticated.
+You can get more information about that by running the following command: winrm help config.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x803380E4",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_server_not_trusted/0x803380e4/",
+  "numericCode": -2144108316,
+  "define": "ERROR_WSMAN_SERVER_NOT_TRUSTED",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_server_not_trusted/",
+  "message": "The WinRM client cannot process the request. If the authentication scheme is different from Kerberos, or if the client computer is not joined to a domain,\r\nthen HTTPS transport must be used or the destination machine must be added to the TrustedHosts configuration setting.\r\nUse winrm.cmd to configure TrustedHosts. Note that computers in the TrustedHosts list might not be authenticated.\r\nYou can get more information about that by running the following command: winrm help config.",
+  "remarks": null,
+  "aka": [
+    "-2144108316"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_server_not_trusted/-2144108316/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

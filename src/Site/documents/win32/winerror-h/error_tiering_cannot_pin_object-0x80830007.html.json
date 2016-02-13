@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\error_tiering_cannot_pin_object\0x80830007\index.html.json
+
+title: 0x80830007 ERROR_TIERING_CANNOT_PIN_OBJECT in winerror.h
+description: The requested object type cannot be assigned to a storage tier.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80830007",
+  "codeUrl": "/win32/winerror-h/error_tiering_cannot_pin_object/0x80830007/",
+  "numericCode": -2138898425,
+  "define": "ERROR_TIERING_CANNOT_PIN_OBJECT",
+  "defineUrl": "/win32/winerror-h/error_tiering_cannot_pin_object/",
+  "message": "The requested object type cannot be assigned to a storage tier.",
+  "remarks": null,
+  "aka": [
+    "-2138898425"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_tiering_cannot_pin_object/-2138898425/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

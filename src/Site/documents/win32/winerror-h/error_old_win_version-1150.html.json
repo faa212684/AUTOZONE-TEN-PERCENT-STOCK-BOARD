@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_old_win_version\1150\index.html.json
+
+title: 1150 ERROR_OLD_WIN_VERSION in winerror.h
+description: The specified program requires a newer version of Windows.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1150",
+  "codeUrl": "/win32/winerror-h/error_old_win_version/1150/",
+  "numericCode": 1150,
+  "define": "ERROR_OLD_WIN_VERSION",
+  "defineUrl": "/win32/winerror-h/error_old_win_version/",
+  "message": "The specified program requires a newer version of Windows.",
+  "remarks": null,
+  "aka": [
+    "0x8007047e",
+    "-2147023746"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_old_win_version/0x8007047e/",
+    "/win32/winerror-h/error_old_win_version/-2147023746/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

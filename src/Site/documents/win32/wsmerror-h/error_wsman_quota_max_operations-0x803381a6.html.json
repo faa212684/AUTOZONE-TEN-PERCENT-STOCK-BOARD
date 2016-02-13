@@ -1,0 +1,30 @@
+---
+output: win32\wsmerror-h\error_wsman_quota_max_operations\0x803381a6\index.html.json
+
+title: 0x803381A6 ERROR_WSMAN_QUOTA_MAX_OPERATIONS in wsmerror.h
+description: The WS-Management service cannot process the request.
+The maximum number of concurrent operations for this user has been exceeded.
+Close existing operations for this user, or raise the quota for this user.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x803381A6",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_quota_max_operations/0x803381a6/",
+  "numericCode": -2144108122,
+  "define": "ERROR_WSMAN_QUOTA_MAX_OPERATIONS",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_quota_max_operations/",
+  "message": "The WS-Management service cannot process the request.\r\nThe maximum number of concurrent operations for this user has been exceeded.\r\nClose existing operations for this user, or raise the quota for this user.",
+  "remarks": null,
+  "aka": [
+    "-2144108122"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_quota_max_operations/-2144108122/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

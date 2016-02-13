@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_forms_auth_required\0xc0000905\index.html.json
+
+title: 0xC0000905 STATUS_FORMS_AUTH_REQUIRED in ntstatus.h
+description: Access Denied. Before opening files in this location, you must first browse to the web site and select the option to login automatically.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000905",
+  "codeUrl": "/win32/ntstatus-h/status_forms_auth_required/0xc0000905/",
+  "numericCode": -1073739515,
+  "define": "STATUS_FORMS_AUTH_REQUIRED",
+  "defineUrl": "/win32/ntstatus-h/status_forms_auth_required/",
+  "message": "Access Denied. Before opening files in this location, you must first browse to the web site and select the option to login automatically.",
+  "remarks": null,
+  "aka": [
+    "-1073739515"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_forms_auth_required/-1073739515/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

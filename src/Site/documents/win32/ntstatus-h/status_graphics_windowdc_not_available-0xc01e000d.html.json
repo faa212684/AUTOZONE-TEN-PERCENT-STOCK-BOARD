@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_graphics_windowdc_not_available\0xc01e000d\index.html.json
+
+title: 0xC01E000D STATUS_GRAPHICS_WINDOWDC_NOT_AVAILABLE in ntstatus.h
+description: Window DC is not available for presentation
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC01E000D",
+  "codeUrl": "/win32/ntstatus-h/status_graphics_windowdc_not_available/0xc01e000d/",
+  "numericCode": -1071775731,
+  "define": "STATUS_GRAPHICS_WINDOWDC_NOT_AVAILABLE",
+  "defineUrl": "/win32/ntstatus-h/status_graphics_windowdc_not_available/",
+  "message": "Window DC is not available for presentation",
+  "remarks": null,
+  "aka": [
+    "-1071775731"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_graphics_windowdc_not_available/-1071775731/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

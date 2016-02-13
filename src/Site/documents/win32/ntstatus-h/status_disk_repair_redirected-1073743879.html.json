@@ -1,0 +1,25 @@
+---
+output: win32\ntstatus-h\status_disk_repair_redirected\1073743879\index.html.json
+canonical: /win32/ntstatus-h/status_disk_repair_redirected/0x40000807/
+title: 1073743879 STATUS_DISK_REPAIR_REDIRECTED in ntstatus.h
+description: The volume repair could not be performed while it is online.
+Please schedule to take the volume offline so that it can be repaired.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "1073743879",
+  "codeUrl": "/win32/ntstatus-h/status_disk_repair_redirected/1073743879/",
+  "numericCode": 0,
+  "define": "STATUS_DISK_REPAIR_REDIRECTED",
+  "defineUrl": "/win32/ntstatus-h/status_disk_repair_redirected/",
+  "message": "The volume repair could not be performed while it is online.\r\nPlease schedule to take the volume offline so that it can be repaired.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x40000807",
+  "originalCodeUrl": "/win32/ntstatus-h/status_disk_repair_redirected/0x40000807/"
+}

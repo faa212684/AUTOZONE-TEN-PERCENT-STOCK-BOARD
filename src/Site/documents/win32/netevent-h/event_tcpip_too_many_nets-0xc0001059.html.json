@@ -1,0 +1,29 @@
+---
+output: win32\netevent-h\event_tcpip_too_many_nets\0xc0001059\index.html.json
+
+title: 0xC0001059 EVENT_TCPIP_TOO_MANY_NETS in netevent.h
+description: IP has been bound to more than the maximum number of supported interfaces.
+Some interfaces on network adapter %2 will not be initialized.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC0001059",
+  "codeUrl": "/win32/netevent-h/event_tcpip_too_many_nets/0xc0001059/",
+  "numericCode": -1073737639,
+  "define": "EVENT_TCPIP_TOO_MANY_NETS",
+  "defineUrl": "/win32/netevent-h/event_tcpip_too_many_nets/",
+  "message": "IP has been bound to more than the maximum number of supported interfaces.\r\nSome interfaces on network adapter %2 will not be initialized.",
+  "remarks": null,
+  "aka": [
+    "-1073737639"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_tcpip_too_many_nets/-1073737639/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

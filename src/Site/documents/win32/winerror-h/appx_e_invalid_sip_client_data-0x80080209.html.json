@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\appx_e_invalid_sip_client_data\0x80080209\index.html.json
+
+title: 0x80080209 APPX_E_INVALID_SIP_CLIENT_DATA in winerror.h
+description: The SIP_SUBJECTINFO structure used to sign the package didn't contain the required data.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80080209",
+  "codeUrl": "/win32/winerror-h/appx_e_invalid_sip_client_data/0x80080209/",
+  "numericCode": -2146958839,
+  "define": "APPX_E_INVALID_SIP_CLIENT_DATA",
+  "defineUrl": "/win32/winerror-h/appx_e_invalid_sip_client_data/",
+  "message": "The SIP_SUBJECTINFO structure used to sign the package didn't contain the required data.",
+  "remarks": null,
+  "aka": [
+    "-2146958839"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/appx_e_invalid_sip_client_data/-2146958839/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

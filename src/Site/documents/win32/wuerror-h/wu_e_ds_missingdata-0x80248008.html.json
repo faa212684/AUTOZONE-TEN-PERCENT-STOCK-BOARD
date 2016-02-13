@@ -1,0 +1,28 @@
+---
+output: win32\wuerror-h\wu_e_ds_missingdata\0x80248008\index.html.json
+
+title: 0x80248008 WU_E_DS_MISSINGDATA in wuerror.h
+description: The data store is missing required information or has a NULL in a table column that requires a non-null value.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wuerror.h",
+  "sourceUrl": "/win32/wuerror-h/",
+  "code": "0x80248008",
+  "codeUrl": "/win32/wuerror-h/wu_e_ds_missingdata/0x80248008/",
+  "numericCode": -2145091576,
+  "define": "WU_E_DS_MISSINGDATA",
+  "defineUrl": "/win32/wuerror-h/wu_e_ds_missingdata/",
+  "message": "The data store is missing required information or has a NULL in a table column that requires a non-null value.",
+  "remarks": null,
+  "aka": [
+    "-2145091576"
+  ],
+  "akaUrl": [
+    "/win32/wuerror-h/wu_e_ds_missingdata/-2145091576/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

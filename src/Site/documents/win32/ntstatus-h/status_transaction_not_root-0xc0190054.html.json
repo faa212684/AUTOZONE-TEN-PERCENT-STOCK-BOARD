@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_transaction_not_root\0xc0190054\index.html.json
+
+title: 0xC0190054 STATUS_TRANSACTION_NOT_ROOT in ntstatus.h
+description: The call to create a superior Enlistment on this Transaction object could not be completed, because the Transaction object specified for the enlistment is a subordinate branch of the Transaction. Only the root of the Transaction can be enlisted on as a superior.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0190054",
+  "codeUrl": "/win32/ntstatus-h/status_transaction_not_root/0xc0190054/",
+  "numericCode": -1072103340,
+  "define": "STATUS_TRANSACTION_NOT_ROOT",
+  "defineUrl": "/win32/ntstatus-h/status_transaction_not_root/",
+  "message": "The call to create a superior Enlistment on this Transaction object could not be completed, because the Transaction object specified for the enlistment is a subordinate branch of the Transaction. Only the root of the Transaction can be enlisted on as a superior.",
+  "remarks": null,
+  "aka": [
+    "-1072103340"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_transaction_not_root/-1072103340/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\frs_err_sysvol_populate\0x80071f4d\index.html.json
+canonical: /win32/winerror-h/frs_err_sysvol_populate/8013/
+title: 0x80071f4d FRS_ERR_SYSVOL_POPULATE in winerror.h
+description: The file replication service cannot populate the system volume because of an internal error. The event log may have more information.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80071f4d",
+  "codeUrl": "/win32/winerror-h/frs_err_sysvol_populate/0x80071f4d/",
+  "numericCode": 0,
+  "define": "FRS_ERR_SYSVOL_POPULATE",
+  "defineUrl": "/win32/winerror-h/frs_err_sysvol_populate/",
+  "message": "The file replication service cannot populate the system volume because of an internal error. The event log may have more information.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "8013",
+  "originalCodeUrl": "/win32/winerror-h/frs_err_sysvol_populate/8013/"
+}

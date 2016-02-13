@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\certsrv_e_bad_renewal_cert_attribute\0x8009400e\index.html.json
+
+title: 0x8009400E CERTSRV_E_BAD_RENEWAL_CERT_ATTRIBUTE in winerror.h
+description: The request contains an invalid renewal certificate attribute.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8009400E",
+  "codeUrl": "/win32/winerror-h/certsrv_e_bad_renewal_cert_attribute/0x8009400e/",
+  "numericCode": -2146877426,
+  "define": "CERTSRV_E_BAD_RENEWAL_CERT_ATTRIBUTE",
+  "defineUrl": "/win32/winerror-h/certsrv_e_bad_renewal_cert_attribute/",
+  "message": "The request contains an invalid renewal certificate attribute.",
+  "remarks": null,
+  "aka": [
+    "-2146877426"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/certsrv_e_bad_renewal_cert_attribute/-2146877426/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

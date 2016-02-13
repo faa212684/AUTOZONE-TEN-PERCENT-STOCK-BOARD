@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\tpm_e_bad_counter\0x80280045\index.html.json
+
+title: 0x80280045 TPM_E_BAD_COUNTER in winerror.h
+description: The counter handle is incorrect.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80280045",
+  "codeUrl": "/win32/winerror-h/tpm_e_bad_counter/0x80280045/",
+  "numericCode": -2144862139,
+  "define": "TPM_E_BAD_COUNTER",
+  "defineUrl": "/win32/winerror-h/tpm_e_bad_counter/",
+  "message": "The counter handle is incorrect.",
+  "remarks": null,
+  "aka": [
+    "-2144862139"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/tpm_e_bad_counter/-2144862139/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_e_iscsi_set_ike_info\0x80042906\index.html.json
+
+title: 0x80042906 VDS_E_ISCSI_SET_IKE_INFO in vdserr.h
+description: Call to set the iSCSI IKE info failed.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x80042906",
+  "codeUrl": "/win32/vdserr-h/vds_e_iscsi_set_ike_info/0x80042906/",
+  "numericCode": -2147211002,
+  "define": "VDS_E_ISCSI_SET_IKE_INFO",
+  "defineUrl": "/win32/vdserr-h/vds_e_iscsi_set_ike_info/",
+  "message": "Call to set the iSCSI IKE info failed.",
+  "remarks": null,
+  "aka": [
+    "-2147211002"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_iscsi_set_ike_info/-2147211002/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

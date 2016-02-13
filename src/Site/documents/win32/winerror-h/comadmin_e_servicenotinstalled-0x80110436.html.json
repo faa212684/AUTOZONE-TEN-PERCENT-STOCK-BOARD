@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\comadmin_e_servicenotinstalled\0x80110436\index.html.json
+
+title: 0x80110436 COMADMIN_E_SERVICENOTINSTALLED in winerror.h
+description: The service is not installed
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80110436",
+  "codeUrl": "/win32/winerror-h/comadmin_e_servicenotinstalled/0x80110436/",
+  "numericCode": -2146368458,
+  "define": "COMADMIN_E_SERVICENOTINSTALLED",
+  "defineUrl": "/win32/winerror-h/comadmin_e_servicenotinstalled/",
+  "message": "The service is not installed",
+  "remarks": null,
+  "aka": [
+    "-2146368458"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/comadmin_e_servicenotinstalled/-2146368458/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

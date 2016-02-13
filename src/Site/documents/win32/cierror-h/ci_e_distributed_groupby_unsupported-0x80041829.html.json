@@ -1,0 +1,28 @@
+---
+output: win32\cierror-h\ci_e_distributed_groupby_unsupported\0x80041829\index.html.json
+
+title: 0x80041829 CI_E_DISTRIBUTED_GROUPBY_UNSUPPORTED in CiError.h
+description: Groupby clause is not supported on a distributed query.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "CiError.h",
+  "sourceUrl": "/win32/cierror-h/",
+  "code": "0x80041829",
+  "codeUrl": "/win32/cierror-h/ci_e_distributed_groupby_unsupported/0x80041829/",
+  "numericCode": -2147215319,
+  "define": "CI_E_DISTRIBUTED_GROUPBY_UNSUPPORTED",
+  "defineUrl": "/win32/cierror-h/ci_e_distributed_groupby_unsupported/",
+  "message": "Groupby clause is not supported on a distributed query.",
+  "remarks": null,
+  "aka": [
+    "-2147215319"
+  ],
+  "akaUrl": [
+    "/win32/cierror-h/ci_e_distributed_groupby_unsupported/-2147215319/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

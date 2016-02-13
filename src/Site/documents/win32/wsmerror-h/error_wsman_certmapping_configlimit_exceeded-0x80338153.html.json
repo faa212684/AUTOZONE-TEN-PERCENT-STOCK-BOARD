@@ -1,0 +1,28 @@
+---
+output: win32\wsmerror-h\error_wsman_certmapping_configlimit_exceeded\0x80338153\index.html.json
+
+title: 0x80338153 ERROR_WSMAN_CERTMAPPING_CONFIGLIMIT_EXCEEDED in wsmerror.h
+description: The WINRM certificate mapping configuration store has reached an internal limit and cannot create any more entries. Remove some entries and try again.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x80338153",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_certmapping_configlimit_exceeded/0x80338153/",
+  "numericCode": -2144108205,
+  "define": "ERROR_WSMAN_CERTMAPPING_CONFIGLIMIT_EXCEEDED",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_certmapping_configlimit_exceeded/",
+  "message": "The WINRM certificate mapping configuration store has reached an internal limit and cannot create any more entries. Remove some entries and try again.",
+  "remarks": null,
+  "aka": [
+    "-2144108205"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_certmapping_configlimit_exceeded/-2144108205/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

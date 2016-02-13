@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_cannot_make\0xc00002ea\index.html.json
+
+title: 0xC00002EA STATUS_CANNOT_MAKE in ntstatus.h
+description: The directory or file cannot be created.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC00002EA",
+  "codeUrl": "/win32/ntstatus-h/status_cannot_make/0xc00002ea/",
+  "numericCode": -1073741078,
+  "define": "STATUS_CANNOT_MAKE",
+  "defineUrl": "/win32/ntstatus-h/status_cannot_make/",
+  "message": "The directory or file cannot be created.",
+  "remarks": null,
+  "aka": [
+    "-1073741078"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_cannot_make/-1073741078/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

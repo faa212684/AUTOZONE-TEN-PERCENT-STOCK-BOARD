@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\wsaeopnotsupp\0x8007273d\index.html.json
+canonical: /win32/winerror-h/wsaeopnotsupp/10045/
+title: 0x8007273d WSAEOPNOTSUPP in winerror.h
+description: The attempted operation is not supported for the type of object referenced.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007273d",
+  "codeUrl": "/win32/winerror-h/wsaeopnotsupp/0x8007273d/",
+  "numericCode": 0,
+  "define": "WSAEOPNOTSUPP",
+  "defineUrl": "/win32/winerror-h/wsaeopnotsupp/",
+  "message": "The attempted operation is not supported for the type of object referenced.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "10045",
+  "originalCodeUrl": "/win32/winerror-h/wsaeopnotsupp/10045/"
+}

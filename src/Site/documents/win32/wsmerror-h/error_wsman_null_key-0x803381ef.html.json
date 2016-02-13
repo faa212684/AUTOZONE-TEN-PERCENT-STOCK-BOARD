@@ -1,0 +1,29 @@
+---
+output: win32\wsmerror-h\error_wsman_null_key\0x803381ef\index.html.json
+
+title: 0x803381EF ERROR_WSMAN_NULL_KEY in wsmerror.h
+description: The WinRM client cannot process the request because the target object has a key property set to NULL.
+Incomplete objects cannot be used as the target of an operation.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x803381EF",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_null_key/0x803381ef/",
+  "numericCode": -2144108049,
+  "define": "ERROR_WSMAN_NULL_KEY",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_null_key/",
+  "message": "The WinRM client cannot process the request because the target object has a key property set to NULL.\r\nIncomplete objects cannot be used as the target of an operation.",
+  "remarks": null,
+  "aka": [
+    "-2144108049"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_null_key/-2144108049/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

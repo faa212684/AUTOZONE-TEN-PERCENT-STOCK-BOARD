@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_crypto_system_invalid\0xc00002f3\index.html.json
+
+title: 0xC00002F3 STATUS_CRYPTO_SYSTEM_INVALID in ntstatus.h
+description: The crypto system or checksum function is invalid because a required function is unavailable.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC00002F3",
+  "codeUrl": "/win32/ntstatus-h/status_crypto_system_invalid/0xc00002f3/",
+  "numericCode": -1073741069,
+  "define": "STATUS_CRYPTO_SYSTEM_INVALID",
+  "defineUrl": "/win32/ntstatus-h/status_crypto_system_invalid/",
+  "message": "The crypto system or checksum function is invalid because a required function is unavailable.",
+  "remarks": null,
+  "aka": [
+    "-1073741069"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_crypto_system_invalid/-1073741069/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

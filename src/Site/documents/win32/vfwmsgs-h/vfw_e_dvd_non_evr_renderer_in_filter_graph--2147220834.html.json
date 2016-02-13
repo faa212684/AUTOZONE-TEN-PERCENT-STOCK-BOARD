@@ -1,0 +1,24 @@
+---
+output: win32\vfwmsgs-h\vfw_e_dvd_non_evr_renderer_in_filter_graph\-2147220834\index.html.json
+canonical: /win32/vfwmsgs-h/vfw_e_dvd_non_evr_renderer_in_filter_graph/0x8004029e/
+title: -2147220834 VFW_E_DVD_NON_EVR_RENDERER_IN_FILTER_GRAPH in vfwmsgs.h
+description: AM_DVD_EVR_ONLY cannot be passed to RenderDvdVideoVolume if the graph builder's filter graph contains a renderer which is not the EVR.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vfwmsgs.h",
+  "sourceUrl": "/win32/vfwmsgs-h/",
+  "code": "-2147220834",
+  "codeUrl": "/win32/vfwmsgs-h/vfw_e_dvd_non_evr_renderer_in_filter_graph/-2147220834/",
+  "numericCode": 0,
+  "define": "VFW_E_DVD_NON_EVR_RENDERER_IN_FILTER_GRAPH",
+  "defineUrl": "/win32/vfwmsgs-h/vfw_e_dvd_non_evr_renderer_in_filter_graph/",
+  "message": "AM_DVD_EVR_ONLY cannot be passed to RenderDvdVideoVolume if the graph builder's filter graph contains a renderer which is not the EVR.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x8004029E",
+  "originalCodeUrl": "/win32/vfwmsgs-h/vfw_e_dvd_non_evr_renderer_in_filter_graph/0x8004029e/"
+}

@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_mca_exception\0xc0000713\index.html.json
+
+title: 0xC0000713 STATUS_MCA_EXCEPTION in ntstatus.h
+description: A Thread is getting dispatched with MCA EXCEPTION because of MCA.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000713",
+  "codeUrl": "/win32/ntstatus-h/status_mca_exception/0xc0000713/",
+  "numericCode": -1073740013,
+  "define": "STATUS_MCA_EXCEPTION",
+  "defineUrl": "/win32/ntstatus-h/status_mca_exception/",
+  "message": "A Thread is getting dispatched with MCA EXCEPTION because of MCA.",
+  "remarks": null,
+  "aka": [
+    "-1073740013"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_mca_exception/-1073740013/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

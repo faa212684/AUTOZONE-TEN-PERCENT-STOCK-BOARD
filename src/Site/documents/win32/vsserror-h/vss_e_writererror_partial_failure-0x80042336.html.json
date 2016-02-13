@@ -1,0 +1,28 @@
+---
+output: win32\vsserror-h\vss_e_writererror_partial_failure\0x80042336\index.html.json
+
+title: 0x80042336 VSS_E_WRITERERROR_PARTIAL_FAILURE in vsserror.h
+description: The writer experienced a partial failure. Check the component level error state for more information.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vsserror.h",
+  "sourceUrl": "/win32/vsserror-h/",
+  "code": "0x80042336",
+  "codeUrl": "/win32/vsserror-h/vss_e_writererror_partial_failure/0x80042336/",
+  "numericCode": -2147212490,
+  "define": "VSS_E_WRITERERROR_PARTIAL_FAILURE",
+  "defineUrl": "/win32/vsserror-h/vss_e_writererror_partial_failure/",
+  "message": "The writer experienced a partial failure. Check the component level error state for more information.",
+  "remarks": null,
+  "aka": [
+    "-2147212490"
+  ],
+  "akaUrl": [
+    "/win32/vsserror-h/vss_e_writererror_partial_failure/-2147212490/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

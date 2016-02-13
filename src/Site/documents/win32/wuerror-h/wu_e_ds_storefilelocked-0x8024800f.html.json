@@ -1,0 +1,28 @@
+---
+output: win32\wuerror-h\wu_e_ds_storefilelocked\0x8024800f\index.html.json
+
+title: 0x8024800F WU_E_DS_STOREFILELOCKED in wuerror.h
+description: The data store could not be initialized because it was locked by another process.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wuerror.h",
+  "sourceUrl": "/win32/wuerror-h/",
+  "code": "0x8024800F",
+  "codeUrl": "/win32/wuerror-h/wu_e_ds_storefilelocked/0x8024800f/",
+  "numericCode": -2145091569,
+  "define": "WU_E_DS_STOREFILELOCKED",
+  "defineUrl": "/win32/wuerror-h/wu_e_ds_storefilelocked/",
+  "message": "The data store could not be initialized because it was locked by another process.",
+  "remarks": null,
+  "aka": [
+    "-2145091569"
+  ],
+  "akaUrl": [
+    "/win32/wuerror-h/wu_e_ds_storefilelocked/-2145091569/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

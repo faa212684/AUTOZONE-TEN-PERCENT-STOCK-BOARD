@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_e_invalid_drive_letter_count\0x8004255f\index.html.json
+
+title: 0x8004255F VDS_E_INVALID_DRIVE_LETTER_COUNT in vdserr.h
+description: The specified number of drive letters to retrieve is invalid.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x8004255F",
+  "codeUrl": "/win32/vdserr-h/vds_e_invalid_drive_letter_count/0x8004255f/",
+  "numericCode": -2147211937,
+  "define": "VDS_E_INVALID_DRIVE_LETTER_COUNT",
+  "defineUrl": "/win32/vdserr-h/vds_e_invalid_drive_letter_count/",
+  "message": "The specified number of drive letters to retrieve is invalid.",
+  "remarks": null,
+  "aka": [
+    "-2147211937"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_invalid_drive_letter_count/-2147211937/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\sec_e_kdc_cert_revoked\-2146892965\index.html.json
+canonical: /win32/winerror-h/sec_e_kdc_cert_revoked/0x8009035b/
+title: -2146892965 SEC_E_KDC_CERT_REVOKED in winerror.h
+description: The domain controller certificate used for smartcard logon has been revoked. Please contact your system administrator with the contents of your system event log.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2146892965",
+  "codeUrl": "/win32/winerror-h/sec_e_kdc_cert_revoked/-2146892965/",
+  "numericCode": 0,
+  "define": "SEC_E_KDC_CERT_REVOKED",
+  "defineUrl": "/win32/winerror-h/sec_e_kdc_cert_revoked/",
+  "message": "The domain controller certificate used for smartcard logon has been revoked. Please contact your system administrator with the contents of your system event log.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x8009035B",
+  "originalCodeUrl": "/win32/winerror-h/sec_e_kdc_cert_revoked/0x8009035b/"
+}

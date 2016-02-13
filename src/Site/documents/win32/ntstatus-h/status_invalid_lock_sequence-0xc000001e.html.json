@@ -1,0 +1,29 @@
+---
+output: win32\ntstatus-h\status_invalid_lock_sequence\0xc000001e\index.html.json
+
+title: 0xC000001E STATUS_INVALID_LOCK_SEQUENCE in ntstatus.h
+description: "{Invalid Lock Sequence}
+An attempt was made to execute an invalid lock sequence."
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000001E",
+  "codeUrl": "/win32/ntstatus-h/status_invalid_lock_sequence/0xc000001e/",
+  "numericCode": -1073741794,
+  "define": "STATUS_INVALID_LOCK_SEQUENCE",
+  "defineUrl": "/win32/ntstatus-h/status_invalid_lock_sequence/",
+  "message": "{Invalid Lock Sequence}\r\nAn attempt was made to execute an invalid lock sequence.",
+  "remarks": null,
+  "aka": [
+    "-1073741794"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_invalid_lock_sequence/-1073741794/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

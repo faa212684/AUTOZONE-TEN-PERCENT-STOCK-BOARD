@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_invalid_combobox_message\0x8007058e\index.html.json
+canonical: /win32/winerror-h/error_invalid_combobox_message/1422/
+title: 0x8007058e ERROR_INVALID_COMBOBOX_MESSAGE in winerror.h
+description: Invalid message for a combo box because it does not have an edit control.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007058e",
+  "codeUrl": "/win32/winerror-h/error_invalid_combobox_message/0x8007058e/",
+  "numericCode": 0,
+  "define": "ERROR_INVALID_COMBOBOX_MESSAGE",
+  "defineUrl": "/win32/winerror-h/error_invalid_combobox_message/",
+  "message": "Invalid message for a combo box because it does not have an edit control.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "1422",
+  "originalCodeUrl": "/win32/winerror-h/error_invalid_combobox_message/1422/"
+}

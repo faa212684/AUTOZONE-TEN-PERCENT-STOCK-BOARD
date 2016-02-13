@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_fail_noaction_reboot\0x8007015e\index.html.json
+canonical: /win32/winerror-h/error_fail_noaction_reboot/350/
+title: 0x8007015e ERROR_FAIL_NOACTION_REBOOT in winerror.h
+description: No action was taken as a system reboot is required.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007015e",
+  "codeUrl": "/win32/winerror-h/error_fail_noaction_reboot/0x8007015e/",
+  "numericCode": 0,
+  "define": "ERROR_FAIL_NOACTION_REBOOT",
+  "defineUrl": "/win32/winerror-h/error_fail_noaction_reboot/",
+  "message": "No action was taken as a system reboot is required.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "350",
+  "originalCodeUrl": "/win32/winerror-h/error_fail_noaction_reboot/350/"
+}

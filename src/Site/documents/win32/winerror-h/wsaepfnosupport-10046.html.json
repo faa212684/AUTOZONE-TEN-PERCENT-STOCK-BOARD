@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\wsaepfnosupport\10046\index.html.json
+
+title: 10046 WSAEPFNOSUPPORT in winerror.h
+description: The protocol family has not been configured into the system or no implementation for it exists.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "10046",
+  "codeUrl": "/win32/winerror-h/wsaepfnosupport/10046/",
+  "numericCode": 10046,
+  "define": "WSAEPFNOSUPPORT",
+  "defineUrl": "/win32/winerror-h/wsaepfnosupport/",
+  "message": "The protocol family has not been configured into the system or no implementation for it exists.",
+  "remarks": null,
+  "aka": [
+    "0x8007273e",
+    "-2147014850"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/wsaepfnosupport/0x8007273e/",
+    "/win32/winerror-h/wsaepfnosupport/-2147014850/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

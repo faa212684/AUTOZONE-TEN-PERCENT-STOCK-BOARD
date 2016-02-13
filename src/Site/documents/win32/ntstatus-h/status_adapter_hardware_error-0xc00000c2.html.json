@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_adapter_hardware_error\0xc00000c2\index.html.json
+
+title: 0xC00000C2 STATUS_ADAPTER_HARDWARE_ERROR in ntstatus.h
+description: An I/O adapter hardware error has occurred.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC00000C2",
+  "codeUrl": "/win32/ntstatus-h/status_adapter_hardware_error/0xc00000c2/",
+  "numericCode": -1073741630,
+  "define": "STATUS_ADAPTER_HARDWARE_ERROR",
+  "defineUrl": "/win32/ntstatus-h/status_adapter_hardware_error/",
+  "message": "An I/O adapter hardware error has occurred.",
+  "remarks": null,
+  "aka": [
+    "-1073741630"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_adapter_hardware_error/-1073741630/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

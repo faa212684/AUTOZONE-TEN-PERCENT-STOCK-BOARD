@@ -1,0 +1,29 @@
+---
+output: win32\wsmerror-h\error_service_cbt_hardening_invalid\0x803381b8\index.html.json
+
+title: 0x803381B8 ERROR_SERVICE_CBT_HARDENING_INVALID in wsmerror.h
+description: The WinRM service cannot process the request. The Channel Binding Token Hardening Level (CbtHardeningLevel) value is invalid.
+The valid values are "None", "Relaxed" and "Strict". Change the CbtHardeningLevel value and try again.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x803381B8",
+  "codeUrl": "/win32/wsmerror-h/error_service_cbt_hardening_invalid/0x803381b8/",
+  "numericCode": -2144108104,
+  "define": "ERROR_SERVICE_CBT_HARDENING_INVALID",
+  "defineUrl": "/win32/wsmerror-h/error_service_cbt_hardening_invalid/",
+  "message": "The WinRM service cannot process the request. The Channel Binding Token Hardening Level (CbtHardeningLevel) value is invalid.\r\nThe valid values are \"None\", \"Relaxed\" and \"Strict\". Change the CbtHardeningLevel value and try again.",
+  "remarks": null,
+  "aka": [
+    "-2144108104"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_service_cbt_hardening_invalid/-2144108104/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

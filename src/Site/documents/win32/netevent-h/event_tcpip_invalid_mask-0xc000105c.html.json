@@ -1,0 +1,29 @@
+---
+output: win32\netevent-h\event_tcpip_invalid_mask\0xc000105c\index.html.json
+
+title: 0xC000105C EVENT_TCPIP_INVALID_MASK in netevent.h
+description: An invalid subnet mask %2 was specified for address %3 on network adapter %4.
+This interface cannot be initialized.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC000105C",
+  "codeUrl": "/win32/netevent-h/event_tcpip_invalid_mask/0xc000105c/",
+  "numericCode": -1073737636,
+  "define": "EVENT_TCPIP_INVALID_MASK",
+  "defineUrl": "/win32/netevent-h/event_tcpip_invalid_mask/",
+  "message": "An invalid subnet mask %2 was specified for address %3 on network adapter %4.\r\nThis interface cannot be initialized.",
+  "remarks": null,
+  "aka": [
+    "-1073737636"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_tcpip_invalid_mask/-1073737636/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

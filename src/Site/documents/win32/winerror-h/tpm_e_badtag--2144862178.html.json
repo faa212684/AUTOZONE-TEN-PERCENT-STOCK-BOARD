@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\tpm_e_badtag\-2144862178\index.html.json
+canonical: /win32/winerror-h/tpm_e_badtag/0x8028001e/
+title: -2144862178 TPM_E_BADTAG in winerror.h
+description: The tag value sent to for a command is invalid.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2144862178",
+  "codeUrl": "/win32/winerror-h/tpm_e_badtag/-2144862178/",
+  "numericCode": 0,
+  "define": "TPM_E_BADTAG",
+  "defineUrl": "/win32/winerror-h/tpm_e_badtag/",
+  "message": "The tag value sent to for a command is invalid.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x8028001E",
+  "originalCodeUrl": "/win32/winerror-h/tpm_e_badtag/0x8028001e/"
+}

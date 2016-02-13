@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_state_enumerate_settings_failed\15814\index.html.json
+
+title: 15814 ERROR_STATE_ENUMERATE_SETTINGS_FAILED in winerror.h
+description: State Manager failed to enumerate the settings.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "15814",
+  "codeUrl": "/win32/winerror-h/error_state_enumerate_settings_failed/15814/",
+  "numericCode": 15814,
+  "define": "ERROR_STATE_ENUMERATE_SETTINGS_FAILED",
+  "defineUrl": "/win32/winerror-h/error_state_enumerate_settings_failed/",
+  "message": "State Manager failed to enumerate the settings.",
+  "remarks": null,
+  "aka": [
+    "0x80073dc6",
+    "-2147009082"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_state_enumerate_settings_failed/0x80073dc6/",
+    "/win32/winerror-h/error_state_enumerate_settings_failed/-2147009082/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

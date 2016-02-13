@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ds_busy\8206\index.html.json
+
+title: 8206 ERROR_DS_BUSY in winerror.h
+description: The directory service is busy.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "8206",
+  "codeUrl": "/win32/winerror-h/error_ds_busy/8206/",
+  "numericCode": 8206,
+  "define": "ERROR_DS_BUSY",
+  "defineUrl": "/win32/winerror-h/error_ds_busy/",
+  "message": "The directory service is busy.",
+  "remarks": null,
+  "aka": [
+    "0x8007200e",
+    "-2147016690"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ds_busy/0x8007200e/",
+    "/win32/winerror-h/error_ds_busy/-2147016690/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

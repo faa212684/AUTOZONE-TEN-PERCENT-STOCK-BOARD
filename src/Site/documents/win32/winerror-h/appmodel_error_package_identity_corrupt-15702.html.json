@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\appmodel_error_package_identity_corrupt\15702\index.html.json
+
+title: 15702 APPMODEL_ERROR_PACKAGE_IDENTITY_CORRUPT in winerror.h
+description: The package identity is corrupted.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "15702",
+  "codeUrl": "/win32/winerror-h/appmodel_error_package_identity_corrupt/15702/",
+  "numericCode": 15702,
+  "define": "APPMODEL_ERROR_PACKAGE_IDENTITY_CORRUPT",
+  "defineUrl": "/win32/winerror-h/appmodel_error_package_identity_corrupt/",
+  "message": "The package identity is corrupted.",
+  "remarks": null,
+  "aka": [
+    "0x80073d56",
+    "-2147009194"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/appmodel_error_package_identity_corrupt/0x80073d56/",
+    "/win32/winerror-h/appmodel_error_package_identity_corrupt/-2147009194/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

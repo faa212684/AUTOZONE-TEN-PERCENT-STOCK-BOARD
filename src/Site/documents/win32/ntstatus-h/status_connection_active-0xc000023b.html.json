@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_connection_active\0xc000023b\index.html.json
+
+title: 0xC000023B STATUS_CONNECTION_ACTIVE in ntstatus.h
+description: An invalid operation was attempted on an active transport connection.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000023B",
+  "codeUrl": "/win32/ntstatus-h/status_connection_active/0xc000023b/",
+  "numericCode": -1073741253,
+  "define": "STATUS_CONNECTION_ACTIVE",
+  "defineUrl": "/win32/ntstatus-h/status_connection_active/",
+  "message": "An invalid operation was attempted on an active transport connection.",
+  "remarks": null,
+  "aka": [
+    "-1073741253"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_connection_active/-1073741253/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

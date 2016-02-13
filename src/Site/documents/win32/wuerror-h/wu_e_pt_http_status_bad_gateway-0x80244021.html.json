@@ -1,0 +1,28 @@
+---
+output: win32\wuerror-h\wu_e_pt_http_status_bad_gateway\0x80244021\index.html.json
+
+title: 0x80244021 WU_E_PT_HTTP_STATUS_BAD_GATEWAY in wuerror.h
+description: Same as HTTP status 502 - the server, while acting as a gateway or proxy, received an invalid response from the upstream server it accessed in attempting to fulfill the request.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wuerror.h",
+  "sourceUrl": "/win32/wuerror-h/",
+  "code": "0x80244021",
+  "codeUrl": "/win32/wuerror-h/wu_e_pt_http_status_bad_gateway/0x80244021/",
+  "numericCode": -2145107935,
+  "define": "WU_E_PT_HTTP_STATUS_BAD_GATEWAY",
+  "defineUrl": "/win32/wuerror-h/wu_e_pt_http_status_bad_gateway/",
+  "message": "Same as HTTP status 502 - the server, while acting as a gateway or proxy, received an invalid response from the upstream server it accessed in attempting to fulfill the request.",
+  "remarks": null,
+  "aka": [
+    "-2145107935"
+  ],
+  "akaUrl": [
+    "/win32/wuerror-h/wu_e_pt_http_status_bad_gateway/-2145107935/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_secureboot_file_replaced\4426\index.html.json
+
+title: 4426 ERROR_SECUREBOOT_FILE_REPLACED in winerror.h
+description: Secure Boot requires that certain files and drivers are not replaced by other files or drivers.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "4426",
+  "codeUrl": "/win32/winerror-h/error_secureboot_file_replaced/4426/",
+  "numericCode": 4426,
+  "define": "ERROR_SECUREBOOT_FILE_REPLACED",
+  "defineUrl": "/win32/winerror-h/error_secureboot_file_replaced/",
+  "message": "Secure Boot requires that certain files and drivers are not replaced by other files or drivers.",
+  "remarks": null,
+  "aka": [
+    "0x8007114a",
+    "-2147020470"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_secureboot_file_replaced/0x8007114a/",
+    "/win32/winerror-h/error_secureboot_file_replaced/-2147020470/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

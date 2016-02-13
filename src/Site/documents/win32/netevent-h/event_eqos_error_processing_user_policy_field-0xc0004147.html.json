@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_eqos_error_processing_user_policy_field\0xc0004147\index.html.json
+
+title: 0xC0004147 EVENT_EQOS_ERROR_PROCESSING_USER_POLICY_FIELD in netevent.h
+description: QoS failed to read or validate the "%2" field for the user QoS policy "%3".
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC0004147",
+  "codeUrl": "/win32/netevent-h/event_eqos_error_processing_user_policy_field/0xc0004147/",
+  "numericCode": -1073725113,
+  "define": "EVENT_EQOS_ERROR_PROCESSING_USER_POLICY_FIELD",
+  "defineUrl": "/win32/netevent-h/event_eqos_error_processing_user_policy_field/",
+  "message": "QoS failed to read or validate the \"%2\" field for the user QoS policy \"%3\".",
+  "remarks": null,
+  "aka": [
+    "-1073725113"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_eqos_error_processing_user_policy_field/-1073725113/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

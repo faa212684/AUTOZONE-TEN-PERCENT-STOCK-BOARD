@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_no_shutdown_in_progress\1116\index.html.json
+
+title: 1116 ERROR_NO_SHUTDOWN_IN_PROGRESS in winerror.h
+description: Unable to abort the system shutdown because no shutdown was in progress.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1116",
+  "codeUrl": "/win32/winerror-h/error_no_shutdown_in_progress/1116/",
+  "numericCode": 1116,
+  "define": "ERROR_NO_SHUTDOWN_IN_PROGRESS",
+  "defineUrl": "/win32/winerror-h/error_no_shutdown_in_progress/",
+  "message": "Unable to abort the system shutdown because no shutdown was in progress.",
+  "remarks": null,
+  "aka": [
+    "0x8007045c",
+    "-2147023780"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_no_shutdown_in_progress/0x8007045c/",
+    "/win32/winerror-h/error_no_shutdown_in_progress/-2147023780/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

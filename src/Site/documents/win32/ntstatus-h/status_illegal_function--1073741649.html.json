@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_illegal_function\-1073741649\index.html.json
+canonical: /win32/ntstatus-h/status_illegal_function/0xc00000af/
+title: -1073741649 STATUS_ILLEGAL_FUNCTION in ntstatus.h
+description: The specified handle is not open to the server end of the named pipe.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741649",
+  "codeUrl": "/win32/ntstatus-h/status_illegal_function/-1073741649/",
+  "numericCode": 0,
+  "define": "STATUS_ILLEGAL_FUNCTION",
+  "defineUrl": "/win32/ntstatus-h/status_illegal_function/",
+  "message": "The specified handle is not open to the server end of the named pipe.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC00000AF",
+  "originalCodeUrl": "/win32/ntstatus-h/status_illegal_function/0xc00000af/"
+}

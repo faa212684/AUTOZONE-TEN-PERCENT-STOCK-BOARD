@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\fve_e_ad_invalid_datasize\0x8031000c\index.html.json
+
+title: 0x8031000C FVE_E_AD_INVALID_DATASIZE in winerror.h
+description: The size of the data obtained from Active Directory was not expected. The BitLocker recovery information may be missing or corrupted.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8031000C",
+  "codeUrl": "/win32/winerror-h/fve_e_ad_invalid_datasize/0x8031000c/",
+  "numericCode": -2144272372,
+  "define": "FVE_E_AD_INVALID_DATASIZE",
+  "defineUrl": "/win32/winerror-h/fve_e_ad_invalid_datasize/",
+  "message": "The size of the data obtained from Active Directory was not expected. The BitLocker recovery information may be missing or corrupted.",
+  "remarks": null,
+  "aka": [
+    "-2144272372"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/fve_e_ad_invalid_datasize/-2144272372/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

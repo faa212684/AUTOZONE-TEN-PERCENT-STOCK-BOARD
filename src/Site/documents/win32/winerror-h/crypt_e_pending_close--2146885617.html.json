@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\crypt_e_pending_close\-2146885617\index.html.json
+canonical: /win32/winerror-h/crypt_e_pending_close/0x8009200f/
+title: -2146885617 CRYPT_E_PENDING_CLOSE in winerror.h
+description: Final closure is pending until additional frees or closes.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2146885617",
+  "codeUrl": "/win32/winerror-h/crypt_e_pending_close/-2146885617/",
+  "numericCode": 0,
+  "define": "CRYPT_E_PENDING_CLOSE",
+  "defineUrl": "/win32/winerror-h/crypt_e_pending_close/",
+  "message": "Final closure is pending until additional frees or closes.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x8009200F",
+  "originalCodeUrl": "/win32/winerror-h/crypt_e_pending_close/0x8009200f/"
+}

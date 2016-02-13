@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\rpc_s_comm_failure\0x8007071c\index.html.json
+canonical: /win32/winerror-h/rpc_s_comm_failure/1820/
+title: 0x8007071c RPC_S_COMM_FAILURE in winerror.h
+description: A communications failure occurred during a remote procedure call.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007071c",
+  "codeUrl": "/win32/winerror-h/rpc_s_comm_failure/0x8007071c/",
+  "numericCode": 0,
+  "define": "RPC_S_COMM_FAILURE",
+  "defineUrl": "/win32/winerror-h/rpc_s_comm_failure/",
+  "message": "A communications failure occurred during a remote procedure call.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "1820",
+  "originalCodeUrl": "/win32/winerror-h/rpc_s_comm_failure/1820/"
+}

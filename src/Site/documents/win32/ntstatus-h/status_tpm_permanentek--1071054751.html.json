@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_tpm_permanentek\-1071054751\index.html.json
+canonical: /win32/ntstatus-h/status_tpm_permanentek/0xc0290061/
+title: -1071054751 STATUS_TPM_PERMANENTEK in ntstatus.h
+description: Attempt to revoke the EK and the EK is not revocable.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071054751",
+  "codeUrl": "/win32/ntstatus-h/status_tpm_permanentek/-1071054751/",
+  "numericCode": 0,
+  "define": "STATUS_TPM_PERMANENTEK",
+  "defineUrl": "/win32/ntstatus-h/status_tpm_permanentek/",
+  "message": "Attempt to revoke the EK and the EK is not revocable.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0290061",
+  "originalCodeUrl": "/win32/ntstatus-h/status_tpm_permanentek/0xc0290061/"
+}

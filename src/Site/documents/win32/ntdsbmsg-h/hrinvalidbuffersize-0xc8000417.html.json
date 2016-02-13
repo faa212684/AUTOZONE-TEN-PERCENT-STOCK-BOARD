@@ -1,0 +1,28 @@
+---
+output: win32\ntdsbmsg-h\hrinvalidbuffersize\0xc8000417\index.html.json
+
+title: 0xC8000417 hrInvalidBufferSize in NtDsBMsg.h
+description: The data buffer does not match the column size.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "NtDsBMsg.h",
+  "sourceUrl": "/win32/ntdsbmsg-h/",
+  "code": "0xC8000417",
+  "codeUrl": "/win32/ntdsbmsg-h/hrinvalidbuffersize/0xc8000417/",
+  "numericCode": -939523049,
+  "define": "hrInvalidBufferSize",
+  "defineUrl": "/win32/ntdsbmsg-h/hrinvalidbuffersize/",
+  "message": "The data buffer does not match the column size.",
+  "remarks": null,
+  "aka": [
+    "-939523049"
+  ],
+  "akaUrl": [
+    "/win32/ntdsbmsg-h/hrinvalidbuffersize/-939523049/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

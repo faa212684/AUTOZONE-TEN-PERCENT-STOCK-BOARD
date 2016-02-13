@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_invalid_messagename\1217\index.html.json
+
+title: 1217 ERROR_INVALID_MESSAGENAME in winerror.h
+description: The format of the specified message name is invalid.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1217",
+  "codeUrl": "/win32/winerror-h/error_invalid_messagename/1217/",
+  "numericCode": 1217,
+  "define": "ERROR_INVALID_MESSAGENAME",
+  "defineUrl": "/win32/winerror-h/error_invalid_messagename/",
+  "message": "The format of the specified message name is invalid.",
+  "remarks": null,
+  "aka": [
+    "0x800704c1",
+    "-2147023679"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_invalid_messagename/0x800704c1/",
+    "/win32/winerror-h/error_invalid_messagename/-2147023679/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

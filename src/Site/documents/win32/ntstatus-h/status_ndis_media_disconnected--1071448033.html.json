@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_ndis_media_disconnected\-1071448033\index.html.json
+canonical: /win32/ntstatus-h/status_ndis_media_disconnected/0xc023001f/
+title: -1071448033 STATUS_NDIS_MEDIA_DISCONNECTED in ntstatus.h
+description: The I/O operation failed because network media is disconnected or wireless access point is out of range.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071448033",
+  "codeUrl": "/win32/ntstatus-h/status_ndis_media_disconnected/-1071448033/",
+  "numericCode": 0,
+  "define": "STATUS_NDIS_MEDIA_DISCONNECTED",
+  "defineUrl": "/win32/ntstatus-h/status_ndis_media_disconnected/",
+  "message": "The I/O operation failed because network media is disconnected or wireless access point is out of range.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC023001F",
+  "originalCodeUrl": "/win32/ntstatus-h/status_ndis_media_disconnected/0xc023001f/"
+}

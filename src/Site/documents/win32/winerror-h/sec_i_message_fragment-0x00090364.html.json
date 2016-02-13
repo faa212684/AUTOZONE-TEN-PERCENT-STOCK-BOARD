@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\sec_i_message_fragment\0x00090364\index.html.json
+
+title: 0x00090364 SEC_I_MESSAGE_FRAGMENT in winerror.h
+description: The returned buffer is only a fragment of the message.  More fragments need to be returned.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x00090364",
+  "codeUrl": "/win32/winerror-h/sec_i_message_fragment/0x00090364/",
+  "numericCode": 590692,
+  "define": "SEC_I_MESSAGE_FRAGMENT",
+  "defineUrl": "/win32/winerror-h/sec_i_message_fragment/",
+  "message": "The returned buffer is only a fragment of the message.  More fragments need to be returned.",
+  "remarks": null,
+  "aka": [
+    "590692"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/sec_i_message_fragment/590692/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

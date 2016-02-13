@@ -1,0 +1,29 @@
+---
+output: win32\wsmerror-h\error_wsman_encoding_limit\0x80338035\index.html.json
+
+title: 0x80338035 ERROR_WSMAN_ENCODING_LIMIT in wsmerror.h
+description: The WS-Management service cannot process the request because the encoding of the request exceeds an internal
+encoding limit. Reconfigure the client to send messages which fit the encoding limits of the service.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x80338035",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_encoding_limit/0x80338035/",
+  "numericCode": -2144108491,
+  "define": "ERROR_WSMAN_ENCODING_LIMIT",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_encoding_limit/",
+  "message": "The WS-Management service cannot process the request because the encoding of the request exceeds an internal\r\nencoding limit. Reconfigure the client to send messages which fit the encoding limits of the service.",
+  "remarks": null,
+  "aka": [
+    "-2144108491"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_encoding_limit/-2144108491/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_e_revert_on_close_set\0x80042459\index.html.json
+
+title: 0x80042459 VDS_E_REVERT_ON_CLOSE_SET in vdserr.h
+description: The REVERT ON CLOSE volume flag is already set for this volume.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x80042459",
+  "codeUrl": "/win32/vdserr-h/vds_e_revert_on_close_set/0x80042459/",
+  "numericCode": -2147212199,
+  "define": "VDS_E_REVERT_ON_CLOSE_SET",
+  "defineUrl": "/win32/vdserr-h/vds_e_revert_on_close_set/",
+  "message": "The REVERT ON CLOSE volume flag is already set for this volume.",
+  "remarks": null,
+  "aka": [
+    "-2147212199"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_revert_on_close_set/-2147212199/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

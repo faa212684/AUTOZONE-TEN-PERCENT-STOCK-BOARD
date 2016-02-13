@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_tpm_bad_parameter\0xc0290003\index.html.json
+
+title: 0xC0290003 STATUS_TPM_BAD_PARAMETER in ntstatus.h
+description: One or more parameter is bad.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0290003",
+  "codeUrl": "/win32/ntstatus-h/status_tpm_bad_parameter/0xc0290003/",
+  "numericCode": -1071054845,
+  "define": "STATUS_TPM_BAD_PARAMETER",
+  "defineUrl": "/win32/ntstatus-h/status_tpm_bad_parameter/",
+  "message": "One or more parameter is bad.",
+  "remarks": null,
+  "aka": [
+    "-1071054845"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_tpm_bad_parameter/-1071054845/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

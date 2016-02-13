@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\rpc_nt_no_call_active\0xc002001a\index.html.json
+
+title: 0xC002001A RPC_NT_NO_CALL_ACTIVE in ntstatus.h
+description: There are no remote procedure calls active on this thread.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC002001A",
+  "codeUrl": "/win32/ntstatus-h/rpc_nt_no_call_active/0xc002001a/",
+  "numericCode": -1073610726,
+  "define": "RPC_NT_NO_CALL_ACTIVE",
+  "defineUrl": "/win32/ntstatus-h/rpc_nt_no_call_active/",
+  "message": "There are no remote procedure calls active on this thread.",
+  "remarks": null,
+  "aka": [
+    "-1073610726"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/rpc_nt_no_call_active/-1073610726/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

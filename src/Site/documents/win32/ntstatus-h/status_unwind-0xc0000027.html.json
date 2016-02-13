@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_unwind\0xc0000027\index.html.json
+
+title: 0xC0000027 STATUS_UNWIND in ntstatus.h
+description: Unwind exception code.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000027",
+  "codeUrl": "/win32/ntstatus-h/status_unwind/0xc0000027/",
+  "numericCode": -1073741785,
+  "define": "STATUS_UNWIND",
+  "defineUrl": "/win32/ntstatus-h/status_unwind/",
+  "message": "Unwind exception code.",
+  "remarks": null,
+  "aka": [
+    "-1073741785"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_unwind/-1073741785/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

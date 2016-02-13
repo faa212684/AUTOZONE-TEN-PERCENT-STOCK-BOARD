@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_unexpected_mm_create_err\0xc00000ea\index.html.json
+
+title: 0xC00000EA STATUS_UNEXPECTED_MM_CREATE_ERR in ntstatus.h
+description: If an MM error is returned which is not defined in the standard FsRtl filter, it is converted to one of the following errors which is guaranteed to be in the filter. In this case information is lost, however, the filter correctly handles the exception.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC00000EA",
+  "codeUrl": "/win32/ntstatus-h/status_unexpected_mm_create_err/0xc00000ea/",
+  "numericCode": -1073741590,
+  "define": "STATUS_UNEXPECTED_MM_CREATE_ERR",
+  "defineUrl": "/win32/ntstatus-h/status_unexpected_mm_create_err/",
+  "message": "If an MM error is returned which is not defined in the standard FsRtl filter, it is converted to one of the following errors which is guaranteed to be in the filter. In this case information is lost, however, the filter correctly handles the exception.",
+  "remarks": null,
+  "aka": [
+    "-1073741590"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_unexpected_mm_create_err/-1073741590/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

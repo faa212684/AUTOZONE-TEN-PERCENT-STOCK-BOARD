@@ -1,0 +1,28 @@
+---
+output: win32\cdosyserr-h\cdo_e_sender_rejected\0x8004020e\index.html.json
+
+title: 0x8004020E CDO_E_SENDER_REJECTED in CDOSysErr.h
+description: The server rejected the sender address. The server response was: %1
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "CDOSysErr.h",
+  "sourceUrl": "/win32/cdosyserr-h/",
+  "code": "0x8004020E",
+  "codeUrl": "/win32/cdosyserr-h/cdo_e_sender_rejected/0x8004020e/",
+  "numericCode": -2147220978,
+  "define": "CDO_E_SENDER_REJECTED",
+  "defineUrl": "/win32/cdosyserr-h/cdo_e_sender_rejected/",
+  "message": "The server rejected the sender address. The server response was: %1",
+  "remarks": null,
+  "aka": [
+    "-2147220978"
+  ],
+  "akaUrl": [
+    "/win32/cdosyserr-h/cdo_e_sender_rejected/-2147220978/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

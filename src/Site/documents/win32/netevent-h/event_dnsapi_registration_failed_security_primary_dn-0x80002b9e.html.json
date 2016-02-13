@@ -1,0 +1,47 @@
+---
+output: win32\netevent-h\event_dnsapi_registration_failed_security_primary_dn\0x80002b9e\index.html.json
+
+title: 0x80002B9E EVENT_DNSAPI_REGISTRATION_FAILED_SECURITY_PRIMARY_DN in netevent.h
+description: The system failed to register host (A or AAAA) resource records (RRs) for
+network adapter%nwith settings:%n%n
+Adapter Name : %1%n
+Host Name : %2%n
+Primary Domain Suffix : %3%n
+DNS server list :%n
+%4%n
+Sent update to server : %5%n
+IP Address(es) :%n
+%6%n%n
+The reason the system could not register these RRs was because of a
+security related problem. The cause of this could be (a) your computer
+does not have permissions to register and update the specific DNS domain
+name set for this adapter, or (b) there might have been a problem negotiating
+valid credentials with the DNS server during the processing of the update
+request.%n%n
+You can manually retry DNS registration of the network adapter and
+its settings by typing "ipconfig /registerdns" at the command prompt.
+If problems still persist, contact your DNS server or network systems
+administrator. See event details for specific error code information.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x80002B9E",
+  "codeUrl": "/win32/netevent-h/event_dnsapi_registration_failed_security_primary_dn/0x80002b9e/",
+  "numericCode": -2147472482,
+  "define": "EVENT_DNSAPI_REGISTRATION_FAILED_SECURITY_PRIMARY_DN",
+  "defineUrl": "/win32/netevent-h/event_dnsapi_registration_failed_security_primary_dn/",
+  "message": "The system failed to register host (A or AAAA) resource records (RRs) for\r\nnetwork adapter%nwith settings:%n%n\r\nAdapter Name : %1%n\r\nHost Name : %2%n\r\nPrimary Domain Suffix : %3%n\r\nDNS server list :%n\r\n%4%n\r\nSent update to server : %5%n\r\nIP Address(es) :%n\r\n%6%n%n\r\nThe reason the system could not register these RRs was because of a\r\nsecurity related problem. The cause of this could be (a) your computer\r\ndoes not have permissions to register and update the specific DNS domain\r\nname set for this adapter, or (b) there might have been a problem negotiating\r\nvalid credentials with the DNS server during the processing of the update\r\nrequest.%n%n\r\nYou can manually retry DNS registration of the network adapter and\r\nits settings by typing \"ipconfig /registerdns\" at the command prompt.\r\nIf problems still persist, contact your DNS server or network systems\r\nadministrator. See event details for specific error code information.",
+  "remarks": null,
+  "aka": [
+    "-2147472482"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_dnsapi_registration_failed_security_primary_dn/-2147472482/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

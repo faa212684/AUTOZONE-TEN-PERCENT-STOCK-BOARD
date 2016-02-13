@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\dns_error_invalid_zone_operation\9603\index.html.json
+
+title: 9603 DNS_ERROR_INVALID_ZONE_OPERATION in winerror.h
+description: Invalid operation for DNS zone.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "9603",
+  "codeUrl": "/win32/winerror-h/dns_error_invalid_zone_operation/9603/",
+  "numericCode": 9603,
+  "define": "DNS_ERROR_INVALID_ZONE_OPERATION",
+  "defineUrl": "/win32/winerror-h/dns_error_invalid_zone_operation/",
+  "message": "Invalid operation for DNS zone.",
+  "remarks": null,
+  "aka": [
+    "0x80072583",
+    "-2147015293"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/dns_error_invalid_zone_operation/0x80072583/",
+    "/win32/winerror-h/dns_error_invalid_zone_operation/-2147015293/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

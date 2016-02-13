@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_redirector_has_open_handles\-2147483613\index.html.json
+canonical: /win32/ntstatus-h/status_redirector_has_open_handles/0x80000023/
+title: -2147483613 STATUS_REDIRECTOR_HAS_OPEN_HANDLES in ntstatus.h
+description: The redirector is in use and cannot be unloaded.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-2147483613",
+  "codeUrl": "/win32/ntstatus-h/status_redirector_has_open_handles/-2147483613/",
+  "numericCode": 0,
+  "define": "STATUS_REDIRECTOR_HAS_OPEN_HANDLES",
+  "defineUrl": "/win32/ntstatus-h/status_redirector_has_open_handles/",
+  "message": "The redirector is in use and cannot be unloaded.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80000023",
+  "originalCodeUrl": "/win32/ntstatus-h/status_redirector_has_open_handles/0x80000023/"
+}

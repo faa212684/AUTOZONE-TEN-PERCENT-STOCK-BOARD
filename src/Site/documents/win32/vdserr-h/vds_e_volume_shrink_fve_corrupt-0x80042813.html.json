@@ -1,0 +1,29 @@
+---
+output: win32\vdserr-h\vds_e_volume_shrink_fve_corrupt\0x80042813\index.html.json
+
+title: 0x80042813 VDS_E_VOLUME_SHRINK_FVE_CORRUPT in vdserr.h
+description: The volume could not be shrunk because it is locked due to a BitLocker error. 
+Use BitLocker tools to recover the volume and try again.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x80042813",
+  "codeUrl": "/win32/vdserr-h/vds_e_volume_shrink_fve_corrupt/0x80042813/",
+  "numericCode": -2147211245,
+  "define": "VDS_E_VOLUME_SHRINK_FVE_CORRUPT",
+  "defineUrl": "/win32/vdserr-h/vds_e_volume_shrink_fve_corrupt/",
+  "message": "The volume could not be shrunk because it is locked due to a BitLocker error. \r\nUse BitLocker tools to recover the volume and try again.",
+  "remarks": null,
+  "aka": [
+    "-2147211245"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_volume_shrink_fve_corrupt/-2147211245/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

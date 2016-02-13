@@ -1,0 +1,30 @@
+---
+output: win32\wsmerror-h\error_wsman_config_cannot_share_ssl_config\0x803380e8\index.html.json
+
+title: 0x803380E8 ERROR_WSMAN_CONFIG_CANNOT_SHARE_SSL_CONFIG in wsmerror.h
+description: The WinRM client cannot process the request. The WinRM client tried to create an SSL configuration for a pair of IP address and port according to the request,
+but the SSL configuration for that pair is owned by another service and cannot be shared. 
+Use a different IP address and port combination and try the request again.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x803380E8",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_config_cannot_share_ssl_config/0x803380e8/",
+  "numericCode": -2144108312,
+  "define": "ERROR_WSMAN_CONFIG_CANNOT_SHARE_SSL_CONFIG",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_config_cannot_share_ssl_config/",
+  "message": "The WinRM client cannot process the request. The WinRM client tried to create an SSL configuration for a pair of IP address and port according to the request,\r\nbut the SSL configuration for that pair is owned by another service and cannot be shared. \r\nUse a different IP address and port combination and try the request again.",
+  "remarks": null,
+  "aka": [
+    "-2144108312"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_config_cannot_share_ssl_config/-2144108312/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

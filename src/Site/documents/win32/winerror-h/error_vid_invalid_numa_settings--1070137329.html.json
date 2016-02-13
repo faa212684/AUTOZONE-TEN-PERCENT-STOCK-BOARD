@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_vid_invalid_numa_settings\-1070137329\index.html.json
+canonical: /win32/winerror-h/error_vid_invalid_numa_settings/0xc037000f/
+title: -1070137329 ERROR_VID_INVALID_NUMA_SETTINGS in winerror.h
+description: The non-uniform memory access (NUMA) node settings do not match the system NUMA topology. In order to start the virtual machine, you will need to modify the NUMA configuration.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-1070137329",
+  "codeUrl": "/win32/winerror-h/error_vid_invalid_numa_settings/-1070137329/",
+  "numericCode": 0,
+  "define": "ERROR_VID_INVALID_NUMA_SETTINGS",
+  "defineUrl": "/win32/winerror-h/error_vid_invalid_numa_settings/",
+  "message": "The non-uniform memory access (NUMA) node settings do not match the system NUMA topology. In order to start the virtual machine, you will need to modify the NUMA configuration.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC037000F",
+  "originalCodeUrl": "/win32/winerror-h/error_vid_invalid_numa_settings/0xc037000f/"
+}

@@ -1,0 +1,28 @@
+---
+output: win32\wsmerror-h\error_wsman_invalid_selector_name\0x80338118\index.html.json
+
+title: 0x80338118 ERROR_WSMAN_INVALID_SELECTOR_NAME in wsmerror.h
+description: The WinRM client cannot process the request because the selector name is not valid. Change the selector name and retry the request.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x80338118",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_invalid_selector_name/0x80338118/",
+  "numericCode": -2144108264,
+  "define": "ERROR_WSMAN_INVALID_SELECTOR_NAME",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_invalid_selector_name/",
+  "message": "The WinRM client cannot process the request because the selector name is not valid. Change the selector name and retry the request.",
+  "remarks": null,
+  "aka": [
+    "-2144108264"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_invalid_selector_name/-2144108264/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

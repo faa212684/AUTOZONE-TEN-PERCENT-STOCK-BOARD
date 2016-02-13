@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_no_txf_metadata\6816\index.html.json
+
+title: 6816 ERROR_NO_TXF_METADATA in winerror.h
+description: There is no transaction metadata on the file.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "6816",
+  "codeUrl": "/win32/winerror-h/error_no_txf_metadata/6816/",
+  "numericCode": 6816,
+  "define": "ERROR_NO_TXF_METADATA",
+  "defineUrl": "/win32/winerror-h/error_no_txf_metadata/",
+  "message": "There is no transaction metadata on the file.",
+  "remarks": null,
+  "aka": [
+    "0x80071aa0",
+    "-2147018080"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_no_txf_metadata/0x80071aa0/",
+    "/win32/winerror-h/error_no_txf_metadata/-2147018080/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

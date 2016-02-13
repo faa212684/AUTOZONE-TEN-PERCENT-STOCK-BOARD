@@ -1,0 +1,29 @@
+---
+output: win32\netevent-h\event_tcpip_invalid_address\0xc000105b\index.html.json
+
+title: 0xC000105B EVENT_TCPIP_INVALID_ADDRESS in netevent.h
+description: An invalid address %2 was specified for network adapter %3. This interface
+cannot be initialized.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC000105B",
+  "codeUrl": "/win32/netevent-h/event_tcpip_invalid_address/0xc000105b/",
+  "numericCode": -1073737637,
+  "define": "EVENT_TCPIP_INVALID_ADDRESS",
+  "defineUrl": "/win32/netevent-h/event_tcpip_invalid_address/",
+  "message": "An invalid address %2 was specified for network adapter %3. This interface\r\ncannot be initialized.",
+  "remarks": null,
+  "aka": [
+    "-1073737637"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_tcpip_invalid_address/-1073737637/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

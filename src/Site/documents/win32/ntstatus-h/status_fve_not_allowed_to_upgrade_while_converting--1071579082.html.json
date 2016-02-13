@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_fve_not_allowed_to_upgrade_while_converting\-1071579082\index.html.json
+canonical: /win32/ntstatus-h/status_fve_not_allowed_to_upgrade_while_converting/0xc0210036/
+title: -1071579082 STATUS_FVE_NOT_ALLOWED_TO_UPGRADE_WHILE_CONVERTING in ntstatus.h
+description: BitLocker cannot be upgraded during disk encryption or decryption.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071579082",
+  "codeUrl": "/win32/ntstatus-h/status_fve_not_allowed_to_upgrade_while_converting/-1071579082/",
+  "numericCode": 0,
+  "define": "STATUS_FVE_NOT_ALLOWED_TO_UPGRADE_WHILE_CONVERTING",
+  "defineUrl": "/win32/ntstatus-h/status_fve_not_allowed_to_upgrade_while_converting/",
+  "message": "BitLocker cannot be upgraded during disk encryption or decryption.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0210036",
+  "originalCodeUrl": "/win32/ntstatus-h/status_fve_not_allowed_to_upgrade_while_converting/0xc0210036/"
+}

@@ -1,0 +1,28 @@
+---
+output: bugcheck\bugcodes-h\agp_gart_corruption\0x00000105\index.html.json
+
+title: 0x00000105 AGP_GART_CORRUPTION in bugcodes.h
+description: AGP_GART_CORRUPTION
+disqus: true
+---
+{
+  "area": "bugcheck",
+  "areaUrl": "/bugcheck/",
+  "source": "bugcodes.h",
+  "sourceUrl": "/bugcheck/bugcodes-h/",
+  "code": "0x00000105",
+  "codeUrl": "/bugcheck/bugcodes-h/agp_gart_corruption/0x00000105/",
+  "numericCode": 261,
+  "define": "AGP_GART_CORRUPTION",
+  "defineUrl": "/bugcheck/bugcodes-h/agp_gart_corruption/",
+  "message": "AGP_GART_CORRUPTION",
+  "remarks": null,
+  "aka": [
+    "261"
+  ],
+  "akaUrl": [
+    "/bugcheck/bugcodes-h/agp_gart_corruption/261/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

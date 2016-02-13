@@ -1,0 +1,24 @@
+---
+output: win32\netevent-h\event_rdr_write_behind_flush_failed\-2147480623\index.html.json
+canonical: /win32/netevent-h/event_rdr_write_behind_flush_failed/0x80000bd1/
+title: -2147480623 EVENT_RDR_WRITE_BEHIND_FLUSH_FAILED in netevent.h
+description: A write-behind operation has failed to the remote server %2.  The data contains the amount requested to write and the amount actually written.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "-2147480623",
+  "codeUrl": "/win32/netevent-h/event_rdr_write_behind_flush_failed/-2147480623/",
+  "numericCode": 0,
+  "define": "EVENT_RDR_WRITE_BEHIND_FLUSH_FAILED",
+  "defineUrl": "/win32/netevent-h/event_rdr_write_behind_flush_failed/",
+  "message": "A write-behind operation has failed to the remote server %2.  The data contains the amount requested to write and the amount actually written.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80000BD1",
+  "originalCodeUrl": "/win32/netevent-h/event_rdr_write_behind_flush_failed/0x80000bd1/"
+}

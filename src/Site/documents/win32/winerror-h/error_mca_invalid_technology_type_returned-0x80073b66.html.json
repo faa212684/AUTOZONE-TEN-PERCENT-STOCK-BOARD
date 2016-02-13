@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_mca_invalid_technology_type_returned\0x80073b66\index.html.json
+canonical: /win32/winerror-h/error_mca_invalid_technology_type_returned/15206/
+title: 0x80073b66 ERROR_MCA_INVALID_TECHNOLOGY_TYPE_RETURNED in winerror.h
+description: The monitor returned an invalid monitor technology type. CRT, Plasma and LCD (TFT) are examples of monitor technology types. This error implies that the monitor violated the MCCS 2.0 or MCCS 2.0 Revision 1 specification.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80073b66",
+  "codeUrl": "/win32/winerror-h/error_mca_invalid_technology_type_returned/0x80073b66/",
+  "numericCode": 0,
+  "define": "ERROR_MCA_INVALID_TECHNOLOGY_TYPE_RETURNED",
+  "defineUrl": "/win32/winerror-h/error_mca_invalid_technology_type_returned/",
+  "message": "The monitor returned an invalid monitor technology type. CRT, Plasma and LCD (TFT) are examples of monitor technology types. This error implies that the monitor violated the MCCS 2.0 or MCCS 2.0 Revision 1 specification.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "15206",
+  "originalCodeUrl": "/win32/winerror-h/error_mca_invalid_technology_type_returned/15206/"
+}

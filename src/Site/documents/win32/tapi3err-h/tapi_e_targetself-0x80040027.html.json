@@ -1,0 +1,28 @@
+---
+output: win32\tapi3err-h\tapi_e_targetself\0x80040027\index.html.json
+
+title: 0x80040027 TAPI_E_TARGETSELF in Tapi3Err.h
+description: No higher priority target exists for the call handoff.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "Tapi3Err.h",
+  "sourceUrl": "/win32/tapi3err-h/",
+  "code": "0x80040027",
+  "codeUrl": "/win32/tapi3err-h/tapi_e_targetself/0x80040027/",
+  "numericCode": -2147221465,
+  "define": "TAPI_E_TARGETSELF",
+  "defineUrl": "/win32/tapi3err-h/tapi_e_targetself/",
+  "message": "No higher priority target exists for the call handoff.",
+  "remarks": null,
+  "aka": [
+    "-2147221465"
+  ],
+  "akaUrl": [
+    "/win32/tapi3err-h/tapi_e_targetself/-2147221465/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

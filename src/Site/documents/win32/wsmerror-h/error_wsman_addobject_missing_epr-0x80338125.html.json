@@ -1,0 +1,28 @@
+---
+output: win32\wsmerror-h\error_wsman_addobject_missing_epr\0x80338125\index.html.json
+
+title: 0x80338125 ERROR_WSMAN_ADDOBJECT_MISSING_EPR in wsmerror.h
+description: The WinRM client cannot process the request. The EPR parameter for the WSManEnumeratorAddObject function is null or zero, but the enumeration mode is EPR or ObjectAndEPR.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x80338125",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_addobject_missing_epr/0x80338125/",
+  "numericCode": -2144108251,
+  "define": "ERROR_WSMAN_ADDOBJECT_MISSING_EPR",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_addobject_missing_epr/",
+  "message": "The WinRM client cannot process the request. The EPR parameter for the WSManEnumeratorAddObject function is null or zero, but the enumeration mode is EPR or ObjectAndEPR.",
+  "remarks": null,
+  "aka": [
+    "-2144108251"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_addobject_missing_epr/-2144108251/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

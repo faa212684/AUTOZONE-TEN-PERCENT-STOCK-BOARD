@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_drivers_leaking_locked_pages\0x4000002d\index.html.json
+
+title: 0x4000002D STATUS_DRIVERS_LEAKING_LOCKED_PAGES in ntstatus.h
+description: A device driver is leaking locked I/O pages causing system degradation. The system has automatically enabled tracking code in order to try and catch the culprit.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0x4000002D",
+  "codeUrl": "/win32/ntstatus-h/status_drivers_leaking_locked_pages/0x4000002d/",
+  "numericCode": 1073741869,
+  "define": "STATUS_DRIVERS_LEAKING_LOCKED_PAGES",
+  "defineUrl": "/win32/ntstatus-h/status_drivers_leaking_locked_pages/",
+  "message": "A device driver is leaking locked I/O pages causing system degradation. The system has automatically enabled tracking code in order to try and catch the culprit.",
+  "remarks": null,
+  "aka": [
+    "1073741869"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_drivers_leaking_locked_pages/1073741869/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

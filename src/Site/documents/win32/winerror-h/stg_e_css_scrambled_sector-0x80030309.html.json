@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\stg_e_css_scrambled_sector\0x80030309\index.html.json
+
+title: 0x80030309 STG_E_CSS_SCRAMBLED_SECTOR in winerror.h
+description: Copy Protection Error - The read failed because the sector is encrypted.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80030309",
+  "codeUrl": "/win32/winerror-h/stg_e_css_scrambled_sector/0x80030309/",
+  "numericCode": -2147286263,
+  "define": "STG_E_CSS_SCRAMBLED_SECTOR",
+  "defineUrl": "/win32/winerror-h/stg_e_css_scrambled_sector/",
+  "message": "Copy Protection Error - The read failed because the sector is encrypted.",
+  "remarks": null,
+  "aka": [
+    "-2147286263"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/stg_e_css_scrambled_sector/-2147286263/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

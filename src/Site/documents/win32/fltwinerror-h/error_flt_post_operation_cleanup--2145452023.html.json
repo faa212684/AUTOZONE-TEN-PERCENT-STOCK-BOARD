@@ -1,0 +1,26 @@
+---
+output: win32\fltwinerror-h\error_flt_post_operation_cleanup\-2145452023\index.html.json
+canonical: /win32/fltwinerror-h/error_flt_post_operation_cleanup/0x801f0009/
+title: -2145452023 ERROR_FLT_POST_OPERATION_CLEANUP in fltWinError.h
+description: The filter must cleanup any operation specific context at this time because
+it is being removed from the system before the operation is completed by
+the lower drivers.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "fltWinError.h",
+  "sourceUrl": "/win32/fltwinerror-h/",
+  "code": "-2145452023",
+  "codeUrl": "/win32/fltwinerror-h/error_flt_post_operation_cleanup/-2145452023/",
+  "numericCode": 0,
+  "define": "ERROR_FLT_POST_OPERATION_CLEANUP",
+  "defineUrl": "/win32/fltwinerror-h/error_flt_post_operation_cleanup/",
+  "message": "The filter must cleanup any operation specific context at this time because\r\nit is being removed from the system before the operation is completed by\r\nthe lower drivers.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x801F0009",
+  "originalCodeUrl": "/win32/fltwinerror-h/error_flt_post_operation_cleanup/0x801f0009/"
+}

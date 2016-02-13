@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_notify_cleanup\0x0000010b\index.html.json
+
+title: 0x0000010B STATUS_NOTIFY_CLEANUP in ntstatus.h
+description: This indicates that a notify change request has been completed due to closing the handle which made the notify change request.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0x0000010B",
+  "codeUrl": "/win32/ntstatus-h/status_notify_cleanup/0x0000010b/",
+  "numericCode": 267,
+  "define": "STATUS_NOTIFY_CLEANUP",
+  "defineUrl": "/win32/ntstatus-h/status_notify_cleanup/",
+  "message": "This indicates that a notify change request has been completed due to closing the handle which made the notify change request.",
+  "remarks": null,
+  "aka": [
+    "267"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_notify_cleanup/267/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

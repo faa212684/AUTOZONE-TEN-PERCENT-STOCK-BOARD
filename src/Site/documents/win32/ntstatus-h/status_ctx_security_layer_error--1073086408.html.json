@@ -1,0 +1,25 @@
+---
+output: win32\ntstatus-h\status_ctx_security_layer_error\-1073086408\index.html.json
+canonical: /win32/ntstatus-h/status_ctx_security_layer_error/0xc00a0038/
+title: -1073086408 STATUS_CTX_SECURITY_LAYER_ERROR in ntstatus.h
+description: The Terminal Server security layer detected an error in the protocol stream and has disconnected the client.
+Client IP: %2.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073086408",
+  "codeUrl": "/win32/ntstatus-h/status_ctx_security_layer_error/-1073086408/",
+  "numericCode": 0,
+  "define": "STATUS_CTX_SECURITY_LAYER_ERROR",
+  "defineUrl": "/win32/ntstatus-h/status_ctx_security_layer_error/",
+  "message": "The Terminal Server security layer detected an error in the protocol stream and has disconnected the client.\r\nClient IP: %2.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC00A0038",
+  "originalCodeUrl": "/win32/ntstatus-h/status_ctx_security_layer_error/0xc00a0038/"
+}

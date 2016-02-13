@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_e_cluster_size_too_small\0x8004242e\index.html.json
+
+title: 0x8004242E VDS_E_CLUSTER_SIZE_TOO_SMALL in vdserr.h
+description: The cluster size is too small.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x8004242E",
+  "codeUrl": "/win32/vdserr-h/vds_e_cluster_size_too_small/0x8004242e/",
+  "numericCode": -2147212242,
+  "define": "VDS_E_CLUSTER_SIZE_TOO_SMALL",
+  "defineUrl": "/win32/vdserr-h/vds_e_cluster_size_too_small/",
+  "message": "The cluster size is too small.",
+  "remarks": null,
+  "aka": [
+    "-2147212242"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_cluster_size_too_small/-2147212242/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

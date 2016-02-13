@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_volmgr_disk_layout_non_basic_between_basic_partitions\-1070071796\index.html.json
+canonical: /win32/ntstatus-h/status_volmgr_disk_layout_non_basic_between_basic_partitions/0xc038000c/
+title: -1070071796 STATUS_VOLMGR_DISK_LAYOUT_NON_BASIC_BETWEEN_BASIC_PARTITIONS in ntstatus.h
+description: The disk layout contains non-basic partitions which appear after basic paritions. This is an invalid disk layout.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1070071796",
+  "codeUrl": "/win32/ntstatus-h/status_volmgr_disk_layout_non_basic_between_basic_partitions/-1070071796/",
+  "numericCode": 0,
+  "define": "STATUS_VOLMGR_DISK_LAYOUT_NON_BASIC_BETWEEN_BASIC_PARTITIONS",
+  "defineUrl": "/win32/ntstatus-h/status_volmgr_disk_layout_non_basic_between_basic_partitions/",
+  "message": "The disk layout contains non-basic partitions which appear after basic paritions. This is an invalid disk layout.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC038000C",
+  "originalCodeUrl": "/win32/ntstatus-h/status_volmgr_disk_layout_non_basic_between_basic_partitions/0xc038000c/"
+}

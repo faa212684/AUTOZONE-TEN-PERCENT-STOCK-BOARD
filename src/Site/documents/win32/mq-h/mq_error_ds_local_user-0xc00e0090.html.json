@@ -1,0 +1,28 @@
+---
+output: win32\mq-h\mq_error_ds_local_user\0xc00e0090\index.html.json
+
+title: 0xC00E0090 MQ_ERROR_DS_LOCAL_USER in Mq.h
+description: A local user is authenticated as an anonymous user and cannot access Active Directory Domain Services. You need to log on as a domain user to access Active Directory Domain Services.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "Mq.h",
+  "sourceUrl": "/win32/mq-h/",
+  "code": "0xC00E0090",
+  "codeUrl": "/win32/mq-h/mq_error_ds_local_user/0xc00e0090/",
+  "numericCode": -1072824176,
+  "define": "MQ_ERROR_DS_LOCAL_USER",
+  "defineUrl": "/win32/mq-h/mq_error_ds_local_user/",
+  "message": "A local user is authenticated as an anonymous user and cannot access Active Directory Domain Services. You need to log on as a domain user to access Active Directory Domain Services.",
+  "remarks": null,
+  "aka": [
+    "-1072824176"
+  ],
+  "akaUrl": [
+    "/win32/mq-h/mq_error_ds_local_user/-1072824176/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,29 @@
+---
+output: win32\vdserr-h\vds_e_lun_disk_failed\0x80042819\index.html.json
+
+title: 0x80042819 VDS_E_LUN_DISK_FAILED in vdserr.h
+description: The SHRINK operation against the selected LUN cannot be completed. 
+The current state of the disk associated with the LUN is FAILED.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x80042819",
+  "codeUrl": "/win32/vdserr-h/vds_e_lun_disk_failed/0x80042819/",
+  "numericCode": -2147211239,
+  "define": "VDS_E_LUN_DISK_FAILED",
+  "defineUrl": "/win32/vdserr-h/vds_e_lun_disk_failed/",
+  "message": "The SHRINK operation against the selected LUN cannot be completed. \r\nThe current state of the disk associated with the LUN is FAILED.",
+  "remarks": null,
+  "aka": [
+    "-2147211239"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_lun_disk_failed/-2147211239/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

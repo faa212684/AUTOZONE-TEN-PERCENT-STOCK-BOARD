@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\crypt_e_deleted_prev\0x80092008\index.html.json
+
+title: 0x80092008 CRYPT_E_DELETED_PREV in winerror.h
+description: The previous certificate or CRL context was deleted.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80092008",
+  "codeUrl": "/win32/winerror-h/crypt_e_deleted_prev/0x80092008/",
+  "numericCode": -2146885624,
+  "define": "CRYPT_E_DELETED_PREV",
+  "defineUrl": "/win32/winerror-h/crypt_e_deleted_prev/",
+  "message": "The previous certificate or CRL context was deleted.",
+  "remarks": null,
+  "aka": [
+    "-2146885624"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/crypt_e_deleted_prev/-2146885624/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

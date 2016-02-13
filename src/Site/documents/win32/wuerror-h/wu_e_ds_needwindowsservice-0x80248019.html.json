@@ -1,0 +1,28 @@
+---
+output: win32\wuerror-h\wu_e_ds_needwindowsservice\0x80248019\index.html.json
+
+title: 0x80248019 WU_E_DS_NEEDWINDOWSSERVICE in wuerror.h
+description: A request to remove the Windows Update service or to unregister it with Automatic Updates was declined because it is a built-in service and/or Automatic Updates cannot fall back to another service.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wuerror.h",
+  "sourceUrl": "/win32/wuerror-h/",
+  "code": "0x80248019",
+  "codeUrl": "/win32/wuerror-h/wu_e_ds_needwindowsservice/0x80248019/",
+  "numericCode": -2145091559,
+  "define": "WU_E_DS_NEEDWINDOWSSERVICE",
+  "defineUrl": "/win32/wuerror-h/wu_e_ds_needwindowsservice/",
+  "message": "A request to remove the Windows Update service or to unregister it with Automatic Updates was declined because it is a built-in service and/or Automatic Updates cannot fall back to another service.",
+  "remarks": null,
+  "aka": [
+    "-2145091559"
+  ],
+  "akaUrl": [
+    "/win32/wuerror-h/wu_e_ds_needwindowsservice/-2145091559/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

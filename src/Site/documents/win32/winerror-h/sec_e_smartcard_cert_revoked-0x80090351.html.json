@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\sec_e_smartcard_cert_revoked\0x80090351\index.html.json
+
+title: 0x80090351 SEC_E_SMARTCARD_CERT_REVOKED in winerror.h
+description: The smartcard certificate used for authentication has been revoked. Please contact your system administrator. There may be additional information in the event log.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80090351",
+  "codeUrl": "/win32/winerror-h/sec_e_smartcard_cert_revoked/0x80090351/",
+  "numericCode": -2146892975,
+  "define": "SEC_E_SMARTCARD_CERT_REVOKED",
+  "defineUrl": "/win32/winerror-h/sec_e_smartcard_cert_revoked/",
+  "message": "The smartcard certificate used for authentication has been revoked. Please contact your system administrator. There may be additional information in the event log.",
+  "remarks": null,
+  "aka": [
+    "-2146892975"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/sec_e_smartcard_cert_revoked/-2146892975/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

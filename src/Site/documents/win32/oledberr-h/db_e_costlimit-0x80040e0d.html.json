@@ -1,0 +1,28 @@
+---
+output: win32\oledberr-h\db_e_costlimit\0x80040e0d\index.html.json
+
+title: 0x80040E0D DB_E_COSTLIMIT in oledberr.h
+description: Query plan within the cost limit cannot be found.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "oledberr.h",
+  "sourceUrl": "/win32/oledberr-h/",
+  "code": "0x80040E0D",
+  "codeUrl": "/win32/oledberr-h/db_e_costlimit/0x80040e0d/",
+  "numericCode": -2147217907,
+  "define": "DB_E_COSTLIMIT",
+  "defineUrl": "/win32/oledberr-h/db_e_costlimit/",
+  "message": "Query plan within the cost limit cannot be found.",
+  "remarks": null,
+  "aka": [
+    "-2147217907"
+  ],
+  "akaUrl": [
+    "/win32/oledberr-h/db_e_costlimit/-2147217907/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_vid_remote_node_parent_gpa_pages_used\0x80370001\index.html.json
+
+title: 0x80370001 STATUS_VID_REMOTE_NODE_PARENT_GPA_PAGES_USED in ntstatus.h
+description: A virtual machine is running with its memory allocated across multiple NUMA nodes. This does not indicate a problem unless the performance of your virtual machine is unusually slow. If you are experiencing performance problems, you may need to modify the NUMA configuration.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0x80370001",
+  "codeUrl": "/win32/ntstatus-h/status_vid_remote_node_parent_gpa_pages_used/0x80370001/",
+  "numericCode": -2143879167,
+  "define": "STATUS_VID_REMOTE_NODE_PARENT_GPA_PAGES_USED",
+  "defineUrl": "/win32/ntstatus-h/status_vid_remote_node_parent_gpa_pages_used/",
+  "message": "A virtual machine is running with its memory allocated across multiple NUMA nodes. This does not indicate a problem unless the performance of your virtual machine is unusually slow. If you are experiencing performance problems, you may need to modify the NUMA configuration.",
+  "remarks": null,
+  "aka": [
+    "-2143879167"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_vid_remote_node_parent_gpa_pages_used/-2143879167/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

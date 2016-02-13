@@ -1,0 +1,28 @@
+---
+output: win32\wdstptmgmtmsg-h\wdstptmgmt_e_invalid_service_ip_address_range\0xc1100110\index.html.json
+
+title: 0xC1100110 WDSTPTMGMT_E_INVALID_SERVICE_IP_ADDRESS_RANGE in WdsTptMgmtMsg.h
+description: The specified IP address range is invalid. The start and end IP addresses must be valid and the start IP address must be less than or equal to the end IP address.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WdsTptMgmtMsg.h",
+  "sourceUrl": "/win32/wdstptmgmtmsg-h/",
+  "code": "0xC1100110",
+  "codeUrl": "/win32/wdstptmgmtmsg-h/wdstptmgmt_e_invalid_service_ip_address_range/0xc1100110/",
+  "numericCode": -1055915760,
+  "define": "WDSTPTMGMT_E_INVALID_SERVICE_IP_ADDRESS_RANGE",
+  "defineUrl": "/win32/wdstptmgmtmsg-h/wdstptmgmt_e_invalid_service_ip_address_range/",
+  "message": "The specified IP address range is invalid. The start and end IP addresses must be valid and the start IP address must be less than or equal to the end IP address.",
+  "remarks": null,
+  "aka": [
+    "-1055915760"
+  ],
+  "akaUrl": [
+    "/win32/wdstptmgmtmsg-h/wdstptmgmt_e_invalid_service_ip_address_range/-1055915760/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

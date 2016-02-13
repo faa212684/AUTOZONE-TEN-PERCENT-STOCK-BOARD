@@ -1,0 +1,28 @@
+---
+output: bugcheck\bugcodes-h\irql_unexpected_value\0x000000c8\index.html.json
+
+title: 0x000000C8 IRQL_UNEXPECTED_VALUE in bugcodes.h
+description: IRQL_UNEXPECTED_VALUE
+disqus: true
+---
+{
+  "area": "bugcheck",
+  "areaUrl": "/bugcheck/",
+  "source": "bugcodes.h",
+  "sourceUrl": "/bugcheck/bugcodes-h/",
+  "code": "0x000000C8",
+  "codeUrl": "/bugcheck/bugcodes-h/irql_unexpected_value/0x000000c8/",
+  "numericCode": 200,
+  "define": "IRQL_UNEXPECTED_VALUE",
+  "defineUrl": "/bugcheck/bugcodes-h/irql_unexpected_value/",
+  "message": "IRQL_UNEXPECTED_VALUE",
+  "remarks": null,
+  "aka": [
+    "200"
+  ],
+  "akaUrl": [
+    "/bugcheck/bugcodes-h/irql_unexpected_value/200/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

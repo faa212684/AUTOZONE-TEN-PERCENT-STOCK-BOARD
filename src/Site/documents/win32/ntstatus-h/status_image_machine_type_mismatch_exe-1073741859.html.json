@@ -1,0 +1,25 @@
+---
+output: win32\ntstatus-h\status_image_machine_type_mismatch_exe\1073741859\index.html.json
+canonical: /win32/ntstatus-h/status_image_machine_type_mismatch_exe/0x40000023/
+title: 1073741859 STATUS_IMAGE_MACHINE_TYPE_MISMATCH_EXE in ntstatus.h
+description: "{Machine Type Mismatch}
+The image file %hs is valid, but is for a machine type other than the current machine."
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "1073741859",
+  "codeUrl": "/win32/ntstatus-h/status_image_machine_type_mismatch_exe/1073741859/",
+  "numericCode": 0,
+  "define": "STATUS_IMAGE_MACHINE_TYPE_MISMATCH_EXE",
+  "defineUrl": "/win32/ntstatus-h/status_image_machine_type_mismatch_exe/",
+  "message": "{Machine Type Mismatch}\r\nThe image file %hs is valid, but is for a machine type other than the current machine.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x40000023",
+  "originalCodeUrl": "/win32/ntstatus-h/status_image_machine_type_mismatch_exe/0x40000023/"
+}

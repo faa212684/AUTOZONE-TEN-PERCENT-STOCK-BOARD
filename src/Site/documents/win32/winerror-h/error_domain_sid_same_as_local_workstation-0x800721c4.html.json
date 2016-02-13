@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_domain_sid_same_as_local_workstation\0x800721c4\index.html.json
+canonical: /win32/winerror-h/error_domain_sid_same_as_local_workstation/8644/
+title: 0x800721c4 ERROR_DOMAIN_SID_SAME_AS_LOCAL_WORKSTATION in winerror.h
+description: The domain join cannot be completed because the SID of the domain you attempted to join was identical to the SID of this machine. This is a symptom of an improperly cloned operating system install.  You should run sysprep on this machine in order to generate a new machine SID. Please see http:go.microsoft.com/fwlink/?LinkId=168895 for more information.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800721c4",
+  "codeUrl": "/win32/winerror-h/error_domain_sid_same_as_local_workstation/0x800721c4/",
+  "numericCode": 0,
+  "define": "ERROR_DOMAIN_SID_SAME_AS_LOCAL_WORKSTATION",
+  "defineUrl": "/win32/winerror-h/error_domain_sid_same_as_local_workstation/",
+  "message": "The domain join cannot be completed because the SID of the domain you attempted to join was identical to the SID of this machine. This is a symptom of an improperly cloned operating system install.  You should run sysprep on this machine in order to generate a new machine SID. Please see http:go.microsoft.com/fwlink/?LinkId=168895 for more information.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "8644",
+  "originalCodeUrl": "/win32/winerror-h/error_domain_sid_same_as_local_workstation/8644/"
+}

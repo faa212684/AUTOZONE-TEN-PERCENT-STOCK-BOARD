@@ -1,0 +1,28 @@
+---
+output: win32\scarderr-h\scard_e_comm_data_lost\0x8010002f\index.html.json
+
+title: 0x8010002F SCARD_E_COMM_DATA_LOST in SCardErr.h
+description: A communications error with the smart card has been detected.  Retry the operation.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "SCardErr.h",
+  "sourceUrl": "/win32/scarderr-h/",
+  "code": "0x8010002F",
+  "codeUrl": "/win32/scarderr-h/scard_e_comm_data_lost/0x8010002f/",
+  "numericCode": -2146435025,
+  "define": "SCARD_E_COMM_DATA_LOST",
+  "defineUrl": "/win32/scarderr-h/scard_e_comm_data_lost/",
+  "message": "A communications error with the smart card has been detected.  Retry the operation.",
+  "remarks": null,
+  "aka": [
+    "-2146435025"
+  ],
+  "akaUrl": [
+    "/win32/scarderr-h/scard_e_comm_data_lost/-2146435025/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_ctx_security_layer_error\0x80071b9c\index.html.json
+canonical: /win32/winerror-h/error_ctx_security_layer_error/7068/
+title: 0x80071b9c ERROR_CTX_SECURITY_LAYER_ERROR in winerror.h
+description: The Terminal Server security layer detected an error in the protocol stream and has disconnected the client.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80071b9c",
+  "codeUrl": "/win32/winerror-h/error_ctx_security_layer_error/0x80071b9c/",
+  "numericCode": 0,
+  "define": "ERROR_CTX_SECURITY_LAYER_ERROR",
+  "defineUrl": "/win32/winerror-h/error_ctx_security_layer_error/",
+  "message": "The Terminal Server security layer detected an error in the protocol stream and has disconnected the client.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "7068",
+  "originalCodeUrl": "/win32/winerror-h/error_ctx_security_layer_error/7068/"
+}

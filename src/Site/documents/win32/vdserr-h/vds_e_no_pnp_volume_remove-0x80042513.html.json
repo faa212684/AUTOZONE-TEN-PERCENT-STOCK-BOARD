@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_e_no_pnp_volume_remove\0x80042513\index.html.json
+
+title: 0x80042513 VDS_E_NO_PNP_VOLUME_REMOVE in vdserr.h
+description: No volume removal notification was received.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x80042513",
+  "codeUrl": "/win32/vdserr-h/vds_e_no_pnp_volume_remove/0x80042513/",
+  "numericCode": -2147212013,
+  "define": "VDS_E_NO_PNP_VOLUME_REMOVE",
+  "defineUrl": "/win32/vdserr-h/vds_e_no_pnp_volume_remove/",
+  "message": "No volume removal notification was received.",
+  "remarks": null,
+  "aka": [
+    "-2147212013"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_no_pnp_volume_remove/-2147212013/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

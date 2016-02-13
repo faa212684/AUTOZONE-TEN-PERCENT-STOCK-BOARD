@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\milerr_internalerror\0x88980080\index.html.json
+
+title: 0x88980080 MILERR_INTERNALERROR in winerror.h
+description: An internal error (MIL bug) occurred. On checked builds, an assert would be raised.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x88980080",
+  "codeUrl": "/win32/winerror-h/milerr_internalerror/0x88980080/",
+  "numericCode": -2003304320,
+  "define": "MILERR_INTERNALERROR",
+  "defineUrl": "/win32/winerror-h/milerr_internalerror/",
+  "message": "An internal error (MIL bug) occurred. On checked builds, an assert would be raised.",
+  "remarks": null,
+  "aka": [
+    "-2003304320"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/milerr_internalerror/-2003304320/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

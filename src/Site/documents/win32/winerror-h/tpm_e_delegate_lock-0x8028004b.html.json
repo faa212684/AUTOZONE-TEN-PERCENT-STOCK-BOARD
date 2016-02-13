@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\tpm_e_delegate_lock\0x8028004b\index.html.json
+
+title: 0x8028004B TPM_E_DELEGATE_LOCK in winerror.h
+description: The delegate administration is locked.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8028004B",
+  "codeUrl": "/win32/winerror-h/tpm_e_delegate_lock/0x8028004b/",
+  "numericCode": -2144862133,
+  "define": "TPM_E_DELEGATE_LOCK",
+  "defineUrl": "/win32/winerror-h/tpm_e_delegate_lock/",
+  "message": "The delegate administration is locked.",
+  "remarks": null,
+  "aka": [
+    "-2144862133"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/tpm_e_delegate_lock/-2144862133/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

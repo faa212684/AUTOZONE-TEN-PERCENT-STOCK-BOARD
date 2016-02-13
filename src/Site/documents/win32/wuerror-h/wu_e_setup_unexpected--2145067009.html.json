@@ -1,0 +1,24 @@
+---
+output: win32\wuerror-h\wu_e_setup_unexpected\-2145067009\index.html.json
+canonical: /win32/wuerror-h/wu_e_setup_unexpected/0x8024dfff/
+title: -2145067009 WU_E_SETUP_UNEXPECTED in wuerror.h
+description: Windows Update Agent could not be updated because of an error not covered by another WU_E_SETUP_* error code.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wuerror.h",
+  "sourceUrl": "/win32/wuerror-h/",
+  "code": "-2145067009",
+  "codeUrl": "/win32/wuerror-h/wu_e_setup_unexpected/-2145067009/",
+  "numericCode": 0,
+  "define": "WU_E_SETUP_UNEXPECTED",
+  "defineUrl": "/win32/wuerror-h/wu_e_setup_unexpected/",
+  "message": "Windows Update Agent could not be updated because of an error not covered by another WU_E_SETUP_* error code.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x8024DFFF",
+  "originalCodeUrl": "/win32/wuerror-h/wu_e_setup_unexpected/0x8024dfff/"
+}

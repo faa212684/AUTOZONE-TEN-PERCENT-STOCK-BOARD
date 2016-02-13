@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_invalid_block_length\1106\index.html.json
+
+title: 1106 ERROR_INVALID_BLOCK_LENGTH in winerror.h
+description: When accessing a new tape of a multivolume partition, the current block size is incorrect.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1106",
+  "codeUrl": "/win32/winerror-h/error_invalid_block_length/1106/",
+  "numericCode": 1106,
+  "define": "ERROR_INVALID_BLOCK_LENGTH",
+  "defineUrl": "/win32/winerror-h/error_invalid_block_length/",
+  "message": "When accessing a new tape of a multivolume partition, the current block size is incorrect.",
+  "remarks": null,
+  "aka": [
+    "0x80070452",
+    "-2147023790"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_invalid_block_length/0x80070452/",
+    "/win32/winerror-h/error_invalid_block_length/-2147023790/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

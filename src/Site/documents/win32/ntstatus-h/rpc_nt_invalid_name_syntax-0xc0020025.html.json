@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\rpc_nt_invalid_name_syntax\0xc0020025\index.html.json
+
+title: 0xC0020025 RPC_NT_INVALID_NAME_SYNTAX in ntstatus.h
+description: The name syntax is invalid.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0020025",
+  "codeUrl": "/win32/ntstatus-h/rpc_nt_invalid_name_syntax/0xc0020025/",
+  "numericCode": -1073610715,
+  "define": "RPC_NT_INVALID_NAME_SYNTAX",
+  "defineUrl": "/win32/ntstatus-h/rpc_nt_invalid_name_syntax/",
+  "message": "The name syntax is invalid.",
+  "remarks": null,
+  "aka": [
+    "-1073610715"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/rpc_nt_invalid_name_syntax/-1073610715/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

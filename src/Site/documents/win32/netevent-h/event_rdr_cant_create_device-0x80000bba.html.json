@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_rdr_cant_create_device\0x80000bba\index.html.json
+
+title: 0x80000BBA EVENT_RDR_CANT_CREATE_DEVICE in netevent.h
+description: The redirector could not create its device.  The redirector could not be started.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x80000BBA",
+  "codeUrl": "/win32/netevent-h/event_rdr_cant_create_device/0x80000bba/",
+  "numericCode": -2147480646,
+  "define": "EVENT_RDR_CANT_CREATE_DEVICE",
+  "defineUrl": "/win32/netevent-h/event_rdr_cant_create_device/",
+  "message": "The redirector could not create its device.  The redirector could not be started.",
+  "remarks": null,
+  "aka": [
+    "-2147480646"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_rdr_cant_create_device/-2147480646/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

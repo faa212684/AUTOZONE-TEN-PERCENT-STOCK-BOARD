@@ -1,0 +1,25 @@
+---
+output: win32\ntstatus-h\status_already_committed\-1073741791\index.html.json
+canonical: /win32/ntstatus-h/status_already_committed/0xc0000021/
+title: -1073741791 STATUS_ALREADY_COMMITTED in ntstatus.h
+description: "{Already Committed}
+The specified address range is already committed."
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741791",
+  "codeUrl": "/win32/ntstatus-h/status_already_committed/-1073741791/",
+  "numericCode": 0,
+  "define": "STATUS_ALREADY_COMMITTED",
+  "defineUrl": "/win32/ntstatus-h/status_already_committed/",
+  "message": "{Already Committed}\r\nThe specified address range is already committed.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000021",
+  "originalCodeUrl": "/win32/ntstatus-h/status_already_committed/0xc0000021/"
+}

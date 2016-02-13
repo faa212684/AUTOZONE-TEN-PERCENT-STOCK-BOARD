@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\frs_err_parent_insufficient_priv\0x80071f49\index.html.json
+canonical: /win32/winerror-h/frs_err_parent_insufficient_priv/8009/
+title: 0x80071f49 FRS_ERR_PARENT_INSUFFICIENT_PRIV in winerror.h
+description: The file replication service cannot satisfy the request because the user has insufficient privileges on the domain controller. The event log may have more information.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80071f49",
+  "codeUrl": "/win32/winerror-h/frs_err_parent_insufficient_priv/0x80071f49/",
+  "numericCode": 0,
+  "define": "FRS_ERR_PARENT_INSUFFICIENT_PRIV",
+  "defineUrl": "/win32/winerror-h/frs_err_parent_insufficient_priv/",
+  "message": "The file replication service cannot satisfy the request because the user has insufficient privileges on the domain controller. The event log may have more information.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "8009",
+  "originalCodeUrl": "/win32/winerror-h/frs_err_parent_insufficient_priv/8009/"
+}

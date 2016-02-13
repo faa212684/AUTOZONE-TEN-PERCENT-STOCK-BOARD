@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_e_extend_multiple_disks_not_supported\0x8004255d\index.html.json
+
+title: 0x8004255D VDS_E_EXTEND_MULTIPLE_DISKS_NOT_SUPPORTED in vdserr.h
+description: Extending the volume onto multiple disks is not supported by this provider.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x8004255D",
+  "codeUrl": "/win32/vdserr-h/vds_e_extend_multiple_disks_not_supported/0x8004255d/",
+  "numericCode": -2147211939,
+  "define": "VDS_E_EXTEND_MULTIPLE_DISKS_NOT_SUPPORTED",
+  "defineUrl": "/win32/vdserr-h/vds_e_extend_multiple_disks_not_supported/",
+  "message": "Extending the volume onto multiple disks is not supported by this provider.",
+  "remarks": null,
+  "aka": [
+    "-2147211939"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_extend_multiple_disks_not_supported/-2147211939/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_no_spool_space\0xc00000c7\index.html.json
+
+title: 0xC00000C7 STATUS_NO_SPOOL_SPACE in ntstatus.h
+description: Space to store the file waiting to be printed is not available on the server.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC00000C7",
+  "codeUrl": "/win32/ntstatus-h/status_no_spool_space/0xc00000c7/",
+  "numericCode": -1073741625,
+  "define": "STATUS_NO_SPOOL_SPACE",
+  "defineUrl": "/win32/ntstatus-h/status_no_spool_space/",
+  "message": "Space to store the file waiting to be printed is not available on the server.",
+  "remarks": null,
+  "aka": [
+    "-1073741625"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_no_spool_space/-1073741625/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

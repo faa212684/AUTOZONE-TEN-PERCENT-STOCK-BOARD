@@ -1,0 +1,29 @@
+---
+output: win32\wsmerror-h\error_wsman_no_receive_response\0x8033818f\index.html.json
+
+title: 0x8033818F ERROR_WSMAN_NO_RECEIVE_RESPONSE in wsmerror.h
+description: The WinRM client cannot process the request. The response to a Receive request did not contain a valid ReceiveResponse element.
+The ReceiveResponse element was not found or did not contain valid content.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x8033818F",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_no_receive_response/0x8033818f/",
+  "numericCode": -2144108145,
+  "define": "ERROR_WSMAN_NO_RECEIVE_RESPONSE",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_no_receive_response/",
+  "message": "The WinRM client cannot process the request. The response to a Receive request did not contain a valid ReceiveResponse element.\r\nThe ReceiveResponse element was not found or did not contain valid content.",
+  "remarks": null,
+  "aka": [
+    "-2144108145"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_no_receive_response/-2144108145/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

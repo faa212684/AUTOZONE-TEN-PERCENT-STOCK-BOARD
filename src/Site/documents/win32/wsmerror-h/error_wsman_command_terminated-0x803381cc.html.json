@@ -1,0 +1,28 @@
+---
+output: win32\wsmerror-h\error_wsman_command_terminated\0x803381cc\index.html.json
+
+title: 0x803381CC ERROR_WSMAN_COMMAND_TERMINATED in wsmerror.h
+description: The WinRM Shell client cannot process the request. The command is currently terminating or was terminated.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x803381CC",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_command_terminated/0x803381cc/",
+  "numericCode": -2144108084,
+  "define": "ERROR_WSMAN_COMMAND_TERMINATED",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_command_terminated/",
+  "message": "The WinRM Shell client cannot process the request. The command is currently terminating or was terminated.",
+  "remarks": null,
+  "aka": [
+    "-2144108084"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_command_terminated/-2144108084/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

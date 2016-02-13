@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_clusterlog_record_exceeds_maxsize\5030\index.html.json
+
+title: 5030 ERROR_CLUSTERLOG_RECORD_EXCEEDS_MAXSIZE in winerror.h
+description: The record could not be written to the cluster log since it exceeds the maximum size.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "5030",
+  "codeUrl": "/win32/winerror-h/error_clusterlog_record_exceeds_maxsize/5030/",
+  "numericCode": 5030,
+  "define": "ERROR_CLUSTERLOG_RECORD_EXCEEDS_MAXSIZE",
+  "defineUrl": "/win32/winerror-h/error_clusterlog_record_exceeds_maxsize/",
+  "message": "The record could not be written to the cluster log since it exceeds the maximum size.",
+  "remarks": null,
+  "aka": [
+    "0x800713a6",
+    "-2147019866"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_clusterlog_record_exceeds_maxsize/0x800713a6/",
+    "/win32/winerror-h/error_clusterlog_record_exceeds_maxsize/-2147019866/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

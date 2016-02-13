@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\rpc_s_invalid_async_handle\1914\index.html.json
+
+title: 1914 RPC_S_INVALID_ASYNC_HANDLE in winerror.h
+description: Invalid asynchronous remote procedure call handle.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1914",
+  "codeUrl": "/win32/winerror-h/rpc_s_invalid_async_handle/1914/",
+  "numericCode": 1914,
+  "define": "RPC_S_INVALID_ASYNC_HANDLE",
+  "defineUrl": "/win32/winerror-h/rpc_s_invalid_async_handle/",
+  "message": "Invalid asynchronous remote procedure call handle.",
+  "remarks": null,
+  "aka": [
+    "0x8007077a",
+    "-2147022982"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/rpc_s_invalid_async_handle/0x8007077a/",
+    "/win32/winerror-h/rpc_s_invalid_async_handle/-2147022982/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

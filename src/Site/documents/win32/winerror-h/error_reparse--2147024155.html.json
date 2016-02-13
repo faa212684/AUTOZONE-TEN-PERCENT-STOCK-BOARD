@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_reparse\-2147024155\index.html.json
+canonical: /win32/winerror-h/error_reparse/741/
+title: -2147024155 ERROR_REPARSE in winerror.h
+description: A reparse should be performed by the Object Manager since the name of the file resulted in a symbolic link.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147024155",
+  "codeUrl": "/win32/winerror-h/error_reparse/-2147024155/",
+  "numericCode": 0,
+  "define": "ERROR_REPARSE",
+  "defineUrl": "/win32/winerror-h/error_reparse/",
+  "message": "A reparse should be performed by the Object Manager since the name of the file resulted in a symbolic link.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "741",
+  "originalCodeUrl": "/win32/winerror-h/error_reparse/741/"
+}

@@ -1,0 +1,29 @@
+---
+output: win32\cdosyserr-h\evtexpansionfoldersavechangesfailed\0xc0032009\index.html.json
+
+title: 0xC0032009 evtExpansionFolderSaveChangesFailed in CDOSysErr.h
+description: Calendaring agent failed in folder save notification with error %1 on %2: %3.
+%n%nFor more information, click http:www.microsoft.com/contentredirect.asp.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "CDOSysErr.h",
+  "sourceUrl": "/win32/cdosyserr-h/",
+  "code": "0xC0032009",
+  "codeUrl": "/win32/cdosyserr-h/evtexpansionfoldersavechangesfailed/0xc0032009/",
+  "numericCode": -1073537015,
+  "define": "evtExpansionFolderSaveChangesFailed",
+  "defineUrl": "/win32/cdosyserr-h/evtexpansionfoldersavechangesfailed/",
+  "message": "Calendaring agent failed in folder save notification with error %1 on %2: %3.\r\n%n%nFor more information, click http:www.microsoft.com/contentredirect.asp.",
+  "remarks": null,
+  "aka": [
+    "-1073537015"
+  ],
+  "akaUrl": [
+    "/win32/cdosyserr-h/evtexpansionfoldersavechangesfailed/-1073537015/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_auth_tag_mismatch\0xc000a002\index.html.json
+
+title: 0xC000A002 STATUS_AUTH_TAG_MISMATCH in ntstatus.h
+description: The computed authentication tag did not match the input authentication tag.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000A002",
+  "codeUrl": "/win32/ntstatus-h/status_auth_tag_mismatch/0xc000a002/",
+  "numericCode": -1073700862,
+  "define": "STATUS_AUTH_TAG_MISMATCH",
+  "defineUrl": "/win32/ntstatus-h/status_auth_tag_mismatch/",
+  "message": "The computed authentication tag did not match the input authentication tag.",
+  "remarks": null,
+  "aka": [
+    "-1073700862"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_auth_tag_mismatch/-1073700862/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

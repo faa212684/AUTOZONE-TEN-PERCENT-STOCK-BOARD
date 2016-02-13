@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_already_running_lkg\1074\index.html.json
+
+title: 1074 ERROR_ALREADY_RUNNING_LKG in winerror.h
+description: The system is currently running with the last-known-good configuration.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1074",
+  "codeUrl": "/win32/winerror-h/error_already_running_lkg/1074/",
+  "numericCode": 1074,
+  "define": "ERROR_ALREADY_RUNNING_LKG",
+  "defineUrl": "/win32/winerror-h/error_already_running_lkg/",
+  "message": "The system is currently running with the last-known-good configuration.",
+  "remarks": null,
+  "aka": [
+    "0x80070432",
+    "-2147023822"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_already_running_lkg/0x80070432/",
+    "/win32/winerror-h/error_already_running_lkg/-2147023822/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

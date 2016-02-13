@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_winsock_tdi_filter_detected\0x80003e81\index.html.json
+
+title: 0x80003E81 EVENT_WINSOCK_TDI_FILTER_DETECTED in netevent.h
+description: A TDI filter (%2) was detected. This filter has not been certified by Microsoft and may cause system instability.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x80003E81",
+  "codeUrl": "/win32/netevent-h/event_winsock_tdi_filter_detected/0x80003e81/",
+  "numericCode": -2147467647,
+  "define": "EVENT_WINSOCK_TDI_FILTER_DETECTED",
+  "defineUrl": "/win32/netevent-h/event_winsock_tdi_filter_detected/",
+  "message": "A TDI filter (%2) was detected. This filter has not been certified by Microsoft and may cause system instability.",
+  "remarks": null,
+  "aka": [
+    "-2147467647"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_winsock_tdi_filter_detected/-2147467647/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

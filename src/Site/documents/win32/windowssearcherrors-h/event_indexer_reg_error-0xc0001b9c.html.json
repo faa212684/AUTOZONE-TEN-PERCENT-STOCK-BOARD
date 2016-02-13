@@ -1,0 +1,28 @@
+---
+output: win32\windowssearcherrors-h\event_indexer_reg_error\0xc0001b9c\index.html.json
+
+title: 0xC0001B9C EVENT_INDEXER_REG_ERROR in WindowsSearchErrors.h
+description: The registry cannot be read, possibly because the registry keys for this index are missing. You may have to delete and recreate the index %1.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "0xC0001B9C",
+  "codeUrl": "/win32/windowssearcherrors-h/event_indexer_reg_error/0xc0001b9c/",
+  "numericCode": -1073734756,
+  "define": "EVENT_INDEXER_REG_ERROR",
+  "defineUrl": "/win32/windowssearcherrors-h/event_indexer_reg_error/",
+  "message": "The registry cannot be read, possibly because the registry keys for this index are missing. You may have to delete and recreate the index %1.",
+  "remarks": null,
+  "aka": [
+    "-1073734756"
+  ],
+  "akaUrl": [
+    "/win32/windowssearcherrors-h/event_indexer_reg_error/-1073734756/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

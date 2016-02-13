@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\e_syncengine_service_authentication_failed\0x8802c003\index.html.json
+
+title: 0x8802C003 E_SYNCENGINE_SERVICE_AUTHENTICATION_FAILED in winerror.h
+description: The account you're signed in with doesn't have permission to open this file.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8802C003",
+  "codeUrl": "/win32/winerror-h/e_syncengine_service_authentication_failed/0x8802c003/",
+  "numericCode": -2013085693,
+  "define": "E_SYNCENGINE_SERVICE_AUTHENTICATION_FAILED",
+  "defineUrl": "/win32/winerror-h/e_syncengine_service_authentication_failed/",
+  "message": "The account you're signed in with doesn't have permission to open this file.",
+  "remarks": null,
+  "aka": [
+    "-2013085693"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/e_syncengine_service_authentication_failed/-2013085693/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

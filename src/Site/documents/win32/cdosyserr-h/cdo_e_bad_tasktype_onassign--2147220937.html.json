@@ -1,0 +1,24 @@
+---
+output: win32\cdosyserr-h\cdo_e_bad_tasktype_onassign\-2147220937\index.html.json
+canonical: /win32/cdosyserr-h/cdo_e_bad_tasktype_onassign/0x80040237/
+title: -2147220937 CDO_E_BAD_TASKTYPE_ONASSIGN in CDOSysErr.h
+description: The task with its current task type does not permit a call on Assign. Please call CreateUnassignedCopy instead.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "CDOSysErr.h",
+  "sourceUrl": "/win32/cdosyserr-h/",
+  "code": "-2147220937",
+  "codeUrl": "/win32/cdosyserr-h/cdo_e_bad_tasktype_onassign/-2147220937/",
+  "numericCode": 0,
+  "define": "CDO_E_BAD_TASKTYPE_ONASSIGN",
+  "defineUrl": "/win32/cdosyserr-h/cdo_e_bad_tasktype_onassign/",
+  "message": "The task with its current task type does not permit a call on Assign. Please call CreateUnassignedCopy instead.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80040237",
+  "originalCodeUrl": "/win32/cdosyserr-h/cdo_e_bad_tasktype_onassign/0x80040237/"
+}

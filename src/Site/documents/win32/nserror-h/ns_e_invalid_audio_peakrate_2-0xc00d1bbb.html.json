@@ -1,0 +1,28 @@
+---
+output: win32\nserror-h\ns_e_invalid_audio_peakrate_2\0xc00d1bbb\index.html.json
+
+title: 0xC00D1BBB NS_E_INVALID_AUDIO_PEAKRATE_2 in nserror.h
+description: The audio peak bit rate setting must be greater than the audio bit rate setting.%0
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "nserror.h",
+  "sourceUrl": "/win32/nserror-h/",
+  "code": "0xC00D1BBB",
+  "codeUrl": "/win32/nserror-h/ns_e_invalid_audio_peakrate_2/0xc00d1bbb/",
+  "numericCode": -1072882757,
+  "define": "NS_E_INVALID_AUDIO_PEAKRATE_2",
+  "defineUrl": "/win32/nserror-h/ns_e_invalid_audio_peakrate_2/",
+  "message": "The audio peak bit rate setting must be greater than the audio bit rate setting.%0",
+  "remarks": null,
+  "aka": [
+    "-1072882757"
+  ],
+  "akaUrl": [
+    "/win32/nserror-h/ns_e_invalid_audio_peakrate_2/-1072882757/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

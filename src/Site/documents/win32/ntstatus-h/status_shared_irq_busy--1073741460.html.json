@@ -1,0 +1,26 @@
+---
+output: win32\ntstatus-h\status_shared_irq_busy\-1073741460\index.html.json
+canonical: /win32/ntstatus-h/status_shared_irq_busy/0xc000016c/
+title: -1073741460 STATUS_SHARED_IRQ_BUSY in ntstatus.h
+description: An attempt was made to open a device that was sharing an IRQ with other devices.
+At least one other device that uses that IRQ was already opened.
+Two concurrent opens of devices that share an IRQ and only work via interrupts is not supported for the particular bus type that the devices use.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741460",
+  "codeUrl": "/win32/ntstatus-h/status_shared_irq_busy/-1073741460/",
+  "numericCode": 0,
+  "define": "STATUS_SHARED_IRQ_BUSY",
+  "defineUrl": "/win32/ntstatus-h/status_shared_irq_busy/",
+  "message": "An attempt was made to open a device that was sharing an IRQ with other devices.\r\nAt least one other device that uses that IRQ was already opened.\r\nTwo concurrent opens of devices that share an IRQ and only work via interrupts is not supported for the particular bus type that the devices use.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC000016C",
+  "originalCodeUrl": "/win32/ntstatus-h/status_shared_irq_busy/0xc000016c/"
+}

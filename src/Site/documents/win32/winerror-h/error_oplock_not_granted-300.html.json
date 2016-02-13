@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_oplock_not_granted\300\index.html.json
+
+title: 300 ERROR_OPLOCK_NOT_GRANTED in winerror.h
+description: The oplock request is denied.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "300",
+  "codeUrl": "/win32/winerror-h/error_oplock_not_granted/300/",
+  "numericCode": 300,
+  "define": "ERROR_OPLOCK_NOT_GRANTED",
+  "defineUrl": "/win32/winerror-h/error_oplock_not_granted/",
+  "message": "The oplock request is denied.",
+  "remarks": null,
+  "aka": [
+    "0x8007012c",
+    "-2147024596"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_oplock_not_granted/0x8007012c/",
+    "/win32/winerror-h/error_oplock_not_granted/-2147024596/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

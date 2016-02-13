@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\fve_e_bad_information\-2144272368\index.html.json
+canonical: /win32/winerror-h/fve_e_bad_information/0x80310010/
+title: -2144272368 FVE_E_BAD_INFORMATION in winerror.h
+description: The BitLocker metadata for the encrypted drive is not valid. You can attempt to repair the drive to restore access.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2144272368",
+  "codeUrl": "/win32/winerror-h/fve_e_bad_information/-2144272368/",
+  "numericCode": 0,
+  "define": "FVE_E_BAD_INFORMATION",
+  "defineUrl": "/win32/winerror-h/fve_e_bad_information/",
+  "message": "The BitLocker metadata for the encrypted drive is not valid. You can attempt to repair the drive to restore access.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80310010",
+  "originalCodeUrl": "/win32/winerror-h/fve_e_bad_information/0x80310010/"
+}

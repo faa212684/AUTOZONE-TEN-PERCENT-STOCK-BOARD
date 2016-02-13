@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\tpm_e_ma_destination\0x8028005d\index.html.json
+
+title: 0x8028005D TPM_E_MA_DESTINATION in winerror.h
+description: Migration destination not authenticated.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8028005D",
+  "codeUrl": "/win32/winerror-h/tpm_e_ma_destination/0x8028005d/",
+  "numericCode": -2144862115,
+  "define": "TPM_E_MA_DESTINATION",
+  "defineUrl": "/win32/winerror-h/tpm_e_ma_destination/",
+  "message": "Migration destination not authenticated.",
+  "remarks": null,
+  "aka": [
+    "-2144862115"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/tpm_e_ma_destination/-2144862115/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

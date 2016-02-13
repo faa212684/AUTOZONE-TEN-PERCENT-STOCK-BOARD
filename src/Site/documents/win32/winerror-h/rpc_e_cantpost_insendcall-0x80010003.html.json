@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\rpc_e_cantpost_insendcall\0x80010003\index.html.json
+
+title: 0x80010003 RPC_E_CANTPOST_INSENDCALL in winerror.h
+description: The caller is dispatching an intertask SendMessage call and cannot call out via PostMessage.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80010003",
+  "codeUrl": "/win32/winerror-h/rpc_e_cantpost_insendcall/0x80010003/",
+  "numericCode": -2147418109,
+  "define": "RPC_E_CANTPOST_INSENDCALL",
+  "defineUrl": "/win32/winerror-h/rpc_e_cantpost_insendcall/",
+  "message": "The caller is dispatching an intertask SendMessage call and cannot call out via PostMessage.",
+  "remarks": null,
+  "aka": [
+    "-2147418109"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/rpc_e_cantpost_insendcall/-2147418109/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

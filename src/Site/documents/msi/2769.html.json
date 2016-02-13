@@ -1,0 +1,24 @@
+---
+output: msi\2769\index.html.json
+
+title: msi 2769
+description: Custom Action [2] did not close [3] MSIHANDLEs.
+disqus: true
+---
+{
+  "area": "msi",
+  "areaUrl": "/msi/",
+  "source": null,
+  "sourceUrl": "/msi/",
+  "code": "2769",
+  "codeUrl": "/msi/2769/",
+  "numericCode": 2769,
+  "define": null,
+  "defineUrl": "/msi/",
+  "message": "Custom Action [2] did not close [3] MSIHANDLEs.",
+  "remarks": "The <a href=\"https://msdn.microsoft.com/en-us/library/aa369500(v=vs.85).aspx\">InstallExecuteSequence</a> may have been authored incorrectly. Actions that change the system must be sequenced between the <a href=\"https://msdn.microsoft.com/en-us/library/aa369535(v=vs.85).aspx\">InstallInitialize</a> and <a href=\"https://msdn.microsoft.com/en-us/library/aa369505(v=vs.85).aspx\">InstallFinalize</a> actions. Perform <a href=\"https://msdn.microsoft.com/en-us/library/aa370569(v=vs.85).aspx\">package validation</a> and check for <a href=\"https://msdn.microsoft.com/en-us/library/aa369030(v=vs.85).aspx\">ICE77</a>.",
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\stg_e_writefault\0x8003001d\index.html.json
+
+title: 0x8003001D STG_E_WRITEFAULT in winerror.h
+description: A disk error occurred during a write operation.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8003001D",
+  "codeUrl": "/win32/winerror-h/stg_e_writefault/0x8003001d/",
+  "numericCode": -2147287011,
+  "define": "STG_E_WRITEFAULT",
+  "defineUrl": "/win32/winerror-h/stg_e_writefault/",
+  "message": "A disk error occurred during a write operation.",
+  "remarks": null,
+  "aka": [
+    "-2147287011"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/stg_e_writefault/-2147287011/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

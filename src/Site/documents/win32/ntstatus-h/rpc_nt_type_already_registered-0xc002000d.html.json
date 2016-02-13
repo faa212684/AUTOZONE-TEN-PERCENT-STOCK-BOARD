@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\rpc_nt_type_already_registered\0xc002000d\index.html.json
+
+title: 0xC002000D RPC_NT_TYPE_ALREADY_REGISTERED in ntstatus.h
+description: The type UUID has already been registered.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC002000D",
+  "codeUrl": "/win32/ntstatus-h/rpc_nt_type_already_registered/0xc002000d/",
+  "numericCode": -1073610739,
+  "define": "RPC_NT_TYPE_ALREADY_REGISTERED",
+  "defineUrl": "/win32/ntstatus-h/rpc_nt_type_already_registered/",
+  "message": "The type UUID has already been registered.",
+  "remarks": null,
+  "aka": [
+    "-1073610739"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/rpc_nt_type_already_registered/-1073610739/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

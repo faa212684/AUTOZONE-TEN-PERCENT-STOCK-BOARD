@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\fwp_e_txn_in_progress\0x8032000e\index.html.json
+
+title: 0x8032000E FWP_E_TXN_IN_PROGRESS in winerror.h
+description: The call is not allowed from within an explicit transaction.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8032000E",
+  "codeUrl": "/win32/winerror-h/fwp_e_txn_in_progress/0x8032000e/",
+  "numericCode": -2144206834,
+  "define": "FWP_E_TXN_IN_PROGRESS",
+  "defineUrl": "/win32/winerror-h/fwp_e_txn_in_progress/",
+  "message": "The call is not allowed from within an explicit transaction.",
+  "remarks": null,
+  "aka": [
+    "-2144206834"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/fwp_e_txn_in_progress/-2144206834/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

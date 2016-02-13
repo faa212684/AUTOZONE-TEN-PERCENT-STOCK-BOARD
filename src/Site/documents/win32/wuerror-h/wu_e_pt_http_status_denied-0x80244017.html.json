@@ -1,0 +1,28 @@
+---
+output: win32\wuerror-h\wu_e_pt_http_status_denied\0x80244017\index.html.json
+
+title: 0x80244017 WU_E_PT_HTTP_STATUS_DENIED in wuerror.h
+description: Same as HTTP status 401 - the requested resource requires user authentication.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wuerror.h",
+  "sourceUrl": "/win32/wuerror-h/",
+  "code": "0x80244017",
+  "codeUrl": "/win32/wuerror-h/wu_e_pt_http_status_denied/0x80244017/",
+  "numericCode": -2145107945,
+  "define": "WU_E_PT_HTTP_STATUS_DENIED",
+  "defineUrl": "/win32/wuerror-h/wu_e_pt_http_status_denied/",
+  "message": "Same as HTTP status 401 - the requested resource requires user authentication.",
+  "remarks": null,
+  "aka": [
+    "-2145107945"
+  ],
+  "akaUrl": [
+    "/win32/wuerror-h/wu_e_pt_http_status_denied/-2145107945/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

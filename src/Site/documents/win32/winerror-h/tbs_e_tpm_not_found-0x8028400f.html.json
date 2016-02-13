@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\tbs_e_tpm_not_found\0x8028400f\index.html.json
+
+title: 0x8028400F TBS_E_TPM_NOT_FOUND in winerror.h
+description: A compatible Trusted Platform Module (TPM) Security Device cannot be found on this computer.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8028400F",
+  "codeUrl": "/win32/winerror-h/tbs_e_tpm_not_found/0x8028400f/",
+  "numericCode": -2144845809,
+  "define": "TBS_E_TPM_NOT_FOUND",
+  "defineUrl": "/win32/winerror-h/tbs_e_tpm_not_found/",
+  "message": "A compatible Trusted Platform Module (TPM) Security Device cannot be found on this computer.",
+  "remarks": null,
+  "aka": [
+    "-2144845809"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/tbs_e_tpm_not_found/-2144845809/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

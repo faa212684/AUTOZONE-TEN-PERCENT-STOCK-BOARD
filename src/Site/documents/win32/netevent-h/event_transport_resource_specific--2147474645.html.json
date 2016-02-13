@@ -1,0 +1,24 @@
+---
+output: win32\netevent-h\event_transport_resource_specific\-2147474645\index.html.json
+canonical: /win32/netevent-h/event_transport_resource_specific/0x8000232b/
+title: -2147474645 EVENT_TRANSPORT_RESOURCE_SPECIFIC in netevent.h
+description: %2 could not allocate a resource of type %3 due to a specifically configured limit of %4.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "-2147474645",
+  "codeUrl": "/win32/netevent-h/event_transport_resource_specific/-2147474645/",
+  "numericCode": 0,
+  "define": "EVENT_TRANSPORT_RESOURCE_SPECIFIC",
+  "defineUrl": "/win32/netevent-h/event_transport_resource_specific/",
+  "message": "%2 could not allocate a resource of type %3 due to a specifically configured limit of %4.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x8000232B",
+  "originalCodeUrl": "/win32/netevent-h/event_transport_resource_specific/0x8000232b/"
+}

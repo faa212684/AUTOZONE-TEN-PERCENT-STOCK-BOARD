@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_not_quorum_capable\-2147019875\index.html.json
+canonical: /win32/winerror-h/error_not_quorum_capable/5021/
+title: -2147019875 ERROR_NOT_QUORUM_CAPABLE in winerror.h
+description: The cluster could not make the specified resource a quorum resource because it is not capable of being a quorum resource.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147019875",
+  "codeUrl": "/win32/winerror-h/error_not_quorum_capable/-2147019875/",
+  "numericCode": 0,
+  "define": "ERROR_NOT_QUORUM_CAPABLE",
+  "defineUrl": "/win32/winerror-h/error_not_quorum_capable/",
+  "message": "The cluster could not make the specified resource a quorum resource because it is not capable of being a quorum resource.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "5021",
+  "originalCodeUrl": "/win32/winerror-h/error_not_quorum_capable/5021/"
+}

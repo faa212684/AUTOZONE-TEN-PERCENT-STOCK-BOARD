@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_graphics_present_occluded\0xc01e0006\index.html.json
+
+title: 0xC01E0006 STATUS_GRAPHICS_PRESENT_OCCLUDED in ntstatus.h
+description: Nothing to present due to desktop occlusion
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC01E0006",
+  "codeUrl": "/win32/ntstatus-h/status_graphics_present_occluded/0xc01e0006/",
+  "numericCode": -1071775738,
+  "define": "STATUS_GRAPHICS_PRESENT_OCCLUDED",
+  "defineUrl": "/win32/ntstatus-h/status_graphics_present_occluded/",
+  "message": "Nothing to present due to desktop occlusion",
+  "remarks": null,
+  "aka": [
+    "-1071775738"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_graphics_present_occluded/-1071775738/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

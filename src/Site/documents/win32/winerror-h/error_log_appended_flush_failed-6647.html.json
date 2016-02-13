@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_log_appended_flush_failed\6647\index.html.json
+
+title: 6647 ERROR_LOG_APPENDED_FLUSH_FAILED in winerror.h
+description: Records were appended to the log or reservation changes were made, but the log could not be flushed.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "6647",
+  "codeUrl": "/win32/winerror-h/error_log_appended_flush_failed/6647/",
+  "numericCode": 6647,
+  "define": "ERROR_LOG_APPENDED_FLUSH_FAILED",
+  "defineUrl": "/win32/winerror-h/error_log_appended_flush_failed/",
+  "message": "Records were appended to the log or reservation changes were made, but the log could not be flushed.",
+  "remarks": null,
+  "aka": [
+    "0x800719f7",
+    "-2147018249"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_log_appended_flush_failed/0x800719f7/",
+    "/win32/winerror-h/error_log_appended_flush_failed/-2147018249/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

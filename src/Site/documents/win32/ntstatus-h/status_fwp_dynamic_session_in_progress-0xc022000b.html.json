@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_fwp_dynamic_session_in_progress\0xc022000b\index.html.json
+
+title: 0xC022000B STATUS_FWP_DYNAMIC_SESSION_IN_PROGRESS in ntstatus.h
+description: The call is not allowed from within a dynamic session.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC022000B",
+  "codeUrl": "/win32/ntstatus-h/status_fwp_dynamic_session_in_progress/0xc022000b/",
+  "numericCode": -1071513589,
+  "define": "STATUS_FWP_DYNAMIC_SESSION_IN_PROGRESS",
+  "defineUrl": "/win32/ntstatus-h/status_fwp_dynamic_session_in_progress/",
+  "message": "The call is not allowed from within a dynamic session.",
+  "remarks": null,
+  "aka": [
+    "-1071513589"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_fwp_dynamic_session_in_progress/-1071513589/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

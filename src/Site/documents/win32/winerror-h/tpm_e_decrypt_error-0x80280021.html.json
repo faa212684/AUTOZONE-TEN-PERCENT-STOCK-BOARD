@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\tpm_e_decrypt_error\0x80280021\index.html.json
+
+title: 0x80280021 TPM_E_DECRYPT_ERROR in winerror.h
+description: The decryption process did not complete.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80280021",
+  "codeUrl": "/win32/winerror-h/tpm_e_decrypt_error/0x80280021/",
+  "numericCode": -2144862175,
+  "define": "TPM_E_DECRYPT_ERROR",
+  "defineUrl": "/win32/winerror-h/tpm_e_decrypt_error/",
+  "message": "The decryption process did not complete.",
+  "remarks": null,
+  "aka": [
+    "-2144862175"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/tpm_e_decrypt_error/-2144862175/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

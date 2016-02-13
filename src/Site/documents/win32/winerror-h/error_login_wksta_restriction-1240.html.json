@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_login_wksta_restriction\1240\index.html.json
+
+title: 1240 ERROR_LOGIN_WKSTA_RESTRICTION in winerror.h
+description: The account is not authorized to log in from this station.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1240",
+  "codeUrl": "/win32/winerror-h/error_login_wksta_restriction/1240/",
+  "numericCode": 1240,
+  "define": "ERROR_LOGIN_WKSTA_RESTRICTION",
+  "defineUrl": "/win32/winerror-h/error_login_wksta_restriction/",
+  "message": "The account is not authorized to log in from this station.",
+  "remarks": null,
+  "aka": [
+    "0x800704d8",
+    "-2147023656"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_login_wksta_restriction/0x800704d8/",
+    "/win32/winerror-h/error_login_wksta_restriction/-2147023656/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

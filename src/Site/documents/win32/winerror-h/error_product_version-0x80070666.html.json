@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_product_version\0x80070666\index.html.json
+canonical: /win32/winerror-h/error_product_version/1638/
+title: 0x80070666 ERROR_PRODUCT_VERSION in winerror.h
+description: Another version of this product is already installed. Installation of this version cannot continue. To configure or remove the existing version of this product, use Add/Remove Programs on the Control Panel.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80070666",
+  "codeUrl": "/win32/winerror-h/error_product_version/0x80070666/",
+  "numericCode": 0,
+  "define": "ERROR_PRODUCT_VERSION",
+  "defineUrl": "/win32/winerror-h/error_product_version/",
+  "message": "Another version of this product is already installed. Installation of this version cannot continue. To configure or remove the existing version of this product, use Add/Remove Programs on the Control Panel.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "1638",
+  "originalCodeUrl": "/win32/winerror-h/error_product_version/1638/"
+}

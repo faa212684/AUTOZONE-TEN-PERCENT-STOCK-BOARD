@@ -1,0 +1,28 @@
+---
+output: win32\fsrmerr-h\fsrm_e_rms_template_not_found\0x80045380\index.html.json
+
+title: 0x80045380 FSRM_E_RMS_TEMPLATE_NOT_FOUND in fsrmerr.h
+description: The RMS template used to configure the file management task no longer exists.  Please select another template.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "fsrmerr.h",
+  "sourceUrl": "/win32/fsrmerr-h/",
+  "code": "0x80045380",
+  "codeUrl": "/win32/fsrmerr-h/fsrm_e_rms_template_not_found/0x80045380/",
+  "numericCode": -2147200128,
+  "define": "FSRM_E_RMS_TEMPLATE_NOT_FOUND",
+  "defineUrl": "/win32/fsrmerr-h/fsrm_e_rms_template_not_found/",
+  "message": "The RMS template used to configure the file management task no longer exists.  Please select another template.",
+  "remarks": null,
+  "aka": [
+    "-2147200128"
+  ],
+  "akaUrl": [
+    "/win32/fsrmerr-h/fsrm_e_rms_template_not_found/-2147200128/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

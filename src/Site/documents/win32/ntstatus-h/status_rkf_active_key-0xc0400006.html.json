@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_rkf_active_key\0xc0400006\index.html.json
+
+title: 0xC0400006 STATUS_RKF_ACTIVE_KEY in ntstatus.h
+description: The Resume Key Filter found an existing resume key that matches the one supplied on a handle that's active/open. The operation requires an inactive/closed handle.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0400006",
+  "codeUrl": "/win32/ntstatus-h/status_rkf_active_key/0xc0400006/",
+  "numericCode": -1069547514,
+  "define": "STATUS_RKF_ACTIVE_KEY",
+  "defineUrl": "/win32/ntstatus-h/status_rkf_active_key/",
+  "message": "The Resume Key Filter found an existing resume key that matches the one supplied on a handle that's active/open. The operation requires an inactive/closed handle.",
+  "remarks": null,
+  "aka": [
+    "-1069547514"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_rkf_active_key/-1069547514/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

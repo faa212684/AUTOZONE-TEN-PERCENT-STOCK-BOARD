@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_ft_read_from_copy\0x40000035\index.html.json
+
+title: 0x40000035 STATUS_FT_READ_FROM_COPY in ntstatus.h
+description: The specified copy of the requested data was successfully read.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0x40000035",
+  "codeUrl": "/win32/ntstatus-h/status_ft_read_from_copy/0x40000035/",
+  "numericCode": 1073741877,
+  "define": "STATUS_FT_READ_FROM_COPY",
+  "defineUrl": "/win32/ntstatus-h/status_ft_read_from_copy/",
+  "message": "The specified copy of the requested data was successfully read.",
+  "remarks": null,
+  "aka": [
+    "1073741877"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_ft_read_from_copy/1073741877/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

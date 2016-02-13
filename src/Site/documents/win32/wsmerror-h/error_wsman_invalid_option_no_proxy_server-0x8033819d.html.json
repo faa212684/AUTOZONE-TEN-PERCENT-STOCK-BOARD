@@ -1,0 +1,29 @@
+---
+output: win32\wsmerror-h\error_wsman_invalid_option_no_proxy_server\0x8033819d\index.html.json
+
+title: 0x8033819D ERROR_WSMAN_INVALID_OPTION_NO_PROXY_SERVER in wsmerror.h
+description: The WinRM client cannot process the request. The direct connection to the server option cannot be used with non empty proxy authentication data. 
+Change the invalid proxy access type or use empty proxy authentication data and try the request again.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x8033819D",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_invalid_option_no_proxy_server/0x8033819d/",
+  "numericCode": -2144108131,
+  "define": "ERROR_WSMAN_INVALID_OPTION_NO_PROXY_SERVER",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_invalid_option_no_proxy_server/",
+  "message": "The WinRM client cannot process the request. The direct connection to the server option cannot be used with non empty proxy authentication data. \r\nChange the invalid proxy access type or use empty proxy authentication data and try the request again.",
+  "remarks": null,
+  "aka": [
+    "-2144108131"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_invalid_option_no_proxy_server/-2144108131/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

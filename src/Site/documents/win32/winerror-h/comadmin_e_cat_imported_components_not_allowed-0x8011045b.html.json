@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\comadmin_e_cat_imported_components_not_allowed\0x8011045b\index.html.json
+
+title: 0x8011045B COMADMIN_E_CAT_IMPORTED_COMPONENTS_NOT_ALLOWED in winerror.h
+description: Applications that contain one or more imported components cannot be installed into a non-base partition
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8011045B",
+  "codeUrl": "/win32/winerror-h/comadmin_e_cat_imported_components_not_allowed/0x8011045b/",
+  "numericCode": -2146368421,
+  "define": "COMADMIN_E_CAT_IMPORTED_COMPONENTS_NOT_ALLOWED",
+  "defineUrl": "/win32/winerror-h/comadmin_e_cat_imported_components_not_allowed/",
+  "message": "Applications that contain one or more imported components cannot be installed into a non-base partition",
+  "remarks": null,
+  "aka": [
+    "-2146368421"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/comadmin_e_cat_imported_components_not_allowed/-2146368421/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

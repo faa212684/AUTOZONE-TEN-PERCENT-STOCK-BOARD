@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_longjump\682\index.html.json
+
+title: 682 ERROR_LONGJUMP in winerror.h
+description: A long jump has been executed.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "682",
+  "codeUrl": "/win32/winerror-h/error_longjump/682/",
+  "numericCode": 682,
+  "define": "ERROR_LONGJUMP",
+  "defineUrl": "/win32/winerror-h/error_longjump/",
+  "message": "A long jump has been executed.",
+  "remarks": null,
+  "aka": [
+    "0x800702aa",
+    "-2147024214"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_longjump/0x800702aa/",
+    "/win32/winerror-h/error_longjump/-2147024214/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

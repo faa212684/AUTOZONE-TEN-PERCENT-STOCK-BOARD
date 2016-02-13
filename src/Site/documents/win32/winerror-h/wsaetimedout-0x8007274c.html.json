@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\wsaetimedout\0x8007274c\index.html.json
+canonical: /win32/winerror-h/wsaetimedout/10060/
+title: 0x8007274c WSAETIMEDOUT in winerror.h
+description: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007274c",
+  "codeUrl": "/win32/winerror-h/wsaetimedout/0x8007274c/",
+  "numericCode": 0,
+  "define": "WSAETIMEDOUT",
+  "defineUrl": "/win32/winerror-h/wsaetimedout/",
+  "message": "A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "10060",
+  "originalCodeUrl": "/win32/winerror-h/wsaetimedout/10060/"
+}

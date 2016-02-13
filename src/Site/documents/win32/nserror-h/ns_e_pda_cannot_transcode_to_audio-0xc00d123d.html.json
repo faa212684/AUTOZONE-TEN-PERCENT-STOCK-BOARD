@@ -1,0 +1,28 @@
+---
+output: win32\nserror-h\ns_e_pda_cannot_transcode_to_audio\0xc00d123d\index.html.json
+
+title: 0xC00D123D NS_E_PDA_CANNOT_TRANSCODE_TO_AUDIO in nserror.h
+description: Your device requires that this file be converted in order to play on the device. However, the device either does not support playing audio, or Windows Media Player cannot convert the file to an audio format that is supported by the device.%0
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "nserror.h",
+  "sourceUrl": "/win32/nserror-h/",
+  "code": "0xC00D123D",
+  "codeUrl": "/win32/nserror-h/ns_e_pda_cannot_transcode_to_audio/0xc00d123d/",
+  "numericCode": -1072885187,
+  "define": "NS_E_PDA_CANNOT_TRANSCODE_TO_AUDIO",
+  "defineUrl": "/win32/nserror-h/ns_e_pda_cannot_transcode_to_audio/",
+  "message": "Your device requires that this file be converted in order to play on the device. However, the device either does not support playing audio, or Windows Media Player cannot convert the file to an audio format that is supported by the device.%0",
+  "remarks": null,
+  "aka": [
+    "-1072885187"
+  ],
+  "akaUrl": [
+    "/win32/nserror-h/ns_e_pda_cannot_transcode_to_audio/-1072885187/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

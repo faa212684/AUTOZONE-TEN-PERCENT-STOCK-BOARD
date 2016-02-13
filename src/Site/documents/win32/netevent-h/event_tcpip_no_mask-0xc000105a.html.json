@@ -1,0 +1,29 @@
+---
+output: win32\netevent-h\event_tcpip_no_mask\0xc000105a\index.html.json
+
+title: 0xC000105A EVENT_TCPIP_NO_MASK in netevent.h
+description: No subnet mask was specified for interface %2. This interface and all
+subsequent interfaces on network adapter %3 cannot be initialized.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC000105A",
+  "codeUrl": "/win32/netevent-h/event_tcpip_no_mask/0xc000105a/",
+  "numericCode": -1073737638,
+  "define": "EVENT_TCPIP_NO_MASK",
+  "defineUrl": "/win32/netevent-h/event_tcpip_no_mask/",
+  "message": "No subnet mask was specified for interface %2. This interface and all\r\nsubsequent interfaces on network adapter %3 cannot be initialized.",
+  "remarks": null,
+  "aka": [
+    "-1073737638"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_tcpip_no_mask/-1073737638/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

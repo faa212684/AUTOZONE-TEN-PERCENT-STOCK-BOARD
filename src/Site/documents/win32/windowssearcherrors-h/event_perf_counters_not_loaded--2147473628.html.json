@@ -1,0 +1,24 @@
+---
+output: win32\windowssearcherrors-h\event_perf_counters_not_loaded\-2147473628\index.html.json
+canonical: /win32/windowssearcherrors-h/event_perf_counters_not_loaded/0x80002724/
+title: -2147473628 EVENT_PERF_COUNTERS_NOT_LOADED in WindowsSearchErrors.h
+description: Performance Counters could not be loaded for %1 for instance %2 %3 due to the following error: %4.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "-2147473628",
+  "codeUrl": "/win32/windowssearcherrors-h/event_perf_counters_not_loaded/-2147473628/",
+  "numericCode": 0,
+  "define": "EVENT_PERF_COUNTERS_NOT_LOADED",
+  "defineUrl": "/win32/windowssearcherrors-h/event_perf_counters_not_loaded/",
+  "message": "Performance Counters could not be loaded for %1 for instance %2 %3 due to the following error: %4.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80002724",
+  "originalCodeUrl": "/win32/windowssearcherrors-h/event_perf_counters_not_loaded/0x80002724/"
+}

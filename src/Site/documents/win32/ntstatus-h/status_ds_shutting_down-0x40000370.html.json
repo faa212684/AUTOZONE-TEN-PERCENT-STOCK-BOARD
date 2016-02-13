@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_ds_shutting_down\0x40000370\index.html.json
+
+title: 0x40000370 STATUS_DS_SHUTTING_DOWN in ntstatus.h
+description: The Directory Service is shutting down.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0x40000370",
+  "codeUrl": "/win32/ntstatus-h/status_ds_shutting_down/0x40000370/",
+  "numericCode": 1073742704,
+  "define": "STATUS_DS_SHUTTING_DOWN",
+  "defineUrl": "/win32/ntstatus-h/status_ds_shutting_down/",
+  "message": "The Directory Service is shutting down.",
+  "remarks": null,
+  "aka": [
+    "1073742704"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_ds_shutting_down/1073742704/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

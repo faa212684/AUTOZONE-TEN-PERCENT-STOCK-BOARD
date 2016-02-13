@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\peerdist_error_not_licensed\4064\index.html.json
+
+title: 4064 PEERDIST_ERROR_NOT_LICENSED in winerror.h
+description: The SKU is not licensed.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "4064",
+  "codeUrl": "/win32/winerror-h/peerdist_error_not_licensed/4064/",
+  "numericCode": 4064,
+  "define": "PEERDIST_ERROR_NOT_LICENSED",
+  "defineUrl": "/win32/winerror-h/peerdist_error_not_licensed/",
+  "message": "The SKU is not licensed.",
+  "remarks": null,
+  "aka": [
+    "0x80070fe0",
+    "-2147020832"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/peerdist_error_not_licensed/0x80070fe0/",
+    "/win32/winerror-h/peerdist_error_not_licensed/-2147020832/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

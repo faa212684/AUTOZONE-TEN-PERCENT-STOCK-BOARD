@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\spapi_e_authenticode_disallowed\-2146500032\index.html.json
+canonical: /win32/winerror-h/spapi_e_authenticode_disallowed/0x800f0240/
+title: -2146500032 SPAPI_E_AUTHENTICODE_DISALLOWED in winerror.h
+description: Authenticode(tm) signature verification is not supported for the specified INF.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2146500032",
+  "codeUrl": "/win32/winerror-h/spapi_e_authenticode_disallowed/-2146500032/",
+  "numericCode": 0,
+  "define": "SPAPI_E_AUTHENTICODE_DISALLOWED",
+  "defineUrl": "/win32/winerror-h/spapi_e_authenticode_disallowed/",
+  "message": "Authenticode(tm) signature verification is not supported for the specified INF.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x800F0240",
+  "originalCodeUrl": "/win32/winerror-h/spapi_e_authenticode_disallowed/0x800f0240/"
+}

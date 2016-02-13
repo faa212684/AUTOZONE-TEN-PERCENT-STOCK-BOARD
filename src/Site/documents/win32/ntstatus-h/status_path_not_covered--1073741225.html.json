@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_path_not_covered\-1073741225\index.html.json
+canonical: /win32/ntstatus-h/status_path_not_covered/0xc0000257/
+title: -1073741225 STATUS_PATH_NOT_COVERED in ntstatus.h
+description: The contacted server does not support the indicated part of the DFS namespace.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741225",
+  "codeUrl": "/win32/ntstatus-h/status_path_not_covered/-1073741225/",
+  "numericCode": 0,
+  "define": "STATUS_PATH_NOT_COVERED",
+  "defineUrl": "/win32/ntstatus-h/status_path_not_covered/",
+  "message": "The contacted server does not support the indicated part of the DFS namespace.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000257",
+  "originalCodeUrl": "/win32/ntstatus-h/status_path_not_covered/0xc0000257/"
+}

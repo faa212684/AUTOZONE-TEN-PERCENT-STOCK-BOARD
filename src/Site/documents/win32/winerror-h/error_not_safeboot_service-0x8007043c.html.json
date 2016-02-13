@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_not_safeboot_service\0x8007043c\index.html.json
+canonical: /win32/winerror-h/error_not_safeboot_service/1084/
+title: 0x8007043c ERROR_NOT_SAFEBOOT_SERVICE in winerror.h
+description: This service cannot be started in Safe Mode
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007043c",
+  "codeUrl": "/win32/winerror-h/error_not_safeboot_service/0x8007043c/",
+  "numericCode": 0,
+  "define": "ERROR_NOT_SAFEBOOT_SERVICE",
+  "defineUrl": "/win32/winerror-h/error_not_safeboot_service/",
+  "message": "This service cannot be started in Safe Mode",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "1084",
+  "originalCodeUrl": "/win32/winerror-h/error_not_safeboot_service/1084/"
+}

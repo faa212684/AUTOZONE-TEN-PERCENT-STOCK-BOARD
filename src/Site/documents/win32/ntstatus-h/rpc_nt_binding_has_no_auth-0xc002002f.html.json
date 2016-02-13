@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\rpc_nt_binding_has_no_auth\0xc002002f\index.html.json
+
+title: 0xC002002F RPC_NT_BINDING_HAS_NO_AUTH in ntstatus.h
+description: The binding does not contain any authentication information.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC002002F",
+  "codeUrl": "/win32/ntstatus-h/rpc_nt_binding_has_no_auth/0xc002002f/",
+  "numericCode": -1073610705,
+  "define": "RPC_NT_BINDING_HAS_NO_AUTH",
+  "defineUrl": "/win32/ntstatus-h/rpc_nt_binding_has_no_auth/",
+  "message": "The binding does not contain any authentication information.",
+  "remarks": null,
+  "aka": [
+    "-1073610705"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/rpc_nt_binding_has_no_auth/-1073610705/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

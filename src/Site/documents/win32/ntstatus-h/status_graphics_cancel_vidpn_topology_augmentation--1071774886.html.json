@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_graphics_cancel_vidpn_topology_augmentation\-1071774886\index.html.json
+canonical: /win32/ntstatus-h/status_graphics_cancel_vidpn_topology_augmentation/0xc01e035a/
+title: -1071774886 STATUS_GRAPHICS_CANCEL_VIDPN_TOPOLOGY_AUGMENTATION in ntstatus.h
+description: Miniport requested that augmentation be cancelled for the specified source of the specified VidPN's topology.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071774886",
+  "codeUrl": "/win32/ntstatus-h/status_graphics_cancel_vidpn_topology_augmentation/-1071774886/",
+  "numericCode": 0,
+  "define": "STATUS_GRAPHICS_CANCEL_VIDPN_TOPOLOGY_AUGMENTATION",
+  "defineUrl": "/win32/ntstatus-h/status_graphics_cancel_vidpn_topology_augmentation/",
+  "message": "Miniport requested that augmentation be cancelled for the specified source of the specified VidPN's topology.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC01E035A",
+  "originalCodeUrl": "/win32/ntstatus-h/status_graphics_cancel_vidpn_topology_augmentation/0xc01e035a/"
+}

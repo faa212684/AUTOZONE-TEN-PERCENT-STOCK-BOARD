@@ -1,0 +1,29 @@
+---
+output: win32\wsmerror-h\error_wsman_client_closeshell_null_param\0x8033817e\index.html.json
+
+title: 0x8033817E ERROR_WSMAN_CLIENT_CLOSESHELL_NULL_PARAM in wsmerror.h
+description: The WinRM Shell client cannot process the request. One of the parameters required for the WSManCloseShell function is null or zero.
+Change the request to include the missing parameter and try again.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x8033817E",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_client_closeshell_null_param/0x8033817e/",
+  "numericCode": -2144108162,
+  "define": "ERROR_WSMAN_CLIENT_CLOSESHELL_NULL_PARAM",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_client_closeshell_null_param/",
+  "message": "The WinRM Shell client cannot process the request. One of the parameters required for the WSManCloseShell function is null or zero.\r\nChange the request to include the missing parameter and try again.",
+  "remarks": null,
+  "aka": [
+    "-2144108162"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_client_closeshell_null_param/-2144108162/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

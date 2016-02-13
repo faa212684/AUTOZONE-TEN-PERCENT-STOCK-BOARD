@@ -1,0 +1,29 @@
+---
+output: win32\netevent-h\event_eqos_warning_machine_policy_quota_exceeded\0x800040de\index.html.json
+
+title: 0x800040DE EVENT_EQOS_WARNING_MACHINE_POLICY_QUOTA_EXCEEDED in netevent.h
+description: Exceeded the maximum number of computer QoS policies. 
+The computer QoS policy "%2" and subsequent computer QoS policies will not be applied.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x800040DE",
+  "codeUrl": "/win32/netevent-h/event_eqos_warning_machine_policy_quota_exceeded/0x800040de/",
+  "numericCode": -2147467042,
+  "define": "EVENT_EQOS_WARNING_MACHINE_POLICY_QUOTA_EXCEEDED",
+  "defineUrl": "/win32/netevent-h/event_eqos_warning_machine_policy_quota_exceeded/",
+  "message": "Exceeded the maximum number of computer QoS policies. \r\nThe computer QoS policy \"%2\" and subsequent computer QoS policies will not be applied.",
+  "remarks": null,
+  "aka": [
+    "-2147467042"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_eqos_warning_machine_policy_quota_exceeded/-2147467042/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

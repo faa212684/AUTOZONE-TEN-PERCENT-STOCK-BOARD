@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\ole_e_cant_getmoniker\0x80040009\index.html.json
+
+title: 0x80040009 OLE_E_CANT_GETMONIKER in winerror.h
+description: Not able to get the moniker of the object
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80040009",
+  "codeUrl": "/win32/winerror-h/ole_e_cant_getmoniker/0x80040009/",
+  "numericCode": -2147221495,
+  "define": "OLE_E_CANT_GETMONIKER",
+  "defineUrl": "/win32/winerror-h/ole_e_cant_getmoniker/",
+  "message": "Not able to get the moniker of the object",
+  "remarks": null,
+  "aka": [
+    "-2147221495"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/ole_e_cant_getmoniker/-2147221495/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

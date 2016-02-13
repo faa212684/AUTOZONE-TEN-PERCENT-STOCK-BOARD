@@ -1,0 +1,29 @@
+---
+output: win32\wsmerror-h\error_wsman_endpoint_unavailable_invalid_value\0x8033811a\index.html.json
+
+title: 0x8033811A ERROR_WSMAN_ENDPOINT_UNAVAILABLE_INVALID_VALUE in wsmerror.h
+description: The WS-Management service cannot process the request because the selector values do not match a known resource, or the resource is offline. 
+Retry the request later when the resource is online, or try a different selector.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x8033811A",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_endpoint_unavailable_invalid_value/0x8033811a/",
+  "numericCode": -2144108262,
+  "define": "ERROR_WSMAN_ENDPOINT_UNAVAILABLE_INVALID_VALUE",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_endpoint_unavailable_invalid_value/",
+  "message": "The WS-Management service cannot process the request because the selector values do not match a known resource, or the resource is offline. \r\nRetry the request later when the resource is online, or try a different selector.",
+  "remarks": null,
+  "aka": [
+    "-2144108262"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_endpoint_unavailable_invalid_value/-2144108262/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

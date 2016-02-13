@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_graphics_no_more_elements_in_dataset\0x401e034c\index.html.json
+
+title: 0x401E034C STATUS_GRAPHICS_NO_MORE_ELEMENTS_IN_DATASET in ntstatus.h
+description: Specified data set (e.g. mode set, frequency range set, descriptor set, topology, etc.) does not contain any more elements.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0x401E034C",
+  "codeUrl": "/win32/ntstatus-h/status_graphics_no_more_elements_in_dataset/0x401e034c/",
+  "numericCode": 1075708748,
+  "define": "STATUS_GRAPHICS_NO_MORE_ELEMENTS_IN_DATASET",
+  "defineUrl": "/win32/ntstatus-h/status_graphics_no_more_elements_in_dataset/",
+  "message": "Specified data set (e.g. mode set, frequency range set, descriptor set, topology, etc.) does not contain any more elements.",
+  "remarks": null,
+  "aka": [
+    "1075708748"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_graphics_no_more_elements_in_dataset/1075708748/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

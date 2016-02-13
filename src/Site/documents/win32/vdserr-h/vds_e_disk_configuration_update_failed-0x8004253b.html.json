@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_e_disk_configuration_update_failed\0x8004253b\index.html.json
+
+title: 0x8004253B VDS_E_DISK_CONFIGURATION_UPDATE_FAILED in vdserr.h
+description: One or more disks failed to be updated with the new configuration.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x8004253B",
+  "codeUrl": "/win32/vdserr-h/vds_e_disk_configuration_update_failed/0x8004253b/",
+  "numericCode": -2147211973,
+  "define": "VDS_E_DISK_CONFIGURATION_UPDATE_FAILED",
+  "defineUrl": "/win32/vdserr-h/vds_e_disk_configuration_update_failed/",
+  "message": "One or more disks failed to be updated with the new configuration.",
+  "remarks": null,
+  "aka": [
+    "-2147211973"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_disk_configuration_update_failed/-2147211973/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

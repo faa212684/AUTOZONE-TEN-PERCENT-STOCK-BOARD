@@ -1,0 +1,28 @@
+---
+output: win32\oledberr-h\db_e_nostatistic\0x80040e9c\index.html.json
+
+title: 0x80040E9C DB_E_NOSTATISTIC in oledberr.h
+description: The specified statistic does not exist in the current data source or did not apply to the specified table or it does not support a histogram.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "oledberr.h",
+  "sourceUrl": "/win32/oledberr-h/",
+  "code": "0x80040E9C",
+  "codeUrl": "/win32/oledberr-h/db_e_nostatistic/0x80040e9c/",
+  "numericCode": -2147217764,
+  "define": "DB_E_NOSTATISTIC",
+  "defineUrl": "/win32/oledberr-h/db_e_nostatistic/",
+  "message": "The specified statistic does not exist in the current data source or did not apply to the specified table or it does not support a histogram.",
+  "remarks": null,
+  "aka": [
+    "-2147217764"
+  ],
+  "akaUrl": [
+    "/win32/oledberr-h/db_e_nostatistic/-2147217764/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

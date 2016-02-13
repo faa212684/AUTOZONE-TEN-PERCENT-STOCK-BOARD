@@ -1,0 +1,24 @@
+---
+output: win32\windowssearcherrors-h\fte_e_filter_single_threaded\-2147207675\index.html.json
+canonical: /win32/windowssearcherrors-h/fte_e_filter_single_threaded/0x80043605/
+title: -2147207675 FTE_E_FILTER_SINGLE_THREADED in WindowsSearchErrors.h
+description: The system attempted to load an apartment threading model filter marked in a multi-threaded filter daemon. The document will be retried in a single-threaded filter daemon process. Since multithreaded filtering is more efficient, try to obtain the version of the filter that is multi-threaded.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "-2147207675",
+  "codeUrl": "/win32/windowssearcherrors-h/fte_e_filter_single_threaded/-2147207675/",
+  "numericCode": 0,
+  "define": "FTE_E_FILTER_SINGLE_THREADED",
+  "defineUrl": "/win32/windowssearcherrors-h/fte_e_filter_single_threaded/",
+  "message": "The system attempted to load an apartment threading model filter marked in a multi-threaded filter daemon. The document will be retried in a single-threaded filter daemon process. Since multithreaded filtering is more efficient, try to obtain the version of the filter that is multi-threaded.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80043605",
+  "originalCodeUrl": "/win32/windowssearcherrors-h/fte_e_filter_single_threaded/0x80043605/"
+}

@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_hv_feature_unavailable\0xc035001e\index.html.json
+
+title: 0xC035001E STATUS_HV_FEATURE_UNAVAILABLE in ntstatus.h
+description: A hypervisor feature is not available to the user.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC035001E",
+  "codeUrl": "/win32/ntstatus-h/status_hv_feature_unavailable/0xc035001e/",
+  "numericCode": -1070268386,
+  "define": "STATUS_HV_FEATURE_UNAVAILABLE",
+  "defineUrl": "/win32/ntstatus-h/status_hv_feature_unavailable/",
+  "message": "A hypervisor feature is not available to the user.",
+  "remarks": null,
+  "aka": [
+    "-1070268386"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_hv_feature_unavailable/-1070268386/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

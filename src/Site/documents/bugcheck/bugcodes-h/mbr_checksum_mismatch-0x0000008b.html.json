@@ -1,0 +1,28 @@
+---
+output: bugcheck\bugcodes-h\mbr_checksum_mismatch\0x0000008b\index.html.json
+
+title: 0x0000008B MBR_CHECKSUM_MISMATCH in bugcodes.h
+description: MBR_CHECKSUM_MISMATCH
+disqus: true
+---
+{
+  "area": "bugcheck",
+  "areaUrl": "/bugcheck/",
+  "source": "bugcodes.h",
+  "sourceUrl": "/bugcheck/bugcodes-h/",
+  "code": "0x0000008B",
+  "codeUrl": "/bugcheck/bugcodes-h/mbr_checksum_mismatch/0x0000008b/",
+  "numericCode": 139,
+  "define": "MBR_CHECKSUM_MISMATCH",
+  "defineUrl": "/bugcheck/bugcodes-h/mbr_checksum_mismatch/",
+  "message": "MBR_CHECKSUM_MISMATCH",
+  "remarks": null,
+  "aka": [
+    "139"
+  ],
+  "akaUrl": [
+    "/bugcheck/bugcodes-h/mbr_checksum_mismatch/139/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

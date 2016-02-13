@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\sched_e_too_many_nodes\-2147216611\index.html.json
+canonical: /win32/winerror-h/sched_e_too_many_nodes/0x8004131d/
+title: -2147216611 SCHED_E_TOO_MANY_NODES in winerror.h
+description: The task XML contains too many nodes of the same type.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147216611",
+  "codeUrl": "/win32/winerror-h/sched_e_too_many_nodes/-2147216611/",
+  "numericCode": 0,
+  "define": "SCHED_E_TOO_MANY_NODES",
+  "defineUrl": "/win32/winerror-h/sched_e_too_many_nodes/",
+  "message": "The task XML contains too many nodes of the same type.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x8004131D",
+  "originalCodeUrl": "/win32/winerror-h/sched_e_too_many_nodes/0x8004131d/"
+}

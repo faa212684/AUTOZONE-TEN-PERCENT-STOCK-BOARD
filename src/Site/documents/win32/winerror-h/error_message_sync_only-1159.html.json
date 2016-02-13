@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_message_sync_only\1159\index.html.json
+
+title: 1159 ERROR_MESSAGE_SYNC_ONLY in winerror.h
+description: The message can be used only with synchronous operations.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1159",
+  "codeUrl": "/win32/winerror-h/error_message_sync_only/1159/",
+  "numericCode": 1159,
+  "define": "ERROR_MESSAGE_SYNC_ONLY",
+  "defineUrl": "/win32/winerror-h/error_message_sync_only/",
+  "message": "The message can be used only with synchronous operations.",
+  "remarks": null,
+  "aka": [
+    "0x80070487",
+    "-2147023737"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_message_sync_only/0x80070487/",
+    "/win32/winerror-h/error_message_sync_only/-2147023737/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

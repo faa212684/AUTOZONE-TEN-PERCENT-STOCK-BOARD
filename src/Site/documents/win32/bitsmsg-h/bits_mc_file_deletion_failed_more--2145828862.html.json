@@ -1,0 +1,27 @@
+---
+output: win32\bitsmsg-h\bits_mc_file_deletion_failed_more\-2145828862\index.html.json
+canonical: /win32/bitsmsg-h/bits_mc_file_deletion_failed_more/0x80194002/
+title: -2145828862 BITS_MC_FILE_DELETION_FAILED_MORE in BitsMsg.h
+description: While canceling job "%2", BITS was not able to remove the temporary files listed below.
+If you can delete them, then you will regain some disk space.  The job ID was %1.
+%3
+Due to space limitations, not all files are listed here.  Check for additional files of the form BITxxx.TMP in the same directory.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "BitsMsg.h",
+  "sourceUrl": "/win32/bitsmsg-h/",
+  "code": "-2145828862",
+  "codeUrl": "/win32/bitsmsg-h/bits_mc_file_deletion_failed_more/-2145828862/",
+  "numericCode": 0,
+  "define": "BITS_MC_FILE_DELETION_FAILED_MORE",
+  "defineUrl": "/win32/bitsmsg-h/bits_mc_file_deletion_failed_more/",
+  "message": "While canceling job \"%2\", BITS was not able to remove the temporary files listed below.\r\nIf you can delete them, then you will regain some disk space.  The job ID was %1.\r\n%3\r\nDue to space limitations, not all files are listed here.  Check for additional files of the form BITxxx.TMP in the same directory.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80194002",
+  "originalCodeUrl": "/win32/bitsmsg-h/bits_mc_file_deletion_failed_more/0x80194002/"
+}

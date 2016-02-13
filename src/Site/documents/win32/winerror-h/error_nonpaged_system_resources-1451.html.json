@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_nonpaged_system_resources\1451\index.html.json
+
+title: 1451 ERROR_NONPAGED_SYSTEM_RESOURCES in winerror.h
+description: Insufficient system resources exist to complete the requested service.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1451",
+  "codeUrl": "/win32/winerror-h/error_nonpaged_system_resources/1451/",
+  "numericCode": 1451,
+  "define": "ERROR_NONPAGED_SYSTEM_RESOURCES",
+  "defineUrl": "/win32/winerror-h/error_nonpaged_system_resources/",
+  "message": "Insufficient system resources exist to complete the requested service.",
+  "remarks": null,
+  "aka": [
+    "0x800705ab",
+    "-2147023445"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_nonpaged_system_resources/0x800705ab/",
+    "/win32/winerror-h/error_nonpaged_system_resources/-2147023445/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

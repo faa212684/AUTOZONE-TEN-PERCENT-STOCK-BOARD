@@ -1,0 +1,29 @@
+---
+output: win32\wsmerror-h\error_wsman_config_shelluri_invalid_processpath\0x8033815a\index.html.json
+
+title: 0x8033815A ERROR_WSMAN_CONFIG_SHELLURI_INVALID_PROCESSPATH in wsmerror.h
+description: The WinRM client cannot process the request because the process path specified for the CustomRemoteShell table entry is invalid.
+The process path should be absolute and should point to an existing executable.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x8033815A",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_config_shelluri_invalid_processpath/0x8033815a/",
+  "numericCode": -2144108198,
+  "define": "ERROR_WSMAN_CONFIG_SHELLURI_INVALID_PROCESSPATH",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_config_shelluri_invalid_processpath/",
+  "message": "The WinRM client cannot process the request because the process path specified for the CustomRemoteShell table entry is invalid.\r\nThe process path should be absolute and should point to an existing executable.",
+  "remarks": null,
+  "aka": [
+    "-2144108198"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_config_shelluri_invalid_processpath/-2144108198/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_s_remount_failed\0x00042578\index.html.json
+
+title: 0x00042578 VDS_S_REMOUNT_FAILED in vdserr.h
+description: Failed to remount the volume after setting the volume flags.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x00042578",
+  "codeUrl": "/win32/vdserr-h/vds_s_remount_failed/0x00042578/",
+  "numericCode": 271736,
+  "define": "VDS_S_REMOUNT_FAILED",
+  "defineUrl": "/win32/vdserr-h/vds_s_remount_failed/",
+  "message": "Failed to remount the volume after setting the volume flags.",
+  "remarks": null,
+  "aka": [
+    "271736"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_s_remount_failed/271736/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

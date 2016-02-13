@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_volume_not_sis_enabled\4500\index.html.json
+
+title: 4500 ERROR_VOLUME_NOT_SIS_ENABLED in winerror.h
+description: Single Instance Storage is not available on this volume.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "4500",
+  "codeUrl": "/win32/winerror-h/error_volume_not_sis_enabled/4500/",
+  "numericCode": 4500,
+  "define": "ERROR_VOLUME_NOT_SIS_ENABLED",
+  "defineUrl": "/win32/winerror-h/error_volume_not_sis_enabled/",
+  "message": "Single Instance Storage is not available on this volume.",
+  "remarks": null,
+  "aka": [
+    "0x80071194",
+    "-2147020396"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_volume_not_sis_enabled/0x80071194/",
+    "/win32/winerror-h/error_volume_not_sis_enabled/-2147020396/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\wincodec_err_alreadylocked\0x88982f0d\index.html.json
+
+title: 0x88982F0D WINCODEC_ERR_ALREADYLOCKED in winerror.h
+description: There is already an outstanding read or write lock.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x88982F0D",
+  "codeUrl": "/win32/winerror-h/wincodec_err_alreadylocked/0x88982f0d/",
+  "numericCode": -2003292403,
+  "define": "WINCODEC_ERR_ALREADYLOCKED",
+  "defineUrl": "/win32/winerror-h/wincodec_err_alreadylocked/",
+  "message": "There is already an outstanding read or write lock.",
+  "remarks": null,
+  "aka": [
+    "-2003292403"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/wincodec_err_alreadylocked/-2003292403/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

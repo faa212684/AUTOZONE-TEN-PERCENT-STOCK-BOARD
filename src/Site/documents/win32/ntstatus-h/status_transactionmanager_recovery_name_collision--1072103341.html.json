@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_transactionmanager_recovery_name_collision\-1072103341\index.html.json
+canonical: /win32/ntstatus-h/status_transactionmanager_recovery_name_collision/0xc0190053/
+title: -1072103341 STATUS_TRANSACTIONMANAGER_RECOVERY_NAME_COLLISION in ntstatus.h
+description: The specified TransactionManager was unable to create the objects contained in its logfile in the Ob namespace. Therefore, the TransactionManager was unable to recover.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1072103341",
+  "codeUrl": "/win32/ntstatus-h/status_transactionmanager_recovery_name_collision/-1072103341/",
+  "numericCode": 0,
+  "define": "STATUS_TRANSACTIONMANAGER_RECOVERY_NAME_COLLISION",
+  "defineUrl": "/win32/ntstatus-h/status_transactionmanager_recovery_name_collision/",
+  "message": "The specified TransactionManager was unable to create the objects contained in its logfile in the Ob namespace. Therefore, the TransactionManager was unable to recover.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0190053",
+  "originalCodeUrl": "/win32/ntstatus-h/status_transactionmanager_recovery_name_collision/0xc0190053/"
+}

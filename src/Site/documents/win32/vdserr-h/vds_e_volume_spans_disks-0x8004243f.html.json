@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_e_volume_spans_disks\0x8004243f\index.html.json
+
+title: 0x8004243F VDS_E_VOLUME_SPANS_DISKS in vdserr.h
+description: The volume spans multiple disks.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x8004243F",
+  "codeUrl": "/win32/vdserr-h/vds_e_volume_spans_disks/0x8004243f/",
+  "numericCode": -2147212225,
+  "define": "VDS_E_VOLUME_SPANS_DISKS",
+  "defineUrl": "/win32/vdserr-h/vds_e_volume_spans_disks/",
+  "message": "The volume spans multiple disks.",
+  "remarks": null,
+  "aka": [
+    "-2147212225"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_volume_spans_disks/-2147212225/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_graphics_present_mode_changed\-1071775739\index.html.json
+canonical: /win32/ntstatus-h/status_graphics_present_mode_changed/0xc01e0005/
+title: -1071775739 STATUS_GRAPHICS_PRESENT_MODE_CHANGED in ntstatus.h
+description: Present happened but ended up into the changed desktop mode
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071775739",
+  "codeUrl": "/win32/ntstatus-h/status_graphics_present_mode_changed/-1071775739/",
+  "numericCode": 0,
+  "define": "STATUS_GRAPHICS_PRESENT_MODE_CHANGED",
+  "defineUrl": "/win32/ntstatus-h/status_graphics_present_mode_changed/",
+  "message": "Present happened but ended up into the changed desktop mode",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC01E0005",
+  "originalCodeUrl": "/win32/ntstatus-h/status_graphics_present_mode_changed/0xc01e0005/"
+}

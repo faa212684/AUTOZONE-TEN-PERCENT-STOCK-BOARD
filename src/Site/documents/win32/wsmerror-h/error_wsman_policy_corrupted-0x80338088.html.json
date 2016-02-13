@@ -1,0 +1,28 @@
+---
+output: win32\wsmerror-h\error_wsman_policy_corrupted\0x80338088\index.html.json
+
+title: 0x80338088 ERROR_WSMAN_POLICY_CORRUPTED in wsmerror.h
+description: The WSMan group policy configuration is corrupted.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x80338088",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_policy_corrupted/0x80338088/",
+  "numericCode": -2144108408,
+  "define": "ERROR_WSMAN_POLICY_CORRUPTED",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_policy_corrupted/",
+  "message": "The WSMan group policy configuration is corrupted.",
+  "remarks": null,
+  "aka": [
+    "-2144108408"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_policy_corrupted/-2144108408/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\nwsap_event_lpclistenmemory_error\0xc0002148\index.html.json
+
+title: 0xC0002148 NWSAP_EVENT_LPCLISTENMEMORY_ERROR in netevent.h
+description: Error allocating memory for an LPC Client structure.  The Sap Agent cannot continue.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC0002148",
+  "codeUrl": "/win32/netevent-h/nwsap_event_lpclistenmemory_error/0xc0002148/",
+  "numericCode": -1073733304,
+  "define": "NWSAP_EVENT_LPCLISTENMEMORY_ERROR",
+  "defineUrl": "/win32/netevent-h/nwsap_event_lpclistenmemory_error/",
+  "message": "Error allocating memory for an LPC Client structure.  The Sap Agent cannot continue.",
+  "remarks": null,
+  "aka": [
+    "-1073733304"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/nwsap_event_lpclistenmemory_error/-1073733304/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

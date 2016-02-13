@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\e_bluetooth_att_request_not_supported\0x80650006\index.html.json
+
+title: 0x80650006 E_BLUETOOTH_ATT_REQUEST_NOT_SUPPORTED in winerror.h
+description: Attribute server does not support the request received from the client.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80650006",
+  "codeUrl": "/win32/winerror-h/e_bluetooth_att_request_not_supported/0x80650006/",
+  "numericCode": -2140864506,
+  "define": "E_BLUETOOTH_ATT_REQUEST_NOT_SUPPORTED",
+  "defineUrl": "/win32/winerror-h/e_bluetooth_att_request_not_supported/",
+  "message": "Attribute server does not support the request received from the client.",
+  "remarks": null,
+  "aka": [
+    "-2140864506"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/e_bluetooth_att_request_not_supported/-2140864506/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

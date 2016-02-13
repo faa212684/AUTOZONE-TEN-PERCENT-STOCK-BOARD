@@ -1,0 +1,44 @@
+---
+output: win32\netevent-h\event_frs_database_space\0xc00034c7\index.html.json
+
+title: 0xC00034C7 EVENT_FRS_DATABASE_SPACE in netevent.h
+description: The File Replication Service is stopping on computer %1 because there is no free
+space on the volume containing %2.
+%n
+%nThe available space on the volume can be found by typing
+"dir %2".
+%n
+%nOnce free space is made available on the volume containing %2,
+the File Replication Service can be restarted immediately by typing
+"net start ntfrs". Otherwise, the File Replication Service will
+restart automatically at a later time.
+%n
+%nFor more information about the automatic restart right click on
+My Computer and then click on Manage, System Tools, Services, File
+Replication Service, and Recovery.
+%n
+%nFor more information about managing space on a volume type "copy /?",
+"rename /?", "del /?", "rmdir /?", and "dir /?".
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC00034C7",
+  "codeUrl": "/win32/netevent-h/event_frs_database_space/0xc00034c7/",
+  "numericCode": -1073728313,
+  "define": "EVENT_FRS_DATABASE_SPACE",
+  "defineUrl": "/win32/netevent-h/event_frs_database_space/",
+  "message": "The File Replication Service is stopping on computer %1 because there is no free\r\nspace on the volume containing %2.\r\n%n\r\n%nThe available space on the volume can be found by typing\r\n\"dir %2\".\r\n%n\r\n%nOnce free space is made available on the volume containing %2,\r\nthe File Replication Service can be restarted immediately by typing\r\n\"net start ntfrs\". Otherwise, the File Replication Service will\r\nrestart automatically at a later time.\r\n%n\r\n%nFor more information about the automatic restart right click on\r\nMy Computer and then click on Manage, System Tools, Services, File\r\nReplication Service, and Recovery.\r\n%n\r\n%nFor more information about managing space on a volume type \"copy /?\",\r\n\"rename /?\", \"del /?\", \"rmdir /?\", and \"dir /?\".",
+  "remarks": null,
+  "aka": [
+    "-1073728313"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_frs_database_space/-1073728313/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

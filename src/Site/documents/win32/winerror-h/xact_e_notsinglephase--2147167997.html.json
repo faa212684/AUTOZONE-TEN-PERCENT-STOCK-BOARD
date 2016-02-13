@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\xact_e_notsinglephase\-2147167997\index.html.json
+canonical: /win32/winerror-h/xact_e_notsinglephase/0x8004d103/
+title: -2147167997 XACT_E_NOTSINGLEPHASE in winerror.h
+description: The prepare request given was not eligible for single phase optimizations.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147167997",
+  "codeUrl": "/win32/winerror-h/xact_e_notsinglephase/-2147167997/",
+  "numericCode": 0,
+  "define": "XACT_E_NOTSINGLEPHASE",
+  "defineUrl": "/win32/winerror-h/xact_e_notsinglephase/",
+  "message": "The prepare request given was not eligible for single phase optimizations.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x8004D103",
+  "originalCodeUrl": "/win32/winerror-h/xact_e_notsinglephase/0x8004d103/"
+}

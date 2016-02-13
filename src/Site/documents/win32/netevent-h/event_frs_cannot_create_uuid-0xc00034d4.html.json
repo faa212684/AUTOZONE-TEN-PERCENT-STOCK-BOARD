@@ -1,0 +1,40 @@
+---
+output: win32\netevent-h\event_frs_cannot_create_uuid\0xc00034d4\index.html.json
+
+title: 0xC00034D4 EVENT_FRS_CANNOT_CREATE_UUID in netevent.h
+description: The File Replication Service is stopping on the computer %1 because
+a universally unique ID (UUID) cannot be created.
+%n
+%nThe SDK function UuidCreate() returned the error "%2".
+%n
+%nThe problem may be the lack of an Ethernet address,
+token ring address, or network address. The lack of a network
+address implies an unsupported netcard.
+%n
+%nThe File Replication Service will restart automatically at a later time.
+For more information about the automatic restart right click on
+My Computer and then click on Manage, System Tools, Services,
+File Replication Service, and Recovery.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC00034D4",
+  "codeUrl": "/win32/netevent-h/event_frs_cannot_create_uuid/0xc00034d4/",
+  "numericCode": -1073728300,
+  "define": "EVENT_FRS_CANNOT_CREATE_UUID",
+  "defineUrl": "/win32/netevent-h/event_frs_cannot_create_uuid/",
+  "message": "The File Replication Service is stopping on the computer %1 because\r\na universally unique ID (UUID) cannot be created.\r\n%n\r\n%nThe SDK function UuidCreate() returned the error \"%2\".\r\n%n\r\n%nThe problem may be the lack of an Ethernet address,\r\ntoken ring address, or network address. The lack of a network\r\naddress implies an unsupported netcard.\r\n%n\r\n%nThe File Replication Service will restart automatically at a later time.\r\nFor more information about the automatic restart right click on\r\nMy Computer and then click on Manage, System Tools, Services,\r\nFile Replication Service, and Recovery.",
+  "remarks": null,
+  "aka": [
+    "-1073728300"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_frs_cannot_create_uuid/-1073728300/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

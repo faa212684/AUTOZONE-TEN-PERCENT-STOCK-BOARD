@@ -1,0 +1,28 @@
+---
+output: win32\nserror-h\ns_e_port_in_use_http\0xc00d158b\index.html.json
+
+title: 0xC00D158B NS_E_PORT_IN_USE_HTTP in nserror.h
+description: One usage of each socket address (protocol/network address/port) is permitted. Verify that other services (such as IIS) or applications are not attempting to use the same port and then try to enable the plug-in again.%0
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "nserror.h",
+  "sourceUrl": "/win32/nserror-h/",
+  "code": "0xC00D158B",
+  "codeUrl": "/win32/nserror-h/ns_e_port_in_use_http/0xc00d158b/",
+  "numericCode": -1072884341,
+  "define": "NS_E_PORT_IN_USE_HTTP",
+  "defineUrl": "/win32/nserror-h/ns_e_port_in_use_http/",
+  "message": "One usage of each socket address (protocol/network address/port) is permitted. Verify that other services (such as IIS) or applications are not attempting to use the same port and then try to enable the plug-in again.%0",
+  "remarks": null,
+  "aka": [
+    "-1072884341"
+  ],
+  "akaUrl": [
+    "/win32/nserror-h/ns_e_port_in_use_http/-1072884341/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

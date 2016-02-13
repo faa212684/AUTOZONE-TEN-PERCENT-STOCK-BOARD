@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_profiling_at_limit\0xc00000d3\index.html.json
+
+title: 0xC00000D3 STATUS_PROFILING_AT_LIMIT in ntstatus.h
+description: The number of active profiling objects is at the maximum and no more may be started.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC00000D3",
+  "codeUrl": "/win32/ntstatus-h/status_profiling_at_limit/0xc00000d3/",
+  "numericCode": -1073741613,
+  "define": "STATUS_PROFILING_AT_LIMIT",
+  "defineUrl": "/win32/ntstatus-h/status_profiling_at_limit/",
+  "message": "The number of active profiling objects is at the maximum and no more may be started.",
+  "remarks": null,
+  "aka": [
+    "-1073741613"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_profiling_at_limit/-1073741613/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

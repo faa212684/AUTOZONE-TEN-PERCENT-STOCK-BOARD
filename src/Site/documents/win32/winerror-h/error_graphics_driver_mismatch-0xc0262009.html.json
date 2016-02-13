@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\error_graphics_driver_mismatch\0xc0262009\index.html.json
+
+title: 0xC0262009 ERROR_GRAPHICS_DRIVER_MISMATCH in winerror.h
+description: The kernel driver detected a version mismatch between it and the user mode driver.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0xC0262009",
+  "codeUrl": "/win32/winerror-h/error_graphics_driver_mismatch/0xc0262009/",
+  "numericCode": -1071243255,
+  "define": "ERROR_GRAPHICS_DRIVER_MISMATCH",
+  "defineUrl": "/win32/winerror-h/error_graphics_driver_mismatch/",
+  "message": "The kernel driver detected a version mismatch between it and the user mode driver.",
+  "remarks": null,
+  "aka": [
+    "-1071243255"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_graphics_driver_mismatch/-1071243255/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

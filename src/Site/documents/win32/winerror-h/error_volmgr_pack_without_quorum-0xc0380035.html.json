@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\error_volmgr_pack_without_quorum\0xc0380035\index.html.json
+
+title: 0xC0380035 ERROR_VOLMGR_PACK_WITHOUT_QUORUM in winerror.h
+description: The pack does not have a quorum of healthy disks.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0xC0380035",
+  "codeUrl": "/win32/winerror-h/error_volmgr_pack_without_quorum/0xc0380035/",
+  "numericCode": -1070071755,
+  "define": "ERROR_VOLMGR_PACK_WITHOUT_QUORUM",
+  "defineUrl": "/win32/winerror-h/error_volmgr_pack_without_quorum/",
+  "message": "The pack does not have a quorum of healthy disks.",
+  "remarks": null,
+  "aka": [
+    "-1070071755"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_volmgr_pack_without_quorum/-1070071755/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

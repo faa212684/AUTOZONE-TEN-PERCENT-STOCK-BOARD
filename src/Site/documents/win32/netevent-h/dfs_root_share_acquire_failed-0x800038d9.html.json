@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\dfs_root_share_acquire_failed\0x800038d9\index.html.json
+
+title: 0x800038D9 DFS_ROOT_SHARE_ACQUIRE_FAILED in netevent.h
+description: The DFS Namespaces service failed to initialize the shared folder that hosts the namespace root. Shared folder: %1
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x800038D9",
+  "codeUrl": "/win32/netevent-h/dfs_root_share_acquire_failed/0x800038d9/",
+  "numericCode": -2147469095,
+  "define": "DFS_ROOT_SHARE_ACQUIRE_FAILED",
+  "defineUrl": "/win32/netevent-h/dfs_root_share_acquire_failed/",
+  "message": "The DFS Namespaces service failed to initialize the shared folder that hosts the namespace root. Shared folder: %1",
+  "remarks": null,
+  "aka": [
+    "-2147469095"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/dfs_root_share_acquire_failed/-2147469095/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

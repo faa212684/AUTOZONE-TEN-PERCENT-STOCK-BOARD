@@ -1,0 +1,29 @@
+---
+output: win32\cdosyserr-h\evtunhandledexceptionquery\0xc0032023\index.html.json
+
+title: 0xC0032023 evtUnhandledExceptionQuery in CDOSysErr.h
+description: Unhandled exception %1 caught during query processing.
+%n%nFor more information, click http:www.microsoft.com/contentredirect.asp.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "CDOSysErr.h",
+  "sourceUrl": "/win32/cdosyserr-h/",
+  "code": "0xC0032023",
+  "codeUrl": "/win32/cdosyserr-h/evtunhandledexceptionquery/0xc0032023/",
+  "numericCode": -1073536989,
+  "define": "evtUnhandledExceptionQuery",
+  "defineUrl": "/win32/cdosyserr-h/evtunhandledexceptionquery/",
+  "message": "Unhandled exception %1 caught during query processing.\r\n%n%nFor more information, click http:www.microsoft.com/contentredirect.asp.",
+  "remarks": null,
+  "aka": [
+    "-1073536989"
+  ],
+  "akaUrl": [
+    "/win32/cdosyserr-h/evtunhandledexceptionquery/-1073536989/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\rpc_e_server_cantunmarshal_data\0x8001000e\index.html.json
+
+title: 0x8001000E RPC_E_SERVER_CANTUNMARSHAL_DATA in winerror.h
+description: The server (callee) cannot unmarshall the parameter data - low memory, etc.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8001000E",
+  "codeUrl": "/win32/winerror-h/rpc_e_server_cantunmarshal_data/0x8001000e/",
+  "numericCode": -2147418098,
+  "define": "RPC_E_SERVER_CANTUNMARSHAL_DATA",
+  "defineUrl": "/win32/winerror-h/rpc_e_server_cantunmarshal_data/",
+  "message": "The server (callee) cannot unmarshall the parameter data - low memory, etc.",
+  "remarks": null,
+  "aka": [
+    "-2147418098"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/rpc_e_server_cantunmarshal_data/-2147418098/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

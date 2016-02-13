@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_sxs_private_manifest_cross_path_with_reparse_point\14020\index.html.json
+
+title: 14020 ERROR_SXS_PRIVATE_MANIFEST_CROSS_PATH_WITH_REPARSE_POINT in winerror.h
+description: The private manifest probed has crossed a path with an unsupported reparse point.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "14020",
+  "codeUrl": "/win32/winerror-h/error_sxs_private_manifest_cross_path_with_reparse_point/14020/",
+  "numericCode": 14020,
+  "define": "ERROR_SXS_PRIVATE_MANIFEST_CROSS_PATH_WITH_REPARSE_POINT",
+  "defineUrl": "/win32/winerror-h/error_sxs_private_manifest_cross_path_with_reparse_point/",
+  "message": "The private manifest probed has crossed a path with an unsupported reparse point.",
+  "remarks": null,
+  "aka": [
+    "0x800736c4",
+    "-2147010876"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_sxs_private_manifest_cross_path_with_reparse_point/0x800736c4/",
+    "/win32/winerror-h/error_sxs_private_manifest_cross_path_with_reparse_point/-2147010876/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

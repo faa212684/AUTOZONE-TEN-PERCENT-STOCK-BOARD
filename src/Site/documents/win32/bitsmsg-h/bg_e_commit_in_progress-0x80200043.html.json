@@ -1,0 +1,28 @@
+---
+output: win32\bitsmsg-h\bg_e_commit_in_progress\0x80200043\index.html.json
+
+title: 0x80200043 BG_E_COMMIT_IN_PROGRESS in BitsMsg.h
+description: Another application thread is already updating the cache record.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "BitsMsg.h",
+  "sourceUrl": "/win32/bitsmsg-h/",
+  "code": "0x80200043",
+  "codeUrl": "/win32/bitsmsg-h/bg_e_commit_in_progress/0x80200043/",
+  "numericCode": -2145386429,
+  "define": "BG_E_COMMIT_IN_PROGRESS",
+  "defineUrl": "/win32/bitsmsg-h/bg_e_commit_in_progress/",
+  "message": "Another application thread is already updating the cache record.",
+  "remarks": null,
+  "aka": [
+    "-2145386429"
+  ],
+  "akaUrl": [
+    "/win32/bitsmsg-h/bg_e_commit_in_progress/-2145386429/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

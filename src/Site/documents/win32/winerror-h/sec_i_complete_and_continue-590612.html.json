@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\sec_i_complete_and_continue\590612\index.html.json
+canonical: /win32/winerror-h/sec_i_complete_and_continue/0x00090314/
+title: 590612 SEC_I_COMPLETE_AND_CONTINUE in winerror.h
+description: The function completed successfully, but both CompleteToken and this function must be called to complete the context
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "590612",
+  "codeUrl": "/win32/winerror-h/sec_i_complete_and_continue/590612/",
+  "numericCode": 0,
+  "define": "SEC_I_COMPLETE_AND_CONTINUE",
+  "defineUrl": "/win32/winerror-h/sec_i_complete_and_continue/",
+  "message": "The function completed successfully, but both CompleteToken and this function must be called to complete the context",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x00090314",
+  "originalCodeUrl": "/win32/winerror-h/sec_i_complete_and_continue/0x00090314/"
+}

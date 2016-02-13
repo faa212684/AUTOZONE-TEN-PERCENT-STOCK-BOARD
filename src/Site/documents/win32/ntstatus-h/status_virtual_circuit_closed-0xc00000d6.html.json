@@ -1,0 +1,29 @@
+---
+output: win32\ntstatus-h\status_virtual_circuit_closed\0xc00000d6\index.html.json
+
+title: 0xC00000D6 STATUS_VIRTUAL_CIRCUIT_CLOSED in ntstatus.h
+description: "{Network Request Timeout}
+The session with a remote server has been disconnected because the time-out interval for a request has expired."
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC00000D6",
+  "codeUrl": "/win32/ntstatus-h/status_virtual_circuit_closed/0xc00000d6/",
+  "numericCode": -1073741610,
+  "define": "STATUS_VIRTUAL_CIRCUIT_CLOSED",
+  "defineUrl": "/win32/ntstatus-h/status_virtual_circuit_closed/",
+  "message": "{Network Request Timeout}\r\nThe session with a remote server has been disconnected because the time-out interval for a request has expired.",
+  "remarks": null,
+  "aka": [
+    "-1073741610"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_virtual_circuit_closed/-1073741610/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

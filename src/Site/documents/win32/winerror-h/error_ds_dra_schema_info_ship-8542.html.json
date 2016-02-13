@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ds_dra_schema_info_ship\8542\index.html.json
+
+title: 8542 ERROR_DS_DRA_SCHEMA_INFO_SHIP in winerror.h
+description: Schema information could not be included in the replication request.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "8542",
+  "codeUrl": "/win32/winerror-h/error_ds_dra_schema_info_ship/8542/",
+  "numericCode": 8542,
+  "define": "ERROR_DS_DRA_SCHEMA_INFO_SHIP",
+  "defineUrl": "/win32/winerror-h/error_ds_dra_schema_info_ship/",
+  "message": "Schema information could not be included in the replication request.",
+  "remarks": null,
+  "aka": [
+    "0x8007215e",
+    "-2147016354"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ds_dra_schema_info_ship/0x8007215e/",
+    "/win32/winerror-h/error_ds_dra_schema_info_ship/-2147016354/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

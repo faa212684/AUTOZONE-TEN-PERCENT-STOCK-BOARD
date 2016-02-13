@@ -1,0 +1,30 @@
+---
+output: win32\vdserr-h\vds_e_reboot_required\0x8004290c\index.html.json
+
+title: 0x8004290C VDS_E_REBOOT_REQUIRED in vdserr.h
+description: A reboot is required before any further operations may be initiated. 
+If you do not reboot, machine behavior and machine state, are undefined 
+for any further operations.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x8004290C",
+  "codeUrl": "/win32/vdserr-h/vds_e_reboot_required/0x8004290c/",
+  "numericCode": -2147210996,
+  "define": "VDS_E_REBOOT_REQUIRED",
+  "defineUrl": "/win32/vdserr-h/vds_e_reboot_required/",
+  "message": "A reboot is required before any further operations may be initiated. \r\nIf you do not reboot, machine behavior and machine state, are undefined \r\nfor any further operations.",
+  "remarks": null,
+  "aka": [
+    "-2147210996"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_reboot_required/-2147210996/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

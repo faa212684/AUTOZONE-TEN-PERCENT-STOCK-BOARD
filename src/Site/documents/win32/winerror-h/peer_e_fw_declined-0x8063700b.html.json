@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\peer_e_fw_declined\0x8063700b\index.html.json
+
+title: 0x8063700B PEER_E_FW_DECLINED in winerror.h
+description: The user declined to enable the firewall exceptions.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8063700B",
+  "codeUrl": "/win32/winerror-h/peer_e_fw_declined/0x8063700b/",
+  "numericCode": -2140966901,
+  "define": "PEER_E_FW_DECLINED",
+  "defineUrl": "/win32/winerror-h/peer_e_fw_declined/",
+  "message": "The user declined to enable the firewall exceptions.",
+  "remarks": null,
+  "aka": [
+    "-2140966901"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/peer_e_fw_declined/-2140966901/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

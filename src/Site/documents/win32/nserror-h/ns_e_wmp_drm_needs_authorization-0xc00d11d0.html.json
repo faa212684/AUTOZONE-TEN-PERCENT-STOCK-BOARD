@@ -1,0 +1,28 @@
+---
+output: win32\nserror-h\ns_e_wmp_drm_needs_authorization\0xc00d11d0\index.html.json
+
+title: 0xC00D11D0 NS_E_WMP_DRM_NEEDS_AUTHORIZATION in nserror.h
+description: Windows Media Player cannot play, sync, or burn the protected file because a problem occurred with the Windows Media Digital Rights Management (DRM) system. You might need to connect to the Internet to update your DRM components.%0
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "nserror.h",
+  "sourceUrl": "/win32/nserror-h/",
+  "code": "0xC00D11D0",
+  "codeUrl": "/win32/nserror-h/ns_e_wmp_drm_needs_authorization/0xc00d11d0/",
+  "numericCode": -1072885296,
+  "define": "NS_E_WMP_DRM_NEEDS_AUTHORIZATION",
+  "defineUrl": "/win32/nserror-h/ns_e_wmp_drm_needs_authorization/",
+  "message": "Windows Media Player cannot play, sync, or burn the protected file because a problem occurred with the Windows Media Digital Rights Management (DRM) system. You might need to connect to the Internet to update your DRM components.%0",
+  "remarks": null,
+  "aka": [
+    "-1072885296"
+  ],
+  "akaUrl": [
+    "/win32/nserror-h/ns_e_wmp_drm_needs_authorization/-1072885296/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

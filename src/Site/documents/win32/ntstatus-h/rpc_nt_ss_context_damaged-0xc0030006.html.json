@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\rpc_nt_ss_context_damaged\0xc0030006\index.html.json
+
+title: 0xC0030006 RPC_NT_SS_CONTEXT_DAMAGED in ntstatus.h
+description: The context handle changed during a call.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0030006",
+  "codeUrl": "/win32/ntstatus-h/rpc_nt_ss_context_damaged/0xc0030006/",
+  "numericCode": -1073545210,
+  "define": "RPC_NT_SS_CONTEXT_DAMAGED",
+  "defineUrl": "/win32/ntstatus-h/rpc_nt_ss_context_damaged/",
+  "message": "The context handle changed during a call.",
+  "remarks": null,
+  "aka": [
+    "-1073545210"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/rpc_nt_ss_context_damaged/-1073545210/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

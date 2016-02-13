@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_process_is_protected\1293\index.html.json
+
+title: 1293 ERROR_PROCESS_IS_PROTECTED in winerror.h
+description: Either the target process, or the target thread's containing process, is a protected process.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1293",
+  "codeUrl": "/win32/winerror-h/error_process_is_protected/1293/",
+  "numericCode": 1293,
+  "define": "ERROR_PROCESS_IS_PROTECTED",
+  "defineUrl": "/win32/winerror-h/error_process_is_protected/",
+  "message": "Either the target process, or the target thread's containing process, is a protected process.",
+  "remarks": null,
+  "aka": [
+    "0x8007050d",
+    "-2147023603"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_process_is_protected/0x8007050d/",
+    "/win32/winerror-h/error_process_is_protected/-2147023603/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

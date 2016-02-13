@@ -1,0 +1,29 @@
+---
+output: win32\ntstatus-h\status_disk_full\0xc000007f\index.html.json
+
+title: 0xC000007F STATUS_DISK_FULL in ntstatus.h
+description: An operation failed because the disk was full.
+If this is a thinly provisioned volume the physical storage backing this volume has been exhausted.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000007F",
+  "codeUrl": "/win32/ntstatus-h/status_disk_full/0xc000007f/",
+  "numericCode": -1073741697,
+  "define": "STATUS_DISK_FULL",
+  "defineUrl": "/win32/ntstatus-h/status_disk_full/",
+  "message": "An operation failed because the disk was full.\r\nIf this is a thinly provisioned volume the physical storage backing this volume has been exhausted.",
+  "remarks": null,
+  "aka": [
+    "-1073741697"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_disk_full/-1073741697/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

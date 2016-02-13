@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_flt_name_cache_miss\0xc01c0018\index.html.json
+
+title: 0xC01C0018 STATUS_FLT_NAME_CACHE_MISS in ntstatus.h
+description: The name requested was not found in Filter Manager's name cache and could not be retrieved from the file system.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC01C0018",
+  "codeUrl": "/win32/ntstatus-h/status_flt_name_cache_miss/0xc01c0018/",
+  "numericCode": -1071906792,
+  "define": "STATUS_FLT_NAME_CACHE_MISS",
+  "defineUrl": "/win32/ntstatus-h/status_flt_name_cache_miss/",
+  "message": "The name requested was not found in Filter Manager's name cache and could not be retrieved from the file system.",
+  "remarks": null,
+  "aka": [
+    "-1071906792"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_flt_name_cache_miss/-1071906792/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

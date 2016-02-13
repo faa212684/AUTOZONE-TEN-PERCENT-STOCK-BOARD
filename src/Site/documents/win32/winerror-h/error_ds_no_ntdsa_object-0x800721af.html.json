@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_ds_no_ntdsa_object\0x800721af\index.html.json
+canonical: /win32/winerror-h/error_ds_no_ntdsa_object/8623/
+title: 0x800721af ERROR_DS_NO_NTDSA_OBJECT in winerror.h
+description: The NTDS Settings object for the domain controller does not exist.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800721af",
+  "codeUrl": "/win32/winerror-h/error_ds_no_ntdsa_object/0x800721af/",
+  "numericCode": 0,
+  "define": "ERROR_DS_NO_NTDSA_OBJECT",
+  "defineUrl": "/win32/winerror-h/error_ds_no_ntdsa_object/",
+  "message": "The NTDS Settings object for the domain controller does not exist.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "8623",
+  "originalCodeUrl": "/win32/winerror-h/error_ds_no_ntdsa_object/8623/"
+}

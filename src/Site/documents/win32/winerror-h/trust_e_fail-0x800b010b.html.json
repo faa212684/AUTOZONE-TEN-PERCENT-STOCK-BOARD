@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\trust_e_fail\0x800b010b\index.html.json
+
+title: 0x800B010B TRUST_E_FAIL in winerror.h
+description: Generic trust failure.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800B010B",
+  "codeUrl": "/win32/winerror-h/trust_e_fail/0x800b010b/",
+  "numericCode": -2146762485,
+  "define": "TRUST_E_FAIL",
+  "defineUrl": "/win32/winerror-h/trust_e_fail/",
+  "message": "Generic trust failure.",
+  "remarks": null,
+  "aka": [
+    "-2146762485"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/trust_e_fail/-2146762485/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ds_no_chained_eval\8328\index.html.json
+
+title: 8328 ERROR_DS_NO_CHAINED_EVAL in winerror.h
+description: Chained evaluation is not permitted.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "8328",
+  "codeUrl": "/win32/winerror-h/error_ds_no_chained_eval/8328/",
+  "numericCode": 8328,
+  "define": "ERROR_DS_NO_CHAINED_EVAL",
+  "defineUrl": "/win32/winerror-h/error_ds_no_chained_eval/",
+  "message": "Chained evaluation is not permitted.",
+  "remarks": null,
+  "aka": [
+    "0x80072088",
+    "-2147016568"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ds_no_chained_eval/0x80072088/",
+    "/win32/winerror-h/error_ds_no_chained_eval/-2147016568/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

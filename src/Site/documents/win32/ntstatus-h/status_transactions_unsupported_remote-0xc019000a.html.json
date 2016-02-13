@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_transactions_unsupported_remote\0xc019000a\index.html.json
+
+title: 0xC019000A STATUS_TRANSACTIONS_UNSUPPORTED_REMOTE in ntstatus.h
+description: The remote server or share does not support transacted file operations.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC019000A",
+  "codeUrl": "/win32/ntstatus-h/status_transactions_unsupported_remote/0xc019000a/",
+  "numericCode": -1072103414,
+  "define": "STATUS_TRANSACTIONS_UNSUPPORTED_REMOTE",
+  "defineUrl": "/win32/ntstatus-h/status_transactions_unsupported_remote/",
+  "message": "The remote server or share does not support transacted file operations.",
+  "remarks": null,
+  "aka": [
+    "-1072103414"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_transactions_unsupported_remote/-1072103414/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

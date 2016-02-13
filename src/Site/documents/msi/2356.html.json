@@ -1,0 +1,24 @@
+---
+output: msi\2356\index.html.json
+
+title: msi 2356
+description: Could not locate cabinet in stream: [2].
+disqus: true
+---
+{
+  "area": "msi",
+  "areaUrl": "/msi/",
+  "source": null,
+  "sourceUrl": "/msi/",
+  "code": "2356",
+  "codeUrl": "/msi/2356/",
+  "numericCode": 2356,
+  "define": null,
+  "defineUrl": "/msi/",
+  "message": "Could not locate cabinet in stream: [2].",
+  "remarks": "When troubleshooting embedded streams, you may use <a href=\"https://msdn.microsoft.com/en-us/library/aa369789(v=vs.85).aspx\">WiStream.vbs</a> to list the streams  and use <a href=\"https://msdn.microsoft.com/en-us/library/aa370083(v=vs.85).aspx\">Msidb.exe</a> to export the streams.",
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": null,
+  "originalCodeUrl": null
+}

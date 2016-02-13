@@ -1,0 +1,24 @@
+---
+output: win32\windowssearcherrors-h\event_sssearch_setup_cleanup_started\-2147482640\index.html.json
+canonical: /win32/windowssearcherrors-h/event_sssearch_setup_cleanup_started/0x800003f0/
+title: -2147482640 EVENT_SSSEARCH_SETUP_CLEANUP_STARTED in WindowsSearchErrors.h
+description: The Windows Search Service is starting up and attempting to remove the old search index {Reason: %2}. %1
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "-2147482640",
+  "codeUrl": "/win32/windowssearcherrors-h/event_sssearch_setup_cleanup_started/-2147482640/",
+  "numericCode": 0,
+  "define": "EVENT_SSSEARCH_SETUP_CLEANUP_STARTED",
+  "defineUrl": "/win32/windowssearcherrors-h/event_sssearch_setup_cleanup_started/",
+  "message": "The Windows Search Service is starting up and attempting to remove the old search index {Reason: %2}. %1",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x800003F0",
+  "originalCodeUrl": "/win32/windowssearcherrors-h/event_sssearch_setup_cleanup_started/0x800003f0/"
+}

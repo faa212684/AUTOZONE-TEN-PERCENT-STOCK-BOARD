@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_window_not_dialog\1420\index.html.json
+
+title: 1420 ERROR_WINDOW_NOT_DIALOG in winerror.h
+description: The window is not a valid dialog window.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1420",
+  "codeUrl": "/win32/winerror-h/error_window_not_dialog/1420/",
+  "numericCode": 1420,
+  "define": "ERROR_WINDOW_NOT_DIALOG",
+  "defineUrl": "/win32/winerror-h/error_window_not_dialog/",
+  "message": "The window is not a valid dialog window.",
+  "remarks": null,
+  "aka": [
+    "0x8007058c",
+    "-2147023476"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_window_not_dialog/0x8007058c/",
+    "/win32/winerror-h/error_window_not_dialog/-2147023476/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_cancelled\1223\index.html.json
+
+title: 1223 ERROR_CANCELLED in winerror.h
+description: The operation was canceled by the user.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1223",
+  "codeUrl": "/win32/winerror-h/error_cancelled/1223/",
+  "numericCode": 1223,
+  "define": "ERROR_CANCELLED",
+  "defineUrl": "/win32/winerror-h/error_cancelled/",
+  "message": "The operation was canceled by the user.",
+  "remarks": null,
+  "aka": [
+    "0x800704c7",
+    "-2147023673"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_cancelled/0x800704c7/",
+    "/win32/winerror-h/error_cancelled/-2147023673/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

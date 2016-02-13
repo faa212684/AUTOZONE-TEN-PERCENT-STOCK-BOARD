@@ -1,0 +1,28 @@
+---
+output: win32\wdstptmgmtmsg-h\wdstptmgmt_e_invalid_ipv6_multicast_address\0xc1100118\index.html.json
+
+title: 0xC1100118 WDSTPTMGMT_E_INVALID_IPV6_MULTICAST_ADDRESS in WdsTptMgmtMsg.h
+description: The specified IPv6 address is not valid for multicast. IPv6 multicast addresses must start with FF (for example, FF15::FF).
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WdsTptMgmtMsg.h",
+  "sourceUrl": "/win32/wdstptmgmtmsg-h/",
+  "code": "0xC1100118",
+  "codeUrl": "/win32/wdstptmgmtmsg-h/wdstptmgmt_e_invalid_ipv6_multicast_address/0xc1100118/",
+  "numericCode": -1055915752,
+  "define": "WDSTPTMGMT_E_INVALID_IPV6_MULTICAST_ADDRESS",
+  "defineUrl": "/win32/wdstptmgmtmsg-h/wdstptmgmt_e_invalid_ipv6_multicast_address/",
+  "message": "The specified IPv6 address is not valid for multicast. IPv6 multicast addresses must start with FF (for example, FF15::FF).",
+  "remarks": null,
+  "aka": [
+    "-1055915752"
+  ],
+  "akaUrl": [
+    "/win32/wdstptmgmtmsg-h/wdstptmgmt_e_invalid_ipv6_multicast_address/-1055915752/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

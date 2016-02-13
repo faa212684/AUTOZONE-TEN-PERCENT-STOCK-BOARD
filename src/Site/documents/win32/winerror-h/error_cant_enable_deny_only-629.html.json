@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_cant_enable_deny_only\629\index.html.json
+
+title: 629 ERROR_CANT_ENABLE_DENY_ONLY in winerror.h
+description: A group marked use for deny only cannot be enabled.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "629",
+  "codeUrl": "/win32/winerror-h/error_cant_enable_deny_only/629/",
+  "numericCode": 629,
+  "define": "ERROR_CANT_ENABLE_DENY_ONLY",
+  "defineUrl": "/win32/winerror-h/error_cant_enable_deny_only/",
+  "message": "A group marked use for deny only cannot be enabled.",
+  "remarks": null,
+  "aka": [
+    "0x80070275",
+    "-2147024267"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_cant_enable_deny_only/0x80070275/",
+    "/win32/winerror-h/error_cant_enable_deny_only/-2147024267/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

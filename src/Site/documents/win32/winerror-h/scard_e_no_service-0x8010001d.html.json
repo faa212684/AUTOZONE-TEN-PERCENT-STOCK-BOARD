@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\scard_e_no_service\0x8010001d\index.html.json
+
+title: 0x8010001D SCARD_E_NO_SERVICE in winerror.h
+description: The Smart Card Resource Manager is not running.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8010001D",
+  "codeUrl": "/win32/winerror-h/scard_e_no_service/0x8010001d/",
+  "numericCode": -2146435043,
+  "define": "SCARD_E_NO_SERVICE",
+  "defineUrl": "/win32/winerror-h/scard_e_no_service/",
+  "message": "The Smart Card Resource Manager is not running.",
+  "remarks": null,
+  "aka": [
+    "-2146435043"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/scard_e_no_service/-2146435043/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

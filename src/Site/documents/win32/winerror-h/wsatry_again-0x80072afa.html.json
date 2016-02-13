@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\wsatry_again\0x80072afa\index.html.json
+canonical: /win32/winerror-h/wsatry_again/11002/
+title: 0x80072afa WSATRY_AGAIN in winerror.h
+description: This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80072afa",
+  "codeUrl": "/win32/winerror-h/wsatry_again/0x80072afa/",
+  "numericCode": 0,
+  "define": "WSATRY_AGAIN",
+  "defineUrl": "/win32/winerror-h/wsatry_again/",
+  "message": "This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "11002",
+  "originalCodeUrl": "/win32/winerror-h/wsatry_again/11002/"
+}

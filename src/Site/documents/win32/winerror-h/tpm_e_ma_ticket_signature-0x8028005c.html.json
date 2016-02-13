@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\tpm_e_ma_ticket_signature\0x8028005c\index.html.json
+
+title: 0x8028005C TPM_E_MA_TICKET_SIGNATURE in winerror.h
+description: Migration authority signature validation failure.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8028005C",
+  "codeUrl": "/win32/winerror-h/tpm_e_ma_ticket_signature/0x8028005c/",
+  "numericCode": -2144862116,
+  "define": "TPM_E_MA_TICKET_SIGNATURE",
+  "defineUrl": "/win32/winerror-h/tpm_e_ma_ticket_signature/",
+  "message": "Migration authority signature validation failure.",
+  "remarks": null,
+  "aka": [
+    "-2144862116"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/tpm_e_ma_ticket_signature/-2144862116/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

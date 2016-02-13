@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_no_savepoint_with_open_files\0x80071aba\index.html.json
+canonical: /win32/winerror-h/error_no_savepoint_with_open_files/6842/
+title: 0x80071aba ERROR_NO_SAVEPOINT_WITH_OPEN_FILES in winerror.h
+description: The savepoint operation failed because files are open on the transaction. This is not permitted.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80071aba",
+  "codeUrl": "/win32/winerror-h/error_no_savepoint_with_open_files/0x80071aba/",
+  "numericCode": 0,
+  "define": "ERROR_NO_SAVEPOINT_WITH_OPEN_FILES",
+  "defineUrl": "/win32/winerror-h/error_no_savepoint_with_open_files/",
+  "message": "The savepoint operation failed because files are open on the transaction. This is not permitted.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "6842",
+  "originalCodeUrl": "/win32/winerror-h/error_no_savepoint_with_open_files/6842/"
+}

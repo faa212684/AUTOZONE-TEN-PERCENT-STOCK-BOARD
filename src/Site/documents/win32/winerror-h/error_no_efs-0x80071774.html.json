@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_no_efs\0x80071774\index.html.json
+canonical: /win32/winerror-h/error_no_efs/6004/
+title: 0x80071774 ERROR_NO_EFS in winerror.h
+description: The required encryption driver is not loaded for this system.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80071774",
+  "codeUrl": "/win32/winerror-h/error_no_efs/0x80071774/",
+  "numericCode": 0,
+  "define": "ERROR_NO_EFS",
+  "defineUrl": "/win32/winerror-h/error_no_efs/",
+  "message": "The required encryption driver is not loaded for this system.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "6004",
+  "originalCodeUrl": "/win32/winerror-h/error_no_efs/6004/"
+}

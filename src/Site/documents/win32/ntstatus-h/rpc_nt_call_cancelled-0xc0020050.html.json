@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\rpc_nt_call_cancelled\0xc0020050\index.html.json
+
+title: 0xC0020050 RPC_NT_CALL_CANCELLED in ntstatus.h
+description: The remote procedure call was cancelled.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0020050",
+  "codeUrl": "/win32/ntstatus-h/rpc_nt_call_cancelled/0xc0020050/",
+  "numericCode": -1073610672,
+  "define": "RPC_NT_CALL_CANCELLED",
+  "defineUrl": "/win32/ntstatus-h/rpc_nt_call_cancelled/",
+  "message": "The remote procedure call was cancelled.",
+  "remarks": null,
+  "aka": [
+    "-1073610672"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/rpc_nt_call_cancelled/-1073610672/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

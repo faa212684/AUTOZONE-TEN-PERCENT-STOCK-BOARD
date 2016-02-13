@@ -1,0 +1,28 @@
+---
+output: win32\wsmerror-h\error_wsman_system_not_found\0x80338046\index.html.json
+
+title: 0x80338046 ERROR_WSMAN_SYSTEM_NOT_FOUND in wsmerror.h
+description: The WS-Management service cannot locate the system.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x80338046",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_system_not_found/0x80338046/",
+  "numericCode": -2144108474,
+  "define": "ERROR_WSMAN_SYSTEM_NOT_FOUND",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_system_not_found/",
+  "message": "The WS-Management service cannot locate the system.",
+  "remarks": null,
+  "aka": [
+    "-2144108474"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_system_not_found/-2144108474/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

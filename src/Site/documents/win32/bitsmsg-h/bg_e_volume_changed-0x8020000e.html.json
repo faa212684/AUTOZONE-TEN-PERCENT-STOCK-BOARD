@@ -1,0 +1,28 @@
+---
+output: win32\bitsmsg-h\bg_e_volume_changed\0x8020000e\index.html.json
+
+title: 0x8020000E BG_E_VOLUME_CHANGED in BitsMsg.h
+description: The destination volume has changed. If the disk is removable, it might have been replaced with a different disk. Reinsert the original disk and resume the job.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "BitsMsg.h",
+  "sourceUrl": "/win32/bitsmsg-h/",
+  "code": "0x8020000E",
+  "codeUrl": "/win32/bitsmsg-h/bg_e_volume_changed/0x8020000e/",
+  "numericCode": -2145386482,
+  "define": "BG_E_VOLUME_CHANGED",
+  "defineUrl": "/win32/bitsmsg-h/bg_e_volume_changed/",
+  "message": "The destination volume has changed. If the disk is removable, it might have been replaced with a different disk. Reinsert the original disk and resume the job.",
+  "remarks": null,
+  "aka": [
+    "-2145386482"
+  ],
+  "akaUrl": [
+    "/win32/bitsmsg-h/bg_e_volume_changed/-2145386482/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

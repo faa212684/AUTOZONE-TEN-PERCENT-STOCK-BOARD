@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ds_add_replica_inhibited\8302\index.html.json
+
+title: 8302 ERROR_DS_ADD_REPLICA_INHIBITED in winerror.h
+description: The add replica operation cannot be performed. The naming context must be writeable in order to create the replica.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "8302",
+  "codeUrl": "/win32/winerror-h/error_ds_add_replica_inhibited/8302/",
+  "numericCode": 8302,
+  "define": "ERROR_DS_ADD_REPLICA_INHIBITED",
+  "defineUrl": "/win32/winerror-h/error_ds_add_replica_inhibited/",
+  "message": "The add replica operation cannot be performed. The naming context must be writeable in order to create the replica.",
+  "remarks": null,
+  "aka": [
+    "0x8007206e",
+    "-2147016594"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ds_add_replica_inhibited/0x8007206e/",
+    "/win32/winerror-h/error_ds_add_replica_inhibited/-2147016594/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

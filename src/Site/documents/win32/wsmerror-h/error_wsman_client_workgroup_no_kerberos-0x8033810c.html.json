@@ -1,0 +1,29 @@
+---
+output: win32\wsmerror-h\error_wsman_client_workgroup_no_kerberos\0x8033810c\index.html.json
+
+title: 0x8033810C ERROR_WSMAN_CLIENT_WORKGROUP_NO_KERBEROS in wsmerror.h
+description: The WinRM client cannot process the request. Kerberos authentication cannot be used with implicit credentials if the client computer is not joined to a domain.
+Use explicit credentials or specify a different authentication mechanism than Kerberos.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x8033810C",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_client_workgroup_no_kerberos/0x8033810c/",
+  "numericCode": -2144108276,
+  "define": "ERROR_WSMAN_CLIENT_WORKGROUP_NO_KERBEROS",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_client_workgroup_no_kerberos/",
+  "message": "The WinRM client cannot process the request. Kerberos authentication cannot be used with implicit credentials if the client computer is not joined to a domain.\r\nUse explicit credentials or specify a different authentication mechanism than Kerberos.",
+  "remarks": null,
+  "aka": [
+    "-2144108276"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_client_workgroup_no_kerberos/-2144108276/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

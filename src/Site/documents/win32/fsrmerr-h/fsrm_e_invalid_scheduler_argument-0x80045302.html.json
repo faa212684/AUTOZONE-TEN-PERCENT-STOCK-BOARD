@@ -1,0 +1,28 @@
+---
+output: win32\fsrmerr-h\fsrm_e_invalid_scheduler_argument\0x80045302\index.html.json
+
+title: 0x80045302 FSRM_E_INVALID_SCHEDULER_ARGUMENT in fsrmerr.h
+description: One or more of the arguments supplied to the task scheduler are not valid.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "fsrmerr.h",
+  "sourceUrl": "/win32/fsrmerr-h/",
+  "code": "0x80045302",
+  "codeUrl": "/win32/fsrmerr-h/fsrm_e_invalid_scheduler_argument/0x80045302/",
+  "numericCode": -2147200254,
+  "define": "FSRM_E_INVALID_SCHEDULER_ARGUMENT",
+  "defineUrl": "/win32/fsrmerr-h/fsrm_e_invalid_scheduler_argument/",
+  "message": "One or more of the arguments supplied to the task scheduler are not valid.",
+  "remarks": null,
+  "aka": [
+    "-2147200254"
+  ],
+  "akaUrl": [
+    "/win32/fsrmerr-h/fsrm_e_invalid_scheduler_argument/-2147200254/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

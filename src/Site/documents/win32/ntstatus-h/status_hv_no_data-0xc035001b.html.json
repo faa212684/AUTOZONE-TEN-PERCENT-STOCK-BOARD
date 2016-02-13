@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_hv_no_data\0xc035001b\index.html.json
+
+title: 0xC035001B STATUS_HV_NO_DATA in ntstatus.h
+description: An attempt to retrieve debugging data failed because none was available.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC035001B",
+  "codeUrl": "/win32/ntstatus-h/status_hv_no_data/0xc035001b/",
+  "numericCode": -1070268389,
+  "define": "STATUS_HV_NO_DATA",
+  "defineUrl": "/win32/ntstatus-h/status_hv_no_data/",
+  "message": "An attempt to retrieve debugging data failed because none was available.",
+  "remarks": null,
+  "aka": [
+    "-1070268389"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_hv_no_data/-1070268389/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

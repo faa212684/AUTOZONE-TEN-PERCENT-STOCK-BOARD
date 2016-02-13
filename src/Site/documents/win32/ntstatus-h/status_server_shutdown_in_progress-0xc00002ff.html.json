@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_server_shutdown_in_progress\0xc00002ff\index.html.json
+
+title: 0xC00002FF STATUS_SERVER_SHUTDOWN_IN_PROGRESS in ntstatus.h
+description: The server machine is shutting down.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC00002FF",
+  "codeUrl": "/win32/ntstatus-h/status_server_shutdown_in_progress/0xc00002ff/",
+  "numericCode": -1073741057,
+  "define": "STATUS_SERVER_SHUTDOWN_IN_PROGRESS",
+  "defineUrl": "/win32/ntstatus-h/status_server_shutdown_in_progress/",
+  "message": "The server machine is shutting down.",
+  "remarks": null,
+  "aka": [
+    "-1073741057"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_server_shutdown_in_progress/-1073741057/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

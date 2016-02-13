@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_volume_dismounted\-1073741202\index.html.json
+canonical: /win32/ntstatus-h/status_volume_dismounted/0xc000026e/
+title: -1073741202 STATUS_VOLUME_DISMOUNTED in ntstatus.h
+description: An operation was attempted to a volume after it was dismounted.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741202",
+  "codeUrl": "/win32/ntstatus-h/status_volume_dismounted/-1073741202/",
+  "numericCode": 0,
+  "define": "STATUS_VOLUME_DISMOUNTED",
+  "defineUrl": "/win32/ntstatus-h/status_volume_dismounted/",
+  "message": "An operation was attempted to a volume after it was dismounted.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC000026E",
+  "originalCodeUrl": "/win32/ntstatus-h/status_volume_dismounted/0xc000026e/"
+}

@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\co_e_failedtogettokeninfo\0x80010126\index.html.json
+
+title: 0x80010126 CO_E_FAILEDTOGETTOKENINFO in winerror.h
+description: Unable to obtain user info from an access token
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80010126",
+  "codeUrl": "/win32/winerror-h/co_e_failedtogettokeninfo/0x80010126/",
+  "numericCode": -2147417818,
+  "define": "CO_E_FAILEDTOGETTOKENINFO",
+  "defineUrl": "/win32/winerror-h/co_e_failedtogettokeninfo/",
+  "message": "Unable to obtain user info from an access token",
+  "remarks": null,
+  "aka": [
+    "-2147417818"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/co_e_failedtogettokeninfo/-2147417818/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

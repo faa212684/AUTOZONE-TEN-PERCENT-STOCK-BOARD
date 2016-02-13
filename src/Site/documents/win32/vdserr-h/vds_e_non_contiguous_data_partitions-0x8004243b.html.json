@@ -1,0 +1,30 @@
+---
+output: win32\vdserr-h\vds_e_non_contiguous_data_partitions\0x8004243b\index.html.json
+
+title: 0x8004243B VDS_E_NON_CONTIGUOUS_DATA_PARTITIONS in vdserr.h
+description: The selected GPT formatted disk contains a partition which is not of type 
+'PARTITION_BASIC_DATA_GUID', and is both preceeded and followed by a partition 
+of type 'PARTITION_BASIC_DATA_GUID'.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x8004243B",
+  "codeUrl": "/win32/vdserr-h/vds_e_non_contiguous_data_partitions/0x8004243b/",
+  "numericCode": -2147212229,
+  "define": "VDS_E_NON_CONTIGUOUS_DATA_PARTITIONS",
+  "defineUrl": "/win32/vdserr-h/vds_e_non_contiguous_data_partitions/",
+  "message": "The selected GPT formatted disk contains a partition which is not of type \r\n'PARTITION_BASIC_DATA_GUID', and is both preceeded and followed by a partition \r\nof type 'PARTITION_BASIC_DATA_GUID'.",
+  "remarks": null,
+  "aka": [
+    "-2147212229"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_non_contiguous_data_partitions/-2147212229/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

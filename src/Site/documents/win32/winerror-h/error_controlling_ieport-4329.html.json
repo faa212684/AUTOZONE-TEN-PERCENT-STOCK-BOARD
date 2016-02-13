@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_controlling_ieport\4329\index.html.json
+
+title: 4329 ERROR_CONTROLLING_IEPORT in winerror.h
+description: Unable to open or close the inject/eject port.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "4329",
+  "codeUrl": "/win32/winerror-h/error_controlling_ieport/4329/",
+  "numericCode": 4329,
+  "define": "ERROR_CONTROLLING_IEPORT",
+  "defineUrl": "/win32/winerror-h/error_controlling_ieport/",
+  "message": "Unable to open or close the inject/eject port.",
+  "remarks": null,
+  "aka": [
+    "0x800710e9",
+    "-2147020567"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_controlling_ieport/0x800710e9/",
+    "/win32/winerror-h/error_controlling_ieport/-2147020567/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

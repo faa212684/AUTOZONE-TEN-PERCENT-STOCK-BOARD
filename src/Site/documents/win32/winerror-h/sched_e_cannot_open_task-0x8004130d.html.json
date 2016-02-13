@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\sched_e_cannot_open_task\0x8004130d\index.html.json
+
+title: 0x8004130D SCHED_E_CANNOT_OPEN_TASK in winerror.h
+description: The task object could not be opened.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8004130D",
+  "codeUrl": "/win32/winerror-h/sched_e_cannot_open_task/0x8004130d/",
+  "numericCode": -2147216627,
+  "define": "SCHED_E_CANNOT_OPEN_TASK",
+  "defineUrl": "/win32/winerror-h/sched_e_cannot_open_task/",
+  "message": "The task object could not be opened.",
+  "remarks": null,
+  "aka": [
+    "-2147216627"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/sched_e_cannot_open_task/-2147216627/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

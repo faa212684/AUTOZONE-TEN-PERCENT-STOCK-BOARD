@@ -1,0 +1,28 @@
+---
+output: win32\fsrmerr-h\fsrm_e_adr_max_emails_sent\0x8004537e\index.html.json
+
+title: 0x8004537E FSRM_E_ADR_MAX_EMAILS_SENT in fsrmerr.h
+description: The current user has sent the maximum number of requests for access-denied assistance.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "fsrmerr.h",
+  "sourceUrl": "/win32/fsrmerr-h/",
+  "code": "0x8004537E",
+  "codeUrl": "/win32/fsrmerr-h/fsrm_e_adr_max_emails_sent/0x8004537e/",
+  "numericCode": -2147200130,
+  "define": "FSRM_E_ADR_MAX_EMAILS_SENT",
+  "defineUrl": "/win32/fsrmerr-h/fsrm_e_adr_max_emails_sent/",
+  "message": "The current user has sent the maximum number of requests for access-denied assistance.",
+  "remarks": null,
+  "aka": [
+    "-2147200130"
+  ],
+  "akaUrl": [
+    "/win32/fsrmerr-h/fsrm_e_adr_max_emails_sent/-2147200130/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

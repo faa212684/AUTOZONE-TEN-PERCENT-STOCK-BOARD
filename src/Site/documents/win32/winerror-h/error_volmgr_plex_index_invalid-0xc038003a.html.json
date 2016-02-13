@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\error_volmgr_plex_index_invalid\0xc038003a\index.html.json
+
+title: 0xC038003A ERROR_VOLMGR_PLEX_INDEX_INVALID in winerror.h
+description: The specified plex index is greater or equal than the number of plexes in the volume.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0xC038003A",
+  "codeUrl": "/win32/winerror-h/error_volmgr_plex_index_invalid/0xc038003a/",
+  "numericCode": -1070071750,
+  "define": "ERROR_VOLMGR_PLEX_INDEX_INVALID",
+  "defineUrl": "/win32/winerror-h/error_volmgr_plex_index_invalid/",
+  "message": "The specified plex index is greater or equal than the number of plexes in the volume.",
+  "remarks": null,
+  "aka": [
+    "-1070071750"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_volmgr_plex_index_invalid/-1070071750/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

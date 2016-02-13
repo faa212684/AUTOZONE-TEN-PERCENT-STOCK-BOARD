@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_rdbss_restart_operation\0xc0410001\index.html.json
+
+title: 0xC0410001 STATUS_RDBSS_RESTART_OPERATION in ntstatus.h
+description: The operation must be restarted by RDBSS.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0410001",
+  "codeUrl": "/win32/ntstatus-h/status_rdbss_restart_operation/0xc0410001/",
+  "numericCode": -1069481983,
+  "define": "STATUS_RDBSS_RESTART_OPERATION",
+  "defineUrl": "/win32/ntstatus-h/status_rdbss_restart_operation/",
+  "message": "The operation must be restarted by RDBSS.",
+  "remarks": null,
+  "aka": [
+    "-1069481983"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_rdbss_restart_operation/-1069481983/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

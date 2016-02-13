@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_e_volume_not_mounted\0x8004244f\index.html.json
+
+title: 0x8004244F VDS_E_VOLUME_NOT_MOUNTED in vdserr.h
+description: A file system is not mounted on the volume.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x8004244F",
+  "codeUrl": "/win32/vdserr-h/vds_e_volume_not_mounted/0x8004244f/",
+  "numericCode": -2147212209,
+  "define": "VDS_E_VOLUME_NOT_MOUNTED",
+  "defineUrl": "/win32/vdserr-h/vds_e_volume_not_mounted/",
+  "message": "A file system is not mounted on the volume.",
+  "remarks": null,
+  "aka": [
+    "-2147212209"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_volume_not_mounted/-2147212209/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

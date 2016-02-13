@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_e_corrupt_extent_info\0x8004250b\index.html.json
+
+title: 0x8004250B VDS_E_CORRUPT_EXTENT_INFO in vdserr.h
+description: The disk's extent information is corrupted.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x8004250B",
+  "codeUrl": "/win32/vdserr-h/vds_e_corrupt_extent_info/0x8004250b/",
+  "numericCode": -2147212021,
+  "define": "VDS_E_CORRUPT_EXTENT_INFO",
+  "defineUrl": "/win32/vdserr-h/vds_e_corrupt_extent_info/",
+  "message": "The disk's extent information is corrupted.",
+  "remarks": null,
+  "aka": [
+    "-2147212021"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_corrupt_extent_info/-2147212021/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,24 @@
+---
+output: win32\vsserror-h\vss_e_asrerror_rdisk0_toosmall\-2147212281\index.html.json
+canonical: /win32/vsserror-h/vss_e_asrerror_rdisk0_toosmall/0x80042407/
+title: -2147212281 VSS_E_ASRERROR_RDISK0_TOOSMALL in vsserror.h
+description: The disk that is set as active in BIOS is too small to recover the original system disk. Replace the disk with a larger one and retry the restore operation.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vsserror.h",
+  "sourceUrl": "/win32/vsserror-h/",
+  "code": "-2147212281",
+  "codeUrl": "/win32/vsserror-h/vss_e_asrerror_rdisk0_toosmall/-2147212281/",
+  "numericCode": 0,
+  "define": "VSS_E_ASRERROR_RDISK0_TOOSMALL",
+  "defineUrl": "/win32/vsserror-h/vss_e_asrerror_rdisk0_toosmall/",
+  "message": "The disk that is set as active in BIOS is too small to recover the original system disk. Replace the disk with a larger one and retry the restore operation.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80042407",
+  "originalCodeUrl": "/win32/vsserror-h/vss_e_asrerror_rdisk0_toosmall/0x80042407/"
+}

@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ds_nonexistent_poss_sup\8390\index.html.json
+
+title: 8390 ERROR_DS_NONEXISTENT_POSS_SUP in winerror.h
+description: Schema update failed: class in poss-superiors does not exist.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "8390",
+  "codeUrl": "/win32/winerror-h/error_ds_nonexistent_poss_sup/8390/",
+  "numericCode": 8390,
+  "define": "ERROR_DS_NONEXISTENT_POSS_SUP",
+  "defineUrl": "/win32/winerror-h/error_ds_nonexistent_poss_sup/",
+  "message": "Schema update failed: class in poss-superiors does not exist.",
+  "remarks": null,
+  "aka": [
+    "0x800720c6",
+    "-2147016506"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ds_nonexistent_poss_sup/0x800720c6/",
+    "/win32/winerror-h/error_ds_nonexistent_poss_sup/-2147016506/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

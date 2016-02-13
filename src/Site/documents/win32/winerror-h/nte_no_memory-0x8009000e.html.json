@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\nte_no_memory\0x8009000e\index.html.json
+
+title: 0x8009000E NTE_NO_MEMORY in winerror.h
+description: Insufficient memory available for the operation.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8009000E",
+  "codeUrl": "/win32/winerror-h/nte_no_memory/0x8009000e/",
+  "numericCode": -2146893810,
+  "define": "NTE_NO_MEMORY",
+  "defineUrl": "/win32/winerror-h/nte_no_memory/",
+  "message": "Insufficient memory available for the operation.",
+  "remarks": null,
+  "aka": [
+    "-2146893810"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/nte_no_memory/-2146893810/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\e_syncengine_file_size_exceeds_remaining_quota\-2013089790\index.html.json
+canonical: /win32/winerror-h/e_syncengine_file_size_exceeds_remaining_quota/0x8802b002/
+title: -2013089790 E_SYNCENGINE_FILE_SIZE_EXCEEDS_REMAINING_QUOTA in winerror.h
+description: The file cannot be uploaded because it doesn't fit in the user's available service provided storage space.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2013089790",
+  "codeUrl": "/win32/winerror-h/e_syncengine_file_size_exceeds_remaining_quota/-2013089790/",
+  "numericCode": 0,
+  "define": "E_SYNCENGINE_FILE_SIZE_EXCEEDS_REMAINING_QUOTA",
+  "defineUrl": "/win32/winerror-h/e_syncengine_file_size_exceeds_remaining_quota/",
+  "message": "The file cannot be uploaded because it doesn't fit in the user's available service provided storage space.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x8802B002",
+  "originalCodeUrl": "/win32/winerror-h/e_syncengine_file_size_exceeds_remaining_quota/0x8802b002/"
+}

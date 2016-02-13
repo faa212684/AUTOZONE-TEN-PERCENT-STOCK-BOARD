@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\wpn_e_outstanding_channel_request\0x803e0103\index.html.json
+
+title: 0x803E0103 WPN_E_OUTSTANDING_CHANNEL_REQUEST in winerror.h
+description: A notification channel request for the provided application identifier is in progress.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x803E0103",
+  "codeUrl": "/win32/winerror-h/wpn_e_outstanding_channel_request/0x803e0103/",
+  "numericCode": -2143420157,
+  "define": "WPN_E_OUTSTANDING_CHANNEL_REQUEST",
+  "defineUrl": "/win32/winerror-h/wpn_e_outstanding_channel_request/",
+  "message": "A notification channel request for the provided application identifier is in progress.",
+  "remarks": null,
+  "aka": [
+    "-2143420157"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/wpn_e_outstanding_channel_request/-2143420157/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

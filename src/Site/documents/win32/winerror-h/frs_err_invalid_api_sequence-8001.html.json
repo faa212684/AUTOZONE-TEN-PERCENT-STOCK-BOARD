@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\frs_err_invalid_api_sequence\8001\index.html.json
+
+title: 8001 FRS_ERR_INVALID_API_SEQUENCE in winerror.h
+description: The file replication service API was called incorrectly.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "8001",
+  "codeUrl": "/win32/winerror-h/frs_err_invalid_api_sequence/8001/",
+  "numericCode": 8001,
+  "define": "FRS_ERR_INVALID_API_SEQUENCE",
+  "defineUrl": "/win32/winerror-h/frs_err_invalid_api_sequence/",
+  "message": "The file replication service API was called incorrectly.",
+  "remarks": null,
+  "aka": [
+    "0x80071f41",
+    "-2147016895"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/frs_err_invalid_api_sequence/0x80071f41/",
+    "/win32/winerror-h/frs_err_invalid_api_sequence/-2147016895/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

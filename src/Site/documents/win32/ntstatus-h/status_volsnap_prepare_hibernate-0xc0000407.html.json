@@ -1,0 +1,29 @@
+---
+output: win32\ntstatus-h\status_volsnap_prepare_hibernate\0xc0000407\index.html.json
+
+title: 0xC0000407 STATUS_VOLSNAP_PREPARE_HIBERNATE in ntstatus.h
+description: "{Volume Shadow Copy Service}
+Please wait while the Volume Shadow Copy Service prepares volume %hs for hibernation."
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000407",
+  "codeUrl": "/win32/ntstatus-h/status_volsnap_prepare_hibernate/0xc0000407/",
+  "numericCode": -1073740793,
+  "define": "STATUS_VOLSNAP_PREPARE_HIBERNATE",
+  "defineUrl": "/win32/ntstatus-h/status_volsnap_prepare_hibernate/",
+  "message": "{Volume Shadow Copy Service}\r\nPlease wait while the Volume Shadow Copy Service prepares volume %hs for hibernation.",
+  "remarks": null,
+  "aka": [
+    "-1073740793"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_volsnap_prepare_hibernate/-1073740793/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_acpi_invalid_mutex_level\-1072431083\index.html.json
+canonical: /win32/ntstatus-h/status_acpi_invalid_mutex_level/0xc0140015/
+title: -1072431083 STATUS_ACPI_INVALID_MUTEX_LEVEL in ntstatus.h
+description: An incorrect mutex was specified
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1072431083",
+  "codeUrl": "/win32/ntstatus-h/status_acpi_invalid_mutex_level/-1072431083/",
+  "numericCode": 0,
+  "define": "STATUS_ACPI_INVALID_MUTEX_LEVEL",
+  "defineUrl": "/win32/ntstatus-h/status_acpi_invalid_mutex_level/",
+  "message": "An incorrect mutex was specified",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0140015",
+  "originalCodeUrl": "/win32/ntstatus-h/status_acpi_invalid_mutex_level/0xc0140015/"
+}

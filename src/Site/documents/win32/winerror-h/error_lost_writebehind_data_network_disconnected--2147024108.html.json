@@ -1,0 +1,26 @@
+---
+output: win32\winerror-h\error_lost_writebehind_data_network_disconnected\-2147024108\index.html.json
+canonical: /win32/winerror-h/error_lost_writebehind_data_network_disconnected/788/
+title: -2147024108 ERROR_LOST_WRITEBEHIND_DATA_NETWORK_DISCONNECTED in winerror.h
+description: "{Delayed Write Failed}
+Windows was unable to save all the data for the file %hs; the data has been lost.
+This error may be caused by network connectivity issues. Please try to save this file elsewhere."
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147024108",
+  "codeUrl": "/win32/winerror-h/error_lost_writebehind_data_network_disconnected/-2147024108/",
+  "numericCode": 0,
+  "define": "ERROR_LOST_WRITEBEHIND_DATA_NETWORK_DISCONNECTED",
+  "defineUrl": "/win32/winerror-h/error_lost_writebehind_data_network_disconnected/",
+  "message": "{Delayed Write Failed}\r\nWindows was unable to save all the data for the file %hs; the data has been lost.\r\nThis error may be caused by network connectivity issues. Please try to save this file elsewhere.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "788",
+  "originalCodeUrl": "/win32/winerror-h/error_lost_writebehind_data_network_disconnected/788/"
+}

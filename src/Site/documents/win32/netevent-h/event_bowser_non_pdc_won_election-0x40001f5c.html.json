@@ -1,0 +1,30 @@
+---
+output: win32\netevent-h\event_bowser_non_pdc_won_election\0x40001f5c\index.html.json
+
+title: 0x40001F5C EVENT_BOWSER_NON_PDC_WON_ELECTION in netevent.h
+description: The browser running on this computer has won a browser election on network %2.
+This computer is a member of a domain, so the Domain Controller should become the master
+browser.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x40001F5C",
+  "codeUrl": "/win32/netevent-h/event_bowser_non_pdc_won_election/0x40001f5c/",
+  "numericCode": 1073749852,
+  "define": "EVENT_BOWSER_NON_PDC_WON_ELECTION",
+  "defineUrl": "/win32/netevent-h/event_bowser_non_pdc_won_election/",
+  "message": "The browser running on this computer has won a browser election on network %2.\r\nThis computer is a member of a domain, so the Domain Controller should become the master\r\nbrowser.",
+  "remarks": null,
+  "aka": [
+    "1073749852"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_bowser_non_pdc_won_election/1073749852/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

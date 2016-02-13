@@ -1,0 +1,28 @@
+---
+output: win32\wsmerror-h\error_winrs_shell_clientsessionid_mismatch\0x803381c6\index.html.json
+
+title: 0x803381C6 ERROR_WINRS_SHELL_CLIENTSESSIONID_MISMATCH in wsmerror.h
+description: The WinRM service cannot process the request because the WinRS shell instance is connected to a different client.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x803381C6",
+  "codeUrl": "/win32/wsmerror-h/error_winrs_shell_clientsessionid_mismatch/0x803381c6/",
+  "numericCode": -2144108090,
+  "define": "ERROR_WINRS_SHELL_CLIENTSESSIONID_MISMATCH",
+  "defineUrl": "/win32/wsmerror-h/error_winrs_shell_clientsessionid_mismatch/",
+  "message": "The WinRM service cannot process the request because the WinRS shell instance is connected to a different client.",
+  "remarks": null,
+  "aka": [
+    "-2144108090"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_winrs_shell_clientsessionid_mismatch/-2144108090/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_tpm_access_denied\0xc0291004\index.html.json
+
+title: 0xC0291004 STATUS_TPM_ACCESS_DENIED in ntstatus.h
+description: The caller does not have the appropriate rights to perform the requested operation.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0291004",
+  "codeUrl": "/win32/ntstatus-h/status_tpm_access_denied/0xc0291004/",
+  "numericCode": -1071050748,
+  "define": "STATUS_TPM_ACCESS_DENIED",
+  "defineUrl": "/win32/ntstatus-h/status_tpm_access_denied/",
+  "message": "The caller does not have the appropriate rights to perform the requested operation.",
+  "remarks": null,
+  "aka": [
+    "-1071050748"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_tpm_access_denied/-1071050748/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\wsmerror-h\error_wsman_min_envelope_size\0x8033807e\index.html.json
+
+title: 0x8033807E ERROR_WSMAN_MIN_ENVELOPE_SIZE in wsmerror.h
+description: The WS-Management service cannot process the request because the envelope size in the request is too small.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x8033807E",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_min_envelope_size/0x8033807e/",
+  "numericCode": -2144108418,
+  "define": "ERROR_WSMAN_MIN_ENVELOPE_SIZE",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_min_envelope_size/",
+  "message": "The WS-Management service cannot process the request because the envelope size in the request is too small.",
+  "remarks": null,
+  "aka": [
+    "-2144108418"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_min_envelope_size/-2144108418/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

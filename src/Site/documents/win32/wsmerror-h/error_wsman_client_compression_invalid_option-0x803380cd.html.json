@@ -1,0 +1,29 @@
+---
+output: win32\wsmerror-h\error_wsman_client_compression_invalid_option\0x803380cd\index.html.json
+
+title: 0x803380CD ERROR_WSMAN_CLIENT_COMPRESSION_INVALID_OPTION in wsmerror.h
+description: The WinRM client cannot process the request. The request contained the compression option but contained an unrecognized value.
+Change the value for the compression option and try the request again.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x803380CD",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_client_compression_invalid_option/0x803380cd/",
+  "numericCode": -2144108339,
+  "define": "ERROR_WSMAN_CLIENT_COMPRESSION_INVALID_OPTION",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_client_compression_invalid_option/",
+  "message": "The WinRM client cannot process the request. The request contained the compression option but contained an unrecognized value.\r\nChange the value for the compression option and try the request again.",
+  "remarks": null,
+  "aka": [
+    "-2144108339"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_client_compression_invalid_option/-2144108339/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

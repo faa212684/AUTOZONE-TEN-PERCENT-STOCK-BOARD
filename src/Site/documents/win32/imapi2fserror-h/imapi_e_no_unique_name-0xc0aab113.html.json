@@ -1,0 +1,28 @@
+---
+output: win32\imapi2fserror-h\imapi_e_no_unique_name\0xc0aab113\index.html.json
+
+title: 0xC0AAB113 IMAPI_E_NO_UNIQUE_NAME in imapi2fserror.h
+description: Attempt to add '%1!ls!' failed:  cannot create a file-system-specific unique name for the %2!ls! file system.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "imapi2fserror.h",
+  "sourceUrl": "/win32/imapi2fserror-h/",
+  "code": "0xC0AAB113",
+  "codeUrl": "/win32/imapi2fserror-h/imapi_e_no_unique_name/0xc0aab113/",
+  "numericCode": -1062555373,
+  "define": "IMAPI_E_NO_UNIQUE_NAME",
+  "defineUrl": "/win32/imapi2fserror-h/imapi_e_no_unique_name/",
+  "message": "Attempt to add '%1!ls!' failed:  cannot create a file-system-specific unique name for the %2!ls! file system.",
+  "remarks": null,
+  "aka": [
+    "-1062555373"
+  ],
+  "akaUrl": [
+    "/win32/imapi2fserror-h/imapi_e_no_unique_name/-1062555373/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

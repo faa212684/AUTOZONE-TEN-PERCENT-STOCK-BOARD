@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_cluster_membership_invalid_state\5890\index.html.json
+
+title: 5890 ERROR_CLUSTER_MEMBERSHIP_INVALID_STATE in winerror.h
+description: An operation was attempted that is incompatible with the current membership state of the node.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "5890",
+  "codeUrl": "/win32/winerror-h/error_cluster_membership_invalid_state/5890/",
+  "numericCode": 5890,
+  "define": "ERROR_CLUSTER_MEMBERSHIP_INVALID_STATE",
+  "defineUrl": "/win32/winerror-h/error_cluster_membership_invalid_state/",
+  "message": "An operation was attempted that is incompatible with the current membership state of the node.",
+  "remarks": null,
+  "aka": [
+    "0x80071702",
+    "-2147019006"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_cluster_membership_invalid_state/0x80071702/",
+    "/win32/winerror-h/error_cluster_membership_invalid_state/-2147019006/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

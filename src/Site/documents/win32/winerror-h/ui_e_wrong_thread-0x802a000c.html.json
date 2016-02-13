@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\ui_e_wrong_thread\0x802a000c\index.html.json
+
+title: 0x802A000C UI_E_WRONG_THREAD in winerror.h
+description: This method can only be called from the thread that created the object.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x802A000C",
+  "codeUrl": "/win32/winerror-h/ui_e_wrong_thread/0x802a000c/",
+  "numericCode": -2144731124,
+  "define": "UI_E_WRONG_THREAD",
+  "defineUrl": "/win32/winerror-h/ui_e_wrong_thread/",
+  "message": "This method can only be called from the thread that created the object.",
+  "remarks": null,
+  "aka": [
+    "-2144731124"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/ui_e_wrong_thread/-2144731124/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

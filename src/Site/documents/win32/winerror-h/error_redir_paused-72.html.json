@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_redir_paused\72\index.html.json
+
+title: 72 ERROR_REDIR_PAUSED in winerror.h
+description: The specified printer or disk device has been paused.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "72",
+  "codeUrl": "/win32/winerror-h/error_redir_paused/72/",
+  "numericCode": 72,
+  "define": "ERROR_REDIR_PAUSED",
+  "defineUrl": "/win32/winerror-h/error_redir_paused/",
+  "message": "The specified printer or disk device has been paused.",
+  "remarks": null,
+  "aka": [
+    "0x80070048",
+    "-2147024824"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_redir_paused/0x80070048/",
+    "/win32/winerror-h/error_redir_paused/-2147024824/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

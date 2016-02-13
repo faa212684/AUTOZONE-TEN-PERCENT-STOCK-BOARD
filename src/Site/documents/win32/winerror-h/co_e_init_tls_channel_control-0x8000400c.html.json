@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\co_e_init_tls_channel_control\0x8000400c\index.html.json
+
+title: 0x8000400C CO_E_INIT_TLS_CHANNEL_CONTROL in winerror.h
+description: Could not allocate thread local storage channel control
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8000400C",
+  "codeUrl": "/win32/winerror-h/co_e_init_tls_channel_control/0x8000400c/",
+  "numericCode": -2147467252,
+  "define": "CO_E_INIT_TLS_CHANNEL_CONTROL",
+  "defineUrl": "/win32/winerror-h/co_e_init_tls_channel_control/",
+  "message": "Could not allocate thread local storage channel control",
+  "remarks": null,
+  "aka": [
+    "-2147467252"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/co_e_init_tls_channel_control/-2147467252/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

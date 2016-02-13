@@ -1,0 +1,32 @@
+---
+output: win32\netevent-h\event_dnsapi_registered_adapter\1073753024\index.html.json
+canonical: /win32/netevent-h/event_dnsapi_registered_adapter/0x40002bc0/
+title: 1073753024 EVENT_DNSAPI_REGISTERED_ADAPTER in netevent.h
+description: The system registered network adapter with settings :%n%n
+Adapter Name : %1%n
+Host Name : %2%n
+Adapter-specific Domain Suffix : %3%n
+DNS server list :%n
+%4%n
+Sent update to server : %5%n
+IP Address(es) :%n
+%6
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "1073753024",
+  "codeUrl": "/win32/netevent-h/event_dnsapi_registered_adapter/1073753024/",
+  "numericCode": 0,
+  "define": "EVENT_DNSAPI_REGISTERED_ADAPTER",
+  "defineUrl": "/win32/netevent-h/event_dnsapi_registered_adapter/",
+  "message": "The system registered network adapter with settings :%n%n\r\nAdapter Name : %1%n\r\nHost Name : %2%n\r\nAdapter-specific Domain Suffix : %3%n\r\nDNS server list :%n\r\n%4%n\r\nSent update to server : %5%n\r\nIP Address(es) :%n\r\n%6",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x40002BC0",
+  "originalCodeUrl": "/win32/netevent-h/event_dnsapi_registered_adapter/0x40002bc0/"
+}

@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_acpi_invalid_access_size\0xc0140011\index.html.json
+
+title: 0xC0140011 STATUS_ACPI_INVALID_ACCESS_SIZE in ntstatus.h
+description: An attempt was made to access a field outside of the defined range
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0140011",
+  "codeUrl": "/win32/ntstatus-h/status_acpi_invalid_access_size/0xc0140011/",
+  "numericCode": -1072431087,
+  "define": "STATUS_ACPI_INVALID_ACCESS_SIZE",
+  "defineUrl": "/win32/ntstatus-h/status_acpi_invalid_access_size/",
+  "message": "An attempt was made to access a field outside of the defined range",
+  "remarks": null,
+  "aka": [
+    "-1072431087"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_acpi_invalid_access_size/-1072431087/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

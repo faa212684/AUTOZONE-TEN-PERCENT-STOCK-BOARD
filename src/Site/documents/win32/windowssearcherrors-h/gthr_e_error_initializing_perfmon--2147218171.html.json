@@ -1,0 +1,24 @@
+---
+output: win32\windowssearcherrors-h\gthr_e_error_initializing_perfmon\-2147218171\index.html.json
+canonical: /win32/windowssearcherrors-h/gthr_e_error_initializing_perfmon/0x80040d05/
+title: -2147218171 GTHR_E_ERROR_INITIALIZING_PERFMON in WindowsSearchErrors.h
+description: Performance monitoring cannot be initialized. This affects performance counters only. Try restarting the service or restarting the server.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "-2147218171",
+  "codeUrl": "/win32/windowssearcherrors-h/gthr_e_error_initializing_perfmon/-2147218171/",
+  "numericCode": 0,
+  "define": "GTHR_E_ERROR_INITIALIZING_PERFMON",
+  "defineUrl": "/win32/windowssearcherrors-h/gthr_e_error_initializing_perfmon/",
+  "message": "Performance monitoring cannot be initialized. This affects performance counters only. Try restarting the service or restarting the server.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80040D05",
+  "originalCodeUrl": "/win32/windowssearcherrors-h/gthr_e_error_initializing_perfmon/0x80040d05/"
+}

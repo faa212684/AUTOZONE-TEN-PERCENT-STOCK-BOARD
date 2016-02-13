@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\rpc_x_null_ref_pointer\1780\index.html.json
+
+title: 1780 RPC_X_NULL_REF_POINTER in winerror.h
+description: A null reference pointer was passed to the stub.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1780",
+  "codeUrl": "/win32/winerror-h/rpc_x_null_ref_pointer/1780/",
+  "numericCode": 1780,
+  "define": "RPC_X_NULL_REF_POINTER",
+  "defineUrl": "/win32/winerror-h/rpc_x_null_ref_pointer/",
+  "message": "A null reference pointer was passed to the stub.",
+  "remarks": null,
+  "aka": [
+    "0x800706f4",
+    "-2147023116"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/rpc_x_null_ref_pointer/0x800706f4/",
+    "/win32/winerror-h/rpc_x_null_ref_pointer/-2147023116/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

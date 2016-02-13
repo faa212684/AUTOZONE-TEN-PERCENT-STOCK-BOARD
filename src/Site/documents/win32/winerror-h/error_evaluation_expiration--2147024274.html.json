@@ -1,0 +1,25 @@
+---
+output: win32\winerror-h\error_evaluation_expiration\-2147024274\index.html.json
+canonical: /win32/winerror-h/error_evaluation_expiration/622/
+title: -2147024274 ERROR_EVALUATION_EXPIRATION in winerror.h
+description: "{Windows Evaluation Notification}
+The evaluation period for this installation of Windows has expired. This system will shutdown in 1 hour. To restore access to this installation of Windows, please upgrade this installation using a licensed distribution of this product."
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147024274",
+  "codeUrl": "/win32/winerror-h/error_evaluation_expiration/-2147024274/",
+  "numericCode": 0,
+  "define": "ERROR_EVALUATION_EXPIRATION",
+  "defineUrl": "/win32/winerror-h/error_evaluation_expiration/",
+  "message": "{Windows Evaluation Notification}\r\nThe evaluation period for this installation of Windows has expired. This system will shutdown in 1 hour. To restore access to this installation of Windows, please upgrade this installation using a licensed distribution of this product.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "622",
+  "originalCodeUrl": "/win32/winerror-h/error_evaluation_expiration/622/"
+}

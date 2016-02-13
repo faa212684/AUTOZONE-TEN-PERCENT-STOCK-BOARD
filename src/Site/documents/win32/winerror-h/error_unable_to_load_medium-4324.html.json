@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_unable_to_load_medium\4324\index.html.json
+
+title: 4324 ERROR_UNABLE_TO_LOAD_MEDIUM in winerror.h
+description: Unable to load the medium into the drive.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "4324",
+  "codeUrl": "/win32/winerror-h/error_unable_to_load_medium/4324/",
+  "numericCode": 4324,
+  "define": "ERROR_UNABLE_TO_LOAD_MEDIUM",
+  "defineUrl": "/win32/winerror-h/error_unable_to_load_medium/",
+  "message": "Unable to load the medium into the drive.",
+  "remarks": null,
+  "aka": [
+    "0x800710e4",
+    "-2147020572"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_unable_to_load_medium/0x800710e4/",
+    "/win32/winerror-h/error_unable_to_load_medium/-2147020572/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

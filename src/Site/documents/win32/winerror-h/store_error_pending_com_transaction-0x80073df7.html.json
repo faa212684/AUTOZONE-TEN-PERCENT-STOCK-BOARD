@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\store_error_pending_com_transaction\0x80073df7\index.html.json
+canonical: /win32/winerror-h/store_error_pending_com_transaction/15863/
+title: 0x80073df7 STORE_ERROR_PENDING_COM_TRANSACTION in winerror.h
+description: The commerce transaction associated with this license is still pending verification.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80073df7",
+  "codeUrl": "/win32/winerror-h/store_error_pending_com_transaction/0x80073df7/",
+  "numericCode": 0,
+  "define": "STORE_ERROR_PENDING_COM_TRANSACTION",
+  "defineUrl": "/win32/winerror-h/store_error_pending_com_transaction/",
+  "message": "The commerce transaction associated with this license is still pending verification.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "15863",
+  "originalCodeUrl": "/win32/winerror-h/store_error_pending_com_transaction/15863/"
+}

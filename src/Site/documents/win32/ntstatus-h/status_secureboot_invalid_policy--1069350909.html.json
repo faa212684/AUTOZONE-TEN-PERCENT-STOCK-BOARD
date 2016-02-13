@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_secureboot_invalid_policy\-1069350909\index.html.json
+canonical: /win32/ntstatus-h/status_secureboot_invalid_policy/0xc0430003/
+title: -1069350909 STATUS_SECUREBOOT_INVALID_POLICY in ntstatus.h
+description: The Secure Boot policy is invalid.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1069350909",
+  "codeUrl": "/win32/ntstatus-h/status_secureboot_invalid_policy/-1069350909/",
+  "numericCode": 0,
+  "define": "STATUS_SECUREBOOT_INVALID_POLICY",
+  "defineUrl": "/win32/ntstatus-h/status_secureboot_invalid_policy/",
+  "message": "The Secure Boot policy is invalid.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0430003",
+  "originalCodeUrl": "/win32/ntstatus-h/status_secureboot_invalid_policy/0xc0430003/"
+}

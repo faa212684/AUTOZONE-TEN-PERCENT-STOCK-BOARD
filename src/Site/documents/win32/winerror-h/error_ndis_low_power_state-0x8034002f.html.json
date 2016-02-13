@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\error_ndis_low_power_state\0x8034002f\index.html.json
+
+title: 0x8034002F ERROR_NDIS_LOW_POWER_STATE in winerror.h
+description: The miniport adapter is in low power state.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8034002F",
+  "codeUrl": "/win32/winerror-h/error_ndis_low_power_state/0x8034002f/",
+  "numericCode": -2144075729,
+  "define": "ERROR_NDIS_LOW_POWER_STATE",
+  "defineUrl": "/win32/winerror-h/error_ndis_low_power_state/",
+  "message": "The miniport adapter is in low power state.",
+  "remarks": null,
+  "aka": [
+    "-2144075729"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ndis_low_power_state/-2144075729/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

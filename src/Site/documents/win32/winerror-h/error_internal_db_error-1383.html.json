@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_internal_db_error\1383\index.html.json
+
+title: 1383 ERROR_INTERNAL_DB_ERROR in winerror.h
+description: The local security authority database contains an internal inconsistency.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1383",
+  "codeUrl": "/win32/winerror-h/error_internal_db_error/1383/",
+  "numericCode": 1383,
+  "define": "ERROR_INTERNAL_DB_ERROR",
+  "defineUrl": "/win32/winerror-h/error_internal_db_error/",
+  "message": "The local security authority database contains an internal inconsistency.",
+  "remarks": null,
+  "aka": [
+    "0x80070567",
+    "-2147023513"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_internal_db_error/0x80070567/",
+    "/win32/winerror-h/error_internal_db_error/-2147023513/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\tpm_e_toomanycontexts\0x8028005b\index.html.json
+
+title: 0x8028005B TPM_E_TOOMANYCONTEXTS in winerror.h
+description: Too many contexts held by the TPM.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8028005B",
+  "codeUrl": "/win32/winerror-h/tpm_e_toomanycontexts/0x8028005b/",
+  "numericCode": -2144862117,
+  "define": "TPM_E_TOOMANYCONTEXTS",
+  "defineUrl": "/win32/winerror-h/tpm_e_toomanycontexts/",
+  "message": "Too many contexts held by the TPM.",
+  "remarks": null,
+  "aka": [
+    "-2144862117"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/tpm_e_toomanycontexts/-2144862117/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

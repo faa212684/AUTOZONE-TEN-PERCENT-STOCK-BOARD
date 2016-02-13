@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_cant_wait\554\index.html.json
+
+title: 554 ERROR_CANT_WAIT in winerror.h
+description: Used to indicate that an operation cannot continue without blocking for I/O.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "554",
+  "codeUrl": "/win32/winerror-h/error_cant_wait/554/",
+  "numericCode": 554,
+  "define": "ERROR_CANT_WAIT",
+  "defineUrl": "/win32/winerror-h/error_cant_wait/",
+  "message": "Used to indicate that an operation cannot continue without blocking for I/O.",
+  "remarks": null,
+  "aka": [
+    "0x8007022a",
+    "-2147024342"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_cant_wait/0x8007022a/",
+    "/win32/winerror-h/error_cant_wait/-2147024342/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

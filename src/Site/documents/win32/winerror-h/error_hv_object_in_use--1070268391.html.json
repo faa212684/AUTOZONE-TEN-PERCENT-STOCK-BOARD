@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_hv_object_in_use\-1070268391\index.html.json
+canonical: /win32/winerror-h/error_hv_object_in_use/0xc0350019/
+title: -1070268391 ERROR_HV_OBJECT_IN_USE in winerror.h
+description: The hypervisor could not perform the operation because the object or value was either already in use or being used for a purpose that would not permit completing the operation.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-1070268391",
+  "codeUrl": "/win32/winerror-h/error_hv_object_in_use/-1070268391/",
+  "numericCode": 0,
+  "define": "ERROR_HV_OBJECT_IN_USE",
+  "defineUrl": "/win32/winerror-h/error_hv_object_in_use/",
+  "message": "The hypervisor could not perform the operation because the object or value was either already in use or being used for a purpose that would not permit completing the operation.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0350019",
+  "originalCodeUrl": "/win32/winerror-h/error_hv_object_in_use/0xc0350019/"
+}

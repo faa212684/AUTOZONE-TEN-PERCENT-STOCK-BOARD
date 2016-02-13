@@ -1,0 +1,29 @@
+---
+output: win32\wsmerror-h\error_wsman_customremoteshell_deprecated\0x803381bc\index.html.json
+
+title: 0x803381BC ERROR_WSMAN_CUSTOMREMOTESHELL_DEPRECATED in wsmerror.h
+description: The WinRM client cannot process the request.
+Custom Remote Shell has been deprecated and cannot be used.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x803381BC",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_customremoteshell_deprecated/0x803381bc/",
+  "numericCode": -2144108100,
+  "define": "ERROR_WSMAN_CUSTOMREMOTESHELL_DEPRECATED",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_customremoteshell_deprecated/",
+  "message": "The WinRM client cannot process the request.\r\nCustom Remote Shell has been deprecated and cannot be used.",
+  "remarks": null,
+  "aka": [
+    "-2144108100"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_customremoteshell_deprecated/-2144108100/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

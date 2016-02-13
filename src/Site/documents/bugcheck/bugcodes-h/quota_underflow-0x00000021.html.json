@@ -1,0 +1,28 @@
+---
+output: bugcheck\bugcodes-h\quota_underflow\0x00000021\index.html.json
+
+title: 0x00000021 QUOTA_UNDERFLOW in bugcodes.h
+description: QUOTA_UNDERFLOW
+disqus: true
+---
+{
+  "area": "bugcheck",
+  "areaUrl": "/bugcheck/",
+  "source": "bugcodes.h",
+  "sourceUrl": "/bugcheck/bugcodes-h/",
+  "code": "0x00000021",
+  "codeUrl": "/bugcheck/bugcodes-h/quota_underflow/0x00000021/",
+  "numericCode": 33,
+  "define": "QUOTA_UNDERFLOW",
+  "defineUrl": "/bugcheck/bugcodes-h/quota_underflow/",
+  "message": "QUOTA_UNDERFLOW",
+  "remarks": null,
+  "aka": [
+    "33"
+  ],
+  "akaUrl": [
+    "/bugcheck/bugcodes-h/quota_underflow/33/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

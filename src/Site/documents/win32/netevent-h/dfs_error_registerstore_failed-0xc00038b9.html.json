@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\dfs_error_registerstore_failed\0xc00038b9\index.html.json
+
+title: 0xC00038B9 DFS_ERROR_REGISTERSTORE_FAILED in netevent.h
+description: DFS could not Register DFS Namespaces. The return code is in the record data.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC00038B9",
+  "codeUrl": "/win32/netevent-h/dfs_error_registerstore_failed/0xc00038b9/",
+  "numericCode": -1073727303,
+  "define": "DFS_ERROR_REGISTERSTORE_FAILED",
+  "defineUrl": "/win32/netevent-h/dfs_error_registerstore_failed/",
+  "message": "DFS could not Register DFS Namespaces. The return code is in the record data.",
+  "remarks": null,
+  "aka": [
+    "-1073727303"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/dfs_error_registerstore_failed/-1073727303/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

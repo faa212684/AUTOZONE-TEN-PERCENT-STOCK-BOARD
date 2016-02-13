@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_busy\170\index.html.json
+
+title: 170 ERROR_BUSY in winerror.h
+description: The requested resource is in use.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "170",
+  "codeUrl": "/win32/winerror-h/error_busy/170/",
+  "numericCode": 170,
+  "define": "ERROR_BUSY",
+  "defineUrl": "/win32/winerror-h/error_busy/",
+  "message": "The requested resource is in use.",
+  "remarks": null,
+  "aka": [
+    "0x800700aa",
+    "-2147024726"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_busy/0x800700aa/",
+    "/win32/winerror-h/error_busy/-2147024726/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

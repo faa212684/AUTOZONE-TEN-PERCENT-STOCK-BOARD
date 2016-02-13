@@ -1,0 +1,24 @@
+---
+output: win32\netevent-h\event_trk_service_move_quota_exceeded\-2147471140\index.html.json
+canonical: /win32/netevent-h/event_trk_service_move_quota_exceeded/0x800030dc/
+title: -2147471140 EVENT_TRK_SERVICE_MOVE_QUOTA_EXCEEDED in netevent.h
+description: The move table quota for Distributed Link Tracking in this domain has been exceeded.  This table is used by Distributed Link Tracking to automatically repair file links, such as Shell Shortcuts and OLE links, when for some reason those links become broken.  While this quota is exceeded, it may not be possible to automatically repair some such broken links.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "-2147471140",
+  "codeUrl": "/win32/netevent-h/event_trk_service_move_quota_exceeded/-2147471140/",
+  "numericCode": 0,
+  "define": "EVENT_TRK_SERVICE_MOVE_QUOTA_EXCEEDED",
+  "defineUrl": "/win32/netevent-h/event_trk_service_move_quota_exceeded/",
+  "message": "The move table quota for Distributed Link Tracking in this domain has been exceeded.  This table is used by Distributed Link Tracking to automatically repair file links, such as Shell Shortcuts and OLE links, when for some reason those links become broken.  While this quota is exceeded, it may not be possible to automatically repair some such broken links.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x800030DC",
+  "originalCodeUrl": "/win32/netevent-h/event_trk_service_move_quota_exceeded/0x800030dc/"
+}

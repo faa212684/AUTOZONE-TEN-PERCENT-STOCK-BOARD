@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_e_invalid_volume_type\0x80042585\index.html.json
+
+title: 0x80042585 VDS_E_INVALID_VOLUME_TYPE in vdserr.h
+description: The volume type is invalid for this operation.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x80042585",
+  "codeUrl": "/win32/vdserr-h/vds_e_invalid_volume_type/0x80042585/",
+  "numericCode": -2147211899,
+  "define": "VDS_E_INVALID_VOLUME_TYPE",
+  "defineUrl": "/win32/vdserr-h/vds_e_invalid_volume_type/",
+  "message": "The volume type is invalid for this operation.",
+  "remarks": null,
+  "aka": [
+    "-2147211899"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_invalid_volume_type/-2147211899/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

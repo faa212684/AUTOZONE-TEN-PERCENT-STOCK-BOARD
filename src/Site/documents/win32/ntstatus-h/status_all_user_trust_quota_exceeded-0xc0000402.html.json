@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_all_user_trust_quota_exceeded\0xc0000402\index.html.json
+
+title: 0xC0000402 STATUS_ALL_USER_TRUST_QUOTA_EXCEEDED in ntstatus.h
+description: The total delegated trust creation quota has been exceeded.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000402",
+  "codeUrl": "/win32/ntstatus-h/status_all_user_trust_quota_exceeded/0xc0000402/",
+  "numericCode": -1073740798,
+  "define": "STATUS_ALL_USER_TRUST_QUOTA_EXCEEDED",
+  "defineUrl": "/win32/ntstatus-h/status_all_user_trust_quota_exceeded/",
+  "message": "The total delegated trust creation quota has been exceeded.",
+  "remarks": null,
+  "aka": [
+    "-1073740798"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_all_user_trust_quota_exceeded/-1073740798/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

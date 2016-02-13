@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\dwrite_e_fileaccess\-2003283964\index.html.json
+canonical: /win32/winerror-h/dwrite_e_fileaccess/0x88985004/
+title: -2003283964 DWRITE_E_FILEACCESS in winerror.h
+description: A font file exists but could not be opened due to access denied, sharing violation, or similar error.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2003283964",
+  "codeUrl": "/win32/winerror-h/dwrite_e_fileaccess/-2003283964/",
+  "numericCode": 0,
+  "define": "DWRITE_E_FILEACCESS",
+  "defineUrl": "/win32/winerror-h/dwrite_e_fileaccess/",
+  "message": "A font file exists but could not be opened due to access denied, sharing violation, or similar error.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x88985004",
+  "originalCodeUrl": "/win32/winerror-h/dwrite_e_fileaccess/0x88985004/"
+}

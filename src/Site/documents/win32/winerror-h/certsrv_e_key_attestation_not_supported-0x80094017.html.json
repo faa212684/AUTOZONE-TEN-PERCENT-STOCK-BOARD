@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\certsrv_e_key_attestation_not_supported\0x80094017\index.html.json
+
+title: 0x80094017 CERTSRV_E_KEY_ATTESTATION_NOT_SUPPORTED in winerror.h
+description: Failed to create an attested key.  This computer or the cryptographic provider may not meet the hardware requirements to support key attestation.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80094017",
+  "codeUrl": "/win32/winerror-h/certsrv_e_key_attestation_not_supported/0x80094017/",
+  "numericCode": -2146877417,
+  "define": "CERTSRV_E_KEY_ATTESTATION_NOT_SUPPORTED",
+  "defineUrl": "/win32/winerror-h/certsrv_e_key_attestation_not_supported/",
+  "message": "Failed to create an attested key.  This computer or the cryptographic provider may not meet the hardware requirements to support key attestation.",
+  "remarks": null,
+  "aka": [
+    "-2146877417"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/certsrv_e_key_attestation_not_supported/-2146877417/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

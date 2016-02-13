@@ -1,0 +1,32 @@
+---
+output: win32\winerror-h\error_guid_substitution_made\680\index.html.json
+
+title: 680 ERROR_GUID_SUBSTITUTION_MADE in winerror.h
+description: "{GUID Substitution}
+During the translation of a global identifier (GUID) to a Windows security ID (SID), no administratively-defined GUID prefix was found.
+A substitute prefix was used, which will not compromise system security. However, this may provide a more restrictive access than intended."
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "680",
+  "codeUrl": "/win32/winerror-h/error_guid_substitution_made/680/",
+  "numericCode": 680,
+  "define": "ERROR_GUID_SUBSTITUTION_MADE",
+  "defineUrl": "/win32/winerror-h/error_guid_substitution_made/",
+  "message": "{GUID Substitution}\r\nDuring the translation of a global identifier (GUID) to a Windows security ID (SID), no administratively-defined GUID prefix was found.\r\nA substitute prefix was used, which will not compromise system security. However, this may provide a more restrictive access than intended.",
+  "remarks": null,
+  "aka": [
+    "0x800702a8",
+    "-2147024216"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_guid_substitution_made/0x800702a8/",
+    "/win32/winerror-h/error_guid_substitution_made/-2147024216/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

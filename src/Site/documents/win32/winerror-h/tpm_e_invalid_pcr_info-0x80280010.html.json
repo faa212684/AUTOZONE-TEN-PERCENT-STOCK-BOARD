@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\tpm_e_invalid_pcr_info\0x80280010\index.html.json
+
+title: 0x80280010 TPM_E_INVALID_PCR_INFO in winerror.h
+description: PCR information could not be interpreted.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80280010",
+  "codeUrl": "/win32/winerror-h/tpm_e_invalid_pcr_info/0x80280010/",
+  "numericCode": -2144862192,
+  "define": "TPM_E_INVALID_PCR_INFO",
+  "defineUrl": "/win32/winerror-h/tpm_e_invalid_pcr_info/",
+  "message": "PCR information could not be interpreted.",
+  "remarks": null,
+  "aka": [
+    "-2144862192"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/tpm_e_invalid_pcr_info/-2144862192/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

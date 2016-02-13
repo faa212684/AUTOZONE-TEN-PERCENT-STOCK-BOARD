@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\wininet_e_login_failure_display_entity_body\0x80072f8e\index.html.json
+
+title: 0x80072F8E WININET_E_LOGIN_FAILURE_DISPLAY_ENTITY_BODY in winerror.h
+description: Login failed and the client should display the entity body to the user
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80072F8E",
+  "codeUrl": "/win32/winerror-h/wininet_e_login_failure_display_entity_body/0x80072f8e/",
+  "numericCode": -2147012722,
+  "define": "WININET_E_LOGIN_FAILURE_DISPLAY_ENTITY_BODY",
+  "defineUrl": "/win32/winerror-h/wininet_e_login_failure_display_entity_body/",
+  "message": "Login failed and the client should display the entity body to the user",
+  "remarks": null,
+  "aka": [
+    "-2147012722"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/wininet_e_login_failure_display_entity_body/-2147012722/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

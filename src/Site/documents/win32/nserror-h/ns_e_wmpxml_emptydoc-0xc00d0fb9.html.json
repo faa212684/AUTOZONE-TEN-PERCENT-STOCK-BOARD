@@ -1,0 +1,28 @@
+---
+output: win32\nserror-h\ns_e_wmpxml_emptydoc\0xc00d0fb9\index.html.json
+
+title: 0xC00D0FB9 NS_E_WMPXML_EMPTYDOC in nserror.h
+description: Persist was called on the XML parser, but the parser has no data to persist.%0
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "nserror.h",
+  "sourceUrl": "/win32/nserror-h/",
+  "code": "0xC00D0FB9",
+  "codeUrl": "/win32/nserror-h/ns_e_wmpxml_emptydoc/0xc00d0fb9/",
+  "numericCode": -1072885831,
+  "define": "NS_E_WMPXML_EMPTYDOC",
+  "defineUrl": "/win32/nserror-h/ns_e_wmpxml_emptydoc/",
+  "message": "Persist was called on the XML parser, but the parser has no data to persist.%0",
+  "remarks": null,
+  "aka": [
+    "-1072885831"
+  ],
+  "akaUrl": [
+    "/win32/nserror-h/ns_e_wmpxml_emptydoc/-1072885831/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

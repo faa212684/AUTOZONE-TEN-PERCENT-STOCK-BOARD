@@ -1,0 +1,29 @@
+---
+output: win32\cdosyserr-h\evtbindtoinvalidstartappt\0xc0032033\index.html.json
+
+title: 0xC0032033 evtBindToInvalidStartAppt in CDOSysErr.h
+description: The calendaring agent cannot bind to the appointment with the subject "%1" in mailbox %2 because the appointment is missing a start time. The calendaring agent will not publish free/busy information for this appointment. To correct this, please delete the appointment and recreate it.
+%n%nFor more information, click http:www.microsoft.com/contentredirect.asp.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "CDOSysErr.h",
+  "sourceUrl": "/win32/cdosyserr-h/",
+  "code": "0xC0032033",
+  "codeUrl": "/win32/cdosyserr-h/evtbindtoinvalidstartappt/0xc0032033/",
+  "numericCode": -1073536973,
+  "define": "evtBindToInvalidStartAppt",
+  "defineUrl": "/win32/cdosyserr-h/evtbindtoinvalidstartappt/",
+  "message": "The calendaring agent cannot bind to the appointment with the subject \"%1\" in mailbox %2 because the appointment is missing a start time. The calendaring agent will not publish free/busy information for this appointment. To correct this, please delete the appointment and recreate it.\r\n%n%nFor more information, click http:www.microsoft.com/contentredirect.asp.",
+  "remarks": null,
+  "aka": [
+    "-1073536973"
+  ],
+  "akaUrl": [
+    "/win32/cdosyserr-h/evtbindtoinvalidstartappt/-1073536973/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

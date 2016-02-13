@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_ds_dup_rdn\0x800720ba\index.html.json
+canonical: /win32/winerror-h/error_ds_dup_rdn/8378/
+title: 0x800720ba ERROR_DS_DUP_RDN in winerror.h
+description: Schema update failed: duplicate RDN.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800720ba",
+  "codeUrl": "/win32/winerror-h/error_ds_dup_rdn/0x800720ba/",
+  "numericCode": 0,
+  "define": "ERROR_DS_DUP_RDN",
+  "defineUrl": "/win32/winerror-h/error_ds_dup_rdn/",
+  "message": "Schema update failed: duplicate RDN.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "8378",
+  "originalCodeUrl": "/win32/winerror-h/error_ds_dup_rdn/8378/"
+}

@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_eqos_error_setting_tcp_autotuning\0xc0004148\index.html.json
+
+title: 0xC0004148 EVENT_EQOS_ERROR_SETTING_TCP_AUTOTUNING in netevent.h
+description: QoS failed to read or set inbound TCP throughput level, error code: "%2".
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC0004148",
+  "codeUrl": "/win32/netevent-h/event_eqos_error_setting_tcp_autotuning/0xc0004148/",
+  "numericCode": -1073725112,
+  "define": "EVENT_EQOS_ERROR_SETTING_TCP_AUTOTUNING",
+  "defineUrl": "/win32/netevent-h/event_eqos_error_setting_tcp_autotuning/",
+  "message": "QoS failed to read or set inbound TCP throughput level, error code: \"%2\".",
+  "remarks": null,
+  "aka": [
+    "-1073725112"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_eqos_error_setting_tcp_autotuning/-1073725112/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

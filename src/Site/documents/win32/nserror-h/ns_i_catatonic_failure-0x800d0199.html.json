@@ -1,0 +1,28 @@
+---
+output: win32\nserror-h\ns_i_catatonic_failure\0x800d0199\index.html.json
+
+title: 0x800D0199 NS_I_CATATONIC_FAILURE in nserror.h
+description: Disk %1 ( %2 ) on Content Server %3, will be failed because it is catatonic.%0
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "nserror.h",
+  "sourceUrl": "/win32/nserror-h/",
+  "code": "0x800D0199",
+  "codeUrl": "/win32/nserror-h/ns_i_catatonic_failure/0x800d0199/",
+  "numericCode": -2146631271,
+  "define": "NS_I_CATATONIC_FAILURE",
+  "defineUrl": "/win32/nserror-h/ns_i_catatonic_failure/",
+  "message": "Disk %1 ( %2 ) on Content Server %3, will be failed because it is catatonic.%0",
+  "remarks": null,
+  "aka": [
+    "-2146631271"
+  ],
+  "akaUrl": [
+    "/win32/nserror-h/ns_i_catatonic_failure/-2146631271/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

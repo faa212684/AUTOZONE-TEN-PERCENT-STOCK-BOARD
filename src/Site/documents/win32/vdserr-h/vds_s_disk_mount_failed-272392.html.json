@@ -1,0 +1,24 @@
+---
+output: win32\vdserr-h\vds_s_disk_mount_failed\272392\index.html.json
+canonical: /win32/vdserr-h/vds_s_disk_mount_failed/0x00042808/
+title: 272392 VDS_S_DISK_MOUNT_FAILED in vdserr.h
+description: Failed to mount one or more of the volumes on the disk.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "272392",
+  "codeUrl": "/win32/vdserr-h/vds_s_disk_mount_failed/272392/",
+  "numericCode": 0,
+  "define": "VDS_S_DISK_MOUNT_FAILED",
+  "defineUrl": "/win32/vdserr-h/vds_s_disk_mount_failed/",
+  "message": "Failed to mount one or more of the volumes on the disk.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x00042808",
+  "originalCodeUrl": "/win32/vdserr-h/vds_s_disk_mount_failed/0x00042808/"
+}

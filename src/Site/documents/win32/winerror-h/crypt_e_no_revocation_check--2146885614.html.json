@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\crypt_e_no_revocation_check\-2146885614\index.html.json
+canonical: /win32/winerror-h/crypt_e_no_revocation_check/0x80092012/
+title: -2146885614 CRYPT_E_NO_REVOCATION_CHECK in winerror.h
+description: The revocation function was unable to check revocation for the certificate.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2146885614",
+  "codeUrl": "/win32/winerror-h/crypt_e_no_revocation_check/-2146885614/",
+  "numericCode": 0,
+  "define": "CRYPT_E_NO_REVOCATION_CHECK",
+  "defineUrl": "/win32/winerror-h/crypt_e_no_revocation_check/",
+  "message": "The revocation function was unable to check revocation for the certificate.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80092012",
+  "originalCodeUrl": "/win32/winerror-h/crypt_e_no_revocation_check/0x80092012/"
+}

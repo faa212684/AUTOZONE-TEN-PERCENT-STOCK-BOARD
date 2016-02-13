@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_graphics_mode_not_pinned\1075708679\index.html.json
+canonical: /win32/ntstatus-h/status_graphics_mode_not_pinned/0x401e0307/
+title: 1075708679 STATUS_GRAPHICS_MODE_NOT_PINNED in ntstatus.h
+description: No mode is pinned on the specified VidPN source/target.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "1075708679",
+  "codeUrl": "/win32/ntstatus-h/status_graphics_mode_not_pinned/1075708679/",
+  "numericCode": 0,
+  "define": "STATUS_GRAPHICS_MODE_NOT_PINNED",
+  "defineUrl": "/win32/ntstatus-h/status_graphics_mode_not_pinned/",
+  "message": "No mode is pinned on the specified VidPN source/target.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x401E0307",
+  "originalCodeUrl": "/win32/ntstatus-h/status_graphics_mode_not_pinned/0x401e0307/"
+}

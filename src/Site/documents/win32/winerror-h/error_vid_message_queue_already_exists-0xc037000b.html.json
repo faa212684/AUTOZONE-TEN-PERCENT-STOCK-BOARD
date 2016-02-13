@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\error_vid_message_queue_already_exists\0xc037000b\index.html.json
+
+title: 0xC037000B ERROR_VID_MESSAGE_QUEUE_ALREADY_EXISTS in winerror.h
+description: A message queue with the same name already exists for the virtualization infrastructure driver.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0xC037000B",
+  "codeUrl": "/win32/winerror-h/error_vid_message_queue_already_exists/0xc037000b/",
+  "numericCode": -1070137333,
+  "define": "ERROR_VID_MESSAGE_QUEUE_ALREADY_EXISTS",
+  "defineUrl": "/win32/winerror-h/error_vid_message_queue_already_exists/",
+  "message": "A message queue with the same name already exists for the virtualization infrastructure driver.",
+  "remarks": null,
+  "aka": [
+    "-1070137333"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_vid_message_queue_already_exists/-1070137333/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

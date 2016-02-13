@@ -1,0 +1,28 @@
+---
+output: win32\wsmerror-h\error_wsman_new_deserializer\0x803381eb\index.html.json
+
+title: 0x803381EB ERROR_WSMAN_NEW_DESERIALIZER in wsmerror.h
+description: The WinRM client cannot process the request because the MI Deserializer cannot be created.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x803381EB",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_new_deserializer/0x803381eb/",
+  "numericCode": -2144108053,
+  "define": "ERROR_WSMAN_NEW_DESERIALIZER",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_new_deserializer/",
+  "message": "The WinRM client cannot process the request because the MI Deserializer cannot be created.",
+  "remarks": null,
+  "aka": [
+    "-2144108053"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_new_deserializer/-2144108053/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ts_incompatible_sessions\7069\index.html.json
+
+title: 7069 ERROR_TS_INCOMPATIBLE_SESSIONS in winerror.h
+description: The target session is incompatible with the current session.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "7069",
+  "codeUrl": "/win32/winerror-h/error_ts_incompatible_sessions/7069/",
+  "numericCode": 7069,
+  "define": "ERROR_TS_INCOMPATIBLE_SESSIONS",
+  "defineUrl": "/win32/winerror-h/error_ts_incompatible_sessions/",
+  "message": "The target session is incompatible with the current session.",
+  "remarks": null,
+  "aka": [
+    "0x80071b9d",
+    "-2147017827"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ts_incompatible_sessions/0x80071b9d/",
+    "/win32/winerror-h/error_ts_incompatible_sessions/-2147017827/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

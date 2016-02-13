@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\dns_error_not_allowed_on_root_server\9562\index.html.json
+
+title: 9562 DNS_ERROR_NOT_ALLOWED_ON_ROOT_SERVER in winerror.h
+description: The operation requested is not permitted on a DNS root server.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "9562",
+  "codeUrl": "/win32/winerror-h/dns_error_not_allowed_on_root_server/9562/",
+  "numericCode": 9562,
+  "define": "DNS_ERROR_NOT_ALLOWED_ON_ROOT_SERVER",
+  "defineUrl": "/win32/winerror-h/dns_error_not_allowed_on_root_server/",
+  "message": "The operation requested is not permitted on a DNS root server.",
+  "remarks": null,
+  "aka": [
+    "0x8007255a",
+    "-2147015334"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/dns_error_not_allowed_on_root_server/0x8007255a/",
+    "/win32/winerror-h/dns_error_not_allowed_on_root_server/-2147015334/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

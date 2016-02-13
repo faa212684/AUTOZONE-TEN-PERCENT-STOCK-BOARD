@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_unable_to_free_vm\0xc000001a\index.html.json
+
+title: 0xC000001A STATUS_UNABLE_TO_FREE_VM in ntstatus.h
+description: Virtual memory cannot be freed.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000001A",
+  "codeUrl": "/win32/ntstatus-h/status_unable_to_free_vm/0xc000001a/",
+  "numericCode": -1073741798,
+  "define": "STATUS_UNABLE_TO_FREE_VM",
+  "defineUrl": "/win32/ntstatus-h/status_unable_to_free_vm/",
+  "message": "Virtual memory cannot be freed.",
+  "remarks": null,
+  "aka": [
+    "-1073741798"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_unable_to_free_vm/-1073741798/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\crypt_e_no_decrypt_cert\0x8009200c\index.html.json
+
+title: 0x8009200C CRYPT_E_NO_DECRYPT_CERT in winerror.h
+description: Cannot find the certificate and private key to use for decryption.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8009200C",
+  "codeUrl": "/win32/winerror-h/crypt_e_no_decrypt_cert/0x8009200c/",
+  "numericCode": -2146885620,
+  "define": "CRYPT_E_NO_DECRYPT_CERT",
+  "defineUrl": "/win32/winerror-h/crypt_e_no_decrypt_cert/",
+  "message": "Cannot find the certificate and private key to use for decryption.",
+  "remarks": null,
+  "aka": [
+    "-2146885620"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/crypt_e_no_decrypt_cert/-2146885620/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

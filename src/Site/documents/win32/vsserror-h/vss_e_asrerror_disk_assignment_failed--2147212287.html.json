@@ -1,0 +1,24 @@
+---
+output: win32\vsserror-h\vss_e_asrerror_disk_assignment_failed\-2147212287\index.html.json
+canonical: /win32/vsserror-h/vss_e_asrerror_disk_assignment_failed/0x80042401/
+title: -2147212287 VSS_E_ASRERROR_DISK_ASSIGNMENT_FAILED in vsserror.h
+description: There are too few disks on this computer or one or more of the disks is too small. Add or change disks so they match the disks in the backup, and try the restore again.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vsserror.h",
+  "sourceUrl": "/win32/vsserror-h/",
+  "code": "-2147212287",
+  "codeUrl": "/win32/vsserror-h/vss_e_asrerror_disk_assignment_failed/-2147212287/",
+  "numericCode": 0,
+  "define": "VSS_E_ASRERROR_DISK_ASSIGNMENT_FAILED",
+  "defineUrl": "/win32/vsserror-h/vss_e_asrerror_disk_assignment_failed/",
+  "message": "There are too few disks on this computer or one or more of the disks is too small. Add or change disks so they match the disks in the backup, and try the restore again.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80042401",
+  "originalCodeUrl": "/win32/vsserror-h/vss_e_asrerror_disk_assignment_failed/0x80042401/"
+}

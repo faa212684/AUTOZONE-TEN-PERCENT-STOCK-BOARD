@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_mca_monitor_violates_mccs_specification\15202\index.html.json
+
+title: 15202 ERROR_MCA_MONITOR_VIOLATES_MCCS_SPECIFICATION in winerror.h
+description: The monitor does not comply with the MCCS specification it claims to support.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "15202",
+  "codeUrl": "/win32/winerror-h/error_mca_monitor_violates_mccs_specification/15202/",
+  "numericCode": 15202,
+  "define": "ERROR_MCA_MONITOR_VIOLATES_MCCS_SPECIFICATION",
+  "defineUrl": "/win32/winerror-h/error_mca_monitor_violates_mccs_specification/",
+  "message": "The monitor does not comply with the MCCS specification it claims to support.",
+  "remarks": null,
+  "aka": [
+    "0x80073b62",
+    "-2147009694"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_mca_monitor_violates_mccs_specification/0x80073b62/",
+    "/win32/winerror-h/error_mca_monitor_violates_mccs_specification/-2147009694/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

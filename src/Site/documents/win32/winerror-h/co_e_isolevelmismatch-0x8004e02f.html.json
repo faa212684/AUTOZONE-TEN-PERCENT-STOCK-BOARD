@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\co_e_isolevelmismatch\0x8004e02f\index.html.json
+
+title: 0x8004E02F CO_E_ISOLEVELMISMATCH in winerror.h
+description: The TxIsolation Level property for the COM+ component being created is stronger than the TxIsolationLevel for the "root" component for the transaction. The creation failed.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8004E02F",
+  "codeUrl": "/win32/winerror-h/co_e_isolevelmismatch/0x8004e02f/",
+  "numericCode": -2147164113,
+  "define": "CO_E_ISOLEVELMISMATCH",
+  "defineUrl": "/win32/winerror-h/co_e_isolevelmismatch/",
+  "message": "The TxIsolation Level property for the COM+ component being created is stronger than the TxIsolationLevel for the \"root\" component for the transaction. The creation failed.",
+  "remarks": null,
+  "aka": [
+    "-2147164113"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/co_e_isolevelmismatch/-2147164113/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

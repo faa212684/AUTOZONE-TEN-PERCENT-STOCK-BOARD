@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_log_container_read_failed\-1072037849\index.html.json
+canonical: /win32/ntstatus-h/status_log_container_read_failed/0xc01a0027/
+title: -1072037849 STATUS_LOG_CONTAINER_READ_FAILED in ntstatus.h
+description: Log service encountered an error when attempting to read from a log container.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1072037849",
+  "codeUrl": "/win32/ntstatus-h/status_log_container_read_failed/-1072037849/",
+  "numericCode": 0,
+  "define": "STATUS_LOG_CONTAINER_READ_FAILED",
+  "defineUrl": "/win32/ntstatus-h/status_log_container_read_failed/",
+  "message": "Log service encountered an error when attempting to read from a log container.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC01A0027",
+  "originalCodeUrl": "/win32/ntstatus-h/status_log_container_read_failed/0xc01a0027/"
+}

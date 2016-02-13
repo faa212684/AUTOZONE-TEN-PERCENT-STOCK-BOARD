@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\rpc_s_call_cancelled\0x8007071a\index.html.json
+canonical: /win32/winerror-h/rpc_s_call_cancelled/1818/
+title: 0x8007071a RPC_S_CALL_CANCELLED in winerror.h
+description: The remote procedure call was cancelled.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007071a",
+  "codeUrl": "/win32/winerror-h/rpc_s_call_cancelled/0x8007071a/",
+  "numericCode": 0,
+  "define": "RPC_S_CALL_CANCELLED",
+  "defineUrl": "/win32/winerror-h/rpc_s_call_cancelled/",
+  "message": "The remote procedure call was cancelled.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "1818",
+  "originalCodeUrl": "/win32/winerror-h/rpc_s_call_cancelled/1818/"
+}

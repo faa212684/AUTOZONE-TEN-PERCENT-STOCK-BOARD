@@ -1,0 +1,29 @@
+---
+output: win32\mq-h\mq_error_illegal_cursor_action\0xc00e001c\index.html.json
+
+title: 0xC00E001C MQ_ERROR_ILLEGAL_CURSOR_ACTION in Mq.h
+description: The MQ_ACTION_PEEK_NEXT value specified for MQReceiveMessage cannot be used with
+the current cursor position.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "Mq.h",
+  "sourceUrl": "/win32/mq-h/",
+  "code": "0xC00E001C",
+  "codeUrl": "/win32/mq-h/mq_error_illegal_cursor_action/0xc00e001c/",
+  "numericCode": -1072824292,
+  "define": "MQ_ERROR_ILLEGAL_CURSOR_ACTION",
+  "defineUrl": "/win32/mq-h/mq_error_illegal_cursor_action/",
+  "message": "The MQ_ACTION_PEEK_NEXT value specified for MQReceiveMessage cannot be used with\r\nthe current cursor position.",
+  "remarks": null,
+  "aka": [
+    "-1072824292"
+  ],
+  "akaUrl": [
+    "/win32/mq-h/mq_error_illegal_cursor_action/-1072824292/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

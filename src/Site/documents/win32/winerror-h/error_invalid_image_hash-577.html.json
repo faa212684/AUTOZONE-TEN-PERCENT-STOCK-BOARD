@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_invalid_image_hash\577\index.html.json
+
+title: 577 ERROR_INVALID_IMAGE_HASH in winerror.h
+description: Windows cannot verify the digital signature for this file. A recent hardware or software change might have installed a file that is signed incorrectly or damaged, or that might be malicious software from an unknown source.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "577",
+  "codeUrl": "/win32/winerror-h/error_invalid_image_hash/577/",
+  "numericCode": 577,
+  "define": "ERROR_INVALID_IMAGE_HASH",
+  "defineUrl": "/win32/winerror-h/error_invalid_image_hash/",
+  "message": "Windows cannot verify the digital signature for this file. A recent hardware or software change might have installed a file that is signed incorrectly or damaged, or that might be malicious software from an unknown source.",
+  "remarks": null,
+  "aka": [
+    "0x80070241",
+    "-2147024319"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_invalid_image_hash/0x80070241/",
+    "/win32/winerror-h/error_invalid_image_hash/-2147024319/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

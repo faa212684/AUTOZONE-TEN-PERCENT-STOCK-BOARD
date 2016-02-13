@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_redirector_started\-1073741572\index.html.json
+canonical: /win32/ntstatus-h/status_redirector_started/0xc00000fc/
+title: -1073741572 STATUS_REDIRECTOR_STARTED in ntstatus.h
+description: An attempt was made to start the redirector, but the redirector has already been started.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741572",
+  "codeUrl": "/win32/ntstatus-h/status_redirector_started/-1073741572/",
+  "numericCode": 0,
+  "define": "STATUS_REDIRECTOR_STARTED",
+  "defineUrl": "/win32/ntstatus-h/status_redirector_started/",
+  "message": "An attempt was made to start the redirector, but the redirector has already been started.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC00000FC",
+  "originalCodeUrl": "/win32/ntstatus-h/status_redirector_started/0xc00000fc/"
+}

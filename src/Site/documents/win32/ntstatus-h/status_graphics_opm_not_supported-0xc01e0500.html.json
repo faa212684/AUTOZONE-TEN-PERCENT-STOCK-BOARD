@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_graphics_opm_not_supported\0xc01e0500\index.html.json
+
+title: 0xC01E0500 STATUS_GRAPHICS_OPM_NOT_SUPPORTED in ntstatus.h
+description: The driver does not support OPM.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC01E0500",
+  "codeUrl": "/win32/ntstatus-h/status_graphics_opm_not_supported/0xc01e0500/",
+  "numericCode": -1071774464,
+  "define": "STATUS_GRAPHICS_OPM_NOT_SUPPORTED",
+  "defineUrl": "/win32/ntstatus-h/status_graphics_opm_not_supported/",
+  "message": "The driver does not support OPM.",
+  "remarks": null,
+  "aka": [
+    "-1071774464"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_graphics_opm_not_supported/-1071774464/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

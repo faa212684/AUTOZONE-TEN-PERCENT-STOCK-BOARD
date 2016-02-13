@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\dfs_error_sitecacheinit_failed\0xc00038b1\index.html.json
+
+title: 0xC00038B1 DFS_ERROR_SITECACHEINIT_FAILED in netevent.h
+description: DFS could not initialize IP site cache. The return code is in the record data.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC00038B1",
+  "codeUrl": "/win32/netevent-h/dfs_error_sitecacheinit_failed/0xc00038b1/",
+  "numericCode": -1073727311,
+  "define": "DFS_ERROR_SITECACHEINIT_FAILED",
+  "defineUrl": "/win32/netevent-h/dfs_error_sitecacheinit_failed/",
+  "message": "DFS could not initialize IP site cache. The return code is in the record data.",
+  "remarks": null,
+  "aka": [
+    "-1073727311"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/dfs_error_sitecacheinit_failed/-1073727311/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

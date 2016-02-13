@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_ds_membership_evaluated_locally\289\index.html.json
+canonical: /win32/ntstatus-h/status_ds_membership_evaluated_locally/0x00000121/
+title: 289 STATUS_DS_MEMBERSHIP_EVALUATED_LOCALLY in ntstatus.h
+description: The directory service evaluated group memberships locally, as it was unable to contact a global catalog server.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "289",
+  "codeUrl": "/win32/ntstatus-h/status_ds_membership_evaluated_locally/289/",
+  "numericCode": 0,
+  "define": "STATUS_DS_MEMBERSHIP_EVALUATED_LOCALLY",
+  "defineUrl": "/win32/ntstatus-h/status_ds_membership_evaluated_locally/",
+  "message": "The directory service evaluated group memberships locally, as it was unable to contact a global catalog server.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x00000121",
+  "originalCodeUrl": "/win32/ntstatus-h/status_ds_membership_evaluated_locally/0x00000121/"
+}

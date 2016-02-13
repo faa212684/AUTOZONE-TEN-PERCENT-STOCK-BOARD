@@ -1,0 +1,24 @@
+---
+output: win32\fsrmerr-h\fsrm_e_rms_no_protector_installed_for_file\-2147200125\index.html.json
+canonical: /win32/fsrmerr-h/fsrm_e_rms_no_protector_installed_for_file/0x80045383/
+title: -2147200125 FSRM_E_RMS_NO_PROTECTOR_INSTALLED_FOR_FILE in fsrmerr.h
+description: File Server Resource Manager cannot protect the file because an RMS protector for the file type is not installed.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "fsrmerr.h",
+  "sourceUrl": "/win32/fsrmerr-h/",
+  "code": "-2147200125",
+  "codeUrl": "/win32/fsrmerr-h/fsrm_e_rms_no_protector_installed_for_file/-2147200125/",
+  "numericCode": 0,
+  "define": "FSRM_E_RMS_NO_PROTECTOR_INSTALLED_FOR_FILE",
+  "defineUrl": "/win32/fsrmerr-h/fsrm_e_rms_no_protector_installed_for_file/",
+  "message": "File Server Resource Manager cannot protect the file because an RMS protector for the file type is not installed.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80045383",
+  "originalCodeUrl": "/win32/fsrmerr-h/fsrm_e_rms_no_protector_installed_for_file/0x80045383/"
+}

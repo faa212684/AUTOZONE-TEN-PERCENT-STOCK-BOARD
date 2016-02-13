@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\comadmin_e_object_parent_missing\0x80110808\index.html.json
+
+title: 0x80110808 COMADMIN_E_OBJECT_PARENT_MISSING in winerror.h
+description: One of the objects being inserted or updated does not belong to a valid parent collection
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80110808",
+  "codeUrl": "/win32/winerror-h/comadmin_e_object_parent_missing/0x80110808/",
+  "numericCode": -2146367480,
+  "define": "COMADMIN_E_OBJECT_PARENT_MISSING",
+  "defineUrl": "/win32/winerror-h/comadmin_e_object_parent_missing/",
+  "message": "One of the objects being inserted or updated does not belong to a valid parent collection",
+  "remarks": null,
+  "aka": [
+    "-2146367480"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/comadmin_e_object_parent_missing/-2146367480/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

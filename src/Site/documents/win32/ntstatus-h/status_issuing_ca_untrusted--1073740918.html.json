@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_issuing_ca_untrusted\-1073740918\index.html.json
+canonical: /win32/ntstatus-h/status_issuing_ca_untrusted/0xc000038a/
+title: -1073740918 STATUS_ISSUING_CA_UNTRUSTED in ntstatus.h
+description: An untrusted certificate authority was detected while processing the smartcard certificate used for authentication. Please contact your system administrator.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073740918",
+  "codeUrl": "/win32/ntstatus-h/status_issuing_ca_untrusted/-1073740918/",
+  "numericCode": 0,
+  "define": "STATUS_ISSUING_CA_UNTRUSTED",
+  "defineUrl": "/win32/ntstatus-h/status_issuing_ca_untrusted/",
+  "message": "An untrusted certificate authority was detected while processing the smartcard certificate used for authentication. Please contact your system administrator.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC000038A",
+  "originalCodeUrl": "/win32/ntstatus-h/status_issuing_ca_untrusted/0xc000038a/"
+}

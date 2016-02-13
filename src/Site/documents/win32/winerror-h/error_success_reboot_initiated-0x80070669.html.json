@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_success_reboot_initiated\0x80070669\index.html.json
+canonical: /win32/winerror-h/error_success_reboot_initiated/1641/
+title: 0x80070669 ERROR_SUCCESS_REBOOT_INITIATED in winerror.h
+description: The requested operation completed successfully. The system will be restarted so the changes can take effect.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80070669",
+  "codeUrl": "/win32/winerror-h/error_success_reboot_initiated/0x80070669/",
+  "numericCode": 0,
+  "define": "ERROR_SUCCESS_REBOOT_INITIATED",
+  "defineUrl": "/win32/winerror-h/error_success_reboot_initiated/",
+  "message": "The requested operation completed successfully. The system will be restarted so the changes can take effect.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "1641",
+  "originalCodeUrl": "/win32/winerror-h/error_success_reboot_initiated/1641/"
+}

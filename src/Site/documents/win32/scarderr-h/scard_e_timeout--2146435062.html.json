@@ -1,0 +1,24 @@
+---
+output: win32\scarderr-h\scard_e_timeout\-2146435062\index.html.json
+canonical: /win32/scarderr-h/scard_e_timeout/0x8010000a/
+title: -2146435062 SCARD_E_TIMEOUT in SCardErr.h
+description: The user-specified timeout value has expired.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "SCardErr.h",
+  "sourceUrl": "/win32/scarderr-h/",
+  "code": "-2146435062",
+  "codeUrl": "/win32/scarderr-h/scard_e_timeout/-2146435062/",
+  "numericCode": 0,
+  "define": "SCARD_E_TIMEOUT",
+  "defineUrl": "/win32/scarderr-h/scard_e_timeout/",
+  "message": "The user-specified timeout value has expired.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x8010000A",
+  "originalCodeUrl": "/win32/scarderr-h/scard_e_timeout/0x8010000a/"
+}

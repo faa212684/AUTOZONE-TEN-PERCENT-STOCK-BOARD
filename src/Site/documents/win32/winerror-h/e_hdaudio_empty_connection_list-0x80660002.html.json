@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\e_hdaudio_empty_connection_list\0x80660002\index.html.json
+
+title: 0x80660002 E_HDAUDIO_EMPTY_CONNECTION_LIST in winerror.h
+description: HD Audio widget encountered an unexpected empty connection list.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80660002",
+  "codeUrl": "/win32/winerror-h/e_hdaudio_empty_connection_list/0x80660002/",
+  "numericCode": -2140798974,
+  "define": "E_HDAUDIO_EMPTY_CONNECTION_LIST",
+  "defineUrl": "/win32/winerror-h/e_hdaudio_empty_connection_list/",
+  "message": "HD Audio widget encountered an unexpected empty connection list.",
+  "remarks": null,
+  "aka": [
+    "-2140798974"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/e_hdaudio_empty_connection_list/-2140798974/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

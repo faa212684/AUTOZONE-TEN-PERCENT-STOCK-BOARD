@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_invalid_image_le_format\-1073741522\index.html.json
+canonical: /win32/ntstatus-h/status_invalid_image_le_format/0xc000012e/
+title: -1073741522 STATUS_INVALID_IMAGE_LE_FORMAT in ntstatus.h
+description: The specified image file did not have the correct format, it appears to be LE format.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741522",
+  "codeUrl": "/win32/ntstatus-h/status_invalid_image_le_format/-1073741522/",
+  "numericCode": 0,
+  "define": "STATUS_INVALID_IMAGE_LE_FORMAT",
+  "defineUrl": "/win32/ntstatus-h/status_invalid_image_le_format/",
+  "message": "The specified image file did not have the correct format, it appears to be LE format.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC000012E",
+  "originalCodeUrl": "/win32/ntstatus-h/status_invalid_image_le_format/0xc000012e/"
+}

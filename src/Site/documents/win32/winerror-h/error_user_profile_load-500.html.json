@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_user_profile_load\500\index.html.json
+
+title: 500 ERROR_USER_PROFILE_LOAD in winerror.h
+description: User profile cannot be loaded.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "500",
+  "codeUrl": "/win32/winerror-h/error_user_profile_load/500/",
+  "numericCode": 500,
+  "define": "ERROR_USER_PROFILE_LOAD",
+  "defineUrl": "/win32/winerror-h/error_user_profile_load/",
+  "message": "User profile cannot be loaded.",
+  "remarks": null,
+  "aka": [
+    "0x800701f4",
+    "-2147024396"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_user_profile_load/0x800701f4/",
+    "/win32/winerror-h/error_user_profile_load/-2147024396/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

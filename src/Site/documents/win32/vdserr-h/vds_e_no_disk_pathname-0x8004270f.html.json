@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_e_no_disk_pathname\0x8004270f\index.html.json
+
+title: 0x8004270F VDS_E_NO_DISK_PATHNAME in vdserr.h
+description: Failed to retrieve the disk's pathname. Some operations on the disk may fail.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x8004270F",
+  "codeUrl": "/win32/vdserr-h/vds_e_no_disk_pathname/0x8004270f/",
+  "numericCode": -2147211505,
+  "define": "VDS_E_NO_DISK_PATHNAME",
+  "defineUrl": "/win32/vdserr-h/vds_e_no_disk_pathname/",
+  "message": "Failed to retrieve the disk's pathname. Some operations on the disk may fail.",
+  "remarks": null,
+  "aka": [
+    "-2147211505"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_no_disk_pathname/-2147211505/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: bugcheck\bugcodes-h\panic_stack_switch\0x0000002b\index.html.json
+
+title: 0x0000002B PANIC_STACK_SWITCH in bugcodes.h
+description: PANIC_STACK_SWITCH
+disqus: true
+---
+{
+  "area": "bugcheck",
+  "areaUrl": "/bugcheck/",
+  "source": "bugcodes.h",
+  "sourceUrl": "/bugcheck/bugcodes-h/",
+  "code": "0x0000002B",
+  "codeUrl": "/bugcheck/bugcodes-h/panic_stack_switch/0x0000002b/",
+  "numericCode": 43,
+  "define": "PANIC_STACK_SWITCH",
+  "defineUrl": "/bugcheck/bugcodes-h/panic_stack_switch/",
+  "message": "PANIC_STACK_SWITCH",
+  "remarks": null,
+  "aka": [
+    "43"
+  ],
+  "akaUrl": [
+    "/bugcheck/bugcodes-h/panic_stack_switch/43/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

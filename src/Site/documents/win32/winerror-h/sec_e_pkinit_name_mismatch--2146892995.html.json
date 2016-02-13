@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\sec_e_pkinit_name_mismatch\-2146892995\index.html.json
+canonical: /win32/winerror-h/sec_e_pkinit_name_mismatch/0x8009033d/
+title: -2146892995 SEC_E_PKINIT_NAME_MISMATCH in winerror.h
+description: The client certificate does not contain a valid UPN, or does not match the client name in the logon request. Please contact your administrator.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2146892995",
+  "codeUrl": "/win32/winerror-h/sec_e_pkinit_name_mismatch/-2146892995/",
+  "numericCode": 0,
+  "define": "SEC_E_PKINIT_NAME_MISMATCH",
+  "defineUrl": "/win32/winerror-h/sec_e_pkinit_name_mismatch/",
+  "message": "The client certificate does not contain a valid UPN, or does not match the client name in the logon request. Please contact your administrator.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x8009033D",
+  "originalCodeUrl": "/win32/winerror-h/sec_e_pkinit_name_mismatch/0x8009033d/"
+}

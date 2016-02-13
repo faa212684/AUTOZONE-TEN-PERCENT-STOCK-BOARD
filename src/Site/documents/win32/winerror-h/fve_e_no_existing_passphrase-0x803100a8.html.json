@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\fve_e_no_existing_passphrase\0x803100a8\index.html.json
+
+title: 0x803100A8 FVE_E_NO_EXISTING_PASSPHRASE in winerror.h
+description: This drive isn't protected with a password.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x803100A8",
+  "codeUrl": "/win32/winerror-h/fve_e_no_existing_passphrase/0x803100a8/",
+  "numericCode": -2144272216,
+  "define": "FVE_E_NO_EXISTING_PASSPHRASE",
+  "defineUrl": "/win32/winerror-h/fve_e_no_existing_passphrase/",
+  "message": "This drive isn't protected with a password.",
+  "remarks": null,
+  "aka": [
+    "-2144272216"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/fve_e_no_existing_passphrase/-2144272216/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

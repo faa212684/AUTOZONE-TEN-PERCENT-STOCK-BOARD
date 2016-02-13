@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_not_client_session\0xc0000217\index.html.json
+
+title: 0xC0000217 STATUS_NOT_CLIENT_SESSION in ntstatus.h
+description: The transport can only process the specified request on the client side of a session.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000217",
+  "codeUrl": "/win32/ntstatus-h/status_not_client_session/0xc0000217/",
+  "numericCode": -1073741289,
+  "define": "STATUS_NOT_CLIENT_SESSION",
+  "defineUrl": "/win32/ntstatus-h/status_not_client_session/",
+  "message": "The transport can only process the specified request on the client side of a session.",
+  "remarks": null,
+  "aka": [
+    "-1073741289"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_not_client_session/-1073741289/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\rpc_nt_address_error\0xc0020045\index.html.json
+
+title: 0xC0020045 RPC_NT_ADDRESS_ERROR in ntstatus.h
+description: An addressing error occurred in the RPC server.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0020045",
+  "codeUrl": "/win32/ntstatus-h/rpc_nt_address_error/0xc0020045/",
+  "numericCode": -1073610683,
+  "define": "RPC_NT_ADDRESS_ERROR",
+  "defineUrl": "/win32/ntstatus-h/rpc_nt_address_error/",
+  "message": "An addressing error occurred in the RPC server.",
+  "remarks": null,
+  "aka": [
+    "-1073610683"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/rpc_nt_address_error/-1073610683/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

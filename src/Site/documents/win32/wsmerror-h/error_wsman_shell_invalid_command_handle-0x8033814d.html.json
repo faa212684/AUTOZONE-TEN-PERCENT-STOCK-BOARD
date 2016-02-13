@@ -1,0 +1,29 @@
+---
+output: win32\wsmerror-h\error_wsman_shell_invalid_command_handle\0x8033814d\index.html.json
+
+title: 0x8033814D ERROR_WSMAN_SHELL_INVALID_COMMAND_HANDLE in wsmerror.h
+description: The WinRM Shell client cannot process the request. The command handle passed to the WSMan Shell function is not valid.
+The command handle is valid only when WSManRunShellCommand function completes successfully. Change the request including a valid shell handle and try again.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x8033814D",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_shell_invalid_command_handle/0x8033814d/",
+  "numericCode": -2144108211,
+  "define": "ERROR_WSMAN_SHELL_INVALID_COMMAND_HANDLE",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_shell_invalid_command_handle/",
+  "message": "The WinRM Shell client cannot process the request. The command handle passed to the WSMan Shell function is not valid.\r\nThe command handle is valid only when WSManRunShellCommand function completes successfully. Change the request including a valid shell handle and try again.",
+  "remarks": null,
+  "aka": [
+    "-2144108211"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_shell_invalid_command_handle/-2144108211/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

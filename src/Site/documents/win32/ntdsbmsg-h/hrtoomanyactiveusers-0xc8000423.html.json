@@ -1,0 +1,28 @@
+---
+output: win32\ntdsbmsg-h\hrtoomanyactiveusers\0xc8000423\index.html.json
+
+title: 0xC8000423 hrTooManyActiveUsers in NtDsBMsg.h
+description: There are too many active database users.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "NtDsBMsg.h",
+  "sourceUrl": "/win32/ntdsbmsg-h/",
+  "code": "0xC8000423",
+  "codeUrl": "/win32/ntdsbmsg-h/hrtoomanyactiveusers/0xc8000423/",
+  "numericCode": -939523037,
+  "define": "hrTooManyActiveUsers",
+  "defineUrl": "/win32/ntdsbmsg-h/hrtoomanyactiveusers/",
+  "message": "There are too many active database users.",
+  "remarks": null,
+  "aka": [
+    "-939523037"
+  ],
+  "akaUrl": [
+    "/win32/ntdsbmsg-h/hrtoomanyactiveusers/-939523037/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

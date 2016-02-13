@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\wep_e_buffer_too_large\0x88010009\index.html.json
+
+title: 0x88010009 WEP_E_BUFFER_TOO_LARGE in winerror.h
+description: The input buffer size for the lockout metadata used by the 3rd party drive encryption is too large.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x88010009",
+  "codeUrl": "/win32/winerror-h/wep_e_buffer_too_large/0x88010009/",
+  "numericCode": -2013200375,
+  "define": "WEP_E_BUFFER_TOO_LARGE",
+  "defineUrl": "/win32/winerror-h/wep_e_buffer_too_large/",
+  "message": "The input buffer size for the lockout metadata used by the 3rd party drive encryption is too large.",
+  "remarks": null,
+  "aka": [
+    "-2013200375"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/wep_e_buffer_too_large/-2013200375/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

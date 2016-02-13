@@ -1,0 +1,25 @@
+---
+output: win32\wsmerror-h\error_wsman_listener_address_invalid\-2144108407\index.html.json
+canonical: /win32/wsmerror-h/error_wsman_listener_address_invalid/0x80338089/
+title: -2144108407 ERROR_WSMAN_LISTENER_ADDRESS_INVALID in wsmerror.h
+description: The listener address specified is invalid. The address can be specified in one of the following formats: *, IP:<ip_address>, MAC:<mac_address>.
+Change the listener address and try the request again.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "-2144108407",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_listener_address_invalid/-2144108407/",
+  "numericCode": 0,
+  "define": "ERROR_WSMAN_LISTENER_ADDRESS_INVALID",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_listener_address_invalid/",
+  "message": "The listener address specified is invalid. The address can be specified in one of the following formats: *, IP:<ip_address>, MAC:<mac_address>.\r\nChange the listener address and try the request again.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80338089",
+  "originalCodeUrl": "/win32/wsmerror-h/error_wsman_listener_address_invalid/0x80338089/"
+}

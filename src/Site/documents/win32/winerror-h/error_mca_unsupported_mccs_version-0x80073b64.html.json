@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_mca_unsupported_mccs_version\0x80073b64\index.html.json
+canonical: /win32/winerror-h/error_mca_unsupported_mccs_version/15204/
+title: 0x80073b64 ERROR_MCA_UNSUPPORTED_MCCS_VERSION in winerror.h
+description: The Monitor Configuration API only works with monitors that support the MCCS 1.0 specification, MCCS 2.0 specification or the MCCS 2.0 Revision 1 specification.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80073b64",
+  "codeUrl": "/win32/winerror-h/error_mca_unsupported_mccs_version/0x80073b64/",
+  "numericCode": 0,
+  "define": "ERROR_MCA_UNSUPPORTED_MCCS_VERSION",
+  "defineUrl": "/win32/winerror-h/error_mca_unsupported_mccs_version/",
+  "message": "The Monitor Configuration API only works with monitors that support the MCCS 1.0 specification, MCCS 2.0 specification or the MCCS 2.0 Revision 1 specification.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "15204",
+  "originalCodeUrl": "/win32/winerror-h/error_mca_unsupported_mccs_version/15204/"
+}

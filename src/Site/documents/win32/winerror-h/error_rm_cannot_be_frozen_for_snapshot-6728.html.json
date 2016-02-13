@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_rm_cannot_be_frozen_for_snapshot\6728\index.html.json
+
+title: 6728 ERROR_RM_CANNOT_BE_FROZEN_FOR_SNAPSHOT in winerror.h
+description: This snapshot operation cannot continue because a transactional resource manager cannot be frozen in its current state.  Please try again.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "6728",
+  "codeUrl": "/win32/winerror-h/error_rm_cannot_be_frozen_for_snapshot/6728/",
+  "numericCode": 6728,
+  "define": "ERROR_RM_CANNOT_BE_FROZEN_FOR_SNAPSHOT",
+  "defineUrl": "/win32/winerror-h/error_rm_cannot_be_frozen_for_snapshot/",
+  "message": "This snapshot operation cannot continue because a transactional resource manager cannot be frozen in its current state.  Please try again.",
+  "remarks": null,
+  "aka": [
+    "0x80071a48",
+    "-2147018168"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_rm_cannot_be_frozen_for_snapshot/0x80071a48/",
+    "/win32/winerror-h/error_rm_cannot_be_frozen_for_snapshot/-2147018168/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

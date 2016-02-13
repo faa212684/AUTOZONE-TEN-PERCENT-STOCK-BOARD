@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_ipsec_wrong_sa\0xc0360003\index.html.json
+
+title: 0xC0360003 STATUS_IPSEC_WRONG_SA in ntstatus.h
+description: Packet was received on an IPsec SA that does not match the packet characteristics.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0360003",
+  "codeUrl": "/win32/ntstatus-h/status_ipsec_wrong_sa/0xc0360003/",
+  "numericCode": -1070202877,
+  "define": "STATUS_IPSEC_WRONG_SA",
+  "defineUrl": "/win32/ntstatus-h/status_ipsec_wrong_sa/",
+  "message": "Packet was received on an IPsec SA that does not match the packet characteristics.",
+  "remarks": null,
+  "aka": [
+    "-1070202877"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_ipsec_wrong_sa/-1070202877/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

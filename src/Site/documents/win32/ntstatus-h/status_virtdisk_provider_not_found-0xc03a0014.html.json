@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_virtdisk_provider_not_found\0xc03a0014\index.html.json
+
+title: 0xC03A0014 STATUS_VIRTDISK_PROVIDER_NOT_FOUND in ntstatus.h
+description: A virtual disk support provider for the specified file was not found.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC03A0014",
+  "codeUrl": "/win32/ntstatus-h/status_virtdisk_provider_not_found/0xc03a0014/",
+  "numericCode": -1069940716,
+  "define": "STATUS_VIRTDISK_PROVIDER_NOT_FOUND",
+  "defineUrl": "/win32/ntstatus-h/status_virtdisk_provider_not_found/",
+  "message": "A virtual disk support provider for the specified file was not found.",
+  "remarks": null,
+  "aka": [
+    "-1069940716"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_virtdisk_provider_not_found/-1069940716/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

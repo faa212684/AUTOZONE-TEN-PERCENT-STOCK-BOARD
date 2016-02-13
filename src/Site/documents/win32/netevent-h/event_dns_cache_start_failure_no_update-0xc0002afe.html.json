@@ -1,0 +1,33 @@
+---
+output: win32\netevent-h\event_dns_cache_start_failure_no_update\0xc0002afe\index.html.json
+
+title: 0xC0002AFE EVENT_DNS_CACHE_START_FAILURE_NO_UPDATE in netevent.h
+description: Unable to start DNS Client service. Could not update status with
+Service Control Manager. To correct the problem, you may restart
+the RPC and DNS Client services. To do so, use the following commands
+at a command prompt: (1) type "net start rpc" to start the RPC service,
+and (2) type "net start dnscache" to start the DNS Client service. 
+See event details for specific error code information.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC0002AFE",
+  "codeUrl": "/win32/netevent-h/event_dns_cache_start_failure_no_update/0xc0002afe/",
+  "numericCode": -1073730818,
+  "define": "EVENT_DNS_CACHE_START_FAILURE_NO_UPDATE",
+  "defineUrl": "/win32/netevent-h/event_dns_cache_start_failure_no_update/",
+  "message": "Unable to start DNS Client service. Could not update status with\r\nService Control Manager. To correct the problem, you may restart\r\nthe RPC and DNS Client services. To do so, use the following commands\r\nat a command prompt: (1) type \"net start rpc\" to start the RPC service,\r\nand (2) type \"net start dnscache\" to start the DNS Client service. \r\nSee event details for specific error code information.",
+  "remarks": null,
+  "aka": [
+    "-1073730818"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_dns_cache_start_failure_no_update/-1073730818/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

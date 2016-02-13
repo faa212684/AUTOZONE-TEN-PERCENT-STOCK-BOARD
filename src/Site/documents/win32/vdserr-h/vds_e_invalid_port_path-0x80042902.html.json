@@ -1,0 +1,29 @@
+---
+output: win32\vdserr-h\vds_e_invalid_port_path\0x80042902\index.html.json
+
+title: 0x80042902 VDS_E_INVALID_PORT_PATH in vdserr.h
+description: The path returned for the port is invalid. Either it has an incorrect port type 
+specified, or, the HBA port properties structure is NULL.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x80042902",
+  "codeUrl": "/win32/vdserr-h/vds_e_invalid_port_path/0x80042902/",
+  "numericCode": -2147211006,
+  "define": "VDS_E_INVALID_PORT_PATH",
+  "defineUrl": "/win32/vdserr-h/vds_e_invalid_port_path/",
+  "message": "The path returned for the port is invalid. Either it has an incorrect port type \r\nspecified, or, the HBA port properties structure is NULL.",
+  "remarks": null,
+  "aka": [
+    "-2147211006"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_invalid_port_path/-2147211006/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

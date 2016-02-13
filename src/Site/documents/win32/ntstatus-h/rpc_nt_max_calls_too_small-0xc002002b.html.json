@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\rpc_nt_max_calls_too_small\0xc002002b\index.html.json
+
+title: 0xC002002B RPC_NT_MAX_CALLS_TOO_SMALL in ntstatus.h
+description: The maximum number of calls is too small.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC002002B",
+  "codeUrl": "/win32/ntstatus-h/rpc_nt_max_calls_too_small/0xc002002b/",
+  "numericCode": -1073610709,
+  "define": "RPC_NT_MAX_CALLS_TOO_SMALL",
+  "defineUrl": "/win32/ntstatus-h/rpc_nt_max_calls_too_small/",
+  "message": "The maximum number of calls is too small.",
+  "remarks": null,
+  "aka": [
+    "-1073610709"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/rpc_nt_max_calls_too_small/-1073610709/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\fve_e_fs_not_extended\0x80310047\index.html.json
+
+title: 0x80310047 FVE_E_FS_NOT_EXTENDED in winerror.h
+description: This drive cannot be encrypted by BitLocker Drive Encryption because the file system does not extend to the end of the drive. Repartition this drive and then try again.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80310047",
+  "codeUrl": "/win32/winerror-h/fve_e_fs_not_extended/0x80310047/",
+  "numericCode": -2144272313,
+  "define": "FVE_E_FS_NOT_EXTENDED",
+  "defineUrl": "/win32/winerror-h/fve_e_fs_not_extended/",
+  "message": "This drive cannot be encrypted by BitLocker Drive Encryption because the file system does not extend to the end of the drive. Repartition this drive and then try again.",
+  "remarks": null,
+  "aka": [
+    "-2144272313"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/fve_e_fs_not_extended/-2144272313/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_pnp_reboot_required\0x8007027e\index.html.json
+canonical: /win32/winerror-h/error_pnp_reboot_required/638/
+title: 0x8007027e ERROR_PNP_REBOOT_REQUIRED in winerror.h
+description: Device will not start without a reboot.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007027e",
+  "codeUrl": "/win32/winerror-h/error_pnp_reboot_required/0x8007027e/",
+  "numericCode": 0,
+  "define": "ERROR_PNP_REBOOT_REQUIRED",
+  "defineUrl": "/win32/winerror-h/error_pnp_reboot_required/",
+  "message": "Device will not start without a reboot.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "638",
+  "originalCodeUrl": "/win32/winerror-h/error_pnp_reboot_required/638/"
+}

@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\fve_e_raw_access\0x80310050\index.html.json
+
+title: 0x80310050 FVE_E_RAW_ACCESS in winerror.h
+description: No action was taken as BitLocker Drive Encryption is in raw access mode.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80310050",
+  "codeUrl": "/win32/winerror-h/fve_e_raw_access/0x80310050/",
+  "numericCode": -2144272304,
+  "define": "FVE_E_RAW_ACCESS",
+  "defineUrl": "/win32/winerror-h/fve_e_raw_access/",
+  "message": "No action was taken as BitLocker Drive Encryption is in raw access mode.",
+  "remarks": null,
+  "aka": [
+    "-2144272304"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/fve_e_raw_access/-2144272304/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

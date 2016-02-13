@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_wx86_createwx86tib\1073741864\index.html.json
+canonical: /win32/ntstatus-h/status_wx86_createwx86tib/0x40000028/
+title: 1073741864 STATUS_WX86_CREATEWX86TIB in ntstatus.h
+description: Exception status code used by Win32 x86 emulation subsystem.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "1073741864",
+  "codeUrl": "/win32/ntstatus-h/status_wx86_createwx86tib/1073741864/",
+  "numericCode": 0,
+  "define": "STATUS_WX86_CREATEWX86TIB",
+  "defineUrl": "/win32/ntstatus-h/status_wx86_createwx86tib/",
+  "message": "Exception status code used by Win32 x86 emulation subsystem.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x40000028",
+  "originalCodeUrl": "/win32/ntstatus-h/status_wx86_createwx86tib/0x40000028/"
+}

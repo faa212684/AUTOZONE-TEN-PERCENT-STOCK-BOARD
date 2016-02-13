@@ -1,0 +1,25 @@
+---
+output: win32\ntstatus-h\status_notification_guid_already_defined\-1073741404\index.html.json
+canonical: /win32/ntstatus-h/status_notification_guid_already_defined/0xc00001a4/
+title: -1073741404 STATUS_NOTIFICATION_GUID_ALREADY_DEFINED in ntstatus.h
+description: "{Invalid ACE Condition}
+The specified file already has a notification GUID associated with it."
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741404",
+  "codeUrl": "/win32/ntstatus-h/status_notification_guid_already_defined/-1073741404/",
+  "numericCode": 0,
+  "define": "STATUS_NOTIFICATION_GUID_ALREADY_DEFINED",
+  "defineUrl": "/win32/ntstatus-h/status_notification_guid_already_defined/",
+  "message": "{Invalid ACE Condition}\r\nThe specified file already has a notification GUID associated with it.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC00001A4",
+  "originalCodeUrl": "/win32/ntstatus-h/status_notification_guid_already_defined/0xc00001a4/"
+}

@@ -1,0 +1,28 @@
+---
+output: win32\tapi3err-h\tapi_e_wrong_state\0x80040058\index.html.json
+
+title: 0x80040058 TAPI_E_WRONG_STATE in Tapi3Err.h
+description: The operation requested is not permitted for the current state.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "Tapi3Err.h",
+  "sourceUrl": "/win32/tapi3err-h/",
+  "code": "0x80040058",
+  "codeUrl": "/win32/tapi3err-h/tapi_e_wrong_state/0x80040058/",
+  "numericCode": -2147221416,
+  "define": "TAPI_E_WRONG_STATE",
+  "defineUrl": "/win32/tapi3err-h/tapi_e_wrong_state/",
+  "message": "The operation requested is not permitted for the current state.",
+  "remarks": null,
+  "aka": [
+    "-2147221416"
+  ],
+  "akaUrl": [
+    "/win32/tapi3err-h/tapi_e_wrong_state/-2147221416/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

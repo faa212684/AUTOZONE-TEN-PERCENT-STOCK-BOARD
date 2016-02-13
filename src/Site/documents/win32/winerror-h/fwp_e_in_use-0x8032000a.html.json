@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\fwp_e_in_use\0x8032000a\index.html.json
+
+title: 0x8032000A FWP_E_IN_USE in winerror.h
+description: The object is referenced by other objects so cannot be deleted.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8032000A",
+  "codeUrl": "/win32/winerror-h/fwp_e_in_use/0x8032000a/",
+  "numericCode": -2144206838,
+  "define": "FWP_E_IN_USE",
+  "defineUrl": "/win32/winerror-h/fwp_e_in_use/",
+  "message": "The object is referenced by other objects so cannot be deleted.",
+  "remarks": null,
+  "aka": [
+    "-2144206838"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/fwp_e_in_use/-2144206838/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_ds_ridmgr_init_error\-1073741142\index.html.json
+canonical: /win32/ntstatus-h/status_ds_ridmgr_init_error/0xc00002aa/
+title: -1073741142 STATUS_DS_RIDMGR_INIT_ERROR in ntstatus.h
+description: The directory service was unable to initialize the subsystem that allocates relative identifiers.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741142",
+  "codeUrl": "/win32/ntstatus-h/status_ds_ridmgr_init_error/-1073741142/",
+  "numericCode": 0,
+  "define": "STATUS_DS_RIDMGR_INIT_ERROR",
+  "defineUrl": "/win32/ntstatus-h/status_ds_ridmgr_init_error/",
+  "message": "The directory service was unable to initialize the subsystem that allocates relative identifiers.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC00002AA",
+  "originalCodeUrl": "/win32/ntstatus-h/status_ds_ridmgr_init_error/0xc00002aa/"
+}

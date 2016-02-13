@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_lock_failed\0x800700a7\index.html.json
+canonical: /win32/winerror-h/error_lock_failed/167/
+title: 0x800700a7 ERROR_LOCK_FAILED in winerror.h
+description: Unable to lock a region of a file.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800700a7",
+  "codeUrl": "/win32/winerror-h/error_lock_failed/0x800700a7/",
+  "numericCode": 0,
+  "define": "ERROR_LOCK_FAILED",
+  "defineUrl": "/win32/winerror-h/error_lock_failed/",
+  "message": "Unable to lock a region of a file.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "167",
+  "originalCodeUrl": "/win32/winerror-h/error_lock_failed/167/"
+}

@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_fve_keyfile_not_found\0xc0210013\index.html.json
+
+title: 0xC0210013 STATUS_FVE_KEYFILE_NOT_FOUND in ntstatus.h
+description: The BitLocker startup key or recovery password could not be read from external media.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0210013",
+  "codeUrl": "/win32/ntstatus-h/status_fve_keyfile_not_found/0xc0210013/",
+  "numericCode": -1071579117,
+  "define": "STATUS_FVE_KEYFILE_NOT_FOUND",
+  "defineUrl": "/win32/ntstatus-h/status_fve_keyfile_not_found/",
+  "message": "The BitLocker startup key or recovery password could not be read from external media.",
+  "remarks": null,
+  "aka": [
+    "-1071579117"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_fve_keyfile_not_found/-1071579117/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

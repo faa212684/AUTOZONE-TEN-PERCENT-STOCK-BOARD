@@ -1,0 +1,24 @@
+---
+output: win32\fsrmerr-h\fsrm_e_file_management_job_invalid_continuous_config\-2147200108\index.html.json
+canonical: /win32/fsrmerr-h/fsrm_e_file_management_job_invalid_continuous_config/0x80045394/
+title: -2147200108 FSRM_E_FILE_MANAGEMENT_JOB_INVALID_CONTINUOUS_CONFIG in fsrmerr.h
+description: A continuous file management job cannot have conditions based on the file's last accessed/modified or created times and cannot define any notifications.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "fsrmerr.h",
+  "sourceUrl": "/win32/fsrmerr-h/",
+  "code": "-2147200108",
+  "codeUrl": "/win32/fsrmerr-h/fsrm_e_file_management_job_invalid_continuous_config/-2147200108/",
+  "numericCode": 0,
+  "define": "FSRM_E_FILE_MANAGEMENT_JOB_INVALID_CONTINUOUS_CONFIG",
+  "defineUrl": "/win32/fsrmerr-h/fsrm_e_file_management_job_invalid_continuous_config/",
+  "message": "A continuous file management job cannot have conditions based on the file's last accessed/modified or created times and cannot define any notifications.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80045394",
+  "originalCodeUrl": "/win32/fsrmerr-h/fsrm_e_file_management_job_invalid_continuous_config/0x80045394/"
+}

@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_time_difference_at_dc\-1073741517\index.html.json
+canonical: /win32/ntstatus-h/status_time_difference_at_dc/0xc0000133/
+title: -1073741517 STATUS_TIME_DIFFERENCE_AT_DC in ntstatus.h
+description: The time at the Primary Domain Controller is different than the time at the Backup Domain Controller or member server by too large an amount.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741517",
+  "codeUrl": "/win32/ntstatus-h/status_time_difference_at_dc/-1073741517/",
+  "numericCode": 0,
+  "define": "STATUS_TIME_DIFFERENCE_AT_DC",
+  "defineUrl": "/win32/ntstatus-h/status_time_difference_at_dc/",
+  "message": "The time at the Primary Domain Controller is different than the time at the Backup Domain Controller or member server by too large an amount.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000133",
+  "originalCodeUrl": "/win32/ntstatus-h/status_time_difference_at_dc/0xc0000133/"
+}

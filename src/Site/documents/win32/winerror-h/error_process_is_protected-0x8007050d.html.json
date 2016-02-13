@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_process_is_protected\0x8007050d\index.html.json
+canonical: /win32/winerror-h/error_process_is_protected/1293/
+title: 0x8007050d ERROR_PROCESS_IS_PROTECTED in winerror.h
+description: Either the target process, or the target thread's containing process, is a protected process.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007050d",
+  "codeUrl": "/win32/winerror-h/error_process_is_protected/0x8007050d/",
+  "numericCode": 0,
+  "define": "ERROR_PROCESS_IS_PROTECTED",
+  "defineUrl": "/win32/winerror-h/error_process_is_protected/",
+  "message": "Either the target process, or the target thread's containing process, is a protected process.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "1293",
+  "originalCodeUrl": "/win32/winerror-h/error_process_is_protected/1293/"
+}

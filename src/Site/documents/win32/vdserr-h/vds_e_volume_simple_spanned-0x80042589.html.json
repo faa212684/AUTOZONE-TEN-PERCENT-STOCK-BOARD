@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_e_volume_simple_spanned\0x80042589\index.html.json
+
+title: 0x80042589 VDS_E_VOLUME_SIMPLE_SPANNED in vdserr.h
+description: This operation is only supported on simple or spanned volumes.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x80042589",
+  "codeUrl": "/win32/vdserr-h/vds_e_volume_simple_spanned/0x80042589/",
+  "numericCode": -2147211895,
+  "define": "VDS_E_VOLUME_SIMPLE_SPANNED",
+  "defineUrl": "/win32/vdserr-h/vds_e_volume_simple_spanned/",
+  "message": "This operation is only supported on simple or spanned volumes.",
+  "remarks": null,
+  "aka": [
+    "-2147211895"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_volume_simple_spanned/-2147211895/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

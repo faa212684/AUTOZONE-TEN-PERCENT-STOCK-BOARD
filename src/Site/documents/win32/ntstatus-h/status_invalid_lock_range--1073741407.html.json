@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_invalid_lock_range\-1073741407\index.html.json
+canonical: /win32/ntstatus-h/status_invalid_lock_range/0xc00001a1/
+title: -1073741407 STATUS_INVALID_LOCK_RANGE in ntstatus.h
+description: A requested file lock operation cannot be processed due to an invalid byte range.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741407",
+  "codeUrl": "/win32/ntstatus-h/status_invalid_lock_range/-1073741407/",
+  "numericCode": 0,
+  "define": "STATUS_INVALID_LOCK_RANGE",
+  "defineUrl": "/win32/ntstatus-h/status_invalid_lock_range/",
+  "message": "A requested file lock operation cannot be processed due to an invalid byte range.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC00001A1",
+  "originalCodeUrl": "/win32/ntstatus-h/status_invalid_lock_range/0xc00001a1/"
+}

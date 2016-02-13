@@ -1,0 +1,31 @@
+---
+output: win32\netevent-h\event_dns_cache_start_failure_low_memory\0xc0002aff\index.html.json
+
+title: 0xC0002AFF EVENT_DNS_CACHE_START_FAILURE_LOW_MEMORY in netevent.h
+description: Unable to start DNS Client service because the system failed to allocate
+memory and may be out of available memory. Try closing any applications not
+in use or reboot the computer. See event details for specific error code 
+information.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC0002AFF",
+  "codeUrl": "/win32/netevent-h/event_dns_cache_start_failure_low_memory/0xc0002aff/",
+  "numericCode": -1073730817,
+  "define": "EVENT_DNS_CACHE_START_FAILURE_LOW_MEMORY",
+  "defineUrl": "/win32/netevent-h/event_dns_cache_start_failure_low_memory/",
+  "message": "Unable to start DNS Client service because the system failed to allocate\r\nmemory and may be out of available memory. Try closing any applications not\r\nin use or reboot the computer. See event details for specific error code \r\ninformation.",
+  "remarks": null,
+  "aka": [
+    "-1073730817"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_dns_cache_start_failure_low_memory/-1073730817/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

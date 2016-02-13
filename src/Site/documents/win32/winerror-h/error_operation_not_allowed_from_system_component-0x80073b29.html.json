@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_operation_not_allowed_from_system_component\0x80073b29\index.html.json
+canonical: /win32/winerror-h/error_operation_not_allowed_from_system_component/15145/
+title: 0x80073b29 ERROR_OPERATION_NOT_ALLOWED_FROM_SYSTEM_COMPONENT in winerror.h
+description: The system component cannot operate given API operation
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80073b29",
+  "codeUrl": "/win32/winerror-h/error_operation_not_allowed_from_system_component/0x80073b29/",
+  "numericCode": 0,
+  "define": "ERROR_OPERATION_NOT_ALLOWED_FROM_SYSTEM_COMPONENT",
+  "defineUrl": "/win32/winerror-h/error_operation_not_allowed_from_system_component/",
+  "message": "The system component cannot operate given API operation",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "15145",
+  "originalCodeUrl": "/win32/winerror-h/error_operation_not_allowed_from_system_component/15145/"
+}

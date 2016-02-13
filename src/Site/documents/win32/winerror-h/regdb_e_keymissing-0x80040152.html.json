@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\regdb_e_keymissing\0x80040152\index.html.json
+
+title: 0x80040152 REGDB_E_KEYMISSING in winerror.h
+description: Could not find the key in the registry
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80040152",
+  "codeUrl": "/win32/winerror-h/regdb_e_keymissing/0x80040152/",
+  "numericCode": -2147221166,
+  "define": "REGDB_E_KEYMISSING",
+  "defineUrl": "/win32/winerror-h/regdb_e_keymissing/",
+  "message": "Could not find the key in the registry",
+  "remarks": null,
+  "aka": [
+    "-2147221166"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/regdb_e_keymissing/-2147221166/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

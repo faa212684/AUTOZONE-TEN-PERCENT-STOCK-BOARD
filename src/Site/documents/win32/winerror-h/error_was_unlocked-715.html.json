@@ -1,0 +1,31 @@
+---
+output: win32\winerror-h\error_was_unlocked\715\index.html.json
+
+title: 715 ERROR_WAS_UNLOCKED in winerror.h
+description: "{Page Unlocked}
+The page protection of a locked page was changed to 'No Access' and the page was unlocked from memory and from the process."
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "715",
+  "codeUrl": "/win32/winerror-h/error_was_unlocked/715/",
+  "numericCode": 715,
+  "define": "ERROR_WAS_UNLOCKED",
+  "defineUrl": "/win32/winerror-h/error_was_unlocked/",
+  "message": "{Page Unlocked}\r\nThe page protection of a locked page was changed to 'No Access' and the page was unlocked from memory and from the process.",
+  "remarks": null,
+  "aka": [
+    "0x800702cb",
+    "-2147024181"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_was_unlocked/0x800702cb/",
+    "/win32/winerror-h/error_was_unlocked/-2147024181/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

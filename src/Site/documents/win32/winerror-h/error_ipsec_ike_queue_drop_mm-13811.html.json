@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ipsec_ike_queue_drop_mm\13811\index.html.json
+
+title: 13811 ERROR_IPSEC_IKE_QUEUE_DROP_MM in winerror.h
+description: Negotiation request sat in Queue too long
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "13811",
+  "codeUrl": "/win32/winerror-h/error_ipsec_ike_queue_drop_mm/13811/",
+  "numericCode": 13811,
+  "define": "ERROR_IPSEC_IKE_QUEUE_DROP_MM",
+  "defineUrl": "/win32/winerror-h/error_ipsec_ike_queue_drop_mm/",
+  "message": "Negotiation request sat in Queue too long",
+  "remarks": null,
+  "aka": [
+    "0x800735f3",
+    "-2147011085"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ipsec_ike_queue_drop_mm/0x800735f3/",
+    "/win32/winerror-h/error_ipsec_ike_queue_drop_mm/-2147011085/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

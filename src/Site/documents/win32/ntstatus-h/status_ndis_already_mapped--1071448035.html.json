@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_ndis_already_mapped\-1071448035\index.html.json
+canonical: /win32/ntstatus-h/status_ndis_already_mapped/0xc023001d/
+title: -1071448035 STATUS_NDIS_ALREADY_MAPPED in ntstatus.h
+description: An attempt was made to map a file that is alreay mapped.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071448035",
+  "codeUrl": "/win32/ntstatus-h/status_ndis_already_mapped/-1071448035/",
+  "numericCode": 0,
+  "define": "STATUS_NDIS_ALREADY_MAPPED",
+  "defineUrl": "/win32/ntstatus-h/status_ndis_already_mapped/",
+  "message": "An attempt was made to map a file that is alreay mapped.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC023001D",
+  "originalCodeUrl": "/win32/ntstatus-h/status_ndis_already_mapped/0xc023001d/"
+}

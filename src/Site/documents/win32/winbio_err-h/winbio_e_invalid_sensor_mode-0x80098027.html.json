@@ -1,0 +1,28 @@
+---
+output: win32\winbio_err-h\winbio_e_invalid_sensor_mode\0x80098027\index.html.json
+
+title: 0x80098027 WINBIO_E_INVALID_SENSOR_MODE in winbio_err.h
+description: The sensor adapter doesn't support the sensor mode specified in the configuration.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winbio_err.h",
+  "sourceUrl": "/win32/winbio_err-h/",
+  "code": "0x80098027",
+  "codeUrl": "/win32/winbio_err-h/winbio_e_invalid_sensor_mode/0x80098027/",
+  "numericCode": -2146861017,
+  "define": "WINBIO_E_INVALID_SENSOR_MODE",
+  "defineUrl": "/win32/winbio_err-h/winbio_e_invalid_sensor_mode/",
+  "message": "The sensor adapter doesn't support the sensor mode specified in the configuration.",
+  "remarks": null,
+  "aka": [
+    "-2146861017"
+  ],
+  "akaUrl": [
+    "/win32/winbio_err-h/winbio_e_invalid_sensor_mode/-2146861017/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

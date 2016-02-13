@@ -1,0 +1,29 @@
+---
+output: win32\ntstatus-h\status_conflicting_addresses\0xc0000018\index.html.json
+
+title: 0xC0000018 STATUS_CONFLICTING_ADDRESSES in ntstatus.h
+description: "{Conflicting Address Range}
+The specified address range conflicts with the address space."
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000018",
+  "codeUrl": "/win32/ntstatus-h/status_conflicting_addresses/0xc0000018/",
+  "numericCode": -1073741800,
+  "define": "STATUS_CONFLICTING_ADDRESSES",
+  "defineUrl": "/win32/ntstatus-h/status_conflicting_addresses/",
+  "message": "{Conflicting Address Range}\r\nThe specified address range conflicts with the address space.",
+  "remarks": null,
+  "aka": [
+    "-1073741800"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_conflicting_addresses/-1073741800/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_ps_no_resources_for_init\0xc00036b1\index.html.json
+
+title: 0xC00036B1 EVENT_PS_NO_RESOURCES_FOR_INIT in netevent.h
+description: QoS: The Packet Scheduler was unable to allocate required resources for initialization.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC00036B1",
+  "codeUrl": "/win32/netevent-h/event_ps_no_resources_for_init/0xc00036b1/",
+  "numericCode": -1073727823,
+  "define": "EVENT_PS_NO_RESOURCES_FOR_INIT",
+  "defineUrl": "/win32/netevent-h/event_ps_no_resources_for_init/",
+  "message": "QoS: The Packet Scheduler was unable to allocate required resources for initialization.",
+  "remarks": null,
+  "aka": [
+    "-1073727823"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_ps_no_resources_for_init/-1073727823/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

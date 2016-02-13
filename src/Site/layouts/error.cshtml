@@ -1,0 +1,55 @@
+layout: master
+
+    <header class="row">
+      <div class="col-xs-12">
+        <ol class="breadcrumb">
+          <li><a href="/">Home</a></li>
+          <li><a href="@Model.Document.AreaUrl">@Model.Document.Area</a></li>
+@if (Model.Document.Source != null) {
+          <li><a href="@Model.Document.SourceUrl">@Model.Document.Source</a></li>
+}
+          <li class="active">@Model.Document.Code @Model.Document.Define</li>
+        </ol>
+      </div>
+
+@if (Model.Document.OriginalCode != null) {
+       <div class="col-xs-12">
+        <div class="alert alert-danger">
+          This errorco.de is a pseudonym for <a class="alert-link" href="@Model.Document.OriginalCodeUrl">@(Model.Document.Source != null ? Model.Document.Source : Model.Document.Area) @Model.Document.OriginalCode</a>.
+          See that errorco.de for possible comments or remarks.
+        </div>
+      </div>
+}
+
+      <div class="col-sm-11 col-sm-offset-1">
+        <h1><small>@(Model.Document.Source != null ? Model.Document.Source : Model.Document.Area)</small> @Model.Document.Code</h1>
+      </div>
+@if (Model.Document.Define != null) {
+      <div class="col-sm-11 col-sm-offset-1">
+        <h2><small>#define</small> @Model.Document.Define</h2>
+      </div>
+}
+      <div class="col-sm-11 col-sm-offset-1">
+        <h3>@Model.Document.Message</h3>
+      </div>
+@if (Model.Document.Remarks != null) {
+      <div class="col-sm-11 col-sm-offset-1">
+        <h4>Remarks</h4>
+        <p>@Raw(Model.Document.Remarks)</p>
+      </div>
+}
+    </header>
+
+@if (Model.Document.Aka != null) {
+    <section class="row">
+      <div class="col-sm-5 col-sm-offset-1">
+        <h5>&nbsp;</h5>
+        <div class="list-group">
+            <p class="list-group-item text-danger">This errorco.de is also known as:</p>
+            @for (int i = 0; i < Model.Document.Aka.Count; ++i) {
+            <a class="list-group-item" href="@Model.Document.AkaUrl[i]">@Model.Document.Aka[i]</a>
+            }
+        </div>
+      </div>
+    </section>
+}

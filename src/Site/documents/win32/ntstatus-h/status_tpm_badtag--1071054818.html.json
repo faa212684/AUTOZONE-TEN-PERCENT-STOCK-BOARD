@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_tpm_badtag\-1071054818\index.html.json
+canonical: /win32/ntstatus-h/status_tpm_badtag/0xc029001e/
+title: -1071054818 STATUS_TPM_BADTAG in ntstatus.h
+description: The tag value sent to for a command is invalid.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071054818",
+  "codeUrl": "/win32/ntstatus-h/status_tpm_badtag/-1071054818/",
+  "numericCode": 0,
+  "define": "STATUS_TPM_BADTAG",
+  "defineUrl": "/win32/ntstatus-h/status_tpm_badtag/",
+  "message": "The tag value sent to for a command is invalid.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC029001E",
+  "originalCodeUrl": "/win32/ntstatus-h/status_tpm_badtag/0xc029001e/"
+}

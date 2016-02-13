@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\peerdist_error_shutdown_in_progress\4056\index.html.json
+
+title: 4056 PEERDIST_ERROR_SHUTDOWN_IN_PROGRESS in winerror.h
+description: A shutdown operation is already in progress.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "4056",
+  "codeUrl": "/win32/winerror-h/peerdist_error_shutdown_in_progress/4056/",
+  "numericCode": 4056,
+  "define": "PEERDIST_ERROR_SHUTDOWN_IN_PROGRESS",
+  "defineUrl": "/win32/winerror-h/peerdist_error_shutdown_in_progress/",
+  "message": "A shutdown operation is already in progress.",
+  "remarks": null,
+  "aka": [
+    "0x80070fd8",
+    "-2147020840"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/peerdist_error_shutdown_in_progress/0x80070fd8/",
+    "/win32/winerror-h/peerdist_error_shutdown_in_progress/-2147020840/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\oledberr-h\db_s_bufferfull\0x00040ec8\index.html.json
+
+title: 0x00040EC8 DB_S_BUFFERFULL in oledberr.h
+description: Operation succeeded, but status array or string buffer could not be allocated.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "oledberr.h",
+  "sourceUrl": "/win32/oledberr-h/",
+  "code": "0x00040EC8",
+  "codeUrl": "/win32/oledberr-h/db_s_bufferfull/0x00040ec8/",
+  "numericCode": 265928,
+  "define": "DB_S_BUFFERFULL",
+  "defineUrl": "/win32/oledberr-h/db_s_bufferfull/",
+  "message": "Operation succeeded, but status array or string buffer could not be allocated.",
+  "remarks": null,
+  "aka": [
+    "265928"
+  ],
+  "akaUrl": [
+    "/win32/oledberr-h/db_s_bufferfull/265928/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

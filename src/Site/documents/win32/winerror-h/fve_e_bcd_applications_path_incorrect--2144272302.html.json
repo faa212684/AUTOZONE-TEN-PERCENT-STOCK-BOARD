@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\fve_e_bcd_applications_path_incorrect\-2144272302\index.html.json
+canonical: /win32/winerror-h/fve_e_bcd_applications_path_incorrect/0x80310052/
+title: -2144272302 FVE_E_BCD_APPLICATIONS_PATH_INCORRECT in winerror.h
+description: The path specified in the Boot Configuration Data (BCD) for a BitLocker Drive Encryption integrity-protected application is incorrect. Please verify and correct your BCD settings and try again.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2144272302",
+  "codeUrl": "/win32/winerror-h/fve_e_bcd_applications_path_incorrect/-2144272302/",
+  "numericCode": 0,
+  "define": "FVE_E_BCD_APPLICATIONS_PATH_INCORRECT",
+  "defineUrl": "/win32/winerror-h/fve_e_bcd_applications_path_incorrect/",
+  "message": "The path specified in the Boot Configuration Data (BCD) for a BitLocker Drive Encryption integrity-protected application is incorrect. Please verify and correct your BCD settings and try again.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80310052",
+  "originalCodeUrl": "/win32/winerror-h/fve_e_bcd_applications_path_incorrect/0x80310052/"
+}

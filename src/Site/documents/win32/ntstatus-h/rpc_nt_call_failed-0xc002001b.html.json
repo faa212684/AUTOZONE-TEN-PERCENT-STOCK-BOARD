@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\rpc_nt_call_failed\0xc002001b\index.html.json
+
+title: 0xC002001B RPC_NT_CALL_FAILED in ntstatus.h
+description: The remote procedure call failed.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC002001B",
+  "codeUrl": "/win32/ntstatus-h/rpc_nt_call_failed/0xc002001b/",
+  "numericCode": -1073610725,
+  "define": "RPC_NT_CALL_FAILED",
+  "defineUrl": "/win32/ntstatus-h/rpc_nt_call_failed/",
+  "message": "The remote procedure call failed.",
+  "remarks": null,
+  "aka": [
+    "-1073610725"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/rpc_nt_call_failed/-1073610725/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

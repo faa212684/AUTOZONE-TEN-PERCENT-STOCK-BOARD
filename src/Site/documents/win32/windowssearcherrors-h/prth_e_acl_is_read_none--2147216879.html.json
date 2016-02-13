@@ -1,0 +1,24 @@
+---
+output: win32\windowssearcherrors-h\prth_e_acl_is_read_none\-2147216879\index.html.json
+canonical: /win32/windowssearcherrors-h/prth_e_acl_is_read_none/0x80041211/
+title: -2147216879 PRTH_E_ACL_IS_READ_NONE in WindowsSearchErrors.h
+description: The item will not be crawled because the Access Control List allows no one to read the item. Check that this is intended.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "-2147216879",
+  "codeUrl": "/win32/windowssearcherrors-h/prth_e_acl_is_read_none/-2147216879/",
+  "numericCode": 0,
+  "define": "PRTH_E_ACL_IS_READ_NONE",
+  "defineUrl": "/win32/windowssearcherrors-h/prth_e_acl_is_read_none/",
+  "message": "The item will not be crawled because the Access Control List allows no one to read the item. Check that this is intended.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80041211",
+  "originalCodeUrl": "/win32/windowssearcherrors-h/prth_e_acl_is_read_none/0x80041211/"
+}

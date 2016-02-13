@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\rpc_x_pipe_closed\0x8007077c\index.html.json
+canonical: /win32/winerror-h/rpc_x_pipe_closed/1916/
+title: 0x8007077c RPC_X_PIPE_CLOSED in winerror.h
+description: The RPC pipe object has already been closed.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007077c",
+  "codeUrl": "/win32/winerror-h/rpc_x_pipe_closed/0x8007077c/",
+  "numericCode": 0,
+  "define": "RPC_X_PIPE_CLOSED",
+  "defineUrl": "/win32/winerror-h/rpc_x_pipe_closed/",
+  "message": "The RPC pipe object has already been closed.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "1916",
+  "originalCodeUrl": "/win32/winerror-h/rpc_x_pipe_closed/1916/"
+}

@@ -1,0 +1,28 @@
+---
+output: win32\nserror-h\ns_e_namespace_wrong_persist\0xc00d138a\index.html.json
+
+title: 0xC00D138A NS_E_NAMESPACE_WRONG_PERSIST in nserror.h
+description: It is not possible to create a persistent namespace node under a transient parent node.%0
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "nserror.h",
+  "sourceUrl": "/win32/nserror-h/",
+  "code": "0xC00D138A",
+  "codeUrl": "/win32/nserror-h/ns_e_namespace_wrong_persist/0xc00d138a/",
+  "numericCode": -1072884854,
+  "define": "NS_E_NAMESPACE_WRONG_PERSIST",
+  "defineUrl": "/win32/nserror-h/ns_e_namespace_wrong_persist/",
+  "message": "It is not possible to create a persistent namespace node under a transient parent node.%0",
+  "remarks": null,
+  "aka": [
+    "-1072884854"
+  ],
+  "akaUrl": [
+    "/win32/nserror-h/ns_e_namespace_wrong_persist/-1072884854/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

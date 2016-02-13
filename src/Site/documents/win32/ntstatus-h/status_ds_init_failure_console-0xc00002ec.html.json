@@ -1,0 +1,31 @@
+---
+output: win32\ntstatus-h\status_ds_init_failure_console\0xc00002ec\index.html.json
+
+title: 0xC00002EC STATUS_DS_INIT_FAILURE_CONSOLE in ntstatus.h
+description: Directory Services could not start because of the following error:
+%hs
+Error Status: 0x%x.
+Please click OK to shutdown the system. You can use the recovery console to diagnose the system further.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC00002EC",
+  "codeUrl": "/win32/ntstatus-h/status_ds_init_failure_console/0xc00002ec/",
+  "numericCode": -1073741076,
+  "define": "STATUS_DS_INIT_FAILURE_CONSOLE",
+  "defineUrl": "/win32/ntstatus-h/status_ds_init_failure_console/",
+  "message": "Directory Services could not start because of the following error:\r\n%hs\r\nError Status: 0x%x.\r\nPlease click OK to shutdown the system. You can use the recovery console to diagnose the system further.",
+  "remarks": null,
+  "aka": [
+    "-1073741076"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_ds_init_failure_console/-1073741076/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

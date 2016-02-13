@@ -1,0 +1,28 @@
+---
+output: win32\wsmerror-h\error_wsman_non_pull_subscription_not_supported\0x803380ff\index.html.json
+
+title: 0x803380FF ERROR_WSMAN_NON_PULL_SUBSCRIPTION_NOT_SUPPORTED in wsmerror.h
+description: Only subscriptions with Pull delivery mode are supported by the plugin.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x803380FF",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_non_pull_subscription_not_supported/0x803380ff/",
+  "numericCode": -2144108289,
+  "define": "ERROR_WSMAN_NON_PULL_SUBSCRIPTION_NOT_SUPPORTED",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_non_pull_subscription_not_supported/",
+  "message": "Only subscriptions with Pull delivery mode are supported by the plugin.",
+  "remarks": null,
+  "aka": [
+    "-2144108289"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_non_pull_subscription_not_supported/-2144108289/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_hdaudio_empty_connection_list\0xc0440002\index.html.json
+
+title: 0xC0440002 STATUS_HDAUDIO_EMPTY_CONNECTION_LIST in ntstatus.h
+description: HD Audio widget encountered an unexpected empty connection list.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0440002",
+  "codeUrl": "/win32/ntstatus-h/status_hdaudio_empty_connection_list/0xc0440002/",
+  "numericCode": -1069285374,
+  "define": "STATUS_HDAUDIO_EMPTY_CONNECTION_LIST",
+  "defineUrl": "/win32/ntstatus-h/status_hdaudio_empty_connection_list/",
+  "message": "HD Audio widget encountered an unexpected empty connection list.",
+  "remarks": null,
+  "aka": [
+    "-1069285374"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_hdaudio_empty_connection_list/-1069285374/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

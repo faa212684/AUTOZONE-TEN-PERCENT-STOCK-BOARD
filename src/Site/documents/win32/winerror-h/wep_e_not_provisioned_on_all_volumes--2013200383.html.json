@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\wep_e_not_provisioned_on_all_volumes\-2013200383\index.html.json
+canonical: /win32/winerror-h/wep_e_not_provisioned_on_all_volumes/0x88010001/
+title: -2013200383 WEP_E_NOT_PROVISIONED_ON_ALL_VOLUMES in winerror.h
+description: One or more fixed volumes are not provisioned with the 3rd party encryption providers to support device encryption. Enable encryption with the 3rd party provider to comply with policy.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2013200383",
+  "codeUrl": "/win32/winerror-h/wep_e_not_provisioned_on_all_volumes/-2013200383/",
+  "numericCode": 0,
+  "define": "WEP_E_NOT_PROVISIONED_ON_ALL_VOLUMES",
+  "defineUrl": "/win32/winerror-h/wep_e_not_provisioned_on_all_volumes/",
+  "message": "One or more fixed volumes are not provisioned with the 3rd party encryption providers to support device encryption. Enable encryption with the 3rd party provider to comply with policy.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x88010001",
+  "originalCodeUrl": "/win32/winerror-h/wep_e_not_provisioned_on_all_volumes/0x88010001/"
+}

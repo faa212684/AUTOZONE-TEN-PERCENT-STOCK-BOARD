@@ -1,0 +1,29 @@
+---
+output: win32\wsmerror-h\error_wsman_invalid_uri_wmi_enum_wql\0x803380fb\index.html.json
+
+title: 0x803380FB ERROR_WSMAN_INVALID_URI_WMI_ENUM_WQL in wsmerror.h
+description: The WinRM client cannot process the request. The resource URI for an enumeration operation with WQL filter must not contain keys and the class name must be '*' (star).
+Use the following command to get more information in how to construct a resource URI: "winrm help uris".
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x803380FB",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_invalid_uri_wmi_enum_wql/0x803380fb/",
+  "numericCode": -2144108293,
+  "define": "ERROR_WSMAN_INVALID_URI_WMI_ENUM_WQL",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_invalid_uri_wmi_enum_wql/",
+  "message": "The WinRM client cannot process the request. The resource URI for an enumeration operation with WQL filter must not contain keys and the class name must be '*' (star).\r\nUse the following command to get more information in how to construct a resource URI: \"winrm help uris\".",
+  "remarks": null,
+  "aka": [
+    "-2144108293"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_invalid_uri_wmi_enum_wql/-2144108293/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

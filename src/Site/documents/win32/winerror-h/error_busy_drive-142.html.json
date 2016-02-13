@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_busy_drive\142\index.html.json
+
+title: 142 ERROR_BUSY_DRIVE in winerror.h
+description: The system cannot perform a JOIN or SUBST at this time.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "142",
+  "codeUrl": "/win32/winerror-h/error_busy_drive/142/",
+  "numericCode": 142,
+  "define": "ERROR_BUSY_DRIVE",
+  "defineUrl": "/win32/winerror-h/error_busy_drive/",
+  "message": "The system cannot perform a JOIN or SUBST at this time.",
+  "remarks": null,
+  "aka": [
+    "0x8007008e",
+    "-2147024754"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_busy_drive/0x8007008e/",
+    "/win32/winerror-h/error_busy_drive/-2147024754/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

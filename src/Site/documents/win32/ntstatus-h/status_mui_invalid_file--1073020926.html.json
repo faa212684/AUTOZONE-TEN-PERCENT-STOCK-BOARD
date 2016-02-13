@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_mui_invalid_file\-1073020926\index.html.json
+canonical: /win32/ntstatus-h/status_mui_invalid_file/0xc00b0002/
+title: -1073020926 STATUS_MUI_INVALID_FILE in ntstatus.h
+description: The resource loader failed to load MUI file because the file fail to pass validation.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073020926",
+  "codeUrl": "/win32/ntstatus-h/status_mui_invalid_file/-1073020926/",
+  "numericCode": 0,
+  "define": "STATUS_MUI_INVALID_FILE",
+  "defineUrl": "/win32/ntstatus-h/status_mui_invalid_file/",
+  "message": "The resource loader failed to load MUI file because the file fail to pass validation.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC00B0002",
+  "originalCodeUrl": "/win32/ntstatus-h/status_mui_invalid_file/0xc00b0002/"
+}

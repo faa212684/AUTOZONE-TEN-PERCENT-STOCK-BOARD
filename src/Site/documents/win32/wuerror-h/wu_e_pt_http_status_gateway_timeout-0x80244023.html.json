@@ -1,0 +1,28 @@
+---
+output: win32\wuerror-h\wu_e_pt_http_status_gateway_timeout\0x80244023\index.html.json
+
+title: 0x80244023 WU_E_PT_HTTP_STATUS_GATEWAY_TIMEOUT in wuerror.h
+description: Same as HTTP status 503 - the request was timed out waiting for a gateway.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wuerror.h",
+  "sourceUrl": "/win32/wuerror-h/",
+  "code": "0x80244023",
+  "codeUrl": "/win32/wuerror-h/wu_e_pt_http_status_gateway_timeout/0x80244023/",
+  "numericCode": -2145107933,
+  "define": "WU_E_PT_HTTP_STATUS_GATEWAY_TIMEOUT",
+  "defineUrl": "/win32/wuerror-h/wu_e_pt_http_status_gateway_timeout/",
+  "message": "Same as HTTP status 503 - the request was timed out waiting for a gateway.",
+  "remarks": null,
+  "aka": [
+    "-2145107933"
+  ],
+  "akaUrl": [
+    "/win32/wuerror-h/wu_e_pt_http_status_gateway_timeout/-2145107933/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

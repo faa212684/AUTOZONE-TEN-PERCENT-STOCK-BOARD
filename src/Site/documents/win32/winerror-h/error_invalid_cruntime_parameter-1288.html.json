@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_invalid_cruntime_parameter\1288\index.html.json
+
+title: 1288 ERROR_INVALID_CRUNTIME_PARAMETER in winerror.h
+description: The parameter passed to a C runtime function is incorrect.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1288",
+  "codeUrl": "/win32/winerror-h/error_invalid_cruntime_parameter/1288/",
+  "numericCode": 1288,
+  "define": "ERROR_INVALID_CRUNTIME_PARAMETER",
+  "defineUrl": "/win32/winerror-h/error_invalid_cruntime_parameter/",
+  "message": "The parameter passed to a C runtime function is incorrect.",
+  "remarks": null,
+  "aka": [
+    "0x80070508",
+    "-2147023608"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_invalid_cruntime_parameter/0x80070508/",
+    "/win32/winerror-h/error_invalid_cruntime_parameter/-2147023608/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

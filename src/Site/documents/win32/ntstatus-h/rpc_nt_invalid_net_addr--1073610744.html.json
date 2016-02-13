@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\rpc_nt_invalid_net_addr\-1073610744\index.html.json
+canonical: /win32/ntstatus-h/rpc_nt_invalid_net_addr/0xc0020008/
+title: -1073610744 RPC_NT_INVALID_NET_ADDR in ntstatus.h
+description: The network address is invalid.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073610744",
+  "codeUrl": "/win32/ntstatus-h/rpc_nt_invalid_net_addr/-1073610744/",
+  "numericCode": 0,
+  "define": "RPC_NT_INVALID_NET_ADDR",
+  "defineUrl": "/win32/ntstatus-h/rpc_nt_invalid_net_addr/",
+  "message": "The network address is invalid.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0020008",
+  "originalCodeUrl": "/win32/ntstatus-h/rpc_nt_invalid_net_addr/0xc0020008/"
+}

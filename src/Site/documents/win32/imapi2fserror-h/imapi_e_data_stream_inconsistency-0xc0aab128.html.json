@@ -1,0 +1,28 @@
+---
+output: win32\imapi2fserror-h\imapi_e_data_stream_inconsistency\0xc0aab128\index.html.json
+
+title: 0xC0AAB128 IMAPI_E_DATA_STREAM_INCONSISTENCY in imapi2fserror.h
+description: Data stream supplied for file '%1!ls!' is inconsistent:  expected %2!I64d! bytes, found %3!I64d!.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "imapi2fserror.h",
+  "sourceUrl": "/win32/imapi2fserror-h/",
+  "code": "0xC0AAB128",
+  "codeUrl": "/win32/imapi2fserror-h/imapi_e_data_stream_inconsistency/0xc0aab128/",
+  "numericCode": -1062555352,
+  "define": "IMAPI_E_DATA_STREAM_INCONSISTENCY",
+  "defineUrl": "/win32/imapi2fserror-h/imapi_e_data_stream_inconsistency/",
+  "message": "Data stream supplied for file '%1!ls!' is inconsistent:  expected %2!I64d! bytes, found %3!I64d!.",
+  "remarks": null,
+  "aka": [
+    "-1062555352"
+  ],
+  "akaUrl": [
+    "/win32/imapi2fserror-h/imapi_e_data_stream_inconsistency/-1062555352/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\fve_e_no_tpm_bios\0x80310002\index.html.json
+
+title: 0x80310002 FVE_E_NO_TPM_BIOS in winerror.h
+description: The BIOS did not correctly communicate with the Trusted Platform Module (TPM). Contact the computer manufacturer for BIOS upgrade instructions.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80310002",
+  "codeUrl": "/win32/winerror-h/fve_e_no_tpm_bios/0x80310002/",
+  "numericCode": -2144272382,
+  "define": "FVE_E_NO_TPM_BIOS",
+  "defineUrl": "/win32/winerror-h/fve_e_no_tpm_bios/",
+  "message": "The BIOS did not correctly communicate with the Trusted Platform Module (TPM). Contact the computer manufacturer for BIOS upgrade instructions.",
+  "remarks": null,
+  "aka": [
+    "-2144272382"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/fve_e_no_tpm_bios/-2144272382/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

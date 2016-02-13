@@ -1,0 +1,29 @@
+---
+output: win32\cdosyserr-h\evtmailboxlocalizepartialfailure\0xc0032018\index.html.json
+
+title: 0xC0032018 evtMailboxLocalizePartialFailure in CDOSysErr.h
+description: The mailbox creation callback failed to rename one or more folders in mailbox %1.
+%n%nFor more information, click http:www.microsoft.com/contentredirect.asp.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "CDOSysErr.h",
+  "sourceUrl": "/win32/cdosyserr-h/",
+  "code": "0xC0032018",
+  "codeUrl": "/win32/cdosyserr-h/evtmailboxlocalizepartialfailure/0xc0032018/",
+  "numericCode": -1073537000,
+  "define": "evtMailboxLocalizePartialFailure",
+  "defineUrl": "/win32/cdosyserr-h/evtmailboxlocalizepartialfailure/",
+  "message": "The mailbox creation callback failed to rename one or more folders in mailbox %1.\r\n%n%nFor more information, click http:www.microsoft.com/contentredirect.asp.",
+  "remarks": null,
+  "aka": [
+    "-1073537000"
+  ],
+  "akaUrl": [
+    "/win32/cdosyserr-h/evtmailboxlocalizepartialfailure/-1073537000/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

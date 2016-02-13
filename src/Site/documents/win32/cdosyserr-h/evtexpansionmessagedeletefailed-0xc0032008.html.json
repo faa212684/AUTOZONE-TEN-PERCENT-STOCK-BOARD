@@ -1,0 +1,29 @@
+---
+output: win32\cdosyserr-h\evtexpansionmessagedeletefailed\0xc0032008\index.html.json
+
+title: 0xC0032008 evtExpansionMessageDeleteFailed in CDOSysErr.h
+description: Calendaring agent failed in message delete notification with error %1 on %2: %3.
+%n%nFor more information, click http:www.microsoft.com/contentredirect.asp.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "CDOSysErr.h",
+  "sourceUrl": "/win32/cdosyserr-h/",
+  "code": "0xC0032008",
+  "codeUrl": "/win32/cdosyserr-h/evtexpansionmessagedeletefailed/0xc0032008/",
+  "numericCode": -1073537016,
+  "define": "evtExpansionMessageDeleteFailed",
+  "defineUrl": "/win32/cdosyserr-h/evtexpansionmessagedeletefailed/",
+  "message": "Calendaring agent failed in message delete notification with error %1 on %2: %3.\r\n%n%nFor more information, click http:www.microsoft.com/contentredirect.asp.",
+  "remarks": null,
+  "aka": [
+    "-1073537016"
+  ],
+  "akaUrl": [
+    "/win32/cdosyserr-h/evtexpansionmessagedeletefailed/-1073537016/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

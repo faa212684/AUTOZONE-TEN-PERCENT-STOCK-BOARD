@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_invalid_kernel_info_version\0xc000a004\index.html.json
+
+title: 0xC000A004 STATUS_INVALID_KERNEL_INFO_VERSION in ntstatus.h
+description: The supplied kernel information version is invalid.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000A004",
+  "codeUrl": "/win32/ntstatus-h/status_invalid_kernel_info_version/0xc000a004/",
+  "numericCode": -1073700860,
+  "define": "STATUS_INVALID_KERNEL_INFO_VERSION",
+  "defineUrl": "/win32/ntstatus-h/status_invalid_kernel_info_version/",
+  "message": "The supplied kernel information version is invalid.",
+  "remarks": null,
+  "aka": [
+    "-1073700860"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_invalid_kernel_info_version/-1073700860/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

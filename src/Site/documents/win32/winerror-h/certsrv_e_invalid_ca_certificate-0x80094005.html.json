@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\certsrv_e_invalid_ca_certificate\0x80094005\index.html.json
+
+title: 0x80094005 CERTSRV_E_INVALID_CA_CERTIFICATE in winerror.h
+description: The certification authority's certificate contains invalid data.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80094005",
+  "codeUrl": "/win32/winerror-h/certsrv_e_invalid_ca_certificate/0x80094005/",
+  "numericCode": -2146877435,
+  "define": "CERTSRV_E_INVALID_CA_CERTIFICATE",
+  "defineUrl": "/win32/winerror-h/certsrv_e_invalid_ca_certificate/",
+  "message": "The certification authority's certificate contains invalid data.",
+  "remarks": null,
+  "aka": [
+    "-2146877435"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/certsrv_e_invalid_ca_certificate/-2146877435/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

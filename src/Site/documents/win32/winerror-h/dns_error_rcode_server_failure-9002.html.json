@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\dns_error_rcode_server_failure\9002\index.html.json
+
+title: 9002 DNS_ERROR_RCODE_SERVER_FAILURE in winerror.h
+description: DNS server failure.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "9002",
+  "codeUrl": "/win32/winerror-h/dns_error_rcode_server_failure/9002/",
+  "numericCode": 9002,
+  "define": "DNS_ERROR_RCODE_SERVER_FAILURE",
+  "defineUrl": "/win32/winerror-h/dns_error_rcode_server_failure/",
+  "message": "DNS server failure.",
+  "remarks": null,
+  "aka": [
+    "0x8007232a",
+    "-2147015894"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/dns_error_rcode_server_failure/0x8007232a/",
+    "/win32/winerror-h/dns_error_rcode_server_failure/-2147015894/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

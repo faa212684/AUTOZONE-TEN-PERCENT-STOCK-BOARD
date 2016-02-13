@@ -1,0 +1,25 @@
+---
+output: win32\vdserr-h\vds_s_provider_error_loading_cache\271393\index.html.json
+canonical: /win32/vdserr-h/vds_s_provider_error_loading_cache/0x00042421/
+title: 271393 VDS_S_PROVIDER_ERROR_LOADING_CACHE in vdserr.h
+description: The provider encountered errors while loading the cache. 
+See the NT Event Log for more information.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "271393",
+  "codeUrl": "/win32/vdserr-h/vds_s_provider_error_loading_cache/271393/",
+  "numericCode": 0,
+  "define": "VDS_S_PROVIDER_ERROR_LOADING_CACHE",
+  "defineUrl": "/win32/vdserr-h/vds_s_provider_error_loading_cache/",
+  "message": "The provider encountered errors while loading the cache. \r\nSee the NT Event Log for more information.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x00042421",
+  "originalCodeUrl": "/win32/vdserr-h/vds_s_provider_error_loading_cache/0x00042421/"
+}

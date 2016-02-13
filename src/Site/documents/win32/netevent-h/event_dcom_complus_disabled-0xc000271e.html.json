@@ -1,0 +1,30 @@
+---
+output: win32\netevent-h\event_dcom_complus_disabled\0xc000271e\index.html.json
+
+title: 0xC000271E EVENT_DCOM_COMPLUS_DISABLED in netevent.h
+description: The activation for CLSID %1 failed because remote activations for COM+ are disabled.
+To enable this functionality use the Configure Your Server wizard and select the Web
+Application Server role.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC000271E",
+  "codeUrl": "/win32/netevent-h/event_dcom_complus_disabled/0xc000271e/",
+  "numericCode": -1073731810,
+  "define": "EVENT_DCOM_COMPLUS_DISABLED",
+  "defineUrl": "/win32/netevent-h/event_dcom_complus_disabled/",
+  "message": "The activation for CLSID %1 failed because remote activations for COM+ are disabled.\r\nTo enable this functionality use the Configure Your Server wizard and select the Web\r\nApplication Server role.",
+  "remarks": null,
+  "aka": [
+    "-1073731810"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_dcom_complus_disabled/-1073731810/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

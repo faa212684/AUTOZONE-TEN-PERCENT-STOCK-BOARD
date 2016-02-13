@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_unable_to_clean\4311\index.html.json
+
+title: 4311 ERROR_UNABLE_TO_CLEAN in winerror.h
+description: The drive cannot be cleaned or does not support cleaning.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "4311",
+  "codeUrl": "/win32/winerror-h/error_unable_to_clean/4311/",
+  "numericCode": 4311,
+  "define": "ERROR_UNABLE_TO_CLEAN",
+  "defineUrl": "/win32/winerror-h/error_unable_to_clean/",
+  "message": "The drive cannot be cleaned or does not support cleaning.",
+  "remarks": null,
+  "aka": [
+    "0x800710d7",
+    "-2147020585"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_unable_to_clean/0x800710d7/",
+    "/win32/winerror-h/error_unable_to_clean/-2147020585/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

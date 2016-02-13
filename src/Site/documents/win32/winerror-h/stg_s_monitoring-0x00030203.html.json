@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\stg_s_monitoring\0x00030203\index.html.json
+
+title: 0x00030203 STG_S_MONITORING in winerror.h
+description: The notified event sink will not influence the storage operation.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x00030203",
+  "codeUrl": "/win32/winerror-h/stg_s_monitoring/0x00030203/",
+  "numericCode": 197123,
+  "define": "STG_S_MONITORING",
+  "defineUrl": "/win32/winerror-h/stg_s_monitoring/",
+  "message": "The notified event sink will not influence the storage operation.",
+  "remarks": null,
+  "aka": [
+    "197123"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/stg_s_monitoring/197123/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

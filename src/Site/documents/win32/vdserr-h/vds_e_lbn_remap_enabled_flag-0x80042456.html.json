@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_e_lbn_remap_enabled_flag\0x80042456\index.html.json
+
+title: 0x80042456 VDS_E_LBN_REMAP_ENABLED_FLAG in vdserr.h
+description: The provider does not support the LBN REMAP ENABLED volume flag.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x80042456",
+  "codeUrl": "/win32/vdserr-h/vds_e_lbn_remap_enabled_flag/0x80042456/",
+  "numericCode": -2147212202,
+  "define": "VDS_E_LBN_REMAP_ENABLED_FLAG",
+  "defineUrl": "/win32/vdserr-h/vds_e_lbn_remap_enabled_flag/",
+  "message": "The provider does not support the LBN REMAP ENABLED volume flag.",
+  "remarks": null,
+  "aka": [
+    "-2147212202"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_lbn_remap_enabled_flag/-2147212202/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,29 @@
+---
+output: win32\ntstatus-h\status_remote_disconnect\0xc000013c\index.html.json
+
+title: 0xC000013C STATUS_REMOTE_DISCONNECT in ntstatus.h
+description: "{Virtual Circuit Closed}
+The network transport on a remote computer has closed a network connection. There may or may not be I/O requests outstanding."
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000013C",
+  "codeUrl": "/win32/ntstatus-h/status_remote_disconnect/0xc000013c/",
+  "numericCode": -1073741508,
+  "define": "STATUS_REMOTE_DISCONNECT",
+  "defineUrl": "/win32/ntstatus-h/status_remote_disconnect/",
+  "message": "{Virtual Circuit Closed}\r\nThe network transport on a remote computer has closed a network connection. There may or may not be I/O requests outstanding.",
+  "remarks": null,
+  "aka": [
+    "-1073741508"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_remote_disconnect/-1073741508/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

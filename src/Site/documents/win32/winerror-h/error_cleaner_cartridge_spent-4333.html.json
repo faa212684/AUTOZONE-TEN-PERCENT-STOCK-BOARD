@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_cleaner_cartridge_spent\4333\index.html.json
+
+title: 4333 ERROR_CLEANER_CARTRIDGE_SPENT in winerror.h
+description: The cleaner cartridge has performed the maximum number of drive cleanings.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "4333",
+  "codeUrl": "/win32/winerror-h/error_cleaner_cartridge_spent/4333/",
+  "numericCode": 4333,
+  "define": "ERROR_CLEANER_CARTRIDGE_SPENT",
+  "defineUrl": "/win32/winerror-h/error_cleaner_cartridge_spent/",
+  "message": "The cleaner cartridge has performed the maximum number of drive cleanings.",
+  "remarks": null,
+  "aka": [
+    "0x800710ed",
+    "-2147020563"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_cleaner_cartridge_spent/0x800710ed/",
+    "/win32/winerror-h/error_cleaner_cartridge_spent/-2147020563/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

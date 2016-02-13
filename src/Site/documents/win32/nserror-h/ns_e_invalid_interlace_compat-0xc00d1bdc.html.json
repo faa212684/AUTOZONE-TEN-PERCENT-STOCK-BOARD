@@ -1,0 +1,28 @@
+---
+output: win32\nserror-h\ns_e_invalid_interlace_compat\0xc00d1bdc\index.html.json
+
+title: 0xC00D1BDC NS_E_INVALID_INTERLACE_COMPAT in nserror.h
+description: Maintaining interlacing in video is not compatible with Windows Media Player 7.1.%0
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "nserror.h",
+  "sourceUrl": "/win32/nserror-h/",
+  "code": "0xC00D1BDC",
+  "codeUrl": "/win32/nserror-h/ns_e_invalid_interlace_compat/0xc00d1bdc/",
+  "numericCode": -1072882724,
+  "define": "NS_E_INVALID_INTERLACE_COMPAT",
+  "defineUrl": "/win32/nserror-h/ns_e_invalid_interlace_compat/",
+  "message": "Maintaining interlacing in video is not compatible with Windows Media Player 7.1.%0",
+  "remarks": null,
+  "aka": [
+    "-1072882724"
+  ],
+  "akaUrl": [
+    "/win32/nserror-h/ns_e_invalid_interlace_compat/-1072882724/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

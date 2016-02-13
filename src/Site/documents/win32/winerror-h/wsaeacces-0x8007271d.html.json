@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\wsaeacces\0x8007271d\index.html.json
+canonical: /win32/winerror-h/wsaeacces/10013/
+title: 0x8007271d WSAEACCES in winerror.h
+description: An attempt was made to access a socket in a way forbidden by its access permissions.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007271d",
+  "codeUrl": "/win32/winerror-h/wsaeacces/0x8007271d/",
+  "numericCode": 0,
+  "define": "WSAEACCES",
+  "defineUrl": "/win32/winerror-h/wsaeacces/",
+  "message": "An attempt was made to access a socket in a way forbidden by its access permissions.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "10013",
+  "originalCodeUrl": "/win32/winerror-h/wsaeacces/10013/"
+}

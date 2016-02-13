@@ -1,0 +1,24 @@
+---
+output: msi\1607\index.html.json
+
+title: msi 1607
+description: The following applications should be closed before continuing the install:
+disqus: true
+---
+{
+  "area": "msi",
+  "areaUrl": "/msi/",
+  "source": null,
+  "sourceUrl": "/msi/",
+  "code": "1607",
+  "codeUrl": "/msi/1607/",
+  "numericCode": 1607,
+  "define": null,
+  "defineUrl": "/msi/",
+  "message": "The following applications should be closed before continuing the install:",
+  "remarks": "A system restart may be required because a file that is being updated is also currently in use. Users may be given the opportunity to avoid some system restarts by selecting to close some applications. For more information, see <a href=\"https://msdn.microsoft.com/en-us/library/aa372059(v=vs.85).aspx\">System Reboots</a>.",
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": null,
+  "originalCodeUrl": null
+}

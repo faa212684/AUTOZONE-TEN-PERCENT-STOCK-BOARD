@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_nbt_no_devices\0x800010d8\index.html.json
+
+title: 0x800010D8 EVENT_NBT_NO_DEVICES in netevent.h
+description: There are no network adapters configured for this protocol stack.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x800010D8",
+  "codeUrl": "/win32/netevent-h/event_nbt_no_devices/0x800010d8/",
+  "numericCode": -2147479336,
+  "define": "EVENT_NBT_NO_DEVICES",
+  "defineUrl": "/win32/netevent-h/event_nbt_no_devices/",
+  "message": "There are no network adapters configured for this protocol stack.",
+  "remarks": null,
+  "aka": [
+    "-2147479336"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_nbt_no_devices/-2147479336/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

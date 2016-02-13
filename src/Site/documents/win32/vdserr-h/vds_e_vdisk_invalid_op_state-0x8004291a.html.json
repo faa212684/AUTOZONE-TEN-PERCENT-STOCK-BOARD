@@ -1,0 +1,29 @@
+---
+output: win32\vdserr-h\vds_e_vdisk_invalid_op_state\0x8004291a\index.html.json
+
+title: 0x8004291A VDS_E_VDISK_INVALID_OP_STATE in vdserr.h
+description: The requested operation cannot be performed on the virtual disk 
+object, because it is not in a state that permits it.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x8004291A",
+  "codeUrl": "/win32/vdserr-h/vds_e_vdisk_invalid_op_state/0x8004291a/",
+  "numericCode": -2147210982,
+  "define": "VDS_E_VDISK_INVALID_OP_STATE",
+  "defineUrl": "/win32/vdserr-h/vds_e_vdisk_invalid_op_state/",
+  "message": "The requested operation cannot be performed on the virtual disk \r\nobject, because it is not in a state that permits it.",
+  "remarks": null,
+  "aka": [
+    "-2147210982"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_vdisk_invalid_op_state/-2147210982/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\xact_e_cantretain\0x8004d001\index.html.json
+
+title: 0x8004D001 XACT_E_CANTRETAIN in winerror.h
+description: A retaining commit or abort is not supported
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8004D001",
+  "codeUrl": "/win32/winerror-h/xact_e_cantretain/0x8004d001/",
+  "numericCode": -2147168255,
+  "define": "XACT_E_CANTRETAIN",
+  "defineUrl": "/win32/winerror-h/xact_e_cantretain/",
+  "message": "A retaining commit or abort is not supported",
+  "remarks": null,
+  "aka": [
+    "-2147168255"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/xact_e_cantretain/-2147168255/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

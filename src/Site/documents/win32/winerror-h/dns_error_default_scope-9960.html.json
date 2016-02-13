@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\dns_error_default_scope\9960\index.html.json
+
+title: 9960 DNS_ERROR_DEFAULT_SCOPE in winerror.h
+description: The scope is the same as the default scope.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "9960",
+  "codeUrl": "/win32/winerror-h/dns_error_default_scope/9960/",
+  "numericCode": 9960,
+  "define": "DNS_ERROR_DEFAULT_SCOPE",
+  "defineUrl": "/win32/winerror-h/dns_error_default_scope/",
+  "message": "The scope is the same as the default scope.",
+  "remarks": null,
+  "aka": [
+    "0x800726e8",
+    "-2147014936"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/dns_error_default_scope/0x800726e8/",
+    "/win32/winerror-h/dns_error_default_scope/-2147014936/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

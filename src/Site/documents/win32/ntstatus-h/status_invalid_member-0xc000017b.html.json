@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_invalid_member\0xc000017b\index.html.json
+
+title: 0xC000017B STATUS_INVALID_MEMBER in ntstatus.h
+description: A new member could not be added to a local group because the member has the wrong account type.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000017B",
+  "codeUrl": "/win32/ntstatus-h/status_invalid_member/0xc000017b/",
+  "numericCode": -1073741445,
+  "define": "STATUS_INVALID_MEMBER",
+  "defineUrl": "/win32/ntstatus-h/status_invalid_member/",
+  "message": "A new member could not be added to a local group because the member has the wrong account type.",
+  "remarks": null,
+  "aka": [
+    "-1073741445"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_invalid_member/-1073741445/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

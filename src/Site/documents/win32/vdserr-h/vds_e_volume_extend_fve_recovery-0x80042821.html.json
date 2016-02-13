@@ -1,0 +1,29 @@
+---
+output: win32\vdserr-h\vds_e_volume_extend_fve_recovery\0x80042821\index.html.json
+
+title: 0x80042821 VDS_E_VOLUME_EXTEND_FVE_RECOVERY in vdserr.h
+description: The volume could not be extended because it is marked for BitLocker 
+recovery. Use BitLocker tools to recover the volume and retry the operation.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x80042821",
+  "codeUrl": "/win32/vdserr-h/vds_e_volume_extend_fve_recovery/0x80042821/",
+  "numericCode": -2147211231,
+  "define": "VDS_E_VOLUME_EXTEND_FVE_RECOVERY",
+  "defineUrl": "/win32/vdserr-h/vds_e_volume_extend_fve_recovery/",
+  "message": "The volume could not be extended because it is marked for BitLocker \r\nrecovery. Use BitLocker tools to recover the volume and retry the operation.",
+  "remarks": null,
+  "aka": [
+    "-2147211231"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_volume_extend_fve_recovery/-2147211231/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

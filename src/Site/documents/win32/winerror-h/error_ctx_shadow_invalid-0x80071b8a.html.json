@@ -1,0 +1,25 @@
+---
+output: win32\winerror-h\error_ctx_shadow_invalid\0x80071b8a\index.html.json
+canonical: /win32/winerror-h/error_ctx_shadow_invalid/7050/
+title: 0x80071b8a ERROR_CTX_SHADOW_INVALID in winerror.h
+description: The requested session cannot be controlled remotely.
+This may be because the session is disconnected or does not currently have a user logged on.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80071b8a",
+  "codeUrl": "/win32/winerror-h/error_ctx_shadow_invalid/0x80071b8a/",
+  "numericCode": 0,
+  "define": "ERROR_CTX_SHADOW_INVALID",
+  "defineUrl": "/win32/winerror-h/error_ctx_shadow_invalid/",
+  "message": "The requested session cannot be controlled remotely.\r\nThis may be because the session is disconnected or does not currently have a user logged on.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "7050",
+  "originalCodeUrl": "/win32/winerror-h/error_ctx_shadow_invalid/7050/"
+}

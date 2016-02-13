@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\fve_e_invalid_pin_chars\0x8031009a\index.html.json
+
+title: 0x8031009A FVE_E_INVALID_PIN_CHARS in winerror.h
+description: The requested TPM PIN contains invalid characters.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8031009A",
+  "codeUrl": "/win32/winerror-h/fve_e_invalid_pin_chars/0x8031009a/",
+  "numericCode": -2144272230,
+  "define": "FVE_E_INVALID_PIN_CHARS",
+  "defineUrl": "/win32/winerror-h/fve_e_invalid_pin_chars/",
+  "message": "The requested TPM PIN contains invalid characters.",
+  "remarks": null,
+  "aka": [
+    "-2144272230"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/fve_e_invalid_pin_chars/-2144272230/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

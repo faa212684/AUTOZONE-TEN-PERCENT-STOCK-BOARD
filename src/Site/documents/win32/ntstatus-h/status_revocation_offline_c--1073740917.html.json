@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_revocation_offline_c\-1073740917\index.html.json
+canonical: /win32/ntstatus-h/status_revocation_offline_c/0xc000038b/
+title: -1073740917 STATUS_REVOCATION_OFFLINE_C in ntstatus.h
+description: The revocation status of the smartcard certificate used for authentication could not be determined. Please contact your system administrator.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073740917",
+  "codeUrl": "/win32/ntstatus-h/status_revocation_offline_c/-1073740917/",
+  "numericCode": 0,
+  "define": "STATUS_REVOCATION_OFFLINE_C",
+  "defineUrl": "/win32/ntstatus-h/status_revocation_offline_c/",
+  "message": "The revocation status of the smartcard certificate used for authentication could not be determined. Please contact your system administrator.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC000038B",
+  "originalCodeUrl": "/win32/ntstatus-h/status_revocation_offline_c/0xc000038b/"
+}

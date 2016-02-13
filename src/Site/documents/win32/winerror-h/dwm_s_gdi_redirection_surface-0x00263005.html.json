@@ -1,0 +1,29 @@
+---
+output: win32\winerror-h\dwm_s_gdi_redirection_surface\0x00263005\index.html.json
+
+title: 0x00263005 DWM_S_GDI_REDIRECTION_SURFACE in winerror.h
+description: "{GDI redirection surface was returned}
+GDI redirection surface of the top level window was returned."
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x00263005",
+  "codeUrl": "/win32/winerror-h/dwm_s_gdi_redirection_surface/0x00263005/",
+  "numericCode": 2502661,
+  "define": "DWM_S_GDI_REDIRECTION_SURFACE",
+  "defineUrl": "/win32/winerror-h/dwm_s_gdi_redirection_surface/",
+  "message": "{GDI redirection surface was returned}\r\nGDI redirection surface of the top level window was returned.",
+  "remarks": null,
+  "aka": [
+    "2502661"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/dwm_s_gdi_redirection_surface/2502661/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

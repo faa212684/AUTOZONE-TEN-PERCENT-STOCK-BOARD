@@ -1,0 +1,28 @@
+---
+output: win32\windowssearcherrors-h\sec_e_invalidcontext\0x80041403\index.html.json
+
+title: 0x80041403 SEC_E_INVALIDCONTEXT in WindowsSearchErrors.h
+description: The search service is running as a local System service. To access Exchange documents, check that the search service is running in a user account with administrative privileges on the Exchange server.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "0x80041403",
+  "codeUrl": "/win32/windowssearcherrors-h/sec_e_invalidcontext/0x80041403/",
+  "numericCode": -2147216381,
+  "define": "SEC_E_INVALIDCONTEXT",
+  "defineUrl": "/win32/windowssearcherrors-h/sec_e_invalidcontext/",
+  "message": "The search service is running as a local System service. To access Exchange documents, check that the search service is running in a user account with administrative privileges on the Exchange server.",
+  "remarks": null,
+  "aka": [
+    "-2147216381"
+  ],
+  "akaUrl": [
+    "/win32/windowssearcherrors-h/sec_e_invalidcontext/-2147216381/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

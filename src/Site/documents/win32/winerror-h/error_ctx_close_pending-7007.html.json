@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ctx_close_pending\7007\index.html.json
+
+title: 7007 ERROR_CTX_CLOSE_PENDING in winerror.h
+description: A close operation is pending on the session.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "7007",
+  "codeUrl": "/win32/winerror-h/error_ctx_close_pending/7007/",
+  "numericCode": 7007,
+  "define": "ERROR_CTX_CLOSE_PENDING",
+  "defineUrl": "/win32/winerror-h/error_ctx_close_pending/",
+  "message": "A close operation is pending on the session.",
+  "remarks": null,
+  "aka": [
+    "0x80071b5f",
+    "-2147017889"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ctx_close_pending/0x80071b5f/",
+    "/win32/winerror-h/error_ctx_close_pending/-2147017889/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

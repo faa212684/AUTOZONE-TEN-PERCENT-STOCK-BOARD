@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_stack_overflow\-1073741571\index.html.json
+canonical: /win32/ntstatus-h/status_stack_overflow/0xc00000fd/
+title: -1073741571 STATUS_STACK_OVERFLOW in ntstatus.h
+description: A new guard page for the stack cannot be created.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741571",
+  "codeUrl": "/win32/ntstatus-h/status_stack_overflow/-1073741571/",
+  "numericCode": 0,
+  "define": "STATUS_STACK_OVERFLOW",
+  "defineUrl": "/win32/ntstatus-h/status_stack_overflow/",
+  "message": "A new guard page for the stack cannot be created.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC00000FD",
+  "originalCodeUrl": "/win32/ntstatus-h/status_stack_overflow/0xc00000fd/"
+}

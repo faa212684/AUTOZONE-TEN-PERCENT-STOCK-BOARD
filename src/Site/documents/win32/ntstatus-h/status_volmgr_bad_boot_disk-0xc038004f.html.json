@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_volmgr_bad_boot_disk\0xc038004f\index.html.json
+
+title: 0xC038004F STATUS_VOLMGR_BAD_BOOT_DISK in ntstatus.h
+description: The boot disk experienced failures.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC038004F",
+  "codeUrl": "/win32/ntstatus-h/status_volmgr_bad_boot_disk/0xc038004f/",
+  "numericCode": -1070071729,
+  "define": "STATUS_VOLMGR_BAD_BOOT_DISK",
+  "defineUrl": "/win32/ntstatus-h/status_volmgr_bad_boot_disk/",
+  "message": "The boot disk experienced failures.",
+  "remarks": null,
+  "aka": [
+    "-1070071729"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_volmgr_bad_boot_disk/-1070071729/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

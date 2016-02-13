@@ -1,0 +1,28 @@
+---
+output: bugcheck\bugcodes-h\nmi_hardware_failure\0x00000080\index.html.json
+
+title: 0x00000080 NMI_HARDWARE_FAILURE in bugcodes.h
+description: NMI_HARDWARE_FAILURE
+disqus: true
+---
+{
+  "area": "bugcheck",
+  "areaUrl": "/bugcheck/",
+  "source": "bugcodes.h",
+  "sourceUrl": "/bugcheck/bugcodes-h/",
+  "code": "0x00000080",
+  "codeUrl": "/bugcheck/bugcodes-h/nmi_hardware_failure/0x00000080/",
+  "numericCode": 128,
+  "define": "NMI_HARDWARE_FAILURE",
+  "defineUrl": "/bugcheck/bugcodes-h/nmi_hardware_failure/",
+  "message": "NMI_HARDWARE_FAILURE",
+  "remarks": null,
+  "aka": [
+    "128"
+  ],
+  "akaUrl": [
+    "/bugcheck/bugcodes-h/nmi_hardware_failure/128/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

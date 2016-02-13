@@ -1,0 +1,29 @@
+---
+output: win32\fsrmerr-h\fsrm_e_sync_task_had_errors\0x80045389\index.html.json
+
+title: 0x80045389 FSRM_E_SYNC_TASK_HAD_ERRORS in fsrmerr.h
+description: The property definition sync task encountered errors.
+Check the application event log for more information.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "fsrmerr.h",
+  "sourceUrl": "/win32/fsrmerr-h/",
+  "code": "0x80045389",
+  "codeUrl": "/win32/fsrmerr-h/fsrm_e_sync_task_had_errors/0x80045389/",
+  "numericCode": -2147200119,
+  "define": "FSRM_E_SYNC_TASK_HAD_ERRORS",
+  "defineUrl": "/win32/fsrmerr-h/fsrm_e_sync_task_had_errors/",
+  "message": "The property definition sync task encountered errors.\r\nCheck the application event log for more information.",
+  "remarks": null,
+  "aka": [
+    "-2147200119"
+  ],
+  "akaUrl": [
+    "/win32/fsrmerr-h/fsrm_e_sync_task_had_errors/-2147200119/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

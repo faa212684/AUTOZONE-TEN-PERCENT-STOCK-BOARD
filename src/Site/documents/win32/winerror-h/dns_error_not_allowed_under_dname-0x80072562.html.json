@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\dns_error_not_allowed_under_dname\0x80072562\index.html.json
+canonical: /win32/winerror-h/dns_error_not_allowed_under_dname/9570/
+title: 0x80072562 DNS_ERROR_NOT_ALLOWED_UNDER_DNAME in winerror.h
+description: No data is allowed to exist underneath a DNAME record.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80072562",
+  "codeUrl": "/win32/winerror-h/dns_error_not_allowed_under_dname/0x80072562/",
+  "numericCode": 0,
+  "define": "DNS_ERROR_NOT_ALLOWED_UNDER_DNAME",
+  "defineUrl": "/win32/winerror-h/dns_error_not_allowed_under_dname/",
+  "message": "No data is allowed to exist underneath a DNAME record.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "9570",
+  "originalCodeUrl": "/win32/winerror-h/dns_error_not_allowed_under_dname/9570/"
+}

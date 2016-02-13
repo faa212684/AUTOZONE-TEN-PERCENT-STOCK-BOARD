@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_print_job_restart_required\-2147021876\index.html.json
+canonical: /win32/winerror-h/error_print_job_restart_required/3020/
+title: -2147021876 ERROR_PRINT_JOB_RESTART_REQUIRED in winerror.h
+description: The requested print job has failed to print. A print system update requires the job to be resubmitted.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147021876",
+  "codeUrl": "/win32/winerror-h/error_print_job_restart_required/-2147021876/",
+  "numericCode": 0,
+  "define": "ERROR_PRINT_JOB_RESTART_REQUIRED",
+  "defineUrl": "/win32/winerror-h/error_print_job_restart_required/",
+  "message": "The requested print job has failed to print. A print system update requires the job to be resubmitted.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "3020",
+  "originalCodeUrl": "/win32/winerror-h/error_print_job_restart_required/3020/"
+}

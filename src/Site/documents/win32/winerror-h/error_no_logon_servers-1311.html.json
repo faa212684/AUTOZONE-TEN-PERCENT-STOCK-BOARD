@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_no_logon_servers\1311\index.html.json
+
+title: 1311 ERROR_NO_LOGON_SERVERS in winerror.h
+description: There are currently no logon servers available to service the logon request.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1311",
+  "codeUrl": "/win32/winerror-h/error_no_logon_servers/1311/",
+  "numericCode": 1311,
+  "define": "ERROR_NO_LOGON_SERVERS",
+  "defineUrl": "/win32/winerror-h/error_no_logon_servers/",
+  "message": "There are currently no logon servers available to service the logon request.",
+  "remarks": null,
+  "aka": [
+    "0x8007051f",
+    "-2147023585"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_no_logon_servers/0x8007051f/",
+    "/win32/winerror-h/error_no_logon_servers/-2147023585/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

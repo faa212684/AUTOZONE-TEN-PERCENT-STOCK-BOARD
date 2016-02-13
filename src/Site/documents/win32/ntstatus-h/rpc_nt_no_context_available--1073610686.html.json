@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\rpc_nt_no_context_available\-1073610686\index.html.json
+canonical: /win32/ntstatus-h/rpc_nt_no_context_available/0xc0020042/
+title: -1073610686 RPC_NT_NO_CONTEXT_AVAILABLE in ntstatus.h
+description: No security context is available to allow impersonation.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073610686",
+  "codeUrl": "/win32/ntstatus-h/rpc_nt_no_context_available/-1073610686/",
+  "numericCode": 0,
+  "define": "RPC_NT_NO_CONTEXT_AVAILABLE",
+  "defineUrl": "/win32/ntstatus-h/rpc_nt_no_context_available/",
+  "message": "No security context is available to allow impersonation.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0020042",
+  "originalCodeUrl": "/win32/ntstatus-h/rpc_nt_no_context_available/0xc0020042/"
+}

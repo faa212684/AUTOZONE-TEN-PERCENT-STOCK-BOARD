@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_non_account_sid\0x800704e9\index.html.json
+canonical: /win32/winerror-h/error_non_account_sid/1257/
+title: 0x800704e9 ERROR_NON_ACCOUNT_SID in winerror.h
+description: The security identifier provided is not from an account domain.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800704e9",
+  "codeUrl": "/win32/winerror-h/error_non_account_sid/0x800704e9/",
+  "numericCode": 0,
+  "define": "ERROR_NON_ACCOUNT_SID",
+  "defineUrl": "/win32/winerror-h/error_non_account_sid/",
+  "message": "The security identifier provided is not from an account domain.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "1257",
+  "originalCodeUrl": "/win32/winerror-h/error_non_account_sid/1257/"
+}

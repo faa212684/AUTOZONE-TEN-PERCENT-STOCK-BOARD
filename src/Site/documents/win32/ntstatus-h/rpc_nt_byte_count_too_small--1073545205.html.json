@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\rpc_nt_byte_count_too_small\-1073545205\index.html.json
+canonical: /win32/ntstatus-h/rpc_nt_byte_count_too_small/0xc003000b/
+title: -1073545205 RPC_NT_BYTE_COUNT_TOO_SMALL in ntstatus.h
+description: The byte count is too small.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073545205",
+  "codeUrl": "/win32/ntstatus-h/rpc_nt_byte_count_too_small/-1073545205/",
+  "numericCode": 0,
+  "define": "RPC_NT_BYTE_COUNT_TOO_SMALL",
+  "defineUrl": "/win32/ntstatus-h/rpc_nt_byte_count_too_small/",
+  "message": "The byte count is too small.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC003000B",
+  "originalCodeUrl": "/win32/ntstatus-h/rpc_nt_byte_count_too_small/0xc003000b/"
+}

@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_access_denied\5\index.html.json
+
+title: 5 ERROR_ACCESS_DENIED in winerror.h
+description: Access is denied.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "5",
+  "codeUrl": "/win32/winerror-h/error_access_denied/5/",
+  "numericCode": 5,
+  "define": "ERROR_ACCESS_DENIED",
+  "defineUrl": "/win32/winerror-h/error_access_denied/",
+  "message": "Access is denied.",
+  "remarks": null,
+  "aka": [
+    "0x80070005",
+    "-2147024891"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_access_denied/0x80070005/",
+    "/win32/winerror-h/error_access_denied/-2147024891/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

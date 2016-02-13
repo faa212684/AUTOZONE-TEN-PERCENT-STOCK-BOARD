@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\fve_e_tpm_invalid_pcr\-2144272319\index.html.json
+canonical: /win32/winerror-h/fve_e_tpm_invalid_pcr/0x80310041/
+title: -2144272319 FVE_E_TPM_INVALID_PCR in winerror.h
+description: The Trusted Platform Module (TPM) was unable to unlock the drive. Either the system boot information changed after choosing BitLocker settings or the PIN did not match. If the problem persists after several tries, there may be a hardware or firmware problem.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2144272319",
+  "codeUrl": "/win32/winerror-h/fve_e_tpm_invalid_pcr/-2144272319/",
+  "numericCode": 0,
+  "define": "FVE_E_TPM_INVALID_PCR",
+  "defineUrl": "/win32/winerror-h/fve_e_tpm_invalid_pcr/",
+  "message": "The Trusted Platform Module (TPM) was unable to unlock the drive. Either the system boot information changed after choosing BitLocker settings or the PIN did not match. If the problem persists after several tries, there may be a hardware or firmware problem.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80310041",
+  "originalCodeUrl": "/win32/winerror-h/fve_e_tpm_invalid_pcr/0x80310041/"
+}

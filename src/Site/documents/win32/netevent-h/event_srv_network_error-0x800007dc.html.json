@@ -1,0 +1,31 @@
+---
+output: win32\netevent-h\event_srv_network_error\0x800007dc\index.html.json
+
+title: 0x800007DC EVENT_SRV_NETWORK_ERROR in netevent.h
+description: While transmitting or receiving data, the server encountered a network error.
+Occasional errors are expected, but large amounts of these indicate a possible
+error in your network configuration.  The error status code is contained within
+the returned data (formatted as Words) and may point you towards the problem.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x800007DC",
+  "codeUrl": "/win32/netevent-h/event_srv_network_error/0x800007dc/",
+  "numericCode": -2147481636,
+  "define": "EVENT_SRV_NETWORK_ERROR",
+  "defineUrl": "/win32/netevent-h/event_srv_network_error/",
+  "message": "While transmitting or receiving data, the server encountered a network error.\r\nOccasional errors are expected, but large amounts of these indicate a possible\r\nerror in your network configuration.  The error status code is contained within\r\nthe returned data (formatted as Words) and may point you towards the problem.",
+  "remarks": null,
+  "aka": [
+    "-2147481636"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_srv_network_error/-2147481636/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

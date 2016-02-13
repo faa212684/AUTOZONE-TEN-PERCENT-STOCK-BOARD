@@ -1,0 +1,28 @@
+---
+output: win32\wuerror-h\wu_e_setup_blocked_configuration\0x8024d00b\index.html.json
+
+title: 0x8024D00B WU_E_SETUP_BLOCKED_CONFIGURATION in wuerror.h
+description: Windows Update Agent could not be updated because the system is configured to block the update.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wuerror.h",
+  "sourceUrl": "/win32/wuerror-h/",
+  "code": "0x8024D00B",
+  "codeUrl": "/win32/wuerror-h/wu_e_setup_blocked_configuration/0x8024d00b/",
+  "numericCode": -2145071093,
+  "define": "WU_E_SETUP_BLOCKED_CONFIGURATION",
+  "defineUrl": "/win32/wuerror-h/wu_e_setup_blocked_configuration/",
+  "message": "Windows Update Agent could not be updated because the system is configured to block the update.",
+  "remarks": null,
+  "aka": [
+    "-2145071093"
+  ],
+  "akaUrl": [
+    "/win32/wuerror-h/wu_e_setup_blocked_configuration/-2145071093/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

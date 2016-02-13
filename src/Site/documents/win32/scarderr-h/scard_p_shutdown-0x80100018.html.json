@@ -1,0 +1,28 @@
+---
+output: win32\scarderr-h\scard_p_shutdown\0x80100018\index.html.json
+
+title: 0x80100018 SCARD_P_SHUTDOWN in SCardErr.h
+description: The operation has been aborted to allow the server application to exit.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "SCardErr.h",
+  "sourceUrl": "/win32/scarderr-h/",
+  "code": "0x80100018",
+  "codeUrl": "/win32/scarderr-h/scard_p_shutdown/0x80100018/",
+  "numericCode": -2146435048,
+  "define": "SCARD_P_SHUTDOWN",
+  "defineUrl": "/win32/scarderr-h/scard_p_shutdown/",
+  "message": "The operation has been aborted to allow the server application to exit.",
+  "remarks": null,
+  "aka": [
+    "-2146435048"
+  ],
+  "akaUrl": [
+    "/win32/scarderr-h/scard_p_shutdown/-2146435048/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

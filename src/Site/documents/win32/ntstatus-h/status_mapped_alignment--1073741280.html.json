@@ -1,0 +1,25 @@
+---
+output: win32\ntstatus-h\status_mapped_alignment\-1073741280\index.html.json
+canonical: /win32/ntstatus-h/status_mapped_alignment/0xc0000220/
+title: -1073741280 STATUS_MAPPED_ALIGNMENT in ntstatus.h
+description: "{Mapped View Alignment Incorrect}
+An attempt was made to map a view of a file, but either the specified base address or the offset into the file were not aligned on the proper allocation granularity."
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741280",
+  "codeUrl": "/win32/ntstatus-h/status_mapped_alignment/-1073741280/",
+  "numericCode": 0,
+  "define": "STATUS_MAPPED_ALIGNMENT",
+  "defineUrl": "/win32/ntstatus-h/status_mapped_alignment/",
+  "message": "{Mapped View Alignment Incorrect}\r\nAn attempt was made to map a view of a file, but either the specified base address or the offset into the file were not aligned on the proper allocation granularity.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000220",
+  "originalCodeUrl": "/win32/ntstatus-h/status_mapped_alignment/0xc0000220/"
+}

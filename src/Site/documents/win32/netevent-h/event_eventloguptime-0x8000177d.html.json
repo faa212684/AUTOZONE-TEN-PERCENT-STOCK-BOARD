@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_eventloguptime\0x8000177d\index.html.json
+
+title: 0x8000177D EVENT_EventlogUptime in netevent.h
+description: The system uptime is %5 seconds.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x8000177D",
+  "codeUrl": "/win32/netevent-h/event_eventloguptime/0x8000177d/",
+  "numericCode": -2147477635,
+  "define": "EVENT_EventlogUptime",
+  "defineUrl": "/win32/netevent-h/event_eventloguptime/",
+  "message": "The system uptime is %5 seconds.",
+  "remarks": null,
+  "aka": [
+    "-2147477635"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_eventloguptime/-2147477635/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

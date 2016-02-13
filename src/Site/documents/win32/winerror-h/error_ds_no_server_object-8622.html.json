@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ds_no_server_object\8622\index.html.json
+
+title: 8622 ERROR_DS_NO_SERVER_OBJECT in winerror.h
+description: The server object for the domain controller does not exist.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "8622",
+  "codeUrl": "/win32/winerror-h/error_ds_no_server_object/8622/",
+  "numericCode": 8622,
+  "define": "ERROR_DS_NO_SERVER_OBJECT",
+  "defineUrl": "/win32/winerror-h/error_ds_no_server_object/",
+  "message": "The server object for the domain controller does not exist.",
+  "remarks": null,
+  "aka": [
+    "0x800721ae",
+    "-2147016274"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ds_no_server_object/0x800721ae/",
+    "/win32/winerror-h/error_ds_no_server_object/-2147016274/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

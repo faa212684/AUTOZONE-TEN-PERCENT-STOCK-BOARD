@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_hv_invalid_hypercall_input\0xc0350003\index.html.json
+
+title: 0xC0350003 STATUS_HV_INVALID_HYPERCALL_INPUT in ntstatus.h
+description: The hypervisor does not support the operation because the encoding for the hypercall input register is not supported.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0350003",
+  "codeUrl": "/win32/ntstatus-h/status_hv_invalid_hypercall_input/0xc0350003/",
+  "numericCode": -1070268413,
+  "define": "STATUS_HV_INVALID_HYPERCALL_INPUT",
+  "defineUrl": "/win32/ntstatus-h/status_hv_invalid_hypercall_input/",
+  "message": "The hypervisor does not support the operation because the encoding for the hypercall input register is not supported.",
+  "remarks": null,
+  "aka": [
+    "-1070268413"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_hv_invalid_hypercall_input/-1070268413/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

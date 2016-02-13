@@ -1,0 +1,28 @@
+---
+output: win32\wsmerror-h\error_winrs_shellcommand_disconnect_operation_not_valid\0x803381d8\index.html.json
+
+title: 0x803381D8 ERROR_WINRS_SHELLCOMMAND_DISCONNECT_OPERATION_NOT_VALID in wsmerror.h
+description: The WinRM client cannot process the request. A disconnect operation cannot be performed on a WinRS shell command instance that is disconnected.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x803381D8",
+  "codeUrl": "/win32/wsmerror-h/error_winrs_shellcommand_disconnect_operation_not_valid/0x803381d8/",
+  "numericCode": -2144108072,
+  "define": "ERROR_WINRS_SHELLCOMMAND_DISCONNECT_OPERATION_NOT_VALID",
+  "defineUrl": "/win32/wsmerror-h/error_winrs_shellcommand_disconnect_operation_not_valid/",
+  "message": "The WinRM client cannot process the request. A disconnect operation cannot be performed on a WinRS shell command instance that is disconnected.",
+  "remarks": null,
+  "aka": [
+    "-2144108072"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_winrs_shellcommand_disconnect_operation_not_valid/-2144108072/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

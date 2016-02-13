@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_host_unreachable\0xc000023d\index.html.json
+
+title: 0xC000023D STATUS_HOST_UNREACHABLE in ntstatus.h
+description: The remote system is not reachable by the transport.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000023D",
+  "codeUrl": "/win32/ntstatus-h/status_host_unreachable/0xc000023d/",
+  "numericCode": -1073741251,
+  "define": "STATUS_HOST_UNREACHABLE",
+  "defineUrl": "/win32/ntstatus-h/status_host_unreachable/",
+  "message": "The remote system is not reachable by the transport.",
+  "remarks": null,
+  "aka": [
+    "-1073741251"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_host_unreachable/-1073741251/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

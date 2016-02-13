@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration>Release</Configuration>
+
+    <RootFolder>$(MSBuildThisFileDirectory)</RootFolder>
+    <OutputPath>$(RootFolder)artifacts\</OutputPath>
+
+    <NugetExe>$(RootFolder)tools\nuget\nuget.exe</NugetExe>
+    <IisExpressExe>$(MSBuildProgramFiles32)\IIS Express\iisexpress.exe</IisExpressExe>
+  </PropertyGroup>
+
+  <Target Name="NugetRestore">
+    <Exec Command='"$(NugetExe)" restore ErrorCode.sln'
+          WorkingDirectory="$(RootFolder)src" />
+  </Target>
+
+  <Target Name="Build"
+          DependsOnTargets="NugetRestore">
+    <MSBuild Projects="src\Api\Api.csproj" Properties="Configuration=$(Configuration)" />
+    <MSBuild Projects="src\Site\Site.proj" />
+  </Target>
+
+  <Target Name="Clean">
+    <RemoveDir Directories="$(OutputPath)" />
+  </Target>
+
+  <Target Name="Rebuild" DependsOnTargets="Clean;Build" />
+</Project>

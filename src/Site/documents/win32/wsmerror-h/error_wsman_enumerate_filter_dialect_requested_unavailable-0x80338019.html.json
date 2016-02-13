@@ -1,0 +1,29 @@
+---
+output: win32\wsmerror-h\error_wsman_enumerate_filter_dialect_requested_unavailable\0x80338019\index.html.json
+
+title: 0x80338019 ERROR_WSMAN_ENUMERATE_FILTER_DIALECT_REQUESTED_UNAVAILABLE in wsmerror.h
+description: The filter dialect (the type associated with the filter) was not supported for this resource.
+Change the filter dialect or remove it from the request and try the request again.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x80338019",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_enumerate_filter_dialect_requested_unavailable/0x80338019/",
+  "numericCode": -2144108519,
+  "define": "ERROR_WSMAN_ENUMERATE_FILTER_DIALECT_REQUESTED_UNAVAILABLE",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_enumerate_filter_dialect_requested_unavailable/",
+  "message": "The filter dialect (the type associated with the filter) was not supported for this resource.\r\nChange the filter dialect or remove it from the request and try the request again.",
+  "remarks": null,
+  "aka": [
+    "-2144108519"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_enumerate_filter_dialect_requested_unavailable/-2144108519/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

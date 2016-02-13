@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_pnp_irq_translation_failed\-1073479625\index.html.json
+canonical: /win32/ntstatus-h/status_pnp_irq_translation_failed/0xc0040037/
+title: -1073479625 STATUS_PNP_IRQ_TRANSLATION_FAILED in ntstatus.h
+description: A IRQ translator failed to translate resources.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073479625",
+  "codeUrl": "/win32/ntstatus-h/status_pnp_irq_translation_failed/-1073479625/",
+  "numericCode": 0,
+  "define": "STATUS_PNP_IRQ_TRANSLATION_FAILED",
+  "defineUrl": "/win32/ntstatus-h/status_pnp_irq_translation_failed/",
+  "message": "A IRQ translator failed to translate resources.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0040037",
+  "originalCodeUrl": "/win32/ntstatus-h/status_pnp_irq_translation_failed/0xc0040037/"
+}

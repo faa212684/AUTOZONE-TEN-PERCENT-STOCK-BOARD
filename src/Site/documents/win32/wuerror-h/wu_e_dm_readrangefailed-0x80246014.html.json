@@ -1,0 +1,28 @@
+---
+output: win32\wuerror-h\wu_e_dm_readrangefailed\0x80246014\index.html.json
+
+title: 0x80246014 WU_E_DM_READRANGEFAILED in wuerror.h
+description: Windows Update couldn't find a needed portion of a downloaded update's file.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wuerror.h",
+  "sourceUrl": "/win32/wuerror-h/",
+  "code": "0x80246014",
+  "codeUrl": "/win32/wuerror-h/wu_e_dm_readrangefailed/0x80246014/",
+  "numericCode": -2145099756,
+  "define": "WU_E_DM_READRANGEFAILED",
+  "defineUrl": "/win32/wuerror-h/wu_e_dm_readrangefailed/",
+  "message": "Windows Update couldn't find a needed portion of a downloaded update's file.",
+  "remarks": null,
+  "aka": [
+    "-2145099756"
+  ],
+  "akaUrl": [
+    "/win32/wuerror-h/wu_e_dm_readrangefailed/-2145099756/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

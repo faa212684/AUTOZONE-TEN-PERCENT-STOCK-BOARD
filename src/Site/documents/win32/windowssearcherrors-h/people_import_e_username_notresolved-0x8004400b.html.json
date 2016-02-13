@@ -1,0 +1,28 @@
+---
+output: win32\windowssearcherrors-h\people_import_e_username_notresolved\0x8004400b\index.html.json
+
+title: 0x8004400B PEOPLE_IMPORT_E_USERNAME_NOTRESOLVED in WindowsSearchErrors.h
+description: The user account name can not be resolved within the Active Directory. You would need to verify whether the user is a real user or just a temporary user object generated for some application purpose. You might be able to refine the LDAP search filter to avoid this error.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "0x8004400B",
+  "codeUrl": "/win32/windowssearcherrors-h/people_import_e_username_notresolved/0x8004400b/",
+  "numericCode": -2147205109,
+  "define": "PEOPLE_IMPORT_E_USERNAME_NOTRESOLVED",
+  "defineUrl": "/win32/windowssearcherrors-h/people_import_e_username_notresolved/",
+  "message": "The user account name can not be resolved within the Active Directory. You would need to verify whether the user is a real user or just a temporary user object generated for some application purpose. You might be able to refine the LDAP search filter to avoid this error.",
+  "remarks": null,
+  "aka": [
+    "-2147205109"
+  ],
+  "akaUrl": [
+    "/win32/windowssearcherrors-h/people_import_e_username_notresolved/-2147205109/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

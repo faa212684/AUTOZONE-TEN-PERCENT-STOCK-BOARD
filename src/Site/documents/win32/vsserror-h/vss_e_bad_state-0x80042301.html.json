@@ -1,0 +1,29 @@
+---
+output: win32\vsserror-h\vss_e_bad_state\0x80042301\index.html.json
+
+title: 0x80042301 VSS_E_BAD_STATE in vsserror.h
+description: A function call was made when the object was in an incorrect state
+for that function
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vsserror.h",
+  "sourceUrl": "/win32/vsserror-h/",
+  "code": "0x80042301",
+  "codeUrl": "/win32/vsserror-h/vss_e_bad_state/0x80042301/",
+  "numericCode": -2147212543,
+  "define": "VSS_E_BAD_STATE",
+  "defineUrl": "/win32/vsserror-h/vss_e_bad_state/",
+  "message": "A function call was made when the object was in an incorrect state\r\nfor that function",
+  "remarks": null,
+  "aka": [
+    "-2147212543"
+  ],
+  "akaUrl": [
+    "/win32/vsserror-h/vss_e_bad_state/-2147212543/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

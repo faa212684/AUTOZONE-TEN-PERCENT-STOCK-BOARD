@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_log_read_mode_invalid\0xc01a000b\index.html.json
+
+title: 0xC01A000B STATUS_LOG_READ_MODE_INVALID in ntstatus.h
+description: Log service encountered an attempt to read the log with an invalid read mode.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC01A000B",
+  "codeUrl": "/win32/ntstatus-h/status_log_read_mode_invalid/0xc01a000b/",
+  "numericCode": -1072037877,
+  "define": "STATUS_LOG_READ_MODE_INVALID",
+  "defineUrl": "/win32/ntstatus-h/status_log_read_mode_invalid/",
+  "message": "Log service encountered an attempt to read the log with an invalid read mode.",
+  "remarks": null,
+  "aka": [
+    "-1072037877"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_log_read_mode_invalid/-1072037877/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

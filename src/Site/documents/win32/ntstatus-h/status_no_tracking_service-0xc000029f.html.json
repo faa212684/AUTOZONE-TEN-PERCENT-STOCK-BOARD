@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_no_tracking_service\0xc000029f\index.html.json
+
+title: 0xC000029F STATUS_NO_TRACKING_SERVICE in ntstatus.h
+description: The tracking (workstation) service is not running.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000029F",
+  "codeUrl": "/win32/ntstatus-h/status_no_tracking_service/0xc000029f/",
+  "numericCode": -1073741153,
+  "define": "STATUS_NO_TRACKING_SERVICE",
+  "defineUrl": "/win32/ntstatus-h/status_no_tracking_service/",
+  "message": "The tracking (workstation) service is not running.",
+  "remarks": null,
+  "aka": [
+    "-1073741153"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_no_tracking_service/-1073741153/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

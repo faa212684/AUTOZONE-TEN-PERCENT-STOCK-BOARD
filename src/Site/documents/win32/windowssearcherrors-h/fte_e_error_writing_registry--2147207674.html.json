@@ -1,0 +1,24 @@
+---
+output: win32\windowssearcherrors-h\fte_e_error_writing_registry\-2147207674\index.html.json
+canonical: /win32/windowssearcherrors-h/fte_e_error_writing_registry/0x80043606/
+title: -2147207674 FTE_E_ERROR_WRITING_REGISTRY in WindowsSearchErrors.h
+description: The value cannot be set, because the object was already deleted or was not initialized properly. Make sure the object reference is still valid, increase the registry size, or recreate the catalog configuration.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "-2147207674",
+  "codeUrl": "/win32/windowssearcherrors-h/fte_e_error_writing_registry/-2147207674/",
+  "numericCode": 0,
+  "define": "FTE_E_ERROR_WRITING_REGISTRY",
+  "defineUrl": "/win32/windowssearcherrors-h/fte_e_error_writing_registry/",
+  "message": "The value cannot be set, because the object was already deleted or was not initialized properly. Make sure the object reference is still valid, increase the registry size, or recreate the catalog configuration.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80043606",
+  "originalCodeUrl": "/win32/windowssearcherrors-h/fte_e_error_writing_registry/0x80043606/"
+}

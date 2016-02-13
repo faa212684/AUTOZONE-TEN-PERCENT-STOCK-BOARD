@@ -1,0 +1,28 @@
+---
+output: bugcheck\bugcodes-h\pci_verifier_detected_violation\0x000000f6\index.html.json
+
+title: 0x000000F6 PCI_VERIFIER_DETECTED_VIOLATION in bugcodes.h
+description: PCI_VERIFIER_DETECTED_VIOLATION
+disqus: true
+---
+{
+  "area": "bugcheck",
+  "areaUrl": "/bugcheck/",
+  "source": "bugcodes.h",
+  "sourceUrl": "/bugcheck/bugcodes-h/",
+  "code": "0x000000F6",
+  "codeUrl": "/bugcheck/bugcodes-h/pci_verifier_detected_violation/0x000000f6/",
+  "numericCode": 246,
+  "define": "PCI_VERIFIER_DETECTED_VIOLATION",
+  "defineUrl": "/bugcheck/bugcodes-h/pci_verifier_detected_violation/",
+  "message": "PCI_VERIFIER_DETECTED_VIOLATION",
+  "remarks": null,
+  "aka": [
+    "246"
+  ],
+  "akaUrl": [
+    "/bugcheck/bugcodes-h/pci_verifier_detected_violation/246/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

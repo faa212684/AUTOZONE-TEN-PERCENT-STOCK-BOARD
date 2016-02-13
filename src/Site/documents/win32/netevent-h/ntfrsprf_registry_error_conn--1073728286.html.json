@@ -1,0 +1,27 @@
+---
+output: win32\netevent-h\ntfrsprf_registry_error_conn\-1073728286\index.html.json
+canonical: /win32/netevent-h/ntfrsprf_registry_error_conn/0xc00034e2/
+title: -1073728286 NTFRSPRF_REGISTRY_ERROR_CONN in netevent.h
+description: The call to the Registry failed in the Open function of the FileReplicaConn
+Object. The counter data for this object will not be available. The
+FileReplicaConn object contains the performance counters of the connections over
+which files are being replicated by the File Replication Service.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "-1073728286",
+  "codeUrl": "/win32/netevent-h/ntfrsprf_registry_error_conn/-1073728286/",
+  "numericCode": 0,
+  "define": "NTFRSPRF_REGISTRY_ERROR_CONN",
+  "defineUrl": "/win32/netevent-h/ntfrsprf_registry_error_conn/",
+  "message": "The call to the Registry failed in the Open function of the FileReplicaConn\r\nObject. The counter data for this object will not be available. The\r\nFileReplicaConn object contains the performance counters of the connections over\r\nwhich files are being replicated by the File Replication Service.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC00034E2",
+  "originalCodeUrl": "/win32/netevent-h/ntfrsprf_registry_error_conn/0xc00034e2/"
+}

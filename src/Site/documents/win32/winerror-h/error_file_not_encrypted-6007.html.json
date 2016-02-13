@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_file_not_encrypted\6007\index.html.json
+
+title: 6007 ERROR_FILE_NOT_ENCRYPTED in winerror.h
+description: The specified file is not encrypted.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "6007",
+  "codeUrl": "/win32/winerror-h/error_file_not_encrypted/6007/",
+  "numericCode": 6007,
+  "define": "ERROR_FILE_NOT_ENCRYPTED",
+  "defineUrl": "/win32/winerror-h/error_file_not_encrypted/",
+  "message": "The specified file is not encrypted.",
+  "remarks": null,
+  "aka": [
+    "0x80071777",
+    "-2147018889"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_file_not_encrypted/0x80071777/",
+    "/win32/winerror-h/error_file_not_encrypted/-2147018889/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

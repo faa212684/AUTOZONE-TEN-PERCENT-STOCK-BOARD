@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\dns_error_nbstat_init_failed\9617\index.html.json
+
+title: 9617 DNS_ERROR_NBSTAT_INIT_FAILED in winerror.h
+description: NBTSTAT initialization call failed.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "9617",
+  "codeUrl": "/win32/winerror-h/dns_error_nbstat_init_failed/9617/",
+  "numericCode": 9617,
+  "define": "DNS_ERROR_NBSTAT_INIT_FAILED",
+  "defineUrl": "/win32/winerror-h/dns_error_nbstat_init_failed/",
+  "message": "NBTSTAT initialization call failed.",
+  "remarks": null,
+  "aka": [
+    "0x80072591",
+    "-2147015279"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/dns_error_nbstat_init_failed/0x80072591/",
+    "/win32/winerror-h/dns_error_nbstat_init_failed/-2147015279/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

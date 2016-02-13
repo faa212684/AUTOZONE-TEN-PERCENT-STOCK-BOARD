@@ -1,0 +1,24 @@
+---
+output: win32\netevent-h\dfs_error_on_root\-2147469114\index.html.json
+canonical: /win32/netevent-h/dfs_error_on_root/0x800038c6/
+title: -2147469114 DFS_ERROR_ON_ROOT in netevent.h
+description: DFS Root %1 failed during initialization. The root will not be available.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "-2147469114",
+  "codeUrl": "/win32/netevent-h/dfs_error_on_root/-2147469114/",
+  "numericCode": 0,
+  "define": "DFS_ERROR_ON_ROOT",
+  "defineUrl": "/win32/netevent-h/dfs_error_on_root/",
+  "message": "DFS Root %1 failed during initialization. The root will not be available.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x800038C6",
+  "originalCodeUrl": "/win32/netevent-h/dfs_error_on_root/0x800038c6/"
+}

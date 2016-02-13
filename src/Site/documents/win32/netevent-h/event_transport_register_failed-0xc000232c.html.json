@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_transport_register_failed\0xc000232c\index.html.json
+
+title: 0xC000232C EVENT_TRANSPORT_REGISTER_FAILED in netevent.h
+description: %2 failed to register itself with the NDIS wrapper.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC000232C",
+  "codeUrl": "/win32/netevent-h/event_transport_register_failed/0xc000232c/",
+  "numericCode": -1073732820,
+  "define": "EVENT_TRANSPORT_REGISTER_FAILED",
+  "defineUrl": "/win32/netevent-h/event_transport_register_failed/",
+  "message": "%2 failed to register itself with the NDIS wrapper.",
+  "remarks": null,
+  "aka": [
+    "-1073732820"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_transport_register_failed/-1073732820/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

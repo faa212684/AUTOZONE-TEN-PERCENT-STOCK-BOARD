@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_pcp_invalid_parameter\0xc0292003\index.html.json
+
+title: 0xC0292003 STATUS_PCP_INVALID_PARAMETER in ntstatus.h
+description: A parameter provided to the Platform Crypto Provider is invalid.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0292003",
+  "codeUrl": "/win32/ntstatus-h/status_pcp_invalid_parameter/0xc0292003/",
+  "numericCode": -1071046653,
+  "define": "STATUS_PCP_INVALID_PARAMETER",
+  "defineUrl": "/win32/ntstatus-h/status_pcp_invalid_parameter/",
+  "message": "A parameter provided to the Platform Crypto Provider is invalid.",
+  "remarks": null,
+  "aka": [
+    "-1071046653"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_pcp_invalid_parameter/-1071046653/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

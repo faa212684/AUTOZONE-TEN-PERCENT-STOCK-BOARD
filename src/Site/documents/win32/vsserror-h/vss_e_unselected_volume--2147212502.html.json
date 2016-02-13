@@ -1,0 +1,24 @@
+---
+output: win32\vsserror-h\vss_e_unselected_volume\-2147212502\index.html.json
+canonical: /win32/vsserror-h/vss_e_unselected_volume/0x8004232a/
+title: -2147212502 VSS_E_UNSELECTED_VOLUME in vsserror.h
+description: The requested operation would overwrite a volume that is not explicitly selected. For more information, check the Application event log.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vsserror.h",
+  "sourceUrl": "/win32/vsserror-h/",
+  "code": "-2147212502",
+  "codeUrl": "/win32/vsserror-h/vss_e_unselected_volume/-2147212502/",
+  "numericCode": 0,
+  "define": "VSS_E_UNSELECTED_VOLUME",
+  "defineUrl": "/win32/vsserror-h/vss_e_unselected_volume/",
+  "message": "The requested operation would overwrite a volume that is not explicitly selected. For more information, check the Application event log.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x8004232A",
+  "originalCodeUrl": "/win32/vsserror-h/vss_e_unselected_volume/0x8004232a/"
+}

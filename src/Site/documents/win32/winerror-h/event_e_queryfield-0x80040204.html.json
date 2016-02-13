@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\event_e_queryfield\0x80040204\index.html.json
+
+title: 0x80040204 EVENT_E_QUERYFIELD in winerror.h
+description: An invalid field name was used in a query string
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80040204",
+  "codeUrl": "/win32/winerror-h/event_e_queryfield/0x80040204/",
+  "numericCode": -2147220988,
+  "define": "EVENT_E_QUERYFIELD",
+  "defineUrl": "/win32/winerror-h/event_e_queryfield/",
+  "message": "An invalid field name was used in a query string",
+  "remarks": null,
+  "aka": [
+    "-2147220988"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/event_e_queryfield/-2147220988/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

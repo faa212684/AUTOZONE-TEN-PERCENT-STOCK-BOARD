@@ -1,0 +1,24 @@
+---
+output: win32\netevent-h\event_rdr_cant_read_registry\-2147480621\index.html.json
+canonical: /win32/netevent-h/event_rdr_cant_read_registry/0x80000bd3/
+title: -2147480621 EVENT_RDR_CANT_READ_REGISTRY in netevent.h
+description: The redirector was unable to initialize variables from the Registry.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "-2147480621",
+  "codeUrl": "/win32/netevent-h/event_rdr_cant_read_registry/-2147480621/",
+  "numericCode": 0,
+  "define": "EVENT_RDR_CANT_READ_REGISTRY",
+  "defineUrl": "/win32/netevent-h/event_rdr_cant_read_registry/",
+  "message": "The redirector was unable to initialize variables from the Registry.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80000BD3",
+  "originalCodeUrl": "/win32/netevent-h/event_rdr_cant_read_registry/0x80000bd3/"
+}

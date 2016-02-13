@@ -1,0 +1,28 @@
+---
+output: win32\oledberr-h\db_e_rowsetincommand\0x80040e32\index.html.json
+
+title: 0x80040E32 DB_E_ROWSETINCOMMAND in oledberr.h
+description: Command object whose command tree contains a rowset or rowsets cannot be cloned.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "oledberr.h",
+  "sourceUrl": "/win32/oledberr-h/",
+  "code": "0x80040E32",
+  "codeUrl": "/win32/oledberr-h/db_e_rowsetincommand/0x80040e32/",
+  "numericCode": -2147217870,
+  "define": "DB_E_ROWSETINCOMMAND",
+  "defineUrl": "/win32/oledberr-h/db_e_rowsetincommand/",
+  "message": "Command object whose command tree contains a rowset or rowsets cannot be cloned.",
+  "remarks": null,
+  "aka": [
+    "-2147217870"
+  ],
+  "akaUrl": [
+    "/win32/oledberr-h/db_e_rowsetincommand/-2147217870/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

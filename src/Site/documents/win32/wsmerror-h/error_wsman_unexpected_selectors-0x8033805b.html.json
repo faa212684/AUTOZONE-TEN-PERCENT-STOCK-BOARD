@@ -1,0 +1,28 @@
+---
+output: win32\wsmerror-h\error_wsman_unexpected_selectors\0x8033805b\index.html.json
+
+title: 0x8033805B ERROR_WSMAN_UNEXPECTED_SELECTORS in wsmerror.h
+description: The WS-Management service cannot process the request because the request contained invalid selectors for the resource.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x8033805B",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_unexpected_selectors/0x8033805b/",
+  "numericCode": -2144108453,
+  "define": "ERROR_WSMAN_UNEXPECTED_SELECTORS",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_unexpected_selectors/",
+  "message": "The WS-Management service cannot process the request because the request contained invalid selectors for the resource.",
+  "remarks": null,
+  "aka": [
+    "-2144108453"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_unexpected_selectors/-2144108453/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

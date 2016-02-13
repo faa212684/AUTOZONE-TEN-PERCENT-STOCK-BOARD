@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_fwp_invalid_transform_combination\0xc022003b\index.html.json
+
+title: 0xC022003B STATUS_FWP_INVALID_TRANSFORM_COMBINATION in ntstatus.h
+description: The combination of IPsec transform types is not valid.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC022003B",
+  "codeUrl": "/win32/ntstatus-h/status_fwp_invalid_transform_combination/0xc022003b/",
+  "numericCode": -1071513541,
+  "define": "STATUS_FWP_INVALID_TRANSFORM_COMBINATION",
+  "defineUrl": "/win32/ntstatus-h/status_fwp_invalid_transform_combination/",
+  "message": "The combination of IPsec transform types is not valid.",
+  "remarks": null,
+  "aka": [
+    "-1071513541"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_fwp_invalid_transform_combination/-1071513541/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

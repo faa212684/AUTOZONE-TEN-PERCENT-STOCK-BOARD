@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_rxact_state_created\0x40000004\index.html.json
+
+title: 0x40000004 STATUS_RXACT_STATE_CREATED in ntstatus.h
+description: This informational level status indicates that a specified registry sub-tree transaction state did not yet exist and had to be created.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0x40000004",
+  "codeUrl": "/win32/ntstatus-h/status_rxact_state_created/0x40000004/",
+  "numericCode": 1073741828,
+  "define": "STATUS_RXACT_STATE_CREATED",
+  "defineUrl": "/win32/ntstatus-h/status_rxact_state_created/",
+  "message": "This informational level status indicates that a specified registry sub-tree transaction state did not yet exist and had to be created.",
+  "remarks": null,
+  "aka": [
+    "1073741828"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_rxact_state_created/1073741828/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

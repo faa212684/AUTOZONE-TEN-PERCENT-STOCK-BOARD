@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\certsrv_e_subject_dns_required\0x8009480f\index.html.json
+
+title: 0x8009480F CERTSRV_E_SUBJECT_DNS_REQUIRED in winerror.h
+description: The DNS name is unavailable and cannot be added to the Subject Alternate name.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8009480F",
+  "codeUrl": "/win32/winerror-h/certsrv_e_subject_dns_required/0x8009480f/",
+  "numericCode": -2146875377,
+  "define": "CERTSRV_E_SUBJECT_DNS_REQUIRED",
+  "defineUrl": "/win32/winerror-h/certsrv_e_subject_dns_required/",
+  "message": "The DNS name is unavailable and cannot be added to the Subject Alternate name.",
+  "remarks": null,
+  "aka": [
+    "-2146875377"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/certsrv_e_subject_dns_required/-2146875377/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

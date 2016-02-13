@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_symlink_class_disabled\0x800705b7\index.html.json
+canonical: /win32/winerror-h/error_symlink_class_disabled/1463/
+title: 0x800705b7 ERROR_SYMLINK_CLASS_DISABLED in winerror.h
+description: The symbolic link cannot be followed because its type is disabled.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800705b7",
+  "codeUrl": "/win32/winerror-h/error_symlink_class_disabled/0x800705b7/",
+  "numericCode": 0,
+  "define": "ERROR_SYMLINK_CLASS_DISABLED",
+  "defineUrl": "/win32/winerror-h/error_symlink_class_disabled/",
+  "message": "The symbolic link cannot be followed because its type is disabled.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "1463",
+  "originalCodeUrl": "/win32/winerror-h/error_symlink_class_disabled/1463/"
+}

@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_not_supported_in_appcontainer\0x8007109c\index.html.json
+canonical: /win32/winerror-h/error_not_supported_in_appcontainer/4252/
+title: 0x8007109c ERROR_NOT_SUPPORTED_IN_APPCONTAINER in winerror.h
+description: This functionality is not supported in the context of an app container.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007109c",
+  "codeUrl": "/win32/winerror-h/error_not_supported_in_appcontainer/0x8007109c/",
+  "numericCode": 0,
+  "define": "ERROR_NOT_SUPPORTED_IN_APPCONTAINER",
+  "defineUrl": "/win32/winerror-h/error_not_supported_in_appcontainer/",
+  "message": "This functionality is not supported in the context of an app container.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "4252",
+  "originalCodeUrl": "/win32/winerror-h/error_not_supported_in_appcontainer/4252/"
+}

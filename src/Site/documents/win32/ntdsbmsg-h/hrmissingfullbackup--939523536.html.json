@@ -1,0 +1,24 @@
+---
+output: win32\ntdsbmsg-h\hrmissingfullbackup\-939523536\index.html.json
+canonical: /win32/ntdsbmsg-h/hrmissingfullbackup/0xc8000230/
+title: -939523536 hrMissingFullBackup in NtDsBMsg.h
+description: The database missed a previous full backup before the incremental backup.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "NtDsBMsg.h",
+  "sourceUrl": "/win32/ntdsbmsg-h/",
+  "code": "-939523536",
+  "codeUrl": "/win32/ntdsbmsg-h/hrmissingfullbackup/-939523536/",
+  "numericCode": 0,
+  "define": "hrMissingFullBackup",
+  "defineUrl": "/win32/ntdsbmsg-h/hrmissingfullbackup/",
+  "message": "The database missed a previous full backup before the incremental backup.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC8000230",
+  "originalCodeUrl": "/win32/ntdsbmsg-h/hrmissingfullbackup/0xc8000230/"
+}

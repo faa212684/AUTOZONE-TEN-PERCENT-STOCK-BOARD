@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\dns_error_rcode_badkey\9017\index.html.json
+
+title: 9017 DNS_ERROR_RCODE_BADKEY in winerror.h
+description: DNS bad key.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "9017",
+  "codeUrl": "/win32/winerror-h/dns_error_rcode_badkey/9017/",
+  "numericCode": 9017,
+  "define": "DNS_ERROR_RCODE_BADKEY",
+  "defineUrl": "/win32/winerror-h/dns_error_rcode_badkey/",
+  "message": "DNS bad key.",
+  "remarks": null,
+  "aka": [
+    "0x80072339",
+    "-2147015879"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/dns_error_rcode_badkey/0x80072339/",
+    "/win32/winerror-h/dns_error_rcode_badkey/-2147015879/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

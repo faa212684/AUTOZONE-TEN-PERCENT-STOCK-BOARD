@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_ds_dsa_must_be_int_master\0x80072096\index.html.json
+canonical: /win32/winerror-h/error_ds_dsa_must_be_int_master/8342/
+title: 0x80072096 ERROR_DS_DSA_MUST_BE_INT_MASTER in winerror.h
+description: The operation can only be performed on an internal master DSA object.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80072096",
+  "codeUrl": "/win32/winerror-h/error_ds_dsa_must_be_int_master/0x80072096/",
+  "numericCode": 0,
+  "define": "ERROR_DS_DSA_MUST_BE_INT_MASTER",
+  "defineUrl": "/win32/winerror-h/error_ds_dsa_must_be_int_master/",
+  "message": "The operation can only be performed on an internal master DSA object.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "8342",
+  "originalCodeUrl": "/win32/winerror-h/error_ds_dsa_must_be_int_master/8342/"
+}

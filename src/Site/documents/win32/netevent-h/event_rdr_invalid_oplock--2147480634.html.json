@@ -1,0 +1,24 @@
+---
+output: win32\netevent-h\event_rdr_invalid_oplock\-2147480634\index.html.json
+canonical: /win32/netevent-h/event_rdr_invalid_oplock/0x80000bc6/
+title: -2147480634 EVENT_RDR_INVALID_OPLOCK in netevent.h
+description: The redirector received an invalid oplock level from %2.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "-2147480634",
+  "codeUrl": "/win32/netevent-h/event_rdr_invalid_oplock/-2147480634/",
+  "numericCode": 0,
+  "define": "EVENT_RDR_INVALID_OPLOCK",
+  "defineUrl": "/win32/netevent-h/event_rdr_invalid_oplock/",
+  "message": "The redirector received an invalid oplock level from %2.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80000BC6",
+  "originalCodeUrl": "/win32/netevent-h/event_rdr_invalid_oplock/0x80000bc6/"
+}

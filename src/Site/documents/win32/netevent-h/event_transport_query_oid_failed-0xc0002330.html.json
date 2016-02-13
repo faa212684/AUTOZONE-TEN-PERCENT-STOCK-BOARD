@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_transport_query_oid_failed\0xc0002330\index.html.json
+
+title: 0xC0002330 EVENT_TRANSPORT_QUERY_OID_FAILED in netevent.h
+description: %2 failed while querying object identifier %3 on network adapter %4.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC0002330",
+  "codeUrl": "/win32/netevent-h/event_transport_query_oid_failed/0xc0002330/",
+  "numericCode": -1073732816,
+  "define": "EVENT_TRANSPORT_QUERY_OID_FAILED",
+  "defineUrl": "/win32/netevent-h/event_transport_query_oid_failed/",
+  "message": "%2 failed while querying object identifier %3 on network adapter %4.",
+  "remarks": null,
+  "aka": [
+    "-1073732816"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_transport_query_oid_failed/-1073732816/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

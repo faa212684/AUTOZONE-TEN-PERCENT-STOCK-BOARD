@@ -1,0 +1,28 @@
+---
+output: bugcheck\bugcodes-h\thread_not_mutex_owner\0x00000011\index.html.json
+
+title: 0x00000011 THREAD_NOT_MUTEX_OWNER in bugcodes.h
+description: THREAD_NOT_MUTEX_OWNER
+disqus: true
+---
+{
+  "area": "bugcheck",
+  "areaUrl": "/bugcheck/",
+  "source": "bugcodes.h",
+  "sourceUrl": "/bugcheck/bugcodes-h/",
+  "code": "0x00000011",
+  "codeUrl": "/bugcheck/bugcodes-h/thread_not_mutex_owner/0x00000011/",
+  "numericCode": 17,
+  "define": "THREAD_NOT_MUTEX_OWNER",
+  "defineUrl": "/bugcheck/bugcodes-h/thread_not_mutex_owner/",
+  "message": "THREAD_NOT_MUTEX_OWNER",
+  "remarks": null,
+  "aka": [
+    "17"
+  ],
+  "akaUrl": [
+    "/bugcheck/bugcodes-h/thread_not_mutex_owner/17/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

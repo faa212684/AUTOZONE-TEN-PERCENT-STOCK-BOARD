@@ -1,0 +1,29 @@
+---
+output: win32\netevent-h\event_trk_service_volume_create\0x400030d9\index.html.json
+
+title: 0x400030D9 EVENT_TRK_SERVICE_VOLUME_CREATE in netevent.h
+description: A new volume ID has been assigned for %1:%n%2%n%n
+This ID is used by Distributed Link Tracking to automatically repair file links, such as Shell Shortcuts and OLE links, when for some reason those links become broken.  If there previously were links to files on this volume that are broken, they might not be automatically repairable.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x400030D9",
+  "codeUrl": "/win32/netevent-h/event_trk_service_volume_create/0x400030d9/",
+  "numericCode": 1073754329,
+  "define": "EVENT_TRK_SERVICE_VOLUME_CREATE",
+  "defineUrl": "/win32/netevent-h/event_trk_service_volume_create/",
+  "message": "A new volume ID has been assigned for %1:%n%2%n%n\r\nThis ID is used by Distributed Link Tracking to automatically repair file links, such as Shell Shortcuts and OLE links, when for some reason those links become broken.  If there previously were links to files on this volume that are broken, they might not be automatically repairable.",
+  "remarks": null,
+  "aka": [
+    "1073754329"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_trk_service_volume_create/1073754329/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

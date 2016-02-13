@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_arbitration_unhandled\723\index.html.json
+
+title: 723 ERROR_ARBITRATION_UNHANDLED in winerror.h
+description: The arbiter has deferred arbitration of these resources to its parent
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "723",
+  "codeUrl": "/win32/winerror-h/error_arbitration_unhandled/723/",
+  "numericCode": 723,
+  "define": "ERROR_ARBITRATION_UNHANDLED",
+  "defineUrl": "/win32/winerror-h/error_arbitration_unhandled/",
+  "message": "The arbiter has deferred arbitration of these resources to its parent",
+  "remarks": null,
+  "aka": [
+    "0x800702d3",
+    "-2147024173"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_arbitration_unhandled/0x800702d3/",
+    "/win32/winerror-h/error_arbitration_unhandled/-2147024173/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

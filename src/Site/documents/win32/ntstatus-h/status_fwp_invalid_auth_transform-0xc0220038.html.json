@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_fwp_invalid_auth_transform\0xc0220038\index.html.json
+
+title: 0xC0220038 STATUS_FWP_INVALID_AUTH_TRANSFORM in ntstatus.h
+description: The IPsec authentication transform is not valid.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0220038",
+  "codeUrl": "/win32/ntstatus-h/status_fwp_invalid_auth_transform/0xc0220038/",
+  "numericCode": -1071513544,
+  "define": "STATUS_FWP_INVALID_AUTH_TRANSFORM",
+  "defineUrl": "/win32/ntstatus-h/status_fwp_invalid_auth_transform/",
+  "message": "The IPsec authentication transform is not valid.",
+  "remarks": null,
+  "aka": [
+    "-1071513544"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_fwp_invalid_auth_transform/-1071513544/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

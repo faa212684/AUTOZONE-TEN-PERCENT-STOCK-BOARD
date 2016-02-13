@@ -1,0 +1,24 @@
+---
+output: msi\1703\index.html.json
+
+title: msi 1703
+description: For the configuration changes made to [2] to take effect you must restart your system. To restart now click <strong>Yes</strong>, or click <strong>No</strong> if you plan to manually restart at a later time.
+disqus: true
+---
+{
+  "area": "msi",
+  "areaUrl": "/msi/",
+  "source": null,
+  "sourceUrl": "/msi/",
+  "code": "1703",
+  "codeUrl": "/msi/1703/",
+  "numericCode": 1703,
+  "define": null,
+  "defineUrl": "/msi/",
+  "message": "For the configuration changes made to [2] to take effect you must restart your system. To restart now click <strong>Yes</strong>, or click <strong>No</strong> if you plan to manually restart at a later time.",
+  "remarks": "The scheduled system restart message when no other users are logged on the computer. For more information, see <a href=\"https://msdn.microsoft.com/en-us/library/aa372059(v=vs.85).aspx\">System Reboots</a> and <a href=\"https://msdn.microsoft.com/en-us/library/aa371527(v=vs.85).aspx\">ScheduleReboot Action</a>. This message may be customized using the <a href=\"https://msdn.microsoft.com/en-us/library/aa368554(v=vs.85).aspx\">Error</a> table.",
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": null,
+  "originalCodeUrl": null
+}

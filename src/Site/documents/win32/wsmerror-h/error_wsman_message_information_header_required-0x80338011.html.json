@@ -1,0 +1,28 @@
+---
+output: win32\wsmerror-h\error_wsman_message_information_header_required\0x80338011\index.html.json
+
+title: 0x80338011 ERROR_WSMAN_MESSAGE_INFORMATION_HEADER_REQUIRED in wsmerror.h
+description: The WS-Management service cannot process the request. The request does not have all the expected SOAP headers.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x80338011",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_message_information_header_required/0x80338011/",
+  "numericCode": -2144108527,
+  "define": "ERROR_WSMAN_MESSAGE_INFORMATION_HEADER_REQUIRED",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_message_information_header_required/",
+  "message": "The WS-Management service cannot process the request. The request does not have all the expected SOAP headers.",
+  "remarks": null,
+  "aka": [
+    "-2144108527"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_message_information_header_required/-2144108527/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

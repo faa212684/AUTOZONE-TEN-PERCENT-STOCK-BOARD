@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_allocate_bucket\0x8007025a\index.html.json
+canonical: /win32/winerror-h/error_allocate_bucket/602/
+title: 0x8007025a ERROR_ALLOCATE_BUCKET in winerror.h
+description: The bucket array must be grown. Retry transaction after doing so.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007025a",
+  "codeUrl": "/win32/winerror-h/error_allocate_bucket/0x8007025a/",
+  "numericCode": 0,
+  "define": "ERROR_ALLOCATE_BUCKET",
+  "defineUrl": "/win32/winerror-h/error_allocate_bucket/",
+  "message": "The bucket array must be grown. Retry transaction after doing so.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "602",
+  "originalCodeUrl": "/win32/winerror-h/error_allocate_bucket/602/"
+}

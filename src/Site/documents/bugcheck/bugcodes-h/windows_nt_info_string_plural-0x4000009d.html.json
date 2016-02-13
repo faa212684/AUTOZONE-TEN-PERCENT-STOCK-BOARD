@@ -1,0 +1,28 @@
+---
+output: bugcheck\bugcodes-h\windows_nt_info_string_plural\0x4000009d\index.html.json
+
+title: 0x4000009D WINDOWS_NT_INFO_STRING_PLURAL in bugcodes.h
+description: %u System Processors [%u MB Memory] %Z
+disqus: true
+---
+{
+  "area": "bugcheck",
+  "areaUrl": "/bugcheck/",
+  "source": "bugcodes.h",
+  "sourceUrl": "/bugcheck/bugcodes-h/",
+  "code": "0x4000009D",
+  "codeUrl": "/bugcheck/bugcodes-h/windows_nt_info_string_plural/0x4000009d/",
+  "numericCode": 1073741981,
+  "define": "WINDOWS_NT_INFO_STRING_PLURAL",
+  "defineUrl": "/bugcheck/bugcodes-h/windows_nt_info_string_plural/",
+  "message": "%u System Processors [%u MB Memory] %Z",
+  "remarks": null,
+  "aka": [
+    "1073741981"
+  ],
+  "akaUrl": [
+    "/bugcheck/bugcodes-h/windows_nt_info_string_plural/1073741981/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

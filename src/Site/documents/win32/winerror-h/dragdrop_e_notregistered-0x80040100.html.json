@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\dragdrop_e_notregistered\0x80040100\index.html.json
+
+title: 0x80040100 DRAGDROP_E_NOTREGISTERED in winerror.h
+description: Trying to revoke a drop target that has not been registered
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80040100",
+  "codeUrl": "/win32/winerror-h/dragdrop_e_notregistered/0x80040100/",
+  "numericCode": -2147221248,
+  "define": "DRAGDROP_E_NOTREGISTERED",
+  "defineUrl": "/win32/winerror-h/dragdrop_e_notregistered/",
+  "message": "Trying to revoke a drop target that has not been registered",
+  "remarks": null,
+  "aka": [
+    "-2147221248"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/dragdrop_e_notregistered/-2147221248/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

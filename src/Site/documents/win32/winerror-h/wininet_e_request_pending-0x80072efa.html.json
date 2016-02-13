@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\wininet_e_request_pending\0x80072efa\index.html.json
+
+title: 0x80072EFA WININET_E_REQUEST_PENDING in winerror.h
+description: There are outstanding requests
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80072EFA",
+  "codeUrl": "/win32/winerror-h/wininet_e_request_pending/0x80072efa/",
+  "numericCode": -2147012870,
+  "define": "WININET_E_REQUEST_PENDING",
+  "defineUrl": "/win32/winerror-h/wininet_e_request_pending/",
+  "message": "There are outstanding requests",
+  "remarks": null,
+  "aka": [
+    "-2147012870"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/wininet_e_request_pending/-2147012870/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

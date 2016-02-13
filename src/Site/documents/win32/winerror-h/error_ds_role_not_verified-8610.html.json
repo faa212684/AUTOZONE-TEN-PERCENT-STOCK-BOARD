@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ds_role_not_verified\8610\index.html.json
+
+title: 8610 ERROR_DS_ROLE_NOT_VERIFIED in winerror.h
+description: The FSMO role ownership could not be verified because its directory partition has not replicated successfully with at least one replication partner.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "8610",
+  "codeUrl": "/win32/winerror-h/error_ds_role_not_verified/8610/",
+  "numericCode": 8610,
+  "define": "ERROR_DS_ROLE_NOT_VERIFIED",
+  "defineUrl": "/win32/winerror-h/error_ds_role_not_verified/",
+  "message": "The FSMO role ownership could not be verified because its directory partition has not replicated successfully with at least one replication partner.",
+  "remarks": null,
+  "aka": [
+    "0x800721a2",
+    "-2147016286"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ds_role_not_verified/0x800721a2/",
+    "/win32/winerror-h/error_ds_role_not_verified/-2147016286/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

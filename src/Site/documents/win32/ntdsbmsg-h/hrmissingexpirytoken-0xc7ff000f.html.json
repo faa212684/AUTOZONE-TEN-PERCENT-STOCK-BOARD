@@ -1,0 +1,28 @@
+---
+output: win32\ntdsbmsg-h\hrmissingexpirytoken\0xc7ff000f\index.html.json
+
+title: 0xC7FF000F hrMissingExpiryToken in NtDsBMsg.h
+description: Expiry token is missing. Cannot restore without knowing the expiry information.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "NtDsBMsg.h",
+  "sourceUrl": "/win32/ntdsbmsg-h/",
+  "code": "0xC7FF000F",
+  "codeUrl": "/win32/ntdsbmsg-h/hrmissingexpirytoken/0xc7ff000f/",
+  "numericCode": -939589617,
+  "define": "hrMissingExpiryToken",
+  "defineUrl": "/win32/ntdsbmsg-h/hrmissingexpirytoken/",
+  "message": "Expiry token is missing. Cannot restore without knowing the expiry information.",
+  "remarks": null,
+  "aka": [
+    "-939589617"
+  ],
+  "akaUrl": [
+    "/win32/ntdsbmsg-h/hrmissingexpirytoken/-939589617/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

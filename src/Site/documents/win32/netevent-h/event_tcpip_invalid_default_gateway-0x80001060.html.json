@@ -1,0 +1,29 @@
+---
+output: win32\netevent-h\event_tcpip_invalid_default_gateway\0x80001060\index.html.json
+
+title: 0x80001060 EVENT_TCPIP_INVALID_DEFAULT_GATEWAY in netevent.h
+description: Invalid default gateway address %2 was specified for network adapter %3.
+Some remote networks may not be reachable as a result.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x80001060",
+  "codeUrl": "/win32/netevent-h/event_tcpip_invalid_default_gateway/0x80001060/",
+  "numericCode": -2147479456,
+  "define": "EVENT_TCPIP_INVALID_DEFAULT_GATEWAY",
+  "defineUrl": "/win32/netevent-h/event_tcpip_invalid_default_gateway/",
+  "message": "Invalid default gateway address %2 was specified for network adapter %3.\r\nSome remote networks may not be reachable as a result.",
+  "remarks": null,
+  "aka": [
+    "-2147479456"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_tcpip_invalid_default_gateway/-2147479456/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

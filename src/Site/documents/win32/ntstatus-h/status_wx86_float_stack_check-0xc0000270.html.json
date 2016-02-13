@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_wx86_float_stack_check\0xc0000270\index.html.json
+
+title: 0xC0000270 STATUS_WX86_FLOAT_STACK_CHECK in ntstatus.h
+description: Win32 x86 emulation subsystem Floating-point stack check.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000270",
+  "codeUrl": "/win32/ntstatus-h/status_wx86_float_stack_check/0xc0000270/",
+  "numericCode": -1073741200,
+  "define": "STATUS_WX86_FLOAT_STACK_CHECK",
+  "defineUrl": "/win32/ntstatus-h/status_wx86_float_stack_check/",
+  "message": "Win32 x86 emulation subsystem Floating-point stack check.",
+  "remarks": null,
+  "aka": [
+    "-1073741200"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_wx86_float_stack_check/-1073741200/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

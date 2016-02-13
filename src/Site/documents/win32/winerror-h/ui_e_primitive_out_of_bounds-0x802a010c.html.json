@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\ui_e_primitive_out_of_bounds\0x802a010c\index.html.json
+
+title: 0x802A010C UI_E_PRIMITIVE_OUT_OF_BOUNDS in winerror.h
+description: The added primitive begins at or beyond the duration of the interpolator.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x802A010C",
+  "codeUrl": "/win32/winerror-h/ui_e_primitive_out_of_bounds/0x802a010c/",
+  "numericCode": -2144730868,
+  "define": "UI_E_PRIMITIVE_OUT_OF_BOUNDS",
+  "defineUrl": "/win32/winerror-h/ui_e_primitive_out_of_bounds/",
+  "message": "The added primitive begins at or beyond the duration of the interpolator.",
+  "remarks": null,
+  "aka": [
+    "-2144730868"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/ui_e_primitive_out_of_bounds/-2144730868/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

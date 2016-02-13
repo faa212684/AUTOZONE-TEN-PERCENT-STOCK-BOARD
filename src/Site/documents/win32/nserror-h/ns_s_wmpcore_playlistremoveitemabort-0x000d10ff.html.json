@@ -1,0 +1,28 @@
+---
+output: win32\nserror-h\ns_s_wmpcore_playlistremoveitemabort\0x000d10ff\index.html.json
+
+title: 0x000D10FF NS_S_WMPCORE_PLAYLISTREMOVEITEMABORT in nserror.h
+description: Failed to remove item in the playlist since it was aborted by user.%0
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "nserror.h",
+  "sourceUrl": "/win32/nserror-h/",
+  "code": "0x000D10FF",
+  "codeUrl": "/win32/nserror-h/ns_s_wmpcore_playlistremoveitemabort/0x000d10ff/",
+  "numericCode": 856319,
+  "define": "NS_S_WMPCORE_PLAYLISTREMOVEITEMABORT",
+  "defineUrl": "/win32/nserror-h/ns_s_wmpcore_playlistremoveitemabort/",
+  "message": "Failed to remove item in the playlist since it was aborted by user.%0",
+  "remarks": null,
+  "aka": [
+    "856319"
+  ],
+  "akaUrl": [
+    "/win32/nserror-h/ns_s_wmpcore_playlistremoveitemabort/856319/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

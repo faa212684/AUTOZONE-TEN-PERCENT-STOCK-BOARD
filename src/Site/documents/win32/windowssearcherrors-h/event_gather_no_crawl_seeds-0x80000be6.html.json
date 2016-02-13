@@ -1,0 +1,28 @@
+---
+output: win32\windowssearcherrors-h\event_gather_no_crawl_seeds\0x80000be6\index.html.json
+
+title: 0x80000BE6 EVENT_GATHER_NO_CRAWL_SEEDS in WindowsSearchErrors.h
+description: The update for the index cannot be started because the specified content sources were not configured for updates. Add at least one content source.%1
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "0x80000BE6",
+  "codeUrl": "/win32/windowssearcherrors-h/event_gather_no_crawl_seeds/0x80000be6/",
+  "numericCode": -2147480602,
+  "define": "EVENT_GATHER_NO_CRAWL_SEEDS",
+  "defineUrl": "/win32/windowssearcherrors-h/event_gather_no_crawl_seeds/",
+  "message": "The update for the index cannot be started because the specified content sources were not configured for updates. Add at least one content source.%1",
+  "remarks": null,
+  "aka": [
+    "-2147480602"
+  ],
+  "akaUrl": [
+    "/win32/windowssearcherrors-h/event_gather_no_crawl_seeds/-2147480602/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

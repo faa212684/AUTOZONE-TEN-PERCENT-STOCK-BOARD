@@ -1,0 +1,29 @@
+---
+output: win32\wsmerror-h\error_wsman_eventing_delivery_mode_requested_unavailable\0x8033801e\index.html.json
+
+title: 0x8033801E ERROR_WSMAN_EVENTING_DELIVERY_MODE_REQUESTED_UNAVAILABLE in wsmerror.h
+description: The WS-Management service does not support the delivery mode for the specified resource. The client should change the
+subscription to use one of the supported delivery modes.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x8033801E",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_eventing_delivery_mode_requested_unavailable/0x8033801e/",
+  "numericCode": -2144108514,
+  "define": "ERROR_WSMAN_EVENTING_DELIVERY_MODE_REQUESTED_UNAVAILABLE",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_eventing_delivery_mode_requested_unavailable/",
+  "message": "The WS-Management service does not support the delivery mode for the specified resource. The client should change the\r\nsubscription to use one of the supported delivery modes.",
+  "remarks": null,
+  "aka": [
+    "-2144108514"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_eventing_delivery_mode_requested_unavailable/-2144108514/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

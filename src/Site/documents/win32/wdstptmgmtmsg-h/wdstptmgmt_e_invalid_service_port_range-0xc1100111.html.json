@@ -1,0 +1,28 @@
+---
+output: win32\wdstptmgmtmsg-h\wdstptmgmt_e_invalid_service_port_range\0xc1100111\index.html.json
+
+title: 0xC1100111 WDSTPTMGMT_E_INVALID_SERVICE_PORT_RANGE in WdsTptMgmtMsg.h
+description: The specified service port range is invalid. The start port must be less than or equal to the end port, and both values must be between 1025 and 65536, inclusive.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WdsTptMgmtMsg.h",
+  "sourceUrl": "/win32/wdstptmgmtmsg-h/",
+  "code": "0xC1100111",
+  "codeUrl": "/win32/wdstptmgmtmsg-h/wdstptmgmt_e_invalid_service_port_range/0xc1100111/",
+  "numericCode": -1055915759,
+  "define": "WDSTPTMGMT_E_INVALID_SERVICE_PORT_RANGE",
+  "defineUrl": "/win32/wdstptmgmtmsg-h/wdstptmgmt_e_invalid_service_port_range/",
+  "message": "The specified service port range is invalid. The start port must be less than or equal to the end port, and both values must be between 1025 and 65536, inclusive.",
+  "remarks": null,
+  "aka": [
+    "-1055915759"
+  ],
+  "akaUrl": [
+    "/win32/wdstptmgmtmsg-h/wdstptmgmt_e_invalid_service_port_range/-1055915759/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

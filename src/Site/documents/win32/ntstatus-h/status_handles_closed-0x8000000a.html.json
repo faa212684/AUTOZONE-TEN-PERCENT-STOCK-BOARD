@@ -1,0 +1,29 @@
+---
+output: win32\ntstatus-h\status_handles_closed\0x8000000a\index.html.json
+
+title: 0x8000000A STATUS_HANDLES_CLOSED in ntstatus.h
+description: "{Handles Closed}
+Handles to objects have been automatically closed as a result of the requested operation."
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0x8000000A",
+  "codeUrl": "/win32/ntstatus-h/status_handles_closed/0x8000000a/",
+  "numericCode": -2147483638,
+  "define": "STATUS_HANDLES_CLOSED",
+  "defineUrl": "/win32/ntstatus-h/status_handles_closed/",
+  "message": "{Handles Closed}\r\nHandles to objects have been automatically closed as a result of the requested operation.",
+  "remarks": null,
+  "aka": [
+    "-2147483638"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_handles_closed/-2147483638/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

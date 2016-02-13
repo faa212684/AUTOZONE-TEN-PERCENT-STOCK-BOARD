@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\dns_error_soa_delete_invalid\0x80072592\index.html.json
+canonical: /win32/winerror-h/dns_error_soa_delete_invalid/9618/
+title: 0x80072592 DNS_ERROR_SOA_DELETE_INVALID in winerror.h
+description: Invalid delete of start of authority (SOA)
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80072592",
+  "codeUrl": "/win32/winerror-h/dns_error_soa_delete_invalid/0x80072592/",
+  "numericCode": 0,
+  "define": "DNS_ERROR_SOA_DELETE_INVALID",
+  "defineUrl": "/win32/winerror-h/dns_error_soa_delete_invalid/",
+  "message": "Invalid delete of start of authority (SOA)",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "9618",
+  "originalCodeUrl": "/win32/winerror-h/dns_error_soa_delete_invalid/9618/"
+}

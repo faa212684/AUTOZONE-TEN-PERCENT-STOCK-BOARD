@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_pcp_profile_not_found\0xc029200b\index.html.json
+
+title: 0xC029200B STATUS_PCP_PROFILE_NOT_FOUND in ntstatus.h
+description: The referenced profile was not found.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC029200B",
+  "codeUrl": "/win32/ntstatus-h/status_pcp_profile_not_found/0xc029200b/",
+  "numericCode": -1071046645,
+  "define": "STATUS_PCP_PROFILE_NOT_FOUND",
+  "defineUrl": "/win32/ntstatus-h/status_pcp_profile_not_found/",
+  "message": "The referenced profile was not found.",
+  "remarks": null,
+  "aka": [
+    "-1071046645"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_pcp_profile_not_found/-1071046645/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

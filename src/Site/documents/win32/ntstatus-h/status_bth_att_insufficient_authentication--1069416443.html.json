@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_bth_att_insufficient_authentication\-1069416443\index.html.json
+canonical: /win32/ntstatus-h/status_bth_att_insufficient_authentication/0xc0420005/
+title: -1069416443 STATUS_BTH_ATT_INSUFFICIENT_AUTHENTICATION in ntstatus.h
+description: The attribute requires authentication before it can be read or written.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1069416443",
+  "codeUrl": "/win32/ntstatus-h/status_bth_att_insufficient_authentication/-1069416443/",
+  "numericCode": 0,
+  "define": "STATUS_BTH_ATT_INSUFFICIENT_AUTHENTICATION",
+  "defineUrl": "/win32/ntstatus-h/status_bth_att_insufficient_authentication/",
+  "message": "The attribute requires authentication before it can be read or written.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0420005",
+  "originalCodeUrl": "/win32/ntstatus-h/status_bth_att_insufficient_authentication/0xc0420005/"
+}

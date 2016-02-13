@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_server_sid_mismatch\0xc00002a0\index.html.json
+
+title: 0xC00002A0 STATUS_SERVER_SID_MISMATCH in ntstatus.h
+description: The server process is running under a SID different than that required by client.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC00002A0",
+  "codeUrl": "/win32/ntstatus-h/status_server_sid_mismatch/0xc00002a0/",
+  "numericCode": -1073741152,
+  "define": "STATUS_SERVER_SID_MISMATCH",
+  "defineUrl": "/win32/ntstatus-h/status_server_sid_mismatch/",
+  "message": "The server process is running under a SID different than that required by client.",
+  "remarks": null,
+  "aka": [
+    "-1073741152"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_server_sid_mismatch/-1073741152/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

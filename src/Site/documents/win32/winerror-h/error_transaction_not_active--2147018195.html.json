@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_transaction_not_active\-2147018195\index.html.json
+canonical: /win32/winerror-h/error_transaction_not_active/6701/
+title: -2147018195 ERROR_TRANSACTION_NOT_ACTIVE in winerror.h
+description: The requested operation was made in the context of a transaction that is no longer active.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147018195",
+  "codeUrl": "/win32/winerror-h/error_transaction_not_active/-2147018195/",
+  "numericCode": 0,
+  "define": "ERROR_TRANSACTION_NOT_ACTIVE",
+  "defineUrl": "/win32/winerror-h/error_transaction_not_active/",
+  "message": "The requested operation was made in the context of a transaction that is no longer active.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "6701",
+  "originalCodeUrl": "/win32/winerror-h/error_transaction_not_active/6701/"
+}

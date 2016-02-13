@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\error_graphics_parameter_array_too_small\0xc02625e6\index.html.json
+
+title: 0xC02625E6 ERROR_GRAPHICS_PARAMETER_ARRAY_TOO_SMALL in winerror.h
+description: An array passed to the function cannot hold all of the data that the function must copy into the array.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0xC02625E6",
+  "codeUrl": "/win32/winerror-h/error_graphics_parameter_array_too_small/0xc02625e6/",
+  "numericCode": -1071241754,
+  "define": "ERROR_GRAPHICS_PARAMETER_ARRAY_TOO_SMALL",
+  "defineUrl": "/win32/winerror-h/error_graphics_parameter_array_too_small/",
+  "message": "An array passed to the function cannot hold all of the data that the function must copy into the array.",
+  "remarks": null,
+  "aka": [
+    "-1071241754"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_graphics_parameter_array_too_small/-1071241754/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

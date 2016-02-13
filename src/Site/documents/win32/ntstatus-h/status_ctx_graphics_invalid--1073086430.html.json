@@ -1,0 +1,25 @@
+---
+output: win32\ntstatus-h\status_ctx_graphics_invalid\-1073086430\index.html.json
+canonical: /win32/ntstatus-h/status_ctx_graphics_invalid/0xc00a0022/
+title: -1073086430 STATUS_CTX_GRAPHICS_INVALID in ntstatus.h
+description: The application attempted to enable DOS graphics mode.
+DOS graphics mode is not supported.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073086430",
+  "codeUrl": "/win32/ntstatus-h/status_ctx_graphics_invalid/-1073086430/",
+  "numericCode": 0,
+  "define": "STATUS_CTX_GRAPHICS_INVALID",
+  "defineUrl": "/win32/ntstatus-h/status_ctx_graphics_invalid/",
+  "message": "The application attempted to enable DOS graphics mode.\r\nDOS graphics mode is not supported.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC00A0022",
+  "originalCodeUrl": "/win32/ntstatus-h/status_ctx_graphics_invalid/0xc00a0022/"
+}

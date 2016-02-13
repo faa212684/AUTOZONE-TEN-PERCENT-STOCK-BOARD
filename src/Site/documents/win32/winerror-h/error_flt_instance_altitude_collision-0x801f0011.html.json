@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\error_flt_instance_altitude_collision\0x801f0011\index.html.json
+
+title: 0x801F0011 ERROR_FLT_INSTANCE_ALTITUDE_COLLISION in winerror.h
+description: An instance already exists at this altitude on the volume specified.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x801F0011",
+  "codeUrl": "/win32/winerror-h/error_flt_instance_altitude_collision/0x801f0011/",
+  "numericCode": -2145452015,
+  "define": "ERROR_FLT_INSTANCE_ALTITUDE_COLLISION",
+  "defineUrl": "/win32/winerror-h/error_flt_instance_altitude_collision/",
+  "message": "An instance already exists at this altitude on the volume specified.",
+  "remarks": null,
+  "aka": [
+    "-2145452015"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_flt_instance_altitude_collision/-2145452015/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_fve_tpm_disabled\0xc0210016\index.html.json
+
+title: 0xC0210016 STATUS_FVE_TPM_DISABLED in ntstatus.h
+description: The Trusted Platform Module (TPM) is disabled.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0210016",
+  "codeUrl": "/win32/ntstatus-h/status_fve_tpm_disabled/0xc0210016/",
+  "numericCode": -1071579114,
+  "define": "STATUS_FVE_TPM_DISABLED",
+  "defineUrl": "/win32/ntstatus-h/status_fve_tpm_disabled/",
+  "message": "The Trusted Platform Module (TPM) is disabled.",
+  "remarks": null,
+  "aka": [
+    "-1071579114"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_fve_tpm_disabled/-1071579114/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

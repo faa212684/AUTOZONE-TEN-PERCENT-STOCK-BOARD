@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_ipsec_throttle_drop\-1070202871\index.html.json
+canonical: /win32/ntstatus-h/status_ipsec_throttle_drop/0xc0360009/
+title: -1070202871 STATUS_IPSEC_THROTTLE_DROP in ntstatus.h
+description: IPsec dropped a packet due to DoS throttling.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1070202871",
+  "codeUrl": "/win32/ntstatus-h/status_ipsec_throttle_drop/-1070202871/",
+  "numericCode": 0,
+  "define": "STATUS_IPSEC_THROTTLE_DROP",
+  "defineUrl": "/win32/ntstatus-h/status_ipsec_throttle_drop/",
+  "message": "IPsec dropped a packet due to DoS throttling.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0360009",
+  "originalCodeUrl": "/win32/ntstatus-h/status_ipsec_throttle_drop/0xc0360009/"
+}

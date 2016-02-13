@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_page_fault_demand_zero\0x800702ec\index.html.json
+canonical: /win32/winerror-h/error_page_fault_demand_zero/748/
+title: 0x800702ec ERROR_PAGE_FAULT_DEMAND_ZERO in winerror.h
+description: Page fault was a demand zero fault.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800702ec",
+  "codeUrl": "/win32/winerror-h/error_page_fault_demand_zero/0x800702ec/",
+  "numericCode": 0,
+  "define": "ERROR_PAGE_FAULT_DEMAND_ZERO",
+  "defineUrl": "/win32/winerror-h/error_page_fault_demand_zero/",
+  "message": "Page fault was a demand zero fault.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "748",
+  "originalCodeUrl": "/win32/winerror-h/error_page_fault_demand_zero/748/"
+}

@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_sxs_untranslatable_hresult\14077\index.html.json
+
+title: 14077 ERROR_SXS_UNTRANSLATABLE_HRESULT in winerror.h
+description: An HRESULT could not be translated to a corresponding Win32 error code.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "14077",
+  "codeUrl": "/win32/winerror-h/error_sxs_untranslatable_hresult/14077/",
+  "numericCode": 14077,
+  "define": "ERROR_SXS_UNTRANSLATABLE_HRESULT",
+  "defineUrl": "/win32/winerror-h/error_sxs_untranslatable_hresult/",
+  "message": "An HRESULT could not be translated to a corresponding Win32 error code.",
+  "remarks": null,
+  "aka": [
+    "0x800736fd",
+    "-2147010819"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_sxs_untranslatable_hresult/0x800736fd/",
+    "/win32/winerror-h/error_sxs_untranslatable_hresult/-2147010819/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\wsmerror-h\error_wsman_invalid_filter_xml\0x80338107\index.html.json
+
+title: 0x80338107 ERROR_WSMAN_INVALID_FILTER_XML in wsmerror.h
+description: The WS-Management service cannot process the request because the filter XML is invalid.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x80338107",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_invalid_filter_xml/0x80338107/",
+  "numericCode": -2144108281,
+  "define": "ERROR_WSMAN_INVALID_FILTER_XML",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_invalid_filter_xml/",
+  "message": "The WS-Management service cannot process the request because the filter XML is invalid.",
+  "remarks": null,
+  "aka": [
+    "-2144108281"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_invalid_filter_xml/-2144108281/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

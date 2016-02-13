@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\xact_e_lu_not_connected\0x8004d10a\index.html.json
+
+title: 0x8004D10A XACT_E_LU_NOT_CONNECTED in winerror.h
+description: Subordinate creation failed. The specified Logical Unit of Work was not connected.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8004D10A",
+  "codeUrl": "/win32/winerror-h/xact_e_lu_not_connected/0x8004d10a/",
+  "numericCode": -2147167990,
+  "define": "XACT_E_LU_NOT_CONNECTED",
+  "defineUrl": "/win32/winerror-h/xact_e_lu_not_connected/",
+  "message": "Subordinate creation failed. The specified Logical Unit of Work was not connected.",
+  "remarks": null,
+  "aka": [
+    "-2147167990"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/xact_e_lu_not_connected/-2147167990/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

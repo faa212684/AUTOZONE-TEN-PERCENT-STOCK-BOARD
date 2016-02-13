@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_xml_parse_error\1465\index.html.json
+
+title: 1465 ERROR_XML_PARSE_ERROR in winerror.h
+description: Windows was unable to parse the requested XML data.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1465",
+  "codeUrl": "/win32/winerror-h/error_xml_parse_error/1465/",
+  "numericCode": 1465,
+  "define": "ERROR_XML_PARSE_ERROR",
+  "defineUrl": "/win32/winerror-h/error_xml_parse_error/",
+  "message": "Windows was unable to parse the requested XML data.",
+  "remarks": null,
+  "aka": [
+    "0x800705b9",
+    "-2147023431"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_xml_parse_error/0x800705b9/",
+    "/win32/winerror-h/error_xml_parse_error/-2147023431/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

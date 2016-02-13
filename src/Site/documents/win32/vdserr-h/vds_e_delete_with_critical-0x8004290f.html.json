@@ -1,0 +1,29 @@
+---
+output: win32\vdserr-h\vds_e_delete_with_critical\0x8004290f\index.html.json
+
+title: 0x8004290F VDS_E_DELETE_WITH_CRITICAL in vdserr.h
+description: Delete is not allowed on the current boot, system, pagefile,
+crashdump or hibernation volume.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x8004290F",
+  "codeUrl": "/win32/vdserr-h/vds_e_delete_with_critical/0x8004290f/",
+  "numericCode": -2147210993,
+  "define": "VDS_E_DELETE_WITH_CRITICAL",
+  "defineUrl": "/win32/vdserr-h/vds_e_delete_with_critical/",
+  "message": "Delete is not allowed on the current boot, system, pagefile,\r\ncrashdump or hibernation volume.",
+  "remarks": null,
+  "aka": [
+    "-2147210993"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_delete_with_critical/-2147210993/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

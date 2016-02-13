@@ -1,0 +1,29 @@
+---
+output: win32\ntstatus-h\status_no_such_file\0xc000000f\index.html.json
+
+title: 0xC000000F STATUS_NO_SUCH_FILE in ntstatus.h
+description: "{File Not Found}
+The file %hs does not exist."
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000000F",
+  "codeUrl": "/win32/ntstatus-h/status_no_such_file/0xc000000f/",
+  "numericCode": -1073741809,
+  "define": "STATUS_NO_SUCH_FILE",
+  "defineUrl": "/win32/ntstatus-h/status_no_such_file/",
+  "message": "{File Not Found}\r\nThe file %hs does not exist.",
+  "remarks": null,
+  "aka": [
+    "-1073741809"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_no_such_file/-1073741809/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

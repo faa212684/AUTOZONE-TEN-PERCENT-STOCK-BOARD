@@ -1,0 +1,29 @@
+---
+output: win32\cdosyserr-h\evtsavedeletefailfbupdate\0xc0032015\index.html.json
+
+title: 0xC0032015 evtSaveDeleteFailFBUpdate in CDOSysErr.h
+description: Calendaring agent failed to update the free/busy cache during an appointment save or delete operation.
+%n%nFor more information, click http:www.microsoft.com/contentredirect.asp.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "CDOSysErr.h",
+  "sourceUrl": "/win32/cdosyserr-h/",
+  "code": "0xC0032015",
+  "codeUrl": "/win32/cdosyserr-h/evtsavedeletefailfbupdate/0xc0032015/",
+  "numericCode": -1073537003,
+  "define": "evtSaveDeleteFailFBUpdate",
+  "defineUrl": "/win32/cdosyserr-h/evtsavedeletefailfbupdate/",
+  "message": "Calendaring agent failed to update the free/busy cache during an appointment save or delete operation.\r\n%n%nFor more information, click http:www.microsoft.com/contentredirect.asp.",
+  "remarks": null,
+  "aka": [
+    "-1073537003"
+  ],
+  "akaUrl": [
+    "/win32/cdosyserr-h/evtsavedeletefailfbupdate/-1073537003/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_vid_mbp_count_exceeded_limit\0xc0370026\index.html.json
+
+title: 0xC0370026 STATUS_VID_MBP_COUNT_EXCEEDED_LIMIT in ntstatus.h
+description: Cannot create the memory block for the virtualization infrastructure driver because the requested number of pages exceeded the limit. Restarting the virtual machine may fix the problem. If the problem persists, try restarting the physical computer.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0370026",
+  "codeUrl": "/win32/ntstatus-h/status_vid_mbp_count_exceeded_limit/0xc0370026/",
+  "numericCode": -1070137306,
+  "define": "STATUS_VID_MBP_COUNT_EXCEEDED_LIMIT",
+  "defineUrl": "/win32/ntstatus-h/status_vid_mbp_count_exceeded_limit/",
+  "message": "Cannot create the memory block for the virtualization infrastructure driver because the requested number of pages exceeded the limit. Restarting the virtual machine may fix the problem. If the problem persists, try restarting the physical computer.",
+  "remarks": null,
+  "aka": [
+    "-1070137306"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_vid_mbp_count_exceeded_limit/-1070137306/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

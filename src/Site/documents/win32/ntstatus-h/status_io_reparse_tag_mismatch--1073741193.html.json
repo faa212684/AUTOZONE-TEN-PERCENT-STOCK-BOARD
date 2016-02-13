@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_io_reparse_tag_mismatch\-1073741193\index.html.json
+canonical: /win32/ntstatus-h/status_io_reparse_tag_mismatch/0xc0000277/
+title: -1073741193 STATUS_IO_REPARSE_TAG_MISMATCH in ntstatus.h
+description: The Windows I/O reparse tag does not match the one present in the NTFS reparse point.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741193",
+  "codeUrl": "/win32/ntstatus-h/status_io_reparse_tag_mismatch/-1073741193/",
+  "numericCode": 0,
+  "define": "STATUS_IO_REPARSE_TAG_MISMATCH",
+  "defineUrl": "/win32/ntstatus-h/status_io_reparse_tag_mismatch/",
+  "message": "The Windows I/O reparse tag does not match the one present in the NTFS reparse point.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000277",
+  "originalCodeUrl": "/win32/ntstatus-h/status_io_reparse_tag_mismatch/0xc0000277/"
+}

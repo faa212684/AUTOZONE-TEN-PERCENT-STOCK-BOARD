@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_transaction_not_joined\0xc0190007\index.html.json
+
+title: 0xC0190007 STATUS_TRANSACTION_NOT_JOINED in ntstatus.h
+description: The resource manager has attempted to prepare a transaction that it has not successfully joined.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0190007",
+  "codeUrl": "/win32/ntstatus-h/status_transaction_not_joined/0xc0190007/",
+  "numericCode": -1072103417,
+  "define": "STATUS_TRANSACTION_NOT_JOINED",
+  "defineUrl": "/win32/ntstatus-h/status_transaction_not_joined/",
+  "message": "The resource manager has attempted to prepare a transaction that it has not successfully joined.",
+  "remarks": null,
+  "aka": [
+    "-1072103417"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_transaction_not_joined/-1072103417/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

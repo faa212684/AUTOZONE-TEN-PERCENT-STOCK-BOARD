@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_vid_too_many_handlers\0xc0370002\index.html.json
+
+title: 0xC0370002 STATUS_VID_TOO_MANY_HANDLERS in ntstatus.h
+description: The number of registered handlers for the virtualization infrastructure driver exceeded the maximum. Restarting the virtual machine may fix the problem. If the problem persists, try restarting the physical computer.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0370002",
+  "codeUrl": "/win32/ntstatus-h/status_vid_too_many_handlers/0xc0370002/",
+  "numericCode": -1070137342,
+  "define": "STATUS_VID_TOO_MANY_HANDLERS",
+  "defineUrl": "/win32/ntstatus-h/status_vid_too_many_handlers/",
+  "message": "The number of registered handlers for the virtualization infrastructure driver exceeded the maximum. Restarting the virtual machine may fix the problem. If the problem persists, try restarting the physical computer.",
+  "remarks": null,
+  "aka": [
+    "-1070137342"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_vid_too_many_handlers/-1070137342/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\fwp_e_incompatible_cipher_transform\0x8032003a\index.html.json
+
+title: 0x8032003A FWP_E_INCOMPATIBLE_CIPHER_TRANSFORM in winerror.h
+description: The IPsec cipher transform is not compatible with the policy.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8032003A",
+  "codeUrl": "/win32/winerror-h/fwp_e_incompatible_cipher_transform/0x8032003a/",
+  "numericCode": -2144206790,
+  "define": "FWP_E_INCOMPATIBLE_CIPHER_TRANSFORM",
+  "defineUrl": "/win32/winerror-h/fwp_e_incompatible_cipher_transform/",
+  "message": "The IPsec cipher transform is not compatible with the policy.",
+  "remarks": null,
+  "aka": [
+    "-2144206790"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/fwp_e_incompatible_cipher_transform/-2144206790/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

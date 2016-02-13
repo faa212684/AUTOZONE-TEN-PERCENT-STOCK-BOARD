@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_indigenous_type\4338\index.html.json
+
+title: 4338 ERROR_INDIGENOUS_TYPE in winerror.h
+description: The media type cannot be removed from this library since at least one drive in the library reports it can support this media type.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "4338",
+  "codeUrl": "/win32/winerror-h/error_indigenous_type/4338/",
+  "numericCode": 4338,
+  "define": "ERROR_INDIGENOUS_TYPE",
+  "defineUrl": "/win32/winerror-h/error_indigenous_type/",
+  "message": "The media type cannot be removed from this library since at least one drive in the library reports it can support this media type.",
+  "remarks": null,
+  "aka": [
+    "0x800710f2",
+    "-2147020558"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_indigenous_type/0x800710f2/",
+    "/win32/winerror-h/error_indigenous_type/-2147020558/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

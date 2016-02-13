@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_vdm_disallowed\0xc0000414\index.html.json
+
+title: 0xC0000414 STATUS_VDM_DISALLOWED in ntstatus.h
+description: %hs is a 16-bit application. You do not have permissions to execute 16-bit applications. Check your permissions with your system administrator.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000414",
+  "codeUrl": "/win32/ntstatus-h/status_vdm_disallowed/0xc0000414/",
+  "numericCode": -1073740780,
+  "define": "STATUS_VDM_DISALLOWED",
+  "defineUrl": "/win32/ntstatus-h/status_vdm_disallowed/",
+  "message": "%hs is a 16-bit application. You do not have permissions to execute 16-bit applications. Check your permissions with your system administrator.",
+  "remarks": null,
+  "aka": [
+    "-1073740780"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_vdm_disallowed/-1073740780/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

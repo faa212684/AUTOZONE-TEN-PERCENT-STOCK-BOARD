@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ds_no_ref_domain\8575\index.html.json
+
+title: 8575 ERROR_DS_NO_REF_DOMAIN in winerror.h
+description: Unable to find a valid security descriptor reference domain for this partition.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "8575",
+  "codeUrl": "/win32/winerror-h/error_ds_no_ref_domain/8575/",
+  "numericCode": 8575,
+  "define": "ERROR_DS_NO_REF_DOMAIN",
+  "defineUrl": "/win32/winerror-h/error_ds_no_ref_domain/",
+  "message": "Unable to find a valid security descriptor reference domain for this partition.",
+  "remarks": null,
+  "aka": [
+    "0x8007217f",
+    "-2147016321"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ds_no_ref_domain/0x8007217f/",
+    "/win32/winerror-h/error_ds_no_ref_domain/-2147016321/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

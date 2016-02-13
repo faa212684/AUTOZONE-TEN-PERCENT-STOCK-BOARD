@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_graphics_chainlinks_not_started\-1071774668\index.html.json
+canonical: /win32/ntstatus-h/status_graphics_chainlinks_not_started/0xc01e0434/
+title: -1071774668 STATUS_GRAPHICS_CHAINLINKS_NOT_STARTED in ntstatus.h
+description: An attempt was made to start a lead link display adapter when the chain links were not started yet.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071774668",
+  "codeUrl": "/win32/ntstatus-h/status_graphics_chainlinks_not_started/-1071774668/",
+  "numericCode": 0,
+  "define": "STATUS_GRAPHICS_CHAINLINKS_NOT_STARTED",
+  "defineUrl": "/win32/ntstatus-h/status_graphics_chainlinks_not_started/",
+  "message": "An attempt was made to start a lead link display adapter when the chain links were not started yet.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC01E0434",
+  "originalCodeUrl": "/win32/ntstatus-h/status_graphics_chainlinks_not_started/0xc01e0434/"
+}

@@ -1,0 +1,28 @@
+---
+output: win32\windowssearcherrors-h\event_autocat_perfmon\0xc0000bff\index.html.json
+
+title: 0xC0000BFF EVENT_AUTOCAT_PERFMON in WindowsSearchErrors.h
+description: Performance monitoring cannot be initialized for the topic assistant object, because the counters are not loaded or the shared memory object cannot be opened. This only affects availability of the perfmon counters. Restart the computer.%1
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "0xC0000BFF",
+  "codeUrl": "/win32/windowssearcherrors-h/event_autocat_perfmon/0xc0000bff/",
+  "numericCode": -1073738753,
+  "define": "EVENT_AUTOCAT_PERFMON",
+  "defineUrl": "/win32/windowssearcherrors-h/event_autocat_perfmon/",
+  "message": "Performance monitoring cannot be initialized for the topic assistant object, because the counters are not loaded or the shared memory object cannot be opened. This only affects availability of the perfmon counters. Restart the computer.%1",
+  "remarks": null,
+  "aka": [
+    "-1073738753"
+  ],
+  "akaUrl": [
+    "/win32/windowssearcherrors-h/event_autocat_perfmon/-1073738753/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

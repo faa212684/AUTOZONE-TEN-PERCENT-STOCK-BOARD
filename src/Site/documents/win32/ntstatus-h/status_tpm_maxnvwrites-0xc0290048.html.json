@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_tpm_maxnvwrites\0xc0290048\index.html.json
+
+title: 0xC0290048 STATUS_TPM_MAXNVWRITES in ntstatus.h
+description: The maximum number of NV writes without an owner has been exceeded.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0290048",
+  "codeUrl": "/win32/ntstatus-h/status_tpm_maxnvwrites/0xc0290048/",
+  "numericCode": -1071054776,
+  "define": "STATUS_TPM_MAXNVWRITES",
+  "defineUrl": "/win32/ntstatus-h/status_tpm_maxnvwrites/",
+  "message": "The maximum number of NV writes without an owner has been exceeded.",
+  "remarks": null,
+  "aka": [
+    "-1071054776"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_tpm_maxnvwrites/-1071054776/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_e_no_free_space\0x80042437\index.html.json
+
+title: 0x80042437 VDS_E_NO_FREE_SPACE in vdserr.h
+description: The selected disk does not have enough free space to complete the operation.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x80042437",
+  "codeUrl": "/win32/vdserr-h/vds_e_no_free_space/0x80042437/",
+  "numericCode": -2147212233,
+  "define": "VDS_E_NO_FREE_SPACE",
+  "defineUrl": "/win32/vdserr-h/vds_e_no_free_space/",
+  "message": "The selected disk does not have enough free space to complete the operation.",
+  "remarks": null,
+  "aka": [
+    "-2147212233"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_no_free_space/-2147212233/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,29 @@
+---
+output: win32\cdosyserr-h\evtmailboxcreatetotalfailure\0xc003200b\index.html.json
+
+title: 0xC003200B evtMailboxCreateTotalFailure in CDOSysErr.h
+description: The mailbox creation callback failed to create any folders in mailbox %1.
+%n%nFor more information, click http:www.microsoft.com/contentredirect.asp.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "CDOSysErr.h",
+  "sourceUrl": "/win32/cdosyserr-h/",
+  "code": "0xC003200B",
+  "codeUrl": "/win32/cdosyserr-h/evtmailboxcreatetotalfailure/0xc003200b/",
+  "numericCode": -1073537013,
+  "define": "evtMailboxCreateTotalFailure",
+  "defineUrl": "/win32/cdosyserr-h/evtmailboxcreatetotalfailure/",
+  "message": "The mailbox creation callback failed to create any folders in mailbox %1.\r\n%n%nFor more information, click http:www.microsoft.com/contentredirect.asp.",
+  "remarks": null,
+  "aka": [
+    "-1073537013"
+  ],
+  "akaUrl": [
+    "/win32/cdosyserr-h/evtmailboxcreatetotalfailure/-1073537013/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

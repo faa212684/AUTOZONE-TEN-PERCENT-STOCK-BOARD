@@ -1,0 +1,31 @@
+---
+output: win32\winerror-h\error_ds_init_failure_console\8561\index.html.json
+
+title: 8561 ERROR_DS_INIT_FAILURE_CONSOLE in winerror.h
+description: Directory Services could not start because of the following error: %1.
+Error Status: 0x%2. Please click OK to shutdown the system. You can use the recovery console to diagnose the system further.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "8561",
+  "codeUrl": "/win32/winerror-h/error_ds_init_failure_console/8561/",
+  "numericCode": 8561,
+  "define": "ERROR_DS_INIT_FAILURE_CONSOLE",
+  "defineUrl": "/win32/winerror-h/error_ds_init_failure_console/",
+  "message": "Directory Services could not start because of the following error: %1.\r\nError Status: 0x%2. Please click OK to shutdown the system. You can use the recovery console to diagnose the system further.",
+  "remarks": null,
+  "aka": [
+    "0x80072171",
+    "-2147016335"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ds_init_failure_console/0x80072171/",
+    "/win32/winerror-h/error_ds_init_failure_console/-2147016335/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

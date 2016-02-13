@@ -1,0 +1,28 @@
+---
+output: win32\wuerror-h\wu_e_au_nonlegacyserver\0x8024a002\index.html.json
+
+title: 0x8024A002 WU_E_AU_NONLEGACYSERVER in wuerror.h
+description: The old version of the Automatic Updates client has stopped because the WSUS server has been upgraded.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wuerror.h",
+  "sourceUrl": "/win32/wuerror-h/",
+  "code": "0x8024A002",
+  "codeUrl": "/win32/wuerror-h/wu_e_au_nonlegacyserver/0x8024a002/",
+  "numericCode": -2145083390,
+  "define": "WU_E_AU_NONLEGACYSERVER",
+  "defineUrl": "/win32/wuerror-h/wu_e_au_nonlegacyserver/",
+  "message": "The old version of the Automatic Updates client has stopped because the WSUS server has been upgraded.",
+  "remarks": null,
+  "aka": [
+    "-2145083390"
+  ],
+  "akaUrl": [
+    "/win32/wuerror-h/wu_e_au_nonlegacyserver/-2145083390/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

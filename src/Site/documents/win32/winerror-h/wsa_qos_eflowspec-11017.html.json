@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\wsa_qos_eflowspec\11017\index.html.json
+
+title: 11017 WSA_QOS_EFLOWSPEC in winerror.h
+description: An invalid or inconsistent flowspec was found in the QOS structure.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "11017",
+  "codeUrl": "/win32/winerror-h/wsa_qos_eflowspec/11017/",
+  "numericCode": 11017,
+  "define": "WSA_QOS_EFLOWSPEC",
+  "defineUrl": "/win32/winerror-h/wsa_qos_eflowspec/",
+  "message": "An invalid or inconsistent flowspec was found in the QOS structure.",
+  "remarks": null,
+  "aka": [
+    "0x80072b09",
+    "-2147013879"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/wsa_qos_eflowspec/0x80072b09/",
+    "/win32/winerror-h/wsa_qos_eflowspec/-2147013879/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

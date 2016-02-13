@@ -1,0 +1,28 @@
+---
+output: win32\windowssearcherrors-h\gthr_e_invalid_start_address\0x80040db2\index.html.json
+
+title: 0x80040DB2 GTHR_E_INVALID_START_ADDRESS in WindowsSearchErrors.h
+description: The start address is invalid because it is a local path.  Please enter a valid start address.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "0x80040DB2",
+  "codeUrl": "/win32/windowssearcherrors-h/gthr_e_invalid_start_address/0x80040db2/",
+  "numericCode": -2147217998,
+  "define": "GTHR_E_INVALID_START_ADDRESS",
+  "defineUrl": "/win32/windowssearcherrors-h/gthr_e_invalid_start_address/",
+  "message": "The start address is invalid because it is a local path.  Please enter a valid start address.",
+  "remarks": null,
+  "aka": [
+    "-2147217998"
+  ],
+  "akaUrl": [
+    "/win32/windowssearcherrors-h/gthr_e_invalid_start_address/-2147217998/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,24 @@
+---
+output: msi\1941\index.html.json
+
+title: msi 1941
+description: Both LockPermissions and MsiLockPermissionsEx tables were found in the package. Only one of them should be present. This is a problem with the package.
+disqus: true
+---
+{
+  "area": "msi",
+  "areaUrl": "/msi/",
+  "source": null,
+  "sourceUrl": "/msi/",
+  "code": "1941",
+  "codeUrl": "/msi/1941/",
+  "numericCode": 1941,
+  "define": null,
+  "defineUrl": "/msi/",
+  "message": "Both LockPermissions and MsiLockPermissionsEx tables were found in the package. Only one of them should be present. This is a problem with the package.",
+  "remarks": "A package cannot contain both the <a href=\"https://msdn.microsoft.com/en-us/library/dd408009(v=vs.85).aspx\">MsiLockPermissionsEx Table</a> and the <a href=\"https://msdn.microsoft.com/en-us/library/aa369774(v=vs.85).aspx\">LockPermissions Table</a>.\r\n\r\nAvailable beginning with Windows Installer 5.0 for Windows 7 and Windows Server 2008 R2.",
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": null,
+  "originalCodeUrl": null
+}

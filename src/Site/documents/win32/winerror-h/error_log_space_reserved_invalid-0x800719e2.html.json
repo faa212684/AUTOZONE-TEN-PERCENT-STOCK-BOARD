@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_log_space_reserved_invalid\0x800719e2\index.html.json
+canonical: /win32/winerror-h/error_log_space_reserved_invalid/6626/
+title: 0x800719e2 ERROR_LOG_SPACE_RESERVED_INVALID in winerror.h
+description: Reserved log space or the adjustment of the log space is invalid.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800719e2",
+  "codeUrl": "/win32/winerror-h/error_log_space_reserved_invalid/0x800719e2/",
+  "numericCode": 0,
+  "define": "ERROR_LOG_SPACE_RESERVED_INVALID",
+  "defineUrl": "/win32/winerror-h/error_log_space_reserved_invalid/",
+  "message": "Reserved log space or the adjustment of the log space is invalid.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "6626",
+  "originalCodeUrl": "/win32/winerror-h/error_log_space_reserved_invalid/6626/"
+}

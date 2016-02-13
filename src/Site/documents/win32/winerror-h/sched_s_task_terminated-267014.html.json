@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\sched_s_task_terminated\267014\index.html.json
+canonical: /win32/winerror-h/sched_s_task_terminated/0x00041306/
+title: 267014 SCHED_S_TASK_TERMINATED in winerror.h
+description: The last run of the task was terminated by the user.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "267014",
+  "codeUrl": "/win32/winerror-h/sched_s_task_terminated/267014/",
+  "numericCode": 0,
+  "define": "SCHED_S_TASK_TERMINATED",
+  "defineUrl": "/win32/winerror-h/sched_s_task_terminated/",
+  "message": "The last run of the task was terminated by the user.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x00041306",
+  "originalCodeUrl": "/win32/winerror-h/sched_s_task_terminated/0x00041306/"
+}

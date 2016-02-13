@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ds_destination_auditing_not_enabled\8536\index.html.json
+
+title: 8536 ERROR_DS_DESTINATION_AUDITING_NOT_ENABLED in winerror.h
+description: The operation requires that destination domain auditing be enabled.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "8536",
+  "codeUrl": "/win32/winerror-h/error_ds_destination_auditing_not_enabled/8536/",
+  "numericCode": 8536,
+  "define": "ERROR_DS_DESTINATION_AUDITING_NOT_ENABLED",
+  "defineUrl": "/win32/winerror-h/error_ds_destination_auditing_not_enabled/",
+  "message": "The operation requires that destination domain auditing be enabled.",
+  "remarks": null,
+  "aka": [
+    "0x80072158",
+    "-2147016360"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ds_destination_auditing_not_enabled/0x80072158/",
+    "/win32/winerror-h/error_ds_destination_auditing_not_enabled/-2147016360/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

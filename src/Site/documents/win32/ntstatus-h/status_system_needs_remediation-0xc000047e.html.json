@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_system_needs_remediation\0xc000047e\index.html.json
+
+title: 0xC000047E STATUS_SYSTEM_NEEDS_REMEDIATION in ntstatus.h
+description: An error in a system binary was detected. Try refreshing the PC to fix the problem.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000047E",
+  "codeUrl": "/win32/ntstatus-h/status_system_needs_remediation/0xc000047e/",
+  "numericCode": -1073740674,
+  "define": "STATUS_SYSTEM_NEEDS_REMEDIATION",
+  "defineUrl": "/win32/ntstatus-h/status_system_needs_remediation/",
+  "message": "An error in a system binary was detected. Try refreshing the PC to fix the problem.",
+  "remarks": null,
+  "aka": [
+    "-1073740674"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_system_needs_remediation/-1073740674/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

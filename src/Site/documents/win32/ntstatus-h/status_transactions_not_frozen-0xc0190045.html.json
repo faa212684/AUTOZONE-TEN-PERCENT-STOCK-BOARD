@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_transactions_not_frozen\0xc0190045\index.html.json
+
+title: 0xC0190045 STATUS_TRANSACTIONS_NOT_FROZEN in ntstatus.h
+description: The request to thaw frozen transactions was ignored because transactions had not previously been frozen.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0190045",
+  "codeUrl": "/win32/ntstatus-h/status_transactions_not_frozen/0xc0190045/",
+  "numericCode": -1072103355,
+  "define": "STATUS_TRANSACTIONS_NOT_FROZEN",
+  "defineUrl": "/win32/ntstatus-h/status_transactions_not_frozen/",
+  "message": "The request to thaw frozen transactions was ignored because transactions had not previously been frozen.",
+  "remarks": null,
+  "aka": [
+    "-1072103355"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_transactions_not_frozen/-1072103355/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

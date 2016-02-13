@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_not_capable\-1073740759\index.html.json
+canonical: /win32/ntstatus-h/status_not_capable/0xc0000429/
+title: -1073740759 STATUS_NOT_CAPABLE in ntstatus.h
+description: The implementation is not capable of performing the request.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073740759",
+  "codeUrl": "/win32/ntstatus-h/status_not_capable/-1073740759/",
+  "numericCode": 0,
+  "define": "STATUS_NOT_CAPABLE",
+  "defineUrl": "/win32/ntstatus-h/status_not_capable/",
+  "message": "The implementation is not capable of performing the request.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000429",
+  "originalCodeUrl": "/win32/ntstatus-h/status_not_capable/0xc0000429/"
+}

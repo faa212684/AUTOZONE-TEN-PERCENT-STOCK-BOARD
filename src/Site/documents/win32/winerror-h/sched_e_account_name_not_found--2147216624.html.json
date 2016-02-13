@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\sched_e_account_name_not_found\-2147216624\index.html.json
+canonical: /win32/winerror-h/sched_e_account_name_not_found/0x80041310/
+title: -2147216624 SCHED_E_ACCOUNT_NAME_NOT_FOUND in winerror.h
+description: Unable to establish existence of the account specified.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147216624",
+  "codeUrl": "/win32/winerror-h/sched_e_account_name_not_found/-2147216624/",
+  "numericCode": 0,
+  "define": "SCHED_E_ACCOUNT_NAME_NOT_FOUND",
+  "defineUrl": "/win32/winerror-h/sched_e_account_name_not_found/",
+  "message": "Unable to establish existence of the account specified.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80041310",
+  "originalCodeUrl": "/win32/winerror-h/sched_e_account_name_not_found/0x80041310/"
+}

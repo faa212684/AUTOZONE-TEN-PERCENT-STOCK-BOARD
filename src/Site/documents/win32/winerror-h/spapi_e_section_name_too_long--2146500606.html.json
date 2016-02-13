@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\spapi_e_section_name_too_long\-2146500606\index.html.json
+canonical: /win32/winerror-h/spapi_e_section_name_too_long/0x800f0002/
+title: -2146500606 SPAPI_E_SECTION_NAME_TOO_LONG in winerror.h
+description: An INF section was encountered whose name exceeds the maximum section name length.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2146500606",
+  "codeUrl": "/win32/winerror-h/spapi_e_section_name_too_long/-2146500606/",
+  "numericCode": 0,
+  "define": "SPAPI_E_SECTION_NAME_TOO_LONG",
+  "defineUrl": "/win32/winerror-h/spapi_e_section_name_too_long/",
+  "message": "An INF section was encountered whose name exceeds the maximum section name length.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x800F0002",
+  "originalCodeUrl": "/win32/winerror-h/spapi_e_section_name_too_long/0x800f0002/"
+}

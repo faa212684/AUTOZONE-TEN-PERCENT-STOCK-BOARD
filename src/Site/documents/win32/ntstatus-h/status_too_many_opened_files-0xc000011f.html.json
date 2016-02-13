@@ -1,0 +1,29 @@
+---
+output: win32\ntstatus-h\status_too_many_opened_files\0xc000011f\index.html.json
+
+title: 0xC000011F STATUS_TOO_MANY_OPENED_FILES in ntstatus.h
+description: Too many files are opened on a remote server.
+This error should only be returned by the Windows redirector on a remote drive.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000011F",
+  "codeUrl": "/win32/ntstatus-h/status_too_many_opened_files/0xc000011f/",
+  "numericCode": -1073741537,
+  "define": "STATUS_TOO_MANY_OPENED_FILES",
+  "defineUrl": "/win32/ntstatus-h/status_too_many_opened_files/",
+  "message": "Too many files are opened on a remote server.\r\nThis error should only be returned by the Windows redirector on a remote drive.",
+  "remarks": null,
+  "aka": [
+    "-1073741537"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_too_many_opened_files/-1073741537/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_cannot_break_oplock\-1073739511\index.html.json
+canonical: /win32/ntstatus-h/status_cannot_break_oplock/0xc0000909/
+title: -1073739511 STATUS_CANNOT_BREAK_OPLOCK in ntstatus.h
+description: The operation did not complete successfully because it would cause an oplock to be broken. The caller has requested that existing oplocks not be broken.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073739511",
+  "codeUrl": "/win32/ntstatus-h/status_cannot_break_oplock/-1073739511/",
+  "numericCode": 0,
+  "define": "STATUS_CANNOT_BREAK_OPLOCK",
+  "defineUrl": "/win32/ntstatus-h/status_cannot_break_oplock/",
+  "message": "The operation did not complete successfully because it would cause an oplock to be broken. The caller has requested that existing oplocks not be broken.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000909",
+  "originalCodeUrl": "/win32/ntstatus-h/status_cannot_break_oplock/0xc0000909/"
+}

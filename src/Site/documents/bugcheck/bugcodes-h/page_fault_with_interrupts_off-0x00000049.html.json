@@ -1,0 +1,28 @@
+---
+output: bugcheck\bugcodes-h\page_fault_with_interrupts_off\0x00000049\index.html.json
+
+title: 0x00000049 PAGE_FAULT_WITH_INTERRUPTS_OFF in bugcodes.h
+description: PAGE_FAULT_WITH_INTERRUPTS_OFF
+disqus: true
+---
+{
+  "area": "bugcheck",
+  "areaUrl": "/bugcheck/",
+  "source": "bugcodes.h",
+  "sourceUrl": "/bugcheck/bugcodes-h/",
+  "code": "0x00000049",
+  "codeUrl": "/bugcheck/bugcodes-h/page_fault_with_interrupts_off/0x00000049/",
+  "numericCode": 73,
+  "define": "PAGE_FAULT_WITH_INTERRUPTS_OFF",
+  "defineUrl": "/bugcheck/bugcodes-h/page_fault_with_interrupts_off/",
+  "message": "PAGE_FAULT_WITH_INTERRUPTS_OFF",
+  "remarks": null,
+  "aka": [
+    "73"
+  ],
+  "akaUrl": [
+    "/bugcheck/bugcodes-h/page_fault_with_interrupts_off/73/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

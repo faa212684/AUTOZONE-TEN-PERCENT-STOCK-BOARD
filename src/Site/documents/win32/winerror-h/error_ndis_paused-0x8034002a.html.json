@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\error_ndis_paused\0x8034002a\index.html.json
+
+title: 0x8034002A ERROR_NDIS_PAUSED in winerror.h
+description: The offload operation on the network interface has been paused.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8034002A",
+  "codeUrl": "/win32/winerror-h/error_ndis_paused/0x8034002a/",
+  "numericCode": -2144075734,
+  "define": "ERROR_NDIS_PAUSED",
+  "defineUrl": "/win32/winerror-h/error_ndis_paused/",
+  "message": "The offload operation on the network interface has been paused.",
+  "remarks": null,
+  "aka": [
+    "-2144075734"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ndis_paused/-2144075734/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

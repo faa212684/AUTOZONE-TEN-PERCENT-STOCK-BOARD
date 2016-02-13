@@ -1,0 +1,28 @@
+---
+output: win32\ntiologc-h\io_error_io_hardware_error\0xc004009a\index.html.json
+
+title: 0xC004009A IO_ERROR_IO_HARDWARE_ERROR in ntiologc.h
+description: The IO operation at logical block address %2 for Disk %3 (PDO name: %4) failed due to a hardware error.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntiologc.h",
+  "sourceUrl": "/win32/ntiologc-h/",
+  "code": "0xC004009A",
+  "codeUrl": "/win32/ntiologc-h/io_error_io_hardware_error/0xc004009a/",
+  "numericCode": -1073479526,
+  "define": "IO_ERROR_IO_HARDWARE_ERROR",
+  "defineUrl": "/win32/ntiologc-h/io_error_io_hardware_error/",
+  "message": "The IO operation at logical block address %2 for Disk %3 (PDO name: %4) failed due to a hardware error.",
+  "remarks": null,
+  "aka": [
+    "-1073479526"
+  ],
+  "akaUrl": [
+    "/win32/ntiologc-h/io_error_io_hardware_error/-1073479526/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

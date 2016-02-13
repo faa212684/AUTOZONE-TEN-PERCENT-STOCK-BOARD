@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_suspend_count_exceeded\0xc000004a\index.html.json
+
+title: 0xC000004A STATUS_SUSPEND_COUNT_EXCEEDED in ntstatus.h
+description: An attempt was made to suspend a thread whose suspend count was at its maximum.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000004A",
+  "codeUrl": "/win32/ntstatus-h/status_suspend_count_exceeded/0xc000004a/",
+  "numericCode": -1073741750,
+  "define": "STATUS_SUSPEND_COUNT_EXCEEDED",
+  "defineUrl": "/win32/ntstatus-h/status_suspend_count_exceeded/",
+  "message": "An attempt was made to suspend a thread whose suspend count was at its maximum.",
+  "remarks": null,
+  "aka": [
+    "-1073741750"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_suspend_count_exceeded/-1073741750/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

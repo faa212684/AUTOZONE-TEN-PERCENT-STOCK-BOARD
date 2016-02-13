@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_no_efs\6004\index.html.json
+
+title: 6004 ERROR_NO_EFS in winerror.h
+description: The required encryption driver is not loaded for this system.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "6004",
+  "codeUrl": "/win32/winerror-h/error_no_efs/6004/",
+  "numericCode": 6004,
+  "define": "ERROR_NO_EFS",
+  "defineUrl": "/win32/winerror-h/error_no_efs/",
+  "message": "The required encryption driver is not loaded for this system.",
+  "remarks": null,
+  "aka": [
+    "0x80071774",
+    "-2147018892"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_no_efs/0x80071774/",
+    "/win32/winerror-h/error_no_efs/-2147018892/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

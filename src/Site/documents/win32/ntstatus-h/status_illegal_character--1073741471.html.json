@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_illegal_character\-1073741471\index.html.json
+canonical: /win32/ntstatus-h/status_illegal_character/0xc0000161/
+title: -1073741471 STATUS_ILLEGAL_CHARACTER in ntstatus.h
+description: An illegal character was encountered. For a multi-byte character set this includes a lead byte without a succeeding trail byte. For the Unicode character set this includes the characters 0xFFFF and 0xFFFE.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741471",
+  "codeUrl": "/win32/ntstatus-h/status_illegal_character/-1073741471/",
+  "numericCode": 0,
+  "define": "STATUS_ILLEGAL_CHARACTER",
+  "defineUrl": "/win32/ntstatus-h/status_illegal_character/",
+  "message": "An illegal character was encountered. For a multi-byte character set this includes a lead byte without a succeeding trail byte. For the Unicode character set this includes the characters 0xFFFF and 0xFFFE.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000161",
+  "originalCodeUrl": "/win32/ntstatus-h/status_illegal_character/0xc0000161/"
+}

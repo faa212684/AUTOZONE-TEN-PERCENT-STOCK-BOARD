@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_no_impersonation_token\0xc000005c\index.html.json
+
+title: 0xC000005C STATUS_NO_IMPERSONATION_TOKEN in ntstatus.h
+description: An attempt has been made to operate on an impersonation token by a thread that is not currently impersonating a client.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000005C",
+  "codeUrl": "/win32/ntstatus-h/status_no_impersonation_token/0xc000005c/",
+  "numericCode": -1073741732,
+  "define": "STATUS_NO_IMPERSONATION_TOKEN",
+  "defineUrl": "/win32/ntstatus-h/status_no_impersonation_token/",
+  "message": "An attempt has been made to operate on an impersonation token by a thread that is not currently impersonating a client.",
+  "remarks": null,
+  "aka": [
+    "-1073741732"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_no_impersonation_token/-1073741732/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

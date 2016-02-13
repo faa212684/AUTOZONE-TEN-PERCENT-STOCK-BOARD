@@ -1,0 +1,28 @@
+---
+output: win32\nserror-h\ns_e_exceed_max_drm_profile_limit\0xc00d1be0\index.html.json
+
+title: 0xC00D1BE0 NS_E_EXCEED_MAX_DRM_PROFILE_LIMIT in nserror.h
+description: It is not possible to create a DRM profile because the maximum number of profiles has been reached. You must delete some DRM profiles before creating new ones.%0
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "nserror.h",
+  "sourceUrl": "/win32/nserror-h/",
+  "code": "0xC00D1BE0",
+  "codeUrl": "/win32/nserror-h/ns_e_exceed_max_drm_profile_limit/0xc00d1be0/",
+  "numericCode": -1072882720,
+  "define": "NS_E_EXCEED_MAX_DRM_PROFILE_LIMIT",
+  "defineUrl": "/win32/nserror-h/ns_e_exceed_max_drm_profile_limit/",
+  "message": "It is not possible to create a DRM profile because the maximum number of profiles has been reached. You must delete some DRM profiles before creating new ones.%0",
+  "remarks": null,
+  "aka": [
+    "-1072882720"
+  ],
+  "akaUrl": [
+    "/win32/nserror-h/ns_e_exceed_max_drm_profile_limit/-1072882720/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

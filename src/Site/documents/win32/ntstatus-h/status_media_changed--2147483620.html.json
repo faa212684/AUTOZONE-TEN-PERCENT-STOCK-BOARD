@@ -1,0 +1,25 @@
+---
+output: win32\ntstatus-h\status_media_changed\-2147483620\index.html.json
+canonical: /win32/ntstatus-h/status_media_changed/0x8000001c/
+title: -2147483620 STATUS_MEDIA_CHANGED in ntstatus.h
+description: "{Media Changed}
+The media may have changed."
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-2147483620",
+  "codeUrl": "/win32/ntstatus-h/status_media_changed/-2147483620/",
+  "numericCode": 0,
+  "define": "STATUS_MEDIA_CHANGED",
+  "defineUrl": "/win32/ntstatus-h/status_media_changed/",
+  "message": "{Media Changed}\r\nThe media may have changed.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x8000001C",
+  "originalCodeUrl": "/win32/ntstatus-h/status_media_changed/0x8000001c/"
+}

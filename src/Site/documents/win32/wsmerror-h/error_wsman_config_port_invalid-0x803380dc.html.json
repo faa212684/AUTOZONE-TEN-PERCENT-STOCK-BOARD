@@ -1,0 +1,30 @@
+---
+output: win32\wsmerror-h\error_wsman_config_port_invalid\0x803380dc\index.html.json
+
+title: 0x803380DC ERROR_WSMAN_CONFIG_PORT_INVALID in wsmerror.h
+description: The WinRM client cannot process the request. The port specified in the configuration is invalid.
+Valid values are between 1 and 65535.
+Change the value for port and try the request again.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x803380DC",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_config_port_invalid/0x803380dc/",
+  "numericCode": -2144108324,
+  "define": "ERROR_WSMAN_CONFIG_PORT_INVALID",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_config_port_invalid/",
+  "message": "The WinRM client cannot process the request. The port specified in the configuration is invalid.\r\nValid values are between 1 and 65535.\r\nChange the value for port and try the request again.",
+  "remarks": null,
+  "aka": [
+    "-2144108324"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_config_port_invalid/-2144108324/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

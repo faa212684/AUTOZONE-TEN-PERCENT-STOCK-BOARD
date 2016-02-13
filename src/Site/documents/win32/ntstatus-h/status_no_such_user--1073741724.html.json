@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_no_such_user\-1073741724\index.html.json
+canonical: /win32/ntstatus-h/status_no_such_user/0xc0000064/
+title: -1073741724 STATUS_NO_SUCH_USER in ntstatus.h
+description: The specified account does not exist.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741724",
+  "codeUrl": "/win32/ntstatus-h/status_no_such_user/-1073741724/",
+  "numericCode": 0,
+  "define": "STATUS_NO_SUCH_USER",
+  "defineUrl": "/win32/ntstatus-h/status_no_such_user/",
+  "message": "The specified account does not exist.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000064",
+  "originalCodeUrl": "/win32/ntstatus-h/status_no_such_user/0xc0000064/"
+}

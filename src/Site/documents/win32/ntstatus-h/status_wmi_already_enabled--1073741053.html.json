@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_wmi_already_enabled\-1073741053\index.html.json
+canonical: /win32/ntstatus-h/status_wmi_already_enabled/0xc0000303/
+title: -1073741053 STATUS_WMI_ALREADY_ENABLED in ntstatus.h
+description: Collection or events for the WMI GUID is already enabled.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741053",
+  "codeUrl": "/win32/ntstatus-h/status_wmi_already_enabled/-1073741053/",
+  "numericCode": 0,
+  "define": "STATUS_WMI_ALREADY_ENABLED",
+  "defineUrl": "/win32/ntstatus-h/status_wmi_already_enabled/",
+  "message": "Collection or events for the WMI GUID is already enabled.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000303",
+  "originalCodeUrl": "/win32/ntstatus-h/status_wmi_already_enabled/0xc0000303/"
+}

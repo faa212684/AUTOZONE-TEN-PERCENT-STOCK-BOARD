@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_hotkey_already_registered\1409\index.html.json
+
+title: 1409 ERROR_HOTKEY_ALREADY_REGISTERED in winerror.h
+description: Hot key is already registered.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1409",
+  "codeUrl": "/win32/winerror-h/error_hotkey_already_registered/1409/",
+  "numericCode": 1409,
+  "define": "ERROR_HOTKEY_ALREADY_REGISTERED",
+  "defineUrl": "/win32/winerror-h/error_hotkey_already_registered/",
+  "message": "Hot key is already registered.",
+  "remarks": null,
+  "aka": [
+    "0x80070581",
+    "-2147023487"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_hotkey_already_registered/0x80070581/",
+    "/win32/winerror-h/error_hotkey_already_registered/-2147023487/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

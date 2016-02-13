@@ -1,0 +1,28 @@
+---
+output: win32\nserror-h\ns_e_drm_migration_object_in_use\0xc00d279b\index.html.json
+
+title: 0xC00D279B NS_E_DRM_MIGRATION_OBJECT_IN_USE in nserror.h
+description: Migration object is already in use and cannot be called until the current operation completes.%0
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "nserror.h",
+  "sourceUrl": "/win32/nserror-h/",
+  "code": "0xC00D279B",
+  "codeUrl": "/win32/nserror-h/ns_e_drm_migration_object_in_use/0xc00d279b/",
+  "numericCode": -1072879717,
+  "define": "NS_E_DRM_MIGRATION_OBJECT_IN_USE",
+  "defineUrl": "/win32/nserror-h/ns_e_drm_migration_object_in_use/",
+  "message": "Migration object is already in use and cannot be called until the current operation completes.%0",
+  "remarks": null,
+  "aka": [
+    "-1072879717"
+  ],
+  "akaUrl": [
+    "/win32/nserror-h/ns_e_drm_migration_object_in_use/-1072879717/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,25 @@
+---
+output: win32\cdosyserr-h\evtmailboxcreatepartialfailure\-1073537012\index.html.json
+canonical: /win32/cdosyserr-h/evtmailboxcreatepartialfailure/0xc003200c/
+title: -1073537012 evtMailboxCreatePartialFailure in CDOSysErr.h
+description: The mailbox creation callback failed to create one or more folders in mailbox %1.
+%n%nFor more information, click http:www.microsoft.com/contentredirect.asp.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "CDOSysErr.h",
+  "sourceUrl": "/win32/cdosyserr-h/",
+  "code": "-1073537012",
+  "codeUrl": "/win32/cdosyserr-h/evtmailboxcreatepartialfailure/-1073537012/",
+  "numericCode": 0,
+  "define": "evtMailboxCreatePartialFailure",
+  "defineUrl": "/win32/cdosyserr-h/evtmailboxcreatepartialfailure/",
+  "message": "The mailbox creation callback failed to create one or more folders in mailbox %1.\r\n%n%nFor more information, click http:www.microsoft.com/contentredirect.asp.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC003200C",
+  "originalCodeUrl": "/win32/cdosyserr-h/evtmailboxcreatepartialfailure/0xc003200c/"
+}

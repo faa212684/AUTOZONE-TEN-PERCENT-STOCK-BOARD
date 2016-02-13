@@ -1,0 +1,28 @@
+---
+output: win32\mferror-h\mf_e_cannot_create_sink\0xc00d36fa\index.html.json
+
+title: 0xC00D36FA MF_E_CANNOT_CREATE_SINK in Mferror.h
+description: Activate failed to create mediasink. Call OutputNode::GetUINT32(MF_TOPONODE_MAJORTYPE) for more information.%0
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "Mferror.h",
+  "sourceUrl": "/win32/mferror-h/",
+  "code": "0xC00D36FA",
+  "codeUrl": "/win32/mferror-h/mf_e_cannot_create_sink/0xc00d36fa/",
+  "numericCode": -1072875782,
+  "define": "MF_E_CANNOT_CREATE_SINK",
+  "defineUrl": "/win32/mferror-h/mf_e_cannot_create_sink/",
+  "message": "Activate failed to create mediasink. Call OutputNode::GetUINT32(MF_TOPONODE_MAJORTYPE) for more information.%0",
+  "remarks": null,
+  "aka": [
+    "-1072875782"
+  ],
+  "akaUrl": [
+    "/win32/mferror-h/mf_e_cannot_create_sink/-1072875782/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

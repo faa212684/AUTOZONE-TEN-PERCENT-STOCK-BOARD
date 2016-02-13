@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_e_mirror_not_supported\0x80042923\index.html.json
+
+title: 0x80042923 VDS_E_MIRROR_NOT_SUPPORTED in vdserr.h
+description: Mirrored volumes are not supported by this operating system.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x80042923",
+  "codeUrl": "/win32/vdserr-h/vds_e_mirror_not_supported/0x80042923/",
+  "numericCode": -2147210973,
+  "define": "VDS_E_MIRROR_NOT_SUPPORTED",
+  "defineUrl": "/win32/vdserr-h/vds_e_mirror_not_supported/",
+  "message": "Mirrored volumes are not supported by this operating system.",
+  "remarks": null,
+  "aka": [
+    "-2147210973"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_mirror_not_supported/-2147210973/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

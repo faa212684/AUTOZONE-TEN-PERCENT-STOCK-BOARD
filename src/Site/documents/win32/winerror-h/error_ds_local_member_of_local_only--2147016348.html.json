@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_ds_local_member_of_local_only\-2147016348\index.html.json
+canonical: /win32/winerror-h/error_ds_local_member_of_local_only/8548/
+title: -2147016348 ERROR_DS_LOCAL_MEMBER_OF_LOCAL_ONLY in winerror.h
+description: A local group can only be a member of other local groups in the same domain.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147016348",
+  "codeUrl": "/win32/winerror-h/error_ds_local_member_of_local_only/-2147016348/",
+  "numericCode": 0,
+  "define": "ERROR_DS_LOCAL_MEMBER_OF_LOCAL_ONLY",
+  "defineUrl": "/win32/winerror-h/error_ds_local_member_of_local_only/",
+  "message": "A local group can only be a member of other local groups in the same domain.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "8548",
+  "originalCodeUrl": "/win32/winerror-h/error_ds_local_member_of_local_only/8548/"
+}

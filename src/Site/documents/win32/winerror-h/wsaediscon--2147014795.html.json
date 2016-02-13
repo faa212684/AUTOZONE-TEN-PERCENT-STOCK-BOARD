@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\wsaediscon\-2147014795\index.html.json
+canonical: /win32/winerror-h/wsaediscon/10101/
+title: -2147014795 WSAEDISCON in winerror.h
+description: Returned by WSARecv or WSARecvFrom to indicate the remote party has initiated a graceful shutdown sequence.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147014795",
+  "codeUrl": "/win32/winerror-h/wsaediscon/-2147014795/",
+  "numericCode": 0,
+  "define": "WSAEDISCON",
+  "defineUrl": "/win32/winerror-h/wsaediscon/",
+  "message": "Returned by WSARecv or WSARecvFrom to indicate the remote party has initiated a graceful shutdown sequence.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "10101",
+  "originalCodeUrl": "/win32/winerror-h/wsaediscon/10101/"
+}

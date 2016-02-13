@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_ds_schema_update_disallowed\0x8007213d\index.html.json
+canonical: /win32/winerror-h/error_ds_schema_update_disallowed/8509/
+title: 0x8007213d ERROR_DS_SCHEMA_UPDATE_DISALLOWED in winerror.h
+description: Schema update is not allowed on this DC because the DC is not the schema FSMO Role Owner.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007213d",
+  "codeUrl": "/win32/winerror-h/error_ds_schema_update_disallowed/0x8007213d/",
+  "numericCode": 0,
+  "define": "ERROR_DS_SCHEMA_UPDATE_DISALLOWED",
+  "defineUrl": "/win32/winerror-h/error_ds_schema_update_disallowed/",
+  "message": "Schema update is not allowed on this DC because the DC is not the schema FSMO Role Owner.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "8509",
+  "originalCodeUrl": "/win32/winerror-h/error_ds_schema_update_disallowed/8509/"
+}

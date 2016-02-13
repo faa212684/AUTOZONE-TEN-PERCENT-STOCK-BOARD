@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_invalid_group_attributes\0xc00000a4\index.html.json
+
+title: 0xC00000A4 STATUS_INVALID_GROUP_ATTRIBUTES in ntstatus.h
+description: The specified attributes are invalid, or incompatible with the attributes for the group as a whole.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC00000A4",
+  "codeUrl": "/win32/ntstatus-h/status_invalid_group_attributes/0xc00000a4/",
+  "numericCode": -1073741660,
+  "define": "STATUS_INVALID_GROUP_ATTRIBUTES",
+  "defineUrl": "/win32/ntstatus-h/status_invalid_group_attributes/",
+  "message": "The specified attributes are invalid, or incompatible with the attributes for the group as a whole.",
+  "remarks": null,
+  "aka": [
+    "-1073741660"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_invalid_group_attributes/-1073741660/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

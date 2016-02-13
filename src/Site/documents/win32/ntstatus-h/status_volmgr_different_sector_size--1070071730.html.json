@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_volmgr_different_sector_size\-1070071730\index.html.json
+canonical: /win32/ntstatus-h/status_volmgr_different_sector_size/0xc038004e/
+title: -1070071730 STATUS_VOLMGR_DIFFERENT_SECTOR_SIZE in ntstatus.h
+description: All disks participating to the volume must have the same sector size.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1070071730",
+  "codeUrl": "/win32/ntstatus-h/status_volmgr_different_sector_size/-1070071730/",
+  "numericCode": 0,
+  "define": "STATUS_VOLMGR_DIFFERENT_SECTOR_SIZE",
+  "defineUrl": "/win32/ntstatus-h/status_volmgr_different_sector_size/",
+  "message": "All disks participating to the volume must have the same sector size.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC038004E",
+  "originalCodeUrl": "/win32/ntstatus-h/status_volmgr_different_sector_size/0xc038004e/"
+}

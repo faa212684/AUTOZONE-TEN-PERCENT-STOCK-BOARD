@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_volmgr_pack_without_quorum\-1070071755\index.html.json
+canonical: /win32/ntstatus-h/status_volmgr_pack_without_quorum/0xc0380035/
+title: -1070071755 STATUS_VOLMGR_PACK_WITHOUT_QUORUM in ntstatus.h
+description: The pack does not have a quorum of healthy disks.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1070071755",
+  "codeUrl": "/win32/ntstatus-h/status_volmgr_pack_without_quorum/-1070071755/",
+  "numericCode": 0,
+  "define": "STATUS_VOLMGR_PACK_WITHOUT_QUORUM",
+  "defineUrl": "/win32/ntstatus-h/status_volmgr_pack_without_quorum/",
+  "message": "The pack does not have a quorum of healthy disks.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0380035",
+  "originalCodeUrl": "/win32/ntstatus-h/status_volmgr_pack_without_quorum/0xc0380035/"
+}

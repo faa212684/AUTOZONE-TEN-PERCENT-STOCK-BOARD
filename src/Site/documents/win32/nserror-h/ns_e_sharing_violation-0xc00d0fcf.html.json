@@ -1,0 +1,28 @@
+---
+output: win32\nserror-h\ns_e_sharing_violation\0xc00d0fcf\index.html.json
+
+title: 0xC00D0FCF NS_E_SHARING_VIOLATION in nserror.h
+description: The file is already in use. Close other programs that might be using the file, or stop playing the file, and then try again.%0
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "nserror.h",
+  "sourceUrl": "/win32/nserror-h/",
+  "code": "0xC00D0FCF",
+  "codeUrl": "/win32/nserror-h/ns_e_sharing_violation/0xc00d0fcf/",
+  "numericCode": -1072885809,
+  "define": "NS_E_SHARING_VIOLATION",
+  "defineUrl": "/win32/nserror-h/ns_e_sharing_violation/",
+  "message": "The file is already in use. Close other programs that might be using the file, or stop playing the file, and then try again.%0",
+  "remarks": null,
+  "aka": [
+    "-1072885809"
+  ],
+  "akaUrl": [
+    "/win32/nserror-h/ns_e_sharing_violation/-1072885809/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

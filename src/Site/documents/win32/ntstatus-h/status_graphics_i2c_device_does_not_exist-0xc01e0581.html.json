@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_graphics_i2c_device_does_not_exist\0xc01e0581\index.html.json
+
+title: 0xC01E0581 STATUS_GRAPHICS_I2C_DEVICE_DOES_NOT_EXIST in ntstatus.h
+description: No device on the I2C bus has the specified address.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC01E0581",
+  "codeUrl": "/win32/ntstatus-h/status_graphics_i2c_device_does_not_exist/0xc01e0581/",
+  "numericCode": -1071774335,
+  "define": "STATUS_GRAPHICS_I2C_DEVICE_DOES_NOT_EXIST",
+  "defineUrl": "/win32/ntstatus-h/status_graphics_i2c_device_does_not_exist/",
+  "message": "No device on the I2C bus has the specified address.",
+  "remarks": null,
+  "aka": [
+    "-1071774335"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_graphics_i2c_device_does_not_exist/-1071774335/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

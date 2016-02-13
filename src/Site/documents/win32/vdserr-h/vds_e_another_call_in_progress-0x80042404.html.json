@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_e_another_call_in_progress\0x80042404\index.html.json
+
+title: 0x80042404 VDS_E_ANOTHER_CALL_IN_PROGRESS in vdserr.h
+description: A concurrent second call is made on an object before the first is completed.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x80042404",
+  "codeUrl": "/win32/vdserr-h/vds_e_another_call_in_progress/0x80042404/",
+  "numericCode": -2147212284,
+  "define": "VDS_E_ANOTHER_CALL_IN_PROGRESS",
+  "defineUrl": "/win32/vdserr-h/vds_e_another_call_in_progress/",
+  "message": "A concurrent second call is made on an object before the first is completed.",
+  "remarks": null,
+  "aka": [
+    "-2147212284"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_another_call_in_progress/-2147212284/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

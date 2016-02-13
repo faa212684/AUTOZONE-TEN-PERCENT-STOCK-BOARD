@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\dns_error_not_enough_signing_key_descriptors\-2147015792\index.html.json
+canonical: /win32/winerror-h/dns_error_not_enough_signing_key_descriptors/9104/
+title: -2147015792 DNS_ERROR_NOT_ENOUGH_SIGNING_KEY_DESCRIPTORS in winerror.h
+description: The zone does not have enough signing keys. There must be at least one key signing key (KSK) and at least one zone signing key (ZSK).
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147015792",
+  "codeUrl": "/win32/winerror-h/dns_error_not_enough_signing_key_descriptors/-2147015792/",
+  "numericCode": 0,
+  "define": "DNS_ERROR_NOT_ENOUGH_SIGNING_KEY_DESCRIPTORS",
+  "defineUrl": "/win32/winerror-h/dns_error_not_enough_signing_key_descriptors/",
+  "message": "The zone does not have enough signing keys. There must be at least one key signing key (KSK) and at least one zone signing key (ZSK).",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "9104",
+  "originalCodeUrl": "/win32/winerror-h/dns_error_not_enough_signing_key_descriptors/9104/"
+}

@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\dns_error_no_create_cache_data\9713\index.html.json
+
+title: 9713 DNS_ERROR_NO_CREATE_CACHE_DATA in winerror.h
+description: Could not create DNS cache data.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "9713",
+  "codeUrl": "/win32/winerror-h/dns_error_no_create_cache_data/9713/",
+  "numericCode": 9713,
+  "define": "DNS_ERROR_NO_CREATE_CACHE_DATA",
+  "defineUrl": "/win32/winerror-h/dns_error_no_create_cache_data/",
+  "message": "Could not create DNS cache data.",
+  "remarks": null,
+  "aka": [
+    "0x800725f1",
+    "-2147015183"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/dns_error_no_create_cache_data/0x800725f1/",
+    "/win32/winerror-h/dns_error_no_create_cache_data/-2147015183/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

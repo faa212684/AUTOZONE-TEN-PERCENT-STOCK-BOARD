@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_convert_to_large\-2147024296\index.html.json
+canonical: /win32/winerror-h/error_convert_to_large/600/
+title: -2147024296 ERROR_CONVERT_TO_LARGE in winerror.h
+description: Internal OFS status codes indicating how an allocation operation is handled. Either it is retried after the containing onode is moved or the extent stream is converted to a large stream.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147024296",
+  "codeUrl": "/win32/winerror-h/error_convert_to_large/-2147024296/",
+  "numericCode": 0,
+  "define": "ERROR_CONVERT_TO_LARGE",
+  "defineUrl": "/win32/winerror-h/error_convert_to_large/",
+  "message": "Internal OFS status codes indicating how an allocation operation is handled. Either it is retried after the containing onode is moved or the extent stream is converted to a large stream.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "600",
+  "originalCodeUrl": "/win32/winerror-h/error_convert_to_large/600/"
+}

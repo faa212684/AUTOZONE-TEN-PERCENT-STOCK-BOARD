@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_ctx_bad_video_mode\0x80071b71\index.html.json
+canonical: /win32/winerror-h/error_ctx_bad_video_mode/7025/
+title: 0x80071b71 ERROR_CTX_BAD_VIDEO_MODE in winerror.h
+description: An attempt has been made to connect to a session whose video mode is not supported by the current client.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80071b71",
+  "codeUrl": "/win32/winerror-h/error_ctx_bad_video_mode/0x80071b71/",
+  "numericCode": 0,
+  "define": "ERROR_CTX_BAD_VIDEO_MODE",
+  "defineUrl": "/win32/winerror-h/error_ctx_bad_video_mode/",
+  "message": "An attempt has been made to connect to a session whose video mode is not supported by the current client.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "7025",
+  "originalCodeUrl": "/win32/winerror-h/error_ctx_bad_video_mode/7025/"
+}

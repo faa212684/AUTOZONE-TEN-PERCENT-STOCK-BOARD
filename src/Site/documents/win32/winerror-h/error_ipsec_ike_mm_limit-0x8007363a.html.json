@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_ipsec_ike_mm_limit\0x8007363a\index.html.json
+canonical: /win32/winerror-h/error_ipsec_ike_mm_limit/13882/
+title: 0x8007363a ERROR_IPSEC_IKE_MM_LIMIT in winerror.h
+description: Max number of established MM SAs to peer exceeded.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007363a",
+  "codeUrl": "/win32/winerror-h/error_ipsec_ike_mm_limit/0x8007363a/",
+  "numericCode": 0,
+  "define": "ERROR_IPSEC_IKE_MM_LIMIT",
+  "defineUrl": "/win32/winerror-h/error_ipsec_ike_mm_limit/",
+  "message": "Max number of established MM SAs to peer exceeded.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "13882",
+  "originalCodeUrl": "/win32/winerror-h/error_ipsec_ike_mm_limit/13882/"
+}

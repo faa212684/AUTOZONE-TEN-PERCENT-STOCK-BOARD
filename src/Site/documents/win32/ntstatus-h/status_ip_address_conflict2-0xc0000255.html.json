@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_ip_address_conflict2\0xc0000255\index.html.json
+
+title: 0xC0000255 STATUS_IP_ADDRESS_CONFLICT2 in ntstatus.h
+description: There is an IP address conflict with another system on the network
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000255",
+  "codeUrl": "/win32/ntstatus-h/status_ip_address_conflict2/0xc0000255/",
+  "numericCode": -1073741227,
+  "define": "STATUS_IP_ADDRESS_CONFLICT2",
+  "defineUrl": "/win32/ntstatus-h/status_ip_address_conflict2/",
+  "message": "There is an IP address conflict with another system on the network",
+  "remarks": null,
+  "aka": [
+    "-1073741227"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_ip_address_conflict2/-1073741227/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

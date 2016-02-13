@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_non_csv_path\0x8007173e\index.html.json
+canonical: /win32/winerror-h/error_non_csv_path/5950/
+title: 0x8007173e ERROR_NON_CSV_PATH in winerror.h
+description: The path does not belong to a cluster shared volume.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007173e",
+  "codeUrl": "/win32/winerror-h/error_non_csv_path/0x8007173e/",
+  "numericCode": 0,
+  "define": "ERROR_NON_CSV_PATH",
+  "defineUrl": "/win32/winerror-h/error_non_csv_path/",
+  "message": "The path does not belong to a cluster shared volume.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "5950",
+  "originalCodeUrl": "/win32/winerror-h/error_non_csv_path/5950/"
+}

@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\milerr_malformed_guideline_data\0x8898008c\index.html.json
+
+title: 0x8898008C MILERR_MALFORMED_GUIDELINE_DATA in winerror.h
+description: Guideline coordinates are not sorted properly or contain NaNs.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8898008C",
+  "codeUrl": "/win32/winerror-h/milerr_malformed_guideline_data/0x8898008c/",
+  "numericCode": -2003304308,
+  "define": "MILERR_MALFORMED_GUIDELINE_DATA",
+  "defineUrl": "/win32/winerror-h/milerr_malformed_guideline_data/",
+  "message": "Guideline coordinates are not sorted properly or contain NaNs.",
+  "remarks": null,
+  "aka": [
+    "-2003304308"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/milerr_malformed_guideline_data/-2003304308/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

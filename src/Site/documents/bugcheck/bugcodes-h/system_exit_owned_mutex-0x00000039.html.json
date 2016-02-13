@@ -1,0 +1,28 @@
+---
+output: bugcheck\bugcodes-h\system_exit_owned_mutex\0x00000039\index.html.json
+
+title: 0x00000039 SYSTEM_EXIT_OWNED_MUTEX in bugcodes.h
+description: SYSTEM_EXIT_OWNED_MUTEX
+disqus: true
+---
+{
+  "area": "bugcheck",
+  "areaUrl": "/bugcheck/",
+  "source": "bugcodes.h",
+  "sourceUrl": "/bugcheck/bugcodes-h/",
+  "code": "0x00000039",
+  "codeUrl": "/bugcheck/bugcodes-h/system_exit_owned_mutex/0x00000039/",
+  "numericCode": 57,
+  "define": "SYSTEM_EXIT_OWNED_MUTEX",
+  "defineUrl": "/bugcheck/bugcodes-h/system_exit_owned_mutex/",
+  "message": "SYSTEM_EXIT_OWNED_MUTEX",
+  "remarks": null,
+  "aka": [
+    "57"
+  ],
+  "akaUrl": [
+    "/bugcheck/bugcodes-h/system_exit_owned_mutex/57/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

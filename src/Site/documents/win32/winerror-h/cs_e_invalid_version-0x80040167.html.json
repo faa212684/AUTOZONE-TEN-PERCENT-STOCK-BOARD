@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\cs_e_invalid_version\0x80040167\index.html.json
+
+title: 0x80040167 CS_E_INVALID_VERSION in winerror.h
+description: The software installation data in the Active Directory is corrupt.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80040167",
+  "codeUrl": "/win32/winerror-h/cs_e_invalid_version/0x80040167/",
+  "numericCode": -2147221145,
+  "define": "CS_E_INVALID_VERSION",
+  "defineUrl": "/win32/winerror-h/cs_e_invalid_version/",
+  "message": "The software installation data in the Active Directory is corrupt.",
+  "remarks": null,
+  "aka": [
+    "-2147221145"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/cs_e_invalid_version/-2147221145/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

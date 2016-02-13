@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ds_epoch_mismatch\8483\index.html.json
+
+title: 8483 ERROR_DS_EPOCH_MISMATCH in winerror.h
+description: Source and destination of a cross-domain move do not agree on the object's epoch number. Either source or destination does not have the latest version of the object.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "8483",
+  "codeUrl": "/win32/winerror-h/error_ds_epoch_mismatch/8483/",
+  "numericCode": 8483,
+  "define": "ERROR_DS_EPOCH_MISMATCH",
+  "defineUrl": "/win32/winerror-h/error_ds_epoch_mismatch/",
+  "message": "Source and destination of a cross-domain move do not agree on the object's epoch number. Either source or destination does not have the latest version of the object.",
+  "remarks": null,
+  "aka": [
+    "0x80072123",
+    "-2147016413"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ds_epoch_mismatch/0x80072123/",
+    "/win32/winerror-h/error_ds_epoch_mismatch/-2147016413/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

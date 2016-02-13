@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\wsaeinprogress\10036\index.html.json
+
+title: 10036 WSAEINPROGRESS in winerror.h
+description: A blocking operation is currently executing.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "10036",
+  "codeUrl": "/win32/winerror-h/wsaeinprogress/10036/",
+  "numericCode": 10036,
+  "define": "WSAEINPROGRESS",
+  "defineUrl": "/win32/winerror-h/wsaeinprogress/",
+  "message": "A blocking operation is currently executing.",
+  "remarks": null,
+  "aka": [
+    "0x80072734",
+    "-2147014860"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/wsaeinprogress/0x80072734/",
+    "/win32/winerror-h/wsaeinprogress/-2147014860/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

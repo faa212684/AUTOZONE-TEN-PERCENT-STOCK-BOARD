@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_graphics_chainlinks_not_powered_on\-1071774667\index.html.json
+canonical: /win32/ntstatus-h/status_graphics_chainlinks_not_powered_on/0xc01e0435/
+title: -1071774667 STATUS_GRAPHICS_CHAINLINKS_NOT_POWERED_ON in ntstatus.h
+description: An attempt was made to power up a lead link display adapter when the chain links were powered down.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071774667",
+  "codeUrl": "/win32/ntstatus-h/status_graphics_chainlinks_not_powered_on/-1071774667/",
+  "numericCode": 0,
+  "define": "STATUS_GRAPHICS_CHAINLINKS_NOT_POWERED_ON",
+  "defineUrl": "/win32/ntstatus-h/status_graphics_chainlinks_not_powered_on/",
+  "message": "An attempt was made to power up a lead link display adapter when the chain links were powered down.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC01E0435",
+  "originalCodeUrl": "/win32/ntstatus-h/status_graphics_chainlinks_not_powered_on/0xc01e0435/"
+}

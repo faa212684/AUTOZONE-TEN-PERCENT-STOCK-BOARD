@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_directory_not_rm\-1072103416\index.html.json
+canonical: /win32/ntstatus-h/status_directory_not_rm/0xc0190008/
+title: -1072103416 STATUS_DIRECTORY_NOT_RM in ntstatus.h
+description: The specified directory does not contain a file system resource manager.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1072103416",
+  "codeUrl": "/win32/ntstatus-h/status_directory_not_rm/-1072103416/",
+  "numericCode": 0,
+  "define": "STATUS_DIRECTORY_NOT_RM",
+  "defineUrl": "/win32/ntstatus-h/status_directory_not_rm/",
+  "message": "The specified directory does not contain a file system resource manager.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0190008",
+  "originalCodeUrl": "/win32/ntstatus-h/status_directory_not_rm/0xc0190008/"
+}

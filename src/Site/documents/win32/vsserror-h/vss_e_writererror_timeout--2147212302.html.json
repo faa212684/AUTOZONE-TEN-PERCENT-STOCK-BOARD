@@ -1,0 +1,24 @@
+---
+output: win32\vsserror-h\vss_e_writererror_timeout\-2147212302\index.html.json
+canonical: /win32/vsserror-h/vss_e_writererror_timeout/0x800423f2/
+title: -2147212302 VSS_E_WRITERERROR_TIMEOUT in vsserror.h
+description: The writer's timeout expired between the Freeze and Thaw events.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vsserror.h",
+  "sourceUrl": "/win32/vsserror-h/",
+  "code": "-2147212302",
+  "codeUrl": "/win32/vsserror-h/vss_e_writererror_timeout/-2147212302/",
+  "numericCode": 0,
+  "define": "VSS_E_WRITERERROR_TIMEOUT",
+  "defineUrl": "/win32/vsserror-h/vss_e_writererror_timeout/",
+  "message": "The writer's timeout expired between the Freeze and Thaw events.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x800423F2",
+  "originalCodeUrl": "/win32/vsserror-h/vss_e_writererror_timeout/0x800423f2/"
+}

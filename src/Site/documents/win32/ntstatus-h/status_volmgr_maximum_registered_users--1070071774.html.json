@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_volmgr_maximum_registered_users\-1070071774\index.html.json
+canonical: /win32/ntstatus-h/status_volmgr_maximum_registered_users/0xc0380022/
+title: -1070071774 STATUS_VOLMGR_MAXIMUM_REGISTERED_USERS in ntstatus.h
+description: There is already a maximum number of registered users.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1070071774",
+  "codeUrl": "/win32/ntstatus-h/status_volmgr_maximum_registered_users/-1070071774/",
+  "numericCode": 0,
+  "define": "STATUS_VOLMGR_MAXIMUM_REGISTERED_USERS",
+  "defineUrl": "/win32/ntstatus-h/status_volmgr_maximum_registered_users/",
+  "message": "There is already a maximum number of registered users.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0380022",
+  "originalCodeUrl": "/win32/ntstatus-h/status_volmgr_maximum_registered_users/0xc0380022/"
+}

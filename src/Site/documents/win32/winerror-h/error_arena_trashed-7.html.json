@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_arena_trashed\7\index.html.json
+
+title: 7 ERROR_ARENA_TRASHED in winerror.h
+description: The storage control blocks were destroyed.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "7",
+  "codeUrl": "/win32/winerror-h/error_arena_trashed/7/",
+  "numericCode": 7,
+  "define": "ERROR_ARENA_TRASHED",
+  "defineUrl": "/win32/winerror-h/error_arena_trashed/",
+  "message": "The storage control blocks were destroyed.",
+  "remarks": null,
+  "aka": [
+    "0x80070007",
+    "-2147024889"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_arena_trashed/0x80070007/",
+    "/win32/winerror-h/error_arena_trashed/-2147024889/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

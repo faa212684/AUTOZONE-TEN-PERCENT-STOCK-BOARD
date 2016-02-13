@@ -1,0 +1,28 @@
+---
+output: win32\vfwmsgs-h\vfw_e_color_key_set\0x8004021e\index.html.json
+
+title: 0x8004021E VFW_E_COLOR_KEY_SET in vfwmsgs.h
+description: Setting a palette would conflict with the color key already set.%0
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vfwmsgs.h",
+  "sourceUrl": "/win32/vfwmsgs-h/",
+  "code": "0x8004021E",
+  "codeUrl": "/win32/vfwmsgs-h/vfw_e_color_key_set/0x8004021e/",
+  "numericCode": -2147220962,
+  "define": "VFW_E_COLOR_KEY_SET",
+  "defineUrl": "/win32/vfwmsgs-h/vfw_e_color_key_set/",
+  "message": "Setting a palette would conflict with the color key already set.%0",
+  "remarks": null,
+  "aka": [
+    "-2147220962"
+  ],
+  "akaUrl": [
+    "/win32/vfwmsgs-h/vfw_e_color_key_set/-2147220962/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

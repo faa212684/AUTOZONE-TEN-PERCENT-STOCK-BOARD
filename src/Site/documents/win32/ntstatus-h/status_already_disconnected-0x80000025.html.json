@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_already_disconnected\0x80000025\index.html.json
+
+title: 0x80000025 STATUS_ALREADY_DISCONNECTED in ntstatus.h
+description: The specified connection has already been disconnected.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0x80000025",
+  "codeUrl": "/win32/ntstatus-h/status_already_disconnected/0x80000025/",
+  "numericCode": -2147483611,
+  "define": "STATUS_ALREADY_DISCONNECTED",
+  "defineUrl": "/win32/ntstatus-h/status_already_disconnected/",
+  "message": "The specified connection has already been disconnected.",
+  "remarks": null,
+  "aka": [
+    "-2147483611"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_already_disconnected/-2147483611/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

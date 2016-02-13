@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_ds_gc_required\0xc00002e4\index.html.json
+
+title: 0xC00002E4 STATUS_DS_GC_REQUIRED in ntstatus.h
+description: The requested operation can be performed only on a global catalog server.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC00002E4",
+  "codeUrl": "/win32/ntstatus-h/status_ds_gc_required/0xc00002e4/",
+  "numericCode": -1073741084,
+  "define": "STATUS_DS_GC_REQUIRED",
+  "defineUrl": "/win32/ntstatus-h/status_ds_gc_required/",
+  "message": "The requested operation can be performed only on a global catalog server.",
+  "remarks": null,
+  "aka": [
+    "-1073741084"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_ds_gc_required/-1073741084/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

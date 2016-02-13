@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\fve_e_no_license\0x80310049\index.html.json
+
+title: 0x80310049 FVE_E_NO_LICENSE in winerror.h
+description: This version of Windows does not include BitLocker Drive Encryption. To use BitLocker Drive Encryption, please upgrade the operating system.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80310049",
+  "codeUrl": "/win32/winerror-h/fve_e_no_license/0x80310049/",
+  "numericCode": -2144272311,
+  "define": "FVE_E_NO_LICENSE",
+  "defineUrl": "/win32/winerror-h/fve_e_no_license/",
+  "message": "This version of Windows does not include BitLocker Drive Encryption. To use BitLocker Drive Encryption, please upgrade the operating system.",
+  "remarks": null,
+  "aka": [
+    "-2144272311"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/fve_e_no_license/-2144272311/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

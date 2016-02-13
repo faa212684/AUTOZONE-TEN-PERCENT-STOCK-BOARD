@@ -1,0 +1,24 @@
+---
+output: win32\tapi3err-h\tapi_e_requestoverrun\-2147221467\index.html.json
+canonical: /win32/tapi3err-h/tapi_e_requestoverrun/0x80040025/
+title: -2147221467 TAPI_E_REQUESTOVERRUN in Tapi3Err.h
+description: The request queue is already full.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "Tapi3Err.h",
+  "sourceUrl": "/win32/tapi3err-h/",
+  "code": "-2147221467",
+  "codeUrl": "/win32/tapi3err-h/tapi_e_requestoverrun/-2147221467/",
+  "numericCode": 0,
+  "define": "TAPI_E_REQUESTOVERRUN",
+  "defineUrl": "/win32/tapi3err-h/tapi_e_requestoverrun/",
+  "message": "The request queue is already full.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80040025",
+  "originalCodeUrl": "/win32/tapi3err-h/tapi_e_requestoverrun/0x80040025/"
+}

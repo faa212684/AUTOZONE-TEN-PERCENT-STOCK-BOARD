@@ -1,0 +1,31 @@
+---
+output: win32\winerror-h\error_thread_was_suspended\699\index.html.json
+
+title: 699 ERROR_THREAD_WAS_SUSPENDED in winerror.h
+description: "{Thread Suspended}
+A thread termination occurred while the thread was suspended. The thread was resumed, and termination proceeded."
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "699",
+  "codeUrl": "/win32/winerror-h/error_thread_was_suspended/699/",
+  "numericCode": 699,
+  "define": "ERROR_THREAD_WAS_SUSPENDED",
+  "defineUrl": "/win32/winerror-h/error_thread_was_suspended/",
+  "message": "{Thread Suspended}\r\nA thread termination occurred while the thread was suspended. The thread was resumed, and termination proceeded.",
+  "remarks": null,
+  "aka": [
+    "0x800702bb",
+    "-2147024197"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_thread_was_suspended/0x800702bb/",
+    "/win32/winerror-h/error_thread_was_suspended/-2147024197/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

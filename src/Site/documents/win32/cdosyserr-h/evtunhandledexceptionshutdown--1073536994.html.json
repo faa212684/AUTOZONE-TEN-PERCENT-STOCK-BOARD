@@ -1,0 +1,25 @@
+---
+output: win32\cdosyserr-h\evtunhandledexceptionshutdown\-1073536994\index.html.json
+canonical: /win32/cdosyserr-h/evtunhandledexceptionshutdown/0xc003201e/
+title: -1073536994 evtUnhandledExceptionShutdown in CDOSysErr.h
+description: Unhandled exception %1 caught trying to stop server agents.
+%n%nFor more information, click http:www.microsoft.com/contentredirect.asp.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "CDOSysErr.h",
+  "sourceUrl": "/win32/cdosyserr-h/",
+  "code": "-1073536994",
+  "codeUrl": "/win32/cdosyserr-h/evtunhandledexceptionshutdown/-1073536994/",
+  "numericCode": 0,
+  "define": "evtUnhandledExceptionShutdown",
+  "defineUrl": "/win32/cdosyserr-h/evtunhandledexceptionshutdown/",
+  "message": "Unhandled exception %1 caught trying to stop server agents.\r\n%n%nFor more information, click http:www.microsoft.com/contentredirect.asp.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC003201E",
+  "originalCodeUrl": "/win32/cdosyserr-h/evtunhandledexceptionshutdown/0xc003201e/"
+}

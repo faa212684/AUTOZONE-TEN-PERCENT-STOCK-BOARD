@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_e_dynamic_disks_not_supported\0x80042541\index.html.json
+
+title: 0x80042541 VDS_E_DYNAMIC_DISKS_NOT_SUPPORTED in vdserr.h
+description: Dynamic disks are not supported by this operating system or server configuration. Dynamic disks are not supported on clusters.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x80042541",
+  "codeUrl": "/win32/vdserr-h/vds_e_dynamic_disks_not_supported/0x80042541/",
+  "numericCode": -2147211967,
+  "define": "VDS_E_DYNAMIC_DISKS_NOT_SUPPORTED",
+  "defineUrl": "/win32/vdserr-h/vds_e_dynamic_disks_not_supported/",
+  "message": "Dynamic disks are not supported by this operating system or server configuration. Dynamic disks are not supported on clusters.",
+  "remarks": null,
+  "aka": [
+    "-2147211967"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_dynamic_disks_not_supported/-2147211967/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

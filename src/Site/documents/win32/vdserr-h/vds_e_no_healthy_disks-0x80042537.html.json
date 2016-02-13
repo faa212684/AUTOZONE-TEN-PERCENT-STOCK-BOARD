@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_e_no_healthy_disks\0x80042537\index.html.json
+
+title: 0x80042537 VDS_E_NO_HEALTHY_DISKS in vdserr.h
+description: All of the disks involved in the operation are either missing or failed.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x80042537",
+  "codeUrl": "/win32/vdserr-h/vds_e_no_healthy_disks/0x80042537/",
+  "numericCode": -2147211977,
+  "define": "VDS_E_NO_HEALTHY_DISKS",
+  "defineUrl": "/win32/vdserr-h/vds_e_no_healthy_disks/",
+  "message": "All of the disks involved in the operation are either missing or failed.",
+  "remarks": null,
+  "aka": [
+    "-2147211977"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_no_healthy_disks/-2147211977/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

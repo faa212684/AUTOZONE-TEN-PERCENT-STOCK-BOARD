@@ -1,0 +1,28 @@
+---
+output: win32\wsmerror-h\error_wsman_batchsize_too_small\0x803380a7\index.html.json
+
+title: 0x803380A7 ERROR_WSMAN_BATCHSIZE_TOO_SMALL in wsmerror.h
+description: The subscribe packet contains batch size value which is smaller than supported value.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x803380A7",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_batchsize_too_small/0x803380a7/",
+  "numericCode": -2144108377,
+  "define": "ERROR_WSMAN_BATCHSIZE_TOO_SMALL",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_batchsize_too_small/",
+  "message": "The subscribe packet contains batch size value which is smaller than supported value.",
+  "remarks": null,
+  "aka": [
+    "-2144108377"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_batchsize_too_small/-2144108377/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,29 @@
+---
+output: win32\cdosyserr-h\evtbackgroundawake\0x4003203c\index.html.json
+
+title: 0x4003203C evtBackgroundAwake in CDOSysErr.h
+description: Background calendaring agent is awakened due to calendars needing expansion.
+%n%nFor more information, click http:www.microsoft.com/contentredirect.asp.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "CDOSysErr.h",
+  "sourceUrl": "/win32/cdosyserr-h/",
+  "code": "0x4003203C",
+  "codeUrl": "/win32/cdosyserr-h/evtbackgroundawake/0x4003203c/",
+  "numericCode": 1073946684,
+  "define": "evtBackgroundAwake",
+  "defineUrl": "/win32/cdosyserr-h/evtbackgroundawake/",
+  "message": "Background calendaring agent is awakened due to calendars needing expansion.\r\n%n%nFor more information, click http:www.microsoft.com/contentredirect.asp.",
+  "remarks": null,
+  "aka": [
+    "1073946684"
+  ],
+  "akaUrl": [
+    "/win32/cdosyserr-h/evtbackgroundawake/1073946684/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

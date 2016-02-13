@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_streams_allocb_failure_cnt\0x80000fa2\index.html.json
+
+title: 0x80000FA2 EVENT_STREAMS_ALLOCB_FAILURE_CNT in netevent.h
+description: %2 message allocations have failed since initialization.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x80000FA2",
+  "codeUrl": "/win32/netevent-h/event_streams_allocb_failure_cnt/0x80000fa2/",
+  "numericCode": -2147479646,
+  "define": "EVENT_STREAMS_ALLOCB_FAILURE_CNT",
+  "defineUrl": "/win32/netevent-h/event_streams_allocb_failure_cnt/",
+  "message": "%2 message allocations have failed since initialization.",
+  "remarks": null,
+  "aka": [
+    "-2147479646"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_streams_allocb_failure_cnt/-2147479646/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\crypt_e_missing_pubkey_para\0x8009202c\index.html.json
+
+title: 0x8009202C CRYPT_E_MISSING_PUBKEY_PARA in winerror.h
+description: The public key's algorithm parameters are missing.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8009202C",
+  "codeUrl": "/win32/winerror-h/crypt_e_missing_pubkey_para/0x8009202c/",
+  "numericCode": -2146885588,
+  "define": "CRYPT_E_MISSING_PUBKEY_PARA",
+  "defineUrl": "/win32/winerror-h/crypt_e_missing_pubkey_para/",
+  "message": "The public key's algorithm parameters are missing.",
+  "remarks": null,
+  "aka": [
+    "-2146885588"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/crypt_e_missing_pubkey_para/-2146885588/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

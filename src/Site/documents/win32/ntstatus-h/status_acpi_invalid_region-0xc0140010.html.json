@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_acpi_invalid_region\0xc0140010\index.html.json
+
+title: 0xC0140010 STATUS_ACPI_INVALID_REGION in ntstatus.h
+description: An invalid region for the target was specified
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0140010",
+  "codeUrl": "/win32/ntstatus-h/status_acpi_invalid_region/0xc0140010/",
+  "numericCode": -1072431088,
+  "define": "STATUS_ACPI_INVALID_REGION",
+  "defineUrl": "/win32/ntstatus-h/status_acpi_invalid_region/",
+  "message": "An invalid region for the target was specified",
+  "remarks": null,
+  "aka": [
+    "-1072431088"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_acpi_invalid_region/-1072431088/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\mq-h\mq_error_illegal_mqprivateprops\0xc00e007b\index.html.json
+
+title: 0xC00E007B MQ_ERROR_ILLEGAL_MQPRIVATEPROPS in Mq.h
+description: The parameters in MQPRIVATEPROPS are invalid. Either the pointer to the MQPRIVATEPROPS structure has a null value, or no properties are specified in it.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "Mq.h",
+  "sourceUrl": "/win32/mq-h/",
+  "code": "0xC00E007B",
+  "codeUrl": "/win32/mq-h/mq_error_illegal_mqprivateprops/0xc00e007b/",
+  "numericCode": -1072824197,
+  "define": "MQ_ERROR_ILLEGAL_MQPRIVATEPROPS",
+  "defineUrl": "/win32/mq-h/mq_error_illegal_mqprivateprops/",
+  "message": "The parameters in MQPRIVATEPROPS are invalid. Either the pointer to the MQPRIVATEPROPS structure has a null value, or no properties are specified in it.",
+  "remarks": null,
+  "aka": [
+    "-1072824197"
+  ],
+  "akaUrl": [
+    "/win32/mq-h/mq_error_illegal_mqprivateprops/-1072824197/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

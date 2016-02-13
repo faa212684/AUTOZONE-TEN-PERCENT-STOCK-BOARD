@@ -1,0 +1,24 @@
+---
+output: win32\ntdsbmsg-h\hrbadbackupdatabasesize\-939523535\index.html.json
+canonical: /win32/ntdsbmsg-h/hrbadbackupdatabasesize/0xc8000231/
+title: -939523535 hrBadBackupDatabaseSize in NtDsBMsg.h
+description: The backup database size must be a multiple of 4K (4096 bytes).
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "NtDsBMsg.h",
+  "sourceUrl": "/win32/ntdsbmsg-h/",
+  "code": "-939523535",
+  "codeUrl": "/win32/ntdsbmsg-h/hrbadbackupdatabasesize/-939523535/",
+  "numericCode": 0,
+  "define": "hrBadBackupDatabaseSize",
+  "defineUrl": "/win32/ntdsbmsg-h/hrbadbackupdatabasesize/",
+  "message": "The backup database size must be a multiple of 4K (4096 bytes).",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC8000231",
+  "originalCodeUrl": "/win32/ntdsbmsg-h/hrbadbackupdatabasesize/0xc8000231/"
+}

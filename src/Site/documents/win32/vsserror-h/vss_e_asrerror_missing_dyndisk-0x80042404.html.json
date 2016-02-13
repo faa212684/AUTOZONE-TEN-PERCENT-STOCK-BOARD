@@ -1,0 +1,28 @@
+---
+output: win32\vsserror-h\vss_e_asrerror_missing_dyndisk\0x80042404\index.html.json
+
+title: 0x80042404 VSS_E_ASRERROR_MISSING_DYNDISK in vsserror.h
+description: The backup failed due to a missing disk for a dynamic volume. Ensure the disk is online and retry the backup.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vsserror.h",
+  "sourceUrl": "/win32/vsserror-h/",
+  "code": "0x80042404",
+  "codeUrl": "/win32/vsserror-h/vss_e_asrerror_missing_dyndisk/0x80042404/",
+  "numericCode": -2147212284,
+  "define": "VSS_E_ASRERROR_MISSING_DYNDISK",
+  "defineUrl": "/win32/vsserror-h/vss_e_asrerror_missing_dyndisk/",
+  "message": "The backup failed due to a missing disk for a dynamic volume. Ensure the disk is online and retry the backup.",
+  "remarks": null,
+  "aka": [
+    "-2147212284"
+  ],
+  "akaUrl": [
+    "/win32/vsserror-h/vss_e_asrerror_missing_dyndisk/-2147212284/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

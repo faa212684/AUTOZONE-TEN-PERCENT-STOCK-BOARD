@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\ole_e_enum_nomore\0x80040002\index.html.json
+
+title: 0x80040002 OLE_E_ENUM_NOMORE in winerror.h
+description: Can't enumerate any more, because the associated data is missing
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80040002",
+  "codeUrl": "/win32/winerror-h/ole_e_enum_nomore/0x80040002/",
+  "numericCode": -2147221502,
+  "define": "OLE_E_ENUM_NOMORE",
+  "defineUrl": "/win32/winerror-h/ole_e_enum_nomore/",
+  "message": "Can't enumerate any more, because the associated data is missing",
+  "remarks": null,
+  "aka": [
+    "-2147221502"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/ole_e_enum_nomore/-2147221502/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\dns_error_bad_keymaster\-2147015774\index.html.json
+canonical: /win32/winerror-h/dns_error_bad_keymaster/9122/
+title: -2147015774 DNS_ERROR_BAD_KEYMASTER in winerror.h
+description: This operation could not be completed because the DNS server listed as the current key master for this zone is down or misconfigured. Resolve the problem on the current key master for this zone or use another DNS server to seize the key master role.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147015774",
+  "codeUrl": "/win32/winerror-h/dns_error_bad_keymaster/-2147015774/",
+  "numericCode": 0,
+  "define": "DNS_ERROR_BAD_KEYMASTER",
+  "defineUrl": "/win32/winerror-h/dns_error_bad_keymaster/",
+  "message": "This operation could not be completed because the DNS server listed as the current key master for this zone is down or misconfigured. Resolve the problem on the current key master for this zone or use another DNS server to seize the key master role.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "9122",
+  "originalCodeUrl": "/win32/winerror-h/dns_error_bad_keymaster/9122/"
+}

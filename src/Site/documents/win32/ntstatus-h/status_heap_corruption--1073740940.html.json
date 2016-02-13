@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_heap_corruption\-1073740940\index.html.json
+canonical: /win32/ntstatus-h/status_heap_corruption/0xc0000374/
+title: -1073740940 STATUS_HEAP_CORRUPTION in ntstatus.h
+description: A heap has been corrupted.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073740940",
+  "codeUrl": "/win32/ntstatus-h/status_heap_corruption/-1073740940/",
+  "numericCode": 0,
+  "define": "STATUS_HEAP_CORRUPTION",
+  "defineUrl": "/win32/ntstatus-h/status_heap_corruption/",
+  "message": "A heap has been corrupted.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000374",
+  "originalCodeUrl": "/win32/ntstatus-h/status_heap_corruption/0xc0000374/"
+}

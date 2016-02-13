@@ -1,0 +1,25 @@
+---
+output: win32\wsmerror-h\error_wsman_client_multiple_proxy_auth_flags\-2144108108\index.html.json
+canonical: /win32/wsmerror-h/error_wsman_client_multiple_proxy_auth_flags/0x803381b4/
+title: -2144108108 ERROR_WSMAN_CLIENT_MULTIPLE_PROXY_AUTH_FLAGS in wsmerror.h
+description: The WinRM client cannot process the request. The request must specify only one authentication mechanism for proxy.
+Change the request to specify only one authentication mechanism and try again.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "-2144108108",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_client_multiple_proxy_auth_flags/-2144108108/",
+  "numericCode": 0,
+  "define": "ERROR_WSMAN_CLIENT_MULTIPLE_PROXY_AUTH_FLAGS",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_client_multiple_proxy_auth_flags/",
+  "message": "The WinRM client cannot process the request. The request must specify only one authentication mechanism for proxy.\r\nChange the request to specify only one authentication mechanism and try again.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x803381B4",
+  "originalCodeUrl": "/win32/wsmerror-h/error_wsman_client_multiple_proxy_auth_flags/0x803381b4/"
+}

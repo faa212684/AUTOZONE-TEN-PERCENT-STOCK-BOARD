@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_trust_failure\1790\index.html.json
+
+title: 1790 ERROR_TRUST_FAILURE in winerror.h
+description: The network logon failed.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1790",
+  "codeUrl": "/win32/winerror-h/error_trust_failure/1790/",
+  "numericCode": 1790,
+  "define": "ERROR_TRUST_FAILURE",
+  "defineUrl": "/win32/winerror-h/error_trust_failure/",
+  "message": "The network logon failed.",
+  "remarks": null,
+  "aka": [
+    "0x800706fe",
+    "-2147023106"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_trust_failure/0x800706fe/",
+    "/win32/winerror-h/error_trust_failure/-2147023106/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

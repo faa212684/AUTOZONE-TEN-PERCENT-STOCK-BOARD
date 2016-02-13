@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_mca_occured\-1073740950\index.html.json
+canonical: /win32/ntstatus-h/status_mca_occured/0xc000036a/
+title: -1073740950 STATUS_MCA_OCCURED in ntstatus.h
+description: A Machine Check Error has occurred. Please check the system eventlog for additional information.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073740950",
+  "codeUrl": "/win32/ntstatus-h/status_mca_occured/-1073740950/",
+  "numericCode": 0,
+  "define": "STATUS_MCA_OCCURED",
+  "defineUrl": "/win32/ntstatus-h/status_mca_occured/",
+  "message": "A Machine Check Error has occurred. Please check the system eventlog for additional information.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC000036A",
+  "originalCodeUrl": "/win32/ntstatus-h/status_mca_occured/0xc000036a/"
+}

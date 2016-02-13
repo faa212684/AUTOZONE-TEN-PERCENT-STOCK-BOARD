@@ -1,0 +1,24 @@
+---
+output: win32\oledberr-h\db_e_badstartposition\-2147217890\index.html.json
+canonical: /win32/oledberr-h/db_e_badstartposition/0x80040e1e/
+title: -2147217890 DB_E_BADSTARTPOSITION in oledberr.h
+description: No rows were returned because the offset value moves the position before the beginning or after the end of the rowset.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "oledberr.h",
+  "sourceUrl": "/win32/oledberr-h/",
+  "code": "-2147217890",
+  "codeUrl": "/win32/oledberr-h/db_e_badstartposition/-2147217890/",
+  "numericCode": 0,
+  "define": "DB_E_BADSTARTPOSITION",
+  "defineUrl": "/win32/oledberr-h/db_e_badstartposition/",
+  "message": "No rows were returned because the offset value moves the position before the beginning or after the end of the rowset.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80040E1E",
+  "originalCodeUrl": "/win32/oledberr-h/db_e_badstartposition/0x80040e1e/"
+}

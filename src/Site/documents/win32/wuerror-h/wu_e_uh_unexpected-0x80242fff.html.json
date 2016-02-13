@@ -1,0 +1,28 @@
+---
+output: win32\wuerror-h\wu_e_uh_unexpected\0x80242fff\index.html.json
+
+title: 0x80242FFF WU_E_UH_UNEXPECTED in wuerror.h
+description: An update handler error not covered by another WU_E_UH_* code.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wuerror.h",
+  "sourceUrl": "/win32/wuerror-h/",
+  "code": "0x80242FFF",
+  "codeUrl": "/win32/wuerror-h/wu_e_uh_unexpected/0x80242fff/",
+  "numericCode": -2145112065,
+  "define": "WU_E_UH_UNEXPECTED",
+  "defineUrl": "/win32/wuerror-h/wu_e_uh_unexpected/",
+  "message": "An update handler error not covered by another WU_E_UH_* code.",
+  "remarks": null,
+  "aka": [
+    "-2145112065"
+  ],
+  "akaUrl": [
+    "/win32/wuerror-h/wu_e_uh_unexpected/-2145112065/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

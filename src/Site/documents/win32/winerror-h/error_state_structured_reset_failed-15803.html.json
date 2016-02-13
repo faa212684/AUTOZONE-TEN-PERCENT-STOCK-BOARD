@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_state_structured_reset_failed\15803\index.html.json
+
+title: 15803 ERROR_STATE_STRUCTURED_RESET_FAILED in winerror.h
+description: Resetting the structured state of the application failed.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "15803",
+  "codeUrl": "/win32/winerror-h/error_state_structured_reset_failed/15803/",
+  "numericCode": 15803,
+  "define": "ERROR_STATE_STRUCTURED_RESET_FAILED",
+  "defineUrl": "/win32/winerror-h/error_state_structured_reset_failed/",
+  "message": "Resetting the structured state of the application failed.",
+  "remarks": null,
+  "aka": [
+    "0x80073dbb",
+    "-2147009093"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_state_structured_reset_failed/0x80073dbb/",
+    "/win32/winerror-h/error_state_structured_reset_failed/-2147009093/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

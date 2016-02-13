@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_cluster_resource_type_busy\5909\index.html.json
+
+title: 5909 ERROR_CLUSTER_RESOURCE_TYPE_BUSY in winerror.h
+description: The resource type cannot accept the request since is too busy performing another operation.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "5909",
+  "codeUrl": "/win32/winerror-h/error_cluster_resource_type_busy/5909/",
+  "numericCode": 5909,
+  "define": "ERROR_CLUSTER_RESOURCE_TYPE_BUSY",
+  "defineUrl": "/win32/winerror-h/error_cluster_resource_type_busy/",
+  "message": "The resource type cannot accept the request since is too busy performing another operation.",
+  "remarks": null,
+  "aka": [
+    "0x80071715",
+    "-2147018987"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_cluster_resource_type_busy/0x80071715/",
+    "/win32/winerror-h/error_cluster_resource_type_busy/-2147018987/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

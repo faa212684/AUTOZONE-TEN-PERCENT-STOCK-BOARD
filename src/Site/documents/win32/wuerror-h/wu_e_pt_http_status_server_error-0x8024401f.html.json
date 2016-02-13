@@ -1,0 +1,28 @@
+---
+output: win32\wuerror-h\wu_e_pt_http_status_server_error\0x8024401f\index.html.json
+
+title: 0x8024401F WU_E_PT_HTTP_STATUS_SERVER_ERROR in wuerror.h
+description: Same as HTTP status 500 - an error internal to the server prevented fulfilling the request.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wuerror.h",
+  "sourceUrl": "/win32/wuerror-h/",
+  "code": "0x8024401F",
+  "codeUrl": "/win32/wuerror-h/wu_e_pt_http_status_server_error/0x8024401f/",
+  "numericCode": -2145107937,
+  "define": "WU_E_PT_HTTP_STATUS_SERVER_ERROR",
+  "defineUrl": "/win32/wuerror-h/wu_e_pt_http_status_server_error/",
+  "message": "Same as HTTP status 500 - an error internal to the server prevented fulfilling the request.",
+  "remarks": null,
+  "aka": [
+    "-2145107937"
+  ],
+  "akaUrl": [
+    "/win32/wuerror-h/wu_e_pt_http_status_server_error/-2145107937/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

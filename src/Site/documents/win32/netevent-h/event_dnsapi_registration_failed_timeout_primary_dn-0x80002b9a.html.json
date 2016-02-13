@@ -1,0 +1,45 @@
+---
+output: win32\netevent-h\event_dnsapi_registration_failed_timeout_primary_dn\0x80002b9a\index.html.json
+
+title: 0x80002B9A EVENT_DNSAPI_REGISTRATION_FAILED_TIMEOUT_PRIMARY_DN in netevent.h
+description: The system failed to register host (A or AAAA) resource records (RRs) for
+network adapter%nwith settings:%n%n
+Adapter Name : %1%n
+Host Name : %2%n
+Primary Domain Suffix : %3%n
+DNS server list :%n
+%4%n
+Sent update to server : %5%n
+IP Address(es) :%n
+%6%n%n
+The reason the system could not register these RRs was because the
+update request it sent to the DNS server timed out. The most likely
+cause of this is that the DNS server authoritative for the name it
+was attempting to register or update is not running at this time.%n%n
+You can manually retry DNS registration of the network adapter and
+its settings by typing "ipconfig /registerdns" at the command prompt.
+If problems still persist, contact your DNS server or network systems
+administrator.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x80002B9A",
+  "codeUrl": "/win32/netevent-h/event_dnsapi_registration_failed_timeout_primary_dn/0x80002b9a/",
+  "numericCode": -2147472486,
+  "define": "EVENT_DNSAPI_REGISTRATION_FAILED_TIMEOUT_PRIMARY_DN",
+  "defineUrl": "/win32/netevent-h/event_dnsapi_registration_failed_timeout_primary_dn/",
+  "message": "The system failed to register host (A or AAAA) resource records (RRs) for\r\nnetwork adapter%nwith settings:%n%n\r\nAdapter Name : %1%n\r\nHost Name : %2%n\r\nPrimary Domain Suffix : %3%n\r\nDNS server list :%n\r\n%4%n\r\nSent update to server : %5%n\r\nIP Address(es) :%n\r\n%6%n%n\r\nThe reason the system could not register these RRs was because the\r\nupdate request it sent to the DNS server timed out. The most likely\r\ncause of this is that the DNS server authoritative for the name it\r\nwas attempting to register or update is not running at this time.%n%n\r\nYou can manually retry DNS registration of the network adapter and\r\nits settings by typing \"ipconfig /registerdns\" at the command prompt.\r\nIf problems still persist, contact your DNS server or network systems\r\nadministrator.",
+  "remarks": null,
+  "aka": [
+    "-2147472486"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_dnsapi_registration_failed_timeout_primary_dn/-2147472486/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

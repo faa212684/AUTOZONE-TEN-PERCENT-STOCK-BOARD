@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\xact_e_tip_disabled\0x8004d023\index.html.json
+
+title: 0x8004D023 XACT_E_TIP_DISABLED in winerror.h
+description: The Transaction Manager has disabled its support for TIP.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8004D023",
+  "codeUrl": "/win32/winerror-h/xact_e_tip_disabled/0x8004d023/",
+  "numericCode": -2147168221,
+  "define": "XACT_E_TIP_DISABLED",
+  "defineUrl": "/win32/winerror-h/xact_e_tip_disabled/",
+  "message": "The Transaction Manager has disabled its support for TIP.",
+  "remarks": null,
+  "aka": [
+    "-2147168221"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/xact_e_tip_disabled/-2147168221/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

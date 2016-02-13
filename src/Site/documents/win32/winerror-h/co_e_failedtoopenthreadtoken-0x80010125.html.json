@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\co_e_failedtoopenthreadtoken\0x80010125\index.html.json
+
+title: 0x80010125 CO_E_FAILEDTOOPENTHREADTOKEN in winerror.h
+description: Unable to open the access token of the current thread
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80010125",
+  "codeUrl": "/win32/winerror-h/co_e_failedtoopenthreadtoken/0x80010125/",
+  "numericCode": -2147417819,
+  "define": "CO_E_FAILEDTOOPENTHREADTOKEN",
+  "defineUrl": "/win32/winerror-h/co_e_failedtoopenthreadtoken/",
+  "message": "Unable to open the access token of the current thread",
+  "remarks": null,
+  "aka": [
+    "-2147417819"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/co_e_failedtoopenthreadtoken/-2147417819/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

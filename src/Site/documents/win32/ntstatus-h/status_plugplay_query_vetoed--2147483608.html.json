@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_plugplay_query_vetoed\-2147483608\index.html.json
+canonical: /win32/ntstatus-h/status_plugplay_query_vetoed/0x80000028/
+title: -2147483608 STATUS_PLUGPLAY_QUERY_VETOED in ntstatus.h
+description: The Plug and Play query operation was not successful.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-2147483608",
+  "codeUrl": "/win32/ntstatus-h/status_plugplay_query_vetoed/-2147483608/",
+  "numericCode": 0,
+  "define": "STATUS_PLUGPLAY_QUERY_VETOED",
+  "defineUrl": "/win32/ntstatus-h/status_plugplay_query_vetoed/",
+  "message": "The Plug and Play query operation was not successful.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80000028",
+  "originalCodeUrl": "/win32/ntstatus-h/status_plugplay_query_vetoed/0x80000028/"
+}

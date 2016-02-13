@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\xact_e_indoubt\0x8004d016\index.html.json
+
+title: 0x8004D016 XACT_E_INDOUBT in winerror.h
+description: The transaction status is in doubt. A communication failure occurred, or a transaction manager or resource manager has failed
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8004D016",
+  "codeUrl": "/win32/winerror-h/xact_e_indoubt/0x8004d016/",
+  "numericCode": -2147168234,
+  "define": "XACT_E_INDOUBT",
+  "defineUrl": "/win32/winerror-h/xact_e_indoubt/",
+  "message": "The transaction status is in doubt. A communication failure occurred, or a transaction manager or resource manager has failed",
+  "remarks": null,
+  "aka": [
+    "-2147168234"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/xact_e_indoubt/-2147168234/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

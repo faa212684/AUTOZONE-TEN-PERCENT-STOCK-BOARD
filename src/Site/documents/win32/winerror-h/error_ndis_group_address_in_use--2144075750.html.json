@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_ndis_group_address_in_use\-2144075750\index.html.json
+canonical: /win32/winerror-h/error_ndis_group_address_in_use/0x8034001a/
+title: -2144075750 ERROR_NDIS_GROUP_ADDRESS_IN_USE in winerror.h
+description: An attempt was made to remove a token ring group address that is in use by other components.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2144075750",
+  "codeUrl": "/win32/winerror-h/error_ndis_group_address_in_use/-2144075750/",
+  "numericCode": 0,
+  "define": "ERROR_NDIS_GROUP_ADDRESS_IN_USE",
+  "defineUrl": "/win32/winerror-h/error_ndis_group_address_in_use/",
+  "message": "An attempt was made to remove a token ring group address that is in use by other components.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x8034001A",
+  "originalCodeUrl": "/win32/winerror-h/error_ndis_group_address_in_use/0x8034001a/"
+}

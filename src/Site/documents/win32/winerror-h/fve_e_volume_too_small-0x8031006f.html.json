@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\fve_e_volume_too_small\0x8031006f\index.html.json
+
+title: 0x8031006F FVE_E_VOLUME_TOO_SMALL in winerror.h
+description: The drive is too small to be protected using BitLocker Drive Encryption.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8031006F",
+  "codeUrl": "/win32/winerror-h/fve_e_volume_too_small/0x8031006f/",
+  "numericCode": -2144272273,
+  "define": "FVE_E_VOLUME_TOO_SMALL",
+  "defineUrl": "/win32/winerror-h/fve_e_volume_too_small/",
+  "message": "The drive is too small to be protected using BitLocker Drive Encryption.",
+  "remarks": null,
+  "aka": [
+    "-2144272273"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/fve_e_volume_too_small/-2144272273/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

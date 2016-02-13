@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_ps_init_device_failed\0xc000371b\index.html.json
+
+title: 0xC000371B EVENT_PS_INIT_DEVICE_FAILED in netevent.h
+description: QoS [Adapter %2]:%nThe Packet Scheduler could not initialize the virtual miniport with NDIS.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC000371B",
+  "codeUrl": "/win32/netevent-h/event_ps_init_device_failed/0xc000371b/",
+  "numericCode": -1073727717,
+  "define": "EVENT_PS_INIT_DEVICE_FAILED",
+  "defineUrl": "/win32/netevent-h/event_ps_init_device_failed/",
+  "message": "QoS [Adapter %2]:%nThe Packet Scheduler could not initialize the virtual miniport with NDIS.",
+  "remarks": null,
+  "aka": [
+    "-1073727717"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_ps_init_device_failed/-1073727717/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\error_graphics_mirroring_devices_not_supported\0xc02625e3\index.html.json
+
+title: 0xC02625E3 ERROR_GRAPHICS_MIRRORING_DEVICES_NOT_SUPPORTED in winerror.h
+description: This function does not support GDI mirroring display devices because GDI mirroring display devices do not have any physical monitors associated with them.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0xC02625E3",
+  "codeUrl": "/win32/winerror-h/error_graphics_mirroring_devices_not_supported/0xc02625e3/",
+  "numericCode": -1071241757,
+  "define": "ERROR_GRAPHICS_MIRRORING_DEVICES_NOT_SUPPORTED",
+  "defineUrl": "/win32/winerror-h/error_graphics_mirroring_devices_not_supported/",
+  "message": "This function does not support GDI mirroring display devices because GDI mirroring display devices do not have any physical monitors associated with them.",
+  "remarks": null,
+  "aka": [
+    "-1071241757"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_graphics_mirroring_devices_not_supported/-1071241757/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

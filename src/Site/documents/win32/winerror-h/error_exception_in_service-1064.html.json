@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_exception_in_service\1064\index.html.json
+
+title: 1064 ERROR_EXCEPTION_IN_SERVICE in winerror.h
+description: An exception occurred in the service when handling the control request.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1064",
+  "codeUrl": "/win32/winerror-h/error_exception_in_service/1064/",
+  "numericCode": 1064,
+  "define": "ERROR_EXCEPTION_IN_SERVICE",
+  "defineUrl": "/win32/winerror-h/error_exception_in_service/",
+  "message": "An exception occurred in the service when handling the control request.",
+  "remarks": null,
+  "aka": [
+    "0x80070428",
+    "-2147023832"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_exception_in_service/0x80070428/",
+    "/win32/winerror-h/error_exception_in_service/-2147023832/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

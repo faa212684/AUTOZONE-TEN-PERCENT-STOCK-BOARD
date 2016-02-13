@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_graphics_not_a_linked_adapter\0xc01e0430\index.html.json
+
+title: 0xC01E0430 STATUS_GRAPHICS_NOT_A_LINKED_ADAPTER in ntstatus.h
+description: The display adapter is not linked to any other adapters.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC01E0430",
+  "codeUrl": "/win32/ntstatus-h/status_graphics_not_a_linked_adapter/0xc01e0430/",
+  "numericCode": -1071774672,
+  "define": "STATUS_GRAPHICS_NOT_A_LINKED_ADAPTER",
+  "defineUrl": "/win32/ntstatus-h/status_graphics_not_a_linked_adapter/",
+  "message": "The display adapter is not linked to any other adapters.",
+  "remarks": null,
+  "aka": [
+    "-1071774672"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_graphics_not_a_linked_adapter/-1071774672/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

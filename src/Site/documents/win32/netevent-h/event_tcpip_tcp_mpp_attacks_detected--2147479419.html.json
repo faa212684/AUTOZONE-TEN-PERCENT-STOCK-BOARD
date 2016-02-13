@@ -1,0 +1,25 @@
+---
+output: win32\netevent-h\event_tcpip_tcp_mpp_attacks_detected\-2147479419\index.html.json
+canonical: /win32/netevent-h/event_tcpip_tcp_mpp_attacks_detected/0x80001085/
+title: -2147479419 EVENT_TCPIP_TCP_MPP_ATTACKS_DETECTED in netevent.h
+description: TCP/IP has detected high memory utilization and has terminated some existing connections to 
+maintain system stability.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "-2147479419",
+  "codeUrl": "/win32/netevent-h/event_tcpip_tcp_mpp_attacks_detected/-2147479419/",
+  "numericCode": 0,
+  "define": "EVENT_TCPIP_TCP_MPP_ATTACKS_DETECTED",
+  "defineUrl": "/win32/netevent-h/event_tcpip_tcp_mpp_attacks_detected/",
+  "message": "TCP/IP has detected high memory utilization and has terminated some existing connections to \r\nmaintain system stability.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80001085",
+  "originalCodeUrl": "/win32/netevent-h/event_tcpip_tcp_mpp_attacks_detected/0x80001085/"
+}

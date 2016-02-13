@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_transactionmanager_identity_mismatch\-1072103332\index.html.json
+canonical: /win32/ntstatus-h/status_transactionmanager_identity_mismatch/0xc019005c/
+title: -1072103332 STATUS_TRANSACTIONMANAGER_IDENTITY_MISMATCH in ntstatus.h
+description: The TransactionManager identity that was supplied did not match the one recorded in the TransactionManager's log file.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1072103332",
+  "codeUrl": "/win32/ntstatus-h/status_transactionmanager_identity_mismatch/-1072103332/",
+  "numericCode": 0,
+  "define": "STATUS_TRANSACTIONMANAGER_IDENTITY_MISMATCH",
+  "defineUrl": "/win32/ntstatus-h/status_transactionmanager_identity_mismatch/",
+  "message": "The TransactionManager identity that was supplied did not match the one recorded in the TransactionManager's log file.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC019005C",
+  "originalCodeUrl": "/win32/ntstatus-h/status_transactionmanager_identity_mismatch/0xc019005c/"
+}

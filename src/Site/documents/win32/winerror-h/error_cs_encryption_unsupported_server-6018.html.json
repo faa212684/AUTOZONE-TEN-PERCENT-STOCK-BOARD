@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_cs_encryption_unsupported_server\6018\index.html.json
+
+title: 6018 ERROR_CS_ENCRYPTION_UNSUPPORTED_SERVER in winerror.h
+description: Client Side Encryption is not supported by the remote server even though it claims to support it.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "6018",
+  "codeUrl": "/win32/winerror-h/error_cs_encryption_unsupported_server/6018/",
+  "numericCode": 6018,
+  "define": "ERROR_CS_ENCRYPTION_UNSUPPORTED_SERVER",
+  "defineUrl": "/win32/winerror-h/error_cs_encryption_unsupported_server/",
+  "message": "Client Side Encryption is not supported by the remote server even though it claims to support it.",
+  "remarks": null,
+  "aka": [
+    "0x80071782",
+    "-2147018878"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_cs_encryption_unsupported_server/0x80071782/",
+    "/win32/winerror-h/error_cs_encryption_unsupported_server/-2147018878/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

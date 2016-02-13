@@ -1,0 +1,28 @@
+---
+output: win32\wsmerror-h\error_winrs_idletimeout_outofbounds\0x803381f2\index.html.json
+
+title: 0x803381F2 ERROR_WINRS_IDLETIMEOUT_OUTOFBOUNDS in wsmerror.h
+description: The WS-Management service cannot process the request. The requested IdleTimeout is outside the allowed range.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x803381F2",
+  "codeUrl": "/win32/wsmerror-h/error_winrs_idletimeout_outofbounds/0x803381f2/",
+  "numericCode": -2144108046,
+  "define": "ERROR_WINRS_IDLETIMEOUT_OUTOFBOUNDS",
+  "defineUrl": "/win32/wsmerror-h/error_winrs_idletimeout_outofbounds/",
+  "message": "The WS-Management service cannot process the request. The requested IdleTimeout is outside the allowed range.",
+  "remarks": null,
+  "aka": [
+    "-2144108046"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_winrs_idletimeout_outofbounds/-2144108046/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

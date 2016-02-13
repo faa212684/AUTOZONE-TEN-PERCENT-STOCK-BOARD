@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ctx_cdm_disconnect\7067\index.html.json
+
+title: 7067 ERROR_CTX_CDM_DISCONNECT in winerror.h
+description: The Client Drive Mapping Service Has Disconnected on Terminal Connection.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "7067",
+  "codeUrl": "/win32/winerror-h/error_ctx_cdm_disconnect/7067/",
+  "numericCode": 7067,
+  "define": "ERROR_CTX_CDM_DISCONNECT",
+  "defineUrl": "/win32/winerror-h/error_ctx_cdm_disconnect/",
+  "message": "The Client Drive Mapping Service Has Disconnected on Terminal Connection.",
+  "remarks": null,
+  "aka": [
+    "0x80071b9b",
+    "-2147017829"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ctx_cdm_disconnect/0x80071b9b/",
+    "/win32/winerror-h/error_ctx_cdm_disconnect/-2147017829/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

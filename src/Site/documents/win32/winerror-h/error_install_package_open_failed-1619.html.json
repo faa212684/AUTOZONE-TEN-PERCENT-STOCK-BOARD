@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_install_package_open_failed\1619\index.html.json
+
+title: 1619 ERROR_INSTALL_PACKAGE_OPEN_FAILED in winerror.h
+description: This installation package could not be opened. Verify that the package exists and that you can access it, or contact the application vendor to verify that this is a valid Windows Installer package.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1619",
+  "codeUrl": "/win32/winerror-h/error_install_package_open_failed/1619/",
+  "numericCode": 1619,
+  "define": "ERROR_INSTALL_PACKAGE_OPEN_FAILED",
+  "defineUrl": "/win32/winerror-h/error_install_package_open_failed/",
+  "message": "This installation package could not be opened. Verify that the package exists and that you can access it, or contact the application vendor to verify that this is a valid Windows Installer package.",
+  "remarks": null,
+  "aka": [
+    "0x80070653",
+    "-2147023277"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_install_package_open_failed/0x80070653/",
+    "/win32/winerror-h/error_install_package_open_failed/-2147023277/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\co_e_initializationfailed\0x8004e025\index.html.json
+
+title: 0x8004E025 CO_E_INITIALIZATIONFAILED in winerror.h
+description: COM+ Activation failed because an initialization function failed. Check the event log for more information.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8004E025",
+  "codeUrl": "/win32/winerror-h/co_e_initializationfailed/0x8004e025/",
+  "numericCode": -2147164123,
+  "define": "CO_E_INITIALIZATIONFAILED",
+  "defineUrl": "/win32/winerror-h/co_e_initializationfailed/",
+  "message": "COM+ Activation failed because an initialization function failed. Check the event log for more information.",
+  "remarks": null,
+  "aka": [
+    "-2147164123"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/co_e_initializationfailed/-2147164123/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

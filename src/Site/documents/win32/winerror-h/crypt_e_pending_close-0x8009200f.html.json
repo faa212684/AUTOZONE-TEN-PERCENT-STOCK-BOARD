@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\crypt_e_pending_close\0x8009200f\index.html.json
+
+title: 0x8009200F CRYPT_E_PENDING_CLOSE in winerror.h
+description: Final closure is pending until additional frees or closes.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8009200F",
+  "codeUrl": "/win32/winerror-h/crypt_e_pending_close/0x8009200f/",
+  "numericCode": -2146885617,
+  "define": "CRYPT_E_PENDING_CLOSE",
+  "defineUrl": "/win32/winerror-h/crypt_e_pending_close/",
+  "message": "Final closure is pending until additional frees or closes.",
+  "remarks": null,
+  "aka": [
+    "-2146885617"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/crypt_e_pending_close/-2146885617/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

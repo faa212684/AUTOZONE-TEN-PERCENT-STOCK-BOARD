@@ -1,0 +1,28 @@
+---
+output: win32\wuerror-h\wu_e_wutask_cancelinstall_disallowed\0x8024b005\index.html.json
+
+title: 0x8024B005 WU_E_WUTASK_CANCELINSTALL_DISALLOWED in wuerror.h
+description: Cannot cancel a non-scheduled install.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wuerror.h",
+  "sourceUrl": "/win32/wuerror-h/",
+  "code": "0x8024B005",
+  "codeUrl": "/win32/wuerror-h/wu_e_wutask_cancelinstall_disallowed/0x8024b005/",
+  "numericCode": -2145079291,
+  "define": "WU_E_WUTASK_CANCELINSTALL_DISALLOWED",
+  "defineUrl": "/win32/wuerror-h/wu_e_wutask_cancelinstall_disallowed/",
+  "message": "Cannot cancel a non-scheduled install.",
+  "remarks": null,
+  "aka": [
+    "-2145079291"
+  ],
+  "akaUrl": [
+    "/win32/wuerror-h/wu_e_wutask_cancelinstall_disallowed/-2145079291/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

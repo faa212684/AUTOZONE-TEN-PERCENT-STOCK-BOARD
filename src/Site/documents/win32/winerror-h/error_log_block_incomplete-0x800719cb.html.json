@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_log_block_incomplete\0x800719cb\index.html.json
+canonical: /win32/winerror-h/error_log_block_incomplete/6603/
+title: 0x800719cb ERROR_LOG_BLOCK_INCOMPLETE in winerror.h
+description: Log service encountered a partial or incomplete log block.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800719cb",
+  "codeUrl": "/win32/winerror-h/error_log_block_incomplete/0x800719cb/",
+  "numericCode": 0,
+  "define": "ERROR_LOG_BLOCK_INCOMPLETE",
+  "defineUrl": "/win32/winerror-h/error_log_block_incomplete/",
+  "message": "Log service encountered a partial or incomplete log block.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "6603",
+  "originalCodeUrl": "/win32/winerror-h/error_log_block_incomplete/6603/"
+}

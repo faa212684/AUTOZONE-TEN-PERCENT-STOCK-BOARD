@@ -1,0 +1,28 @@
+---
+output: win32\scarderr-h\scard_e_card_unsupported\0x8010001c\index.html.json
+
+title: 0x8010001C SCARD_E_CARD_UNSUPPORTED in SCardErr.h
+description: The smart card does not meet minimal requirements for support.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "SCardErr.h",
+  "sourceUrl": "/win32/scarderr-h/",
+  "code": "0x8010001C",
+  "codeUrl": "/win32/scarderr-h/scard_e_card_unsupported/0x8010001c/",
+  "numericCode": -2146435044,
+  "define": "SCARD_E_CARD_UNSUPPORTED",
+  "defineUrl": "/win32/scarderr-h/scard_e_card_unsupported/",
+  "message": "The smart card does not meet minimal requirements for support.",
+  "remarks": null,
+  "aka": [
+    "-2146435044"
+  ],
+  "akaUrl": [
+    "/win32/scarderr-h/scard_e_card_unsupported/-2146435044/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

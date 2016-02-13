@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_cluster_property_data_type_mismatch\5895\index.html.json
+
+title: 5895 ERROR_CLUSTER_PROPERTY_DATA_TYPE_MISMATCH in winerror.h
+description: The actual data type of the property did not match the expected data type of the property.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "5895",
+  "codeUrl": "/win32/winerror-h/error_cluster_property_data_type_mismatch/5895/",
+  "numericCode": 5895,
+  "define": "ERROR_CLUSTER_PROPERTY_DATA_TYPE_MISMATCH",
+  "defineUrl": "/win32/winerror-h/error_cluster_property_data_type_mismatch/",
+  "message": "The actual data type of the property did not match the expected data type of the property.",
+  "remarks": null,
+  "aka": [
+    "0x80071707",
+    "-2147019001"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_cluster_property_data_type_mismatch/0x80071707/",
+    "/win32/winerror-h/error_cluster_property_data_type_mismatch/-2147019001/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

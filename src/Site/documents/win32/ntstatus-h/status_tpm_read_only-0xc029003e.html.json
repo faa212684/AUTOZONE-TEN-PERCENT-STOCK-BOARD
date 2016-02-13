@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_tpm_read_only\0xc029003e\index.html.json
+
+title: 0xC029003E STATUS_TPM_READ_ONLY in ntstatus.h
+description: The NV area is read only and can't be written to.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC029003E",
+  "codeUrl": "/win32/ntstatus-h/status_tpm_read_only/0xc029003e/",
+  "numericCode": -1071054786,
+  "define": "STATUS_TPM_READ_ONLY",
+  "defineUrl": "/win32/ntstatus-h/status_tpm_read_only/",
+  "message": "The NV area is read only and can't be written to.",
+  "remarks": null,
+  "aka": [
+    "-1071054786"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_tpm_read_only/-1071054786/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

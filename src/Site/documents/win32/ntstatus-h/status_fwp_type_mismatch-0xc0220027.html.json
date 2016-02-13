@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_fwp_type_mismatch\0xc0220027\index.html.json
+
+title: 0xC0220027 STATUS_FWP_TYPE_MISMATCH in ntstatus.h
+description: An FWP_VALUE or FWPM_CONDITION_VALUE is of the wrong type.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0220027",
+  "codeUrl": "/win32/ntstatus-h/status_fwp_type_mismatch/0xc0220027/",
+  "numericCode": -1071513561,
+  "define": "STATUS_FWP_TYPE_MISMATCH",
+  "defineUrl": "/win32/ntstatus-h/status_fwp_type_mismatch/",
+  "message": "An FWP_VALUE or FWPM_CONDITION_VALUE is of the wrong type.",
+  "remarks": null,
+  "aka": [
+    "-1071513561"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_fwp_type_mismatch/-1071513561/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

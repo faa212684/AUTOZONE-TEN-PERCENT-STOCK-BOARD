@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_transaction_not_joined\0x80071a34\index.html.json
+canonical: /win32/winerror-h/error_transaction_not_joined/6708/
+title: 0x80071a34 ERROR_TRANSACTION_NOT_JOINED in winerror.h
+description: The resource manager has attempted to prepare a transaction that it has not successfully joined.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80071a34",
+  "codeUrl": "/win32/winerror-h/error_transaction_not_joined/0x80071a34/",
+  "numericCode": 0,
+  "define": "ERROR_TRANSACTION_NOT_JOINED",
+  "defineUrl": "/win32/winerror-h/error_transaction_not_joined/",
+  "message": "The resource manager has attempted to prepare a transaction that it has not successfully joined.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "6708",
+  "originalCodeUrl": "/win32/winerror-h/error_transaction_not_joined/6708/"
+}

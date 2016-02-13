@@ -1,0 +1,26 @@
+---
+output: win32\ntstatus-h\status_noncontinuable_exception\-1073741787\index.html.json
+canonical: /win32/ntstatus-h/status_noncontinuable_exception/0xc0000025/
+title: -1073741787 STATUS_NONCONTINUABLE_EXCEPTION in ntstatus.h
+description: "{EXCEPTION}
+Cannot Continue
+Windows cannot continue from this exception."
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741787",
+  "codeUrl": "/win32/ntstatus-h/status_noncontinuable_exception/-1073741787/",
+  "numericCode": 0,
+  "define": "STATUS_NONCONTINUABLE_EXCEPTION",
+  "defineUrl": "/win32/ntstatus-h/status_noncontinuable_exception/",
+  "message": "{EXCEPTION}\r\nCannot Continue\r\nWindows cannot continue from this exception.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000025",
+  "originalCodeUrl": "/win32/ntstatus-h/status_noncontinuable_exception/0xc0000025/"
+}

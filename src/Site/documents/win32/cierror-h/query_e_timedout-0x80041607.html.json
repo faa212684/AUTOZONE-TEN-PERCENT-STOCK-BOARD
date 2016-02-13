@@ -1,0 +1,28 @@
+---
+output: win32\cierror-h\query_e_timedout\0x80041607\index.html.json
+
+title: 0x80041607 QUERY_E_TIMEDOUT in CiError.h
+description: The query exceeded its execution time limit.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "CiError.h",
+  "sourceUrl": "/win32/cierror-h/",
+  "code": "0x80041607",
+  "codeUrl": "/win32/cierror-h/query_e_timedout/0x80041607/",
+  "numericCode": -2147215865,
+  "define": "QUERY_E_TIMEDOUT",
+  "defineUrl": "/win32/cierror-h/query_e_timedout/",
+  "message": "The query exceeded its execution time limit.",
+  "remarks": null,
+  "aka": [
+    "-2147215865"
+  ],
+  "akaUrl": [
+    "/win32/cierror-h/query_e_timedout/-2147215865/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

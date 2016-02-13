@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\tpm_e_read_only\0x8028003e\index.html.json
+
+title: 0x8028003E TPM_E_READ_ONLY in winerror.h
+description: The NV area is read only and can't be written to.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8028003E",
+  "codeUrl": "/win32/winerror-h/tpm_e_read_only/0x8028003e/",
+  "numericCode": -2144862146,
+  "define": "TPM_E_READ_ONLY",
+  "defineUrl": "/win32/winerror-h/tpm_e_read_only/",
+  "message": "The NV area is read only and can't be written to.",
+  "remarks": null,
+  "aka": [
+    "-2144862146"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/tpm_e_read_only/-2144862146/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

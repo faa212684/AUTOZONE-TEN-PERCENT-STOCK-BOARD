@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_ds_rdn_doesnt_match_schema\-2147016589\index.html.json
+canonical: /win32/winerror-h/error_ds_rdn_doesnt_match_schema/8307/
+title: -2147016589 ERROR_DS_RDN_DOESNT_MATCH_SCHEMA in winerror.h
+description: An attempt was made to add an object using an RDN that is not the RDN defined in the schema.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147016589",
+  "codeUrl": "/win32/winerror-h/error_ds_rdn_doesnt_match_schema/-2147016589/",
+  "numericCode": 0,
+  "define": "ERROR_DS_RDN_DOESNT_MATCH_SCHEMA",
+  "defineUrl": "/win32/winerror-h/error_ds_rdn_doesnt_match_schema/",
+  "message": "An attempt was made to add an object using an RDN that is not the RDN defined in the schema.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "8307",
+  "originalCodeUrl": "/win32/winerror-h/error_ds_rdn_doesnt_match_schema/8307/"
+}

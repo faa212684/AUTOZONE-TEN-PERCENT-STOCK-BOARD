@@ -1,0 +1,24 @@
+---
+output: win32\fsrmerr-h\fsrm_e_file_system_corrupt\-2147200225\index.html.json
+canonical: /win32/fsrmerr-h/fsrm_e_file_system_corrupt/0x8004531f/
+title: -2147200225 FSRM_E_FILE_SYSTEM_CORRUPT in fsrmerr.h
+description: The file system might be corrupted.  Please run the CHKDSK utility.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "fsrmerr.h",
+  "sourceUrl": "/win32/fsrmerr-h/",
+  "code": "-2147200225",
+  "codeUrl": "/win32/fsrmerr-h/fsrm_e_file_system_corrupt/-2147200225/",
+  "numericCode": 0,
+  "define": "FSRM_E_FILE_SYSTEM_CORRUPT",
+  "defineUrl": "/win32/fsrmerr-h/fsrm_e_file_system_corrupt/",
+  "message": "The file system might be corrupted.  Please run the CHKDSK utility.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x8004531F",
+  "originalCodeUrl": "/win32/fsrmerr-h/fsrm_e_file_system_corrupt/0x8004531f/"
+}

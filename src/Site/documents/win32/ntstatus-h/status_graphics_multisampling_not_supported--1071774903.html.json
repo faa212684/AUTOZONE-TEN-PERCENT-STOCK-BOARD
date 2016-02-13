@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_graphics_multisampling_not_supported\-1071774903\index.html.json
+canonical: /win32/ntstatus-h/status_graphics_multisampling_not_supported/0xc01e0349/
+title: -1071774903 STATUS_GRAPHICS_MULTISAMPLING_NOT_SUPPORTED in ntstatus.h
+description: Multi-sampling is not supported on the respective VidPN present path.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071774903",
+  "codeUrl": "/win32/ntstatus-h/status_graphics_multisampling_not_supported/-1071774903/",
+  "numericCode": 0,
+  "define": "STATUS_GRAPHICS_MULTISAMPLING_NOT_SUPPORTED",
+  "defineUrl": "/win32/ntstatus-h/status_graphics_multisampling_not_supported/",
+  "message": "Multi-sampling is not supported on the respective VidPN present path.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC01E0349",
+  "originalCodeUrl": "/win32/ntstatus-h/status_graphics_multisampling_not_supported/0xc01e0349/"
+}

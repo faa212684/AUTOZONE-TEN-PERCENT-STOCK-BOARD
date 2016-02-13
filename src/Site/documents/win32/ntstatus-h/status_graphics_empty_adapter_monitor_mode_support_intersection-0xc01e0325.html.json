@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_graphics_empty_adapter_monitor_mode_support_intersection\0xc01e0325\index.html.json
+
+title: 0xC01E0325 STATUS_GRAPHICS_EMPTY_ADAPTER_MONITOR_MODE_SUPPORT_INTERSECTION in ntstatus.h
+description: System failed to determine a mode that is supported by both the display adapter and the monitor connected to it.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC01E0325",
+  "codeUrl": "/win32/ntstatus-h/status_graphics_empty_adapter_monitor_mode_support_intersection/0xc01e0325/",
+  "numericCode": -1071774939,
+  "define": "STATUS_GRAPHICS_EMPTY_ADAPTER_MONITOR_MODE_SUPPORT_INTERSECTION",
+  "defineUrl": "/win32/ntstatus-h/status_graphics_empty_adapter_monitor_mode_support_intersection/",
+  "message": "System failed to determine a mode that is supported by both the display adapter and the monitor connected to it.",
+  "remarks": null,
+  "aka": [
+    "-1071774939"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_graphics_empty_adapter_monitor_mode_support_intersection/-1071774939/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

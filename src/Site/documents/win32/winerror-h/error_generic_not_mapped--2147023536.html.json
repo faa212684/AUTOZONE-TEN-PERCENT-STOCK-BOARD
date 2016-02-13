@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_generic_not_mapped\-2147023536\index.html.json
+canonical: /win32/winerror-h/error_generic_not_mapped/1360/
+title: -2147023536 ERROR_GENERIC_NOT_MAPPED in winerror.h
+description: Generic access types were contained in an access mask which should already be mapped to nongeneric types.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147023536",
+  "codeUrl": "/win32/winerror-h/error_generic_not_mapped/-2147023536/",
+  "numericCode": 0,
+  "define": "ERROR_GENERIC_NOT_MAPPED",
+  "defineUrl": "/win32/winerror-h/error_generic_not_mapped/",
+  "message": "Generic access types were contained in an access mask which should already be mapped to nongeneric types.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "1360",
+  "originalCodeUrl": "/win32/winerror-h/error_generic_not_mapped/1360/"
+}

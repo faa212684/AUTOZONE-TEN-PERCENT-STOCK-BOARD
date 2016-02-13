@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_drive_media_mismatch\0x800710cf\index.html.json
+canonical: /win32/winerror-h/error_drive_media_mismatch/4303/
+title: 0x800710cf ERROR_DRIVE_MEDIA_MISMATCH in winerror.h
+description: The drive and medium are not compatible or exist in different libraries.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800710cf",
+  "codeUrl": "/win32/winerror-h/error_drive_media_mismatch/0x800710cf/",
+  "numericCode": 0,
+  "define": "ERROR_DRIVE_MEDIA_MISMATCH",
+  "defineUrl": "/win32/winerror-h/error_drive_media_mismatch/",
+  "message": "The drive and medium are not compatible or exist in different libraries.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "4303",
+  "originalCodeUrl": "/win32/winerror-h/error_drive_media_mismatch/4303/"
+}

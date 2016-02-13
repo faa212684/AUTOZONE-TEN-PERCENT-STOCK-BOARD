@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_ctx_service_name_collision\0x80071b5e\index.html.json
+canonical: /win32/winerror-h/error_ctx_service_name_collision/7006/
+title: 0x80071b5e ERROR_CTX_SERVICE_NAME_COLLISION in winerror.h
+description: A service with the same name already exists on the system.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80071b5e",
+  "codeUrl": "/win32/winerror-h/error_ctx_service_name_collision/0x80071b5e/",
+  "numericCode": 0,
+  "define": "ERROR_CTX_SERVICE_NAME_COLLISION",
+  "defineUrl": "/win32/winerror-h/error_ctx_service_name_collision/",
+  "message": "A service with the same name already exists on the system.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "7006",
+  "originalCodeUrl": "/win32/winerror-h/error_ctx_service_name_collision/7006/"
+}

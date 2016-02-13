@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_port_unreachable\-1073741249\index.html.json
+canonical: /win32/ntstatus-h/status_port_unreachable/0xc000023f/
+title: -1073741249 STATUS_PORT_UNREACHABLE in ntstatus.h
+description: No service is operating at the destination port of the transport on the remote system.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741249",
+  "codeUrl": "/win32/ntstatus-h/status_port_unreachable/-1073741249/",
+  "numericCode": 0,
+  "define": "STATUS_PORT_UNREACHABLE",
+  "defineUrl": "/win32/ntstatus-h/status_port_unreachable/",
+  "message": "No service is operating at the destination port of the transport on the remote system.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC000023F",
+  "originalCodeUrl": "/win32/ntstatus-h/status_port_unreachable/0xc000023f/"
+}

@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_in_page_error\0xc0000006\index.html.json
+
+title: 0xC0000006 STATUS_IN_PAGE_ERROR in ntstatus.h
+description: The instruction at 0x%p referenced memory at 0x%p. The required data was not placed into memory because of an I/O error status of 0x%x.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000006",
+  "codeUrl": "/win32/ntstatus-h/status_in_page_error/0xc0000006/",
+  "numericCode": -1073741818,
+  "define": "STATUS_IN_PAGE_ERROR",
+  "defineUrl": "/win32/ntstatus-h/status_in_page_error/",
+  "message": "The instruction at 0x%p referenced memory at 0x%p. The required data was not placed into memory because of an I/O error status of 0x%x.",
+  "remarks": null,
+  "aka": [
+    "-1073741818"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_in_page_error/-1073741818/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_too_many_sessions\0xc00000ce\index.html.json
+
+title: 0xC00000CE STATUS_TOO_MANY_SESSIONS in ntstatus.h
+description: The network BIOS session limit was exceeded.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC00000CE",
+  "codeUrl": "/win32/ntstatus-h/status_too_many_sessions/0xc00000ce/",
+  "numericCode": -1073741618,
+  "define": "STATUS_TOO_MANY_SESSIONS",
+  "defineUrl": "/win32/ntstatus-h/status_too_many_sessions/",
+  "message": "The network BIOS session limit was exceeded.",
+  "remarks": null,
+  "aka": [
+    "-1073741618"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_too_many_sessions/-1073741618/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

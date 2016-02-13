@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_css_scrambled_sector\0xc0000309\index.html.json
+
+title: 0xC0000309 STATUS_CSS_SCRAMBLED_SECTOR in ntstatus.h
+description: Copy protection error - The read failed because the sector is encrypted.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000309",
+  "codeUrl": "/win32/ntstatus-h/status_css_scrambled_sector/0xc0000309/",
+  "numericCode": -1073741047,
+  "define": "STATUS_CSS_SCRAMBLED_SECTOR",
+  "defineUrl": "/win32/ntstatus-h/status_css_scrambled_sector/",
+  "message": "Copy protection error - The read failed because the sector is encrypted.",
+  "remarks": null,
+  "aka": [
+    "-1073741047"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_css_scrambled_sector/-1073741047/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

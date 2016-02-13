@@ -1,0 +1,24 @@
+---
+output: win32\windowssearcherrors-h\event_indexer_no_search_servers\-2147476630\index.html.json
+canonical: /win32/windowssearcherrors-h/event_indexer_no_search_servers/0x80001b6a/
+title: -2147476630 EVENT_INDEXER_NO_SEARCH_SERVERS in WindowsSearchErrors.h
+description: There are no search servers selected.  Reconfigure the index to identify a suitable search server.  If the problem persists, delete and recreate the index.%1
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "-2147476630",
+  "codeUrl": "/win32/windowssearcherrors-h/event_indexer_no_search_servers/-2147476630/",
+  "numericCode": 0,
+  "define": "EVENT_INDEXER_NO_SEARCH_SERVERS",
+  "defineUrl": "/win32/windowssearcherrors-h/event_indexer_no_search_servers/",
+  "message": "There are no search servers selected.  Reconfigure the index to identify a suitable search server.  If the problem persists, delete and recreate the index.%1",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80001B6A",
+  "originalCodeUrl": "/win32/windowssearcherrors-h/event_indexer_no_search_servers/0x80001b6a/"
+}

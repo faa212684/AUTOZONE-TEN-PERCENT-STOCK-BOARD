@@ -1,0 +1,25 @@
+---
+output: win32\winerror-h\error_image_not_at_base\0x800702bc\index.html.json
+canonical: /win32/winerror-h/error_image_not_at_base/700/
+title: 0x800702bc ERROR_IMAGE_NOT_AT_BASE in winerror.h
+description: "{Image Relocated}
+An image file could not be mapped at the address specified in the image file. Local fixups must be performed on this image."
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800702bc",
+  "codeUrl": "/win32/winerror-h/error_image_not_at_base/0x800702bc/",
+  "numericCode": 0,
+  "define": "ERROR_IMAGE_NOT_AT_BASE",
+  "defineUrl": "/win32/winerror-h/error_image_not_at_base/",
+  "message": "{Image Relocated}\r\nAn image file could not be mapped at the address specified in the image file. Local fixups must be performed on this image.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "700",
+  "originalCodeUrl": "/win32/winerror-h/error_image_not_at_base/700/"
+}

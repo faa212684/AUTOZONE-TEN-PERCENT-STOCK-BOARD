@@ -1,0 +1,24 @@
+---
+output: win32\bitsmsg-h\bg_e_network_disconnected\-2145386480\index.html.json
+canonical: /win32/bitsmsg-h/bg_e_network_disconnected/0x80200010/
+title: -2145386480 BG_E_NETWORK_DISCONNECTED in BitsMsg.h
+description: There are currently no active network connections. Background Intelligent Transfer Service (BITS) will try again when an adapter is connected.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "BitsMsg.h",
+  "sourceUrl": "/win32/bitsmsg-h/",
+  "code": "-2145386480",
+  "codeUrl": "/win32/bitsmsg-h/bg_e_network_disconnected/-2145386480/",
+  "numericCode": 0,
+  "define": "BG_E_NETWORK_DISCONNECTED",
+  "defineUrl": "/win32/bitsmsg-h/bg_e_network_disconnected/",
+  "message": "There are currently no active network connections. Background Intelligent Transfer Service (BITS) will try again when an adapter is connected.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80200010",
+  "originalCodeUrl": "/win32/bitsmsg-h/bg_e_network_disconnected/0x80200010/"
+}

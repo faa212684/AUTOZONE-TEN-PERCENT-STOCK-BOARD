@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_duplicate_objectid\0xc000022a\index.html.json
+
+title: 0xC000022A STATUS_DUPLICATE_OBJECTID in ntstatus.h
+description: The attempt to insert the ID in the index failed because the ID is already in the index.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000022A",
+  "codeUrl": "/win32/ntstatus-h/status_duplicate_objectid/0xc000022a/",
+  "numericCode": -1073741270,
+  "define": "STATUS_DUPLICATE_OBJECTID",
+  "defineUrl": "/win32/ntstatus-h/status_duplicate_objectid/",
+  "message": "The attempt to insert the ID in the index failed because the ID is already in the index.",
+  "remarks": null,
+  "aka": [
+    "-1073741270"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_duplicate_objectid/-1073741270/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

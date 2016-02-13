@@ -1,0 +1,28 @@
+---
+output: win32\wsmerror-h\error_wsman_shell_already_closed\0x8033814a\index.html.json
+
+title: 0x8033814A ERROR_WSMAN_SHELL_ALREADY_CLOSED in wsmerror.h
+description: An operation is being attempted on a shell that is being closed. This can happen if the shell that is being used is also being closed by another thread.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x8033814A",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_shell_already_closed/0x8033814a/",
+  "numericCode": -2144108214,
+  "define": "ERROR_WSMAN_SHELL_ALREADY_CLOSED",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_shell_already_closed/",
+  "message": "An operation is being attempted on a shell that is being closed. This can happen if the shell that is being used is also being closed by another thread.",
+  "remarks": null,
+  "aka": [
+    "-2144108214"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_shell_already_closed/-2144108214/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

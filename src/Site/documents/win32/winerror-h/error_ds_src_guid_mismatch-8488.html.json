@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ds_src_guid_mismatch\8488\index.html.json
+
+title: 8488 ERROR_DS_SRC_GUID_MISMATCH in winerror.h
+description: Source and destination of a cross-domain move do not agree on the identity of the source object. Either source or destination does not have the latest version of the source object.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "8488",
+  "codeUrl": "/win32/winerror-h/error_ds_src_guid_mismatch/8488/",
+  "numericCode": 8488,
+  "define": "ERROR_DS_SRC_GUID_MISMATCH",
+  "defineUrl": "/win32/winerror-h/error_ds_src_guid_mismatch/",
+  "message": "Source and destination of a cross-domain move do not agree on the identity of the source object. Either source or destination does not have the latest version of the source object.",
+  "remarks": null,
+  "aka": [
+    "0x80072128",
+    "-2147016408"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ds_src_guid_mismatch/0x80072128/",
+    "/win32/winerror-h/error_ds_src_guid_mismatch/-2147016408/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

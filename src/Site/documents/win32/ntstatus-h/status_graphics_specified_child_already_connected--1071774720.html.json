@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_graphics_specified_child_already_connected\-1071774720\index.html.json
+canonical: /win32/ntstatus-h/status_graphics_specified_child_already_connected/0xc01e0400/
+title: -1071774720 STATUS_GRAPHICS_SPECIFIED_CHILD_ALREADY_CONNECTED in ntstatus.h
+description: Specified display adapter child device already has an external device connected to it.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071774720",
+  "codeUrl": "/win32/ntstatus-h/status_graphics_specified_child_already_connected/-1071774720/",
+  "numericCode": 0,
+  "define": "STATUS_GRAPHICS_SPECIFIED_CHILD_ALREADY_CONNECTED",
+  "defineUrl": "/win32/ntstatus-h/status_graphics_specified_child_already_connected/",
+  "message": "Specified display adapter child device already has an external device connected to it.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC01E0400",
+  "originalCodeUrl": "/win32/ntstatus-h/status_graphics_specified_child_already_connected/0xc01e0400/"
+}

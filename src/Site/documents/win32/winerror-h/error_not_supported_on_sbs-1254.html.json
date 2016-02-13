@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_not_supported_on_sbs\1254\index.html.json
+
+title: 1254 ERROR_NOT_SUPPORTED_ON_SBS in winerror.h
+description: This operation is not supported on a computer running Windows Server 2003 for Small Business Server
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1254",
+  "codeUrl": "/win32/winerror-h/error_not_supported_on_sbs/1254/",
+  "numericCode": 1254,
+  "define": "ERROR_NOT_SUPPORTED_ON_SBS",
+  "defineUrl": "/win32/winerror-h/error_not_supported_on_sbs/",
+  "message": "This operation is not supported on a computer running Windows Server 2003 for Small Business Server",
+  "remarks": null,
+  "aka": [
+    "0x800704e6",
+    "-2147023642"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_not_supported_on_sbs/0x800704e6/",
+    "/win32/winerror-h/error_not_supported_on_sbs/-2147023642/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

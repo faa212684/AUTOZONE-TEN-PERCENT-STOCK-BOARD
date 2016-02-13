@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_ndis_unsupported_revision\0xc023002c\index.html.json
+
+title: 0xC023002C STATUS_NDIS_UNSUPPORTED_REVISION in ntstatus.h
+description: The revision number specified in the structure is not supported.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC023002C",
+  "codeUrl": "/win32/ntstatus-h/status_ndis_unsupported_revision/0xc023002c/",
+  "numericCode": -1071448020,
+  "define": "STATUS_NDIS_UNSUPPORTED_REVISION",
+  "defineUrl": "/win32/ntstatus-h/status_ndis_unsupported_revision/",
+  "message": "The revision number specified in the structure is not supported.",
+  "remarks": null,
+  "aka": [
+    "-1071448020"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_ndis_unsupported_revision/-1071448020/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

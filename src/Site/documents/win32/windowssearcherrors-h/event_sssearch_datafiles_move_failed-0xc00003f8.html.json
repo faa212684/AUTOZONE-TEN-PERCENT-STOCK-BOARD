@@ -1,0 +1,28 @@
+---
+output: win32\windowssearcherrors-h\event_sssearch_datafiles_move_failed\0xc00003f8\index.html.json
+
+title: 0xC00003F8 EVENT_SSSEARCH_DATAFILES_MOVE_FAILED in WindowsSearchErrors.h
+description: The Windows Search Service failed to move Index files from %2 to %3 with the following error: <%4,%5>. This might be because the target directory is not empty, or because the SYSTEM account doesn't have write access to the target directory. %1
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "0xC00003F8",
+  "codeUrl": "/win32/windowssearcherrors-h/event_sssearch_datafiles_move_failed/0xc00003f8/",
+  "numericCode": -1073740808,
+  "define": "EVENT_SSSEARCH_DATAFILES_MOVE_FAILED",
+  "defineUrl": "/win32/windowssearcherrors-h/event_sssearch_datafiles_move_failed/",
+  "message": "The Windows Search Service failed to move Index files from %2 to %3 with the following error: <%4,%5>. This might be because the target directory is not empty, or because the SYSTEM account doesn't have write access to the target directory. %1",
+  "remarks": null,
+  "aka": [
+    "-1073740808"
+  ],
+  "akaUrl": [
+    "/win32/windowssearcherrors-h/event_sssearch_datafiles_move_failed/-1073740808/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

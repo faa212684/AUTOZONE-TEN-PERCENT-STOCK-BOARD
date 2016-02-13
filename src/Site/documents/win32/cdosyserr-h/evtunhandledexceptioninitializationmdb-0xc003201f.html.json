@@ -1,0 +1,29 @@
+---
+output: win32\cdosyserr-h\evtunhandledexceptioninitializationmdb\0xc003201f\index.html.json
+
+title: 0xC003201F evtUnhandledExceptionInitializationMDB in CDOSysErr.h
+description: Unhandled exception %1 caught during initialization of server agents while an MDB is mounted.
+%n%nFor more information, click http:www.microsoft.com/contentredirect.asp.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "CDOSysErr.h",
+  "sourceUrl": "/win32/cdosyserr-h/",
+  "code": "0xC003201F",
+  "codeUrl": "/win32/cdosyserr-h/evtunhandledexceptioninitializationmdb/0xc003201f/",
+  "numericCode": -1073536993,
+  "define": "evtUnhandledExceptionInitializationMDB",
+  "defineUrl": "/win32/cdosyserr-h/evtunhandledexceptioninitializationmdb/",
+  "message": "Unhandled exception %1 caught during initialization of server agents while an MDB is mounted.\r\n%n%nFor more information, click http:www.microsoft.com/contentredirect.asp.",
+  "remarks": null,
+  "aka": [
+    "-1073536993"
+  ],
+  "akaUrl": [
+    "/win32/cdosyserr-h/evtunhandledexceptioninitializationmdb/-1073536993/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

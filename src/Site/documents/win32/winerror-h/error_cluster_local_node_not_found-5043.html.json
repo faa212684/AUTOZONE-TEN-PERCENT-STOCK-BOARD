@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_cluster_local_node_not_found\5043\index.html.json
+
+title: 5043 ERROR_CLUSTER_LOCAL_NODE_NOT_FOUND in winerror.h
+description: The cluster local node information was not found.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "5043",
+  "codeUrl": "/win32/winerror-h/error_cluster_local_node_not_found/5043/",
+  "numericCode": 5043,
+  "define": "ERROR_CLUSTER_LOCAL_NODE_NOT_FOUND",
+  "defineUrl": "/win32/winerror-h/error_cluster_local_node_not_found/",
+  "message": "The cluster local node information was not found.",
+  "remarks": null,
+  "aka": [
+    "0x800713b3",
+    "-2147019853"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_cluster_local_node_not_found/0x800713b3/",
+    "/win32/winerror-h/error_cluster_local_node_not_found/-2147019853/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

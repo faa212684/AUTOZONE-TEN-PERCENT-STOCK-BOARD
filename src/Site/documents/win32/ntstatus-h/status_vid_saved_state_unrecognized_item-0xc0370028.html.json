@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_vid_saved_state_unrecognized_item\0xc0370028\index.html.json
+
+title: 0xC0370028 STATUS_VID_SAVED_STATE_UNRECOGNIZED_ITEM in ntstatus.h
+description: Cannot restore this virtual machine because an item read from the saved state data is not recognized. Delete the saved state data and then try to start the virtual machine.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0370028",
+  "codeUrl": "/win32/ntstatus-h/status_vid_saved_state_unrecognized_item/0xc0370028/",
+  "numericCode": -1070137304,
+  "define": "STATUS_VID_SAVED_STATE_UNRECOGNIZED_ITEM",
+  "defineUrl": "/win32/ntstatus-h/status_vid_saved_state_unrecognized_item/",
+  "message": "Cannot restore this virtual machine because an item read from the saved state data is not recognized. Delete the saved state data and then try to start the virtual machine.",
+  "remarks": null,
+  "aka": [
+    "-1070137304"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_vid_saved_state_unrecognized_item/-1070137304/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_fve_bad_data\-1071579126\index.html.json
+canonical: /win32/ntstatus-h/status_fve_bad_data/0xc021000a/
+title: -1071579126 STATUS_FVE_BAD_DATA in ntstatus.h
+description: Data supplied is malformed.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071579126",
+  "codeUrl": "/win32/ntstatus-h/status_fve_bad_data/-1071579126/",
+  "numericCode": 0,
+  "define": "STATUS_FVE_BAD_DATA",
+  "defineUrl": "/win32/ntstatus-h/status_fve_bad_data/",
+  "message": "Data supplied is malformed.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC021000A",
+  "originalCodeUrl": "/win32/ntstatus-h/status_fve_bad_data/0xc021000a/"
+}

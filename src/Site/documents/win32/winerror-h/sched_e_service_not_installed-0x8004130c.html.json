@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\sched_e_service_not_installed\0x8004130c\index.html.json
+
+title: 0x8004130C SCHED_E_SERVICE_NOT_INSTALLED in winerror.h
+description: The Task Scheduler Service is not installed on this computer.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8004130C",
+  "codeUrl": "/win32/winerror-h/sched_e_service_not_installed/0x8004130c/",
+  "numericCode": -2147216628,
+  "define": "SCHED_E_SERVICE_NOT_INSTALLED",
+  "defineUrl": "/win32/winerror-h/sched_e_service_not_installed/",
+  "message": "The Task Scheduler Service is not installed on this computer.",
+  "remarks": null,
+  "aka": [
+    "-2147216628"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/sched_e_service_not_installed/-2147216628/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

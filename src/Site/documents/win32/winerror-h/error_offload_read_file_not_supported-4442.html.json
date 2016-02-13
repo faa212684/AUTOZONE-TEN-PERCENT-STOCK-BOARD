@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_offload_read_file_not_supported\4442\index.html.json
+
+title: 4442 ERROR_OFFLOAD_READ_FILE_NOT_SUPPORTED in winerror.h
+description: The copy offload read operation is not supported for the file.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "4442",
+  "codeUrl": "/win32/winerror-h/error_offload_read_file_not_supported/4442/",
+  "numericCode": 4442,
+  "define": "ERROR_OFFLOAD_READ_FILE_NOT_SUPPORTED",
+  "defineUrl": "/win32/winerror-h/error_offload_read_file_not_supported/",
+  "message": "The copy offload read operation is not supported for the file.",
+  "remarks": null,
+  "aka": [
+    "0x8007115a",
+    "-2147020454"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_offload_read_file_not_supported/0x8007115a/",
+    "/win32/winerror-h/error_offload_read_file_not_supported/-2147020454/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

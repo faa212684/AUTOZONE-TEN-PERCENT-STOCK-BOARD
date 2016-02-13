@@ -1,0 +1,24 @@
+---
+output: win32\netevent-h\event_ndis_adapter_disabled\-2147478634\index.html.json
+canonical: /win32/netevent-h/event_ndis_adapter_disabled/0x80001396/
+title: -2147478634 EVENT_NDIS_ADAPTER_DISABLED in netevent.h
+description: %2 : The driver cannot function because the network adapter is disabled.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "-2147478634",
+  "codeUrl": "/win32/netevent-h/event_ndis_adapter_disabled/-2147478634/",
+  "numericCode": 0,
+  "define": "EVENT_NDIS_ADAPTER_DISABLED",
+  "defineUrl": "/win32/netevent-h/event_ndis_adapter_disabled/",
+  "message": "%2 : The driver cannot function because the network adapter is disabled.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80001396",
+  "originalCodeUrl": "/win32/netevent-h/event_ndis_adapter_disabled/0x80001396/"
+}

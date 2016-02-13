@@ -1,0 +1,28 @@
+---
+output: win32\imapi2fserror-h\imapi_e_working_directory_space\0xc0aab141\index.html.json
+
+title: 0xC0AAB141 IMAPI_E_WORKING_DIRECTORY_SPACE in imapi2fserror.h
+description: Cannot set working directory to '%1!ls!'.  Space available is %2!I64d! bytes, approximately %3!I64d! bytes required.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "imapi2fserror.h",
+  "sourceUrl": "/win32/imapi2fserror-h/",
+  "code": "0xC0AAB141",
+  "codeUrl": "/win32/imapi2fserror-h/imapi_e_working_directory_space/0xc0aab141/",
+  "numericCode": -1062555327,
+  "define": "IMAPI_E_WORKING_DIRECTORY_SPACE",
+  "defineUrl": "/win32/imapi2fserror-h/imapi_e_working_directory_space/",
+  "message": "Cannot set working directory to '%1!ls!'.  Space available is %2!I64d! bytes, approximately %3!I64d! bytes required.",
+  "remarks": null,
+  "aka": [
+    "-1062555327"
+  ],
+  "akaUrl": [
+    "/win32/imapi2fserror-h/imapi_e_working_directory_space/-1062555327/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

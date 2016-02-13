@@ -1,0 +1,28 @@
+---
+output: win32\wsmerror-h\error_wsman_invalid_message_information_header\0x8033800f\index.html.json
+
+title: 0x8033800F ERROR_WSMAN_INVALID_MESSAGE_INFORMATION_HEADER in wsmerror.h
+description: The WS-Management service cannot process the request. The request contains one or more invalid SOAP headers.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x8033800F",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_invalid_message_information_header/0x8033800f/",
+  "numericCode": -2144108529,
+  "define": "ERROR_WSMAN_INVALID_MESSAGE_INFORMATION_HEADER",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_invalid_message_information_header/",
+  "message": "The WS-Management service cannot process the request. The request contains one or more invalid SOAP headers.",
+  "remarks": null,
+  "aka": [
+    "-2144108529"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_invalid_message_information_header/-2144108529/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

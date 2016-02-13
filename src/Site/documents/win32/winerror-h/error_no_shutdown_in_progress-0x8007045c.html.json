@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_no_shutdown_in_progress\0x8007045c\index.html.json
+canonical: /win32/winerror-h/error_no_shutdown_in_progress/1116/
+title: 0x8007045c ERROR_NO_SHUTDOWN_IN_PROGRESS in winerror.h
+description: Unable to abort the system shutdown because no shutdown was in progress.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007045c",
+  "codeUrl": "/win32/winerror-h/error_no_shutdown_in_progress/0x8007045c/",
+  "numericCode": 0,
+  "define": "ERROR_NO_SHUTDOWN_IN_PROGRESS",
+  "defineUrl": "/win32/winerror-h/error_no_shutdown_in_progress/",
+  "message": "Unable to abort the system shutdown because no shutdown was in progress.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "1116",
+  "originalCodeUrl": "/win32/winerror-h/error_no_shutdown_in_progress/1116/"
+}

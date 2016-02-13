@@ -1,0 +1,29 @@
+---
+output: win32\vdserr-h\vds_e_disk_has_bands\0x80042a04\index.html.json
+
+title: 0x80042A04 VDS_E_DISK_HAS_BANDS in vdserr.h
+description: The disk could not be converted to dynamic because security is enabled
+on one or more partitions.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x80042A04",
+  "codeUrl": "/win32/vdserr-h/vds_e_disk_has_bands/0x80042a04/",
+  "numericCode": -2147210748,
+  "define": "VDS_E_DISK_HAS_BANDS",
+  "defineUrl": "/win32/vdserr-h/vds_e_disk_has_bands/",
+  "message": "The disk could not be converted to dynamic because security is enabled\r\non one or more partitions.",
+  "remarks": null,
+  "aka": [
+    "-2147210748"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_disk_has_bands/-2147210748/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

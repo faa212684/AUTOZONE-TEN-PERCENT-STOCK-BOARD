@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_invalid_printer_state\1906\index.html.json
+
+title: 1906 ERROR_INVALID_PRINTER_STATE in winerror.h
+description: The state of the printer is invalid.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1906",
+  "codeUrl": "/win32/winerror-h/error_invalid_printer_state/1906/",
+  "numericCode": 1906,
+  "define": "ERROR_INVALID_PRINTER_STATE",
+  "defineUrl": "/win32/winerror-h/error_invalid_printer_state/",
+  "message": "The state of the printer is invalid.",
+  "remarks": null,
+  "aka": [
+    "0x80070772",
+    "-2147022990"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_invalid_printer_state/0x80070772/",
+    "/win32/winerror-h/error_invalid_printer_state/-2147022990/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

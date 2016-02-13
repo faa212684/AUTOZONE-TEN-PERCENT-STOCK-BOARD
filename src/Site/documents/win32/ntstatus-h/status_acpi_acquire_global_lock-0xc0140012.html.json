@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_acpi_acquire_global_lock\0xc0140012\index.html.json
+
+title: 0xC0140012 STATUS_ACPI_ACQUIRE_GLOBAL_LOCK in ntstatus.h
+description: The Global system lock could not be acquired
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0140012",
+  "codeUrl": "/win32/ntstatus-h/status_acpi_acquire_global_lock/0xc0140012/",
+  "numericCode": -1072431086,
+  "define": "STATUS_ACPI_ACQUIRE_GLOBAL_LOCK",
+  "defineUrl": "/win32/ntstatus-h/status_acpi_acquire_global_lock/",
+  "message": "The Global system lock could not be acquired",
+  "remarks": null,
+  "aka": [
+    "-1072431086"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_acpi_acquire_global_lock/-1072431086/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

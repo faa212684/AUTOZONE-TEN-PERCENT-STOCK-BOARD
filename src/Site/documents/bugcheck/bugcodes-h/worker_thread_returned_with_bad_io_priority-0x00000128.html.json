@@ -1,0 +1,28 @@
+---
+output: bugcheck\bugcodes-h\worker_thread_returned_with_bad_io_priority\0x00000128\index.html.json
+
+title: 0x00000128 WORKER_THREAD_RETURNED_WITH_BAD_IO_PRIORITY in bugcodes.h
+description: WORKER_THREAD_RETURNED_WITH_BAD_IO_PRIORITY
+disqus: true
+---
+{
+  "area": "bugcheck",
+  "areaUrl": "/bugcheck/",
+  "source": "bugcodes.h",
+  "sourceUrl": "/bugcheck/bugcodes-h/",
+  "code": "0x00000128",
+  "codeUrl": "/bugcheck/bugcodes-h/worker_thread_returned_with_bad_io_priority/0x00000128/",
+  "numericCode": 296,
+  "define": "WORKER_THREAD_RETURNED_WITH_BAD_IO_PRIORITY",
+  "defineUrl": "/bugcheck/bugcodes-h/worker_thread_returned_with_bad_io_priority/",
+  "message": "WORKER_THREAD_RETURNED_WITH_BAD_IO_PRIORITY",
+  "remarks": null,
+  "aka": [
+    "296"
+  ],
+  "akaUrl": [
+    "/bugcheck/bugcodes-h/worker_thread_returned_with_bad_io_priority/296/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

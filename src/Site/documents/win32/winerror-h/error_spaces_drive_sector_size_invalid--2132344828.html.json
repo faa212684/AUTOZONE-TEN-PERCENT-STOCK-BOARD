@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_spaces_drive_sector_size_invalid\-2132344828\index.html.json
+canonical: /win32/winerror-h/error_spaces_drive_sector_size_invalid/0x80e70004/
+title: -2132344828 ERROR_SPACES_DRIVE_SECTOR_SIZE_INVALID in winerror.h
+description: The physical disk's sector size is not supported by the storage pool.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2132344828",
+  "codeUrl": "/win32/winerror-h/error_spaces_drive_sector_size_invalid/-2132344828/",
+  "numericCode": 0,
+  "define": "ERROR_SPACES_DRIVE_SECTOR_SIZE_INVALID",
+  "defineUrl": "/win32/winerror-h/error_spaces_drive_sector_size_invalid/",
+  "message": "The physical disk's sector size is not supported by the storage pool.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80E70004",
+  "originalCodeUrl": "/win32/winerror-h/error_spaces_drive_sector_size_invalid/0x80e70004/"
+}

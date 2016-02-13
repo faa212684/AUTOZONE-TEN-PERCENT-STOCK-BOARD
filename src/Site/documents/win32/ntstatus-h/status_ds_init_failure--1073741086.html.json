@@ -1,0 +1,27 @@
+---
+output: win32\ntstatus-h\status_ds_init_failure\-1073741086\index.html.json
+canonical: /win32/ntstatus-h/status_ds_init_failure/0xc00002e2/
+title: -1073741086 STATUS_DS_INIT_FAILURE in ntstatus.h
+description: Directory Services could not start because of the following error:
+%hs
+Error Status: 0x%x.
+Please shutdown this system and reboot into Directory Services Restore Mode, check the event log for more detailed information.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741086",
+  "codeUrl": "/win32/ntstatus-h/status_ds_init_failure/-1073741086/",
+  "numericCode": 0,
+  "define": "STATUS_DS_INIT_FAILURE",
+  "defineUrl": "/win32/ntstatus-h/status_ds_init_failure/",
+  "message": "Directory Services could not start because of the following error:\r\n%hs\r\nError Status: 0x%x.\r\nPlease shutdown this system and reboot into Directory Services Restore Mode, check the event log for more detailed information.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC00002E2",
+  "originalCodeUrl": "/win32/ntstatus-h/status_ds_init_failure/0xc00002e2/"
+}

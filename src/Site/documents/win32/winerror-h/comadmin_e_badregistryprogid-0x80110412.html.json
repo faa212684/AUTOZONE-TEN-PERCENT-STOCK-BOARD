@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\comadmin_e_badregistryprogid\0x80110412\index.html.json
+
+title: 0x80110412 COMADMIN_E_BADREGISTRYPROGID in winerror.h
+description: The component's progID is missing or corrupt
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80110412",
+  "codeUrl": "/win32/winerror-h/comadmin_e_badregistryprogid/0x80110412/",
+  "numericCode": -2146368494,
+  "define": "COMADMIN_E_BADREGISTRYPROGID",
+  "defineUrl": "/win32/winerror-h/comadmin_e_badregistryprogid/",
+  "message": "The component's progID is missing or corrupt",
+  "remarks": null,
+  "aka": [
+    "-2146368494"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/comadmin_e_badregistryprogid/-2146368494/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

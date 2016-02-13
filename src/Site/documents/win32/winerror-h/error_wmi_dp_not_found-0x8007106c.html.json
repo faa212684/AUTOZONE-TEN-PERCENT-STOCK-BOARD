@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_wmi_dp_not_found\0x8007106c\index.html.json
+canonical: /win32/winerror-h/error_wmi_dp_not_found/4204/
+title: 0x8007106c ERROR_WMI_DP_NOT_FOUND in winerror.h
+description: The WMI data provider could not be located.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007106c",
+  "codeUrl": "/win32/winerror-h/error_wmi_dp_not_found/0x8007106c/",
+  "numericCode": 0,
+  "define": "ERROR_WMI_DP_NOT_FOUND",
+  "defineUrl": "/win32/winerror-h/error_wmi_dp_not_found/",
+  "message": "The WMI data provider could not be located.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "4204",
+  "originalCodeUrl": "/win32/winerror-h/error_wmi_dp_not_found/4204/"
+}

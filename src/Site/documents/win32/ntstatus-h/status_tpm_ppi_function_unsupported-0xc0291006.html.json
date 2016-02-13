@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_tpm_ppi_function_unsupported\0xc0291006\index.html.json
+
+title: 0xC0291006 STATUS_TPM_PPI_FUNCTION_UNSUPPORTED in ntstatus.h
+description: The Physical Presence Interface of this firmware does not support the requested method.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0291006",
+  "codeUrl": "/win32/ntstatus-h/status_tpm_ppi_function_unsupported/0xc0291006/",
+  "numericCode": -1071050746,
+  "define": "STATUS_TPM_PPI_FUNCTION_UNSUPPORTED",
+  "defineUrl": "/win32/ntstatus-h/status_tpm_ppi_function_unsupported/",
+  "message": "The Physical Presence Interface of this firmware does not support the requested method.",
+  "remarks": null,
+  "aka": [
+    "-1071050746"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_tpm_ppi_function_unsupported/-1071050746/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

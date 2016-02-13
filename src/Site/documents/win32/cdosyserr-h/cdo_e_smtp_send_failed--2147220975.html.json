@@ -1,0 +1,24 @@
+---
+output: win32\cdosyserr-h\cdo_e_smtp_send_failed\-2147220975\index.html.json
+canonical: /win32/cdosyserr-h/cdo_e_smtp_send_failed/0x80040211/
+title: -2147220975 CDO_E_SMTP_SEND_FAILED in CDOSysErr.h
+description: The message could not be sent to the SMTP server. The transport error code was %2. The server response was %1
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "CDOSysErr.h",
+  "sourceUrl": "/win32/cdosyserr-h/",
+  "code": "-2147220975",
+  "codeUrl": "/win32/cdosyserr-h/cdo_e_smtp_send_failed/-2147220975/",
+  "numericCode": 0,
+  "define": "CDO_E_SMTP_SEND_FAILED",
+  "defineUrl": "/win32/cdosyserr-h/cdo_e_smtp_send_failed/",
+  "message": "The message could not be sent to the SMTP server. The transport error code was %2. The server response was %1",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80040211",
+  "originalCodeUrl": "/win32/cdosyserr-h/cdo_e_smtp_send_failed/0x80040211/"
+}

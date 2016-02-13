@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_no_kerb_key\-1073741022\index.html.json
+canonical: /win32/ntstatus-h/status_no_kerb_key/0xc0000322/
+title: -1073741022 STATUS_NO_KERB_KEY in ntstatus.h
+description: The target server does not have acceptable Kerberos credentials.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741022",
+  "codeUrl": "/win32/ntstatus-h/status_no_kerb_key/-1073741022/",
+  "numericCode": 0,
+  "define": "STATUS_NO_KERB_KEY",
+  "defineUrl": "/win32/ntstatus-h/status_no_kerb_key/",
+  "message": "The target server does not have acceptable Kerberos credentials.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000322",
+  "originalCodeUrl": "/win32/ntstatus-h/status_no_kerb_key/0xc0000322/"
+}

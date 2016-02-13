@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\context_e_synch_timeout\-2147164154\index.html.json
+canonical: /win32/winerror-h/context_e_synch_timeout/0x8004e006/
+title: -2147164154 CONTEXT_E_SYNCH_TIMEOUT in winerror.h
+description: The component is configured to use synchronization and a thread has timed out waiting to enter the context.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147164154",
+  "codeUrl": "/win32/winerror-h/context_e_synch_timeout/-2147164154/",
+  "numericCode": 0,
+  "define": "CONTEXT_E_SYNCH_TIMEOUT",
+  "defineUrl": "/win32/winerror-h/context_e_synch_timeout/",
+  "message": "The component is configured to use synchronization and a thread has timed out waiting to enter the context.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x8004E006",
+  "originalCodeUrl": "/win32/winerror-h/context_e_synch_timeout/0x8004e006/"
+}

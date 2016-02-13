@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_vid_invalid_numa_node_index\-1070137328\index.html.json
+canonical: /win32/ntstatus-h/status_vid_invalid_numa_node_index/0xc0370010/
+title: -1070137328 STATUS_VID_INVALID_NUMA_NODE_INDEX in ntstatus.h
+description: The non-uniform memory access (NUMA) node index does not match a valid index in the system NUMA topology.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1070137328",
+  "codeUrl": "/win32/ntstatus-h/status_vid_invalid_numa_node_index/-1070137328/",
+  "numericCode": 0,
+  "define": "STATUS_VID_INVALID_NUMA_NODE_INDEX",
+  "defineUrl": "/win32/ntstatus-h/status_vid_invalid_numa_node_index/",
+  "message": "The non-uniform memory access (NUMA) node index does not match a valid index in the system NUMA topology.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0370010",
+  "originalCodeUrl": "/win32/ntstatus-h/status_vid_invalid_numa_node_index/0xc0370010/"
+}

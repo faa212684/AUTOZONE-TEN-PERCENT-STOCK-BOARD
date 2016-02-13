@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_failed_stack_switch\-1073740941\index.html.json
+canonical: /win32/ntstatus-h/status_failed_stack_switch/0xc0000373/
+title: -1073740941 STATUS_FAILED_STACK_SWITCH in ntstatus.h
+description: The system was not able to allocate enough memory to perform a stack switch.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073740941",
+  "codeUrl": "/win32/ntstatus-h/status_failed_stack_switch/-1073740941/",
+  "numericCode": 0,
+  "define": "STATUS_FAILED_STACK_SWITCH",
+  "defineUrl": "/win32/ntstatus-h/status_failed_stack_switch/",
+  "message": "The system was not able to allocate enough memory to perform a stack switch.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000373",
+  "originalCodeUrl": "/win32/ntstatus-h/status_failed_stack_switch/0xc0000373/"
+}

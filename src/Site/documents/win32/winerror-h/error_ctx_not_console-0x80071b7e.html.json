@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_ctx_not_console\0x80071b7e\index.html.json
+canonical: /win32/winerror-h/error_ctx_not_console/7038/
+title: 0x80071b7e ERROR_CTX_NOT_CONSOLE in winerror.h
+description: The requested operation can be performed only on the system console. This is most often the result of a driver or system DLL requiring direct console access.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80071b7e",
+  "codeUrl": "/win32/winerror-h/error_ctx_not_console/0x80071b7e/",
+  "numericCode": 0,
+  "define": "ERROR_CTX_NOT_CONSOLE",
+  "defineUrl": "/win32/winerror-h/error_ctx_not_console/",
+  "message": "The requested operation can be performed only on the system console. This is most often the result of a driver or system DLL requiring direct console access.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "7038",
+  "originalCodeUrl": "/win32/winerror-h/error_ctx_not_console/7038/"
+}

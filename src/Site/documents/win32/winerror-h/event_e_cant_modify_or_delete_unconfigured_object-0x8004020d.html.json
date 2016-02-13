@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\event_e_cant_modify_or_delete_unconfigured_object\0x8004020d\index.html.json
+
+title: 0x8004020D EVENT_E_CANT_MODIFY_OR_DELETE_UNCONFIGURED_OBJECT in winerror.h
+description: Cannot modify or delete an object that was not added using the COM+ Admin SDK
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8004020D",
+  "codeUrl": "/win32/winerror-h/event_e_cant_modify_or_delete_unconfigured_object/0x8004020d/",
+  "numericCode": -2147220979,
+  "define": "EVENT_E_CANT_MODIFY_OR_DELETE_UNCONFIGURED_OBJECT",
+  "defineUrl": "/win32/winerror-h/event_e_cant_modify_or_delete_unconfigured_object/",
+  "message": "Cannot modify or delete an object that was not added using the COM+ Admin SDK",
+  "remarks": null,
+  "aka": [
+    "-2147220979"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/event_e_cant_modify_or_delete_unconfigured_object/-2147220979/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

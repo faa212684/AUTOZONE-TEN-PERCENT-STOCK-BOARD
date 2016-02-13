@@ -1,0 +1,25 @@
+---
+output: win32\ntstatus-h\status_video_hung_display_driver_thread_recovered\-2145713941\index.html.json
+canonical: /win32/ntstatus-h/status_video_hung_display_driver_thread_recovered/0x801b00eb/
+title: -2145713941 STATUS_VIDEO_HUNG_DISPLAY_DRIVER_THREAD_RECOVERED in ntstatus.h
+description: "{Display Driver Stopped Responding and recovered}
+The %hs display driver has stopped working normally. The recovery had been performed."
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-2145713941",
+  "codeUrl": "/win32/ntstatus-h/status_video_hung_display_driver_thread_recovered/-2145713941/",
+  "numericCode": 0,
+  "define": "STATUS_VIDEO_HUNG_DISPLAY_DRIVER_THREAD_RECOVERED",
+  "defineUrl": "/win32/ntstatus-h/status_video_hung_display_driver_thread_recovered/",
+  "message": "{Display Driver Stopped Responding and recovered}\r\nThe %hs display driver has stopped working normally. The recovery had been performed.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x801B00EB",
+  "originalCodeUrl": "/win32/ntstatus-h/status_video_hung_display_driver_thread_recovered/0x801b00eb/"
+}

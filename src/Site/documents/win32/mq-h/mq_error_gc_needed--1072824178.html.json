@@ -1,0 +1,24 @@
+---
+output: win32\mq-h\mq_error_gc_needed\-1072824178\index.html.json
+canonical: /win32/mq-h/mq_error_gc_needed/0xc00e008e/
+title: -1072824178 MQ_ERROR_GC_NEEDED in Mq.h
+description: An MSMQ Configuration (msmq) object with the GUID supplied cannot be created. By default, an Active Directory Domain Services forest does not support adding an object with a supplied GUID.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "Mq.h",
+  "sourceUrl": "/win32/mq-h/",
+  "code": "-1072824178",
+  "codeUrl": "/win32/mq-h/mq_error_gc_needed/-1072824178/",
+  "numericCode": 0,
+  "define": "MQ_ERROR_GC_NEEDED",
+  "defineUrl": "/win32/mq-h/mq_error_gc_needed/",
+  "message": "An MSMQ Configuration (msmq) object with the GUID supplied cannot be created. By default, an Active Directory Domain Services forest does not support adding an object with a supplied GUID.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC00E008E",
+  "originalCodeUrl": "/win32/mq-h/mq_error_gc_needed/0xc00e008e/"
+}

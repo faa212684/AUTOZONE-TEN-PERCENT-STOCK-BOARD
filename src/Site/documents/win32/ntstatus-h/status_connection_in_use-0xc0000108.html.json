@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_connection_in_use\0xc0000108\index.html.json
+
+title: 0xC0000108 STATUS_CONNECTION_IN_USE in ntstatus.h
+description: The user attempted to force close the files on a redirected drive, but there were opened directories on the drive, and the user did not specify a sufficient level of force.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000108",
+  "codeUrl": "/win32/ntstatus-h/status_connection_in_use/0xc0000108/",
+  "numericCode": -1073741560,
+  "define": "STATUS_CONNECTION_IN_USE",
+  "defineUrl": "/win32/ntstatus-h/status_connection_in_use/",
+  "message": "The user attempted to force close the files on a redirected drive, but there were opened directories on the drive, and the user did not specify a sufficient level of force.",
+  "remarks": null,
+  "aka": [
+    "-1073741560"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_connection_in_use/-1073741560/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

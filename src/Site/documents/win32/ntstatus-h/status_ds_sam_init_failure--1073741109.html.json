@@ -1,0 +1,27 @@
+---
+output: win32\ntstatus-h\status_ds_sam_init_failure\-1073741109\index.html.json
+canonical: /win32/ntstatus-h/status_ds_sam_init_failure/0xc00002cb/
+title: -1073741109 STATUS_DS_SAM_INIT_FAILURE in ntstatus.h
+description: Security Accounts Manager initialization failed because of the following error:
+%hs
+Error Status: 0x%x.
+Please shutdown this system and reboot into Directory Services Restore Mode, check the event log for more detailed information.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741109",
+  "codeUrl": "/win32/ntstatus-h/status_ds_sam_init_failure/-1073741109/",
+  "numericCode": 0,
+  "define": "STATUS_DS_SAM_INIT_FAILURE",
+  "defineUrl": "/win32/ntstatus-h/status_ds_sam_init_failure/",
+  "message": "Security Accounts Manager initialization failed because of the following error:\r\n%hs\r\nError Status: 0x%x.\r\nPlease shutdown this system and reboot into Directory Services Restore Mode, check the event log for more detailed information.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC00002CB",
+  "originalCodeUrl": "/win32/ntstatus-h/status_ds_sam_init_failure/0xc00002cb/"
+}

@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_pcp_device_not_found\0xc029200d\index.html.json
+
+title: 0xC029200D STATUS_PCP_DEVICE_NOT_FOUND in ntstatus.h
+description: A Platform Crypto Device was not found.  Operations that require a Platform Crypto Device will not be submitted.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC029200D",
+  "codeUrl": "/win32/ntstatus-h/status_pcp_device_not_found/0xc029200d/",
+  "numericCode": -1071046643,
+  "define": "STATUS_PCP_DEVICE_NOT_FOUND",
+  "defineUrl": "/win32/ntstatus-h/status_pcp_device_not_found/",
+  "message": "A Platform Crypto Device was not found.  Operations that require a Platform Crypto Device will not be submitted.",
+  "remarks": null,
+  "aka": [
+    "-1071046643"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_pcp_device_not_found/-1071046643/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

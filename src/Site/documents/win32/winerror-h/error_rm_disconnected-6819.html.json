@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_rm_disconnected\6819\index.html.json
+
+title: 6819 ERROR_RM_DISCONNECTED in winerror.h
+description: The transaction outcome is unavailable because the resource manager responsible for it has disconnected.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "6819",
+  "codeUrl": "/win32/winerror-h/error_rm_disconnected/6819/",
+  "numericCode": 6819,
+  "define": "ERROR_RM_DISCONNECTED",
+  "defineUrl": "/win32/winerror-h/error_rm_disconnected/",
+  "message": "The transaction outcome is unavailable because the resource manager responsible for it has disconnected.",
+  "remarks": null,
+  "aka": [
+    "0x80071aa3",
+    "-2147018077"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_rm_disconnected/0x80071aa3/",
+    "/win32/winerror-h/error_rm_disconnected/-2147018077/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

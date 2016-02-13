@@ -1,0 +1,31 @@
+---
+output: win32\winerror-h\error_no_pagefile\578\index.html.json
+
+title: 578 ERROR_NO_PAGEFILE in winerror.h
+description: "{No Paging File Specified}
+No paging file was specified in the system configuration."
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "578",
+  "codeUrl": "/win32/winerror-h/error_no_pagefile/578/",
+  "numericCode": 578,
+  "define": "ERROR_NO_PAGEFILE",
+  "defineUrl": "/win32/winerror-h/error_no_pagefile/",
+  "message": "{No Paging File Specified}\r\nNo paging file was specified in the system configuration.",
+  "remarks": null,
+  "aka": [
+    "0x80070242",
+    "-2147024318"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_no_pagefile/0x80070242/",
+    "/win32/winerror-h/error_no_pagefile/-2147024318/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

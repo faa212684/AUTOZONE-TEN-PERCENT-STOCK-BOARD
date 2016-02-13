@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_notify_enum_dir\1022\index.html.json
+
+title: 1022 ERROR_NOTIFY_ENUM_DIR in winerror.h
+description: A notify change request is being completed and the information is not being returned in the caller's buffer. The caller now needs to enumerate the files to find the changes.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1022",
+  "codeUrl": "/win32/winerror-h/error_notify_enum_dir/1022/",
+  "numericCode": 1022,
+  "define": "ERROR_NOTIFY_ENUM_DIR",
+  "defineUrl": "/win32/winerror-h/error_notify_enum_dir/",
+  "message": "A notify change request is being completed and the information is not being returned in the caller's buffer. The caller now needs to enumerate the files to find the changes.",
+  "remarks": null,
+  "aka": [
+    "0x800703fe",
+    "-2147023874"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_notify_enum_dir/0x800703fe/",
+    "/win32/winerror-h/error_notify_enum_dir/-2147023874/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

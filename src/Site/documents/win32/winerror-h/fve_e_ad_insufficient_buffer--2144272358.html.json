@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\fve_e_ad_insufficient_buffer\-2144272358\index.html.json
+canonical: /win32/winerror-h/fve_e_ad_insufficient_buffer/0x8031001a/
+title: -2144272358 FVE_E_AD_INSUFFICIENT_BUFFER in winerror.h
+description: The buffer supplied to a function was insufficient to contain the returned data. Increase the buffer size before running the function again.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2144272358",
+  "codeUrl": "/win32/winerror-h/fve_e_ad_insufficient_buffer/-2144272358/",
+  "numericCode": 0,
+  "define": "FVE_E_AD_INSUFFICIENT_BUFFER",
+  "defineUrl": "/win32/winerror-h/fve_e_ad_insufficient_buffer/",
+  "message": "The buffer supplied to a function was insufficient to contain the returned data. Increase the buffer size before running the function again.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x8031001A",
+  "originalCodeUrl": "/win32/winerror-h/fve_e_ad_insufficient_buffer/0x8031001a/"
+}

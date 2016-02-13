@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_pnp_restart_enumeration\0xc00002ce\index.html.json
+
+title: 0xC00002CE STATUS_PNP_RESTART_ENUMERATION in ntstatus.h
+description: A device was removed so enumeration must be restarted.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC00002CE",
+  "codeUrl": "/win32/ntstatus-h/status_pnp_restart_enumeration/0xc00002ce/",
+  "numericCode": -1073741106,
+  "define": "STATUS_PNP_RESTART_ENUMERATION",
+  "defineUrl": "/win32/ntstatus-h/status_pnp_restart_enumeration/",
+  "message": "A device was removed so enumeration must be restarted.",
+  "remarks": null,
+  "aka": [
+    "-1073741106"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_pnp_restart_enumeration/-1073741106/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

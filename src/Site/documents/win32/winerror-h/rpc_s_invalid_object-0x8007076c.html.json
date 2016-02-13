@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\rpc_s_invalid_object\0x8007076c\index.html.json
+canonical: /win32/winerror-h/rpc_s_invalid_object/1900/
+title: 0x8007076c RPC_S_INVALID_OBJECT in winerror.h
+description: The object universal unique identifier (UUID) is the nil UUID.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007076c",
+  "codeUrl": "/win32/winerror-h/rpc_s_invalid_object/0x8007076c/",
+  "numericCode": 0,
+  "define": "RPC_S_INVALID_OBJECT",
+  "defineUrl": "/win32/winerror-h/rpc_s_invalid_object/",
+  "message": "The object universal unique identifier (UUID) is the nil UUID.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "1900",
+  "originalCodeUrl": "/win32/winerror-h/rpc_s_invalid_object/1900/"
+}

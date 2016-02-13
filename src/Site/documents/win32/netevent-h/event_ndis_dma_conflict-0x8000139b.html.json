@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_ndis_dma_conflict\0x8000139b\index.html.json
+
+title: 0x8000139B EVENT_NDIS_DMA_CONFLICT in netevent.h
+description: %2 : There is a resource conflict at DMA channel %3.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x8000139B",
+  "codeUrl": "/win32/netevent-h/event_ndis_dma_conflict/0x8000139b/",
+  "numericCode": -2147478629,
+  "define": "EVENT_NDIS_DMA_CONFLICT",
+  "defineUrl": "/win32/netevent-h/event_ndis_dma_conflict/",
+  "message": "%2 : There is a resource conflict at DMA channel %3.",
+  "remarks": null,
+  "aka": [
+    "-2147478629"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_ndis_dma_conflict/-2147478629/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

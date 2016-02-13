@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_ctx_client_query_timeout\-1073086426\index.html.json
+canonical: /win32/ntstatus-h/status_ctx_client_query_timeout/0xc00a0026/
+title: -1073086426 STATUS_CTX_CLIENT_QUERY_TIMEOUT in ntstatus.h
+description: The client failed to respond to the server connect message.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073086426",
+  "codeUrl": "/win32/ntstatus-h/status_ctx_client_query_timeout/-1073086426/",
+  "numericCode": 0,
+  "define": "STATUS_CTX_CLIENT_QUERY_TIMEOUT",
+  "defineUrl": "/win32/ntstatus-h/status_ctx_client_query_timeout/",
+  "message": "The client failed to respond to the server connect message.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC00A0026",
+  "originalCodeUrl": "/win32/ntstatus-h/status_ctx_client_query_timeout/0xc00a0026/"
+}

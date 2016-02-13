@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_tm_initialization_failed\-1072103420\index.html.json
+canonical: /win32/ntstatus-h/status_tm_initialization_failed/0xc0190004/
+title: -1072103420 STATUS_TM_INITIALIZATION_FAILED in ntstatus.h
+description: The Transaction Manager was unable to be successfully initialized. Transacted operations are not supported.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1072103420",
+  "codeUrl": "/win32/ntstatus-h/status_tm_initialization_failed/-1072103420/",
+  "numericCode": 0,
+  "define": "STATUS_TM_INITIALIZATION_FAILED",
+  "defineUrl": "/win32/ntstatus-h/status_tm_initialization_failed/",
+  "message": "The Transaction Manager was unable to be successfully initialized. Transacted operations are not supported.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0190004",
+  "originalCodeUrl": "/win32/ntstatus-h/status_tm_initialization_failed/0xc0190004/"
+}

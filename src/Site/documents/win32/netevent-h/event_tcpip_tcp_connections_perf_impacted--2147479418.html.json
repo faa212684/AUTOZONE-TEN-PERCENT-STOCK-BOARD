@@ -1,0 +1,26 @@
+---
+output: win32\netevent-h\event_tcpip_tcp_connections_perf_impacted\-2147479418\index.html.json
+canonical: /win32/netevent-h/event_tcpip_tcp_connections_perf_impacted/0x80001086/
+title: -2147479418 EVENT_TCPIP_TCP_CONNECTIONS_PERF_IMPACTED in netevent.h
+description: TCP/IP has chosen to restrict the congestion window for several connections due to a network condition. 
+This could be related to a problem in the TCP global or supplemental configuration and will cause 
+degraded throughput.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "-2147479418",
+  "codeUrl": "/win32/netevent-h/event_tcpip_tcp_connections_perf_impacted/-2147479418/",
+  "numericCode": 0,
+  "define": "EVENT_TCPIP_TCP_CONNECTIONS_PERF_IMPACTED",
+  "defineUrl": "/win32/netevent-h/event_tcpip_tcp_connections_perf_impacted/",
+  "message": "TCP/IP has chosen to restrict the congestion window for several connections due to a network condition. \r\nThis could be related to a problem in the TCP global or supplemental configuration and will cause \r\ndegraded throughput.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80001086",
+  "originalCodeUrl": "/win32/netevent-h/event_tcpip_tcp_connections_perf_impacted/0x80001086/"
+}

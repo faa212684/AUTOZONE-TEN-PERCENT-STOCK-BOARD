@@ -1,0 +1,24 @@
+---
+output: win32\windowssearcherrors-h\fte_e_static_thread_invalid_arguments\-2147207657\index.html.json
+canonical: /win32/windowssearcherrors-h/fte_e_static_thread_invalid_arguments/0x80043617/
+title: -2147207657 FTE_E_STATIC_THREAD_INVALID_ARGUMENTS in WindowsSearchErrors.h
+description: This is an internal error:  A static thread has gotten invalid arguments and will force batches to be aborted and retried.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "-2147207657",
+  "codeUrl": "/win32/windowssearcherrors-h/fte_e_static_thread_invalid_arguments/-2147207657/",
+  "numericCode": 0,
+  "define": "FTE_E_STATIC_THREAD_INVALID_ARGUMENTS",
+  "defineUrl": "/win32/windowssearcherrors-h/fte_e_static_thread_invalid_arguments/",
+  "message": "This is an internal error:  A static thread has gotten invalid arguments and will force batches to be aborted and retried.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80043617",
+  "originalCodeUrl": "/win32/windowssearcherrors-h/fte_e_static_thread_invalid_arguments/0x80043617/"
+}

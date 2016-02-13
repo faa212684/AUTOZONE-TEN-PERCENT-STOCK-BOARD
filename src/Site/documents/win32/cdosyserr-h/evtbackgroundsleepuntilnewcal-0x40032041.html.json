@@ -1,0 +1,29 @@
+---
+output: win32\cdosyserr-h\evtbackgroundsleepuntilnewcal\0x40032041\index.html.json
+
+title: 0x40032041 evtBackgroundSleepUntilNewCal in CDOSysErr.h
+description: Background calendaring agent is sleeping until shutdown or a calendar is queued.
+%n%nFor more information, click http:www.microsoft.com/contentredirect.asp.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "CDOSysErr.h",
+  "sourceUrl": "/win32/cdosyserr-h/",
+  "code": "0x40032041",
+  "codeUrl": "/win32/cdosyserr-h/evtbackgroundsleepuntilnewcal/0x40032041/",
+  "numericCode": 1073946689,
+  "define": "evtBackgroundSleepUntilNewCal",
+  "defineUrl": "/win32/cdosyserr-h/evtbackgroundsleepuntilnewcal/",
+  "message": "Background calendaring agent is sleeping until shutdown or a calendar is queued.\r\n%n%nFor more information, click http:www.microsoft.com/contentredirect.asp.",
+  "remarks": null,
+  "aka": [
+    "1073946689"
+  ],
+  "akaUrl": [
+    "/win32/cdosyserr-h/evtbackgroundsleepuntilnewcal/1073946689/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_bridge_miniport_init_failed\0xc000390d\index.html.json
+
+title: 0xC000390D EVENT_BRIDGE_MINIPORT_INIT_FAILED in netevent.h
+description: Bridge: The bridge failed to create its virtual miniport.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC000390D",
+  "codeUrl": "/win32/netevent-h/event_bridge_miniport_init_failed/0xc000390d/",
+  "numericCode": -1073727219,
+  "define": "EVENT_BRIDGE_MINIPORT_INIT_FAILED",
+  "defineUrl": "/win32/netevent-h/event_bridge_miniport_init_failed/",
+  "message": "Bridge: The bridge failed to create its virtual miniport.",
+  "remarks": null,
+  "aka": [
+    "-1073727219"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_bridge_miniport_init_failed/-1073727219/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

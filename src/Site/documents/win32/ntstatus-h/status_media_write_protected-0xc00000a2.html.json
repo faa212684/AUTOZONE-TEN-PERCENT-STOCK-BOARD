@@ -1,0 +1,29 @@
+---
+output: win32\ntstatus-h\status_media_write_protected\0xc00000a2\index.html.json
+
+title: 0xC00000A2 STATUS_MEDIA_WRITE_PROTECTED in ntstatus.h
+description: "{Write Protect Error}
+The disk cannot be written to because it is write protected. Please remove the write protection from the volume %hs in drive %hs."
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC00000A2",
+  "codeUrl": "/win32/ntstatus-h/status_media_write_protected/0xc00000a2/",
+  "numericCode": -1073741662,
+  "define": "STATUS_MEDIA_WRITE_PROTECTED",
+  "defineUrl": "/win32/ntstatus-h/status_media_write_protected/",
+  "message": "{Write Protect Error}\r\nThe disk cannot be written to because it is write protected. Please remove the write protection from the volume %hs in drive %hs.",
+  "remarks": null,
+  "aka": [
+    "-1073741662"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_media_write_protected/-1073741662/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

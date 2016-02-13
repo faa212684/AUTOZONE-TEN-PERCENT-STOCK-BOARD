@@ -1,0 +1,29 @@
+---
+output: win32\wsmerror-h\error_wsman_config_readonly_property\0x8033813f\index.html.json
+
+title: 0x8033813F ERROR_WSMAN_CONFIG_READONLY_PROPERTY in wsmerror.h
+description: The WinRM client cannot process the request because it is trying to update a read-only setting.
+Remove this setting from the command and try again.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x8033813F",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_config_readonly_property/0x8033813f/",
+  "numericCode": -2144108225,
+  "define": "ERROR_WSMAN_CONFIG_READONLY_PROPERTY",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_config_readonly_property/",
+  "message": "The WinRM client cannot process the request because it is trying to update a read-only setting.\r\nRemove this setting from the command and try again.",
+  "remarks": null,
+  "aka": [
+    "-2144108225"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_config_readonly_property/-2144108225/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_kdc_unknown_etype\0xc00002fd\index.html.json
+
+title: 0xC00002FD STATUS_KDC_UNKNOWN_ETYPE in ntstatus.h
+description: The encryption type requested is not supported by the KDC.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC00002FD",
+  "codeUrl": "/win32/ntstatus-h/status_kdc_unknown_etype/0xc00002fd/",
+  "numericCode": -1073741059,
+  "define": "STATUS_KDC_UNKNOWN_ETYPE",
+  "defineUrl": "/win32/ntstatus-h/status_kdc_unknown_etype/",
+  "message": "The encryption type requested is not supported by the KDC.",
+  "remarks": null,
+  "aka": [
+    "-1073741059"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_kdc_unknown_etype/-1073741059/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

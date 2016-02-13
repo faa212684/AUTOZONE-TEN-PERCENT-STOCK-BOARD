@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_cluster_no_security_context\0xc0130015\index.html.json
+
+title: 0xC0130015 STATUS_CLUSTER_NO_SECURITY_CONTEXT in ntstatus.h
+description: No cluster security context is available.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0130015",
+  "codeUrl": "/win32/ntstatus-h/status_cluster_no_security_context/0xc0130015/",
+  "numericCode": -1072496619,
+  "define": "STATUS_CLUSTER_NO_SECURITY_CONTEXT",
+  "defineUrl": "/win32/ntstatus-h/status_cluster_no_security_context/",
+  "message": "No cluster security context is available.",
+  "remarks": null,
+  "aka": [
+    "-1072496619"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_cluster_no_security_context/-1072496619/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

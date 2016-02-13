@@ -1,0 +1,28 @@
+---
+output: win32\ntdsbmsg-h\hrrestorelogtoolow\0xc8000229\index.html.json
+
+title: 0xC8000229 hrRestoreLogTooLow in NtDsBMsg.h
+description: The starting log number is too low for the restore.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "NtDsBMsg.h",
+  "sourceUrl": "/win32/ntdsbmsg-h/",
+  "code": "0xC8000229",
+  "codeUrl": "/win32/ntdsbmsg-h/hrrestorelogtoolow/0xc8000229/",
+  "numericCode": -939523543,
+  "define": "hrRestoreLogTooLow",
+  "defineUrl": "/win32/ntdsbmsg-h/hrrestorelogtoolow/",
+  "message": "The starting log number is too low for the restore.",
+  "remarks": null,
+  "aka": [
+    "-939523543"
+  ],
+  "akaUrl": [
+    "/win32/ntdsbmsg-h/hrrestorelogtoolow/-939523543/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

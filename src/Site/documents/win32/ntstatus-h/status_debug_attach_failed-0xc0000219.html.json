@@ -1,0 +1,29 @@
+---
+output: win32\ntstatus-h\status_debug_attach_failed\0xc0000219\index.html.json
+
+title: 0xC0000219 STATUS_DEBUG_ATTACH_FAILED in ntstatus.h
+description: "{Unexpected Failure in DebugActiveProcess}
+An unexpected failure occurred while processing a DebugActiveProcess API request. You may choose OK to terminate the process, or Cancel to ignore the error."
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000219",
+  "codeUrl": "/win32/ntstatus-h/status_debug_attach_failed/0xc0000219/",
+  "numericCode": -1073741287,
+  "define": "STATUS_DEBUG_ATTACH_FAILED",
+  "defineUrl": "/win32/ntstatus-h/status_debug_attach_failed/",
+  "message": "{Unexpected Failure in DebugActiveProcess}\r\nAn unexpected failure occurred while processing a DebugActiveProcess API request. You may choose OK to terminate the process, or Cancel to ignore the error.",
+  "remarks": null,
+  "aka": [
+    "-1073741287"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_debug_attach_failed/-1073741287/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

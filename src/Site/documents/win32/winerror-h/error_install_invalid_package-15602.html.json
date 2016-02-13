@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_install_invalid_package\15602\index.html.json
+
+title: 15602 ERROR_INSTALL_INVALID_PACKAGE in winerror.h
+description: Package data is invalid.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "15602",
+  "codeUrl": "/win32/winerror-h/error_install_invalid_package/15602/",
+  "numericCode": 15602,
+  "define": "ERROR_INSTALL_INVALID_PACKAGE",
+  "defineUrl": "/win32/winerror-h/error_install_invalid_package/",
+  "message": "Package data is invalid.",
+  "remarks": null,
+  "aka": [
+    "0x80073cf2",
+    "-2147009294"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_install_invalid_package/0x80073cf2/",
+    "/win32/winerror-h/error_install_invalid_package/-2147009294/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

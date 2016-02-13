@@ -1,0 +1,29 @@
+---
+output: win32\wsmerror-h\error_wsman_push_subscription_config_invalid\0x803380aa\index.html.json
+
+title: 0x803380AA ERROR_WSMAN_PUSH_SUBSCRIPTION_CONFIG_INVALID in wsmerror.h
+description: The WinRM client could not create a push subscription because there are no listeners configured that match the specified hostname and transport, or because there is no enabled firewall exception on the port used by the selected listener.
+Change the hostname and transport, create an appropriate firewall exception, or run winrm quickconfig.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x803380AA",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_push_subscription_config_invalid/0x803380aa/",
+  "numericCode": -2144108374,
+  "define": "ERROR_WSMAN_PUSH_SUBSCRIPTION_CONFIG_INVALID",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_push_subscription_config_invalid/",
+  "message": "The WinRM client could not create a push subscription because there are no listeners configured that match the specified hostname and transport, or because there is no enabled firewall exception on the port used by the selected listener.\r\nChange the hostname and transport, create an appropriate firewall exception, or run winrm quickconfig.",
+  "remarks": null,
+  "aka": [
+    "-2144108374"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_push_subscription_config_invalid/-2144108374/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

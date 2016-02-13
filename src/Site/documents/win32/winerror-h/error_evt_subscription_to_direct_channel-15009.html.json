@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_evt_subscription_to_direct_channel\15009\index.html.json
+
+title: 15009 ERROR_EVT_SUBSCRIPTION_TO_DIRECT_CHANNEL in winerror.h
+description: The caller is trying to subscribe to a direct channel which is not allowed. The events for a direct channel go directly to a logfile and cannot be subscribed to.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "15009",
+  "codeUrl": "/win32/winerror-h/error_evt_subscription_to_direct_channel/15009/",
+  "numericCode": 15009,
+  "define": "ERROR_EVT_SUBSCRIPTION_TO_DIRECT_CHANNEL",
+  "defineUrl": "/win32/winerror-h/error_evt_subscription_to_direct_channel/",
+  "message": "The caller is trying to subscribe to a direct channel which is not allowed. The events for a direct channel go directly to a logfile and cannot be subscribed to.",
+  "remarks": null,
+  "aka": [
+    "0x80073aa1",
+    "-2147009887"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_evt_subscription_to_direct_channel/0x80073aa1/",
+    "/win32/winerror-h/error_evt_subscription_to_direct_channel/-2147009887/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

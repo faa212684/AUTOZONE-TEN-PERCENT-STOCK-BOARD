@@ -1,0 +1,30 @@
+---
+output: win32\netevent-h\event_ipx_sap_announce\0x8000251e\index.html.json
+
+title: 0x8000251E EVENT_IPX_SAP_ANNOUNCE in netevent.h
+description: A SAP announcement was sent over %2 which is configured for multiple
+networks, but no internal network is configured. This may prevent
+machines on some networks from locating the advertised service.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x8000251E",
+  "codeUrl": "/win32/netevent-h/event_ipx_sap_announce/0x8000251e/",
+  "numericCode": -2147474146,
+  "define": "EVENT_IPX_SAP_ANNOUNCE",
+  "defineUrl": "/win32/netevent-h/event_ipx_sap_announce/",
+  "message": "A SAP announcement was sent over %2 which is configured for multiple\r\nnetworks, but no internal network is configured. This may prevent\r\nmachines on some networks from locating the advertised service.",
+  "remarks": null,
+  "aka": [
+    "-2147474146"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_ipx_sap_announce/-2147474146/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

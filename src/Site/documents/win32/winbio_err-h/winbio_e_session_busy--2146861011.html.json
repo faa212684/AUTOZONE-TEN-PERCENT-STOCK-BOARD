@@ -1,0 +1,24 @@
+---
+output: win32\winbio_err-h\winbio_e_session_busy\-2146861011\index.html.json
+canonical: /win32/winbio_err-h/winbio_e_session_busy/0x8009802d/
+title: -2146861011 WINBIO_E_SESSION_BUSY in winbio_err.h
+description: The session cannot begin a new operation because another operation is already in progress.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winbio_err.h",
+  "sourceUrl": "/win32/winbio_err-h/",
+  "code": "-2146861011",
+  "codeUrl": "/win32/winbio_err-h/winbio_e_session_busy/-2146861011/",
+  "numericCode": 0,
+  "define": "WINBIO_E_SESSION_BUSY",
+  "defineUrl": "/win32/winbio_err-h/winbio_e_session_busy/",
+  "message": "The session cannot begin a new operation because another operation is already in progress.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x8009802D",
+  "originalCodeUrl": "/win32/winbio_err-h/winbio_e_session_busy/0x8009802d/"
+}

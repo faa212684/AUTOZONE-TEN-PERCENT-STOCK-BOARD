@@ -1,0 +1,24 @@
+---
+output: win32\netevent-h\event_nbt_no_wins\-2147479345\index.html.json
+canonical: /win32/netevent-h/event_nbt_no_wins/0x800010cf/
+title: -2147479345 EVENT_NBT_NO_WINS in netevent.h
+description: The primary WINS server address is not configured in the registry.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "-2147479345",
+  "codeUrl": "/win32/netevent-h/event_nbt_no_wins/-2147479345/",
+  "numericCode": 0,
+  "define": "EVENT_NBT_NO_WINS",
+  "defineUrl": "/win32/netevent-h/event_nbt_no_wins/",
+  "message": "The primary WINS server address is not configured in the registry.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x800010CF",
+  "originalCodeUrl": "/win32/netevent-h/event_nbt_no_wins/0x800010cf/"
+}

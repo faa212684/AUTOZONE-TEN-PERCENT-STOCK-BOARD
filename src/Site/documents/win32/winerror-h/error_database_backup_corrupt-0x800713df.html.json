@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_database_backup_corrupt\0x800713df\index.html.json
+canonical: /win32/winerror-h/error_database_backup_corrupt/5087/
+title: 0x800713df ERROR_DATABASE_BACKUP_CORRUPT in winerror.h
+description: The backed up cluster database is possibly corrupt.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800713df",
+  "codeUrl": "/win32/winerror-h/error_database_backup_corrupt/0x800713df/",
+  "numericCode": 0,
+  "define": "ERROR_DATABASE_BACKUP_CORRUPT",
+  "defineUrl": "/win32/winerror-h/error_database_backup_corrupt/",
+  "message": "The backed up cluster database is possibly corrupt.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "5087",
+  "originalCodeUrl": "/win32/winerror-h/error_database_backup_corrupt/5087/"
+}

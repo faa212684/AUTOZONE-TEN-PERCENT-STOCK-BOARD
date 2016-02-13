@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_cant_terminate_self\0xc00000db\index.html.json
+
+title: 0xC00000DB STATUS_CANT_TERMINATE_SELF in ntstatus.h
+description: Indicates that a thread attempted to terminate itself by default (called NtTerminateThread with NULL) and it was the last thread in the current process.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC00000DB",
+  "codeUrl": "/win32/ntstatus-h/status_cant_terminate_self/0xc00000db/",
+  "numericCode": -1073741605,
+  "define": "STATUS_CANT_TERMINATE_SELF",
+  "defineUrl": "/win32/ntstatus-h/status_cant_terminate_self/",
+  "message": "Indicates that a thread attempted to terminate itself by default (called NtTerminateThread with NULL) and it was the last thread in the current process.",
+  "remarks": null,
+  "aka": [
+    "-1073741605"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_cant_terminate_self/-1073741605/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

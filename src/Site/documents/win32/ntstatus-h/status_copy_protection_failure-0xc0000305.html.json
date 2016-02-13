@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_copy_protection_failure\0xc0000305\index.html.json
+
+title: 0xC0000305 STATUS_COPY_PROTECTION_FAILURE in ntstatus.h
+description: Copy protection failure.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000305",
+  "codeUrl": "/win32/ntstatus-h/status_copy_protection_failure/0xc0000305/",
+  "numericCode": -1073741051,
+  "define": "STATUS_COPY_PROTECTION_FAILURE",
+  "defineUrl": "/win32/ntstatus-h/status_copy_protection_failure/",
+  "message": "Copy protection failure.",
+  "remarks": null,
+  "aka": [
+    "-1073741051"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_copy_protection_failure/-1073741051/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

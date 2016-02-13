@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_not_safeboot_service\1084\index.html.json
+
+title: 1084 ERROR_NOT_SAFEBOOT_SERVICE in winerror.h
+description: This service cannot be started in Safe Mode
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1084",
+  "codeUrl": "/win32/winerror-h/error_not_safeboot_service/1084/",
+  "numericCode": 1084,
+  "define": "ERROR_NOT_SAFEBOOT_SERVICE",
+  "defineUrl": "/win32/winerror-h/error_not_safeboot_service/",
+  "message": "This service cannot be started in Safe Mode",
+  "remarks": null,
+  "aka": [
+    "0x8007043c",
+    "-2147023812"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_not_safeboot_service/0x8007043c/",
+    "/win32/winerror-h/error_not_safeboot_service/-2147023812/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

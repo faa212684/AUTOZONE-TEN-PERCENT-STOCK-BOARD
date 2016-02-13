@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_e_iscsi_login_failed\0x80042708\index.html.json
+
+title: 0x80042708 VDS_E_ISCSI_LOGIN_FAILED in vdserr.h
+description: An iSCSI login session could not be established.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x80042708",
+  "codeUrl": "/win32/vdserr-h/vds_e_iscsi_login_failed/0x80042708/",
+  "numericCode": -2147211512,
+  "define": "VDS_E_ISCSI_LOGIN_FAILED",
+  "defineUrl": "/win32/vdserr-h/vds_e_iscsi_login_failed/",
+  "message": "An iSCSI login session could not be established.",
+  "remarks": null,
+  "aka": [
+    "-2147211512"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_iscsi_login_failed/-2147211512/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

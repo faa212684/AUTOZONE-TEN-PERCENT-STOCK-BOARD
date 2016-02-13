@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\rpc_nt_invalid_naf_id\-1073610688\index.html.json
+canonical: /win32/ntstatus-h/rpc_nt_invalid_naf_id/0xc0020040/
+title: -1073610688 RPC_NT_INVALID_NAF_ID in ntstatus.h
+description: The network address family is invalid.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073610688",
+  "codeUrl": "/win32/ntstatus-h/rpc_nt_invalid_naf_id/-1073610688/",
+  "numericCode": 0,
+  "define": "RPC_NT_INVALID_NAF_ID",
+  "defineUrl": "/win32/ntstatus-h/rpc_nt_invalid_naf_id/",
+  "message": "The network address family is invalid.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0020040",
+  "originalCodeUrl": "/win32/ntstatus-h/rpc_nt_invalid_naf_id/0xc0020040/"
+}

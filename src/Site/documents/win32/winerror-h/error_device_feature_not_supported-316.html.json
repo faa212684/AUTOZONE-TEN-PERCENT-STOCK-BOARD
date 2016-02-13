@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_device_feature_not_supported\316\index.html.json
+
+title: 316 ERROR_DEVICE_FEATURE_NOT_SUPPORTED in winerror.h
+description: The device does not support the command feature.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "316",
+  "codeUrl": "/win32/winerror-h/error_device_feature_not_supported/316/",
+  "numericCode": 316,
+  "define": "ERROR_DEVICE_FEATURE_NOT_SUPPORTED",
+  "defineUrl": "/win32/winerror-h/error_device_feature_not_supported/",
+  "message": "The device does not support the command feature.",
+  "remarks": null,
+  "aka": [
+    "0x8007013c",
+    "-2147024580"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_device_feature_not_supported/0x8007013c/",
+    "/win32/winerror-h/error_device_feature_not_supported/-2147024580/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

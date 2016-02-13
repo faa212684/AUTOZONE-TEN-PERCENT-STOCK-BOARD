@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\comqc_e_unauthenticated\0x80110605\index.html.json
+
+title: 0x80110605 COMQC_E_UNAUTHENTICATED in winerror.h
+description: An unauthenticated message was received by an application that accepts only authenticated messages
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80110605",
+  "codeUrl": "/win32/winerror-h/comqc_e_unauthenticated/0x80110605/",
+  "numericCode": -2146367995,
+  "define": "COMQC_E_UNAUTHENTICATED",
+  "defineUrl": "/win32/winerror-h/comqc_e_unauthenticated/",
+  "message": "An unauthenticated message was received by an application that accepts only authenticated messages",
+  "remarks": null,
+  "aka": [
+    "-2146367995"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/comqc_e_unauthenticated/-2146367995/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

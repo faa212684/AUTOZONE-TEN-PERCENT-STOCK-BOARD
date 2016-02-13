@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\fve_e_not_allowed_on_cluster\-2144272210\index.html.json
+canonical: /win32/winerror-h/fve_e_not_allowed_on_cluster/0x803100ae/
+title: -2144272210 FVE_E_NOT_ALLOWED_ON_CLUSTER in winerror.h
+description: This command cannot be performed on a volume when it is part of a cluster.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2144272210",
+  "codeUrl": "/win32/winerror-h/fve_e_not_allowed_on_cluster/-2144272210/",
+  "numericCode": 0,
+  "define": "FVE_E_NOT_ALLOWED_ON_CLUSTER",
+  "defineUrl": "/win32/winerror-h/fve_e_not_allowed_on_cluster/",
+  "message": "This command cannot be performed on a volume when it is part of a cluster.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x803100AE",
+  "originalCodeUrl": "/win32/winerror-h/fve_e_not_allowed_on_cluster/0x803100ae/"
+}

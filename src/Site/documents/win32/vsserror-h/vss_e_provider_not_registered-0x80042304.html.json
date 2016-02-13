@@ -1,0 +1,28 @@
+---
+output: win32\vsserror-h\vss_e_provider_not_registered\0x80042304\index.html.json
+
+title: 0x80042304 VSS_E_PROVIDER_NOT_REGISTERED in vsserror.h
+description: The volume shadow copy provider is not registered in the system.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vsserror.h",
+  "sourceUrl": "/win32/vsserror-h/",
+  "code": "0x80042304",
+  "codeUrl": "/win32/vsserror-h/vss_e_provider_not_registered/0x80042304/",
+  "numericCode": -2147212540,
+  "define": "VSS_E_PROVIDER_NOT_REGISTERED",
+  "defineUrl": "/win32/vsserror-h/vss_e_provider_not_registered/",
+  "message": "The volume shadow copy provider is not registered in the system.",
+  "remarks": null,
+  "aka": [
+    "-2147212540"
+  ],
+  "akaUrl": [
+    "/win32/vsserror-h/vss_e_provider_not_registered/-2147212540/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

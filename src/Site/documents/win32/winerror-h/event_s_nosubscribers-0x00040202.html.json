@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\event_s_nosubscribers\0x00040202\index.html.json
+
+title: 0x00040202 EVENT_S_NOSUBSCRIBERS in winerror.h
+description: An event was delivered but there were no subscribers
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x00040202",
+  "codeUrl": "/win32/winerror-h/event_s_nosubscribers/0x00040202/",
+  "numericCode": 262658,
+  "define": "EVENT_S_NOSUBSCRIBERS",
+  "defineUrl": "/win32/winerror-h/event_s_nosubscribers/",
+  "message": "An event was delivered but there were no subscribers",
+  "remarks": null,
+  "aka": [
+    "262658"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/event_s_nosubscribers/262658/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_filemark_detected\0x8007044d\index.html.json
+canonical: /win32/winerror-h/error_filemark_detected/1101/
+title: 0x8007044d ERROR_FILEMARK_DETECTED in winerror.h
+description: A tape access reached a filemark.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007044d",
+  "codeUrl": "/win32/winerror-h/error_filemark_detected/0x8007044d/",
+  "numericCode": 0,
+  "define": "ERROR_FILEMARK_DETECTED",
+  "defineUrl": "/win32/winerror-h/error_filemark_detected/",
+  "message": "A tape access reached a filemark.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "1101",
+  "originalCodeUrl": "/win32/winerror-h/error_filemark_detected/1101/"
+}

@@ -1,0 +1,26 @@
+---
+output: win32\winerror-h\error_pwd_too_recent\-2147024280\index.html.json
+canonical: /win32/winerror-h/error_pwd_too_recent/616/
+title: -2147024280 ERROR_PWD_TOO_RECENT in winerror.h
+description: The policy of your user account does not allow you to change passwords too frequently.
+This is done to prevent users from changing back to a familiar, but potentially discovered, password.
+If you feel your password has been compromised then please contact your administrator immediately to have a new one assigned.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147024280",
+  "codeUrl": "/win32/winerror-h/error_pwd_too_recent/-2147024280/",
+  "numericCode": 0,
+  "define": "ERROR_PWD_TOO_RECENT",
+  "defineUrl": "/win32/winerror-h/error_pwd_too_recent/",
+  "message": "The policy of your user account does not allow you to change passwords too frequently.\r\nThis is done to prevent users from changing back to a familiar, but potentially discovered, password.\r\nIf you feel your password has been compromised then please contact your administrator immediately to have a new one assigned.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "616",
+  "originalCodeUrl": "/win32/winerror-h/error_pwd_too_recent/616/"
+}

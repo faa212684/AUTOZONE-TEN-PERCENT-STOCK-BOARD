@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_flt_not_initialized\0xc01c0007\index.html.json
+
+title: 0xC01C0007 STATUS_FLT_NOT_INITIALIZED in ntstatus.h
+description: The Filter Manager was not initialized when a filter tried to register. Make sure that the Filter Manager is getting loaded as a driver.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC01C0007",
+  "codeUrl": "/win32/ntstatus-h/status_flt_not_initialized/0xc01c0007/",
+  "numericCode": -1071906809,
+  "define": "STATUS_FLT_NOT_INITIALIZED",
+  "defineUrl": "/win32/ntstatus-h/status_flt_not_initialized/",
+  "message": "The Filter Manager was not initialized when a filter tried to register. Make sure that the Filter Manager is getting loaded as a driver.",
+  "remarks": null,
+  "aka": [
+    "-1071906809"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_flt_not_initialized/-1071906809/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

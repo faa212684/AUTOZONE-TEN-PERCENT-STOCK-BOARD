@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_fve_policy_user_disable_rdv_not_allowed\-1071579097\index.html.json
+canonical: /win32/ntstatus-h/status_fve_policy_user_disable_rdv_not_allowed/0xc0210027/
+title: -1071579097 STATUS_FVE_POLICY_USER_DISABLE_RDV_NOT_ALLOWED in ntstatus.h
+description: Group policy does not permit turning off BitLocker Drive Encryption on roaming data volumes.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071579097",
+  "codeUrl": "/win32/ntstatus-h/status_fve_policy_user_disable_rdv_not_allowed/-1071579097/",
+  "numericCode": 0,
+  "define": "STATUS_FVE_POLICY_USER_DISABLE_RDV_NOT_ALLOWED",
+  "defineUrl": "/win32/ntstatus-h/status_fve_policy_user_disable_rdv_not_allowed/",
+  "message": "Group policy does not permit turning off BitLocker Drive Encryption on roaming data volumes.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0210027",
+  "originalCodeUrl": "/win32/ntstatus-h/status_fve_policy_user_disable_rdv_not_allowed/0xc0210027/"
+}

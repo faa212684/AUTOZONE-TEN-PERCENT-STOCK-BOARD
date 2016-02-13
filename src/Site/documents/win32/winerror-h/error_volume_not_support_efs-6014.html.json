@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_volume_not_support_efs\6014\index.html.json
+
+title: 6014 ERROR_VOLUME_NOT_SUPPORT_EFS in winerror.h
+description: The disk partition does not support file encryption.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "6014",
+  "codeUrl": "/win32/winerror-h/error_volume_not_support_efs/6014/",
+  "numericCode": 6014,
+  "define": "ERROR_VOLUME_NOT_SUPPORT_EFS",
+  "defineUrl": "/win32/winerror-h/error_volume_not_support_efs/",
+  "message": "The disk partition does not support file encryption.",
+  "remarks": null,
+  "aka": [
+    "0x8007177e",
+    "-2147018882"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_volume_not_support_efs/0x8007177e/",
+    "/win32/winerror-h/error_volume_not_support_efs/-2147018882/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

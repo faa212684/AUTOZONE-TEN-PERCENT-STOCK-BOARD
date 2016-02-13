@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_bad_file_type\0xc0000903\index.html.json
+
+title: 0xC0000903 STATUS_BAD_FILE_TYPE in ntstatus.h
+description: The file type being saved or retrieved has been blocked.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000903",
+  "codeUrl": "/win32/ntstatus-h/status_bad_file_type/0xc0000903/",
+  "numericCode": -1073739517,
+  "define": "STATUS_BAD_FILE_TYPE",
+  "defineUrl": "/win32/ntstatus-h/status_bad_file_type/",
+  "message": "The file type being saved or retrieved has been blocked.",
+  "remarks": null,
+  "aka": [
+    "-1073739517"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_bad_file_type/-1073739517/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

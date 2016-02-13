@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\wininet_e_cannot_connect\0x80072efd\index.html.json
+
+title: 0x80072EFD WININET_E_CANNOT_CONNECT in winerror.h
+description: A connection with the server could not be established
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80072EFD",
+  "codeUrl": "/win32/winerror-h/wininet_e_cannot_connect/0x80072efd/",
+  "numericCode": -2147012867,
+  "define": "WININET_E_CANNOT_CONNECT",
+  "defineUrl": "/win32/winerror-h/wininet_e_cannot_connect/",
+  "message": "A connection with the server could not be established",
+  "remarks": null,
+  "aka": [
+    "-2147012867"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/wininet_e_cannot_connect/-2147012867/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

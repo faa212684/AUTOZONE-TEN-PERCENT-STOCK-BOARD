@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_failed_service_controller_connect\0x80070427\index.html.json
+canonical: /win32/winerror-h/error_failed_service_controller_connect/1063/
+title: 0x80070427 ERROR_FAILED_SERVICE_CONTROLLER_CONNECT in winerror.h
+description: The service process could not connect to the service controller.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80070427",
+  "codeUrl": "/win32/winerror-h/error_failed_service_controller_connect/0x80070427/",
+  "numericCode": 0,
+  "define": "ERROR_FAILED_SERVICE_CONTROLLER_CONNECT",
+  "defineUrl": "/win32/winerror-h/error_failed_service_controller_connect/",
+  "message": "The service process could not connect to the service controller.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "1063",
+  "originalCodeUrl": "/win32/winerror-h/error_failed_service_controller_connect/1063/"
+}

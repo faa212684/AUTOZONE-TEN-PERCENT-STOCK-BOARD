@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_resume_hibernation\727\index.html.json
+
+title: 727 ERROR_RESUME_HIBERNATION in winerror.h
+description: The system was resumed from hibernation.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "727",
+  "codeUrl": "/win32/winerror-h/error_resume_hibernation/727/",
+  "numericCode": 727,
+  "define": "ERROR_RESUME_HIBERNATION",
+  "defineUrl": "/win32/winerror-h/error_resume_hibernation/",
+  "message": "The system was resumed from hibernation.",
+  "remarks": null,
+  "aka": [
+    "0x800702d7",
+    "-2147024169"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_resume_hibernation/0x800702d7/",
+    "/win32/winerror-h/error_resume_hibernation/-2147024169/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

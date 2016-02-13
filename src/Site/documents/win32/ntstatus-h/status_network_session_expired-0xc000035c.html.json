@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_network_session_expired\0xc000035c\index.html.json
+
+title: 0xC000035C STATUS_NETWORK_SESSION_EXPIRED in ntstatus.h
+description: The client's session has expired, so the client must reauthenticate to continue accessing the remote resources.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000035C",
+  "codeUrl": "/win32/ntstatus-h/status_network_session_expired/0xc000035c/",
+  "numericCode": -1073740964,
+  "define": "STATUS_NETWORK_SESSION_EXPIRED",
+  "defineUrl": "/win32/ntstatus-h/status_network_session_expired/",
+  "message": "The client's session has expired, so the client must reauthenticate to continue accessing the remote resources.",
+  "remarks": null,
+  "aka": [
+    "-1073740964"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_network_session_expired/-1073740964/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

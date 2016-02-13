@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_found_out_of_scope\-1073741266\index.html.json
+canonical: /win32/ntstatus-h/status_found_out_of_scope/0xc000022e/
+title: -1073741266 STATUS_FOUND_OUT_OF_SCOPE in ntstatus.h
+description: The attempt to find the object found an object matching by ID on the volume but it is out of the scope of the handle used for the operation.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741266",
+  "codeUrl": "/win32/ntstatus-h/status_found_out_of_scope/-1073741266/",
+  "numericCode": 0,
+  "define": "STATUS_FOUND_OUT_OF_SCOPE",
+  "defineUrl": "/win32/ntstatus-h/status_found_out_of_scope/",
+  "message": "The attempt to find the object found an object matching by ID on the volume but it is out of the scope of the handle used for the operation.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC000022E",
+  "originalCodeUrl": "/win32/ntstatus-h/status_found_out_of_scope/0xc000022e/"
+}

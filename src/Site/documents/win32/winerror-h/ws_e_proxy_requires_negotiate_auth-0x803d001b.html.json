@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\ws_e_proxy_requires_negotiate_auth\0x803d001b\index.html.json
+
+title: 0x803D001B WS_E_PROXY_REQUIRES_NEGOTIATE_AUTH in winerror.h
+description: The HTTP proxy server requires HTTP authentication scheme 'negotiate'.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x803D001B",
+  "codeUrl": "/win32/winerror-h/ws_e_proxy_requires_negotiate_auth/0x803d001b/",
+  "numericCode": -2143485925,
+  "define": "WS_E_PROXY_REQUIRES_NEGOTIATE_AUTH",
+  "defineUrl": "/win32/winerror-h/ws_e_proxy_requires_negotiate_auth/",
+  "message": "The HTTP proxy server requires HTTP authentication scheme 'negotiate'.",
+  "remarks": null,
+  "aka": [
+    "-2143485925"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/ws_e_proxy_requires_negotiate_auth/-2143485925/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

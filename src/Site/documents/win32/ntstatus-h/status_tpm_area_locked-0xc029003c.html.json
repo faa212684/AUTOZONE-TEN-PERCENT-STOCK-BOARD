@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_tpm_area_locked\0xc029003c\index.html.json
+
+title: 0xC029003C STATUS_TPM_AREA_LOCKED in ntstatus.h
+description: The NV area is locked and not writtable.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC029003C",
+  "codeUrl": "/win32/ntstatus-h/status_tpm_area_locked/0xc029003c/",
+  "numericCode": -1071054788,
+  "define": "STATUS_TPM_AREA_LOCKED",
+  "defineUrl": "/win32/ntstatus-h/status_tpm_area_locked/",
+  "message": "The NV area is locked and not writtable.",
+  "remarks": null,
+  "aka": [
+    "-1071054788"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_tpm_area_locked/-1071054788/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

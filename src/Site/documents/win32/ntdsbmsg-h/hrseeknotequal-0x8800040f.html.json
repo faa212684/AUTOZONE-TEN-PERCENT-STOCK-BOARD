@@ -1,0 +1,28 @@
+---
+output: win32\ntdsbmsg-h\hrseeknotequal\0x8800040f\index.html.json
+
+title: 0x8800040F hrSeekNotEqual in NtDsBMsg.h
+description: Either SeekLE or SeekGE did not find an exact match.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "NtDsBMsg.h",
+  "sourceUrl": "/win32/ntdsbmsg-h/",
+  "code": "0x8800040F",
+  "codeUrl": "/win32/ntdsbmsg-h/hrseeknotequal/0x8800040f/",
+  "numericCode": -2013264881,
+  "define": "hrSeekNotEqual",
+  "defineUrl": "/win32/ntdsbmsg-h/hrseeknotequal/",
+  "message": "Either SeekLE or SeekGE did not find an exact match.",
+  "remarks": null,
+  "aka": [
+    "-2013264881"
+  ],
+  "akaUrl": [
+    "/win32/ntdsbmsg-h/hrseeknotequal/-2013264881/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

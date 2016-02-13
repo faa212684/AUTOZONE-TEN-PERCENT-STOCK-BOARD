@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_too_many_principals\0xc00002f7\index.html.json
+
+title: 0xC00002F7 STATUS_TOO_MANY_PRINCIPALS in ntstatus.h
+description: The KDC reply contained more than one principal name.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC00002F7",
+  "codeUrl": "/win32/ntstatus-h/status_too_many_principals/0xc00002f7/",
+  "numericCode": -1073741065,
+  "define": "STATUS_TOO_MANY_PRINCIPALS",
+  "defineUrl": "/win32/ntstatus-h/status_too_many_principals/",
+  "message": "The KDC reply contained more than one principal name.",
+  "remarks": null,
+  "aka": [
+    "-1073741065"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_too_many_principals/-1073741065/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

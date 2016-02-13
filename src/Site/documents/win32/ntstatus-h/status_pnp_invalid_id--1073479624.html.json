@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_pnp_invalid_id\-1073479624\index.html.json
+canonical: /win32/ntstatus-h/status_pnp_invalid_id/0xc0040038/
+title: -1073479624 STATUS_PNP_INVALID_ID in ntstatus.h
+description: Driver %2 returned invalid ID for a child device (%3).
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073479624",
+  "codeUrl": "/win32/ntstatus-h/status_pnp_invalid_id/-1073479624/",
+  "numericCode": 0,
+  "define": "STATUS_PNP_INVALID_ID",
+  "defineUrl": "/win32/ntstatus-h/status_pnp_invalid_id/",
+  "message": "Driver %2 returned invalid ID for a child device (%3).",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0040038",
+  "originalCodeUrl": "/win32/ntstatus-h/status_pnp_invalid_id/0xc0040038/"
+}

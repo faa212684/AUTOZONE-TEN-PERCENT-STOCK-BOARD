@@ -1,0 +1,31 @@
+---
+output: win32\winerror-h\error_missing_systemfile\573\index.html.json
+
+title: 573 ERROR_MISSING_SYSTEMFILE in winerror.h
+description: "{Missing System File}
+The required system file %hs is bad or missing."
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "573",
+  "codeUrl": "/win32/winerror-h/error_missing_systemfile/573/",
+  "numericCode": 573,
+  "define": "ERROR_MISSING_SYSTEMFILE",
+  "defineUrl": "/win32/winerror-h/error_missing_systemfile/",
+  "message": "{Missing System File}\r\nThe required system file %hs is bad or missing.",
+  "remarks": null,
+  "aka": [
+    "0x8007023d",
+    "-2147024323"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_missing_systemfile/0x8007023d/",
+    "/win32/winerror-h/error_missing_systemfile/-2147024323/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

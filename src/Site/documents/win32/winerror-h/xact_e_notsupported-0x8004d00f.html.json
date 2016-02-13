@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\xact_e_notsupported\0x8004d00f\index.html.json
+
+title: 0x8004D00F XACT_E_NOTSUPPORTED in winerror.h
+description: An invalid combination of flags was specified
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8004D00F",
+  "codeUrl": "/win32/winerror-h/xact_e_notsupported/0x8004d00f/",
+  "numericCode": -2147168241,
+  "define": "XACT_E_NOTSUPPORTED",
+  "defineUrl": "/win32/winerror-h/xact_e_notsupported/",
+  "message": "An invalid combination of flags was specified",
+  "remarks": null,
+  "aka": [
+    "-2147168241"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/xact_e_notsupported/-2147168241/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

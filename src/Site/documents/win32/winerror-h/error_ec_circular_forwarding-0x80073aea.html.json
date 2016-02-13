@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_ec_circular_forwarding\0x80073aea\index.html.json
+canonical: /win32/winerror-h/error_ec_circular_forwarding/15082/
+title: 0x80073aea ERROR_EC_CIRCULAR_FORWARDING in winerror.h
+description: When forwarding events from local machine to itself, the query of the subscription can't contain target log of the subscription.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80073aea",
+  "codeUrl": "/win32/winerror-h/error_ec_circular_forwarding/0x80073aea/",
+  "numericCode": 0,
+  "define": "ERROR_EC_CIRCULAR_FORWARDING",
+  "defineUrl": "/win32/winerror-h/error_ec_circular_forwarding/",
+  "message": "When forwarding events from local machine to itself, the query of the subscription can't contain target log of the subscription.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "15082",
+  "originalCodeUrl": "/win32/winerror-h/error_ec_circular_forwarding/15082/"
+}

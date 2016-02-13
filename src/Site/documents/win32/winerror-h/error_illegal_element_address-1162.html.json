@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_illegal_element_address\1162\index.html.json
+
+title: 1162 ERROR_ILLEGAL_ELEMENT_ADDRESS in winerror.h
+description: The indicated element does not exist.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1162",
+  "codeUrl": "/win32/winerror-h/error_illegal_element_address/1162/",
+  "numericCode": 1162,
+  "define": "ERROR_ILLEGAL_ELEMENT_ADDRESS",
+  "defineUrl": "/win32/winerror-h/error_illegal_element_address/",
+  "message": "The indicated element does not exist.",
+  "remarks": null,
+  "aka": [
+    "0x8007048a",
+    "-2147023734"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_illegal_element_address/0x8007048a/",
+    "/win32/winerror-h/error_illegal_element_address/-2147023734/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

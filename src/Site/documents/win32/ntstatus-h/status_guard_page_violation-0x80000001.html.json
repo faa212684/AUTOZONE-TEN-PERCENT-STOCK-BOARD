@@ -1,0 +1,30 @@
+---
+output: win32\ntstatus-h\status_guard_page_violation\0x80000001\index.html.json
+
+title: 0x80000001 STATUS_GUARD_PAGE_VIOLATION in ntstatus.h
+description: "{EXCEPTION}
+Guard Page Exception
+A page of memory that marks the end of a data structure, such as a stack or an array, has been accessed."
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0x80000001",
+  "codeUrl": "/win32/ntstatus-h/status_guard_page_violation/0x80000001/",
+  "numericCode": -2147483647,
+  "define": "STATUS_GUARD_PAGE_VIOLATION",
+  "defineUrl": "/win32/ntstatus-h/status_guard_page_violation/",
+  "message": "{EXCEPTION}\r\nGuard Page Exception\r\nA page of memory that marks the end of a data structure, such as a stack or an array, has been accessed.",
+  "remarks": null,
+  "aka": [
+    "-2147483647"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_guard_page_violation/-2147483647/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

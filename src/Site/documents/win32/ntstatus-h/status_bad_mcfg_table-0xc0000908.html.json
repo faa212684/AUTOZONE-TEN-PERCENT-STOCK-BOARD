@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_bad_mcfg_table\0xc0000908\index.html.json
+
+title: 0xC0000908 STATUS_BAD_MCFG_TABLE in ntstatus.h
+description: The resources required for this device conflict with the MCFG table.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000908",
+  "codeUrl": "/win32/ntstatus-h/status_bad_mcfg_table/0xc0000908/",
+  "numericCode": -1073739512,
+  "define": "STATUS_BAD_MCFG_TABLE",
+  "defineUrl": "/win32/ntstatus-h/status_bad_mcfg_table/",
+  "message": "The resources required for this device conflict with the MCFG table.",
+  "remarks": null,
+  "aka": [
+    "-1073739512"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_bad_mcfg_table/-1073739512/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

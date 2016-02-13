@@ -1,0 +1,29 @@
+---
+output: win32\netevent-h\event_scope_label_too_long\0x800010dd\index.html.json
+
+title: 0x800010DD EVENT_SCOPE_LABEL_TOO_LONG in netevent.h
+description: The Netbios Name Scope has a component longer than 63 characters. Each label
+in the Scope cannot be longer than 63 bytes.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x800010DD",
+  "codeUrl": "/win32/netevent-h/event_scope_label_too_long/0x800010dd/",
+  "numericCode": -2147479331,
+  "define": "EVENT_SCOPE_LABEL_TOO_LONG",
+  "defineUrl": "/win32/netevent-h/event_scope_label_too_long/",
+  "message": "The Netbios Name Scope has a component longer than 63 characters. Each label\r\nin the Scope cannot be longer than 63 bytes.",
+  "remarks": null,
+  "aka": [
+    "-2147479331"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_scope_label_too_long/-2147479331/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

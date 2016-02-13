@@ -1,0 +1,29 @@
+---
+output: win32\wsmerror-h\error_wsman_subscription_no_heartbeat\0x8033800b\index.html.json
+
+title: 0x8033800B ERROR_WSMAN_SUBSCRIPTION_NO_HEARTBEAT in wsmerror.h
+description: The event source did not return events within the heartbeat interval.
+The subscription session was closed. Start a new subscription.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x8033800B",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_subscription_no_heartbeat/0x8033800b/",
+  "numericCode": -2144108533,
+  "define": "ERROR_WSMAN_SUBSCRIPTION_NO_HEARTBEAT",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_subscription_no_heartbeat/",
+  "message": "The event source did not return events within the heartbeat interval.\r\nThe subscription session was closed. Start a new subscription.",
+  "remarks": null,
+  "aka": [
+    "-2144108533"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_subscription_no_heartbeat/-2144108533/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\fwp_e_drop_noicmp\0x80320104\index.html.json
+
+title: 0x80320104 FWP_E_DROP_NOICMP in winerror.h
+description: The packet should be dropped, no ICMP should be sent.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80320104",
+  "codeUrl": "/win32/winerror-h/fwp_e_drop_noicmp/0x80320104/",
+  "numericCode": -2144206588,
+  "define": "FWP_E_DROP_NOICMP",
+  "defineUrl": "/win32/winerror-h/fwp_e_drop_noicmp/",
+  "message": "The packet should be dropped, no ICMP should be sent.",
+  "remarks": null,
+  "aka": [
+    "-2144206588"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/fwp_e_drop_noicmp/-2144206588/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

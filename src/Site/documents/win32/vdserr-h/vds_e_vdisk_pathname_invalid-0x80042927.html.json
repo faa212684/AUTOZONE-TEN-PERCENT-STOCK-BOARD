@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_e_vdisk_pathname_invalid\0x80042927\index.html.json
+
+title: 0x80042927 VDS_E_VDISK_PATHNAME_INVALID in vdserr.h
+description: The pathname for a virtual disk must be fully qualified.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x80042927",
+  "codeUrl": "/win32/vdserr-h/vds_e_vdisk_pathname_invalid/0x80042927/",
+  "numericCode": -2147210969,
+  "define": "VDS_E_VDISK_PATHNAME_INVALID",
+  "defineUrl": "/win32/vdserr-h/vds_e_vdisk_pathname_invalid/",
+  "message": "The pathname for a virtual disk must be fully qualified.",
+  "remarks": null,
+  "aka": [
+    "-2147210969"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_vdisk_pathname_invalid/-2147210969/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

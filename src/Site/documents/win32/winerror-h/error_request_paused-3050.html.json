@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_request_paused\3050\index.html.json
+
+title: 3050 ERROR_REQUEST_PAUSED in winerror.h
+description: The operation was paused.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "3050",
+  "codeUrl": "/win32/winerror-h/error_request_paused/3050/",
+  "numericCode": 3050,
+  "define": "ERROR_REQUEST_PAUSED",
+  "defineUrl": "/win32/winerror-h/error_request_paused/",
+  "message": "The operation was paused.",
+  "remarks": null,
+  "aka": [
+    "0x80070bea",
+    "-2147021846"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_request_paused/0x80070bea/",
+    "/win32/winerror-h/error_request_paused/-2147021846/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

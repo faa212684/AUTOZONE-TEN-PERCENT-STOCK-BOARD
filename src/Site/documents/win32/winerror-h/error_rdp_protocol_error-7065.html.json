@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_rdp_protocol_error\7065\index.html.json
+
+title: 7065 ERROR_RDP_PROTOCOL_ERROR in winerror.h
+description: The RDP protocol component %2 detected an error in the protocol stream and has disconnected the client.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "7065",
+  "codeUrl": "/win32/winerror-h/error_rdp_protocol_error/7065/",
+  "numericCode": 7065,
+  "define": "ERROR_RDP_PROTOCOL_ERROR",
+  "defineUrl": "/win32/winerror-h/error_rdp_protocol_error/",
+  "message": "The RDP protocol component %2 detected an error in the protocol stream and has disconnected the client.",
+  "remarks": null,
+  "aka": [
+    "0x80071b99",
+    "-2147017831"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_rdp_protocol_error/0x80071b99/",
+    "/win32/winerror-h/error_rdp_protocol_error/-2147017831/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

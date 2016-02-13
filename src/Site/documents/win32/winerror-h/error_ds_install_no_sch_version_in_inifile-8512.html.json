@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ds_install_no_sch_version_in_inifile\8512\index.html.json
+
+title: 8512 ERROR_DS_INSTALL_NO_SCH_VERSION_IN_INIFILE in winerror.h
+description: The replica/child install failed to read the objectVersion attribute in the SCHEMA section of the file schema.ini in the system32 directory.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "8512",
+  "codeUrl": "/win32/winerror-h/error_ds_install_no_sch_version_in_inifile/8512/",
+  "numericCode": 8512,
+  "define": "ERROR_DS_INSTALL_NO_SCH_VERSION_IN_INIFILE",
+  "defineUrl": "/win32/winerror-h/error_ds_install_no_sch_version_in_inifile/",
+  "message": "The replica/child install failed to read the objectVersion attribute in the SCHEMA section of the file schema.ini in the system32 directory.",
+  "remarks": null,
+  "aka": [
+    "0x80072140",
+    "-2147016384"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ds_install_no_sch_version_in_inifile/0x80072140/",
+    "/win32/winerror-h/error_ds_install_no_sch_version_in_inifile/-2147016384/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

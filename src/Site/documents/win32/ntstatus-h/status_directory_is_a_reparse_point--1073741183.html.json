@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_directory_is_a_reparse_point\-1073741183\index.html.json
+canonical: /win32/ntstatus-h/status_directory_is_a_reparse_point/0xc0000281/
+title: -1073741183 STATUS_DIRECTORY_IS_A_REPARSE_POINT in ntstatus.h
+description: The NTFS directory is a reparse point.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741183",
+  "codeUrl": "/win32/ntstatus-h/status_directory_is_a_reparse_point/-1073741183/",
+  "numericCode": 0,
+  "define": "STATUS_DIRECTORY_IS_A_REPARSE_POINT",
+  "defineUrl": "/win32/ntstatus-h/status_directory_is_a_reparse_point/",
+  "message": "The NTFS directory is a reparse point.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000281",
+  "originalCodeUrl": "/win32/ntstatus-h/status_directory_is_a_reparse_point/0xc0000281/"
+}

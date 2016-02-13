@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_tm_volatile\0xc019003b\index.html.json
+
+title: 0xC019003B STATUS_TM_VOLATILE in ntstatus.h
+description: The operation could not be completed because the transaction manager does not have a log.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC019003B",
+  "codeUrl": "/win32/ntstatus-h/status_tm_volatile/0xc019003b/",
+  "numericCode": -1072103365,
+  "define": "STATUS_TM_VOLATILE",
+  "defineUrl": "/win32/ntstatus-h/status_tm_volatile/",
+  "message": "The operation could not be completed because the transaction manager does not have a log.",
+  "remarks": null,
+  "aka": [
+    "-1072103365"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_tm_volatile/-1072103365/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

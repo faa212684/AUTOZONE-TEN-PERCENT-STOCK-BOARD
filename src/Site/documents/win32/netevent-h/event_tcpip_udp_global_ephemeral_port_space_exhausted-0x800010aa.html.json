@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_tcpip_udp_global_ephemeral_port_space_exhausted\0x800010aa\index.html.json
+
+title: 0x800010AA EVENT_TCPIP_UDP_GLOBAL_EPHEMERAL_PORT_SPACE_EXHAUSTED in netevent.h
+description: A request to allocate an ephemeral port number from the global UDP port space has failed due to all such ports being in use.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x800010AA",
+  "codeUrl": "/win32/netevent-h/event_tcpip_udp_global_ephemeral_port_space_exhausted/0x800010aa/",
+  "numericCode": -2147479382,
+  "define": "EVENT_TCPIP_UDP_GLOBAL_EPHEMERAL_PORT_SPACE_EXHAUSTED",
+  "defineUrl": "/win32/netevent-h/event_tcpip_udp_global_ephemeral_port_space_exhausted/",
+  "message": "A request to allocate an ephemeral port number from the global UDP port space has failed due to all such ports being in use.",
+  "remarks": null,
+  "aka": [
+    "-2147479382"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_tcpip_udp_global_ephemeral_port_space_exhausted/-2147479382/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

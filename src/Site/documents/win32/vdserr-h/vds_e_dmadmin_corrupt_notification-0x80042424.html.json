@@ -1,0 +1,29 @@
+---
+output: win32\vdserr-h\vds_e_dmadmin_corrupt_notification\0x80042424\index.html.json
+
+title: 0x80042424 VDS_E_DMADMIN_CORRUPT_NOTIFICATION in vdserr.h
+description: A corrupt notification was sent from the Logical Disk Manager 
+Administrative service.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x80042424",
+  "codeUrl": "/win32/vdserr-h/vds_e_dmadmin_corrupt_notification/0x80042424/",
+  "numericCode": -2147212252,
+  "define": "VDS_E_DMADMIN_CORRUPT_NOTIFICATION",
+  "defineUrl": "/win32/vdserr-h/vds_e_dmadmin_corrupt_notification/",
+  "message": "A corrupt notification was sent from the Logical Disk Manager \r\nAdministrative service.",
+  "remarks": null,
+  "aka": [
+    "-2147212252"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_dmadmin_corrupt_notification/-2147212252/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

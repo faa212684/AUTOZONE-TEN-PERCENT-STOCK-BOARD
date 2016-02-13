@@ -1,0 +1,29 @@
+---
+output: win32\mq-h\mq_error_property_notallowed\0xc00e003e\index.html.json
+
+title: 0xC00E003E MQ_ERROR_PROPERTY_NOTALLOWED in Mq.h
+description: The property identifier specified (for example, PROPID_Q_INSTANCE in MQSetQueueProperties)
+is invalid for the operation requested.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "Mq.h",
+  "sourceUrl": "/win32/mq-h/",
+  "code": "0xC00E003E",
+  "codeUrl": "/win32/mq-h/mq_error_property_notallowed/0xc00e003e/",
+  "numericCode": -1072824258,
+  "define": "MQ_ERROR_PROPERTY_NOTALLOWED",
+  "defineUrl": "/win32/mq-h/mq_error_property_notallowed/",
+  "message": "The property identifier specified (for example, PROPID_Q_INSTANCE in MQSetQueueProperties)\r\nis invalid for the operation requested.",
+  "remarks": null,
+  "aka": [
+    "-1072824258"
+  ],
+  "akaUrl": [
+    "/win32/mq-h/mq_error_property_notallowed/-1072824258/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\dns_error_invalid_signature_validity_period\9123\index.html.json
+
+title: 9123 DNS_ERROR_INVALID_SIGNATURE_VALIDITY_PERIOD in winerror.h
+description: The specified signature validity period is invalid.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "9123",
+  "codeUrl": "/win32/winerror-h/dns_error_invalid_signature_validity_period/9123/",
+  "numericCode": 9123,
+  "define": "DNS_ERROR_INVALID_SIGNATURE_VALIDITY_PERIOD",
+  "defineUrl": "/win32/winerror-h/dns_error_invalid_signature_validity_period/",
+  "message": "The specified signature validity period is invalid.",
+  "remarks": null,
+  "aka": [
+    "0x800723a3",
+    "-2147015773"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/dns_error_invalid_signature_validity_period/0x800723a3/",
+    "/win32/winerror-h/dns_error_invalid_signature_validity_period/-2147015773/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

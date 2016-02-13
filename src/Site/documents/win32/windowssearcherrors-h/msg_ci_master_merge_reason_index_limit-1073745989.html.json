@@ -1,0 +1,25 @@
+---
+output: win32\windowssearcherrors-h\msg_ci_master_merge_reason_index_limit\1073745989\index.html.json
+canonical: /win32/windowssearcherrors-h/msg_ci_master_merge_reason_index_limit/0x40001045/
+title: 1073745989 MSG_CI_MASTER_MERGE_REASON_INDEX_LIMIT in WindowsSearchErrors.h
+description: %1Catalog: %2.
+A master merge was started because the catalog reached the maximum number of indexes on the last level (%3).
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "1073745989",
+  "codeUrl": "/win32/windowssearcherrors-h/msg_ci_master_merge_reason_index_limit/1073745989/",
+  "numericCode": 0,
+  "define": "MSG_CI_MASTER_MERGE_REASON_INDEX_LIMIT",
+  "defineUrl": "/win32/windowssearcherrors-h/msg_ci_master_merge_reason_index_limit/",
+  "message": "%1Catalog: %2.\r\nA master merge was started because the catalog reached the maximum number of indexes on the last level (%3).",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x40001045",
+  "originalCodeUrl": "/win32/windowssearcherrors-h/msg_ci_master_merge_reason_index_limit/0x40001045/"
+}

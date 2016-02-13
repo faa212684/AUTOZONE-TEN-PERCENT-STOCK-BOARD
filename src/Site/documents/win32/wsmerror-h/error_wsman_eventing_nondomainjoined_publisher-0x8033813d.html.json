@@ -1,0 +1,30 @@
+---
+output: win32\wsmerror-h\error_wsman_eventing_nondomainjoined_publisher\0x8033813d\index.html.json
+
+title: 0x8033813D ERROR_WSMAN_EVENTING_NONDOMAINJOINED_PUBLISHER in wsmerror.h
+description: The WS-Management client cannot process the request. The event source machine is not joined to a domain.
+To set up a push subscription session to an event source the source has to be connected to a domain.
+To fix this problem either join the event source machine to a domain or use PULL as the delivery mode for the subscription.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x8033813D",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_eventing_nondomainjoined_publisher/0x8033813d/",
+  "numericCode": -2144108227,
+  "define": "ERROR_WSMAN_EVENTING_NONDOMAINJOINED_PUBLISHER",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_eventing_nondomainjoined_publisher/",
+  "message": "The WS-Management client cannot process the request. The event source machine is not joined to a domain.\r\nTo set up a push subscription session to an event source the source has to be connected to a domain.\r\nTo fix this problem either join the event source machine to a domain or use PULL as the delivery mode for the subscription.",
+  "remarks": null,
+  "aka": [
+    "-2144108227"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_eventing_nondomainjoined_publisher/-2144108227/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

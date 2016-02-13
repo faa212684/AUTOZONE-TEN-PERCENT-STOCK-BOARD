@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_e_import_set_incomplete\0x80042451\index.html.json
+
+title: 0x80042451 VDS_E_IMPORT_SET_INCOMPLETE in vdserr.h
+description: Import failed. Attempt to import a subset of the disks in the foreign pack.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x80042451",
+  "codeUrl": "/win32/vdserr-h/vds_e_import_set_incomplete/0x80042451/",
+  "numericCode": -2147212207,
+  "define": "VDS_E_IMPORT_SET_INCOMPLETE",
+  "defineUrl": "/win32/vdserr-h/vds_e_import_set_incomplete/",
+  "message": "Import failed. Attempt to import a subset of the disks in the foreign pack.",
+  "remarks": null,
+  "aka": [
+    "-2147212207"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_import_set_incomplete/-2147212207/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

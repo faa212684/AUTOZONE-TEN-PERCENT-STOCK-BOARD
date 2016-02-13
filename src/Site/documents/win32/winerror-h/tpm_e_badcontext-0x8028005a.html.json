@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\tpm_e_badcontext\0x8028005a\index.html.json
+
+title: 0x8028005A TPM_E_BADCONTEXT in winerror.h
+description: The context blob is invalid.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8028005A",
+  "codeUrl": "/win32/winerror-h/tpm_e_badcontext/0x8028005a/",
+  "numericCode": -2144862118,
+  "define": "TPM_E_BADCONTEXT",
+  "defineUrl": "/win32/winerror-h/tpm_e_badcontext/",
+  "message": "The context blob is invalid.",
+  "remarks": null,
+  "aka": [
+    "-2144862118"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/tpm_e_badcontext/-2144862118/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

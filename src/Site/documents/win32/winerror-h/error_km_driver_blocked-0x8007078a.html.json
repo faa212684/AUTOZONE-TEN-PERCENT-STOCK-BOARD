@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_km_driver_blocked\0x8007078a\index.html.json
+canonical: /win32/winerror-h/error_km_driver_blocked/1930/
+title: 0x8007078a ERROR_KM_DRIVER_BLOCKED in winerror.h
+description: The printer driver is not compatible with a policy enabled on your computer that blocks NT 4.0 drivers.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007078a",
+  "codeUrl": "/win32/winerror-h/error_km_driver_blocked/0x8007078a/",
+  "numericCode": 0,
+  "define": "ERROR_KM_DRIVER_BLOCKED",
+  "defineUrl": "/win32/winerror-h/error_km_driver_blocked/",
+  "message": "The printer driver is not compatible with a policy enabled on your computer that blocks NT 4.0 drivers.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "1930",
+  "originalCodeUrl": "/win32/winerror-h/error_km_driver_blocked/1930/"
+}

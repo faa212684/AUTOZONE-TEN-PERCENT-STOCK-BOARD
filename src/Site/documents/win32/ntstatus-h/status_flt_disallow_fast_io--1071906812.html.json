@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_flt_disallow_fast_io\-1071906812\index.html.json
+canonical: /win32/ntstatus-h/status_flt_disallow_fast_io/0xc01c0004/
+title: -1071906812 STATUS_FLT_DISALLOW_FAST_IO in ntstatus.h
+description: Internal error code used by the filter manager to determine if a fastio operation should be forced down the IRP path. Mini-filters should never return this value.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071906812",
+  "codeUrl": "/win32/ntstatus-h/status_flt_disallow_fast_io/-1071906812/",
+  "numericCode": 0,
+  "define": "STATUS_FLT_DISALLOW_FAST_IO",
+  "defineUrl": "/win32/ntstatus-h/status_flt_disallow_fast_io/",
+  "message": "Internal error code used by the filter manager to determine if a fastio operation should be forced down the IRP path. Mini-filters should never return this value.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC01C0004",
+  "originalCodeUrl": "/win32/ntstatus-h/status_flt_disallow_fast_io/0xc01c0004/"
+}

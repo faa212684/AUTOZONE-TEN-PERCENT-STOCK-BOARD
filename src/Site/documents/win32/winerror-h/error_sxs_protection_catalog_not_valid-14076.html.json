@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_sxs_protection_catalog_not_valid\14076\index.html.json
+
+title: 14076 ERROR_SXS_PROTECTION_CATALOG_NOT_VALID in winerror.h
+description: Assembly Protection Error : The catalog for an assembly is not valid, or does not match the assembly's manifest.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "14076",
+  "codeUrl": "/win32/winerror-h/error_sxs_protection_catalog_not_valid/14076/",
+  "numericCode": 14076,
+  "define": "ERROR_SXS_PROTECTION_CATALOG_NOT_VALID",
+  "defineUrl": "/win32/winerror-h/error_sxs_protection_catalog_not_valid/",
+  "message": "Assembly Protection Error : The catalog for an assembly is not valid, or does not match the assembly's manifest.",
+  "remarks": null,
+  "aka": [
+    "0x800736fc",
+    "-2147010820"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_sxs_protection_catalog_not_valid/0x800736fc/",
+    "/win32/winerror-h/error_sxs_protection_catalog_not_valid/-2147010820/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

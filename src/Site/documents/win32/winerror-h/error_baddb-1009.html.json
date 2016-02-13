@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_baddb\1009\index.html.json
+
+title: 1009 ERROR_BADDB in winerror.h
+description: The configuration registry database is corrupt.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1009",
+  "codeUrl": "/win32/winerror-h/error_baddb/1009/",
+  "numericCode": 1009,
+  "define": "ERROR_BADDB",
+  "defineUrl": "/win32/winerror-h/error_baddb/",
+  "message": "The configuration registry database is corrupt.",
+  "remarks": null,
+  "aka": [
+    "0x800703f1",
+    "-2147023887"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_baddb/0x800703f1/",
+    "/win32/winerror-h/error_baddb/-2147023887/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

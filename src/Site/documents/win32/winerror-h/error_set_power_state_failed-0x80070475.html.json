@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_set_power_state_failed\0x80070475\index.html.json
+canonical: /win32/winerror-h/error_set_power_state_failed/1141/
+title: 0x80070475 ERROR_SET_POWER_STATE_FAILED in winerror.h
+description: The system BIOS failed an attempt to change the system power state.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80070475",
+  "codeUrl": "/win32/winerror-h/error_set_power_state_failed/0x80070475/",
+  "numericCode": 0,
+  "define": "ERROR_SET_POWER_STATE_FAILED",
+  "defineUrl": "/win32/winerror-h/error_set_power_state_failed/",
+  "message": "The system BIOS failed an attempt to change the system power state.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "1141",
+  "originalCodeUrl": "/win32/winerror-h/error_set_power_state_failed/1141/"
+}

@@ -1,0 +1,25 @@
+---
+output: win32\netevent-h\event_browser_domain_list_retrieved\8026\index.html.json
+canonical: /win32/netevent-h/event_browser_domain_list_retrieved/0x00001f5a/
+title: 8026 EVENT_BROWSER_DOMAIN_LIST_RETRIEVED in netevent.h
+description: The browser has retrieved a list of domains from remote computer %1 on transport %2.%n
+There were %3 entries read, and %4 total entries.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "8026",
+  "codeUrl": "/win32/netevent-h/event_browser_domain_list_retrieved/8026/",
+  "numericCode": 0,
+  "define": "EVENT_BROWSER_DOMAIN_LIST_RETRIEVED",
+  "defineUrl": "/win32/netevent-h/event_browser_domain_list_retrieved/",
+  "message": "The browser has retrieved a list of domains from remote computer %1 on transport %2.%n\r\nThere were %3 entries read, and %4 total entries.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x00001F5A",
+  "originalCodeUrl": "/win32/netevent-h/event_browser_domain_list_retrieved/0x00001f5a/"
+}

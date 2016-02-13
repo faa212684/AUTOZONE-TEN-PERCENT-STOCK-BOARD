@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_key_has_children\0x800703fc\index.html.json
+canonical: /win32/winerror-h/error_key_has_children/1020/
+title: 0x800703fc ERROR_KEY_HAS_CHILDREN in winerror.h
+description: Cannot create a symbolic link in a registry key that already has subkeys or values.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800703fc",
+  "codeUrl": "/win32/winerror-h/error_key_has_children/0x800703fc/",
+  "numericCode": 0,
+  "define": "ERROR_KEY_HAS_CHILDREN",
+  "defineUrl": "/win32/winerror-h/error_key_has_children/",
+  "message": "Cannot create a symbolic link in a registry key that already has subkeys or values.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "1020",
+  "originalCodeUrl": "/win32/winerror-h/error_key_has_children/1020/"
+}

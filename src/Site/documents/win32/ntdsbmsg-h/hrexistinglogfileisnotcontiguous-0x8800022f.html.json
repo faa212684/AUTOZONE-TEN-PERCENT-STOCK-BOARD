@@ -1,0 +1,28 @@
+---
+output: win32\ntdsbmsg-h\hrexistinglogfileisnotcontiguous\0x8800022f\index.html.json
+
+title: 0x8800022F hrExistingLogFileIsNotContiguous in NtDsBMsg.h
+description: Unable to find a mandatory log file in the log file path.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "NtDsBMsg.h",
+  "sourceUrl": "/win32/ntdsbmsg-h/",
+  "code": "0x8800022F",
+  "codeUrl": "/win32/ntdsbmsg-h/hrexistinglogfileisnotcontiguous/0x8800022f/",
+  "numericCode": -2013265361,
+  "define": "hrExistingLogFileIsNotContiguous",
+  "defineUrl": "/win32/ntdsbmsg-h/hrexistinglogfileisnotcontiguous/",
+  "message": "Unable to find a mandatory log file in the log file path.",
+  "remarks": null,
+  "aka": [
+    "-2013265361"
+  ],
+  "akaUrl": [
+    "/win32/ntdsbmsg-h/hrexistinglogfileisnotcontiguous/-2013265361/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

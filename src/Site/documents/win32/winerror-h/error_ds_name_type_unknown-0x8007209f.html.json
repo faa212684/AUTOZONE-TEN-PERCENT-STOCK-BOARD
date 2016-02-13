@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_ds_name_type_unknown\0x8007209f\index.html.json
+canonical: /win32/winerror-h/error_ds_name_type_unknown/8351/
+title: 0x8007209f ERROR_DS_NAME_TYPE_UNKNOWN in winerror.h
+description: The directory service cannot get the attribute type for a name.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007209f",
+  "codeUrl": "/win32/winerror-h/error_ds_name_type_unknown/0x8007209f/",
+  "numericCode": 0,
+  "define": "ERROR_DS_NAME_TYPE_UNKNOWN",
+  "defineUrl": "/win32/winerror-h/error_ds_name_type_unknown/",
+  "message": "The directory service cannot get the attribute type for a name.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "8351",
+  "originalCodeUrl": "/win32/winerror-h/error_ds_name_type_unknown/8351/"
+}

@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\wininet_e_incorrect_user_name\0x80072eed\index.html.json
+
+title: 0x80072EED WININET_E_INCORRECT_USER_NAME in winerror.h
+description: The user name was not allowed
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80072EED",
+  "codeUrl": "/win32/winerror-h/wininet_e_incorrect_user_name/0x80072eed/",
+  "numericCode": -2147012883,
+  "define": "WININET_E_INCORRECT_USER_NAME",
+  "defineUrl": "/win32/winerror-h/wininet_e_incorrect_user_name/",
+  "message": "The user name was not allowed",
+  "remarks": null,
+  "aka": [
+    "-2147012883"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/wininet_e_incorrect_user_name/-2147012883/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

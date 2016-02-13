@@ -1,0 +1,28 @@
+---
+output: win32\nserror-h\ns_e_wmp_drm_not_acquiring\0xc00d12c1\index.html.json
+
+title: 0xC00D12C1 NS_E_WMP_DRM_NOT_ACQUIRING in nserror.h
+description: Windows Media Player is trying to acquire media usage rights for a file that is no longer being used. Rights acquisition will stop.%0
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "nserror.h",
+  "sourceUrl": "/win32/nserror-h/",
+  "code": "0xC00D12C1",
+  "codeUrl": "/win32/nserror-h/ns_e_wmp_drm_not_acquiring/0xc00d12c1/",
+  "numericCode": -1072885055,
+  "define": "NS_E_WMP_DRM_NOT_ACQUIRING",
+  "defineUrl": "/win32/nserror-h/ns_e_wmp_drm_not_acquiring/",
+  "message": "Windows Media Player is trying to acquire media usage rights for a file that is no longer being used. Rights acquisition will stop.%0",
+  "remarks": null,
+  "aka": [
+    "-1072885055"
+  ],
+  "akaUrl": [
+    "/win32/nserror-h/ns_e_wmp_drm_not_acquiring/-1072885055/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\fve_e_de_fixed_data_not_supported\0x803100c5\index.html.json
+
+title: 0x803100C5 FVE_E_DE_FIXED_DATA_NOT_SUPPORTED in winerror.h
+description: This PC cannot support device encryption because unencrypted fixed data volumes are present.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x803100C5",
+  "codeUrl": "/win32/winerror-h/fve_e_de_fixed_data_not_supported/0x803100c5/",
+  "numericCode": -2144272187,
+  "define": "FVE_E_DE_FIXED_DATA_NOT_SUPPORTED",
+  "defineUrl": "/win32/winerror-h/fve_e_de_fixed_data_not_supported/",
+  "message": "This PC cannot support device encryption because unencrypted fixed data volumes are present.",
+  "remarks": null,
+  "aka": [
+    "-2144272187"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/fve_e_de_fixed_data_not_supported/-2144272187/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

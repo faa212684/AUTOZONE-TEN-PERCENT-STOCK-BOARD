@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_invalid_package_sid_length\4253\index.html.json
+
+title: 4253 ERROR_INVALID_PACKAGE_SID_LENGTH in winerror.h
+description: The length of the SID supplied is not a valid length for app container SIDs.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "4253",
+  "codeUrl": "/win32/winerror-h/error_invalid_package_sid_length/4253/",
+  "numericCode": 4253,
+  "define": "ERROR_INVALID_PACKAGE_SID_LENGTH",
+  "defineUrl": "/win32/winerror-h/error_invalid_package_sid_length/",
+  "message": "The length of the SID supplied is not a valid length for app container SIDs.",
+  "remarks": null,
+  "aka": [
+    "0x8007109d",
+    "-2147020643"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_invalid_package_sid_length/0x8007109d/",
+    "/win32/winerror-h/error_invalid_package_sid_length/-2147020643/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

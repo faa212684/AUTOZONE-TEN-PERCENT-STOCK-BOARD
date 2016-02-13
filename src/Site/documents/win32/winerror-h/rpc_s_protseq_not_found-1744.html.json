@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\rpc_s_protseq_not_found\1744\index.html.json
+
+title: 1744 RPC_S_PROTSEQ_NOT_FOUND in winerror.h
+description: The RPC protocol sequence was not found.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1744",
+  "codeUrl": "/win32/winerror-h/rpc_s_protseq_not_found/1744/",
+  "numericCode": 1744,
+  "define": "RPC_S_PROTSEQ_NOT_FOUND",
+  "defineUrl": "/win32/winerror-h/rpc_s_protseq_not_found/",
+  "message": "The RPC protocol sequence was not found.",
+  "remarks": null,
+  "aka": [
+    "0x800706d0",
+    "-2147023152"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/rpc_s_protseq_not_found/0x800706d0/",
+    "/win32/winerror-h/rpc_s_protseq_not_found/-2147023152/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

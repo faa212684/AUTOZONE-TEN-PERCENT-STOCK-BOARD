@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_no_token\0x800703f0\index.html.json
+canonical: /win32/winerror-h/error_no_token/1008/
+title: 0x800703f0 ERROR_NO_TOKEN in winerror.h
+description: An attempt was made to reference a token that does not exist.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800703f0",
+  "codeUrl": "/win32/winerror-h/error_no_token/0x800703f0/",
+  "numericCode": 0,
+  "define": "ERROR_NO_TOKEN",
+  "defineUrl": "/win32/winerror-h/error_no_token/",
+  "message": "An attempt was made to reference a token that does not exist.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "1008",
+  "originalCodeUrl": "/win32/winerror-h/error_no_token/1008/"
+}

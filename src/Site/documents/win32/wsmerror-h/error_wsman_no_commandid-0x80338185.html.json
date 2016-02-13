@@ -1,0 +1,29 @@
+---
+output: win32\wsmerror-h\error_wsman_no_commandid\0x80338185\index.html.json
+
+title: 0x80338185 ERROR_WSMAN_NO_COMMANDID in wsmerror.h
+description: The WinRM client cannot process the request. The response to a Command request did not contain a valid CommandResponse element.
+The CommandId element was not found or did not contain valid content.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x80338185",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_no_commandid/0x80338185/",
+  "numericCode": -2144108155,
+  "define": "ERROR_WSMAN_NO_COMMANDID",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_no_commandid/",
+  "message": "The WinRM client cannot process the request. The response to a Command request did not contain a valid CommandResponse element.\r\nThe CommandId element was not found or did not contain valid content.",
+  "remarks": null,
+  "aka": [
+    "-2144108155"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_no_commandid/-2144108155/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_rdr_invalid_lock_reply\0x80000bbf\index.html.json
+
+title: 0x80000BBF EVENT_RDR_INVALID_LOCK_REPLY in netevent.h
+description: The redirector received an incorrect response from %2 to a lock request.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x80000BBF",
+  "codeUrl": "/win32/netevent-h/event_rdr_invalid_lock_reply/0x80000bbf/",
+  "numericCode": -2147480641,
+  "define": "EVENT_RDR_INVALID_LOCK_REPLY",
+  "defineUrl": "/win32/netevent-h/event_rdr_invalid_lock_reply/",
+  "message": "The redirector received an incorrect response from %2 to a lock request.",
+  "remarks": null,
+  "aka": [
+    "-2147480641"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_rdr_invalid_lock_reply/-2147480641/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

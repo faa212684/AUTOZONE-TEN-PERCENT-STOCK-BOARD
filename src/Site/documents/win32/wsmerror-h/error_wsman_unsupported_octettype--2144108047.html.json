@@ -1,0 +1,24 @@
+---
+output: win32\wsmerror-h\error_wsman_unsupported_octettype\-2144108047\index.html.json
+canonical: /win32/wsmerror-h/error_wsman_unsupported_octettype/0x803381f1/
+title: -2144108047 ERROR_WSMAN_UNSUPPORTED_OCTETTYPE in wsmerror.h
+description: The WinRM client cannot process the request because the octet string array type is not supported.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "-2144108047",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_unsupported_octettype/-2144108047/",
+  "numericCode": 0,
+  "define": "ERROR_WSMAN_UNSUPPORTED_OCTETTYPE",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_unsupported_octettype/",
+  "message": "The WinRM client cannot process the request because the octet string array type is not supported.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x803381F1",
+  "originalCodeUrl": "/win32/wsmerror-h/error_wsman_unsupported_octettype/0x803381f1/"
+}

@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_ctx_license_client_invalid\0xc00a0012\index.html.json
+
+title: 0xC00A0012 STATUS_CTX_LICENSE_CLIENT_INVALID in ntstatus.h
+description: The client you are using is not licensed to use this system. Your logon request is denied.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC00A0012",
+  "codeUrl": "/win32/ntstatus-h/status_ctx_license_client_invalid/0xc00a0012/",
+  "numericCode": -1073086446,
+  "define": "STATUS_CTX_LICENSE_CLIENT_INVALID",
+  "defineUrl": "/win32/ntstatus-h/status_ctx_license_client_invalid/",
+  "message": "The client you are using is not licensed to use this system. Your logon request is denied.",
+  "remarks": null,
+  "aka": [
+    "-1073086446"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_ctx_license_client_invalid/-1073086446/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

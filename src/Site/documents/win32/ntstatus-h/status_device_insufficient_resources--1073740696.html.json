@@ -1,0 +1,25 @@
+---
+output: win32\ntstatus-h\status_device_insufficient_resources\-1073740696\index.html.json
+canonical: /win32/ntstatus-h/status_device_insufficient_resources/0xc0000468/
+title: -1073740696 STATUS_DEVICE_INSUFFICIENT_RESOURCES in ntstatus.h
+description: "{Device Insufficient Resources}
+The target device has insufficient resources to complete the operation."
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073740696",
+  "codeUrl": "/win32/ntstatus-h/status_device_insufficient_resources/-1073740696/",
+  "numericCode": 0,
+  "define": "STATUS_DEVICE_INSUFFICIENT_RESOURCES",
+  "defineUrl": "/win32/ntstatus-h/status_device_insufficient_resources/",
+  "message": "{Device Insufficient Resources}\r\nThe target device has insufficient resources to complete the operation.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000468",
+  "originalCodeUrl": "/win32/ntstatus-h/status_device_insufficient_resources/0xc0000468/"
+}

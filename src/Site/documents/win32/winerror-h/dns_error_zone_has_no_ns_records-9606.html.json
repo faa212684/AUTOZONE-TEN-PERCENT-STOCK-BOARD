@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\dns_error_zone_has_no_ns_records\9606\index.html.json
+
+title: 9606 DNS_ERROR_ZONE_HAS_NO_NS_RECORDS in winerror.h
+description: DNS zone has no Name Server (NS) record.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "9606",
+  "codeUrl": "/win32/winerror-h/dns_error_zone_has_no_ns_records/9606/",
+  "numericCode": 9606,
+  "define": "DNS_ERROR_ZONE_HAS_NO_NS_RECORDS",
+  "defineUrl": "/win32/winerror-h/dns_error_zone_has_no_ns_records/",
+  "message": "DNS zone has no Name Server (NS) record.",
+  "remarks": null,
+  "aka": [
+    "0x80072586",
+    "-2147015290"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/dns_error_zone_has_no_ns_records/0x80072586/",
+    "/win32/winerror-h/dns_error_zone_has_no_ns_records/-2147015290/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

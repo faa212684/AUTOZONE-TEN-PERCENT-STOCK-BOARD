@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_driver_failed_prior_unload\0xc000038e\index.html.json
+
+title: 0xC000038E STATUS_DRIVER_FAILED_PRIOR_UNLOAD in ntstatus.h
+description: The driver could not be loaded because a previous version of the driver is still in memory.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000038E",
+  "codeUrl": "/win32/ntstatus-h/status_driver_failed_prior_unload/0xc000038e/",
+  "numericCode": -1073740914,
+  "define": "STATUS_DRIVER_FAILED_PRIOR_UNLOAD",
+  "defineUrl": "/win32/ntstatus-h/status_driver_failed_prior_unload/",
+  "message": "The driver could not be loaded because a previous version of the driver is still in memory.",
+  "remarks": null,
+  "aka": [
+    "-1073740914"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_driver_failed_prior_unload/-1073740914/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\certsrv_e_archived_key_required\0x80094804\index.html.json
+
+title: 0x80094804 CERTSRV_E_ARCHIVED_KEY_REQUIRED in winerror.h
+description: The request is missing a required private key for archival by the server.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80094804",
+  "codeUrl": "/win32/winerror-h/certsrv_e_archived_key_required/0x80094804/",
+  "numericCode": -2146875388,
+  "define": "CERTSRV_E_ARCHIVED_KEY_REQUIRED",
+  "defineUrl": "/win32/winerror-h/certsrv_e_archived_key_required/",
+  "message": "The request is missing a required private key for archival by the server.",
+  "remarks": null,
+  "aka": [
+    "-2146875388"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/certsrv_e_archived_key_required/-2146875388/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

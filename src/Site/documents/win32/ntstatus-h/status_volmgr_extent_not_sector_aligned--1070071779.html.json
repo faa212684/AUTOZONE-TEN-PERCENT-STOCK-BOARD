@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_volmgr_extent_not_sector_aligned\-1070071779\index.html.json
+canonical: /win32/ntstatus-h/status_volmgr_extent_not_sector_aligned/0xc038001d/
+title: -1070071779 STATUS_VOLMGR_EXTENT_NOT_SECTOR_ALIGNED in ntstatus.h
+description: The specifed volume extent is not sector aligned.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1070071779",
+  "codeUrl": "/win32/ntstatus-h/status_volmgr_extent_not_sector_aligned/-1070071779/",
+  "numericCode": 0,
+  "define": "STATUS_VOLMGR_EXTENT_NOT_SECTOR_ALIGNED",
+  "defineUrl": "/win32/ntstatus-h/status_volmgr_extent_not_sector_aligned/",
+  "message": "The specifed volume extent is not sector aligned.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC038001D",
+  "originalCodeUrl": "/win32/ntstatus-h/status_volmgr_extent_not_sector_aligned/0xc038001d/"
+}

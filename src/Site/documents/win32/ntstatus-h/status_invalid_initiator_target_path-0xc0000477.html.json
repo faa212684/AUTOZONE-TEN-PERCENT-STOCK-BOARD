@@ -1,0 +1,29 @@
+---
+output: win32\ntstatus-h\status_invalid_initiator_target_path\0xc0000477\index.html.json
+
+title: 0xC0000477 STATUS_INVALID_INITIATOR_TARGET_PATH in ntstatus.h
+description: "{Invalid I_T Nexus}
+An attempt was made to send down the command via an invalid path to the target device."
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000477",
+  "codeUrl": "/win32/ntstatus-h/status_invalid_initiator_target_path/0xc0000477/",
+  "numericCode": -1073740681,
+  "define": "STATUS_INVALID_INITIATOR_TARGET_PATH",
+  "defineUrl": "/win32/ntstatus-h/status_invalid_initiator_target_path/",
+  "message": "{Invalid I_T Nexus}\r\nAn attempt was made to send down the command via an invalid path to the target device.",
+  "remarks": null,
+  "aka": [
+    "-1073740681"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_invalid_initiator_target_path/-1073740681/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

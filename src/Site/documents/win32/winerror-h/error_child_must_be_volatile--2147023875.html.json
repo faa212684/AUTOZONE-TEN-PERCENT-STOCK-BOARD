@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_child_must_be_volatile\-2147023875\index.html.json
+canonical: /win32/winerror-h/error_child_must_be_volatile/1021/
+title: -2147023875 ERROR_CHILD_MUST_BE_VOLATILE in winerror.h
+description: Cannot create a stable subkey under a volatile parent key.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147023875",
+  "codeUrl": "/win32/winerror-h/error_child_must_be_volatile/-2147023875/",
+  "numericCode": 0,
+  "define": "ERROR_CHILD_MUST_BE_VOLATILE",
+  "defineUrl": "/win32/winerror-h/error_child_must_be_volatile/",
+  "message": "Cannot create a stable subkey under a volatile parent key.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "1021",
+  "originalCodeUrl": "/win32/winerror-h/error_child_must_be_volatile/1021/"
+}

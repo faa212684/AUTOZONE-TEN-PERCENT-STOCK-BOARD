@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_resource_in_use\0xc0000708\index.html.json
+
+title: 0xC0000708 STATUS_RESOURCE_IN_USE in ntstatus.h
+description: The resource requested is already in use.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000708",
+  "codeUrl": "/win32/ntstatus-h/status_resource_in_use/0xc0000708/",
+  "numericCode": -1073740024,
+  "define": "STATUS_RESOURCE_IN_USE",
+  "defineUrl": "/win32/ntstatus-h/status_resource_in_use/",
+  "message": "The resource requested is already in use.",
+  "remarks": null,
+  "aka": [
+    "-1073740024"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_resource_in_use/-1073740024/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

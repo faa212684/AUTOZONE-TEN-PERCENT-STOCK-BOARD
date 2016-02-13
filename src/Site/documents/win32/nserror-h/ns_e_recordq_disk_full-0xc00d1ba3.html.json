@@ -1,0 +1,28 @@
+---
+output: win32\nserror-h\ns_e_recordq_disk_full\0xc00d1ba3\index.html.json
+
+title: 0xC00D1BA3 NS_E_RECORDQ_DISK_FULL in nserror.h
+description: The hard disk being used for temporary storage of content has reached the minimum allowed disk space. Create more space on the hard disk and restart encoding.%0
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "nserror.h",
+  "sourceUrl": "/win32/nserror-h/",
+  "code": "0xC00D1BA3",
+  "codeUrl": "/win32/nserror-h/ns_e_recordq_disk_full/0xc00d1ba3/",
+  "numericCode": -1072882781,
+  "define": "NS_E_RECORDQ_DISK_FULL",
+  "defineUrl": "/win32/nserror-h/ns_e_recordq_disk_full/",
+  "message": "The hard disk being used for temporary storage of content has reached the minimum allowed disk space. Create more space on the hard disk and restart encoding.%0",
+  "remarks": null,
+  "aka": [
+    "-1072882781"
+  ],
+  "akaUrl": [
+    "/win32/nserror-h/ns_e_recordq_disk_full/-1072882781/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

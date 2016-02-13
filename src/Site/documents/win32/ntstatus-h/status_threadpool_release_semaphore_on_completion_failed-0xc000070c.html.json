@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_threadpool_release_semaphore_on_completion_failed\0xc000070c\index.html.json
+
+title: 0xC000070C STATUS_THREADPOOL_RELEASE_SEMAPHORE_ON_COMPLETION_FAILED in ntstatus.h
+description: After a callback to 0x%p(0x%p), a completion call to ReleaseSemaphore(0x%p, %d) failed with status 0x%08x.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000070C",
+  "codeUrl": "/win32/ntstatus-h/status_threadpool_release_semaphore_on_completion_failed/0xc000070c/",
+  "numericCode": -1073740020,
+  "define": "STATUS_THREADPOOL_RELEASE_SEMAPHORE_ON_COMPLETION_FAILED",
+  "defineUrl": "/win32/ntstatus-h/status_threadpool_release_semaphore_on_completion_failed/",
+  "message": "After a callback to 0x%p(0x%p), a completion call to ReleaseSemaphore(0x%p, %d) failed with status 0x%08x.",
+  "remarks": null,
+  "aka": [
+    "-1073740020"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_threadpool_release_semaphore_on_completion_failed/-1073740020/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

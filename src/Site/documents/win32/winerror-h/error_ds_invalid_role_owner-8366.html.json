@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ds_invalid_role_owner\8366\index.html.json
+
+title: 8366 ERROR_DS_INVALID_ROLE_OWNER in winerror.h
+description: The role owner attribute could not be read.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "8366",
+  "codeUrl": "/win32/winerror-h/error_ds_invalid_role_owner/8366/",
+  "numericCode": 8366,
+  "define": "ERROR_DS_INVALID_ROLE_OWNER",
+  "defineUrl": "/win32/winerror-h/error_ds_invalid_role_owner/",
+  "message": "The role owner attribute could not be read.",
+  "remarks": null,
+  "aka": [
+    "0x800720ae",
+    "-2147016530"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ds_invalid_role_owner/0x800720ae/",
+    "/win32/winerror-h/error_ds_invalid_role_owner/-2147016530/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\error_graphics_ddcci_invalid_message_checksum\0xc026258b\index.html.json
+
+title: 0xC026258B ERROR_GRAPHICS_DDCCI_INVALID_MESSAGE_CHECKSUM in winerror.h
+description: An error occurred because the checksum field in a DDC/CI message did not match the message's computed checksum value. This error implies that the data was corrupted while it was being transmitted from a monitor to a computer.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0xC026258B",
+  "codeUrl": "/win32/winerror-h/error_graphics_ddcci_invalid_message_checksum/0xc026258b/",
+  "numericCode": -1071241845,
+  "define": "ERROR_GRAPHICS_DDCCI_INVALID_MESSAGE_CHECKSUM",
+  "defineUrl": "/win32/winerror-h/error_graphics_ddcci_invalid_message_checksum/",
+  "message": "An error occurred because the checksum field in a DDC/CI message did not match the message's computed checksum value. This error implies that the data was corrupted while it was being transmitted from a monitor to a computer.",
+  "remarks": null,
+  "aka": [
+    "-1071241845"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_graphics_ddcci_invalid_message_checksum/-1071241845/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

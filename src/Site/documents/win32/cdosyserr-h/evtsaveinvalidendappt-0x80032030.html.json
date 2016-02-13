@@ -1,0 +1,29 @@
+---
+output: win32\cdosyserr-h\evtsaveinvalidendappt\0x80032030\index.html.json
+
+title: 0x80032030 evtSaveInvalidEndAppt in CDOSysErr.h
+description: An appointment with the subject "%1" was saved to mailbox %2. The end time and duration are missing. For the purposes of publishing free/busy information, this appointment has a duration of zero minutes. To correct this, please delete the appointment and recreate it.
+%n%nFor more information, click http:www.microsoft.com/contentredirect.asp.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "CDOSysErr.h",
+  "sourceUrl": "/win32/cdosyserr-h/",
+  "code": "0x80032030",
+  "codeUrl": "/win32/cdosyserr-h/evtsaveinvalidendappt/0x80032030/",
+  "numericCode": -2147278800,
+  "define": "evtSaveInvalidEndAppt",
+  "defineUrl": "/win32/cdosyserr-h/evtsaveinvalidendappt/",
+  "message": "An appointment with the subject \"%1\" was saved to mailbox %2. The end time and duration are missing. For the purposes of publishing free/busy information, this appointment has a duration of zero minutes. To correct this, please delete the appointment and recreate it.\r\n%n%nFor more information, click http:www.microsoft.com/contentredirect.asp.",
+  "remarks": null,
+  "aka": [
+    "-2147278800"
+  ],
+  "akaUrl": [
+    "/win32/cdosyserr-h/evtsaveinvalidendappt/-2147278800/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

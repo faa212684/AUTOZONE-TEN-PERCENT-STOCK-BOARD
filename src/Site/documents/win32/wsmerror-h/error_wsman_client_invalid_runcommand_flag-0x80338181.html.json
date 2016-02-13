@@ -1,0 +1,29 @@
+---
+output: win32\wsmerror-h\error_wsman_client_invalid_runcommand_flag\0x80338181\index.html.json
+
+title: 0x80338181 ERROR_WSMAN_CLIENT_INVALID_RUNCOMMAND_FLAG in wsmerror.h
+description: The WinRM client cannot process the request. An invalid flag was specified for the WSManRunShellCommand API call.
+Remove or change the invalid flag and try the call again.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x80338181",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_client_invalid_runcommand_flag/0x80338181/",
+  "numericCode": -2144108159,
+  "define": "ERROR_WSMAN_CLIENT_INVALID_RUNCOMMAND_FLAG",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_client_invalid_runcommand_flag/",
+  "message": "The WinRM client cannot process the request. An invalid flag was specified for the WSManRunShellCommand API call.\r\nRemove or change the invalid flag and try the call again.",
+  "remarks": null,
+  "aka": [
+    "-2144108159"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_client_invalid_runcommand_flag/-2144108159/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

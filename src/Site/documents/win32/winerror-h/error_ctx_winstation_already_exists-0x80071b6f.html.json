@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_ctx_winstation_already_exists\0x80071b6f\index.html.json
+canonical: /win32/winerror-h/error_ctx_winstation_already_exists/7023/
+title: 0x80071b6f ERROR_CTX_WINSTATION_ALREADY_EXISTS in winerror.h
+description: The specified session name is already in use.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80071b6f",
+  "codeUrl": "/win32/winerror-h/error_ctx_winstation_already_exists/0x80071b6f/",
+  "numericCode": 0,
+  "define": "ERROR_CTX_WINSTATION_ALREADY_EXISTS",
+  "defineUrl": "/win32/winerror-h/error_ctx_winstation_already_exists/",
+  "message": "The specified session name is already in use.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "7023",
+  "originalCodeUrl": "/win32/winerror-h/error_ctx_winstation_already_exists/7023/"
+}

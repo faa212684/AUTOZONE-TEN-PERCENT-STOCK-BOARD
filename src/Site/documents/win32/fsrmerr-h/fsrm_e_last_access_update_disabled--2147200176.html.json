@@ -1,0 +1,24 @@
+---
+output: win32\fsrmerr-h\fsrm_e_last_access_update_disabled\-2147200176\index.html.json
+canonical: /win32/fsrmerr-h/fsrm_e_last_access_update_disabled/0x80045350/
+title: -2147200176 FSRM_E_LAST_ACCESS_UPDATE_DISABLED in fsrmerr.h
+description: The updating of last access times is disabled on this server.  To create a report or file management task that uses the last access time the updating of last access time must be enabled.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "fsrmerr.h",
+  "sourceUrl": "/win32/fsrmerr-h/",
+  "code": "-2147200176",
+  "codeUrl": "/win32/fsrmerr-h/fsrm_e_last_access_update_disabled/-2147200176/",
+  "numericCode": 0,
+  "define": "FSRM_E_LAST_ACCESS_UPDATE_DISABLED",
+  "defineUrl": "/win32/fsrmerr-h/fsrm_e_last_access_update_disabled/",
+  "message": "The updating of last access times is disabled on this server.  To create a report or file management task that uses the last access time the updating of last access time must be enabled.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80045350",
+  "originalCodeUrl": "/win32/fsrmerr-h/fsrm_e_last_access_update_disabled/0x80045350/"
+}

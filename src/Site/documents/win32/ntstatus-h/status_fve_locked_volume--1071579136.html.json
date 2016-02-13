@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_fve_locked_volume\-1071579136\index.html.json
+canonical: /win32/ntstatus-h/status_fve_locked_volume/0xc0210000/
+title: -1071579136 STATUS_FVE_LOCKED_VOLUME in ntstatus.h
+description: This volume is locked by BitLocker Drive Encryption.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071579136",
+  "codeUrl": "/win32/ntstatus-h/status_fve_locked_volume/-1071579136/",
+  "numericCode": 0,
+  "define": "STATUS_FVE_LOCKED_VOLUME",
+  "defineUrl": "/win32/ntstatus-h/status_fve_locked_volume/",
+  "message": "This volume is locked by BitLocker Drive Encryption.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0210000",
+  "originalCodeUrl": "/win32/ntstatus-h/status_fve_locked_volume/0xc0210000/"
+}

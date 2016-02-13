@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_log_state_invalid\6643\index.html.json
+
+title: 6643 ERROR_LOG_STATE_INVALID in winerror.h
+description: Log service is not in the correct state to perform a requested action.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "6643",
+  "codeUrl": "/win32/winerror-h/error_log_state_invalid/6643/",
+  "numericCode": 6643,
+  "define": "ERROR_LOG_STATE_INVALID",
+  "defineUrl": "/win32/winerror-h/error_log_state_invalid/",
+  "message": "Log service is not in the correct state to perform a requested action.",
+  "remarks": null,
+  "aka": [
+    "0x800719f3",
+    "-2147018253"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_log_state_invalid/0x800719f3/",
+    "/win32/winerror-h/error_log_state_invalid/-2147018253/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

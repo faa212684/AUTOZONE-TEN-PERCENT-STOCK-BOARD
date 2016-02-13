@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_instruction_misalignment\0xc00000aa\index.html.json
+
+title: 0xC00000AA STATUS_INSTRUCTION_MISALIGNMENT in ntstatus.h
+description: An attempt was made to execute an instruction at an unaligned address and the host system does not support unaligned instruction references.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC00000AA",
+  "codeUrl": "/win32/ntstatus-h/status_instruction_misalignment/0xc00000aa/",
+  "numericCode": -1073741654,
+  "define": "STATUS_INSTRUCTION_MISALIGNMENT",
+  "defineUrl": "/win32/ntstatus-h/status_instruction_misalignment/",
+  "message": "An attempt was made to execute an instruction at an unaligned address and the host system does not support unaligned instruction references.",
+  "remarks": null,
+  "aka": [
+    "-1073741654"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_instruction_misalignment/-1073741654/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

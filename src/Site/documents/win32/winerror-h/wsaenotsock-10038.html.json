@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\wsaenotsock\10038\index.html.json
+
+title: 10038 WSAENOTSOCK in winerror.h
+description: An operation was attempted on something that is not a socket.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "10038",
+  "codeUrl": "/win32/winerror-h/wsaenotsock/10038/",
+  "numericCode": 10038,
+  "define": "WSAENOTSOCK",
+  "defineUrl": "/win32/winerror-h/wsaenotsock/",
+  "message": "An operation was attempted on something that is not a socket.",
+  "remarks": null,
+  "aka": [
+    "0x80072736",
+    "-2147014858"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/wsaenotsock/0x80072736/",
+    "/win32/winerror-h/wsaenotsock/-2147014858/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

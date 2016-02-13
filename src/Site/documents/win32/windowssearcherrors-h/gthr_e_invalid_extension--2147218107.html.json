@@ -1,0 +1,24 @@
+---
+output: win32\windowssearcherrors-h\gthr_e_invalid_extension\-2147218107\index.html.json
+canonical: /win32/windowssearcherrors-h/gthr_e_invalid_extension/0x80040d45/
+title: -2147218107 GTHR_E_INVALID_EXTENSION in WindowsSearchErrors.h
+description: The extension string is not specified or is invalid. Specify an extension string that does not contain the following characters: [./?*:\#] or spaces.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "-2147218107",
+  "codeUrl": "/win32/windowssearcherrors-h/gthr_e_invalid_extension/-2147218107/",
+  "numericCode": 0,
+  "define": "GTHR_E_INVALID_EXTENSION",
+  "defineUrl": "/win32/windowssearcherrors-h/gthr_e_invalid_extension/",
+  "message": "The extension string is not specified or is invalid. Specify an extension string that does not contain the following characters: [./?*:\\#] or spaces.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80040D45",
+  "originalCodeUrl": "/win32/windowssearcherrors-h/gthr_e_invalid_extension/0x80040d45/"
+}

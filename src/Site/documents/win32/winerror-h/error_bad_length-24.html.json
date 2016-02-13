@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_bad_length\24\index.html.json
+
+title: 24 ERROR_BAD_LENGTH in winerror.h
+description: The program issued a command but the command length is incorrect.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "24",
+  "codeUrl": "/win32/winerror-h/error_bad_length/24/",
+  "numericCode": 24,
+  "define": "ERROR_BAD_LENGTH",
+  "defineUrl": "/win32/winerror-h/error_bad_length/",
+  "message": "The program issued a command but the command length is incorrect.",
+  "remarks": null,
+  "aka": [
+    "0x80070018",
+    "-2147024872"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_bad_length/0x80070018/",
+    "/win32/winerror-h/error_bad_length/-2147024872/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

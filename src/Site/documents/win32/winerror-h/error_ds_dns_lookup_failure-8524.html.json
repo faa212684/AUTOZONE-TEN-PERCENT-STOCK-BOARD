@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ds_dns_lookup_failure\8524\index.html.json
+
+title: 8524 ERROR_DS_DNS_LOOKUP_FAILURE in winerror.h
+description: The DSA operation is unable to proceed because of a DNS lookup failure.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "8524",
+  "codeUrl": "/win32/winerror-h/error_ds_dns_lookup_failure/8524/",
+  "numericCode": 8524,
+  "define": "ERROR_DS_DNS_LOOKUP_FAILURE",
+  "defineUrl": "/win32/winerror-h/error_ds_dns_lookup_failure/",
+  "message": "The DSA operation is unable to proceed because of a DNS lookup failure.",
+  "remarks": null,
+  "aka": [
+    "0x8007214c",
+    "-2147016372"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ds_dns_lookup_failure/0x8007214c/",
+    "/win32/winerror-h/error_ds_dns_lookup_failure/-2147016372/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_e_volume_permanently_dismounted\0x8004245d\index.html.json
+
+title: 0x8004245D VDS_E_VOLUME_PERMANENTLY_DISMOUNTED in vdserr.h
+description: The volume is permanently dismounted.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x8004245D",
+  "codeUrl": "/win32/vdserr-h/vds_e_volume_permanently_dismounted/0x8004245d/",
+  "numericCode": -2147212195,
+  "define": "VDS_E_VOLUME_PERMANENTLY_DISMOUNTED",
+  "defineUrl": "/win32/vdserr-h/vds_e_volume_permanently_dismounted/",
+  "message": "The volume is permanently dismounted.",
+  "remarks": null,
+  "aka": [
+    "-2147212195"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_volume_permanently_dismounted/-2147212195/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

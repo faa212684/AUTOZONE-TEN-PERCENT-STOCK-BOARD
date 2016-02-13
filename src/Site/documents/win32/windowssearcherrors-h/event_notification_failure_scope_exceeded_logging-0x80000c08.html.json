@@ -1,0 +1,28 @@
+---
+output: win32\windowssearcherrors-h\event_notification_failure_scope_exceeded_logging\0x80000c08\index.html.json
+
+title: 0x80000C08 EVENT_NOTIFICATION_FAILURE_SCOPE_EXCEEDED_LOGGING in WindowsSearchErrors.h
+description: Notifications for the scope %2 are not active. The event logging threshold for this scope was exceeded.  No further events will be sent for one hour. %1
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "0x80000C08",
+  "codeUrl": "/win32/windowssearcherrors-h/event_notification_failure_scope_exceeded_logging/0x80000c08/",
+  "numericCode": -2147480568,
+  "define": "EVENT_NOTIFICATION_FAILURE_SCOPE_EXCEEDED_LOGGING",
+  "defineUrl": "/win32/windowssearcherrors-h/event_notification_failure_scope_exceeded_logging/",
+  "message": "Notifications for the scope %2 are not active. The event logging threshold for this scope was exceeded.  No further events will be sent for one hour. %1",
+  "remarks": null,
+  "aka": [
+    "-2147480568"
+  ],
+  "akaUrl": [
+    "/win32/windowssearcherrors-h/event_notification_failure_scope_exceeded_logging/-2147480568/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

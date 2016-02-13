@@ -1,0 +1,28 @@
+---
+output: win32\cdosyserr-h\cdo_e_nntp_post_failed\0x80040210\index.html.json
+
+title: 0x80040210 CDO_E_NNTP_POST_FAILED in CDOSysErr.h
+description: The message could not be posted to the NNTP server. The transport error code was %2. The server response was %1
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "CDOSysErr.h",
+  "sourceUrl": "/win32/cdosyserr-h/",
+  "code": "0x80040210",
+  "codeUrl": "/win32/cdosyserr-h/cdo_e_nntp_post_failed/0x80040210/",
+  "numericCode": -2147220976,
+  "define": "CDO_E_NNTP_POST_FAILED",
+  "defineUrl": "/win32/cdosyserr-h/cdo_e_nntp_post_failed/",
+  "message": "The message could not be posted to the NNTP server. The transport error code was %2. The server response was %1",
+  "remarks": null,
+  "aka": [
+    "-2147220976"
+  ],
+  "akaUrl": [
+    "/win32/cdosyserr-h/cdo_e_nntp_post_failed/-2147220976/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

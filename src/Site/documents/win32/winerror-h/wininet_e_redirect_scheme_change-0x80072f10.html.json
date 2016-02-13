@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\wininet_e_redirect_scheme_change\0x80072f10\index.html.json
+
+title: 0x80072F10 WININET_E_REDIRECT_SCHEME_CHANGE in winerror.h
+description: The protocol scheme has changed during a redirect operaiton
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80072F10",
+  "codeUrl": "/win32/winerror-h/wininet_e_redirect_scheme_change/0x80072f10/",
+  "numericCode": -2147012848,
+  "define": "WININET_E_REDIRECT_SCHEME_CHANGE",
+  "defineUrl": "/win32/winerror-h/wininet_e_redirect_scheme_change/",
+  "message": "The protocol scheme has changed during a redirect operaiton",
+  "remarks": null,
+  "aka": [
+    "-2147012848"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/wininet_e_redirect_scheme_change/-2147012848/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

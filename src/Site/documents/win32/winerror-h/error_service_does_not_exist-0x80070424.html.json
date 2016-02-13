@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_service_does_not_exist\0x80070424\index.html.json
+canonical: /win32/winerror-h/error_service_does_not_exist/1060/
+title: 0x80070424 ERROR_SERVICE_DOES_NOT_EXIST in winerror.h
+description: The specified service does not exist as an installed service.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80070424",
+  "codeUrl": "/win32/winerror-h/error_service_does_not_exist/0x80070424/",
+  "numericCode": 0,
+  "define": "ERROR_SERVICE_DOES_NOT_EXIST",
+  "defineUrl": "/win32/winerror-h/error_service_does_not_exist/",
+  "message": "The specified service does not exist as an installed service.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "1060",
+  "originalCodeUrl": "/win32/winerror-h/error_service_does_not_exist/1060/"
+}

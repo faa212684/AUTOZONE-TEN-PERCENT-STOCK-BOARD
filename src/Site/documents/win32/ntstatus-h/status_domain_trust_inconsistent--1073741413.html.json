@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_domain_trust_inconsistent\-1073741413\index.html.json
+canonical: /win32/ntstatus-h/status_domain_trust_inconsistent/0xc000019b/
+title: -1073741413 STATUS_DOMAIN_TRUST_INCONSISTENT in ntstatus.h
+description: The name or SID of the domain specified is inconsistent with the trust information for that domain.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741413",
+  "codeUrl": "/win32/ntstatus-h/status_domain_trust_inconsistent/-1073741413/",
+  "numericCode": 0,
+  "define": "STATUS_DOMAIN_TRUST_INCONSISTENT",
+  "defineUrl": "/win32/ntstatus-h/status_domain_trust_inconsistent/",
+  "message": "The name or SID of the domain specified is inconsistent with the trust information for that domain.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC000019B",
+  "originalCodeUrl": "/win32/ntstatus-h/status_domain_trust_inconsistent/0xc000019b/"
+}

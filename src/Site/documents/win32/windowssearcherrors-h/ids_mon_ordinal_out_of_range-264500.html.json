@@ -1,0 +1,24 @@
+---
+output: win32\windowssearcherrors-h\ids_mon_ordinal_out_of_range\264500\index.html.json
+canonical: /win32/windowssearcherrors-h/ids_mon_ordinal_out_of_range/0x00040934/
+title: 264500 IDS_MON_ORDINAL_OUT_OF_RANGE in WindowsSearchErrors.h
+description: ORDER BY ordinal (%1) must be between 1 and %2. SQLSTATE=42000
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "264500",
+  "codeUrl": "/win32/windowssearcherrors-h/ids_mon_ordinal_out_of_range/264500/",
+  "numericCode": 0,
+  "define": "IDS_MON_ORDINAL_OUT_OF_RANGE",
+  "defineUrl": "/win32/windowssearcherrors-h/ids_mon_ordinal_out_of_range/",
+  "message": "ORDER BY ordinal (%1) must be between 1 and %2. SQLSTATE=42000",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x00040934",
+  "originalCodeUrl": "/win32/windowssearcherrors-h/ids_mon_ordinal_out_of_range/0x00040934/"
+}

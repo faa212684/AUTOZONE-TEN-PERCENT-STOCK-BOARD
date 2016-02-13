@@ -1,0 +1,31 @@
+---
+output: win32\winerror-h\error_handles_closed\676\index.html.json
+
+title: 676 ERROR_HANDLES_CLOSED in winerror.h
+description: "{Handles Closed}
+Handles to objects have been automatically closed as a result of the requested operation."
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "676",
+  "codeUrl": "/win32/winerror-h/error_handles_closed/676/",
+  "numericCode": 676,
+  "define": "ERROR_HANDLES_CLOSED",
+  "defineUrl": "/win32/winerror-h/error_handles_closed/",
+  "message": "{Handles Closed}\r\nHandles to objects have been automatically closed as a result of the requested operation.",
+  "remarks": null,
+  "aka": [
+    "0x800702a4",
+    "-2147024220"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_handles_closed/0x800702a4/",
+    "/win32/winerror-h/error_handles_closed/-2147024220/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

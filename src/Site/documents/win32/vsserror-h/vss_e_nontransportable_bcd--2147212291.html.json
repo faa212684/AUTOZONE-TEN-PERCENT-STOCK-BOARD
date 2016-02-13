@@ -1,0 +1,24 @@
+---
+output: win32\vsserror-h\vss_e_nontransportable_bcd\-2147212291\index.html.json
+canonical: /win32/vsserror-h/vss_e_nontransportable_bcd/0x800423fd/
+title: -2147212291 VSS_E_NONTRANSPORTABLE_BCD in vsserror.h
+description: The given Backup Components Document is for a non-transportable shadow copy. This operation can only be done on transportable shadow copies.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vsserror.h",
+  "sourceUrl": "/win32/vsserror-h/",
+  "code": "-2147212291",
+  "codeUrl": "/win32/vsserror-h/vss_e_nontransportable_bcd/-2147212291/",
+  "numericCode": 0,
+  "define": "VSS_E_NONTRANSPORTABLE_BCD",
+  "defineUrl": "/win32/vsserror-h/vss_e_nontransportable_bcd/",
+  "message": "The given Backup Components Document is for a non-transportable shadow copy. This operation can only be done on transportable shadow copies.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x800423FD",
+  "originalCodeUrl": "/win32/vsserror-h/vss_e_nontransportable_bcd/0x800423fd/"
+}

@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_cluster_incompatible_versions\5075\index.html.json
+
+title: 5075 ERROR_CLUSTER_INCOMPATIBLE_VERSIONS in winerror.h
+description: The cluster join operation failed due to incompatible software versions between the joining node and its sponsor.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "5075",
+  "codeUrl": "/win32/winerror-h/error_cluster_incompatible_versions/5075/",
+  "numericCode": 5075,
+  "define": "ERROR_CLUSTER_INCOMPATIBLE_VERSIONS",
+  "defineUrl": "/win32/winerror-h/error_cluster_incompatible_versions/",
+  "message": "The cluster join operation failed due to incompatible software versions between the joining node and its sponsor.",
+  "remarks": null,
+  "aka": [
+    "0x800713d3",
+    "-2147019821"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_cluster_incompatible_versions/0x800713d3/",
+    "/win32/winerror-h/error_cluster_incompatible_versions/-2147019821/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

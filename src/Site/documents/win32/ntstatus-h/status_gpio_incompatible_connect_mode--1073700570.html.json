@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_gpio_incompatible_connect_mode\-1073700570\index.html.json
+canonical: /win32/ntstatus-h/status_gpio_incompatible_connect_mode/0xc000a126/
+title: -1073700570 STATUS_GPIO_INCOMPATIBLE_CONNECT_MODE in ntstatus.h
+description: The requested connect mode conflicts with an existing mode on one or more of the specified pins.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073700570",
+  "codeUrl": "/win32/ntstatus-h/status_gpio_incompatible_connect_mode/-1073700570/",
+  "numericCode": 0,
+  "define": "STATUS_GPIO_INCOMPATIBLE_CONNECT_MODE",
+  "defineUrl": "/win32/ntstatus-h/status_gpio_incompatible_connect_mode/",
+  "message": "The requested connect mode conflicts with an existing mode on one or more of the specified pins.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC000A126",
+  "originalCodeUrl": "/win32/ntstatus-h/status_gpio_incompatible_connect_mode/0xc000a126/"
+}

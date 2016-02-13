@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_logon_type_not_granted\-1073741477\index.html.json
+canonical: /win32/ntstatus-h/status_logon_type_not_granted/0xc000015b/
+title: -1073741477 STATUS_LOGON_TYPE_NOT_GRANTED in ntstatus.h
+description: A user has requested a type of logon (e.g., interactive or network) that has not been granted. An administrator has control over who may logon interactively and through the network.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741477",
+  "codeUrl": "/win32/ntstatus-h/status_logon_type_not_granted/-1073741477/",
+  "numericCode": 0,
+  "define": "STATUS_LOGON_TYPE_NOT_GRANTED",
+  "defineUrl": "/win32/ntstatus-h/status_logon_type_not_granted/",
+  "message": "A user has requested a type of logon (e.g., interactive or network) that has not been granted. An administrator has control over who may logon interactively and through the network.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC000015B",
+  "originalCodeUrl": "/win32/ntstatus-h/status_logon_type_not_granted/0xc000015b/"
+}

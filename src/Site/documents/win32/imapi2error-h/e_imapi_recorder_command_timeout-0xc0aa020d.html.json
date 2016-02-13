@@ -1,0 +1,28 @@
+---
+output: win32\imapi2error-h\e_imapi_recorder_command_timeout\0xc0aa020d\index.html.json
+
+title: 0xC0AA020D E_IMAPI_RECORDER_COMMAND_TIMEOUT in imapi2error.h
+description: The device failed to accept the command within the timeout period. This may be caused by the device having entered an inconsistent state, or the timeout value for the command may need to be increased.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "imapi2error.h",
+  "sourceUrl": "/win32/imapi2error-h/",
+  "code": "0xC0AA020D",
+  "codeUrl": "/win32/imapi2error-h/e_imapi_recorder_command_timeout/0xc0aa020d/",
+  "numericCode": -1062600179,
+  "define": "E_IMAPI_RECORDER_COMMAND_TIMEOUT",
+  "defineUrl": "/win32/imapi2error-h/e_imapi_recorder_command_timeout/",
+  "message": "The device failed to accept the command within the timeout period. This may be caused by the device having entered an inconsistent state, or the timeout value for the command may need to be increased.",
+  "remarks": null,
+  "aka": [
+    "-1062600179"
+  ],
+  "akaUrl": [
+    "/win32/imapi2error-h/e_imapi_recorder_command_timeout/-1062600179/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\fve_e_no_autounlock_master_key\-2144272300\index.html.json
+canonical: /win32/winerror-h/fve_e_no_autounlock_master_key/0x80310054/
+title: -2144272300 FVE_E_NO_AUTOUNLOCK_MASTER_KEY in winerror.h
+description: The auto-unlock master key was not available from the operating system drive.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2144272300",
+  "codeUrl": "/win32/winerror-h/fve_e_no_autounlock_master_key/-2144272300/",
+  "numericCode": 0,
+  "define": "FVE_E_NO_AUTOUNLOCK_MASTER_KEY",
+  "defineUrl": "/win32/winerror-h/fve_e_no_autounlock_master_key/",
+  "message": "The auto-unlock master key was not available from the operating system drive.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80310054",
+  "originalCodeUrl": "/win32/winerror-h/fve_e_no_autounlock_master_key/0x80310054/"
+}

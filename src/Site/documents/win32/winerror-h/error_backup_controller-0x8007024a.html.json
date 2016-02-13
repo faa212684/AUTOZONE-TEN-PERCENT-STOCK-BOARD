@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_backup_controller\0x8007024a\index.html.json
+canonical: /win32/winerror-h/error_backup_controller/586/
+title: 0x8007024a ERROR_BACKUP_CONTROLLER in winerror.h
+description: This operation is only allowed for the Primary Domain Controller of the domain.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007024a",
+  "codeUrl": "/win32/winerror-h/error_backup_controller/0x8007024a/",
+  "numericCode": 0,
+  "define": "ERROR_BACKUP_CONTROLLER",
+  "defineUrl": "/win32/winerror-h/error_backup_controller/",
+  "message": "This operation is only allowed for the Primary Domain Controller of the domain.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "586",
+  "originalCodeUrl": "/win32/winerror-h/error_backup_controller/586/"
+}

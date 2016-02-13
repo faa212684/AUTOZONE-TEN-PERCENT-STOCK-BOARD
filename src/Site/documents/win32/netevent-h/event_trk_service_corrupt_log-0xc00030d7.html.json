@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_trk_service_corrupt_log\0xc00030d7\index.html.json
+
+title: 0xC00030D7 EVENT_TRK_SERVICE_CORRUPT_LOG in netevent.h
+description: The Distributed Link Tracking log was corrupt on volume %1: and has been re-created.  This log is used to automatically repair file links, such as Shell Shortcuts and OLE links, when for some reason those links become broken.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC00030D7",
+  "codeUrl": "/win32/netevent-h/event_trk_service_corrupt_log/0xc00030d7/",
+  "numericCode": -1073729321,
+  "define": "EVENT_TRK_SERVICE_CORRUPT_LOG",
+  "defineUrl": "/win32/netevent-h/event_trk_service_corrupt_log/",
+  "message": "The Distributed Link Tracking log was corrupt on volume %1: and has been re-created.  This log is used to automatically repair file links, such as Shell Shortcuts and OLE links, when for some reason those links become broken.",
+  "remarks": null,
+  "aka": [
+    "-1073729321"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_trk_service_corrupt_log/-1073729321/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

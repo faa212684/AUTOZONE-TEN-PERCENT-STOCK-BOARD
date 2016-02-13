@@ -1,0 +1,25 @@
+---
+output: win32\vdserr-h\vds_s_resync_notification_task_failed\271738\index.html.json
+canonical: /win32/vdserr-h/vds_s_resync_notification_task_failed/0x0004257a/
+title: 271738 VDS_S_RESYNC_NOTIFICATION_TASK_FAILED in vdserr.h
+description: Failure. If the volume is a mirror volume or a raid5 volume, no 
+resynchronization notifications will be sent.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "271738",
+  "codeUrl": "/win32/vdserr-h/vds_s_resync_notification_task_failed/271738/",
+  "numericCode": 0,
+  "define": "VDS_S_RESYNC_NOTIFICATION_TASK_FAILED",
+  "defineUrl": "/win32/vdserr-h/vds_s_resync_notification_task_failed/",
+  "message": "Failure. If the volume is a mirror volume or a raid5 volume, no \r\nresynchronization notifications will be sent.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x0004257A",
+  "originalCodeUrl": "/win32/vdserr-h/vds_s_resync_notification_task_failed/0x0004257a/"
+}

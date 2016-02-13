@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_disk_repair_disabled\780\index.html.json
+
+title: 780 ERROR_DISK_REPAIR_DISABLED in winerror.h
+description: The attempted operation required self healing to be enabled.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "780",
+  "codeUrl": "/win32/winerror-h/error_disk_repair_disabled/780/",
+  "numericCode": 780,
+  "define": "ERROR_DISK_REPAIR_DISABLED",
+  "defineUrl": "/win32/winerror-h/error_disk_repair_disabled/",
+  "message": "The attempted operation required self healing to be enabled.",
+  "remarks": null,
+  "aka": [
+    "0x8007030c",
+    "-2147024116"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_disk_repair_disabled/0x8007030c/",
+    "/win32/winerror-h/error_disk_repair_disabled/-2147024116/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

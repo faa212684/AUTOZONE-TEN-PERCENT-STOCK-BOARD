@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\wsaeprotonosupport\0x8007273b\index.html.json
+canonical: /win32/winerror-h/wsaeprotonosupport/10043/
+title: 0x8007273b WSAEPROTONOSUPPORT in winerror.h
+description: The requested protocol has not been configured into the system, or no implementation for it exists.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007273b",
+  "codeUrl": "/win32/winerror-h/wsaeprotonosupport/0x8007273b/",
+  "numericCode": 0,
+  "define": "WSAEPROTONOSUPPORT",
+  "defineUrl": "/win32/winerror-h/wsaeprotonosupport/",
+  "message": "The requested protocol has not been configured into the system, or no implementation for it exists.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "10043",
+  "originalCodeUrl": "/win32/winerror-h/wsaeprotonosupport/10043/"
+}

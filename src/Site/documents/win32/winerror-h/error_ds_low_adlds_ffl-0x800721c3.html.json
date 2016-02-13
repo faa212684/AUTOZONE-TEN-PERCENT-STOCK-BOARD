@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_ds_low_adlds_ffl\0x800721c3\index.html.json
+canonical: /win32/winerror-h/error_ds_low_adlds_ffl/8643/
+title: 0x800721c3 ERROR_DS_LOW_ADLDS_FFL in winerror.h
+description: The functional level of the AD LDS configuration set cannot be raised to the requested value, because there exist one or more ADLDS instances that are at a lower incompatible functional level.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800721c3",
+  "codeUrl": "/win32/winerror-h/error_ds_low_adlds_ffl/0x800721c3/",
+  "numericCode": 0,
+  "define": "ERROR_DS_LOW_ADLDS_FFL",
+  "defineUrl": "/win32/winerror-h/error_ds_low_adlds_ffl/",
+  "message": "The functional level of the AD LDS configuration set cannot be raised to the requested value, because there exist one or more ADLDS instances that are at a lower incompatible functional level.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "8643",
+  "originalCodeUrl": "/win32/winerror-h/error_ds_low_adlds_ffl/8643/"
+}

@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_unable_to_lock_media\0xc0000175\index.html.json
+
+title: 0xC0000175 STATUS_UNABLE_TO_LOCK_MEDIA in ntstatus.h
+description: Attempt to lock the eject media mechanism fails.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000175",
+  "codeUrl": "/win32/ntstatus-h/status_unable_to_lock_media/0xc0000175/",
+  "numericCode": -1073741451,
+  "define": "STATUS_UNABLE_TO_LOCK_MEDIA",
+  "defineUrl": "/win32/ntstatus-h/status_unable_to_lock_media/",
+  "message": "Attempt to lock the eject media mechanism fails.",
+  "remarks": null,
+  "aka": [
+    "-1073741451"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_unable_to_lock_media/-1073741451/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

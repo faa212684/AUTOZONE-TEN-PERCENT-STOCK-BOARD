@@ -1,0 +1,27 @@
+---
+output: win32\winerror-h\error_registry_hive_recovered\0x800702ad\index.html.json
+canonical: /win32/winerror-h/error_registry_hive_recovered/685/
+title: 0x800702ad ERROR_REGISTRY_HIVE_RECOVERED in winerror.h
+description: "{Registry Hive Recovered}
+Registry hive (file):
+%hs
+was corrupted and it has been recovered. Some data might have been lost."
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800702ad",
+  "codeUrl": "/win32/winerror-h/error_registry_hive_recovered/0x800702ad/",
+  "numericCode": 0,
+  "define": "ERROR_REGISTRY_HIVE_RECOVERED",
+  "defineUrl": "/win32/winerror-h/error_registry_hive_recovered/",
+  "message": "{Registry Hive Recovered}\r\nRegistry hive (file):\r\n%hs\r\nwas corrupted and it has been recovered. Some data might have been lost.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "685",
+  "originalCodeUrl": "/win32/winerror-h/error_registry_hive_recovered/685/"
+}

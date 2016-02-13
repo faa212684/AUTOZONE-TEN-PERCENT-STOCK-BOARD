@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\rpc_nt_call_failed_dne\0xc002001c\index.html.json
+
+title: 0xC002001C RPC_NT_CALL_FAILED_DNE in ntstatus.h
+description: The remote procedure call failed and did not execute.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC002001C",
+  "codeUrl": "/win32/ntstatus-h/rpc_nt_call_failed_dne/0xc002001c/",
+  "numericCode": -1073610724,
+  "define": "RPC_NT_CALL_FAILED_DNE",
+  "defineUrl": "/win32/ntstatus-h/rpc_nt_call_failed_dne/",
+  "message": "The remote procedure call failed and did not execute.",
+  "remarks": null,
+  "aka": [
+    "-1073610724"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/rpc_nt_call_failed_dne/-1073610724/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

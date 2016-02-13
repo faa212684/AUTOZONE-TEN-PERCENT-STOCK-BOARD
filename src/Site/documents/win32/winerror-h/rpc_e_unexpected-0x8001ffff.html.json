@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\rpc_e_unexpected\0x8001ffff\index.html.json
+
+title: 0x8001FFFF RPC_E_UNEXPECTED in winerror.h
+description: An internal error occurred.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8001FFFF",
+  "codeUrl": "/win32/winerror-h/rpc_e_unexpected/0x8001ffff/",
+  "numericCode": -2147352577,
+  "define": "RPC_E_UNEXPECTED",
+  "defineUrl": "/win32/winerror-h/rpc_e_unexpected/",
+  "message": "An internal error occurred.",
+  "remarks": null,
+  "aka": [
+    "-2147352577"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/rpc_e_unexpected/-2147352577/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

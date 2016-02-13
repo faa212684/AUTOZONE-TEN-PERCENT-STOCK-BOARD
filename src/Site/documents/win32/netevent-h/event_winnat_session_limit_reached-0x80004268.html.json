@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_winnat_session_limit_reached\0x80004268\index.html.json
+
+title: 0x80004268 EVENT_WINNAT_SESSION_LIMIT_REACHED in netevent.h
+description: WinNat session limit has been reached.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x80004268",
+  "codeUrl": "/win32/netevent-h/event_winnat_session_limit_reached/0x80004268/",
+  "numericCode": -2147466648,
+  "define": "EVENT_WINNAT_SESSION_LIMIT_REACHED",
+  "defineUrl": "/win32/netevent-h/event_winnat_session_limit_reached/",
+  "message": "WinNat session limit has been reached.",
+  "remarks": null,
+  "aka": [
+    "-2147466648"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_winnat_session_limit_reached/-2147466648/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

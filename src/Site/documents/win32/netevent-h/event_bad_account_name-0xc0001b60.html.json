@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_bad_account_name\0xc0001b60\index.html.json
+
+title: 0xC0001B60 EVENT_BAD_ACCOUNT_NAME in netevent.h
+description: No backslash is in the account name.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC0001B60",
+  "codeUrl": "/win32/netevent-h/event_bad_account_name/0xc0001b60/",
+  "numericCode": -1073734816,
+  "define": "EVENT_BAD_ACCOUNT_NAME",
+  "defineUrl": "/win32/netevent-h/event_bad_account_name/",
+  "message": "No backslash is in the account name.",
+  "remarks": null,
+  "aka": [
+    "-1073734816"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_bad_account_name/-1073734816/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

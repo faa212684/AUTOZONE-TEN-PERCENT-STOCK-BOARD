@@ -1,0 +1,28 @@
+---
+output: win32\bitsmsg-h\bg_e_overlapping_ranges\0x8020002c\index.html.json
+
+title: 0x8020002C BG_E_OVERLAPPING_RANGES in BitsMsg.h
+description: The list of byte ranges contains some overlapping ranges, which are not supported.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "BitsMsg.h",
+  "sourceUrl": "/win32/bitsmsg-h/",
+  "code": "0x8020002C",
+  "codeUrl": "/win32/bitsmsg-h/bg_e_overlapping_ranges/0x8020002c/",
+  "numericCode": -2145386452,
+  "define": "BG_E_OVERLAPPING_RANGES",
+  "defineUrl": "/win32/bitsmsg-h/bg_e_overlapping_ranges/",
+  "message": "The list of byte ranges contains some overlapping ranges, which are not supported.",
+  "remarks": null,
+  "aka": [
+    "-2145386452"
+  ],
+  "akaUrl": [
+    "/win32/bitsmsg-h/bg_e_overlapping_ranges/-2145386452/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

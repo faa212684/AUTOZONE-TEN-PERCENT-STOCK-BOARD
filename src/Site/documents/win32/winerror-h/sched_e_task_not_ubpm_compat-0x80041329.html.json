@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\sched_e_task_not_ubpm_compat\0x80041329\index.html.json
+
+title: 0x80041329 SCHED_E_TASK_NOT_UBPM_COMPAT in winerror.h
+description: The combination of properties that task is using is not compatible with the scheduling engine.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80041329",
+  "codeUrl": "/win32/winerror-h/sched_e_task_not_ubpm_compat/0x80041329/",
+  "numericCode": -2147216599,
+  "define": "SCHED_E_TASK_NOT_UBPM_COMPAT",
+  "defineUrl": "/win32/winerror-h/sched_e_task_not_ubpm_compat/",
+  "message": "The combination of properties that task is using is not compatible with the scheduling engine.",
+  "remarks": null,
+  "aka": [
+    "-2147216599"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/sched_e_task_not_ubpm_compat/-2147216599/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

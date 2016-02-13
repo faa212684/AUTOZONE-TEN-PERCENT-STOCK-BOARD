@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\error_hv_insufficient_memory\0xc035000b\index.html.json
+
+title: 0xC035000B ERROR_HV_INSUFFICIENT_MEMORY in winerror.h
+description: There is not enough memory in the hypervisor pool to complete the operation.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0xC035000B",
+  "codeUrl": "/win32/winerror-h/error_hv_insufficient_memory/0xc035000b/",
+  "numericCode": -1070268405,
+  "define": "ERROR_HV_INSUFFICIENT_MEMORY",
+  "defineUrl": "/win32/winerror-h/error_hv_insufficient_memory/",
+  "message": "There is not enough memory in the hypervisor pool to complete the operation.",
+  "remarks": null,
+  "aka": [
+    "-1070268405"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_hv_insufficient_memory/-1070268405/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\persist_e_notselfsizing\0x800b000b\index.html.json
+
+title: 0x800B000B PERSIST_E_NOTSELFSIZING in winerror.h
+description: This object does not read and write self-sizing data.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800B000B",
+  "codeUrl": "/win32/winerror-h/persist_e_notselfsizing/0x800b000b/",
+  "numericCode": -2146762741,
+  "define": "PERSIST_E_NOTSELFSIZING",
+  "defineUrl": "/win32/winerror-h/persist_e_notselfsizing/",
+  "message": "This object does not read and write self-sizing data.",
+  "remarks": null,
+  "aka": [
+    "-2146762741"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/persist_e_notselfsizing/-2146762741/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

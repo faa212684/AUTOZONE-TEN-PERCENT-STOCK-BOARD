@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ds_no_rids_allocated\8208\index.html.json
+
+title: 8208 ERROR_DS_NO_RIDS_ALLOCATED in winerror.h
+description: The directory service was unable to allocate a relative identifier.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "8208",
+  "codeUrl": "/win32/winerror-h/error_ds_no_rids_allocated/8208/",
+  "numericCode": 8208,
+  "define": "ERROR_DS_NO_RIDS_ALLOCATED",
+  "defineUrl": "/win32/winerror-h/error_ds_no_rids_allocated/",
+  "message": "The directory service was unable to allocate a relative identifier.",
+  "remarks": null,
+  "aka": [
+    "0x80072010",
+    "-2147016688"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ds_no_rids_allocated/0x80072010/",
+    "/win32/winerror-h/error_ds_no_rids_allocated/-2147016688/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

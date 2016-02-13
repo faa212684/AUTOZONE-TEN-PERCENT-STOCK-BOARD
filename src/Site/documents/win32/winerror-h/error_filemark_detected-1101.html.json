@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_filemark_detected\1101\index.html.json
+
+title: 1101 ERROR_FILEMARK_DETECTED in winerror.h
+description: A tape access reached a filemark.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1101",
+  "codeUrl": "/win32/winerror-h/error_filemark_detected/1101/",
+  "numericCode": 1101,
+  "define": "ERROR_FILEMARK_DETECTED",
+  "defineUrl": "/win32/winerror-h/error_filemark_detected/",
+  "message": "A tape access reached a filemark.",
+  "remarks": null,
+  "aka": [
+    "0x8007044d",
+    "-2147023795"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_filemark_detected/0x8007044d/",
+    "/win32/winerror-h/error_filemark_detected/-2147023795/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

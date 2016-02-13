@@ -1,0 +1,24 @@
+---
+output: win32\windowssearcherrors-h\gthr_e_notification_local_path_must_use_fixed_drive\-2147218039\index.html.json
+canonical: /win32/windowssearcherrors-h/gthr_e_notification_local_path_must_use_fixed_drive/0x80040d89/
+title: -2147218039 GTHR_E_NOTIFICATION_LOCAL_PATH_MUST_USE_FIXED_DRIVE in WindowsSearchErrors.h
+description: Alerts for a content source with a local address are only supported for a fixed media drive type. Use the UNC name for remote file shares.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "-2147218039",
+  "codeUrl": "/win32/windowssearcherrors-h/gthr_e_notification_local_path_must_use_fixed_drive/-2147218039/",
+  "numericCode": 0,
+  "define": "GTHR_E_NOTIFICATION_LOCAL_PATH_MUST_USE_FIXED_DRIVE",
+  "defineUrl": "/win32/windowssearcherrors-h/gthr_e_notification_local_path_must_use_fixed_drive/",
+  "message": "Alerts for a content source with a local address are only supported for a fixed media drive type. Use the UNC name for remote file shares.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80040D89",
+  "originalCodeUrl": "/win32/windowssearcherrors-h/gthr_e_notification_local_path_must_use_fixed_drive/0x80040d89/"
+}

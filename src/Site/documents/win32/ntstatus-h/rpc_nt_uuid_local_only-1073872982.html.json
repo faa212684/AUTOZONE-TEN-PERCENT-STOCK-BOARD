@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\rpc_nt_uuid_local_only\1073872982\index.html.json
+canonical: /win32/ntstatus-h/rpc_nt_uuid_local_only/0x40020056/
+title: 1073872982 RPC_NT_UUID_LOCAL_ONLY in ntstatus.h
+description: A UUID that is valid only on this computer has been allocated.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "1073872982",
+  "codeUrl": "/win32/ntstatus-h/rpc_nt_uuid_local_only/1073872982/",
+  "numericCode": 0,
+  "define": "RPC_NT_UUID_LOCAL_ONLY",
+  "defineUrl": "/win32/ntstatus-h/rpc_nt_uuid_local_only/",
+  "message": "A UUID that is valid only on this computer has been allocated.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x40020056",
+  "originalCodeUrl": "/win32/ntstatus-h/rpc_nt_uuid_local_only/0x40020056/"
+}

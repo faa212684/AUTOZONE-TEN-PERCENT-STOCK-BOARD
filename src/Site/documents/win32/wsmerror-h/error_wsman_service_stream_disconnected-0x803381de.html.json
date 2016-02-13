@@ -1,0 +1,28 @@
+---
+output: win32\wsmerror-h\error_wsman_service_stream_disconnected\0x803381de\index.html.json
+
+title: 0x803381DE ERROR_WSMAN_SERVICE_STREAM_DISCONNECTED in wsmerror.h
+description: The WS-Management service cannot process the request because the stream is currently disconnected.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x803381DE",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_service_stream_disconnected/0x803381de/",
+  "numericCode": -2144108066,
+  "define": "ERROR_WSMAN_SERVICE_STREAM_DISCONNECTED",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_service_stream_disconnected/",
+  "message": "The WS-Management service cannot process the request because the stream is currently disconnected.",
+  "remarks": null,
+  "aka": [
+    "-2144108066"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_service_stream_disconnected/-2144108066/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

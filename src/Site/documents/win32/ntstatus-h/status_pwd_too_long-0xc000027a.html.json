@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_pwd_too_long\0xc000027a\index.html.json
+
+title: 0xC000027A STATUS_PWD_TOO_LONG in ntstatus.h
+description: The password provided is too long to meet the policy of your user account. Please choose a shorter password.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000027A",
+  "codeUrl": "/win32/ntstatus-h/status_pwd_too_long/0xc000027a/",
+  "numericCode": -1073741190,
+  "define": "STATUS_PWD_TOO_LONG",
+  "defineUrl": "/win32/ntstatus-h/status_pwd_too_long/",
+  "message": "The password provided is too long to meet the policy of your user account. Please choose a shorter password.",
+  "remarks": null,
+  "aka": [
+    "-1073741190"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_pwd_too_long/-1073741190/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

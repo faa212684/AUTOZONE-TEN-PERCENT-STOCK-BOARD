@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_graphics_cant_evict_pinned_allocation\-1071775479\index.html.json
+canonical: /win32/ntstatus-h/status_graphics_cant_evict_pinned_allocation/0xc01e0109/
+title: -1071775479 STATUS_GRAPHICS_CANT_EVICT_PINNED_ALLOCATION in ntstatus.h
+description: The request failed because a pinned allocation can't be evicted.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071775479",
+  "codeUrl": "/win32/ntstatus-h/status_graphics_cant_evict_pinned_allocation/-1071775479/",
+  "numericCode": 0,
+  "define": "STATUS_GRAPHICS_CANT_EVICT_PINNED_ALLOCATION",
+  "defineUrl": "/win32/ntstatus-h/status_graphics_cant_evict_pinned_allocation/",
+  "message": "The request failed because a pinned allocation can't be evicted.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC01E0109",
+  "originalCodeUrl": "/win32/ntstatus-h/status_graphics_cant_evict_pinned_allocation/0xc01e0109/"
+}

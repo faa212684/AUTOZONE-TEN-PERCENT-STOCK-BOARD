@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_lm_cross_encryption_required\-1073741441\index.html.json
+canonical: /win32/ntstatus-h/status_lm_cross_encryption_required/0xc000017f/
+title: -1073741441 STATUS_LM_CROSS_ENCRYPTION_REQUIRED in ntstatus.h
+description: An attempt was made to change a user password in the security account manager without providing the necessary LM cross-encrypted password.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741441",
+  "codeUrl": "/win32/ntstatus-h/status_lm_cross_encryption_required/-1073741441/",
+  "numericCode": 0,
+  "define": "STATUS_LM_CROSS_ENCRYPTION_REQUIRED",
+  "defineUrl": "/win32/ntstatus-h/status_lm_cross_encryption_required/",
+  "message": "An attempt was made to change a user password in the security account manager without providing the necessary LM cross-encrypted password.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC000017F",
+  "originalCodeUrl": "/win32/ntstatus-h/status_lm_cross_encryption_required/0xc000017f/"
+}

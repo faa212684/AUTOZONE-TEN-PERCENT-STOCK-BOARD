@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_decryption_failed\0xc000028b\index.html.json
+
+title: 0xC000028B STATUS_DECRYPTION_FAILED in ntstatus.h
+description: The file decryption attempt failed.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000028B",
+  "codeUrl": "/win32/ntstatus-h/status_decryption_failed/0xc000028b/",
+  "numericCode": -1073741173,
+  "define": "STATUS_DECRYPTION_FAILED",
+  "defineUrl": "/win32/ntstatus-h/status_decryption_failed/",
+  "message": "The file decryption attempt failed.",
+  "remarks": null,
+  "aka": [
+    "-1073741173"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_decryption_failed/-1073741173/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_miniversion_inaccessible_from_specified_transaction\-2147018086\index.html.json
+canonical: /win32/winerror-h/error_miniversion_inaccessible_from_specified_transaction/6810/
+title: -2147018086 ERROR_MINIVERSION_INACCESSIBLE_FROM_SPECIFIED_TRANSACTION in winerror.h
+description: A miniversion may only be opened in the context of the transaction that created it.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147018086",
+  "codeUrl": "/win32/winerror-h/error_miniversion_inaccessible_from_specified_transaction/-2147018086/",
+  "numericCode": 0,
+  "define": "ERROR_MINIVERSION_INACCESSIBLE_FROM_SPECIFIED_TRANSACTION",
+  "defineUrl": "/win32/winerror-h/error_miniversion_inaccessible_from_specified_transaction/",
+  "message": "A miniversion may only be opened in the context of the transaction that created it.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "6810",
+  "originalCodeUrl": "/win32/winerror-h/error_miniversion_inaccessible_from_specified_transaction/6810/"
+}

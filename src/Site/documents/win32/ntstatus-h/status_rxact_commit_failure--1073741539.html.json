@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_rxact_commit_failure\-1073741539\index.html.json
+canonical: /win32/ntstatus-h/status_rxact_commit_failure/0xc000011d/
+title: -1073741539 STATUS_RXACT_COMMIT_FAILURE in ntstatus.h
+description: Indicates an error has occurred during a registry transaction commit. The database has been left in an unknown, but probably inconsistent, state. The state of the registry transaction is left as COMMITTING.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741539",
+  "codeUrl": "/win32/ntstatus-h/status_rxact_commit_failure/-1073741539/",
+  "numericCode": 0,
+  "define": "STATUS_RXACT_COMMIT_FAILURE",
+  "defineUrl": "/win32/ntstatus-h/status_rxact_commit_failure/",
+  "message": "Indicates an error has occurred during a registry transaction commit. The database has been left in an unknown, but probably inconsistent, state. The state of the registry transaction is left as COMMITTING.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC000011D",
+  "originalCodeUrl": "/win32/ntstatus-h/status_rxact_commit_failure/0xc000011d/"
+}

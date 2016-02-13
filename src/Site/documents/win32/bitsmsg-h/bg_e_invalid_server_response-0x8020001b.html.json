@@ -1,0 +1,28 @@
+---
+output: win32\bitsmsg-h\bg_e_invalid_server_response\0x8020001b\index.html.json
+
+title: 0x8020001B BG_E_INVALID_SERVER_RESPONSE in BitsMsg.h
+description: The server's response was not valid. The server was not following the defined protocol. Resume the job, and then Background Intelligent Transfer Service (BITS) will try again.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "BitsMsg.h",
+  "sourceUrl": "/win32/bitsmsg-h/",
+  "code": "0x8020001B",
+  "codeUrl": "/win32/bitsmsg-h/bg_e_invalid_server_response/0x8020001b/",
+  "numericCode": -2145386469,
+  "define": "BG_E_INVALID_SERVER_RESPONSE",
+  "defineUrl": "/win32/bitsmsg-h/bg_e_invalid_server_response/",
+  "message": "The server's response was not valid. The server was not following the defined protocol. Resume the job, and then Background Intelligent Transfer Service (BITS) will try again.",
+  "remarks": null,
+  "aka": [
+    "-2145386469"
+  ],
+  "akaUrl": [
+    "/win32/bitsmsg-h/bg_e_invalid_server_response/-2145386469/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

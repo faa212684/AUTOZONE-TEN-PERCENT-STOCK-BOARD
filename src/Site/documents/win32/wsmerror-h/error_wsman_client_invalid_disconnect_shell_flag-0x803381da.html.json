@@ -1,0 +1,30 @@
+---
+output: win32\wsmerror-h\error_wsman_client_invalid_disconnect_shell_flag\0x803381da\index.html.json
+
+title: 0x803381DA ERROR_WSMAN_CLIENT_INVALID_DISCONNECT_SHELL_FLAG in wsmerror.h
+description: The WinRM client cannot process the request. 
+A flag that is not valid was specified for the WSManDisconnectShell method.
+Remove or change the flag and retry the operation.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x803381DA",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_client_invalid_disconnect_shell_flag/0x803381da/",
+  "numericCode": -2144108070,
+  "define": "ERROR_WSMAN_CLIENT_INVALID_DISCONNECT_SHELL_FLAG",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_client_invalid_disconnect_shell_flag/",
+  "message": "The WinRM client cannot process the request. \r\nA flag that is not valid was specified for the WSManDisconnectShell method.\r\nRemove or change the flag and retry the operation.",
+  "remarks": null,
+  "aka": [
+    "-2144108070"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_client_invalid_disconnect_shell_flag/-2144108070/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

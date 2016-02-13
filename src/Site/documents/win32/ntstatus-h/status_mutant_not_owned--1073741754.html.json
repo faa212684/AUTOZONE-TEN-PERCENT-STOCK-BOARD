@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_mutant_not_owned\-1073741754\index.html.json
+canonical: /win32/ntstatus-h/status_mutant_not_owned/0xc0000046/
+title: -1073741754 STATUS_MUTANT_NOT_OWNED in ntstatus.h
+description: An attempt to release a mutant object was made by a thread that was not the owner of the mutant object.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741754",
+  "codeUrl": "/win32/ntstatus-h/status_mutant_not_owned/-1073741754/",
+  "numericCode": 0,
+  "define": "STATUS_MUTANT_NOT_OWNED",
+  "defineUrl": "/win32/ntstatus-h/status_mutant_not_owned/",
+  "message": "An attempt to release a mutant object was made by a thread that was not the owner of the mutant object.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000046",
+  "originalCodeUrl": "/win32/ntstatus-h/status_mutant_not_owned/0xc0000046/"
+}

@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\spapi_e_no_such_devinst\0x800f020b\index.html.json
+
+title: 0x800F020B SPAPI_E_NO_SUCH_DEVINST in winerror.h
+description: The device instance does not exist in the hardware tree.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800F020B",
+  "codeUrl": "/win32/winerror-h/spapi_e_no_such_devinst/0x800f020b/",
+  "numericCode": -2146500085,
+  "define": "SPAPI_E_NO_SUCH_DEVINST",
+  "defineUrl": "/win32/winerror-h/spapi_e_no_such_devinst/",
+  "message": "The device instance does not exist in the hardware tree.",
+  "remarks": null,
+  "aka": [
+    "-2146500085"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/spapi_e_no_such_devinst/-2146500085/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

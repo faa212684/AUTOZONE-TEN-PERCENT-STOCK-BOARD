@@ -1,0 +1,30 @@
+---
+output: win32\netevent-h\event_dns_cache_start_failure_no_rpc\-1073730820\index.html.json
+canonical: /win32/netevent-h/event_dns_cache_start_failure_no_rpc/0xc0002afc/
+title: -1073730820 EVENT_DNS_CACHE_START_FAILURE_NO_RPC in netevent.h
+description: Unable to start DNS Client service. Could not start the
+Remote Procedure Call (RPC) interface for this service.
+To correct the problem, you may restart the RPC and DNS
+Client services. To do so, use the following commands at a command
+prompt: (1) type "net start rpc" to start the RPC service, and (2)
+type "net start dnscache" to start the DNS Client service. 
+See event details for specific error code information.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "-1073730820",
+  "codeUrl": "/win32/netevent-h/event_dns_cache_start_failure_no_rpc/-1073730820/",
+  "numericCode": 0,
+  "define": "EVENT_DNS_CACHE_START_FAILURE_NO_RPC",
+  "defineUrl": "/win32/netevent-h/event_dns_cache_start_failure_no_rpc/",
+  "message": "Unable to start DNS Client service. Could not start the\r\nRemote Procedure Call (RPC) interface for this service.\r\nTo correct the problem, you may restart the RPC and DNS\r\nClient services. To do so, use the following commands at a command\r\nprompt: (1) type \"net start rpc\" to start the RPC service, and (2)\r\ntype \"net start dnscache\" to start the DNS Client service. \r\nSee event details for specific error code information.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0002AFC",
+  "originalCodeUrl": "/win32/netevent-h/event_dns_cache_start_failure_no_rpc/0xc0002afc/"
+}

@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_external_backing_provider_unknown\0xc000046e\index.html.json
+
+title: 0xC000046E STATUS_EXTERNAL_BACKING_PROVIDER_UNKNOWN in ntstatus.h
+description: The external backing provider is not recognized.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000046E",
+  "codeUrl": "/win32/ntstatus-h/status_external_backing_provider_unknown/0xc000046e/",
+  "numericCode": -1073740690,
+  "define": "STATUS_EXTERNAL_BACKING_PROVIDER_UNKNOWN",
+  "defineUrl": "/win32/ntstatus-h/status_external_backing_provider_unknown/",
+  "message": "The external backing provider is not recognized.",
+  "remarks": null,
+  "aka": [
+    "-1073740690"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_external_backing_provider_unknown/-1073740690/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

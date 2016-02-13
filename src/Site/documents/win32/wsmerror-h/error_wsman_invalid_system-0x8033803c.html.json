@@ -1,0 +1,28 @@
+---
+output: win32\wsmerror-h\error_wsman_invalid_system\0x8033803c\index.html.json
+
+title: 0x8033803C ERROR_WSMAN_INVALID_SYSTEM in wsmerror.h
+description: The WS-Management service requires a valid System URI to process the request.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x8033803C",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_invalid_system/0x8033803c/",
+  "numericCode": -2144108484,
+  "define": "ERROR_WSMAN_INVALID_SYSTEM",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_invalid_system/",
+  "message": "The WS-Management service requires a valid System URI to process the request.",
+  "remarks": null,
+  "aka": [
+    "-2144108484"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_invalid_system/-2144108484/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

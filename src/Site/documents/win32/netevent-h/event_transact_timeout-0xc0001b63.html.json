@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_transact_timeout\0xc0001b63\index.html.json
+
+title: 0xC0001B63 EVENT_TRANSACT_TIMEOUT in netevent.h
+description: Timeout (%1 milliseconds) waiting for a transaction response from the %2 service.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC0001B63",
+  "codeUrl": "/win32/netevent-h/event_transact_timeout/0xc0001b63/",
+  "numericCode": -1073734813,
+  "define": "EVENT_TRANSACT_TIMEOUT",
+  "defineUrl": "/win32/netevent-h/event_transact_timeout/",
+  "message": "Timeout (%1 milliseconds) waiting for a transaction response from the %2 service.",
+  "remarks": null,
+  "aka": [
+    "-1073734813"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_transact_timeout/-1073734813/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,29 @@
+---
+output: win32\vdserr-h\vds_e_invalid_path\0x8004291b\index.html.json
+
+title: 0x8004291B VDS_E_INVALID_PATH in vdserr.h
+description: The path returned for the LUN is invalid. It has an incorrect path type 
+specified.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x8004291B",
+  "codeUrl": "/win32/vdserr-h/vds_e_invalid_path/0x8004291b/",
+  "numericCode": -2147210981,
+  "define": "VDS_E_INVALID_PATH",
+  "defineUrl": "/win32/vdserr-h/vds_e_invalid_path/",
+  "message": "The path returned for the LUN is invalid. It has an incorrect path type \r\nspecified.",
+  "remarks": null,
+  "aka": [
+    "-2147210981"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_invalid_path/-2147210981/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

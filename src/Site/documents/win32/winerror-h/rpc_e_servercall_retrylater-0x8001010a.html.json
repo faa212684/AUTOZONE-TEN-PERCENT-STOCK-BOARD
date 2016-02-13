@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\rpc_e_servercall_retrylater\0x8001010a\index.html.json
+
+title: 0x8001010A RPC_E_SERVERCALL_RETRYLATER in winerror.h
+description: The message filter indicated that the application is busy.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8001010A",
+  "codeUrl": "/win32/winerror-h/rpc_e_servercall_retrylater/0x8001010a/",
+  "numericCode": -2147417846,
+  "define": "RPC_E_SERVERCALL_RETRYLATER",
+  "defineUrl": "/win32/winerror-h/rpc_e_servercall_retrylater/",
+  "message": "The message filter indicated that the application is busy.",
+  "remarks": null,
+  "aka": [
+    "-2147417846"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/rpc_e_servercall_retrylater/-2147417846/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

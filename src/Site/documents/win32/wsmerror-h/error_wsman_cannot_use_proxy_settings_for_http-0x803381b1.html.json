@@ -1,0 +1,29 @@
+---
+output: win32\wsmerror-h\error_wsman_cannot_use_proxy_settings_for_http\0x803381b1\index.html.json
+
+title: 0x803381B1 ERROR_WSMAN_CANNOT_USE_PROXY_SETTINGS_FOR_HTTP in wsmerror.h
+description: The WinRM client cannot process the request. Setting proxy information is not valid when the HTTP transport is specified.
+Remove the proxy information or change the transport and try the request again.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x803381B1",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_cannot_use_proxy_settings_for_http/0x803381b1/",
+  "numericCode": -2144108111,
+  "define": "ERROR_WSMAN_CANNOT_USE_PROXY_SETTINGS_FOR_HTTP",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_cannot_use_proxy_settings_for_http/",
+  "message": "The WinRM client cannot process the request. Setting proxy information is not valid when the HTTP transport is specified.\r\nRemove the proxy information or change the transport and try the request again.",
+  "remarks": null,
+  "aka": [
+    "-2144108111"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_cannot_use_proxy_settings_for_http/-2144108111/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

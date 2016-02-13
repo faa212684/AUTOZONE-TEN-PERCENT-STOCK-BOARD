@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_acpi_reg_handler_failed\0xc0140020\index.html.json
+
+title: 0xC0140020 STATUS_ACPI_REG_HANDLER_FAILED in ntstatus.h
+description: The registration of an ACPI event failed
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0140020",
+  "codeUrl": "/win32/ntstatus-h/status_acpi_reg_handler_failed/0xc0140020/",
+  "numericCode": -1072431072,
+  "define": "STATUS_ACPI_REG_HANDLER_FAILED",
+  "defineUrl": "/win32/ntstatus-h/status_acpi_reg_handler_failed/",
+  "message": "The registration of an ACPI event failed",
+  "remarks": null,
+  "aka": [
+    "-1072431072"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_acpi_reg_handler_failed/-1072431072/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

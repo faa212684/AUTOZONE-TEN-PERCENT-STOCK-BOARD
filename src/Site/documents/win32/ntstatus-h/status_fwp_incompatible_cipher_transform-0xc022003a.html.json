@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_fwp_incompatible_cipher_transform\0xc022003a\index.html.json
+
+title: 0xC022003A STATUS_FWP_INCOMPATIBLE_CIPHER_TRANSFORM in ntstatus.h
+description: The IPsec cipher transform is not compatible with the policy.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC022003A",
+  "codeUrl": "/win32/ntstatus-h/status_fwp_incompatible_cipher_transform/0xc022003a/",
+  "numericCode": -1071513542,
+  "define": "STATUS_FWP_INCOMPATIBLE_CIPHER_TRANSFORM",
+  "defineUrl": "/win32/ntstatus-h/status_fwp_incompatible_cipher_transform/",
+  "message": "The IPsec cipher transform is not compatible with the policy.",
+  "remarks": null,
+  "aka": [
+    "-1071513542"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_fwp_incompatible_cipher_transform/-1071513542/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

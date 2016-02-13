@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_srv_cant_bind_to_transport\0x800009c8\index.html.json
+
+title: 0x800009C8 EVENT_SRV_CANT_BIND_TO_TRANSPORT in netevent.h
+description: The server could not bind to the transport %1.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x800009C8",
+  "codeUrl": "/win32/netevent-h/event_srv_cant_bind_to_transport/0x800009c8/",
+  "numericCode": -2147481144,
+  "define": "EVENT_SRV_CANT_BIND_TO_TRANSPORT",
+  "defineUrl": "/win32/netevent-h/event_srv_cant_bind_to_transport/",
+  "message": "The server could not bind to the transport %1.",
+  "remarks": null,
+  "aka": [
+    "-2147481144"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_srv_cant_bind_to_transport/-2147481144/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,24 @@
+---
+output: win32\wsmerror-h\error_wsman_config_cert_cn_does_not_match_hostname\-2144108311\index.html.json
+canonical: /win32/wsmerror-h/error_wsman_config_cert_cn_does_not_match_hostname/0x803380e9/
+title: -2144108311 ERROR_WSMAN_CONFIG_CERT_CN_DOES_NOT_MATCH_HOSTNAME in wsmerror.h
+description: The WinRM client cannot process the request. The certificate CN and the hostname that were provided do not match.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "-2144108311",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_config_cert_cn_does_not_match_hostname/-2144108311/",
+  "numericCode": 0,
+  "define": "ERROR_WSMAN_CONFIG_CERT_CN_DOES_NOT_MATCH_HOSTNAME",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_config_cert_cn_does_not_match_hostname/",
+  "message": "The WinRM client cannot process the request. The certificate CN and the hostname that were provided do not match.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x803380E9",
+  "originalCodeUrl": "/win32/wsmerror-h/error_wsman_config_cert_cn_does_not_match_hostname/0x803380e9/"
+}

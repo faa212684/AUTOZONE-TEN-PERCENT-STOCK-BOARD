@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_tiering_wrong_cluster_node\-2138898427\index.html.json
+canonical: /win32/winerror-h/error_tiering_wrong_cluster_node/0x80830005/
+title: -2138898427 ERROR_TIERING_WRONG_CLUSTER_NODE in winerror.h
+description: Storage tier operations must be called on the clustering node that owns the metadata volume.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2138898427",
+  "codeUrl": "/win32/winerror-h/error_tiering_wrong_cluster_node/-2138898427/",
+  "numericCode": 0,
+  "define": "ERROR_TIERING_WRONG_CLUSTER_NODE",
+  "defineUrl": "/win32/winerror-h/error_tiering_wrong_cluster_node/",
+  "message": "Storage tier operations must be called on the clustering node that owns the metadata volume.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80830005",
+  "originalCodeUrl": "/win32/winerror-h/error_tiering_wrong_cluster_node/0x80830005/"
+}

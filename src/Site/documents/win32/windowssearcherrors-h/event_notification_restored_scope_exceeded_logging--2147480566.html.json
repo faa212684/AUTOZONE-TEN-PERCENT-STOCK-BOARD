@@ -1,0 +1,24 @@
+---
+output: win32\windowssearcherrors-h\event_notification_restored_scope_exceeded_logging\-2147480566\index.html.json
+canonical: /win32/windowssearcherrors-h/event_notification_restored_scope_exceeded_logging/0x80000c0a/
+title: -2147480566 EVENT_NOTIFICATION_RESTORED_SCOPE_EXCEEDED_LOGGING in WindowsSearchErrors.h
+description: Notifications for the scope %2 were reactivated. The event logging threshold for this scope was exceeded.  No further events will be sent for one hour. %1
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "-2147480566",
+  "codeUrl": "/win32/windowssearcherrors-h/event_notification_restored_scope_exceeded_logging/-2147480566/",
+  "numericCode": 0,
+  "define": "EVENT_NOTIFICATION_RESTORED_SCOPE_EXCEEDED_LOGGING",
+  "defineUrl": "/win32/windowssearcherrors-h/event_notification_restored_scope_exceeded_logging/",
+  "message": "Notifications for the scope %2 were reactivated. The event logging threshold for this scope was exceeded.  No further events will be sent for one hour. %1",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80000C0A",
+  "originalCodeUrl": "/win32/windowssearcherrors-h/event_notification_restored_scope_exceeded_logging/0x80000c0a/"
+}

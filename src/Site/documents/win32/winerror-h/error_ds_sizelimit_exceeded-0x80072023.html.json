@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_ds_sizelimit_exceeded\0x80072023\index.html.json
+canonical: /win32/winerror-h/error_ds_sizelimit_exceeded/8227/
+title: 0x80072023 ERROR_DS_SIZELIMIT_EXCEEDED in winerror.h
+description: The size limit for this request was exceeded.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80072023",
+  "codeUrl": "/win32/winerror-h/error_ds_sizelimit_exceeded/0x80072023/",
+  "numericCode": 0,
+  "define": "ERROR_DS_SIZELIMIT_EXCEEDED",
+  "defineUrl": "/win32/winerror-h/error_ds_sizelimit_exceeded/",
+  "message": "The size limit for this request was exceeded.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "8227",
+  "originalCodeUrl": "/win32/winerror-h/error_ds_sizelimit_exceeded/8227/"
+}

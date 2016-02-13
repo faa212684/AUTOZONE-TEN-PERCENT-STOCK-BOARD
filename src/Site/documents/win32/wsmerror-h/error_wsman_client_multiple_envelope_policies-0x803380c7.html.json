@@ -1,0 +1,29 @@
+---
+output: win32\wsmerror-h\error_wsman_client_multiple_envelope_policies\0x803380c7\index.html.json
+
+title: 0x803380C7 ERROR_WSMAN_CLIENT_MULTIPLE_ENVELOPE_POLICIES in wsmerror.h
+description: The WinRM client cannot process the request. The request contained multiple settings for the policy regarding the maximum envelope size.
+Change the request to contain only one setting for the policy and try again.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x803380C7",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_client_multiple_envelope_policies/0x803380c7/",
+  "numericCode": -2144108345,
+  "define": "ERROR_WSMAN_CLIENT_MULTIPLE_ENVELOPE_POLICIES",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_client_multiple_envelope_policies/",
+  "message": "The WinRM client cannot process the request. The request contained multiple settings for the policy regarding the maximum envelope size.\r\nChange the request to contain only one setting for the policy and try again.",
+  "remarks": null,
+  "aka": [
+    "-2144108345"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_client_multiple_envelope_policies/-2144108345/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

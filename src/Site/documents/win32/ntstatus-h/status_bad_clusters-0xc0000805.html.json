@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_bad_clusters\0xc0000805\index.html.json
+
+title: 0xC0000805 STATUS_BAD_CLUSTERS in ntstatus.h
+description: The operation could not be completed due to bad clusters on disk.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000805",
+  "codeUrl": "/win32/ntstatus-h/status_bad_clusters/0xc0000805/",
+  "numericCode": -1073739771,
+  "define": "STATUS_BAD_CLUSTERS",
+  "defineUrl": "/win32/ntstatus-h/status_bad_clusters/",
+  "message": "The operation could not be completed due to bad clusters on disk.",
+  "remarks": null,
+  "aka": [
+    "-1073739771"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_bad_clusters/-1073739771/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

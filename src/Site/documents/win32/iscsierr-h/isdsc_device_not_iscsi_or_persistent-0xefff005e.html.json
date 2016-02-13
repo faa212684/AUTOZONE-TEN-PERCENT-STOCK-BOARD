@@ -1,0 +1,28 @@
+---
+output: win32\iscsierr-h\isdsc_device_not_iscsi_or_persistent\0xefff005e\index.html.json
+
+title: 0xEFFF005E ISDSC_DEVICE_NOT_ISCSI_OR_PERSISTENT in iscsierr.h
+description: The device specified does not originate from an iSCSI disk or a persistent iSCSI login.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "iscsierr.h",
+  "sourceUrl": "/win32/iscsierr-h/",
+  "code": "0xEFFF005E",
+  "codeUrl": "/win32/iscsierr-h/isdsc_device_not_iscsi_or_persistent/0xefff005e/",
+  "numericCode": -268500898,
+  "define": "ISDSC_DEVICE_NOT_ISCSI_OR_PERSISTENT",
+  "defineUrl": "/win32/iscsierr-h/isdsc_device_not_iscsi_or_persistent/",
+  "message": "The device specified does not originate from an iSCSI disk or a persistent iSCSI login.",
+  "remarks": null,
+  "aka": [
+    "-268500898"
+  ],
+  "akaUrl": [
+    "/win32/iscsierr-h/isdsc_device_not_iscsi_or_persistent/-268500898/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

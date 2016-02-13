@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_invalid_connection\0xc0000140\index.html.json
+
+title: 0xC0000140 STATUS_INVALID_CONNECTION in ntstatus.h
+description: The connection handle given to the transport was invalid.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000140",
+  "codeUrl": "/win32/ntstatus-h/status_invalid_connection/0xc0000140/",
+  "numericCode": -1073741504,
+  "define": "STATUS_INVALID_CONNECTION",
+  "defineUrl": "/win32/ntstatus-h/status_invalid_connection/",
+  "message": "The connection handle given to the transport was invalid.",
+  "remarks": null,
+  "aka": [
+    "-1073741504"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_invalid_connection/-1073741504/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

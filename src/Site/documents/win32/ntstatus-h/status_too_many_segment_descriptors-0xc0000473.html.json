@@ -1,0 +1,29 @@
+---
+output: win32\ntstatus-h\status_too_many_segment_descriptors\0xc0000473\index.html.json
+
+title: 0xC0000473 STATUS_TOO_MANY_SEGMENT_DESCRIPTORS in ntstatus.h
+description: "{Maximum Segment Descriptors Exceeded}
+The command specified a number of descriptors that exceeded the maximum supported by the device."
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000473",
+  "codeUrl": "/win32/ntstatus-h/status_too_many_segment_descriptors/0xc0000473/",
+  "numericCode": -1073740685,
+  "define": "STATUS_TOO_MANY_SEGMENT_DESCRIPTORS",
+  "defineUrl": "/win32/ntstatus-h/status_too_many_segment_descriptors/",
+  "message": "{Maximum Segment Descriptors Exceeded}\r\nThe command specified a number of descriptors that exceeded the maximum supported by the device.",
+  "remarks": null,
+  "aka": [
+    "-1073740685"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_too_many_segment_descriptors/-1073740685/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

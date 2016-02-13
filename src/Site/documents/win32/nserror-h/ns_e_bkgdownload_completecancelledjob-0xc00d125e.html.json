@@ -1,0 +1,28 @@
+---
+output: win32\nserror-h\ns_e_bkgdownload_completecancelledjob\0xc00d125e\index.html.json
+
+title: 0xC00D125E NS_E_BKGDOWNLOAD_COMPLETECANCELLEDJOB in nserror.h
+description: Windows Media Player tried to complete a download that was already canceled. The file will not be available.%0
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "nserror.h",
+  "sourceUrl": "/win32/nserror-h/",
+  "code": "0xC00D125E",
+  "codeUrl": "/win32/nserror-h/ns_e_bkgdownload_completecancelledjob/0xc00d125e/",
+  "numericCode": -1072885154,
+  "define": "NS_E_BKGDOWNLOAD_COMPLETECANCELLEDJOB",
+  "defineUrl": "/win32/nserror-h/ns_e_bkgdownload_completecancelledjob/",
+  "message": "Windows Media Player tried to complete a download that was already canceled. The file will not be available.%0",
+  "remarks": null,
+  "aka": [
+    "-1072885154"
+  ],
+  "akaUrl": [
+    "/win32/nserror-h/ns_e_bkgdownload_completecancelledjob/-1072885154/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

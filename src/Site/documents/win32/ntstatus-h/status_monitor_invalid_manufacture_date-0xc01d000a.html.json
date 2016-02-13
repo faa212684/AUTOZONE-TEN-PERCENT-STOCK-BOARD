@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_monitor_invalid_manufacture_date\0xc01d000a\index.html.json
+
+title: 0xC01D000A STATUS_MONITOR_INVALID_MANUFACTURE_DATE in ntstatus.h
+description: Monitor descriptor contains invalid manufacture date.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC01D000A",
+  "codeUrl": "/win32/ntstatus-h/status_monitor_invalid_manufacture_date/0xc01d000a/",
+  "numericCode": -1071841270,
+  "define": "STATUS_MONITOR_INVALID_MANUFACTURE_DATE",
+  "defineUrl": "/win32/ntstatus-h/status_monitor_invalid_manufacture_date/",
+  "message": "Monitor descriptor contains invalid manufacture date.",
+  "remarks": null,
+  "aka": [
+    "-1071841270"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_monitor_invalid_manufacture_date/-1071841270/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

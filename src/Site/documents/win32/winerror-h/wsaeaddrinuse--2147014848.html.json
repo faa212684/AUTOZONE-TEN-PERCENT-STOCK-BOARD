@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\wsaeaddrinuse\-2147014848\index.html.json
+canonical: /win32/winerror-h/wsaeaddrinuse/10048/
+title: -2147014848 WSAEADDRINUSE in winerror.h
+description: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147014848",
+  "codeUrl": "/win32/winerror-h/wsaeaddrinuse/-2147014848/",
+  "numericCode": 0,
+  "define": "WSAEADDRINUSE",
+  "defineUrl": "/win32/winerror-h/wsaeaddrinuse/",
+  "message": "Only one usage of each socket address (protocol/network address/port) is normally permitted.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "10048",
+  "originalCodeUrl": "/win32/winerror-h/wsaeaddrinuse/10048/"
+}

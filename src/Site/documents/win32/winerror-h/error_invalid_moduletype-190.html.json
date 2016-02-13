@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_invalid_moduletype\190\index.html.json
+
+title: 190 ERROR_INVALID_MODULETYPE in winerror.h
+description: The operating system cannot run %1.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "190",
+  "codeUrl": "/win32/winerror-h/error_invalid_moduletype/190/",
+  "numericCode": 190,
+  "define": "ERROR_INVALID_MODULETYPE",
+  "defineUrl": "/win32/winerror-h/error_invalid_moduletype/",
+  "message": "The operating system cannot run %1.",
+  "remarks": null,
+  "aka": [
+    "0x800700be",
+    "-2147024706"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_invalid_moduletype/0x800700be/",
+    "/win32/winerror-h/error_invalid_moduletype/-2147024706/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

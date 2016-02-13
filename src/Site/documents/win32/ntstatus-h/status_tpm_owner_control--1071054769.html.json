@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_tpm_owner_control\-1071054769\index.html.json
+canonical: /win32/ntstatus-h/status_tpm_owner_control/0xc029004f/
+title: -1071054769 STATUS_TPM_OWNER_CONTROL in ntstatus.h
+description: Attempt to context save a owner evict controlled key.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071054769",
+  "codeUrl": "/win32/ntstatus-h/status_tpm_owner_control/-1071054769/",
+  "numericCode": 0,
+  "define": "STATUS_TPM_OWNER_CONTROL",
+  "defineUrl": "/win32/ntstatus-h/status_tpm_owner_control/",
+  "message": "Attempt to context save a owner evict controlled key.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC029004F",
+  "originalCodeUrl": "/win32/ntstatus-h/status_tpm_owner_control/0xc029004f/"
+}

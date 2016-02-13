@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_ds_must_be_run_on_dst_dc\0x8007216e\index.html.json
+canonical: /win32/winerror-h/error_ds_must_be_run_on_dst_dc/8558/
+title: 0x8007216e ERROR_DS_MUST_BE_RUN_ON_DST_DC in winerror.h
+description: For security reasons, the operation must be run on the destination DC.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007216e",
+  "codeUrl": "/win32/winerror-h/error_ds_must_be_run_on_dst_dc/0x8007216e/",
+  "numericCode": 0,
+  "define": "ERROR_DS_MUST_BE_RUN_ON_DST_DC",
+  "defineUrl": "/win32/winerror-h/error_ds_must_be_run_on_dst_dc/",
+  "message": "For security reasons, the operation must be run on the destination DC.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "8558",
+  "originalCodeUrl": "/win32/winerror-h/error_ds_must_be_run_on_dst_dc/8558/"
+}

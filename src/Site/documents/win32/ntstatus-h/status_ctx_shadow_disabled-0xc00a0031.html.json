@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_ctx_shadow_disabled\0xc00a0031\index.html.json
+
+title: 0xC00A0031 STATUS_CTX_SHADOW_DISABLED in ntstatus.h
+description: The requested session is not configured to allow remote control.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC00A0031",
+  "codeUrl": "/win32/ntstatus-h/status_ctx_shadow_disabled/0xc00a0031/",
+  "numericCode": -1073086415,
+  "define": "STATUS_CTX_SHADOW_DISABLED",
+  "defineUrl": "/win32/ntstatus-h/status_ctx_shadow_disabled/",
+  "message": "The requested session is not configured to allow remote control.",
+  "remarks": null,
+  "aka": [
+    "-1073086415"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_ctx_shadow_disabled/-1073086415/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\fve_e_invalid_key_format\0x80310034\index.html.json
+
+title: 0x80310034 FVE_E_INVALID_KEY_FORMAT in winerror.h
+description: The recovery key provided is corrupt and cannot be used to access the drive. An alternative recovery method, such as recovery password, a data recovery agent, or a backup version of the recovery key must be used to recover access to the drive.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80310034",
+  "codeUrl": "/win32/winerror-h/fve_e_invalid_key_format/0x80310034/",
+  "numericCode": -2144272332,
+  "define": "FVE_E_INVALID_KEY_FORMAT",
+  "defineUrl": "/win32/winerror-h/fve_e_invalid_key_format/",
+  "message": "The recovery key provided is corrupt and cannot be used to access the drive. An alternative recovery method, such as recovery password, a data recovery agent, or a backup version of the recovery key must be used to recover access to the drive.",
+  "remarks": null,
+  "aka": [
+    "-2144272332"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/fve_e_invalid_key_format/-2144272332/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,29 @@
+---
+output: win32\vdserr-h\vds_e_associated_portals_exist\0x8004270c\index.html.json
+
+title: 0x8004270C VDS_E_ASSOCIATED_PORTALS_EXIST in vdserr.h
+description: Portals are associated with the specified portal group and must first be 
+deassociated before the portal group can be deleted.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x8004270C",
+  "codeUrl": "/win32/vdserr-h/vds_e_associated_portals_exist/0x8004270c/",
+  "numericCode": -2147211508,
+  "define": "VDS_E_ASSOCIATED_PORTALS_EXIST",
+  "defineUrl": "/win32/vdserr-h/vds_e_associated_portals_exist/",
+  "message": "Portals are associated with the specified portal group and must first be \r\ndeassociated before the portal group can be deleted.",
+  "remarks": null,
+  "aka": [
+    "-2147211508"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_associated_portals_exist/-2147211508/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

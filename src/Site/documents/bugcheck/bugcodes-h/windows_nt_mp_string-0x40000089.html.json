@@ -1,0 +1,28 @@
+---
+output: bugcheck\bugcodes-h\windows_nt_mp_string\0x40000089\index.html.json
+
+title: 0x40000089 WINDOWS_NT_MP_STRING in bugcodes.h
+description: MultiProcessor Kernel
+disqus: true
+---
+{
+  "area": "bugcheck",
+  "areaUrl": "/bugcheck/",
+  "source": "bugcodes.h",
+  "sourceUrl": "/bugcheck/bugcodes-h/",
+  "code": "0x40000089",
+  "codeUrl": "/bugcheck/bugcodes-h/windows_nt_mp_string/0x40000089/",
+  "numericCode": 1073741961,
+  "define": "WINDOWS_NT_MP_STRING",
+  "defineUrl": "/bugcheck/bugcodes-h/windows_nt_mp_string/",
+  "message": "MultiProcessor Kernel",
+  "remarks": null,
+  "aka": [
+    "1073741961"
+  ],
+  "akaUrl": [
+    "/bugcheck/bugcodes-h/windows_nt_mp_string/1073741961/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

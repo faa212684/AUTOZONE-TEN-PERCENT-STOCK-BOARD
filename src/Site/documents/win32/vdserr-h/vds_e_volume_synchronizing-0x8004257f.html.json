@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_e_volume_synchronizing\0x8004257f\index.html.json
+
+title: 0x8004257F VDS_E_VOLUME_SYNCHRONIZING in vdserr.h
+description: The operation cannot be completed because the volume is synchronizing.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x8004257F",
+  "codeUrl": "/win32/vdserr-h/vds_e_volume_synchronizing/0x8004257f/",
+  "numericCode": -2147211905,
+  "define": "VDS_E_VOLUME_SYNCHRONIZING",
+  "defineUrl": "/win32/vdserr-h/vds_e_volume_synchronizing/",
+  "message": "The operation cannot be completed because the volume is synchronizing.",
+  "remarks": null,
+  "aka": [
+    "-2147211905"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_volume_synchronizing/-2147211905/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

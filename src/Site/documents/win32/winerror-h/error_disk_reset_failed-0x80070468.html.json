@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_disk_reset_failed\0x80070468\index.html.json
+canonical: /win32/winerror-h/error_disk_reset_failed/1128/
+title: 0x80070468 ERROR_DISK_RESET_FAILED in winerror.h
+description: While accessing the hard disk, a disk controller reset was needed, but even that failed.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80070468",
+  "codeUrl": "/win32/winerror-h/error_disk_reset_failed/0x80070468/",
+  "numericCode": 0,
+  "define": "ERROR_DISK_RESET_FAILED",
+  "defineUrl": "/win32/winerror-h/error_disk_reset_failed/",
+  "message": "While accessing the hard disk, a disk controller reset was needed, but even that failed.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "1128",
+  "originalCodeUrl": "/win32/winerror-h/error_disk_reset_failed/1128/"
+}

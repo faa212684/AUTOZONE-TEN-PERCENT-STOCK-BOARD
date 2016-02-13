@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ipsec_mm_auth_not_found\13011\index.html.json
+
+title: 13011 ERROR_IPSEC_MM_AUTH_NOT_FOUND in winerror.h
+description: The specified main mode authentication list was not found.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "13011",
+  "codeUrl": "/win32/winerror-h/error_ipsec_mm_auth_not_found/13011/",
+  "numericCode": 13011,
+  "define": "ERROR_IPSEC_MM_AUTH_NOT_FOUND",
+  "defineUrl": "/win32/winerror-h/error_ipsec_mm_auth_not_found/",
+  "message": "The specified main mode authentication list was not found.",
+  "remarks": null,
+  "aka": [
+    "0x800732d3",
+    "-2147011885"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ipsec_mm_auth_not_found/0x800732d3/",
+    "/win32/winerror-h/error_ipsec_mm_auth_not_found/-2147011885/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

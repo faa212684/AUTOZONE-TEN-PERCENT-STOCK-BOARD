@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\co_e_init_only_single_threaded\0x80004012\index.html.json
+
+title: 0x80004012 CO_E_INIT_ONLY_SINGLE_THREADED in winerror.h
+description: There was an attempt to call CoInitialize a second time while single threaded
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80004012",
+  "codeUrl": "/win32/winerror-h/co_e_init_only_single_threaded/0x80004012/",
+  "numericCode": -2147467246,
+  "define": "CO_E_INIT_ONLY_SINGLE_THREADED",
+  "defineUrl": "/win32/winerror-h/co_e_init_only_single_threaded/",
+  "message": "There was an attempt to call CoInitialize a second time while single threaded",
+  "remarks": null,
+  "aka": [
+    "-2147467246"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/co_e_init_only_single_threaded/-2147467246/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

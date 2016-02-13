@@ -1,0 +1,28 @@
+---
+output: win32\wuerror-h\wu_e_setup_registration_failed\0x8024d007\index.html.json
+
+title: 0x8024D007 WU_E_SETUP_REGISTRATION_FAILED in wuerror.h
+description: Windows Update Agent could not be updated because regsvr32.exe returned an error.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wuerror.h",
+  "sourceUrl": "/win32/wuerror-h/",
+  "code": "0x8024D007",
+  "codeUrl": "/win32/wuerror-h/wu_e_setup_registration_failed/0x8024d007/",
+  "numericCode": -2145071097,
+  "define": "WU_E_SETUP_REGISTRATION_FAILED",
+  "defineUrl": "/win32/wuerror-h/wu_e_setup_registration_failed/",
+  "message": "Windows Update Agent could not be updated because regsvr32.exe returned an error.",
+  "remarks": null,
+  "aka": [
+    "-2145071097"
+  ],
+  "akaUrl": [
+    "/win32/wuerror-h/wu_e_setup_registration_failed/-2145071097/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

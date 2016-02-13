@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_printer_not_shareable\3022\index.html.json
+
+title: 3022 ERROR_PRINTER_NOT_SHAREABLE in winerror.h
+description: The specified printer cannot be shared.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "3022",
+  "codeUrl": "/win32/winerror-h/error_printer_not_shareable/3022/",
+  "numericCode": 3022,
+  "define": "ERROR_PRINTER_NOT_SHAREABLE",
+  "defineUrl": "/win32/winerror-h/error_printer_not_shareable/",
+  "message": "The specified printer cannot be shared.",
+  "remarks": null,
+  "aka": [
+    "0x80070bce",
+    "-2147021874"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_printer_not_shareable/0x80070bce/",
+    "/win32/winerror-h/error_printer_not_shareable/-2147021874/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

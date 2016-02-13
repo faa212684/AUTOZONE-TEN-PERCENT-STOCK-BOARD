@@ -1,0 +1,25 @@
+---
+output: win32\winerror-h\crypt_e_oss_error\-2146881536\index.html.json
+canonical: /win32/winerror-h/crypt_e_oss_error/0x80093000/
+title: -2146881536 CRYPT_E_OSS_ERROR in winerror.h
+description: OSS Certificate encode/decode error code base
+See asn1code.h for a definition of the OSS runtime errors. The OSS error values are offset by CRYPT_E_OSS_ERROR.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2146881536",
+  "codeUrl": "/win32/winerror-h/crypt_e_oss_error/-2146881536/",
+  "numericCode": 0,
+  "define": "CRYPT_E_OSS_ERROR",
+  "defineUrl": "/win32/winerror-h/crypt_e_oss_error/",
+  "message": "OSS Certificate encode/decode error code base\r\nSee asn1code.h for a definition of the OSS runtime errors. The OSS error values are offset by CRYPT_E_OSS_ERROR.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80093000",
+  "originalCodeUrl": "/win32/winerror-h/crypt_e_oss_error/0x80093000/"
+}

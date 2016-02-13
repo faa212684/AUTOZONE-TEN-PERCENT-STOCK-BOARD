@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\rpc_nt_no_more_entries\-1073545215\index.html.json
+canonical: /win32/ntstatus-h/rpc_nt_no_more_entries/0xc0030001/
+title: -1073545215 RPC_NT_NO_MORE_ENTRIES in ntstatus.h
+description: The list of RPC servers available for auto-handle binding has been exhausted.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073545215",
+  "codeUrl": "/win32/ntstatus-h/rpc_nt_no_more_entries/-1073545215/",
+  "numericCode": 0,
+  "define": "RPC_NT_NO_MORE_ENTRIES",
+  "defineUrl": "/win32/ntstatus-h/rpc_nt_no_more_entries/",
+  "message": "The list of RPC servers available for auto-handle binding has been exhausted.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0030001",
+  "originalCodeUrl": "/win32/ntstatus-h/rpc_nt_no_more_entries/0xc0030001/"
+}

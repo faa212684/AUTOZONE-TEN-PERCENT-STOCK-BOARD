@@ -1,0 +1,30 @@
+---
+output: win32\wsmerror-h\error_wsman_eventing_loopback_testfailed\0x80338095\index.html.json
+
+title: 0x80338095 ERROR_WSMAN_EVENTING_LOOPBACK_TESTFAILED in wsmerror.h
+description: The connectivity test from the push subscription source to the client failed. This can happen if the client machine initiating the push subscription
+is unreachable from the server machine where the event source is located. Possible reasons include firewall or some other network boundary.
+Modify subscription to use Pull based subscription.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x80338095",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_eventing_loopback_testfailed/0x80338095/",
+  "numericCode": -2144108395,
+  "define": "ERROR_WSMAN_EVENTING_LOOPBACK_TESTFAILED",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_eventing_loopback_testfailed/",
+  "message": "The connectivity test from the push subscription source to the client failed. This can happen if the client machine initiating the push subscription\r\nis unreachable from the server machine where the event source is located. Possible reasons include firewall or some other network boundary.\r\nModify subscription to use Pull based subscription.",
+  "remarks": null,
+  "aka": [
+    "-2144108395"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_eventing_loopback_testfailed/-2144108395/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

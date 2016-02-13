@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_ndis_driver_failure\0xc000138d\index.html.json
+
+title: 0xC000138D EVENT_NDIS_DRIVER_FAILURE in netevent.h
+description: %2 : Has encountered an internal error and has failed.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC000138D",
+  "codeUrl": "/win32/netevent-h/event_ndis_driver_failure/0xc000138d/",
+  "numericCode": -1073736819,
+  "define": "EVENT_NDIS_DRIVER_FAILURE",
+  "defineUrl": "/win32/netevent-h/event_ndis_driver_failure/",
+  "message": "%2 : Has encountered an internal error and has failed.",
+  "remarks": null,
+  "aka": [
+    "-1073736819"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_ndis_driver_failure/-1073736819/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

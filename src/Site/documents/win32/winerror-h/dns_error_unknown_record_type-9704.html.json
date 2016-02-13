@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\dns_error_unknown_record_type\9704\index.html.json
+
+title: 9704 DNS_ERROR_UNKNOWN_RECORD_TYPE in winerror.h
+description: Unknown DNS record type.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "9704",
+  "codeUrl": "/win32/winerror-h/dns_error_unknown_record_type/9704/",
+  "numericCode": 9704,
+  "define": "DNS_ERROR_UNKNOWN_RECORD_TYPE",
+  "defineUrl": "/win32/winerror-h/dns_error_unknown_record_type/",
+  "message": "Unknown DNS record type.",
+  "remarks": null,
+  "aka": [
+    "0x800725e8",
+    "-2147015192"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/dns_error_unknown_record_type/0x800725e8/",
+    "/win32/winerror-h/dns_error_unknown_record_type/-2147015192/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

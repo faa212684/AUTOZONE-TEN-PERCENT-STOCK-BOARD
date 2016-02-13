@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\rpc_nt_ss_context_mismatch\-1073545211\index.html.json
+canonical: /win32/ntstatus-h/rpc_nt_ss_context_mismatch/0xc0030005/
+title: -1073545211 RPC_NT_SS_CONTEXT_MISMATCH in ntstatus.h
+description: The context handle does not match any known context handles.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073545211",
+  "codeUrl": "/win32/ntstatus-h/rpc_nt_ss_context_mismatch/-1073545211/",
+  "numericCode": 0,
+  "define": "RPC_NT_SS_CONTEXT_MISMATCH",
+  "defineUrl": "/win32/ntstatus-h/rpc_nt_ss_context_mismatch/",
+  "message": "The context handle does not match any known context handles.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0030005",
+  "originalCodeUrl": "/win32/ntstatus-h/rpc_nt_ss_context_mismatch/0xc0030005/"
+}

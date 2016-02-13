@@ -1,0 +1,28 @@
+---
+output: win32\fsrmerr-h\fsrm_e_legacy_schedule\0x80045395\index.html.json
+
+title: 0x80045395 FSRM_E_LEGACY_SCHEDULE in fsrmerr.h
+description: The object contains a schedule that was created by using an earlier version of File Server Resource Manager and that is incompatible with the current version of Windows Server. Edit the schedule on this computer to update it.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "fsrmerr.h",
+  "sourceUrl": "/win32/fsrmerr-h/",
+  "code": "0x80045395",
+  "codeUrl": "/win32/fsrmerr-h/fsrm_e_legacy_schedule/0x80045395/",
+  "numericCode": -2147200107,
+  "define": "FSRM_E_LEGACY_SCHEDULE",
+  "defineUrl": "/win32/fsrmerr-h/fsrm_e_legacy_schedule/",
+  "message": "The object contains a schedule that was created by using an earlier version of File Server Resource Manager and that is incompatible with the current version of Windows Server. Edit the schedule on this computer to update it.",
+  "remarks": null,
+  "aka": [
+    "-2147200107"
+  ],
+  "akaUrl": [
+    "/win32/fsrmerr-h/fsrm_e_legacy_schedule/-2147200107/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

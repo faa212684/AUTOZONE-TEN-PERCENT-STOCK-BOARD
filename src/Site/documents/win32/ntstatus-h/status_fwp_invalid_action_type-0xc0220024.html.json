@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_fwp_invalid_action_type\0xc0220024\index.html.json
+
+title: 0xC0220024 STATUS_FWP_INVALID_ACTION_TYPE in ntstatus.h
+description: The action type is not one of the allowed action types for a filter.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0220024",
+  "codeUrl": "/win32/ntstatus-h/status_fwp_invalid_action_type/0xc0220024/",
+  "numericCode": -1071513564,
+  "define": "STATUS_FWP_INVALID_ACTION_TYPE",
+  "defineUrl": "/win32/ntstatus-h/status_fwp_invalid_action_type/",
+  "message": "The action type is not one of the allowed action types for a filter.",
+  "remarks": null,
+  "aka": [
+    "-1071513564"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_fwp_invalid_action_type/-1071513564/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

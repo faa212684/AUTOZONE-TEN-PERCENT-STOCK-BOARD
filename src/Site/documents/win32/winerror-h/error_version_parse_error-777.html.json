@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_version_parse_error\777\index.html.json
+
+title: 777 ERROR_VERSION_PARSE_ERROR in winerror.h
+description: A version number could not be parsed.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "777",
+  "codeUrl": "/win32/winerror-h/error_version_parse_error/777/",
+  "numericCode": 777,
+  "define": "ERROR_VERSION_PARSE_ERROR",
+  "defineUrl": "/win32/winerror-h/error_version_parse_error/",
+  "message": "A version number could not be parsed.",
+  "remarks": null,
+  "aka": [
+    "0x80070309",
+    "-2147024119"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_version_parse_error/0x80070309/",
+    "/win32/winerror-h/error_version_parse_error/-2147024119/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

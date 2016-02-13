@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\co_e_wrongtrusteenamesyntax\0x8001012c\index.html.json
+
+title: 0x8001012C CO_E_WRONGTRUSTEENAMESYNTAX in winerror.h
+description: One of the trustee strings provided by the user did not conform to the <Domain>\<Name> syntax and it was not the "*" string
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8001012C",
+  "codeUrl": "/win32/winerror-h/co_e_wrongtrusteenamesyntax/0x8001012c/",
+  "numericCode": -2147417812,
+  "define": "CO_E_WRONGTRUSTEENAMESYNTAX",
+  "defineUrl": "/win32/winerror-h/co_e_wrongtrusteenamesyntax/",
+  "message": "One of the trustee strings provided by the user did not conform to the <Domain>\\<Name> syntax and it was not the \"*\" string",
+  "remarks": null,
+  "aka": [
+    "-2147417812"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/co_e_wrongtrusteenamesyntax/-2147417812/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

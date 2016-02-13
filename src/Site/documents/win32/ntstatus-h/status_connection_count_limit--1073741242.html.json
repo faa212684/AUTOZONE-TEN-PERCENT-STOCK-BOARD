@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_connection_count_limit\-1073741242\index.html.json
+canonical: /win32/ntstatus-h/status_connection_count_limit/0xc0000246/
+title: -1073741242 STATUS_CONNECTION_COUNT_LIMIT in ntstatus.h
+description: A connection to the server could not be made because the limit on the number of concurrent connections for this account has been reached.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741242",
+  "codeUrl": "/win32/ntstatus-h/status_connection_count_limit/-1073741242/",
+  "numericCode": 0,
+  "define": "STATUS_CONNECTION_COUNT_LIMIT",
+  "defineUrl": "/win32/ntstatus-h/status_connection_count_limit/",
+  "message": "A connection to the server could not be made because the limit on the number of concurrent connections for this account has been reached.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000246",
+  "originalCodeUrl": "/win32/ntstatus-h/status_connection_count_limit/0xc0000246/"
+}

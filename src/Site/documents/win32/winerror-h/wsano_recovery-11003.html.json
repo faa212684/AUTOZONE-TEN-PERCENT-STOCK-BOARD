@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\wsano_recovery\11003\index.html.json
+
+title: 11003 WSANO_RECOVERY in winerror.h
+description: A non-recoverable error occurred during a database lookup.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "11003",
+  "codeUrl": "/win32/winerror-h/wsano_recovery/11003/",
+  "numericCode": 11003,
+  "define": "WSANO_RECOVERY",
+  "defineUrl": "/win32/winerror-h/wsano_recovery/",
+  "message": "A non-recoverable error occurred during a database lookup.",
+  "remarks": null,
+  "aka": [
+    "0x80072afb",
+    "-2147013893"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/wsano_recovery/0x80072afb/",
+    "/win32/winerror-h/wsano_recovery/-2147013893/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

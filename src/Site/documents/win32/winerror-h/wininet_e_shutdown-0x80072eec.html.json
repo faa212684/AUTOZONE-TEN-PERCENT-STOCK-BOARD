@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\wininet_e_shutdown\0x80072eec\index.html.json
+
+title: 0x80072EEC WININET_E_SHUTDOWN in winerror.h
+description: Microsoft Internet Extension support has been shut down
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80072EEC",
+  "codeUrl": "/win32/winerror-h/wininet_e_shutdown/0x80072eec/",
+  "numericCode": -2147012884,
+  "define": "WININET_E_SHUTDOWN",
+  "defineUrl": "/win32/winerror-h/wininet_e_shutdown/",
+  "message": "Microsoft Internet Extension support has been shut down",
+  "remarks": null,
+  "aka": [
+    "-2147012884"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/wininet_e_shutdown/-2147012884/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

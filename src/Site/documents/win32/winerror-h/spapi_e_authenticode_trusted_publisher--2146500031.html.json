@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\spapi_e_authenticode_trusted_publisher\-2146500031\index.html.json
+canonical: /win32/winerror-h/spapi_e_authenticode_trusted_publisher/0x800f0241/
+title: -2146500031 SPAPI_E_AUTHENTICODE_TRUSTED_PUBLISHER in winerror.h
+description: The INF was signed with an Authenticode(tm) catalog from a trusted publisher.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2146500031",
+  "codeUrl": "/win32/winerror-h/spapi_e_authenticode_trusted_publisher/-2146500031/",
+  "numericCode": 0,
+  "define": "SPAPI_E_AUTHENTICODE_TRUSTED_PUBLISHER",
+  "defineUrl": "/win32/winerror-h/spapi_e_authenticode_trusted_publisher/",
+  "message": "The INF was signed with an Authenticode(tm) catalog from a trusted publisher.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x800F0241",
+  "originalCodeUrl": "/win32/winerror-h/spapi_e_authenticode_trusted_publisher/0x800f0241/"
+}

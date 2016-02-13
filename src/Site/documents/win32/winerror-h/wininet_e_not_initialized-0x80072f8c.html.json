@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\wininet_e_not_initialized\0x80072f8c\index.html.json
+
+title: 0x80072F8C WININET_E_NOT_INITIALIZED in winerror.h
+description: Initialization of the WinINet API has not occurred
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80072F8C",
+  "codeUrl": "/win32/winerror-h/wininet_e_not_initialized/0x80072f8c/",
+  "numericCode": -2147012724,
+  "define": "WININET_E_NOT_INITIALIZED",
+  "defineUrl": "/win32/winerror-h/wininet_e_not_initialized/",
+  "message": "Initialization of the WinINet API has not occurred",
+  "remarks": null,
+  "aka": [
+    "-2147012724"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/wininet_e_not_initialized/-2147012724/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

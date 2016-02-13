@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_tpm_auditfailure\-1071054844\index.html.json
+canonical: /win32/ntstatus-h/status_tpm_auditfailure/0xc0290004/
+title: -1071054844 STATUS_TPM_AUDITFAILURE in ntstatus.h
+description: An operation completed successfully but the auditing of that operation failed.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071054844",
+  "codeUrl": "/win32/ntstatus-h/status_tpm_auditfailure/-1071054844/",
+  "numericCode": 0,
+  "define": "STATUS_TPM_AUDITFAILURE",
+  "defineUrl": "/win32/ntstatus-h/status_tpm_auditfailure/",
+  "message": "An operation completed successfully but the auditing of that operation failed.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0290004",
+  "originalCodeUrl": "/win32/ntstatus-h/status_tpm_auditfailure/0xc0290004/"
+}

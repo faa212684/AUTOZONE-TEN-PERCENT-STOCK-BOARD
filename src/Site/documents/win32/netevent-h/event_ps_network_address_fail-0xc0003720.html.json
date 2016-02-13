@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_ps_network_address_fail\0xc0003720\index.html.json
+
+title: 0xC0003720 EVENT_PS_NETWORK_ADDRESS_FAIL in netevent.h
+description: QoS [Adapter %2]:%nCould not allocate non-paged pool memory for storing network addresses.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC0003720",
+  "codeUrl": "/win32/netevent-h/event_ps_network_address_fail/0xc0003720/",
+  "numericCode": -1073727712,
+  "define": "EVENT_PS_NETWORK_ADDRESS_FAIL",
+  "defineUrl": "/win32/netevent-h/event_ps_network_address_fail/",
+  "message": "QoS [Adapter %2]:%nCould not allocate non-paged pool memory for storing network addresses.",
+  "remarks": null,
+  "aka": [
+    "-1073727712"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_ps_network_address_fail/-1073727712/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_fve_failed_authentication\-1071579119\index.html.json
+canonical: /win32/ntstatus-h/status_fve_failed_authentication/0xc0210011/
+title: -1071579119 STATUS_FVE_FAILED_AUTHENTICATION in ntstatus.h
+description: BitLocker recovery authentication failed.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071579119",
+  "codeUrl": "/win32/ntstatus-h/status_fve_failed_authentication/-1071579119/",
+  "numericCode": 0,
+  "define": "STATUS_FVE_FAILED_AUTHENTICATION",
+  "defineUrl": "/win32/ntstatus-h/status_fve_failed_authentication/",
+  "message": "BitLocker recovery authentication failed.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0210011",
+  "originalCodeUrl": "/win32/ntstatus-h/status_fve_failed_authentication/0xc0210011/"
+}

@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_invalid_environment\1805\index.html.json
+
+title: 1805 ERROR_INVALID_ENVIRONMENT in winerror.h
+description: The environment specified is invalid.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1805",
+  "codeUrl": "/win32/winerror-h/error_invalid_environment/1805/",
+  "numericCode": 1805,
+  "define": "ERROR_INVALID_ENVIRONMENT",
+  "defineUrl": "/win32/winerror-h/error_invalid_environment/",
+  "message": "The environment specified is invalid.",
+  "remarks": null,
+  "aka": [
+    "0x8007070d",
+    "-2147023091"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_invalid_environment/0x8007070d/",
+    "/win32/winerror-h/error_invalid_environment/-2147023091/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

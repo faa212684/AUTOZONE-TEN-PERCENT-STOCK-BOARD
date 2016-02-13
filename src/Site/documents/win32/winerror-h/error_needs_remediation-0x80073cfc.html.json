@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_needs_remediation\0x80073cfc\index.html.json
+canonical: /win32/winerror-h/error_needs_remediation/15612/
+title: 0x80073cfc ERROR_NEEDS_REMEDIATION in winerror.h
+description: The application cannot be started. Try reinstalling the application to fix the problem.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80073cfc",
+  "codeUrl": "/win32/winerror-h/error_needs_remediation/0x80073cfc/",
+  "numericCode": 0,
+  "define": "ERROR_NEEDS_REMEDIATION",
+  "defineUrl": "/win32/winerror-h/error_needs_remediation/",
+  "message": "The application cannot be started. Try reinstalling the application to fix the problem.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "15612",
+  "originalCodeUrl": "/win32/winerror-h/error_needs_remediation/15612/"
+}

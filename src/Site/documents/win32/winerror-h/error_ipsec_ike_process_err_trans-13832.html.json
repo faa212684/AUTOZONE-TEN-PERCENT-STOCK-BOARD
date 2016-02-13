@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ipsec_ike_process_err_trans\13832\index.html.json
+
+title: 13832 ERROR_IPSEC_IKE_PROCESS_ERR_TRANS in winerror.h
+description: Error processing Transform payload
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "13832",
+  "codeUrl": "/win32/winerror-h/error_ipsec_ike_process_err_trans/13832/",
+  "numericCode": 13832,
+  "define": "ERROR_IPSEC_IKE_PROCESS_ERR_TRANS",
+  "defineUrl": "/win32/winerror-h/error_ipsec_ike_process_err_trans/",
+  "message": "Error processing Transform payload",
+  "remarks": null,
+  "aka": [
+    "0x80073608",
+    "-2147011064"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ipsec_ike_process_err_trans/0x80073608/",
+    "/win32/winerror-h/error_ipsec_ike_process_err_trans/-2147011064/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

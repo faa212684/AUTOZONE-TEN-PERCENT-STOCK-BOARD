@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_ds_dra_shutdown\0x8007210f\index.html.json
+canonical: /win32/winerror-h/error_ds_dra_shutdown/8463/
+title: 0x8007210f ERROR_DS_DRA_SHUTDOWN in winerror.h
+description: The replication operation was terminated because the system is shutting down.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007210f",
+  "codeUrl": "/win32/winerror-h/error_ds_dra_shutdown/0x8007210f/",
+  "numericCode": 0,
+  "define": "ERROR_DS_DRA_SHUTDOWN",
+  "defineUrl": "/win32/winerror-h/error_ds_dra_shutdown/",
+  "message": "The replication operation was terminated because the system is shutting down.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "8463",
+  "originalCodeUrl": "/win32/winerror-h/error_ds_dra_shutdown/8463/"
+}

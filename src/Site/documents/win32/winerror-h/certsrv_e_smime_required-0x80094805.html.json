@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\certsrv_e_smime_required\0x80094805\index.html.json
+
+title: 0x80094805 CERTSRV_E_SMIME_REQUIRED in winerror.h
+description: The request is missing a required SMIME capabilities extension.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80094805",
+  "codeUrl": "/win32/winerror-h/certsrv_e_smime_required/0x80094805/",
+  "numericCode": -2146875387,
+  "define": "CERTSRV_E_SMIME_REQUIRED",
+  "defineUrl": "/win32/winerror-h/certsrv_e_smime_required/",
+  "message": "The request is missing a required SMIME capabilities extension.",
+  "remarks": null,
+  "aka": [
+    "-2146875387"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/certsrv_e_smime_required/-2146875387/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

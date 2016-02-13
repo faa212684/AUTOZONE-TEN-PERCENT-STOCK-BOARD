@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_promotion_active\8221\index.html.json
+
+title: 8221 ERROR_PROMOTION_ACTIVE in winerror.h
+description: A domain controller promotion is currently active.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "8221",
+  "codeUrl": "/win32/winerror-h/error_promotion_active/8221/",
+  "numericCode": 8221,
+  "define": "ERROR_PROMOTION_ACTIVE",
+  "defineUrl": "/win32/winerror-h/error_promotion_active/",
+  "message": "A domain controller promotion is currently active.",
+  "remarks": null,
+  "aka": [
+    "0x8007201d",
+    "-2147016675"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_promotion_active/0x8007201d/",
+    "/win32/winerror-h/error_promotion_active/-2147016675/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

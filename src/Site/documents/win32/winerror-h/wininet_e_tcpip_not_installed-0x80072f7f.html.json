@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\wininet_e_tcpip_not_installed\0x80072f7f\index.html.json
+
+title: 0x80072F7F WININET_E_TCPIP_NOT_INSTALLED in winerror.h
+description: The TCP/IP protocol is not installed properly
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80072F7F",
+  "codeUrl": "/win32/winerror-h/wininet_e_tcpip_not_installed/0x80072f7f/",
+  "numericCode": -2147012737,
+  "define": "WININET_E_TCPIP_NOT_INSTALLED",
+  "defineUrl": "/win32/winerror-h/wininet_e_tcpip_not_installed/",
+  "message": "The TCP/IP protocol is not installed properly",
+  "remarks": null,
+  "aka": [
+    "-2147012737"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/wininet_e_tcpip_not_installed/-2147012737/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

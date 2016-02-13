@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\e_bluetooth_att_insufficient_encryption_key_size\0x8065000c\index.html.json
+
+title: 0x8065000C E_BLUETOOTH_ATT_INSUFFICIENT_ENCRYPTION_KEY_SIZE in winerror.h
+description: The Encryption Key Size used for encrypting this link is insufficient.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8065000C",
+  "codeUrl": "/win32/winerror-h/e_bluetooth_att_insufficient_encryption_key_size/0x8065000c/",
+  "numericCode": -2140864500,
+  "define": "E_BLUETOOTH_ATT_INSUFFICIENT_ENCRYPTION_KEY_SIZE",
+  "defineUrl": "/win32/winerror-h/e_bluetooth_att_insufficient_encryption_key_size/",
+  "message": "The Encryption Key Size used for encrypting this link is insufficient.",
+  "remarks": null,
+  "aka": [
+    "-2140864500"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/e_bluetooth_att_insufficient_encryption_key_size/-2140864500/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

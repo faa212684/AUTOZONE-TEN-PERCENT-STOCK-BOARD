@@ -1,0 +1,28 @@
+---
+output: bugcheck\bugcodes-h\interrupt_exception_not_handled\0x0000003d\index.html.json
+
+title: 0x0000003D INTERRUPT_EXCEPTION_NOT_HANDLED in bugcodes.h
+description: INTERRUPT_EXCEPTION_NOT_HANDLED
+disqus: true
+---
+{
+  "area": "bugcheck",
+  "areaUrl": "/bugcheck/",
+  "source": "bugcodes.h",
+  "sourceUrl": "/bugcheck/bugcodes-h/",
+  "code": "0x0000003D",
+  "codeUrl": "/bugcheck/bugcodes-h/interrupt_exception_not_handled/0x0000003d/",
+  "numericCode": 61,
+  "define": "INTERRUPT_EXCEPTION_NOT_HANDLED",
+  "defineUrl": "/bugcheck/bugcodes-h/interrupt_exception_not_handled/",
+  "message": "INTERRUPT_EXCEPTION_NOT_HANDLED",
+  "remarks": null,
+  "aka": [
+    "61"
+  ],
+  "akaUrl": [
+    "/bugcheck/bugcodes-h/interrupt_exception_not_handled/61/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

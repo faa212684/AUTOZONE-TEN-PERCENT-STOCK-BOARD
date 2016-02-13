@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_ipsec_throttle_drop\0x8007365e\index.html.json
+canonical: /win32/winerror-h/error_ipsec_throttle_drop/13918/
+title: 0x8007365e ERROR_IPSEC_THROTTLE_DROP in winerror.h
+description: IPsec dropped a packet due to DoS throttling.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007365e",
+  "codeUrl": "/win32/winerror-h/error_ipsec_throttle_drop/0x8007365e/",
+  "numericCode": 0,
+  "define": "ERROR_IPSEC_THROTTLE_DROP",
+  "defineUrl": "/win32/winerror-h/error_ipsec_throttle_drop/",
+  "message": "IPsec dropped a packet due to DoS throttling.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "13918",
+  "originalCodeUrl": "/win32/winerror-h/error_ipsec_throttle_drop/13918/"
+}

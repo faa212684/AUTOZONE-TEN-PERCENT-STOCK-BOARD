@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_cluster_node_already_up\5061\index.html.json
+
+title: 5061 ERROR_CLUSTER_NODE_ALREADY_UP in winerror.h
+description: The cluster node is already up.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "5061",
+  "codeUrl": "/win32/winerror-h/error_cluster_node_already_up/5061/",
+  "numericCode": 5061,
+  "define": "ERROR_CLUSTER_NODE_ALREADY_UP",
+  "defineUrl": "/win32/winerror-h/error_cluster_node_already_up/",
+  "message": "The cluster node is already up.",
+  "remarks": null,
+  "aka": [
+    "0x800713c5",
+    "-2147019835"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_cluster_node_already_up/0x800713c5/",
+    "/win32/winerror-h/error_cluster_node_already_up/-2147019835/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

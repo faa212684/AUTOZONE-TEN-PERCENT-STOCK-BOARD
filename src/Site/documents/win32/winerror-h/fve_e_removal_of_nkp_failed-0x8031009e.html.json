@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\fve_e_removal_of_nkp_failed\0x8031009e\index.html.json
+
+title: 0x8031009E FVE_E_REMOVAL_OF_NKP_FAILED in winerror.h
+description: Removal of the Network Key Protector certificate must be done using the Certificates snap-in.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8031009E",
+  "codeUrl": "/win32/winerror-h/fve_e_removal_of_nkp_failed/0x8031009e/",
+  "numericCode": -2144272226,
+  "define": "FVE_E_REMOVAL_OF_NKP_FAILED",
+  "defineUrl": "/win32/winerror-h/fve_e_removal_of_nkp_failed/",
+  "message": "Removal of the Network Key Protector certificate must be done using the Certificates snap-in.",
+  "remarks": null,
+  "aka": [
+    "-2144272226"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/fve_e_removal_of_nkp_failed/-2144272226/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

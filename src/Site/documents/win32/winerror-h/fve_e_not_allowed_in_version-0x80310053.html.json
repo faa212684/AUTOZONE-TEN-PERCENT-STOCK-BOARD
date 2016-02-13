@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\fve_e_not_allowed_in_version\0x80310053\index.html.json
+
+title: 0x80310053 FVE_E_NOT_ALLOWED_IN_VERSION in winerror.h
+description: BitLocker Drive Encryption can only be used for limited provisioning or recovery purposes when the computer is running in pre-installation or recovery environments.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80310053",
+  "codeUrl": "/win32/winerror-h/fve_e_not_allowed_in_version/0x80310053/",
+  "numericCode": -2144272301,
+  "define": "FVE_E_NOT_ALLOWED_IN_VERSION",
+  "defineUrl": "/win32/winerror-h/fve_e_not_allowed_in_version/",
+  "message": "BitLocker Drive Encryption can only be used for limited provisioning or recovery purposes when the computer is running in pre-installation or recovery environments.",
+  "remarks": null,
+  "aka": [
+    "-2144272301"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/fve_e_not_allowed_in_version/-2144272301/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

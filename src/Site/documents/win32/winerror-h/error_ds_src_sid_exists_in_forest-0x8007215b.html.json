@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_ds_src_sid_exists_in_forest\0x8007215b\index.html.json
+canonical: /win32/winerror-h/error_ds_src_sid_exists_in_forest/8539/
+title: 0x8007215b ERROR_DS_SRC_SID_EXISTS_IN_FOREST in winerror.h
+description: The source object's SID already exists in destination forest.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007215b",
+  "codeUrl": "/win32/winerror-h/error_ds_src_sid_exists_in_forest/0x8007215b/",
+  "numericCode": 0,
+  "define": "ERROR_DS_SRC_SID_EXISTS_IN_FOREST",
+  "defineUrl": "/win32/winerror-h/error_ds_src_sid_exists_in_forest/",
+  "message": "The source object's SID already exists in destination forest.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "8539",
+  "originalCodeUrl": "/win32/winerror-h/error_ds_src_sid_exists_in_forest/8539/"
+}

@@ -1,0 +1,29 @@
+---
+output: win32\cdosyserr-h\evtexpstat\0xc0032013\index.html.json
+
+title: 0xC0032013 evtExpStat in CDOSysErr.h
+description: Calendaring agent failed in the following function with error code: %1.
+%n%nFor more information, click http:www.microsoft.com/contentredirect.asp.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "CDOSysErr.h",
+  "sourceUrl": "/win32/cdosyserr-h/",
+  "code": "0xC0032013",
+  "codeUrl": "/win32/cdosyserr-h/evtexpstat/0xc0032013/",
+  "numericCode": -1073537005,
+  "define": "evtExpStat",
+  "defineUrl": "/win32/cdosyserr-h/evtexpstat/",
+  "message": "Calendaring agent failed in the following function with error code: %1.\r\n%n%nFor more information, click http:www.microsoft.com/contentredirect.asp.",
+  "remarks": null,
+  "aka": [
+    "-1073537005"
+  ],
+  "akaUrl": [
+    "/win32/cdosyserr-h/evtexpstat/-1073537005/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

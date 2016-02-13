@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_issuing_ca_untrusted_kdc\-1073740787\index.html.json
+canonical: /win32/ntstatus-h/status_issuing_ca_untrusted_kdc/0xc000040d/
+title: -1073740787 STATUS_ISSUING_CA_UNTRUSTED_KDC in ntstatus.h
+description: An untrusted certificate authority was detected while processing the domain controller certificate used for authentication. There is additional information in the system event log. Please contact your system administrator.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073740787",
+  "codeUrl": "/win32/ntstatus-h/status_issuing_ca_untrusted_kdc/-1073740787/",
+  "numericCode": 0,
+  "define": "STATUS_ISSUING_CA_UNTRUSTED_KDC",
+  "defineUrl": "/win32/ntstatus-h/status_issuing_ca_untrusted_kdc/",
+  "message": "An untrusted certificate authority was detected while processing the domain controller certificate used for authentication. There is additional information in the system event log. Please contact your system administrator.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC000040D",
+  "originalCodeUrl": "/win32/ntstatus-h/status_issuing_ca_untrusted_kdc/0xc000040d/"
+}

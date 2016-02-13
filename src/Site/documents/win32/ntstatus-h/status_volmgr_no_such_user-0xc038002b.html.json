@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_volmgr_no_such_user\0xc038002b\index.html.json
+
+title: 0xC038002B STATUS_VOLMGR_NO_SUCH_USER in ntstatus.h
+description: The specified notification user does not exist. Failed to unregister user for notifications.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC038002B",
+  "codeUrl": "/win32/ntstatus-h/status_volmgr_no_such_user/0xc038002b/",
+  "numericCode": -1070071765,
+  "define": "STATUS_VOLMGR_NO_SUCH_USER",
+  "defineUrl": "/win32/ntstatus-h/status_volmgr_no_such_user/",
+  "message": "The specified notification user does not exist. Failed to unregister user for notifications.",
+  "remarks": null,
+  "aka": [
+    "-1070071765"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_volmgr_no_such_user/-1070071765/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

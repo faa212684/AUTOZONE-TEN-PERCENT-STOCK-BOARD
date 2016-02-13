@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_key_has_children\0xc0000180\index.html.json
+
+title: 0xC0000180 STATUS_KEY_HAS_CHILDREN in ntstatus.h
+description: An attempt was made to create a symbolic link in a registry key that already has subkeys or values.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000180",
+  "codeUrl": "/win32/ntstatus-h/status_key_has_children/0xc0000180/",
+  "numericCode": -1073741440,
+  "define": "STATUS_KEY_HAS_CHILDREN",
+  "defineUrl": "/win32/ntstatus-h/status_key_has_children/",
+  "message": "An attempt was made to create a symbolic link in a registry key that already has subkeys or values.",
+  "remarks": null,
+  "aka": [
+    "-1073741440"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_key_has_children/-1073741440/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

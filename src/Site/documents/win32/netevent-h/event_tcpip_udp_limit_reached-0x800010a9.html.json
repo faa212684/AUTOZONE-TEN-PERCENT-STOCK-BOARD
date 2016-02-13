@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_tcpip_udp_limit_reached\0x800010a9\index.html.json
+
+title: 0x800010A9 EVENT_TCPIP_UDP_LIMIT_REACHED in netevent.h
+description: Backlog of pending datagram sends reached. Please increase the value of Tcpip\Parameters\DGMaxSendFree in the registry.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x800010A9",
+  "codeUrl": "/win32/netevent-h/event_tcpip_udp_limit_reached/0x800010a9/",
+  "numericCode": -2147479383,
+  "define": "EVENT_TCPIP_UDP_LIMIT_REACHED",
+  "defineUrl": "/win32/netevent-h/event_tcpip_udp_limit_reached/",
+  "message": "Backlog of pending datagram sends reached. Please increase the value of Tcpip\\Parameters\\DGMaxSendFree in the registry.",
+  "remarks": null,
+  "aka": [
+    "-2147479383"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_tcpip_udp_limit_reached/-2147479383/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

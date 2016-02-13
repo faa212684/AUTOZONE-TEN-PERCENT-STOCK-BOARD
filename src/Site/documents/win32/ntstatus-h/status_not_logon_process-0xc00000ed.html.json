@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_not_logon_process\0xc00000ed\index.html.json
+
+title: 0xC00000ED STATUS_NOT_LOGON_PROCESS in ntstatus.h
+description: The requested action is restricted for use by logon processes only. The calling process has not registered as a logon process.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC00000ED",
+  "codeUrl": "/win32/ntstatus-h/status_not_logon_process/0xc00000ed/",
+  "numericCode": -1073741587,
+  "define": "STATUS_NOT_LOGON_PROCESS",
+  "defineUrl": "/win32/ntstatus-h/status_not_logon_process/",
+  "message": "The requested action is restricted for use by logon processes only. The calling process has not registered as a logon process.",
+  "remarks": null,
+  "aka": [
+    "-1073741587"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_not_logon_process/-1073741587/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

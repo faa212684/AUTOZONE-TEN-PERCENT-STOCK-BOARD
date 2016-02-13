@@ -1,0 +1,24 @@
+---
+output: win32\windowssearcherrors-h\event_indexer_reset_for_corruption\-1073734784\index.html.json
+canonical: /win32/windowssearcherrors-h/event_indexer_reset_for_corruption/0xc0001b80/
+title: -1073734784 EVENT_INDEXER_RESET_FOR_CORRUPTION in WindowsSearchErrors.h
+description: The search service has detected corrupted data files in the index {id=%2}. The service will attempt to automatically correct this problem by rebuilding the index.%1
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "-1073734784",
+  "codeUrl": "/win32/windowssearcherrors-h/event_indexer_reset_for_corruption/-1073734784/",
+  "numericCode": 0,
+  "define": "EVENT_INDEXER_RESET_FOR_CORRUPTION",
+  "defineUrl": "/win32/windowssearcherrors-h/event_indexer_reset_for_corruption/",
+  "message": "The search service has detected corrupted data files in the index {id=%2}. The service will attempt to automatically correct this problem by rebuilding the index.%1",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0001B80",
+  "originalCodeUrl": "/win32/windowssearcherrors-h/event_indexer_reset_for_corruption/0xc0001b80/"
+}

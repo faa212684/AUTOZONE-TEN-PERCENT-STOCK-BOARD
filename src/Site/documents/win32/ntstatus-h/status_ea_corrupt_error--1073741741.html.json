@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_ea_corrupt_error\-1073741741\index.html.json
+canonical: /win32/ntstatus-h/status_ea_corrupt_error/0xc0000053/
+title: -1073741741 STATUS_EA_CORRUPT_ERROR in ntstatus.h
+description: The EA is corrupt and non-readable.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741741",
+  "codeUrl": "/win32/ntstatus-h/status_ea_corrupt_error/-1073741741/",
+  "numericCode": 0,
+  "define": "STATUS_EA_CORRUPT_ERROR",
+  "defineUrl": "/win32/ntstatus-h/status_ea_corrupt_error/",
+  "message": "The EA is corrupt and non-readable.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000053",
+  "originalCodeUrl": "/win32/ntstatus-h/status_ea_corrupt_error/0xc0000053/"
+}

@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_generic_not_mapped\0xc00000e6\index.html.json
+
+title: 0xC00000E6 STATUS_GENERIC_NOT_MAPPED in ntstatus.h
+description: Indicates generic access types were contained in an access mask which should already be mapped to non-generic access types.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC00000E6",
+  "codeUrl": "/win32/ntstatus-h/status_generic_not_mapped/0xc00000e6/",
+  "numericCode": -1073741594,
+  "define": "STATUS_GENERIC_NOT_MAPPED",
+  "defineUrl": "/win32/ntstatus-h/status_generic_not_mapped/",
+  "message": "Indicates generic access types were contained in an access mask which should already be mapped to non-generic access types.",
+  "remarks": null,
+  "aka": [
+    "-1073741594"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_generic_not_mapped/-1073741594/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

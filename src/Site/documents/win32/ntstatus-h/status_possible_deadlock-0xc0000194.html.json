@@ -1,0 +1,29 @@
+---
+output: win32\ntstatus-h\status_possible_deadlock\0xc0000194\index.html.json
+
+title: 0xC0000194 STATUS_POSSIBLE_DEADLOCK in ntstatus.h
+description: "{EXCEPTION}
+Possible deadlock condition."
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000194",
+  "codeUrl": "/win32/ntstatus-h/status_possible_deadlock/0xc0000194/",
+  "numericCode": -1073741420,
+  "define": "STATUS_POSSIBLE_DEADLOCK",
+  "defineUrl": "/win32/ntstatus-h/status_possible_deadlock/",
+  "message": "{EXCEPTION}\r\nPossible deadlock condition.",
+  "remarks": null,
+  "aka": [
+    "-1073741420"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_possible_deadlock/-1073741420/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

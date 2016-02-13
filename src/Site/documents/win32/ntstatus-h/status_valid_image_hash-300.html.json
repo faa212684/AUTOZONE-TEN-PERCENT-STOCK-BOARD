@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_valid_image_hash\300\index.html.json
+canonical: /win32/ntstatus-h/status_valid_image_hash/0x0000012c/
+title: 300 STATUS_VALID_IMAGE_HASH in ntstatus.h
+description: The file image hash is valid.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "300",
+  "codeUrl": "/win32/ntstatus-h/status_valid_image_hash/300/",
+  "numericCode": 0,
+  "define": "STATUS_VALID_IMAGE_HASH",
+  "defineUrl": "/win32/ntstatus-h/status_valid_image_hash/",
+  "message": "The file image hash is valid.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x0000012C",
+  "originalCodeUrl": "/win32/ntstatus-h/status_valid_image_hash/0x0000012c/"
+}

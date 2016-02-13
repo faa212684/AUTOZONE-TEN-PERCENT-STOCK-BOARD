@@ -1,0 +1,29 @@
+---
+output: win32\vdserr-h\vds_e_distinct_volume\0x8004257b\index.html.json
+
+title: 0x8004257B VDS_E_DISTINCT_VOLUME in vdserr.h
+description: The input volume id cannot be the id of the volume that is the target of 
+the operation.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x8004257B",
+  "codeUrl": "/win32/vdserr-h/vds_e_distinct_volume/0x8004257b/",
+  "numericCode": -2147211909,
+  "define": "VDS_E_DISTINCT_VOLUME",
+  "defineUrl": "/win32/vdserr-h/vds_e_distinct_volume/",
+  "message": "The input volume id cannot be the id of the volume that is the target of \r\nthe operation.",
+  "remarks": null,
+  "aka": [
+    "-2147211909"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_distinct_volume/-2147211909/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

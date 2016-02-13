@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\wsa_qos_esdmodeobj\0x80072b15\index.html.json
+canonical: /win32/winerror-h/wsa_qos_esdmodeobj/11029/
+title: 0x80072b15 WSA_QOS_ESDMODEOBJ in winerror.h
+description: An invalid shape discard mode object was found in the QOS provider specific buffer.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80072b15",
+  "codeUrl": "/win32/winerror-h/wsa_qos_esdmodeobj/0x80072b15/",
+  "numericCode": 0,
+  "define": "WSA_QOS_ESDMODEOBJ",
+  "defineUrl": "/win32/winerror-h/wsa_qos_esdmodeobj/",
+  "message": "An invalid shape discard mode object was found in the QOS provider specific buffer.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "11029",
+  "originalCodeUrl": "/win32/winerror-h/wsa_qos_esdmodeobj/11029/"
+}

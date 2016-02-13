@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\tpc_e_invalid_rights\-2147220938\index.html.json
+canonical: /win32/winerror-h/tpc_e_invalid_rights/0x80040236/
+title: -2147220938 TPC_E_INVALID_RIGHTS in winerror.h
+description: TabletPC inking error code. User does not have the necessary rights to read recognizer information
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147220938",
+  "codeUrl": "/win32/winerror-h/tpc_e_invalid_rights/-2147220938/",
+  "numericCode": 0,
+  "define": "TPC_E_INVALID_RIGHTS",
+  "defineUrl": "/win32/winerror-h/tpc_e_invalid_rights/",
+  "message": "TabletPC inking error code. User does not have the necessary rights to read recognizer information",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80040236",
+  "originalCodeUrl": "/win32/winerror-h/tpc_e_invalid_rights/0x80040236/"
+}

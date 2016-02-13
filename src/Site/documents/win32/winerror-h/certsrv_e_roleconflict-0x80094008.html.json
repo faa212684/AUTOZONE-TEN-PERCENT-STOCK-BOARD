@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\certsrv_e_roleconflict\0x80094008\index.html.json
+
+title: 0x80094008 CERTSRV_E_ROLECONFLICT in winerror.h
+description: The operation is denied. The user has multiple roles assigned and the certification authority is configured to enforce role separation.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80094008",
+  "codeUrl": "/win32/winerror-h/certsrv_e_roleconflict/0x80094008/",
+  "numericCode": -2146877432,
+  "define": "CERTSRV_E_ROLECONFLICT",
+  "defineUrl": "/win32/winerror-h/certsrv_e_roleconflict/",
+  "message": "The operation is denied. The user has multiple roles assigned and the certification authority is configured to enforce role separation.",
+  "remarks": null,
+  "aka": [
+    "-2146877432"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/certsrv_e_roleconflict/-2146877432/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

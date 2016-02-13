@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_apiset_not_hosted\-1073740671\index.html.json
+canonical: /win32/ntstatus-h/status_apiset_not_hosted/0xc0000481/
+title: -1073740671 STATUS_APISET_NOT_HOSTED in ntstatus.h
+description: The target dll was not found because the apiset %hs is not hosted.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073740671",
+  "codeUrl": "/win32/ntstatus-h/status_apiset_not_hosted/-1073740671/",
+  "numericCode": 0,
+  "define": "STATUS_APISET_NOT_HOSTED",
+  "defineUrl": "/win32/ntstatus-h/status_apiset_not_hosted/",
+  "message": "The target dll was not found because the apiset %hs is not hosted.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000481",
+  "originalCodeUrl": "/win32/ntstatus-h/status_apiset_not_hosted/0xc0000481/"
+}

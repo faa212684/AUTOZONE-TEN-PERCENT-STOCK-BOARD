@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_rm_not_active\6801\index.html.json
+
+title: 6801 ERROR_RM_NOT_ACTIVE in winerror.h
+description: Transaction support within the specified resource manager is not started or was shut down due to an error.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "6801",
+  "codeUrl": "/win32/winerror-h/error_rm_not_active/6801/",
+  "numericCode": 6801,
+  "define": "ERROR_RM_NOT_ACTIVE",
+  "defineUrl": "/win32/winerror-h/error_rm_not_active/",
+  "message": "Transaction support within the specified resource manager is not started or was shut down due to an error.",
+  "remarks": null,
+  "aka": [
+    "0x80071a91",
+    "-2147018095"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_rm_not_active/0x80071a91/",
+    "/win32/winerror-h/error_rm_not_active/-2147018095/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

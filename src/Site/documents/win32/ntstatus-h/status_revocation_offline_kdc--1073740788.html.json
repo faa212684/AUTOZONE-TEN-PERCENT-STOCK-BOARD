@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_revocation_offline_kdc\-1073740788\index.html.json
+canonical: /win32/ntstatus-h/status_revocation_offline_kdc/0xc000040c/
+title: -1073740788 STATUS_REVOCATION_OFFLINE_KDC in ntstatus.h
+description: The revocation status of the domain controller certificate used for smartcard authentication could not be determined. There is additional information in the system event log. Please contact your system administrator.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073740788",
+  "codeUrl": "/win32/ntstatus-h/status_revocation_offline_kdc/-1073740788/",
+  "numericCode": 0,
+  "define": "STATUS_REVOCATION_OFFLINE_KDC",
+  "defineUrl": "/win32/ntstatus-h/status_revocation_offline_kdc/",
+  "message": "The revocation status of the domain controller certificate used for smartcard authentication could not be determined. There is additional information in the system event log. Please contact your system administrator.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC000040C",
+  "originalCodeUrl": "/win32/ntstatus-h/status_revocation_offline_kdc/0xc000040c/"
+}

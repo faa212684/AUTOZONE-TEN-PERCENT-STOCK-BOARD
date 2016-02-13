@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ds_root_must_be_nc\8301\index.html.json
+
+title: 8301 ERROR_DS_ROOT_MUST_BE_NC in winerror.h
+description: The root object must be the head of a naming context. The root object cannot have an instantiated parent.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "8301",
+  "codeUrl": "/win32/winerror-h/error_ds_root_must_be_nc/8301/",
+  "numericCode": 8301,
+  "define": "ERROR_DS_ROOT_MUST_BE_NC",
+  "defineUrl": "/win32/winerror-h/error_ds_root_must_be_nc/",
+  "message": "The root object must be the head of a naming context. The root object cannot have an instantiated parent.",
+  "remarks": null,
+  "aka": [
+    "0x8007206d",
+    "-2147016595"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ds_root_must_be_nc/0x8007206d/",
+    "/win32/winerror-h/error_ds_root_must_be_nc/-2147016595/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

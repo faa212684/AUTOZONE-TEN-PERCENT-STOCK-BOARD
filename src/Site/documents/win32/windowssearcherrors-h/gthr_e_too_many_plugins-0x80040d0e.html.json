@@ -1,0 +1,28 @@
+---
+output: win32\windowssearcherrors-h\gthr_e_too_many_plugins\0x80040d0e\index.html.json
+
+title: 0x80040D0E GTHR_E_TOO_MANY_PLUGINS in WindowsSearchErrors.h
+description: The gatherer attempted to create more gatherer plug-in objects than are allowed. Remove another plug-in before adding this one.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "0x80040D0E",
+  "codeUrl": "/win32/windowssearcherrors-h/gthr_e_too_many_plugins/0x80040d0e/",
+  "numericCode": -2147218162,
+  "define": "GTHR_E_TOO_MANY_PLUGINS",
+  "defineUrl": "/win32/windowssearcherrors-h/gthr_e_too_many_plugins/",
+  "message": "The gatherer attempted to create more gatherer plug-in objects than are allowed. Remove another plug-in before adding this one.",
+  "remarks": null,
+  "aka": [
+    "-2147218162"
+  ],
+  "akaUrl": [
+    "/win32/windowssearcherrors-h/gthr_e_too_many_plugins/-2147218162/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

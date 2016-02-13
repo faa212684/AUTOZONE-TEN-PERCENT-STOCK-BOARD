@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_cluster_database_transaction_not_in_progress\0x8007171f\index.html.json
+canonical: /win32/winerror-h/error_cluster_database_transaction_not_in_progress/5919/
+title: 0x8007171f ERROR_CLUSTER_DATABASE_TRANSACTION_NOT_IN_PROGRESS in winerror.h
+description: An internal cluster error occurred. There was an attempt to commit a cluster database transaction while no transaction was in progress.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007171f",
+  "codeUrl": "/win32/winerror-h/error_cluster_database_transaction_not_in_progress/0x8007171f/",
+  "numericCode": 0,
+  "define": "ERROR_CLUSTER_DATABASE_TRANSACTION_NOT_IN_PROGRESS",
+  "defineUrl": "/win32/winerror-h/error_cluster_database_transaction_not_in_progress/",
+  "message": "An internal cluster error occurred. There was an attempt to commit a cluster database transaction while no transaction was in progress.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "5919",
+  "originalCodeUrl": "/win32/winerror-h/error_cluster_database_transaction_not_in_progress/5919/"
+}

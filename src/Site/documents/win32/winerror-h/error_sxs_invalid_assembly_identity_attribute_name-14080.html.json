@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_sxs_invalid_assembly_identity_attribute_name\14080\index.html.json
+
+title: 14080 ERROR_SXS_INVALID_ASSEMBLY_IDENTITY_ATTRIBUTE_NAME in winerror.h
+description: The supplied assembly identity has one or more attribute names that contain characters not permitted in XML names.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "14080",
+  "codeUrl": "/win32/winerror-h/error_sxs_invalid_assembly_identity_attribute_name/14080/",
+  "numericCode": 14080,
+  "define": "ERROR_SXS_INVALID_ASSEMBLY_IDENTITY_ATTRIBUTE_NAME",
+  "defineUrl": "/win32/winerror-h/error_sxs_invalid_assembly_identity_attribute_name/",
+  "message": "The supplied assembly identity has one or more attribute names that contain characters not permitted in XML names.",
+  "remarks": null,
+  "aka": [
+    "0x80073700",
+    "-2147010816"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_sxs_invalid_assembly_identity_attribute_name/0x80073700/",
+    "/win32/winerror-h/error_sxs_invalid_assembly_identity_attribute_name/-2147010816/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

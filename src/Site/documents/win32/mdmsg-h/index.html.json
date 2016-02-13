@@ -1,0 +1,41 @@
+---
+layout: list
+title: win32 Mdmsg.h
+description: win32
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "Mdmsg.h",
+  "sourceUrl": "/win32/mdmsg-h/",
+  "items": [
+    "0x000CC803",
+    "0x000CC804",
+    "0x000CC805",
+    "0x000CC807",
+    "0x000CC809",
+    "0x800CC800",
+    "0x800CC801",
+    "0x800CC802",
+    "0x800CC806",
+    "0x800CC808",
+    "0x800CC810",
+    "0x800CC819",
+    "0x800CC81D"
+  ],
+  "itemUrls": [
+    "/win32/mdmsg-h/md_warning_path_not_found/0x000cc803/",
+    "/win32/mdmsg-h/md_warning_dup_name/0x000cc804/",
+    "/win32/mdmsg-h/md_warning_invalid_data/0x000cc805/",
+    "/win32/mdmsg-h/md_warning_path_not_inserted/0x000cc807/",
+    "/win32/mdmsg-h/md_warning_save_failed/0x000cc809/",
+    "/win32/mdmsg-h/md_error_not_initialized/0x800cc800/",
+    "/win32/mdmsg-h/md_error_data_not_found/0x800cc801/",
+    "/win32/mdmsg-h/md_error_invalid_version/0x800cc802/",
+    "/win32/mdmsg-h/md_error_secure_channel_failure/0x800cc806/",
+    "/win32/mdmsg-h/md_error_cannot_remove_secure_attribute/0x800cc808/",
+    "/win32/mdmsg-h/md_error_iisao_invalid_schema/0x800cc810/",
+    "/win32/mdmsg-h/md_error_read_metabase_file/0x800cc819/",
+    "/win32/mdmsg-h/md_error_no_session_key/0x800cc81d/"
+  ]
+}

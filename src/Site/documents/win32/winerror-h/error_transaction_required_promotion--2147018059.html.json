@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_transaction_required_promotion\-2147018059\index.html.json
+canonical: /win32/winerror-h/error_transaction_required_promotion/6837/
+title: -2147018059 ERROR_TRANSACTION_REQUIRED_PROMOTION in winerror.h
+description: Promotion was required in order to allow the resource manager to enlist, but the transaction was set to disallow it.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147018059",
+  "codeUrl": "/win32/winerror-h/error_transaction_required_promotion/-2147018059/",
+  "numericCode": 0,
+  "define": "ERROR_TRANSACTION_REQUIRED_PROMOTION",
+  "defineUrl": "/win32/winerror-h/error_transaction_required_promotion/",
+  "message": "Promotion was required in order to allow the resource manager to enlist, but the transaction was set to disallow it.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "6837",
+  "originalCodeUrl": "/win32/winerror-h/error_transaction_required_promotion/6837/"
+}

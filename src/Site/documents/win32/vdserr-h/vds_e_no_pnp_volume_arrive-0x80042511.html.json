@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_e_no_pnp_volume_arrive\0x80042511\index.html.json
+
+title: 0x80042511 VDS_E_NO_PNP_VOLUME_ARRIVE in vdserr.h
+description: No volume arrival notification was received.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x80042511",
+  "codeUrl": "/win32/vdserr-h/vds_e_no_pnp_volume_arrive/0x80042511/",
+  "numericCode": -2147212015,
+  "define": "VDS_E_NO_PNP_VOLUME_ARRIVE",
+  "defineUrl": "/win32/vdserr-h/vds_e_no_pnp_volume_arrive/",
+  "message": "No volume arrival notification was received.",
+  "remarks": null,
+  "aka": [
+    "-2147212015"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_no_pnp_volume_arrive/-2147212015/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_vhd_parent_vhd_access_denied\-1069940714\index.html.json
+canonical: /win32/winerror-h/error_vhd_parent_vhd_access_denied/0xc03a0016/
+title: -1069940714 ERROR_VHD_PARENT_VHD_ACCESS_DENIED in winerror.h
+description: The chain of virtual hard disks is inaccessible. The process has not been granted access rights to the parent virtual hard disk for the differencing disk.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-1069940714",
+  "codeUrl": "/win32/winerror-h/error_vhd_parent_vhd_access_denied/-1069940714/",
+  "numericCode": 0,
+  "define": "ERROR_VHD_PARENT_VHD_ACCESS_DENIED",
+  "defineUrl": "/win32/winerror-h/error_vhd_parent_vhd_access_denied/",
+  "message": "The chain of virtual hard disks is inaccessible. The process has not been granted access rights to the parent virtual hard disk for the differencing disk.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC03A0016",
+  "originalCodeUrl": "/win32/winerror-h/error_vhd_parent_vhd_access_denied/0xc03a0016/"
+}

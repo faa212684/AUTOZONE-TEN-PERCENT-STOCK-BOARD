@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_fve_virtualized_space_too_big\0xc0210029\index.html.json
+
+title: 0xC0210029 STATUS_FVE_VIRTUALIZED_SPACE_TOO_BIG in ntstatus.h
+description: The requested virtualization size is too big.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0210029",
+  "codeUrl": "/win32/ntstatus-h/status_fve_virtualized_space_too_big/0xc0210029/",
+  "numericCode": -1071579095,
+  "define": "STATUS_FVE_VIRTUALIZED_SPACE_TOO_BIG",
+  "defineUrl": "/win32/ntstatus-h/status_fve_virtualized_space_too_big/",
+  "message": "The requested virtualization size is too big.",
+  "remarks": null,
+  "aka": [
+    "-1071579095"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_fve_virtualized_space_too_big/-1071579095/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

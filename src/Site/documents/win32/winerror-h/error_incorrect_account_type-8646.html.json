@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_incorrect_account_type\8646\index.html.json
+
+title: 8646 ERROR_INCORRECT_ACCOUNT_TYPE in winerror.h
+description: The system is not authoritative for the specified account and therefore cannot complete the operation. Please retry the operation using the provider associated with this account. If this is an online provider please use the provider's online site.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "8646",
+  "codeUrl": "/win32/winerror-h/error_incorrect_account_type/8646/",
+  "numericCode": 8646,
+  "define": "ERROR_INCORRECT_ACCOUNT_TYPE",
+  "defineUrl": "/win32/winerror-h/error_incorrect_account_type/",
+  "message": "The system is not authoritative for the specified account and therefore cannot complete the operation. Please retry the operation using the provider associated with this account. If this is an online provider please use the provider's online site.",
+  "remarks": null,
+  "aka": [
+    "0x800721c6",
+    "-2147016250"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_incorrect_account_type/0x800721c6/",
+    "/win32/winerror-h/error_incorrect_account_type/-2147016250/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_timer_not_canceled\0xc000000c\index.html.json
+
+title: 0xC000000C STATUS_TIMER_NOT_CANCELED in ntstatus.h
+description: An attempt was made to cancel or set a timer that has an associated APC and the subject thread is not the thread that originally set the timer with an associated APC routine.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000000C",
+  "codeUrl": "/win32/ntstatus-h/status_timer_not_canceled/0xc000000c/",
+  "numericCode": -1073741812,
+  "define": "STATUS_TIMER_NOT_CANCELED",
+  "defineUrl": "/win32/ntstatus-h/status_timer_not_canceled/",
+  "message": "An attempt was made to cancel or set a timer that has an associated APC and the subject thread is not the thread that originally set the timer with an associated APC routine.",
+  "remarks": null,
+  "aka": [
+    "-1073741812"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_timer_not_canceled/-1073741812/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_badkey\1010\index.html.json
+
+title: 1010 ERROR_BADKEY in winerror.h
+description: The configuration registry key is invalid.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1010",
+  "codeUrl": "/win32/winerror-h/error_badkey/1010/",
+  "numericCode": 1010,
+  "define": "ERROR_BADKEY",
+  "defineUrl": "/win32/winerror-h/error_badkey/",
+  "message": "The configuration registry key is invalid.",
+  "remarks": null,
+  "aka": [
+    "0x800703f2",
+    "-2147023886"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_badkey/0x800703f2/",
+    "/win32/winerror-h/error_badkey/-2147023886/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

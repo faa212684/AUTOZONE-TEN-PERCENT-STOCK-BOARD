@@ -1,0 +1,28 @@
+---
+output: win32\windowssearcherrors-h\fte_e_retry_huge_doc\0x80043648\index.html.json
+
+title: 0x80043648 FTE_E_RETRY_HUGE_DOC in WindowsSearchErrors.h
+description: This huge document will be retried in dedicated filter daemon MSFTEFD process.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "0x80043648",
+  "codeUrl": "/win32/windowssearcherrors-h/fte_e_retry_huge_doc/0x80043648/",
+  "numericCode": -2147207608,
+  "define": "FTE_E_RETRY_HUGE_DOC",
+  "defineUrl": "/win32/windowssearcherrors-h/fte_e_retry_huge_doc/",
+  "message": "This huge document will be retried in dedicated filter daemon MSFTEFD process.",
+  "remarks": null,
+  "aka": [
+    "-2147207608"
+  ],
+  "akaUrl": [
+    "/win32/windowssearcherrors-h/fte_e_retry_huge_doc/-2147207608/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

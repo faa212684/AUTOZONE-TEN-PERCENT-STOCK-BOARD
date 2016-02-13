@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\tpm_e_failedselftest\0x8028001c\index.html.json
+
+title: 0x8028001C TPM_E_FAILEDSELFTEST in winerror.h
+description: The TPM hardware device reported a failure during its internal self test. Try restarting the computer to resolve the problem. If the problem continues, check for the latest BIOS or firmware update for your TPM hardware. Consult the computer manufacturer's documentation for instructions.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8028001C",
+  "codeUrl": "/win32/winerror-h/tpm_e_failedselftest/0x8028001c/",
+  "numericCode": -2144862180,
+  "define": "TPM_E_FAILEDSELFTEST",
+  "defineUrl": "/win32/winerror-h/tpm_e_failedselftest/",
+  "message": "The TPM hardware device reported a failure during its internal self test. Try restarting the computer to resolve the problem. If the problem continues, check for the latest BIOS or firmware update for your TPM hardware. Consult the computer manufacturer's documentation for instructions.",
+  "remarks": null,
+  "aka": [
+    "-2144862180"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/tpm_e_failedselftest/-2144862180/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

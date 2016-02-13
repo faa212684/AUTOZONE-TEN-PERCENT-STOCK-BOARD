@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\co_e_failedtosetdacl\0x80010129\index.html.json
+
+title: 0x80010129 CO_E_FAILEDTOSETDACL in winerror.h
+description: Unable to set a discretionary ACL into a security descriptor
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80010129",
+  "codeUrl": "/win32/winerror-h/co_e_failedtosetdacl/0x80010129/",
+  "numericCode": -2147417815,
+  "define": "CO_E_FAILEDTOSETDACL",
+  "defineUrl": "/win32/winerror-h/co_e_failedtosetdacl/",
+  "message": "Unable to set a discretionary ACL into a security descriptor",
+  "remarks": null,
+  "aka": [
+    "-2147417815"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/co_e_failedtosetdacl/-2147417815/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

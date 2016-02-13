@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_gpio_version_not_supported\-1073700573\index.html.json
+canonical: /win32/ntstatus-h/status_gpio_version_not_supported/0xc000a123/
+title: -1073700573 STATUS_GPIO_VERSION_NOT_SUPPORTED in ntstatus.h
+description: The version specified by the GPIO client driver is not supported.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073700573",
+  "codeUrl": "/win32/ntstatus-h/status_gpio_version_not_supported/-1073700573/",
+  "numericCode": 0,
+  "define": "STATUS_GPIO_VERSION_NOT_SUPPORTED",
+  "defineUrl": "/win32/ntstatus-h/status_gpio_version_not_supported/",
+  "message": "The version specified by the GPIO client driver is not supported.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC000A123",
+  "originalCodeUrl": "/win32/ntstatus-h/status_gpio_version_not_supported/0xc000a123/"
+}

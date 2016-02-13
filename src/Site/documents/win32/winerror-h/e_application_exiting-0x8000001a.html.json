@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\e_application_exiting\0x8000001a\index.html.json
+
+title: 0x8000001A E_APPLICATION_EXITING in winerror.h
+description: The application is exiting and cannot service this request
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8000001A",
+  "codeUrl": "/win32/winerror-h/e_application_exiting/0x8000001a/",
+  "numericCode": -2147483622,
+  "define": "E_APPLICATION_EXITING",
+  "defineUrl": "/win32/winerror-h/e_application_exiting/",
+  "message": "The application is exiting and cannot service this request",
+  "remarks": null,
+  "aka": [
+    "-2147483622"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/e_application_exiting/-2147483622/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

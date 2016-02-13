@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_e_disk_removeable_not_empty\0x8004255b\index.html.json
+
+title: 0x8004255B VDS_E_DISK_REMOVEABLE_NOT_EMPTY in vdserr.h
+description: The operation is not supported on a non-empty removable disk.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x8004255B",
+  "codeUrl": "/win32/vdserr-h/vds_e_disk_removeable_not_empty/0x8004255b/",
+  "numericCode": -2147211941,
+  "define": "VDS_E_DISK_REMOVEABLE_NOT_EMPTY",
+  "defineUrl": "/win32/vdserr-h/vds_e_disk_removeable_not_empty/",
+  "message": "The operation is not supported on a non-empty removable disk.",
+  "remarks": null,
+  "aka": [
+    "-2147211941"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_disk_removeable_not_empty/-2147211941/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_tpm_duplicate_vhandle\0xc0290402\index.html.json
+
+title: 0xC0290402 STATUS_TPM_DUPLICATE_VHANDLE in ntstatus.h
+description: The TPM returned a duplicate handle and the command needs to be resubmitted.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0290402",
+  "codeUrl": "/win32/ntstatus-h/status_tpm_duplicate_vhandle/0xc0290402/",
+  "numericCode": -1071053822,
+  "define": "STATUS_TPM_DUPLICATE_VHANDLE",
+  "defineUrl": "/win32/ntstatus-h/status_tpm_duplicate_vhandle/",
+  "message": "The TPM returned a duplicate handle and the command needs to be resubmitted.",
+  "remarks": null,
+  "aka": [
+    "-1071053822"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_tpm_duplicate_vhandle/-1071053822/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

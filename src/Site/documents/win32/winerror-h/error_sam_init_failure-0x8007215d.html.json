@@ -1,0 +1,25 @@
+---
+output: win32\winerror-h\error_sam_init_failure\0x8007215d\index.html.json
+canonical: /win32/winerror-h/error_sam_init_failure/8541/
+title: 0x8007215d ERROR_SAM_INIT_FAILURE in winerror.h
+description: Security Accounts Manager initialization failed because of the following error: %1.
+Error Status: 0x%2. Click OK to shut down the system and reboot into Safe Mode. Check the event log for detailed information.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007215d",
+  "codeUrl": "/win32/winerror-h/error_sam_init_failure/0x8007215d/",
+  "numericCode": 0,
+  "define": "ERROR_SAM_INIT_FAILURE",
+  "defineUrl": "/win32/winerror-h/error_sam_init_failure/",
+  "message": "Security Accounts Manager initialization failed because of the following error: %1.\r\nError Status: 0x%2. Click OK to shut down the system and reboot into Safe Mode. Check the event log for detailed information.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "8541",
+  "originalCodeUrl": "/win32/winerror-h/error_sam_init_failure/8541/"
+}

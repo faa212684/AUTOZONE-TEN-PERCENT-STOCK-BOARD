@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_transport_too_many_links\0x40002332\index.html.json
+
+title: 0x40002332 EVENT_TRANSPORT_TOO_MANY_LINKS in netevent.h
+description: %2 could not create a link to a remote computer.  Your computer has exceeded the number of connections it can make to that remote computer.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x40002332",
+  "codeUrl": "/win32/netevent-h/event_transport_too_many_links/0x40002332/",
+  "numericCode": 1073750834,
+  "define": "EVENT_TRANSPORT_TOO_MANY_LINKS",
+  "defineUrl": "/win32/netevent-h/event_transport_too_many_links/",
+  "message": "%2 could not create a link to a remote computer.  Your computer has exceeded the number of connections it can make to that remote computer.",
+  "remarks": null,
+  "aka": [
+    "1073750834"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_transport_too_many_links/1073750834/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

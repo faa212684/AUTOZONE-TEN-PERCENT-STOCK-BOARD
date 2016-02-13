@@ -1,0 +1,28 @@
+---
+output: win32\windowssearcherrors-h\gthr_e_duplicate_url\0x80040d0d\index.html.json
+
+title: 0x80040D0D GTHR_E_DUPLICATE_URL in WindowsSearchErrors.h
+description: The URL was already processed during this update. If you received this message while processing alerts, then the alerts are redundant, or else Modify should be used instead of Add.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "0x80040D0D",
+  "codeUrl": "/win32/windowssearcherrors-h/gthr_e_duplicate_url/0x80040d0d/",
+  "numericCode": -2147218163,
+  "define": "GTHR_E_DUPLICATE_URL",
+  "defineUrl": "/win32/windowssearcherrors-h/gthr_e_duplicate_url/",
+  "message": "The URL was already processed during this update. If you received this message while processing alerts, then the alerts are redundant, or else Modify should be used instead of Add.",
+  "remarks": null,
+  "aka": [
+    "-2147218163"
+  ],
+  "akaUrl": [
+    "/win32/windowssearcherrors-h/gthr_e_duplicate_url/-2147218163/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

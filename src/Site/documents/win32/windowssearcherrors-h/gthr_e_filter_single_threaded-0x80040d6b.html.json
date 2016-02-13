@@ -1,0 +1,28 @@
+---
+output: win32\windowssearcherrors-h\gthr_e_filter_single_threaded\0x80040d6b\index.html.json
+
+title: 0x80040D6B GTHR_E_FILTER_SINGLE_THREADED in WindowsSearchErrors.h
+description: The system attempted to load a filter marked as apartment in a multi-threaded filter daemon. The document will be retried in a single-threaded filter. Since multithreaded filtering is more efficient, try to obtain the version of the filter that is multi-threaded.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "0x80040D6B",
+  "codeUrl": "/win32/windowssearcherrors-h/gthr_e_filter_single_threaded/0x80040d6b/",
+  "numericCode": -2147218069,
+  "define": "GTHR_E_FILTER_SINGLE_THREADED",
+  "defineUrl": "/win32/windowssearcherrors-h/gthr_e_filter_single_threaded/",
+  "message": "The system attempted to load a filter marked as apartment in a multi-threaded filter daemon. The document will be retried in a single-threaded filter. Since multithreaded filtering is more efficient, try to obtain the version of the filter that is multi-threaded.",
+  "remarks": null,
+  "aka": [
+    "-2147218069"
+  ],
+  "akaUrl": [
+    "/win32/windowssearcherrors-h/gthr_e_filter_single_threaded/-2147218069/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

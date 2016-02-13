@@ -1,0 +1,87 @@
+---
+output: win32\netevent-h\event_frs_in_error_state\-1073728269\index.html.json
+canonical: /win32/netevent-h/event_frs_in_error_state/0xc00034f3/
+title: -1073728269 EVENT_FRS_IN_ERROR_STATE in netevent.h
+description: The File Replication Service is in an error state. Files will not replicate
+to or from one or all of the replica sets on his computer until the
+following recovery steps are performed:
+%n
+%n Recovery Steps:
+%n
+%n [1] The error state may clear itself if you stop and restart the FRS service.
+This can be done by performing the following in a command window:
+%n
+%n    net stop ntfrs
+%n    net start ntfrs
+%n
+%nIf this fails to clear up the problem then proceed as follows.
+%n
+%n [2] For Active Directory Domain Controllers that DO NOT host any DFS
+alternates or other replica sets with replication enabled:
+%n
+%nIf there is at least one other Domain Controller in this domain then
+restore the "system state" of this DC from backup (using ntbackup or other
+backup-restore utility) and make it non-authoritative.
+%n
+%nIf there are NO other Domain Controllers in this domain then restore
+the "system state" of this DC from backup (using ntbackup or other
+backup-restore utility) and choose the Advanced option which marks
+the sysvols as primary.
+%n
+%nIf there are other Domain Controllers in this domain but ALL of
+them have this event log message then restore one of them as primary
+(data files from primary will replicate everywhere) and the others as
+non-authoritative.
+%n
+%n
+%n [3] For Active Directory Domain Controllers that host DFS alternates
+or other replica sets with replication enabled:
+%n
+%n (3-a) If the Dfs alternates on this DC do not have any other replication
+partners then copy the data under that Dfs share to a safe location.
+%n (3-b) If this server is the only Active Directory Domain Controller for this
+domain then, before going to (3-c),  make sure this server does not have any
+inbound or outbound connections to other servers that were formerly Domain
+Controllers for this domain but are now off the net (and will never be
+coming back online) or have been fresh installed without being demoted.
+To delete connections use the Sites and Services snapin and look for
+%nSites->NAME_OF_SITE->Servers->NAME_OF_SERVER->NTDS Settings->CONNECTIONS.
+%n (3-c) Restore the "system state" of this DC from backup (using ntbackup
+or other backup-restore utility) and make it non-authoritative.
+%n (3-d) Copy the data from step (3-a) above to the original location
+after the sysvol share is published.
+%n
+%n
+%n [4] For other Windows 2000 servers:
+%n
+%n (4-a)  If any of the DFS alternates or other replica sets hosted by
+this server do not have any other replication partners then copy the
+data under its share or replica tree root to a safe location.
+%n (4-b)  net stop ntfrs
+%n (4-c)  rd /s /q  %1
+%n (4-d)  net start ntfrs
+%n (4-e)  Copy the data from step (4-a) above to the original location after
+the service has initialized (5 minutes is a safe waiting time).
+%n
+%nNote: If this error message is in the eventlog of all the members of a
+particular replica set then perform steps (4-a) and (4-e) above on only
+one of the members.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "-1073728269",
+  "codeUrl": "/win32/netevent-h/event_frs_in_error_state/-1073728269/",
+  "numericCode": 0,
+  "define": "EVENT_FRS_IN_ERROR_STATE",
+  "defineUrl": "/win32/netevent-h/event_frs_in_error_state/",
+  "message": "The File Replication Service is in an error state. Files will not replicate\r\nto or from one or all of the replica sets on his computer until the\r\nfollowing recovery steps are performed:\r\n%n\r\n%n Recovery Steps:\r\n%n\r\n%n [1] The error state may clear itself if you stop and restart the FRS service.\r\nThis can be done by performing the following in a command window:\r\n%n\r\n%n    net stop ntfrs\r\n%n    net start ntfrs\r\n%n\r\n%nIf this fails to clear up the problem then proceed as follows.\r\n%n\r\n%n [2] For Active Directory Domain Controllers that DO NOT host any DFS\r\nalternates or other replica sets with replication enabled:\r\n%n\r\n%nIf there is at least one other Domain Controller in this domain then\r\nrestore the \"system state\" of this DC from backup (using ntbackup or other\r\nbackup-restore utility) and make it non-authoritative.\r\n%n\r\n%nIf there are NO other Domain Controllers in this domain then restore\r\nthe \"system state\" of this DC from backup (using ntbackup or other\r\nbackup-restore utility) and choose the Advanced option which marks\r\nthe sysvols as primary.\r\n%n\r\n%nIf there are other Domain Controllers in this domain but ALL of\r\nthem have this event log message then restore one of them as primary\r\n(data files from primary will replicate everywhere) and the others as\r\nnon-authoritative.\r\n%n\r\n%n\r\n%n [3] For Active Directory Domain Controllers that host DFS alternates\r\nor other replica sets with replication enabled:\r\n%n\r\n%n (3-a) If the Dfs alternates on this DC do not have any other replication\r\npartners then copy the data under that Dfs share to a safe location.\r\n%n (3-b) If this server is the only Active Directory Domain Controller for this\r\ndomain then, before going to (3-c),  make sure this server does not have any\r\ninbound or outbound connections to other servers that were formerly Domain\r\nControllers for this domain but are now off the net (and will never be\r\ncoming back online) or have been fresh installed without being demoted.\r\nTo delete connections use the Sites and Services snapin and look for\r\n%nSites->NAME_OF_SITE->Servers->NAME_OF_SERVER->NTDS Settings->CONNECTIONS.\r\n%n (3-c) Restore the \"system state\" of this DC from backup (using ntbackup\r\nor other backup-restore utility) and make it non-authoritative.\r\n%n (3-d) Copy the data from step (3-a) above to the original location\r\nafter the sysvol share is published.\r\n%n\r\n%n\r\n%n [4] For other Windows 2000 servers:\r\n%n\r\n%n (4-a)  If any of the DFS alternates or other replica sets hosted by\r\nthis server do not have any other replication partners then copy the\r\ndata under its share or replica tree root to a safe location.\r\n%n (4-b)  net stop ntfrs\r\n%n (4-c)  rd /s /q  %1\r\n%n (4-d)  net start ntfrs\r\n%n (4-e)  Copy the data from step (4-a) above to the original location after\r\nthe service has initialized (5 minutes is a safe waiting time).\r\n%n\r\n%nNote: If this error message is in the eventlog of all the members of a\r\nparticular replica set then perform steps (4-a) and (4-e) above on only\r\none of the members.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC00034F3",
+  "originalCodeUrl": "/win32/netevent-h/event_frs_in_error_state/0xc00034f3/"
+}

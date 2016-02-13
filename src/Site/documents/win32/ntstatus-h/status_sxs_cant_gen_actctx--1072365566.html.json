@@ -1,0 +1,25 @@
+---
+output: win32\ntstatus-h\status_sxs_cant_gen_actctx\-1072365566\index.html.json
+canonical: /win32/ntstatus-h/status_sxs_cant_gen_actctx/0xc0150002/
+title: -1072365566 STATUS_SXS_CANT_GEN_ACTCTX in ntstatus.h
+description: Windows was not able to process the application binding information.
+Please refer to your System Event Log for further information.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1072365566",
+  "codeUrl": "/win32/ntstatus-h/status_sxs_cant_gen_actctx/-1072365566/",
+  "numericCode": 0,
+  "define": "STATUS_SXS_CANT_GEN_ACTCTX",
+  "defineUrl": "/win32/ntstatus-h/status_sxs_cant_gen_actctx/",
+  "message": "Windows was not able to process the application binding information.\r\nPlease refer to your System Event Log for further information.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0150002",
+  "originalCodeUrl": "/win32/ntstatus-h/status_sxs_cant_gen_actctx/0xc0150002/"
+}

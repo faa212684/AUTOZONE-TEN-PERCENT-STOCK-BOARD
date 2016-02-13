@@ -1,0 +1,29 @@
+---
+output: win32\netevent-h\event_frs_overlaps_logging\0xc00034e5\index.html.json
+
+title: 0xC00034E5 EVENT_FRS_OVERLAPS_LOGGING in netevent.h
+description: The File Replication Service cannot replicate %1 because it overlaps
+the File Replication Service's logging pathname %2.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC00034E5",
+  "codeUrl": "/win32/netevent-h/event_frs_overlaps_logging/0xc00034e5/",
+  "numericCode": -1073728283,
+  "define": "EVENT_FRS_OVERLAPS_LOGGING",
+  "defineUrl": "/win32/netevent-h/event_frs_overlaps_logging/",
+  "message": "The File Replication Service cannot replicate %1 because it overlaps\r\nthe File Replication Service's logging pathname %2.",
+  "remarks": null,
+  "aka": [
+    "-1073728283"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_frs_overlaps_logging/-1073728283/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

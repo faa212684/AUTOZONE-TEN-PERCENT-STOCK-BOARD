@@ -1,0 +1,28 @@
+---
+output: bugcheck\bugcodes-h\kernel_thread_priority_floor_violation\0x00000157\index.html.json
+
+title: 0x00000157 KERNEL_THREAD_PRIORITY_FLOOR_VIOLATION in bugcodes.h
+description: KERNEL_THREAD_PRIORITY_FLOOR_VIOLATION
+disqus: true
+---
+{
+  "area": "bugcheck",
+  "areaUrl": "/bugcheck/",
+  "source": "bugcodes.h",
+  "sourceUrl": "/bugcheck/bugcodes-h/",
+  "code": "0x00000157",
+  "codeUrl": "/bugcheck/bugcodes-h/kernel_thread_priority_floor_violation/0x00000157/",
+  "numericCode": 343,
+  "define": "KERNEL_THREAD_PRIORITY_FLOOR_VIOLATION",
+  "defineUrl": "/bugcheck/bugcodes-h/kernel_thread_priority_floor_violation/",
+  "message": "KERNEL_THREAD_PRIORITY_FLOOR_VIOLATION",
+  "remarks": null,
+  "aka": [
+    "343"
+  ],
+  "akaUrl": [
+    "/bugcheck/bugcodes-h/kernel_thread_priority_floor_violation/343/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

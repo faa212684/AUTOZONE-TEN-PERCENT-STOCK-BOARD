@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\certsrv_e_invalid_response\0x8009481d\index.html.json
+
+title: 0x8009481D CERTSRV_E_INVALID_RESPONSE in winerror.h
+description: The attestation response could not be validated. It is either unexpected or incorrect.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8009481D",
+  "codeUrl": "/win32/winerror-h/certsrv_e_invalid_response/0x8009481d/",
+  "numericCode": -2146875363,
+  "define": "CERTSRV_E_INVALID_RESPONSE",
+  "defineUrl": "/win32/winerror-h/certsrv_e_invalid_response/",
+  "message": "The attestation response could not be validated. It is either unexpected or incorrect.",
+  "remarks": null,
+  "aka": [
+    "-2146875363"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/certsrv_e_invalid_response/-2146875363/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

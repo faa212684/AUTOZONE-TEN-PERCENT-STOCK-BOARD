@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_vid_notification_queue_already_associated\-1070137327\index.html.json
+canonical: /win32/winerror-h/error_vid_notification_queue_already_associated/0xc0370011/
+title: -1070137327 ERROR_VID_NOTIFICATION_QUEUE_ALREADY_ASSOCIATED in winerror.h
+description: The memory block for the virtualization infrastructure driver is already associated with a message queue.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-1070137327",
+  "codeUrl": "/win32/winerror-h/error_vid_notification_queue_already_associated/-1070137327/",
+  "numericCode": 0,
+  "define": "ERROR_VID_NOTIFICATION_QUEUE_ALREADY_ASSOCIATED",
+  "defineUrl": "/win32/winerror-h/error_vid_notification_queue_already_associated/",
+  "message": "The memory block for the virtualization infrastructure driver is already associated with a message queue.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0370011",
+  "originalCodeUrl": "/win32/winerror-h/error_vid_notification_queue_already_associated/0xc0370011/"
+}

@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_out_of_structures\84\index.html.json
+
+title: 84 ERROR_OUT_OF_STRUCTURES in winerror.h
+description: Storage to process this request is not available.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "84",
+  "codeUrl": "/win32/winerror-h/error_out_of_structures/84/",
+  "numericCode": 84,
+  "define": "ERROR_OUT_OF_STRUCTURES",
+  "defineUrl": "/win32/winerror-h/error_out_of_structures/",
+  "message": "Storage to process this request is not available.",
+  "remarks": null,
+  "aka": [
+    "0x80070054",
+    "-2147024812"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_out_of_structures/0x80070054/",
+    "/win32/winerror-h/error_out_of_structures/-2147024812/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

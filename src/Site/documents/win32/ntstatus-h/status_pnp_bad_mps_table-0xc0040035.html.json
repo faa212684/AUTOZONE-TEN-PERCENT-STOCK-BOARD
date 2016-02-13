@@ -1,0 +1,29 @@
+---
+output: win32\ntstatus-h\status_pnp_bad_mps_table\0xc0040035\index.html.json
+
+title: 0xC0040035 STATUS_PNP_BAD_MPS_TABLE in ntstatus.h
+description: A device is missing in the system BIOS MPS table. This device will not be used.
+Please contact your system vendor for system BIOS update.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0040035",
+  "codeUrl": "/win32/ntstatus-h/status_pnp_bad_mps_table/0xc0040035/",
+  "numericCode": -1073479627,
+  "define": "STATUS_PNP_BAD_MPS_TABLE",
+  "defineUrl": "/win32/ntstatus-h/status_pnp_bad_mps_table/",
+  "message": "A device is missing in the system BIOS MPS table. This device will not be used.\r\nPlease contact your system vendor for system BIOS update.",
+  "remarks": null,
+  "aka": [
+    "-1073479627"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_pnp_bad_mps_table/-1073479627/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

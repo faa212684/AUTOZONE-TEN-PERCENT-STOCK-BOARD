@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ds_class_not_dsa\8343\index.html.json
+
+title: 8343 ERROR_DS_CLASS_NOT_DSA in winerror.h
+description: The object must be of class DSA.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "8343",
+  "codeUrl": "/win32/winerror-h/error_ds_class_not_dsa/8343/",
+  "numericCode": 8343,
+  "define": "ERROR_DS_CLASS_NOT_DSA",
+  "defineUrl": "/win32/winerror-h/error_ds_class_not_dsa/",
+  "message": "The object must be of class DSA.",
+  "remarks": null,
+  "aka": [
+    "0x80072097",
+    "-2147016553"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ds_class_not_dsa/0x80072097/",
+    "/win32/winerror-h/error_ds_class_not_dsa/-2147016553/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

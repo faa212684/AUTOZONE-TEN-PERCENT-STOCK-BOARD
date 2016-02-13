@@ -1,0 +1,28 @@
+---
+output: win32\wsmerror-h\error_wsman_config_corrupted\-2144108539\index.html.json
+canonical: /win32/wsmerror-h/error_wsman_config_corrupted/0x80338005/
+title: -2144108539 ERROR_WSMAN_CONFIG_CORRUPTED in wsmerror.h
+description: The WS-Management configuration is corrupted. Use the following command to restore defaults:
+%n%n
+winrm invoke Restore http:schemas.microsoft.com/wbem/wsman/1/config @{}
+%n%n
+Then add any custom configuration settings.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "-2144108539",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_config_corrupted/-2144108539/",
+  "numericCode": 0,
+  "define": "ERROR_WSMAN_CONFIG_CORRUPTED",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_config_corrupted/",
+  "message": "The WS-Management configuration is corrupted. Use the following command to restore defaults:\r\n%n%n\r\nwinrm invoke Restore http:schemas.microsoft.com/wbem/wsman/1/config @{}\r\n%n%n\r\nThen add any custom configuration settings.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80338005",
+  "originalCodeUrl": "/win32/wsmerror-h/error_wsman_config_corrupted/0x80338005/"
+}

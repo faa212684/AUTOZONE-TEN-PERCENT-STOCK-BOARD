@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_fwp_drop_noicmp\-1071513340\index.html.json
+canonical: /win32/ntstatus-h/status_fwp_drop_noicmp/0xc0220104/
+title: -1071513340 STATUS_FWP_DROP_NOICMP in ntstatus.h
+description: The packet should be dropped, no ICMP should be sent.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071513340",
+  "codeUrl": "/win32/ntstatus-h/status_fwp_drop_noicmp/-1071513340/",
+  "numericCode": 0,
+  "define": "STATUS_FWP_DROP_NOICMP",
+  "defineUrl": "/win32/ntstatus-h/status_fwp_drop_noicmp/",
+  "message": "The packet should be dropped, no ICMP should be sent.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0220104",
+  "originalCodeUrl": "/win32/ntstatus-h/status_fwp_drop_noicmp/0xc0220104/"
+}

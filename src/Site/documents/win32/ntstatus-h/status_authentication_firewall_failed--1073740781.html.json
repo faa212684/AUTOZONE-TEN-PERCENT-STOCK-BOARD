@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_authentication_firewall_failed\-1073740781\index.html.json
+canonical: /win32/ntstatus-h/status_authentication_firewall_failed/0xc0000413/
+title: -1073740781 STATUS_AUTHENTICATION_FIREWALL_FAILED in ntstatus.h
+description: Logon Failure: The machine you are logging onto is protected by an authentication firewall. The specified account is not allowed to authenticate to the machine.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073740781",
+  "codeUrl": "/win32/ntstatus-h/status_authentication_firewall_failed/-1073740781/",
+  "numericCode": 0,
+  "define": "STATUS_AUTHENTICATION_FIREWALL_FAILED",
+  "defineUrl": "/win32/ntstatus-h/status_authentication_firewall_failed/",
+  "message": "Logon Failure: The machine you are logging onto is protected by an authentication firewall. The specified account is not allowed to authenticate to the machine.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000413",
+  "originalCodeUrl": "/win32/ntstatus-h/status_authentication_firewall_failed/0xc0000413/"
+}

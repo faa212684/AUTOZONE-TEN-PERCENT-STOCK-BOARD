@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_frs_error_replica_set_deleted\-2147470088\index.html.json
+canonical: /win32/netevent-h/event_frs_error_replica_set_deleted/0x800034f8/
+title: -2147470088 EVENT_FRS_ERROR_REPLICA_SET_DELETED in netevent.h
+description: The File Replication Service is deleting this computer from the replica set "%1" as an attempt to
+recover from the error state,
+%n Error status = %2
+%n At the next poll, which will occur in %3 minutes, this computer will be re-added to the
+replica set. The re-addition will trigger a full tree sync for the replica set.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "-2147470088",
+  "codeUrl": "/win32/netevent-h/event_frs_error_replica_set_deleted/-2147470088/",
+  "numericCode": 0,
+  "define": "EVENT_FRS_ERROR_REPLICA_SET_DELETED",
+  "defineUrl": "/win32/netevent-h/event_frs_error_replica_set_deleted/",
+  "message": "The File Replication Service is deleting this computer from the replica set \"%1\" as an attempt to\r\nrecover from the error state,\r\n%n Error status = %2\r\n%n At the next poll, which will occur in %3 minutes, this computer will be re-added to the\r\nreplica set. The re-addition will trigger a full tree sync for the replica set.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x800034F8",
+  "originalCodeUrl": "/win32/netevent-h/event_frs_error_replica_set_deleted/0x800034f8/"
+}

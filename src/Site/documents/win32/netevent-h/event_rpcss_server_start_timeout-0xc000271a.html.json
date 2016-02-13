@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_rpcss_server_start_timeout\0xc000271a\index.html.json
+
+title: 0xC000271A EVENT_RPCSS_SERVER_START_TIMEOUT in netevent.h
+description: The server %1 did not register with DCOM within the required timeout.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC000271A",
+  "codeUrl": "/win32/netevent-h/event_rpcss_server_start_timeout/0xc000271a/",
+  "numericCode": -1073731814,
+  "define": "EVENT_RPCSS_SERVER_START_TIMEOUT",
+  "defineUrl": "/win32/netevent-h/event_rpcss_server_start_timeout/",
+  "message": "The server %1 did not register with DCOM within the required timeout.",
+  "remarks": null,
+  "aka": [
+    "-1073731814"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_rpcss_server_start_timeout/-1073731814/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

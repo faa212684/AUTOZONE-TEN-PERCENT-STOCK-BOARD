@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\xact_e_heuristicdanger\0x8004d007\index.html.json
+
+title: 0x8004D007 XACT_E_HEURISTICDANGER in winerror.h
+description: Some of the states of the resource may have been committed while others may have been aborted, likely because of heuristic decisions.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8004D007",
+  "codeUrl": "/win32/winerror-h/xact_e_heuristicdanger/0x8004d007/",
+  "numericCode": -2147168249,
+  "define": "XACT_E_HEURISTICDANGER",
+  "defineUrl": "/win32/winerror-h/xact_e_heuristicdanger/",
+  "message": "Some of the states of the resource may have been committed while others may have been aborted, likely because of heuristic decisions.",
+  "remarks": null,
+  "aka": [
+    "-2147168249"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/xact_e_heuristicdanger/-2147168249/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

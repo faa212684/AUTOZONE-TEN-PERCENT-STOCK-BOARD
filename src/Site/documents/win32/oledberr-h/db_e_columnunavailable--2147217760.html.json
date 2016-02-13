@@ -1,0 +1,24 @@
+---
+output: win32\oledberr-h\db_e_columnunavailable\-2147217760\index.html.json
+canonical: /win32/oledberr-h/db_e_columnunavailable/0x80040ea0/
+title: -2147217760 DB_E_COLUMNUNAVAILABLE in oledberr.h
+description: Requested column is valid, but could not be retrieved. This could be due to a forward only cursor attempting to go backwards in a row.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "oledberr.h",
+  "sourceUrl": "/win32/oledberr-h/",
+  "code": "-2147217760",
+  "codeUrl": "/win32/oledberr-h/db_e_columnunavailable/-2147217760/",
+  "numericCode": 0,
+  "define": "DB_E_COLUMNUNAVAILABLE",
+  "defineUrl": "/win32/oledberr-h/db_e_columnunavailable/",
+  "message": "Requested column is valid, but could not be retrieved. This could be due to a forward only cursor attempting to go backwards in a row.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80040EA0",
+  "originalCodeUrl": "/win32/oledberr-h/db_e_columnunavailable/0x80040ea0/"
+}

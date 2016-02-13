@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_device_reinitialization_needed\0x8007048c\index.html.json
+canonical: /win32/winerror-h/error_device_reinitialization_needed/1164/
+title: 0x8007048c ERROR_DEVICE_REINITIALIZATION_NEEDED in winerror.h
+description: The indicated device requires reinitialization due to hardware errors.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007048c",
+  "codeUrl": "/win32/winerror-h/error_device_reinitialization_needed/0x8007048c/",
+  "numericCode": 0,
+  "define": "ERROR_DEVICE_REINITIALIZATION_NEEDED",
+  "defineUrl": "/win32/winerror-h/error_device_reinitialization_needed/",
+  "message": "The indicated device requires reinitialization due to hardware errors.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "1164",
+  "originalCodeUrl": "/win32/winerror-h/error_device_reinitialization_needed/1164/"
+}

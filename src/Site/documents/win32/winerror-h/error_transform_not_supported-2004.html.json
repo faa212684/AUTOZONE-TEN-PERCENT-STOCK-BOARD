@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_transform_not_supported\2004\index.html.json
+
+title: 2004 ERROR_TRANSFORM_NOT_SUPPORTED in winerror.h
+description: The requested transformation operation is not supported.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "2004",
+  "codeUrl": "/win32/winerror-h/error_transform_not_supported/2004/",
+  "numericCode": 2004,
+  "define": "ERROR_TRANSFORM_NOT_SUPPORTED",
+  "defineUrl": "/win32/winerror-h/error_transform_not_supported/",
+  "message": "The requested transformation operation is not supported.",
+  "remarks": null,
+  "aka": [
+    "0x800707d4",
+    "-2147022892"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_transform_not_supported/0x800707d4/",
+    "/win32/winerror-h/error_transform_not_supported/-2147022892/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

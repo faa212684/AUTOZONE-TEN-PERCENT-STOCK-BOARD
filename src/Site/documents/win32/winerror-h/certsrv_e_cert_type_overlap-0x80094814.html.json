@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\certsrv_e_cert_type_overlap\0x80094814\index.html.json
+
+title: 0x80094814 CERTSRV_E_CERT_TYPE_OVERLAP in winerror.h
+description: The certificate template renewal period is longer than the certificate validity period. The template should be reconfigured or the CA certificate renewed.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80094814",
+  "codeUrl": "/win32/winerror-h/certsrv_e_cert_type_overlap/0x80094814/",
+  "numericCode": -2146875372,
+  "define": "CERTSRV_E_CERT_TYPE_OVERLAP",
+  "defineUrl": "/win32/winerror-h/certsrv_e_cert_type_overlap/",
+  "message": "The certificate template renewal period is longer than the certificate validity period. The template should be reconfigured or the CA certificate renewed.",
+  "remarks": null,
+  "aka": [
+    "-2146875372"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/certsrv_e_cert_type_overlap/-2146875372/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

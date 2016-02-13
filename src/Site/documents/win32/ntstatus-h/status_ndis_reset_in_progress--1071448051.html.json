@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_ndis_reset_in_progress\-1071448051\index.html.json
+canonical: /win32/ntstatus-h/status_ndis_reset_in_progress/0xc023000d/
+title: -1071448051 STATUS_NDIS_RESET_IN_PROGRESS in ntstatus.h
+description: Network interface can not process the request because it is being reset.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071448051",
+  "codeUrl": "/win32/ntstatus-h/status_ndis_reset_in_progress/-1071448051/",
+  "numericCode": 0,
+  "define": "STATUS_NDIS_RESET_IN_PROGRESS",
+  "defineUrl": "/win32/ntstatus-h/status_ndis_reset_in_progress/",
+  "message": "Network interface can not process the request because it is being reset.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC023000D",
+  "originalCodeUrl": "/win32/ntstatus-h/status_ndis_reset_in_progress/0xc023000d/"
+}

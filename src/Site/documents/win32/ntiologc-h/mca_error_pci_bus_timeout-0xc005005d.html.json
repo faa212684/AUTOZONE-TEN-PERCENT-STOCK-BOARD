@@ -1,0 +1,28 @@
+---
+output: win32\ntiologc-h\mca_error_pci_bus_timeout\0xc005005d\index.html.json
+
+title: 0xC005005D MCA_ERROR_PCI_BUS_TIMEOUT in ntiologc.h
+description: Machine Check Event reported is a fatal PCI bus Timeout error during a transaction type %3 at address %4 on PCI bus %5 reported to CPU %1. %2 additional error(s) are contained within the record.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntiologc.h",
+  "sourceUrl": "/win32/ntiologc-h/",
+  "code": "0xC005005D",
+  "codeUrl": "/win32/ntiologc-h/mca_error_pci_bus_timeout/0xc005005d/",
+  "numericCode": -1073414051,
+  "define": "MCA_ERROR_PCI_BUS_TIMEOUT",
+  "defineUrl": "/win32/ntiologc-h/mca_error_pci_bus_timeout/",
+  "message": "Machine Check Event reported is a fatal PCI bus Timeout error during a transaction type %3 at address %4 on PCI bus %5 reported to CPU %1. %2 additional error(s) are contained within the record.",
+  "remarks": null,
+  "aka": [
+    "-1073414051"
+  ],
+  "akaUrl": [
+    "/win32/ntiologc-h/mca_error_pci_bus_timeout/-1073414051/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

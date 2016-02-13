@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\crypt_e_attributes_missing\0x8009100f\index.html.json
+
+title: 0x8009100F CRYPT_E_ATTRIBUTES_MISSING in winerror.h
+description: The cryptographic message does not contain all of the requested attributes.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8009100F",
+  "codeUrl": "/win32/winerror-h/crypt_e_attributes_missing/0x8009100f/",
+  "numericCode": -2146889713,
+  "define": "CRYPT_E_ATTRIBUTES_MISSING",
+  "defineUrl": "/win32/winerror-h/crypt_e_attributes_missing/",
+  "message": "The cryptographic message does not contain all of the requested attributes.",
+  "remarks": null,
+  "aka": [
+    "-2146889713"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/crypt_e_attributes_missing/-2146889713/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

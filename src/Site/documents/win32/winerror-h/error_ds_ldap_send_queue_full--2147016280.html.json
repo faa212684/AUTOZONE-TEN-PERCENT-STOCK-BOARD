@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_ds_ldap_send_queue_full\-2147016280\index.html.json
+canonical: /win32/winerror-h/error_ds_ldap_send_queue_full/8616/
+title: -2147016280 ERROR_DS_LDAP_SEND_QUEUE_FULL in winerror.h
+description: The LDAP servers network send queue has filled up because the client is not processing the results of its requests fast enough. No more requests will be processed until the client catches up. If the client does not catch up then it will be disconnected.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147016280",
+  "codeUrl": "/win32/winerror-h/error_ds_ldap_send_queue_full/-2147016280/",
+  "numericCode": 0,
+  "define": "ERROR_DS_LDAP_SEND_QUEUE_FULL",
+  "defineUrl": "/win32/winerror-h/error_ds_ldap_send_queue_full/",
+  "message": "The LDAP servers network send queue has filled up because the client is not processing the results of its requests fast enough. No more requests will be processed until the client catches up. If the client does not catch up then it will be disconnected.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "8616",
+  "originalCodeUrl": "/win32/winerror-h/error_ds_ldap_send_queue_full/8616/"
+}

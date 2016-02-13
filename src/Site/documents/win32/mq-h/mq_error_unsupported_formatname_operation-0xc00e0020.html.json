@@ -1,0 +1,29 @@
+---
+output: win32\mq-h\mq_error_unsupported_formatname_operation\0xc00e0020\index.html.json
+
+title: 0xC00E0020 MQ_ERROR_UNSUPPORTED_FORMATNAME_OPERATION in Mq.h
+description: Operations of the type requested (for example, deleting a queue using a direct format name)
+are not supported for the format name specified.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "Mq.h",
+  "sourceUrl": "/win32/mq-h/",
+  "code": "0xC00E0020",
+  "codeUrl": "/win32/mq-h/mq_error_unsupported_formatname_operation/0xc00e0020/",
+  "numericCode": -1072824288,
+  "define": "MQ_ERROR_UNSUPPORTED_FORMATNAME_OPERATION",
+  "defineUrl": "/win32/mq-h/mq_error_unsupported_formatname_operation/",
+  "message": "Operations of the type requested (for example, deleting a queue using a direct format name)\r\nare not supported for the format name specified.",
+  "remarks": null,
+  "aka": [
+    "-1072824288"
+  ],
+  "akaUrl": [
+    "/win32/mq-h/mq_error_unsupported_formatname_operation/-1072824288/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

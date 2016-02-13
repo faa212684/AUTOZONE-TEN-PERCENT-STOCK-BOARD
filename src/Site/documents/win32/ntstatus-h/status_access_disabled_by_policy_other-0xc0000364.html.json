@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_access_disabled_by_policy_other\0xc0000364\index.html.json
+
+title: 0xC0000364 STATUS_ACCESS_DISABLED_BY_POLICY_OTHER in ntstatus.h
+description: Access to %1 has been restricted by your Administrator by policy rule %2.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000364",
+  "codeUrl": "/win32/ntstatus-h/status_access_disabled_by_policy_other/0xc0000364/",
+  "numericCode": -1073740956,
+  "define": "STATUS_ACCESS_DISABLED_BY_POLICY_OTHER",
+  "defineUrl": "/win32/ntstatus-h/status_access_disabled_by_policy_other/",
+  "message": "Access to %1 has been restricted by your Administrator by policy rule %2.",
+  "remarks": null,
+  "aka": [
+    "-1073740956"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_access_disabled_by_policy_other/-1073740956/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

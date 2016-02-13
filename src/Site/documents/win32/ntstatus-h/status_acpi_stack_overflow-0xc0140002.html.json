@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_acpi_stack_overflow\0xc0140002\index.html.json
+
+title: 0xC0140002 STATUS_ACPI_STACK_OVERFLOW in ntstatus.h
+description: The AML Interpreter Stack has overflowed
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0140002",
+  "codeUrl": "/win32/ntstatus-h/status_acpi_stack_overflow/0xc0140002/",
+  "numericCode": -1072431102,
+  "define": "STATUS_ACPI_STACK_OVERFLOW",
+  "defineUrl": "/win32/ntstatus-h/status_acpi_stack_overflow/",
+  "message": "The AML Interpreter Stack has overflowed",
+  "remarks": null,
+  "aka": [
+    "-1072431102"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_acpi_stack_overflow/-1072431102/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

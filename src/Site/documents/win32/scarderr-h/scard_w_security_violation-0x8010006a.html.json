@@ -1,0 +1,28 @@
+---
+output: win32\scarderr-h\scard_w_security_violation\0x8010006a\index.html.json
+
+title: 0x8010006A SCARD_W_SECURITY_VIOLATION in SCardErr.h
+description: Access was denied because of a security violation.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "SCardErr.h",
+  "sourceUrl": "/win32/scarderr-h/",
+  "code": "0x8010006A",
+  "codeUrl": "/win32/scarderr-h/scard_w_security_violation/0x8010006a/",
+  "numericCode": -2146434966,
+  "define": "SCARD_W_SECURITY_VIOLATION",
+  "defineUrl": "/win32/scarderr-h/scard_w_security_violation/",
+  "message": "Access was denied because of a security violation.",
+  "remarks": null,
+  "aka": [
+    "-2146434966"
+  ],
+  "akaUrl": [
+    "/win32/scarderr-h/scard_w_security_violation/-2146434966/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

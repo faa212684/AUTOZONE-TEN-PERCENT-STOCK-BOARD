@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_medium_not_accessible\4323\index.html.json
+
+title: 4323 ERROR_MEDIUM_NOT_ACCESSIBLE in winerror.h
+description: The transport cannot access the medium.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "4323",
+  "codeUrl": "/win32/winerror-h/error_medium_not_accessible/4323/",
+  "numericCode": 4323,
+  "define": "ERROR_MEDIUM_NOT_ACCESSIBLE",
+  "defineUrl": "/win32/winerror-h/error_medium_not_accessible/",
+  "message": "The transport cannot access the medium.",
+  "remarks": null,
+  "aka": [
+    "0x800710e3",
+    "-2147020573"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_medium_not_accessible/0x800710e3/",
+    "/win32/winerror-h/error_medium_not_accessible/-2147020573/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

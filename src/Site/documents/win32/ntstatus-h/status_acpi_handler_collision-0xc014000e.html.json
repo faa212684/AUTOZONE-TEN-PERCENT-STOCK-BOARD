@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_acpi_handler_collision\0xc014000e\index.html.json
+
+title: 0xC014000E STATUS_ACPI_HANDLER_COLLISION in ntstatus.h
+description: A handler for the target already exists
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC014000E",
+  "codeUrl": "/win32/ntstatus-h/status_acpi_handler_collision/0xc014000e/",
+  "numericCode": -1072431090,
+  "define": "STATUS_ACPI_HANDLER_COLLISION",
+  "defineUrl": "/win32/ntstatus-h/status_acpi_handler_collision/",
+  "message": "A handler for the target already exists",
+  "remarks": null,
+  "aka": [
+    "-1072431090"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_acpi_handler_collision/-1072431090/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

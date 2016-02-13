@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\context_e_notransaction\-2147164121\index.html.json
+canonical: /win32/winerror-h/context_e_notransaction/0x8004e027/
+title: -2147164121 CONTEXT_E_NOTRANSACTION in winerror.h
+description: The requested operation requires that the current context have a Transaction, and it does not
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147164121",
+  "codeUrl": "/win32/winerror-h/context_e_notransaction/-2147164121/",
+  "numericCode": 0,
+  "define": "CONTEXT_E_NOTRANSACTION",
+  "defineUrl": "/win32/winerror-h/context_e_notransaction/",
+  "message": "The requested operation requires that the current context have a Transaction, and it does not",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x8004E027",
+  "originalCodeUrl": "/win32/winerror-h/context_e_notransaction/0x8004e027/"
+}

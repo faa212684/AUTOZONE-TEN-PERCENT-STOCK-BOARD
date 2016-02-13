@@ -1,0 +1,30 @@
+---
+output: win32\vdserr-h\vds_e_shrink_over_data\0x80042816\index.html.json
+
+title: 0x80042816 VDS_E_SHRINK_OVER_DATA in vdserr.h
+description: The SHRINK operation against the selected LUN cannot be completed. 
+Completing the operation using the specified parameters will 
+overwrite volumes containing user data.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x80042816",
+  "codeUrl": "/win32/vdserr-h/vds_e_shrink_over_data/0x80042816/",
+  "numericCode": -2147211242,
+  "define": "VDS_E_SHRINK_OVER_DATA",
+  "defineUrl": "/win32/vdserr-h/vds_e_shrink_over_data/",
+  "message": "The SHRINK operation against the selected LUN cannot be completed. \r\nCompleting the operation using the specified parameters will \r\noverwrite volumes containing user data.",
+  "remarks": null,
+  "aka": [
+    "-2147211242"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_shrink_over_data/-2147211242/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

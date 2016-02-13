@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\fve_e_policy_invalid_enhanced_bcd_settings\0x803100be\index.html.json
+
+title: 0x803100BE FVE_E_POLICY_INVALID_ENHANCED_BCD_SETTINGS in winerror.h
+description: BitLocker Drive Encryption cannot be applied to this drive because the Group Policy setting for Enhanced Boot Configuration Data contains invalid data. Please have your system administrator resolve this invalid configuration before attempting to enable BitLocker.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x803100BE",
+  "codeUrl": "/win32/winerror-h/fve_e_policy_invalid_enhanced_bcd_settings/0x803100be/",
+  "numericCode": -2144272194,
+  "define": "FVE_E_POLICY_INVALID_ENHANCED_BCD_SETTINGS",
+  "defineUrl": "/win32/winerror-h/fve_e_policy_invalid_enhanced_bcd_settings/",
+  "message": "BitLocker Drive Encryption cannot be applied to this drive because the Group Policy setting for Enhanced Boot Configuration Data contains invalid data. Please have your system administrator resolve this invalid configuration before attempting to enable BitLocker.",
+  "remarks": null,
+  "aka": [
+    "-2144272194"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/fve_e_policy_invalid_enhanced_bcd_settings/-2144272194/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

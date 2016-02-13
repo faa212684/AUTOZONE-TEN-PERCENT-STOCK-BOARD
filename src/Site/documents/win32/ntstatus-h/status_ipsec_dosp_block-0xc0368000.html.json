@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_ipsec_dosp_block\0xc0368000\index.html.json
+
+title: 0xC0368000 STATUS_IPSEC_DOSP_BLOCK in ntstatus.h
+description: IPsec DoS Protection matched an explicit block rule.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0368000",
+  "codeUrl": "/win32/ntstatus-h/status_ipsec_dosp_block/0xc0368000/",
+  "numericCode": -1070170112,
+  "define": "STATUS_IPSEC_DOSP_BLOCK",
+  "defineUrl": "/win32/ntstatus-h/status_ipsec_dosp_block/",
+  "message": "IPsec DoS Protection matched an explicit block rule.",
+  "remarks": null,
+  "aka": [
+    "-1070170112"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_ipsec_dosp_block/-1070170112/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

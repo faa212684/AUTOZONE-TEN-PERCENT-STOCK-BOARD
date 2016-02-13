@@ -1,0 +1,24 @@
+---
+output: win32\windowssearcherrors-h\gthr_e_invalid_start_page_path\-2147218080\index.html.json
+canonical: /win32/windowssearcherrors-h/gthr_e_invalid_start_page_path/0x80040d60/
+title: -2147218080 GTHR_E_INVALID_START_PAGE_PATH in WindowsSearchErrors.h
+description: The path specification for the content source cannot contain wildcard characters, such as [?*]. Remove all wildcards from the path specification.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "-2147218080",
+  "codeUrl": "/win32/windowssearcherrors-h/gthr_e_invalid_start_page_path/-2147218080/",
+  "numericCode": 0,
+  "define": "GTHR_E_INVALID_START_PAGE_PATH",
+  "defineUrl": "/win32/windowssearcherrors-h/gthr_e_invalid_start_page_path/",
+  "message": "The path specification for the content source cannot contain wildcard characters, such as [?*]. Remove all wildcards from the path specification.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80040D60",
+  "originalCodeUrl": "/win32/windowssearcherrors-h/gthr_e_invalid_start_page_path/0x80040d60/"
+}

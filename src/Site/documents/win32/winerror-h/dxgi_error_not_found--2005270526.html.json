@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\dxgi_error_not_found\-2005270526\index.html.json
+canonical: /win32/winerror-h/dxgi_error_not_found/0x887a0002/
+title: -2005270526 DXGI_ERROR_NOT_FOUND in winerror.h
+description: The object was not found. If calling IDXGIFactory::EnumAdaptes, there is no adapter with the specified ordinal.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2005270526",
+  "codeUrl": "/win32/winerror-h/dxgi_error_not_found/-2005270526/",
+  "numericCode": 0,
+  "define": "DXGI_ERROR_NOT_FOUND",
+  "defineUrl": "/win32/winerror-h/dxgi_error_not_found/",
+  "message": "The object was not found. If calling IDXGIFactory::EnumAdaptes, there is no adapter with the specified ordinal.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x887A0002",
+  "originalCodeUrl": "/win32/winerror-h/dxgi_error_not_found/0x887a0002/"
+}

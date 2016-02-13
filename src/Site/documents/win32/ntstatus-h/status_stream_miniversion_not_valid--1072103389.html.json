@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_stream_miniversion_not_valid\-1072103389\index.html.json
+canonical: /win32/ntstatus-h/status_stream_miniversion_not_valid/0xc0190023/
+title: -1072103389 STATUS_STREAM_MINIVERSION_NOT_VALID in ntstatus.h
+description: The specified file miniversion was found but has been invalidated. Most likely cause is a transaction savepoint rollback.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1072103389",
+  "codeUrl": "/win32/ntstatus-h/status_stream_miniversion_not_valid/-1072103389/",
+  "numericCode": 0,
+  "define": "STATUS_STREAM_MINIVERSION_NOT_VALID",
+  "defineUrl": "/win32/ntstatus-h/status_stream_miniversion_not_valid/",
+  "message": "The specified file miniversion was found but has been invalidated. Most likely cause is a transaction savepoint rollback.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0190023",
+  "originalCodeUrl": "/win32/ntstatus-h/status_stream_miniversion_not_valid/0xc0190023/"
+}

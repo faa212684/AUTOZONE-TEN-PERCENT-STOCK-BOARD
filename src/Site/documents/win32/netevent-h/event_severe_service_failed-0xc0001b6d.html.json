@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_severe_service_failed\0xc0001b6d\index.html.json
+
+title: 0xC0001B6D EVENT_SEVERE_SERVICE_FAILED in netevent.h
+description: About to revert to the last known good configuration because the %1 service failed to start.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC0001B6D",
+  "codeUrl": "/win32/netevent-h/event_severe_service_failed/0xc0001b6d/",
+  "numericCode": -1073734803,
+  "define": "EVENT_SEVERE_SERVICE_FAILED",
+  "defineUrl": "/win32/netevent-h/event_severe_service_failed/",
+  "message": "About to revert to the last known good configuration because the %1 service failed to start.",
+  "remarks": null,
+  "aka": [
+    "-1073734803"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_severe_service_failed/-1073734803/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

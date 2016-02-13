@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\sec_e_untrusted_root\-2146893019\index.html.json
+canonical: /win32/winerror-h/sec_e_untrusted_root/0x80090325/
+title: -2146893019 SEC_E_UNTRUSTED_ROOT in winerror.h
+description: The certificate chain was issued by an authority that is not trusted.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2146893019",
+  "codeUrl": "/win32/winerror-h/sec_e_untrusted_root/-2146893019/",
+  "numericCode": 0,
+  "define": "SEC_E_UNTRUSTED_ROOT",
+  "defineUrl": "/win32/winerror-h/sec_e_untrusted_root/",
+  "message": "The certificate chain was issued by an authority that is not trusted.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80090325",
+  "originalCodeUrl": "/win32/winerror-h/sec_e_untrusted_root/0x80090325/"
+}

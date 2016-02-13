@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_file_encrypted\0x80071772\index.html.json
+canonical: /win32/winerror-h/error_file_encrypted/6002/
+title: 0x80071772 ERROR_FILE_ENCRYPTED in winerror.h
+description: The specified file is encrypted and the user does not have the ability to decrypt it.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80071772",
+  "codeUrl": "/win32/winerror-h/error_file_encrypted/0x80071772/",
+  "numericCode": 0,
+  "define": "ERROR_FILE_ENCRYPTED",
+  "defineUrl": "/win32/winerror-h/error_file_encrypted/",
+  "message": "The specified file is encrypted and the user does not have the ability to decrypt it.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "6002",
+  "originalCodeUrl": "/win32/winerror-h/error_file_encrypted/6002/"
+}

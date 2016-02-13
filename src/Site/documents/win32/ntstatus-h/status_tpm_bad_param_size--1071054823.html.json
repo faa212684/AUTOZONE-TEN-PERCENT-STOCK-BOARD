@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_tpm_bad_param_size\-1071054823\index.html.json
+canonical: /win32/ntstatus-h/status_tpm_bad_param_size/0xc0290019/
+title: -1071054823 STATUS_TPM_BAD_PARAM_SIZE in ntstatus.h
+description: The paramSize argument to the command has the incorrect value .
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071054823",
+  "codeUrl": "/win32/ntstatus-h/status_tpm_bad_param_size/-1071054823/",
+  "numericCode": 0,
+  "define": "STATUS_TPM_BAD_PARAM_SIZE",
+  "defineUrl": "/win32/ntstatus-h/status_tpm_bad_param_size/",
+  "message": "The paramSize argument to the command has the incorrect value .",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0290019",
+  "originalCodeUrl": "/win32/ntstatus-h/status_tpm_bad_param_size/0xc0290019/"
+}

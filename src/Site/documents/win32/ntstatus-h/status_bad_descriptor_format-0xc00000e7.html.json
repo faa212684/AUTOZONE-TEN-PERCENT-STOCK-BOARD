@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_bad_descriptor_format\0xc00000e7\index.html.json
+
+title: 0xC00000E7 STATUS_BAD_DESCRIPTOR_FORMAT in ntstatus.h
+description: Indicates a security descriptor is not in the necessary format (absolute or self-relative).
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC00000E7",
+  "codeUrl": "/win32/ntstatus-h/status_bad_descriptor_format/0xc00000e7/",
+  "numericCode": -1073741593,
+  "define": "STATUS_BAD_DESCRIPTOR_FORMAT",
+  "defineUrl": "/win32/ntstatus-h/status_bad_descriptor_format/",
+  "message": "Indicates a security descriptor is not in the necessary format (absolute or self-relative).",
+  "remarks": null,
+  "aka": [
+    "-1073741593"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_bad_descriptor_format/-1073741593/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_ndis_device_failed\0xc0230008\index.html.json
+
+title: 0xC0230008 STATUS_NDIS_DEVICE_FAILED in ntstatus.h
+description: Network interface has encountered an internal unrecoverable failure.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0230008",
+  "codeUrl": "/win32/ntstatus-h/status_ndis_device_failed/0xc0230008/",
+  "numericCode": -1071448056,
+  "define": "STATUS_NDIS_DEVICE_FAILED",
+  "defineUrl": "/win32/ntstatus-h/status_ndis_device_failed/",
+  "message": "Network interface has encountered an internal unrecoverable failure.",
+  "remarks": null,
+  "aka": [
+    "-1071448056"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_ndis_device_failed/-1071448056/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

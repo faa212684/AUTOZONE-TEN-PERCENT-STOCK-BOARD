@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_invalid_plugplay_device_path\0x8007026c\index.html.json
+canonical: /win32/winerror-h/error_invalid_plugplay_device_path/620/
+title: 0x8007026c ERROR_INVALID_PLUGPLAY_DEVICE_PATH in winerror.h
+description: The specified Plug and Play registry device path is invalid.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007026c",
+  "codeUrl": "/win32/winerror-h/error_invalid_plugplay_device_path/0x8007026c/",
+  "numericCode": 0,
+  "define": "ERROR_INVALID_PLUGPLAY_DEVICE_PATH",
+  "defineUrl": "/win32/winerror-h/error_invalid_plugplay_device_path/",
+  "message": "The specified Plug and Play registry device path is invalid.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "620",
+  "originalCodeUrl": "/win32/winerror-h/error_invalid_plugplay_device_path/620/"
+}

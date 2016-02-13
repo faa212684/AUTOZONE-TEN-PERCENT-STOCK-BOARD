@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\dns_error_keymaster_required\0x8007238d\index.html.json
+canonical: /win32/winerror-h/dns_error_keymaster_required/9101/
+title: 0x8007238d DNS_ERROR_KEYMASTER_REQUIRED in winerror.h
+description: Only the DNS server acting as the key master for the zone may perform this operation.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007238d",
+  "codeUrl": "/win32/winerror-h/dns_error_keymaster_required/0x8007238d/",
+  "numericCode": 0,
+  "define": "DNS_ERROR_KEYMASTER_REQUIRED",
+  "defineUrl": "/win32/winerror-h/dns_error_keymaster_required/",
+  "message": "Only the DNS server acting as the key master for the zone may perform this operation.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "9101",
+  "originalCodeUrl": "/win32/winerror-h/dns_error_keymaster_required/9101/"
+}

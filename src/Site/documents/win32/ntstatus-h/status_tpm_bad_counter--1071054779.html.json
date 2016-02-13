@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_tpm_bad_counter\-1071054779\index.html.json
+canonical: /win32/ntstatus-h/status_tpm_bad_counter/0xc0290045/
+title: -1071054779 STATUS_TPM_BAD_COUNTER in ntstatus.h
+description: The counter handle is incorrect.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071054779",
+  "codeUrl": "/win32/ntstatus-h/status_tpm_bad_counter/-1071054779/",
+  "numericCode": 0,
+  "define": "STATUS_TPM_BAD_COUNTER",
+  "defineUrl": "/win32/ntstatus-h/status_tpm_bad_counter/",
+  "message": "The counter handle is incorrect.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0290045",
+  "originalCodeUrl": "/win32/ntstatus-h/status_tpm_bad_counter/0xc0290045/"
+}

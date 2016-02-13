@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\sec_e_decrypt_failure\0x80090330\index.html.json
+
+title: 0x80090330 SEC_E_DECRYPT_FAILURE in winerror.h
+description: The specified data could not be decrypted.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80090330",
+  "codeUrl": "/win32/winerror-h/sec_e_decrypt_failure/0x80090330/",
+  "numericCode": -2146893008,
+  "define": "SEC_E_DECRYPT_FAILURE",
+  "defineUrl": "/win32/winerror-h/sec_e_decrypt_failure/",
+  "message": "The specified data could not be decrypted.",
+  "remarks": null,
+  "aka": [
+    "-2146893008"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/sec_e_decrypt_failure/-2146893008/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

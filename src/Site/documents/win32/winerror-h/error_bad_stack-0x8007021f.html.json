@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_bad_stack\0x8007021f\index.html.json
+canonical: /win32/winerror-h/error_bad_stack/543/
+title: 0x8007021f ERROR_BAD_STACK in winerror.h
+description: An invalid or unaligned stack was encountered during an unwind operation.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007021f",
+  "codeUrl": "/win32/winerror-h/error_bad_stack/0x8007021f/",
+  "numericCode": 0,
+  "define": "ERROR_BAD_STACK",
+  "defineUrl": "/win32/winerror-h/error_bad_stack/",
+  "message": "An invalid or unaligned stack was encountered during an unwind operation.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "543",
+  "originalCodeUrl": "/win32/winerror-h/error_bad_stack/543/"
+}

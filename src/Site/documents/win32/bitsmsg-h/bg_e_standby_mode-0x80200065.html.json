@@ -1,0 +1,28 @@
+---
+output: win32\bitsmsg-h\bg_e_standby_mode\0x80200065\index.html.json
+
+title: 0x80200065 BG_E_STANDBY_MODE in BitsMsg.h
+description: The transfer was paused because the computer is in power-saving mode. The transfer will resume when the computer wakes up.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "BitsMsg.h",
+  "sourceUrl": "/win32/bitsmsg-h/",
+  "code": "0x80200065",
+  "codeUrl": "/win32/bitsmsg-h/bg_e_standby_mode/0x80200065/",
+  "numericCode": -2145386395,
+  "define": "BG_E_STANDBY_MODE",
+  "defineUrl": "/win32/bitsmsg-h/bg_e_standby_mode/",
+  "message": "The transfer was paused because the computer is in power-saving mode. The transfer will resume when the computer wakes up.",
+  "remarks": null,
+  "aka": [
+    "-2145386395"
+  ],
+  "akaUrl": [
+    "/win32/bitsmsg-h/bg_e_standby_mode/-2145386395/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

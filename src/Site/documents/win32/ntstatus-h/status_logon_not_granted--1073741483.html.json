@@ -1,0 +1,25 @@
+---
+output: win32\ntstatus-h\status_logon_not_granted\-1073741483\index.html.json
+canonical: /win32/ntstatus-h/status_logon_not_granted/0xc0000155/
+title: -1073741483 STATUS_LOGON_NOT_GRANTED in ntstatus.h
+description: A requested type of logon (e.g., Interactive, Network, Service) is not granted by the target system's local security policy.
+Please ask the system administrator to grant the necessary form of logon.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741483",
+  "codeUrl": "/win32/ntstatus-h/status_logon_not_granted/-1073741483/",
+  "numericCode": 0,
+  "define": "STATUS_LOGON_NOT_GRANTED",
+  "defineUrl": "/win32/ntstatus-h/status_logon_not_granted/",
+  "message": "A requested type of logon (e.g., Interactive, Network, Service) is not granted by the target system's local security policy.\r\nPlease ask the system administrator to grant the necessary form of logon.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000155",
+  "originalCodeUrl": "/win32/ntstatus-h/status_logon_not_granted/0xc0000155/"
+}

@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\certsrv_e_no_caadmin_defined\0x8009400d\index.html.json
+
+title: 0x8009400D CERTSRV_E_NO_CAADMIN_DEFINED in winerror.h
+description: At least one security principal must have the permission to manage this CA.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8009400D",
+  "codeUrl": "/win32/winerror-h/certsrv_e_no_caadmin_defined/0x8009400d/",
+  "numericCode": -2146877427,
+  "define": "CERTSRV_E_NO_CAADMIN_DEFINED",
+  "defineUrl": "/win32/winerror-h/certsrv_e_no_caadmin_defined/",
+  "message": "At least one security principal must have the permission to manage this CA.",
+  "remarks": null,
+  "aka": [
+    "-2146877427"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/certsrv_e_no_caadmin_defined/-2146877427/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

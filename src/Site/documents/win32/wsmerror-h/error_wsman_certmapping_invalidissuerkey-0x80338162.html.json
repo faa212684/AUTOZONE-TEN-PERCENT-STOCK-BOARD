@@ -1,0 +1,30 @@
+---
+output: win32\wsmerror-h\error_wsman_certmapping_invalidissuerkey\0x80338162\index.html.json
+
+title: 0x80338162 ERROR_WSMAN_CERTMAPPING_INVALIDISSUERKEY in wsmerror.h
+description: WinRM cannot make the configuration change because the Issuer used for the certificate mapping operation is not valid. 
+The certificate identified by the issuer thumbprint must be present in the machine "Trusted Root Certification Authorities" or "Intermediate Certification Authorities" store. 
+The certificate must have key usage that allows it to sign other certificates.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x80338162",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_certmapping_invalidissuerkey/0x80338162/",
+  "numericCode": -2144108190,
+  "define": "ERROR_WSMAN_CERTMAPPING_INVALIDISSUERKEY",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_certmapping_invalidissuerkey/",
+  "message": "WinRM cannot make the configuration change because the Issuer used for the certificate mapping operation is not valid. \r\nThe certificate identified by the issuer thumbprint must be present in the machine \"Trusted Root Certification Authorities\" or \"Intermediate Certification Authorities\" store. \r\nThe certificate must have key usage that allows it to sign other certificates.",
+  "remarks": null,
+  "aka": [
+    "-2144108190"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_certmapping_invalidissuerkey/-2144108190/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

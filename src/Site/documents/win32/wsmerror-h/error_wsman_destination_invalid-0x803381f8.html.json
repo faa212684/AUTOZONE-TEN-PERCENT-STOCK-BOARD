@@ -1,0 +1,32 @@
+---
+output: win32\wsmerror-h\error_wsman_destination_invalid\0x803381f8\index.html.json
+
+title: 0x803381F8 ERROR_WSMAN_DESTINATION_INVALID in wsmerror.h
+description: The WinRM client cannot process the request.
+The destination computer name must be a hostname or an IP address, and must not be a URL.
+To use an IPv6 address, enclose the address in brackets, like the following: "[::1]".
+The transport, port number, and URL prefix may be controlled by setting the appropriate destination options.
+Change the destination computer name string and retry the operation.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x803381F8",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_destination_invalid/0x803381f8/",
+  "numericCode": -2144108040,
+  "define": "ERROR_WSMAN_DESTINATION_INVALID",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_destination_invalid/",
+  "message": "The WinRM client cannot process the request.\r\nThe destination computer name must be a hostname or an IP address, and must not be a URL.\r\nTo use an IPv6 address, enclose the address in brackets, like the following: \"[::1]\".\r\nThe transport, port number, and URL prefix may be controlled by setting the appropriate destination options.\r\nChange the destination computer name string and retry the operation.",
+  "remarks": null,
+  "aka": [
+    "-2144108040"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_destination_invalid/-2144108040/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

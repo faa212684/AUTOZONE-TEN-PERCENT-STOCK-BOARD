@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_transaction_no_match\-1073741294\index.html.json
+canonical: /win32/ntstatus-h/status_transaction_no_match/0xc0000212/
+title: -1073741294 STATUS_TRANSACTION_NO_MATCH in ntstatus.h
+description: The transport did not find a transaction matching the specific token.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741294",
+  "codeUrl": "/win32/ntstatus-h/status_transaction_no_match/-1073741294/",
+  "numericCode": 0,
+  "define": "STATUS_TRANSACTION_NO_MATCH",
+  "defineUrl": "/win32/ntstatus-h/status_transaction_no_match/",
+  "message": "The transport did not find a transaction matching the specific token.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000212",
+  "originalCodeUrl": "/win32/ntstatus-h/status_transaction_no_match/0xc0000212/"
+}

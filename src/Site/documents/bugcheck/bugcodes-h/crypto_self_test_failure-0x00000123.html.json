@@ -1,0 +1,28 @@
+---
+output: bugcheck\bugcodes-h\crypto_self_test_failure\0x00000123\index.html.json
+
+title: 0x00000123 CRYPTO_SELF_TEST_FAILURE in bugcodes.h
+description: CRYPTO_SELF_TEST_FAILURE
+disqus: true
+---
+{
+  "area": "bugcheck",
+  "areaUrl": "/bugcheck/",
+  "source": "bugcodes.h",
+  "sourceUrl": "/bugcheck/bugcodes-h/",
+  "code": "0x00000123",
+  "codeUrl": "/bugcheck/bugcodes-h/crypto_self_test_failure/0x00000123/",
+  "numericCode": 291,
+  "define": "CRYPTO_SELF_TEST_FAILURE",
+  "defineUrl": "/bugcheck/bugcodes-h/crypto_self_test_failure/",
+  "message": "CRYPTO_SELF_TEST_FAILURE",
+  "remarks": null,
+  "aka": [
+    "291"
+  ],
+  "akaUrl": [
+    "/bugcheck/bugcodes-h/crypto_self_test_failure/291/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

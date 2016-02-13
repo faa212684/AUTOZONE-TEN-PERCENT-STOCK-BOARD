@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_thread_is_terminating\-1073741749\index.html.json
+canonical: /win32/ntstatus-h/status_thread_is_terminating/0xc000004b/
+title: -1073741749 STATUS_THREAD_IS_TERMINATING in ntstatus.h
+description: An attempt was made to access a thread that has begun termination.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741749",
+  "codeUrl": "/win32/ntstatus-h/status_thread_is_terminating/-1073741749/",
+  "numericCode": 0,
+  "define": "STATUS_THREAD_IS_TERMINATING",
+  "defineUrl": "/win32/ntstatus-h/status_thread_is_terminating/",
+  "message": "An attempt was made to access a thread that has begun termination.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC000004B",
+  "originalCodeUrl": "/win32/ntstatus-h/status_thread_is_terminating/0xc000004b/"
+}

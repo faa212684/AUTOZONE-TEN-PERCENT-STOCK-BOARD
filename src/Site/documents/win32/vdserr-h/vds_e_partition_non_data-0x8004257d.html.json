@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_e_partition_non_data\0x8004257d\index.html.json
+
+title: 0x8004257D VDS_E_PARTITION_NON_DATA in vdserr.h
+description: The specified partition is a not a primary or logical volume.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x8004257D",
+  "codeUrl": "/win32/vdserr-h/vds_e_partition_non_data/0x8004257d/",
+  "numericCode": -2147211907,
+  "define": "VDS_E_PARTITION_NON_DATA",
+  "defineUrl": "/win32/vdserr-h/vds_e_partition_non_data/",
+  "message": "The specified partition is a not a primary or logical volume.",
+  "remarks": null,
+  "aka": [
+    "-2147211907"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_partition_non_data/-2147211907/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

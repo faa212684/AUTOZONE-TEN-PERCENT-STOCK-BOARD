@@ -1,0 +1,28 @@
+---
+output: win32\imapi2fserror-h\imapi_e_import_type_collision_file_exists_as_directory\0xc0aab155\index.html.json
+
+title: 0xC0AAB155 IMAPI_E_IMPORT_TYPE_COLLISION_FILE_EXISTS_AS_DIRECTORY in imapi2fserror.h
+description: Could not import %2!ls! file system from disc.  The file '%1!ls!' already exists within the image hierarchy as a directory.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "imapi2fserror.h",
+  "sourceUrl": "/win32/imapi2fserror-h/",
+  "code": "0xC0AAB155",
+  "codeUrl": "/win32/imapi2fserror-h/imapi_e_import_type_collision_file_exists_as_directory/0xc0aab155/",
+  "numericCode": -1062555307,
+  "define": "IMAPI_E_IMPORT_TYPE_COLLISION_FILE_EXISTS_AS_DIRECTORY",
+  "defineUrl": "/win32/imapi2fserror-h/imapi_e_import_type_collision_file_exists_as_directory/",
+  "message": "Could not import %2!ls! file system from disc.  The file '%1!ls!' already exists within the image hierarchy as a directory.",
+  "remarks": null,
+  "aka": [
+    "-1062555307"
+  ],
+  "akaUrl": [
+    "/win32/imapi2fserror-h/imapi_e_import_type_collision_file_exists_as_directory/-1062555307/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

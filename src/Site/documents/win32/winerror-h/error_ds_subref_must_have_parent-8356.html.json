@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ds_subref_must_have_parent\8356\index.html.json
+
+title: 8356 ERROR_DS_SUBREF_MUST_HAVE_PARENT in winerror.h
+description: The parent of a new subref must exist.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "8356",
+  "codeUrl": "/win32/winerror-h/error_ds_subref_must_have_parent/8356/",
+  "numericCode": 8356,
+  "define": "ERROR_DS_SUBREF_MUST_HAVE_PARENT",
+  "defineUrl": "/win32/winerror-h/error_ds_subref_must_have_parent/",
+  "message": "The parent of a new subref must exist.",
+  "remarks": null,
+  "aka": [
+    "0x800720a4",
+    "-2147016540"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ds_subref_must_have_parent/0x800720a4/",
+    "/win32/winerror-h/error_ds_subref_must_have_parent/-2147016540/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

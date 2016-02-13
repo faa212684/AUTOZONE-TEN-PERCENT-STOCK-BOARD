@@ -1,0 +1,29 @@
+---
+output: win32\ntstatus-h\status_no_quotas_for_account\0x0000010d\index.html.json
+
+title: 0x0000010D STATUS_NO_QUOTAS_FOR_ACCOUNT in ntstatus.h
+description: "{No Quotas}
+No system quota limits are specifically set for this account."
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0x0000010D",
+  "codeUrl": "/win32/ntstatus-h/status_no_quotas_for_account/0x0000010d/",
+  "numericCode": 269,
+  "define": "STATUS_NO_QUOTAS_FOR_ACCOUNT",
+  "defineUrl": "/win32/ntstatus-h/status_no_quotas_for_account/",
+  "message": "{No Quotas}\r\nNo system quota limits are specifically set for this account.",
+  "remarks": null,
+  "aka": [
+    "269"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_no_quotas_for_account/269/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

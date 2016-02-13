@@ -1,0 +1,28 @@
+---
+output: win32\windowssearcherrors-h\fte_e_fd_used_too_much_memory\0x8004364d\index.html.json
+
+title: 0x8004364D FTE_E_FD_USED_TOO_MUCH_MEMORY in WindowsSearchErrors.h
+description: The filter daemon process MSFTEFD used too much memory and will be terminated.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "0x8004364D",
+  "codeUrl": "/win32/windowssearcherrors-h/fte_e_fd_used_too_much_memory/0x8004364d/",
+  "numericCode": -2147207603,
+  "define": "FTE_E_FD_USED_TOO_MUCH_MEMORY",
+  "defineUrl": "/win32/windowssearcherrors-h/fte_e_fd_used_too_much_memory/",
+  "message": "The filter daemon process MSFTEFD used too much memory and will be terminated.",
+  "remarks": null,
+  "aka": [
+    "-2147207603"
+  ],
+  "akaUrl": [
+    "/win32/windowssearcherrors-h/fte_e_fd_used_too_much_memory/-2147207603/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

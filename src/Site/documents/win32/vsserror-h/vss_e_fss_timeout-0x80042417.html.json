@@ -1,0 +1,28 @@
+---
+output: win32\vsserror-h\vss_e_fss_timeout\0x80042417\index.html.json
+
+title: 0x80042417 VSS_E_FSS_TIMEOUT in vsserror.h
+description: A timeout occurred while preparing a file share shadowcopy for backup.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vsserror.h",
+  "sourceUrl": "/win32/vsserror-h/",
+  "code": "0x80042417",
+  "codeUrl": "/win32/vsserror-h/vss_e_fss_timeout/0x80042417/",
+  "numericCode": -2147212265,
+  "define": "VSS_E_FSS_TIMEOUT",
+  "defineUrl": "/win32/vsserror-h/vss_e_fss_timeout/",
+  "message": "A timeout occurred while preparing a file share shadowcopy for backup.",
+  "remarks": null,
+  "aka": [
+    "-2147212265"
+  ],
+  "akaUrl": [
+    "/win32/vsserror-h/vss_e_fss_timeout/-2147212265/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

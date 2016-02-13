@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_too_many_sem_requests\-2147024793\index.html.json
+canonical: /win32/winerror-h/error_too_many_sem_requests/103/
+title: -2147024793 ERROR_TOO_MANY_SEM_REQUESTS in winerror.h
+description: The semaphore cannot be set again.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147024793",
+  "codeUrl": "/win32/winerror-h/error_too_many_sem_requests/-2147024793/",
+  "numericCode": 0,
+  "define": "ERROR_TOO_MANY_SEM_REQUESTS",
+  "defineUrl": "/win32/winerror-h/error_too_many_sem_requests/",
+  "message": "The semaphore cannot be set again.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "103",
+  "originalCodeUrl": "/win32/winerror-h/error_too_many_sem_requests/103/"
+}

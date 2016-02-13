@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\rpc_nt_wrong_es_version\0xc003005a\index.html.json
+
+title: 0xC003005A RPC_NT_WRONG_ES_VERSION in ntstatus.h
+description: Incompatible version of the serializing package.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC003005A",
+  "codeUrl": "/win32/ntstatus-h/rpc_nt_wrong_es_version/0xc003005a/",
+  "numericCode": -1073545126,
+  "define": "RPC_NT_WRONG_ES_VERSION",
+  "defineUrl": "/win32/ntstatus-h/rpc_nt_wrong_es_version/",
+  "message": "Incompatible version of the serializing package.",
+  "remarks": null,
+  "aka": [
+    "-1073545126"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/rpc_nt_wrong_es_version/-1073545126/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_invalid_exception_handler\310\index.html.json
+
+title: 310 ERROR_INVALID_EXCEPTION_HANDLER in winerror.h
+description: An invalid exception handler routine has been detected.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "310",
+  "codeUrl": "/win32/winerror-h/error_invalid_exception_handler/310/",
+  "numericCode": 310,
+  "define": "ERROR_INVALID_EXCEPTION_HANDLER",
+  "defineUrl": "/win32/winerror-h/error_invalid_exception_handler/",
+  "message": "An invalid exception handler routine has been detected.",
+  "remarks": null,
+  "aka": [
+    "0x80070136",
+    "-2147024586"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_invalid_exception_handler/0x80070136/",
+    "/win32/winerror-h/error_invalid_exception_handler/-2147024586/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_ipsec_invalid_packet\0xc0360005\index.html.json
+
+title: 0xC0360005 STATUS_IPSEC_INVALID_PACKET in ntstatus.h
+description: IPsec header and/or trailer in the packet is invalid.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0360005",
+  "codeUrl": "/win32/ntstatus-h/status_ipsec_invalid_packet/0xc0360005/",
+  "numericCode": -1070202875,
+  "define": "STATUS_IPSEC_INVALID_PACKET",
+  "defineUrl": "/win32/ntstatus-h/status_ipsec_invalid_packet/",
+  "message": "IPsec header and/or trailer in the packet is invalid.",
+  "remarks": null,
+  "aka": [
+    "-1070202875"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_ipsec_invalid_packet/-1070202875/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

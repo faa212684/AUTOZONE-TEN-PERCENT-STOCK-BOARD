@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\wininet_e_async_thread_failed\0x80072f0f\index.html.json
+
+title: 0x80072F0F WININET_E_ASYNC_THREAD_FAILED in winerror.h
+description: An error has occurred in a Wininet asynchronous thread. You may need to restart
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80072F0F",
+  "codeUrl": "/win32/winerror-h/wininet_e_async_thread_failed/0x80072f0f/",
+  "numericCode": -2147012849,
+  "define": "WININET_E_ASYNC_THREAD_FAILED",
+  "defineUrl": "/win32/winerror-h/wininet_e_async_thread_failed/",
+  "message": "An error has occurred in a Wininet asynchronous thread. You may need to restart",
+  "remarks": null,
+  "aka": [
+    "-2147012849"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/wininet_e_async_thread_failed/-2147012849/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

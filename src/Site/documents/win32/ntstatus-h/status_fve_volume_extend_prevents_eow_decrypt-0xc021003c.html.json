@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_fve_volume_extend_prevents_eow_decrypt\0xc021003c\index.html.json
+
+title: 0xC021003C STATUS_FVE_VOLUME_EXTEND_PREVENTS_EOW_DECRYPT in ntstatus.h
+description: Device encryption removal is blocked due to volume being extended beyond its original size.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC021003C",
+  "codeUrl": "/win32/ntstatus-h/status_fve_volume_extend_prevents_eow_decrypt/0xc021003c/",
+  "numericCode": -1071579076,
+  "define": "STATUS_FVE_VOLUME_EXTEND_PREVENTS_EOW_DECRYPT",
+  "defineUrl": "/win32/ntstatus-h/status_fve_volume_extend_prevents_eow_decrypt/",
+  "message": "Device encryption removal is blocked due to volume being extended beyond its original size.",
+  "remarks": null,
+  "aka": [
+    "-1071579076"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_fve_volume_extend_prevents_eow_decrypt/-1071579076/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

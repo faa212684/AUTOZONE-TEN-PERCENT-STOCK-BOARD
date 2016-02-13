@@ -1,0 +1,24 @@
+---
+output: win32\tapi3err-h\tapi_e_noevent\-2147221424\index.html.json
+canonical: /win32/tapi3err-h/tapi_e_noevent/0x80040050/
+title: -2147221424 TAPI_E_NOEVENT in Tapi3Err.h
+description: There is no event in the MSP's event queue.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "Tapi3Err.h",
+  "sourceUrl": "/win32/tapi3err-h/",
+  "code": "-2147221424",
+  "codeUrl": "/win32/tapi3err-h/tapi_e_noevent/-2147221424/",
+  "numericCode": 0,
+  "define": "TAPI_E_NOEVENT",
+  "defineUrl": "/win32/tapi3err-h/tapi_e_noevent/",
+  "message": "There is no event in the MSP's event queue.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80040050",
+  "originalCodeUrl": "/win32/tapi3err-h/tapi_e_noevent/0x80040050/"
+}

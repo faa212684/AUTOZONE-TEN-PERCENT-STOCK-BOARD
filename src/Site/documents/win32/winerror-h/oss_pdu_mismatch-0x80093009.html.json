@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\oss_pdu_mismatch\0x80093009\index.html.json
+
+title: 0x80093009 OSS_PDU_MISMATCH in winerror.h
+description: OSS ASN.1 Error: Encode/Decode Error.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80093009",
+  "codeUrl": "/win32/winerror-h/oss_pdu_mismatch/0x80093009/",
+  "numericCode": -2146881527,
+  "define": "OSS_PDU_MISMATCH",
+  "defineUrl": "/win32/winerror-h/oss_pdu_mismatch/",
+  "message": "OSS ASN.1 Error: Encode/Decode Error.",
+  "remarks": null,
+  "aka": [
+    "-2146881527"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/oss_pdu_mismatch/-2146881527/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

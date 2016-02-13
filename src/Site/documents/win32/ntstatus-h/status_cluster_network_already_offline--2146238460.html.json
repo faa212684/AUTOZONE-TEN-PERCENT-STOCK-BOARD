@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_cluster_network_already_offline\-2146238460\index.html.json
+canonical: /win32/ntstatus-h/status_cluster_network_already_offline/0x80130004/
+title: -2146238460 STATUS_CLUSTER_NETWORK_ALREADY_OFFLINE in ntstatus.h
+description: The cluster network is already offline.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-2146238460",
+  "codeUrl": "/win32/ntstatus-h/status_cluster_network_already_offline/-2146238460/",
+  "numericCode": 0,
+  "define": "STATUS_CLUSTER_NETWORK_ALREADY_OFFLINE",
+  "defineUrl": "/win32/ntstatus-h/status_cluster_network_already_offline/",
+  "message": "The cluster network is already offline.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80130004",
+  "originalCodeUrl": "/win32/ntstatus-h/status_cluster_network_already_offline/0x80130004/"
+}

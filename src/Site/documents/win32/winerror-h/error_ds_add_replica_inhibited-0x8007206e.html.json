@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_ds_add_replica_inhibited\0x8007206e\index.html.json
+canonical: /win32/winerror-h/error_ds_add_replica_inhibited/8302/
+title: 0x8007206e ERROR_DS_ADD_REPLICA_INHIBITED in winerror.h
+description: The add replica operation cannot be performed. The naming context must be writeable in order to create the replica.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007206e",
+  "codeUrl": "/win32/winerror-h/error_ds_add_replica_inhibited/0x8007206e/",
+  "numericCode": 0,
+  "define": "ERROR_DS_ADD_REPLICA_INHIBITED",
+  "defineUrl": "/win32/winerror-h/error_ds_add_replica_inhibited/",
+  "message": "The add replica operation cannot be performed. The naming context must be writeable in order to create the replica.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "8302",
+  "originalCodeUrl": "/win32/winerror-h/error_ds_add_replica_inhibited/8302/"
+}

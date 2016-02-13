@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_stopped_on_symlink\0x8000002d\index.html.json
+
+title: 0x8000002D STATUS_STOPPED_ON_SYMLINK in ntstatus.h
+description: The create operation stopped after reaching a symbolic link.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0x8000002D",
+  "codeUrl": "/win32/ntstatus-h/status_stopped_on_symlink/0x8000002d/",
+  "numericCode": -2147483603,
+  "define": "STATUS_STOPPED_ON_SYMLINK",
+  "defineUrl": "/win32/ntstatus-h/status_stopped_on_symlink/",
+  "message": "The create operation stopped after reaching a symbolic link.",
+  "remarks": null,
+  "aka": [
+    "-2147483603"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_stopped_on_symlink/-2147483603/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

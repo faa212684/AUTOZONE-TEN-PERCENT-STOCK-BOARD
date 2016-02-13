@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_secureboot_not_enabled\-2143092730\index.html.json
+canonical: /win32/ntstatus-h/status_secureboot_not_enabled/0x80430006/
+title: -2143092730 STATUS_SECUREBOOT_NOT_ENABLED in ntstatus.h
+description: Secure Boot is not enabled on this machine.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-2143092730",
+  "codeUrl": "/win32/ntstatus-h/status_secureboot_not_enabled/-2143092730/",
+  "numericCode": 0,
+  "define": "STATUS_SECUREBOOT_NOT_ENABLED",
+  "defineUrl": "/win32/ntstatus-h/status_secureboot_not_enabled/",
+  "message": "Secure Boot is not enabled on this machine.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80430006",
+  "originalCodeUrl": "/win32/ntstatus-h/status_secureboot_not_enabled/0x80430006/"
+}

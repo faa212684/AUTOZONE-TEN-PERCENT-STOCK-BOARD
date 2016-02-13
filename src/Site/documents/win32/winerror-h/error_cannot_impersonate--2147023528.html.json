@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_cannot_impersonate\-2147023528\index.html.json
+canonical: /win32/winerror-h/error_cannot_impersonate/1368/
+title: -2147023528 ERROR_CANNOT_IMPERSONATE in winerror.h
+description: Unable to impersonate using a named pipe until data has been read from that pipe.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147023528",
+  "codeUrl": "/win32/winerror-h/error_cannot_impersonate/-2147023528/",
+  "numericCode": 0,
+  "define": "ERROR_CANNOT_IMPERSONATE",
+  "defineUrl": "/win32/winerror-h/error_cannot_impersonate/",
+  "message": "Unable to impersonate using a named pipe until data has been read from that pipe.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "1368",
+  "originalCodeUrl": "/win32/winerror-h/error_cannot_impersonate/1368/"
+}

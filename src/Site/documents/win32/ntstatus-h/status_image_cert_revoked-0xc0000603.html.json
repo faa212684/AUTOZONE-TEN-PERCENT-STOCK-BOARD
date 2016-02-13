@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_image_cert_revoked\0xc0000603\index.html.json
+
+title: 0xC0000603 STATUS_IMAGE_CERT_REVOKED in ntstatus.h
+description: Windows cannot verify the digital signature for this file. The signing certificate for this file has been revoked.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000603",
+  "codeUrl": "/win32/ntstatus-h/status_image_cert_revoked/0xc0000603/",
+  "numericCode": -1073740285,
+  "define": "STATUS_IMAGE_CERT_REVOKED",
+  "defineUrl": "/win32/ntstatus-h/status_image_cert_revoked/",
+  "message": "Windows cannot verify the digital signature for this file. The signing certificate for this file has been revoked.",
+  "remarks": null,
+  "aka": [
+    "-1073740285"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_image_cert_revoked/-1073740285/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_e_get_san_policy\0x80042805\index.html.json
+
+title: 0x80042805 VDS_E_GET_SAN_POLICY in vdserr.h
+description: A driver error was reported when getting the SAN policy.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x80042805",
+  "codeUrl": "/win32/vdserr-h/vds_e_get_san_policy/0x80042805/",
+  "numericCode": -2147211259,
+  "define": "VDS_E_GET_SAN_POLICY",
+  "defineUrl": "/win32/vdserr-h/vds_e_get_san_policy/",
+  "message": "A driver error was reported when getting the SAN policy.",
+  "remarks": null,
+  "aka": [
+    "-2147211259"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_get_san_policy/-2147211259/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

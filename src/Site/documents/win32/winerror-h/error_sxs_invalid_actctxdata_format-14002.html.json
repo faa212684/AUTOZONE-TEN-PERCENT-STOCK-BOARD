@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_sxs_invalid_actctxdata_format\14002\index.html.json
+
+title: 14002 ERROR_SXS_INVALID_ACTCTXDATA_FORMAT in winerror.h
+description: The application binding data format is invalid.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "14002",
+  "codeUrl": "/win32/winerror-h/error_sxs_invalid_actctxdata_format/14002/",
+  "numericCode": 14002,
+  "define": "ERROR_SXS_INVALID_ACTCTXDATA_FORMAT",
+  "defineUrl": "/win32/winerror-h/error_sxs_invalid_actctxdata_format/",
+  "message": "The application binding data format is invalid.",
+  "remarks": null,
+  "aka": [
+    "0x800736b2",
+    "-2147010894"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_sxs_invalid_actctxdata_format/0x800736b2/",
+    "/win32/winerror-h/error_sxs_invalid_actctxdata_format/-2147010894/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

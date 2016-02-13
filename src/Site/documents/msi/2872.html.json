@@ -1,0 +1,24 @@
+---
+output: msi\2872\index.html.json
+
+title: msi 2872
+description: The argument of the CheckPath control event on dialog [2] is invalid.
+disqus: true
+---
+{
+  "area": "msi",
+  "areaUrl": "/msi/",
+  "source": null,
+  "sourceUrl": "/msi/",
+  "code": "2872",
+  "codeUrl": "/msi/2872/",
+  "numericCode": 2872,
+  "define": null,
+  "defineUrl": "/msi/",
+  "message": "The argument of the CheckPath control event on dialog [2] is invalid.",
+  "remarks": "Where \"CheckPath\" can be the \r\n        <a href=\"https://msdn.microsoft.com/en-us/library/aa367859(v=vs.85).aspx\">CheckTargetPath</a>, \r\n        <a href=\"https://msdn.microsoft.com/en-us/library/aa371697(v=vs.85).aspx\">SetTargetPath</a> or the \r\n        <a href=\"https://msdn.microsoft.com/en-us/library/aa367856(v=vs.85).aspx\">CheckExistingTargetPath</a> control \r\n        events.",
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": null,
+  "originalCodeUrl": null
+}

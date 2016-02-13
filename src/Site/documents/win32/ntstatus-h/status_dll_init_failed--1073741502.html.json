@@ -1,0 +1,25 @@
+---
+output: win32\ntstatus-h\status_dll_init_failed\-1073741502\index.html.json
+canonical: /win32/ntstatus-h/status_dll_init_failed/0xc0000142/
+title: -1073741502 STATUS_DLL_INIT_FAILED in ntstatus.h
+description: "{DLL Initialization Failed}
+Initialization of the dynamic link library %hs failed. The process is terminating abnormally."
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741502",
+  "codeUrl": "/win32/ntstatus-h/status_dll_init_failed/-1073741502/",
+  "numericCode": 0,
+  "define": "STATUS_DLL_INIT_FAILED",
+  "defineUrl": "/win32/ntstatus-h/status_dll_init_failed/",
+  "message": "{DLL Initialization Failed}\r\nInitialization of the dynamic link library %hs failed. The process is terminating abnormally.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000142",
+  "originalCodeUrl": "/win32/ntstatus-h/status_dll_init_failed/0xc0000142/"
+}

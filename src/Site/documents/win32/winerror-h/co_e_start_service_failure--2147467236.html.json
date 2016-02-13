@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\co_e_start_service_failure\-2147467236\index.html.json
+canonical: /win32/winerror-h/co_e_start_service_failure/0x8000401c/
+title: -2147467236 CO_E_START_SERVICE_FAILURE in winerror.h
+description: The service providing this server could not be started.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147467236",
+  "codeUrl": "/win32/winerror-h/co_e_start_service_failure/-2147467236/",
+  "numericCode": 0,
+  "define": "CO_E_START_SERVICE_FAILURE",
+  "defineUrl": "/win32/winerror-h/co_e_start_service_failure/",
+  "message": "The service providing this server could not be started.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x8000401C",
+  "originalCodeUrl": "/win32/winerror-h/co_e_start_service_failure/0x8000401c/"
+}

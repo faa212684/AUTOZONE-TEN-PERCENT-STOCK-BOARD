@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_hdaudio_connection_list_not_supported\0xc0440003\index.html.json
+
+title: 0xC0440003 STATUS_HDAUDIO_CONNECTION_LIST_NOT_SUPPORTED in ntstatus.h
+description: HD Audio widget does not support the connection list parameter.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0440003",
+  "codeUrl": "/win32/ntstatus-h/status_hdaudio_connection_list_not_supported/0xc0440003/",
+  "numericCode": -1069285373,
+  "define": "STATUS_HDAUDIO_CONNECTION_LIST_NOT_SUPPORTED",
+  "defineUrl": "/win32/ntstatus-h/status_hdaudio_connection_list_not_supported/",
+  "message": "HD Audio widget does not support the connection list parameter.",
+  "remarks": null,
+  "aka": [
+    "-1069285373"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_hdaudio_connection_list_not_supported/-1069285373/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

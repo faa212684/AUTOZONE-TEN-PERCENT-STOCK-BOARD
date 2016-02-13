@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\dfs_error_target_list_incorrect\0xc00038cf\index.html.json
+
+title: 0xC00038CF DFS_ERROR_TARGET_LIST_INCORRECT in netevent.h
+description: The list of folder targets for the following Distributed File System (DFS) folder is corrupt. DFS folder: %1
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC00038CF",
+  "codeUrl": "/win32/netevent-h/dfs_error_target_list_incorrect/0xc00038cf/",
+  "numericCode": -1073727281,
+  "define": "DFS_ERROR_TARGET_LIST_INCORRECT",
+  "defineUrl": "/win32/netevent-h/dfs_error_target_list_incorrect/",
+  "message": "The list of folder targets for the following Distributed File System (DFS) folder is corrupt. DFS folder: %1",
+  "remarks": null,
+  "aka": [
+    "-1073727281"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/dfs_error_target_list_incorrect/-1073727281/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

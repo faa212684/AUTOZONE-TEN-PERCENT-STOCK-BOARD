@@ -1,0 +1,29 @@
+---
+output: win32\cdosyserr-h\evtbackgroundawakeduetoshutdown\0x4003203b\index.html.json
+
+title: 0x4003203B evtBackgroundAwakeDueToShutdown in CDOSysErr.h
+description: Background calendaring agent is awakened due to shutdown.
+%n%nFor more information, click http:www.microsoft.com/contentredirect.asp.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "CDOSysErr.h",
+  "sourceUrl": "/win32/cdosyserr-h/",
+  "code": "0x4003203B",
+  "codeUrl": "/win32/cdosyserr-h/evtbackgroundawakeduetoshutdown/0x4003203b/",
+  "numericCode": 1073946683,
+  "define": "evtBackgroundAwakeDueToShutdown",
+  "defineUrl": "/win32/cdosyserr-h/evtbackgroundawakeduetoshutdown/",
+  "message": "Background calendaring agent is awakened due to shutdown.\r\n%n%nFor more information, click http:www.microsoft.com/contentredirect.asp.",
+  "remarks": null,
+  "aka": [
+    "1073946683"
+  ],
+  "akaUrl": [
+    "/win32/cdosyserr-h/evtbackgroundawakeduetoshutdown/1073946683/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

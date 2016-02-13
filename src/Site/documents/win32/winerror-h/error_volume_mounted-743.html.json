@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_volume_mounted\743\index.html.json
+
+title: 743 ERROR_VOLUME_MOUNTED in winerror.h
+description: A new volume has been mounted by a file system.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "743",
+  "codeUrl": "/win32/winerror-h/error_volume_mounted/743/",
+  "numericCode": 743,
+  "define": "ERROR_VOLUME_MOUNTED",
+  "defineUrl": "/win32/winerror-h/error_volume_mounted/",
+  "message": "A new volume has been mounted by a file system.",
+  "remarks": null,
+  "aka": [
+    "0x800702e7",
+    "-2147024153"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_volume_mounted/0x800702e7/",
+    "/win32/winerror-h/error_volume_mounted/-2147024153/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\slerror-h\sl_e_sfs_file_write_error\0x8004e10a\index.html.json
+
+title: 0x8004E10A SL_E_SFS_FILE_WRITE_ERROR in slerror.h
+description: The Software Licensing Service reported that the Token Store was unable to write a token.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "slerror.h",
+  "sourceUrl": "/win32/slerror-h/",
+  "code": "0x8004E10A",
+  "codeUrl": "/win32/slerror-h/sl_e_sfs_file_write_error/0x8004e10a/",
+  "numericCode": -2147163894,
+  "define": "SL_E_SFS_FILE_WRITE_ERROR",
+  "defineUrl": "/win32/slerror-h/sl_e_sfs_file_write_error/",
+  "message": "The Software Licensing Service reported that the Token Store was unable to write a token.",
+  "remarks": null,
+  "aka": [
+    "-2147163894"
+  ],
+  "akaUrl": [
+    "/win32/slerror-h/sl_e_sfs_file_write_error/-2147163894/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

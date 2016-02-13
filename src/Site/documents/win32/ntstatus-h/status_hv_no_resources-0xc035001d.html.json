@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_hv_no_resources\0xc035001d\index.html.json
+
+title: 0xC035001D STATUS_HV_NO_RESOURCES in ntstatus.h
+description: There are not enough resources to complete the operation.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC035001D",
+  "codeUrl": "/win32/ntstatus-h/status_hv_no_resources/0xc035001d/",
+  "numericCode": -1070268387,
+  "define": "STATUS_HV_NO_RESOURCES",
+  "defineUrl": "/win32/ntstatus-h/status_hv_no_resources/",
+  "message": "There are not enough resources to complete the operation.",
+  "remarks": null,
+  "aka": [
+    "-1070268387"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_hv_no_resources/-1070268387/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

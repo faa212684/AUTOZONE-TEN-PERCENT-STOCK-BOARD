@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_graphics_ddcci_invalid_message_length\0xc01e058a\index.html.json
+
+title: 0xC01E058A STATUS_GRAPHICS_DDCCI_INVALID_MESSAGE_LENGTH in ntstatus.h
+description: An error occurred because the field length of a DDC/CI message contained an invalid value.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC01E058A",
+  "codeUrl": "/win32/ntstatus-h/status_graphics_ddcci_invalid_message_length/0xc01e058a/",
+  "numericCode": -1071774326,
+  "define": "STATUS_GRAPHICS_DDCCI_INVALID_MESSAGE_LENGTH",
+  "defineUrl": "/win32/ntstatus-h/status_graphics_ddcci_invalid_message_length/",
+  "message": "An error occurred because the field length of a DDC/CI message contained an invalid value.",
+  "remarks": null,
+  "aka": [
+    "-1071774326"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_graphics_ddcci_invalid_message_length/-1071774326/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\wsmerror-h\error_wsman_uri_limit\0x8033802d\index.html.json
+
+title: 0x8033802D ERROR_WSMAN_URI_LIMIT in wsmerror.h
+description: The URI is longer than the maximum length allowed.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x8033802D",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_uri_limit/0x8033802d/",
+  "numericCode": -2144108499,
+  "define": "ERROR_WSMAN_URI_LIMIT",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_uri_limit/",
+  "message": "The URI is longer than the maximum length allowed.",
+  "remarks": null,
+  "aka": [
+    "-2144108499"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_uri_limit/-2144108499/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

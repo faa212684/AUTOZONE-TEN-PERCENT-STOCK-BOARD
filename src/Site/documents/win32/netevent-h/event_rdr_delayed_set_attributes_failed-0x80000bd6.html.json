@@ -1,0 +1,29 @@
+---
+output: win32\netevent-h\event_rdr_delayed_set_attributes_failed\0x80000bd6\index.html.json
+
+title: 0x80000BD6 EVENT_RDR_DELAYED_SET_ATTRIBUTES_FAILED in netevent.h
+description: The redirector was unable to update the file attributes on a file located on server %2.
+The data contains the name of the file.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x80000BD6",
+  "codeUrl": "/win32/netevent-h/event_rdr_delayed_set_attributes_failed/0x80000bd6/",
+  "numericCode": -2147480618,
+  "define": "EVENT_RDR_DELAYED_SET_ATTRIBUTES_FAILED",
+  "defineUrl": "/win32/netevent-h/event_rdr_delayed_set_attributes_failed/",
+  "message": "The redirector was unable to update the file attributes on a file located on server %2.\r\nThe data contains the name of the file.",
+  "remarks": null,
+  "aka": [
+    "-2147480618"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_rdr_delayed_set_attributes_failed/-2147480618/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

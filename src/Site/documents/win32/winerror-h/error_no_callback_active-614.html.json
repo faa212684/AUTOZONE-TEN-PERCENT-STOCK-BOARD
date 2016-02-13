@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_no_callback_active\614\index.html.json
+
+title: 614 ERROR_NO_CALLBACK_ACTIVE in winerror.h
+description: A callback return system service cannot be executed when no callback is active.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "614",
+  "codeUrl": "/win32/winerror-h/error_no_callback_active/614/",
+  "numericCode": 614,
+  "define": "ERROR_NO_CALLBACK_ACTIVE",
+  "defineUrl": "/win32/winerror-h/error_no_callback_active/",
+  "message": "A callback return system service cannot be executed when no callback is active.",
+  "remarks": null,
+  "aka": [
+    "0x80070266",
+    "-2147024282"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_no_callback_active/0x80070266/",
+    "/win32/winerror-h/error_no_callback_active/-2147024282/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

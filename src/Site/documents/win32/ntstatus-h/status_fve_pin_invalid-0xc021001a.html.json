@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_fve_pin_invalid\0xc021001a\index.html.json
+
+title: 0xC021001A STATUS_FVE_PIN_INVALID in ntstatus.h
+description: The BitLocker encryption key could not be obtained from the Trusted Platform Module (TPM) and PIN.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC021001A",
+  "codeUrl": "/win32/ntstatus-h/status_fve_pin_invalid/0xc021001a/",
+  "numericCode": -1071579110,
+  "define": "STATUS_FVE_PIN_INVALID",
+  "defineUrl": "/win32/ntstatus-h/status_fve_pin_invalid/",
+  "message": "The BitLocker encryption key could not be obtained from the Trusted Platform Module (TPM) and PIN.",
+  "remarks": null,
+  "aka": [
+    "-1071579110"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_fve_pin_invalid/-1071579110/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

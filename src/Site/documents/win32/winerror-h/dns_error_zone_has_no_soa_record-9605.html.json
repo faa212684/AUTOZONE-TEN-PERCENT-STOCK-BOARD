@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\dns_error_zone_has_no_soa_record\9605\index.html.json
+
+title: 9605 DNS_ERROR_ZONE_HAS_NO_SOA_RECORD in winerror.h
+description: DNS zone has no start of authority (SOA) record.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "9605",
+  "codeUrl": "/win32/winerror-h/dns_error_zone_has_no_soa_record/9605/",
+  "numericCode": 9605,
+  "define": "DNS_ERROR_ZONE_HAS_NO_SOA_RECORD",
+  "defineUrl": "/win32/winerror-h/dns_error_zone_has_no_soa_record/",
+  "message": "DNS zone has no start of authority (SOA) record.",
+  "remarks": null,
+  "aka": [
+    "0x80072585",
+    "-2147015291"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/dns_error_zone_has_no_soa_record/0x80072585/",
+    "/win32/winerror-h/dns_error_zone_has_no_soa_record/-2147015291/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

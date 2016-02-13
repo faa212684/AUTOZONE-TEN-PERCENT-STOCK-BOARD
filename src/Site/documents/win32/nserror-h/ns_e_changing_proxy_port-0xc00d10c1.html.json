@@ -1,0 +1,28 @@
+---
+output: win32\nserror-h\ns_e_changing_proxy_port\0xc00d10c1\index.html.json
+
+title: 0xC00D10C1 NS_E_CHANGING_PROXY_PORT in nserror.h
+description: Cannot change the proxy port if the proxy setting is not set to custom.%0
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "nserror.h",
+  "sourceUrl": "/win32/nserror-h/",
+  "code": "0xC00D10C1",
+  "codeUrl": "/win32/nserror-h/ns_e_changing_proxy_port/0xc00d10c1/",
+  "numericCode": -1072885567,
+  "define": "NS_E_CHANGING_PROXY_PORT",
+  "defineUrl": "/win32/nserror-h/ns_e_changing_proxy_port/",
+  "message": "Cannot change the proxy port if the proxy setting is not set to custom.%0",
+  "remarks": null,
+  "aka": [
+    "-1072885567"
+  ],
+  "akaUrl": [
+    "/win32/nserror-h/ns_e_changing_proxy_port/-1072885567/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

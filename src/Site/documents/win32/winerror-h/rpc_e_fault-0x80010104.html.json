@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\rpc_e_fault\0x80010104\index.html.json
+
+title: 0x80010104 RPC_E_FAULT in winerror.h
+description: RPC could not call the server or could not return the results of calling the server.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80010104",
+  "codeUrl": "/win32/winerror-h/rpc_e_fault/0x80010104/",
+  "numericCode": -2147417852,
+  "define": "RPC_E_FAULT",
+  "defineUrl": "/win32/winerror-h/rpc_e_fault/",
+  "message": "RPC could not call the server or could not return the results of calling the server.",
+  "remarks": null,
+  "aka": [
+    "-2147417852"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/rpc_e_fault/-2147417852/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

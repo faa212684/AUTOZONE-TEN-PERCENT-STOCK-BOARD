@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_fwp_duplicate_keymod\-1071513557\index.html.json
+canonical: /win32/ntstatus-h/status_fwp_duplicate_keymod/0xc022002b/
+title: -1071513557 STATUS_FWP_DUPLICATE_KEYMOD in ntstatus.h
+description: A policy cannot contain the same keying module more than once.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071513557",
+  "codeUrl": "/win32/ntstatus-h/status_fwp_duplicate_keymod/-1071513557/",
+  "numericCode": 0,
+  "define": "STATUS_FWP_DUPLICATE_KEYMOD",
+  "defineUrl": "/win32/ntstatus-h/status_fwp_duplicate_keymod/",
+  "message": "A policy cannot contain the same keying module more than once.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC022002B",
+  "originalCodeUrl": "/win32/ntstatus-h/status_fwp_duplicate_keymod/0xc022002b/"
+}

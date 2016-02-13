@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\fve_e_secureboot_disabled\-2144272198\index.html.json
+canonical: /win32/winerror-h/fve_e_secureboot_disabled/0x803100ba/
+title: -2144272198 FVE_E_SECUREBOOT_DISABLED in winerror.h
+description: BitLocker cannot use Secure Boot for platform integrity because Secure Boot has been disabled.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2144272198",
+  "codeUrl": "/win32/winerror-h/fve_e_secureboot_disabled/-2144272198/",
+  "numericCode": 0,
+  "define": "FVE_E_SECUREBOOT_DISABLED",
+  "defineUrl": "/win32/winerror-h/fve_e_secureboot_disabled/",
+  "message": "BitLocker cannot use Secure Boot for platform integrity because Secure Boot has been disabled.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x803100BA",
+  "originalCodeUrl": "/win32/winerror-h/fve_e_secureboot_disabled/0x803100ba/"
+}

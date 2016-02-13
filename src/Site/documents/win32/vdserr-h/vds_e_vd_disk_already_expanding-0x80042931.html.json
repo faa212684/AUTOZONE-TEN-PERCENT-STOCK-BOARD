@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_e_vd_disk_already_expanding\0x80042931\index.html.json
+
+title: 0x80042931 VDS_E_VD_DISK_ALREADY_EXPANDING in vdserr.h
+description: The virtual disk is already in the process of expanding.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x80042931",
+  "codeUrl": "/win32/vdserr-h/vds_e_vd_disk_already_expanding/0x80042931/",
+  "numericCode": -2147210959,
+  "define": "VDS_E_VD_DISK_ALREADY_EXPANDING",
+  "defineUrl": "/win32/vdserr-h/vds_e_vd_disk_already_expanding/",
+  "message": "The virtual disk is already in the process of expanding.",
+  "remarks": null,
+  "aka": [
+    "-2147210959"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_vd_disk_already_expanding/-2147210959/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

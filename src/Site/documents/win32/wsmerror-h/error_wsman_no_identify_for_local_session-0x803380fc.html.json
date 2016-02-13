@@ -1,0 +1,28 @@
+---
+output: win32\wsmerror-h\error_wsman_no_identify_for_local_session\0x803380fc\index.html.json
+
+title: 0x803380FC ERROR_WSMAN_NO_IDENTIFY_FOR_LOCAL_SESSION in wsmerror.h
+description: The WS-Management identification operation is only available on remote sessions.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x803380FC",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_no_identify_for_local_session/0x803380fc/",
+  "numericCode": -2144108292,
+  "define": "ERROR_WSMAN_NO_IDENTIFY_FOR_LOCAL_SESSION",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_no_identify_for_local_session/",
+  "message": "The WS-Management identification operation is only available on remote sessions.",
+  "remarks": null,
+  "aka": [
+    "-2144108292"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_no_identify_for_local_session/-2144108292/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

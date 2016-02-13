@@ -1,0 +1,29 @@
+---
+output: win32\ntstatus-h\status_invalid_file_for_section\0xc0000020\index.html.json
+
+title: 0xC0000020 STATUS_INVALID_FILE_FOR_SECTION in ntstatus.h
+description: "{Bad File}
+The attributes of the specified mapping file for a section of memory cannot be read."
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000020",
+  "codeUrl": "/win32/ntstatus-h/status_invalid_file_for_section/0xc0000020/",
+  "numericCode": -1073741792,
+  "define": "STATUS_INVALID_FILE_FOR_SECTION",
+  "defineUrl": "/win32/ntstatus-h/status_invalid_file_for_section/",
+  "message": "{Bad File}\r\nThe attributes of the specified mapping file for a section of memory cannot be read.",
+  "remarks": null,
+  "aka": [
+    "-1073741792"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_invalid_file_for_section/-1073741792/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

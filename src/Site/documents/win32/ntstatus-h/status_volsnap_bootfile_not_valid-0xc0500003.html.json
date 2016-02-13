@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_volsnap_bootfile_not_valid\0xc0500003\index.html.json
+
+title: 0xC0500003 STATUS_VOLSNAP_BOOTFILE_NOT_VALID in ntstatus.h
+description: The bootfile is too small to support persistent snapshots.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0500003",
+  "codeUrl": "/win32/ntstatus-h/status_volsnap_bootfile_not_valid/0xc0500003/",
+  "numericCode": -1068498941,
+  "define": "STATUS_VOLSNAP_BOOTFILE_NOT_VALID",
+  "defineUrl": "/win32/ntstatus-h/status_volsnap_bootfile_not_valid/",
+  "message": "The bootfile is too small to support persistent snapshots.",
+  "remarks": null,
+  "aka": [
+    "-1068498941"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_volsnap_bootfile_not_valid/-1068498941/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

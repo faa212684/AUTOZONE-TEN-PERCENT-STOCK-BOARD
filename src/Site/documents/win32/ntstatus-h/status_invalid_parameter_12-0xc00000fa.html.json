@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_invalid_parameter_12\0xc00000fa\index.html.json
+
+title: 0xC00000FA STATUS_INVALID_PARAMETER_12 in ntstatus.h
+description: An invalid parameter was passed to a service or function as the twelfth argument.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC00000FA",
+  "codeUrl": "/win32/ntstatus-h/status_invalid_parameter_12/0xc00000fa/",
+  "numericCode": -1073741574,
+  "define": "STATUS_INVALID_PARAMETER_12",
+  "defineUrl": "/win32/ntstatus-h/status_invalid_parameter_12/",
+  "message": "An invalid parameter was passed to a service or function as the twelfth argument.",
+  "remarks": null,
+  "aka": [
+    "-1073741574"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_invalid_parameter_12/-1073741574/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

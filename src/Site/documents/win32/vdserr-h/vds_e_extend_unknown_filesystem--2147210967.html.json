@@ -1,0 +1,25 @@
+---
+output: win32\vdserr-h\vds_e_extend_unknown_filesystem\-2147210967\index.html.json
+canonical: /win32/vdserr-h/vds_e_extend_unknown_filesystem/0x80042929/
+title: -2147210967 VDS_E_EXTEND_UNKNOWN_FILESYSTEM in vdserr.h
+description: The volume cannot be extended because the volume does not contain
+a recognized file system.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "-2147210967",
+  "codeUrl": "/win32/vdserr-h/vds_e_extend_unknown_filesystem/-2147210967/",
+  "numericCode": 0,
+  "define": "VDS_E_EXTEND_UNKNOWN_FILESYSTEM",
+  "defineUrl": "/win32/vdserr-h/vds_e_extend_unknown_filesystem/",
+  "message": "The volume cannot be extended because the volume does not contain\r\na recognized file system.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80042929",
+  "originalCodeUrl": "/win32/vdserr-h/vds_e_extend_unknown_filesystem/0x80042929/"
+}

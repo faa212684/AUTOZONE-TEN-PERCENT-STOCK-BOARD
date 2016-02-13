@@ -1,0 +1,25 @@
+---
+output: win32\wsmerror-h\error_wsman_options_not_supported\-2144108463\index.html.json
+canonical: /win32/wsmerror-h/error_wsman_options_not_supported/0x80338051/
+title: -2144108463 ERROR_WSMAN_OPTIONS_NOT_SUPPORTED in wsmerror.h
+description: The WS-Management provider does not support the specified option set because mustComply for one of the options is set to true.
+Change mustComply for one of the options to false.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "-2144108463",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_options_not_supported/-2144108463/",
+  "numericCode": 0,
+  "define": "ERROR_WSMAN_OPTIONS_NOT_SUPPORTED",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_options_not_supported/",
+  "message": "The WS-Management provider does not support the specified option set because mustComply for one of the options is set to true.\r\nChange mustComply for one of the options to false.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80338051",
+  "originalCodeUrl": "/win32/wsmerror-h/error_wsman_options_not_supported/0x80338051/"
+}

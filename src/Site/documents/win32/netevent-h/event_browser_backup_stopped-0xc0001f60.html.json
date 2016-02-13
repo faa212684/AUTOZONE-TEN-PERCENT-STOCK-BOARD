@@ -1,0 +1,29 @@
+---
+output: win32\netevent-h\event_browser_backup_stopped\0xc0001f60\index.html.json
+
+title: 0xC0001F60 EVENT_BROWSER_BACKUP_STOPPED in netevent.h
+description: The browser service has failed to retrieve the backup list too many times on transport %1.
+The backup browser is stopping.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC0001F60",
+  "codeUrl": "/win32/netevent-h/event_browser_backup_stopped/0xc0001f60/",
+  "numericCode": -1073733792,
+  "define": "EVENT_BROWSER_BACKUP_STOPPED",
+  "defineUrl": "/win32/netevent-h/event_browser_backup_stopped/",
+  "message": "The browser service has failed to retrieve the backup list too many times on transport %1.\r\nThe backup browser is stopping.",
+  "remarks": null,
+  "aka": [
+    "-1073733792"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_browser_backup_stopped/-1073733792/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

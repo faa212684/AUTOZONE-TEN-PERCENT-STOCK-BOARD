@@ -1,0 +1,29 @@
+---
+output: win32\ntstatus-h\status_link_failed\0xc000013e\index.html.json
+
+title: 0xC000013E STATUS_LINK_FAILED in ntstatus.h
+description: "{Virtual Circuit Closed}
+An existing connection (virtual circuit) has been broken at the remote computer. There is probably something wrong with the network software protocol or the network hardware on the remote computer."
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000013E",
+  "codeUrl": "/win32/ntstatus-h/status_link_failed/0xc000013e/",
+  "numericCode": -1073741506,
+  "define": "STATUS_LINK_FAILED",
+  "defineUrl": "/win32/ntstatus-h/status_link_failed/",
+  "message": "{Virtual Circuit Closed}\r\nAn existing connection (virtual circuit) has been broken at the remote computer. There is probably something wrong with the network software protocol or the network hardware on the remote computer.",
+  "remarks": null,
+  "aka": [
+    "-1073741506"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_link_failed/-1073741506/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

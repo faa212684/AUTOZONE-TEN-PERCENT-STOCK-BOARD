@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\certsrv_e_corrupt_key_attestation\0x8009481b\index.html.json
+
+title: 0x8009481B CERTSRV_E_CORRUPT_KEY_ATTESTATION in winerror.h
+description: The request public key is not consistent with the private key attestation data.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8009481B",
+  "codeUrl": "/win32/winerror-h/certsrv_e_corrupt_key_attestation/0x8009481b/",
+  "numericCode": -2146875365,
+  "define": "CERTSRV_E_CORRUPT_KEY_ATTESTATION",
+  "defineUrl": "/win32/winerror-h/certsrv_e_corrupt_key_attestation/",
+  "message": "The request public key is not consistent with the private key attestation data.",
+  "remarks": null,
+  "aka": [
+    "-2146875365"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/certsrv_e_corrupt_key_attestation/-2146875365/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

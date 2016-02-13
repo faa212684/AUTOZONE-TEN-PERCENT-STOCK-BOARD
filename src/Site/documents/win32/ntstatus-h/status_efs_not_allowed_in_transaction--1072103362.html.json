@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_efs_not_allowed_in_transaction\-1072103362\index.html.json
+canonical: /win32/ntstatus-h/status_efs_not_allowed_in_transaction/0xc019003e/
+title: -1072103362 STATUS_EFS_NOT_ALLOWED_IN_TRANSACTION in ntstatus.h
+description: The encryption operation could not be completed because a transaction is active.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1072103362",
+  "codeUrl": "/win32/ntstatus-h/status_efs_not_allowed_in_transaction/-1072103362/",
+  "numericCode": 0,
+  "define": "STATUS_EFS_NOT_ALLOWED_IN_TRANSACTION",
+  "defineUrl": "/win32/ntstatus-h/status_efs_not_allowed_in_transaction/",
+  "message": "The encryption operation could not be completed because a transaction is active.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC019003E",
+  "originalCodeUrl": "/win32/ntstatus-h/status_efs_not_allowed_in_transaction/0xc019003e/"
+}

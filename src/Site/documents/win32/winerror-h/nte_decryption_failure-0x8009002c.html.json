@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\nte_decryption_failure\0x8009002c\index.html.json
+
+title: 0x8009002C NTE_DECRYPTION_FAILURE in winerror.h
+description: The specified data could not be decrypted.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8009002C",
+  "codeUrl": "/win32/winerror-h/nte_decryption_failure/0x8009002c/",
+  "numericCode": -2146893780,
+  "define": "NTE_DECRYPTION_FAILURE",
+  "defineUrl": "/win32/winerror-h/nte_decryption_failure/",
+  "message": "The specified data could not be decrypted.",
+  "remarks": null,
+  "aka": [
+    "-2146893780"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/nte_decryption_failure/-2146893780/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

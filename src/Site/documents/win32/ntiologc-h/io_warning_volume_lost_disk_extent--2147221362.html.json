@@ -1,0 +1,24 @@
+---
+output: win32\ntiologc-h\io_warning_volume_lost_disk_extent\-2147221362\index.html.json
+canonical: /win32/ntiologc-h/io_warning_volume_lost_disk_extent/0x8004008e/
+title: -2147221362 IO_WARNING_VOLUME_LOST_DISK_EXTENT in ntiologc.h
+description: Extent %4 on disk %3 that is part of the fault-tolerant volume %2 is no longer accessible.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntiologc.h",
+  "sourceUrl": "/win32/ntiologc-h/",
+  "code": "-2147221362",
+  "codeUrl": "/win32/ntiologc-h/io_warning_volume_lost_disk_extent/-2147221362/",
+  "numericCode": 0,
+  "define": "IO_WARNING_VOLUME_LOST_DISK_EXTENT",
+  "defineUrl": "/win32/ntiologc-h/io_warning_volume_lost_disk_extent/",
+  "message": "Extent %4 on disk %3 that is part of the fault-tolerant volume %2 is no longer accessible.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x8004008E",
+  "originalCodeUrl": "/win32/ntiologc-h/io_warning_volume_lost_disk_extent/0x8004008e/"
+}

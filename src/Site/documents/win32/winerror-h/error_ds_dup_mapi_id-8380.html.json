@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ds_dup_mapi_id\8380\index.html.json
+
+title: 8380 ERROR_DS_DUP_MAPI_ID in winerror.h
+description: Schema update failed: duplicate MAPI identifier.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "8380",
+  "codeUrl": "/win32/winerror-h/error_ds_dup_mapi_id/8380/",
+  "numericCode": 8380,
+  "define": "ERROR_DS_DUP_MAPI_ID",
+  "defineUrl": "/win32/winerror-h/error_ds_dup_mapi_id/",
+  "message": "Schema update failed: duplicate MAPI identifier.",
+  "remarks": null,
+  "aka": [
+    "0x800720bc",
+    "-2147016516"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ds_dup_mapi_id/0x800720bc/",
+    "/win32/winerror-h/error_ds_dup_mapi_id/-2147016516/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

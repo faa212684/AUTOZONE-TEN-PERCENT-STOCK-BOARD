@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_req_not_accep\71\index.html.json
+
+title: 71 ERROR_REQ_NOT_ACCEP in winerror.h
+description: No more connections can be made to this remote computer at this time because there are already as many connections as the computer can accept.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "71",
+  "codeUrl": "/win32/winerror-h/error_req_not_accep/71/",
+  "numericCode": 71,
+  "define": "ERROR_REQ_NOT_ACCEP",
+  "defineUrl": "/win32/winerror-h/error_req_not_accep/",
+  "message": "No more connections can be made to this remote computer at this time because there are already as many connections as the computer can accept.",
+  "remarks": null,
+  "aka": [
+    "0x80070047",
+    "-2147024825"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_req_not_accep/0x80070047/",
+    "/win32/winerror-h/error_req_not_accep/-2147024825/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

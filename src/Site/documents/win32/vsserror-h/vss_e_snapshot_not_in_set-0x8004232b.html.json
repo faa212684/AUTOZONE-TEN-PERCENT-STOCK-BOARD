@@ -1,0 +1,28 @@
+---
+output: win32\vsserror-h\vss_e_snapshot_not_in_set\0x8004232b\index.html.json
+
+title: 0x8004232B VSS_E_SNAPSHOT_NOT_IN_SET in vsserror.h
+description: The shadow copy ID was not found in the backup components document for the shadow copy set.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vsserror.h",
+  "sourceUrl": "/win32/vsserror-h/",
+  "code": "0x8004232B",
+  "codeUrl": "/win32/vsserror-h/vss_e_snapshot_not_in_set/0x8004232b/",
+  "numericCode": -2147212501,
+  "define": "VSS_E_SNAPSHOT_NOT_IN_SET",
+  "defineUrl": "/win32/vsserror-h/vss_e_snapshot_not_in_set/",
+  "message": "The shadow copy ID was not found in the backup components document for the shadow copy set.",
+  "remarks": null,
+  "aka": [
+    "-2147212501"
+  ],
+  "akaUrl": [
+    "/win32/vsserror-h/vss_e_snapshot_not_in_set/-2147212501/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

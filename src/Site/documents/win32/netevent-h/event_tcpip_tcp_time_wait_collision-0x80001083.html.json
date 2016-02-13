@@ -1,0 +1,33 @@
+---
+output: win32\netevent-h\event_tcpip_tcp_time_wait_collision\0x80001083\index.html.json
+
+title: 0x80001083 EVENT_TCPIP_TCP_TIME_WAIT_COLLISION in netevent.h
+description: TCP/IP failed to establish an outgoing connection because the selected local endpoint
+was recently used to connect to the same remote endpoint. This error typically occurs
+when outgoing connections are opened and closed at a high rate, causing all available
+local ports to be used and forcing TCP/IP to reuse a local port for an outgoing connection.
+To minimize the risk of data corruption, the TCP/IP standard requires a minimum time period
+to elapse between successive connections from a given local endpoint to a given remote endpoint.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x80001083",
+  "codeUrl": "/win32/netevent-h/event_tcpip_tcp_time_wait_collision/0x80001083/",
+  "numericCode": -2147479421,
+  "define": "EVENT_TCPIP_TCP_TIME_WAIT_COLLISION",
+  "defineUrl": "/win32/netevent-h/event_tcpip_tcp_time_wait_collision/",
+  "message": "TCP/IP failed to establish an outgoing connection because the selected local endpoint\r\nwas recently used to connect to the same remote endpoint. This error typically occurs\r\nwhen outgoing connections are opened and closed at a high rate, causing all available\r\nlocal ports to be used and forcing TCP/IP to reuse a local port for an outgoing connection.\r\nTo minimize the risk of data corruption, the TCP/IP standard requires a minimum time period\r\nto elapse between successive connections from a given local endpoint to a given remote endpoint.",
+  "remarks": null,
+  "aka": [
+    "-2147479421"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_tcpip_tcp_time_wait_collision/-2147479421/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

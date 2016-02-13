@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_undefined_character\0xc0000163\index.html.json
+
+title: 0xC0000163 STATUS_UNDEFINED_CHARACTER in ntstatus.h
+description: The Unicode character is not defined in the Unicode character set installed on the system.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000163",
+  "codeUrl": "/win32/ntstatus-h/status_undefined_character/0xc0000163/",
+  "numericCode": -1073741469,
+  "define": "STATUS_UNDEFINED_CHARACTER",
+  "defineUrl": "/win32/ntstatus-h/status_undefined_character/",
+  "message": "The Unicode character is not defined in the Unicode character set installed on the system.",
+  "remarks": null,
+  "aka": [
+    "-1073741469"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_undefined_character/-1073741469/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

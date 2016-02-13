@@ -1,0 +1,31 @@
+---
+output: win32\cdosyserr-h\evtbackgroundgetmachinetoken\0xc0032040\index.html.json
+
+title: 0xC0032040 evtBackgroundGetMachineToken in CDOSysErr.h
+description: The background calendaring agent failed to retrieve the token required for logon on the MDB:%1.  
+The error code is %2.
+The rendering of large calendars with the web client or Microsoft Internet Explorer on this MDB will be slower.
+%n%nFor more information, click http:www.microsoft.com/contentredirect.asp.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "CDOSysErr.h",
+  "sourceUrl": "/win32/cdosyserr-h/",
+  "code": "0xC0032040",
+  "codeUrl": "/win32/cdosyserr-h/evtbackgroundgetmachinetoken/0xc0032040/",
+  "numericCode": -1073536960,
+  "define": "evtBackgroundGetMachineToken",
+  "defineUrl": "/win32/cdosyserr-h/evtbackgroundgetmachinetoken/",
+  "message": "The background calendaring agent failed to retrieve the token required for logon on the MDB:%1.  \r\nThe error code is %2.\r\nThe rendering of large calendars with the web client or Microsoft Internet Explorer on this MDB will be slower.\r\n%n%nFor more information, click http:www.microsoft.com/contentredirect.asp.",
+  "remarks": null,
+  "aka": [
+    "-1073536960"
+  ],
+  "akaUrl": [
+    "/win32/cdosyserr-h/evtbackgroundgetmachinetoken/-1073536960/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

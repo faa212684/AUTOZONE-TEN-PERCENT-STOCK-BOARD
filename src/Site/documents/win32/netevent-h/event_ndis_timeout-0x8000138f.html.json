@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_ndis_timeout\0x8000138f\index.html.json
+
+title: 0x8000138F EVENT_NDIS_TIMEOUT in netevent.h
+description: %2 : Timed out during an operation.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x8000138F",
+  "codeUrl": "/win32/netevent-h/event_ndis_timeout/0x8000138f/",
+  "numericCode": -2147478641,
+  "define": "EVENT_NDIS_TIMEOUT",
+  "defineUrl": "/win32/netevent-h/event_ndis_timeout/",
+  "message": "%2 : Timed out during an operation.",
+  "remarks": null,
+  "aka": [
+    "-2147478641"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_ndis_timeout/-2147478641/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

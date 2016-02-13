@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_ipx_create_device\0xc0002522\index.html.json
+
+title: 0xC0002522 EVENT_IPX_CREATE_DEVICE in netevent.h
+description: %2 failed to initialize because the driver device could not be created.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC0002522",
+  "codeUrl": "/win32/netevent-h/event_ipx_create_device/0xc0002522/",
+  "numericCode": -1073732318,
+  "define": "EVENT_IPX_CREATE_DEVICE",
+  "defineUrl": "/win32/netevent-h/event_ipx_create_device/",
+  "message": "%2 failed to initialize because the driver device could not be created.",
+  "remarks": null,
+  "aka": [
+    "-1073732318"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_ipx_create_device/-1073732318/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

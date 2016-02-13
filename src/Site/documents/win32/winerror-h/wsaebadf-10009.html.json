@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\wsaebadf\10009\index.html.json
+
+title: 10009 WSAEBADF in winerror.h
+description: The file handle supplied is not valid.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "10009",
+  "codeUrl": "/win32/winerror-h/wsaebadf/10009/",
+  "numericCode": 10009,
+  "define": "WSAEBADF",
+  "defineUrl": "/win32/winerror-h/wsaebadf/",
+  "message": "The file handle supplied is not valid.",
+  "remarks": null,
+  "aka": [
+    "0x80072719",
+    "-2147014887"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/wsaebadf/0x80072719/",
+    "/win32/winerror-h/wsaebadf/-2147014887/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

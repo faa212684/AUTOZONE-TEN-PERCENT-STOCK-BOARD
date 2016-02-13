@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\sched_e_unsupported_account_option\0x80041314\index.html.json
+
+title: 0x80041314 SCHED_E_UNSUPPORTED_ACCOUNT_OPTION in winerror.h
+description: The task has been configured with an unsupported combination of account settings and run time options.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80041314",
+  "codeUrl": "/win32/winerror-h/sched_e_unsupported_account_option/0x80041314/",
+  "numericCode": -2147216620,
+  "define": "SCHED_E_UNSUPPORTED_ACCOUNT_OPTION",
+  "defineUrl": "/win32/winerror-h/sched_e_unsupported_account_option/",
+  "message": "The task has been configured with an unsupported combination of account settings and run time options.",
+  "remarks": null,
+  "aka": [
+    "-2147216620"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/sched_e_unsupported_account_option/-2147216620/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: bugcheck\bugcodes-h\driver_irql_not_less_or_equal\0x000000d1\index.html.json
+
+title: 0x000000D1 DRIVER_IRQL_NOT_LESS_OR_EQUAL in bugcodes.h
+description: DRIVER_IRQL_NOT_LESS_OR_EQUAL
+disqus: true
+---
+{
+  "area": "bugcheck",
+  "areaUrl": "/bugcheck/",
+  "source": "bugcodes.h",
+  "sourceUrl": "/bugcheck/bugcodes-h/",
+  "code": "0x000000D1",
+  "codeUrl": "/bugcheck/bugcodes-h/driver_irql_not_less_or_equal/0x000000d1/",
+  "numericCode": 209,
+  "define": "DRIVER_IRQL_NOT_LESS_OR_EQUAL",
+  "defineUrl": "/bugcheck/bugcodes-h/driver_irql_not_less_or_equal/",
+  "message": "DRIVER_IRQL_NOT_LESS_OR_EQUAL",
+  "remarks": null,
+  "aka": [
+    "209"
+  ],
+  "akaUrl": [
+    "/bugcheck/bugcodes-h/driver_irql_not_less_or_equal/209/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

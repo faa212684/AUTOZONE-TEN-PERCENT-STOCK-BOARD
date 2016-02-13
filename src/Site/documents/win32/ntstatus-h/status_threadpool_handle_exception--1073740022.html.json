@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_threadpool_handle_exception\-1073740022\index.html.json
+canonical: /win32/ntstatus-h/status_threadpool_handle_exception/0xc000070a/
+title: -1073740022 STATUS_THREADPOOL_HANDLE_EXCEPTION in ntstatus.h
+description: Status 0x%08x was returned, waiting on handle 0x%x for wait 0x%p, in waiter 0x%p.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073740022",
+  "codeUrl": "/win32/ntstatus-h/status_threadpool_handle_exception/-1073740022/",
+  "numericCode": 0,
+  "define": "STATUS_THREADPOOL_HANDLE_EXCEPTION",
+  "defineUrl": "/win32/ntstatus-h/status_threadpool_handle_exception/",
+  "message": "Status 0x%08x was returned, waiting on handle 0x%x for wait 0x%p, in waiter 0x%p.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC000070A",
+  "originalCodeUrl": "/win32/ntstatus-h/status_threadpool_handle_exception/0xc000070a/"
+}

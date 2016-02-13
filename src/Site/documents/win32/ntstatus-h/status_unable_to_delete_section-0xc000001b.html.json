@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_unable_to_delete_section\0xc000001b\index.html.json
+
+title: 0xC000001B STATUS_UNABLE_TO_DELETE_SECTION in ntstatus.h
+description: Specified section cannot be deleted.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000001B",
+  "codeUrl": "/win32/ntstatus-h/status_unable_to_delete_section/0xc000001b/",
+  "numericCode": -1073741797,
+  "define": "STATUS_UNABLE_TO_DELETE_SECTION",
+  "defineUrl": "/win32/ntstatus-h/status_unable_to_delete_section/",
+  "message": "Specified section cannot be deleted.",
+  "remarks": null,
+  "aka": [
+    "-1073741797"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_unable_to_delete_section/-1073741797/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_graphics_no_recommended_functional_vidpn\-1071774941\index.html.json
+canonical: /win32/ntstatus-h/status_graphics_no_recommended_functional_vidpn/0xc01e0323/
+title: -1071774941 STATUS_GRAPHICS_NO_RECOMMENDED_FUNCTIONAL_VIDPN in ntstatus.h
+description: Miniport does not have any recommendation regarding the request to provide a functional VidPN given the current display adapter configuration.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071774941",
+  "codeUrl": "/win32/ntstatus-h/status_graphics_no_recommended_functional_vidpn/-1071774941/",
+  "numericCode": 0,
+  "define": "STATUS_GRAPHICS_NO_RECOMMENDED_FUNCTIONAL_VIDPN",
+  "defineUrl": "/win32/ntstatus-h/status_graphics_no_recommended_functional_vidpn/",
+  "message": "Miniport does not have any recommendation regarding the request to provide a functional VidPN given the current display adapter configuration.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC01E0323",
+  "originalCodeUrl": "/win32/ntstatus-h/status_graphics_no_recommended_functional_vidpn/0xc01e0323/"
+}

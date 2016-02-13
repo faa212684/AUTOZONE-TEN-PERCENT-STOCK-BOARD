@@ -1,0 +1,24 @@
+---
+output: win32\vdserr-h\vds_e_invalid_member_order\-2147211996\index.html.json
+canonical: /win32/vdserr-h/vds_e_invalid_member_order/0x80042524/
+title: -2147211996 VDS_E_INVALID_MEMBER_ORDER in vdserr.h
+description: The member indexes must be monotonically increasing and begin with zero.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "-2147211996",
+  "codeUrl": "/win32/vdserr-h/vds_e_invalid_member_order/-2147211996/",
+  "numericCode": 0,
+  "define": "VDS_E_INVALID_MEMBER_ORDER",
+  "defineUrl": "/win32/vdserr-h/vds_e_invalid_member_order/",
+  "message": "The member indexes must be monotonically increasing and begin with zero.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80042524",
+  "originalCodeUrl": "/win32/vdserr-h/vds_e_invalid_member_order/0x80042524/"
+}

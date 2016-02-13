@@ -1,0 +1,28 @@
+---
+output: win32\windowssearcherrors-h\query_e_top_level_in_group\0x8004161a\index.html.json
+
+title: 0x8004161A QUERY_E_TOP_LEVEL_IN_GROUP in WindowsSearchErrors.h
+description: The top level group does not support ORDER IN GROUP since there is no parent group.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "0x8004161A",
+  "codeUrl": "/win32/windowssearcherrors-h/query_e_top_level_in_group/0x8004161a/",
+  "numericCode": -2147215846,
+  "define": "QUERY_E_TOP_LEVEL_IN_GROUP",
+  "defineUrl": "/win32/windowssearcherrors-h/query_e_top_level_in_group/",
+  "message": "The top level group does not support ORDER IN GROUP since there is no parent group.",
+  "remarks": null,
+  "aka": [
+    "-2147215846"
+  ],
+  "akaUrl": [
+    "/win32/windowssearcherrors-h/query_e_top_level_in_group/-2147215846/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

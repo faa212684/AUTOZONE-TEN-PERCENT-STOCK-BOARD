@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_access_disabled_by_policy\1260\index.html.json
+
+title: 1260 ERROR_ACCESS_DISABLED_BY_POLICY in winerror.h
+description: This program is blocked by group policy. For more information, contact your system administrator.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1260",
+  "codeUrl": "/win32/winerror-h/error_access_disabled_by_policy/1260/",
+  "numericCode": 1260,
+  "define": "ERROR_ACCESS_DISABLED_BY_POLICY",
+  "defineUrl": "/win32/winerror-h/error_access_disabled_by_policy/",
+  "message": "This program is blocked by group policy. For more information, contact your system administrator.",
+  "remarks": null,
+  "aka": [
+    "0x800704ec",
+    "-2147023636"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_access_disabled_by_policy/0x800704ec/",
+    "/win32/winerror-h/error_access_disabled_by_policy/-2147023636/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

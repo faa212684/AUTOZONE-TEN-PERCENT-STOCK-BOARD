@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\ro_e_unsupported_from_mta\0x8000001d\index.html.json
+
+title: 0x8000001D RO_E_UNSUPPORTED_FROM_MTA in winerror.h
+description: Activating a single-threaded class from MTA is not supported
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8000001D",
+  "codeUrl": "/win32/winerror-h/ro_e_unsupported_from_mta/0x8000001d/",
+  "numericCode": -2147483619,
+  "define": "RO_E_UNSUPPORTED_FROM_MTA",
+  "defineUrl": "/win32/winerror-h/ro_e_unsupported_from_mta/",
+  "message": "Activating a single-threaded class from MTA is not supported",
+  "remarks": null,
+  "aka": [
+    "-2147483619"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/ro_e_unsupported_from_mta/-2147483619/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

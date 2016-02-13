@@ -1,0 +1,28 @@
+---
+output: win32\ntdsbmsg-h\hrexistinglogfilehasbadsignature\0x8800022e\index.html.json
+
+title: 0x8800022E hrExistingLogFileHasBadSignature in NtDsBMsg.h
+description: The log file in the log file path is damaged.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "NtDsBMsg.h",
+  "sourceUrl": "/win32/ntdsbmsg-h/",
+  "code": "0x8800022E",
+  "codeUrl": "/win32/ntdsbmsg-h/hrexistinglogfilehasbadsignature/0x8800022e/",
+  "numericCode": -2013265362,
+  "define": "hrExistingLogFileHasBadSignature",
+  "defineUrl": "/win32/ntdsbmsg-h/hrexistinglogfilehasbadsignature/",
+  "message": "The log file in the log file path is damaged.",
+  "remarks": null,
+  "aka": [
+    "-2013265362"
+  ],
+  "akaUrl": [
+    "/win32/ntdsbmsg-h/hrexistinglogfilehasbadsignature/-2013265362/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

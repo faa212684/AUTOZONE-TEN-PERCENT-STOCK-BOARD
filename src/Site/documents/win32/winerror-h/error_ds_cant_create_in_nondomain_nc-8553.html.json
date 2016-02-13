@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ds_cant_create_in_nondomain_nc\8553\index.html.json
+
+title: 8553 ERROR_DS_CANT_CREATE_IN_NONDOMAIN_NC in winerror.h
+description: Security principal objects can only be created inside domain naming contexts.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "8553",
+  "codeUrl": "/win32/winerror-h/error_ds_cant_create_in_nondomain_nc/8553/",
+  "numericCode": 8553,
+  "define": "ERROR_DS_CANT_CREATE_IN_NONDOMAIN_NC",
+  "defineUrl": "/win32/winerror-h/error_ds_cant_create_in_nondomain_nc/",
+  "message": "Security principal objects can only be created inside domain naming contexts.",
+  "remarks": null,
+  "aka": [
+    "0x80072169",
+    "-2147016343"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ds_cant_create_in_nondomain_nc/0x80072169/",
+    "/win32/winerror-h/error_ds_cant_create_in_nondomain_nc/-2147016343/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

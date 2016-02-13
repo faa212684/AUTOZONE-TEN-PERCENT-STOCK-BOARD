@@ -1,0 +1,30 @@
+---
+output: win32\ntstatus-h\status_ft_read_recovery_from_backup\0x4000000a\index.html.json
+
+title: 0x4000000A STATUS_FT_READ_RECOVERY_FROM_BACKUP in ntstatus.h
+description: "{Redundant Read}
+To satisfy a read request, the NT fault-tolerant file system successfully read the requested data from a redundant copy.
+This was done because the file system encountered a failure on a member of the fault-tolerant volume, but was unable to reassign the failing area of the device."
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0x4000000A",
+  "codeUrl": "/win32/ntstatus-h/status_ft_read_recovery_from_backup/0x4000000a/",
+  "numericCode": 1073741834,
+  "define": "STATUS_FT_READ_RECOVERY_FROM_BACKUP",
+  "defineUrl": "/win32/ntstatus-h/status_ft_read_recovery_from_backup/",
+  "message": "{Redundant Read}\r\nTo satisfy a read request, the NT fault-tolerant file system successfully read the requested data from a redundant copy.\r\nThis was done because the file system encountered a failure on a member of the fault-tolerant volume, but was unable to reassign the failing area of the device.",
+  "remarks": null,
+  "aka": [
+    "1073741834"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_ft_read_recovery_from_backup/1073741834/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

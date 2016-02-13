@@ -1,0 +1,24 @@
+---
+output: win32\tapi3err-h\tapi_e_notenoughmemory\-2147221503\index.html.json
+canonical: /win32/tapi3err-h/tapi_e_notenoughmemory/0x80040001/
+title: -2147221503 TAPI_E_NOTENOUGHMEMORY in Tapi3Err.h
+description: The buffer passed in to this method was not big enough.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "Tapi3Err.h",
+  "sourceUrl": "/win32/tapi3err-h/",
+  "code": "-2147221503",
+  "codeUrl": "/win32/tapi3err-h/tapi_e_notenoughmemory/-2147221503/",
+  "numericCode": 0,
+  "define": "TAPI_E_NOTENOUGHMEMORY",
+  "defineUrl": "/win32/tapi3err-h/tapi_e_notenoughmemory/",
+  "message": "The buffer passed in to this method was not big enough.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80040001",
+  "originalCodeUrl": "/win32/tapi3err-h/tapi_e_notenoughmemory/0x80040001/"
+}

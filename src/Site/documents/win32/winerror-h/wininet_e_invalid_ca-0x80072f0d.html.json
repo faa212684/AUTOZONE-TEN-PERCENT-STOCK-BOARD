@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\wininet_e_invalid_ca\0x80072f0d\index.html.json
+
+title: 0x80072F0D WININET_E_INVALID_CA in winerror.h
+description: The certificate authority is invalid or incorrect
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80072F0D",
+  "codeUrl": "/win32/winerror-h/wininet_e_invalid_ca/0x80072f0d/",
+  "numericCode": -2147012851,
+  "define": "WININET_E_INVALID_CA",
+  "defineUrl": "/win32/winerror-h/wininet_e_invalid_ca/",
+  "message": "The certificate authority is invalid or incorrect",
+  "remarks": null,
+  "aka": [
+    "-2147012851"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/wininet_e_invalid_ca/-2147012851/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

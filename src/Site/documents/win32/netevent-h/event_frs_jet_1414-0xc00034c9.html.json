@@ -1,0 +1,34 @@
+---
+output: win32\netevent-h\event_frs_jet_1414\0xc00034c9\index.html.json
+
+title: 0xC00034C9 EVENT_FRS_JET_1414 in netevent.h
+description: The File Replication Service on computer %1 is stopping because the
+database %2 is corrupted.
+%n
+%nThe database can be recovered by typing "esentutl /d %2 /l%3 /s%4".
+%n
+%nOnce the database has been successfully recovered the
+File Replication Service can be restarted by typing "net start ntfrs".
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC00034C9",
+  "codeUrl": "/win32/netevent-h/event_frs_jet_1414/0xc00034c9/",
+  "numericCode": -1073728311,
+  "define": "EVENT_FRS_JET_1414",
+  "defineUrl": "/win32/netevent-h/event_frs_jet_1414/",
+  "message": "The File Replication Service on computer %1 is stopping because the\r\ndatabase %2 is corrupted.\r\n%n\r\n%nThe database can be recovered by typing \"esentutl /d %2 /l%3 /s%4\".\r\n%n\r\n%nOnce the database has been successfully recovered the\r\nFile Replication Service can be restarted by typing \"net start ntfrs\".",
+  "remarks": null,
+  "aka": [
+    "-1073728311"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_frs_jet_1414/-1073728311/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

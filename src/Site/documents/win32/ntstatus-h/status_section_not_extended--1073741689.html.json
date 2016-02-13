@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_section_not_extended\-1073741689\index.html.json
+canonical: /win32/ntstatus-h/status_section_not_extended/0xc0000087/
+title: -1073741689 STATUS_SECTION_NOT_EXTENDED in ntstatus.h
+description: A mapped section could not be extended.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741689",
+  "codeUrl": "/win32/ntstatus-h/status_section_not_extended/-1073741689/",
+  "numericCode": 0,
+  "define": "STATUS_SECTION_NOT_EXTENDED",
+  "defineUrl": "/win32/ntstatus-h/status_section_not_extended/",
+  "message": "A mapped section could not be extended.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000087",
+  "originalCodeUrl": "/win32/ntstatus-h/status_section_not_extended/0xc0000087/"
+}

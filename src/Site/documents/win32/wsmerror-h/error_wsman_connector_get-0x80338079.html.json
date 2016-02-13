@@ -1,0 +1,28 @@
+---
+output: win32\wsmerror-h\error_wsman_connector_get\0x80338079\index.html.json
+
+title: 0x80338079 ERROR_WSMAN_CONNECTOR_GET in wsmerror.h
+description: The WS-Management service failed to locate the component that can process the request.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x80338079",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_connector_get/0x80338079/",
+  "numericCode": -2144108423,
+  "define": "ERROR_WSMAN_CONNECTOR_GET",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_connector_get/",
+  "message": "The WS-Management service failed to locate the component that can process the request.",
+  "remarks": null,
+  "aka": [
+    "-2144108423"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_connector_get/-2144108423/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

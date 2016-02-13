@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_sxs_activation_context_disabled\0xc0150007\index.html.json
+
+title: 0xC0150007 STATUS_SXS_ACTIVATION_CONTEXT_DISABLED in ntstatus.h
+description: The application attempted to activate a disabled activation context.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0150007",
+  "codeUrl": "/win32/ntstatus-h/status_sxs_activation_context_disabled/0xc0150007/",
+  "numericCode": -1072365561,
+  "define": "STATUS_SXS_ACTIVATION_CONTEXT_DISABLED",
+  "defineUrl": "/win32/ntstatus-h/status_sxs_activation_context_disabled/",
+  "message": "The application attempted to activate a disabled activation context.",
+  "remarks": null,
+  "aka": [
+    "-1072365561"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_sxs_activation_context_disabled/-1072365561/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

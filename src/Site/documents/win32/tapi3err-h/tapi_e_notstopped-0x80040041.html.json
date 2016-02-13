@@ -1,0 +1,28 @@
+---
+output: win32\tapi3err-h\tapi_e_notstopped\0x80040041\index.html.json
+
+title: 0x80040041 TAPI_E_NOTSTOPPED in Tapi3Err.h
+description: The operation could not be performed because it requires the stream to be stopped.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "Tapi3Err.h",
+  "sourceUrl": "/win32/tapi3err-h/",
+  "code": "0x80040041",
+  "codeUrl": "/win32/tapi3err-h/tapi_e_notstopped/0x80040041/",
+  "numericCode": -2147221439,
+  "define": "TAPI_E_NOTSTOPPED",
+  "defineUrl": "/win32/tapi3err-h/tapi_e_notstopped/",
+  "message": "The operation could not be performed because it requires the stream to be stopped.",
+  "remarks": null,
+  "aka": [
+    "-2147221439"
+  ],
+  "akaUrl": [
+    "/win32/tapi3err-h/tapi_e_notstopped/-2147221439/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

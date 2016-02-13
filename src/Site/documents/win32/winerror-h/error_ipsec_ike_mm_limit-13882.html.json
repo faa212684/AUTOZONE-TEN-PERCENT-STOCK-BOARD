@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ipsec_ike_mm_limit\13882\index.html.json
+
+title: 13882 ERROR_IPSEC_IKE_MM_LIMIT in winerror.h
+description: Max number of established MM SAs to peer exceeded.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "13882",
+  "codeUrl": "/win32/winerror-h/error_ipsec_ike_mm_limit/13882/",
+  "numericCode": 13882,
+  "define": "ERROR_IPSEC_IKE_MM_LIMIT",
+  "defineUrl": "/win32/winerror-h/error_ipsec_ike_mm_limit/",
+  "message": "Max number of established MM SAs to peer exceeded.",
+  "remarks": null,
+  "aka": [
+    "0x8007363a",
+    "-2147011014"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ipsec_ike_mm_limit/0x8007363a/",
+    "/win32/winerror-h/error_ipsec_ike_mm_limit/-2147011014/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

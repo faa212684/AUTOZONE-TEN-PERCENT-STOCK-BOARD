@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\dxgi_status_dda_was_still_drawing\0x087a000a\index.html.json
+
+title: 0x087A000A DXGI_STATUS_DDA_WAS_STILL_DRAWING in winerror.h
+description: The adapter did not have access to the required resources to complete the Desktop Duplication Present() call, the Present() call needs to be made again
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x087A000A",
+  "codeUrl": "/win32/winerror-h/dxgi_status_dda_was_still_drawing/0x087a000a/",
+  "numericCode": 142213130,
+  "define": "DXGI_STATUS_DDA_WAS_STILL_DRAWING",
+  "defineUrl": "/win32/winerror-h/dxgi_status_dda_was_still_drawing/",
+  "message": "The adapter did not have access to the required resources to complete the Desktop Duplication Present() call, the Present() call needs to be made again",
+  "remarks": null,
+  "aka": [
+    "142213130"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/dxgi_status_dda_was_still_drawing/142213130/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

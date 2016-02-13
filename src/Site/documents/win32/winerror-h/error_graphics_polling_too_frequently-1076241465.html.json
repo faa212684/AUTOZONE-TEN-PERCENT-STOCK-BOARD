@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_graphics_polling_too_frequently\1076241465\index.html.json
+canonical: /win32/winerror-h/error_graphics_polling_too_frequently/0x40262439/
+title: 1076241465 ERROR_GRAPHICS_POLLING_TOO_FREQUENTLY in winerror.h
+description: The display adapter is being polled for children too frequently at the same polling level.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1076241465",
+  "codeUrl": "/win32/winerror-h/error_graphics_polling_too_frequently/1076241465/",
+  "numericCode": 0,
+  "define": "ERROR_GRAPHICS_POLLING_TOO_FREQUENTLY",
+  "defineUrl": "/win32/winerror-h/error_graphics_polling_too_frequently/",
+  "message": "The display adapter is being polled for children too frequently at the same polling level.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x40262439",
+  "originalCodeUrl": "/win32/winerror-h/error_graphics_polling_too_frequently/0x40262439/"
+}

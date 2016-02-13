@@ -1,0 +1,24 @@
+---
+output: win32\oledberr-h\db_s_notsingleton\265943\index.html.json
+canonical: /win32/oledberr-h/db_s_notsingleton/0x00040ed7/
+title: 265943 DB_S_NOTSINGLETON in oledberr.h
+description: Row object was requested on a non-singleton result. First row was returned.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "oledberr.h",
+  "sourceUrl": "/win32/oledberr-h/",
+  "code": "265943",
+  "codeUrl": "/win32/oledberr-h/db_s_notsingleton/265943/",
+  "numericCode": 0,
+  "define": "DB_S_NOTSINGLETON",
+  "defineUrl": "/win32/oledberr-h/db_s_notsingleton/",
+  "message": "Row object was requested on a non-singleton result. First row was returned.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x00040ED7",
+  "originalCodeUrl": "/win32/oledberr-h/db_s_notsingleton/0x00040ed7/"
+}

@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\tpm_e_embedded_command_blocked\0x80280403\index.html.json
+
+title: 0x80280403 TPM_E_EMBEDDED_COMMAND_BLOCKED in winerror.h
+description: The command within the transport was blocked.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80280403",
+  "codeUrl": "/win32/winerror-h/tpm_e_embedded_command_blocked/0x80280403/",
+  "numericCode": -2144861181,
+  "define": "TPM_E_EMBEDDED_COMMAND_BLOCKED",
+  "defineUrl": "/win32/winerror-h/tpm_e_embedded_command_blocked/",
+  "message": "The command within the transport was blocked.",
+  "remarks": null,
+  "aka": [
+    "-2144861181"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/tpm_e_embedded_command_blocked/-2144861181/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

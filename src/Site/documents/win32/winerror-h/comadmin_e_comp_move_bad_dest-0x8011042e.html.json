@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\comadmin_e_comp_move_bad_dest\0x8011042e\index.html.json
+
+title: 0x8011042E COMADMIN_E_COMP_MOVE_BAD_DEST in winerror.h
+description: The component move failed because the destination application no longer exists
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8011042E",
+  "codeUrl": "/win32/winerror-h/comadmin_e_comp_move_bad_dest/0x8011042e/",
+  "numericCode": -2146368466,
+  "define": "COMADMIN_E_COMP_MOVE_BAD_DEST",
+  "defineUrl": "/win32/winerror-h/comadmin_e_comp_move_bad_dest/",
+  "message": "The component move failed because the destination application no longer exists",
+  "remarks": null,
+  "aka": [
+    "-2146368466"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/comadmin_e_comp_move_bad_dest/-2146368466/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

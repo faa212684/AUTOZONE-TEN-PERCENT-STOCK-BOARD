@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\xact_s_madechangesinform\0x0004d006\index.html.json
+
+title: 0x0004D006 XACT_S_MADECHANGESINFORM in winerror.h
+description: The sink is for the moment and wishes the transaction to proceed, but if other changes are made following this return by other event sinks then this sink wants another chance to look
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x0004D006",
+  "codeUrl": "/win32/winerror-h/xact_s_madechangesinform/0x0004d006/",
+  "numericCode": 315398,
+  "define": "XACT_S_MADECHANGESINFORM",
+  "defineUrl": "/win32/winerror-h/xact_s_madechangesinform/",
+  "message": "The sink is for the moment and wishes the transaction to proceed, but if other changes are made following this return by other event sinks then this sink wants another chance to look",
+  "remarks": null,
+  "aka": [
+    "315398"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/xact_s_madechangesinform/315398/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

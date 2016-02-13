@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_no_trust_sam_account\0xc000018b\index.html.json
+
+title: 0xC000018B STATUS_NO_TRUST_SAM_ACCOUNT in ntstatus.h
+description: The SAM database on the Windows Server does not have a computer account for this workstation trust relationship.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000018B",
+  "codeUrl": "/win32/ntstatus-h/status_no_trust_sam_account/0xc000018b/",
+  "numericCode": -1073741429,
+  "define": "STATUS_NO_TRUST_SAM_ACCOUNT",
+  "defineUrl": "/win32/ntstatus-h/status_no_trust_sam_account/",
+  "message": "The SAM database on the Windows Server does not have a computer account for this workstation trust relationship.",
+  "remarks": null,
+  "aka": [
+    "-1073741429"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_no_trust_sam_account/-1073741429/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

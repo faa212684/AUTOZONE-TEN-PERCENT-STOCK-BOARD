@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_ipsec_ike_no_cert\0x800735ee\index.html.json
+canonical: /win32/winerror-h/error_ipsec_ike_no_cert/13806/
+title: 0x800735ee ERROR_IPSEC_IKE_NO_CERT in winerror.h
+description: IKE failed to find valid machine certificate. Contact your Network Security Administrator about installing a valid certificate in the appropriate Certificate Store.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800735ee",
+  "codeUrl": "/win32/winerror-h/error_ipsec_ike_no_cert/0x800735ee/",
+  "numericCode": 0,
+  "define": "ERROR_IPSEC_IKE_NO_CERT",
+  "defineUrl": "/win32/winerror-h/error_ipsec_ike_no_cert/",
+  "message": "IKE failed to find valid machine certificate. Contact your Network Security Administrator about installing a valid certificate in the appropriate Certificate Store.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "13806",
+  "originalCodeUrl": "/win32/winerror-h/error_ipsec_ike_no_cert/13806/"
+}

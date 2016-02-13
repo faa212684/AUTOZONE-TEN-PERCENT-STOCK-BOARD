@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_fve_not_de_volume\-1071579075\index.html.json
+canonical: /win32/ntstatus-h/status_fve_not_de_volume/0xc021003d/
+title: -1071579075 STATUS_FVE_NOT_DE_VOLUME in ntstatus.h
+description: This action isn't supported because this drive isn't automatically managed with device encryption.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071579075",
+  "codeUrl": "/win32/ntstatus-h/status_fve_not_de_volume/-1071579075/",
+  "numericCode": 0,
+  "define": "STATUS_FVE_NOT_DE_VOLUME",
+  "defineUrl": "/win32/ntstatus-h/status_fve_not_de_volume/",
+  "message": "This action isn't supported because this drive isn't automatically managed with device encryption.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC021003D",
+  "originalCodeUrl": "/win32/ntstatus-h/status_fve_not_de_volume/0xc021003d/"
+}

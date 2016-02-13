@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_system_hive_too_large\0xc000036e\index.html.json
+
+title: 0xC000036E STATUS_SYSTEM_HIVE_TOO_LARGE in ntstatus.h
+description: System hive size has exceeded its limit.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000036E",
+  "codeUrl": "/win32/ntstatus-h/status_system_hive_too_large/0xc000036e/",
+  "numericCode": -1073740946,
+  "define": "STATUS_SYSTEM_HIVE_TOO_LARGE",
+  "defineUrl": "/win32/ntstatus-h/status_system_hive_too_large/",
+  "message": "System hive size has exceeded its limit.",
+  "remarks": null,
+  "aka": [
+    "-1073740946"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_system_hive_too_large/-1073740946/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

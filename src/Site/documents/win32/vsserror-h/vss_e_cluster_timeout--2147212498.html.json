@@ -1,0 +1,24 @@
+---
+output: win32\vsserror-h\vss_e_cluster_timeout\-2147212498\index.html.json
+canonical: /win32/vsserror-h/vss_e_cluster_timeout/0x8004232e/
+title: -2147212498 VSS_E_CLUSTER_TIMEOUT in vsserror.h
+description: A timeout occurred while preparing a cluster shared volume for backup.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vsserror.h",
+  "sourceUrl": "/win32/vsserror-h/",
+  "code": "-2147212498",
+  "codeUrl": "/win32/vsserror-h/vss_e_cluster_timeout/-2147212498/",
+  "numericCode": 0,
+  "define": "VSS_E_CLUSTER_TIMEOUT",
+  "defineUrl": "/win32/vsserror-h/vss_e_cluster_timeout/",
+  "message": "A timeout occurred while preparing a cluster shared volume for backup.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x8004232E",
+  "originalCodeUrl": "/win32/vsserror-h/vss_e_cluster_timeout/0x8004232e/"
+}

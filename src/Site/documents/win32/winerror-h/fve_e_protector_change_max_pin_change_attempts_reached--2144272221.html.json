@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\fve_e_protector_change_max_pin_change_attempts_reached\-2144272221\index.html.json
+canonical: /win32/winerror-h/fve_e_protector_change_max_pin_change_attempts_reached/0x803100a3/
+title: -2144272221 FVE_E_PROTECTOR_CHANGE_MAX_PIN_CHANGE_ATTEMPTS_REACHED in winerror.h
+description: BitLocker has disabled PIN changes after too many failed requests. Click the link to reset the PIN as an administrator.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2144272221",
+  "codeUrl": "/win32/winerror-h/fve_e_protector_change_max_pin_change_attempts_reached/-2144272221/",
+  "numericCode": 0,
+  "define": "FVE_E_PROTECTOR_CHANGE_MAX_PIN_CHANGE_ATTEMPTS_REACHED",
+  "defineUrl": "/win32/winerror-h/fve_e_protector_change_max_pin_change_attempts_reached/",
+  "message": "BitLocker has disabled PIN changes after too many failed requests. Click the link to reset the PIN as an administrator.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x803100A3",
+  "originalCodeUrl": "/win32/winerror-h/fve_e_protector_change_max_pin_change_attempts_reached/0x803100a3/"
+}

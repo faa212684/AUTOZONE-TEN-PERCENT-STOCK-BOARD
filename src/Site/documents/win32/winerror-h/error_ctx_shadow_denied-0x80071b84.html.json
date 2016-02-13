@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_ctx_shadow_denied\0x80071b84\index.html.json
+canonical: /win32/winerror-h/error_ctx_shadow_denied/7044/
+title: 0x80071b84 ERROR_CTX_SHADOW_DENIED in winerror.h
+description: The request to control another session remotely was denied.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80071b84",
+  "codeUrl": "/win32/winerror-h/error_ctx_shadow_denied/0x80071b84/",
+  "numericCode": 0,
+  "define": "ERROR_CTX_SHADOW_DENIED",
+  "defineUrl": "/win32/winerror-h/error_ctx_shadow_denied/",
+  "message": "The request to control another session remotely was denied.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "7044",
+  "originalCodeUrl": "/win32/winerror-h/error_ctx_shadow_denied/7044/"
+}

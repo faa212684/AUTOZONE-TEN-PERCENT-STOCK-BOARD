@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\dxgi_status_no_redirection\142213124\index.html.json
+canonical: /win32/winerror-h/dxgi_status_no_redirection/0x087a0004/
+title: 142213124 DXGI_STATUS_NO_REDIRECTION in winerror.h
+description: The driver is requesting that the DXGI runtime not use shared resources to communicate with the Desktop Window Manager.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "142213124",
+  "codeUrl": "/win32/winerror-h/dxgi_status_no_redirection/142213124/",
+  "numericCode": 0,
+  "define": "DXGI_STATUS_NO_REDIRECTION",
+  "defineUrl": "/win32/winerror-h/dxgi_status_no_redirection/",
+  "message": "The driver is requesting that the DXGI runtime not use shared resources to communicate with the Desktop Window Manager.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x087A0004",
+  "originalCodeUrl": "/win32/winerror-h/dxgi_status_no_redirection/0x087a0004/"
+}

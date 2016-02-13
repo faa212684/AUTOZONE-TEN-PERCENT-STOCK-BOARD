@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_log_multiplexed\0x800719e6\index.html.json
+canonical: /win32/winerror-h/error_log_multiplexed/6630/
+title: 0x800719e6 ERROR_LOG_MULTIPLEXED in winerror.h
+description: Log is multiplexed, no direct writes to the physical log is allowed.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800719e6",
+  "codeUrl": "/win32/winerror-h/error_log_multiplexed/0x800719e6/",
+  "numericCode": 0,
+  "define": "ERROR_LOG_MULTIPLEXED",
+  "defineUrl": "/win32/winerror-h/error_log_multiplexed/",
+  "message": "Log is multiplexed, no direct writes to the physical log is allowed.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "6630",
+  "originalCodeUrl": "/win32/winerror-h/error_log_multiplexed/6630/"
+}

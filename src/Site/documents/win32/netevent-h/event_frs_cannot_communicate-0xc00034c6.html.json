@@ -1,0 +1,72 @@
+---
+output: win32\netevent-h\event_frs_cannot_communicate\0xc00034c6\index.html.json
+
+title: 0xC00034C6 EVENT_FRS_CANNOT_COMMUNICATE in netevent.h
+description: The File Replication Service on the computer %1 cannot communicate with
+the File Replication Service on the computer %2.
+%n
+%nVerify that the computer %2 is up and running.
+%n
+%nVerify that the File Replication Service is running on %2 by
+typing "net start ntfrs" on %2.
+%n
+%nVerify that the network is functioning between %1 and %2 by
+typing "ping %1" on %2 and "ping %2" on %1.
+If the pings succeed then retry the failed operation.
+If the pings fail then there may be problems with the DNS server.
+%n
+%nThe DNS server is responsible for mapping computer names to IP addresses.
+The commands "ipconfig" and "nslookup" help diagnose problems with the
+DNS server.
+%n
+%nTyping "ipconfig /all" will list the computer's IP address and the IP
+address of the computer's DNS servers. Type "ping <DNS server's IP address>"
+to verify that a DNS server is available. The DNS mapping for %2 or %1
+can be verified by typing "nslookup" and then typing "%2" and then "%1"
+on %1 and %2. Be sure to check out the DNS server on both %1 and %2;
+a DNS problem on either computer will prevent proper communication.
+%n
+%nSome network problems between %1 and %2 can be cleared up by flushing
+the DNS Resolver Cache. Type "ipconfig /flushdns".
+%n
+%nSome network problems between %1 and %2 can be cleared up by renewing
+the IP address. Type "ipconfig /release" followed by "ipconfig /renew".
+%n
+%nSome network problems between %1 and %2 can be cleared up by resetting
+the computer's DNS entry. Type "net stop NetLogon" followed by
+"net start NetLogon".
+%n
+%nSome problems between %1 and %2 can be cleared up by restarting
+the File Replication Service. Type "net stop ntfrs" followed by
+"net start ntfrs".
+%n
+%nSome problems between %1 and %2 can be cleared up by restarting
+the computers %1 and %2 AFTER CLOSING RUNNING APPLIATIONS,
+especially dcpromo. Click on Start, Shutdown, select Restart, and
+click on OK.
+%n
+%nOther network and computer problems are beyond the scope of
+this event log message.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC00034C6",
+  "codeUrl": "/win32/netevent-h/event_frs_cannot_communicate/0xc00034c6/",
+  "numericCode": -1073728314,
+  "define": "EVENT_FRS_CANNOT_COMMUNICATE",
+  "defineUrl": "/win32/netevent-h/event_frs_cannot_communicate/",
+  "message": "The File Replication Service on the computer %1 cannot communicate with\r\nthe File Replication Service on the computer %2.\r\n%n\r\n%nVerify that the computer %2 is up and running.\r\n%n\r\n%nVerify that the File Replication Service is running on %2 by\r\ntyping \"net start ntfrs\" on %2.\r\n%n\r\n%nVerify that the network is functioning between %1 and %2 by\r\ntyping \"ping %1\" on %2 and \"ping %2\" on %1.\r\nIf the pings succeed then retry the failed operation.\r\nIf the pings fail then there may be problems with the DNS server.\r\n%n\r\n%nThe DNS server is responsible for mapping computer names to IP addresses.\r\nThe commands \"ipconfig\" and \"nslookup\" help diagnose problems with the\r\nDNS server.\r\n%n\r\n%nTyping \"ipconfig /all\" will list the computer's IP address and the IP\r\naddress of the computer's DNS servers. Type \"ping <DNS server's IP address>\"\r\nto verify that a DNS server is available. The DNS mapping for %2 or %1\r\ncan be verified by typing \"nslookup\" and then typing \"%2\" and then \"%1\"\r\non %1 and %2. Be sure to check out the DNS server on both %1 and %2;\r\na DNS problem on either computer will prevent proper communication.\r\n%n\r\n%nSome network problems between %1 and %2 can be cleared up by flushing\r\nthe DNS Resolver Cache. Type \"ipconfig /flushdns\".\r\n%n\r\n%nSome network problems between %1 and %2 can be cleared up by renewing\r\nthe IP address. Type \"ipconfig /release\" followed by \"ipconfig /renew\".\r\n%n\r\n%nSome network problems between %1 and %2 can be cleared up by resetting\r\nthe computer's DNS entry. Type \"net stop NetLogon\" followed by\r\n\"net start NetLogon\".\r\n%n\r\n%nSome problems between %1 and %2 can be cleared up by restarting\r\nthe File Replication Service. Type \"net stop ntfrs\" followed by\r\n\"net start ntfrs\".\r\n%n\r\n%nSome problems between %1 and %2 can be cleared up by restarting\r\nthe computers %1 and %2 AFTER CLOSING RUNNING APPLIATIONS,\r\nespecially dcpromo. Click on Start, Shutdown, select Restart, and\r\nclick on OK.\r\n%n\r\n%nOther network and computer problems are beyond the scope of\r\nthis event log message.",
+  "remarks": null,
+  "aka": [
+    "-1073728314"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_frs_cannot_communicate/-1073728314/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

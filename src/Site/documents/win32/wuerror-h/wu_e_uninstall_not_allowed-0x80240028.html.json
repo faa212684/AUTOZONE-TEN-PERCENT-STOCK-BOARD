@@ -1,0 +1,28 @@
+---
+output: win32\wuerror-h\wu_e_uninstall_not_allowed\0x80240028\index.html.json
+
+title: 0x80240028 WU_E_UNINSTALL_NOT_ALLOWED in wuerror.h
+description: The update could not be uninstalled because the request did not originate from a WSUS server.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wuerror.h",
+  "sourceUrl": "/win32/wuerror-h/",
+  "code": "0x80240028",
+  "codeUrl": "/win32/wuerror-h/wu_e_uninstall_not_allowed/0x80240028/",
+  "numericCode": -2145124312,
+  "define": "WU_E_UNINSTALL_NOT_ALLOWED",
+  "defineUrl": "/win32/wuerror-h/wu_e_uninstall_not_allowed/",
+  "message": "The update could not be uninstalled because the request did not originate from a WSUS server.",
+  "remarks": null,
+  "aka": [
+    "-2145124312"
+  ],
+  "akaUrl": [
+    "/win32/wuerror-h/wu_e_uninstall_not_allowed/-2145124312/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\wsaesocktnosupport\10044\index.html.json
+
+title: 10044 WSAESOCKTNOSUPPORT in winerror.h
+description: The support for the specified socket type does not exist in this address family.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "10044",
+  "codeUrl": "/win32/winerror-h/wsaesocktnosupport/10044/",
+  "numericCode": 10044,
+  "define": "WSAESOCKTNOSUPPORT",
+  "defineUrl": "/win32/winerror-h/wsaesocktnosupport/",
+  "message": "The support for the specified socket type does not exist in this address family.",
+  "remarks": null,
+  "aka": [
+    "0x8007273c",
+    "-2147014852"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/wsaesocktnosupport/0x8007273c/",
+    "/win32/winerror-h/wsaesocktnosupport/-2147014852/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

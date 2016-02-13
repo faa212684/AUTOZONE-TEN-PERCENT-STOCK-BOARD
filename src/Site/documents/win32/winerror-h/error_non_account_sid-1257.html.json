@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_non_account_sid\1257\index.html.json
+
+title: 1257 ERROR_NON_ACCOUNT_SID in winerror.h
+description: The security identifier provided is not from an account domain.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1257",
+  "codeUrl": "/win32/winerror-h/error_non_account_sid/1257/",
+  "numericCode": 1257,
+  "define": "ERROR_NON_ACCOUNT_SID",
+  "defineUrl": "/win32/winerror-h/error_non_account_sid/",
+  "message": "The security identifier provided is not from an account domain.",
+  "remarks": null,
+  "aka": [
+    "0x800704e9",
+    "-2147023639"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_non_account_sid/0x800704e9/",
+    "/win32/winerror-h/error_non_account_sid/-2147023639/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_duplicate_name\0xc00000bd\index.html.json
+
+title: 0xC00000BD STATUS_DUPLICATE_NAME in ntstatus.h
+description: A duplicate name exists on the network.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC00000BD",
+  "codeUrl": "/win32/ntstatus-h/status_duplicate_name/0xc00000bd/",
+  "numericCode": -1073741635,
+  "define": "STATUS_DUPLICATE_NAME",
+  "defineUrl": "/win32/ntstatus-h/status_duplicate_name/",
+  "message": "A duplicate name exists on the network.",
+  "remarks": null,
+  "aka": [
+    "-1073741635"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_duplicate_name/-1073741635/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

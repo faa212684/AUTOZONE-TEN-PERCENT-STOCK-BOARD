@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_connection_invalid\0xc000023a\index.html.json
+
+title: 0xC000023A STATUS_CONNECTION_INVALID in ntstatus.h
+description: An operation was attempted on a nonexistent transport connection.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000023A",
+  "codeUrl": "/win32/ntstatus-h/status_connection_invalid/0xc000023a/",
+  "numericCode": -1073741254,
+  "define": "STATUS_CONNECTION_INVALID",
+  "defineUrl": "/win32/ntstatus-h/status_connection_invalid/",
+  "message": "An operation was attempted on a nonexistent transport connection.",
+  "remarks": null,
+  "aka": [
+    "-1073741254"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_connection_invalid/-1073741254/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

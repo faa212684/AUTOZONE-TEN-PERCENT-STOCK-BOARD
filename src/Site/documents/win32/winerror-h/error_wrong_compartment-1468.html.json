@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_wrong_compartment\1468\index.html.json
+
+title: 1468 ERROR_WRONG_COMPARTMENT in winerror.h
+description: The caller made the connection request in the wrong routing compartment.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1468",
+  "codeUrl": "/win32/winerror-h/error_wrong_compartment/1468/",
+  "numericCode": 1468,
+  "define": "ERROR_WRONG_COMPARTMENT",
+  "defineUrl": "/win32/winerror-h/error_wrong_compartment/",
+  "message": "The caller made the connection request in the wrong routing compartment.",
+  "remarks": null,
+  "aka": [
+    "0x800705bc",
+    "-2147023428"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_wrong_compartment/0x800705bc/",
+    "/win32/winerror-h/error_wrong_compartment/-2147023428/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

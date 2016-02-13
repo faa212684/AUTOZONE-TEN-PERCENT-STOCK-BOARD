@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_log_container_state_invalid\0xc01a002a\index.html.json
+
+title: 0xC01A002A STATUS_LOG_CONTAINER_STATE_INVALID in ntstatus.h
+description: Log service encountered an invalid container state when attempting a requested action.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC01A002A",
+  "codeUrl": "/win32/ntstatus-h/status_log_container_state_invalid/0xc01a002a/",
+  "numericCode": -1072037846,
+  "define": "STATUS_LOG_CONTAINER_STATE_INVALID",
+  "defineUrl": "/win32/ntstatus-h/status_log_container_state_invalid/",
+  "message": "Log service encountered an invalid container state when attempting a requested action.",
+  "remarks": null,
+  "aka": [
+    "-1072037846"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_log_container_state_invalid/-1072037846/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

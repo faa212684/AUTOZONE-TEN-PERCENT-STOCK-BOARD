@@ -1,0 +1,25 @@
+---
+output: win32\ntstatus-h\status_no_more_files\-2147483642\index.html.json
+canonical: /win32/ntstatus-h/status_no_more_files/0x80000006/
+title: -2147483642 STATUS_NO_MORE_FILES in ntstatus.h
+description: "{No More Files}
+No more files were found which match the file specification."
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-2147483642",
+  "codeUrl": "/win32/ntstatus-h/status_no_more_files/-2147483642/",
+  "numericCode": 0,
+  "define": "STATUS_NO_MORE_FILES",
+  "defineUrl": "/win32/ntstatus-h/status_no_more_files/",
+  "message": "{No More Files}\r\nNo more files were found which match the file specification.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80000006",
+  "originalCodeUrl": "/win32/ntstatus-h/status_no_more_files/0x80000006/"
+}

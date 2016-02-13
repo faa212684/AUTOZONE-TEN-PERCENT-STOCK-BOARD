@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_ctlog_inconsistent_tracking_file\0xc03a0024\index.html.json
+
+title: 0xC03A0024 STATUS_CTLOG_INCONSISTENT_TRACKING_FILE in ntstatus.h
+description: Change Tracking file for the virtual disk is not in a valid state.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC03A0024",
+  "codeUrl": "/win32/ntstatus-h/status_ctlog_inconsistent_tracking_file/0xc03a0024/",
+  "numericCode": -1069940700,
+  "define": "STATUS_CTLOG_INCONSISTENT_TRACKING_FILE",
+  "defineUrl": "/win32/ntstatus-h/status_ctlog_inconsistent_tracking_file/",
+  "message": "Change Tracking file for the virtual disk is not in a valid state.",
+  "remarks": null,
+  "aka": [
+    "-1069940700"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_ctlog_inconsistent_tracking_file/-1069940700/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

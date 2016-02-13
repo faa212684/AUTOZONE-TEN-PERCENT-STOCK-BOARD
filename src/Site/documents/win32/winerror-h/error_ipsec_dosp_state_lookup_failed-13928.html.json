@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ipsec_dosp_state_lookup_failed\13928\index.html.json
+
+title: 13928 ERROR_IPSEC_DOSP_STATE_LOOKUP_FAILED in winerror.h
+description: IPsec DoS Protection failed to look up state.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "13928",
+  "codeUrl": "/win32/winerror-h/error_ipsec_dosp_state_lookup_failed/13928/",
+  "numericCode": 13928,
+  "define": "ERROR_IPSEC_DOSP_STATE_LOOKUP_FAILED",
+  "defineUrl": "/win32/winerror-h/error_ipsec_dosp_state_lookup_failed/",
+  "message": "IPsec DoS Protection failed to look up state.",
+  "remarks": null,
+  "aka": [
+    "0x80073668",
+    "-2147010968"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ipsec_dosp_state_lookup_failed/0x80073668/",
+    "/win32/winerror-h/error_ipsec_dosp_state_lookup_failed/-2147010968/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

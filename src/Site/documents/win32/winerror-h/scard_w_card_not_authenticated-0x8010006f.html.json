@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\scard_w_card_not_authenticated\0x8010006f\index.html.json
+
+title: 0x8010006F SCARD_W_CARD_NOT_AUTHENTICATED in winerror.h
+description: No PIN was presented to the smart card.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8010006F",
+  "codeUrl": "/win32/winerror-h/scard_w_card_not_authenticated/0x8010006f/",
+  "numericCode": -2146434961,
+  "define": "SCARD_W_CARD_NOT_AUTHENTICATED",
+  "defineUrl": "/win32/winerror-h/scard_w_card_not_authenticated/",
+  "message": "No PIN was presented to the smart card.",
+  "remarks": null,
+  "aka": [
+    "-2146434961"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/scard_w_card_not_authenticated/-2146434961/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

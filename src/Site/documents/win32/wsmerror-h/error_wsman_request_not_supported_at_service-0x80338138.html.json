@@ -1,0 +1,28 @@
+---
+output: win32\wsmerror-h\error_wsman_request_not_supported_at_service\0x80338138\index.html.json
+
+title: 0x80338138 ERROR_WSMAN_REQUEST_NOT_SUPPORTED_AT_SERVICE in wsmerror.h
+description: The WS-Management service cannot process the request because the specified URI is not supported on the service side. Retry the request with local session.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x80338138",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_request_not_supported_at_service/0x80338138/",
+  "numericCode": -2144108232,
+  "define": "ERROR_WSMAN_REQUEST_NOT_SUPPORTED_AT_SERVICE",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_request_not_supported_at_service/",
+  "message": "The WS-Management service cannot process the request because the specified URI is not supported on the service side. Retry the request with local session.",
+  "remarks": null,
+  "aka": [
+    "-2144108232"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_request_not_supported_at_service/-2144108232/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

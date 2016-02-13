@@ -1,0 +1,29 @@
+---
+output: win32\netevent-h\event_ndis_maxframesize_error\0x8000139f\index.html.json
+
+title: 0x8000139F EVENT_NDIS_MAXFRAMESIZE_ERROR in netevent.h
+description: %2 : The specified registry entry MaxFrameSize is out of range. Using 
+default value.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x8000139F",
+  "codeUrl": "/win32/netevent-h/event_ndis_maxframesize_error/0x8000139f/",
+  "numericCode": -2147478625,
+  "define": "EVENT_NDIS_MAXFRAMESIZE_ERROR",
+  "defineUrl": "/win32/netevent-h/event_ndis_maxframesize_error/",
+  "message": "%2 : The specified registry entry MaxFrameSize is out of range. Using \r\ndefault value.",
+  "remarks": null,
+  "aka": [
+    "-2147478625"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_ndis_maxframesize_error/-2147478625/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

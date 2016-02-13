@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_e_volume_not_found_in_pack\0x8004257c\index.html.json
+
+title: 0x8004257C VDS_E_VOLUME_NOT_FOUND_IN_PACK in vdserr.h
+description: The specified volumes do not belong to the same pack.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x8004257C",
+  "codeUrl": "/win32/vdserr-h/vds_e_volume_not_found_in_pack/0x8004257c/",
+  "numericCode": -2147211908,
+  "define": "VDS_E_VOLUME_NOT_FOUND_IN_PACK",
+  "defineUrl": "/win32/vdserr-h/vds_e_volume_not_found_in_pack/",
+  "message": "The specified volumes do not belong to the same pack.",
+  "remarks": null,
+  "aka": [
+    "-2147211908"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_volume_not_found_in_pack/-2147211908/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

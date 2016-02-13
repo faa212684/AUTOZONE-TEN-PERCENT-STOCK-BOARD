@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ds_reserved_mapi_id\8631\index.html.json
+
+title: 8631 ERROR_DS_RESERVED_MAPI_ID in winerror.h
+description: Schema update failed: The MAPI identifier is reserved.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "8631",
+  "codeUrl": "/win32/winerror-h/error_ds_reserved_mapi_id/8631/",
+  "numericCode": 8631,
+  "define": "ERROR_DS_RESERVED_MAPI_ID",
+  "defineUrl": "/win32/winerror-h/error_ds_reserved_mapi_id/",
+  "message": "Schema update failed: The MAPI identifier is reserved.",
+  "remarks": null,
+  "aka": [
+    "0x800721b7",
+    "-2147016265"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ds_reserved_mapi_id/0x800721b7/",
+    "/win32/winerror-h/error_ds_reserved_mapi_id/-2147016265/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

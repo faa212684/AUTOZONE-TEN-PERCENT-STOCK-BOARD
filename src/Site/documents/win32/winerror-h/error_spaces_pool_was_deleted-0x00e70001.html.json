@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\error_spaces_pool_was_deleted\0x00e70001\index.html.json
+
+title: 0x00E70001 ERROR_SPACES_POOL_WAS_DELETED in winerror.h
+description: The storage pool was deleted by the driver. The object cache should be updated.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x00E70001",
+  "codeUrl": "/win32/winerror-h/error_spaces_pool_was_deleted/0x00e70001/",
+  "numericCode": 15138817,
+  "define": "ERROR_SPACES_POOL_WAS_DELETED",
+  "defineUrl": "/win32/winerror-h/error_spaces_pool_was_deleted/",
+  "message": "The storage pool was deleted by the driver. The object cache should be updated.",
+  "remarks": null,
+  "aka": [
+    "15138817"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_spaces_pool_was_deleted/15138817/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

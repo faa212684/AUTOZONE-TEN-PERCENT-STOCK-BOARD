@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_ndis_dot11_media_in_use\-1071439871\index.html.json
+canonical: /win32/ntstatus-h/status_ndis_dot11_media_in_use/0xc0232001/
+title: -1071439871 STATUS_NDIS_DOT11_MEDIA_IN_USE in ntstatus.h
+description: The wireless local area network interface is busy and can not perform the requested operation.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071439871",
+  "codeUrl": "/win32/ntstatus-h/status_ndis_dot11_media_in_use/-1071439871/",
+  "numericCode": 0,
+  "define": "STATUS_NDIS_DOT11_MEDIA_IN_USE",
+  "defineUrl": "/win32/ntstatus-h/status_ndis_dot11_media_in_use/",
+  "message": "The wireless local area network interface is busy and can not perform the requested operation.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0232001",
+  "originalCodeUrl": "/win32/ntstatus-h/status_ndis_dot11_media_in_use/0xc0232001/"
+}

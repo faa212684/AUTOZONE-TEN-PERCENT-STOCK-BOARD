@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\fwp_e_traffic_mismatch\0x8032001a\index.html.json
+
+title: 0x8032001A FWP_E_TRAFFIC_MISMATCH in winerror.h
+description: The traffic parameters do not match those for the security association context.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8032001A",
+  "codeUrl": "/win32/winerror-h/fwp_e_traffic_mismatch/0x8032001a/",
+  "numericCode": -2144206822,
+  "define": "FWP_E_TRAFFIC_MISMATCH",
+  "defineUrl": "/win32/winerror-h/fwp_e_traffic_mismatch/",
+  "message": "The traffic parameters do not match those for the security association context.",
+  "remarks": null,
+  "aka": [
+    "-2144206822"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/fwp_e_traffic_mismatch/-2144206822/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

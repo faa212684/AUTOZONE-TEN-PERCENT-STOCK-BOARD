@@ -1,0 +1,33 @@
+---
+layout: list
+title: http 
+description: http
+---
+{
+  "area": "http",
+  "areaUrl": "/http/",
+  "source": null,
+  "sourceUrl": "/http/",
+  "items": [
+    "100 Continue",
+    "101 Switching Protocols",
+    "200 OK",
+    "201 Created",
+    "202 Accepted",
+    "203 Non-Authoritative Information",
+    "204 No Content",
+    "205 Reset Content",
+    "206 Partial Content"
+  ],
+  "itemUrls": [
+    "/http/100-continue/",
+    "/http/101-switching-protocols/",
+    "/http/200-ok/",
+    "/http/201-created/",
+    "/http/202-accepted/",
+    "/http/203-non-authoritative-information/",
+    "/http/204-no-content/",
+    "/http/205-reset-content/",
+    "/http/206-partial-content/"
+  ]
+}

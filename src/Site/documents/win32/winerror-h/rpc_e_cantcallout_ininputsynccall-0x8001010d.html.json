@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\rpc_e_cantcallout_ininputsynccall\0x8001010d\index.html.json
+
+title: 0x8001010D RPC_E_CANTCALLOUT_ININPUTSYNCCALL in winerror.h
+description: An outgoing call cannot be made since the application is dispatching an input-synchronous call.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8001010D",
+  "codeUrl": "/win32/winerror-h/rpc_e_cantcallout_ininputsynccall/0x8001010d/",
+  "numericCode": -2147417843,
+  "define": "RPC_E_CANTCALLOUT_ININPUTSYNCCALL",
+  "defineUrl": "/win32/winerror-h/rpc_e_cantcallout_ininputsynccall/",
+  "message": "An outgoing call cannot be made since the application is dispatching an input-synchronous call.",
+  "remarks": null,
+  "aka": [
+    "-2147417843"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/rpc_e_cantcallout_ininputsynccall/-2147417843/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\wsmerror-h\error_wsman_metadata_redirect\0x8033803e\index.html.json
+
+title: 0x8033803E ERROR_WSMAN_METADATA_REDIRECT in wsmerror.h
+description: The requested metadata is not available at the current address. Retry the request with a new address.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x8033803E",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_metadata_redirect/0x8033803e/",
+  "numericCode": -2144108482,
+  "define": "ERROR_WSMAN_METADATA_REDIRECT",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_metadata_redirect/",
+  "message": "The requested metadata is not available at the current address. Retry the request with a new address.",
+  "remarks": null,
+  "aka": [
+    "-2144108482"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_metadata_redirect/-2144108482/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,25 @@
+---
+output: win32\ntstatus-h\status_bad_dll_entrypoint\-1073741231\index.html.json
+canonical: /win32/ntstatus-h/status_bad_dll_entrypoint/0xc0000251/
+title: -1073741231 STATUS_BAD_DLL_ENTRYPOINT in ntstatus.h
+description: "{Invalid DLL Entrypoint}
+The dynamic link library %hs is not written correctly. The stack pointer has been left in an inconsistent state. The entrypoint should be declared as WINAPI or STDCALL. Select YES to fail the DLL load. Select NO to continue execution. Selecting NO may cause the application to operate incorrectly."
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741231",
+  "codeUrl": "/win32/ntstatus-h/status_bad_dll_entrypoint/-1073741231/",
+  "numericCode": 0,
+  "define": "STATUS_BAD_DLL_ENTRYPOINT",
+  "defineUrl": "/win32/ntstatus-h/status_bad_dll_entrypoint/",
+  "message": "{Invalid DLL Entrypoint}\r\nThe dynamic link library %hs is not written correctly. The stack pointer has been left in an inconsistent state. The entrypoint should be declared as WINAPI or STDCALL. Select YES to fail the DLL load. Select NO to continue execution. Selecting NO may cause the application to operate incorrectly.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000251",
+  "originalCodeUrl": "/win32/ntstatus-h/status_bad_dll_entrypoint/0xc0000251/"
+}

@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_cs_encryption_unsupported_server\-1073740734\index.html.json
+canonical: /win32/ntstatus-h/status_cs_encryption_unsupported_server/0xc0000442/
+title: -1073740734 STATUS_CS_ENCRYPTION_UNSUPPORTED_SERVER in ntstatus.h
+description: Client Side Encryption is not supported by the remote server even though it claims to support it.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073740734",
+  "codeUrl": "/win32/ntstatus-h/status_cs_encryption_unsupported_server/-1073740734/",
+  "numericCode": 0,
+  "define": "STATUS_CS_ENCRYPTION_UNSUPPORTED_SERVER",
+  "defineUrl": "/win32/ntstatus-h/status_cs_encryption_unsupported_server/",
+  "message": "Client Side Encryption is not supported by the remote server even though it claims to support it.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000442",
+  "originalCodeUrl": "/win32/ntstatus-h/status_cs_encryption_unsupported_server/0xc0000442/"
+}

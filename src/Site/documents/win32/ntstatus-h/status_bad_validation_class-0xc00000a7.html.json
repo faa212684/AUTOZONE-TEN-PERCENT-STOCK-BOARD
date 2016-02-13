@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_bad_validation_class\0xc00000a7\index.html.json
+
+title: 0xC00000A7 STATUS_BAD_VALIDATION_CLASS in ntstatus.h
+description: The validation information class requested was invalid.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC00000A7",
+  "codeUrl": "/win32/ntstatus-h/status_bad_validation_class/0xc00000a7/",
+  "numericCode": -1073741657,
+  "define": "STATUS_BAD_VALIDATION_CLASS",
+  "defineUrl": "/win32/ntstatus-h/status_bad_validation_class/",
+  "message": "The validation information class requested was invalid.",
+  "remarks": null,
+  "aka": [
+    "-1073741657"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_bad_validation_class/-1073741657/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

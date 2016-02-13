@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\rpc_nt_protseq_not_found\0xc002002d\index.html.json
+
+title: 0xC002002D RPC_NT_PROTSEQ_NOT_FOUND in ntstatus.h
+description: The RPC protocol sequence was not found.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC002002D",
+  "codeUrl": "/win32/ntstatus-h/rpc_nt_protseq_not_found/0xc002002d/",
+  "numericCode": -1073610707,
+  "define": "RPC_NT_PROTSEQ_NOT_FOUND",
+  "defineUrl": "/win32/ntstatus-h/rpc_nt_protseq_not_found/",
+  "message": "The RPC protocol sequence was not found.",
+  "remarks": null,
+  "aka": [
+    "-1073610707"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/rpc_nt_protseq_not_found/-1073610707/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

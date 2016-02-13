@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\cert_e_chaining\-2146762486\index.html.json
+canonical: /win32/winerror-h/cert_e_chaining/0x800b010a/
+title: -2146762486 CERT_E_CHAINING in winerror.h
+description: A certificate chain could not be built to a trusted root authority.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2146762486",
+  "codeUrl": "/win32/winerror-h/cert_e_chaining/-2146762486/",
+  "numericCode": 0,
+  "define": "CERT_E_CHAINING",
+  "defineUrl": "/win32/winerror-h/cert_e_chaining/",
+  "message": "A certificate chain could not be built to a trusted root authority.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x800B010A",
+  "originalCodeUrl": "/win32/winerror-h/cert_e_chaining/0x800b010a/"
+}

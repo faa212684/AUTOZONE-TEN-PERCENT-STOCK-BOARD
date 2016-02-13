@@ -1,0 +1,24 @@
+---
+output: win32\wsmerror-h\error_wsman_quick_config_failed_cert_required\-2144108267\index.html.json
+canonical: /win32/wsmerror-h/error_wsman_quick_config_failed_cert_required/0x80338115/
+title: -2144108267 ERROR_WSMAN_QUICK_CONFIG_FAILED_CERT_REQUIRED in wsmerror.h
+description: Cannot create a WinRM listener on HTTPS because this machine does not have an appropriate certificate. To be used for SSL, a certificate must have a CN matching the hostname, be appropriate for Server Authentication, and not be expired, revoked, or self-signed.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "-2144108267",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_quick_config_failed_cert_required/-2144108267/",
+  "numericCode": 0,
+  "define": "ERROR_WSMAN_QUICK_CONFIG_FAILED_CERT_REQUIRED",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_quick_config_failed_cert_required/",
+  "message": "Cannot create a WinRM listener on HTTPS because this machine does not have an appropriate certificate. To be used for SSL, a certificate must have a CN matching the hostname, be appropriate for Server Authentication, and not be expired, revoked, or self-signed.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80338115",
+  "originalCodeUrl": "/win32/wsmerror-h/error_wsman_quick_config_failed_cert_required/0x80338115/"
+}

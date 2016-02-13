@@ -1,0 +1,24 @@
+---
+output: win32\netevent-h\event_srv_key_not_created\-1073739322\index.html.json
+canonical: /win32/netevent-h/event_srv_key_not_created/0xc00009c6/
+title: -1073739322 EVENT_SRV_KEY_NOT_CREATED in netevent.h
+description: The server's Registry key %1 was not present and could not be created.  The server could not start.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "-1073739322",
+  "codeUrl": "/win32/netevent-h/event_srv_key_not_created/-1073739322/",
+  "numericCode": 0,
+  "define": "EVENT_SRV_KEY_NOT_CREATED",
+  "defineUrl": "/win32/netevent-h/event_srv_key_not_created/",
+  "message": "The server's Registry key %1 was not present and could not be created.  The server could not start.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC00009C6",
+  "originalCodeUrl": "/win32/netevent-h/event_srv_key_not_created/0xc00009c6/"
+}

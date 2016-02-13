@@ -1,0 +1,28 @@
+---
+output: win32\ntdsbmsg-h\hrsessionwriteconflict\0xc8000453\index.html.json
+
+title: 0xC8000453 hrSessionWriteConflict in NtDsBMsg.h
+description: Another session has a private version of the page.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "NtDsBMsg.h",
+  "sourceUrl": "/win32/ntdsbmsg-h/",
+  "code": "0xC8000453",
+  "codeUrl": "/win32/ntdsbmsg-h/hrsessionwriteconflict/0xc8000453/",
+  "numericCode": -939522989,
+  "define": "hrSessionWriteConflict",
+  "defineUrl": "/win32/ntdsbmsg-h/hrsessionwriteconflict/",
+  "message": "Another session has a private version of the page.",
+  "remarks": null,
+  "aka": [
+    "-939522989"
+  ],
+  "akaUrl": [
+    "/win32/ntdsbmsg-h/hrsessionwriteconflict/-939522989/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

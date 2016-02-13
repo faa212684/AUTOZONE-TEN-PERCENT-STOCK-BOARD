@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_cluster_invalid_security_descriptor\0x8007173a\index.html.json
+canonical: /win32/winerror-h/error_cluster_invalid_security_descriptor/5946/
+title: 0x8007173a ERROR_CLUSTER_INVALID_SECURITY_DESCRIPTOR in winerror.h
+description: The Security Descriptor does not meet the requirements for a cluster.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007173a",
+  "codeUrl": "/win32/winerror-h/error_cluster_invalid_security_descriptor/0x8007173a/",
+  "numericCode": 0,
+  "define": "ERROR_CLUSTER_INVALID_SECURITY_DESCRIPTOR",
+  "defineUrl": "/win32/winerror-h/error_cluster_invalid_security_descriptor/",
+  "message": "The Security Descriptor does not meet the requirements for a cluster.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "5946",
+  "originalCodeUrl": "/win32/winerror-h/error_cluster_invalid_security_descriptor/5946/"
+}

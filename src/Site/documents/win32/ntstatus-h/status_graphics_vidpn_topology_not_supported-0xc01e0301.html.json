@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_graphics_vidpn_topology_not_supported\0xc01e0301\index.html.json
+
+title: 0xC01E0301 STATUS_GRAPHICS_VIDPN_TOPOLOGY_NOT_SUPPORTED in ntstatus.h
+description: Specified VidPN topology is valid but is not supported by this model of the display adapter.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC01E0301",
+  "codeUrl": "/win32/ntstatus-h/status_graphics_vidpn_topology_not_supported/0xc01e0301/",
+  "numericCode": -1071774975,
+  "define": "STATUS_GRAPHICS_VIDPN_TOPOLOGY_NOT_SUPPORTED",
+  "defineUrl": "/win32/ntstatus-h/status_graphics_vidpn_topology_not_supported/",
+  "message": "Specified VidPN topology is valid but is not supported by this model of the display adapter.",
+  "remarks": null,
+  "aka": [
+    "-1071774975"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_graphics_vidpn_topology_not_supported/-1071774975/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

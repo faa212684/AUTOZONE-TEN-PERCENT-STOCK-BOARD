@@ -1,0 +1,29 @@
+---
+output: win32\cdosyserr-h\evtsavedurationtoolong\0x80032044\index.html.json
+
+title: 0x80032044 evtSaveDurationTooLong in CDOSysErr.h
+description: An attempt was made to save an appointment with the subject "%1" to mailbox %2. The duration of the appointment was too large, so it was not saved.
+%n%nFor more information, click http:www.microsoft.com/contentredirect.asp.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "CDOSysErr.h",
+  "sourceUrl": "/win32/cdosyserr-h/",
+  "code": "0x80032044",
+  "codeUrl": "/win32/cdosyserr-h/evtsavedurationtoolong/0x80032044/",
+  "numericCode": -2147278780,
+  "define": "evtSaveDurationTooLong",
+  "defineUrl": "/win32/cdosyserr-h/evtsavedurationtoolong/",
+  "message": "An attempt was made to save an appointment with the subject \"%1\" to mailbox %2. The duration of the appointment was too large, so it was not saved.\r\n%n%nFor more information, click http:www.microsoft.com/contentredirect.asp.",
+  "remarks": null,
+  "aka": [
+    "-2147278780"
+  ],
+  "akaUrl": [
+    "/win32/cdosyserr-h/evtsavedurationtoolong/-2147278780/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

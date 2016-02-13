@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_invalid_system_service\0xc000001c\index.html.json
+
+title: 0xC000001C STATUS_INVALID_SYSTEM_SERVICE in ntstatus.h
+description: An invalid system service was specified in a system service call.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000001C",
+  "codeUrl": "/win32/ntstatus-h/status_invalid_system_service/0xc000001c/",
+  "numericCode": -1073741796,
+  "define": "STATUS_INVALID_SYSTEM_SERVICE",
+  "defineUrl": "/win32/ntstatus-h/status_invalid_system_service/",
+  "message": "An invalid system service was specified in a system service call.",
+  "remarks": null,
+  "aka": [
+    "-1073741796"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_invalid_system_service/-1073741796/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

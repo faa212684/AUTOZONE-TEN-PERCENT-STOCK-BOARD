@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_unwind_consolidate\0x80000029\index.html.json
+
+title: 0x80000029 STATUS_UNWIND_CONSOLIDATE in ntstatus.h
+description: A frame consolidation has been executed.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0x80000029",
+  "codeUrl": "/win32/ntstatus-h/status_unwind_consolidate/0x80000029/",
+  "numericCode": -2147483607,
+  "define": "STATUS_UNWIND_CONSOLIDATE",
+  "defineUrl": "/win32/ntstatus-h/status_unwind_consolidate/",
+  "message": "A frame consolidation has been executed.",
+  "remarks": null,
+  "aka": [
+    "-2147483607"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_unwind_consolidate/-2147483607/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

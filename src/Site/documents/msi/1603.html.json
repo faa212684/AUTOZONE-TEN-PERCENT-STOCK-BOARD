@@ -1,0 +1,24 @@
+---
+output: msi\1603\index.html.json
+
+title: msi 1603
+description: The file [2][3] is being held in use by the following process: Name: [4], Id: [5], Window Title: '[6]'.
+disqus: true
+---
+{
+  "area": "msi",
+  "areaUrl": "/msi/",
+  "source": null,
+  "sourceUrl": "/msi/",
+  "code": "1603",
+  "codeUrl": "/msi/1603/",
+  "numericCode": 1603,
+  "define": null,
+  "defineUrl": "/msi/",
+  "message": "The file [2][3] is being held in use by the following process: Name: [4], Id: [5], Window Title: '[6]'.",
+  "remarks": "A system restart may be required because the file being updated is also currently in use. Users may be given \r\n        the opportunity to avoid some system restarts by using the \r\n        <a href=\"https://msdn.microsoft.com/en-us/library/aa368592(v=vs.85).aspx\">FilesInUse Dialog</a> or the \r\n        <a href=\"https://msdn.microsoft.com/en-us/library/aa370379(v=vs.85).aspx\">MsiRMFilesInUse Dialog</a>. For more information, \r\n        see <a href=\"https://msdn.microsoft.com/en-us/library/aa372059(v=vs.85).aspx\">System Reboots</a> and \r\n        <a href=\"https://msdn.microsoft.com/en-us/library/aa369779(v=vs.85).aspx\">Logging of Reboot Requests</a>.",
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": null,
+  "originalCodeUrl": null
+}

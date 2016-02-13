@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_all_sids_filtered\0xc000035e\index.html.json
+
+title: 0xC000035E STATUS_ALL_SIDS_FILTERED in ntstatus.h
+description: The SID filtering operation removed all SIDs.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000035E",
+  "codeUrl": "/win32/ntstatus-h/status_all_sids_filtered/0xc000035e/",
+  "numericCode": -1073740962,
+  "define": "STATUS_ALL_SIDS_FILTERED",
+  "defineUrl": "/win32/ntstatus-h/status_all_sids_filtered/",
+  "message": "The SID filtering operation removed all SIDs.",
+  "remarks": null,
+  "aka": [
+    "-1073740962"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_all_sids_filtered/-1073740962/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

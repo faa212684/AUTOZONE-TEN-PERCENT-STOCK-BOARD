@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\cert_e_malformed\-2146762488\index.html.json
+canonical: /win32/winerror-h/cert_e_malformed/0x800b0108/
+title: -2146762488 CERT_E_MALFORMED in winerror.h
+description: A certificate is missing or has an empty value for an important field, such as a subject or issuer name.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2146762488",
+  "codeUrl": "/win32/winerror-h/cert_e_malformed/-2146762488/",
+  "numericCode": 0,
+  "define": "CERT_E_MALFORMED",
+  "defineUrl": "/win32/winerror-h/cert_e_malformed/",
+  "message": "A certificate is missing or has an empty value for an important field, such as a subject or issuer name.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x800B0108",
+  "originalCodeUrl": "/win32/winerror-h/cert_e_malformed/0x800b0108/"
+}

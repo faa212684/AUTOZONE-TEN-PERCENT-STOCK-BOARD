@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_invalid_logon_type\0xc000010b\index.html.json
+
+title: 0xC000010B STATUS_INVALID_LOGON_TYPE in ntstatus.h
+description: Indicates an invalid value has been provided for the LogonType requested.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000010B",
+  "codeUrl": "/win32/ntstatus-h/status_invalid_logon_type/0xc000010b/",
+  "numericCode": -1073741557,
+  "define": "STATUS_INVALID_LOGON_TYPE",
+  "defineUrl": "/win32/ntstatus-h/status_invalid_logon_type/",
+  "message": "Indicates an invalid value has been provided for the LogonType requested.",
+  "remarks": null,
+  "aka": [
+    "-1073741557"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_invalid_logon_type/-1073741557/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

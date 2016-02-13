@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ds_referral_limit_exceeded\8260\index.html.json
+
+title: 8260 ERROR_DS_REFERRAL_LIMIT_EXCEEDED in winerror.h
+description: The preset referral limit was exceeded.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "8260",
+  "codeUrl": "/win32/winerror-h/error_ds_referral_limit_exceeded/8260/",
+  "numericCode": 8260,
+  "define": "ERROR_DS_REFERRAL_LIMIT_EXCEEDED",
+  "defineUrl": "/win32/winerror-h/error_ds_referral_limit_exceeded/",
+  "message": "The preset referral limit was exceeded.",
+  "remarks": null,
+  "aka": [
+    "0x80072044",
+    "-2147016636"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ds_referral_limit_exceeded/0x80072044/",
+    "/win32/winerror-h/error_ds_referral_limit_exceeded/-2147016636/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\dns_error_zone_configuration_error\9604\index.html.json
+
+title: 9604 DNS_ERROR_ZONE_CONFIGURATION_ERROR in winerror.h
+description: Invalid DNS zone configuration.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "9604",
+  "codeUrl": "/win32/winerror-h/dns_error_zone_configuration_error/9604/",
+  "numericCode": 9604,
+  "define": "DNS_ERROR_ZONE_CONFIGURATION_ERROR",
+  "defineUrl": "/win32/winerror-h/dns_error_zone_configuration_error/",
+  "message": "Invalid DNS zone configuration.",
+  "remarks": null,
+  "aka": [
+    "0x80072584",
+    "-2147015292"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/dns_error_zone_configuration_error/0x80072584/",
+    "/win32/winerror-h/dns_error_zone_configuration_error/-2147015292/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

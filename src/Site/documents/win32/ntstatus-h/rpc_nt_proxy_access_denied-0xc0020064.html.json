@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\rpc_nt_proxy_access_denied\0xc0020064\index.html.json
+
+title: 0xC0020064 RPC_NT_PROXY_ACCESS_DENIED in ntstatus.h
+description: Access to the HTTP proxy is denied.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0020064",
+  "codeUrl": "/win32/ntstatus-h/rpc_nt_proxy_access_denied/0xc0020064/",
+  "numericCode": -1073610652,
+  "define": "RPC_NT_PROXY_ACCESS_DENIED",
+  "defineUrl": "/win32/ntstatus-h/rpc_nt_proxy_access_denied/",
+  "message": "Access to the HTTP proxy is denied.",
+  "remarks": null,
+  "aka": [
+    "-1073610652"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/rpc_nt_proxy_access_denied/-1073610652/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

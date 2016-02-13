@@ -1,0 +1,29 @@
+---
+output: win32\ntstatus-h\status_cant_open_anonymous\0xc00000a6\index.html.json
+
+title: 0xC00000A6 STATUS_CANT_OPEN_ANONYMOUS in ntstatus.h
+description: An attempt was made to open an Anonymous level token.
+Anonymous tokens may not be opened.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC00000A6",
+  "codeUrl": "/win32/ntstatus-h/status_cant_open_anonymous/0xc00000a6/",
+  "numericCode": -1073741658,
+  "define": "STATUS_CANT_OPEN_ANONYMOUS",
+  "defineUrl": "/win32/ntstatus-h/status_cant_open_anonymous/",
+  "message": "An attempt was made to open an Anonymous level token.\r\nAnonymous tokens may not be opened.",
+  "remarks": null,
+  "aka": [
+    "-1073741658"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_cant_open_anonymous/-1073741658/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

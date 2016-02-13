@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\tpmapi_e_tpm_command_error\0x8029010c\index.html.json
+
+title: 0x8029010C TPMAPI_E_TPM_COMMAND_ERROR in winerror.h
+description: The TPM returned an unexpected result.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8029010C",
+  "codeUrl": "/win32/winerror-h/tpmapi_e_tpm_command_error/0x8029010c/",
+  "numericCode": -2144796404,
+  "define": "TPMAPI_E_TPM_COMMAND_ERROR",
+  "defineUrl": "/win32/winerror-h/tpmapi_e_tpm_command_error/",
+  "message": "The TPM returned an unexpected result.",
+  "remarks": null,
+  "aka": [
+    "-2144796404"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/tpmapi_e_tpm_command_error/-2144796404/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

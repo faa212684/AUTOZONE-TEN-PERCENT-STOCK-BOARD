@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_sxs_process_default_already_set\-1072365554\index.html.json
+canonical: /win32/ntstatus-h/status_sxs_process_default_already_set/0xc015000e/
+title: -1072365554 STATUS_SXS_PROCESS_DEFAULT_ALREADY_SET in ntstatus.h
+description: An attempt to set the process default activation context failed because the process default activation context was already set.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1072365554",
+  "codeUrl": "/win32/ntstatus-h/status_sxs_process_default_already_set/-1072365554/",
+  "numericCode": 0,
+  "define": "STATUS_SXS_PROCESS_DEFAULT_ALREADY_SET",
+  "defineUrl": "/win32/ntstatus-h/status_sxs_process_default_already_set/",
+  "message": "An attempt to set the process default activation context failed because the process default activation context was already set.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC015000E",
+  "originalCodeUrl": "/win32/ntstatus-h/status_sxs_process_default_already_set/0xc015000e/"
+}

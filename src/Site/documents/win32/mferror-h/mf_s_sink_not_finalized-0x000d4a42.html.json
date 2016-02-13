@@ -1,0 +1,28 @@
+---
+output: win32\mferror-h\mf_s_sink_not_finalized\0x000d4a42\index.html.json
+
+title: 0x000D4A42 MF_S_SINK_NOT_FINALIZED in Mferror.h
+description: The sink has not been finalized before shut down. This may cause sink to generate corrupted content.%0
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "Mferror.h",
+  "sourceUrl": "/win32/mferror-h/",
+  "code": "0x000D4A42",
+  "codeUrl": "/win32/mferror-h/mf_s_sink_not_finalized/0x000d4a42/",
+  "numericCode": 870978,
+  "define": "MF_S_SINK_NOT_FINALIZED",
+  "defineUrl": "/win32/mferror-h/mf_s_sink_not_finalized/",
+  "message": "The sink has not been finalized before shut down. This may cause sink to generate corrupted content.%0",
+  "remarks": null,
+  "aka": [
+    "870978"
+  ],
+  "akaUrl": [
+    "/win32/mferror-h/mf_s_sink_not_finalized/870978/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

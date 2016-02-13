@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_invalid_dll\1154\index.html.json
+
+title: 1154 ERROR_INVALID_DLL in winerror.h
+description: One of the library files needed to run this application is damaged.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1154",
+  "codeUrl": "/win32/winerror-h/error_invalid_dll/1154/",
+  "numericCode": 1154,
+  "define": "ERROR_INVALID_DLL",
+  "defineUrl": "/win32/winerror-h/error_invalid_dll/",
+  "message": "One of the library files needed to run this application is damaged.",
+  "remarks": null,
+  "aka": [
+    "0x80070482",
+    "-2147023742"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_invalid_dll/0x80070482/",
+    "/win32/winerror-h/error_invalid_dll/-2147023742/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

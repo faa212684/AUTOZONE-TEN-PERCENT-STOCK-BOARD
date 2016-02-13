@@ -1,0 +1,28 @@
+---
+output: win32\ntdsbmsg-h\hrwriteconflict\0xc800044e\index.html.json
+
+title: 0xC800044E hrWriteConflict in NtDsBMsg.h
+description: The write lock failed due to an outstanding write lock.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "NtDsBMsg.h",
+  "sourceUrl": "/win32/ntdsbmsg-h/",
+  "code": "0xC800044E",
+  "codeUrl": "/win32/ntdsbmsg-h/hrwriteconflict/0xc800044e/",
+  "numericCode": -939522994,
+  "define": "hrWriteConflict",
+  "defineUrl": "/win32/ntdsbmsg-h/hrwriteconflict/",
+  "message": "The write lock failed due to an outstanding write lock.",
+  "remarks": null,
+  "aka": [
+    "-939522994"
+  ],
+  "akaUrl": [
+    "/win32/ntdsbmsg-h/hrwriteconflict/-939522994/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

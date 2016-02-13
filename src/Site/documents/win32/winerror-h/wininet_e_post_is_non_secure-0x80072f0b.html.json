@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\wininet_e_post_is_non_secure\0x80072f0b\index.html.json
+
+title: 0x80072F0B WININET_E_POST_IS_NON_SECURE in winerror.h
+description: Data is being posted on a non-secure connection
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80072F0B",
+  "codeUrl": "/win32/winerror-h/wininet_e_post_is_non_secure/0x80072f0b/",
+  "numericCode": -2147012853,
+  "define": "WININET_E_POST_IS_NON_SECURE",
+  "defineUrl": "/win32/winerror-h/wininet_e_post_is_non_secure/",
+  "message": "Data is being posted on a non-secure connection",
+  "remarks": null,
+  "aka": [
+    "-2147012853"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/wininet_e_post_is_non_secure/-2147012853/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

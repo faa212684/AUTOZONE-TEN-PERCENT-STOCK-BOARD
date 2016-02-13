@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\error_virtdisk_unsupported_disk_sector_size\0xc03a001d\index.html.json
+
+title: 0xC03A001D ERROR_VIRTDISK_UNSUPPORTED_DISK_SECTOR_SIZE in winerror.h
+description: The sector size of the physical disk on which the virtual disk resides is not supported.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0xC03A001D",
+  "codeUrl": "/win32/winerror-h/error_virtdisk_unsupported_disk_sector_size/0xc03a001d/",
+  "numericCode": -1069940707,
+  "define": "ERROR_VIRTDISK_UNSUPPORTED_DISK_SECTOR_SIZE",
+  "defineUrl": "/win32/winerror-h/error_virtdisk_unsupported_disk_sector_size/",
+  "message": "The sector size of the physical disk on which the virtual disk resides is not supported.",
+  "remarks": null,
+  "aka": [
+    "-1069940707"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_virtdisk_unsupported_disk_sector_size/-1069940707/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

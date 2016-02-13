@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_transport_transfer_data\0x40002331\index.html.json
+
+title: 0x40002331 EVENT_TRANSPORT_TRANSFER_DATA in netevent.h
+description: %2 could not transfer a packet from the network adapter.  The packet was dropped.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x40002331",
+  "codeUrl": "/win32/netevent-h/event_transport_transfer_data/0x40002331/",
+  "numericCode": 1073750833,
+  "define": "EVENT_TRANSPORT_TRANSFER_DATA",
+  "defineUrl": "/win32/netevent-h/event_transport_transfer_data/",
+  "message": "%2 could not transfer a packet from the network adapter.  The packet was dropped.",
+  "remarks": null,
+  "aka": [
+    "1073750833"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_transport_transfer_data/1073750833/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\missing_exit_point\0xc00037dd\index.html.json
+
+title: 0xC00037DD MISSING_EXIT_POINT in netevent.h
+description: The ExitPoint %2 was missing at server %3
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC00037DD",
+  "codeUrl": "/win32/netevent-h/missing_exit_point/0xc00037dd/",
+  "numericCode": -1073727523,
+  "define": "MISSING_EXIT_POINT",
+  "defineUrl": "/win32/netevent-h/missing_exit_point/",
+  "message": "The ExitPoint %2 was missing at server %3",
+  "remarks": null,
+  "aka": [
+    "-1073727523"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/missing_exit_point/-1073727523/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

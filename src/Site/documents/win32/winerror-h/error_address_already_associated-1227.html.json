@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_address_already_associated\1227\index.html.json
+
+title: 1227 ERROR_ADDRESS_ALREADY_ASSOCIATED in winerror.h
+description: The network transport endpoint already has an address associated with it.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1227",
+  "codeUrl": "/win32/winerror-h/error_address_already_associated/1227/",
+  "numericCode": 1227,
+  "define": "ERROR_ADDRESS_ALREADY_ASSOCIATED",
+  "defineUrl": "/win32/winerror-h/error_address_already_associated/",
+  "message": "The network transport endpoint already has an address associated with it.",
+  "remarks": null,
+  "aka": [
+    "0x800704cb",
+    "-2147023669"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_address_already_associated/0x800704cb/",
+    "/win32/winerror-h/error_address_already_associated/-2147023669/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

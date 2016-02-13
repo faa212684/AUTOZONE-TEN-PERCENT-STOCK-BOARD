@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\e_application_view_exiting\0x8000001b\index.html.json
+
+title: 0x8000001B E_APPLICATION_VIEW_EXITING in winerror.h
+description: The application view is exiting and cannot service this request
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8000001B",
+  "codeUrl": "/win32/winerror-h/e_application_view_exiting/0x8000001b/",
+  "numericCode": -2147483621,
+  "define": "E_APPLICATION_VIEW_EXITING",
+  "defineUrl": "/win32/winerror-h/e_application_view_exiting/",
+  "message": "The application view is exiting and cannot service this request",
+  "remarks": null,
+  "aka": [
+    "-2147483621"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/e_application_view_exiting/-2147483621/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

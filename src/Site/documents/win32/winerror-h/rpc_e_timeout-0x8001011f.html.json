@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\rpc_e_timeout\0x8001011f\index.html.json
+
+title: 0x8001011F RPC_E_TIMEOUT in winerror.h
+description: This operation returned because the timeout period expired.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8001011F",
+  "codeUrl": "/win32/winerror-h/rpc_e_timeout/0x8001011f/",
+  "numericCode": -2147417825,
+  "define": "RPC_E_TIMEOUT",
+  "defineUrl": "/win32/winerror-h/rpc_e_timeout/",
+  "message": "This operation returned because the timeout period expired.",
+  "remarks": null,
+  "aka": [
+    "-2147417825"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/rpc_e_timeout/-2147417825/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

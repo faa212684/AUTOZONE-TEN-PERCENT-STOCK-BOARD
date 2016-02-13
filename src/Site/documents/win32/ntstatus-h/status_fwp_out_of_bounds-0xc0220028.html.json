@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_fwp_out_of_bounds\0xc0220028\index.html.json
+
+title: 0xC0220028 STATUS_FWP_OUT_OF_BOUNDS in ntstatus.h
+description: An integer value is outside the allowed range.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0220028",
+  "codeUrl": "/win32/ntstatus-h/status_fwp_out_of_bounds/0xc0220028/",
+  "numericCode": -1071513560,
+  "define": "STATUS_FWP_OUT_OF_BOUNDS",
+  "defineUrl": "/win32/ntstatus-h/status_fwp_out_of_bounds/",
+  "message": "An integer value is outside the allowed range.",
+  "remarks": null,
+  "aka": [
+    "-1071513560"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_fwp_out_of_bounds/-1071513560/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

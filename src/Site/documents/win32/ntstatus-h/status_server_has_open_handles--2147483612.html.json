@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_server_has_open_handles\-2147483612\index.html.json
+canonical: /win32/ntstatus-h/status_server_has_open_handles/0x80000024/
+title: -2147483612 STATUS_SERVER_HAS_OPEN_HANDLES in ntstatus.h
+description: The server is in use and cannot be unloaded.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-2147483612",
+  "codeUrl": "/win32/ntstatus-h/status_server_has_open_handles/-2147483612/",
+  "numericCode": 0,
+  "define": "STATUS_SERVER_HAS_OPEN_HANDLES",
+  "defineUrl": "/win32/ntstatus-h/status_server_has_open_handles/",
+  "message": "The server is in use and cannot be unloaded.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80000024",
+  "originalCodeUrl": "/win32/ntstatus-h/status_server_has_open_handles/0x80000024/"
+}

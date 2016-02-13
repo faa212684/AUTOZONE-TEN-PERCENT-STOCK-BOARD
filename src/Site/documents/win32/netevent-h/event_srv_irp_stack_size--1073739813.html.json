@@ -1,0 +1,24 @@
+---
+output: win32\netevent-h\event_srv_irp_stack_size\-1073739813\index.html.json
+canonical: /win32/netevent-h/event_srv_irp_stack_size/0xc00007db/
+title: -1073739813 EVENT_SRV_IRP_STACK_SIZE in netevent.h
+description: The server's configuration parameter "irpstacksize" is too small for the server to use a local device.  Please increase the value of this parameter.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "-1073739813",
+  "codeUrl": "/win32/netevent-h/event_srv_irp_stack_size/-1073739813/",
+  "numericCode": 0,
+  "define": "EVENT_SRV_IRP_STACK_SIZE",
+  "defineUrl": "/win32/netevent-h/event_srv_irp_stack_size/",
+  "message": "The server's configuration parameter \"irpstacksize\" is too small for the server to use a local device.  Please increase the value of this parameter.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC00007DB",
+  "originalCodeUrl": "/win32/netevent-h/event_srv_irp_stack_size/0xc00007db/"
+}

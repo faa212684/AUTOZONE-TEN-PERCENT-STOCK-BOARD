@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_fwp_incompatible_sa_state\0xc022001b\index.html.json
+
+title: 0xC022001B STATUS_FWP_INCOMPATIBLE_SA_STATE in ntstatus.h
+description: The call is not allowed for the current security association state.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC022001B",
+  "codeUrl": "/win32/ntstatus-h/status_fwp_incompatible_sa_state/0xc022001b/",
+  "numericCode": -1071513573,
+  "define": "STATUS_FWP_INCOMPATIBLE_SA_STATE",
+  "defineUrl": "/win32/ntstatus-h/status_fwp_incompatible_sa_state/",
+  "message": "The call is not allowed for the current security association state.",
+  "remarks": null,
+  "aka": [
+    "-1071513573"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_fwp_incompatible_sa_state/-1071513573/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

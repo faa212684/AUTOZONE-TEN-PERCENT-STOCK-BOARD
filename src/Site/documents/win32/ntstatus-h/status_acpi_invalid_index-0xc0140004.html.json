@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_acpi_invalid_index\0xc0140004\index.html.json
+
+title: 0xC0140004 STATUS_ACPI_INVALID_INDEX in ntstatus.h
+description: An attempt was made to access an array outside of its bounds
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0140004",
+  "codeUrl": "/win32/ntstatus-h/status_acpi_invalid_index/0xc0140004/",
+  "numericCode": -1072431100,
+  "define": "STATUS_ACPI_INVALID_INDEX",
+  "defineUrl": "/win32/ntstatus-h/status_acpi_invalid_index/",
+  "message": "An attempt was made to access an array outside of its bounds",
+  "remarks": null,
+  "aka": [
+    "-1072431100"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_acpi_invalid_index/-1072431100/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

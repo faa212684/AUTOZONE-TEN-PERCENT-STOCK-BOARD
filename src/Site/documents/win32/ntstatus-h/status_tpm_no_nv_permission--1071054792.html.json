@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_tpm_no_nv_permission\-1071054792\index.html.json
+canonical: /win32/ntstatus-h/status_tpm_no_nv_permission/0xc0290038/
+title: -1071054792 STATUS_TPM_NO_NV_PERMISSION in ntstatus.h
+description: The permission to manipulate the NV storage is not available.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071054792",
+  "codeUrl": "/win32/ntstatus-h/status_tpm_no_nv_permission/-1071054792/",
+  "numericCode": 0,
+  "define": "STATUS_TPM_NO_NV_PERMISSION",
+  "defineUrl": "/win32/ntstatus-h/status_tpm_no_nv_permission/",
+  "message": "The permission to manipulate the NV storage is not available.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0290038",
+  "originalCodeUrl": "/win32/ntstatus-h/status_tpm_no_nv_permission/0xc0290038/"
+}

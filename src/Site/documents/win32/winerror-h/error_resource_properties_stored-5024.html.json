@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_resource_properties_stored\5024\index.html.json
+
+title: 5024 ERROR_RESOURCE_PROPERTIES_STORED in winerror.h
+description: The properties were stored but not all changes will take effect until the next time the resource is brought online.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "5024",
+  "codeUrl": "/win32/winerror-h/error_resource_properties_stored/5024/",
+  "numericCode": 5024,
+  "define": "ERROR_RESOURCE_PROPERTIES_STORED",
+  "defineUrl": "/win32/winerror-h/error_resource_properties_stored/",
+  "message": "The properties were stored but not all changes will take effect until the next time the resource is brought online.",
+  "remarks": null,
+  "aka": [
+    "0x800713a0",
+    "-2147019872"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_resource_properties_stored/0x800713a0/",
+    "/win32/winerror-h/error_resource_properties_stored/-2147019872/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

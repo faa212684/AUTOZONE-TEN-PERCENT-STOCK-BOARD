@@ -1,0 +1,28 @@
+---
+output: win32\fsrmerr-h\fsrm_e_file_system_corrupt\0x8004531f\index.html.json
+
+title: 0x8004531F FSRM_E_FILE_SYSTEM_CORRUPT in fsrmerr.h
+description: The file system might be corrupted.  Please run the CHKDSK utility.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "fsrmerr.h",
+  "sourceUrl": "/win32/fsrmerr-h/",
+  "code": "0x8004531F",
+  "codeUrl": "/win32/fsrmerr-h/fsrm_e_file_system_corrupt/0x8004531f/",
+  "numericCode": -2147200225,
+  "define": "FSRM_E_FILE_SYSTEM_CORRUPT",
+  "defineUrl": "/win32/fsrmerr-h/fsrm_e_file_system_corrupt/",
+  "message": "The file system might be corrupted.  Please run the CHKDSK utility.",
+  "remarks": null,
+  "aka": [
+    "-2147200225"
+  ],
+  "akaUrl": [
+    "/win32/fsrmerr-h/fsrm_e_file_system_corrupt/-2147200225/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

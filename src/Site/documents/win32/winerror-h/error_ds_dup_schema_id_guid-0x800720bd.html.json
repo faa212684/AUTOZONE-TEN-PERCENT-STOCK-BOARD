@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_ds_dup_schema_id_guid\0x800720bd\index.html.json
+canonical: /win32/winerror-h/error_ds_dup_schema_id_guid/8381/
+title: 0x800720bd ERROR_DS_DUP_SCHEMA_ID_GUID in winerror.h
+description: Schema update failed: duplicate schema-id GUID.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800720bd",
+  "codeUrl": "/win32/winerror-h/error_ds_dup_schema_id_guid/0x800720bd/",
+  "numericCode": 0,
+  "define": "ERROR_DS_DUP_SCHEMA_ID_GUID",
+  "defineUrl": "/win32/winerror-h/error_ds_dup_schema_id_guid/",
+  "message": "Schema update failed: duplicate schema-id GUID.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "8381",
+  "originalCodeUrl": "/win32/winerror-h/error_ds_dup_schema_id_guid/8381/"
+}

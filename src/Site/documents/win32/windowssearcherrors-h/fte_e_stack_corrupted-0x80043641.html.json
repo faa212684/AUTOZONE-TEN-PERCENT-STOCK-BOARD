@@ -1,0 +1,28 @@
+---
+output: win32\windowssearcherrors-h\fte_e_stack_corrupted\0x80043641\index.html.json
+
+title: 0x80043641 FTE_E_STACK_CORRUPTED in WindowsSearchErrors.h
+description: The stack for a thread in this process is corrupted due to a programming bug. This may be a security threat and indicate your system has been attacked. The process will be shutdown.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "0x80043641",
+  "codeUrl": "/win32/windowssearcherrors-h/fte_e_stack_corrupted/0x80043641/",
+  "numericCode": -2147207615,
+  "define": "FTE_E_STACK_CORRUPTED",
+  "defineUrl": "/win32/windowssearcherrors-h/fte_e_stack_corrupted/",
+  "message": "The stack for a thread in this process is corrupted due to a programming bug. This may be a security threat and indicate your system has been attacked. The process will be shutdown.",
+  "remarks": null,
+  "aka": [
+    "-2147207615"
+  ],
+  "akaUrl": [
+    "/win32/windowssearcherrors-h/fte_e_stack_corrupted/-2147207615/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

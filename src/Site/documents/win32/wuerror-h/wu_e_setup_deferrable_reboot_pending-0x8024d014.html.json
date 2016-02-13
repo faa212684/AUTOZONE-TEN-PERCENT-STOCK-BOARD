@@ -1,0 +1,28 @@
+---
+output: win32\wuerror-h\wu_e_setup_deferrable_reboot_pending\0x8024d014\index.html.json
+
+title: 0x8024D014 WU_E_SETUP_DEFERRABLE_REBOOT_PENDING in wuerror.h
+description: Windows Update Agent is successfully updated, but a reboot is required to complete the setup.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wuerror.h",
+  "sourceUrl": "/win32/wuerror-h/",
+  "code": "0x8024D014",
+  "codeUrl": "/win32/wuerror-h/wu_e_setup_deferrable_reboot_pending/0x8024d014/",
+  "numericCode": -2145071084,
+  "define": "WU_E_SETUP_DEFERRABLE_REBOOT_PENDING",
+  "defineUrl": "/win32/wuerror-h/wu_e_setup_deferrable_reboot_pending/",
+  "message": "Windows Update Agent is successfully updated, but a reboot is required to complete the setup.",
+  "remarks": null,
+  "aka": [
+    "-2145071084"
+  ],
+  "akaUrl": [
+    "/win32/wuerror-h/wu_e_setup_deferrable_reboot_pending/-2145071084/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

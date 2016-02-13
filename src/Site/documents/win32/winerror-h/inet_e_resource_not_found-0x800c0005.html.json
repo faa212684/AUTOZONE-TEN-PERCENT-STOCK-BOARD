@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\inet_e_resource_not_found\0x800c0005\index.html.json
+
+title: 0x800C0005 INET_E_RESOURCE_NOT_FOUND in winerror.h
+description: The system cannot locate the resource specified.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800C0005",
+  "codeUrl": "/win32/winerror-h/inet_e_resource_not_found/0x800c0005/",
+  "numericCode": -2146697211,
+  "define": "INET_E_RESOURCE_NOT_FOUND",
+  "defineUrl": "/win32/winerror-h/inet_e_resource_not_found/",
+  "message": "The system cannot locate the resource specified.",
+  "remarks": null,
+  "aka": [
+    "-2146697211"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/inet_e_resource_not_found/-2146697211/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\dbg_command_exception\0x40010009\index.html.json
+
+title: 0x40010009 DBG_COMMAND_EXCEPTION in ntstatus.h
+description: Debugger command communication exception.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0x40010009",
+  "codeUrl": "/win32/ntstatus-h/dbg_command_exception/0x40010009/",
+  "numericCode": 1073807369,
+  "define": "DBG_COMMAND_EXCEPTION",
+  "defineUrl": "/win32/ntstatus-h/dbg_command_exception/",
+  "message": "Debugger command communication exception.",
+  "remarks": null,
+  "aka": [
+    "1073807369"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/dbg_command_exception/1073807369/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

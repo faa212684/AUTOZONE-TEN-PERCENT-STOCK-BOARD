@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\co_e_init_tls_set_channel_control\0x8000400b\index.html.json
+
+title: 0x8000400B CO_E_INIT_TLS_SET_CHANNEL_CONTROL in winerror.h
+description: Cannot set thread local storage channel control
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8000400B",
+  "codeUrl": "/win32/winerror-h/co_e_init_tls_set_channel_control/0x8000400b/",
+  "numericCode": -2147467253,
+  "define": "CO_E_INIT_TLS_SET_CHANNEL_CONTROL",
+  "defineUrl": "/win32/winerror-h/co_e_init_tls_set_channel_control/",
+  "message": "Cannot set thread local storage channel control",
+  "remarks": null,
+  "aka": [
+    "-2147467253"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/co_e_init_tls_set_channel_control/-2147467253/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

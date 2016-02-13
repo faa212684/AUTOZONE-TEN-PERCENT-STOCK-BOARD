@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_domain_trust_inconsistent\-2147023086\index.html.json
+canonical: /win32/winerror-h/error_domain_trust_inconsistent/1810/
+title: -2147023086 ERROR_DOMAIN_TRUST_INCONSISTENT in winerror.h
+description: The name or security ID (SID) of the domain specified is inconsistent with the trust information for that domain.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147023086",
+  "codeUrl": "/win32/winerror-h/error_domain_trust_inconsistent/-2147023086/",
+  "numericCode": 0,
+  "define": "ERROR_DOMAIN_TRUST_INCONSISTENT",
+  "defineUrl": "/win32/winerror-h/error_domain_trust_inconsistent/",
+  "message": "The name or security ID (SID) of the domain specified is inconsistent with the trust information for that domain.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "1810",
+  "originalCodeUrl": "/win32/winerror-h/error_domain_trust_inconsistent/1810/"
+}

@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\xact_e_alreadyothersinglephase\-2147168256\index.html.json
+canonical: /win32/winerror-h/xact_e_alreadyothersinglephase/0x8004d000/
+title: -2147168256 XACT_E_ALREADYOTHERSINGLEPHASE in winerror.h
+description: Another single phase resource manager has already been enlisted in this transaction.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147168256",
+  "codeUrl": "/win32/winerror-h/xact_e_alreadyothersinglephase/-2147168256/",
+  "numericCode": 0,
+  "define": "XACT_E_ALREADYOTHERSINGLEPHASE",
+  "defineUrl": "/win32/winerror-h/xact_e_alreadyothersinglephase/",
+  "message": "Another single phase resource manager has already been enlisted in this transaction.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x8004D000",
+  "originalCodeUrl": "/win32/winerror-h/xact_e_alreadyothersinglephase/0x8004d000/"
+}

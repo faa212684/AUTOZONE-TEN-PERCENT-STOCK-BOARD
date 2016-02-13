@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\frs_err_sysvol_demote\8016\index.html.json
+
+title: 8016 FRS_ERR_SYSVOL_DEMOTE in winerror.h
+description: The file replication service cannot stop replicating the system volume because of an internal error. The event log may have more information.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "8016",
+  "codeUrl": "/win32/winerror-h/frs_err_sysvol_demote/8016/",
+  "numericCode": 8016,
+  "define": "FRS_ERR_SYSVOL_DEMOTE",
+  "defineUrl": "/win32/winerror-h/frs_err_sysvol_demote/",
+  "message": "The file replication service cannot stop replicating the system volume because of an internal error. The event log may have more information.",
+  "remarks": null,
+  "aka": [
+    "0x80071f50",
+    "-2147016880"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/frs_err_sysvol_demote/0x80071f50/",
+    "/win32/winerror-h/frs_err_sysvol_demote/-2147016880/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

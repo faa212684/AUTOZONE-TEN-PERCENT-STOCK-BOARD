@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\co_e_launch_permssion_denied\0x8000401b\index.html.json
+
+title: 0x8000401B CO_E_LAUNCH_PERMSSION_DENIED in winerror.h
+description: The client is not allowed to launch this server.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8000401B",
+  "codeUrl": "/win32/winerror-h/co_e_launch_permssion_denied/0x8000401b/",
+  "numericCode": -2147467237,
+  "define": "CO_E_LAUNCH_PERMSSION_DENIED",
+  "defineUrl": "/win32/winerror-h/co_e_launch_permssion_denied/",
+  "message": "The client is not allowed to launch this server.",
+  "remarks": null,
+  "aka": [
+    "-2147467237"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/co_e_launch_permssion_denied/-2147467237/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

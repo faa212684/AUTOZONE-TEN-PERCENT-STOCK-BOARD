@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\tpm_e_transport_notexclusive\0x8028004e\index.html.json
+
+title: 0x8028004E TPM_E_TRANSPORT_NOTEXCLUSIVE in winerror.h
+description: There was a command executed outside of an exclusive transport session.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8028004E",
+  "codeUrl": "/win32/winerror-h/tpm_e_transport_notexclusive/0x8028004e/",
+  "numericCode": -2144862130,
+  "define": "TPM_E_TRANSPORT_NOTEXCLUSIVE",
+  "defineUrl": "/win32/winerror-h/tpm_e_transport_notexclusive/",
+  "message": "There was a command executed outside of an exclusive transport session.",
+  "remarks": null,
+  "aka": [
+    "-2144862130"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/tpm_e_transport_notexclusive/-2144862130/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,24 @@
+---
+output: msi\1732\index.html.json
+
+title: msi 1732
+description: In order to complete the installation of [2], you must restart the computer. Other users are currently logged on to this computer, and restarting may cause them to lose their work. Do you want to restart now?
+disqus: true
+---
+{
+  "area": "msi",
+  "areaUrl": "/msi/",
+  "source": null,
+  "sourceUrl": "/msi/",
+  "code": "1732",
+  "codeUrl": "/msi/1732/",
+  "numericCode": 1732,
+  "define": null,
+  "defineUrl": "/msi/",
+  "message": "In order to complete the installation of [2], you must restart the computer. Other users are currently logged on to this computer, and restarting may cause them to lose their work. Do you want to restart now?",
+  "remarks": "The scheduled system restart message when other users are logged on the computer. For more information, see <a href=\"https://msdn.microsoft.com/en-us/library/aa372059(v=vs.85).aspx\">System Reboots</a> and <a href=\"https://msdn.microsoft.com/en-us/library/aa371527(v=vs.85).aspx\">ScheduleReboot Action</a>. This message may be customized using the <a href=\"https://msdn.microsoft.com/en-us/library/aa368554(v=vs.85).aspx\">Error</a> table.\r\n\r\nAvailable beginning with Windows Installer for Windows Server 2003.",
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": null,
+  "originalCodeUrl": null
+}

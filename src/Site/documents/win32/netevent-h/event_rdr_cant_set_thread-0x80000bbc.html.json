@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_rdr_cant_set_thread\0x80000bbc\index.html.json
+
+title: 0x80000BBC EVENT_RDR_CANT_SET_THREAD in netevent.h
+description: The redirector could not set the priority for a system thread.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x80000BBC",
+  "codeUrl": "/win32/netevent-h/event_rdr_cant_set_thread/0x80000bbc/",
+  "numericCode": -2147480644,
+  "define": "EVENT_RDR_CANT_SET_THREAD",
+  "defineUrl": "/win32/netevent-h/event_rdr_cant_set_thread/",
+  "message": "The redirector could not set the priority for a system thread.",
+  "remarks": null,
+  "aka": [
+    "-2147480644"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_rdr_cant_set_thread/-2147480644/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

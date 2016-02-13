@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_e_config_limit\0x80042538\index.html.json
+
+title: 0x80042538 VDS_E_CONFIG_LIMIT in vdserr.h
+description: The Logical Disk Manangement database is full, no more volumes or disks may be configured.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x80042538",
+  "codeUrl": "/win32/vdserr-h/vds_e_config_limit/0x80042538/",
+  "numericCode": -2147211976,
+  "define": "VDS_E_CONFIG_LIMIT",
+  "defineUrl": "/win32/vdserr-h/vds_e_config_limit/",
+  "message": "The Logical Disk Manangement database is full, no more volumes or disks may be configured.",
+  "remarks": null,
+  "aka": [
+    "-2147211976"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_config_limit/-2147211976/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

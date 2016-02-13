@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_port_already_has_completion_list\0xc000071a\index.html.json
+
+title: 0xC000071A STATUS_PORT_ALREADY_HAS_COMPLETION_LIST in ntstatus.h
+description: The specified port already has a completion list.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000071A",
+  "codeUrl": "/win32/ntstatus-h/status_port_already_has_completion_list/0xc000071a/",
+  "numericCode": -1073740006,
+  "define": "STATUS_PORT_ALREADY_HAS_COMPLETION_LIST",
+  "defineUrl": "/win32/ntstatus-h/status_port_already_has_completion_list/",
+  "message": "The specified port already has a completion list.",
+  "remarks": null,
+  "aka": [
+    "-1073740006"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_port_already_has_completion_list/-1073740006/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

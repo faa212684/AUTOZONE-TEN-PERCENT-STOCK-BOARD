@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\rpc_e_call_canceled\-2147418110\index.html.json
+canonical: /win32/winerror-h/rpc_e_call_canceled/0x80010002/
+title: -2147418110 RPC_E_CALL_CANCELED in winerror.h
+description: Call was canceled by the message filter.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147418110",
+  "codeUrl": "/win32/winerror-h/rpc_e_call_canceled/-2147418110/",
+  "numericCode": 0,
+  "define": "RPC_E_CALL_CANCELED",
+  "defineUrl": "/win32/winerror-h/rpc_e_call_canceled/",
+  "message": "Call was canceled by the message filter.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80010002",
+  "originalCodeUrl": "/win32/winerror-h/rpc_e_call_canceled/0x80010002/"
+}

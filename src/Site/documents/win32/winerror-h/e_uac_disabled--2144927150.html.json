@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\e_uac_disabled\-2144927150\index.html.json
+canonical: /win32/winerror-h/e_uac_disabled/0x80270252/
+title: -2144927150 E_UAC_DISABLED in winerror.h
+description: This app can't be activated when UAC is disabled.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2144927150",
+  "codeUrl": "/win32/winerror-h/e_uac_disabled/-2144927150/",
+  "numericCode": 0,
+  "define": "E_UAC_DISABLED",
+  "defineUrl": "/win32/winerror-h/e_uac_disabled/",
+  "message": "This app can't be activated when UAC is disabled.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80270252",
+  "originalCodeUrl": "/win32/winerror-h/e_uac_disabled/0x80270252/"
+}

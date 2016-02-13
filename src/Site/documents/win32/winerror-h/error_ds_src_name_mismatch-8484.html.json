@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ds_src_name_mismatch\8484\index.html.json
+
+title: 8484 ERROR_DS_SRC_NAME_MISMATCH in winerror.h
+description: Source and destination of a cross-domain move do not agree on the object's current name. Either source or destination does not have the latest version of the object.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "8484",
+  "codeUrl": "/win32/winerror-h/error_ds_src_name_mismatch/8484/",
+  "numericCode": 8484,
+  "define": "ERROR_DS_SRC_NAME_MISMATCH",
+  "defineUrl": "/win32/winerror-h/error_ds_src_name_mismatch/",
+  "message": "Source and destination of a cross-domain move do not agree on the object's current name. Either source or destination does not have the latest version of the object.",
+  "remarks": null,
+  "aka": [
+    "0x80072124",
+    "-2147016412"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ds_src_name_mismatch/0x80072124/",
+    "/win32/winerror-h/error_ds_src_name_mismatch/-2147016412/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

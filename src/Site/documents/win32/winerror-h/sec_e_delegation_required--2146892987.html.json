@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\sec_e_delegation_required\-2146892987\index.html.json
+canonical: /win32/winerror-h/sec_e_delegation_required/0x80090345/
+title: -2146892987 SEC_E_DELEGATION_REQUIRED in winerror.h
+description: The requested operation cannot be completed. The computer must be trusted for delegation and the current user account must be configured to allow delegation.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2146892987",
+  "codeUrl": "/win32/winerror-h/sec_e_delegation_required/-2146892987/",
+  "numericCode": 0,
+  "define": "SEC_E_DELEGATION_REQUIRED",
+  "defineUrl": "/win32/winerror-h/sec_e_delegation_required/",
+  "message": "The requested operation cannot be completed. The computer must be trusted for delegation and the current user account must be configured to allow delegation.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80090345",
+  "originalCodeUrl": "/win32/winerror-h/sec_e_delegation_required/0x80090345/"
+}

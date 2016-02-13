@@ -1,0 +1,28 @@
+---
+output: win32\oledberr-h\db_e_integrityviolation\0x80040e2f\index.html.json
+
+title: 0x80040E2F DB_E_INTEGRITYVIOLATION in oledberr.h
+description: Value violated the integrity constraints for a column or table.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "oledberr.h",
+  "sourceUrl": "/win32/oledberr-h/",
+  "code": "0x80040E2F",
+  "codeUrl": "/win32/oledberr-h/db_e_integrityviolation/0x80040e2f/",
+  "numericCode": -2147217873,
+  "define": "DB_E_INTEGRITYVIOLATION",
+  "defineUrl": "/win32/oledberr-h/db_e_integrityviolation/",
+  "message": "Value violated the integrity constraints for a column or table.",
+  "remarks": null,
+  "aka": [
+    "-2147217873"
+  ],
+  "akaUrl": [
+    "/win32/oledberr-h/db_e_integrityviolation/-2147217873/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

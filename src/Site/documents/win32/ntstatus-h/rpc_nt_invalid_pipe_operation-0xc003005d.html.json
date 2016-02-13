@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\rpc_nt_invalid_pipe_operation\0xc003005d\index.html.json
+
+title: 0xC003005D RPC_NT_INVALID_PIPE_OPERATION in ntstatus.h
+description: An invalid operation was attempted on an RPC pipe object.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC003005D",
+  "codeUrl": "/win32/ntstatus-h/rpc_nt_invalid_pipe_operation/0xc003005d/",
+  "numericCode": -1073545123,
+  "define": "RPC_NT_INVALID_PIPE_OPERATION",
+  "defineUrl": "/win32/ntstatus-h/rpc_nt_invalid_pipe_operation/",
+  "message": "An invalid operation was attempted on an RPC pipe object.",
+  "remarks": null,
+  "aka": [
+    "-1073545123"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/rpc_nt_invalid_pipe_operation/-1073545123/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,24 @@
+---
+output: win32\fsrmerr-h\fsrm_e_adr_not_domain_joined\-2147200110\index.html.json
+canonical: /win32/fsrmerr-h/fsrm_e_adr_not_domain_joined/0x80045392/
+title: -2147200110 FSRM_E_ADR_NOT_DOMAIN_JOINED in fsrmerr.h
+description: Access-denied assistance requires that the server be joined to a domain.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "fsrmerr.h",
+  "sourceUrl": "/win32/fsrmerr-h/",
+  "code": "-2147200110",
+  "codeUrl": "/win32/fsrmerr-h/fsrm_e_adr_not_domain_joined/-2147200110/",
+  "numericCode": 0,
+  "define": "FSRM_E_ADR_NOT_DOMAIN_JOINED",
+  "defineUrl": "/win32/fsrmerr-h/fsrm_e_adr_not_domain_joined/",
+  "message": "Access-denied assistance requires that the server be joined to a domain.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80045392",
+  "originalCodeUrl": "/win32/fsrmerr-h/fsrm_e_adr_not_domain_joined/0x80045392/"
+}

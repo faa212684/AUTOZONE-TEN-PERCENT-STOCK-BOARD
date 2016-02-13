@@ -1,0 +1,28 @@
+---
+output: win32\cierror-h\ci_e_disk_full\0x80041811\index.html.json
+
+title: 0x80041811 CI_E_DISK_FULL in CiError.h
+description: The disk is full and the specified operation cannot be done.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "CiError.h",
+  "sourceUrl": "/win32/cierror-h/",
+  "code": "0x80041811",
+  "codeUrl": "/win32/cierror-h/ci_e_disk_full/0x80041811/",
+  "numericCode": -2147215343,
+  "define": "CI_E_DISK_FULL",
+  "defineUrl": "/win32/cierror-h/ci_e_disk_full/",
+  "message": "The disk is full and the specified operation cannot be done.",
+  "remarks": null,
+  "aka": [
+    "-2147215343"
+  ],
+  "akaUrl": [
+    "/win32/cierror-h/ci_e_disk_full/-2147215343/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

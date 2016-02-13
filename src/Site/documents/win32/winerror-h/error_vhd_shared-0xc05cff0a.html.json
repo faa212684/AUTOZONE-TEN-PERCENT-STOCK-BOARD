@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\error_vhd_shared\0xc05cff0a\index.html.json
+
+title: 0xC05CFF0A ERROR_VHD_SHARED in winerror.h
+description: The requested operation cannot be performed on the virtual disk as it is currently used in shared mode.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0xC05CFF0A",
+  "codeUrl": "/win32/winerror-h/error_vhd_shared/0xc05cff0a/",
+  "numericCode": -1067647222,
+  "define": "ERROR_VHD_SHARED",
+  "defineUrl": "/win32/winerror-h/error_vhd_shared/",
+  "message": "The requested operation cannot be performed on the virtual disk as it is currently used in shared mode.",
+  "remarks": null,
+  "aka": [
+    "-1067647222"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_vhd_shared/-1067647222/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

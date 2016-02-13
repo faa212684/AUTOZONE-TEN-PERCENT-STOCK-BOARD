@@ -1,0 +1,24 @@
+---
+output: win32\windowssearcherrors-h\gthr_e_bad_filter_daemon\-2147218119\index.html.json
+canonical: /win32/windowssearcherrors-h/gthr_e_bad_filter_daemon/0x80040d39/
+title: -2147218119 GTHR_E_BAD_FILTER_DAEMON in WindowsSearchErrors.h
+description: The filter process cannot be started. The system is most likely low on resources, or the filter process binary was modified. If the resources are available, check the search binaries with an antivirus program.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "-2147218119",
+  "codeUrl": "/win32/windowssearcherrors-h/gthr_e_bad_filter_daemon/-2147218119/",
+  "numericCode": 0,
+  "define": "GTHR_E_BAD_FILTER_DAEMON",
+  "defineUrl": "/win32/windowssearcherrors-h/gthr_e_bad_filter_daemon/",
+  "message": "The filter process cannot be started. The system is most likely low on resources, or the filter process binary was modified. If the resources are available, check the search binaries with an antivirus program.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80040D39",
+  "originalCodeUrl": "/win32/windowssearcherrors-h/gthr_e_bad_filter_daemon/0x80040d39/"
+}

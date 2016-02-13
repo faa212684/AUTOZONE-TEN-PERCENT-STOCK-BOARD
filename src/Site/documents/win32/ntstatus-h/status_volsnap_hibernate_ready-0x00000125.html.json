@@ -1,0 +1,29 @@
+---
+output: win32\ntstatus-h\status_volsnap_hibernate_ready\0x00000125\index.html.json
+
+title: 0x00000125 STATUS_VOLSNAP_HIBERNATE_READY in ntstatus.h
+description: "{Volume Shadow Copy Service}
+The system is now ready for hibernation."
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0x00000125",
+  "codeUrl": "/win32/ntstatus-h/status_volsnap_hibernate_ready/0x00000125/",
+  "numericCode": 293,
+  "define": "STATUS_VOLSNAP_HIBERNATE_READY",
+  "defineUrl": "/win32/ntstatus-h/status_volsnap_hibernate_ready/",
+  "message": "{Volume Shadow Copy Service}\r\nThe system is now ready for hibernation.",
+  "remarks": null,
+  "aka": [
+    "293"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_volsnap_hibernate_ready/293/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

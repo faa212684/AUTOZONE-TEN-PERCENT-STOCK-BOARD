@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ipsec_qm_policy_exists\13000\index.html.json
+
+title: 13000 ERROR_IPSEC_QM_POLICY_EXISTS in winerror.h
+description: The specified quick mode policy already exists.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "13000",
+  "codeUrl": "/win32/winerror-h/error_ipsec_qm_policy_exists/13000/",
+  "numericCode": 13000,
+  "define": "ERROR_IPSEC_QM_POLICY_EXISTS",
+  "defineUrl": "/win32/winerror-h/error_ipsec_qm_policy_exists/",
+  "message": "The specified quick mode policy already exists.",
+  "remarks": null,
+  "aka": [
+    "0x800732c8",
+    "-2147011896"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ipsec_qm_policy_exists/0x800732c8/",
+    "/win32/winerror-h/error_ipsec_qm_policy_exists/-2147011896/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

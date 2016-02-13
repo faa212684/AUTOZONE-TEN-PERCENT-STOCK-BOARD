@@ -1,0 +1,28 @@
+---
+output: bugcheck\bugcodes-h\page_fault_in_freed_special_pool\0x000000cc\index.html.json
+
+title: 0x000000CC PAGE_FAULT_IN_FREED_SPECIAL_POOL in bugcodes.h
+description: PAGE_FAULT_IN_FREED_SPECIAL_POOL
+disqus: true
+---
+{
+  "area": "bugcheck",
+  "areaUrl": "/bugcheck/",
+  "source": "bugcodes.h",
+  "sourceUrl": "/bugcheck/bugcodes-h/",
+  "code": "0x000000CC",
+  "codeUrl": "/bugcheck/bugcodes-h/page_fault_in_freed_special_pool/0x000000cc/",
+  "numericCode": 204,
+  "define": "PAGE_FAULT_IN_FREED_SPECIAL_POOL",
+  "defineUrl": "/bugcheck/bugcodes-h/page_fault_in_freed_special_pool/",
+  "message": "PAGE_FAULT_IN_FREED_SPECIAL_POOL",
+  "remarks": null,
+  "aka": [
+    "204"
+  ],
+  "akaUrl": [
+    "/bugcheck/bugcodes-h/page_fault_in_freed_special_pool/204/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

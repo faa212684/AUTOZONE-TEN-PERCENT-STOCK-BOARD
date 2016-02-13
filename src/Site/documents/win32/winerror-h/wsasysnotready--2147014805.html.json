@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\wsasysnotready\-2147014805\index.html.json
+canonical: /win32/winerror-h/wsasysnotready/10091/
+title: -2147014805 WSASYSNOTREADY in winerror.h
+description: WSAStartup cannot function at this time because the underlying system it uses to provide network services is currently unavailable.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147014805",
+  "codeUrl": "/win32/winerror-h/wsasysnotready/-2147014805/",
+  "numericCode": 0,
+  "define": "WSASYSNOTREADY",
+  "defineUrl": "/win32/winerror-h/wsasysnotready/",
+  "message": "WSAStartup cannot function at this time because the underlying system it uses to provide network services is currently unavailable.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "10091",
+  "originalCodeUrl": "/win32/winerror-h/wsasysnotready/10091/"
+}

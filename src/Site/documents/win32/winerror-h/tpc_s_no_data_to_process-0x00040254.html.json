@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\tpc_s_no_data_to_process\0x00040254\index.html.json
+
+title: 0x00040254 TPC_S_NO_DATA_TO_PROCESS in winerror.h
+description: TabletPC inking error code. No personalization update to the recognizer because no training data found
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x00040254",
+  "codeUrl": "/win32/winerror-h/tpc_s_no_data_to_process/0x00040254/",
+  "numericCode": 262740,
+  "define": "TPC_S_NO_DATA_TO_PROCESS",
+  "defineUrl": "/win32/winerror-h/tpc_s_no_data_to_process/",
+  "message": "TabletPC inking error code. No personalization update to the recognizer because no training data found",
+  "remarks": null,
+  "aka": [
+    "262740"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/tpc_s_no_data_to_process/262740/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

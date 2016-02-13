@@ -1,0 +1,28 @@
+---
+output: win32\mferror-h\mf_s_clock_stopped\0x000d9c44\index.html.json
+
+title: 0x000D9C44 MF_S_CLOCK_STOPPED in Mferror.h
+description: Timer::SetTimer returns this success code if called happened while timer is stopped. Timer is not going to be dispatched until clock is running.%0
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "Mferror.h",
+  "sourceUrl": "/win32/mferror-h/",
+  "code": "0x000D9C44",
+  "codeUrl": "/win32/mferror-h/mf_s_clock_stopped/0x000d9c44/",
+  "numericCode": 891972,
+  "define": "MF_S_CLOCK_STOPPED",
+  "defineUrl": "/win32/mferror-h/mf_s_clock_stopped/",
+  "message": "Timer::SetTimer returns this success code if called happened while timer is stopped. Timer is not going to be dispatched until clock is running.%0",
+  "remarks": null,
+  "aka": [
+    "891972"
+  ],
+  "akaUrl": [
+    "/win32/mferror-h/mf_s_clock_stopped/891972/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

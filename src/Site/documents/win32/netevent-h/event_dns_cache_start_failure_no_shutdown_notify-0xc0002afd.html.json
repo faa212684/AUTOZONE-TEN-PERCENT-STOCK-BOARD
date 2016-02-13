@@ -1,0 +1,30 @@
+---
+output: win32\netevent-h\event_dns_cache_start_failure_no_shutdown_notify\0xc0002afd\index.html.json
+
+title: 0xC0002AFD EVENT_DNS_CACHE_START_FAILURE_NO_SHUTDOWN_NOTIFY in netevent.h
+description: Unable to start DNS Client service. The system could not register
+shutdown notification for this service and could be out of resources.
+Try closing any applications not in use or reboot the computer.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC0002AFD",
+  "codeUrl": "/win32/netevent-h/event_dns_cache_start_failure_no_shutdown_notify/0xc0002afd/",
+  "numericCode": -1073730819,
+  "define": "EVENT_DNS_CACHE_START_FAILURE_NO_SHUTDOWN_NOTIFY",
+  "defineUrl": "/win32/netevent-h/event_dns_cache_start_failure_no_shutdown_notify/",
+  "message": "Unable to start DNS Client service. The system could not register\r\nshutdown notification for this service and could be out of resources.\r\nTry closing any applications not in use or reboot the computer.",
+  "remarks": null,
+  "aka": [
+    "-1073730819"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_dns_cache_start_failure_no_shutdown_notify/-1073730819/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

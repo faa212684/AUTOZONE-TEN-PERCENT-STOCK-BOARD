@@ -1,0 +1,24 @@
+---
+output: msi\1940\index.html.json
+
+title: msi 1940
+description: Service '[2]' ([3]) could not be configured.  Configuring services is supported only on Windows Vista/Server 2008 and above.
+disqus: true
+---
+{
+  "area": "msi",
+  "areaUrl": "/msi/",
+  "source": null,
+  "sourceUrl": "/msi/",
+  "code": "1940",
+  "codeUrl": "/msi/1940/",
+  "numericCode": 1940,
+  "define": null,
+  "defineUrl": "/msi/",
+  "message": "Service '[2]' ([3]) could not be configured.  Configuring services is supported only on Windows Vista/Server 2008 and above.",
+  "remarks": "For information, see<a href=\"https://msdn.microsoft.com/en-us/library/dd408113(v=vs.85).aspx\">Using Services Configuration</a>.\r\n\r\nAvailable beginning with Windows Installer 5.0 for Windows 7 and Windows Server 2008 R2.",
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": null,
+  "originalCodeUrl": null
+}

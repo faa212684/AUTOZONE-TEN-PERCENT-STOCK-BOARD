@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_hv_not_present\0xc0351000\index.html.json
+
+title: 0xC0351000 STATUS_HV_NOT_PRESENT in ntstatus.h
+description: No hypervisor is present on this system.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0351000",
+  "codeUrl": "/win32/ntstatus-h/status_hv_not_present/0xc0351000/",
+  "numericCode": -1070264320,
+  "define": "STATUS_HV_NOT_PRESENT",
+  "defineUrl": "/win32/ntstatus-h/status_hv_not_present/",
+  "message": "No hypervisor is present on this system.",
+  "remarks": null,
+  "aka": [
+    "-1070264320"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_hv_not_present/-1070264320/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

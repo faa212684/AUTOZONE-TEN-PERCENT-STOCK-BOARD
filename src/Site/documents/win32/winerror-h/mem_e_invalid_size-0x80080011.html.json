@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\mem_e_invalid_size\0x80080011\index.html.json
+
+title: 0x80080011 MEM_E_INVALID_SIZE in winerror.h
+description: The requested allocation size was too large
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80080011",
+  "codeUrl": "/win32/winerror-h/mem_e_invalid_size/0x80080011/",
+  "numericCode": -2146959343,
+  "define": "MEM_E_INVALID_SIZE",
+  "defineUrl": "/win32/winerror-h/mem_e_invalid_size/",
+  "message": "The requested allocation size was too large",
+  "remarks": null,
+  "aka": [
+    "-2146959343"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/mem_e_invalid_size/-2146959343/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

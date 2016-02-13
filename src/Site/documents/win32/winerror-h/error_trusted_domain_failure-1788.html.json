@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_trusted_domain_failure\1788\index.html.json
+
+title: 1788 ERROR_TRUSTED_DOMAIN_FAILURE in winerror.h
+description: The trust relationship between the primary domain and the trusted domain failed.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1788",
+  "codeUrl": "/win32/winerror-h/error_trusted_domain_failure/1788/",
+  "numericCode": 1788,
+  "define": "ERROR_TRUSTED_DOMAIN_FAILURE",
+  "defineUrl": "/win32/winerror-h/error_trusted_domain_failure/",
+  "message": "The trust relationship between the primary domain and the trusted domain failed.",
+  "remarks": null,
+  "aka": [
+    "0x800706fc",
+    "-2147023108"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_trusted_domain_failure/0x800706fc/",
+    "/win32/winerror-h/error_trusted_domain_failure/-2147023108/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

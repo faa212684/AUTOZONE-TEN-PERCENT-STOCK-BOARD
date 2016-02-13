@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\sec_e_algorithm_mismatch\0x80090331\index.html.json
+
+title: 0x80090331 SEC_E_ALGORITHM_MISMATCH in winerror.h
+description: The client and server cannot communicate, because they do not possess a common algorithm.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80090331",
+  "codeUrl": "/win32/winerror-h/sec_e_algorithm_mismatch/0x80090331/",
+  "numericCode": -2146893007,
+  "define": "SEC_E_ALGORITHM_MISMATCH",
+  "defineUrl": "/win32/winerror-h/sec_e_algorithm_mismatch/",
+  "message": "The client and server cannot communicate, because they do not possess a common algorithm.",
+  "remarks": null,
+  "aka": [
+    "-2146893007"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/sec_e_algorithm_mismatch/-2146893007/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

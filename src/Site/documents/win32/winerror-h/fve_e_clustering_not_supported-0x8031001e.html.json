@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\fve_e_clustering_not_supported\0x8031001e\index.html.json
+
+title: 0x8031001E FVE_E_CLUSTERING_NOT_SUPPORTED in winerror.h
+description: Cluster configurations are not supported by BitLocker Drive Encryption.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8031001E",
+  "codeUrl": "/win32/winerror-h/fve_e_clustering_not_supported/0x8031001e/",
+  "numericCode": -2144272354,
+  "define": "FVE_E_CLUSTERING_NOT_SUPPORTED",
+  "defineUrl": "/win32/winerror-h/fve_e_clustering_not_supported/",
+  "message": "Cluster configurations are not supported by BitLocker Drive Encryption.",
+  "remarks": null,
+  "aka": [
+    "-2144272354"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/fve_e_clustering_not_supported/-2144272354/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

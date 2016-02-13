@@ -1,0 +1,28 @@
+---
+output: win32\wuerror-h\wu_e_idleshutdown_opcount_other\0x80240053\index.html.json
+
+title: 0x80240053 WU_E_IDLESHUTDOWN_OPCOUNT_OTHER in wuerror.h
+description: An unspecified call contributed to a non-zero operation count at idle timer shutdown.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wuerror.h",
+  "sourceUrl": "/win32/wuerror-h/",
+  "code": "0x80240053",
+  "codeUrl": "/win32/wuerror-h/wu_e_idleshutdown_opcount_other/0x80240053/",
+  "numericCode": -2145124269,
+  "define": "WU_E_IDLESHUTDOWN_OPCOUNT_OTHER",
+  "defineUrl": "/win32/wuerror-h/wu_e_idleshutdown_opcount_other/",
+  "message": "An unspecified call contributed to a non-zero operation count at idle timer shutdown.",
+  "remarks": null,
+  "aka": [
+    "-2145124269"
+  ],
+  "akaUrl": [
+    "/win32/wuerror-h/wu_e_idleshutdown_opcount_other/-2145124269/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

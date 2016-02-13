@@ -1,0 +1,28 @@
+---
+output: win32\windowssearcherrors-h\event_gather_flush_failed\0xc0000c0f\index.html.json
+
+title: 0xC0000C0F EVENT_GATHER_FLUSH_FAILED in WindowsSearchErrors.h
+description: The gatherer files cannot be flushed, and this action cannot be completed. The gatherer will attempt to flush files again. If the problem persists, restart the service, free system resources or verify that your hardware is working properly. %1
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "0xC0000C0F",
+  "codeUrl": "/win32/windowssearcherrors-h/event_gather_flush_failed/0xc0000c0f/",
+  "numericCode": -1073738737,
+  "define": "EVENT_GATHER_FLUSH_FAILED",
+  "defineUrl": "/win32/windowssearcherrors-h/event_gather_flush_failed/",
+  "message": "The gatherer files cannot be flushed, and this action cannot be completed. The gatherer will attempt to flush files again. If the problem persists, restart the service, free system resources or verify that your hardware is working properly. %1",
+  "remarks": null,
+  "aka": [
+    "-1073738737"
+  ],
+  "akaUrl": [
+    "/win32/windowssearcherrors-h/event_gather_flush_failed/-1073738737/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

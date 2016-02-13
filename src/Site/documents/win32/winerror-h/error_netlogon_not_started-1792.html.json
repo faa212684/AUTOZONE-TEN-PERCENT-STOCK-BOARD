@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_netlogon_not_started\1792\index.html.json
+
+title: 1792 ERROR_NETLOGON_NOT_STARTED in winerror.h
+description: An attempt was made to logon, but the network logon service was not started.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1792",
+  "codeUrl": "/win32/winerror-h/error_netlogon_not_started/1792/",
+  "numericCode": 1792,
+  "define": "ERROR_NETLOGON_NOT_STARTED",
+  "defineUrl": "/win32/winerror-h/error_netlogon_not_started/",
+  "message": "An attempt was made to logon, but the network logon service was not started.",
+  "remarks": null,
+  "aka": [
+    "0x80070700",
+    "-2147023104"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_netlogon_not_started/0x80070700/",
+    "/win32/winerror-h/error_netlogon_not_started/-2147023104/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

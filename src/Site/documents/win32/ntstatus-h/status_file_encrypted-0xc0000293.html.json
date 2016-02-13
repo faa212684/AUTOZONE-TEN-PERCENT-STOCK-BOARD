@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_file_encrypted\0xc0000293\index.html.json
+
+title: 0xC0000293 STATUS_FILE_ENCRYPTED in ntstatus.h
+description: The specified file is encrypted and the user does not have the ability to decrypt it.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000293",
+  "codeUrl": "/win32/ntstatus-h/status_file_encrypted/0xc0000293/",
+  "numericCode": -1073741165,
+  "define": "STATUS_FILE_ENCRYPTED",
+  "defineUrl": "/win32/ntstatus-h/status_file_encrypted/",
+  "message": "The specified file is encrypted and the user does not have the ability to decrypt it.",
+  "remarks": null,
+  "aka": [
+    "-1073741165"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_file_encrypted/-1073741165/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_bad_net_name\67\index.html.json
+
+title: 67 ERROR_BAD_NET_NAME in winerror.h
+description: The network name cannot be found.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "67",
+  "codeUrl": "/win32/winerror-h/error_bad_net_name/67/",
+  "numericCode": 67,
+  "define": "ERROR_BAD_NET_NAME",
+  "defineUrl": "/win32/winerror-h/error_bad_net_name/",
+  "message": "The network name cannot be found.",
+  "remarks": null,
+  "aka": [
+    "0x80070043",
+    "-2147024829"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_bad_net_name/0x80070043/",
+    "/win32/winerror-h/error_bad_net_name/-2147024829/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\windowssearcherrors-h\ci_e_logon_failure\0x8004181c\index.html.json
+
+title: 0x8004181C CI_E_LOGON_FAILURE in WindowsSearchErrors.h
+description: A logon permission violation caused a failure.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "0x8004181C",
+  "codeUrl": "/win32/windowssearcherrors-h/ci_e_logon_failure/0x8004181c/",
+  "numericCode": -2147215332,
+  "define": "CI_E_LOGON_FAILURE",
+  "defineUrl": "/win32/windowssearcherrors-h/ci_e_logon_failure/",
+  "message": "A logon permission violation caused a failure.",
+  "remarks": null,
+  "aka": [
+    "-2147215332"
+  ],
+  "akaUrl": [
+    "/win32/windowssearcherrors-h/ci_e_logon_failure/-2147215332/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

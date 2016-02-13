@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_runlevel_switch_agent_timeout\0x80073c2b\index.html.json
+canonical: /win32/winerror-h/error_runlevel_switch_agent_timeout/15403/
+title: 0x80073c2b ERROR_RUNLEVEL_SWITCH_AGENT_TIMEOUT in winerror.h
+description: A run level switch agent did not respond within the specified timeout.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80073c2b",
+  "codeUrl": "/win32/winerror-h/error_runlevel_switch_agent_timeout/0x80073c2b/",
+  "numericCode": 0,
+  "define": "ERROR_RUNLEVEL_SWITCH_AGENT_TIMEOUT",
+  "defineUrl": "/win32/winerror-h/error_runlevel_switch_agent_timeout/",
+  "message": "A run level switch agent did not respond within the specified timeout.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "15403",
+  "originalCodeUrl": "/win32/winerror-h/error_runlevel_switch_agent_timeout/15403/"
+}

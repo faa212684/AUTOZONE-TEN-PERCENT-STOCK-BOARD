@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_service_already_running\1056\index.html.json
+
+title: 1056 ERROR_SERVICE_ALREADY_RUNNING in winerror.h
+description: An instance of the service is already running.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1056",
+  "codeUrl": "/win32/winerror-h/error_service_already_running/1056/",
+  "numericCode": 1056,
+  "define": "ERROR_SERVICE_ALREADY_RUNNING",
+  "defineUrl": "/win32/winerror-h/error_service_already_running/",
+  "message": "An instance of the service is already running.",
+  "remarks": null,
+  "aka": [
+    "0x80070420",
+    "-2147023840"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_service_already_running/0x80070420/",
+    "/win32/winerror-h/error_service_already_running/-2147023840/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

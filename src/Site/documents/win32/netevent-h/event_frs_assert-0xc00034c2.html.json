@@ -1,0 +1,38 @@
+---
+output: win32\netevent-h\event_frs_assert\0xc00034c2\index.html.json
+
+title: 0xC00034C2 EVENT_FRS_ASSERT in netevent.h
+description: The File Replication Service failed a consistency check
+%n  (%3)
+%nin "%1" at line %2.
+%n
+%nThe File Replication Service will restart automatically at a later time.
+If this problem persists a subsequent entry in this event log describes the
+recovery procedure.
+%n
+For more information about the automatic restart right click on
+My Computer and then click on Manage, System Tools, Services,
+File Replication Service, and Recovery.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC00034C2",
+  "codeUrl": "/win32/netevent-h/event_frs_assert/0xc00034c2/",
+  "numericCode": -1073728318,
+  "define": "EVENT_FRS_ASSERT",
+  "defineUrl": "/win32/netevent-h/event_frs_assert/",
+  "message": "The File Replication Service failed a consistency check\r\n%n  (%3)\r\n%nin \"%1\" at line %2.\r\n%n\r\n%nThe File Replication Service will restart automatically at a later time.\r\nIf this problem persists a subsequent entry in this event log describes the\r\nrecovery procedure.\r\n%n\r\nFor more information about the automatic restart right click on\r\nMy Computer and then click on Manage, System Tools, Services,\r\nFile Replication Service, and Recovery.",
+  "remarks": null,
+  "aka": [
+    "-1073728318"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_frs_assert/-1073728318/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

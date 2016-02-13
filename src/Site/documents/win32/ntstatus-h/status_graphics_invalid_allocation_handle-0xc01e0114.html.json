@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_graphics_invalid_allocation_handle\0xc01e0114\index.html.json
+
+title: 0xC01E0114 STATUS_GRAPHICS_INVALID_ALLOCATION_HANDLE in ntstatus.h
+description: An invalid allocation handle is being referenced.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC01E0114",
+  "codeUrl": "/win32/ntstatus-h/status_graphics_invalid_allocation_handle/0xc01e0114/",
+  "numericCode": -1071775468,
+  "define": "STATUS_GRAPHICS_INVALID_ALLOCATION_HANDLE",
+  "defineUrl": "/win32/ntstatus-h/status_graphics_invalid_allocation_handle/",
+  "message": "An invalid allocation handle is being referenced.",
+  "remarks": null,
+  "aka": [
+    "-1071775468"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_graphics_invalid_allocation_handle/-1071775468/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

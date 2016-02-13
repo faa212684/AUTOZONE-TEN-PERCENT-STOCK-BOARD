@@ -1,0 +1,29 @@
+---
+output: win32\fsrmerr-h\fsrm_e_email_not_sent\0x8004531c\index.html.json
+
+title: 0x8004531C FSRM_E_EMAIL_NOT_SENT in fsrmerr.h
+description: The File Server Resource Manager service could not send email due to an error.
+Check the application event log for more information.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "fsrmerr.h",
+  "sourceUrl": "/win32/fsrmerr-h/",
+  "code": "0x8004531C",
+  "codeUrl": "/win32/fsrmerr-h/fsrm_e_email_not_sent/0x8004531c/",
+  "numericCode": -2147200228,
+  "define": "FSRM_E_EMAIL_NOT_SENT",
+  "defineUrl": "/win32/fsrmerr-h/fsrm_e_email_not_sent/",
+  "message": "The File Server Resource Manager service could not send email due to an error.\r\nCheck the application event log for more information.",
+  "remarks": null,
+  "aka": [
+    "-2147200228"
+  ],
+  "akaUrl": [
+    "/win32/fsrmerr-h/fsrm_e_email_not_sent/-2147200228/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

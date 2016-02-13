@@ -1,0 +1,29 @@
+---
+output: win32\mq-h\mq_error_invalid_owner\0xc00e0044\index.html.json
+
+title: 0xC00E0044 MQ_ERROR_INVALID_OWNER in Mq.h
+description: The object owner is invalid (for example, MQCreateQueue failed because the QM
+object is invalid).
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "Mq.h",
+  "sourceUrl": "/win32/mq-h/",
+  "code": "0xC00E0044",
+  "codeUrl": "/win32/mq-h/mq_error_invalid_owner/0xc00e0044/",
+  "numericCode": -1072824252,
+  "define": "MQ_ERROR_INVALID_OWNER",
+  "defineUrl": "/win32/mq-h/mq_error_invalid_owner/",
+  "message": "The object owner is invalid (for example, MQCreateQueue failed because the QM\r\nobject is invalid).",
+  "remarks": null,
+  "aka": [
+    "-1072824252"
+  ],
+  "akaUrl": [
+    "/win32/mq-h/mq_error_invalid_owner/-1072824252/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

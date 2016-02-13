@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_hoplimit_exceeded\0xc000a012\index.html.json
+
+title: 0xC000A012 STATUS_HOPLIMIT_EXCEEDED in ntstatus.h
+description: An ICMP hop limit exceeded error was received.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000A012",
+  "codeUrl": "/win32/ntstatus-h/status_hoplimit_exceeded/0xc000a012/",
+  "numericCode": -1073700846,
+  "define": "STATUS_HOPLIMIT_EXCEEDED",
+  "defineUrl": "/win32/ntstatus-h/status_hoplimit_exceeded/",
+  "message": "An ICMP hop limit exceeded error was received.",
+  "remarks": null,
+  "aka": [
+    "-1073700846"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_hoplimit_exceeded/-1073700846/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

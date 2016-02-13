@@ -1,0 +1,28 @@
+---
+output: win32\rtcerr-h\rtc_e_sip_invite_transaction_pending\0x80ee000e\index.html.json
+
+title: 0x80EE000E RTC_E_SIP_INVITE_TRANSACTION_PENDING in rtcerr.h
+description: Currently processing another INVITE transaction
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "rtcerr.h",
+  "sourceUrl": "/win32/rtcerr-h/",
+  "code": "0x80EE000E",
+  "codeUrl": "/win32/rtcerr-h/rtc_e_sip_invite_transaction_pending/0x80ee000e/",
+  "numericCode": -2131886066,
+  "define": "RTC_E_SIP_INVITE_TRANSACTION_PENDING",
+  "defineUrl": "/win32/rtcerr-h/rtc_e_sip_invite_transaction_pending/",
+  "message": "Currently processing another INVITE transaction",
+  "remarks": null,
+  "aka": [
+    "-2131886066"
+  ],
+  "akaUrl": [
+    "/win32/rtcerr-h/rtc_e_sip_invite_transaction_pending/-2131886066/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

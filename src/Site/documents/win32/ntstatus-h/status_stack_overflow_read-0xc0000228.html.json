@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_stack_overflow_read\0xc0000228\index.html.json
+
+title: 0xC0000228 STATUS_STACK_OVERFLOW_READ in ntstatus.h
+description: The request must be handled by the stack overflow code.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000228",
+  "codeUrl": "/win32/ntstatus-h/status_stack_overflow_read/0xc0000228/",
+  "numericCode": -1073741272,
+  "define": "STATUS_STACK_OVERFLOW_READ",
+  "defineUrl": "/win32/ntstatus-h/status_stack_overflow_read/",
+  "message": "The request must be handled by the stack overflow code.",
+  "remarks": null,
+  "aka": [
+    "-1073741272"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_stack_overflow_read/-1073741272/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

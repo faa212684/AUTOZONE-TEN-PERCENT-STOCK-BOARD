@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_service_control_success\0x40001b7b\index.html.json
+
+title: 0x40001B7B EVENT_SERVICE_CONTROL_SUCCESS in netevent.h
+description: The %1 service was successfully sent a %2 control.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x40001B7B",
+  "codeUrl": "/win32/netevent-h/event_service_control_success/0x40001b7b/",
+  "numericCode": 1073748859,
+  "define": "EVENT_SERVICE_CONTROL_SUCCESS",
+  "defineUrl": "/win32/netevent-h/event_service_control_success/",
+  "message": "The %1 service was successfully sent a %2 control.",
+  "remarks": null,
+  "aka": [
+    "1073748859"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_service_control_success/1073748859/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

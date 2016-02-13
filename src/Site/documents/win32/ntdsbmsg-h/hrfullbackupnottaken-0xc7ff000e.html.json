@@ -1,0 +1,28 @@
+---
+output: win32\ntdsbmsg-h\hrfullbackupnottaken\0xc7ff000e\index.html.json
+
+title: 0xC7FF000E hrFullBackupNotTaken in NtDsBMsg.h
+description: You must perform a full backup before you can perform an incremental backup.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "NtDsBMsg.h",
+  "sourceUrl": "/win32/ntdsbmsg-h/",
+  "code": "0xC7FF000E",
+  "codeUrl": "/win32/ntdsbmsg-h/hrfullbackupnottaken/0xc7ff000e/",
+  "numericCode": -939589618,
+  "define": "hrFullBackupNotTaken",
+  "defineUrl": "/win32/ntdsbmsg-h/hrfullbackupnottaken/",
+  "message": "You must perform a full backup before you can perform an incremental backup.",
+  "remarks": null,
+  "aka": [
+    "-939589618"
+  ],
+  "akaUrl": [
+    "/win32/ntdsbmsg-h/hrfullbackupnottaken/-939589618/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

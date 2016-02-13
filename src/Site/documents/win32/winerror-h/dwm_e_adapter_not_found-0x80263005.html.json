@@ -1,0 +1,29 @@
+---
+output: win32\winerror-h\dwm_e_adapter_not_found\0x80263005\index.html.json
+
+title: 0x80263005 DWM_E_ADAPTER_NOT_FOUND in winerror.h
+description: "{The adapter specified by the LUID is not found}
+DWM can not find the adapter specified by the LUID."
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80263005",
+  "codeUrl": "/win32/winerror-h/dwm_e_adapter_not_found/0x80263005/",
+  "numericCode": -2144980987,
+  "define": "DWM_E_ADAPTER_NOT_FOUND",
+  "defineUrl": "/win32/winerror-h/dwm_e_adapter_not_found/",
+  "message": "{The adapter specified by the LUID is not found}\r\nDWM can not find the adapter specified by the LUID.",
+  "remarks": null,
+  "aka": [
+    "-2144980987"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/dwm_e_adapter_not_found/-2144980987/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

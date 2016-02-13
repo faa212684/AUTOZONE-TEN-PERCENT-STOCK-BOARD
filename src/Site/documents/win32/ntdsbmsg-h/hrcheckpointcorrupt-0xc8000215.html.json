@@ -1,0 +1,28 @@
+---
+output: win32\ntdsbmsg-h\hrcheckpointcorrupt\0xc8000215\index.html.json
+
+title: 0xC8000215 hrCheckpointCorrupt in NtDsBMsg.h
+description: A checkpoint file either could not be found or is damaged.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "NtDsBMsg.h",
+  "sourceUrl": "/win32/ntdsbmsg-h/",
+  "code": "0xC8000215",
+  "codeUrl": "/win32/ntdsbmsg-h/hrcheckpointcorrupt/0xc8000215/",
+  "numericCode": -939523563,
+  "define": "hrCheckpointCorrupt",
+  "defineUrl": "/win32/ntdsbmsg-h/hrcheckpointcorrupt/",
+  "message": "A checkpoint file either could not be found or is damaged.",
+  "remarks": null,
+  "aka": [
+    "-939523563"
+  ],
+  "akaUrl": [
+    "/win32/ntdsbmsg-h/hrcheckpointcorrupt/-939523563/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

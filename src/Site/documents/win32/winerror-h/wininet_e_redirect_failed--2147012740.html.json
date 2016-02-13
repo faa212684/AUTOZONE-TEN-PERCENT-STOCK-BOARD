@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\wininet_e_redirect_failed\-2147012740\index.html.json
+canonical: /win32/winerror-h/wininet_e_redirect_failed/0x80072f7c/
+title: -2147012740 WININET_E_REDIRECT_FAILED in winerror.h
+description: The HTTP redirect request failed
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147012740",
+  "codeUrl": "/win32/winerror-h/wininet_e_redirect_failed/-2147012740/",
+  "numericCode": 0,
+  "define": "WININET_E_REDIRECT_FAILED",
+  "defineUrl": "/win32/winerror-h/wininet_e_redirect_failed/",
+  "message": "The HTTP redirect request failed",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80072F7C",
+  "originalCodeUrl": "/win32/winerror-h/wininet_e_redirect_failed/0x80072f7c/"
+}

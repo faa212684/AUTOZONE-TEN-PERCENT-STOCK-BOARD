@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_vid_no_memory_block_notification_queue\0xc0370016\index.html.json
+
+title: 0xC0370016 STATUS_VID_NO_MEMORY_BLOCK_NOTIFICATION_QUEUE in ntstatus.h
+description: Cannot install client notifications because no message queue for the virtualization infrastructure driver is associated with the memory block.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0370016",
+  "codeUrl": "/win32/ntstatus-h/status_vid_no_memory_block_notification_queue/0xc0370016/",
+  "numericCode": -1070137322,
+  "define": "STATUS_VID_NO_MEMORY_BLOCK_NOTIFICATION_QUEUE",
+  "defineUrl": "/win32/ntstatus-h/status_vid_no_memory_block_notification_queue/",
+  "message": "Cannot install client notifications because no message queue for the virtualization infrastructure driver is associated with the memory block.",
+  "remarks": null,
+  "aka": [
+    "-1070137322"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_vid_no_memory_block_notification_queue/-1070137322/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

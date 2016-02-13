@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\nte_bad_key_state\0x8009000b\index.html.json
+
+title: 0x8009000B NTE_BAD_KEY_STATE in winerror.h
+description: Key not valid for use in specified state.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8009000B",
+  "codeUrl": "/win32/winerror-h/nte_bad_key_state/0x8009000b/",
+  "numericCode": -2146893813,
+  "define": "NTE_BAD_KEY_STATE",
+  "defineUrl": "/win32/winerror-h/nte_bad_key_state/",
+  "message": "Key not valid for use in specified state.",
+  "remarks": null,
+  "aka": [
+    "-2146893813"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/nte_bad_key_state/-2146893813/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\nserror-h\ns_s_wmp_ui_versionmismatch\0x000d0fe8\index.html.json
+
+title: 0x000D0FE8 NS_S_WMP_UI_VERSIONMISMATCH in nserror.h
+description: An upgrade might be needed for the theme manager to correctly show this skin. Skin reports version: %.1f.%0
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "nserror.h",
+  "sourceUrl": "/win32/nserror-h/",
+  "code": "0x000D0FE8",
+  "codeUrl": "/win32/nserror-h/ns_s_wmp_ui_versionmismatch/0x000d0fe8/",
+  "numericCode": 856040,
+  "define": "NS_S_WMP_UI_VERSIONMISMATCH",
+  "defineUrl": "/win32/nserror-h/ns_s_wmp_ui_versionmismatch/",
+  "message": "An upgrade might be needed for the theme manager to correctly show this skin. Skin reports version: %.1f.%0",
+  "remarks": null,
+  "aka": [
+    "856040"
+  ],
+  "akaUrl": [
+    "/win32/nserror-h/ns_s_wmp_ui_versionmismatch/856040/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

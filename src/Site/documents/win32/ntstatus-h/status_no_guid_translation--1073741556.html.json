@@ -1,0 +1,25 @@
+---
+output: win32\ntstatus-h\status_no_guid_translation\-1073741556\index.html.json
+canonical: /win32/ntstatus-h/status_no_guid_translation/0xc000010c/
+title: -1073741556 STATUS_NO_GUID_TRANSLATION in ntstatus.h
+description: Indicates that an attempt was made to assign protection to a file system file or directory and one of the SIDs in the security descriptor could not be translated into a GUID that could be stored by the file system.
+This causes the protection attempt to fail, which may cause a file creation attempt to fail.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741556",
+  "codeUrl": "/win32/ntstatus-h/status_no_guid_translation/-1073741556/",
+  "numericCode": 0,
+  "define": "STATUS_NO_GUID_TRANSLATION",
+  "defineUrl": "/win32/ntstatus-h/status_no_guid_translation/",
+  "message": "Indicates that an attempt was made to assign protection to a file system file or directory and one of the SIDs in the security descriptor could not be translated into a GUID that could be stored by the file system.\r\nThis causes the protection attempt to fail, which may cause a file creation attempt to fail.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC000010C",
+  "originalCodeUrl": "/win32/ntstatus-h/status_no_guid_translation/0xc000010c/"
+}

@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_ps_query_oid_gen_link_speed\0xc0003717\index.html.json
+
+title: 0xC0003717 EVENT_PS_QUERY_OID_GEN_LINK_SPEED in netevent.h
+description: QoS [Adapter %2]:%nThe network adapter driver failed the query for OID_GEN_LINK_SPEED.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC0003717",
+  "codeUrl": "/win32/netevent-h/event_ps_query_oid_gen_link_speed/0xc0003717/",
+  "numericCode": -1073727721,
+  "define": "EVENT_PS_QUERY_OID_GEN_LINK_SPEED",
+  "defineUrl": "/win32/netevent-h/event_ps_query_oid_gen_link_speed/",
+  "message": "QoS [Adapter %2]:%nThe network adapter driver failed the query for OID_GEN_LINK_SPEED.",
+  "remarks": null,
+  "aka": [
+    "-1073727721"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_ps_query_oid_gen_link_speed/-1073727721/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

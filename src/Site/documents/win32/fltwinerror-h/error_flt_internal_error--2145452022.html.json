@@ -1,0 +1,26 @@
+---
+output: win32\fltwinerror-h\error_flt_internal_error\-2145452022\index.html.json
+canonical: /win32/fltwinerror-h/error_flt_internal_error/0x801f000a/
+title: -2145452022 ERROR_FLT_INTERNAL_ERROR in fltWinError.h
+description: The Filter Manager had an internal error from which it cannot recover,
+therefore the operation has been failed.  This is usually the result
+of a filter returning an invalid value from a pre-operation callback.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "fltWinError.h",
+  "sourceUrl": "/win32/fltwinerror-h/",
+  "code": "-2145452022",
+  "codeUrl": "/win32/fltwinerror-h/error_flt_internal_error/-2145452022/",
+  "numericCode": 0,
+  "define": "ERROR_FLT_INTERNAL_ERROR",
+  "defineUrl": "/win32/fltwinerror-h/error_flt_internal_error/",
+  "message": "The Filter Manager had an internal error from which it cannot recover,\r\ntherefore the operation has been failed.  This is usually the result\r\nof a filter returning an invalid value from a pre-operation callback.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x801F000A",
+  "originalCodeUrl": "/win32/fltwinerror-h/error_flt_internal_error/0x801f000a/"
+}

@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\e_application_activation_exec_failure\0x8027025b\index.html.json
+
+title: 0x8027025B E_APPLICATION_ACTIVATION_EXEC_FAILURE in winerror.h
+description: The app didn't start.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8027025B",
+  "codeUrl": "/win32/winerror-h/e_application_activation_exec_failure/0x8027025b/",
+  "numericCode": -2144927141,
+  "define": "E_APPLICATION_ACTIVATION_EXEC_FAILURE",
+  "defineUrl": "/win32/winerror-h/e_application_activation_exec_failure/",
+  "message": "The app didn't start.",
+  "remarks": null,
+  "aka": [
+    "-2144927141"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/e_application_activation_exec_failure/-2144927141/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

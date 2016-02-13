@@ -1,0 +1,28 @@
+---
+output: win32\wuerror-h\wu_e_selfupdate_required_admin\0x8024d012\index.html.json
+
+title: 0x8024D012 WU_E_SELFUPDATE_REQUIRED_ADMIN in wuerror.h
+description: Windows Update Agent must be updated before search can continue.  An administrator is required to perform the operation.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wuerror.h",
+  "sourceUrl": "/win32/wuerror-h/",
+  "code": "0x8024D012",
+  "codeUrl": "/win32/wuerror-h/wu_e_selfupdate_required_admin/0x8024d012/",
+  "numericCode": -2145071086,
+  "define": "WU_E_SELFUPDATE_REQUIRED_ADMIN",
+  "defineUrl": "/win32/wuerror-h/wu_e_selfupdate_required_admin/",
+  "message": "Windows Update Agent must be updated before search can continue.  An administrator is required to perform the operation.",
+  "remarks": null,
+  "aka": [
+    "-2145071086"
+  ],
+  "akaUrl": [
+    "/win32/wuerror-h/wu_e_selfupdate_required_admin/-2145071086/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

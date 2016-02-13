@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\fve_e_recovery_key_required\0x80310022\index.html.json
+
+title: 0x80310022 FVE_E_RECOVERY_KEY_REQUIRED in winerror.h
+description: The drive you are attempting to lock does not have any key protectors available for encryption because BitLocker protection is currently suspended. Re-enable BitLocker to lock this drive.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80310022",
+  "codeUrl": "/win32/winerror-h/fve_e_recovery_key_required/0x80310022/",
+  "numericCode": -2144272350,
+  "define": "FVE_E_RECOVERY_KEY_REQUIRED",
+  "defineUrl": "/win32/winerror-h/fve_e_recovery_key_required/",
+  "message": "The drive you are attempting to lock does not have any key protectors available for encryption because BitLocker protection is currently suspended. Re-enable BitLocker to lock this drive.",
+  "remarks": null,
+  "aka": [
+    "-2144272350"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/fve_e_recovery_key_required/-2144272350/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

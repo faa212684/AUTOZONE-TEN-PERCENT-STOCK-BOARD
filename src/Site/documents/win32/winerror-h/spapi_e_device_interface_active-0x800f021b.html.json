@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\spapi_e_device_interface_active\0x800f021b\index.html.json
+
+title: 0x800F021B SPAPI_E_DEVICE_INTERFACE_ACTIVE in winerror.h
+description: The operation cannot be performed because the device interface is currently active.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800F021B",
+  "codeUrl": "/win32/winerror-h/spapi_e_device_interface_active/0x800f021b/",
+  "numericCode": -2146500069,
+  "define": "SPAPI_E_DEVICE_INTERFACE_ACTIVE",
+  "defineUrl": "/win32/winerror-h/spapi_e_device_interface_active/",
+  "message": "The operation cannot be performed because the device interface is currently active.",
+  "remarks": null,
+  "aka": [
+    "-2146500069"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/spapi_e_device_interface_active/-2146500069/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

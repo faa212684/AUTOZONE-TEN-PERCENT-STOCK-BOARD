@@ -1,0 +1,28 @@
+---
+output: win32\fsrmerr-h\fsrm_e_classification_scan_fail\0x8004536c\index.html.json
+
+title: 0x8004536C FSRM_E_CLASSIFICATION_SCAN_FAIL in fsrmerr.h
+description: Classification failed on all volumes. Check the application event log for more information.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "fsrmerr.h",
+  "sourceUrl": "/win32/fsrmerr-h/",
+  "code": "0x8004536C",
+  "codeUrl": "/win32/fsrmerr-h/fsrm_e_classification_scan_fail/0x8004536c/",
+  "numericCode": -2147200148,
+  "define": "FSRM_E_CLASSIFICATION_SCAN_FAIL",
+  "defineUrl": "/win32/fsrmerr-h/fsrm_e_classification_scan_fail/",
+  "message": "Classification failed on all volumes. Check the application event log for more information.",
+  "remarks": null,
+  "aka": [
+    "-2147200148"
+  ],
+  "akaUrl": [
+    "/win32/fsrmerr-h/fsrm_e_classification_scan_fail/-2147200148/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

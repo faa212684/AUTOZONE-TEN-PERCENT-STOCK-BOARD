@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\certsrv_e_weak_signature_or_key\-2146877418\index.html.json
+canonical: /win32/winerror-h/certsrv_e_weak_signature_or_key/0x80094016/
+title: -2146877418 CERTSRV_E_WEAK_SIGNATURE_OR_KEY in winerror.h
+description: A signature algorithm or public key length does not meet the system's minimum required strength.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2146877418",
+  "codeUrl": "/win32/winerror-h/certsrv_e_weak_signature_or_key/-2146877418/",
+  "numericCode": 0,
+  "define": "CERTSRV_E_WEAK_SIGNATURE_OR_KEY",
+  "defineUrl": "/win32/winerror-h/certsrv_e_weak_signature_or_key/",
+  "message": "A signature algorithm or public key length does not meet the system's minimum required strength.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80094016",
+  "originalCodeUrl": "/win32/winerror-h/certsrv_e_weak_signature_or_key/0x80094016/"
+}

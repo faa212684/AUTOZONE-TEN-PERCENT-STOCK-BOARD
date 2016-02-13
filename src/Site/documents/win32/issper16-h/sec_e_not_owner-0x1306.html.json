@@ -1,0 +1,28 @@
+---
+output: win32\issper16-h\sec_e_not_owner\0x1306\index.html.json
+
+title: 0x1306 SEC_E_NOT_OWNER in IssPer16.h
+description: The caller is not the owner of the desired credentials
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "IssPer16.h",
+  "sourceUrl": "/win32/issper16-h/",
+  "code": "0x1306",
+  "codeUrl": "/win32/issper16-h/sec_e_not_owner/0x1306/",
+  "numericCode": 4870,
+  "define": "SEC_E_NOT_OWNER",
+  "defineUrl": "/win32/issper16-h/sec_e_not_owner/",
+  "message": "The caller is not the owner of the desired credentials",
+  "remarks": null,
+  "aka": [
+    "4870"
+  ],
+  "akaUrl": [
+    "/win32/issper16-h/sec_e_not_owner/4870/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

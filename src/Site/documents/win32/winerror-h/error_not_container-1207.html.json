@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_not_container\1207\index.html.json
+
+title: 1207 ERROR_NOT_CONTAINER in winerror.h
+description: Cannot enumerate a noncontainer.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1207",
+  "codeUrl": "/win32/winerror-h/error_not_container/1207/",
+  "numericCode": 1207,
+  "define": "ERROR_NOT_CONTAINER",
+  "defineUrl": "/win32/winerror-h/error_not_container/",
+  "message": "Cannot enumerate a noncontainer.",
+  "remarks": null,
+  "aka": [
+    "0x800704b7",
+    "-2147023689"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_not_container/0x800704b7/",
+    "/win32/winerror-h/error_not_container/-2147023689/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_ndis_group_address_in_use\0xc023001a\index.html.json
+
+title: 0xC023001A STATUS_NDIS_GROUP_ADDRESS_IN_USE in ntstatus.h
+description: An attempt was made to remove a token ring group address that is in use by other components.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC023001A",
+  "codeUrl": "/win32/ntstatus-h/status_ndis_group_address_in_use/0xc023001a/",
+  "numericCode": -1071448038,
+  "define": "STATUS_NDIS_GROUP_ADDRESS_IN_USE",
+  "defineUrl": "/win32/ntstatus-h/status_ndis_group_address_in_use/",
+  "message": "An attempt was made to remove a token ring group address that is in use by other components.",
+  "remarks": null,
+  "aka": [
+    "-1071448038"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_ndis_group_address_in_use/-1071448038/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

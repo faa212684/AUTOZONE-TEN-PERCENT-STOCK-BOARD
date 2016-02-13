@@ -1,0 +1,28 @@
+---
+output: win32\nserror-h\ns_e_incompatible_push_server\0xc00d2f0c\index.html.json
+
+title: 0xC00D2F0C NS_E_INCOMPATIBLE_PUSH_SERVER in nserror.h
+description: The Server service that received the HTTP push request is not a compatible version of Windows Media Services (WMS).  This error may indicate the push request was received by IIS instead of WMS.  Ensure WMS is started and has the HTTP Server control protocol properly enabled and try again.%0
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "nserror.h",
+  "sourceUrl": "/win32/nserror-h/",
+  "code": "0xC00D2F0C",
+  "codeUrl": "/win32/nserror-h/ns_e_incompatible_push_server/0xc00d2f0c/",
+  "numericCode": -1072877812,
+  "define": "NS_E_INCOMPATIBLE_PUSH_SERVER",
+  "defineUrl": "/win32/nserror-h/ns_e_incompatible_push_server/",
+  "message": "The Server service that received the HTTP push request is not a compatible version of Windows Media Services (WMS).  This error may indicate the push request was received by IIS instead of WMS.  Ensure WMS is started and has the HTTP Server control protocol properly enabled and try again.%0",
+  "remarks": null,
+  "aka": [
+    "-1072877812"
+  ],
+  "akaUrl": [
+    "/win32/nserror-h/ns_e_incompatible_push_server/-1072877812/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

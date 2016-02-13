@@ -1,0 +1,28 @@
+---
+output: win32\wuerror-h\wu_e_no_service\0x80240001\index.html.json
+
+title: 0x80240001 WU_E_NO_SERVICE in wuerror.h
+description: Windows Update Agent was unable to provide the service.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wuerror.h",
+  "sourceUrl": "/win32/wuerror-h/",
+  "code": "0x80240001",
+  "codeUrl": "/win32/wuerror-h/wu_e_no_service/0x80240001/",
+  "numericCode": -2145124351,
+  "define": "WU_E_NO_SERVICE",
+  "defineUrl": "/win32/wuerror-h/wu_e_no_service/",
+  "message": "Windows Update Agent was unable to provide the service.",
+  "remarks": null,
+  "aka": [
+    "-2145124351"
+  ],
+  "akaUrl": [
+    "/win32/wuerror-h/wu_e_no_service/-2145124351/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

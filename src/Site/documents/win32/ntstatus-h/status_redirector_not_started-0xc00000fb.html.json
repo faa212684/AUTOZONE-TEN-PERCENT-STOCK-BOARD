@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_redirector_not_started\0xc00000fb\index.html.json
+
+title: 0xC00000FB STATUS_REDIRECTOR_NOT_STARTED in ntstatus.h
+description: An attempt was made to access a network file, but the network software was not yet started.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC00000FB",
+  "codeUrl": "/win32/ntstatus-h/status_redirector_not_started/0xc00000fb/",
+  "numericCode": -1073741573,
+  "define": "STATUS_REDIRECTOR_NOT_STARTED",
+  "defineUrl": "/win32/ntstatus-h/status_redirector_not_started/",
+  "message": "An attempt was made to access a network file, but the network software was not yet started.",
+  "remarks": null,
+  "aka": [
+    "-1073741573"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_redirector_not_started/-1073741573/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

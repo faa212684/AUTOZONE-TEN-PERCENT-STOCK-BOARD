@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_smartcard_io_error\0xc0000387\index.html.json
+
+title: 0xC0000387 STATUS_SMARTCARD_IO_ERROR in ntstatus.h
+description: A communication error with the smart card has been detected.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000387",
+  "codeUrl": "/win32/ntstatus-h/status_smartcard_io_error/0xc0000387/",
+  "numericCode": -1073740921,
+  "define": "STATUS_SMARTCARD_IO_ERROR",
+  "defineUrl": "/win32/ntstatus-h/status_smartcard_io_error/",
+  "message": "A communication error with the smart card has been detected.",
+  "remarks": null,
+  "aka": [
+    "-1073740921"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_smartcard_io_error/-1073740921/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

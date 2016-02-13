@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\certsrv_e_invalid_requestid\0x8009481e\index.html.json
+
+title: 0x8009481E CERTSRV_E_INVALID_REQUESTID in winerror.h
+description: A valid Request ID was not detected in the request attributes, or an invalid one was submitted.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8009481E",
+  "codeUrl": "/win32/winerror-h/certsrv_e_invalid_requestid/0x8009481e/",
+  "numericCode": -2146875362,
+  "define": "CERTSRV_E_INVALID_REQUESTID",
+  "defineUrl": "/win32/winerror-h/certsrv_e_invalid_requestid/",
+  "message": "A valid Request ID was not detected in the request attributes, or an invalid one was submitted.",
+  "remarks": null,
+  "aka": [
+    "-2146875362"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/certsrv_e_invalid_requestid/-2146875362/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

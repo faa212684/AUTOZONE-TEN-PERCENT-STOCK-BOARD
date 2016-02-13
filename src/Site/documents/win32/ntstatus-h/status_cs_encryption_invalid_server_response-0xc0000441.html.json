@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_cs_encryption_invalid_server_response\0xc0000441\index.html.json
+
+title: 0xC0000441 STATUS_CS_ENCRYPTION_INVALID_SERVER_RESPONSE in ntstatus.h
+description: The remote server sent an invalid response for a file being opened with Client Side Encryption.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000441",
+  "codeUrl": "/win32/ntstatus-h/status_cs_encryption_invalid_server_response/0xc0000441/",
+  "numericCode": -1073740735,
+  "define": "STATUS_CS_ENCRYPTION_INVALID_SERVER_RESPONSE",
+  "defineUrl": "/win32/ntstatus-h/status_cs_encryption_invalid_server_response/",
+  "message": "The remote server sent an invalid response for a file being opened with Client Side Encryption.",
+  "remarks": null,
+  "aka": [
+    "-1073740735"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_cs_encryption_invalid_server_response/-1073740735/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

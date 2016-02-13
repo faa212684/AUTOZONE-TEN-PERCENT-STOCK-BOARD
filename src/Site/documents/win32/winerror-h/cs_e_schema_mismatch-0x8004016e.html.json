@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\cs_e_schema_mismatch\0x8004016e\index.html.json
+
+title: 0x8004016E CS_E_SCHEMA_MISMATCH in winerror.h
+description: The schema for the software installation data in the Active Directory does not match the required schema.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8004016E",
+  "codeUrl": "/win32/winerror-h/cs_e_schema_mismatch/0x8004016e/",
+  "numericCode": -2147221138,
+  "define": "CS_E_SCHEMA_MISMATCH",
+  "defineUrl": "/win32/winerror-h/cs_e_schema_mismatch/",
+  "message": "The schema for the software installation data in the Active Directory does not match the required schema.",
+  "remarks": null,
+  "aka": [
+    "-2147221138"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/cs_e_schema_mismatch/-2147221138/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

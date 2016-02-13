@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\wer_s_ignore_all_asserts\1769481\index.html.json
+canonical: /win32/winerror-h/wer_s_ignore_all_asserts/0x001b0009/
+title: 1769481 WER_S_IGNORE_ALL_ASSERTS in winerror.h
+description: The assertion was handled and added to a permanent ignore list.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1769481",
+  "codeUrl": "/win32/winerror-h/wer_s_ignore_all_asserts/1769481/",
+  "numericCode": 0,
+  "define": "WER_S_IGNORE_ALL_ASSERTS",
+  "defineUrl": "/win32/winerror-h/wer_s_ignore_all_asserts/",
+  "message": "The assertion was handled and added to a permanent ignore list.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x001B0009",
+  "originalCodeUrl": "/win32/winerror-h/wer_s_ignore_all_asserts/0x001b0009/"
+}

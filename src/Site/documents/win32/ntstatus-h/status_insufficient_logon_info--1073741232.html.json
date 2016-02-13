@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_insufficient_logon_info\-1073741232\index.html.json
+canonical: /win32/ntstatus-h/status_insufficient_logon_info/0xc0000250/
+title: -1073741232 STATUS_INSUFFICIENT_LOGON_INFO in ntstatus.h
+description: There is insufficient account information to log you on.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741232",
+  "codeUrl": "/win32/ntstatus-h/status_insufficient_logon_info/-1073741232/",
+  "numericCode": 0,
+  "define": "STATUS_INSUFFICIENT_LOGON_INFO",
+  "defineUrl": "/win32/ntstatus-h/status_insufficient_logon_info/",
+  "message": "There is insufficient account information to log you on.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000250",
+  "originalCodeUrl": "/win32/ntstatus-h/status_insufficient_logon_info/0xc0000250/"
+}

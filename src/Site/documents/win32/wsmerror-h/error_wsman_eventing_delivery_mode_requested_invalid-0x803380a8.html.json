@@ -1,0 +1,28 @@
+---
+output: win32\wsmerror-h\error_wsman_eventing_delivery_mode_requested_invalid\0x803380a8\index.html.json
+
+title: 0x803380A8 ERROR_WSMAN_EVENTING_DELIVERY_MODE_REQUESTED_INVALID in wsmerror.h
+description: The WS-Management service cannot process the subscribe request. The delivery mode is either invalid or missing.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x803380A8",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_eventing_delivery_mode_requested_invalid/0x803380a8/",
+  "numericCode": -2144108376,
+  "define": "ERROR_WSMAN_EVENTING_DELIVERY_MODE_REQUESTED_INVALID",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_eventing_delivery_mode_requested_invalid/",
+  "message": "The WS-Management service cannot process the subscribe request. The delivery mode is either invalid or missing.",
+  "remarks": null,
+  "aka": [
+    "-2144108376"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_eventing_delivery_mode_requested_invalid/-2144108376/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

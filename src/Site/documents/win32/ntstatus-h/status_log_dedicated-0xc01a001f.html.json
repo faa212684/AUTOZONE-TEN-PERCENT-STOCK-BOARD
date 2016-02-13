@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_log_dedicated\0xc01a001f\index.html.json
+
+title: 0xC01A001F STATUS_LOG_DEDICATED in ntstatus.h
+description: The operation failed because the log is a dedicated log.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC01A001F",
+  "codeUrl": "/win32/ntstatus-h/status_log_dedicated/0xc01a001f/",
+  "numericCode": -1072037857,
+  "define": "STATUS_LOG_DEDICATED",
+  "defineUrl": "/win32/ntstatus-h/status_log_dedicated/",
+  "message": "The operation failed because the log is a dedicated log.",
+  "remarks": null,
+  "aka": [
+    "-1072037857"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_log_dedicated/-1072037857/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

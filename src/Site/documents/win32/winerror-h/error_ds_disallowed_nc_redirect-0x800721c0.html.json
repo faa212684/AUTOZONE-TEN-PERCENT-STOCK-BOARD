@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_ds_disallowed_nc_redirect\0x800721c0\index.html.json
+canonical: /win32/winerror-h/error_ds_disallowed_nc_redirect/8640/
+title: 0x800721c0 ERROR_DS_DISALLOWED_NC_REDIRECT in winerror.h
+description: The redirect operation failed because the target object is in a NC different from the domain NC of the current domain controller.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800721c0",
+  "codeUrl": "/win32/winerror-h/error_ds_disallowed_nc_redirect/0x800721c0/",
+  "numericCode": 0,
+  "define": "ERROR_DS_DISALLOWED_NC_REDIRECT",
+  "defineUrl": "/win32/winerror-h/error_ds_disallowed_nc_redirect/",
+  "message": "The redirect operation failed because the target object is in a NC different from the domain NC of the current domain controller.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "8640",
+  "originalCodeUrl": "/win32/winerror-h/error_ds_disallowed_nc_redirect/8640/"
+}

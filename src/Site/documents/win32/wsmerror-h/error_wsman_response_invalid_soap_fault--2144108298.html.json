@@ -1,0 +1,24 @@
+---
+output: win32\wsmerror-h\error_wsman_response_invalid_soap_fault\-2144108298\index.html.json
+canonical: /win32/wsmerror-h/error_wsman_response_invalid_soap_fault/0x803380f6/
+title: -2144108298 ERROR_WSMAN_RESPONSE_INVALID_SOAP_FAULT in wsmerror.h
+description: The WinRM client cannot process the request. The destination computer returned an invalid SOAP fault.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "-2144108298",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_response_invalid_soap_fault/-2144108298/",
+  "numericCode": 0,
+  "define": "ERROR_WSMAN_RESPONSE_INVALID_SOAP_FAULT",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_response_invalid_soap_fault/",
+  "message": "The WinRM client cannot process the request. The destination computer returned an invalid SOAP fault.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x803380F6",
+  "originalCodeUrl": "/win32/wsmerror-h/error_wsman_response_invalid_soap_fault/0x803380f6/"
+}

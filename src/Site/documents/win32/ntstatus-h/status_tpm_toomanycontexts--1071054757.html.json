@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_tpm_toomanycontexts\-1071054757\index.html.json
+canonical: /win32/ntstatus-h/status_tpm_toomanycontexts/0xc029005b/
+title: -1071054757 STATUS_TPM_TOOMANYCONTEXTS in ntstatus.h
+description: Too many contexts held by the TPM.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071054757",
+  "codeUrl": "/win32/ntstatus-h/status_tpm_toomanycontexts/-1071054757/",
+  "numericCode": 0,
+  "define": "STATUS_TPM_TOOMANYCONTEXTS",
+  "defineUrl": "/win32/ntstatus-h/status_tpm_toomanycontexts/",
+  "message": "Too many contexts held by the TPM.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC029005B",
+  "originalCodeUrl": "/win32/ntstatus-h/status_tpm_toomanycontexts/0xc029005b/"
+}

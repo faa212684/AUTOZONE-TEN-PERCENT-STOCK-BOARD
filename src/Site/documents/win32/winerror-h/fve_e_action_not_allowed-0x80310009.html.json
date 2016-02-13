@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\fve_e_action_not_allowed\0x80310009\index.html.json
+
+title: 0x80310009 FVE_E_ACTION_NOT_ALLOWED in winerror.h
+description: BitLocker Drive Encryption cannot perform the requested action. This condition may occur when two requests are issued at the same time. Wait a few moments and then try the action again.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80310009",
+  "codeUrl": "/win32/winerror-h/fve_e_action_not_allowed/0x80310009/",
+  "numericCode": -2144272375,
+  "define": "FVE_E_ACTION_NOT_ALLOWED",
+  "defineUrl": "/win32/winerror-h/fve_e_action_not_allowed/",
+  "message": "BitLocker Drive Encryption cannot perform the requested action. This condition may occur when two requests are issued at the same time. Wait a few moments and then try the action again.",
+  "remarks": null,
+  "aka": [
+    "-2144272375"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/fve_e_action_not_allowed/-2144272375/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\nap_e_netsh_grouppolicy_error\0x8027000f\index.html.json
+
+title: 0x8027000F NAP_E_NETSH_GROUPPOLICY_ERROR in winerror.h
+description: Group Policy is not configured.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8027000F",
+  "codeUrl": "/win32/winerror-h/nap_e_netsh_grouppolicy_error/0x8027000f/",
+  "numericCode": -2144927729,
+  "define": "NAP_E_NETSH_GROUPPOLICY_ERROR",
+  "defineUrl": "/win32/winerror-h/nap_e_netsh_grouppolicy_error/",
+  "message": "Group Policy is not configured.",
+  "remarks": null,
+  "aka": [
+    "-2144927729"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/nap_e_netsh_grouppolicy_error/-2144927729/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

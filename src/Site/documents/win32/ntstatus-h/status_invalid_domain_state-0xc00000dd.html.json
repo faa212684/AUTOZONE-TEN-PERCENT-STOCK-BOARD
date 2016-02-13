@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_invalid_domain_state\0xc00000dd\index.html.json
+
+title: 0xC00000DD STATUS_INVALID_DOMAIN_STATE in ntstatus.h
+description: Indicates the Domain was in the wrong state to perform the desired operation.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC00000DD",
+  "codeUrl": "/win32/ntstatus-h/status_invalid_domain_state/0xc00000dd/",
+  "numericCode": -1073741603,
+  "define": "STATUS_INVALID_DOMAIN_STATE",
+  "defineUrl": "/win32/ntstatus-h/status_invalid_domain_state/",
+  "message": "Indicates the Domain was in the wrong state to perform the desired operation.",
+  "remarks": null,
+  "aka": [
+    "-1073741603"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_invalid_domain_state/-1073741603/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

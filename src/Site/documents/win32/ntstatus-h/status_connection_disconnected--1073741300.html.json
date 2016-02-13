@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_connection_disconnected\-1073741300\index.html.json
+canonical: /win32/ntstatus-h/status_connection_disconnected/0xc000020c/
+title: -1073741300 STATUS_CONNECTION_DISCONNECTED in ntstatus.h
+description: The transport connection is now disconnected.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741300",
+  "codeUrl": "/win32/ntstatus-h/status_connection_disconnected/-1073741300/",
+  "numericCode": 0,
+  "define": "STATUS_CONNECTION_DISCONNECTED",
+  "defineUrl": "/win32/ntstatus-h/status_connection_disconnected/",
+  "message": "The transport connection is now disconnected.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC000020C",
+  "originalCodeUrl": "/win32/ntstatus-h/status_connection_disconnected/0xc000020c/"
+}

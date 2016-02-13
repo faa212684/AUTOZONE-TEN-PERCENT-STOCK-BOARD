@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\rpc_e_out_of_resources\0x80010101\index.html.json
+
+title: 0x80010101 RPC_E_OUT_OF_RESOURCES in winerror.h
+description: Could not allocate some required resource (memory, events, ...)
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80010101",
+  "codeUrl": "/win32/winerror-h/rpc_e_out_of_resources/0x80010101/",
+  "numericCode": -2147417855,
+  "define": "RPC_E_OUT_OF_RESOURCES",
+  "defineUrl": "/win32/winerror-h/rpc_e_out_of_resources/",
+  "message": "Could not allocate some required resource (memory, events, ...)",
+  "remarks": null,
+  "aka": [
+    "-2147417855"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/rpc_e_out_of_resources/-2147417855/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

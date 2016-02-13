@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\sec_e_no_tgt_reply\0x80090334\index.html.json
+
+title: 0x80090334 SEC_E_NO_TGT_REPLY in winerror.h
+description: The client is trying to negotiate a context and the server requires user-to-user but didn't send a TGT reply.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80090334",
+  "codeUrl": "/win32/winerror-h/sec_e_no_tgt_reply/0x80090334/",
+  "numericCode": -2146893004,
+  "define": "SEC_E_NO_TGT_REPLY",
+  "defineUrl": "/win32/winerror-h/sec_e_no_tgt_reply/",
+  "message": "The client is trying to negotiate a context and the server requires user-to-user but didn't send a TGT reply.",
+  "remarks": null,
+  "aka": [
+    "-2146893004"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/sec_e_no_tgt_reply/-2146893004/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

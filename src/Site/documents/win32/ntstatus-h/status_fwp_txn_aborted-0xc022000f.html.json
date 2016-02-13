@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_fwp_txn_aborted\0xc022000f\index.html.json
+
+title: 0xC022000F STATUS_FWP_TXN_ABORTED in ntstatus.h
+description: The explicit transaction has been forcibly cancelled.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC022000F",
+  "codeUrl": "/win32/ntstatus-h/status_fwp_txn_aborted/0xc022000f/",
+  "numericCode": -1071513585,
+  "define": "STATUS_FWP_TXN_ABORTED",
+  "defineUrl": "/win32/ntstatus-h/status_fwp_txn_aborted/",
+  "message": "The explicit transaction has been forcibly cancelled.",
+  "remarks": null,
+  "aka": [
+    "-1071513585"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_fwp_txn_aborted/-1071513585/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

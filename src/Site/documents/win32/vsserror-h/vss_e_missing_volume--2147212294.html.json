@@ -1,0 +1,24 @@
+---
+output: win32\vsserror-h\vss_e_missing_volume\-2147212294\index.html.json
+canonical: /win32/vsserror-h/vss_e_missing_volume/0x800423fa/
+title: -2147212294 VSS_E_MISSING_VOLUME in vsserror.h
+description: An expected volume did not arrive in the system. Check the Application event log for more information.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vsserror.h",
+  "sourceUrl": "/win32/vsserror-h/",
+  "code": "-2147212294",
+  "codeUrl": "/win32/vsserror-h/vss_e_missing_volume/-2147212294/",
+  "numericCode": 0,
+  "define": "VSS_E_MISSING_VOLUME",
+  "defineUrl": "/win32/vsserror-h/vss_e_missing_volume/",
+  "message": "An expected volume did not arrive in the system. Check the Application event log for more information.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x800423FA",
+  "originalCodeUrl": "/win32/vsserror-h/vss_e_missing_volume/0x800423fa/"
+}

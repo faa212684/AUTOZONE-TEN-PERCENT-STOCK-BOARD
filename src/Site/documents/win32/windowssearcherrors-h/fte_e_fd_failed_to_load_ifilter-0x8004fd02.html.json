@@ -1,0 +1,28 @@
+---
+output: win32\windowssearcherrors-h\fte_e_fd_failed_to_load_ifilter\0x8004fd02\index.html.json
+
+title: 0x8004FD02 FTE_E_FD_FAILED_TO_LOAD_IFILTER in WindowsSearchErrors.h
+description: The filter daemon MSFTEFD failed to load an IFilter interface for document, so it can't be indexed.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "0x8004FD02",
+  "codeUrl": "/win32/windowssearcherrors-h/fte_e_fd_failed_to_load_ifilter/0x8004fd02/",
+  "numericCode": -2147156734,
+  "define": "FTE_E_FD_FAILED_TO_LOAD_IFILTER",
+  "defineUrl": "/win32/windowssearcherrors-h/fte_e_fd_failed_to_load_ifilter/",
+  "message": "The filter daemon MSFTEFD failed to load an IFilter interface for document, so it can't be indexed.",
+  "remarks": null,
+  "aka": [
+    "-2147156734"
+  ],
+  "akaUrl": [
+    "/win32/windowssearcherrors-h/fte_e_fd_failed_to_load_ifilter/-2147156734/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

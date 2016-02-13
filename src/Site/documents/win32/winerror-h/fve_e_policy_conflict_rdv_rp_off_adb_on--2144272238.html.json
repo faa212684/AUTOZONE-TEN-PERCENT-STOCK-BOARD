@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\fve_e_policy_conflict_rdv_rp_off_adb_on\-2144272238\index.html.json
+canonical: /win32/winerror-h/fve_e_policy_conflict_rdv_rp_off_adb_on/0x80310092/
+title: -2144272238 FVE_E_POLICY_CONFLICT_RDV_RP_OFF_ADB_ON in winerror.h
+description: BitLocker Drive Encryption cannot be applied to this drive because there are conflicting Group Policy settings for recovery options on removable data drives. Storing recovery information to Active Directory Domain Services cannot be required when the generation of recovery passwords is not permitted. Please have your system administrator resolve these policy conflicts before attempting to enable BitLocker.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2144272238",
+  "codeUrl": "/win32/winerror-h/fve_e_policy_conflict_rdv_rp_off_adb_on/-2144272238/",
+  "numericCode": 0,
+  "define": "FVE_E_POLICY_CONFLICT_RDV_RP_OFF_ADB_ON",
+  "defineUrl": "/win32/winerror-h/fve_e_policy_conflict_rdv_rp_off_adb_on/",
+  "message": "BitLocker Drive Encryption cannot be applied to this drive because there are conflicting Group Policy settings for recovery options on removable data drives. Storing recovery information to Active Directory Domain Services cannot be required when the generation of recovery passwords is not permitted. Please have your system administrator resolve these policy conflicts before attempting to enable BitLocker.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80310092",
+  "originalCodeUrl": "/win32/winerror-h/fve_e_policy_conflict_rdv_rp_off_adb_on/0x80310092/"
+}

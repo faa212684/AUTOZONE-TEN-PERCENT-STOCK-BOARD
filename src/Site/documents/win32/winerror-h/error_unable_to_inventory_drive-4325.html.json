@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_unable_to_inventory_drive\4325\index.html.json
+
+title: 4325 ERROR_UNABLE_TO_INVENTORY_DRIVE in winerror.h
+description: Unable to retrieve the drive status.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "4325",
+  "codeUrl": "/win32/winerror-h/error_unable_to_inventory_drive/4325/",
+  "numericCode": 4325,
+  "define": "ERROR_UNABLE_TO_INVENTORY_DRIVE",
+  "defineUrl": "/win32/winerror-h/error_unable_to_inventory_drive/",
+  "message": "Unable to retrieve the drive status.",
+  "remarks": null,
+  "aka": [
+    "0x800710e5",
+    "-2147020571"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_unable_to_inventory_drive/0x800710e5/",
+    "/win32/winerror-h/error_unable_to_inventory_drive/-2147020571/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

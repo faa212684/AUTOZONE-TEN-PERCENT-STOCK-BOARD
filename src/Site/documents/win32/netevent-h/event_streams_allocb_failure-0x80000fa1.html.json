@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_streams_allocb_failure\0x80000fa1\index.html.json
+
+title: 0x80000FA1 EVENT_STREAMS_ALLOCB_FAILURE in netevent.h
+description: Unable to allocate a %2 byte message.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x80000FA1",
+  "codeUrl": "/win32/netevent-h/event_streams_allocb_failure/0x80000fa1/",
+  "numericCode": -2147479647,
+  "define": "EVENT_STREAMS_ALLOCB_FAILURE",
+  "defineUrl": "/win32/netevent-h/event_streams_allocb_failure/",
+  "message": "Unable to allocate a %2 byte message.",
+  "remarks": null,
+  "aka": [
+    "-2147479647"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_streams_allocb_failure/-2147479647/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

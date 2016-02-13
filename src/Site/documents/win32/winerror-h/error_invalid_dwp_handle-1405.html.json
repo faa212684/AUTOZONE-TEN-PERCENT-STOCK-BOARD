@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_invalid_dwp_handle\1405\index.html.json
+
+title: 1405 ERROR_INVALID_DWP_HANDLE in winerror.h
+description: Invalid handle to a multiple-window position structure.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1405",
+  "codeUrl": "/win32/winerror-h/error_invalid_dwp_handle/1405/",
+  "numericCode": 1405,
+  "define": "ERROR_INVALID_DWP_HANDLE",
+  "defineUrl": "/win32/winerror-h/error_invalid_dwp_handle/",
+  "message": "Invalid handle to a multiple-window position structure.",
+  "remarks": null,
+  "aka": [
+    "0x8007057d",
+    "-2147023491"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_invalid_dwp_handle/0x8007057d/",
+    "/win32/winerror-h/error_invalid_dwp_handle/-2147023491/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

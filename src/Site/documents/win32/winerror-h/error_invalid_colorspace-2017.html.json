@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_invalid_colorspace\2017\index.html.json
+
+title: 2017 ERROR_INVALID_COLORSPACE in winerror.h
+description: The specified color space is invalid.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "2017",
+  "codeUrl": "/win32/winerror-h/error_invalid_colorspace/2017/",
+  "numericCode": 2017,
+  "define": "ERROR_INVALID_COLORSPACE",
+  "defineUrl": "/win32/winerror-h/error_invalid_colorspace/",
+  "message": "The specified color space is invalid.",
+  "remarks": null,
+  "aka": [
+    "0x800707e1",
+    "-2147022879"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_invalid_colorspace/0x800707e1/",
+    "/win32/winerror-h/error_invalid_colorspace/-2147022879/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

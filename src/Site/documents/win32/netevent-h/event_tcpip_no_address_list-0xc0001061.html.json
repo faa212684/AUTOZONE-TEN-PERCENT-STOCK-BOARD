@@ -1,0 +1,29 @@
+---
+output: win32\netevent-h\event_tcpip_no_address_list\0xc0001061\index.html.json
+
+title: 0xC0001061 EVENT_TCPIP_NO_ADDRESS_LIST in netevent.h
+description: Unable to read the configured IP addresses for network adapter %2.
+IP interfaces will not be initialized on this network adapter.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC0001061",
+  "codeUrl": "/win32/netevent-h/event_tcpip_no_address_list/0xc0001061/",
+  "numericCode": -1073737631,
+  "define": "EVENT_TCPIP_NO_ADDRESS_LIST",
+  "defineUrl": "/win32/netevent-h/event_tcpip_no_address_list/",
+  "message": "Unable to read the configured IP addresses for network adapter %2.\r\nIP interfaces will not be initialized on this network adapter.",
+  "remarks": null,
+  "aka": [
+    "-1073737631"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_tcpip_no_address_list/-1073737631/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

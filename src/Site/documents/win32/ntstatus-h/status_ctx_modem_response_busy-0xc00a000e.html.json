@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_ctx_modem_response_busy\0xc00a000e\index.html.json
+
+title: 0xC00A000E STATUS_CTX_MODEM_RESPONSE_BUSY in ntstatus.h
+description: Busy signal detected at remote site on callback.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC00A000E",
+  "codeUrl": "/win32/ntstatus-h/status_ctx_modem_response_busy/0xc00a000e/",
+  "numericCode": -1073086450,
+  "define": "STATUS_CTX_MODEM_RESPONSE_BUSY",
+  "defineUrl": "/win32/ntstatus-h/status_ctx_modem_response_busy/",
+  "message": "Busy signal detected at remote site on callback.",
+  "remarks": null,
+  "aka": [
+    "-1073086450"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_ctx_modem_response_busy/-1073086450/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

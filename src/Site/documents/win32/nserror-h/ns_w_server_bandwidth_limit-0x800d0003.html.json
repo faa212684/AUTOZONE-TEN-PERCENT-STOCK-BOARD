@@ -1,0 +1,28 @@
+---
+output: win32\nserror-h\ns_w_server_bandwidth_limit\0x800d0003\index.html.json
+
+title: 0x800D0003 NS_W_SERVER_BANDWIDTH_LIMIT in nserror.h
+description: The maximum filebitrate value specified is greater than the server's configured maximum bandwidth.%0
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "nserror.h",
+  "sourceUrl": "/win32/nserror-h/",
+  "code": "0x800D0003",
+  "codeUrl": "/win32/nserror-h/ns_w_server_bandwidth_limit/0x800d0003/",
+  "numericCode": -2146631677,
+  "define": "NS_W_SERVER_BANDWIDTH_LIMIT",
+  "defineUrl": "/win32/nserror-h/ns_w_server_bandwidth_limit/",
+  "message": "The maximum filebitrate value specified is greater than the server's configured maximum bandwidth.%0",
+  "remarks": null,
+  "aka": [
+    "-2146631677"
+  ],
+  "akaUrl": [
+    "/win32/nserror-h/ns_w_server_bandwidth_limit/-2146631677/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

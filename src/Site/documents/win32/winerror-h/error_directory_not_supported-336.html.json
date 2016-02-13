@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_directory_not_supported\336\index.html.json
+
+title: 336 ERROR_DIRECTORY_NOT_SUPPORTED in winerror.h
+description: An operation is not supported on a directory.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "336",
+  "codeUrl": "/win32/winerror-h/error_directory_not_supported/336/",
+  "numericCode": 336,
+  "define": "ERROR_DIRECTORY_NOT_SUPPORTED",
+  "defineUrl": "/win32/winerror-h/error_directory_not_supported/",
+  "message": "An operation is not supported on a directory.",
+  "remarks": null,
+  "aka": [
+    "0x80070150",
+    "-2147024560"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_directory_not_supported/0x80070150/",
+    "/win32/winerror-h/error_directory_not_supported/-2147024560/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

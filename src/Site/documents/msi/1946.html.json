@@ -1,0 +1,24 @@
+---
+output: msi\1946\index.html.json
+
+title: msi 1946
+description: Property '[2]' for shortcut '[3]' could not be set.{{ HRESULT [4].}}
+disqus: true
+---
+{
+  "area": "msi",
+  "areaUrl": "/msi/",
+  "source": null,
+  "sourceUrl": "/msi/",
+  "code": "1946",
+  "codeUrl": "/msi/1946/",
+  "numericCode": 1946,
+  "define": null,
+  "defineUrl": "/msi/",
+  "message": "Property '[2]' for shortcut '[3]' could not be set.{{ HRESULT [4].}}",
+  "remarks": "This message is returned as a warning, and the installation continues, if  Windows Installer is unable to set a shortcut property specified in the <a href=\"https://msdn.microsoft.com/en-us/library/dd408039(v=vs.85).aspx\">MsiShortcutProperty table</a>.\r\n\r\nAvailable beginning with Windows Installer 5.0 for Windows 7 and Windows Server 2008 R2.",
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": null,
+  "originalCodeUrl": null
+}

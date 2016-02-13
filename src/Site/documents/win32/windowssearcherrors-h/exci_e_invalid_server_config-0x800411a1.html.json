@@ -1,0 +1,28 @@
+---
+output: win32\windowssearcherrors-h\exci_e_invalid_server_config\0x800411a1\index.html.json
+
+title: 0x800411A1 EXCI_E_INVALID_SERVER_CONFIG in WindowsSearchErrors.h
+description: The name of the Microsoft Exchange 5.5 server specified in the content source does not match the Exchange server specified in the Microsoft Exchange 5.5 configuration properties. Change the name of the Exchange server in the content source or configuration properties to match, and then try again.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "0x800411A1",
+  "codeUrl": "/win32/windowssearcherrors-h/exci_e_invalid_server_config/0x800411a1/",
+  "numericCode": -2147216991,
+  "define": "EXCI_E_INVALID_SERVER_CONFIG",
+  "defineUrl": "/win32/windowssearcherrors-h/exci_e_invalid_server_config/",
+  "message": "The name of the Microsoft Exchange 5.5 server specified in the content source does not match the Exchange server specified in the Microsoft Exchange 5.5 configuration properties. Change the name of the Exchange server in the content source or configuration properties to match, and then try again.",
+  "remarks": null,
+  "aka": [
+    "-2147216991"
+  ],
+  "akaUrl": [
+    "/win32/windowssearcherrors-h/exci_e_invalid_server_config/-2147216991/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

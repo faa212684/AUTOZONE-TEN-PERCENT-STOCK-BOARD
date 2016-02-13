@@ -1,0 +1,28 @@
+---
+output: win32\oledberr-h\sec_e_invalidowner\0x80040e70\index.html.json
+
+title: 0x80040E70 SEC_E_INVALIDOWNER in oledberr.h
+description: Trustee supplied as owner is invalid or unknown to the provider.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "oledberr.h",
+  "sourceUrl": "/win32/oledberr-h/",
+  "code": "0x80040E70",
+  "codeUrl": "/win32/oledberr-h/sec_e_invalidowner/0x80040e70/",
+  "numericCode": -2147217808,
+  "define": "SEC_E_INVALIDOWNER",
+  "defineUrl": "/win32/oledberr-h/sec_e_invalidowner/",
+  "message": "Trustee supplied as owner is invalid or unknown to the provider.",
+  "remarks": null,
+  "aka": [
+    "-2147217808"
+  ],
+  "akaUrl": [
+    "/win32/oledberr-h/sec_e_invalidowner/-2147217808/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,29 @@
+---
+output: win32\wsmerror-h\error_wsman_config_thumbprint_should_be_empty\0x803380eb\index.html.json
+
+title: 0x803380EB ERROR_WSMAN_CONFIG_THUMBPRINT_SHOULD_BE_EMPTY in wsmerror.h
+description: The WinRM client cannot process the request. When HTTP is the transport, the Certificate thumbprint must be blank.
+HTTP does not use the Certificate thumbprint.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x803380EB",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_config_thumbprint_should_be_empty/0x803380eb/",
+  "numericCode": -2144108309,
+  "define": "ERROR_WSMAN_CONFIG_THUMBPRINT_SHOULD_BE_EMPTY",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_config_thumbprint_should_be_empty/",
+  "message": "The WinRM client cannot process the request. When HTTP is the transport, the Certificate thumbprint must be blank.\r\nHTTP does not use the Certificate thumbprint.",
+  "remarks": null,
+  "aka": [
+    "-2144108309"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_config_thumbprint_should_be_empty/-2144108309/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

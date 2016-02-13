@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_e_no_pool\0x80042a00\index.html.json
+
+title: 0x80042A00 VDS_E_NO_POOL in vdserr.h
+description: The drive is not contained in a pool.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x80042A00",
+  "codeUrl": "/win32/vdserr-h/vds_e_no_pool/0x80042a00/",
+  "numericCode": -2147210752,
+  "define": "VDS_E_NO_POOL",
+  "defineUrl": "/win32/vdserr-h/vds_e_no_pool/",
+  "message": "The drive is not contained in a pool.",
+  "remarks": null,
+  "aka": [
+    "-2147210752"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_no_pool/-2147210752/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

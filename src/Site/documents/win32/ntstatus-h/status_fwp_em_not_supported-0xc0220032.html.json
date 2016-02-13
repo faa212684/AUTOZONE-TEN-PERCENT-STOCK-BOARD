@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_fwp_em_not_supported\0xc0220032\index.html.json
+
+title: 0xC0220032 STATUS_FWP_EM_NOT_SUPPORTED in ntstatus.h
+description: An IKE policy cannot contain an Extended Mode policy.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0220032",
+  "codeUrl": "/win32/ntstatus-h/status_fwp_em_not_supported/0xc0220032/",
+  "numericCode": -1071513550,
+  "define": "STATUS_FWP_EM_NOT_SUPPORTED",
+  "defineUrl": "/win32/ntstatus-h/status_fwp_em_not_supported/",
+  "message": "An IKE policy cannot contain an Extended Mode policy.",
+  "remarks": null,
+  "aka": [
+    "-1071513550"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_fwp_em_not_supported/-1071513550/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

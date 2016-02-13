@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\e_illegal_delegate_assignment\0x80000018\index.html.json
+
+title: 0x80000018 E_ILLEGAL_DELEGATE_ASSIGNMENT in winerror.h
+description: A delegate was assigned when not allowed.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80000018",
+  "codeUrl": "/win32/winerror-h/e_illegal_delegate_assignment/0x80000018/",
+  "numericCode": -2147483624,
+  "define": "E_ILLEGAL_DELEGATE_ASSIGNMENT",
+  "defineUrl": "/win32/winerror-h/e_illegal_delegate_assignment/",
+  "message": "A delegate was assigned when not allowed.",
+  "remarks": null,
+  "aka": [
+    "-2147483624"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/e_illegal_delegate_assignment/-2147483624/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

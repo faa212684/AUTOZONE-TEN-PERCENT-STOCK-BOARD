@@ -1,0 +1,28 @@
+---
+output: win32\fsrmerr-h\fsrm_e_secure_properties_not_supported\0x80045381\index.html.json
+
+title: 0x80045381 FSRM_E_SECURE_PROPERTIES_NOT_SUPPORTED in fsrmerr.h
+description: The computer hosting the file or folder does not support setting secure properties. This can occur if the computer is running Windows Server 2008 R2, Windows 7, or earlier, or if the computer is not running Windows.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "fsrmerr.h",
+  "sourceUrl": "/win32/fsrmerr-h/",
+  "code": "0x80045381",
+  "codeUrl": "/win32/fsrmerr-h/fsrm_e_secure_properties_not_supported/0x80045381/",
+  "numericCode": -2147200127,
+  "define": "FSRM_E_SECURE_PROPERTIES_NOT_SUPPORTED",
+  "defineUrl": "/win32/fsrmerr-h/fsrm_e_secure_properties_not_supported/",
+  "message": "The computer hosting the file or folder does not support setting secure properties. This can occur if the computer is running Windows Server 2008 R2, Windows 7, or earlier, or if the computer is not running Windows.",
+  "remarks": null,
+  "aka": [
+    "-2147200127"
+  ],
+  "akaUrl": [
+    "/win32/fsrmerr-h/fsrm_e_secure_properties_not_supported/-2147200127/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

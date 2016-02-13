@@ -1,0 +1,28 @@
+---
+output: win32\windowssearcherrors-h\idx_e_metafile_corrupt\0x80041102\index.html.json
+
+title: 0x80041102 IDX_E_METAFILE_CORRUPT in WindowsSearchErrors.h
+description: The propagation configuration file cannot be read.  Check that the same versions of search are used on both the content index and search servers.  If the problem persists, recrawl and repropagate the content index.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "0x80041102",
+  "codeUrl": "/win32/windowssearcherrors-h/idx_e_metafile_corrupt/0x80041102/",
+  "numericCode": -2147217150,
+  "define": "IDX_E_METAFILE_CORRUPT",
+  "defineUrl": "/win32/windowssearcherrors-h/idx_e_metafile_corrupt/",
+  "message": "The propagation configuration file cannot be read.  Check that the same versions of search are used on both the content index and search servers.  If the problem persists, recrawl and repropagate the content index.",
+  "remarks": null,
+  "aka": [
+    "-2147217150"
+  ],
+  "akaUrl": [
+    "/win32/windowssearcherrors-h/idx_e_metafile_corrupt/-2147217150/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

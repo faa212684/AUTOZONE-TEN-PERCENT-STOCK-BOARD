@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\sec_e_unfinished_context_deleted\0x80090333\index.html.json
+
+title: 0x80090333 SEC_E_UNFINISHED_CONTEXT_DELETED in winerror.h
+description: A security context was deleted before the context was completed. This is considered a logon failure.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80090333",
+  "codeUrl": "/win32/winerror-h/sec_e_unfinished_context_deleted/0x80090333/",
+  "numericCode": -2146893005,
+  "define": "SEC_E_UNFINISHED_CONTEXT_DELETED",
+  "defineUrl": "/win32/winerror-h/sec_e_unfinished_context_deleted/",
+  "message": "A security context was deleted before the context was completed. This is considered a logon failure.",
+  "remarks": null,
+  "aka": [
+    "-2146893005"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/sec_e_unfinished_context_deleted/-2146893005/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

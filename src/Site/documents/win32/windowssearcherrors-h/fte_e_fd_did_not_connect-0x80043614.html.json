@@ -1,0 +1,28 @@
+---
+output: win32\windowssearcherrors-h\fte_e_fd_did_not_connect\0x80043614\index.html.json
+
+title: 0x80043614 FTE_E_FD_DID_NOT_CONNECT in WindowsSearchErrors.h
+description: The MSFTEFD process was launched but did not connect with the MSFTESQL service.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "0x80043614",
+  "codeUrl": "/win32/windowssearcherrors-h/fte_e_fd_did_not_connect/0x80043614/",
+  "numericCode": -2147207660,
+  "define": "FTE_E_FD_DID_NOT_CONNECT",
+  "defineUrl": "/win32/windowssearcherrors-h/fte_e_fd_did_not_connect/",
+  "message": "The MSFTEFD process was launched but did not connect with the MSFTESQL service.",
+  "remarks": null,
+  "aka": [
+    "-2147207660"
+  ],
+  "akaUrl": [
+    "/win32/windowssearcherrors-h/fte_e_fd_did_not_connect/-2147207660/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

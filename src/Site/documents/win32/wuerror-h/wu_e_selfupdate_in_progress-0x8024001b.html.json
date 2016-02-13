@@ -1,0 +1,28 @@
+---
+output: win32\wuerror-h\wu_e_selfupdate_in_progress\0x8024001b\index.html.json
+
+title: 0x8024001B WU_E_SELFUPDATE_IN_PROGRESS in wuerror.h
+description: The operation could not be performed because the Windows Update Agent is self-updating.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wuerror.h",
+  "sourceUrl": "/win32/wuerror-h/",
+  "code": "0x8024001B",
+  "codeUrl": "/win32/wuerror-h/wu_e_selfupdate_in_progress/0x8024001b/",
+  "numericCode": -2145124325,
+  "define": "WU_E_SELFUPDATE_IN_PROGRESS",
+  "defineUrl": "/win32/wuerror-h/wu_e_selfupdate_in_progress/",
+  "message": "The operation could not be performed because the Windows Update Agent is self-updating.",
+  "remarks": null,
+  "aka": [
+    "-2145124325"
+  ],
+  "akaUrl": [
+    "/win32/wuerror-h/wu_e_selfupdate_in_progress/-2145124325/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

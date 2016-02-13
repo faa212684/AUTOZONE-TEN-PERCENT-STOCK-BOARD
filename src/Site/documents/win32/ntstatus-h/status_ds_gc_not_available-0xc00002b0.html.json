@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_ds_gc_not_available\0xc00002b0\index.html.json
+
+title: 0xC00002B0 STATUS_DS_GC_NOT_AVAILABLE in ntstatus.h
+description: Unable to Contact the Global Catalog Server.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC00002B0",
+  "codeUrl": "/win32/ntstatus-h/status_ds_gc_not_available/0xc00002b0/",
+  "numericCode": -1073741136,
+  "define": "STATUS_DS_GC_NOT_AVAILABLE",
+  "defineUrl": "/win32/ntstatus-h/status_ds_gc_not_available/",
+  "message": "Unable to Contact the Global Catalog Server.",
+  "remarks": null,
+  "aka": [
+    "-1073741136"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_ds_gc_not_available/-1073741136/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

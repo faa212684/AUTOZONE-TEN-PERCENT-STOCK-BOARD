@@ -1,0 +1,28 @@
+---
+output: win32\bitsmsg-h\bg_s_unable_to_delete_files\0x0020001a\index.html.json
+
+title: 0x0020001A BG_S_UNABLE_TO_DELETE_FILES in BitsMsg.h
+description: Some of the temporary files could not be deleted. Check the system event log for the complete list of files that could not be deleted.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "BitsMsg.h",
+  "sourceUrl": "/win32/bitsmsg-h/",
+  "code": "0x0020001A",
+  "codeUrl": "/win32/bitsmsg-h/bg_s_unable_to_delete_files/0x0020001a/",
+  "numericCode": 2097178,
+  "define": "BG_S_UNABLE_TO_DELETE_FILES",
+  "defineUrl": "/win32/bitsmsg-h/bg_s_unable_to_delete_files/",
+  "message": "Some of the temporary files could not be deleted. Check the system event log for the complete list of files that could not be deleted.",
+  "remarks": null,
+  "aka": [
+    "2097178"
+  ],
+  "akaUrl": [
+    "/win32/bitsmsg-h/bg_s_unable_to_delete_files/2097178/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

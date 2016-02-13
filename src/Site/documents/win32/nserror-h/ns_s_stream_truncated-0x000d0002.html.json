@@ -1,0 +1,28 @@
+---
+output: win32\nserror-h\ns_s_stream_truncated\0x000d0002\index.html.json
+
+title: 0x000D0002 NS_S_STREAM_TRUNCATED in nserror.h
+description: The stream was purposefully stopped before completion.%0
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "nserror.h",
+  "sourceUrl": "/win32/nserror-h/",
+  "code": "0x000D0002",
+  "codeUrl": "/win32/nserror-h/ns_s_stream_truncated/0x000d0002/",
+  "numericCode": 851970,
+  "define": "NS_S_STREAM_TRUNCATED",
+  "defineUrl": "/win32/nserror-h/ns_s_stream_truncated/",
+  "message": "The stream was purposefully stopped before completion.%0",
+  "remarks": null,
+  "aka": [
+    "851970"
+  ],
+  "akaUrl": [
+    "/win32/nserror-h/ns_s_stream_truncated/851970/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

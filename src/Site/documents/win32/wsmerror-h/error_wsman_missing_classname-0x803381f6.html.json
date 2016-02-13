@@ -1,0 +1,29 @@
+---
+output: win32\wsmerror-h\error_wsman_missing_classname\0x803381f6\index.html.json
+
+title: 0x803381F6 ERROR_WSMAN_MISSING_CLASSNAME in wsmerror.h
+description: The WinRM client cannot process the request because the class name is not valid.
+Supply a valid class name or set the Resource URI option and retry the request.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x803381F6",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_missing_classname/0x803381f6/",
+  "numericCode": -2144108042,
+  "define": "ERROR_WSMAN_MISSING_CLASSNAME",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_missing_classname/",
+  "message": "The WinRM client cannot process the request because the class name is not valid.\r\nSupply a valid class name or set the Resource URI option and retry the request.",
+  "remarks": null,
+  "aka": [
+    "-2144108042"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_missing_classname/-2144108042/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

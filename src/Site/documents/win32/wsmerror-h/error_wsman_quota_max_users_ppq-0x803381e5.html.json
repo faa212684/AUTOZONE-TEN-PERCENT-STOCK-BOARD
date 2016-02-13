@@ -1,0 +1,29 @@
+---
+output: win32\wsmerror-h\error_wsman_quota_max_users_ppq\0x803381e5\index.html.json
+
+title: 0x803381E5 ERROR_WSMAN_QUOTA_MAX_USERS_PPQ in wsmerror.h
+description: The WS-Management service cannot process the request. The maximum number of users executing remote operations has been exceeded for this plugin.
+Retry the request later or raise the quota for concurrent users.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x803381E5",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_quota_max_users_ppq/0x803381e5/",
+  "numericCode": -2144108059,
+  "define": "ERROR_WSMAN_QUOTA_MAX_USERS_PPQ",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_quota_max_users_ppq/",
+  "message": "The WS-Management service cannot process the request. The maximum number of users executing remote operations has been exceeded for this plugin.\r\nRetry the request later or raise the quota for concurrent users.",
+  "remarks": null,
+  "aka": [
+    "-2144108059"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_quota_max_users_ppq/-2144108059/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

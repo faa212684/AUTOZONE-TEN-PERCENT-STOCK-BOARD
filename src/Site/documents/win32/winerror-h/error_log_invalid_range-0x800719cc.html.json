@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_log_invalid_range\0x800719cc\index.html.json
+canonical: /win32/winerror-h/error_log_invalid_range/6604/
+title: 0x800719cc ERROR_LOG_INVALID_RANGE in winerror.h
+description: Log service encountered an attempt access data outside the active log range.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800719cc",
+  "codeUrl": "/win32/winerror-h/error_log_invalid_range/0x800719cc/",
+  "numericCode": 0,
+  "define": "ERROR_LOG_INVALID_RANGE",
+  "defineUrl": "/win32/winerror-h/error_log_invalid_range/",
+  "message": "Log service encountered an attempt access data outside the active log range.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "6604",
+  "originalCodeUrl": "/win32/winerror-h/error_log_invalid_range/6604/"
+}

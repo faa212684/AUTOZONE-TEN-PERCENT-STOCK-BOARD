@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_browser_role_change_failed\0xc0001f48\index.html.json
+
+title: 0xC0001F48 EVENT_BROWSER_ROLE_CHANGE_FAILED in netevent.h
+description: The browser was unable to update its role.  The data is the error.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC0001F48",
+  "codeUrl": "/win32/netevent-h/event_browser_role_change_failed/0xc0001f48/",
+  "numericCode": -1073733816,
+  "define": "EVENT_BROWSER_ROLE_CHANGE_FAILED",
+  "defineUrl": "/win32/netevent-h/event_browser_role_change_failed/",
+  "message": "The browser was unable to update its role.  The data is the error.",
+  "remarks": null,
+  "aka": [
+    "-1073733816"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_browser_role_change_failed/-1073733816/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

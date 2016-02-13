@@ -1,0 +1,41 @@
+---
+output: win32\netevent-h\event_dnsapi_deregistration_failed_timeout\0x80002bac\index.html.json
+
+title: 0x80002BAC EVENT_DNSAPI_DEREGISTRATION_FAILED_TIMEOUT in netevent.h
+description: The system failed to update and remove registration for the
+network adapter with settings:%n%n
+Adapter Name : %1%n
+Host Name : %2%n
+Adapter-specific Domain Suffix : %3%n
+DNS server list :%n
+%4%n
+Sent update to server : %5%n
+IP Address(es) :%n
+%6%n%n
+The reason for this failure is because the DNS server it sent the update
+request to timed out. The most likely cause of this failure is that the
+DNS server authoritative for the zone where the registration was originally
+made is either not running or unreachable through the network at this time.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x80002BAC",
+  "codeUrl": "/win32/netevent-h/event_dnsapi_deregistration_failed_timeout/0x80002bac/",
+  "numericCode": -2147472468,
+  "define": "EVENT_DNSAPI_DEREGISTRATION_FAILED_TIMEOUT",
+  "defineUrl": "/win32/netevent-h/event_dnsapi_deregistration_failed_timeout/",
+  "message": "The system failed to update and remove registration for the\r\nnetwork adapter with settings:%n%n\r\nAdapter Name : %1%n\r\nHost Name : %2%n\r\nAdapter-specific Domain Suffix : %3%n\r\nDNS server list :%n\r\n%4%n\r\nSent update to server : %5%n\r\nIP Address(es) :%n\r\n%6%n%n\r\nThe reason for this failure is because the DNS server it sent the update\r\nrequest to timed out. The most likely cause of this failure is that the\r\nDNS server authoritative for the zone where the registration was originally\r\nmade is either not running or unreachable through the network at this time.",
+  "remarks": null,
+  "aka": [
+    "-2147472468"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_dnsapi_deregistration_failed_timeout/-2147472468/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

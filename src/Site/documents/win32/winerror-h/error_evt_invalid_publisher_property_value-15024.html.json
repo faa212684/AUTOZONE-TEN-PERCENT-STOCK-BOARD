@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_evt_invalid_publisher_property_value\15024\index.html.json
+
+title: 15024 ERROR_EVT_INVALID_PUBLISHER_PROPERTY_VALUE in winerror.h
+description: Publisher property %1!s! contains invalid value. The value has invalid type, is outside of valid range, can't be updated or is not supported by this type of publisher.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "15024",
+  "codeUrl": "/win32/winerror-h/error_evt_invalid_publisher_property_value/15024/",
+  "numericCode": 15024,
+  "define": "ERROR_EVT_INVALID_PUBLISHER_PROPERTY_VALUE",
+  "defineUrl": "/win32/winerror-h/error_evt_invalid_publisher_property_value/",
+  "message": "Publisher property %1!s! contains invalid value. The value has invalid type, is outside of valid range, can't be updated or is not supported by this type of publisher.",
+  "remarks": null,
+  "aka": [
+    "0x80073ab0",
+    "-2147009872"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_evt_invalid_publisher_property_value/0x80073ab0/",
+    "/win32/winerror-h/error_evt_invalid_publisher_property_value/-2147009872/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

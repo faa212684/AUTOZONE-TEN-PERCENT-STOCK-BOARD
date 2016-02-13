@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_not_read_from_copy\0xc000046a\index.html.json
+
+title: 0xC000046A STATUS_NOT_READ_FROM_COPY in ntstatus.h
+description: The specified copy of the requested data could not be read.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000046A",
+  "codeUrl": "/win32/ntstatus-h/status_not_read_from_copy/0xc000046a/",
+  "numericCode": -1073740694,
+  "define": "STATUS_NOT_READ_FROM_COPY",
+  "defineUrl": "/win32/ntstatus-h/status_not_read_from_copy/",
+  "message": "The specified copy of the requested data could not be read.",
+  "remarks": null,
+  "aka": [
+    "-1073740694"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_not_read_from_copy/-1073740694/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

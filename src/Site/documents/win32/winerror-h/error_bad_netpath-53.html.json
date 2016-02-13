@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_bad_netpath\53\index.html.json
+
+title: 53 ERROR_BAD_NETPATH in winerror.h
+description: The network path was not found.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "53",
+  "codeUrl": "/win32/winerror-h/error_bad_netpath/53/",
+  "numericCode": 53,
+  "define": "ERROR_BAD_NETPATH",
+  "defineUrl": "/win32/winerror-h/error_bad_netpath/",
+  "message": "The network path was not found.",
+  "remarks": null,
+  "aka": [
+    "0x80070035",
+    "-2147024843"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_bad_netpath/0x80070035/",
+    "/win32/winerror-h/error_bad_netpath/-2147024843/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

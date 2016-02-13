@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\frs_err_sysvol_demote\0x80071f50\index.html.json
+canonical: /win32/winerror-h/frs_err_sysvol_demote/8016/
+title: 0x80071f50 FRS_ERR_SYSVOL_DEMOTE in winerror.h
+description: The file replication service cannot stop replicating the system volume because of an internal error. The event log may have more information.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80071f50",
+  "codeUrl": "/win32/winerror-h/frs_err_sysvol_demote/0x80071f50/",
+  "numericCode": 0,
+  "define": "FRS_ERR_SYSVOL_DEMOTE",
+  "defineUrl": "/win32/winerror-h/frs_err_sysvol_demote/",
+  "message": "The file replication service cannot stop replicating the system volume because of an internal error. The event log may have more information.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "8016",
+  "originalCodeUrl": "/win32/winerror-h/frs_err_sysvol_demote/8016/"
+}

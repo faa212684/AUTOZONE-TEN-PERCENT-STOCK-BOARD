@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_quorum_resource\0x8007139c\index.html.json
+canonical: /win32/winerror-h/error_quorum_resource/5020/
+title: 0x8007139c ERROR_QUORUM_RESOURCE in winerror.h
+description: The cluster resource could not be deleted or brought offline because it is the quorum resource.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007139c",
+  "codeUrl": "/win32/winerror-h/error_quorum_resource/0x8007139c/",
+  "numericCode": 0,
+  "define": "ERROR_QUORUM_RESOURCE",
+  "defineUrl": "/win32/winerror-h/error_quorum_resource/",
+  "message": "The cluster resource could not be deleted or brought offline because it is the quorum resource.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "5020",
+  "originalCodeUrl": "/win32/winerror-h/error_quorum_resource/5020/"
+}

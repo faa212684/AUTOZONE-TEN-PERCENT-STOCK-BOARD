@@ -1,0 +1,24 @@
+---
+output: bugcheck\bugcodes-h\irql_gt_zero_at_system_service\74\index.html.json
+canonical: /bugcheck/bugcodes-h/irql_gt_zero_at_system_service/0x0000004a/
+title: 74 IRQL_GT_ZERO_AT_SYSTEM_SERVICE in bugcodes.h
+description: IRQL_GT_ZERO_AT_SYSTEM_SERVICE
+disqus: false
+---
+{
+  "area": "bugcheck",
+  "areaUrl": "/bugcheck/",
+  "source": "bugcodes.h",
+  "sourceUrl": "/bugcheck/bugcodes-h/",
+  "code": "74",
+  "codeUrl": "/bugcheck/bugcodes-h/irql_gt_zero_at_system_service/74/",
+  "numericCode": 0,
+  "define": "IRQL_GT_ZERO_AT_SYSTEM_SERVICE",
+  "defineUrl": "/bugcheck/bugcodes-h/irql_gt_zero_at_system_service/",
+  "message": "IRQL_GT_ZERO_AT_SYSTEM_SERVICE",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x0000004A",
+  "originalCodeUrl": "/bugcheck/bugcodes-h/irql_gt_zero_at_system_service/0x0000004a/"
+}

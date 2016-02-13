@@ -1,0 +1,30 @@
+---
+output: win32\ntstatus-h\status_file_corrupt_error\0xc0000102\index.html.json
+
+title: 0xC0000102 STATUS_FILE_CORRUPT_ERROR in ntstatus.h
+description: "{Corrupt File}
+The file or directory %hs is corrupt and unreadable.
+Please run the Chkdsk utility."
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000102",
+  "codeUrl": "/win32/ntstatus-h/status_file_corrupt_error/0xc0000102/",
+  "numericCode": -1073741566,
+  "define": "STATUS_FILE_CORRUPT_ERROR",
+  "defineUrl": "/win32/ntstatus-h/status_file_corrupt_error/",
+  "message": "{Corrupt File}\r\nThe file or directory %hs is corrupt and unreadable.\r\nPlease run the Chkdsk utility.",
+  "remarks": null,
+  "aka": [
+    "-1073741566"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_file_corrupt_error/-1073741566/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

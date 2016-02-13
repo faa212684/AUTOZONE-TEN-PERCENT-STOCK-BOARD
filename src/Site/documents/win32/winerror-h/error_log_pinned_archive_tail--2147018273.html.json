@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_log_pinned_archive_tail\-2147018273\index.html.json
+canonical: /win32/winerror-h/error_log_pinned_archive_tail/6623/
+title: -2147018273 ERROR_LOG_PINNED_ARCHIVE_TAIL in winerror.h
+description: Log space cannot be reclaimed because the log is pinned by the archive tail.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147018273",
+  "codeUrl": "/win32/winerror-h/error_log_pinned_archive_tail/-2147018273/",
+  "numericCode": 0,
+  "define": "ERROR_LOG_PINNED_ARCHIVE_TAIL",
+  "defineUrl": "/win32/winerror-h/error_log_pinned_archive_tail/",
+  "message": "Log space cannot be reclaimed because the log is pinned by the archive tail.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "6623",
+  "originalCodeUrl": "/win32/winerror-h/error_log_pinned_archive_tail/6623/"
+}

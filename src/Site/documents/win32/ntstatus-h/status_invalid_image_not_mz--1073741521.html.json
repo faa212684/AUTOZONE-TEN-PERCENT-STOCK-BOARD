@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_invalid_image_not_mz\-1073741521\index.html.json
+canonical: /win32/ntstatus-h/status_invalid_image_not_mz/0xc000012f/
+title: -1073741521 STATUS_INVALID_IMAGE_NOT_MZ in ntstatus.h
+description: The specified image file did not have the correct format, it did not have an initial MZ.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741521",
+  "codeUrl": "/win32/ntstatus-h/status_invalid_image_not_mz/-1073741521/",
+  "numericCode": 0,
+  "define": "STATUS_INVALID_IMAGE_NOT_MZ",
+  "defineUrl": "/win32/ntstatus-h/status_invalid_image_not_mz/",
+  "message": "The specified image file did not have the correct format, it did not have an initial MZ.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC000012F",
+  "originalCodeUrl": "/win32/ntstatus-h/status_invalid_image_not_mz/0xc000012f/"
+}

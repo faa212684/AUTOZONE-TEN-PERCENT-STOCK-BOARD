@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\dns_error_not_allowed_under_delegation\0x8007255b\index.html.json
+canonical: /win32/winerror-h/dns_error_not_allowed_under_delegation/9563/
+title: 0x8007255b DNS_ERROR_NOT_ALLOWED_UNDER_DELEGATION in winerror.h
+description: The record could not be created because this part of the DNS namespace has been delegated to another server.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007255b",
+  "codeUrl": "/win32/winerror-h/dns_error_not_allowed_under_delegation/0x8007255b/",
+  "numericCode": 0,
+  "define": "DNS_ERROR_NOT_ALLOWED_UNDER_DELEGATION",
+  "defineUrl": "/win32/winerror-h/dns_error_not_allowed_under_delegation/",
+  "message": "The record could not be created because this part of the DNS namespace has been delegated to another server.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "9563",
+  "originalCodeUrl": "/win32/winerror-h/dns_error_not_allowed_under_delegation/9563/"
+}

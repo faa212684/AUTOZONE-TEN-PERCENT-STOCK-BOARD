@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_access_disabled_no_safer_ui_by_policy\-1073740942\index.html.json
+canonical: /win32/ntstatus-h/status_access_disabled_no_safer_ui_by_policy/0xc0000372/
+title: -1073740942 STATUS_ACCESS_DISABLED_NO_SAFER_UI_BY_POLICY in ntstatus.h
+description: Access to %1 has been restricted by your Administrator by policy rule %2.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073740942",
+  "codeUrl": "/win32/ntstatus-h/status_access_disabled_no_safer_ui_by_policy/-1073740942/",
+  "numericCode": 0,
+  "define": "STATUS_ACCESS_DISABLED_NO_SAFER_UI_BY_POLICY",
+  "defineUrl": "/win32/ntstatus-h/status_access_disabled_no_safer_ui_by_policy/",
+  "message": "Access to %1 has been restricted by your Administrator by policy rule %2.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000372",
+  "originalCodeUrl": "/win32/ntstatus-h/status_access_disabled_no_safer_ui_by_policy/0xc0000372/"
+}

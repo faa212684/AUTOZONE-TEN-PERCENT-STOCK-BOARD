@@ -1,0 +1,29 @@
+---
+output: win32\wsmerror-h\error_wsman_parameter_type_mismatch\0x80338054\index.html.json
+
+title: 0x80338054 ERROR_WSMAN_PARAMETER_TYPE_MISMATCH in wsmerror.h
+description: The WS-Management service cannot process the request. A parameter that is required for the operation is not the
+correct type.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x80338054",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_parameter_type_mismatch/0x80338054/",
+  "numericCode": -2144108460,
+  "define": "ERROR_WSMAN_PARAMETER_TYPE_MISMATCH",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_parameter_type_mismatch/",
+  "message": "The WS-Management service cannot process the request. A parameter that is required for the operation is not the\r\ncorrect type.",
+  "remarks": null,
+  "aka": [
+    "-2144108460"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_parameter_type_mismatch/-2144108460/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

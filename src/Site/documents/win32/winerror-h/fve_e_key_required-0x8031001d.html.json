@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\fve_e_key_required\0x8031001d\index.html.json
+
+title: 0x8031001D FVE_E_KEY_REQUIRED in winerror.h
+description: One or more BitLocker key protectors are required. You cannot delete the last key on this drive.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8031001D",
+  "codeUrl": "/win32/winerror-h/fve_e_key_required/0x8031001d/",
+  "numericCode": -2144272355,
+  "define": "FVE_E_KEY_REQUIRED",
+  "defineUrl": "/win32/winerror-h/fve_e_key_required/",
+  "message": "One or more BitLocker key protectors are required. You cannot delete the last key on this drive.",
+  "remarks": null,
+  "aka": [
+    "-2144272355"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/fve_e_key_required/-2144272355/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

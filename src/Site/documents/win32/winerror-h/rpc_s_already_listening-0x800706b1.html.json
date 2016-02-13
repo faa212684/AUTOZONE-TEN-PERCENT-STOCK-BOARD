@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\rpc_s_already_listening\0x800706b1\index.html.json
+canonical: /win32/winerror-h/rpc_s_already_listening/1713/
+title: 0x800706b1 RPC_S_ALREADY_LISTENING in winerror.h
+description: The RPC server is already listening.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800706b1",
+  "codeUrl": "/win32/winerror-h/rpc_s_already_listening/0x800706b1/",
+  "numericCode": 0,
+  "define": "RPC_S_ALREADY_LISTENING",
+  "defineUrl": "/win32/winerror-h/rpc_s_already_listening/",
+  "message": "The RPC server is already listening.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "1713",
+  "originalCodeUrl": "/win32/winerror-h/rpc_s_already_listening/1713/"
+}

@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_tpm_ioerror\0xc029001f\index.html.json
+
+title: 0xC029001F STATUS_TPM_IOERROR in ntstatus.h
+description: An IO error occurred transmitting information to the TPM.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC029001F",
+  "codeUrl": "/win32/ntstatus-h/status_tpm_ioerror/0xc029001f/",
+  "numericCode": -1071054817,
+  "define": "STATUS_TPM_IOERROR",
+  "defineUrl": "/win32/ntstatus-h/status_tpm_ioerror/",
+  "message": "An IO error occurred transmitting information to the TPM.",
+  "remarks": null,
+  "aka": [
+    "-1071054817"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_tpm_ioerror/-1071054817/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

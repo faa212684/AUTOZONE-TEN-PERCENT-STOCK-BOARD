@@ -1,0 +1,30 @@
+---
+output: win32\netevent-h\event_tcpip_ipv4_uninstalled\0x4000106b\index.html.json
+
+title: 0x4000106B EVENT_TCPIP_IPV4_UNINSTALLED in netevent.h
+description: The system detected that IPv4 is not installed.  This may cause some
+networking services to fail to start, or to malfunction.  To install IPv4, use
+"netsh interface ipv4 install".
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x4000106B",
+  "codeUrl": "/win32/netevent-h/event_tcpip_ipv4_uninstalled/0x4000106b/",
+  "numericCode": 1073746027,
+  "define": "EVENT_TCPIP_IPV4_UNINSTALLED",
+  "defineUrl": "/win32/netevent-h/event_tcpip_ipv4_uninstalled/",
+  "message": "The system detected that IPv4 is not installed.  This may cause some\r\nnetworking services to fail to start, or to malfunction.  To install IPv4, use\r\n\"netsh interface ipv4 install\".",
+  "remarks": null,
+  "aka": [
+    "1073746027"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_tcpip_ipv4_uninstalled/1073746027/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

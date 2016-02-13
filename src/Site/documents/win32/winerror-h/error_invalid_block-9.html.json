@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_invalid_block\9\index.html.json
+
+title: 9 ERROR_INVALID_BLOCK in winerror.h
+description: The storage control block address is invalid.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "9",
+  "codeUrl": "/win32/winerror-h/error_invalid_block/9/",
+  "numericCode": 9,
+  "define": "ERROR_INVALID_BLOCK",
+  "defineUrl": "/win32/winerror-h/error_invalid_block/",
+  "message": "The storage control block address is invalid.",
+  "remarks": null,
+  "aka": [
+    "0x80070009",
+    "-2147024887"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_invalid_block/0x80070009/",
+    "/win32/winerror-h/error_invalid_block/-2147024887/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

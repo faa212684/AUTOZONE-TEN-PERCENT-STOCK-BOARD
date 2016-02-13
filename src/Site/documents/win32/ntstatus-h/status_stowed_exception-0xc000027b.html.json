@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_stowed_exception\0xc000027b\index.html.json
+
+title: 0xC000027B STATUS_STOWED_EXCEPTION in ntstatus.h
+description: An application-internal exception has occurred.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000027B",
+  "codeUrl": "/win32/ntstatus-h/status_stowed_exception/0xc000027b/",
+  "numericCode": -1073741189,
+  "define": "STATUS_STOWED_EXCEPTION",
+  "defineUrl": "/win32/ntstatus-h/status_stowed_exception/",
+  "message": "An application-internal exception has occurred.",
+  "remarks": null,
+  "aka": [
+    "-1073741189"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_stowed_exception/-1073741189/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

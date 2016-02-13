@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_not_mapped_view\-1073741799\index.html.json
+canonical: /win32/ntstatus-h/status_not_mapped_view/0xc0000019/
+title: -1073741799 STATUS_NOT_MAPPED_VIEW in ntstatus.h
+description: Address range to unmap is not a mapped view.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741799",
+  "codeUrl": "/win32/ntstatus-h/status_not_mapped_view/-1073741799/",
+  "numericCode": 0,
+  "define": "STATUS_NOT_MAPPED_VIEW",
+  "defineUrl": "/win32/ntstatus-h/status_not_mapped_view/",
+  "message": "Address range to unmap is not a mapped view.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000019",
+  "originalCodeUrl": "/win32/ntstatus-h/status_not_mapped_view/0xc0000019/"
+}

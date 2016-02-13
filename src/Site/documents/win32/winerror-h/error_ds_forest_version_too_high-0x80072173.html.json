@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_ds_forest_version_too_high\0x80072173\index.html.json
+canonical: /win32/winerror-h/error_ds_forest_version_too_high/8563/
+title: 0x80072173 ERROR_DS_FOREST_VERSION_TOO_HIGH in winerror.h
+description: The version of the operating system is incompatible with the current AD DS forest functional level or AD LDS Configuration Set functional level. You must upgrade to a new version of the operating system before this server can become an AD DS Domain Controller or add an AD LDS Instance in this AD DS Forest or AD LDS Configuration Set.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80072173",
+  "codeUrl": "/win32/winerror-h/error_ds_forest_version_too_high/0x80072173/",
+  "numericCode": 0,
+  "define": "ERROR_DS_FOREST_VERSION_TOO_HIGH",
+  "defineUrl": "/win32/winerror-h/error_ds_forest_version_too_high/",
+  "message": "The version of the operating system is incompatible with the current AD DS forest functional level or AD LDS Configuration Set functional level. You must upgrade to a new version of the operating system before this server can become an AD DS Domain Controller or add an AD LDS Instance in this AD DS Forest or AD LDS Configuration Set.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "8563",
+  "originalCodeUrl": "/win32/winerror-h/error_ds_forest_version_too_high/8563/"
+}

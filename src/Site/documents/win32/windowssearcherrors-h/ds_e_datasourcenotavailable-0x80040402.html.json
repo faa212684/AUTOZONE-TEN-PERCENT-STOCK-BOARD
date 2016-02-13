@@ -1,0 +1,28 @@
+---
+output: win32\windowssearcherrors-h\ds_e_datasourcenotavailable\0x80040402\index.html.json
+
+title: 0x80040402 DS_E_DATASOURCENOTAVAILABLE in WindowsSearchErrors.h
+description: The requested content index is disabled on the search server. Contact the system administrator to enable the content index. Check the event log for possible errors.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "0x80040402",
+  "codeUrl": "/win32/windowssearcherrors-h/ds_e_datasourcenotavailable/0x80040402/",
+  "numericCode": -2147220478,
+  "define": "DS_E_DATASOURCENOTAVAILABLE",
+  "defineUrl": "/win32/windowssearcherrors-h/ds_e_datasourcenotavailable/",
+  "message": "The requested content index is disabled on the search server. Contact the system administrator to enable the content index. Check the event log for possible errors.",
+  "remarks": null,
+  "aka": [
+    "-2147220478"
+  ],
+  "akaUrl": [
+    "/win32/windowssearcherrors-h/ds_e_datasourcenotavailable/-2147220478/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

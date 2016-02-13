@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_server_shutdown_in_progress\1255\index.html.json
+
+title: 1255 ERROR_SERVER_SHUTDOWN_IN_PROGRESS in winerror.h
+description: The server machine is shutting down.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1255",
+  "codeUrl": "/win32/winerror-h/error_server_shutdown_in_progress/1255/",
+  "numericCode": 1255,
+  "define": "ERROR_SERVER_SHUTDOWN_IN_PROGRESS",
+  "defineUrl": "/win32/winerror-h/error_server_shutdown_in_progress/",
+  "message": "The server machine is shutting down.",
+  "remarks": null,
+  "aka": [
+    "0x800704e7",
+    "-2147023641"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_server_shutdown_in_progress/0x800704e7/",
+    "/win32/winerror-h/error_server_shutdown_in_progress/-2147023641/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

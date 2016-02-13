@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_invalid_image_win_64\0xc000035a\index.html.json
+
+title: 0xC000035A STATUS_INVALID_IMAGE_WIN_64 in ntstatus.h
+description: The specified image file did not have the correct format, it appears to be a 64-bit Windows image.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000035A",
+  "codeUrl": "/win32/ntstatus-h/status_invalid_image_win_64/0xc000035a/",
+  "numericCode": -1073740966,
+  "define": "STATUS_INVALID_IMAGE_WIN_64",
+  "defineUrl": "/win32/ntstatus-h/status_invalid_image_win_64/",
+  "message": "The specified image file did not have the correct format, it appears to be a 64-bit Windows image.",
+  "remarks": null,
+  "aka": [
+    "-1073740966"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_invalid_image_win_64/-1073740966/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

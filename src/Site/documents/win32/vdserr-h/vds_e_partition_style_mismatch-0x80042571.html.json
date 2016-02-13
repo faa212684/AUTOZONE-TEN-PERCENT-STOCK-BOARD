@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_e_partition_style_mismatch\0x80042571\index.html.json
+
+title: 0x80042571 VDS_E_PARTITION_STYLE_MISMATCH in vdserr.h
+description: The specified partition style does not match that of the disk.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x80042571",
+  "codeUrl": "/win32/vdserr-h/vds_e_partition_style_mismatch/0x80042571/",
+  "numericCode": -2147211919,
+  "define": "VDS_E_PARTITION_STYLE_MISMATCH",
+  "defineUrl": "/win32/vdserr-h/vds_e_partition_style_mismatch/",
+  "message": "The specified partition style does not match that of the disk.",
+  "remarks": null,
+  "aka": [
+    "-2147211919"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_partition_style_mismatch/-2147211919/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

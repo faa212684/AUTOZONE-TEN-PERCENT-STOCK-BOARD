@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_eventlog_file_changed\0x800705df\index.html.json
+canonical: /win32/winerror-h/error_eventlog_file_changed/1503/
+title: 0x800705df ERROR_EVENTLOG_FILE_CHANGED in winerror.h
+description: The event log file has changed between read operations.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800705df",
+  "codeUrl": "/win32/winerror-h/error_eventlog_file_changed/0x800705df/",
+  "numericCode": 0,
+  "define": "ERROR_EVENTLOG_FILE_CHANGED",
+  "defineUrl": "/win32/winerror-h/error_eventlog_file_changed/",
+  "message": "The event log file has changed between read operations.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "1503",
+  "originalCodeUrl": "/win32/winerror-h/error_eventlog_file_changed/1503/"
+}

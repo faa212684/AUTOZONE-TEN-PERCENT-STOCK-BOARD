@@ -1,0 +1,29 @@
+---
+output: win32\wsmerror-h\error_wsman_cert_invalid_usage_client\0x80338155\index.html.json
+
+title: 0x80338155 ERROR_WSMAN_CERT_INVALID_USAGE_CLIENT in wsmerror.h
+description: The WinRM client cannot process the request. The Enhanced Key Usage (EKU) field of the certificate is not set to "Client Authentication".
+Retry the request with a certificate that has the correct EKU.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x80338155",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_cert_invalid_usage_client/0x80338155/",
+  "numericCode": -2144108203,
+  "define": "ERROR_WSMAN_CERT_INVALID_USAGE_CLIENT",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_cert_invalid_usage_client/",
+  "message": "The WinRM client cannot process the request. The Enhanced Key Usage (EKU) field of the certificate is not set to \"Client Authentication\".\r\nRetry the request with a certificate that has the correct EKU.",
+  "remarks": null,
+  "aka": [
+    "-2144108203"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_cert_invalid_usage_client/-2144108203/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

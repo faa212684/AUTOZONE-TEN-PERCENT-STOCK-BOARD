@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_ds_illegal_superior\0x80072099\index.html.json
+canonical: /win32/winerror-h/error_ds_illegal_superior/8345/
+title: 0x80072099 ERROR_DS_ILLEGAL_SUPERIOR in winerror.h
+description: The object cannot be added because the parent is not on the list of possible superiors.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80072099",
+  "codeUrl": "/win32/winerror-h/error_ds_illegal_superior/0x80072099/",
+  "numericCode": 0,
+  "define": "ERROR_DS_ILLEGAL_SUPERIOR",
+  "defineUrl": "/win32/winerror-h/error_ds_illegal_superior/",
+  "message": "The object cannot be added because the parent is not on the list of possible superiors.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "8345",
+  "originalCodeUrl": "/win32/winerror-h/error_ds_illegal_superior/8345/"
+}

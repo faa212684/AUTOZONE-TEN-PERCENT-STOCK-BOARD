@@ -1,0 +1,29 @@
+---
+output: win32\cdosyserr-h\evtexpanddeletingappt\0xc003200f\index.html.json
+
+title: 0xC003200F evtExpandDeletingAppt in CDOSysErr.h
+description: Calendaring agent failed with error code %1 while deleting appointment.
+%n%nFor more information, click http:www.microsoft.com/contentredirect.asp.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "CDOSysErr.h",
+  "sourceUrl": "/win32/cdosyserr-h/",
+  "code": "0xC003200F",
+  "codeUrl": "/win32/cdosyserr-h/evtexpanddeletingappt/0xc003200f/",
+  "numericCode": -1073537009,
+  "define": "evtExpandDeletingAppt",
+  "defineUrl": "/win32/cdosyserr-h/evtexpanddeletingappt/",
+  "message": "Calendaring agent failed with error code %1 while deleting appointment.\r\n%n%nFor more information, click http:www.microsoft.com/contentredirect.asp.",
+  "remarks": null,
+  "aka": [
+    "-1073537009"
+  ],
+  "akaUrl": [
+    "/win32/cdosyserr-h/evtexpanddeletingappt/-1073537009/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

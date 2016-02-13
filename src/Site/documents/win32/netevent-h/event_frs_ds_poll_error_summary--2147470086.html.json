@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_frs_ds_poll_error_summary\-2147470086\index.html.json
+canonical: /win32/netevent-h/event_frs_ds_poll_error_summary/0x800034fa/
+title: -2147470086 EVENT_FRS_DS_POLL_ERROR_SUMMARY in netevent.h
+description: Following is the summary of warnings and errors encountered by File Replication Service
+while polling the Domain Controller %1 for FRS replica set configuration information.
+%n
+%n %2
+%n
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "-2147470086",
+  "codeUrl": "/win32/netevent-h/event_frs_ds_poll_error_summary/-2147470086/",
+  "numericCode": 0,
+  "define": "EVENT_FRS_DS_POLL_ERROR_SUMMARY",
+  "defineUrl": "/win32/netevent-h/event_frs_ds_poll_error_summary/",
+  "message": "Following is the summary of warnings and errors encountered by File Replication Service\r\nwhile polling the Domain Controller %1 for FRS replica set configuration information.\r\n%n\r\n%n %2\r\n%n",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x800034FA",
+  "originalCodeUrl": "/win32/netevent-h/event_frs_ds_poll_error_summary/0x800034fa/"
+}

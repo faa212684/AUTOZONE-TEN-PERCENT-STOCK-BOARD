@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_cluster_no_security_context\5059\index.html.json
+
+title: 5059 ERROR_CLUSTER_NO_SECURITY_CONTEXT in winerror.h
+description: No cluster security context is available.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "5059",
+  "codeUrl": "/win32/winerror-h/error_cluster_no_security_context/5059/",
+  "numericCode": 5059,
+  "define": "ERROR_CLUSTER_NO_SECURITY_CONTEXT",
+  "defineUrl": "/win32/winerror-h/error_cluster_no_security_context/",
+  "message": "No cluster security context is available.",
+  "remarks": null,
+  "aka": [
+    "0x800713c3",
+    "-2147019837"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_cluster_no_security_context/0x800713c3/",
+    "/win32/winerror-h/error_cluster_no_security_context/-2147019837/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

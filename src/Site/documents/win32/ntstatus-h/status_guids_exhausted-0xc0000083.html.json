@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_guids_exhausted\0xc0000083\index.html.json
+
+title: 0xC0000083 STATUS_GUIDS_EXHAUSTED in ntstatus.h
+description: The GUIDs could not be allocated because the Authority Agent was exhausted.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000083",
+  "codeUrl": "/win32/ntstatus-h/status_guids_exhausted/0xc0000083/",
+  "numericCode": -1073741693,
+  "define": "STATUS_GUIDS_EXHAUSTED",
+  "defineUrl": "/win32/ntstatus-h/status_guids_exhausted/",
+  "message": "The GUIDs could not be allocated because the Authority Agent was exhausted.",
+  "remarks": null,
+  "aka": [
+    "-1073741693"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_guids_exhausted/-1073741693/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

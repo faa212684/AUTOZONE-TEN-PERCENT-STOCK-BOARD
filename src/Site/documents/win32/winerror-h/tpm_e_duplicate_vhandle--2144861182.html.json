@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\tpm_e_duplicate_vhandle\-2144861182\index.html.json
+canonical: /win32/winerror-h/tpm_e_duplicate_vhandle/0x80280402/
+title: -2144861182 TPM_E_DUPLICATE_VHANDLE in winerror.h
+description: The TPM returned a duplicate handle and the command needs to be resubmitted.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2144861182",
+  "codeUrl": "/win32/winerror-h/tpm_e_duplicate_vhandle/-2144861182/",
+  "numericCode": 0,
+  "define": "TPM_E_DUPLICATE_VHANDLE",
+  "defineUrl": "/win32/winerror-h/tpm_e_duplicate_vhandle/",
+  "message": "The TPM returned a duplicate handle and the command needs to be resubmitted.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80280402",
+  "originalCodeUrl": "/win32/winerror-h/tpm_e_duplicate_vhandle/0x80280402/"
+}

@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_request_canceled\0xc0000703\index.html.json
+
+title: 0xC0000703 STATUS_REQUEST_CANCELED in ntstatus.h
+description: The ALPC message has been canceled.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000703",
+  "codeUrl": "/win32/ntstatus-h/status_request_canceled/0xc0000703/",
+  "numericCode": -1073740029,
+  "define": "STATUS_REQUEST_CANCELED",
+  "defineUrl": "/win32/ntstatus-h/status_request_canceled/",
+  "message": "The ALPC message has been canceled.",
+  "remarks": null,
+  "aka": [
+    "-1073740029"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_request_canceled/-1073740029/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

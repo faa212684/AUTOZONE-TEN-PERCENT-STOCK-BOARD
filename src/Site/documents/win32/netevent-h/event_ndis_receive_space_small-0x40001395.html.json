@@ -1,0 +1,29 @@
+---
+output: win32\netevent-h\event_ndis_receive_space_small\0x40001395\index.html.json
+
+title: 0x40001395 EVENT_NDIS_RECEIVE_SPACE_SMALL in netevent.h
+description: %2 : The adapter is configured such that the receive space is smaller than
+the maximum packet size.  Some packets may be lost.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x40001395",
+  "codeUrl": "/win32/netevent-h/event_ndis_receive_space_small/0x40001395/",
+  "numericCode": 1073746837,
+  "define": "EVENT_NDIS_RECEIVE_SPACE_SMALL",
+  "defineUrl": "/win32/netevent-h/event_ndis_receive_space_small/",
+  "message": "%2 : The adapter is configured such that the receive space is smaller than\r\nthe maximum packet size.  Some packets may be lost.",
+  "remarks": null,
+  "aka": [
+    "1073746837"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_ndis_receive_space_small/1073746837/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

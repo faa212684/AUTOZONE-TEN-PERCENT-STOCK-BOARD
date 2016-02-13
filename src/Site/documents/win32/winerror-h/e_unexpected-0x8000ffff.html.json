@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\e_unexpected\0x8000ffff\index.html.json
+
+title: 0x8000FFFF E_UNEXPECTED in winerror.h
+description: Catastrophic failure
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8000FFFF",
+  "codeUrl": "/win32/winerror-h/e_unexpected/0x8000ffff/",
+  "numericCode": -2147418113,
+  "define": "E_UNEXPECTED",
+  "defineUrl": "/win32/winerror-h/e_unexpected/",
+  "message": "Catastrophic failure",
+  "remarks": null,
+  "aka": [
+    "-2147418113"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/e_unexpected/-2147418113/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

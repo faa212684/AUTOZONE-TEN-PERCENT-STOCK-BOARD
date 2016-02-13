@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_e_volume_disk_count_max_exceeded\0x80042529\index.html.json
+
+title: 0x80042529 VDS_E_VOLUME_DISK_COUNT_MAX_EXCEEDED in vdserr.h
+description: The disk count for the volume exceeds the maximum.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x80042529",
+  "codeUrl": "/win32/vdserr-h/vds_e_volume_disk_count_max_exceeded/0x80042529/",
+  "numericCode": -2147211991,
+  "define": "VDS_E_VOLUME_DISK_COUNT_MAX_EXCEEDED",
+  "defineUrl": "/win32/vdserr-h/vds_e_volume_disk_count_max_exceeded/",
+  "message": "The disk count for the volume exceeds the maximum.",
+  "remarks": null,
+  "aka": [
+    "-2147211991"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_volume_disk_count_max_exceeded/-2147211991/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

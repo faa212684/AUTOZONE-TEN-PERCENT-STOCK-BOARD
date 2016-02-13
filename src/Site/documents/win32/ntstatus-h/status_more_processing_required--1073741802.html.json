@@ -1,0 +1,25 @@
+---
+output: win32\ntstatus-h\status_more_processing_required\-1073741802\index.html.json
+canonical: /win32/ntstatus-h/status_more_processing_required/0xc0000016/
+title: -1073741802 STATUS_MORE_PROCESSING_REQUIRED in ntstatus.h
+description: "{Still Busy}
+The specified I/O request packet (IRP) cannot be disposed of because the I/O operation is not complete."
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741802",
+  "codeUrl": "/win32/ntstatus-h/status_more_processing_required/-1073741802/",
+  "numericCode": 0,
+  "define": "STATUS_MORE_PROCESSING_REQUIRED",
+  "defineUrl": "/win32/ntstatus-h/status_more_processing_required/",
+  "message": "{Still Busy}\r\nThe specified I/O request packet (IRP) cannot be disposed of because the I/O operation is not complete.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000016",
+  "originalCodeUrl": "/win32/ntstatus-h/status_more_processing_required/0xc0000016/"
+}

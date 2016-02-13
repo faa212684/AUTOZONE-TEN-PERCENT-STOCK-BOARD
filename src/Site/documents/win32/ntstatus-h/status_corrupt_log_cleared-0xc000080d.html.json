@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_corrupt_log_cleared\0xc000080d\index.html.json
+
+title: 0xC000080D STATUS_CORRUPT_LOG_CLEARED in ntstatus.h
+description: One of the volume corruption logs was cleared by chkdsk and no longer contains real corruptions.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000080D",
+  "codeUrl": "/win32/ntstatus-h/status_corrupt_log_cleared/0xc000080d/",
+  "numericCode": -1073739763,
+  "define": "STATUS_CORRUPT_LOG_CLEARED",
+  "defineUrl": "/win32/ntstatus-h/status_corrupt_log_cleared/",
+  "message": "One of the volume corruption logs was cleared by chkdsk and no longer contains real corruptions.",
+  "remarks": null,
+  "aka": [
+    "-1073739763"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_corrupt_log_cleared/-1073739763/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

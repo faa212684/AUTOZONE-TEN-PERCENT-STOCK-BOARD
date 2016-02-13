@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_cluster_join_not_in_progress\0xc013000f\index.html.json
+
+title: 0xC013000F STATUS_CLUSTER_JOIN_NOT_IN_PROGRESS in ntstatus.h
+description: A cluster join operation is not in progress.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC013000F",
+  "codeUrl": "/win32/ntstatus-h/status_cluster_join_not_in_progress/0xc013000f/",
+  "numericCode": -1072496625,
+  "define": "STATUS_CLUSTER_JOIN_NOT_IN_PROGRESS",
+  "defineUrl": "/win32/ntstatus-h/status_cluster_join_not_in_progress/",
+  "message": "A cluster join operation is not in progress.",
+  "remarks": null,
+  "aka": [
+    "-1072496625"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_cluster_join_not_in_progress/-1072496625/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

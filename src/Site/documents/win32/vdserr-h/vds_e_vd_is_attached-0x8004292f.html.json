@@ -1,0 +1,29 @@
+---
+output: win32\vdserr-h\vds_e_vd_is_attached\0x8004292f\index.html.json
+
+title: 0x8004292F VDS_E_VD_IS_ATTACHED in vdserr.h
+description: The requested operation cannot be performed while the virtual disk
+is attached.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x8004292F",
+  "codeUrl": "/win32/vdserr-h/vds_e_vd_is_attached/0x8004292f/",
+  "numericCode": -2147210961,
+  "define": "VDS_E_VD_IS_ATTACHED",
+  "defineUrl": "/win32/vdserr-h/vds_e_vd_is_attached/",
+  "message": "The requested operation cannot be performed while the virtual disk\r\nis attached.",
+  "remarks": null,
+  "aka": [
+    "-2147210961"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_vd_is_attached/-2147210961/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

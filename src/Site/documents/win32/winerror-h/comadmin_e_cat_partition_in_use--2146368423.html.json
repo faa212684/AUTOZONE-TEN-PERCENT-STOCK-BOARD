@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\comadmin_e_cat_partition_in_use\-2146368423\index.html.json
+canonical: /win32/winerror-h/comadmin_e_cat_partition_in_use/0x80110459/
+title: -2146368423 COMADMIN_E_CAT_PARTITION_IN_USE in winerror.h
+description: The partition cannot be deleted because it is the default partition for one or more users
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2146368423",
+  "codeUrl": "/win32/winerror-h/comadmin_e_cat_partition_in_use/-2146368423/",
+  "numericCode": 0,
+  "define": "COMADMIN_E_CAT_PARTITION_IN_USE",
+  "defineUrl": "/win32/winerror-h/comadmin_e_cat_partition_in_use/",
+  "message": "The partition cannot be deleted because it is the default partition for one or more users",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80110459",
+  "originalCodeUrl": "/win32/winerror-h/comadmin_e_cat_partition_in_use/0x80110459/"
+}

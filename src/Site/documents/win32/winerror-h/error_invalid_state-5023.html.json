@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_invalid_state\5023\index.html.json
+
+title: 5023 ERROR_INVALID_STATE in winerror.h
+description: The group or resource is not in the correct state to perform the requested operation.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "5023",
+  "codeUrl": "/win32/winerror-h/error_invalid_state/5023/",
+  "numericCode": 5023,
+  "define": "ERROR_INVALID_STATE",
+  "defineUrl": "/win32/winerror-h/error_invalid_state/",
+  "message": "The group or resource is not in the correct state to perform the requested operation.",
+  "remarks": null,
+  "aka": [
+    "0x8007139f",
+    "-2147019873"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_invalid_state/0x8007139f/",
+    "/win32/winerror-h/error_invalid_state/-2147019873/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

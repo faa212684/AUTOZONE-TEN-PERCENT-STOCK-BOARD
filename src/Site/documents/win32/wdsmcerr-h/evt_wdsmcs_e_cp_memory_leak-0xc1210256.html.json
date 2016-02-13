@@ -1,0 +1,29 @@
+---
+output: win32\wdsmcerr-h\evt_wdsmcs_e_cp_memory_leak\0xc1210256\index.html.json
+
+title: 0xC1210256 EVT_WDSMCS_E_CP_MEMORY_LEAK in wdsmcerr.h
+description: The Content Provider %1 did not release %2 memory allocation(s) after its 
+shutdown function has successfully returned.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wdsmcerr.h",
+  "sourceUrl": "/win32/wdsmcerr-h/",
+  "code": "0xC1210256",
+  "codeUrl": "/win32/wdsmcerr-h/evt_wdsmcs_e_cp_memory_leak/0xc1210256/",
+  "numericCode": -1054801322,
+  "define": "EVT_WDSMCS_E_CP_MEMORY_LEAK",
+  "defineUrl": "/win32/wdsmcerr-h/evt_wdsmcs_e_cp_memory_leak/",
+  "message": "The Content Provider %1 did not release %2 memory allocation(s) after its \r\nshutdown function has successfully returned.",
+  "remarks": null,
+  "aka": [
+    "-1054801322"
+  ],
+  "akaUrl": [
+    "/win32/wdsmcerr-h/evt_wdsmcs_e_cp_memory_leak/-1054801322/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

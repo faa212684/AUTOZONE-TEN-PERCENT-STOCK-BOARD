@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\wsaerefused\10112\index.html.json
+
+title: 10112 WSAEREFUSED in winerror.h
+description: A database query failed because it was actively refused.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "10112",
+  "codeUrl": "/win32/winerror-h/wsaerefused/10112/",
+  "numericCode": 10112,
+  "define": "WSAEREFUSED",
+  "defineUrl": "/win32/winerror-h/wsaerefused/",
+  "message": "A database query failed because it was actively refused.",
+  "remarks": null,
+  "aka": [
+    "0x80072780",
+    "-2147014784"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/wsaerefused/0x80072780/",
+    "/win32/winerror-h/wsaerefused/-2147014784/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

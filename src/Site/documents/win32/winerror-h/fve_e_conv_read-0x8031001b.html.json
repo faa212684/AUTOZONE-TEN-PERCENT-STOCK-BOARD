@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\fve_e_conv_read\0x8031001b\index.html.json
+
+title: 0x8031001B FVE_E_CONV_READ in winerror.h
+description: A read operation failed while converting the drive. The drive was not converted. Please re-enable BitLocker.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8031001B",
+  "codeUrl": "/win32/winerror-h/fve_e_conv_read/0x8031001b/",
+  "numericCode": -2144272357,
+  "define": "FVE_E_CONV_READ",
+  "defineUrl": "/win32/winerror-h/fve_e_conv_read/",
+  "message": "A read operation failed while converting the drive. The drive was not converted. Please re-enable BitLocker.",
+  "remarks": null,
+  "aka": [
+    "-2144272357"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/fve_e_conv_read/-2144272357/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

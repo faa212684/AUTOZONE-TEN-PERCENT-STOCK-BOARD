@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\wsaeaddrnotavail\10049\index.html.json
+
+title: 10049 WSAEADDRNOTAVAIL in winerror.h
+description: The requested address is not valid in its context.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "10049",
+  "codeUrl": "/win32/winerror-h/wsaeaddrnotavail/10049/",
+  "numericCode": 10049,
+  "define": "WSAEADDRNOTAVAIL",
+  "defineUrl": "/win32/winerror-h/wsaeaddrnotavail/",
+  "message": "The requested address is not valid in its context.",
+  "remarks": null,
+  "aka": [
+    "0x80072741",
+    "-2147014847"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/wsaeaddrnotavail/0x80072741/",
+    "/win32/winerror-h/wsaeaddrnotavail/-2147014847/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

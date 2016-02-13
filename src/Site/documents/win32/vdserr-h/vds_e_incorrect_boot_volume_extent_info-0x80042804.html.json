@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_e_incorrect_boot_volume_extent_info\0x80042804\index.html.json
+
+title: 0x80042804 VDS_E_INCORRECT_BOOT_VOLUME_EXTENT_INFO in vdserr.h
+description: Multiple disk extents reported for the boot volume - system error.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x80042804",
+  "codeUrl": "/win32/vdserr-h/vds_e_incorrect_boot_volume_extent_info/0x80042804/",
+  "numericCode": -2147211260,
+  "define": "VDS_E_INCORRECT_BOOT_VOLUME_EXTENT_INFO",
+  "defineUrl": "/win32/vdserr-h/vds_e_incorrect_boot_volume_extent_info/",
+  "message": "Multiple disk extents reported for the boot volume - system error.",
+  "remarks": null,
+  "aka": [
+    "-2147211260"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_incorrect_boot_volume_extent_info/-2147211260/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

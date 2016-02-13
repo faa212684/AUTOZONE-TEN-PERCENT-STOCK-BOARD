@@ -1,0 +1,33 @@
+---
+output: win32\netevent-h\event_frs_no_dns_attribute\0x800034d5\index.html.json
+
+title: 0x800034D5 EVENT_FRS_NO_DNS_ATTRIBUTE in netevent.h
+description: The File Replication Service cannot find the DNS name for the computer %1
+because the "%2" attribute could not be read from the distinguished
+name "%3".
+%n
+%nThe File Replication Service will try using the name "%1" until the
+computer's DNS name appears.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x800034D5",
+  "codeUrl": "/win32/netevent-h/event_frs_no_dns_attribute/0x800034d5/",
+  "numericCode": -2147470123,
+  "define": "EVENT_FRS_NO_DNS_ATTRIBUTE",
+  "defineUrl": "/win32/netevent-h/event_frs_no_dns_attribute/",
+  "message": "The File Replication Service cannot find the DNS name for the computer %1\r\nbecause the \"%2\" attribute could not be read from the distinguished\r\nname \"%3\".\r\n%n\r\n%nThe File Replication Service will try using the name \"%1\" until the\r\ncomputer's DNS name appears.",
+  "remarks": null,
+  "aka": [
+    "-2147470123"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_frs_no_dns_attribute/-2147470123/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

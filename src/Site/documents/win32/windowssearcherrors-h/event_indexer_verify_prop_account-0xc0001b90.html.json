@@ -1,0 +1,28 @@
+---
+output: win32\windowssearcherrors-h\event_indexer_verify_prop_account\0xc0001b90\index.html.json
+
+title: 0xC0001B90 EVENT_INDEXER_VERIFY_PROP_ACCOUNT in WindowsSearchErrors.h
+description: The content index server received an "Access Denied"" error while propagating to the <%2> search server. This usually results from an incorrect configuration of the propagation account. Check that the propagation account is valid.%1
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "0xC0001B90",
+  "codeUrl": "/win32/windowssearcherrors-h/event_indexer_verify_prop_account/0xc0001b90/",
+  "numericCode": -1073734768,
+  "define": "EVENT_INDEXER_VERIFY_PROP_ACCOUNT",
+  "defineUrl": "/win32/windowssearcherrors-h/event_indexer_verify_prop_account/",
+  "message": "The content index server received an \"Access Denied\"\" error while propagating to the <%2> search server. This usually results from an incorrect configuration of the propagation account. Check that the propagation account is valid.%1",
+  "remarks": null,
+  "aka": [
+    "-1073734768"
+  ],
+  "akaUrl": [
+    "/win32/windowssearcherrors-h/event_indexer_verify_prop_account/-1073734768/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

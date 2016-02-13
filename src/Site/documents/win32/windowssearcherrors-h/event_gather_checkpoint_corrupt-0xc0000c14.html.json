@@ -1,0 +1,28 @@
+---
+output: win32\windowssearcherrors-h\event_gather_checkpoint_corrupt\0xc0000c14\index.html.json
+
+title: 0xC0000C14 EVENT_GATHER_CHECKPOINT_CORRUPT in WindowsSearchErrors.h
+description: The project cannot be initialized, because the checkpoint record cannot be read. The data structures on the disk will be reset.  Verify that your hardware is working properly. %1
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "0xC0000C14",
+  "codeUrl": "/win32/windowssearcherrors-h/event_gather_checkpoint_corrupt/0xc0000c14/",
+  "numericCode": -1073738732,
+  "define": "EVENT_GATHER_CHECKPOINT_CORRUPT",
+  "defineUrl": "/win32/windowssearcherrors-h/event_gather_checkpoint_corrupt/",
+  "message": "The project cannot be initialized, because the checkpoint record cannot be read. The data structures on the disk will be reset.  Verify that your hardware is working properly. %1",
+  "remarks": null,
+  "aka": [
+    "-1073738732"
+  ],
+  "akaUrl": [
+    "/win32/windowssearcherrors-h/event_gather_checkpoint_corrupt/-1073738732/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

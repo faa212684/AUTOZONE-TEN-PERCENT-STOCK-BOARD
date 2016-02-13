@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_srv_no_work_item\0x800007e5\index.html.json
+
+title: 0x800007E5 EVENT_SRV_NO_WORK_ITEM in netevent.h
+description: The server was unable to allocate a work item %2 times in the last %3 seconds.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x800007E5",
+  "codeUrl": "/win32/netevent-h/event_srv_no_work_item/0x800007e5/",
+  "numericCode": -2147481627,
+  "define": "EVENT_SRV_NO_WORK_ITEM",
+  "defineUrl": "/win32/netevent-h/event_srv_no_work_item/",
+  "message": "The server was unable to allocate a work item %2 times in the last %3 seconds.",
+  "remarks": null,
+  "aka": [
+    "-2147481627"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_srv_no_work_item/-2147481627/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

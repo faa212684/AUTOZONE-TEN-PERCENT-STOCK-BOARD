@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_process_mode_already_background\402\index.html.json
+
+title: 402 ERROR_PROCESS_MODE_ALREADY_BACKGROUND in winerror.h
+description: The process is already in background processing mode.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "402",
+  "codeUrl": "/win32/winerror-h/error_process_mode_already_background/402/",
+  "numericCode": 402,
+  "define": "ERROR_PROCESS_MODE_ALREADY_BACKGROUND",
+  "defineUrl": "/win32/winerror-h/error_process_mode_already_background/",
+  "message": "The process is already in background processing mode.",
+  "remarks": null,
+  "aka": [
+    "0x80070192",
+    "-2147024494"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_process_mode_already_background/0x80070192/",
+    "/win32/winerror-h/error_process_mode_already_background/-2147024494/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

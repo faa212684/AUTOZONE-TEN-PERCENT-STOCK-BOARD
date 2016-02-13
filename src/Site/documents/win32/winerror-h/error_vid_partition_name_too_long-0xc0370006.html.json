@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\error_vid_partition_name_too_long\0xc0370006\index.html.json
+
+title: 0xC0370006 ERROR_VID_PARTITION_NAME_TOO_LONG in winerror.h
+description: The partition name of the virtualization infrastructure driver exceeds the maximum.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0xC0370006",
+  "codeUrl": "/win32/winerror-h/error_vid_partition_name_too_long/0xc0370006/",
+  "numericCode": -1070137338,
+  "define": "ERROR_VID_PARTITION_NAME_TOO_LONG",
+  "defineUrl": "/win32/winerror-h/error_vid_partition_name_too_long/",
+  "message": "The partition name of the virtualization infrastructure driver exceeds the maximum.",
+  "remarks": null,
+  "aka": [
+    "-1070137338"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_vid_partition_name_too_long/-1070137338/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

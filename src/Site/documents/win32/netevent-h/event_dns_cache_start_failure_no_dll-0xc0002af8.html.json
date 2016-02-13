@@ -1,0 +1,30 @@
+---
+output: win32\netevent-h\event_dns_cache_start_failure_no_dll\0xc0002af8\index.html.json
+
+title: 0xC0002AF8 EVENT_DNS_CACHE_START_FAILURE_NO_DLL in netevent.h
+description: Unable to start DNS Client Service.
+Failed to load DLL %2, Error: %1.
+Please reinstall this DLL from installation CD.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC0002AF8",
+  "codeUrl": "/win32/netevent-h/event_dns_cache_start_failure_no_dll/0xc0002af8/",
+  "numericCode": -1073730824,
+  "define": "EVENT_DNS_CACHE_START_FAILURE_NO_DLL",
+  "defineUrl": "/win32/netevent-h/event_dns_cache_start_failure_no_dll/",
+  "message": "Unable to start DNS Client Service.\r\nFailed to load DLL %2, Error: %1.\r\nPlease reinstall this DLL from installation CD.",
+  "remarks": null,
+  "aka": [
+    "-1073730824"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_dns_cache_start_failure_no_dll/-1073730824/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

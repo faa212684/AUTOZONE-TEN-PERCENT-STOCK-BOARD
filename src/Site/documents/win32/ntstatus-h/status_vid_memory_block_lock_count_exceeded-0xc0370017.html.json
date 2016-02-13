@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_vid_memory_block_lock_count_exceeded\0xc0370017\index.html.json
+
+title: 0xC0370017 STATUS_VID_MEMORY_BLOCK_LOCK_COUNT_EXCEEDED in ntstatus.h
+description: The request to lock or map a memory block page failed because the virtualization infrastructure driver memory block limit has been reached. Restarting the virtual machine may fix the problem. If the problem persists, try restarting the physical computer.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0370017",
+  "codeUrl": "/win32/ntstatus-h/status_vid_memory_block_lock_count_exceeded/0xc0370017/",
+  "numericCode": -1070137321,
+  "define": "STATUS_VID_MEMORY_BLOCK_LOCK_COUNT_EXCEEDED",
+  "defineUrl": "/win32/ntstatus-h/status_vid_memory_block_lock_count_exceeded/",
+  "message": "The request to lock or map a memory block page failed because the virtualization infrastructure driver memory block limit has been reached. Restarting the virtual machine may fix the problem. If the problem persists, try restarting the physical computer.",
+  "remarks": null,
+  "aka": [
+    "-1070137321"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_vid_memory_block_lock_count_exceeded/-1070137321/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

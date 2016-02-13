@@ -1,0 +1,26 @@
+---
+output: win32\ntiologc-h\io_dump_direct_config_failed\-1073479632\index.html.json
+canonical: /win32/ntiologc-h/io_dump_direct_config_failed/0xc0040030/
+title: -1073479632 IO_DUMP_DIRECT_CONFIG_FAILED in ntiologc.h
+description: Direct dump configuration failed. Validate the filename and make sure the target device
+is not a Fault Tolerant set member, remote, or floppy device. The failure may
+be because there is not enough room on the dump device to create the dump file.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntiologc.h",
+  "sourceUrl": "/win32/ntiologc-h/",
+  "code": "-1073479632",
+  "codeUrl": "/win32/ntiologc-h/io_dump_direct_config_failed/-1073479632/",
+  "numericCode": 0,
+  "define": "IO_DUMP_DIRECT_CONFIG_FAILED",
+  "defineUrl": "/win32/ntiologc-h/io_dump_direct_config_failed/",
+  "message": "Direct dump configuration failed. Validate the filename and make sure the target device\r\nis not a Fault Tolerant set member, remote, or floppy device. The failure may\r\nbe because there is not enough room on the dump device to create the dump file.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0040030",
+  "originalCodeUrl": "/win32/ntiologc-h/io_dump_direct_config_failed/0xc0040030/"
+}

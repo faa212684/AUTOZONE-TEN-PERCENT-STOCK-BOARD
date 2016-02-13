@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\rpc_nt_procnum_out_of_range\0xc002002e\index.html.json
+
+title: 0xC002002E RPC_NT_PROCNUM_OUT_OF_RANGE in ntstatus.h
+description: The procedure number is out of range.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC002002E",
+  "codeUrl": "/win32/ntstatus-h/rpc_nt_procnum_out_of_range/0xc002002e/",
+  "numericCode": -1073610706,
+  "define": "RPC_NT_PROCNUM_OUT_OF_RANGE",
+  "defineUrl": "/win32/ntstatus-h/rpc_nt_procnum_out_of_range/",
+  "message": "The procedure number is out of range.",
+  "remarks": null,
+  "aka": [
+    "-1073610706"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/rpc_nt_procnum_out_of_range/-1073610706/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

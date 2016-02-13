@@ -1,0 +1,29 @@
+---
+output: win32\vdserr-h\vds_e_vd_is_being_detached\0x80042938\index.html.json
+
+title: 0x80042938 VDS_E_VD_IS_BEING_DETACHED in vdserr.h
+description: The requested operation cannot be performed while the virtual disk
+is being detached.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x80042938",
+  "codeUrl": "/win32/vdserr-h/vds_e_vd_is_being_detached/0x80042938/",
+  "numericCode": -2147210952,
+  "define": "VDS_E_VD_IS_BEING_DETACHED",
+  "defineUrl": "/win32/vdserr-h/vds_e_vd_is_being_detached/",
+  "message": "The requested operation cannot be performed while the virtual disk\r\nis being detached.",
+  "remarks": null,
+  "aka": [
+    "-2147210952"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_vd_is_being_detached/-2147210952/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\wuerror-h\wu_e_pt_http_status_conflict\0x8024401d\index.html.json
+
+title: 0x8024401D WU_E_PT_HTTP_STATUS_CONFLICT in wuerror.h
+description: Same as HTTP status 409 - the request was not completed due to a conflict with the current state of the resource.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wuerror.h",
+  "sourceUrl": "/win32/wuerror-h/",
+  "code": "0x8024401D",
+  "codeUrl": "/win32/wuerror-h/wu_e_pt_http_status_conflict/0x8024401d/",
+  "numericCode": -2145107939,
+  "define": "WU_E_PT_HTTP_STATUS_CONFLICT",
+  "defineUrl": "/win32/wuerror-h/wu_e_pt_http_status_conflict/",
+  "message": "Same as HTTP status 409 - the request was not completed due to a conflict with the current state of the resource.",
+  "remarks": null,
+  "aka": [
+    "-2145107939"
+  ],
+  "akaUrl": [
+    "/win32/wuerror-h/wu_e_pt_http_status_conflict/-2145107939/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

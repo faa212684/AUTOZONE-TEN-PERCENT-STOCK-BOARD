@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\nwsap_event_optmaxadapternum_error\0xc0002153\index.html.json
+
+title: 0xC0002153 NWSAP_EVENT_OPTMAXADAPTERNUM_ERROR in netevent.h
+description: Error on getsockopt IPX_MAX_ADAPTER_NUM.  Data is the error code.  The Sap Agent cannot continue.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC0002153",
+  "codeUrl": "/win32/netevent-h/nwsap_event_optmaxadapternum_error/0xc0002153/",
+  "numericCode": -1073733293,
+  "define": "NWSAP_EVENT_OPTMAXADAPTERNUM_ERROR",
+  "defineUrl": "/win32/netevent-h/nwsap_event_optmaxadapternum_error/",
+  "message": "Error on getsockopt IPX_MAX_ADAPTER_NUM.  Data is the error code.  The Sap Agent cannot continue.",
+  "remarks": null,
+  "aka": [
+    "-1073733293"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/nwsap_event_optmaxadapternum_error/-1073733293/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

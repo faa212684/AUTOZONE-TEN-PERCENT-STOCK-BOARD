@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_invalid_at_interrupt_time\0x80070068\index.html.json
+canonical: /win32/winerror-h/error_invalid_at_interrupt_time/104/
+title: 0x80070068 ERROR_INVALID_AT_INTERRUPT_TIME in winerror.h
+description: Cannot request exclusive semaphores at interrupt time.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80070068",
+  "codeUrl": "/win32/winerror-h/error_invalid_at_interrupt_time/0x80070068/",
+  "numericCode": 0,
+  "define": "ERROR_INVALID_AT_INTERRUPT_TIME",
+  "defineUrl": "/win32/winerror-h/error_invalid_at_interrupt_time/",
+  "message": "Cannot request exclusive semaphores at interrupt time.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "104",
+  "originalCodeUrl": "/win32/winerror-h/error_invalid_at_interrupt_time/104/"
+}

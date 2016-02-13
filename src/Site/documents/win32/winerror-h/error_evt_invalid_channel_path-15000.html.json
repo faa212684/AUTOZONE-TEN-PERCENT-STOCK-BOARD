@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_evt_invalid_channel_path\15000\index.html.json
+
+title: 15000 ERROR_EVT_INVALID_CHANNEL_PATH in winerror.h
+description: The specified channel path is invalid.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "15000",
+  "codeUrl": "/win32/winerror-h/error_evt_invalid_channel_path/15000/",
+  "numericCode": 15000,
+  "define": "ERROR_EVT_INVALID_CHANNEL_PATH",
+  "defineUrl": "/win32/winerror-h/error_evt_invalid_channel_path/",
+  "message": "The specified channel path is invalid.",
+  "remarks": null,
+  "aka": [
+    "0x80073a98",
+    "-2147009896"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_evt_invalid_channel_path/0x80073a98/",
+    "/win32/winerror-h/error_evt_invalid_channel_path/-2147009896/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

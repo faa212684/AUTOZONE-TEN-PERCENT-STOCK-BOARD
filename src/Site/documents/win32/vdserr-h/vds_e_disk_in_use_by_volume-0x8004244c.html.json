@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_e_disk_in_use_by_volume\0x8004244c\index.html.json
+
+title: 0x8004244C VDS_E_DISK_IN_USE_BY_VOLUME in vdserr.h
+description: The disk is already in use by the volume.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x8004244C",
+  "codeUrl": "/win32/vdserr-h/vds_e_disk_in_use_by_volume/0x8004244c/",
+  "numericCode": -2147212212,
+  "define": "VDS_E_DISK_IN_USE_BY_VOLUME",
+  "defineUrl": "/win32/vdserr-h/vds_e_disk_in_use_by_volume/",
+  "message": "The disk is already in use by the volume.",
+  "remarks": null,
+  "aka": [
+    "-2147212212"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_disk_in_use_by_volume/-2147212212/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

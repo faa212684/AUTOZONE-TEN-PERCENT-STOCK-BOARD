@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_dbg_ripexception\695\index.html.json
+
+title: 695 ERROR_DBG_RIPEXCEPTION in winerror.h
+description: Debugger received RIP exception.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "695",
+  "codeUrl": "/win32/winerror-h/error_dbg_ripexception/695/",
+  "numericCode": 695,
+  "define": "ERROR_DBG_RIPEXCEPTION",
+  "defineUrl": "/win32/winerror-h/error_dbg_ripexception/",
+  "message": "Debugger received RIP exception.",
+  "remarks": null,
+  "aka": [
+    "0x800702b7",
+    "-2147024201"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_dbg_ripexception/0x800702b7/",
+    "/win32/winerror-h/error_dbg_ripexception/-2147024201/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

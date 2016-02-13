@@ -1,0 +1,25 @@
+---
+output: win32\cdosyserr-h\evtmodifyinvalidappt\-2147278799\index.html.json
+canonical: /win32/cdosyserr-h/evtmodifyinvalidappt/0x80032031/
+title: -2147278799 evtModifyInvalidAppt in CDOSysErr.h
+description: An existing appointment with the subject "%1" in mailbox %2 was modified. The start time, or both the duration and end time of the existing appointment were missing.
+%n%nFor more information, click http:www.microsoft.com/contentredirect.asp.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "CDOSysErr.h",
+  "sourceUrl": "/win32/cdosyserr-h/",
+  "code": "-2147278799",
+  "codeUrl": "/win32/cdosyserr-h/evtmodifyinvalidappt/-2147278799/",
+  "numericCode": 0,
+  "define": "evtModifyInvalidAppt",
+  "defineUrl": "/win32/cdosyserr-h/evtmodifyinvalidappt/",
+  "message": "An existing appointment with the subject \"%1\" in mailbox %2 was modified. The start time, or both the duration and end time of the existing appointment were missing.\r\n%n%nFor more information, click http:www.microsoft.com/contentredirect.asp.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80032031",
+  "originalCodeUrl": "/win32/cdosyserr-h/evtmodifyinvalidappt/0x80032031/"
+}

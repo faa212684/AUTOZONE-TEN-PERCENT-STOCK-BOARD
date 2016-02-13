@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\dxgi_status_graphics_vidpn_source_in_use\0x087a0006\index.html.json
+
+title: 0x087A0006 DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE in winerror.h
+description: The Present operation was not visible because the target monitor was being used for some other purpose.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x087A0006",
+  "codeUrl": "/win32/winerror-h/dxgi_status_graphics_vidpn_source_in_use/0x087a0006/",
+  "numericCode": 142213126,
+  "define": "DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE",
+  "defineUrl": "/win32/winerror-h/dxgi_status_graphics_vidpn_source_in_use/",
+  "message": "The Present operation was not visible because the target monitor was being used for some other purpose.",
+  "remarks": null,
+  "aka": [
+    "142213126"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/dxgi_status_graphics_vidpn_source_in_use/142213126/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

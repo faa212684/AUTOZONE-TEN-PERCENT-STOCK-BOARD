@@ -1,0 +1,29 @@
+---
+output: win32\wsmerror-h\error_wsman_sendhearbeat_empty_enumerator\0x803380dd\index.html.json
+
+title: 0x803380DD ERROR_WSMAN_SENDHEARBEAT_EMPTY_ENUMERATOR in wsmerror.h
+description: The WinRM service cannot process the request. WSMAN_FLAG_SEND_HEARTBEAT flag requires the event enumerator to be empty.
+Change the flag or change the event enumerator and try the request again.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x803380DD",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_sendhearbeat_empty_enumerator/0x803380dd/",
+  "numericCode": -2144108323,
+  "define": "ERROR_WSMAN_SENDHEARBEAT_EMPTY_ENUMERATOR",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_sendhearbeat_empty_enumerator/",
+  "message": "The WinRM service cannot process the request. WSMAN_FLAG_SEND_HEARTBEAT flag requires the event enumerator to be empty.\r\nChange the flag or change the event enumerator and try the request again.",
+  "remarks": null,
+  "aka": [
+    "-2144108323"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_sendhearbeat_empty_enumerator/-2144108323/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

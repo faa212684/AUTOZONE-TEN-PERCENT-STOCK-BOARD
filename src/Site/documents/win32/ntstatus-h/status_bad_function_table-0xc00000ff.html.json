@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_bad_function_table\0xc00000ff\index.html.json
+
+title: 0xC00000FF STATUS_BAD_FUNCTION_TABLE in ntstatus.h
+description: A malformed function table was encountered during an unwind operation.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC00000FF",
+  "codeUrl": "/win32/ntstatus-h/status_bad_function_table/0xc00000ff/",
+  "numericCode": -1073741569,
+  "define": "STATUS_BAD_FUNCTION_TABLE",
+  "defineUrl": "/win32/ntstatus-h/status_bad_function_table/",
+  "message": "A malformed function table was encountered during an unwind operation.",
+  "remarks": null,
+  "aka": [
+    "-1073741569"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_bad_function_table/-1073741569/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

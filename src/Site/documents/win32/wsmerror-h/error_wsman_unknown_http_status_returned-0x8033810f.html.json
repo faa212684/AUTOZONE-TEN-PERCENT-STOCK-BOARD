@@ -1,0 +1,28 @@
+---
+output: win32\wsmerror-h\error_wsman_unknown_http_status_returned\0x8033810f\index.html.json
+
+title: 0x8033810F ERROR_WSMAN_UNKNOWN_HTTP_STATUS_RETURNED in wsmerror.h
+description: The WinRM client received an unknown HTTP status code from the remote WS-Management service.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x8033810F",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_unknown_http_status_returned/0x8033810f/",
+  "numericCode": -2144108273,
+  "define": "ERROR_WSMAN_UNKNOWN_HTTP_STATUS_RETURNED",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_unknown_http_status_returned/",
+  "message": "The WinRM client received an unknown HTTP status code from the remote WS-Management service.",
+  "remarks": null,
+  "aka": [
+    "-2144108273"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_unknown_http_status_returned/-2144108273/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

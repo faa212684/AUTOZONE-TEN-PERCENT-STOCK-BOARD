@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_dhcp_address_conflict\4100\index.html.json
+
+title: 4100 ERROR_DHCP_ADDRESS_CONFLICT in winerror.h
+description: The DHCP client has obtained an IP address that is already in use on the network. The local interface will be disabled until the DHCP client can obtain a new address.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "4100",
+  "codeUrl": "/win32/winerror-h/error_dhcp_address_conflict/4100/",
+  "numericCode": 4100,
+  "define": "ERROR_DHCP_ADDRESS_CONFLICT",
+  "defineUrl": "/win32/winerror-h/error_dhcp_address_conflict/",
+  "message": "The DHCP client has obtained an IP address that is already in use on the network. The local interface will be disabled until the DHCP client can obtain a new address.",
+  "remarks": null,
+  "aka": [
+    "0x80071004",
+    "-2147020796"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_dhcp_address_conflict/0x80071004/",
+    "/win32/winerror-h/error_dhcp_address_conflict/-2147020796/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_invalid_plugplay_device_path\0xc0000261\index.html.json
+
+title: 0xC0000261 STATUS_INVALID_PLUGPLAY_DEVICE_PATH in ntstatus.h
+description: The specified Plug and Play registry device path is invalid.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000261",
+  "codeUrl": "/win32/ntstatus-h/status_invalid_plugplay_device_path/0xc0000261/",
+  "numericCode": -1073741215,
+  "define": "STATUS_INVALID_PLUGPLAY_DEVICE_PATH",
+  "defineUrl": "/win32/ntstatus-h/status_invalid_plugplay_device_path/",
+  "message": "The specified Plug and Play registry device path is invalid.",
+  "remarks": null,
+  "aka": [
+    "-1073741215"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_invalid_plugplay_device_path/-1073741215/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

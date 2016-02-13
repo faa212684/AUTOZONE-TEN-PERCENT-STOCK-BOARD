@@ -1,0 +1,29 @@
+---
+output: win32\cdosyserr-h\evtcorruptedcalendar\0xc0032025\index.html.json
+
+title: 0xC0032025 evtCorruptedCalendar in CDOSysErr.h
+description: The calendar for the mailbox %1 is corrupted.  This calendar needs to be recreated.
+%n%nFor more information, click http:www.microsoft.com/contentredirect.asp.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "CDOSysErr.h",
+  "sourceUrl": "/win32/cdosyserr-h/",
+  "code": "0xC0032025",
+  "codeUrl": "/win32/cdosyserr-h/evtcorruptedcalendar/0xc0032025/",
+  "numericCode": -1073536987,
+  "define": "evtCorruptedCalendar",
+  "defineUrl": "/win32/cdosyserr-h/evtcorruptedcalendar/",
+  "message": "The calendar for the mailbox %1 is corrupted.  This calendar needs to be recreated.\r\n%n%nFor more information, click http:www.microsoft.com/contentredirect.asp.",
+  "remarks": null,
+  "aka": [
+    "-1073536987"
+  ],
+  "akaUrl": [
+    "/win32/cdosyserr-h/evtcorruptedcalendar/-1073536987/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ds_couldnt_identify_objects_for_tree_delete\8503\index.html.json
+
+title: 8503 ERROR_DS_COULDNT_IDENTIFY_OBJECTS_FOR_TREE_DELETE in winerror.h
+description: The directory service failed to identify the list of objects to delete while attempting a tree deletion.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "8503",
+  "codeUrl": "/win32/winerror-h/error_ds_couldnt_identify_objects_for_tree_delete/8503/",
+  "numericCode": 8503,
+  "define": "ERROR_DS_COULDNT_IDENTIFY_OBJECTS_FOR_TREE_DELETE",
+  "defineUrl": "/win32/winerror-h/error_ds_couldnt_identify_objects_for_tree_delete/",
+  "message": "The directory service failed to identify the list of objects to delete while attempting a tree deletion.",
+  "remarks": null,
+  "aka": [
+    "0x80072137",
+    "-2147016393"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ds_couldnt_identify_objects_for_tree_delete/0x80072137/",
+    "/win32/winerror-h/error_ds_couldnt_identify_objects_for_tree_delete/-2147016393/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

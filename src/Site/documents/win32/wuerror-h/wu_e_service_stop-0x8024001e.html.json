@@ -1,0 +1,28 @@
+---
+output: win32\wuerror-h\wu_e_service_stop\0x8024001e\index.html.json
+
+title: 0x8024001E WU_E_SERVICE_STOP in wuerror.h
+description: Operation did not complete because the service or system was being shut down.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wuerror.h",
+  "sourceUrl": "/win32/wuerror-h/",
+  "code": "0x8024001E",
+  "codeUrl": "/win32/wuerror-h/wu_e_service_stop/0x8024001e/",
+  "numericCode": -2145124322,
+  "define": "WU_E_SERVICE_STOP",
+  "defineUrl": "/win32/wuerror-h/wu_e_service_stop/",
+  "message": "Operation did not complete because the service or system was being shut down.",
+  "remarks": null,
+  "aka": [
+    "-2145124322"
+  ],
+  "akaUrl": [
+    "/win32/wuerror-h/wu_e_service_stop/-2145124322/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

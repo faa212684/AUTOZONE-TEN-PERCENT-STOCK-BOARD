@@ -1,0 +1,29 @@
+---
+output: win32\ntstatus-h\status_float_multiple_traps\0xc00002b5\index.html.json
+
+title: 0xC00002B5 STATUS_FLOAT_MULTIPLE_TRAPS in ntstatus.h
+description: "{EXCEPTION}
+Multiple floating point traps."
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC00002B5",
+  "codeUrl": "/win32/ntstatus-h/status_float_multiple_traps/0xc00002b5/",
+  "numericCode": -1073741131,
+  "define": "STATUS_FLOAT_MULTIPLE_TRAPS",
+  "defineUrl": "/win32/ntstatus-h/status_float_multiple_traps/",
+  "message": "{EXCEPTION}\r\nMultiple floating point traps.",
+  "remarks": null,
+  "aka": [
+    "-1073741131"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_float_multiple_traps/-1073741131/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\wsmerror-h\error_wsman_operation_timedout\0x80338029\index.html.json
+
+title: 0x80338029 ERROR_WSMAN_OPERATION_TIMEDOUT in wsmerror.h
+description: The WS-Management service cannot complete the operation within the time specified in OperationTimeout.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x80338029",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_operation_timedout/0x80338029/",
+  "numericCode": -2144108503,
+  "define": "ERROR_WSMAN_OPERATION_TIMEDOUT",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_operation_timedout/",
+  "message": "The WS-Management service cannot complete the operation within the time specified in OperationTimeout.",
+  "remarks": null,
+  "aka": [
+    "-2144108503"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_operation_timedout/-2144108503/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

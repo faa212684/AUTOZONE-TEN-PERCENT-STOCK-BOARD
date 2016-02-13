@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_acpi_invalid_eventtype\0xc014000d\index.html.json
+
+title: 0xC014000D STATUS_ACPI_INVALID_EVENTTYPE in ntstatus.h
+description: An incorrect event type was specified
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC014000D",
+  "codeUrl": "/win32/ntstatus-h/status_acpi_invalid_eventtype/0xc014000d/",
+  "numericCode": -1072431091,
+  "define": "STATUS_ACPI_INVALID_EVENTTYPE",
+  "defineUrl": "/win32/ntstatus-h/status_acpi_invalid_eventtype/",
+  "message": "An incorrect event type was specified",
+  "remarks": null,
+  "aka": [
+    "-1072431091"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_acpi_invalid_eventtype/-1072431091/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

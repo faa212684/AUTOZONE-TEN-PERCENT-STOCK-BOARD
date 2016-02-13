@@ -1,0 +1,26 @@
+---
+output: win32\winerror-h\error_bad_current_directory\0x800702bf\index.html.json
+canonical: /win32/winerror-h/error_bad_current_directory/703/
+title: 0x800702bf ERROR_BAD_CURRENT_DIRECTORY in winerror.h
+description: "{Invalid Current Directory}
+The process cannot switch to the startup current directory %hs.
+Select OK to set current directory to %hs, or select CANCEL to exit."
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800702bf",
+  "codeUrl": "/win32/winerror-h/error_bad_current_directory/0x800702bf/",
+  "numericCode": 0,
+  "define": "ERROR_BAD_CURRENT_DIRECTORY",
+  "defineUrl": "/win32/winerror-h/error_bad_current_directory/",
+  "message": "{Invalid Current Directory}\r\nThe process cannot switch to the startup current directory %hs.\r\nSelect OK to set current directory to %hs, or select CANCEL to exit.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "703",
+  "originalCodeUrl": "/win32/winerror-h/error_bad_current_directory/703/"
+}

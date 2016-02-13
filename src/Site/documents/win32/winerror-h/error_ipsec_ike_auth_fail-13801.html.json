@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ipsec_ike_auth_fail\13801\index.html.json
+
+title: 13801 ERROR_IPSEC_IKE_AUTH_FAIL in winerror.h
+description: IKE authentication credentials are unacceptable
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "13801",
+  "codeUrl": "/win32/winerror-h/error_ipsec_ike_auth_fail/13801/",
+  "numericCode": 13801,
+  "define": "ERROR_IPSEC_IKE_AUTH_FAIL",
+  "defineUrl": "/win32/winerror-h/error_ipsec_ike_auth_fail/",
+  "message": "IKE authentication credentials are unacceptable",
+  "remarks": null,
+  "aka": [
+    "0x800735e9",
+    "-2147011095"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ipsec_ike_auth_fail/0x800735e9/",
+    "/win32/winerror-h/error_ipsec_ike_auth_fail/-2147011095/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

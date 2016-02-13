@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ipsec_ike_strong_cred_authorization_failure\13906\index.html.json
+
+title: 13906 ERROR_IPSEC_IKE_STRONG_CRED_AUTHORIZATION_FAILURE in winerror.h
+description: SA establishment is not authorized because there is not a sufficiently strong PKINIT-based credential.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "13906",
+  "codeUrl": "/win32/winerror-h/error_ipsec_ike_strong_cred_authorization_failure/13906/",
+  "numericCode": 13906,
+  "define": "ERROR_IPSEC_IKE_STRONG_CRED_AUTHORIZATION_FAILURE",
+  "defineUrl": "/win32/winerror-h/error_ipsec_ike_strong_cred_authorization_failure/",
+  "message": "SA establishment is not authorized because there is not a sufficiently strong PKINIT-based credential.",
+  "remarks": null,
+  "aka": [
+    "0x80073652",
+    "-2147010990"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ipsec_ike_strong_cred_authorization_failure/0x80073652/",
+    "/win32/winerror-h/error_ipsec_ike_strong_cred_authorization_failure/-2147010990/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

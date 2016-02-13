@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\dfs_referral_request\0x400037ee\index.html.json
+
+title: 0x400037EE DFS_REFERRAL_REQUEST in netevent.h
+description: Dfs received a referral request for "%2".  The return code is in the data.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x400037EE",
+  "codeUrl": "/win32/netevent-h/dfs_referral_request/0x400037ee/",
+  "numericCode": 1073756142,
+  "define": "DFS_REFERRAL_REQUEST",
+  "defineUrl": "/win32/netevent-h/dfs_referral_request/",
+  "message": "Dfs received a referral request for \"%2\".  The return code is in the data.",
+  "remarks": null,
+  "aka": [
+    "1073756142"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/dfs_referral_request/1073756142/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

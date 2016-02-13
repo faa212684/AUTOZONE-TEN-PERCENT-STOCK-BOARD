@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_cluster_shutting_down\5022\index.html.json
+
+title: 5022 ERROR_CLUSTER_SHUTTING_DOWN in winerror.h
+description: The cluster software is shutting down.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "5022",
+  "codeUrl": "/win32/winerror-h/error_cluster_shutting_down/5022/",
+  "numericCode": 5022,
+  "define": "ERROR_CLUSTER_SHUTTING_DOWN",
+  "defineUrl": "/win32/winerror-h/error_cluster_shutting_down/",
+  "message": "The cluster software is shutting down.",
+  "remarks": null,
+  "aka": [
+    "0x8007139e",
+    "-2147019874"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_cluster_shutting_down/0x8007139e/",
+    "/win32/winerror-h/error_cluster_shutting_down/-2147019874/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

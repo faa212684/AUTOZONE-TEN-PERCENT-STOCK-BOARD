@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\fve_e_not_allowed_in_safe_mode\-2144272320\index.html.json
+canonical: /win32/winerror-h/fve_e_not_allowed_in_safe_mode/0x80310040/
+title: -2144272320 FVE_E_NOT_ALLOWED_IN_SAFE_MODE in winerror.h
+description: The BitLocker configuration of the specified drive cannot be managed because this computer is currently operating in Safe Mode. While in Safe Mode, BitLocker Drive Encryption can only be used for recovery purposes.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2144272320",
+  "codeUrl": "/win32/winerror-h/fve_e_not_allowed_in_safe_mode/-2144272320/",
+  "numericCode": 0,
+  "define": "FVE_E_NOT_ALLOWED_IN_SAFE_MODE",
+  "defineUrl": "/win32/winerror-h/fve_e_not_allowed_in_safe_mode/",
+  "message": "The BitLocker configuration of the specified drive cannot be managed because this computer is currently operating in Safe Mode. While in Safe Mode, BitLocker Drive Encryption can only be used for recovery purposes.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80310040",
+  "originalCodeUrl": "/win32/winerror-h/fve_e_not_allowed_in_safe_mode/0x80310040/"
+}

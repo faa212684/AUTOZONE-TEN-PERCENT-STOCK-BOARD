@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_fsfilter_op_completed_successfully\762\index.html.json
+
+title: 762 ERROR_FSFILTER_OP_COMPLETED_SUCCESSFULLY in winerror.h
+description: A file system or file system filter driver has successfully completed an FsFilter operation.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "762",
+  "codeUrl": "/win32/winerror-h/error_fsfilter_op_completed_successfully/762/",
+  "numericCode": 762,
+  "define": "ERROR_FSFILTER_OP_COMPLETED_SUCCESSFULLY",
+  "defineUrl": "/win32/winerror-h/error_fsfilter_op_completed_successfully/",
+  "message": "A file system or file system filter driver has successfully completed an FsFilter operation.",
+  "remarks": null,
+  "aka": [
+    "0x800702fa",
+    "-2147024134"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_fsfilter_op_completed_successfully/0x800702fa/",
+    "/win32/winerror-h/error_fsfilter_op_completed_successfully/-2147024134/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

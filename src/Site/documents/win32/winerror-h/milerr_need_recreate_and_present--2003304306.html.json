@@ -1,0 +1,25 @@
+---
+output: win32\winerror-h\milerr_need_recreate_and_present\-2003304306\index.html.json
+canonical: /win32/winerror-h/milerr_need_recreate_and_present/0x8898008e/
+title: -2003304306 MILERR_NEED_RECREATE_AND_PRESENT in winerror.h
+description: There has been a presentation error that may be recoverable. The caller needs to recreate, rerender the entire frame, and reattempt present.
+There are two known case for this: 1) D3D Driver Internal error 2) D3D E_FAIL 2a) Unknown root cause b) When resizing too quickly for DWM and D3D stay in sync
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2003304306",
+  "codeUrl": "/win32/winerror-h/milerr_need_recreate_and_present/-2003304306/",
+  "numericCode": 0,
+  "define": "MILERR_NEED_RECREATE_AND_PRESENT",
+  "defineUrl": "/win32/winerror-h/milerr_need_recreate_and_present/",
+  "message": "There has been a presentation error that may be recoverable. The caller needs to recreate, rerender the entire frame, and reattempt present.\r\nThere are two known case for this: 1) D3D Driver Internal error 2) D3D E_FAIL 2a) Unknown root cause b) When resizing too quickly for DWM and D3D stay in sync",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x8898008E",
+  "originalCodeUrl": "/win32/winerror-h/milerr_need_recreate_and_present/0x8898008e/"
+}

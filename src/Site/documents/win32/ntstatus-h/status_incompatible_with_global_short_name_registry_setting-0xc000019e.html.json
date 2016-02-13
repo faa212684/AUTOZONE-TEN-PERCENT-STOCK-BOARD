@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_incompatible_with_global_short_name_registry_setting\0xc000019e\index.html.json
+
+title: 0xC000019E STATUS_INCOMPATIBLE_WITH_GLOBAL_SHORT_NAME_REGISTRY_SETTING in ntstatus.h
+description: Short name settings may not be changed on this volume due to the global registry setting.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000019E",
+  "codeUrl": "/win32/ntstatus-h/status_incompatible_with_global_short_name_registry_setting/0xc000019e/",
+  "numericCode": -1073741410,
+  "define": "STATUS_INCOMPATIBLE_WITH_GLOBAL_SHORT_NAME_REGISTRY_SETTING",
+  "defineUrl": "/win32/ntstatus-h/status_incompatible_with_global_short_name_registry_setting/",
+  "message": "Short name settings may not be changed on this volume due to the global registry setting.",
+  "remarks": null,
+  "aka": [
+    "-1073741410"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_incompatible_with_global_short_name_registry_setting/-1073741410/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

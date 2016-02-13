@@ -1,0 +1,28 @@
+---
+output: win32\nserror-h\ns_i_disk_stop\0x400d0198\index.html.json
+
+title: 0x400D0198 NS_I_DISK_STOP in nserror.h
+description: Disk %1 ( %2 ) on Content Server %3, has been offlined.%0
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "nserror.h",
+  "sourceUrl": "/win32/nserror-h/",
+  "code": "0x400D0198",
+  "codeUrl": "/win32/nserror-h/ns_i_disk_stop/0x400d0198/",
+  "numericCode": 1074594200,
+  "define": "NS_I_DISK_STOP",
+  "defineUrl": "/win32/nserror-h/ns_i_disk_stop/",
+  "message": "Disk %1 ( %2 ) on Content Server %3, has been offlined.%0",
+  "remarks": null,
+  "aka": [
+    "1074594200"
+  ],
+  "akaUrl": [
+    "/win32/nserror-h/ns_i_disk_stop/1074594200/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_device_protocol_error\0xc0000186\index.html.json
+
+title: 0xC0000186 STATUS_DEVICE_PROTOCOL_ERROR in ntstatus.h
+description: A protocol error was detected between the driver and the device.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000186",
+  "codeUrl": "/win32/ntstatus-h/status_device_protocol_error/0xc0000186/",
+  "numericCode": -1073741434,
+  "define": "STATUS_DEVICE_PROTOCOL_ERROR",
+  "defineUrl": "/win32/ntstatus-h/status_device_protocol_error/",
+  "message": "A protocol error was detected between the driver and the device.",
+  "remarks": null,
+  "aka": [
+    "-1073741434"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_device_protocol_error/-1073741434/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

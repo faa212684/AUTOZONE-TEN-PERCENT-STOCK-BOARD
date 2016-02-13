@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\co_e_call_out_of_tx_scope_not_allowed\0x8004e030\index.html.json
+
+title: 0x8004E030 CO_E_CALL_OUT_OF_TX_SCOPE_NOT_ALLOWED in winerror.h
+description: The component attempted to make a cross-context call between invocations of EnterTransactionScopeand ExitTransactionScope. This is not allowed. Cross-context calls cannot be made while inside of a transaction scope.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8004E030",
+  "codeUrl": "/win32/winerror-h/co_e_call_out_of_tx_scope_not_allowed/0x8004e030/",
+  "numericCode": -2147164112,
+  "define": "CO_E_CALL_OUT_OF_TX_SCOPE_NOT_ALLOWED",
+  "defineUrl": "/win32/winerror-h/co_e_call_out_of_tx_scope_not_allowed/",
+  "message": "The component attempted to make a cross-context call between invocations of EnterTransactionScopeand ExitTransactionScope. This is not allowed. Cross-context calls cannot be made while inside of a transaction scope.",
+  "remarks": null,
+  "aka": [
+    "-2147164112"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/co_e_call_out_of_tx_scope_not_allowed/-2147164112/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

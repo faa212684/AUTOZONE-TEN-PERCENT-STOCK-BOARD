@@ -1,0 +1,25 @@
+---
+output: win32\ntstatus-h\status_privileged_instruction\-1073741674\index.html.json
+canonical: /win32/ntstatus-h/status_privileged_instruction/0xc0000096/
+title: -1073741674 STATUS_PRIVILEGED_INSTRUCTION in ntstatus.h
+description: "{EXCEPTION}
+Privileged instruction."
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741674",
+  "codeUrl": "/win32/ntstatus-h/status_privileged_instruction/-1073741674/",
+  "numericCode": 0,
+  "define": "STATUS_PRIVILEGED_INSTRUCTION",
+  "defineUrl": "/win32/ntstatus-h/status_privileged_instruction/",
+  "message": "{EXCEPTION}\r\nPrivileged instruction.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000096",
+  "originalCodeUrl": "/win32/ntstatus-h/status_privileged_instruction/0xc0000096/"
+}

@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_printer_has_jobs_queued\3009\index.html.json
+
+title: 3009 ERROR_PRINTER_HAS_JOBS_QUEUED in winerror.h
+description: The requested operation is not allowed when there are jobs queued to the printer.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "3009",
+  "codeUrl": "/win32/winerror-h/error_printer_has_jobs_queued/3009/",
+  "numericCode": 3009,
+  "define": "ERROR_PRINTER_HAS_JOBS_QUEUED",
+  "defineUrl": "/win32/winerror-h/error_printer_has_jobs_queued/",
+  "message": "The requested operation is not allowed when there are jobs queued to the printer.",
+  "remarks": null,
+  "aka": [
+    "0x80070bc1",
+    "-2147021887"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_printer_has_jobs_queued/0x80070bc1/",
+    "/win32/winerror-h/error_printer_has_jobs_queued/-2147021887/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

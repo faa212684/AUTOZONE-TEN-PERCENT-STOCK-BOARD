@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_e_volume_guid_pathname_not_allowed\0x8004290d\index.html.json
+
+title: 0x8004290D VDS_E_VOLUME_GUID_PATHNAME_NOT_ALLOWED in vdserr.h
+description: Volume GUID pathnames are not valid input to this method.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x8004290D",
+  "codeUrl": "/win32/vdserr-h/vds_e_volume_guid_pathname_not_allowed/0x8004290d/",
+  "numericCode": -2147210995,
+  "define": "VDS_E_VOLUME_GUID_PATHNAME_NOT_ALLOWED",
+  "defineUrl": "/win32/vdserr-h/vds_e_volume_guid_pathname_not_allowed/",
+  "message": "Volume GUID pathnames are not valid input to this method.",
+  "remarks": null,
+  "aka": [
+    "-2147210995"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_volume_guid_pathname_not_allowed/-2147210995/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

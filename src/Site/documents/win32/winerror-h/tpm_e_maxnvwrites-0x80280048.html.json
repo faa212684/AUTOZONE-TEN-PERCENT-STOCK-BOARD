@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\tpm_e_maxnvwrites\0x80280048\index.html.json
+
+title: 0x80280048 TPM_E_MAXNVWRITES in winerror.h
+description: The maximum number of NV writes without an owner has been exceeded.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80280048",
+  "codeUrl": "/win32/winerror-h/tpm_e_maxnvwrites/0x80280048/",
+  "numericCode": -2144862136,
+  "define": "TPM_E_MAXNVWRITES",
+  "defineUrl": "/win32/winerror-h/tpm_e_maxnvwrites/",
+  "message": "The maximum number of NV writes without an owner has been exceeded.",
+  "remarks": null,
+  "aka": [
+    "-2144862136"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/tpm_e_maxnvwrites/-2144862136/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

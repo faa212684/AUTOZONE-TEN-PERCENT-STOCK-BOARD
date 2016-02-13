@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_e_no_maintenance_mode\0x80042a02\index.html.json
+
+title: 0x80042A02 VDS_E_NO_MAINTENANCE_MODE in vdserr.h
+description: The specified disk or volume is managed by the Microsoft Failover Clustering component. The disk must be in cluster maintenance mode and the cluster resource status must be online to perform this operation.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x80042A02",
+  "codeUrl": "/win32/vdserr-h/vds_e_no_maintenance_mode/0x80042a02/",
+  "numericCode": -2147210750,
+  "define": "VDS_E_NO_MAINTENANCE_MODE",
+  "defineUrl": "/win32/vdserr-h/vds_e_no_maintenance_mode/",
+  "message": "The specified disk or volume is managed by the Microsoft Failover Clustering component. The disk must be in cluster maintenance mode and the cluster resource status must be online to perform this operation.",
+  "remarks": null,
+  "aka": [
+    "-2147210750"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_no_maintenance_mode/-2147210750/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

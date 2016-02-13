@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_ds_invalid_attribute_syntax\0xc00002a2\index.html.json
+
+title: 0xC00002A2 STATUS_DS_INVALID_ATTRIBUTE_SYNTAX in ntstatus.h
+description: The attribute syntax specified to the directory service is invalid.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC00002A2",
+  "codeUrl": "/win32/ntstatus-h/status_ds_invalid_attribute_syntax/0xc00002a2/",
+  "numericCode": -1073741150,
+  "define": "STATUS_DS_INVALID_ATTRIBUTE_SYNTAX",
+  "defineUrl": "/win32/ntstatus-h/status_ds_invalid_attribute_syntax/",
+  "message": "The attribute syntax specified to the directory service is invalid.",
+  "remarks": null,
+  "aka": [
+    "-1073741150"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_ds_invalid_attribute_syntax/-1073741150/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

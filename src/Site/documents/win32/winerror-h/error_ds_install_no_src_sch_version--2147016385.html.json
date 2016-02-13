@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_ds_install_no_src_sch_version\-2147016385\index.html.json
+canonical: /win32/winerror-h/error_ds_install_no_src_sch_version/8511/
+title: -2147016385 ERROR_DS_INSTALL_NO_SRC_SCH_VERSION in winerror.h
+description: The replica/child install failed to get the objectVersion attribute on the schema container on the source DC. Either the attribute is missing on the schema container or the credentials supplied do not have permission to read it.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147016385",
+  "codeUrl": "/win32/winerror-h/error_ds_install_no_src_sch_version/-2147016385/",
+  "numericCode": 0,
+  "define": "ERROR_DS_INSTALL_NO_SRC_SCH_VERSION",
+  "defineUrl": "/win32/winerror-h/error_ds_install_no_src_sch_version/",
+  "message": "The replica/child install failed to get the objectVersion attribute on the schema container on the source DC. Either the attribute is missing on the schema container or the credentials supplied do not have permission to read it.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "8511",
+  "originalCodeUrl": "/win32/winerror-h/error_ds_install_no_src_sch_version/8511/"
+}

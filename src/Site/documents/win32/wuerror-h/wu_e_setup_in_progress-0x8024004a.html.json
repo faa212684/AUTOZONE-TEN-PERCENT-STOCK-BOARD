@@ -1,0 +1,28 @@
+---
+output: win32\wuerror-h\wu_e_setup_in_progress\0x8024004a\index.html.json
+
+title: 0x8024004A WU_E_SETUP_IN_PROGRESS in wuerror.h
+description: Windows Update agent operations are not available while OS setup is running.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wuerror.h",
+  "sourceUrl": "/win32/wuerror-h/",
+  "code": "0x8024004A",
+  "codeUrl": "/win32/wuerror-h/wu_e_setup_in_progress/0x8024004a/",
+  "numericCode": -2145124278,
+  "define": "WU_E_SETUP_IN_PROGRESS",
+  "defineUrl": "/win32/wuerror-h/wu_e_setup_in_progress/",
+  "message": "Windows Update agent operations are not available while OS setup is running.",
+  "remarks": null,
+  "aka": [
+    "-2145124278"
+  ],
+  "akaUrl": [
+    "/win32/wuerror-h/wu_e_setup_in_progress/-2145124278/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

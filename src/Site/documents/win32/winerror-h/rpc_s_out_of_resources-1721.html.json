@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\rpc_s_out_of_resources\1721\index.html.json
+
+title: 1721 RPC_S_OUT_OF_RESOURCES in winerror.h
+description: Not enough resources are available to complete this operation.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1721",
+  "codeUrl": "/win32/winerror-h/rpc_s_out_of_resources/1721/",
+  "numericCode": 1721,
+  "define": "RPC_S_OUT_OF_RESOURCES",
+  "defineUrl": "/win32/winerror-h/rpc_s_out_of_resources/",
+  "message": "Not enough resources are available to complete this operation.",
+  "remarks": null,
+  "aka": [
+    "0x800706b9",
+    "-2147023175"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/rpc_s_out_of_resources/0x800706b9/",
+    "/win32/winerror-h/rpc_s_out_of_resources/-2147023175/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

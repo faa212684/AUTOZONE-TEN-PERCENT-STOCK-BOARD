@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_wx86_continue\1073741853\index.html.json
+canonical: /win32/ntstatus-h/status_wx86_continue/0x4000001d/
+title: 1073741853 STATUS_WX86_CONTINUE in ntstatus.h
+description: Exception status code used by Win32 x86 emulation subsystem.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "1073741853",
+  "codeUrl": "/win32/ntstatus-h/status_wx86_continue/1073741853/",
+  "numericCode": 0,
+  "define": "STATUS_WX86_CONTINUE",
+  "defineUrl": "/win32/ntstatus-h/status_wx86_continue/",
+  "message": "Exception status code used by Win32 x86 emulation subsystem.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x4000001D",
+  "originalCodeUrl": "/win32/ntstatus-h/status_wx86_continue/0x4000001d/"
+}

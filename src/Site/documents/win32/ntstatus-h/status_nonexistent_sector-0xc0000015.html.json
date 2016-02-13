@@ -1,0 +1,29 @@
+---
+output: win32\ntstatus-h\status_nonexistent_sector\0xc0000015\index.html.json
+
+title: 0xC0000015 STATUS_NONEXISTENT_SECTOR in ntstatus.h
+description: "{Sector Not Found}
+The specified sector does not exist."
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000015",
+  "codeUrl": "/win32/ntstatus-h/status_nonexistent_sector/0xc0000015/",
+  "numericCode": -1073741803,
+  "define": "STATUS_NONEXISTENT_SECTOR",
+  "defineUrl": "/win32/ntstatus-h/status_nonexistent_sector/",
+  "message": "{Sector Not Found}\r\nThe specified sector does not exist.",
+  "remarks": null,
+  "aka": [
+    "-1073741803"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_nonexistent_sector/-1073741803/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

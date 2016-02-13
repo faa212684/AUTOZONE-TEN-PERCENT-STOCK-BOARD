@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_transaction_freeze_in_progress\-1072103354\index.html.json
+canonical: /win32/ntstatus-h/status_transaction_freeze_in_progress/0xc0190046/
+title: -1072103354 STATUS_TRANSACTION_FREEZE_IN_PROGRESS in ntstatus.h
+description: Transactions cannot be frozen because a freeze is already in progress.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1072103354",
+  "codeUrl": "/win32/ntstatus-h/status_transaction_freeze_in_progress/-1072103354/",
+  "numericCode": 0,
+  "define": "STATUS_TRANSACTION_FREEZE_IN_PROGRESS",
+  "defineUrl": "/win32/ntstatus-h/status_transaction_freeze_in_progress/",
+  "message": "Transactions cannot be frozen because a freeze is already in progress.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0190046",
+  "originalCodeUrl": "/win32/ntstatus-h/status_transaction_freeze_in_progress/0xc0190046/"
+}

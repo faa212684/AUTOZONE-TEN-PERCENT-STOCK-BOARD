@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\nwsap_event_sdmdevent_fail\0xc000214c\index.html.json
+
+title: 0xC000214C NWSAP_EVENT_SDMDEVENT_FAIL in netevent.h
+description: Error creating event for database access synchronization.  The Sap Agent cannot continue.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC000214C",
+  "codeUrl": "/win32/netevent-h/nwsap_event_sdmdevent_fail/0xc000214c/",
+  "numericCode": -1073733300,
+  "define": "NWSAP_EVENT_SDMDEVENT_FAIL",
+  "defineUrl": "/win32/netevent-h/nwsap_event_sdmdevent_fail/",
+  "message": "Error creating event for database access synchronization.  The Sap Agent cannot continue.",
+  "remarks": null,
+  "aka": [
+    "-1073733300"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/nwsap_event_sdmdevent_fail/-1073733300/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

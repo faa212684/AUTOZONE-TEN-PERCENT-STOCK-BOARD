@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\fve_e_failed_wrong_fs\-2144272365\index.html.json
+canonical: /win32/winerror-h/fve_e_failed_wrong_fs/0x80310013/
+title: -2144272365 FVE_E_FAILED_WRONG_FS in winerror.h
+description: The drive cannot be encrypted because the file system is not supported.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2144272365",
+  "codeUrl": "/win32/winerror-h/fve_e_failed_wrong_fs/-2144272365/",
+  "numericCode": 0,
+  "define": "FVE_E_FAILED_WRONG_FS",
+  "defineUrl": "/win32/winerror-h/fve_e_failed_wrong_fs/",
+  "message": "The drive cannot be encrypted because the file system is not supported.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80310013",
+  "originalCodeUrl": "/win32/winerror-h/fve_e_failed_wrong_fs/0x80310013/"
+}

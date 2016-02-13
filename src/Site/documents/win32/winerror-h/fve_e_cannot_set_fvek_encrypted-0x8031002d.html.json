@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\fve_e_cannot_set_fvek_encrypted\0x8031002d\index.html.json
+
+title: 0x8031002D FVE_E_CANNOT_SET_FVEK_ENCRYPTED in winerror.h
+description: The drive encryption algorithm and key cannot be set on a previously encrypted drive. To encrypt this drive with BitLocker Drive Encryption, remove the previous encryption and then turn on BitLocker.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8031002D",
+  "codeUrl": "/win32/winerror-h/fve_e_cannot_set_fvek_encrypted/0x8031002d/",
+  "numericCode": -2144272339,
+  "define": "FVE_E_CANNOT_SET_FVEK_ENCRYPTED",
+  "defineUrl": "/win32/winerror-h/fve_e_cannot_set_fvek_encrypted/",
+  "message": "The drive encryption algorithm and key cannot be set on a previously encrypted drive. To encrypt this drive with BitLocker Drive Encryption, remove the previous encryption and then turn on BitLocker.",
+  "remarks": null,
+  "aka": [
+    "-2144272339"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/fve_e_cannot_set_fvek_encrypted/-2144272339/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

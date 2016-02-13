@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\rpc_nt_string_too_long\0xc002002c\index.html.json
+
+title: 0xC002002C RPC_NT_STRING_TOO_LONG in ntstatus.h
+description: The string is too long.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC002002C",
+  "codeUrl": "/win32/ntstatus-h/rpc_nt_string_too_long/0xc002002c/",
+  "numericCode": -1073610708,
+  "define": "RPC_NT_STRING_TOO_LONG",
+  "defineUrl": "/win32/ntstatus-h/rpc_nt_string_too_long/",
+  "message": "The string is too long.",
+  "remarks": null,
+  "aka": [
+    "-1073610708"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/rpc_nt_string_too_long/-1073610708/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

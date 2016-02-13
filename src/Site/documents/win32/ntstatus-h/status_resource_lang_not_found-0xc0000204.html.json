@@ -1,0 +1,29 @@
+---
+output: win32\ntstatus-h\status_resource_lang_not_found\0xc0000204\index.html.json
+
+title: 0xC0000204 STATUS_RESOURCE_LANG_NOT_FOUND in ntstatus.h
+description: Indicates the specified resource language ID cannot be found in the
+image file.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000204",
+  "codeUrl": "/win32/ntstatus-h/status_resource_lang_not_found/0xc0000204/",
+  "numericCode": -1073741308,
+  "define": "STATUS_RESOURCE_LANG_NOT_FOUND",
+  "defineUrl": "/win32/ntstatus-h/status_resource_lang_not_found/",
+  "message": "Indicates the specified resource language ID cannot be found in the\r\nimage file.",
+  "remarks": null,
+  "aka": [
+    "-1073741308"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_resource_lang_not_found/-1073741308/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

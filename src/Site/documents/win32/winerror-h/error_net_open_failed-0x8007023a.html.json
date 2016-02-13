@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_net_open_failed\0x8007023a\index.html.json
+canonical: /win32/winerror-h/error_net_open_failed/570/
+title: 0x8007023a ERROR_NET_OPEN_FAILED in winerror.h
+description: The NtCreateFile API failed. This error should never be returned to an application, it is a place holder for the Windows Lan Manager Redirector to use in its internal error mapping routines.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007023a",
+  "codeUrl": "/win32/winerror-h/error_net_open_failed/0x8007023a/",
+  "numericCode": 0,
+  "define": "ERROR_NET_OPEN_FAILED",
+  "defineUrl": "/win32/winerror-h/error_net_open_failed/",
+  "message": "The NtCreateFile API failed. This error should never be returned to an application, it is a place holder for the Windows Lan Manager Redirector to use in its internal error mapping routines.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "570",
+  "originalCodeUrl": "/win32/winerror-h/error_net_open_failed/570/"
+}

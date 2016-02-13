@@ -1,0 +1,28 @@
+---
+output: win32\ntiologc-h\mca_warning_mas\0x80050044\index.html.json
+
+title: 0x80050044 MCA_WARNING_MAS in ntiologc.h
+description: Machine Check Event reported is a corrected Micro Architecture Structure error reported to CPU %1. %2 additional error(s) are contained within the record.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntiologc.h",
+  "sourceUrl": "/win32/ntiologc-h/",
+  "code": "0x80050044",
+  "codeUrl": "/win32/ntiologc-h/mca_warning_mas/0x80050044/",
+  "numericCode": -2147155900,
+  "define": "MCA_WARNING_MAS",
+  "defineUrl": "/win32/ntiologc-h/mca_warning_mas/",
+  "message": "Machine Check Event reported is a corrected Micro Architecture Structure error reported to CPU %1. %2 additional error(s) are contained within the record.",
+  "remarks": null,
+  "aka": [
+    "-2147155900"
+  ],
+  "akaUrl": [
+    "/win32/ntiologc-h/mca_warning_mas/-2147155900/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

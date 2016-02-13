@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_ds_policy_not_known\-2147016278\index.html.json
+canonical: /win32/winerror-h/error_ds_policy_not_known/8618/
+title: -2147016278 ERROR_DS_POLICY_NOT_KNOWN in winerror.h
+description: At this time, it cannot be determined if the branch replication policy is available on the hub domain controller. Please retry at a later time to account for replication latencies.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147016278",
+  "codeUrl": "/win32/winerror-h/error_ds_policy_not_known/-2147016278/",
+  "numericCode": 0,
+  "define": "ERROR_DS_POLICY_NOT_KNOWN",
+  "defineUrl": "/win32/winerror-h/error_ds_policy_not_known/",
+  "message": "At this time, it cannot be determined if the branch replication policy is available on the hub domain controller. Please retry at a later time to account for replication latencies.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "8618",
+  "originalCodeUrl": "/win32/winerror-h/error_ds_policy_not_known/8618/"
+}

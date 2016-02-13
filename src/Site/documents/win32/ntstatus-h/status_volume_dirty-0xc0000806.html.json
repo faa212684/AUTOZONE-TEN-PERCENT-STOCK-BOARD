@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_volume_dirty\0xc0000806\index.html.json
+
+title: 0xC0000806 STATUS_VOLUME_DIRTY in ntstatus.h
+description: The operation could not be completed because the volume is dirty. Please run chkdsk and try again.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000806",
+  "codeUrl": "/win32/ntstatus-h/status_volume_dirty/0xc0000806/",
+  "numericCode": -1073739770,
+  "define": "STATUS_VOLUME_DIRTY",
+  "defineUrl": "/win32/ntstatus-h/status_volume_dirty/",
+  "message": "The operation could not be completed because the volume is dirty. Please run chkdsk and try again.",
+  "remarks": null,
+  "aka": [
+    "-1073739770"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_volume_dirty/-1073739770/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

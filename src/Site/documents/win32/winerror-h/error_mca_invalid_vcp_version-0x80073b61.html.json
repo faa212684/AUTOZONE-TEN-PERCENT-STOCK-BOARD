@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_mca_invalid_vcp_version\0x80073b61\index.html.json
+canonical: /win32/winerror-h/error_mca_invalid_vcp_version/15201/
+title: 0x80073b61 ERROR_MCA_INVALID_VCP_VERSION in winerror.h
+description: The monitor's VCP Version (0xDF) VCP code returned an invalid version value.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80073b61",
+  "codeUrl": "/win32/winerror-h/error_mca_invalid_vcp_version/0x80073b61/",
+  "numericCode": 0,
+  "define": "ERROR_MCA_INVALID_VCP_VERSION",
+  "defineUrl": "/win32/winerror-h/error_mca_invalid_vcp_version/",
+  "message": "The monitor's VCP Version (0xDF) VCP code returned an invalid version value.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "15201",
+  "originalCodeUrl": "/win32/winerror-h/error_mca_invalid_vcp_version/15201/"
+}

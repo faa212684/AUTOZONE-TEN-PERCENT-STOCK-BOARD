@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_transaction_invalid_marshall_buffer\-2147018183\index.html.json
+canonical: /win32/winerror-h/error_transaction_invalid_marshall_buffer/6713/
+title: -2147018183 ERROR_TRANSACTION_INVALID_MARSHALL_BUFFER in winerror.h
+description: The buffer passed in to PushTransaction or PullTransaction is not in a valid format.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147018183",
+  "codeUrl": "/win32/winerror-h/error_transaction_invalid_marshall_buffer/-2147018183/",
+  "numericCode": 0,
+  "define": "ERROR_TRANSACTION_INVALID_MARSHALL_BUFFER",
+  "defineUrl": "/win32/winerror-h/error_transaction_invalid_marshall_buffer/",
+  "message": "The buffer passed in to PushTransaction or PullTransaction is not in a valid format.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "6713",
+  "originalCodeUrl": "/win32/winerror-h/error_transaction_invalid_marshall_buffer/6713/"
+}

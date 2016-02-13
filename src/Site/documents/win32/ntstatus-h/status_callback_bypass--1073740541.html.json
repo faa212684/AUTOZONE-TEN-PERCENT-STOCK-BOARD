@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_callback_bypass\-1073740541\index.html.json
+canonical: /win32/ntstatus-h/status_callback_bypass/0xc0000503/
+title: -1073740541 STATUS_CALLBACK_BYPASS in ntstatus.h
+description: A callback has requested to bypass native code.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073740541",
+  "codeUrl": "/win32/ntstatus-h/status_callback_bypass/-1073740541/",
+  "numericCode": 0,
+  "define": "STATUS_CALLBACK_BYPASS",
+  "defineUrl": "/win32/ntstatus-h/status_callback_bypass/",
+  "message": "A callback has requested to bypass native code.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000503",
+  "originalCodeUrl": "/win32/ntstatus-h/status_callback_bypass/0xc0000503/"
+}

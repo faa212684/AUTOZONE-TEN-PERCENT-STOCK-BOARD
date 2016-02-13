@@ -1,0 +1,29 @@
+---
+output: win32\wsmerror-h\error_wsman_redirect_requested\0x80338199\index.html.json
+
+title: 0x80338199 ERROR_WSMAN_REDIRECT_REQUESTED in wsmerror.h
+description: The WinRM service cannot process the request because the request needs to be sent to a different machine.
+Use the redirect information to send the request to a new machine.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x80338199",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_redirect_requested/0x80338199/",
+  "numericCode": -2144108135,
+  "define": "ERROR_WSMAN_REDIRECT_REQUESTED",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_redirect_requested/",
+  "message": "The WinRM service cannot process the request because the request needs to be sent to a different machine.\r\nUse the redirect information to send the request to a new machine.",
+  "remarks": null,
+  "aka": [
+    "-2144108135"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_redirect_requested/-2144108135/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

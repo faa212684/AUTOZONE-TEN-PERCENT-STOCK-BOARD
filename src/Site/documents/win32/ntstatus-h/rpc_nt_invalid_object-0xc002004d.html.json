@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\rpc_nt_invalid_object\0xc002004d\index.html.json
+
+title: 0xC002004D RPC_NT_INVALID_OBJECT in ntstatus.h
+description: The object UUID is the nil UUID.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC002004D",
+  "codeUrl": "/win32/ntstatus-h/rpc_nt_invalid_object/0xc002004d/",
+  "numericCode": -1073610675,
+  "define": "RPC_NT_INVALID_OBJECT",
+  "defineUrl": "/win32/ntstatus-h/rpc_nt_invalid_object/",
+  "message": "The object UUID is the nil UUID.",
+  "remarks": null,
+  "aka": [
+    "-1073610675"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/rpc_nt_invalid_object/-1073610675/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

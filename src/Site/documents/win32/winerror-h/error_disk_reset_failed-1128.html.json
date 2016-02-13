@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_disk_reset_failed\1128\index.html.json
+
+title: 1128 ERROR_DISK_RESET_FAILED in winerror.h
+description: While accessing the hard disk, a disk controller reset was needed, but even that failed.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1128",
+  "codeUrl": "/win32/winerror-h/error_disk_reset_failed/1128/",
+  "numericCode": 1128,
+  "define": "ERROR_DISK_RESET_FAILED",
+  "defineUrl": "/win32/winerror-h/error_disk_reset_failed/",
+  "message": "While accessing the hard disk, a disk controller reset was needed, but even that failed.",
+  "remarks": null,
+  "aka": [
+    "0x80070468",
+    "-2147023768"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_disk_reset_failed/0x80070468/",
+    "/win32/winerror-h/error_disk_reset_failed/-2147023768/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

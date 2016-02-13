@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_cant_break_transactional_dependency\-1072103369\index.html.json
+canonical: /win32/ntstatus-h/status_cant_break_transactional_dependency/0xc0190037/
+title: -1072103369 STATUS_CANT_BREAK_TRANSACTIONAL_DEPENDENCY in ntstatus.h
+description: The operation cannot be performed because another transaction is depending on the fact that this property will not change.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1072103369",
+  "codeUrl": "/win32/ntstatus-h/status_cant_break_transactional_dependency/-1072103369/",
+  "numericCode": 0,
+  "define": "STATUS_CANT_BREAK_TRANSACTIONAL_DEPENDENCY",
+  "defineUrl": "/win32/ntstatus-h/status_cant_break_transactional_dependency/",
+  "message": "The operation cannot be performed because another transaction is depending on the fact that this property will not change.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0190037",
+  "originalCodeUrl": "/win32/ntstatus-h/status_cant_break_transactional_dependency/0xc0190037/"
+}

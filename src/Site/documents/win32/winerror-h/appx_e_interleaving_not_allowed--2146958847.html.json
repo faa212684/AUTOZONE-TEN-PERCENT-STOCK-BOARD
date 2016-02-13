@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\appx_e_interleaving_not_allowed\-2146958847\index.html.json
+canonical: /win32/winerror-h/appx_e_interleaving_not_allowed/0x80080201/
+title: -2146958847 APPX_E_INTERLEAVING_NOT_ALLOWED in winerror.h
+description: The file is not a valid Appx package because its contents are interleaved.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2146958847",
+  "codeUrl": "/win32/winerror-h/appx_e_interleaving_not_allowed/-2146958847/",
+  "numericCode": 0,
+  "define": "APPX_E_INTERLEAVING_NOT_ALLOWED",
+  "defineUrl": "/win32/winerror-h/appx_e_interleaving_not_allowed/",
+  "message": "The file is not a valid Appx package because its contents are interleaved.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80080201",
+  "originalCodeUrl": "/win32/winerror-h/appx_e_interleaving_not_allowed/0x80080201/"
+}

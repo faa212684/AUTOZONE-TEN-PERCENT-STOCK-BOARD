@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\nwsap_event_startwancheck_error\0xc0002152\index.html.json
+
+title: 0xC0002152 NWSAP_EVENT_STARTWANCHECK_ERROR in netevent.h
+description: Error starting WAN check thread.  The Sap Agent cannot continue.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC0002152",
+  "codeUrl": "/win32/netevent-h/nwsap_event_startwancheck_error/0xc0002152/",
+  "numericCode": -1073733294,
+  "define": "NWSAP_EVENT_STARTWANCHECK_ERROR",
+  "defineUrl": "/win32/netevent-h/nwsap_event_startwancheck_error/",
+  "message": "Error starting WAN check thread.  The Sap Agent cannot continue.",
+  "remarks": null,
+  "aka": [
+    "-1073733294"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/nwsap_event_startwancheck_error/-1073733294/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

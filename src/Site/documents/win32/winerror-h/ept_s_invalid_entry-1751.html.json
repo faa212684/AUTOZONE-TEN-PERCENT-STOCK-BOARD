@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\ept_s_invalid_entry\1751\index.html.json
+
+title: 1751 EPT_S_INVALID_ENTRY in winerror.h
+description: The entry is invalid.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1751",
+  "codeUrl": "/win32/winerror-h/ept_s_invalid_entry/1751/",
+  "numericCode": 1751,
+  "define": "EPT_S_INVALID_ENTRY",
+  "defineUrl": "/win32/winerror-h/ept_s_invalid_entry/",
+  "message": "The entry is invalid.",
+  "remarks": null,
+  "aka": [
+    "0x800706d7",
+    "-2147023145"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/ept_s_invalid_entry/0x800706d7/",
+    "/win32/winerror-h/ept_s_invalid_entry/-2147023145/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

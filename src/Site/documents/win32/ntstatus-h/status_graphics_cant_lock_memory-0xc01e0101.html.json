@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_graphics_cant_lock_memory\0xc01e0101\index.html.json
+
+title: 0xC01E0101 STATUS_GRAPHICS_CANT_LOCK_MEMORY in ntstatus.h
+description: Couldn't probe and lock the underlying memory of an allocation.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC01E0101",
+  "codeUrl": "/win32/ntstatus-h/status_graphics_cant_lock_memory/0xc01e0101/",
+  "numericCode": -1071775487,
+  "define": "STATUS_GRAPHICS_CANT_LOCK_MEMORY",
+  "defineUrl": "/win32/ntstatus-h/status_graphics_cant_lock_memory/",
+  "message": "Couldn't probe and lock the underlying memory of an allocation.",
+  "remarks": null,
+  "aka": [
+    "-1071775487"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_graphics_cant_lock_memory/-1071775487/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

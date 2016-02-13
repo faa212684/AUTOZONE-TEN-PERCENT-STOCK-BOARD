@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\rpc_nt_pipe_closed\0xc003005f\index.html.json
+
+title: 0xC003005F RPC_NT_PIPE_CLOSED in ntstatus.h
+description: The RPC pipe object has already been closed.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC003005F",
+  "codeUrl": "/win32/ntstatus-h/rpc_nt_pipe_closed/0xc003005f/",
+  "numericCode": -1073545121,
+  "define": "RPC_NT_PIPE_CLOSED",
+  "defineUrl": "/win32/ntstatus-h/rpc_nt_pipe_closed/",
+  "message": "The RPC pipe object has already been closed.",
+  "remarks": null,
+  "aka": [
+    "-1073545121"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/rpc_nt_pipe_closed/-1073545121/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

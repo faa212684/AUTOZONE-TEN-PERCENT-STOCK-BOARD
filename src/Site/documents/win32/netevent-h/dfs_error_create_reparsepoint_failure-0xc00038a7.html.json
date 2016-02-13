@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\dfs_error_create_reparsepoint_failure\0xc00038a7\index.html.json
+
+title: 0xC00038A7 DFS_ERROR_CREATE_REPARSEPOINT_FAILURE in netevent.h
+description: Dfs could not create reparse point for directory %1 under directory %2. The return code is in the record data.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC00038A7",
+  "codeUrl": "/win32/netevent-h/dfs_error_create_reparsepoint_failure/0xc00038a7/",
+  "numericCode": -1073727321,
+  "define": "DFS_ERROR_CREATE_REPARSEPOINT_FAILURE",
+  "defineUrl": "/win32/netevent-h/dfs_error_create_reparsepoint_failure/",
+  "message": "Dfs could not create reparse point for directory %1 under directory %2. The return code is in the record data.",
+  "remarks": null,
+  "aka": [
+    "-1073727321"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/dfs_error_create_reparsepoint_failure/-1073727321/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

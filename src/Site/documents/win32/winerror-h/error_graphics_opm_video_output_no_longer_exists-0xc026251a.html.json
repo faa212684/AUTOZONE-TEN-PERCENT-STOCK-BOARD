@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\error_graphics_opm_video_output_no_longer_exists\0xc026251a\index.html.json
+
+title: 0xC026251A ERROR_GRAPHICS_OPM_VIDEO_OUTPUT_NO_LONGER_EXISTS in winerror.h
+description: The operating system asynchronously destroyed this OPM video output because the operating system's state changed. This error typically occurs because the monitor PDO associated with this video output was removed, the monitor PDO associated with this video output was stopped, the video output's session became a non-console session or the video output's desktop became an inactive desktop.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0xC026251A",
+  "codeUrl": "/win32/winerror-h/error_graphics_opm_video_output_no_longer_exists/0xc026251a/",
+  "numericCode": -1071241958,
+  "define": "ERROR_GRAPHICS_OPM_VIDEO_OUTPUT_NO_LONGER_EXISTS",
+  "defineUrl": "/win32/winerror-h/error_graphics_opm_video_output_no_longer_exists/",
+  "message": "The operating system asynchronously destroyed this OPM video output because the operating system's state changed. This error typically occurs because the monitor PDO associated with this video output was removed, the monitor PDO associated with this video output was stopped, the video output's session became a non-console session or the video output's desktop became an inactive desktop.",
+  "remarks": null,
+  "aka": [
+    "-1071241958"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_graphics_opm_video_output_no_longer_exists/-1071241958/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

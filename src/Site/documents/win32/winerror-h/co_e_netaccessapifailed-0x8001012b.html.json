@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\co_e_netaccessapifailed\0x8001012b\index.html.json
+
+title: 0x8001012B CO_E_NETACCESSAPIFAILED in winerror.h
+description: Either NetAccessDel or NetAccessAdd returned an error code.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8001012B",
+  "codeUrl": "/win32/winerror-h/co_e_netaccessapifailed/0x8001012b/",
+  "numericCode": -2147417813,
+  "define": "CO_E_NETACCESSAPIFAILED",
+  "defineUrl": "/win32/winerror-h/co_e_netaccessapifailed/",
+  "message": "Either NetAccessDel or NetAccessAdd returned an error code.",
+  "remarks": null,
+  "aka": [
+    "-2147417813"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/co_e_netaccessapifailed/-2147417813/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

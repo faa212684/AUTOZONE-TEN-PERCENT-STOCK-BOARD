@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_ds_global_cant_have_local_member\-1073741097\index.html.json
+canonical: /win32/ntstatus-h/status_ds_global_cant_have_local_member/0xc00002d7/
+title: -1073741097 STATUS_DS_GLOBAL_CANT_HAVE_LOCAL_MEMBER in ntstatus.h
+description: A global group cannot have a local group as a member.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741097",
+  "codeUrl": "/win32/ntstatus-h/status_ds_global_cant_have_local_member/-1073741097/",
+  "numericCode": 0,
+  "define": "STATUS_DS_GLOBAL_CANT_HAVE_LOCAL_MEMBER",
+  "defineUrl": "/win32/ntstatus-h/status_ds_global_cant_have_local_member/",
+  "message": "A global group cannot have a local group as a member.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC00002D7",
+  "originalCodeUrl": "/win32/ntstatus-h/status_ds_global_cant_have_local_member/0xc00002d7/"
+}

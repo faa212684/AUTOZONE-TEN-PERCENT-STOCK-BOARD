@@ -1,0 +1,25 @@
+---
+output: win32\netevent-h\event_tcpip_too_many_gateways\-2147479451\index.html.json
+canonical: /win32/netevent-h/event_tcpip_too_many_gateways/0x80001065/
+title: -2147479451 EVENT_TCPIP_TOO_MANY_GATEWAYS in netevent.h
+description: More than the maximum number of default gateways were specified for
+network adapter %2. Some remote networks may not be reachable as a result.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "-2147479451",
+  "codeUrl": "/win32/netevent-h/event_tcpip_too_many_gateways/-2147479451/",
+  "numericCode": 0,
+  "define": "EVENT_TCPIP_TOO_MANY_GATEWAYS",
+  "defineUrl": "/win32/netevent-h/event_tcpip_too_many_gateways/",
+  "message": "More than the maximum number of default gateways were specified for\r\nnetwork adapter %2. Some remote networks may not be reachable as a result.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80001065",
+  "originalCodeUrl": "/win32/netevent-h/event_tcpip_too_many_gateways/0x80001065/"
+}

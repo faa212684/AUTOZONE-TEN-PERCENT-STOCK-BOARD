@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ds_dra_source_is_partial_replica\8465\index.html.json
+
+title: 8465 ERROR_DS_DRA_SOURCE_IS_PARTIAL_REPLICA in winerror.h
+description: The replication synchronization attempt failed because a master replica attempted to sync from a partial replica.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "8465",
+  "codeUrl": "/win32/winerror-h/error_ds_dra_source_is_partial_replica/8465/",
+  "numericCode": 8465,
+  "define": "ERROR_DS_DRA_SOURCE_IS_PARTIAL_REPLICA",
+  "defineUrl": "/win32/winerror-h/error_ds_dra_source_is_partial_replica/",
+  "message": "The replication synchronization attempt failed because a master replica attempted to sync from a partial replica.",
+  "remarks": null,
+  "aka": [
+    "0x80072111",
+    "-2147016431"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ds_dra_source_is_partial_replica/0x80072111/",
+    "/win32/winerror-h/error_ds_dra_source_is_partial_replica/-2147016431/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: bugcheck\bugcodes-h\multiple_irp_complete_requests\0x00000044\index.html.json
+
+title: 0x00000044 MULTIPLE_IRP_COMPLETE_REQUESTS in bugcodes.h
+description: MULTIPLE_IRP_COMPLETE_REQUESTS
+disqus: true
+---
+{
+  "area": "bugcheck",
+  "areaUrl": "/bugcheck/",
+  "source": "bugcodes.h",
+  "sourceUrl": "/bugcheck/bugcodes-h/",
+  "code": "0x00000044",
+  "codeUrl": "/bugcheck/bugcodes-h/multiple_irp_complete_requests/0x00000044/",
+  "numericCode": 68,
+  "define": "MULTIPLE_IRP_COMPLETE_REQUESTS",
+  "defineUrl": "/bugcheck/bugcodes-h/multiple_irp_complete_requests/",
+  "message": "MULTIPLE_IRP_COMPLETE_REQUESTS",
+  "remarks": null,
+  "aka": [
+    "68"
+  ],
+  "akaUrl": [
+    "/bugcheck/bugcodes-h/multiple_irp_complete_requests/68/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

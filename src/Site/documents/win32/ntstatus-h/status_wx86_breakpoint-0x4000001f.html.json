@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_wx86_breakpoint\0x4000001f\index.html.json
+
+title: 0x4000001F STATUS_WX86_BREAKPOINT in ntstatus.h
+description: Exception status code used by Win32 x86 emulation subsystem.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0x4000001F",
+  "codeUrl": "/win32/ntstatus-h/status_wx86_breakpoint/0x4000001f/",
+  "numericCode": 1073741855,
+  "define": "STATUS_WX86_BREAKPOINT",
+  "defineUrl": "/win32/ntstatus-h/status_wx86_breakpoint/",
+  "message": "Exception status code used by Win32 x86 emulation subsystem.",
+  "remarks": null,
+  "aka": [
+    "1073741855"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_wx86_breakpoint/1073741855/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,29 @@
+---
+output: win32\vdserr-h\vds_e_vd_disk_is_compacting\0x8004292d\index.html.json
+
+title: 0x8004292D VDS_E_VD_DISK_IS_COMPACTING in vdserr.h
+description: The requested operation cannot be performed while the virtual disk
+is compacting.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x8004292D",
+  "codeUrl": "/win32/vdserr-h/vds_e_vd_disk_is_compacting/0x8004292d/",
+  "numericCode": -2147210963,
+  "define": "VDS_E_VD_DISK_IS_COMPACTING",
+  "defineUrl": "/win32/vdserr-h/vds_e_vd_disk_is_compacting/",
+  "message": "The requested operation cannot be performed while the virtual disk\r\nis compacting.",
+  "remarks": null,
+  "aka": [
+    "-2147210963"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_vd_disk_is_compacting/-2147210963/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_graphics_invalid_allocation_usage\0xc01e0110\index.html.json
+
+title: 0xC01E0110 STATUS_GRAPHICS_INVALID_ALLOCATION_USAGE in ntstatus.h
+description: The allocation can't be used from its current segment location for the specified operation.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC01E0110",
+  "codeUrl": "/win32/ntstatus-h/status_graphics_invalid_allocation_usage/0xc01e0110/",
+  "numericCode": -1071775472,
+  "define": "STATUS_GRAPHICS_INVALID_ALLOCATION_USAGE",
+  "defineUrl": "/win32/ntstatus-h/status_graphics_invalid_allocation_usage/",
+  "message": "The allocation can't be used from its current segment location for the specified operation.",
+  "remarks": null,
+  "aka": [
+    "-1071775472"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_graphics_invalid_allocation_usage/-1071775472/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

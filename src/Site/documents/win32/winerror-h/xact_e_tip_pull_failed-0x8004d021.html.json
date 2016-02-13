@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\xact_e_tip_pull_failed\0x8004d021\index.html.json
+
+title: 0x8004D021 XACT_E_TIP_PULL_FAILED in winerror.h
+description: This transaction manager could not propagate a transaction from another TIP transaction manager.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8004D021",
+  "codeUrl": "/win32/winerror-h/xact_e_tip_pull_failed/0x8004d021/",
+  "numericCode": -2147168223,
+  "define": "XACT_E_TIP_PULL_FAILED",
+  "defineUrl": "/win32/winerror-h/xact_e_tip_pull_failed/",
+  "message": "This transaction manager could not propagate a transaction from another TIP transaction manager.",
+  "remarks": null,
+  "aka": [
+    "-2147168223"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/xact_e_tip_pull_failed/-2147168223/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

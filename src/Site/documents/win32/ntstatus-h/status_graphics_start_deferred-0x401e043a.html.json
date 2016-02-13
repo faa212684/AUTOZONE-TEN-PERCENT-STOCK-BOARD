@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_graphics_start_deferred\0x401e043a\index.html.json
+
+title: 0x401E043A STATUS_GRAPHICS_START_DEFERRED in ntstatus.h
+description: Starting the adapter has been deferred temporarily.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0x401E043A",
+  "codeUrl": "/win32/ntstatus-h/status_graphics_start_deferred/0x401e043a/",
+  "numericCode": 1075708986,
+  "define": "STATUS_GRAPHICS_START_DEFERRED",
+  "defineUrl": "/win32/ntstatus-h/status_graphics_start_deferred/",
+  "message": "Starting the adapter has been deferred temporarily.",
+  "remarks": null,
+  "aka": [
+    "1075708986"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_graphics_start_deferred/1075708986/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

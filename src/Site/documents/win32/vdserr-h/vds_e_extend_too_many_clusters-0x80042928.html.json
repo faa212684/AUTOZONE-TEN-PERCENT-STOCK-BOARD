@@ -1,0 +1,29 @@
+---
+output: win32\vdserr-h\vds_e_extend_too_many_clusters\0x80042928\index.html.json
+
+title: 0x80042928 VDS_E_EXTEND_TOO_MANY_CLUSTERS in vdserr.h
+description: The volume cannot be extended because the number of clusters will
+exceed the maximum number of clusters supported by the file system.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x80042928",
+  "codeUrl": "/win32/vdserr-h/vds_e_extend_too_many_clusters/0x80042928/",
+  "numericCode": -2147210968,
+  "define": "VDS_E_EXTEND_TOO_MANY_CLUSTERS",
+  "defineUrl": "/win32/vdserr-h/vds_e_extend_too_many_clusters/",
+  "message": "The volume cannot be extended because the number of clusters will\r\nexceed the maximum number of clusters supported by the file system.",
+  "remarks": null,
+  "aka": [
+    "-2147210968"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_extend_too_many_clusters/-2147210968/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

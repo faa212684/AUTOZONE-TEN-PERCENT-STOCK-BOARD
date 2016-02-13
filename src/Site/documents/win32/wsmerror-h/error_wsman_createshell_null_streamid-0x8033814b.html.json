@@ -1,0 +1,29 @@
+---
+output: win32\wsmerror-h\error_wsman_createshell_null_streamid\0x8033814b\index.html.json
+
+title: 0x8033814B ERROR_WSMAN_CREATESHELL_NULL_STREAMID in wsmerror.h
+description: The WinRM Shell client cannot process the request. One of the stream id name passed to the WSManCreateShell function is null or zero.
+Change the request to include the missing parameter and try again.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x8033814B",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_createshell_null_streamid/0x8033814b/",
+  "numericCode": -2144108213,
+  "define": "ERROR_WSMAN_CREATESHELL_NULL_STREAMID",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_createshell_null_streamid/",
+  "message": "The WinRM Shell client cannot process the request. One of the stream id name passed to the WSManCreateShell function is null or zero.\r\nChange the request to include the missing parameter and try again.",
+  "remarks": null,
+  "aka": [
+    "-2144108213"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_createshell_null_streamid/-2144108213/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

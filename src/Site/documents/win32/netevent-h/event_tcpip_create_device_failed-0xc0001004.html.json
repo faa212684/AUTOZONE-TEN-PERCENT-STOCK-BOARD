@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_tcpip_create_device_failed\0xc0001004\index.html.json
+
+title: 0xC0001004 EVENT_TCPIP_CREATE_DEVICE_FAILED in netevent.h
+description: Unable to create device object %2. Initialization failed.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC0001004",
+  "codeUrl": "/win32/netevent-h/event_tcpip_create_device_failed/0xc0001004/",
+  "numericCode": -1073737724,
+  "define": "EVENT_TCPIP_CREATE_DEVICE_FAILED",
+  "defineUrl": "/win32/netevent-h/event_tcpip_create_device_failed/",
+  "message": "Unable to create device object %2. Initialization failed.",
+  "remarks": null,
+  "aka": [
+    "-1073737724"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_tcpip_create_device_failed/-1073737724/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

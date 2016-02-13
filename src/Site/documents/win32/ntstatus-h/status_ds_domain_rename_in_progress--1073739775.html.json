@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_ds_domain_rename_in_progress\-1073739775\index.html.json
+canonical: /win32/ntstatus-h/status_ds_domain_rename_in_progress/0xc0000801/
+title: -1073739775 STATUS_DS_DOMAIN_RENAME_IN_PROGRESS in ntstatus.h
+description: The Directory Service cannot perform the requested operation because a domain rename operation is in progress.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073739775",
+  "codeUrl": "/win32/ntstatus-h/status_ds_domain_rename_in_progress/-1073739775/",
+  "numericCode": 0,
+  "define": "STATUS_DS_DOMAIN_RENAME_IN_PROGRESS",
+  "defineUrl": "/win32/ntstatus-h/status_ds_domain_rename_in_progress/",
+  "message": "The Directory Service cannot perform the requested operation because a domain rename operation is in progress.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000801",
+  "originalCodeUrl": "/win32/ntstatus-h/status_ds_domain_rename_in_progress/0xc0000801/"
+}

@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\nte_hmac_not_supported\0x8009002f\index.html.json
+
+title: 0x8009002F NTE_HMAC_NOT_SUPPORTED in winerror.h
+description: The cryptographic provider does not support HMAC.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8009002F",
+  "codeUrl": "/win32/winerror-h/nte_hmac_not_supported/0x8009002f/",
+  "numericCode": -2146893777,
+  "define": "NTE_HMAC_NOT_SUPPORTED",
+  "defineUrl": "/win32/winerror-h/nte_hmac_not_supported/",
+  "message": "The cryptographic provider does not support HMAC.",
+  "remarks": null,
+  "aka": [
+    "-2146893777"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/nte_hmac_not_supported/-2146893777/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

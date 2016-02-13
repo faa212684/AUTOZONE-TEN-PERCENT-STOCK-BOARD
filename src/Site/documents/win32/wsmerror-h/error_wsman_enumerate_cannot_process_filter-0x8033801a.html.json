@@ -1,0 +1,29 @@
+---
+output: win32\wsmerror-h\error_wsman_enumerate_cannot_process_filter\0x8033801a\index.html.json
+
+title: 0x8033801A ERROR_WSMAN_ENUMERATE_CANNOT_PROCESS_FILTER in wsmerror.h
+description: The data source could not process the filter. The filter might be missing or it might be invalid.
+Change the filter and try the request again.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x8033801A",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_enumerate_cannot_process_filter/0x8033801a/",
+  "numericCode": -2144108518,
+  "define": "ERROR_WSMAN_ENUMERATE_CANNOT_PROCESS_FILTER",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_enumerate_cannot_process_filter/",
+  "message": "The data source could not process the filter. The filter might be missing or it might be invalid.\r\nChange the filter and try the request again.",
+  "remarks": null,
+  "aka": [
+    "-2144108518"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_enumerate_cannot_process_filter/-2144108518/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

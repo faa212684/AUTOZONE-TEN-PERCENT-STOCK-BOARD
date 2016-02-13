@@ -1,0 +1,28 @@
+---
+output: win32\rtcerr-h\rtc_e_port_mapping_unavailable\0x80ee0045\index.html.json
+
+title: 0x80EE0045 RTC_E_PORT_MAPPING_UNAVAILABLE in rtcerr.h
+description: Port mapping can not be obtained from the port manager
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "rtcerr.h",
+  "sourceUrl": "/win32/rtcerr-h/",
+  "code": "0x80EE0045",
+  "codeUrl": "/win32/rtcerr-h/rtc_e_port_mapping_unavailable/0x80ee0045/",
+  "numericCode": -2131886011,
+  "define": "RTC_E_PORT_MAPPING_UNAVAILABLE",
+  "defineUrl": "/win32/rtcerr-h/rtc_e_port_mapping_unavailable/",
+  "message": "Port mapping can not be obtained from the port manager",
+  "remarks": null,
+  "aka": [
+    "-2131886011"
+  ],
+  "akaUrl": [
+    "/win32/rtcerr-h/rtc_e_port_mapping_unavailable/-2131886011/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

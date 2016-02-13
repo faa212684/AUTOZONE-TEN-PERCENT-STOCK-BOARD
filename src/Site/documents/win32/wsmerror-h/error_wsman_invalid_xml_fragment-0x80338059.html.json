@@ -1,0 +1,28 @@
+---
+output: win32\wsmerror-h\error_wsman_invalid_xml_fragment\0x80338059\index.html.json
+
+title: 0x80338059 ERROR_WSMAN_INVALID_XML_FRAGMENT in wsmerror.h
+description: The WS-Management service cannot process the request because an XML fragment in the URI is invalid.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x80338059",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_invalid_xml_fragment/0x80338059/",
+  "numericCode": -2144108455,
+  "define": "ERROR_WSMAN_INVALID_XML_FRAGMENT",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_invalid_xml_fragment/",
+  "message": "The WS-Management service cannot process the request because an XML fragment in the URI is invalid.",
+  "remarks": null,
+  "aka": [
+    "-2144108455"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_invalid_xml_fragment/-2144108455/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

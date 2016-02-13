@@ -1,0 +1,28 @@
+---
+output: win32\nserror-h\ns_i_stop_disk\0x400d005b\index.html.json
+
+title: 0x400D005B NS_I_STOP_DISK in nserror.h
+description: A NetShow administrator at network location %1 stopped disk %2.%0
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "nserror.h",
+  "sourceUrl": "/win32/nserror-h/",
+  "code": "0x400D005B",
+  "codeUrl": "/win32/nserror-h/ns_i_stop_disk/0x400d005b/",
+  "numericCode": 1074593883,
+  "define": "NS_I_STOP_DISK",
+  "defineUrl": "/win32/nserror-h/ns_i_stop_disk/",
+  "message": "A NetShow administrator at network location %1 stopped disk %2.%0",
+  "remarks": null,
+  "aka": [
+    "1074593883"
+  ],
+  "akaUrl": [
+    "/win32/nserror-h/ns_i_stop_disk/1074593883/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

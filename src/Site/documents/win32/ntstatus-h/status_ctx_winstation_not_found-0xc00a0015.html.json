@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_ctx_winstation_not_found\0xc00a0015\index.html.json
+
+title: 0xC00A0015 STATUS_CTX_WINSTATION_NOT_FOUND in ntstatus.h
+description: The specified session cannot be found.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC00A0015",
+  "codeUrl": "/win32/ntstatus-h/status_ctx_winstation_not_found/0xc00a0015/",
+  "numericCode": -1073086443,
+  "define": "STATUS_CTX_WINSTATION_NOT_FOUND",
+  "defineUrl": "/win32/ntstatus-h/status_ctx_winstation_not_found/",
+  "message": "The specified session cannot be found.",
+  "remarks": null,
+  "aka": [
+    "-1073086443"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_ctx_winstation_not_found/-1073086443/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,29 @@
+---
+output: win32\wsmerror-h\error_wsman_cert_invalid_usage\0x803380ee\index.html.json
+
+title: 0x803380EE ERROR_WSMAN_CERT_INVALID_USAGE in wsmerror.h
+description: The WinRM client cannot process the request. The Enhanced Key Usage (EKU) field of the certificate is not set to "Server Authentication".
+Retry the request with a certificate that has the correct EKU.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x803380EE",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_cert_invalid_usage/0x803380ee/",
+  "numericCode": -2144108306,
+  "define": "ERROR_WSMAN_CERT_INVALID_USAGE",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_cert_invalid_usage/",
+  "message": "The WinRM client cannot process the request. The Enhanced Key Usage (EKU) field of the certificate is not set to \"Server Authentication\".\r\nRetry the request with a certificate that has the correct EKU.",
+  "remarks": null,
+  "aka": [
+    "-2144108306"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_cert_invalid_usage/-2144108306/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

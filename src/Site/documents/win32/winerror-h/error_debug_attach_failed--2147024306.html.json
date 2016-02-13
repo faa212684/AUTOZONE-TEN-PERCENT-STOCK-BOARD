@@ -1,0 +1,25 @@
+---
+output: win32\winerror-h\error_debug_attach_failed\-2147024306\index.html.json
+canonical: /win32/winerror-h/error_debug_attach_failed/590/
+title: -2147024306 ERROR_DEBUG_ATTACH_FAILED in winerror.h
+description: "{Unexpected Failure in DebugActiveProcess}
+An unexpected failure occurred while processing a DebugActiveProcess API request. You may choose OK to terminate the process, or Cancel to ignore the error."
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147024306",
+  "codeUrl": "/win32/winerror-h/error_debug_attach_failed/-2147024306/",
+  "numericCode": 0,
+  "define": "ERROR_DEBUG_ATTACH_FAILED",
+  "defineUrl": "/win32/winerror-h/error_debug_attach_failed/",
+  "message": "{Unexpected Failure in DebugActiveProcess}\r\nAn unexpected failure occurred while processing a DebugActiveProcess API request. You may choose OK to terminate the process, or Cancel to ignore the error.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "590",
+  "originalCodeUrl": "/win32/winerror-h/error_debug_attach_failed/590/"
+}

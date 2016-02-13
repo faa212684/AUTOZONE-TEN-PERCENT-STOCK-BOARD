@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_duplicate_service_name\1078\index.html.json
+
+title: 1078 ERROR_DUPLICATE_SERVICE_NAME in winerror.h
+description: The name is already in use as either a service name or a service display name.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1078",
+  "codeUrl": "/win32/winerror-h/error_duplicate_service_name/1078/",
+  "numericCode": 1078,
+  "define": "ERROR_DUPLICATE_SERVICE_NAME",
+  "defineUrl": "/win32/winerror-h/error_duplicate_service_name/",
+  "message": "The name is already in use as either a service name or a service display name.",
+  "remarks": null,
+  "aka": [
+    "0x80070436",
+    "-2147023818"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_duplicate_service_name/0x80070436/",
+    "/win32/winerror-h/error_duplicate_service_name/-2147023818/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_ctx_cdm_connect\0x400a0004\index.html.json
+
+title: 0x400A0004 STATUS_CTX_CDM_CONNECT in ntstatus.h
+description: The Client Drive Mapping Service Has Connected on Terminal Connection.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0x400A0004",
+  "codeUrl": "/win32/ntstatus-h/status_ctx_cdm_connect/0x400a0004/",
+  "numericCode": 1074397188,
+  "define": "STATUS_CTX_CDM_CONNECT",
+  "defineUrl": "/win32/ntstatus-h/status_ctx_cdm_connect/",
+  "message": "The Client Drive Mapping Service Has Connected on Terminal Connection.",
+  "remarks": null,
+  "aka": [
+    "1074397188"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_ctx_cdm_connect/1074397188/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

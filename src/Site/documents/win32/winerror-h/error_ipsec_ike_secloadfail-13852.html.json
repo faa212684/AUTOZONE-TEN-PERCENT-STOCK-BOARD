@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ipsec_ike_secloadfail\13852\index.html.json
+
+title: 13852 ERROR_IPSEC_IKE_SECLOADFAIL in winerror.h
+description: Failed to load SECURITY.DLL.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "13852",
+  "codeUrl": "/win32/winerror-h/error_ipsec_ike_secloadfail/13852/",
+  "numericCode": 13852,
+  "define": "ERROR_IPSEC_IKE_SECLOADFAIL",
+  "defineUrl": "/win32/winerror-h/error_ipsec_ike_secloadfail/",
+  "message": "Failed to load SECURITY.DLL.",
+  "remarks": null,
+  "aka": [
+    "0x8007361c",
+    "-2147011044"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ipsec_ike_secloadfail/0x8007361c/",
+    "/win32/winerror-h/error_ipsec_ike_secloadfail/-2147011044/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

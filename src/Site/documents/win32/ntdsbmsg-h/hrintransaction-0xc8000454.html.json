@@ -1,0 +1,28 @@
+---
+output: win32\ntdsbmsg-h\hrintransaction\0xc8000454\index.html.json
+
+title: 0xC8000454 hrInTransaction in NtDsBMsg.h
+description: The operation is not allowed within a transaction.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "NtDsBMsg.h",
+  "sourceUrl": "/win32/ntdsbmsg-h/",
+  "code": "0xC8000454",
+  "codeUrl": "/win32/ntdsbmsg-h/hrintransaction/0xc8000454/",
+  "numericCode": -939522988,
+  "define": "hrInTransaction",
+  "defineUrl": "/win32/ntdsbmsg-h/hrintransaction/",
+  "message": "The operation is not allowed within a transaction.",
+  "remarks": null,
+  "aka": [
+    "-939522988"
+  ],
+  "akaUrl": [
+    "/win32/ntdsbmsg-h/hrintransaction/-939522988/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

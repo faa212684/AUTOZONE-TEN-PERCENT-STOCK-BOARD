@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_sector_not_found\0x8007001b\index.html.json
+canonical: /win32/winerror-h/error_sector_not_found/27/
+title: 0x8007001b ERROR_SECTOR_NOT_FOUND in winerror.h
+description: The drive cannot find the sector requested.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007001b",
+  "codeUrl": "/win32/winerror-h/error_sector_not_found/0x8007001b/",
+  "numericCode": 0,
+  "define": "ERROR_SECTOR_NOT_FOUND",
+  "defineUrl": "/win32/winerror-h/error_sector_not_found/",
+  "message": "The drive cannot find the sector requested.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "27",
+  "originalCodeUrl": "/win32/winerror-h/error_sector_not_found/27/"
+}

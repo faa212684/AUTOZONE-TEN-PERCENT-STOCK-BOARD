@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\type_e_cantcreatetmpfile\0x80028ca3\index.html.json
+
+title: 0x80028CA3 TYPE_E_CANTCREATETMPFILE in winerror.h
+description: Error creating unique tmp file.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80028CA3",
+  "codeUrl": "/win32/winerror-h/type_e_cantcreatetmpfile/0x80028ca3/",
+  "numericCode": -2147316573,
+  "define": "TYPE_E_CANTCREATETMPFILE",
+  "defineUrl": "/win32/winerror-h/type_e_cantcreatetmpfile/",
+  "message": "Error creating unique tmp file.",
+  "remarks": null,
+  "aka": [
+    "-2147316573"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/type_e_cantcreatetmpfile/-2147316573/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

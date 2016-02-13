@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_sxs_multiple_deactivation\-1072365551\index.html.json
+canonical: /win32/ntstatus-h/status_sxs_multiple_deactivation/0xc0150011/
+title: -1072365551 STATUS_SXS_MULTIPLE_DEACTIVATION in ntstatus.h
+description: The activation context being deactivated has already been deactivated.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1072365551",
+  "codeUrl": "/win32/ntstatus-h/status_sxs_multiple_deactivation/-1072365551/",
+  "numericCode": 0,
+  "define": "STATUS_SXS_MULTIPLE_DEACTIVATION",
+  "defineUrl": "/win32/ntstatus-h/status_sxs_multiple_deactivation/",
+  "message": "The activation context being deactivated has already been deactivated.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0150011",
+  "originalCodeUrl": "/win32/ntstatus-h/status_sxs_multiple_deactivation/0xc0150011/"
+}

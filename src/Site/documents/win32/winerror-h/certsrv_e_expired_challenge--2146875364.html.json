@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\certsrv_e_expired_challenge\-2146875364\index.html.json
+canonical: /win32/winerror-h/certsrv_e_expired_challenge/0x8009481c/
+title: -2146875364 CERTSRV_E_EXPIRED_CHALLENGE in winerror.h
+description: The private key attestation challenge cannot be validated because the encryption certificate has expired, or the certificate or key is unavailable.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2146875364",
+  "codeUrl": "/win32/winerror-h/certsrv_e_expired_challenge/-2146875364/",
+  "numericCode": 0,
+  "define": "CERTSRV_E_EXPIRED_CHALLENGE",
+  "defineUrl": "/win32/winerror-h/certsrv_e_expired_challenge/",
+  "message": "The private key attestation challenge cannot be validated because the encryption certificate has expired, or the certificate or key is unavailable.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x8009481C",
+  "originalCodeUrl": "/win32/winerror-h/certsrv_e_expired_challenge/0x8009481c/"
+}

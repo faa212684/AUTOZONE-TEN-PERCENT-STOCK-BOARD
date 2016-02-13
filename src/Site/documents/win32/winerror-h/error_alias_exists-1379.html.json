@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_alias_exists\1379\index.html.json
+
+title: 1379 ERROR_ALIAS_EXISTS in winerror.h
+description: The specified local group already exists.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1379",
+  "codeUrl": "/win32/winerror-h/error_alias_exists/1379/",
+  "numericCode": 1379,
+  "define": "ERROR_ALIAS_EXISTS",
+  "defineUrl": "/win32/winerror-h/error_alias_exists/",
+  "message": "The specified local group already exists.",
+  "remarks": null,
+  "aka": [
+    "0x80070563",
+    "-2147023517"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_alias_exists/0x80070563/",
+    "/win32/winerror-h/error_alias_exists/-2147023517/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

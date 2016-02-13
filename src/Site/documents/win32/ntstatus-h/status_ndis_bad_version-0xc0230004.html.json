@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_ndis_bad_version\0xc0230004\index.html.json
+
+title: 0xC0230004 STATUS_NDIS_BAD_VERSION in ntstatus.h
+description: An invalid version was specified.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0230004",
+  "codeUrl": "/win32/ntstatus-h/status_ndis_bad_version/0xc0230004/",
+  "numericCode": -1071448060,
+  "define": "STATUS_NDIS_BAD_VERSION",
+  "defineUrl": "/win32/ntstatus-h/status_ndis_bad_version/",
+  "message": "An invalid version was specified.",
+  "remarks": null,
+  "aka": [
+    "-1071448060"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_ndis_bad_version/-1071448060/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

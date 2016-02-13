@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\fve_e_fips_prevents_external_key_export\-2144272328\index.html.json
+canonical: /win32/winerror-h/fve_e_fips_prevents_external_key_export/0x80310038/
+title: -2144272328 FVE_E_FIPS_PREVENTS_EXTERNAL_KEY_EXPORT in winerror.h
+description: The Group Policy setting requiring FIPS compliance prevents the recovery password from being saved to Active Directory. When operating in FIPS-compliant mode, BitLocker recovery options can be either a recovery key stored on a USB drive or recovery through a data recovery agent. Check your Group Policy settings configuration.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2144272328",
+  "codeUrl": "/win32/winerror-h/fve_e_fips_prevents_external_key_export/-2144272328/",
+  "numericCode": 0,
+  "define": "FVE_E_FIPS_PREVENTS_EXTERNAL_KEY_EXPORT",
+  "defineUrl": "/win32/winerror-h/fve_e_fips_prevents_external_key_export/",
+  "message": "The Group Policy setting requiring FIPS compliance prevents the recovery password from being saved to Active Directory. When operating in FIPS-compliant mode, BitLocker recovery options can be either a recovery key stored on a USB drive or recovery through a data recovery agent. Check your Group Policy settings configuration.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80310038",
+  "originalCodeUrl": "/win32/winerror-h/fve_e_fips_prevents_external_key_export/0x80310038/"
+}

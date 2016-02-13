@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\crypt_e_bad_msg\0x8009200d\index.html.json
+
+title: 0x8009200D CRYPT_E_BAD_MSG in winerror.h
+description: Not a cryptographic message or the cryptographic message is not formatted correctly.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8009200D",
+  "codeUrl": "/win32/winerror-h/crypt_e_bad_msg/0x8009200d/",
+  "numericCode": -2146885619,
+  "define": "CRYPT_E_BAD_MSG",
+  "defineUrl": "/win32/winerror-h/crypt_e_bad_msg/",
+  "message": "Not a cryptographic message or the cryptographic message is not formatted correctly.",
+  "remarks": null,
+  "aka": [
+    "-2146885619"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/crypt_e_bad_msg/-2146885619/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

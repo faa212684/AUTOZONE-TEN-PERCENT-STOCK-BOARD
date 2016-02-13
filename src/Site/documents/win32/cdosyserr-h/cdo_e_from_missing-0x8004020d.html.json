@@ -1,0 +1,28 @@
+---
+output: win32\cdosyserr-h\cdo_e_from_missing\0x8004020d\index.html.json
+
+title: 0x8004020D CDO_E_FROM_MISSING in CDOSysErr.h
+description: At least one of the From or Sender fields is required, and neither was found.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "CDOSysErr.h",
+  "sourceUrl": "/win32/cdosyserr-h/",
+  "code": "0x8004020D",
+  "codeUrl": "/win32/cdosyserr-h/cdo_e_from_missing/0x8004020d/",
+  "numericCode": -2147220979,
+  "define": "CDO_E_FROM_MISSING",
+  "defineUrl": "/win32/cdosyserr-h/cdo_e_from_missing/",
+  "message": "At least one of the From or Sender fields is required, and neither was found.",
+  "remarks": null,
+  "aka": [
+    "-2147220979"
+  ],
+  "akaUrl": [
+    "/win32/cdosyserr-h/cdo_e_from_missing/-2147220979/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

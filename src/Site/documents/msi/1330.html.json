@@ -1,0 +1,26 @@
+---
+output: msi\1330\index.html.json
+
+title: msi 1330
+description: A file that is required cannot be installed because the cabinet file [2] has an invalid digital signature. 
+        This may indicate that the cabinet file is corrupt.{ Error [3] was returned by 
+        <a href="https://msdn.microsoft.com/en-us/library/aa388208(v=vs.85).aspx"><strong xmlns="http://www.w3.org/1999/xhtml">WinVerifyTrust</strong></a>.}
+disqus: true
+---
+{
+  "area": "msi",
+  "areaUrl": "/msi/",
+  "source": null,
+  "sourceUrl": "/msi/",
+  "code": "1330",
+  "codeUrl": "/msi/1330/",
+  "numericCode": 1330,
+  "define": null,
+  "defineUrl": "/msi/",
+  "message": "A file that is required cannot be installed because the cabinet file [2] has an invalid digital signature. \r\n        This may indicate that the cabinet file is corrupt.{ Error [3] was returned by \r\n        <a href=\"https://msdn.microsoft.com/en-us/library/aa388208(v=vs.85).aspx\"><strong xmlns=\"http://www.w3.org/1999/xhtml\">WinVerifyTrust</strong></a>.}",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": null,
+  "originalCodeUrl": null
+}

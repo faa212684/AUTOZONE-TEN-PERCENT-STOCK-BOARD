@@ -1,0 +1,28 @@
+---
+output: win32\nserror-h\ns_e_proxy_connect_timeout\0xc00d2f07\index.html.json
+
+title: 0xC00D2F07 NS_E_PROXY_CONNECT_TIMEOUT in nserror.h
+description: It was not possible to establish a connection to the proxy server in a timely manner. Please check your proxy server configuration.%0
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "nserror.h",
+  "sourceUrl": "/win32/nserror-h/",
+  "code": "0xC00D2F07",
+  "codeUrl": "/win32/nserror-h/ns_e_proxy_connect_timeout/0xc00d2f07/",
+  "numericCode": -1072877817,
+  "define": "NS_E_PROXY_CONNECT_TIMEOUT",
+  "defineUrl": "/win32/nserror-h/ns_e_proxy_connect_timeout/",
+  "message": "It was not possible to establish a connection to the proxy server in a timely manner. Please check your proxy server configuration.%0",
+  "remarks": null,
+  "aka": [
+    "-1072877817"
+  ],
+  "akaUrl": [
+    "/win32/nserror-h/ns_e_proxy_connect_timeout/-1072877817/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

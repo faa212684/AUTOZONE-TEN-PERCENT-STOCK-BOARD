@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\wep_e_lock_not_configured\0x88010004\index.html.json
+
+title: 0x88010004 WEP_E_LOCK_NOT_CONFIGURED in winerror.h
+description: This computer cannot support device encryption because the requisites for the device lock feature are not configured.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x88010004",
+  "codeUrl": "/win32/winerror-h/wep_e_lock_not_configured/0x88010004/",
+  "numericCode": -2013200380,
+  "define": "WEP_E_LOCK_NOT_CONFIGURED",
+  "defineUrl": "/win32/winerror-h/wep_e_lock_not_configured/",
+  "message": "This computer cannot support device encryption because the requisites for the device lock feature are not configured.",
+  "remarks": null,
+  "aka": [
+    "-2013200380"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/wep_e_lock_not_configured/-2013200380/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_graphics_opm_protected_output_no_longer_exists\-1071774438\index.html.json
+canonical: /win32/ntstatus-h/status_graphics_opm_protected_output_no_longer_exists/0xc01e051a/
+title: -1071774438 STATUS_GRAPHICS_OPM_PROTECTED_OUTPUT_NO_LONGER_EXISTS in ntstatus.h
+description: The operating system asynchronously destroyed this OPM protected output because the operating system's state changed. This error typically occurs because the monitor PDO associated with this protected output was removed, the monitor PDO associated with this protected output was stopped, or the protected output's session became a non-console session.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071774438",
+  "codeUrl": "/win32/ntstatus-h/status_graphics_opm_protected_output_no_longer_exists/-1071774438/",
+  "numericCode": 0,
+  "define": "STATUS_GRAPHICS_OPM_PROTECTED_OUTPUT_NO_LONGER_EXISTS",
+  "defineUrl": "/win32/ntstatus-h/status_graphics_opm_protected_output_no_longer_exists/",
+  "message": "The operating system asynchronously destroyed this OPM protected output because the operating system's state changed. This error typically occurs because the monitor PDO associated with this protected output was removed, the monitor PDO associated with this protected output was stopped, or the protected output's session became a non-console session.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC01E051A",
+  "originalCodeUrl": "/win32/ntstatus-h/status_graphics_opm_protected_output_no_longer_exists/0xc01e051a/"
+}

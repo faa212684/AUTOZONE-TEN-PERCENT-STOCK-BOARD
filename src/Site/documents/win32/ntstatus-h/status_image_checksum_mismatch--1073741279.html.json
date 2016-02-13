@@ -1,0 +1,25 @@
+---
+output: win32\ntstatus-h\status_image_checksum_mismatch\-1073741279\index.html.json
+canonical: /win32/ntstatus-h/status_image_checksum_mismatch/0xc0000221/
+title: -1073741279 STATUS_IMAGE_CHECKSUM_MISMATCH in ntstatus.h
+description: "{Bad Image Checksum}
+The image %hs is possibly corrupt. The header checksum does not match the computed checksum."
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741279",
+  "codeUrl": "/win32/ntstatus-h/status_image_checksum_mismatch/-1073741279/",
+  "numericCode": 0,
+  "define": "STATUS_IMAGE_CHECKSUM_MISMATCH",
+  "defineUrl": "/win32/ntstatus-h/status_image_checksum_mismatch/",
+  "message": "{Bad Image Checksum}\r\nThe image %hs is possibly corrupt. The header checksum does not match the computed checksum.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000221",
+  "originalCodeUrl": "/win32/ntstatus-h/status_image_checksum_mismatch/0xc0000221/"
+}

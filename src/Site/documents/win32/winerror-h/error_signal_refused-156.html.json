@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_signal_refused\156\index.html.json
+
+title: 156 ERROR_SIGNAL_REFUSED in winerror.h
+description: The recipient process has refused the signal.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "156",
+  "codeUrl": "/win32/winerror-h/error_signal_refused/156/",
+  "numericCode": 156,
+  "define": "ERROR_SIGNAL_REFUSED",
+  "defineUrl": "/win32/winerror-h/error_signal_refused/",
+  "message": "The recipient process has refused the signal.",
+  "remarks": null,
+  "aka": [
+    "0x8007009c",
+    "-2147024740"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_signal_refused/0x8007009c/",
+    "/win32/winerror-h/error_signal_refused/-2147024740/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

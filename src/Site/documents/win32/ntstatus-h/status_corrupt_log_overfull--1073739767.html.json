@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_corrupt_log_overfull\-1073739767\index.html.json
+canonical: /win32/ntstatus-h/status_corrupt_log_overfull/0xc0000809/
+title: -1073739767 STATUS_CORRUPT_LOG_OVERFULL in ntstatus.h
+description: One of the volume corruption logs is full. Further corruptions that may be detected won't be logged.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073739767",
+  "codeUrl": "/win32/ntstatus-h/status_corrupt_log_overfull/-1073739767/",
+  "numericCode": 0,
+  "define": "STATUS_CORRUPT_LOG_OVERFULL",
+  "defineUrl": "/win32/ntstatus-h/status_corrupt_log_overfull/",
+  "message": "One of the volume corruption logs is full. Further corruptions that may be detected won't be logged.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000809",
+  "originalCodeUrl": "/win32/ntstatus-h/status_corrupt_log_overfull/0xc0000809/"
+}

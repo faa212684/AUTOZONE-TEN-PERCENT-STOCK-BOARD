@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_svhdx_wrong_file_type\-1067647224\index.html.json
+canonical: /win32/ntstatus-h/status_svhdx_wrong_file_type/0xc05cff08/
+title: -1067647224 STATUS_SVHDX_WRONG_FILE_TYPE in ntstatus.h
+description: Multiple virtual machines sharing a virtual hard disk is supported only on Fixed or Dynamic VHDX format virtual hard disks.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1067647224",
+  "codeUrl": "/win32/ntstatus-h/status_svhdx_wrong_file_type/-1067647224/",
+  "numericCode": 0,
+  "define": "STATUS_SVHDX_WRONG_FILE_TYPE",
+  "defineUrl": "/win32/ntstatus-h/status_svhdx_wrong_file_type/",
+  "message": "Multiple virtual machines sharing a virtual hard disk is supported only on Fixed or Dynamic VHDX format virtual hard disks.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC05CFF08",
+  "originalCodeUrl": "/win32/ntstatus-h/status_svhdx_wrong_file_type/0xc05cff08/"
+}

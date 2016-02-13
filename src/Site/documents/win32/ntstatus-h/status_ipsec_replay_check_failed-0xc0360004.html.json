@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_ipsec_replay_check_failed\0xc0360004\index.html.json
+
+title: 0xC0360004 STATUS_IPSEC_REPLAY_CHECK_FAILED in ntstatus.h
+description: Packet sequence number replay check failed.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0360004",
+  "codeUrl": "/win32/ntstatus-h/status_ipsec_replay_check_failed/0xc0360004/",
+  "numericCode": -1070202876,
+  "define": "STATUS_IPSEC_REPLAY_CHECK_FAILED",
+  "defineUrl": "/win32/ntstatus-h/status_ipsec_replay_check_failed/",
+  "message": "Packet sequence number replay check failed.",
+  "remarks": null,
+  "aka": [
+    "-1070202876"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_ipsec_replay_check_failed/-1070202876/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

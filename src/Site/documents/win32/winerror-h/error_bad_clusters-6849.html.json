@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_bad_clusters\6849\index.html.json
+
+title: 6849 ERROR_BAD_CLUSTERS in winerror.h
+description: The operation could not be completed due to bad clusters on disk.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "6849",
+  "codeUrl": "/win32/winerror-h/error_bad_clusters/6849/",
+  "numericCode": 6849,
+  "define": "ERROR_BAD_CLUSTERS",
+  "defineUrl": "/win32/winerror-h/error_bad_clusters/",
+  "message": "The operation could not be completed due to bad clusters on disk.",
+  "remarks": null,
+  "aka": [
+    "0x80071ac1",
+    "-2147018047"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_bad_clusters/0x80071ac1/",
+    "/win32/winerror-h/error_bad_clusters/-2147018047/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

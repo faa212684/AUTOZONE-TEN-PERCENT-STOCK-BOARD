@@ -1,0 +1,28 @@
+---
+output: win32\windowssearcherrors-h\event_reg_version\0xc0000bda\index.html.json
+
+title: 0xC0000BDA EVENT_REG_VERSION in WindowsSearchErrors.h
+description: The registry version does not match with the expected <%2>, or the registry cannot be accessed because the service account does not have the correct permissions.  Uninstall the previous version before installing the new one.%1
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "0xC0000BDA",
+  "codeUrl": "/win32/windowssearcherrors-h/event_reg_version/0xc0000bda/",
+  "numericCode": -1073738790,
+  "define": "EVENT_REG_VERSION",
+  "defineUrl": "/win32/windowssearcherrors-h/event_reg_version/",
+  "message": "The registry version does not match with the expected <%2>, or the registry cannot be accessed because the service account does not have the correct permissions.  Uninstall the previous version before installing the new one.%1",
+  "remarks": null,
+  "aka": [
+    "-1073738790"
+  ],
+  "akaUrl": [
+    "/win32/windowssearcherrors-h/event_reg_version/-1073738790/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_protocol_not_supported\-1073700845\index.html.json
+canonical: /win32/ntstatus-h/status_protocol_not_supported/0xc000a013/
+title: -1073700845 STATUS_PROTOCOL_NOT_SUPPORTED in ntstatus.h
+description: The protocol is not installed on the local machine.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073700845",
+  "codeUrl": "/win32/ntstatus-h/status_protocol_not_supported/-1073700845/",
+  "numericCode": 0,
+  "define": "STATUS_PROTOCOL_NOT_SUPPORTED",
+  "defineUrl": "/win32/ntstatus-h/status_protocol_not_supported/",
+  "message": "The protocol is not installed on the local machine.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC000A013",
+  "originalCodeUrl": "/win32/ntstatus-h/status_protocol_not_supported/0xc000a013/"
+}

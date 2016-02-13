@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_cluster_node_not_member\5052\index.html.json
+
+title: 5052 ERROR_CLUSTER_NODE_NOT_MEMBER in winerror.h
+description: The cluster node is not a member of the cluster.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "5052",
+  "codeUrl": "/win32/winerror-h/error_cluster_node_not_member/5052/",
+  "numericCode": 5052,
+  "define": "ERROR_CLUSTER_NODE_NOT_MEMBER",
+  "defineUrl": "/win32/winerror-h/error_cluster_node_not_member/",
+  "message": "The cluster node is not a member of the cluster.",
+  "remarks": null,
+  "aka": [
+    "0x800713bc",
+    "-2147019844"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_cluster_node_not_member/0x800713bc/",
+    "/win32/winerror-h/error_cluster_node_not_member/-2147019844/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

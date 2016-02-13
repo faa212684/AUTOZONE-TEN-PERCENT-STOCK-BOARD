@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_server_not_disabled\0xc0000081\index.html.json
+
+title: 0xC0000081 STATUS_SERVER_NOT_DISABLED in ntstatus.h
+description: The GUID allocation server is [already] enabled at the moment.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000081",
+  "codeUrl": "/win32/ntstatus-h/status_server_not_disabled/0xc0000081/",
+  "numericCode": -1073741695,
+  "define": "STATUS_SERVER_NOT_DISABLED",
+  "defineUrl": "/win32/ntstatus-h/status_server_not_disabled/",
+  "message": "The GUID allocation server is [already] enabled at the moment.",
+  "remarks": null,
+  "aka": [
+    "-1073741695"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_server_not_disabled/-1073741695/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

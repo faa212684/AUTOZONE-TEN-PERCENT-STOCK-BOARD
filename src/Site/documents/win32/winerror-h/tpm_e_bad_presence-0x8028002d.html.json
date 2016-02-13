@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\tpm_e_bad_presence\0x8028002d\index.html.json
+
+title: 0x8028002D TPM_E_BAD_PRESENCE in winerror.h
+description: Either the physicalPresence or physicalPresenceLock bits have the wrong value.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8028002D",
+  "codeUrl": "/win32/winerror-h/tpm_e_bad_presence/0x8028002d/",
+  "numericCode": -2144862163,
+  "define": "TPM_E_BAD_PRESENCE",
+  "defineUrl": "/win32/winerror-h/tpm_e_bad_presence/",
+  "message": "Either the physicalPresence or physicalPresenceLock bits have the wrong value.",
+  "remarks": null,
+  "aka": [
+    "-2144862163"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/tpm_e_bad_presence/-2144862163/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,29 @@
+---
+output: win32\vdserr-h\vds_e_lun_disk_missing\0x80042818\index.html.json
+
+title: 0x80042818 VDS_E_LUN_DISK_MISSING in vdserr.h
+description: The SHRINK operation against the selected LUN cannot be completed. 
+The current state of the disk associated with the LUN is MISSING.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x80042818",
+  "codeUrl": "/win32/vdserr-h/vds_e_lun_disk_missing/0x80042818/",
+  "numericCode": -2147211240,
+  "define": "VDS_E_LUN_DISK_MISSING",
+  "defineUrl": "/win32/vdserr-h/vds_e_lun_disk_missing/",
+  "message": "The SHRINK operation against the selected LUN cannot be completed. \r\nThe current state of the disk associated with the LUN is MISSING.",
+  "remarks": null,
+  "aka": [
+    "-2147211240"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_lun_disk_missing/-2147211240/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\windowssearcherrors-h\gthr_e_notif_excessive_throughput\0x80040d9f\index.html.json
+
+title: 0x80040D9F GTHR_E_NOTIF_EXCESSIVE_THROUGHPUT in WindowsSearchErrors.h
+description: Alerts failed because of network failures or because the internal cache size was exceeded.  If the problem persists, change the content source type to adaptive or crawl.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "0x80040D9F",
+  "codeUrl": "/win32/windowssearcherrors-h/gthr_e_notif_excessive_throughput/0x80040d9f/",
+  "numericCode": -2147218017,
+  "define": "GTHR_E_NOTIF_EXCESSIVE_THROUGHPUT",
+  "defineUrl": "/win32/windowssearcherrors-h/gthr_e_notif_excessive_throughput/",
+  "message": "Alerts failed because of network failures or because the internal cache size was exceeded.  If the problem persists, change the content source type to adaptive or crawl.",
+  "remarks": null,
+  "aka": [
+    "-2147218017"
+  ],
+  "akaUrl": [
+    "/win32/windowssearcherrors-h/gthr_e_notif_excessive_throughput/-2147218017/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

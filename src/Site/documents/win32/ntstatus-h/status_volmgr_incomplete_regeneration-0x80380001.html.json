@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_volmgr_incomplete_regeneration\0x80380001\index.html.json
+
+title: 0x80380001 STATUS_VOLMGR_INCOMPLETE_REGENERATION in ntstatus.h
+description: The regeneration operation was not able to copy all data from the active plexes due to bad sectors.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0x80380001",
+  "codeUrl": "/win32/ntstatus-h/status_volmgr_incomplete_regeneration/0x80380001/",
+  "numericCode": -2143813631,
+  "define": "STATUS_VOLMGR_INCOMPLETE_REGENERATION",
+  "defineUrl": "/win32/ntstatus-h/status_volmgr_incomplete_regeneration/",
+  "message": "The regeneration operation was not able to copy all data from the active plexes due to bad sectors.",
+  "remarks": null,
+  "aka": [
+    "-2143813631"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_volmgr_incomplete_regeneration/-2143813631/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

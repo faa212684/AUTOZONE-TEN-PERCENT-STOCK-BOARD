@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\fve_e_bootable_cddvd\0x80310030\index.html.json
+
+title: 0x80310030 FVE_E_BOOTABLE_CDDVD in winerror.h
+description: BitLocker Drive Encryption detected bootable media (CD or DVD) in the computer. Remove the media and restart the computer before configuring BitLocker.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80310030",
+  "codeUrl": "/win32/winerror-h/fve_e_bootable_cddvd/0x80310030/",
+  "numericCode": -2144272336,
+  "define": "FVE_E_BOOTABLE_CDDVD",
+  "defineUrl": "/win32/winerror-h/fve_e_bootable_cddvd/",
+  "message": "BitLocker Drive Encryption detected bootable media (CD or DVD) in the computer. Remove the media and restart the computer before configuring BitLocker.",
+  "remarks": null,
+  "aka": [
+    "-2144272336"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/fve_e_bootable_cddvd/-2144272336/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

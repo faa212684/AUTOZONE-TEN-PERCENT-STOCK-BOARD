@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_too_many_muxwaiters\152\index.html.json
+
+title: 152 ERROR_TOO_MANY_MUXWAITERS in winerror.h
+description: DosMuxSemWait did not execute; too many semaphores are already set.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "152",
+  "codeUrl": "/win32/winerror-h/error_too_many_muxwaiters/152/",
+  "numericCode": 152,
+  "define": "ERROR_TOO_MANY_MUXWAITERS",
+  "defineUrl": "/win32/winerror-h/error_too_many_muxwaiters/",
+  "message": "DosMuxSemWait did not execute; too many semaphores are already set.",
+  "remarks": null,
+  "aka": [
+    "0x80070098",
+    "-2147024744"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_too_many_muxwaiters/0x80070098/",
+    "/win32/winerror-h/error_too_many_muxwaiters/-2147024744/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

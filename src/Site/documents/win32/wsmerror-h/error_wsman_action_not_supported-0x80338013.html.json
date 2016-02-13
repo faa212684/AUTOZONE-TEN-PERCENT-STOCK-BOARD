@@ -1,0 +1,28 @@
+---
+output: win32\wsmerror-h\error_wsman_action_not_supported\0x80338013\index.html.json
+
+title: 0x80338013 ERROR_WSMAN_ACTION_NOT_SUPPORTED in wsmerror.h
+description: The WS-Management service does not support the action specified in the request.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x80338013",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_action_not_supported/0x80338013/",
+  "numericCode": -2144108525,
+  "define": "ERROR_WSMAN_ACTION_NOT_SUPPORTED",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_action_not_supported/",
+  "message": "The WS-Management service does not support the action specified in the request.",
+  "remarks": null,
+  "aka": [
+    "-2144108525"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_action_not_supported/-2144108525/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

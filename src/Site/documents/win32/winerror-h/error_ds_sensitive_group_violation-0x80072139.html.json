@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_ds_sensitive_group_violation\0x80072139\index.html.json
+canonical: /win32/winerror-h/error_ds_sensitive_group_violation/8505/
+title: 0x80072139 ERROR_DS_SENSITIVE_GROUP_VIOLATION in winerror.h
+description: Only an administrator can modify the membership list of an administrative group.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80072139",
+  "codeUrl": "/win32/winerror-h/error_ds_sensitive_group_violation/0x80072139/",
+  "numericCode": 0,
+  "define": "ERROR_DS_SENSITIVE_GROUP_VIOLATION",
+  "defineUrl": "/win32/winerror-h/error_ds_sensitive_group_violation/",
+  "message": "Only an administrator can modify the membership list of an administrative group.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "8505",
+  "originalCodeUrl": "/win32/winerror-h/error_ds_sensitive_group_violation/8505/"
+}

@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_variable_not_found\-1073741568\index.html.json
+canonical: /win32/ntstatus-h/status_variable_not_found/0xc0000100/
+title: -1073741568 STATUS_VARIABLE_NOT_FOUND in ntstatus.h
+description: Indicates the specified environment variable name was not found in the specified environment block.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741568",
+  "codeUrl": "/win32/ntstatus-h/status_variable_not_found/-1073741568/",
+  "numericCode": 0,
+  "define": "STATUS_VARIABLE_NOT_FOUND",
+  "defineUrl": "/win32/ntstatus-h/status_variable_not_found/",
+  "message": "Indicates the specified environment variable name was not found in the specified environment block.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000100",
+  "originalCodeUrl": "/win32/ntstatus-h/status_variable_not_found/0xc0000100/"
+}

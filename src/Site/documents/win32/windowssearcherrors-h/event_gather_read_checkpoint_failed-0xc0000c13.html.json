@@ -1,0 +1,28 @@
+---
+output: win32\windowssearcherrors-h\event_gather_read_checkpoint_failed\0xc0000c13\index.html.json
+
+title: 0xC0000C13 EVENT_GATHER_READ_CHECKPOINT_FAILED in WindowsSearchErrors.h
+description: The checkpoint record cannot be read, and this action cannot be completed.  If the problem persists, restart the service, free system resources or verify that your hardware is working properly. %1
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "0xC0000C13",
+  "codeUrl": "/win32/windowssearcherrors-h/event_gather_read_checkpoint_failed/0xc0000c13/",
+  "numericCode": -1073738733,
+  "define": "EVENT_GATHER_READ_CHECKPOINT_FAILED",
+  "defineUrl": "/win32/windowssearcherrors-h/event_gather_read_checkpoint_failed/",
+  "message": "The checkpoint record cannot be read, and this action cannot be completed.  If the problem persists, restart the service, free system resources or verify that your hardware is working properly. %1",
+  "remarks": null,
+  "aka": [
+    "-1073738733"
+  ],
+  "akaUrl": [
+    "/win32/windowssearcherrors-h/event_gather_read_checkpoint_failed/-1073738733/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

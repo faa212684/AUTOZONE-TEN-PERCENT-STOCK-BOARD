@@ -1,0 +1,28 @@
+---
+output: win32\bitsmsg-h\bg_e_local_file_changed\0x8020001d\index.html.json
+
+title: 0x8020001D BG_E_LOCAL_FILE_CHANGED in BitsMsg.h
+description: The local file was changed during the transfer. Recreate the job, and then try to transfer it again.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "BitsMsg.h",
+  "sourceUrl": "/win32/bitsmsg-h/",
+  "code": "0x8020001D",
+  "codeUrl": "/win32/bitsmsg-h/bg_e_local_file_changed/0x8020001d/",
+  "numericCode": -2145386467,
+  "define": "BG_E_LOCAL_FILE_CHANGED",
+  "defineUrl": "/win32/bitsmsg-h/bg_e_local_file_changed/",
+  "message": "The local file was changed during the transfer. Recreate the job, and then try to transfer it again.",
+  "remarks": null,
+  "aka": [
+    "-2145386467"
+  ],
+  "akaUrl": [
+    "/win32/bitsmsg-h/bg_e_local_file_changed/-2145386467/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

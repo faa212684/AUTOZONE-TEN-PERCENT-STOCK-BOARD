@@ -1,0 +1,29 @@
+---
+output: win32\vdserr-h\vds_e_target_portal_not_found\0x80042901\index.html.json
+
+title: 0x80042901 VDS_E_TARGET_PORTAL_NOT_FOUND in vdserr.h
+description: The target portal was not found. For calls to GetPathInfo(), the target portal 
+is associated with the path end point.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x80042901",
+  "codeUrl": "/win32/vdserr-h/vds_e_target_portal_not_found/0x80042901/",
+  "numericCode": -2147211007,
+  "define": "VDS_E_TARGET_PORTAL_NOT_FOUND",
+  "defineUrl": "/win32/vdserr-h/vds_e_target_portal_not_found/",
+  "message": "The target portal was not found. For calls to GetPathInfo(), the target portal \r\nis associated with the path end point.",
+  "remarks": null,
+  "aka": [
+    "-2147211007"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_target_portal_not_found/-2147211007/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_ds_parent_is_an_alias\0x8007208a\index.html.json
+canonical: /win32/winerror-h/error_ds_parent_is_an_alias/8330/
+title: 0x8007208a ERROR_DS_PARENT_IS_AN_ALIAS in winerror.h
+description: Having a parent that is an alias is not permitted. Aliases are leaf objects.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007208a",
+  "codeUrl": "/win32/winerror-h/error_ds_parent_is_an_alias/0x8007208a/",
+  "numericCode": 0,
+  "define": "ERROR_DS_PARENT_IS_AN_ALIAS",
+  "defineUrl": "/win32/winerror-h/error_ds_parent_is_an_alias/",
+  "message": "Having a parent that is an alias is not permitted. Aliases are leaf objects.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "8330",
+  "originalCodeUrl": "/win32/winerror-h/error_ds_parent_is_an_alias/8330/"
+}

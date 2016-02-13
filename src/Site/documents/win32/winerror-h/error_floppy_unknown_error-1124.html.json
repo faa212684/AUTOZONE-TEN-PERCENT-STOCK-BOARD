@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_floppy_unknown_error\1124\index.html.json
+
+title: 1124 ERROR_FLOPPY_UNKNOWN_ERROR in winerror.h
+description: The floppy disk controller reported an error that is not recognized by the floppy disk driver.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1124",
+  "codeUrl": "/win32/winerror-h/error_floppy_unknown_error/1124/",
+  "numericCode": 1124,
+  "define": "ERROR_FLOPPY_UNKNOWN_ERROR",
+  "defineUrl": "/win32/winerror-h/error_floppy_unknown_error/",
+  "message": "The floppy disk controller reported an error that is not recognized by the floppy disk driver.",
+  "remarks": null,
+  "aka": [
+    "0x80070464",
+    "-2147023772"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_floppy_unknown_error/0x80070464/",
+    "/win32/winerror-h/error_floppy_unknown_error/-2147023772/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

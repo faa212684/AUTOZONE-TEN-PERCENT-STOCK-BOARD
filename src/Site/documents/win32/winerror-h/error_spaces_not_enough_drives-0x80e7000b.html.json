@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\error_spaces_not_enough_drives\0x80e7000b\index.html.json
+
+title: 0x80E7000B ERROR_SPACES_NOT_ENOUGH_DRIVES in winerror.h
+description: There were not enough physical disks to complete the requested operation.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80E7000B",
+  "codeUrl": "/win32/winerror-h/error_spaces_not_enough_drives/0x80e7000b/",
+  "numericCode": -2132344821,
+  "define": "ERROR_SPACES_NOT_ENOUGH_DRIVES",
+  "defineUrl": "/win32/winerror-h/error_spaces_not_enough_drives/",
+  "message": "There were not enough physical disks to complete the requested operation.",
+  "remarks": null,
+  "aka": [
+    "-2132344821"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_spaces_not_enough_drives/-2132344821/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

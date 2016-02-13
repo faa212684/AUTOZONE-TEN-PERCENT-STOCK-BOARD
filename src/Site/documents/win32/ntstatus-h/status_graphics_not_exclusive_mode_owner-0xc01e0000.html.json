@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_graphics_not_exclusive_mode_owner\0xc01e0000\index.html.json
+
+title: 0xC01E0000 STATUS_GRAPHICS_NOT_EXCLUSIVE_MODE_OWNER in ntstatus.h
+description: Exclusive mode ownership is needed to create unmanaged primary allocation.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC01E0000",
+  "codeUrl": "/win32/ntstatus-h/status_graphics_not_exclusive_mode_owner/0xc01e0000/",
+  "numericCode": -1071775744,
+  "define": "STATUS_GRAPHICS_NOT_EXCLUSIVE_MODE_OWNER",
+  "defineUrl": "/win32/ntstatus-h/status_graphics_not_exclusive_mode_owner/",
+  "message": "Exclusive mode ownership is needed to create unmanaged primary allocation.",
+  "remarks": null,
+  "aka": [
+    "-1071775744"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_graphics_not_exclusive_mode_owner/-1071775744/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\certsrv_e_unsupported_cert_type\0x80094800\index.html.json
+
+title: 0x80094800 CERTSRV_E_UNSUPPORTED_CERT_TYPE in winerror.h
+description: The requested certificate template is not supported by this CA.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80094800",
+  "codeUrl": "/win32/winerror-h/certsrv_e_unsupported_cert_type/0x80094800/",
+  "numericCode": -2146875392,
+  "define": "CERTSRV_E_UNSUPPORTED_CERT_TYPE",
+  "defineUrl": "/win32/winerror-h/certsrv_e_unsupported_cert_type/",
+  "message": "The requested certificate template is not supported by this CA.",
+  "remarks": null,
+  "aka": [
+    "-2146875392"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/certsrv_e_unsupported_cert_type/-2146875392/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

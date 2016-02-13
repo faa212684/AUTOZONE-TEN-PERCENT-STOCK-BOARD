@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_graphics_unknown_child_status\0x401e042f\index.html.json
+
+title: 0x401E042F STATUS_GRAPHICS_UNKNOWN_CHILD_STATUS in ntstatus.h
+description: Child device presence was not reliably detected.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0x401E042F",
+  "codeUrl": "/win32/ntstatus-h/status_graphics_unknown_child_status/0x401e042f/",
+  "numericCode": 1075708975,
+  "define": "STATUS_GRAPHICS_UNKNOWN_CHILD_STATUS",
+  "defineUrl": "/win32/ntstatus-h/status_graphics_unknown_child_status/",
+  "message": "Child device presence was not reliably detected.",
+  "remarks": null,
+  "aka": [
+    "1075708975"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_graphics_unknown_child_status/1075708975/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

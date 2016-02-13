@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_account_locked_out\0xc0000234\index.html.json
+
+title: 0xC0000234 STATUS_ACCOUNT_LOCKED_OUT in ntstatus.h
+description: The user account has been automatically locked because too many invalid logon attempts or password change attempts have been requested.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000234",
+  "codeUrl": "/win32/ntstatus-h/status_account_locked_out/0xc0000234/",
+  "numericCode": -1073741260,
+  "define": "STATUS_ACCOUNT_LOCKED_OUT",
+  "defineUrl": "/win32/ntstatus-h/status_account_locked_out/",
+  "message": "The user account has been automatically locked because too many invalid logon attempts or password change attempts have been requested.",
+  "remarks": null,
+  "aka": [
+    "-1073741260"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_account_locked_out/-1073741260/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

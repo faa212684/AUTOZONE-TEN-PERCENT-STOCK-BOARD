@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_fve_no_feature_license\0xc0210026\index.html.json
+
+title: 0xC0210026 STATUS_FVE_NO_FEATURE_LICENSE in ntstatus.h
+description: This feature of BitLocker Drive Encryption is not included with this version of Windows.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0210026",
+  "codeUrl": "/win32/ntstatus-h/status_fve_no_feature_license/0xc0210026/",
+  "numericCode": -1071579098,
+  "define": "STATUS_FVE_NO_FEATURE_LICENSE",
+  "defineUrl": "/win32/ntstatus-h/status_fve_no_feature_license/",
+  "message": "This feature of BitLocker Drive Encryption is not included with this version of Windows.",
+  "remarks": null,
+  "aka": [
+    "-1071579098"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_fve_no_feature_license/-1071579098/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

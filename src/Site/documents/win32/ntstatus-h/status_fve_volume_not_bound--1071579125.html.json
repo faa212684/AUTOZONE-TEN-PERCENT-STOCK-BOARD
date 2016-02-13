@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_fve_volume_not_bound\-1071579125\index.html.json
+canonical: /win32/ntstatus-h/status_fve_volume_not_bound/0xc021000b/
+title: -1071579125 STATUS_FVE_VOLUME_NOT_BOUND in ntstatus.h
+description: The volume is not bound to the system.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071579125",
+  "codeUrl": "/win32/ntstatus-h/status_fve_volume_not_bound/-1071579125/",
+  "numericCode": 0,
+  "define": "STATUS_FVE_VOLUME_NOT_BOUND",
+  "defineUrl": "/win32/ntstatus-h/status_fve_volume_not_bound/",
+  "message": "The volume is not bound to the system.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC021000B",
+  "originalCodeUrl": "/win32/ntstatus-h/status_fve_volume_not_bound/0xc021000b/"
+}

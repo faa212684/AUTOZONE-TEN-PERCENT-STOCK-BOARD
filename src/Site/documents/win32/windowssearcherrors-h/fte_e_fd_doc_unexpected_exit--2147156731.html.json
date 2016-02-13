@@ -1,0 +1,29 @@
+---
+output: win32\windowssearcherrors-h\fte_e_fd_doc_unexpected_exit\-2147156731\index.html.json
+canonical: /win32/windowssearcherrors-h/fte_e_fd_doc_unexpected_exit/0x8004fd05/
+title: -2147156731 FTE_E_FD_DOC_UNEXPECTED_EXIT in WindowsSearchErrors.h
+description: The filter daemon process MSFTEFD exited unexpectedly because of document %1.
+Batch Id: %2
+Locale Id: %3
+Property Id: %4
+Stack Trace:
+%5
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "-2147156731",
+  "codeUrl": "/win32/windowssearcherrors-h/fte_e_fd_doc_unexpected_exit/-2147156731/",
+  "numericCode": 0,
+  "define": "FTE_E_FD_DOC_UNEXPECTED_EXIT",
+  "defineUrl": "/win32/windowssearcherrors-h/fte_e_fd_doc_unexpected_exit/",
+  "message": "The filter daemon process MSFTEFD exited unexpectedly because of document %1.\r\nBatch Id: %2\r\nLocale Id: %3\r\nProperty Id: %4\r\nStack Trace:\r\n%5",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x8004FD05",
+  "originalCodeUrl": "/win32/windowssearcherrors-h/fte_e_fd_doc_unexpected_exit/0x8004fd05/"
+}

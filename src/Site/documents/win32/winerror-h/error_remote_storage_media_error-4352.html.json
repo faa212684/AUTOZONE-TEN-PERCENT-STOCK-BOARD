@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_remote_storage_media_error\4352\index.html.json
+
+title: 4352 ERROR_REMOTE_STORAGE_MEDIA_ERROR in winerror.h
+description: The remote storage service encountered a media error.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "4352",
+  "codeUrl": "/win32/winerror-h/error_remote_storage_media_error/4352/",
+  "numericCode": 4352,
+  "define": "ERROR_REMOTE_STORAGE_MEDIA_ERROR",
+  "defineUrl": "/win32/winerror-h/error_remote_storage_media_error/",
+  "message": "The remote storage service encountered a media error.",
+  "remarks": null,
+  "aka": [
+    "0x80071100",
+    "-2147020544"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_remote_storage_media_error/0x80071100/",
+    "/win32/winerror-h/error_remote_storage_media_error/-2147020544/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

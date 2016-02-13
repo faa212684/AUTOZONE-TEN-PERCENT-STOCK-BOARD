@@ -1,0 +1,28 @@
+---
+output: win32\windowssearcherrors-h\event_sssearch_setup_cleanup_failed\0xc00003f3\index.html.json
+
+title: 0xC00003F3 EVENT_SSSEARCH_SETUP_CLEANUP_FAILED in WindowsSearchErrors.h
+description: The Windows Search Service has failed to remove the old search index. Internal error <%2,%3>. %1
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "0xC00003F3",
+  "codeUrl": "/win32/windowssearcherrors-h/event_sssearch_setup_cleanup_failed/0xc00003f3/",
+  "numericCode": -1073740813,
+  "define": "EVENT_SSSEARCH_SETUP_CLEANUP_FAILED",
+  "defineUrl": "/win32/windowssearcherrors-h/event_sssearch_setup_cleanup_failed/",
+  "message": "The Windows Search Service has failed to remove the old search index. Internal error <%2,%3>. %1",
+  "remarks": null,
+  "aka": [
+    "-1073740813"
+  ],
+  "akaUrl": [
+    "/win32/windowssearcherrors-h/event_sssearch_setup_cleanup_failed/-1073740813/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

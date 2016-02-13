@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_timer_resolution_not_set\0xc0000245\index.html.json
+
+title: 0xC0000245 STATUS_TIMER_RESOLUTION_NOT_SET in ntstatus.h
+description: The timer resolution was not previously set by the current process.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000245",
+  "codeUrl": "/win32/ntstatus-h/status_timer_resolution_not_set/0xc0000245/",
+  "numericCode": -1073741243,
+  "define": "STATUS_TIMER_RESOLUTION_NOT_SET",
+  "defineUrl": "/win32/ntstatus-h/status_timer_resolution_not_set/",
+  "message": "The timer resolution was not previously set by the current process.",
+  "remarks": null,
+  "aka": [
+    "-1073741243"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_timer_resolution_not_set/-1073741243/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

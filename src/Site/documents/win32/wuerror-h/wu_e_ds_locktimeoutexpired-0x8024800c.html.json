@@ -1,0 +1,28 @@
+---
+output: win32\wuerror-h\wu_e_ds_locktimeoutexpired\0x8024800c\index.html.json
+
+title: 0x8024800C WU_E_DS_LOCKTIMEOUTEXPIRED in wuerror.h
+description: The data store section could not be locked within the allotted time.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wuerror.h",
+  "sourceUrl": "/win32/wuerror-h/",
+  "code": "0x8024800C",
+  "codeUrl": "/win32/wuerror-h/wu_e_ds_locktimeoutexpired/0x8024800c/",
+  "numericCode": -2145091572,
+  "define": "WU_E_DS_LOCKTIMEOUTEXPIRED",
+  "defineUrl": "/win32/wuerror-h/wu_e_ds_locktimeoutexpired/",
+  "message": "The data store section could not be locked within the allotted time.",
+  "remarks": null,
+  "aka": [
+    "-2145091572"
+  ],
+  "akaUrl": [
+    "/win32/wuerror-h/wu_e_ds_locktimeoutexpired/-2145091572/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

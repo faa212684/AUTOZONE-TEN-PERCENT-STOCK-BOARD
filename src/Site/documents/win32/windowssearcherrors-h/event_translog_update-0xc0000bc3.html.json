@@ -1,0 +1,28 @@
+---
+output: win32\windowssearcherrors-h\event_translog_update\0xc0000bc3\index.html.json
+
+title: 0xC0000BC3 EVENT_TRANSLOG_UPDATE in WindowsSearchErrors.h
+description: The transaction cannot be updated in the queue. File: %2.%1
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "0xC0000BC3",
+  "codeUrl": "/win32/windowssearcherrors-h/event_translog_update/0xc0000bc3/",
+  "numericCode": -1073738813,
+  "define": "EVENT_TRANSLOG_UPDATE",
+  "defineUrl": "/win32/windowssearcherrors-h/event_translog_update/",
+  "message": "The transaction cannot be updated in the queue. File: %2.%1",
+  "remarks": null,
+  "aka": [
+    "-1073738813"
+  ],
+  "akaUrl": [
+    "/win32/windowssearcherrors-h/event_translog_update/-1073738813/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

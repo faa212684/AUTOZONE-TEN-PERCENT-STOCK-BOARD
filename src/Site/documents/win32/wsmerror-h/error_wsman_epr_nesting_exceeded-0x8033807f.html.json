@@ -1,0 +1,29 @@
+---
+output: win32\wsmerror-h\error_wsman_epr_nesting_exceeded\0x8033807f\index.html.json
+
+title: 0x8033807F ERROR_WSMAN_EPR_NESTING_EXCEEDED in wsmerror.h
+description: The WS-Management service cannot process the request. The EndPointReference contains more nested EndPointReferences
+than WS-Management supports.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x8033807F",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_epr_nesting_exceeded/0x8033807f/",
+  "numericCode": -2144108417,
+  "define": "ERROR_WSMAN_EPR_NESTING_EXCEEDED",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_epr_nesting_exceeded/",
+  "message": "The WS-Management service cannot process the request. The EndPointReference contains more nested EndPointReferences\r\nthan WS-Management supports.",
+  "remarks": null,
+  "aka": [
+    "-2144108417"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_epr_nesting_exceeded/-2144108417/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

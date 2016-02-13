@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\spapi_e_filequeue_locked\0x800f0216\index.html.json
+
+title: 0x800F0216 SPAPI_E_FILEQUEUE_LOCKED in winerror.h
+description: The operation cannot be performed because the file queue is locked.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800F0216",
+  "codeUrl": "/win32/winerror-h/spapi_e_filequeue_locked/0x800f0216/",
+  "numericCode": -2146500074,
+  "define": "SPAPI_E_FILEQUEUE_LOCKED",
+  "defineUrl": "/win32/winerror-h/spapi_e_filequeue_locked/",
+  "message": "The operation cannot be performed because the file queue is locked.",
+  "remarks": null,
+  "aka": [
+    "-2146500074"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/spapi_e_filequeue_locked/-2146500074/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

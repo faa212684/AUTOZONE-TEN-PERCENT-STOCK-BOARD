@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_ring_previously_above_quota\0x00000212\index.html.json
+
+title: 0x00000212 STATUS_RING_PREVIOUSLY_ABOVE_QUOTA in ntstatus.h
+description: The specified ring buffer has dropped below its quota of outstanding transactions.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0x00000212",
+  "codeUrl": "/win32/ntstatus-h/status_ring_previously_above_quota/0x00000212/",
+  "numericCode": 530,
+  "define": "STATUS_RING_PREVIOUSLY_ABOVE_QUOTA",
+  "defineUrl": "/win32/ntstatus-h/status_ring_previously_above_quota/",
+  "message": "The specified ring buffer has dropped below its quota of outstanding transactions.",
+  "remarks": null,
+  "aka": [
+    "530"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_ring_previously_above_quota/530/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

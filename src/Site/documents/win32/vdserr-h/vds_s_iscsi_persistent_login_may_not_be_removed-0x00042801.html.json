@@ -1,0 +1,29 @@
+---
+output: win32\vdserr-h\vds_s_iscsi_persistent_login_may_not_be_removed\0x00042801\index.html.json
+
+title: 0x00042801 VDS_S_ISCSI_PERSISTENT_LOGIN_MAY_NOT_BE_REMOVED in vdserr.h
+description: If a persistent login was set up for the target, it may not have been 
+removed. Check the iSCSI Initiator Control Panel to remove it if necessary.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x00042801",
+  "codeUrl": "/win32/vdserr-h/vds_s_iscsi_persistent_login_may_not_be_removed/0x00042801/",
+  "numericCode": 272385,
+  "define": "VDS_S_ISCSI_PERSISTENT_LOGIN_MAY_NOT_BE_REMOVED",
+  "defineUrl": "/win32/vdserr-h/vds_s_iscsi_persistent_login_may_not_be_removed/",
+  "message": "If a persistent login was set up for the target, it may not have been \r\nremoved. Check the iSCSI Initiator Control Panel to remove it if necessary.",
+  "remarks": null,
+  "aka": [
+    "272385"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_s_iscsi_persistent_login_may_not_be_removed/272385/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

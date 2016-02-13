@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\dfs_error_create_reparsepoint_success\0x400038d2\index.html.json
+
+title: 0x400038D2 DFS_ERROR_CREATE_REPARSEPOINT_SUCCESS in netevent.h
+description: Dfs successfully created the reparse point for directory %1 under directory %2. This operation had previously failed.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x400038D2",
+  "codeUrl": "/win32/netevent-h/dfs_error_create_reparsepoint_success/0x400038d2/",
+  "numericCode": 1073756370,
+  "define": "DFS_ERROR_CREATE_REPARSEPOINT_SUCCESS",
+  "defineUrl": "/win32/netevent-h/dfs_error_create_reparsepoint_success/",
+  "message": "Dfs successfully created the reparse point for directory %1 under directory %2. This operation had previously failed.",
+  "remarks": null,
+  "aka": [
+    "1073756370"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/dfs_error_create_reparsepoint_success/1073756370/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

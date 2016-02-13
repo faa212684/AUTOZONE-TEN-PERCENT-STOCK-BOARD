@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_sxs_identity_parse_error\-2147010803\index.html.json
+canonical: /win32/winerror-h/error_sxs_identity_parse_error/14093/
+title: -2147010803 ERROR_SXS_IDENTITY_PARSE_ERROR in winerror.h
+description: The identity string is malformed. This may be due to a trailing comma, more than two unnamed attributes, missing attribute name or missing attribute value.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147010803",
+  "codeUrl": "/win32/winerror-h/error_sxs_identity_parse_error/-2147010803/",
+  "numericCode": 0,
+  "define": "ERROR_SXS_IDENTITY_PARSE_ERROR",
+  "defineUrl": "/win32/winerror-h/error_sxs_identity_parse_error/",
+  "message": "The identity string is malformed. This may be due to a trailing comma, more than two unnamed attributes, missing attribute name or missing attribute value.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "14093",
+  "originalCodeUrl": "/win32/winerror-h/error_sxs_identity_parse_error/14093/"
+}

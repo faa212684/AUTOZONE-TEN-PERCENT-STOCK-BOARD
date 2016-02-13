@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_service_logon_failed\0x8007042d\index.html.json
+canonical: /win32/winerror-h/error_service_logon_failed/1069/
+title: 0x8007042d ERROR_SERVICE_LOGON_FAILED in winerror.h
+description: The service did not start due to a logon failure.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007042d",
+  "codeUrl": "/win32/winerror-h/error_service_logon_failed/0x8007042d/",
+  "numericCode": 0,
+  "define": "ERROR_SERVICE_LOGON_FAILED",
+  "defineUrl": "/win32/winerror-h/error_service_logon_failed/",
+  "message": "The service did not start due to a logon failure.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "1069",
+  "originalCodeUrl": "/win32/winerror-h/error_service_logon_failed/1069/"
+}

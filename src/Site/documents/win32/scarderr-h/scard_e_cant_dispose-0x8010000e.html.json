@@ -1,0 +1,28 @@
+---
+output: win32\scarderr-h\scard_e_cant_dispose\0x8010000e\index.html.json
+
+title: 0x8010000E SCARD_E_CANT_DISPOSE in SCardErr.h
+description: The system could not dispose of the media in the requested manner.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "SCardErr.h",
+  "sourceUrl": "/win32/scarderr-h/",
+  "code": "0x8010000E",
+  "codeUrl": "/win32/scarderr-h/scard_e_cant_dispose/0x8010000e/",
+  "numericCode": -2146435058,
+  "define": "SCARD_E_CANT_DISPOSE",
+  "defineUrl": "/win32/scarderr-h/scard_e_cant_dispose/",
+  "message": "The system could not dispose of the media in the requested manner.",
+  "remarks": null,
+  "aka": [
+    "-2146435058"
+  ],
+  "akaUrl": [
+    "/win32/scarderr-h/scard_e_cant_dispose/-2146435058/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

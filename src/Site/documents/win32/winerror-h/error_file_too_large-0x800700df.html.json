@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_file_too_large\0x800700df\index.html.json
+canonical: /win32/winerror-h/error_file_too_large/223/
+title: 0x800700df ERROR_FILE_TOO_LARGE in winerror.h
+description: The file size exceeds the limit allowed and cannot be saved.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800700df",
+  "codeUrl": "/win32/winerror-h/error_file_too_large/0x800700df/",
+  "numericCode": 0,
+  "define": "ERROR_FILE_TOO_LARGE",
+  "defineUrl": "/win32/winerror-h/error_file_too_large/",
+  "message": "The file size exceeds the limit allowed and cannot be saved.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "223",
+  "originalCodeUrl": "/win32/winerror-h/error_file_too_large/223/"
+}

@@ -1,0 +1,25 @@
+---
+output: win32\winerror-h\error_control_c_exit\0x8007023c\index.html.json
+canonical: /win32/winerror-h/error_control_c_exit/572/
+title: 0x8007023c ERROR_CONTROL_C_EXIT in winerror.h
+description: "{Application Exit by CTRL+C}
+The application terminated as a result of a CTRL+C."
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007023c",
+  "codeUrl": "/win32/winerror-h/error_control_c_exit/0x8007023c/",
+  "numericCode": 0,
+  "define": "ERROR_CONTROL_C_EXIT",
+  "defineUrl": "/win32/winerror-h/error_control_c_exit/",
+  "message": "{Application Exit by CTRL+C}\r\nThe application terminated as a result of a CTRL+C.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "572",
+  "originalCodeUrl": "/win32/winerror-h/error_control_c_exit/572/"
+}

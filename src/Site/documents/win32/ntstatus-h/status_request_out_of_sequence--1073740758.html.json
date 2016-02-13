@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_request_out_of_sequence\-1073740758\index.html.json
+canonical: /win32/ntstatus-h/status_request_out_of_sequence/0xc000042a/
+title: -1073740758 STATUS_REQUEST_OUT_OF_SEQUENCE in ntstatus.h
+description: The requested operation is out of order with respect to other operations.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073740758",
+  "codeUrl": "/win32/ntstatus-h/status_request_out_of_sequence/-1073740758/",
+  "numericCode": 0,
+  "define": "STATUS_REQUEST_OUT_OF_SEQUENCE",
+  "defineUrl": "/win32/ntstatus-h/status_request_out_of_sequence/",
+  "message": "The requested operation is out of order with respect to other operations.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC000042A",
+  "originalCodeUrl": "/win32/ntstatus-h/status_request_out_of_sequence/0xc000042a/"
+}

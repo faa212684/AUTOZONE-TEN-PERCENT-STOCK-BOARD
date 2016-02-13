@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_unsupported_preauth\-1073740975\index.html.json
+canonical: /win32/ntstatus-h/status_unsupported_preauth/0xc0000351/
+title: -1073740975 STATUS_UNSUPPORTED_PREAUTH in ntstatus.h
+description: An unsupported preauthentication mechanism was presented to the Kerberos package.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073740975",
+  "codeUrl": "/win32/ntstatus-h/status_unsupported_preauth/-1073740975/",
+  "numericCode": 0,
+  "define": "STATUS_UNSUPPORTED_PREAUTH",
+  "defineUrl": "/win32/ntstatus-h/status_unsupported_preauth/",
+  "message": "An unsupported preauthentication mechanism was presented to the Kerberos package.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000351",
+  "originalCodeUrl": "/win32/ntstatus-h/status_unsupported_preauth/0xc0000351/"
+}

@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_log_block_incomplete\6603\index.html.json
+
+title: 6603 ERROR_LOG_BLOCK_INCOMPLETE in winerror.h
+description: Log service encountered a partial or incomplete log block.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "6603",
+  "codeUrl": "/win32/winerror-h/error_log_block_incomplete/6603/",
+  "numericCode": 6603,
+  "define": "ERROR_LOG_BLOCK_INCOMPLETE",
+  "defineUrl": "/win32/winerror-h/error_log_block_incomplete/",
+  "message": "Log service encountered a partial or incomplete log block.",
+  "remarks": null,
+  "aka": [
+    "0x800719cb",
+    "-2147018293"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_log_block_incomplete/0x800719cb/",
+    "/win32/winerror-h/error_log_block_incomplete/-2147018293/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

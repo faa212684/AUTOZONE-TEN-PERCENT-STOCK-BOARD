@@ -1,0 +1,28 @@
+---
+output: win32\iscsierr-h\isdsc_service_not_running\0xefff003e\index.html.json
+
+title: 0xEFFF003E ISDSC_SERVICE_NOT_RUNNING in iscsierr.h
+description: The Microsoft iSCSI initiator service has not been started.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "iscsierr.h",
+  "sourceUrl": "/win32/iscsierr-h/",
+  "code": "0xEFFF003E",
+  "codeUrl": "/win32/iscsierr-h/isdsc_service_not_running/0xefff003e/",
+  "numericCode": -268500930,
+  "define": "ISDSC_SERVICE_NOT_RUNNING",
+  "defineUrl": "/win32/iscsierr-h/isdsc_service_not_running/",
+  "message": "The Microsoft iSCSI initiator service has not been started.",
+  "remarks": null,
+  "aka": [
+    "-268500930"
+  ],
+  "akaUrl": [
+    "/win32/iscsierr-h/isdsc_service_not_running/-268500930/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

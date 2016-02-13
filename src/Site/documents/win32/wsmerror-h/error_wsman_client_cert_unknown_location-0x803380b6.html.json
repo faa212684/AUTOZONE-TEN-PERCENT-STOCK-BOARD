@@ -1,0 +1,29 @@
+---
+output: win32\wsmerror-h\error_wsman_client_cert_unknown_location\0x803380b6\index.html.json
+
+title: 0x803380B6 ERROR_WSMAN_CLIENT_CERT_UNKNOWN_LOCATION in wsmerror.h
+description: The WinRM client cannot process the request. Requests must include the location (machine or user certificate store) of the certificate used for authentication.
+Change the request to include the location of the certificate and try again.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x803380B6",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_client_cert_unknown_location/0x803380b6/",
+  "numericCode": -2144108362,
+  "define": "ERROR_WSMAN_CLIENT_CERT_UNKNOWN_LOCATION",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_client_cert_unknown_location/",
+  "message": "The WinRM client cannot process the request. Requests must include the location (machine or user certificate store) of the certificate used for authentication.\r\nChange the request to include the location of the certificate and try again.",
+  "remarks": null,
+  "aka": [
+    "-2144108362"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_client_cert_unknown_location/-2144108362/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

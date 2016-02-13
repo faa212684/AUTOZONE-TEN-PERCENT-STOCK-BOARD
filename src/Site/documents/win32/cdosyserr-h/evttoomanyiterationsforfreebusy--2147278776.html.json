@@ -1,0 +1,25 @@
+---
+output: win32\cdosyserr-h\evttoomanyiterationsforfreebusy\-2147278776\index.html.json
+canonical: /win32/cdosyserr-h/evttoomanyiterationsforfreebusy/0x80032048/
+title: -2147278776 evtTooManyIterationsForFreebusy in CDOSysErr.h
+description: The recurring appointment expansion in mailbox %1 has taken too long. The free/busy information for this calendar may be inaccurate. This may be the result of many very old recurring appointments. To correct this, please remove them or change their start date to a more recent date.
+%n%nFor more information, click http:www.microsoft.com/contentredirect.asp.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "CDOSysErr.h",
+  "sourceUrl": "/win32/cdosyserr-h/",
+  "code": "-2147278776",
+  "codeUrl": "/win32/cdosyserr-h/evttoomanyiterationsforfreebusy/-2147278776/",
+  "numericCode": 0,
+  "define": "evtTooManyIterationsForFreebusy",
+  "defineUrl": "/win32/cdosyserr-h/evttoomanyiterationsforfreebusy/",
+  "message": "The recurring appointment expansion in mailbox %1 has taken too long. The free/busy information for this calendar may be inaccurate. This may be the result of many very old recurring appointments. To correct this, please remove them or change their start date to a more recent date.\r\n%n%nFor more information, click http:www.microsoft.com/contentredirect.asp.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80032048",
+  "originalCodeUrl": "/win32/cdosyserr-h/evttoomanyiterationsforfreebusy/0x80032048/"
+}

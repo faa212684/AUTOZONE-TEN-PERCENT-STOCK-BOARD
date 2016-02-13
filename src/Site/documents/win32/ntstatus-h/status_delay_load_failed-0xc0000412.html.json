@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_delay_load_failed\0xc0000412\index.html.json
+
+title: 0xC0000412 STATUS_DELAY_LOAD_FAILED in ntstatus.h
+description: An attempt to delay-load a .dll or get a function address in a delay-loaded .dll failed.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000412",
+  "codeUrl": "/win32/ntstatus-h/status_delay_load_failed/0xc0000412/",
+  "numericCode": -1073740782,
+  "define": "STATUS_DELAY_LOAD_FAILED",
+  "defineUrl": "/win32/ntstatus-h/status_delay_load_failed/",
+  "message": "An attempt to delay-load a .dll or get a function address in a delay-loaded .dll failed.",
+  "remarks": null,
+  "aka": [
+    "-1073740782"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_delay_load_failed/-1073740782/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

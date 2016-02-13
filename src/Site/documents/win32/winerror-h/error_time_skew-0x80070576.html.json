@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_time_skew\0x80070576\index.html.json
+canonical: /win32/winerror-h/error_time_skew/1398/
+title: 0x80070576 ERROR_TIME_SKEW in winerror.h
+description: There is a time and/or date difference between the client and server.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80070576",
+  "codeUrl": "/win32/winerror-h/error_time_skew/0x80070576/",
+  "numericCode": 0,
+  "define": "ERROR_TIME_SKEW",
+  "defineUrl": "/win32/winerror-h/error_time_skew/",
+  "message": "There is a time and/or date difference between the client and server.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "1398",
+  "originalCodeUrl": "/win32/winerror-h/error_time_skew/1398/"
+}

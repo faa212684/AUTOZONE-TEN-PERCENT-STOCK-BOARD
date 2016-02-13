@@ -1,0 +1,28 @@
+---
+output: win32\windowssearcherrors-h\gthr_s_transaction_ignored\0x00040d69\index.html.json
+
+title: 0x00040D69 GTHR_S_TRANSACTION_IGNORED in WindowsSearchErrors.h
+description: The transaction was ignored as redundant, because another transaction for the same URL was active at the same time.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "0x00040D69",
+  "codeUrl": "/win32/windowssearcherrors-h/gthr_s_transaction_ignored/0x00040d69/",
+  "numericCode": 265577,
+  "define": "GTHR_S_TRANSACTION_IGNORED",
+  "defineUrl": "/win32/windowssearcherrors-h/gthr_s_transaction_ignored/",
+  "message": "The transaction was ignored as redundant, because another transaction for the same URL was active at the same time.",
+  "remarks": null,
+  "aka": [
+    "265577"
+  ],
+  "akaUrl": [
+    "/win32/windowssearcherrors-h/gthr_s_transaction_ignored/265577/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

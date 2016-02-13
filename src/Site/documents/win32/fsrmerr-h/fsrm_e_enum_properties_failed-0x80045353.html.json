@@ -1,0 +1,28 @@
+---
+output: win32\fsrmerr-h\fsrm_e_enum_properties_failed\0x80045353\index.html.json
+
+title: 0x80045353 FSRM_E_ENUM_PROPERTIES_FAILED in fsrmerr.h
+description: File Server Resource Manager failed to enumerate file properties because a failure occurred while loading or classifying the file properties.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "fsrmerr.h",
+  "sourceUrl": "/win32/fsrmerr-h/",
+  "code": "0x80045353",
+  "codeUrl": "/win32/fsrmerr-h/fsrm_e_enum_properties_failed/0x80045353/",
+  "numericCode": -2147200173,
+  "define": "FSRM_E_ENUM_PROPERTIES_FAILED",
+  "defineUrl": "/win32/fsrmerr-h/fsrm_e_enum_properties_failed/",
+  "message": "File Server Resource Manager failed to enumerate file properties because a failure occurred while loading or classifying the file properties.",
+  "remarks": null,
+  "aka": [
+    "-2147200173"
+  ],
+  "akaUrl": [
+    "/win32/fsrmerr-h/fsrm_e_enum_properties_failed/-2147200173/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

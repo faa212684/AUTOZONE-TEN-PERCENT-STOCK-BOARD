@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ipsec_ike_dh_failure\13864\index.html.json
+
+title: 13864 ERROR_IPSEC_IKE_DH_FAILURE in winerror.h
+description: Diffie-Hellman failure
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "13864",
+  "codeUrl": "/win32/winerror-h/error_ipsec_ike_dh_failure/13864/",
+  "numericCode": 13864,
+  "define": "ERROR_IPSEC_IKE_DH_FAILURE",
+  "defineUrl": "/win32/winerror-h/error_ipsec_ike_dh_failure/",
+  "message": "Diffie-Hellman failure",
+  "remarks": null,
+  "aka": [
+    "0x80073628",
+    "-2147011032"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ipsec_ike_dh_failure/0x80073628/",
+    "/win32/winerror-h/error_ipsec_ike_dh_failure/-2147011032/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

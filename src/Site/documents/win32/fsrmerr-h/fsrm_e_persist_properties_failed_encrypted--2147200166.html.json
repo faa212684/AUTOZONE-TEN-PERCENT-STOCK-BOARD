@@ -1,0 +1,24 @@
+---
+output: win32\fsrmerr-h\fsrm_e_persist_properties_failed_encrypted\-2147200166\index.html.json
+canonical: /win32/fsrmerr-h/fsrm_e_persist_properties_failed_encrypted/0x8004535a/
+title: -2147200166 FSRM_E_PERSIST_PROPERTIES_FAILED_ENCRYPTED in fsrmerr.h
+description: File Server Resource Manager failed to write the properties to the file because the file is either corrupt or protected by Rights Management Services.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "fsrmerr.h",
+  "sourceUrl": "/win32/fsrmerr-h/",
+  "code": "-2147200166",
+  "codeUrl": "/win32/fsrmerr-h/fsrm_e_persist_properties_failed_encrypted/-2147200166/",
+  "numericCode": 0,
+  "define": "FSRM_E_PERSIST_PROPERTIES_FAILED_ENCRYPTED",
+  "defineUrl": "/win32/fsrmerr-h/fsrm_e_persist_properties_failed_encrypted/",
+  "message": "File Server Resource Manager failed to write the properties to the file because the file is either corrupt or protected by Rights Management Services.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x8004535A",
+  "originalCodeUrl": "/win32/fsrmerr-h/fsrm_e_persist_properties_failed_encrypted/0x8004535a/"
+}

@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_fwp_context_incompatible_with_layer\0xc022002e\index.html.json
+
+title: 0xC022002E STATUS_FWP_CONTEXT_INCOMPATIBLE_WITH_LAYER in ntstatus.h
+description: The raw context or the provider context is not compatible with the layer.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC022002E",
+  "codeUrl": "/win32/ntstatus-h/status_fwp_context_incompatible_with_layer/0xc022002e/",
+  "numericCode": -1071513554,
+  "define": "STATUS_FWP_CONTEXT_INCOMPATIBLE_WITH_LAYER",
+  "defineUrl": "/win32/ntstatus-h/status_fwp_context_incompatible_with_layer/",
+  "message": "The raw context or the provider context is not compatible with the layer.",
+  "remarks": null,
+  "aka": [
+    "-1071513554"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_fwp_context_incompatible_with_layer/-1071513554/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\ntiologc-h\mca_error_mem_unknown\0xc0050047\index.html.json
+
+title: 0xC0050047 MCA_ERROR_MEM_UNKNOWN in ntiologc.h
+description: Machine Check Event reported is a fatal ECC memory error at an unknown physical address reported to CPU %1. %2 additional error(s) are contained within the record.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntiologc.h",
+  "sourceUrl": "/win32/ntiologc-h/",
+  "code": "0xC0050047",
+  "codeUrl": "/win32/ntiologc-h/mca_error_mem_unknown/0xc0050047/",
+  "numericCode": -1073414073,
+  "define": "MCA_ERROR_MEM_UNKNOWN",
+  "defineUrl": "/win32/ntiologc-h/mca_error_mem_unknown/",
+  "message": "Machine Check Event reported is a fatal ECC memory error at an unknown physical address reported to CPU %1. %2 additional error(s) are contained within the record.",
+  "remarks": null,
+  "aka": [
+    "-1073414073"
+  ],
+  "akaUrl": [
+    "/win32/ntiologc-h/mca_error_mem_unknown/-1073414073/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

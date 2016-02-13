@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_ambiguous_system_device\0xc0000451\index.html.json
+
+title: 0xC0000451 STATUS_AMBIGUOUS_SYSTEM_DEVICE in ntstatus.h
+description: The requested system device cannot be identified due to multiple indistinguishable devices potentially matching the identification criteria.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000451",
+  "codeUrl": "/win32/ntstatus-h/status_ambiguous_system_device/0xc0000451/",
+  "numericCode": -1073740719,
+  "define": "STATUS_AMBIGUOUS_SYSTEM_DEVICE",
+  "defineUrl": "/win32/ntstatus-h/status_ambiguous_system_device/",
+  "message": "The requested system device cannot be identified due to multiple indistinguishable devices potentially matching the identification criteria.",
+  "remarks": null,
+  "aka": [
+    "-1073740719"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_ambiguous_system_device/-1073740719/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

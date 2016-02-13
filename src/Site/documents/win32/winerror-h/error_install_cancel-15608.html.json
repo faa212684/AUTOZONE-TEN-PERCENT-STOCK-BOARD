@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_install_cancel\15608\index.html.json
+
+title: 15608 ERROR_INSTALL_CANCEL in winerror.h
+description: User cancelled the install request.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "15608",
+  "codeUrl": "/win32/winerror-h/error_install_cancel/15608/",
+  "numericCode": 15608,
+  "define": "ERROR_INSTALL_CANCEL",
+  "defineUrl": "/win32/winerror-h/error_install_cancel/",
+  "message": "User cancelled the install request.",
+  "remarks": null,
+  "aka": [
+    "0x80073cf8",
+    "-2147009288"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_install_cancel/0x80073cf8/",
+    "/win32/winerror-h/error_install_cancel/-2147009288/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

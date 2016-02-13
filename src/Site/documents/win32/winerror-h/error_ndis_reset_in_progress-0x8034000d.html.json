@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\error_ndis_reset_in_progress\0x8034000d\index.html.json
+
+title: 0x8034000D ERROR_NDIS_RESET_IN_PROGRESS in winerror.h
+description: Network interface can not process the request because it is being reset.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8034000D",
+  "codeUrl": "/win32/winerror-h/error_ndis_reset_in_progress/0x8034000d/",
+  "numericCode": -2144075763,
+  "define": "ERROR_NDIS_RESET_IN_PROGRESS",
+  "defineUrl": "/win32/winerror-h/error_ndis_reset_in_progress/",
+  "message": "Network interface can not process the request because it is being reset.",
+  "remarks": null,
+  "aka": [
+    "-2144075763"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ndis_reset_in_progress/-2144075763/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

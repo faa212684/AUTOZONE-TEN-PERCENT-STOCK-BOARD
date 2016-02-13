@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_fve_conv_read_error\-1071579123\index.html.json
+canonical: /win32/ntstatus-h/status_fve_conv_read_error/0xc021000d/
+title: -1071579123 STATUS_FVE_CONV_READ_ERROR in ntstatus.h
+description: A read operation failed while converting the volume.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071579123",
+  "codeUrl": "/win32/ntstatus-h/status_fve_conv_read_error/-1071579123/",
+  "numericCode": 0,
+  "define": "STATUS_FVE_CONV_READ_ERROR",
+  "defineUrl": "/win32/ntstatus-h/status_fve_conv_read_error/",
+  "message": "A read operation failed while converting the volume.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC021000D",
+  "originalCodeUrl": "/win32/ntstatus-h/status_fve_conv_read_error/0xc021000d/"
+}

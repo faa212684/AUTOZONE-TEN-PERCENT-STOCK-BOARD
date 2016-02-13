@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_wmi_guid_disconnected\0xc0000301\index.html.json
+
+title: 0xC0000301 STATUS_WMI_GUID_DISCONNECTED in ntstatus.h
+description: The WMI GUID is no longer available
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000301",
+  "codeUrl": "/win32/ntstatus-h/status_wmi_guid_disconnected/0xc0000301/",
+  "numericCode": -1073741055,
+  "define": "STATUS_WMI_GUID_DISCONNECTED",
+  "defineUrl": "/win32/ntstatus-h/status_wmi_guid_disconnected/",
+  "message": "The WMI GUID is no longer available",
+  "remarks": null,
+  "aka": [
+    "-1073741055"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_wmi_guid_disconnected/-1073741055/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

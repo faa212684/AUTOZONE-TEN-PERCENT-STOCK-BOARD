@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ds_bad_hierarchy_file\8425\index.html.json
+
+title: 8425 ERROR_DS_BAD_HIERARCHY_FILE in winerror.h
+description: The hierarchy file is invalid.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "8425",
+  "codeUrl": "/win32/winerror-h/error_ds_bad_hierarchy_file/8425/",
+  "numericCode": 8425,
+  "define": "ERROR_DS_BAD_HIERARCHY_FILE",
+  "defineUrl": "/win32/winerror-h/error_ds_bad_hierarchy_file/",
+  "message": "The hierarchy file is invalid.",
+  "remarks": null,
+  "aka": [
+    "0x800720e9",
+    "-2147016471"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ds_bad_hierarchy_file/0x800720e9/",
+    "/win32/winerror-h/error_ds_bad_hierarchy_file/-2147016471/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

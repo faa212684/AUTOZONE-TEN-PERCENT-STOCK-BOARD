@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_corrupt_log_cleared\798\index.html.json
+
+title: 798 ERROR_CORRUPT_LOG_CLEARED in winerror.h
+description: One of the volume corruption logs was cleared by chkdsk and no longer contains real corruptions.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "798",
+  "codeUrl": "/win32/winerror-h/error_corrupt_log_cleared/798/",
+  "numericCode": 798,
+  "define": "ERROR_CORRUPT_LOG_CLEARED",
+  "defineUrl": "/win32/winerror-h/error_corrupt_log_cleared/",
+  "message": "One of the volume corruption logs was cleared by chkdsk and no longer contains real corruptions.",
+  "remarks": null,
+  "aka": [
+    "0x8007031e",
+    "-2147024098"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_corrupt_log_cleared/0x8007031e/",
+    "/win32/winerror-h/error_corrupt_log_cleared/-2147024098/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

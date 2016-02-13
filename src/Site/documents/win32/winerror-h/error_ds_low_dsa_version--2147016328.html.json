@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_ds_low_dsa_version\-2147016328\index.html.json
+canonical: /win32/winerror-h/error_ds_low_dsa_version/8568/
+title: -2147016328 ERROR_DS_LOW_DSA_VERSION in winerror.h
+description: The functional level of the domain (or forest) cannot be raised to the requested value, because there exist one or more domain controllers in the domain (or forest) that are at a lower incompatible functional level.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147016328",
+  "codeUrl": "/win32/winerror-h/error_ds_low_dsa_version/-2147016328/",
+  "numericCode": 0,
+  "define": "ERROR_DS_LOW_DSA_VERSION",
+  "defineUrl": "/win32/winerror-h/error_ds_low_dsa_version/",
+  "message": "The functional level of the domain (or forest) cannot be raised to the requested value, because there exist one or more domain controllers in the domain (or forest) that are at a lower incompatible functional level.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "8568",
+  "originalCodeUrl": "/win32/winerror-h/error_ds_low_dsa_version/8568/"
+}

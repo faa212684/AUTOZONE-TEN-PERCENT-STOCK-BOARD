@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_is_join_target\133\index.html.json
+
+title: 133 ERROR_IS_JOIN_TARGET in winerror.h
+description: A JOIN or SUBST command cannot be used for a drive that contains previously joined drives.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "133",
+  "codeUrl": "/win32/winerror-h/error_is_join_target/133/",
+  "numericCode": 133,
+  "define": "ERROR_IS_JOIN_TARGET",
+  "defineUrl": "/win32/winerror-h/error_is_join_target/",
+  "message": "A JOIN or SUBST command cannot be used for a drive that contains previously joined drives.",
+  "remarks": null,
+  "aka": [
+    "0x80070085",
+    "-2147024763"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_is_join_target/0x80070085/",
+    "/win32/winerror-h/error_is_join_target/-2147024763/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

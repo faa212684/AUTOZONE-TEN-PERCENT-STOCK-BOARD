@@ -1,0 +1,24 @@
+---
+output: win32\windowssearcherrors-h\event_using_different_word_breaker\-2147480580\index.html.json
+canonical: /win32/windowssearcherrors-h/event_using_different_word_breaker/0x80000bfc/
+title: -2147480580 EVENT_USING_DIFFERENT_WORD_BREAKER in WindowsSearchErrors.h
+description: The gatherer is using the word breaker for language id <%2> for text in language id <%3>. The corresponding language resources are not installed on your computer.%1
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "-2147480580",
+  "codeUrl": "/win32/windowssearcherrors-h/event_using_different_word_breaker/-2147480580/",
+  "numericCode": 0,
+  "define": "EVENT_USING_DIFFERENT_WORD_BREAKER",
+  "defineUrl": "/win32/windowssearcherrors-h/event_using_different_word_breaker/",
+  "message": "The gatherer is using the word breaker for language id <%2> for text in language id <%3>. The corresponding language resources are not installed on your computer.%1",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80000BFC",
+  "originalCodeUrl": "/win32/windowssearcherrors-h/event_using_different_word_breaker/0x80000bfc/"
+}

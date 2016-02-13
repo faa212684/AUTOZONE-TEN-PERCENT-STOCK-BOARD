@@ -1,0 +1,28 @@
+---
+output: win32\windowssearcherrors-h\event_indexer_missing_app_directory\0xc0001b9a\index.html.json
+
+title: 0xC0001B9A EVENT_INDEXER_MISSING_APP_DIRECTORY in WindowsSearchErrors.h
+description: Configuration directory %2 is missing, and disaster recovery must be performed. If there are existing indexes, they must be restored from the last backup. If there is no backup of index data, then delete the catalogs and recreate them.%1
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "0xC0001B9A",
+  "codeUrl": "/win32/windowssearcherrors-h/event_indexer_missing_app_directory/0xc0001b9a/",
+  "numericCode": -1073734758,
+  "define": "EVENT_INDEXER_MISSING_APP_DIRECTORY",
+  "defineUrl": "/win32/windowssearcherrors-h/event_indexer_missing_app_directory/",
+  "message": "Configuration directory %2 is missing, and disaster recovery must be performed. If there are existing indexes, they must be restored from the last backup. If there is no backup of index data, then delete the catalogs and recreate them.%1",
+  "remarks": null,
+  "aka": [
+    "-1073734758"
+  ],
+  "akaUrl": [
+    "/win32/windowssearcherrors-h/event_indexer_missing_app_directory/-1073734758/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

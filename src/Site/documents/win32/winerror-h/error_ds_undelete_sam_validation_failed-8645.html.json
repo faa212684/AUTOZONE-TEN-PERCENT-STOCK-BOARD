@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ds_undelete_sam_validation_failed\8645\index.html.json
+
+title: 8645 ERROR_DS_UNDELETE_SAM_VALIDATION_FAILED in winerror.h
+description: The undelete operation failed because the Sam Account Name or Additional Sam Account Name of the object being undeleted conflicts with an existing live object.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "8645",
+  "codeUrl": "/win32/winerror-h/error_ds_undelete_sam_validation_failed/8645/",
+  "numericCode": 8645,
+  "define": "ERROR_DS_UNDELETE_SAM_VALIDATION_FAILED",
+  "defineUrl": "/win32/winerror-h/error_ds_undelete_sam_validation_failed/",
+  "message": "The undelete operation failed because the Sam Account Name or Additional Sam Account Name of the object being undeleted conflicts with an existing live object.",
+  "remarks": null,
+  "aka": [
+    "0x800721c5",
+    "-2147016251"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ds_undelete_sam_validation_failed/0x800721c5/",
+    "/win32/winerror-h/error_ds_undelete_sam_validation_failed/-2147016251/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

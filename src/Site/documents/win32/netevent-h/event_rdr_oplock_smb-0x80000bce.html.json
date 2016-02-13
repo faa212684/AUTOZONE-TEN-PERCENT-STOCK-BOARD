@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_rdr_oplock_smb\0x80000bce\index.html.json
+
+title: 0x80000BCE EVENT_RDR_OPLOCK_SMB in netevent.h
+description: The redirector failed to allocate a buffer for an oplock break.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x80000BCE",
+  "codeUrl": "/win32/netevent-h/event_rdr_oplock_smb/0x80000bce/",
+  "numericCode": -2147480626,
+  "define": "EVENT_RDR_OPLOCK_SMB",
+  "defineUrl": "/win32/netevent-h/event_rdr_oplock_smb/",
+  "message": "The redirector failed to allocate a buffer for an oplock break.",
+  "remarks": null,
+  "aka": [
+    "-2147480626"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_rdr_oplock_smb/-2147480626/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

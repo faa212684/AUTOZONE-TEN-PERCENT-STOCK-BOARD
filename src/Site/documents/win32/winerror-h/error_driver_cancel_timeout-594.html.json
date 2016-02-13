@@ -1,0 +1,31 @@
+---
+output: win32\winerror-h\error_driver_cancel_timeout\594\index.html.json
+
+title: 594 ERROR_DRIVER_CANCEL_TIMEOUT in winerror.h
+description: "{Cancel Timeout}
+The driver %hs failed to complete a cancelled I/O request in the allotted time."
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "594",
+  "codeUrl": "/win32/winerror-h/error_driver_cancel_timeout/594/",
+  "numericCode": 594,
+  "define": "ERROR_DRIVER_CANCEL_TIMEOUT",
+  "defineUrl": "/win32/winerror-h/error_driver_cancel_timeout/",
+  "message": "{Cancel Timeout}\r\nThe driver %hs failed to complete a cancelled I/O request in the allotted time.",
+  "remarks": null,
+  "aka": [
+    "0x80070252",
+    "-2147024302"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_driver_cancel_timeout/0x80070252/",
+    "/win32/winerror-h/error_driver_cancel_timeout/-2147024302/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

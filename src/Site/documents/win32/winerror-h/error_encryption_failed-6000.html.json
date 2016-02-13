@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_encryption_failed\6000\index.html.json
+
+title: 6000 ERROR_ENCRYPTION_FAILED in winerror.h
+description: The specified file could not be encrypted.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "6000",
+  "codeUrl": "/win32/winerror-h/error_encryption_failed/6000/",
+  "numericCode": 6000,
+  "define": "ERROR_ENCRYPTION_FAILED",
+  "defineUrl": "/win32/winerror-h/error_encryption_failed/",
+  "message": "The specified file could not be encrypted.",
+  "remarks": null,
+  "aka": [
+    "0x80071770",
+    "-2147018896"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_encryption_failed/0x80071770/",
+    "/win32/winerror-h/error_encryption_failed/-2147018896/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

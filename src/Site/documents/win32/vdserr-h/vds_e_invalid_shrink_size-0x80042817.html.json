@@ -1,0 +1,29 @@
+---
+output: win32\vdserr-h\vds_e_invalid_shrink_size\0x80042817\index.html.json
+
+title: 0x80042817 VDS_E_INVALID_SHRINK_SIZE in vdserr.h
+description: The SHRINK operation against the selected LUN cannot be completed. 
+The specified size is greater than the size of the LUN.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x80042817",
+  "codeUrl": "/win32/vdserr-h/vds_e_invalid_shrink_size/0x80042817/",
+  "numericCode": -2147211241,
+  "define": "VDS_E_INVALID_SHRINK_SIZE",
+  "defineUrl": "/win32/vdserr-h/vds_e_invalid_shrink_size/",
+  "message": "The SHRINK operation against the selected LUN cannot be completed. \r\nThe specified size is greater than the size of the LUN.",
+  "remarks": null,
+  "aka": [
+    "-2147211241"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_invalid_shrink_size/-2147211241/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

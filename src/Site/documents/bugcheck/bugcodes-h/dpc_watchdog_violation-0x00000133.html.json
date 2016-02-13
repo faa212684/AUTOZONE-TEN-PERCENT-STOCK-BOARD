@@ -1,0 +1,28 @@
+---
+output: bugcheck\bugcodes-h\dpc_watchdog_violation\0x00000133\index.html.json
+
+title: 0x00000133 DPC_WATCHDOG_VIOLATION in bugcodes.h
+description: DPC_WATCHDOG_VIOLATION
+disqus: true
+---
+{
+  "area": "bugcheck",
+  "areaUrl": "/bugcheck/",
+  "source": "bugcodes.h",
+  "sourceUrl": "/bugcheck/bugcodes-h/",
+  "code": "0x00000133",
+  "codeUrl": "/bugcheck/bugcodes-h/dpc_watchdog_violation/0x00000133/",
+  "numericCode": 307,
+  "define": "DPC_WATCHDOG_VIOLATION",
+  "defineUrl": "/bugcheck/bugcodes-h/dpc_watchdog_violation/",
+  "message": "DPC_WATCHDOG_VIOLATION",
+  "remarks": null,
+  "aka": [
+    "307"
+  ],
+  "akaUrl": [
+    "/bugcheck/bugcodes-h/dpc_watchdog_violation/307/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_cluster_maxnum_of_resources_exceeded\5076\index.html.json
+
+title: 5076 ERROR_CLUSTER_MAXNUM_OF_RESOURCES_EXCEEDED in winerror.h
+description: This resource cannot be created because the cluster has reached the limit on the number of resources it can monitor.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "5076",
+  "codeUrl": "/win32/winerror-h/error_cluster_maxnum_of_resources_exceeded/5076/",
+  "numericCode": 5076,
+  "define": "ERROR_CLUSTER_MAXNUM_OF_RESOURCES_EXCEEDED",
+  "defineUrl": "/win32/winerror-h/error_cluster_maxnum_of_resources_exceeded/",
+  "message": "This resource cannot be created because the cluster has reached the limit on the number of resources it can monitor.",
+  "remarks": null,
+  "aka": [
+    "0x800713d4",
+    "-2147019820"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_cluster_maxnum_of_resources_exceeded/0x800713d4/",
+    "/win32/winerror-h/error_cluster_maxnum_of_resources_exceeded/-2147019820/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

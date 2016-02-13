@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_volmgr_disk_layout_primary_between_logical_partitions\0xc038000f\index.html.json
+
+title: 0xC038000F STATUS_VOLMGR_DISK_LAYOUT_PRIMARY_BETWEEN_LOGICAL_PARTITIONS in ntstatus.h
+description: The disk layout contains primary partitions in between logical drives. This is an invalid disk layout.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC038000F",
+  "codeUrl": "/win32/ntstatus-h/status_volmgr_disk_layout_primary_between_logical_partitions/0xc038000f/",
+  "numericCode": -1070071793,
+  "define": "STATUS_VOLMGR_DISK_LAYOUT_PRIMARY_BETWEEN_LOGICAL_PARTITIONS",
+  "defineUrl": "/win32/ntstatus-h/status_volmgr_disk_layout_primary_between_logical_partitions/",
+  "message": "The disk layout contains primary partitions in between logical drives. This is an invalid disk layout.",
+  "remarks": null,
+  "aka": [
+    "-1070071793"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_volmgr_disk_layout_primary_between_logical_partitions/-1070071793/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

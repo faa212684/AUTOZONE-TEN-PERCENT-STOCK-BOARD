@@ -1,0 +1,26 @@
+---
+output: win32\ntstatus-h\status_reg_nat_consumption\-1073741111\index.html.json
+canonical: /win32/ntstatus-h/status_reg_nat_consumption/0xc00002c9/
+title: -1073741111 STATUS_REG_NAT_CONSUMPTION in ntstatus.h
+description: "{EXCEPTION}
+Register NaT consumption faults.
+A NaT value is consumed on a non speculative instruction."
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741111",
+  "codeUrl": "/win32/ntstatus-h/status_reg_nat_consumption/-1073741111/",
+  "numericCode": 0,
+  "define": "STATUS_REG_NAT_CONSUMPTION",
+  "defineUrl": "/win32/ntstatus-h/status_reg_nat_consumption/",
+  "message": "{EXCEPTION}\r\nRegister NaT consumption faults.\r\nA NaT value is consumed on a non speculative instruction.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC00002C9",
+  "originalCodeUrl": "/win32/ntstatus-h/status_reg_nat_consumption/0xc00002c9/"
+}

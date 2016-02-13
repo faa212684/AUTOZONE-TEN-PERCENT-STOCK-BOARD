@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_short_names_not_enabled_on_volume\0xc000019f\index.html.json
+
+title: 0xC000019F STATUS_SHORT_NAMES_NOT_ENABLED_ON_VOLUME in ntstatus.h
+description: Short names are not enabled on this volume.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000019F",
+  "codeUrl": "/win32/ntstatus-h/status_short_names_not_enabled_on_volume/0xc000019f/",
+  "numericCode": -1073741409,
+  "define": "STATUS_SHORT_NAMES_NOT_ENABLED_ON_VOLUME",
+  "defineUrl": "/win32/ntstatus-h/status_short_names_not_enabled_on_volume/",
+  "message": "Short names are not enabled on this volume.",
+  "remarks": null,
+  "aka": [
+    "-1073741409"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_short_names_not_enabled_on_volume/-1073741409/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

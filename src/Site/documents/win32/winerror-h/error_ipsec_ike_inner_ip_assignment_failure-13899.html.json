@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ipsec_ike_inner_ip_assignment_failure\13899\index.html.json
+
+title: 13899 ERROR_IPSEC_IKE_INNER_IP_ASSIGNMENT_FAILURE in winerror.h
+description: Error in assigning inner IP address to initiator in tunnel mode.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "13899",
+  "codeUrl": "/win32/winerror-h/error_ipsec_ike_inner_ip_assignment_failure/13899/",
+  "numericCode": 13899,
+  "define": "ERROR_IPSEC_IKE_INNER_IP_ASSIGNMENT_FAILURE",
+  "defineUrl": "/win32/winerror-h/error_ipsec_ike_inner_ip_assignment_failure/",
+  "message": "Error in assigning inner IP address to initiator in tunnel mode.",
+  "remarks": null,
+  "aka": [
+    "0x8007364b",
+    "-2147010997"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ipsec_ike_inner_ip_assignment_failure/0x8007364b/",
+    "/win32/winerror-h/error_ipsec_ike_inner_ip_assignment_failure/-2147010997/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

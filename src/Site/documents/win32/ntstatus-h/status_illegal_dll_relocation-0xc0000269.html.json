@@ -1,0 +1,29 @@
+---
+output: win32\ntstatus-h\status_illegal_dll_relocation\0xc0000269\index.html.json
+
+title: 0xC0000269 STATUS_ILLEGAL_DLL_RELOCATION in ntstatus.h
+description: "{Illegal System DLL Relocation}
+The system DLL %hs was relocated in memory. The application will not run properly. The relocation occurred because the DLL %hs occupied an address range reserved for Windows system DLLs. The vendor supplying the DLL should be contacted for a new DLL."
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000269",
+  "codeUrl": "/win32/ntstatus-h/status_illegal_dll_relocation/0xc0000269/",
+  "numericCode": -1073741207,
+  "define": "STATUS_ILLEGAL_DLL_RELOCATION",
+  "defineUrl": "/win32/ntstatus-h/status_illegal_dll_relocation/",
+  "message": "{Illegal System DLL Relocation}\r\nThe system DLL %hs was relocated in memory. The application will not run properly. The relocation occurred because the DLL %hs occupied an address range reserved for Windows system DLLs. The vendor supplying the DLL should be contacted for a new DLL.",
+  "remarks": null,
+  "aka": [
+    "-1073741207"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_illegal_dll_relocation/-1073741207/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

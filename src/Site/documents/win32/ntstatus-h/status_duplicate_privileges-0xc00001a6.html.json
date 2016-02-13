@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_duplicate_privileges\0xc00001a6\index.html.json
+
+title: 0xC00001A6 STATUS_DUPLICATE_PRIVILEGES in ntstatus.h
+description: Duplicate privileges were specified for the token.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC00001A6",
+  "codeUrl": "/win32/ntstatus-h/status_duplicate_privileges/0xc00001a6/",
+  "numericCode": -1073741402,
+  "define": "STATUS_DUPLICATE_PRIVILEGES",
+  "defineUrl": "/win32/ntstatus-h/status_duplicate_privileges/",
+  "message": "Duplicate privileges were specified for the token.",
+  "remarks": null,
+  "aka": [
+    "-1073741402"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_duplicate_privileges/-1073741402/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

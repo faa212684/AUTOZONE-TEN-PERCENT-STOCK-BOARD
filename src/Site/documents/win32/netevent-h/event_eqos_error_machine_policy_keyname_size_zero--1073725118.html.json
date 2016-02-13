@@ -1,0 +1,25 @@
+---
+output: win32\netevent-h\event_eqos_error_machine_policy_keyname_size_zero\-1073725118\index.html.json
+canonical: /win32/netevent-h/event_eqos_error_machine_policy_keyname_size_zero/0xc0004142/
+title: -1073725118 EVENT_EQOS_ERROR_MACHINE_POLICY_KEYNAME_SIZE_ZERO in netevent.h
+description: A computer QoS policy has a zero length name. 
+The offending policy is listed under the computer-level QoS policy root key, with index %2.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "-1073725118",
+  "codeUrl": "/win32/netevent-h/event_eqos_error_machine_policy_keyname_size_zero/-1073725118/",
+  "numericCode": 0,
+  "define": "EVENT_EQOS_ERROR_MACHINE_POLICY_KEYNAME_SIZE_ZERO",
+  "defineUrl": "/win32/netevent-h/event_eqos_error_machine_policy_keyname_size_zero/",
+  "message": "A computer QoS policy has a zero length name. \r\nThe offending policy is listed under the computer-level QoS policy root key, with index %2.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0004142",
+  "originalCodeUrl": "/win32/netevent-h/event_eqos_error_machine_policy_keyname_size_zero/0xc0004142/"
+}

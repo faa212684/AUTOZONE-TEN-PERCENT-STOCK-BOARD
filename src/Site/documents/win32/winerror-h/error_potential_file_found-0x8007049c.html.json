@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_potential_file_found\0x8007049c\index.html.json
+canonical: /win32/winerror-h/error_potential_file_found/1180/
+title: 0x8007049c ERROR_POTENTIAL_FILE_FOUND in winerror.h
+description: A file was found, but it may not be the correct file.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007049c",
+  "codeUrl": "/win32/winerror-h/error_potential_file_found/0x8007049c/",
+  "numericCode": 0,
+  "define": "ERROR_POTENTIAL_FILE_FOUND",
+  "defineUrl": "/win32/winerror-h/error_potential_file_found/",
+  "message": "A file was found, but it may not be the correct file.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "1180",
+  "originalCodeUrl": "/win32/winerror-h/error_potential_file_found/1180/"
+}

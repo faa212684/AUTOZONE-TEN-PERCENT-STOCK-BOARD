@@ -1,0 +1,25 @@
+---
+output: win32\cdosyserr-h\evtregistryfailure\-1073537006\index.html.json
+canonical: /win32/cdosyserr-h/evtregistryfailure/0xc0032012/
+title: -1073537006 evtRegistryFailure in CDOSysErr.h
+description: Calendaring agent failed to open registry with error code %1.
+%n%nFor more information, click http:www.microsoft.com/contentredirect.asp.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "CDOSysErr.h",
+  "sourceUrl": "/win32/cdosyserr-h/",
+  "code": "-1073537006",
+  "codeUrl": "/win32/cdosyserr-h/evtregistryfailure/-1073537006/",
+  "numericCode": 0,
+  "define": "evtRegistryFailure",
+  "defineUrl": "/win32/cdosyserr-h/evtregistryfailure/",
+  "message": "Calendaring agent failed to open registry with error code %1.\r\n%n%nFor more information, click http:www.microsoft.com/contentredirect.asp.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0032012",
+  "originalCodeUrl": "/win32/cdosyserr-h/evtregistryfailure/0xc0032012/"
+}

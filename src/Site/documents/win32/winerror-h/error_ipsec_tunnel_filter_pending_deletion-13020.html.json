@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ipsec_tunnel_filter_pending_deletion\13020\index.html.json
+
+title: 13020 ERROR_IPSEC_TUNNEL_FILTER_PENDING_DELETION in winerror.h
+description: The tunnel filter is pending deletion.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "13020",
+  "codeUrl": "/win32/winerror-h/error_ipsec_tunnel_filter_pending_deletion/13020/",
+  "numericCode": 13020,
+  "define": "ERROR_IPSEC_TUNNEL_FILTER_PENDING_DELETION",
+  "defineUrl": "/win32/winerror-h/error_ipsec_tunnel_filter_pending_deletion/",
+  "message": "The tunnel filter is pending deletion.",
+  "remarks": null,
+  "aka": [
+    "0x800732dc",
+    "-2147011876"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ipsec_tunnel_filter_pending_deletion/0x800732dc/",
+    "/win32/winerror-h/error_ipsec_tunnel_filter_pending_deletion/-2147011876/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

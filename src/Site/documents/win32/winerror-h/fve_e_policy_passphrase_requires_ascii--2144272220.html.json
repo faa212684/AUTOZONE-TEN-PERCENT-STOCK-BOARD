@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\fve_e_policy_passphrase_requires_ascii\-2144272220\index.html.json
+canonical: /win32/winerror-h/fve_e_policy_passphrase_requires_ascii/0x803100a4/
+title: -2144272220 FVE_E_POLICY_PASSPHRASE_REQUIRES_ASCII in winerror.h
+description: Your system administrator requires that passwords contain only printable ASCII characters. This includes unaccented letters (A-Z, a-z), numbers (0-9), space, arithmetic signs, common punctuation, separators, and the following symbols: # $ & @ ^ _ ~ .
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2144272220",
+  "codeUrl": "/win32/winerror-h/fve_e_policy_passphrase_requires_ascii/-2144272220/",
+  "numericCode": 0,
+  "define": "FVE_E_POLICY_PASSPHRASE_REQUIRES_ASCII",
+  "defineUrl": "/win32/winerror-h/fve_e_policy_passphrase_requires_ascii/",
+  "message": "Your system administrator requires that passwords contain only printable ASCII characters. This includes unaccented letters (A-Z, a-z), numbers (0-9), space, arithmetic signs, common punctuation, separators, and the following symbols: # $ & @ ^ _ ~ .",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x803100A4",
+  "originalCodeUrl": "/win32/winerror-h/fve_e_policy_passphrase_requires_ascii/0x803100a4/"
+}

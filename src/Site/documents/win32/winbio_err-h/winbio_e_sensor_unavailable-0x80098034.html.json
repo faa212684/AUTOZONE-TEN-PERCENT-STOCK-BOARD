@@ -1,0 +1,28 @@
+---
+output: win32\winbio_err-h\winbio_e_sensor_unavailable\0x80098034\index.html.json
+
+title: 0x80098034 WINBIO_E_SENSOR_UNAVAILABLE in winbio_err.h
+description: A private pool cannot be created because one or more biometric units are not available.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winbio_err.h",
+  "sourceUrl": "/win32/winbio_err-h/",
+  "code": "0x80098034",
+  "codeUrl": "/win32/winbio_err-h/winbio_e_sensor_unavailable/0x80098034/",
+  "numericCode": -2146861004,
+  "define": "WINBIO_E_SENSOR_UNAVAILABLE",
+  "defineUrl": "/win32/winbio_err-h/winbio_e_sensor_unavailable/",
+  "message": "A private pool cannot be created because one or more biometric units are not available.",
+  "remarks": null,
+  "aka": [
+    "-2146861004"
+  ],
+  "akaUrl": [
+    "/win32/winbio_err-h/winbio_e_sensor_unavailable/-2146861004/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

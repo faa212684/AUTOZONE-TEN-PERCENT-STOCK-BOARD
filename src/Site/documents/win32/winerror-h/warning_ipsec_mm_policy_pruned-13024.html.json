@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\warning_ipsec_mm_policy_pruned\13024\index.html.json
+
+title: 13024 WARNING_IPSEC_MM_POLICY_PRUNED in winerror.h
+description: The Main Mode policy was successfully added, but some of the requested offers are not supported.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "13024",
+  "codeUrl": "/win32/winerror-h/warning_ipsec_mm_policy_pruned/13024/",
+  "numericCode": 13024,
+  "define": "WARNING_IPSEC_MM_POLICY_PRUNED",
+  "defineUrl": "/win32/winerror-h/warning_ipsec_mm_policy_pruned/",
+  "message": "The Main Mode policy was successfully added, but some of the requested offers are not supported.",
+  "remarks": null,
+  "aka": [
+    "0x800732e0",
+    "-2147011872"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/warning_ipsec_mm_policy_pruned/0x800732e0/",
+    "/win32/winerror-h/warning_ipsec_mm_policy_pruned/-2147011872/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

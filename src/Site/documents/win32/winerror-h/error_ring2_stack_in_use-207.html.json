@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ring2_stack_in_use\207\index.html.json
+
+title: 207 ERROR_RING2_STACK_IN_USE in winerror.h
+description: The ring 2 stack is in use.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "207",
+  "codeUrl": "/win32/winerror-h/error_ring2_stack_in_use/207/",
+  "numericCode": 207,
+  "define": "ERROR_RING2_STACK_IN_USE",
+  "defineUrl": "/win32/winerror-h/error_ring2_stack_in_use/",
+  "message": "The ring 2 stack is in use.",
+  "remarks": null,
+  "aka": [
+    "0x800700cf",
+    "-2147024689"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ring2_stack_in_use/0x800700cf/",
+    "/win32/winerror-h/error_ring2_stack_in_use/-2147024689/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

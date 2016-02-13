@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_nologon_workstation_trust_account\1808\index.html.json
+
+title: 1808 ERROR_NOLOGON_WORKSTATION_TRUST_ACCOUNT in winerror.h
+description: The account used is a computer account. Use your global user account or local user account to access this server.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1808",
+  "codeUrl": "/win32/winerror-h/error_nologon_workstation_trust_account/1808/",
+  "numericCode": 1808,
+  "define": "ERROR_NOLOGON_WORKSTATION_TRUST_ACCOUNT",
+  "defineUrl": "/win32/winerror-h/error_nologon_workstation_trust_account/",
+  "message": "The account used is a computer account. Use your global user account or local user account to access this server.",
+  "remarks": null,
+  "aka": [
+    "0x80070710",
+    "-2147023088"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_nologon_workstation_trust_account/0x80070710/",
+    "/win32/winerror-h/error_nologon_workstation_trust_account/-2147023088/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

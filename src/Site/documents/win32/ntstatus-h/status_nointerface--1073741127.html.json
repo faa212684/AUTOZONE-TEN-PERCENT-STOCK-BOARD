@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_nointerface\-1073741127\index.html.json
+canonical: /win32/ntstatus-h/status_nointerface/0xc00002b9/
+title: -1073741127 STATUS_NOINTERFACE in ntstatus.h
+description: The requested interface is not supported.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741127",
+  "codeUrl": "/win32/ntstatus-h/status_nointerface/-1073741127/",
+  "numericCode": 0,
+  "define": "STATUS_NOINTERFACE",
+  "defineUrl": "/win32/ntstatus-h/status_nointerface/",
+  "message": "The requested interface is not supported.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC00002B9",
+  "originalCodeUrl": "/win32/ntstatus-h/status_nointerface/0xc00002b9/"
+}

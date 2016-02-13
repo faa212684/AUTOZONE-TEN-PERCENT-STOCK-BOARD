@@ -1,0 +1,28 @@
+---
+output: win32\nserror-h\ns_e_unexpected_display_settings\0xc00d1b88\index.html.json
+
+title: 0xC00D1B88 NS_E_UNEXPECTED_DISPLAY_SETTINGS in nserror.h
+description: It is not possible to start encoding because the display size or color has changed since the current session was defined. Restore the previous settings or create a new session.%0
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "nserror.h",
+  "sourceUrl": "/win32/nserror-h/",
+  "code": "0xC00D1B88",
+  "codeUrl": "/win32/nserror-h/ns_e_unexpected_display_settings/0xc00d1b88/",
+  "numericCode": -1072882808,
+  "define": "NS_E_UNEXPECTED_DISPLAY_SETTINGS",
+  "defineUrl": "/win32/nserror-h/ns_e_unexpected_display_settings/",
+  "message": "It is not possible to start encoding because the display size or color has changed since the current session was defined. Restore the previous settings or create a new session.%0",
+  "remarks": null,
+  "aka": [
+    "-1072882808"
+  ],
+  "akaUrl": [
+    "/win32/nserror-h/ns_e_unexpected_display_settings/-1072882808/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

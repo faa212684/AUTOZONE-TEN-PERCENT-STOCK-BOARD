@@ -1,0 +1,28 @@
+---
+output: win32\oledberr-h\db_sec_e_safemode_denied\0x80040e9b\index.html.json
+
+title: 0x80040E9B DB_SEC_E_SAFEMODE_DENIED in oledberr.h
+description: Safety settings on this computer prohibit accessing a data source on another domain.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "oledberr.h",
+  "sourceUrl": "/win32/oledberr-h/",
+  "code": "0x80040E9B",
+  "codeUrl": "/win32/oledberr-h/db_sec_e_safemode_denied/0x80040e9b/",
+  "numericCode": -2147217765,
+  "define": "DB_SEC_E_SAFEMODE_DENIED",
+  "defineUrl": "/win32/oledberr-h/db_sec_e_safemode_denied/",
+  "message": "Safety settings on this computer prohibit accessing a data source on another domain.",
+  "remarks": null,
+  "aka": [
+    "-2147217765"
+  ],
+  "akaUrl": [
+    "/win32/oledberr-h/db_sec_e_safemode_denied/-2147217765/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

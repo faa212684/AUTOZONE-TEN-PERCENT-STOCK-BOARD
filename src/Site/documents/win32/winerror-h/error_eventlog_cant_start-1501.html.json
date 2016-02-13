@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_eventlog_cant_start\1501\index.html.json
+
+title: 1501 ERROR_EVENTLOG_CANT_START in winerror.h
+description: No event log file could be opened, so the event logging service did not start.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1501",
+  "codeUrl": "/win32/winerror-h/error_eventlog_cant_start/1501/",
+  "numericCode": 1501,
+  "define": "ERROR_EVENTLOG_CANT_START",
+  "defineUrl": "/win32/winerror-h/error_eventlog_cant_start/",
+  "message": "No event log file could be opened, so the event logging service did not start.",
+  "remarks": null,
+  "aka": [
+    "0x800705dd",
+    "-2147023395"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_eventlog_cant_start/0x800705dd/",
+    "/win32/winerror-h/error_eventlog_cant_start/-2147023395/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

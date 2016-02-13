@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\spapi_e_devinfo_list_locked\0x800f0212\index.html.json
+
+title: 0x800F0212 SPAPI_E_DEVINFO_LIST_LOCKED in winerror.h
+description: The operation cannot be performed because the device information set is locked.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800F0212",
+  "codeUrl": "/win32/winerror-h/spapi_e_devinfo_list_locked/0x800f0212/",
+  "numericCode": -2146500078,
+  "define": "SPAPI_E_DEVINFO_LIST_LOCKED",
+  "defineUrl": "/win32/winerror-h/spapi_e_devinfo_list_locked/",
+  "message": "The operation cannot be performed because the device information set is locked.",
+  "remarks": null,
+  "aka": [
+    "-2146500078"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/spapi_e_devinfo_list_locked/-2146500078/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,24 @@
+---
+output: win32\winbio_err-h\winbio_e_lock_violation\-2146861014\index.html.json
+canonical: /win32/winbio_err-h/winbio_e_lock_violation/0x8009802a/
+title: -2146861014 WINBIO_E_LOCK_VIOLATION in winbio_err.h
+description: The requested operation cannot be performed due to a locking conflict.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winbio_err.h",
+  "sourceUrl": "/win32/winbio_err-h/",
+  "code": "-2146861014",
+  "codeUrl": "/win32/winbio_err-h/winbio_e_lock_violation/-2146861014/",
+  "numericCode": 0,
+  "define": "WINBIO_E_LOCK_VIOLATION",
+  "defineUrl": "/win32/winbio_err-h/winbio_e_lock_violation/",
+  "message": "The requested operation cannot be performed due to a locking conflict.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x8009802A",
+  "originalCodeUrl": "/win32/winbio_err-h/winbio_e_lock_violation/0x8009802a/"
+}

@@ -1,0 +1,28 @@
+---
+output: win32\ntiologc-h\mca_frc_error\0xc0050080\index.html.json
+
+title: 0xC0050080 MCA_FRC_ERROR in ntiologc.h
+description: Machine Check Event reported is a fatal functional redundancy check error.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntiologc.h",
+  "sourceUrl": "/win32/ntiologc-h/",
+  "code": "0xC0050080",
+  "codeUrl": "/win32/ntiologc-h/mca_frc_error/0xc0050080/",
+  "numericCode": -1073414016,
+  "define": "MCA_FRC_ERROR",
+  "defineUrl": "/win32/ntiologc-h/mca_frc_error/",
+  "message": "Machine Check Event reported is a fatal functional redundancy check error.",
+  "remarks": null,
+  "aka": [
+    "-1073414016"
+  ],
+  "akaUrl": [
+    "/win32/ntiologc-h/mca_frc_error/-1073414016/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,31 @@
+---
+output: win32\winerror-h\error_registry_quota_limit\613\index.html.json
+
+title: 613 ERROR_REGISTRY_QUOTA_LIMIT in winerror.h
+description: "{Low On Registry Space}
+The system has reached the maximum size allowed for the system part of the registry. Additional storage requests will be ignored."
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "613",
+  "codeUrl": "/win32/winerror-h/error_registry_quota_limit/613/",
+  "numericCode": 613,
+  "define": "ERROR_REGISTRY_QUOTA_LIMIT",
+  "defineUrl": "/win32/winerror-h/error_registry_quota_limit/",
+  "message": "{Low On Registry Space}\r\nThe system has reached the maximum size allowed for the system part of the registry. Additional storage requests will be ignored.",
+  "remarks": null,
+  "aka": [
+    "0x80070265",
+    "-2147024283"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_registry_quota_limit/0x80070265/",
+    "/win32/winerror-h/error_registry_quota_limit/-2147024283/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

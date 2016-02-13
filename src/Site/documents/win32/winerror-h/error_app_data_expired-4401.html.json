@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_app_data_expired\4401\index.html.json
+
+title: 4401 ERROR_APP_DATA_EXPIRED in winerror.h
+description: Fast Cache data expired.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "4401",
+  "codeUrl": "/win32/winerror-h/error_app_data_expired/4401/",
+  "numericCode": 4401,
+  "define": "ERROR_APP_DATA_EXPIRED",
+  "defineUrl": "/win32/winerror-h/error_app_data_expired/",
+  "message": "Fast Cache data expired.",
+  "remarks": null,
+  "aka": [
+    "0x80071131",
+    "-2147020495"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_app_data_expired/0x80071131/",
+    "/win32/winerror-h/error_app_data_expired/-2147020495/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

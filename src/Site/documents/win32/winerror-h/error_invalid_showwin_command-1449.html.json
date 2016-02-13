@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_invalid_showwin_command\1449\index.html.json
+
+title: 1449 ERROR_INVALID_SHOWWIN_COMMAND in winerror.h
+description: Cannot show or remove the window in the way specified.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1449",
+  "codeUrl": "/win32/winerror-h/error_invalid_showwin_command/1449/",
+  "numericCode": 1449,
+  "define": "ERROR_INVALID_SHOWWIN_COMMAND",
+  "defineUrl": "/win32/winerror-h/error_invalid_showwin_command/",
+  "message": "Cannot show or remove the window in the way specified.",
+  "remarks": null,
+  "aka": [
+    "0x800705a9",
+    "-2147023447"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_invalid_showwin_command/0x800705a9/",
+    "/win32/winerror-h/error_invalid_showwin_command/-2147023447/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

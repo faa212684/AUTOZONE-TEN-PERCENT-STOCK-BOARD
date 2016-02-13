@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\error_volmgr_disk_layout_non_basic_between_basic_partitions\0xc038000c\index.html.json
+
+title: 0xC038000C ERROR_VOLMGR_DISK_LAYOUT_NON_BASIC_BETWEEN_BASIC_PARTITIONS in winerror.h
+description: The disk layout contains non-basic partitions which appear after basic paritions. This is an invalid disk layout.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0xC038000C",
+  "codeUrl": "/win32/winerror-h/error_volmgr_disk_layout_non_basic_between_basic_partitions/0xc038000c/",
+  "numericCode": -1070071796,
+  "define": "ERROR_VOLMGR_DISK_LAYOUT_NON_BASIC_BETWEEN_BASIC_PARTITIONS",
+  "defineUrl": "/win32/winerror-h/error_volmgr_disk_layout_non_basic_between_basic_partitions/",
+  "message": "The disk layout contains non-basic partitions which appear after basic paritions. This is an invalid disk layout.",
+  "remarks": null,
+  "aka": [
+    "-1070071796"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_volmgr_disk_layout_non_basic_between_basic_partitions/-1070071796/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

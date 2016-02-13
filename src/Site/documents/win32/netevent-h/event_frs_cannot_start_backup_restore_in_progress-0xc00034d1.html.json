@@ -1,0 +1,52 @@
+---
+output: win32\netevent-h\event_frs_cannot_start_backup_restore_in_progress\0xc00034d1\index.html.json
+
+title: 0xC00034D1 EVENT_FRS_CANNOT_START_BACKUP_RESTORE_IN_PROGRESS in netevent.h
+description: The File Replication Service cannot enable replication on the comptuer %1
+until a backup/restore application completes.
+%n
+%nA backup/restore application has set a registry key that
+prevents the File Replication Service from starting until the registry
+key is deleted or the system is rebooted.
+%n
+%nThe backup/restore application may still be running. Check with your
+local administrator before proceeding further.
+%n
+%nThe computer can be rebooted by clicking on Start, Shutdown, and
+selecting Restart.
+%n
+%nWARNING - DELETING THE REGISTRY KEY IS NOT RECOMMENDED!
+Applications may fail in unexpected ways.
+%n
+%nThe registry key can be deleted by running regedt32.
+%n
+%nClick on Start, Run, and type regedt32.
+%n
+%nClick on the window entitled HKEY_LOCAL_MACHINE. Double click on SYSTEM,
+CurrentControlSet, Services, NtFrs, Parameters, Backup/Restore,
+"Stop NtFrs from Starting". On the toolbar, click on Edit and select
+Delete. Be careful! Deleting a key other than "Stop NtFrs From Starting"
+can have unexpected sideeffects.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC00034D1",
+  "codeUrl": "/win32/netevent-h/event_frs_cannot_start_backup_restore_in_progress/0xc00034d1/",
+  "numericCode": -1073728303,
+  "define": "EVENT_FRS_CANNOT_START_BACKUP_RESTORE_IN_PROGRESS",
+  "defineUrl": "/win32/netevent-h/event_frs_cannot_start_backup_restore_in_progress/",
+  "message": "The File Replication Service cannot enable replication on the comptuer %1\r\nuntil a backup/restore application completes.\r\n%n\r\n%nA backup/restore application has set a registry key that\r\nprevents the File Replication Service from starting until the registry\r\nkey is deleted or the system is rebooted.\r\n%n\r\n%nThe backup/restore application may still be running. Check with your\r\nlocal administrator before proceeding further.\r\n%n\r\n%nThe computer can be rebooted by clicking on Start, Shutdown, and\r\nselecting Restart.\r\n%n\r\n%nWARNING - DELETING THE REGISTRY KEY IS NOT RECOMMENDED!\r\nApplications may fail in unexpected ways.\r\n%n\r\n%nThe registry key can be deleted by running regedt32.\r\n%n\r\n%nClick on Start, Run, and type regedt32.\r\n%n\r\n%nClick on the window entitled HKEY_LOCAL_MACHINE. Double click on SYSTEM,\r\nCurrentControlSet, Services, NtFrs, Parameters, Backup/Restore,\r\n\"Stop NtFrs from Starting\". On the toolbar, click on Edit and select\r\nDelete. Be careful! Deleting a key other than \"Stop NtFrs From Starting\"\r\ncan have unexpected sideeffects.",
+  "remarks": null,
+  "aka": [
+    "-1073728303"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_frs_cannot_start_backup_restore_in_progress/-1073728303/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

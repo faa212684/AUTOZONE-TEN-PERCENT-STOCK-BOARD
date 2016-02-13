@@ -1,0 +1,28 @@
+---
+output: win32\wuerror-h\wu_e_ds_duplicateupdateid\0x80248013\index.html.json
+
+title: 0x80248013 WU_E_DS_DUPLICATEUPDATEID in wuerror.h
+description: The server sent the same update to the client with two different revision IDs.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wuerror.h",
+  "sourceUrl": "/win32/wuerror-h/",
+  "code": "0x80248013",
+  "codeUrl": "/win32/wuerror-h/wu_e_ds_duplicateupdateid/0x80248013/",
+  "numericCode": -2145091565,
+  "define": "WU_E_DS_DUPLICATEUPDATEID",
+  "defineUrl": "/win32/wuerror-h/wu_e_ds_duplicateupdateid/",
+  "message": "The server sent the same update to the client with two different revision IDs.",
+  "remarks": null,
+  "aka": [
+    "-2145091565"
+  ],
+  "akaUrl": [
+    "/win32/wuerror-h/wu_e_ds_duplicateupdateid/-2145091565/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

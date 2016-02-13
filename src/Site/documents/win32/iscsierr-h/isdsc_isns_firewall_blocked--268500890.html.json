@@ -1,0 +1,24 @@
+---
+output: win32\iscsierr-h\isdsc_isns_firewall_blocked\-268500890\index.html.json
+canonical: /win32/iscsierr-h/isdsc_isns_firewall_blocked/0xefff0066/
+title: -268500890 ISDSC_ISNS_FIREWALL_BLOCKED in iscsierr.h
+description: The operation cannot be performed since the Internet Storage Name Server (iSNS) firewall exception has not been enabled.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "iscsierr.h",
+  "sourceUrl": "/win32/iscsierr-h/",
+  "code": "-268500890",
+  "codeUrl": "/win32/iscsierr-h/isdsc_isns_firewall_blocked/-268500890/",
+  "numericCode": 0,
+  "define": "ISDSC_ISNS_FIREWALL_BLOCKED",
+  "defineUrl": "/win32/iscsierr-h/isdsc_isns_firewall_blocked/",
+  "message": "The operation cannot be performed since the Internet Storage Name Server (iSNS) firewall exception has not been enabled.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xEFFF0066",
+  "originalCodeUrl": "/win32/iscsierr-h/isdsc_isns_firewall_blocked/0xefff0066/"
+}

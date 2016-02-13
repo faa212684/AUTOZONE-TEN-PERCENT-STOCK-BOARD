@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_volume_not_support_efs\0x8007177e\index.html.json
+canonical: /win32/winerror-h/error_volume_not_support_efs/6014/
+title: 0x8007177e ERROR_VOLUME_NOT_SUPPORT_EFS in winerror.h
+description: The disk partition does not support file encryption.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007177e",
+  "codeUrl": "/win32/winerror-h/error_volume_not_support_efs/0x8007177e/",
+  "numericCode": 0,
+  "define": "ERROR_VOLUME_NOT_SUPPORT_EFS",
+  "defineUrl": "/win32/winerror-h/error_volume_not_support_efs/",
+  "message": "The disk partition does not support file encryption.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "6014",
+  "originalCodeUrl": "/win32/winerror-h/error_volume_not_support_efs/6014/"
+}

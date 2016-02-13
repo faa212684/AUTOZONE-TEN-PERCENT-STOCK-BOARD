@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_efs_alg_blob_too_big\-1073740974\index.html.json
+canonical: /win32/ntstatus-h/status_efs_alg_blob_too_big/0xc0000352/
+title: -1073740974 STATUS_EFS_ALG_BLOB_TOO_BIG in ntstatus.h
+description: The encryption algorithm used on the source file needs a bigger key buffer than the one used on the destination file.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073740974",
+  "codeUrl": "/win32/ntstatus-h/status_efs_alg_blob_too_big/-1073740974/",
+  "numericCode": 0,
+  "define": "STATUS_EFS_ALG_BLOB_TOO_BIG",
+  "defineUrl": "/win32/ntstatus-h/status_efs_alg_blob_too_big/",
+  "message": "The encryption algorithm used on the source file needs a bigger key buffer than the one used on the destination file.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000352",
+  "originalCodeUrl": "/win32/ntstatus-h/status_efs_alg_blob_too_big/0xc0000352/"
+}

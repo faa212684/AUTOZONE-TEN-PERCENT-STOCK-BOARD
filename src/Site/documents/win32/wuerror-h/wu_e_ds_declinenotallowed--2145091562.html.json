@@ -1,0 +1,24 @@
+---
+output: win32\wuerror-h\wu_e_ds_declinenotallowed\-2145091562\index.html.json
+canonical: /win32/wuerror-h/wu_e_ds_declinenotallowed/0x80248016/
+title: -2145091562 WU_E_DS_DECLINENOTALLOWED in wuerror.h
+description: A request to hide an update was declined because it is a mandatory update or because it was deployed with a deadline.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wuerror.h",
+  "sourceUrl": "/win32/wuerror-h/",
+  "code": "-2145091562",
+  "codeUrl": "/win32/wuerror-h/wu_e_ds_declinenotallowed/-2145091562/",
+  "numericCode": 0,
+  "define": "WU_E_DS_DECLINENOTALLOWED",
+  "defineUrl": "/win32/wuerror-h/wu_e_ds_declinenotallowed/",
+  "message": "A request to hide an update was declined because it is a mandatory update or because it was deployed with a deadline.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80248016",
+  "originalCodeUrl": "/win32/wuerror-h/wu_e_ds_declinenotallowed/0x80248016/"
+}

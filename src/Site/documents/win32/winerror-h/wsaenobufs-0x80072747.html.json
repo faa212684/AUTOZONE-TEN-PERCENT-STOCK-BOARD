@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\wsaenobufs\0x80072747\index.html.json
+canonical: /win32/winerror-h/wsaenobufs/10055/
+title: 0x80072747 WSAENOBUFS in winerror.h
+description: An operation on a socket could not be performed because the system lacked sufficient buffer space or because a queue was full.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80072747",
+  "codeUrl": "/win32/winerror-h/wsaenobufs/0x80072747/",
+  "numericCode": 0,
+  "define": "WSAENOBUFS",
+  "defineUrl": "/win32/winerror-h/wsaenobufs/",
+  "message": "An operation on a socket could not be performed because the system lacked sufficient buffer space or because a queue was full.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "10055",
+  "originalCodeUrl": "/win32/winerror-h/wsaenobufs/10055/"
+}

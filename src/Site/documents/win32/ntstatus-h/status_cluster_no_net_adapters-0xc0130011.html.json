@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_cluster_no_net_adapters\0xc0130011\index.html.json
+
+title: 0xC0130011 STATUS_CLUSTER_NO_NET_ADAPTERS in ntstatus.h
+description: No network adapters are available.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0130011",
+  "codeUrl": "/win32/ntstatus-h/status_cluster_no_net_adapters/0xc0130011/",
+  "numericCode": -1072496623,
+  "define": "STATUS_CLUSTER_NO_NET_ADAPTERS",
+  "defineUrl": "/win32/ntstatus-h/status_cluster_no_net_adapters/",
+  "message": "No network adapters are available.",
+  "remarks": null,
+  "aka": [
+    "-1072496623"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_cluster_no_net_adapters/-1072496623/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

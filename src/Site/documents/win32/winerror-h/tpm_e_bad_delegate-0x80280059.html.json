@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\tpm_e_bad_delegate\0x80280059\index.html.json
+
+title: 0x80280059 TPM_E_BAD_DELEGATE in winerror.h
+description: Delegation is not correct.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80280059",
+  "codeUrl": "/win32/winerror-h/tpm_e_bad_delegate/0x80280059/",
+  "numericCode": -2144862119,
+  "define": "TPM_E_BAD_DELEGATE",
+  "defineUrl": "/win32/winerror-h/tpm_e_bad_delegate/",
+  "message": "Delegation is not correct.",
+  "remarks": null,
+  "aka": [
+    "-2144862119"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/tpm_e_bad_delegate/-2144862119/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

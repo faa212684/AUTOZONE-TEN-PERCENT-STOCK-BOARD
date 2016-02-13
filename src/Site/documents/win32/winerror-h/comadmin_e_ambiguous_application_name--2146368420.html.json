@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\comadmin_e_ambiguous_application_name\-2146368420\index.html.json
+canonical: /win32/winerror-h/comadmin_e_ambiguous_application_name/0x8011045c/
+title: -2146368420 COMADMIN_E_AMBIGUOUS_APPLICATION_NAME in winerror.h
+description: The application name is not unique and cannot be resolved to an application id
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2146368420",
+  "codeUrl": "/win32/winerror-h/comadmin_e_ambiguous_application_name/-2146368420/",
+  "numericCode": 0,
+  "define": "COMADMIN_E_AMBIGUOUS_APPLICATION_NAME",
+  "defineUrl": "/win32/winerror-h/comadmin_e_ambiguous_application_name/",
+  "message": "The application name is not unique and cannot be resolved to an application id",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x8011045C",
+  "originalCodeUrl": "/win32/winerror-h/comadmin_e_ambiguous_application_name/0x8011045c/"
+}

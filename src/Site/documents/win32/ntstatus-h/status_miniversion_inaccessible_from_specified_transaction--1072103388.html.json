@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_miniversion_inaccessible_from_specified_transaction\-1072103388\index.html.json
+canonical: /win32/ntstatus-h/status_miniversion_inaccessible_from_specified_transaction/0xc0190024/
+title: -1072103388 STATUS_MINIVERSION_INACCESSIBLE_FROM_SPECIFIED_TRANSACTION in ntstatus.h
+description: A miniversion may only be opened in the context of the transaction that created it.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1072103388",
+  "codeUrl": "/win32/ntstatus-h/status_miniversion_inaccessible_from_specified_transaction/-1072103388/",
+  "numericCode": 0,
+  "define": "STATUS_MINIVERSION_INACCESSIBLE_FROM_SPECIFIED_TRANSACTION",
+  "defineUrl": "/win32/ntstatus-h/status_miniversion_inaccessible_from_specified_transaction/",
+  "message": "A miniversion may only be opened in the context of the transaction that created it.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0190024",
+  "originalCodeUrl": "/win32/ntstatus-h/status_miniversion_inaccessible_from_specified_transaction/0xc0190024/"
+}

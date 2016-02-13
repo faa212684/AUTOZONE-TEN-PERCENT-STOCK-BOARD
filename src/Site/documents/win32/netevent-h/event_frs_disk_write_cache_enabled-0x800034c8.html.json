@@ -1,0 +1,31 @@
+---
+output: win32\netevent-h\event_frs_disk_write_cache_enabled\0x800034c8\index.html.json
+
+title: 0x800034C8 EVENT_FRS_DISK_WRITE_CACHE_ENABLED in netevent.h
+description: The File Replication Service has detected an enabled disk write cache
+on the drive containing the directory %2 on the computer %1.
+The File Replication Service might not recover when power to the
+drive is interrupted and critical updates are lost.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x800034C8",
+  "codeUrl": "/win32/netevent-h/event_frs_disk_write_cache_enabled/0x800034c8/",
+  "numericCode": -2147470136,
+  "define": "EVENT_FRS_DISK_WRITE_CACHE_ENABLED",
+  "defineUrl": "/win32/netevent-h/event_frs_disk_write_cache_enabled/",
+  "message": "The File Replication Service has detected an enabled disk write cache\r\non the drive containing the directory %2 on the computer %1.\r\nThe File Replication Service might not recover when power to the\r\ndrive is interrupted and critical updates are lost.",
+  "remarks": null,
+  "aka": [
+    "-2147470136"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_frs_disk_write_cache_enabled/-2147470136/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

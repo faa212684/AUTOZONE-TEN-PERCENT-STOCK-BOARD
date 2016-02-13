@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_tpm_install_disabled\0xc029000b\index.html.json
+
+title: 0xC029000B STATUS_TPM_INSTALL_DISABLED in ntstatus.h
+description: The ability to install an owner is disabled.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC029000B",
+  "codeUrl": "/win32/ntstatus-h/status_tpm_install_disabled/0xc029000b/",
+  "numericCode": -1071054837,
+  "define": "STATUS_TPM_INSTALL_DISABLED",
+  "defineUrl": "/win32/ntstatus-h/status_tpm_install_disabled/",
+  "message": "The ability to install an owner is disabled.",
+  "remarks": null,
+  "aka": [
+    "-1071054837"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_tpm_install_disabled/-1071054837/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

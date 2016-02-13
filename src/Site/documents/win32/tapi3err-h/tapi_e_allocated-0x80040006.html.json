@@ -1,0 +1,28 @@
+---
+output: win32\tapi3err-h\tapi_e_allocated\0x80040006\index.html.json
+
+title: 0x80040006 TAPI_E_ALLOCATED in Tapi3Err.h
+description: The device is already in use.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "Tapi3Err.h",
+  "sourceUrl": "/win32/tapi3err-h/",
+  "code": "0x80040006",
+  "codeUrl": "/win32/tapi3err-h/tapi_e_allocated/0x80040006/",
+  "numericCode": -2147221498,
+  "define": "TAPI_E_ALLOCATED",
+  "defineUrl": "/win32/tapi3err-h/tapi_e_allocated/",
+  "message": "The device is already in use.",
+  "remarks": null,
+  "aka": [
+    "-2147221498"
+  ],
+  "akaUrl": [
+    "/win32/tapi3err-h/tapi_e_allocated/-2147221498/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

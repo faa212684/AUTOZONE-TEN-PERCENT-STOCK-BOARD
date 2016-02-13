@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_volmgr_too_many_notification_requests\-1070071742\index.html.json
+canonical: /win32/winerror-h/error_volmgr_too_many_notification_requests/0xc0380042/
+title: -1070071742 ERROR_VOLMGR_TOO_MANY_NOTIFICATION_REQUESTS in winerror.h
+description: There is already a pending request for notifications. Wait for the existing request to return before requesting for more notifications.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-1070071742",
+  "codeUrl": "/win32/winerror-h/error_volmgr_too_many_notification_requests/-1070071742/",
+  "numericCode": 0,
+  "define": "ERROR_VOLMGR_TOO_MANY_NOTIFICATION_REQUESTS",
+  "defineUrl": "/win32/winerror-h/error_volmgr_too_many_notification_requests/",
+  "message": "There is already a pending request for notifications. Wait for the existing request to return before requesting for more notifications.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0380042",
+  "originalCodeUrl": "/win32/winerror-h/error_volmgr_too_many_notification_requests/0xc0380042/"
+}

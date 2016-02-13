@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\co_e_invalidsid\0x8001012d\index.html.json
+
+title: 0x8001012D CO_E_INVALIDSID in winerror.h
+description: One of the security identifiers provided by the user was invalid
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8001012D",
+  "codeUrl": "/win32/winerror-h/co_e_invalidsid/0x8001012d/",
+  "numericCode": -2147417811,
+  "define": "CO_E_INVALIDSID",
+  "defineUrl": "/win32/winerror-h/co_e_invalidsid/",
+  "message": "One of the security identifiers provided by the user was invalid",
+  "remarks": null,
+  "aka": [
+    "-2147417811"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/co_e_invalidsid/-2147417811/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

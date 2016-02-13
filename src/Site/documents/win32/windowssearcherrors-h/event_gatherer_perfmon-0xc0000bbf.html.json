@@ -1,0 +1,28 @@
+---
+output: win32\windowssearcherrors-h\event_gatherer_perfmon\0xc0000bbf\index.html.json
+
+title: 0xC0000BBF EVENT_GATHERER_PERFMON in WindowsSearchErrors.h
+description: Performance monitoring cannot be initialized for the gatherer object, because the counters are not loaded or the shared memory object cannot be opened. This only affects availability of the perfmon counters. Restart the computer.%1
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "0xC0000BBF",
+  "codeUrl": "/win32/windowssearcherrors-h/event_gatherer_perfmon/0xc0000bbf/",
+  "numericCode": -1073738817,
+  "define": "EVENT_GATHERER_PERFMON",
+  "defineUrl": "/win32/windowssearcherrors-h/event_gatherer_perfmon/",
+  "message": "Performance monitoring cannot be initialized for the gatherer object, because the counters are not loaded or the shared memory object cannot be opened. This only affects availability of the perfmon counters. Restart the computer.%1",
+  "remarks": null,
+  "aka": [
+    "-1073738817"
+  ],
+  "akaUrl": [
+    "/win32/windowssearcherrors-h/event_gatherer_perfmon/-1073738817/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\sec_e_mutual_auth_failed\0x80090363\index.html.json
+
+title: 0x80090363 SEC_E_MUTUAL_AUTH_FAILED in winerror.h
+description: The identity of the server computer could not be verified.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80090363",
+  "codeUrl": "/win32/winerror-h/sec_e_mutual_auth_failed/0x80090363/",
+  "numericCode": -2146892957,
+  "define": "SEC_E_MUTUAL_AUTH_FAILED",
+  "defineUrl": "/win32/winerror-h/sec_e_mutual_auth_failed/",
+  "message": "The identity of the server computer could not be verified.",
+  "remarks": null,
+  "aka": [
+    "-2146892957"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/sec_e_mutual_auth_failed/-2146892957/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

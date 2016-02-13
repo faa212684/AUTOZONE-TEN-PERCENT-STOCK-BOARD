@@ -1,0 +1,24 @@
+---
+output: win32\oledberr-h\db_s_stoplimitreached\265942\index.html.json
+canonical: /win32/oledberr-h/db_s_stoplimitreached/0x00040ed6/
+title: 265942 DB_S_STOPLIMITREACHED in oledberr.h
+description: Execution stopped because a resource limit was reached. Results obtained so far were returned, but execution cannot resume.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "oledberr.h",
+  "sourceUrl": "/win32/oledberr-h/",
+  "code": "265942",
+  "codeUrl": "/win32/oledberr-h/db_s_stoplimitreached/265942/",
+  "numericCode": 0,
+  "define": "DB_S_STOPLIMITREACHED",
+  "defineUrl": "/win32/oledberr-h/db_s_stoplimitreached/",
+  "message": "Execution stopped because a resource limit was reached. Results obtained so far were returned, but execution cannot resume.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x00040ED6",
+  "originalCodeUrl": "/win32/oledberr-h/db_s_stoplimitreached/0x00040ed6/"
+}

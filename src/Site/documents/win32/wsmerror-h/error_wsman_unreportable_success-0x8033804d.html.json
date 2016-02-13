@@ -1,0 +1,28 @@
+---
+output: win32\wsmerror-h\error_wsman_unreportable_success\0x8033804d\index.html.json
+
+title: 0x8033804D ERROR_WSMAN_UNREPORTABLE_SUCCESS in wsmerror.h
+description: The operation succeeded and cannot be reversed but the result is too large to send.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x8033804D",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_unreportable_success/0x8033804d/",
+  "numericCode": -2144108467,
+  "define": "ERROR_WSMAN_UNREPORTABLE_SUCCESS",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_unreportable_success/",
+  "message": "The operation succeeded and cannot be reversed but the result is too large to send.",
+  "remarks": null,
+  "aka": [
+    "-2144108467"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_unreportable_success/-2144108467/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

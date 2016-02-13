@@ -1,0 +1,24 @@
+---
+output: win32\windowssearcherrors-h\fte_e_invalid_docid\-2147207663\index.html.json
+canonical: /win32/windowssearcherrors-h/fte_e_invalid_docid/0x80043611/
+title: -2147207663 FTE_E_INVALID_DOCID in WindowsSearchErrors.h
+description: This is an internal error: Document IDs should be greater than 0 and less than or equal to 0x7fffffff.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "-2147207663",
+  "codeUrl": "/win32/windowssearcherrors-h/fte_e_invalid_docid/-2147207663/",
+  "numericCode": 0,
+  "define": "FTE_E_INVALID_DOCID",
+  "defineUrl": "/win32/windowssearcherrors-h/fte_e_invalid_docid/",
+  "message": "This is an internal error: Document IDs should be greater than 0 and less than or equal to 0x7fffffff.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80043611",
+  "originalCodeUrl": "/win32/windowssearcherrors-h/fte_e_invalid_docid/0x80043611/"
+}

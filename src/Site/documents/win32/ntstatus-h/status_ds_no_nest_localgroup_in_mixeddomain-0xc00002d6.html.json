@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_ds_no_nest_localgroup_in_mixeddomain\0xc00002d6\index.html.json
+
+title: 0xC00002D6 STATUS_DS_NO_NEST_LOCALGROUP_IN_MIXEDDOMAIN in ntstatus.h
+description: In mixed domain, cannot nest local groups with other local groups, if the group is security enabled.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC00002D6",
+  "codeUrl": "/win32/ntstatus-h/status_ds_no_nest_localgroup_in_mixeddomain/0xc00002d6/",
+  "numericCode": -1073741098,
+  "define": "STATUS_DS_NO_NEST_LOCALGROUP_IN_MIXEDDOMAIN",
+  "defineUrl": "/win32/ntstatus-h/status_ds_no_nest_localgroup_in_mixeddomain/",
+  "message": "In mixed domain, cannot nest local groups with other local groups, if the group is security enabled.",
+  "remarks": null,
+  "aka": [
+    "-1073741098"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_ds_no_nest_localgroup_in_mixeddomain/-1073741098/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

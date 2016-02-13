@@ -1,0 +1,29 @@
+---
+output: win32\ntstatus-h\status_trim_read_zero_not_supported\0xc0000472\index.html.json
+
+title: 0xC0000472 STATUS_TRIM_READ_ZERO_NOT_SUPPORTED in ntstatus.h
+description: "{LogicalBlockProvisioningReadZero Not Supported}
+The target device does not support read returning zeros from trimmed/unmapped blocks."
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000472",
+  "codeUrl": "/win32/ntstatus-h/status_trim_read_zero_not_supported/0xc0000472/",
+  "numericCode": -1073740686,
+  "define": "STATUS_TRIM_READ_ZERO_NOT_SUPPORTED",
+  "defineUrl": "/win32/ntstatus-h/status_trim_read_zero_not_supported/",
+  "message": "{LogicalBlockProvisioningReadZero Not Supported}\r\nThe target device does not support read returning zeros from trimmed/unmapped blocks.",
+  "remarks": null,
+  "aka": [
+    "-1073740686"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_trim_read_zero_not_supported/-1073740686/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

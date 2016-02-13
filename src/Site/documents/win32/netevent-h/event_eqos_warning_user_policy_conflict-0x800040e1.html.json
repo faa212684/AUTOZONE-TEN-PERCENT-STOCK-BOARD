@@ -1,0 +1,29 @@
+---
+output: win32\netevent-h\event_eqos_warning_user_policy_conflict\0x800040e1\index.html.json
+
+title: 0x800040E1 EVENT_EQOS_WARNING_USER_POLICY_CONFLICT in netevent.h
+description: A user QoS policy "%2" potentially conflicts with other QoS policies. 
+See documentation for rules about which policy will be applied at packet send time.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x800040E1",
+  "codeUrl": "/win32/netevent-h/event_eqos_warning_user_policy_conflict/0x800040e1/",
+  "numericCode": -2147467039,
+  "define": "EVENT_EQOS_WARNING_USER_POLICY_CONFLICT",
+  "defineUrl": "/win32/netevent-h/event_eqos_warning_user_policy_conflict/",
+  "message": "A user QoS policy \"%2\" potentially conflicts with other QoS policies. \r\nSee documentation for rules about which policy will be applied at packet send time.",
+  "remarks": null,
+  "aka": [
+    "-2147467039"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_eqos_warning_user_policy_conflict/-2147467039/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

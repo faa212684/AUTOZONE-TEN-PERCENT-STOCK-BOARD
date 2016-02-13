@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_sxs_duplicate_tlbid\14025\index.html.json
+
+title: 14025 ERROR_SXS_DUPLICATE_TLBID in winerror.h
+description: Two or more components referenced directly or indirectly by the application manifest have the same COM type library TLBIDs.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "14025",
+  "codeUrl": "/win32/winerror-h/error_sxs_duplicate_tlbid/14025/",
+  "numericCode": 14025,
+  "define": "ERROR_SXS_DUPLICATE_TLBID",
+  "defineUrl": "/win32/winerror-h/error_sxs_duplicate_tlbid/",
+  "message": "Two or more components referenced directly or indirectly by the application manifest have the same COM type library TLBIDs.",
+  "remarks": null,
+  "aka": [
+    "0x800736c9",
+    "-2147010871"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_sxs_duplicate_tlbid/0x800736c9/",
+    "/win32/winerror-h/error_sxs_duplicate_tlbid/-2147010871/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

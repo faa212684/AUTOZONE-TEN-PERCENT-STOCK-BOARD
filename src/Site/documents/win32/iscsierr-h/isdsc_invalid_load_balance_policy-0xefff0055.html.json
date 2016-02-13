@@ -1,0 +1,28 @@
+---
+output: win32\iscsierr-h\isdsc_invalid_load_balance_policy\0xefff0055\index.html.json
+
+title: 0xEFFF0055 ISDSC_INVALID_LOAD_BALANCE_POLICY in iscsierr.h
+description: The given Load Balance policy is not recognized by iScsi initiator.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "iscsierr.h",
+  "sourceUrl": "/win32/iscsierr-h/",
+  "code": "0xEFFF0055",
+  "codeUrl": "/win32/iscsierr-h/isdsc_invalid_load_balance_policy/0xefff0055/",
+  "numericCode": -268500907,
+  "define": "ISDSC_INVALID_LOAD_BALANCE_POLICY",
+  "defineUrl": "/win32/iscsierr-h/isdsc_invalid_load_balance_policy/",
+  "message": "The given Load Balance policy is not recognized by iScsi initiator.",
+  "remarks": null,
+  "aka": [
+    "-268500907"
+  ],
+  "akaUrl": [
+    "/win32/iscsierr-h/isdsc_invalid_load_balance_policy/-268500907/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\wuerror-h\wu_e_dm_updateremoved\0x80246013\index.html.json
+
+title: 0x80246013 WU_E_DM_UPDATEREMOVED in wuerror.h
+description: An attempt was made to access a downloaded update that has already been removed.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wuerror.h",
+  "sourceUrl": "/win32/wuerror-h/",
+  "code": "0x80246013",
+  "codeUrl": "/win32/wuerror-h/wu_e_dm_updateremoved/0x80246013/",
+  "numericCode": -2145099757,
+  "define": "WU_E_DM_UPDATEREMOVED",
+  "defineUrl": "/win32/wuerror-h/wu_e_dm_updateremoved/",
+  "message": "An attempt was made to access a downloaded update that has already been removed.",
+  "remarks": null,
+  "aka": [
+    "-2145099757"
+  ],
+  "akaUrl": [
+    "/win32/wuerror-h/wu_e_dm_updateremoved/-2145099757/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

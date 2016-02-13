@@ -1,0 +1,28 @@
+---
+output: win32\nserror-h\ns_e_wmp_imapi2_erase_device_busy\0xc00d11e1\index.html.json
+
+title: 0xC00D11E1 NS_E_WMP_IMAPI2_ERASE_DEVICE_BUSY in nserror.h
+description: Windows Media Player cannot erase the rewritable CD or DVD. Verify that the CD or DVD burner is connected properly and that the disc is clean and not damaged. If the burner is already in use, wait until the current task finishes or quit other programs that might be using the burner.%0
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "nserror.h",
+  "sourceUrl": "/win32/nserror-h/",
+  "code": "0xC00D11E1",
+  "codeUrl": "/win32/nserror-h/ns_e_wmp_imapi2_erase_device_busy/0xc00d11e1/",
+  "numericCode": -1072885279,
+  "define": "NS_E_WMP_IMAPI2_ERASE_DEVICE_BUSY",
+  "defineUrl": "/win32/nserror-h/ns_e_wmp_imapi2_erase_device_busy/",
+  "message": "Windows Media Player cannot erase the rewritable CD or DVD. Verify that the CD or DVD burner is connected properly and that the disc is clean and not damaged. If the burner is already in use, wait until the current task finishes or quit other programs that might be using the burner.%0",
+  "remarks": null,
+  "aka": [
+    "-1072885279"
+  ],
+  "akaUrl": [
+    "/win32/nserror-h/ns_e_wmp_imapi2_erase_device_busy/-1072885279/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

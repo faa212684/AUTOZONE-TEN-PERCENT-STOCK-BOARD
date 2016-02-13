@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_webclient_close_proppatch_failed\0x80003a37\index.html.json
+
+title: 0x80003A37 EVENT_WEBCLIENT_CLOSE_PROPPATCH_FAILED in netevent.h
+description: PROPPATCH failed for file %1 on Close. ErrorStatus: %2.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x80003A37",
+  "codeUrl": "/win32/netevent-h/event_webclient_close_proppatch_failed/0x80003a37/",
+  "numericCode": -2147468745,
+  "define": "EVENT_WEBCLIENT_CLOSE_PROPPATCH_FAILED",
+  "defineUrl": "/win32/netevent-h/event_webclient_close_proppatch_failed/",
+  "message": "PROPPATCH failed for file %1 on Close. ErrorStatus: %2.",
+  "remarks": null,
+  "aka": [
+    "-2147468745"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_webclient_close_proppatch_failed/-2147468745/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

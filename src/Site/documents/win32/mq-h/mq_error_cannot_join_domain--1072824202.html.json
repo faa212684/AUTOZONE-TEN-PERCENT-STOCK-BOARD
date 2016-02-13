@@ -1,0 +1,24 @@
+---
+output: win32\mq-h\mq_error_cannot_join_domain\-1072824202\index.html.json
+canonical: /win32/mq-h/mq_error_cannot_join_domain/0xc00e0076/
+title: -1072824202 MQ_ERROR_CANNOT_JOIN_DOMAIN in Mq.h
+description: The computer joined the domain, but Message Queuing will continue to run in workgroup mode because it failed to register itself in Active Directory Domain Services.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "Mq.h",
+  "sourceUrl": "/win32/mq-h/",
+  "code": "-1072824202",
+  "codeUrl": "/win32/mq-h/mq_error_cannot_join_domain/-1072824202/",
+  "numericCode": 0,
+  "define": "MQ_ERROR_CANNOT_JOIN_DOMAIN",
+  "defineUrl": "/win32/mq-h/mq_error_cannot_join_domain/",
+  "message": "The computer joined the domain, but Message Queuing will continue to run in workgroup mode because it failed to register itself in Active Directory Domain Services.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC00E0076",
+  "originalCodeUrl": "/win32/mq-h/mq_error_cannot_join_domain/0xc00e0076/"
+}

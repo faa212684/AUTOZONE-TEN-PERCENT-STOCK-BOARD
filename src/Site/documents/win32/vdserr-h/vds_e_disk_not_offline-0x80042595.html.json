@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_e_disk_not_offline\0x80042595\index.html.json
+
+title: 0x80042595 VDS_E_DISK_NOT_OFFLINE in vdserr.h
+description: This disk is already online.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x80042595",
+  "codeUrl": "/win32/vdserr-h/vds_e_disk_not_offline/0x80042595/",
+  "numericCode": -2147211883,
+  "define": "VDS_E_DISK_NOT_OFFLINE",
+  "defineUrl": "/win32/vdserr-h/vds_e_disk_not_offline/",
+  "message": "This disk is already online.",
+  "remarks": null,
+  "aka": [
+    "-2147211883"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_disk_not_offline/-2147211883/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

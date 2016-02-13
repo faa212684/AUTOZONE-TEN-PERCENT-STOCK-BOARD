@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_invalid_computer_name\0xc0000122\index.html.json
+
+title: 0xC0000122 STATUS_INVALID_COMPUTER_NAME in ntstatus.h
+description: Indicates a name specified as a remote computer name is syntactically invalid.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000122",
+  "codeUrl": "/win32/ntstatus-h/status_invalid_computer_name/0xc0000122/",
+  "numericCode": -1073741534,
+  "define": "STATUS_INVALID_COMPUTER_NAME",
+  "defineUrl": "/win32/ntstatus-h/status_invalid_computer_name/",
+  "message": "Indicates a name specified as a remote computer name is syntactically invalid.",
+  "remarks": null,
+  "aka": [
+    "-1073741534"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_invalid_computer_name/-1073741534/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

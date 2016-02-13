@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_request_out_of_sequence\776\index.html.json
+
+title: 776 ERROR_REQUEST_OUT_OF_SEQUENCE in winerror.h
+description: The client of a component requested an operation which is not valid given the state of the component instance.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "776",
+  "codeUrl": "/win32/winerror-h/error_request_out_of_sequence/776/",
+  "numericCode": 776,
+  "define": "ERROR_REQUEST_OUT_OF_SEQUENCE",
+  "defineUrl": "/win32/winerror-h/error_request_out_of_sequence/",
+  "message": "The client of a component requested an operation which is not valid given the state of the component instance.",
+  "remarks": null,
+  "aka": [
+    "0x80070308",
+    "-2147024120"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_request_out_of_sequence/0x80070308/",
+    "/win32/winerror-h/error_request_out_of_sequence/-2147024120/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

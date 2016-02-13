@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\sec_e_no_context\0x80090361\index.html.json
+
+title: 0x80090361 SEC_E_NO_CONTEXT in winerror.h
+description: The required security context does not exist.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80090361",
+  "codeUrl": "/win32/winerror-h/sec_e_no_context/0x80090361/",
+  "numericCode": -2146892959,
+  "define": "SEC_E_NO_CONTEXT",
+  "defineUrl": "/win32/winerror-h/sec_e_no_context/",
+  "message": "The required security context does not exist.",
+  "remarks": null,
+  "aka": [
+    "-2146892959"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/sec_e_no_context/-2146892959/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

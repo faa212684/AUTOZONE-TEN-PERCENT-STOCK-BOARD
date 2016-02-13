@@ -1,0 +1,28 @@
+---
+output: win32\wdstptmgmtmsg-h\wdstptmgmt_e_invalid_tftp_max_blocksize\0xc1100123\index.html.json
+
+title: 0xC1100123 WDSTPTMGMT_E_INVALID_TFTP_MAX_BLOCKSIZE in WdsTptMgmtMsg.h
+description: The specified TFTP maximum block size is invalid. It must be either 0 or between 512 and 65531, inclusive.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WdsTptMgmtMsg.h",
+  "sourceUrl": "/win32/wdstptmgmtmsg-h/",
+  "code": "0xC1100123",
+  "codeUrl": "/win32/wdstptmgmtmsg-h/wdstptmgmt_e_invalid_tftp_max_blocksize/0xc1100123/",
+  "numericCode": -1055915741,
+  "define": "WDSTPTMGMT_E_INVALID_TFTP_MAX_BLOCKSIZE",
+  "defineUrl": "/win32/wdstptmgmtmsg-h/wdstptmgmt_e_invalid_tftp_max_blocksize/",
+  "message": "The specified TFTP maximum block size is invalid. It must be either 0 or between 512 and 65531, inclusive.",
+  "remarks": null,
+  "aka": [
+    "-1055915741"
+  ],
+  "akaUrl": [
+    "/win32/wdstptmgmtmsg-h/wdstptmgmt_e_invalid_tftp_max_blocksize/-1055915741/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

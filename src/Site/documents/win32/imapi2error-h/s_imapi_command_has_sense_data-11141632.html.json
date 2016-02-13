@@ -1,0 +1,24 @@
+---
+output: win32\imapi2error-h\s_imapi_command_has_sense_data\11141632\index.html.json
+canonical: /win32/imapi2error-h/s_imapi_command_has_sense_data/0x00aa0200/
+title: 11141632 S_IMAPI_COMMAND_HAS_SENSE_DATA in imapi2error.h
+description: The device accepted the command, but returned sense data, indicating an error.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "imapi2error.h",
+  "sourceUrl": "/win32/imapi2error-h/",
+  "code": "11141632",
+  "codeUrl": "/win32/imapi2error-h/s_imapi_command_has_sense_data/11141632/",
+  "numericCode": 0,
+  "define": "S_IMAPI_COMMAND_HAS_SENSE_DATA",
+  "defineUrl": "/win32/imapi2error-h/s_imapi_command_has_sense_data/",
+  "message": "The device accepted the command, but returned sense data, indicating an error.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x00AA0200",
+  "originalCodeUrl": "/win32/imapi2error-h/s_imapi_command_has_sense_data/0x00aa0200/"
+}

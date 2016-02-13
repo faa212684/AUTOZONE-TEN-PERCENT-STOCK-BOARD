@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_cluster_instance_id_mismatch\5893\index.html.json
+
+title: 5893 ERROR_CLUSTER_INSTANCE_ID_MISMATCH in winerror.h
+description: The join operation failed because the cluster instance ID of the joining node does not match the cluster instance ID of the sponsor node.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "5893",
+  "codeUrl": "/win32/winerror-h/error_cluster_instance_id_mismatch/5893/",
+  "numericCode": 5893,
+  "define": "ERROR_CLUSTER_INSTANCE_ID_MISMATCH",
+  "defineUrl": "/win32/winerror-h/error_cluster_instance_id_mismatch/",
+  "message": "The join operation failed because the cluster instance ID of the joining node does not match the cluster instance ID of the sponsor node.",
+  "remarks": null,
+  "aka": [
+    "0x80071705",
+    "-2147019003"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_cluster_instance_id_mismatch/0x80071705/",
+    "/win32/winerror-h/error_cluster_instance_id_mismatch/-2147019003/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

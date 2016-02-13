@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\certsrv_e_key_length\0x80094811\index.html.json
+
+title: 0x80094811 CERTSRV_E_KEY_LENGTH in winerror.h
+description: The public key does not meet the minimum size required by the specified certificate template.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80094811",
+  "codeUrl": "/win32/winerror-h/certsrv_e_key_length/0x80094811/",
+  "numericCode": -2146875375,
+  "define": "CERTSRV_E_KEY_LENGTH",
+  "defineUrl": "/win32/winerror-h/certsrv_e_key_length/",
+  "message": "The public key does not meet the minimum size required by the specified certificate template.",
+  "remarks": null,
+  "aka": [
+    "-2146875375"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/certsrv_e_key_length/-2146875375/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

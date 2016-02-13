@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_invalid_cruntime_parameter\0xc0000417\index.html.json
+
+title: 0xC0000417 STATUS_INVALID_CRUNTIME_PARAMETER in ntstatus.h
+description: An invalid parameter was passed to a C runtime function.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000417",
+  "codeUrl": "/win32/ntstatus-h/status_invalid_cruntime_parameter/0xc0000417/",
+  "numericCode": -1073740777,
+  "define": "STATUS_INVALID_CRUNTIME_PARAMETER",
+  "defineUrl": "/win32/ntstatus-h/status_invalid_cruntime_parameter/",
+  "message": "An invalid parameter was passed to a C runtime function.",
+  "remarks": null,
+  "aka": [
+    "-1073740777"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_invalid_cruntime_parameter/-1073740777/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

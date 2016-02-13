@@ -1,0 +1,28 @@
+---
+output: win32\wsmerror-h\error_wsman_selector_limit\0x8033804a\index.html.json
+
+title: 0x8033804A ERROR_WSMAN_SELECTOR_LIMIT in wsmerror.h
+description: The WS-Management service cannot process the request because the URI contains too many selectors.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x8033804A",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_selector_limit/0x8033804a/",
+  "numericCode": -2144108470,
+  "define": "ERROR_WSMAN_SELECTOR_LIMIT",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_selector_limit/",
+  "message": "The WS-Management service cannot process the request because the URI contains too many selectors.",
+  "remarks": null,
+  "aka": [
+    "-2144108470"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_selector_limit/-2144108470/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

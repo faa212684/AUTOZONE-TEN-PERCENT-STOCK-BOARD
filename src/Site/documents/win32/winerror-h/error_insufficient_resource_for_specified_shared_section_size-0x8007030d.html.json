@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_insufficient_resource_for_specified_shared_section_size\0x8007030d\index.html.json
+canonical: /win32/winerror-h/error_insufficient_resource_for_specified_shared_section_size/781/
+title: 0x8007030d ERROR_INSUFFICIENT_RESOURCE_FOR_SPECIFIED_SHARED_SECTION_SIZE in winerror.h
+description: The Desktop heap encountered an error while allocating session memory. There is more information in the system event log.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007030d",
+  "codeUrl": "/win32/winerror-h/error_insufficient_resource_for_specified_shared_section_size/0x8007030d/",
+  "numericCode": 0,
+  "define": "ERROR_INSUFFICIENT_RESOURCE_FOR_SPECIFIED_SHARED_SECTION_SIZE",
+  "defineUrl": "/win32/winerror-h/error_insufficient_resource_for_specified_shared_section_size/",
+  "message": "The Desktop heap encountered an error while allocating session memory. There is more information in the system event log.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "781",
+  "originalCodeUrl": "/win32/winerror-h/error_insufficient_resource_for_specified_shared_section_size/781/"
+}

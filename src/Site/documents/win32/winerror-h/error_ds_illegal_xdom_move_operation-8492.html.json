@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ds_illegal_xdom_move_operation\8492\index.html.json
+
+title: 8492 ERROR_DS_ILLEGAL_XDOM_MOVE_OPERATION in winerror.h
+description: This object may not be moved across domain boundaries either because cross-domain moves for this class are disallowed, or the object has some special characteristics, e.g.: trust account or restricted RID, which prevent its move.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "8492",
+  "codeUrl": "/win32/winerror-h/error_ds_illegal_xdom_move_operation/8492/",
+  "numericCode": 8492,
+  "define": "ERROR_DS_ILLEGAL_XDOM_MOVE_OPERATION",
+  "defineUrl": "/win32/winerror-h/error_ds_illegal_xdom_move_operation/",
+  "message": "This object may not be moved across domain boundaries either because cross-domain moves for this class are disallowed, or the object has some special characteristics, e.g.: trust account or restricted RID, which prevent its move.",
+  "remarks": null,
+  "aka": [
+    "0x8007212c",
+    "-2147016404"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ds_illegal_xdom_move_operation/0x8007212c/",
+    "/win32/winerror-h/error_ds_illegal_xdom_move_operation/-2147016404/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

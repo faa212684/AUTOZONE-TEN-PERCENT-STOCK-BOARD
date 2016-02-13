@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_ds_name_not_unique\0xc0000404\index.html.json
+
+title: 0xC0000404 STATUS_DS_NAME_NOT_UNIQUE in ntstatus.h
+description: The requested name already exists as a unique identifier.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000404",
+  "codeUrl": "/win32/ntstatus-h/status_ds_name_not_unique/0xc0000404/",
+  "numericCode": -1073740796,
+  "define": "STATUS_DS_NAME_NOT_UNIQUE",
+  "defineUrl": "/win32/ntstatus-h/status_ds_name_not_unique/",
+  "message": "The requested name already exists as a unique identifier.",
+  "remarks": null,
+  "aka": [
+    "-1073740796"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_ds_name_not_unique/-1073740796/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

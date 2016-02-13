@@ -1,0 +1,28 @@
+---
+output: win32\fsrmerr-h\fsrm_e_classification_already_running\0x8004533d\index.html.json
+
+title: 0x8004533D FSRM_E_CLASSIFICATION_ALREADY_RUNNING in fsrmerr.h
+description: A classification job is currently running.  Only one classification job can be running at a time.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "fsrmerr.h",
+  "sourceUrl": "/win32/fsrmerr-h/",
+  "code": "0x8004533D",
+  "codeUrl": "/win32/fsrmerr-h/fsrm_e_classification_already_running/0x8004533d/",
+  "numericCode": -2147200195,
+  "define": "FSRM_E_CLASSIFICATION_ALREADY_RUNNING",
+  "defineUrl": "/win32/fsrmerr-h/fsrm_e_classification_already_running/",
+  "message": "A classification job is currently running.  Only one classification job can be running at a time.",
+  "remarks": null,
+  "aka": [
+    "-2147200195"
+  ],
+  "akaUrl": [
+    "/win32/fsrmerr-h/fsrm_e_classification_already_running/-2147200195/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

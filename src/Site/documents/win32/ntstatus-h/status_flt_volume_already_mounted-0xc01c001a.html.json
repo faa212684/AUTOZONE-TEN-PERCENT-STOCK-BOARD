@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_flt_volume_already_mounted\0xc01c001a\index.html.json
+
+title: 0xC01C001A STATUS_FLT_VOLUME_ALREADY_MOUNTED in ntstatus.h
+description: The specified volume is already mounted.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC01C001A",
+  "codeUrl": "/win32/ntstatus-h/status_flt_volume_already_mounted/0xc01c001a/",
+  "numericCode": -1071906790,
+  "define": "STATUS_FLT_VOLUME_ALREADY_MOUNTED",
+  "defineUrl": "/win32/ntstatus-h/status_flt_volume_already_mounted/",
+  "message": "The specified volume is already mounted.",
+  "remarks": null,
+  "aka": [
+    "-1071906790"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_flt_volume_already_mounted/-1071906790/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

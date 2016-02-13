@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_evt_malformed_xml_text\15008\index.html.json
+
+title: 15008 ERROR_EVT_MALFORMED_XML_TEXT in winerror.h
+description: The specified xml text was not well-formed. See Extended Error for more details.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "15008",
+  "codeUrl": "/win32/winerror-h/error_evt_malformed_xml_text/15008/",
+  "numericCode": 15008,
+  "define": "ERROR_EVT_MALFORMED_XML_TEXT",
+  "defineUrl": "/win32/winerror-h/error_evt_malformed_xml_text/",
+  "message": "The specified xml text was not well-formed. See Extended Error for more details.",
+  "remarks": null,
+  "aka": [
+    "0x80073aa0",
+    "-2147009888"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_evt_malformed_xml_text/0x80073aa0/",
+    "/win32/winerror-h/error_evt_malformed_xml_text/-2147009888/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

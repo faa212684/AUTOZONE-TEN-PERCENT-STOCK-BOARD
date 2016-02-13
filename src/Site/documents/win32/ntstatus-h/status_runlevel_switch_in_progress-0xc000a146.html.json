@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_runlevel_switch_in_progress\0xc000a146\index.html.json
+
+title: 0xC000A146 STATUS_RUNLEVEL_SWITCH_IN_PROGRESS in ntstatus.h
+description: A run level switch is currently in progress.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000A146",
+  "codeUrl": "/win32/ntstatus-h/status_runlevel_switch_in_progress/0xc000a146/",
+  "numericCode": -1073700538,
+  "define": "STATUS_RUNLEVEL_SWITCH_IN_PROGRESS",
+  "defineUrl": "/win32/ntstatus-h/status_runlevel_switch_in_progress/",
+  "message": "A run level switch is currently in progress.",
+  "remarks": null,
+  "aka": [
+    "-1073700538"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_runlevel_switch_in_progress/-1073700538/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

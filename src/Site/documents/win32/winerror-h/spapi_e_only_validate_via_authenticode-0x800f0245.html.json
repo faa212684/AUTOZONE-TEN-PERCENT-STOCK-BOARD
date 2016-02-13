@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\spapi_e_only_validate_via_authenticode\0x800f0245\index.html.json
+
+title: 0x800F0245 SPAPI_E_ONLY_VALIDATE_VIA_AUTHENTICODE in winerror.h
+description: The file may only be validated by a catalog signed via Authenticode(tm).
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800F0245",
+  "codeUrl": "/win32/winerror-h/spapi_e_only_validate_via_authenticode/0x800f0245/",
+  "numericCode": -2146500027,
+  "define": "SPAPI_E_ONLY_VALIDATE_VIA_AUTHENTICODE",
+  "defineUrl": "/win32/winerror-h/spapi_e_only_validate_via_authenticode/",
+  "message": "The file may only be validated by a catalog signed via Authenticode(tm).",
+  "remarks": null,
+  "aka": [
+    "-2146500027"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/spapi_e_only_validate_via_authenticode/-2146500027/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

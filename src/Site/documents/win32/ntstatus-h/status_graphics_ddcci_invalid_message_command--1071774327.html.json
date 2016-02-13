@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_graphics_ddcci_invalid_message_command\-1071774327\index.html.json
+canonical: /win32/ntstatus-h/status_graphics_ddcci_invalid_message_command/0xc01e0589/
+title: -1071774327 STATUS_GRAPHICS_DDCCI_INVALID_MESSAGE_COMMAND in ntstatus.h
+description: An operation failed because a DDC/CI message had an invalid value in its command field.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071774327",
+  "codeUrl": "/win32/ntstatus-h/status_graphics_ddcci_invalid_message_command/-1071774327/",
+  "numericCode": 0,
+  "define": "STATUS_GRAPHICS_DDCCI_INVALID_MESSAGE_COMMAND",
+  "defineUrl": "/win32/ntstatus-h/status_graphics_ddcci_invalid_message_command/",
+  "message": "An operation failed because a DDC/CI message had an invalid value in its command field.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC01E0589",
+  "originalCodeUrl": "/win32/ntstatus-h/status_graphics_ddcci_invalid_message_command/0xc01e0589/"
+}

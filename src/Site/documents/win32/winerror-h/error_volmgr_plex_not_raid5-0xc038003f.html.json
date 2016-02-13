@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\error_volmgr_plex_not_raid5\0xc038003f\index.html.json
+
+title: 0xC038003F ERROR_VOLMGR_PLEX_NOT_RAID5 in winerror.h
+description: The operation is only supported on RAID-5 plexes.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0xC038003F",
+  "codeUrl": "/win32/winerror-h/error_volmgr_plex_not_raid5/0xc038003f/",
+  "numericCode": -1070071745,
+  "define": "ERROR_VOLMGR_PLEX_NOT_RAID5",
+  "defineUrl": "/win32/winerror-h/error_volmgr_plex_not_raid5/",
+  "message": "The operation is only supported on RAID-5 plexes.",
+  "remarks": null,
+  "aka": [
+    "-1070071745"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_volmgr_plex_not_raid5/-1070071745/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

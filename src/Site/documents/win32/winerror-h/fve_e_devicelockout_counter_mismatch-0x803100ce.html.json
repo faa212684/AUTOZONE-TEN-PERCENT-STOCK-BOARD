@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\fve_e_devicelockout_counter_mismatch\0x803100ce\index.html.json
+
+title: 0x803100CE FVE_E_DEVICELOCKOUT_COUNTER_MISMATCH in winerror.h
+description: Device Lockout state validation failed due to counter mismatch.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x803100CE",
+  "codeUrl": "/win32/winerror-h/fve_e_devicelockout_counter_mismatch/0x803100ce/",
+  "numericCode": -2144272178,
+  "define": "FVE_E_DEVICELOCKOUT_COUNTER_MISMATCH",
+  "defineUrl": "/win32/winerror-h/fve_e_devicelockout_counter_mismatch/",
+  "message": "Device Lockout state validation failed due to counter mismatch.",
+  "remarks": null,
+  "aka": [
+    "-2144272178"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/fve_e_devicelockout_counter_mismatch/-2144272178/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

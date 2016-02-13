@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_cluscfg_rollback_failed\0x8007170e\index.html.json
+canonical: /win32/winerror-h/error_cluscfg_rollback_failed/5902/
+title: 0x8007170e ERROR_CLUSCFG_ROLLBACK_FAILED in winerror.h
+description: The cluster configuration action could not be rolled back.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007170e",
+  "codeUrl": "/win32/winerror-h/error_cluscfg_rollback_failed/0x8007170e/",
+  "numericCode": 0,
+  "define": "ERROR_CLUSCFG_ROLLBACK_FAILED",
+  "defineUrl": "/win32/winerror-h/error_cluscfg_rollback_failed/",
+  "message": "The cluster configuration action could not be rolled back.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "5902",
+  "originalCodeUrl": "/win32/winerror-h/error_cluscfg_rollback_failed/5902/"
+}

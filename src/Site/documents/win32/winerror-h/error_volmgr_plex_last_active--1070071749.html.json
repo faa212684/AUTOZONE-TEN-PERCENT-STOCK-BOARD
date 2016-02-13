@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_volmgr_plex_last_active\-1070071749\index.html.json
+canonical: /win32/winerror-h/error_volmgr_plex_last_active/0xc038003b/
+title: -1070071749 ERROR_VOLMGR_PLEX_LAST_ACTIVE in winerror.h
+description: The specified plex is the last active plex in the volume. The plex cannot be removed or else the volume will go offline.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-1070071749",
+  "codeUrl": "/win32/winerror-h/error_volmgr_plex_last_active/-1070071749/",
+  "numericCode": 0,
+  "define": "ERROR_VOLMGR_PLEX_LAST_ACTIVE",
+  "defineUrl": "/win32/winerror-h/error_volmgr_plex_last_active/",
+  "message": "The specified plex is the last active plex in the volume. The plex cannot be removed or else the volume will go offline.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC038003B",
+  "originalCodeUrl": "/win32/winerror-h/error_volmgr_plex_last_active/0xc038003b/"
+}

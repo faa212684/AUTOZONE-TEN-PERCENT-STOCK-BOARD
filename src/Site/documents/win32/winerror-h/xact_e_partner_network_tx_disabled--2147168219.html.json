@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\xact_e_partner_network_tx_disabled\-2147168219\index.html.json
+canonical: /win32/winerror-h/xact_e_partner_network_tx_disabled/0x8004d025/
+title: -2147168219 XACT_E_PARTNER_NETWORK_TX_DISABLED in winerror.h
+description: The partner transaction manager has disabled its support for remote/network transactions.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147168219",
+  "codeUrl": "/win32/winerror-h/xact_e_partner_network_tx_disabled/-2147168219/",
+  "numericCode": 0,
+  "define": "XACT_E_PARTNER_NETWORK_TX_DISABLED",
+  "defineUrl": "/win32/winerror-h/xact_e_partner_network_tx_disabled/",
+  "message": "The partner transaction manager has disabled its support for remote/network transactions.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x8004D025",
+  "originalCodeUrl": "/win32/winerror-h/xact_e_partner_network_tx_disabled/0x8004d025/"
+}

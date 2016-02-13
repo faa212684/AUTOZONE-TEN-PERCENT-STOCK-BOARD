@@ -1,0 +1,30 @@
+---
+output: win32\ntstatus-h\status_lost_writebehind_data_local_disk_error\0xc000a082\index.html.json
+
+title: 0xC000A082 STATUS_LOST_WRITEBEHIND_DATA_LOCAL_DISK_ERROR in ntstatus.h
+description: "{Delayed Write Failed}
+Windows was unable to save all the data for the file %hs; the data has been lost.
+This error may be caused if the device has been removed or the media is write-protected."
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000A082",
+  "codeUrl": "/win32/ntstatus-h/status_lost_writebehind_data_local_disk_error/0xc000a082/",
+  "numericCode": -1073700734,
+  "define": "STATUS_LOST_WRITEBEHIND_DATA_LOCAL_DISK_ERROR",
+  "defineUrl": "/win32/ntstatus-h/status_lost_writebehind_data_local_disk_error/",
+  "message": "{Delayed Write Failed}\r\nWindows was unable to save all the data for the file %hs; the data has been lost.\r\nThis error may be caused if the device has been removed or the media is write-protected.",
+  "remarks": null,
+  "aka": [
+    "-1073700734"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_lost_writebehind_data_local_disk_error/-1073700734/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

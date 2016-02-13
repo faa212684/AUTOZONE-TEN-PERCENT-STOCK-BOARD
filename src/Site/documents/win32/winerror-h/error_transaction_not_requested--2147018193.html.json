@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_transaction_not_requested\-2147018193\index.html.json
+canonical: /win32/winerror-h/error_transaction_not_requested/6703/
+title: -2147018193 ERROR_TRANSACTION_NOT_REQUESTED in winerror.h
+description: The caller has called a response API, but the response is not expected because the TM did not issue the corresponding request to the caller.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147018193",
+  "codeUrl": "/win32/winerror-h/error_transaction_not_requested/-2147018193/",
+  "numericCode": 0,
+  "define": "ERROR_TRANSACTION_NOT_REQUESTED",
+  "defineUrl": "/win32/winerror-h/error_transaction_not_requested/",
+  "message": "The caller has called a response API, but the response is not expected because the TM did not issue the corresponding request to the caller.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "6703",
+  "originalCodeUrl": "/win32/winerror-h/error_transaction_not_requested/6703/"
+}

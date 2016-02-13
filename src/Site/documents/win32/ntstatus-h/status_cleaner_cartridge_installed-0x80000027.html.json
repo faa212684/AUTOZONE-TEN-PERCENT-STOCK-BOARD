@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_cleaner_cartridge_installed\0x80000027\index.html.json
+
+title: 0x80000027 STATUS_CLEANER_CARTRIDGE_INSTALLED in ntstatus.h
+description: A cleaner cartridge is present in the tape library.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0x80000027",
+  "codeUrl": "/win32/ntstatus-h/status_cleaner_cartridge_installed/0x80000027/",
+  "numericCode": -2147483609,
+  "define": "STATUS_CLEANER_CARTRIDGE_INSTALLED",
+  "defineUrl": "/win32/ntstatus-h/status_cleaner_cartridge_installed/",
+  "message": "A cleaner cartridge is present in the tape library.",
+  "remarks": null,
+  "aka": [
+    "-2147483609"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_cleaner_cartridge_installed/-2147483609/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

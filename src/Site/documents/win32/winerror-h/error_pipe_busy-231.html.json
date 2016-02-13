@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_pipe_busy\231\index.html.json
+
+title: 231 ERROR_PIPE_BUSY in winerror.h
+description: All pipe instances are busy.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "231",
+  "codeUrl": "/win32/winerror-h/error_pipe_busy/231/",
+  "numericCode": 231,
+  "define": "ERROR_PIPE_BUSY",
+  "defineUrl": "/win32/winerror-h/error_pipe_busy/",
+  "message": "All pipe instances are busy.",
+  "remarks": null,
+  "aka": [
+    "0x800700e7",
+    "-2147024665"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_pipe_busy/0x800700e7/",
+    "/win32/winerror-h/error_pipe_busy/-2147024665/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

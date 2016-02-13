@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_nbt_bad_backup_wins_addr\0x800010d0\index.html.json
+
+title: 0x800010D0 EVENT_NBT_BAD_BACKUP_WINS_ADDR in netevent.h
+description: The backup WINS server address is not formated correctly in the registry.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x800010D0",
+  "codeUrl": "/win32/netevent-h/event_nbt_bad_backup_wins_addr/0x800010d0/",
+  "numericCode": -2147479344,
+  "define": "EVENT_NBT_BAD_BACKUP_WINS_ADDR",
+  "defineUrl": "/win32/netevent-h/event_nbt_bad_backup_wins_addr/",
+  "message": "The backup WINS server address is not formated correctly in the registry.",
+  "remarks": null,
+  "aka": [
+    "-2147479344"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_nbt_bad_backup_wins_addr/-2147479344/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

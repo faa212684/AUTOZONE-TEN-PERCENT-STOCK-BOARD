@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\sdiag_e_noverifier\-2143551228\index.html.json
+canonical: /win32/winerror-h/sdiag_e_noverifier/0x803c0104/
+title: -2143551228 SDIAG_E_NOVERIFIER in winerror.h
+description: The troubleshooting pack does not contain a required verifier to complete the verification.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2143551228",
+  "codeUrl": "/win32/winerror-h/sdiag_e_noverifier/-2143551228/",
+  "numericCode": 0,
+  "define": "SDIAG_E_NOVERIFIER",
+  "defineUrl": "/win32/winerror-h/sdiag_e_noverifier/",
+  "message": "The troubleshooting pack does not contain a required verifier to complete the verification.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x803C0104",
+  "originalCodeUrl": "/win32/winerror-h/sdiag_e_noverifier/0x803c0104/"
+}

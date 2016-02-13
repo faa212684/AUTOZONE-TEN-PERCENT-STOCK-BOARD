@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_appx_integrity_failure_clr_ngen\15624\index.html.json
+
+title: 15624 ERROR_APPX_INTEGRITY_FAILURE_CLR_NGEN in winerror.h
+description: A corrupted CLR NGEN binary was detected on the system.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "15624",
+  "codeUrl": "/win32/winerror-h/error_appx_integrity_failure_clr_ngen/15624/",
+  "numericCode": 15624,
+  "define": "ERROR_APPX_INTEGRITY_FAILURE_CLR_NGEN",
+  "defineUrl": "/win32/winerror-h/error_appx_integrity_failure_clr_ngen/",
+  "message": "A corrupted CLR NGEN binary was detected on the system.",
+  "remarks": null,
+  "aka": [
+    "0x80073d08",
+    "-2147009272"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_appx_integrity_failure_clr_ngen/0x80073d08/",
+    "/win32/winerror-h/error_appx_integrity_failure_clr_ngen/-2147009272/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

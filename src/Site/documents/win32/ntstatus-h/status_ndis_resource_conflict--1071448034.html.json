@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_ndis_resource_conflict\-1071448034\index.html.json
+canonical: /win32/ntstatus-h/status_ndis_resource_conflict/0xc023001e/
+title: -1071448034 STATUS_NDIS_RESOURCE_CONFLICT in ntstatus.h
+description: An attempt to allocate a hardware resource failed because the resource is used by another component.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071448034",
+  "codeUrl": "/win32/ntstatus-h/status_ndis_resource_conflict/-1071448034/",
+  "numericCode": 0,
+  "define": "STATUS_NDIS_RESOURCE_CONFLICT",
+  "defineUrl": "/win32/ntstatus-h/status_ndis_resource_conflict/",
+  "message": "An attempt to allocate a hardware resource failed because the resource is used by another component.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC023001E",
+  "originalCodeUrl": "/win32/ntstatus-h/status_ndis_resource_conflict/0xc023001e/"
+}

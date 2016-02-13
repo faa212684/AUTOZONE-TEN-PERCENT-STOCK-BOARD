@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_log_appended_flush_failed\0xc01a002f\index.html.json
+
+title: 0xC01A002F STATUS_LOG_APPENDED_FLUSH_FAILED in ntstatus.h
+description: Records were appended to the log or reservation changes were made, but the log could not be flushed.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC01A002F",
+  "codeUrl": "/win32/ntstatus-h/status_log_appended_flush_failed/0xc01a002f/",
+  "numericCode": -1072037841,
+  "define": "STATUS_LOG_APPENDED_FLUSH_FAILED",
+  "defineUrl": "/win32/ntstatus-h/status_log_appended_flush_failed/",
+  "message": "Records were appended to the log or reservation changes were made, but the log could not be flushed.",
+  "remarks": null,
+  "aka": [
+    "-1072037841"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_log_appended_flush_failed/-1072037841/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_cluster_watchdog_terminating\5952\index.html.json
+
+title: 5952 ERROR_CLUSTER_WATCHDOG_TERMINATING in winerror.h
+description: The cluster watchdog is terminating.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "5952",
+  "codeUrl": "/win32/winerror-h/error_cluster_watchdog_terminating/5952/",
+  "numericCode": 5952,
+  "define": "ERROR_CLUSTER_WATCHDOG_TERMINATING",
+  "defineUrl": "/win32/winerror-h/error_cluster_watchdog_terminating/",
+  "message": "The cluster watchdog is terminating.",
+  "remarks": null,
+  "aka": [
+    "0x80071740",
+    "-2147018944"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_cluster_watchdog_terminating/0x80071740/",
+    "/win32/winerror-h/error_cluster_watchdog_terminating/-2147018944/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

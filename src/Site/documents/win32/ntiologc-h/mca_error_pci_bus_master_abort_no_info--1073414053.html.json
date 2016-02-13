@@ -1,0 +1,24 @@
+---
+output: win32\ntiologc-h\mca_error_pci_bus_master_abort_no_info\-1073414053\index.html.json
+canonical: /win32/ntiologc-h/mca_error_pci_bus_master_abort_no_info/0xc005005b/
+title: -1073414053 MCA_ERROR_PCI_BUS_MASTER_ABORT_NO_INFO in ntiologc.h
+description: Machine Check Event reported is a fatal PCI bus Master abort error reported to CPU %1. %2 additional error(s) are contained within the record.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntiologc.h",
+  "sourceUrl": "/win32/ntiologc-h/",
+  "code": "-1073414053",
+  "codeUrl": "/win32/ntiologc-h/mca_error_pci_bus_master_abort_no_info/-1073414053/",
+  "numericCode": 0,
+  "define": "MCA_ERROR_PCI_BUS_MASTER_ABORT_NO_INFO",
+  "defineUrl": "/win32/ntiologc-h/mca_error_pci_bus_master_abort_no_info/",
+  "message": "Machine Check Event reported is a fatal PCI bus Master abort error reported to CPU %1. %2 additional error(s) are contained within the record.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC005005B",
+  "originalCodeUrl": "/win32/ntiologc-h/mca_error_pci_bus_master_abort_no_info/0xc005005b/"
+}

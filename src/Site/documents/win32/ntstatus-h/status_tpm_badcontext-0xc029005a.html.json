@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_tpm_badcontext\0xc029005a\index.html.json
+
+title: 0xC029005A STATUS_TPM_BADCONTEXT in ntstatus.h
+description: The context blob is invalid.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC029005A",
+  "codeUrl": "/win32/ntstatus-h/status_tpm_badcontext/0xc029005a/",
+  "numericCode": -1071054758,
+  "define": "STATUS_TPM_BADCONTEXT",
+  "defineUrl": "/win32/ntstatus-h/status_tpm_badcontext/",
+  "message": "The context blob is invalid.",
+  "remarks": null,
+  "aka": [
+    "-1071054758"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_tpm_badcontext/-1071054758/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

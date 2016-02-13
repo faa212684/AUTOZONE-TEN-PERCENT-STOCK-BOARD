@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\certsrv_e_bad_request_key_archival\0x8009400c\index.html.json
+
+title: 0x8009400C CERTSRV_E_BAD_REQUEST_KEY_ARCHIVAL in winerror.h
+description: The request is incorrectly formatted. The encrypted private key must be in an unauthenticated attribute in an outermost signature.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8009400C",
+  "codeUrl": "/win32/winerror-h/certsrv_e_bad_request_key_archival/0x8009400c/",
+  "numericCode": -2146877428,
+  "define": "CERTSRV_E_BAD_REQUEST_KEY_ARCHIVAL",
+  "defineUrl": "/win32/winerror-h/certsrv_e_bad_request_key_archival/",
+  "message": "The request is incorrectly formatted. The encrypted private key must be in an unauthenticated attribute in an outermost signature.",
+  "remarks": null,
+  "aka": [
+    "-2146877428"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/certsrv_e_bad_request_key_archival/-2146877428/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

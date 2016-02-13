@@ -1,0 +1,31 @@
+---
+output: win32\netevent-h\event_first_logon_failed_ii\0xc0001b7e\index.html.json
+
+title: 0xC0001B7E EVENT_FIRST_LOGON_FAILED_II in netevent.h
+description: The %1 service was unable to log on as %2 with the currently configured
+password due to the following error: %n%3%n%nTo ensure that the service is
+configured properly, use the Services snap-in in Microsoft Management
+Console (MMC).
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC0001B7E",
+  "codeUrl": "/win32/netevent-h/event_first_logon_failed_ii/0xc0001b7e/",
+  "numericCode": -1073734786,
+  "define": "EVENT_FIRST_LOGON_FAILED_II",
+  "defineUrl": "/win32/netevent-h/event_first_logon_failed_ii/",
+  "message": "The %1 service was unable to log on as %2 with the currently configured\r\npassword due to the following error: %n%3%n%nTo ensure that the service is\r\nconfigured properly, use the Services snap-in in Microsoft Management\r\nConsole (MMC).",
+  "remarks": null,
+  "aka": [
+    "-1073734786"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_first_logon_failed_ii/-1073734786/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

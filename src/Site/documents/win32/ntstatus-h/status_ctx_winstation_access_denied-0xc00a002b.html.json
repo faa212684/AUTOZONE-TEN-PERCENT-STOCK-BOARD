@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_ctx_winstation_access_denied\0xc00a002b\index.html.json
+
+title: 0xC00A002B STATUS_CTX_WINSTATION_ACCESS_DENIED in ntstatus.h
+description: A process has requested access to a session, but has not been granted those access rights.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC00A002B",
+  "codeUrl": "/win32/ntstatus-h/status_ctx_winstation_access_denied/0xc00a002b/",
+  "numericCode": -1073086421,
+  "define": "STATUS_CTX_WINSTATION_ACCESS_DENIED",
+  "defineUrl": "/win32/ntstatus-h/status_ctx_winstation_access_denied/",
+  "message": "A process has requested access to a session, but has not been granted those access rights.",
+  "remarks": null,
+  "aka": [
+    "-1073086421"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_ctx_winstation_access_denied/-1073086421/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

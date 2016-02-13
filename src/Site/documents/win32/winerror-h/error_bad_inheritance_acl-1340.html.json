@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_bad_inheritance_acl\1340\index.html.json
+
+title: 1340 ERROR_BAD_INHERITANCE_ACL in winerror.h
+description: The inherited access control list (ACL) or access control entry (ACE) could not be built.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1340",
+  "codeUrl": "/win32/winerror-h/error_bad_inheritance_acl/1340/",
+  "numericCode": 1340,
+  "define": "ERROR_BAD_INHERITANCE_ACL",
+  "defineUrl": "/win32/winerror-h/error_bad_inheritance_acl/",
+  "message": "The inherited access control list (ACL) or access control entry (ACE) could not be built.",
+  "remarks": null,
+  "aka": [
+    "0x8007053c",
+    "-2147023556"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_bad_inheritance_acl/0x8007053c/",
+    "/win32/winerror-h/error_bad_inheritance_acl/-2147023556/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

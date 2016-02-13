@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\error_vhd_drive_footer_missing\0xc03a0001\index.html.json
+
+title: 0xC03A0001 ERROR_VHD_DRIVE_FOOTER_MISSING in winerror.h
+description: The virtual hard disk is corrupted. The virtual hard disk drive footer is missing.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0xC03A0001",
+  "codeUrl": "/win32/winerror-h/error_vhd_drive_footer_missing/0xc03a0001/",
+  "numericCode": -1069940735,
+  "define": "ERROR_VHD_DRIVE_FOOTER_MISSING",
+  "defineUrl": "/win32/winerror-h/error_vhd_drive_footer_missing/",
+  "message": "The virtual hard disk is corrupted. The virtual hard disk drive footer is missing.",
+  "remarks": null,
+  "aka": [
+    "-1069940735"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_vhd_drive_footer_missing/-1069940735/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

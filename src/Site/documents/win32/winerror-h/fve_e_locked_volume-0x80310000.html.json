@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\fve_e_locked_volume\0x80310000\index.html.json
+
+title: 0x80310000 FVE_E_LOCKED_VOLUME in winerror.h
+description: This drive is locked by BitLocker Drive Encryption. You must unlock this drive from Control Panel.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80310000",
+  "codeUrl": "/win32/winerror-h/fve_e_locked_volume/0x80310000/",
+  "numericCode": -2144272384,
+  "define": "FVE_E_LOCKED_VOLUME",
+  "defineUrl": "/win32/winerror-h/fve_e_locked_volume/",
+  "message": "This drive is locked by BitLocker Drive Encryption. You must unlock this drive from Control Panel.",
+  "remarks": null,
+  "aka": [
+    "-2144272384"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/fve_e_locked_volume/-2144272384/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

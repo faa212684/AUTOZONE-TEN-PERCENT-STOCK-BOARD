@@ -1,0 +1,28 @@
+---
+output: win32\windowssearcherrors-h\gthr_e_invalid_account_syntax\0x80040d2f\index.html.json
+
+title: 0x80040D2F GTHR_E_INVALID_ACCOUNT_SYNTAX in WindowsSearchErrors.h
+description: The specified account name cannot be used because it contains invalid characters, such as '\'.  Use a valid account name.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "0x80040D2F",
+  "codeUrl": "/win32/windowssearcherrors-h/gthr_e_invalid_account_syntax/0x80040d2f/",
+  "numericCode": -2147218129,
+  "define": "GTHR_E_INVALID_ACCOUNT_SYNTAX",
+  "defineUrl": "/win32/windowssearcherrors-h/gthr_e_invalid_account_syntax/",
+  "message": "The specified account name cannot be used because it contains invalid characters, such as '\\'.  Use a valid account name.",
+  "remarks": null,
+  "aka": [
+    "-2147218129"
+  ],
+  "akaUrl": [
+    "/win32/windowssearcherrors-h/gthr_e_invalid_account_syntax/-2147218129/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

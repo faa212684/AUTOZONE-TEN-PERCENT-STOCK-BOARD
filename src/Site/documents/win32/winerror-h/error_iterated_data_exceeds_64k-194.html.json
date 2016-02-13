@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_iterated_data_exceeds_64k\194\index.html.json
+
+title: 194 ERROR_ITERATED_DATA_EXCEEDS_64k in winerror.h
+description: The operating system cannot run %1.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "194",
+  "codeUrl": "/win32/winerror-h/error_iterated_data_exceeds_64k/194/",
+  "numericCode": 194,
+  "define": "ERROR_ITERATED_DATA_EXCEEDS_64k",
+  "defineUrl": "/win32/winerror-h/error_iterated_data_exceeds_64k/",
+  "message": "The operating system cannot run %1.",
+  "remarks": null,
+  "aka": [
+    "0x800700c2",
+    "-2147024702"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_iterated_data_exceeds_64k/0x800700c2/",
+    "/win32/winerror-h/error_iterated_data_exceeds_64k/-2147024702/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

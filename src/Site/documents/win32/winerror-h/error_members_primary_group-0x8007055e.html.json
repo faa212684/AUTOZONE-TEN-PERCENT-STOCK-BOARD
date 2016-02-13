@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_members_primary_group\0x8007055e\index.html.json
+canonical: /win32/winerror-h/error_members_primary_group/1374/
+title: 0x8007055e ERROR_MEMBERS_PRIMARY_GROUP in winerror.h
+description: The user cannot be removed from a group because the group is currently the user's primary group.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007055e",
+  "codeUrl": "/win32/winerror-h/error_members_primary_group/0x8007055e/",
+  "numericCode": 0,
+  "define": "ERROR_MEMBERS_PRIMARY_GROUP",
+  "defineUrl": "/win32/winerror-h/error_members_primary_group/",
+  "message": "The user cannot be removed from a group because the group is currently the user's primary group.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "1374",
+  "originalCodeUrl": "/win32/winerror-h/error_members_primary_group/1374/"
+}

@@ -1,0 +1,28 @@
+---
+output: win32\wsmerror-h\error_wsman_semanticcallback_timedout\0x803381dc\index.html.json
+
+title: 0x803381DC ERROR_WSMAN_SEMANTICCALLBACK_TIMEDOUT in wsmerror.h
+description: The WS-Management service did not receive a response for an extended semantics operation within the timeframe specified in the OperationTimeout setting.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x803381DC",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_semanticcallback_timedout/0x803381dc/",
+  "numericCode": -2144108068,
+  "define": "ERROR_WSMAN_SEMANTICCALLBACK_TIMEDOUT",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_semanticcallback_timedout/",
+  "message": "The WS-Management service did not receive a response for an extended semantics operation within the timeframe specified in the OperationTimeout setting.",
+  "remarks": null,
+  "aka": [
+    "-2144108068"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_semanticcallback_timedout/-2144108068/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

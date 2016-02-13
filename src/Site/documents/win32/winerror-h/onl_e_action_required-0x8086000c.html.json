@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\onl_e_action_required\0x8086000c\index.html.json
+
+title: 0x8086000C ONL_E_ACTION_REQUIRED in winerror.h
+description: User interaction is required for authentication.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8086000C",
+  "codeUrl": "/win32/winerror-h/onl_e_action_required/0x8086000c/",
+  "numericCode": -2138701812,
+  "define": "ONL_E_ACTION_REQUIRED",
+  "defineUrl": "/win32/winerror-h/onl_e_action_required/",
+  "message": "User interaction is required for authentication.",
+  "remarks": null,
+  "aka": [
+    "-2138701812"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/onl_e_action_required/-2138701812/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

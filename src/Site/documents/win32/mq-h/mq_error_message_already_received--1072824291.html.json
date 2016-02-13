@@ -1,0 +1,26 @@
+---
+output: win32\mq-h\mq_error_message_already_received\-1072824291\index.html.json
+canonical: /win32/mq-h/mq_error_message_already_received/0xc00e001d/
+title: -1072824291 MQ_ERROR_MESSAGE_ALREADY_RECEIVED in Mq.h
+description: The message at which the cursor is currently pointing was removed from
+the queue by another process or by another call to MQReceiveMessage
+without the use of this cursor.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "Mq.h",
+  "sourceUrl": "/win32/mq-h/",
+  "code": "-1072824291",
+  "codeUrl": "/win32/mq-h/mq_error_message_already_received/-1072824291/",
+  "numericCode": 0,
+  "define": "MQ_ERROR_MESSAGE_ALREADY_RECEIVED",
+  "defineUrl": "/win32/mq-h/mq_error_message_already_received/",
+  "message": "The message at which the cursor is currently pointing was removed from\r\nthe queue by another process or by another call to MQReceiveMessage\r\nwithout the use of this cursor.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC00E001D",
+  "originalCodeUrl": "/win32/mq-h/mq_error_message_already_received/0xc00e001d/"
+}

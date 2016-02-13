@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\dfs_error_securityinit_failed\0xc00038af\index.html.json
+
+title: 0xC00038AF DFS_ERROR_SECURITYINIT_FAILED in netevent.h
+description: DFS could not initialize security library. The return code is in the record data.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC00038AF",
+  "codeUrl": "/win32/netevent-h/dfs_error_securityinit_failed/0xc00038af/",
+  "numericCode": -1073727313,
+  "define": "DFS_ERROR_SECURITYINIT_FAILED",
+  "defineUrl": "/win32/netevent-h/dfs_error_securityinit_failed/",
+  "message": "DFS could not initialize security library. The return code is in the record data.",
+  "remarks": null,
+  "aka": [
+    "-1073727313"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/dfs_error_securityinit_failed/-1073727313/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_graphics_no_monitors_correspond_to_display_device\-1071774235\index.html.json
+canonical: /win32/ntstatus-h/status_graphics_no_monitors_correspond_to_display_device/0xc01e05e5/
+title: -1071774235 STATUS_GRAPHICS_NO_MONITORS_CORRESPOND_TO_DISPLAY_DEVICE in ntstatus.h
+description: This function failed because the GDI device passed to it did not have any monitors associated with it.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071774235",
+  "codeUrl": "/win32/ntstatus-h/status_graphics_no_monitors_correspond_to_display_device/-1071774235/",
+  "numericCode": 0,
+  "define": "STATUS_GRAPHICS_NO_MONITORS_CORRESPOND_TO_DISPLAY_DEVICE",
+  "defineUrl": "/win32/ntstatus-h/status_graphics_no_monitors_correspond_to_display_device/",
+  "message": "This function failed because the GDI device passed to it did not have any monitors associated with it.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC01E05E5",
+  "originalCodeUrl": "/win32/ntstatus-h/status_graphics_no_monitors_correspond_to_display_device/0xc01e05e5/"
+}

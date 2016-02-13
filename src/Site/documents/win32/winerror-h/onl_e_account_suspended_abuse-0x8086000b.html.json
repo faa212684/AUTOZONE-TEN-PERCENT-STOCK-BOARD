@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\onl_e_account_suspended_abuse\0x8086000b\index.html.json
+
+title: 0x8086000B ONL_E_ACCOUNT_SUSPENDED_ABUSE in winerror.h
+description: We detected some suspicious activity with your Online Id account. To help protect you, we've temporarily blocked your account.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8086000B",
+  "codeUrl": "/win32/winerror-h/onl_e_account_suspended_abuse/0x8086000b/",
+  "numericCode": -2138701813,
+  "define": "ONL_E_ACCOUNT_SUSPENDED_ABUSE",
+  "defineUrl": "/win32/winerror-h/onl_e_account_suspended_abuse/",
+  "message": "We detected some suspicious activity with your Online Id account. To help protect you, we've temporarily blocked your account.",
+  "remarks": null,
+  "aka": [
+    "-2138701813"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/onl_e_account_suspended_abuse/-2138701813/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

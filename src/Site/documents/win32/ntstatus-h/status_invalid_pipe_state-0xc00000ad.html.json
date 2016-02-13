@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_invalid_pipe_state\0xc00000ad\index.html.json
+
+title: 0xC00000AD STATUS_INVALID_PIPE_STATE in ntstatus.h
+description: The named pipe is not in the connected or closing state.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC00000AD",
+  "codeUrl": "/win32/ntstatus-h/status_invalid_pipe_state/0xc00000ad/",
+  "numericCode": -1073741651,
+  "define": "STATUS_INVALID_PIPE_STATE",
+  "defineUrl": "/win32/ntstatus-h/status_invalid_pipe_state/",
+  "message": "The named pipe is not in the connected or closing state.",
+  "remarks": null,
+  "aka": [
+    "-1073741651"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_invalid_pipe_state/-1073741651/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

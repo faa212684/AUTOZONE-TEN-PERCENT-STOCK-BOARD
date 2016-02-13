@@ -1,0 +1,25 @@
+---
+output: win32\winerror-h\error_illegal_float_context\-2147024317\index.html.json
+canonical: /win32/winerror-h/error_illegal_float_context/579/
+title: -2147024317 ERROR_ILLEGAL_FLOAT_CONTEXT in winerror.h
+description: "{EXCEPTION}
+A real-mode application issued a floating-point instruction and floating-point hardware is not present."
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147024317",
+  "codeUrl": "/win32/winerror-h/error_illegal_float_context/-2147024317/",
+  "numericCode": 0,
+  "define": "ERROR_ILLEGAL_FLOAT_CONTEXT",
+  "defineUrl": "/win32/winerror-h/error_illegal_float_context/",
+  "message": "{EXCEPTION}\r\nA real-mode application issued a floating-point instruction and floating-point hardware is not present.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "579",
+  "originalCodeUrl": "/win32/winerror-h/error_illegal_float_context/579/"
+}

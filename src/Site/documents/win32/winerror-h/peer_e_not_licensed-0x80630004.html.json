@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\peer_e_not_licensed\0x80630004\index.html.json
+
+title: 0x80630004 PEER_E_NOT_LICENSED in winerror.h
+description: The P2P protocol is not licensed to run on this OS.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80630004",
+  "codeUrl": "/win32/winerror-h/peer_e_not_licensed/0x80630004/",
+  "numericCode": -2140995580,
+  "define": "PEER_E_NOT_LICENSED",
+  "defineUrl": "/win32/winerror-h/peer_e_not_licensed/",
+  "message": "The P2P protocol is not licensed to run on this OS.",
+  "remarks": null,
+  "aka": [
+    "-2140995580"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/peer_e_not_licensed/-2140995580/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

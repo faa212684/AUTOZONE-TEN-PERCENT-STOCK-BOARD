@@ -1,0 +1,29 @@
+---
+output: win32\vdserr-h\vds_e_ldm_timeout\0x80042461\index.html.json
+
+title: 0x80042461 VDS_E_LDM_TIMEOUT in vdserr.h
+description: The operation timed out in the Logical Disk Manager Administrative service. 
+Retry the operation.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x80042461",
+  "codeUrl": "/win32/vdserr-h/vds_e_ldm_timeout/0x80042461/",
+  "numericCode": -2147212191,
+  "define": "VDS_E_LDM_TIMEOUT",
+  "defineUrl": "/win32/vdserr-h/vds_e_ldm_timeout/",
+  "message": "The operation timed out in the Logical Disk Manager Administrative service. \r\nRetry the operation.",
+  "remarks": null,
+  "aka": [
+    "-2147212191"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_ldm_timeout/-2147212191/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

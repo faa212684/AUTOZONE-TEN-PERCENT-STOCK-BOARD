@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ds_local_cant_have_crossdomain_local_member\8520\index.html.json
+
+title: 8520 ERROR_DS_LOCAL_CANT_HAVE_CROSSDOMAIN_LOCAL_MEMBER in winerror.h
+description: A local group cannot have another cross domain local group as a member.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "8520",
+  "codeUrl": "/win32/winerror-h/error_ds_local_cant_have_crossdomain_local_member/8520/",
+  "numericCode": 8520,
+  "define": "ERROR_DS_LOCAL_CANT_HAVE_CROSSDOMAIN_LOCAL_MEMBER",
+  "defineUrl": "/win32/winerror-h/error_ds_local_cant_have_crossdomain_local_member/",
+  "message": "A local group cannot have another cross domain local group as a member.",
+  "remarks": null,
+  "aka": [
+    "0x80072148",
+    "-2147016376"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ds_local_cant_have_crossdomain_local_member/0x80072148/",
+    "/win32/winerror-h/error_ds_local_cant_have_crossdomain_local_member/-2147016376/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

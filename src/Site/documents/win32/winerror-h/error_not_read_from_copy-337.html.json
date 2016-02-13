@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_not_read_from_copy\337\index.html.json
+
+title: 337 ERROR_NOT_READ_FROM_COPY in winerror.h
+description: The specified copy of the requested data could not be read.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "337",
+  "codeUrl": "/win32/winerror-h/error_not_read_from_copy/337/",
+  "numericCode": 337,
+  "define": "ERROR_NOT_READ_FROM_COPY",
+  "defineUrl": "/win32/winerror-h/error_not_read_from_copy/",
+  "message": "The specified copy of the requested data could not be read.",
+  "remarks": null,
+  "aka": [
+    "0x80070151",
+    "-2147024559"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_not_read_from_copy/0x80070151/",
+    "/win32/winerror-h/error_not_read_from_copy/-2147024559/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

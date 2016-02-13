@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ctx_modem_response_busy\7015\index.html.json
+
+title: 7015 ERROR_CTX_MODEM_RESPONSE_BUSY in winerror.h
+description: Busy signal detected at remote site on callback.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "7015",
+  "codeUrl": "/win32/winerror-h/error_ctx_modem_response_busy/7015/",
+  "numericCode": 7015,
+  "define": "ERROR_CTX_MODEM_RESPONSE_BUSY",
+  "defineUrl": "/win32/winerror-h/error_ctx_modem_response_busy/",
+  "message": "Busy signal detected at remote site on callback.",
+  "remarks": null,
+  "aka": [
+    "0x80071b67",
+    "-2147017881"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ctx_modem_response_busy/0x80071b67/",
+    "/win32/winerror-h/error_ctx_modem_response_busy/-2147017881/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

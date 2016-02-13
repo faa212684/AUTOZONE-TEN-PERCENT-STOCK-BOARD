@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\fve_e_debugger_enabled\0x8031004f\index.html.json
+
+title: 0x8031004F FVE_E_DEBUGGER_ENABLED in winerror.h
+description: Drive encryption cannot occur while boot debugging is enabled. Use the bcdedit command-line tool to turn off boot debugging.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8031004F",
+  "codeUrl": "/win32/winerror-h/fve_e_debugger_enabled/0x8031004f/",
+  "numericCode": -2144272305,
+  "define": "FVE_E_DEBUGGER_ENABLED",
+  "defineUrl": "/win32/winerror-h/fve_e_debugger_enabled/",
+  "message": "Drive encryption cannot occur while boot debugging is enabled. Use the bcdedit command-line tool to turn off boot debugging.",
+  "remarks": null,
+  "aka": [
+    "-2144272305"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/fve_e_debugger_enabled/-2144272305/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_sxs_duplicate_clsid\14023\index.html.json
+
+title: 14023 ERROR_SXS_DUPLICATE_CLSID in winerror.h
+description: Two or more components referenced directly or indirectly by the application manifest have the same COM server CLSIDs.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "14023",
+  "codeUrl": "/win32/winerror-h/error_sxs_duplicate_clsid/14023/",
+  "numericCode": 14023,
+  "define": "ERROR_SXS_DUPLICATE_CLSID",
+  "defineUrl": "/win32/winerror-h/error_sxs_duplicate_clsid/",
+  "message": "Two or more components referenced directly or indirectly by the application manifest have the same COM server CLSIDs.",
+  "remarks": null,
+  "aka": [
+    "0x800736c7",
+    "-2147010873"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_sxs_duplicate_clsid/0x800736c7/",
+    "/win32/winerror-h/error_sxs_duplicate_clsid/-2147010873/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

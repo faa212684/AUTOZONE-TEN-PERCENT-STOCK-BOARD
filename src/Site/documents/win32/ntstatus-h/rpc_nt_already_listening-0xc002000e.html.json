@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\rpc_nt_already_listening\0xc002000e\index.html.json
+
+title: 0xC002000E RPC_NT_ALREADY_LISTENING in ntstatus.h
+description: The RPC server is already listening.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC002000E",
+  "codeUrl": "/win32/ntstatus-h/rpc_nt_already_listening/0xc002000e/",
+  "numericCode": -1073610738,
+  "define": "RPC_NT_ALREADY_LISTENING",
+  "defineUrl": "/win32/ntstatus-h/rpc_nt_already_listening/",
+  "message": "The RPC server is already listening.",
+  "remarks": null,
+  "aka": [
+    "-1073610738"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/rpc_nt_already_listening/-1073610738/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

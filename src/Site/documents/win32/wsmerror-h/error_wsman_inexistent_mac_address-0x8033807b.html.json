@@ -1,0 +1,28 @@
+---
+output: win32\wsmerror-h\error_wsman_inexistent_mac_address\0x8033807b\index.html.json
+
+title: 0x8033807B ERROR_WSMAN_INEXISTENT_MAC_ADDRESS in wsmerror.h
+description: The MAC that is configured is not in the list of enabled DHCP adapters on the computer.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x8033807B",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_inexistent_mac_address/0x8033807b/",
+  "numericCode": -2144108421,
+  "define": "ERROR_WSMAN_INEXISTENT_MAC_ADDRESS",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_inexistent_mac_address/",
+  "message": "The MAC that is configured is not in the list of enabled DHCP adapters on the computer.",
+  "remarks": null,
+  "aka": [
+    "-2144108421"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_inexistent_mac_address/-2144108421/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_too_many_links\0xc0000265\index.html.json
+
+title: 0xC0000265 STATUS_TOO_MANY_LINKS in ntstatus.h
+description: An attempt was made to create more links on a file than the file system supports.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000265",
+  "codeUrl": "/win32/ntstatus-h/status_too_many_links/0xc0000265/",
+  "numericCode": -1073741211,
+  "define": "STATUS_TOO_MANY_LINKS",
+  "defineUrl": "/win32/ntstatus-h/status_too_many_links/",
+  "message": "An attempt was made to create more links on a file than the file system supports.",
+  "remarks": null,
+  "aka": [
+    "-1073741211"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_too_many_links/-1073741211/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\vsserror-h\vss_e_asrerror_system_partition_hidden\0x80042416\index.html.json
+
+title: 0x80042416 VSS_E_ASRERROR_SYSTEM_PARTITION_HIDDEN in vsserror.h
+description: System partition (partition marked "active") is hidden or contains an unrecognized file system. Backup does not support this configuration.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vsserror.h",
+  "sourceUrl": "/win32/vsserror-h/",
+  "code": "0x80042416",
+  "codeUrl": "/win32/vsserror-h/vss_e_asrerror_system_partition_hidden/0x80042416/",
+  "numericCode": -2147212266,
+  "define": "VSS_E_ASRERROR_SYSTEM_PARTITION_HIDDEN",
+  "defineUrl": "/win32/vsserror-h/vss_e_asrerror_system_partition_hidden/",
+  "message": "System partition (partition marked \"active\") is hidden or contains an unrecognized file system. Backup does not support this configuration.",
+  "remarks": null,
+  "aka": [
+    "-2147212266"
+  ],
+  "akaUrl": [
+    "/win32/vsserror-h/vss_e_asrerror_system_partition_hidden/-2147212266/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\wuerror-h\wu_e_setup_target_version_greater\0x8024d006\index.html.json
+
+title: 0x8024D006 WU_E_SETUP_TARGET_VERSION_GREATER in wuerror.h
+description: Windows Update Agent could not be updated because a WUA file on the target system is newer than the corresponding source file.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wuerror.h",
+  "sourceUrl": "/win32/wuerror-h/",
+  "code": "0x8024D006",
+  "codeUrl": "/win32/wuerror-h/wu_e_setup_target_version_greater/0x8024d006/",
+  "numericCode": -2145071098,
+  "define": "WU_E_SETUP_TARGET_VERSION_GREATER",
+  "defineUrl": "/win32/wuerror-h/wu_e_setup_target_version_greater/",
+  "message": "Windows Update Agent could not be updated because a WUA file on the target system is newer than the corresponding source file.",
+  "remarks": null,
+  "aka": [
+    "-2145071098"
+  ],
+  "akaUrl": [
+    "/win32/wuerror-h/wu_e_setup_target_version_greater/-2145071098/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

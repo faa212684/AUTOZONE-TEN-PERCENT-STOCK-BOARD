@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_volmgr_volume_offline\0xc038004b\index.html.json
+
+title: 0xC038004B STATUS_VOLMGR_VOLUME_OFFLINE in ntstatus.h
+description: The specified volume is offline.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC038004B",
+  "codeUrl": "/win32/ntstatus-h/status_volmgr_volume_offline/0xc038004b/",
+  "numericCode": -1070071733,
+  "define": "STATUS_VOLMGR_VOLUME_OFFLINE",
+  "defineUrl": "/win32/ntstatus-h/status_volmgr_volume_offline/",
+  "message": "The specified volume is offline.",
+  "remarks": null,
+  "aka": [
+    "-1070071733"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_volmgr_volume_offline/-1070071733/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

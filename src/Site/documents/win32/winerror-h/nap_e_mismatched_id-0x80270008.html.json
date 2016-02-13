@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\nap_e_mismatched_id\0x80270008\index.html.json
+
+title: 0x80270008 NAP_E_MISMATCHED_ID in winerror.h
+description: The correlation id in the SoH-Request and SoH-Response do not match up.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80270008",
+  "codeUrl": "/win32/winerror-h/nap_e_mismatched_id/0x80270008/",
+  "numericCode": -2144927736,
+  "define": "NAP_E_MISMATCHED_ID",
+  "defineUrl": "/win32/winerror-h/nap_e_mismatched_id/",
+  "message": "The correlation id in the SoH-Request and SoH-Response do not match up.",
+  "remarks": null,
+  "aka": [
+    "-2144927736"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/nap_e_mismatched_id/-2144927736/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

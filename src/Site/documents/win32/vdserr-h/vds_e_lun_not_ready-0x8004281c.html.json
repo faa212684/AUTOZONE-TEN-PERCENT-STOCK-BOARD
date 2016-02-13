@@ -1,0 +1,29 @@
+---
+output: win32\vdserr-h\vds_e_lun_not_ready\0x8004281c\index.html.json
+
+title: 0x8004281C VDS_E_LUN_NOT_READY in vdserr.h
+description: The SHRINK operation against the selected LUN cannot be completed. 
+The current state of the LUN is NOT READY.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x8004281C",
+  "codeUrl": "/win32/vdserr-h/vds_e_lun_not_ready/0x8004281c/",
+  "numericCode": -2147211236,
+  "define": "VDS_E_LUN_NOT_READY",
+  "defineUrl": "/win32/vdserr-h/vds_e_lun_not_ready/",
+  "message": "The SHRINK operation against the selected LUN cannot be completed. \r\nThe current state of the LUN is NOT READY.",
+  "remarks": null,
+  "aka": [
+    "-2147211236"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_lun_not_ready/-2147211236/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

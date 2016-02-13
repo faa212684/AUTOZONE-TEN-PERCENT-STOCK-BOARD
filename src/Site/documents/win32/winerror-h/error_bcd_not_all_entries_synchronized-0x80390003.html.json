@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\error_bcd_not_all_entries_synchronized\0x80390003\index.html.json
+
+title: 0x80390003 ERROR_BCD_NOT_ALL_ENTRIES_SYNCHRONIZED in winerror.h
+description: Some BCD entries were not synchronized correctly with the firmware.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80390003",
+  "codeUrl": "/win32/winerror-h/error_bcd_not_all_entries_synchronized/0x80390003/",
+  "numericCode": -2143748093,
+  "define": "ERROR_BCD_NOT_ALL_ENTRIES_SYNCHRONIZED",
+  "defineUrl": "/win32/winerror-h/error_bcd_not_all_entries_synchronized/",
+  "message": "Some BCD entries were not synchronized correctly with the firmware.",
+  "remarks": null,
+  "aka": [
+    "-2143748093"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_bcd_not_all_entries_synchronized/-2143748093/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

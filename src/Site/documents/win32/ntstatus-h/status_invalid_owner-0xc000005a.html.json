@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_invalid_owner\0xc000005a\index.html.json
+
+title: 0xC000005A STATUS_INVALID_OWNER in ntstatus.h
+description: Indicates a particular Security ID may not be assigned as the owner of an object.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000005A",
+  "codeUrl": "/win32/ntstatus-h/status_invalid_owner/0xc000005a/",
+  "numericCode": -1073741734,
+  "define": "STATUS_INVALID_OWNER",
+  "defineUrl": "/win32/ntstatus-h/status_invalid_owner/",
+  "message": "Indicates a particular Security ID may not be assigned as the owner of an object.",
+  "remarks": null,
+  "aka": [
+    "-1073741734"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_invalid_owner/-1073741734/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

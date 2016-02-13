@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_tpm_needs_selftest\0xc0290801\index.html.json
+
+title: 0xC0290801 STATUS_TPM_NEEDS_SELFTEST in ntstatus.h
+description: SelfTestFull has not been run.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0290801",
+  "codeUrl": "/win32/ntstatus-h/status_tpm_needs_selftest/0xc0290801/",
+  "numericCode": -1071052799,
+  "define": "STATUS_TPM_NEEDS_SELFTEST",
+  "defineUrl": "/win32/ntstatus-h/status_tpm_needs_selftest/",
+  "message": "SelfTestFull has not been run.",
+  "remarks": null,
+  "aka": [
+    "-1071052799"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_tpm_needs_selftest/-1071052799/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

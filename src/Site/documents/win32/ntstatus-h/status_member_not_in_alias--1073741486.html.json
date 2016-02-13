@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_member_not_in_alias\-1073741486\index.html.json
+canonical: /win32/ntstatus-h/status_member_not_in_alias/0xc0000152/
+title: -1073741486 STATUS_MEMBER_NOT_IN_ALIAS in ntstatus.h
+description: The specified account name is not a member of the group.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741486",
+  "codeUrl": "/win32/ntstatus-h/status_member_not_in_alias/-1073741486/",
+  "numericCode": 0,
+  "define": "STATUS_MEMBER_NOT_IN_ALIAS",
+  "defineUrl": "/win32/ntstatus-h/status_member_not_in_alias/",
+  "message": "The specified account name is not a member of the group.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000152",
+  "originalCodeUrl": "/win32/ntstatus-h/status_member_not_in_alias/0xc0000152/"
+}

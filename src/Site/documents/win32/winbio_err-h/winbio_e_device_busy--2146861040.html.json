@@ -1,0 +1,24 @@
+---
+output: win32\winbio_err-h\winbio_e_device_busy\-2146861040\index.html.json
+canonical: /win32/winbio_err-h/winbio_e_device_busy/0x80098010/
+title: -2146861040 WINBIO_E_DEVICE_BUSY in winbio_err.h
+description: The operation could not be performed because the sensor device was busy.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winbio_err.h",
+  "sourceUrl": "/win32/winbio_err-h/",
+  "code": "-2146861040",
+  "codeUrl": "/win32/winbio_err-h/winbio_e_device_busy/-2146861040/",
+  "numericCode": 0,
+  "define": "WINBIO_E_DEVICE_BUSY",
+  "defineUrl": "/win32/winbio_err-h/winbio_e_device_busy/",
+  "message": "The operation could not be performed because the sensor device was busy.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80098010",
+  "originalCodeUrl": "/win32/winbio_err-h/winbio_e_device_busy/0x80098010/"
+}

@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\wininet_e_sec_cert_date_invalid\0x80072f05\index.html.json
+
+title: 0x80072F05 WININET_E_SEC_CERT_DATE_INVALID in winerror.h
+description: The date in the certificate is invalid or has expired
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80072F05",
+  "codeUrl": "/win32/winerror-h/wininet_e_sec_cert_date_invalid/0x80072f05/",
+  "numericCode": -2147012859,
+  "define": "WININET_E_SEC_CERT_DATE_INVALID",
+  "defineUrl": "/win32/winerror-h/wininet_e_sec_cert_date_invalid/",
+  "message": "The date in the certificate is invalid or has expired",
+  "remarks": null,
+  "aka": [
+    "-2147012859"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/wininet_e_sec_cert_date_invalid/-2147012859/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

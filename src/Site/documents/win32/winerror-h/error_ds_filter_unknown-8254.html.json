@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ds_filter_unknown\8254\index.html.json
+
+title: 8254 ERROR_DS_FILTER_UNKNOWN in winerror.h
+description: The search filter cannot be recognized.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "8254",
+  "codeUrl": "/win32/winerror-h/error_ds_filter_unknown/8254/",
+  "numericCode": 8254,
+  "define": "ERROR_DS_FILTER_UNKNOWN",
+  "defineUrl": "/win32/winerror-h/error_ds_filter_unknown/",
+  "message": "The search filter cannot be recognized.",
+  "remarks": null,
+  "aka": [
+    "0x8007203e",
+    "-2147016642"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ds_filter_unknown/0x8007203e/",
+    "/win32/winerror-h/error_ds_filter_unknown/-2147016642/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

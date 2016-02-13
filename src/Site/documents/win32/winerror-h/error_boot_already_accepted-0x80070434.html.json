@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_boot_already_accepted\0x80070434\index.html.json
+canonical: /win32/winerror-h/error_boot_already_accepted/1076/
+title: 0x80070434 ERROR_BOOT_ALREADY_ACCEPTED in winerror.h
+description: The current boot has already been accepted for use as the last-known-good control set.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80070434",
+  "codeUrl": "/win32/winerror-h/error_boot_already_accepted/0x80070434/",
+  "numericCode": 0,
+  "define": "ERROR_BOOT_ALREADY_ACCEPTED",
+  "defineUrl": "/win32/winerror-h/error_boot_already_accepted/",
+  "message": "The current boot has already been accepted for use as the last-known-good control set.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "1076",
+  "originalCodeUrl": "/win32/winerror-h/error_boot_already_accepted/1076/"
+}

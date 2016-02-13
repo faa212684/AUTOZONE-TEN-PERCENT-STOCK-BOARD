@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\rpc_nt_protseq_not_supported\0xc0020004\index.html.json
+
+title: 0xC0020004 RPC_NT_PROTSEQ_NOT_SUPPORTED in ntstatus.h
+description: The RPC protocol sequence is not supported.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0020004",
+  "codeUrl": "/win32/ntstatus-h/rpc_nt_protseq_not_supported/0xc0020004/",
+  "numericCode": -1073610748,
+  "define": "RPC_NT_PROTSEQ_NOT_SUPPORTED",
+  "defineUrl": "/win32/ntstatus-h/rpc_nt_protseq_not_supported/",
+  "message": "The RPC protocol sequence is not supported.",
+  "remarks": null,
+  "aka": [
+    "-1073610748"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/rpc_nt_protseq_not_supported/-1073610748/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

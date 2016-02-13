@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\fve_e_fs_mounted\0x8031004b\index.html.json
+
+title: 0x8031004B FVE_E_FS_MOUNTED in winerror.h
+description: The drive cannot be locked when the drive is in use.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8031004B",
+  "codeUrl": "/win32/winerror-h/fve_e_fs_mounted/0x8031004b/",
+  "numericCode": -2144272309,
+  "define": "FVE_E_FS_MOUNTED",
+  "defineUrl": "/win32/winerror-h/fve_e_fs_mounted/",
+  "message": "The drive cannot be locked when the drive is in use.",
+  "remarks": null,
+  "aka": [
+    "-2144272309"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/fve_e_fs_mounted/-2144272309/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

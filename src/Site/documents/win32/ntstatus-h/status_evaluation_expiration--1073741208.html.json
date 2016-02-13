@@ -1,0 +1,25 @@
+---
+output: win32\ntstatus-h\status_evaluation_expiration\-1073741208\index.html.json
+canonical: /win32/ntstatus-h/status_evaluation_expiration/0xc0000268/
+title: -1073741208 STATUS_EVALUATION_EXPIRATION in ntstatus.h
+description: "{Windows Evaluation Notification}
+The evaluation period for this installation of Windows has expired. This system will shutdown in 1 hour. To restore access to this installation of Windows, please upgrade this installation using a licensed distribution of this product."
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741208",
+  "codeUrl": "/win32/ntstatus-h/status_evaluation_expiration/-1073741208/",
+  "numericCode": 0,
+  "define": "STATUS_EVALUATION_EXPIRATION",
+  "defineUrl": "/win32/ntstatus-h/status_evaluation_expiration/",
+  "message": "{Windows Evaluation Notification}\r\nThe evaluation period for this installation of Windows has expired. This system will shutdown in 1 hour. To restore access to this installation of Windows, please upgrade this installation using a licensed distribution of this product.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000268",
+  "originalCodeUrl": "/win32/ntstatus-h/status_evaluation_expiration/0xc0000268/"
+}

@@ -1,0 +1,28 @@
+---
+output: win32\nserror-h\ns_e_cannot_generate_broadcast_info_for_qualityvbr\0xc00d1bdf\index.html.json
+
+title: 0xC00D1BDF NS_E_CANNOT_GENERATE_BROADCAST_INFO_FOR_QUALITYVBR in nserror.h
+description: It is not possible to generate the stream format file if you are using quality-based VBR encoding for the audio or video stream. Instead use the Windows Media file generated after encoding to create the announcement file.%0
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "nserror.h",
+  "sourceUrl": "/win32/nserror-h/",
+  "code": "0xC00D1BDF",
+  "codeUrl": "/win32/nserror-h/ns_e_cannot_generate_broadcast_info_for_qualityvbr/0xc00d1bdf/",
+  "numericCode": -1072882721,
+  "define": "NS_E_CANNOT_GENERATE_BROADCAST_INFO_FOR_QUALITYVBR",
+  "defineUrl": "/win32/nserror-h/ns_e_cannot_generate_broadcast_info_for_qualityvbr/",
+  "message": "It is not possible to generate the stream format file if you are using quality-based VBR encoding for the audio or video stream. Instead use the Windows Media file generated after encoding to create the announcement file.%0",
+  "remarks": null,
+  "aka": [
+    "-1072882721"
+  ],
+  "akaUrl": [
+    "/win32/nserror-h/ns_e_cannot_generate_broadcast_info_for_qualityvbr/-1072882721/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

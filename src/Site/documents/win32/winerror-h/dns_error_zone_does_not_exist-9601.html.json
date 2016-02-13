@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\dns_error_zone_does_not_exist\9601\index.html.json
+
+title: 9601 DNS_ERROR_ZONE_DOES_NOT_EXIST in winerror.h
+description: DNS zone does not exist.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "9601",
+  "codeUrl": "/win32/winerror-h/dns_error_zone_does_not_exist/9601/",
+  "numericCode": 9601,
+  "define": "DNS_ERROR_ZONE_DOES_NOT_EXIST",
+  "defineUrl": "/win32/winerror-h/dns_error_zone_does_not_exist/",
+  "message": "DNS zone does not exist.",
+  "remarks": null,
+  "aka": [
+    "0x80072581",
+    "-2147015295"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/dns_error_zone_does_not_exist/0x80072581/",
+    "/win32/winerror-h/dns_error_zone_does_not_exist/-2147015295/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

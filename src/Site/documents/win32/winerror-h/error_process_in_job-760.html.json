@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_process_in_job\760\index.html.json
+
+title: 760 ERROR_PROCESS_IN_JOB in winerror.h
+description: The specified process is part of a job.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "760",
+  "codeUrl": "/win32/winerror-h/error_process_in_job/760/",
+  "numericCode": 760,
+  "define": "ERROR_PROCESS_IN_JOB",
+  "defineUrl": "/win32/winerror-h/error_process_in_job/",
+  "message": "The specified process is part of a job.",
+  "remarks": null,
+  "aka": [
+    "0x800702f8",
+    "-2147024136"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_process_in_job/0x800702f8/",
+    "/win32/winerror-h/error_process_in_job/-2147024136/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

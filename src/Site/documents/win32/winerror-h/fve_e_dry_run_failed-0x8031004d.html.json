@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\fve_e_dry_run_failed\0x8031004d\index.html.json
+
+title: 0x8031004D FVE_E_DRY_RUN_FAILED in winerror.h
+description: The BitLocker encryption key cannot be obtained. Verify that the Trusted Platform Module (TPM) is enabled and ownership has been taken. If this computer does not have a TPM, verify that the USB drive is inserted and available.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8031004D",
+  "codeUrl": "/win32/winerror-h/fve_e_dry_run_failed/0x8031004d/",
+  "numericCode": -2144272307,
+  "define": "FVE_E_DRY_RUN_FAILED",
+  "defineUrl": "/win32/winerror-h/fve_e_dry_run_failed/",
+  "message": "The BitLocker encryption key cannot be obtained. Verify that the Trusted Platform Module (TPM) is enabled and ownership has been taken. If this computer does not have a TPM, verify that the USB drive is inserted and available.",
+  "remarks": null,
+  "aka": [
+    "-2144272307"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/fve_e_dry_run_failed/-2144272307/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

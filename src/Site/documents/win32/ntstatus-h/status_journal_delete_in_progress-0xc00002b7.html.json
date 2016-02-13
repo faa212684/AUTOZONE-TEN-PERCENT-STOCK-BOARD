@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_journal_delete_in_progress\0xc00002b7\index.html.json
+
+title: 0xC00002B7 STATUS_JOURNAL_DELETE_IN_PROGRESS in ntstatus.h
+description: The volume change journal is being deleted.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC00002B7",
+  "codeUrl": "/win32/ntstatus-h/status_journal_delete_in_progress/0xc00002b7/",
+  "numericCode": -1073741129,
+  "define": "STATUS_JOURNAL_DELETE_IN_PROGRESS",
+  "defineUrl": "/win32/ntstatus-h/status_journal_delete_in_progress/",
+  "message": "The volume change journal is being deleted.",
+  "remarks": null,
+  "aka": [
+    "-1073741129"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_journal_delete_in_progress/-1073741129/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

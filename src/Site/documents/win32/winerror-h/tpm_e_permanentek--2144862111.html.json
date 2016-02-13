@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\tpm_e_permanentek\-2144862111\index.html.json
+canonical: /win32/winerror-h/tpm_e_permanentek/0x80280061/
+title: -2144862111 TPM_E_PERMANENTEK in winerror.h
+description: Attempt to revoke the EK and the EK is not revocable.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2144862111",
+  "codeUrl": "/win32/winerror-h/tpm_e_permanentek/-2144862111/",
+  "numericCode": 0,
+  "define": "TPM_E_PERMANENTEK",
+  "defineUrl": "/win32/winerror-h/tpm_e_permanentek/",
+  "message": "Attempt to revoke the EK and the EK is not revocable.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80280061",
+  "originalCodeUrl": "/win32/winerror-h/tpm_e_permanentek/0x80280061/"
+}

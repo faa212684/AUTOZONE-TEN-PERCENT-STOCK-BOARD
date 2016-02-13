@@ -1,0 +1,28 @@
+---
+output: win32\mferror-h\mf_e_invalid_state_transition\0xc00d3e82\index.html.json
+
+title: 0xC00D3E82 MF_E_INVALID_STATE_TRANSITION in Mferror.h
+description: A media source cannot go from the stopped state to the paused state.%0
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "Mferror.h",
+  "sourceUrl": "/win32/mferror-h/",
+  "code": "0xC00D3E82",
+  "codeUrl": "/win32/mferror-h/mf_e_invalid_state_transition/0xc00d3e82/",
+  "numericCode": -1072873854,
+  "define": "MF_E_INVALID_STATE_TRANSITION",
+  "defineUrl": "/win32/mferror-h/mf_e_invalid_state_transition/",
+  "message": "A media source cannot go from the stopped state to the paused state.%0",
+  "remarks": null,
+  "aka": [
+    "-1072873854"
+  ],
+  "akaUrl": [
+    "/win32/mferror-h/mf_e_invalid_state_transition/-1072873854/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

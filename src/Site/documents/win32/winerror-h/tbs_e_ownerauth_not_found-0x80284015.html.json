@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\tbs_e_ownerauth_not_found\0x80284015\index.html.json
+
+title: 0x80284015 TBS_E_OWNERAUTH_NOT_FOUND in winerror.h
+description: The requested TPM OwnerAuth value was not found.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80284015",
+  "codeUrl": "/win32/winerror-h/tbs_e_ownerauth_not_found/0x80284015/",
+  "numericCode": -2144845803,
+  "define": "TBS_E_OWNERAUTH_NOT_FOUND",
+  "defineUrl": "/win32/winerror-h/tbs_e_ownerauth_not_found/",
+  "message": "The requested TPM OwnerAuth value was not found.",
+  "remarks": null,
+  "aka": [
+    "-2144845803"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/tbs_e_ownerauth_not_found/-2144845803/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

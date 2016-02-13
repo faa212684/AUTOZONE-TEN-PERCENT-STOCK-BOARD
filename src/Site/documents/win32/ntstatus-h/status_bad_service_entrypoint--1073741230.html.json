@@ -1,0 +1,25 @@
+---
+output: win32\ntstatus-h\status_bad_service_entrypoint\-1073741230\index.html.json
+canonical: /win32/ntstatus-h/status_bad_service_entrypoint/0xc0000252/
+title: -1073741230 STATUS_BAD_SERVICE_ENTRYPOINT in ntstatus.h
+description: "{Invalid Service Callback Entrypoint}
+The %hs service is not written correctly. The stack pointer has been left in an inconsistent state. The callback entrypoint should be declared as WINAPI or STDCALL. Selecting OK will cause the service to continue operation. However, the service process may operate incorrectly."
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741230",
+  "codeUrl": "/win32/ntstatus-h/status_bad_service_entrypoint/-1073741230/",
+  "numericCode": 0,
+  "define": "STATUS_BAD_SERVICE_ENTRYPOINT",
+  "defineUrl": "/win32/ntstatus-h/status_bad_service_entrypoint/",
+  "message": "{Invalid Service Callback Entrypoint}\r\nThe %hs service is not written correctly. The stack pointer has been left in an inconsistent state. The callback entrypoint should be declared as WINAPI or STDCALL. Selecting OK will cause the service to continue operation. However, the service process may operate incorrectly.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000252",
+  "originalCodeUrl": "/win32/ntstatus-h/status_bad_service_entrypoint/0xc0000252/"
+}

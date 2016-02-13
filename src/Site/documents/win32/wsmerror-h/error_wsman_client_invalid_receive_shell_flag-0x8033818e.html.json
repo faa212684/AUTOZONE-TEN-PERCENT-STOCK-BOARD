@@ -1,0 +1,29 @@
+---
+output: win32\wsmerror-h\error_wsman_client_invalid_receive_shell_flag\0x8033818e\index.html.json
+
+title: 0x8033818E ERROR_WSMAN_CLIENT_INVALID_RECEIVE_SHELL_FLAG in wsmerror.h
+description: The WinRM client cannot process the request. An invalid flag was specified for the WSManReceiveShellOutput API call.
+Remove or change the invalid flag and try the call again.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x8033818E",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_client_invalid_receive_shell_flag/0x8033818e/",
+  "numericCode": -2144108146,
+  "define": "ERROR_WSMAN_CLIENT_INVALID_RECEIVE_SHELL_FLAG",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_client_invalid_receive_shell_flag/",
+  "message": "The WinRM client cannot process the request. An invalid flag was specified for the WSManReceiveShellOutput API call.\r\nRemove or change the invalid flag and try the call again.",
+  "remarks": null,
+  "aka": [
+    "-2144108146"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_client_invalid_receive_shell_flag/-2144108146/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

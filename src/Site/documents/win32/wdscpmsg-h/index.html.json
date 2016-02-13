@@ -1,0 +1,23 @@
+---
+layout: list
+title: win32 WdsCpMsg.h
+description: win32
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WdsCpMsg.h",
+  "sourceUrl": "/win32/wdscpmsg-h/",
+  "items": [
+    "0x00000001",
+    "0xC1250100",
+    "0xC1250101",
+    "0xC1250102"
+  ],
+  "itemUrls": [
+    "/win32/wdscpmsg-h/wdscp_category/0x00000001/",
+    "/win32/wdscpmsg-h/wdscp_e_invalid_configuration/0xc1250100/",
+    "/win32/wdscpmsg-h/wdscp_e_not_a_directory/0xc1250101/",
+    "/win32/wdscpmsg-h/wdscp_e_config_string_required/0xc1250102/"
+  ]
+}

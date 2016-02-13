@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\sec_e_cert_unknown\0x80090327\index.html.json
+
+title: 0x80090327 SEC_E_CERT_UNKNOWN in winerror.h
+description: An unknown error occurred while processing the certificate.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80090327",
+  "codeUrl": "/win32/winerror-h/sec_e_cert_unknown/0x80090327/",
+  "numericCode": -2146893017,
+  "define": "SEC_E_CERT_UNKNOWN",
+  "defineUrl": "/win32/winerror-h/sec_e_cert_unknown/",
+  "message": "An unknown error occurred while processing the certificate.",
+  "remarks": null,
+  "aka": [
+    "-2146893017"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/sec_e_cert_unknown/-2146893017/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

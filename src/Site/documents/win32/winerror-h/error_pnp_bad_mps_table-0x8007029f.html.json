@@ -1,0 +1,25 @@
+---
+output: win32\winerror-h\error_pnp_bad_mps_table\0x8007029f\index.html.json
+canonical: /win32/winerror-h/error_pnp_bad_mps_table/671/
+title: 0x8007029f ERROR_PNP_BAD_MPS_TABLE in winerror.h
+description: A device is missing in the system BIOS MPS table. This device will not be used.
+Please contact your system vendor for system BIOS update.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007029f",
+  "codeUrl": "/win32/winerror-h/error_pnp_bad_mps_table/0x8007029f/",
+  "numericCode": 0,
+  "define": "ERROR_PNP_BAD_MPS_TABLE",
+  "defineUrl": "/win32/winerror-h/error_pnp_bad_mps_table/",
+  "message": "A device is missing in the system BIOS MPS table. This device will not be used.\r\nPlease contact your system vendor for system BIOS update.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "671",
+  "originalCodeUrl": "/win32/winerror-h/error_pnp_bad_mps_table/671/"
+}

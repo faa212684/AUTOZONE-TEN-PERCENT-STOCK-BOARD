@@ -1,0 +1,28 @@
+---
+output: win32\wuerror-h\wu_e_pt_endpoint_unreachable\0x80240438\index.html.json
+
+title: 0x80240438 WU_E_PT_ENDPOINT_UNREACHABLE in wuerror.h
+description: There is no route or network connectivity to the endpoint.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wuerror.h",
+  "sourceUrl": "/win32/wuerror-h/",
+  "code": "0x80240438",
+  "codeUrl": "/win32/wuerror-h/wu_e_pt_endpoint_unreachable/0x80240438/",
+  "numericCode": -2145123272,
+  "define": "WU_E_PT_ENDPOINT_UNREACHABLE",
+  "defineUrl": "/win32/wuerror-h/wu_e_pt_endpoint_unreachable/",
+  "message": "There is no route or network connectivity to the endpoint.",
+  "remarks": null,
+  "aka": [
+    "-2145123272"
+  ],
+  "akaUrl": [
+    "/win32/wuerror-h/wu_e_pt_endpoint_unreachable/-2145123272/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_cluster_invalid_string_termination\0x8007171c\index.html.json
+canonical: /win32/winerror-h/error_cluster_invalid_string_termination/5916/
+title: 0x8007171c ERROR_CLUSTER_INVALID_STRING_TERMINATION in winerror.h
+description: An input string of characters is not properly terminated.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007171c",
+  "codeUrl": "/win32/winerror-h/error_cluster_invalid_string_termination/0x8007171c/",
+  "numericCode": 0,
+  "define": "ERROR_CLUSTER_INVALID_STRING_TERMINATION",
+  "defineUrl": "/win32/winerror-h/error_cluster_invalid_string_termination/",
+  "message": "An input string of characters is not properly terminated.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "5916",
+  "originalCodeUrl": "/win32/winerror-h/error_cluster_invalid_string_termination/5916/"
+}

@@ -1,0 +1,29 @@
+---
+output: win32\ntstatus-h\status_resource_not_owned\0xc0000264\index.html.json
+
+title: 0xC0000264 STATUS_RESOURCE_NOT_OWNED in ntstatus.h
+description: "{Application Error}
+The application attempted to release a resource it did not own. Click OK to terminate the application."
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000264",
+  "codeUrl": "/win32/ntstatus-h/status_resource_not_owned/0xc0000264/",
+  "numericCode": -1073741212,
+  "define": "STATUS_RESOURCE_NOT_OWNED",
+  "defineUrl": "/win32/ntstatus-h/status_resource_not_owned/",
+  "message": "{Application Error}\r\nThe application attempted to release a resource it did not own. Click OK to terminate the application.",
+  "remarks": null,
+  "aka": [
+    "-1073741212"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_resource_not_owned/-1073741212/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

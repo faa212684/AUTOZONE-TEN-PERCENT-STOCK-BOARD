@@ -1,0 +1,28 @@
+---
+output: win32\oledberr-h\db_e_duplicatecolumnid\0x80040e3e\index.html.json
+
+title: 0x80040E3E DB_E_DUPLICATECOLUMNID in oledberr.h
+description: Column ID already exists or occurred more than once in the array of columns.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "oledberr.h",
+  "sourceUrl": "/win32/oledberr-h/",
+  "code": "0x80040E3E",
+  "codeUrl": "/win32/oledberr-h/db_e_duplicatecolumnid/0x80040e3e/",
+  "numericCode": -2147217858,
+  "define": "DB_E_DUPLICATECOLUMNID",
+  "defineUrl": "/win32/oledberr-h/db_e_duplicatecolumnid/",
+  "message": "Column ID already exists or occurred more than once in the array of columns.",
+  "remarks": null,
+  "aka": [
+    "-2147217858"
+  ],
+  "akaUrl": [
+    "/win32/oledberr-h/db_e_duplicatecolumnid/-2147217858/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

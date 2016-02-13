@@ -1,0 +1,28 @@
+---
+output: win32\wsmerror-h\error_wsman_schema_validation_error\0x80338041\index.html.json
+
+title: 0x80338041 ERROR_WSMAN_SCHEMA_VALIDATION_ERROR in wsmerror.h
+description: The SOAP XML in the message does not match the corresponding XML schema definition. Change the XML and retry.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x80338041",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_schema_validation_error/0x80338041/",
+  "numericCode": -2144108479,
+  "define": "ERROR_WSMAN_SCHEMA_VALIDATION_ERROR",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_schema_validation_error/",
+  "message": "The SOAP XML in the message does not match the corresponding XML schema definition. Change the XML and retry.",
+  "remarks": null,
+  "aka": [
+    "-2144108479"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_schema_validation_error/-2144108479/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

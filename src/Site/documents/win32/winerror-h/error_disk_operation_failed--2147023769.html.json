@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_disk_operation_failed\-2147023769\index.html.json
+canonical: /win32/winerror-h/error_disk_operation_failed/1127/
+title: -2147023769 ERROR_DISK_OPERATION_FAILED in winerror.h
+description: While accessing the hard disk, a disk operation failed even after retries.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147023769",
+  "codeUrl": "/win32/winerror-h/error_disk_operation_failed/-2147023769/",
+  "numericCode": 0,
+  "define": "ERROR_DISK_OPERATION_FAILED",
+  "defineUrl": "/win32/winerror-h/error_disk_operation_failed/",
+  "message": "While accessing the hard disk, a disk operation failed even after retries.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "1127",
+  "originalCodeUrl": "/win32/winerror-h/error_disk_operation_failed/1127/"
+}

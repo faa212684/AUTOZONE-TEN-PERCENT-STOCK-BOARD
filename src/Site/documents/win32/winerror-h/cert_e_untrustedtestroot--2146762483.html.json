@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\cert_e_untrustedtestroot\-2146762483\index.html.json
+canonical: /win32/winerror-h/cert_e_untrustedtestroot/0x800b010d/
+title: -2146762483 CERT_E_UNTRUSTEDTESTROOT in winerror.h
+description: The certification path terminates with the test root which is not trusted with the current policy settings.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2146762483",
+  "codeUrl": "/win32/winerror-h/cert_e_untrustedtestroot/-2146762483/",
+  "numericCode": 0,
+  "define": "CERT_E_UNTRUSTEDTESTROOT",
+  "defineUrl": "/win32/winerror-h/cert_e_untrustedtestroot/",
+  "message": "The certification path terminates with the test root which is not trusted with the current policy settings.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x800B010D",
+  "originalCodeUrl": "/win32/winerror-h/cert_e_untrustedtestroot/0x800b010d/"
+}

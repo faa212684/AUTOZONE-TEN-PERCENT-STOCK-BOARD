@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_circular_dependency\1059\index.html.json
+
+title: 1059 ERROR_CIRCULAR_DEPENDENCY in winerror.h
+description: Circular service dependency was specified.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1059",
+  "codeUrl": "/win32/winerror-h/error_circular_dependency/1059/",
+  "numericCode": 1059,
+  "define": "ERROR_CIRCULAR_DEPENDENCY",
+  "defineUrl": "/win32/winerror-h/error_circular_dependency/",
+  "message": "Circular service dependency was specified.",
+  "remarks": null,
+  "aka": [
+    "0x80070423",
+    "-2147023837"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_circular_dependency/0x80070423/",
+    "/win32/winerror-h/error_circular_dependency/-2147023837/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

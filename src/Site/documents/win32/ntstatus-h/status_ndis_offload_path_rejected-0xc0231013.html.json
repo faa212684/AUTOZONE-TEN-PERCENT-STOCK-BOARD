@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_ndis_offload_path_rejected\0xc0231013\index.html.json
+
+title: 0xC0231013 STATUS_NDIS_OFFLOAD_PATH_REJECTED in ntstatus.h
+description: The IP Path object is not in an offloadable state.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0231013",
+  "codeUrl": "/win32/ntstatus-h/status_ndis_offload_path_rejected/0xc0231013/",
+  "numericCode": -1071443949,
+  "define": "STATUS_NDIS_OFFLOAD_PATH_REJECTED",
+  "defineUrl": "/win32/ntstatus-h/status_ndis_offload_path_rejected/",
+  "message": "The IP Path object is not in an offloadable state.",
+  "remarks": null,
+  "aka": [
+    "-1071443949"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_ndis_offload_path_rejected/-1071443949/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\scarderr-h\scard_f_waited_too_long\0x80100007\index.html.json
+
+title: 0x80100007 SCARD_F_WAITED_TOO_LONG in SCardErr.h
+description: An internal consistency timer has expired.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "SCardErr.h",
+  "sourceUrl": "/win32/scarderr-h/",
+  "code": "0x80100007",
+  "codeUrl": "/win32/scarderr-h/scard_f_waited_too_long/0x80100007/",
+  "numericCode": -2146435065,
+  "define": "SCARD_F_WAITED_TOO_LONG",
+  "defineUrl": "/win32/scarderr-h/scard_f_waited_too_long/",
+  "message": "An internal consistency timer has expired.",
+  "remarks": null,
+  "aka": [
+    "-2146435065"
+  ],
+  "akaUrl": [
+    "/win32/scarderr-h/scard_f_waited_too_long/-2146435065/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

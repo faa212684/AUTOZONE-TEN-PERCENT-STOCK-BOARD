@@ -1,0 +1,28 @@
+---
+output: win32\ntiologc-h\io_dump_driver_load_failure\0xc004002d\index.html.json
+
+title: 0xC004002D IO_DUMP_DRIVER_LOAD_FAILURE in ntiologc.h
+description: The system could not sucessfully load the crash dump driver.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntiologc.h",
+  "sourceUrl": "/win32/ntiologc-h/",
+  "code": "0xC004002D",
+  "codeUrl": "/win32/ntiologc-h/io_dump_driver_load_failure/0xc004002d/",
+  "numericCode": -1073479635,
+  "define": "IO_DUMP_DRIVER_LOAD_FAILURE",
+  "defineUrl": "/win32/ntiologc-h/io_dump_driver_load_failure/",
+  "message": "The system could not sucessfully load the crash dump driver.",
+  "remarks": null,
+  "aka": [
+    "-1073479635"
+  ],
+  "akaUrl": [
+    "/win32/ntiologc-h/io_dump_driver_load_failure/-1073479635/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

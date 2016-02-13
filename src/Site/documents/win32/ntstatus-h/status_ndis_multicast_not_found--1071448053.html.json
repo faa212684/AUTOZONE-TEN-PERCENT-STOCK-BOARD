@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_ndis_multicast_not_found\-1071448053\index.html.json
+canonical: /win32/ntstatus-h/status_ndis_multicast_not_found/0xc023000b/
+title: -1071448053 STATUS_NDIS_MULTICAST_NOT_FOUND in ntstatus.h
+description: At attempt was made to remove a multicast address that was never added.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071448053",
+  "codeUrl": "/win32/ntstatus-h/status_ndis_multicast_not_found/-1071448053/",
+  "numericCode": 0,
+  "define": "STATUS_NDIS_MULTICAST_NOT_FOUND",
+  "defineUrl": "/win32/ntstatus-h/status_ndis_multicast_not_found/",
+  "message": "At attempt was made to remove a multicast address that was never added.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC023000B",
+  "originalCodeUrl": "/win32/ntstatus-h/status_ndis_multicast_not_found/0xc023000b/"
+}

@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\wpn_e_channel_closed\0x803e0100\index.html.json
+
+title: 0x803E0100 WPN_E_CHANNEL_CLOSED in winerror.h
+description: The notification channel has already been closed.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x803E0100",
+  "codeUrl": "/win32/winerror-h/wpn_e_channel_closed/0x803e0100/",
+  "numericCode": -2143420160,
+  "define": "WPN_E_CHANNEL_CLOSED",
+  "defineUrl": "/win32/winerror-h/wpn_e_channel_closed/",
+  "message": "The notification channel has already been closed.",
+  "remarks": null,
+  "aka": [
+    "-2143420160"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/wpn_e_channel_closed/-2143420160/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

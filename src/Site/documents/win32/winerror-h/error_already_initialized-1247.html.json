@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_already_initialized\1247\index.html.json
+
+title: 1247 ERROR_ALREADY_INITIALIZED in winerror.h
+description: An attempt was made to perform an initialization operation when initialization has already been completed.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1247",
+  "codeUrl": "/win32/winerror-h/error_already_initialized/1247/",
+  "numericCode": 1247,
+  "define": "ERROR_ALREADY_INITIALIZED",
+  "defineUrl": "/win32/winerror-h/error_already_initialized/",
+  "message": "An attempt was made to perform an initialization operation when initialization has already been completed.",
+  "remarks": null,
+  "aka": [
+    "0x800704df",
+    "-2147023649"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_already_initialized/0x800704df/",
+    "/win32/winerror-h/error_already_initialized/-2147023649/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

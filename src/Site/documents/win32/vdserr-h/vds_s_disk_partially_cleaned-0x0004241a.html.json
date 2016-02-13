@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_s_disk_partially_cleaned\0x0004241a\index.html.json
+
+title: 0x0004241A VDS_S_DISK_PARTIALLY_CLEANED in vdserr.h
+description: The disk is not fully cleaned due to I/O error.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x0004241A",
+  "codeUrl": "/win32/vdserr-h/vds_s_disk_partially_cleaned/0x0004241a/",
+  "numericCode": 271386,
+  "define": "VDS_S_DISK_PARTIALLY_CLEANED",
+  "defineUrl": "/win32/vdserr-h/vds_s_disk_partially_cleaned/",
+  "message": "The disk is not fully cleaned due to I/O error.",
+  "remarks": null,
+  "aka": [
+    "271386"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_s_disk_partially_cleaned/271386/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

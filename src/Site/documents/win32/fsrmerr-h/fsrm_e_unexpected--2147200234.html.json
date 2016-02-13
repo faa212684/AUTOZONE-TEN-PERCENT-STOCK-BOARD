@@ -1,0 +1,25 @@
+---
+output: win32\fsrmerr-h\fsrm_e_unexpected\-2147200234\index.html.json
+canonical: /win32/fsrmerr-h/fsrm_e_unexpected/0x80045316/
+title: -2147200234 FSRM_E_UNEXPECTED in fsrmerr.h
+description: The File Server Resource Manager service encountered an unexpected error.
+Check the application event log for more information.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "fsrmerr.h",
+  "sourceUrl": "/win32/fsrmerr-h/",
+  "code": "-2147200234",
+  "codeUrl": "/win32/fsrmerr-h/fsrm_e_unexpected/-2147200234/",
+  "numericCode": 0,
+  "define": "FSRM_E_UNEXPECTED",
+  "defineUrl": "/win32/fsrmerr-h/fsrm_e_unexpected/",
+  "message": "The File Server Resource Manager service encountered an unexpected error.\r\nCheck the application event log for more information.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80045316",
+  "originalCodeUrl": "/win32/fsrmerr-h/fsrm_e_unexpected/0x80045316/"
+}

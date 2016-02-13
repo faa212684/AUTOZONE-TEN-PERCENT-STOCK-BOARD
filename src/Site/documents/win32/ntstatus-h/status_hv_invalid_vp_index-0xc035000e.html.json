@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_hv_invalid_vp_index\0xc035000e\index.html.json
+
+title: 0xC035000E STATUS_HV_INVALID_VP_INDEX in ntstatus.h
+description: The hypervisor could not perform the operation because the specified VP index is invalid.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC035000E",
+  "codeUrl": "/win32/ntstatus-h/status_hv_invalid_vp_index/0xc035000e/",
+  "numericCode": -1070268402,
+  "define": "STATUS_HV_INVALID_VP_INDEX",
+  "defineUrl": "/win32/ntstatus-h/status_hv_invalid_vp_index/",
+  "message": "The hypervisor could not perform the operation because the specified VP index is invalid.",
+  "remarks": null,
+  "aka": [
+    "-1070268402"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_hv_invalid_vp_index/-1070268402/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

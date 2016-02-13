@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\e_elevated_activation_not_supported\-2144927151\index.html.json
+canonical: /win32/winerror-h/e_elevated_activation_not_supported/0x80270251/
+title: -2144927151 E_ELEVATED_ACTIVATION_NOT_SUPPORTED in winerror.h
+description: This app can't be activated from an elevated context.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2144927151",
+  "codeUrl": "/win32/winerror-h/e_elevated_activation_not_supported/-2144927151/",
+  "numericCode": 0,
+  "define": "E_ELEVATED_ACTIVATION_NOT_SUPPORTED",
+  "defineUrl": "/win32/winerror-h/e_elevated_activation_not_supported/",
+  "message": "This app can't be activated from an elevated context.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80270251",
+  "originalCodeUrl": "/win32/winerror-h/e_elevated_activation_not_supported/0x80270251/"
+}

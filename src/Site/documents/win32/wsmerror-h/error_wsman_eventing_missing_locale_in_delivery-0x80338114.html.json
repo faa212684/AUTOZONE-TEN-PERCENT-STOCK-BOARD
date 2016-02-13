@@ -1,0 +1,28 @@
+---
+output: win32\wsmerror-h\error_wsman_eventing_missing_locale_in_delivery\0x80338114\index.html.json
+
+title: 0x80338114 ERROR_WSMAN_EVENTING_MISSING_LOCALE_IN_DELIVERY in wsmerror.h
+description: The subscribe packet had a Locale element with missing lang attribute. The lang attribute is required for the Locale element.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x80338114",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_eventing_missing_locale_in_delivery/0x80338114/",
+  "numericCode": -2144108268,
+  "define": "ERROR_WSMAN_EVENTING_MISSING_LOCALE_IN_DELIVERY",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_eventing_missing_locale_in_delivery/",
+  "message": "The subscribe packet had a Locale element with missing lang attribute. The lang attribute is required for the Locale element.",
+  "remarks": null,
+  "aka": [
+    "-2144108268"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_eventing_missing_locale_in_delivery/-2144108268/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

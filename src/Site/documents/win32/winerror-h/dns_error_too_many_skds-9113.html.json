@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\dns_error_too_many_skds\9113\index.html.json
+
+title: 9113 DNS_ERROR_TOO_MANY_SKDS in winerror.h
+description: The DNS server cannot accept any more signing keys with the specified algorithm and KSK flag value for this zone.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "9113",
+  "codeUrl": "/win32/winerror-h/dns_error_too_many_skds/9113/",
+  "numericCode": 9113,
+  "define": "DNS_ERROR_TOO_MANY_SKDS",
+  "defineUrl": "/win32/winerror-h/dns_error_too_many_skds/",
+  "message": "The DNS server cannot accept any more signing keys with the specified algorithm and KSK flag value for this zone.",
+  "remarks": null,
+  "aka": [
+    "0x80072399",
+    "-2147015783"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/dns_error_too_many_skds/0x80072399/",
+    "/win32/winerror-h/dns_error_too_many_skds/-2147015783/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

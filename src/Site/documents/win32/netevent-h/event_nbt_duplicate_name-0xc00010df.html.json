@@ -1,0 +1,30 @@
+---
+output: win32\netevent-h\event_nbt_duplicate_name\0xc00010df\index.html.json
+
+title: 0xC00010DF EVENT_NBT_DUPLICATE_NAME in netevent.h
+description: A duplicate name has been detected on the TCP network.  The IP address of
+the computer that sent the message is in the data. Use nbtstat -n in a
+command window to see which name is in the Conflict state.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC00010DF",
+  "codeUrl": "/win32/netevent-h/event_nbt_duplicate_name/0xc00010df/",
+  "numericCode": -1073737505,
+  "define": "EVENT_NBT_DUPLICATE_NAME",
+  "defineUrl": "/win32/netevent-h/event_nbt_duplicate_name/",
+  "message": "A duplicate name has been detected on the TCP network.  The IP address of\r\nthe computer that sent the message is in the data. Use nbtstat -n in a\r\ncommand window to see which name is in the Conflict state.",
+  "remarks": null,
+  "aka": [
+    "-1073737505"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_nbt_duplicate_name/-1073737505/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_cluster_no_quorum\5925\index.html.json
+
+title: 5925 ERROR_CLUSTER_NO_QUORUM in winerror.h
+description: A quorum of cluster nodes was not present to form a cluster.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "5925",
+  "codeUrl": "/win32/winerror-h/error_cluster_no_quorum/5925/",
+  "numericCode": 5925,
+  "define": "ERROR_CLUSTER_NO_QUORUM",
+  "defineUrl": "/win32/winerror-h/error_cluster_no_quorum/",
+  "message": "A quorum of cluster nodes was not present to form a cluster.",
+  "remarks": null,
+  "aka": [
+    "0x80071725",
+    "-2147018971"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_cluster_no_quorum/0x80071725/",
+    "/win32/winerror-h/error_cluster_no_quorum/-2147018971/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

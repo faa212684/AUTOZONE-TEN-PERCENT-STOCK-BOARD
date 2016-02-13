@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_invalid_ldt_size\0x80070231\index.html.json
+canonical: /win32/winerror-h/error_invalid_ldt_size/561/
+title: 0x80070231 ERROR_INVALID_LDT_SIZE in winerror.h
+description: Indicates that an attempt was made to grow an LDT by setting its size, or that the size was not an even number of selectors.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80070231",
+  "codeUrl": "/win32/winerror-h/error_invalid_ldt_size/0x80070231/",
+  "numericCode": 0,
+  "define": "ERROR_INVALID_LDT_SIZE",
+  "defineUrl": "/win32/winerror-h/error_invalid_ldt_size/",
+  "message": "Indicates that an attempt was made to grow an LDT by setting its size, or that the size was not an even number of selectors.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "561",
+  "originalCodeUrl": "/win32/winerror-h/error_invalid_ldt_size/561/"
+}

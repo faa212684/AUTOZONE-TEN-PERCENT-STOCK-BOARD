@@ -1,0 +1,29 @@
+---
+output: win32\netevent-h\event_eqos_error_user_policy_keyname_size_zero\0xc0004143\index.html.json
+
+title: 0xC0004143 EVENT_EQOS_ERROR_USER_POLICY_KEYNAME_SIZE_ZERO in netevent.h
+description: A user QoS policy has a zero length name. 
+The offending policy is listed under the user-level QoS policy root key, with index %2.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC0004143",
+  "codeUrl": "/win32/netevent-h/event_eqos_error_user_policy_keyname_size_zero/0xc0004143/",
+  "numericCode": -1073725117,
+  "define": "EVENT_EQOS_ERROR_USER_POLICY_KEYNAME_SIZE_ZERO",
+  "defineUrl": "/win32/netevent-h/event_eqos_error_user_policy_keyname_size_zero/",
+  "message": "A user QoS policy has a zero length name. \r\nThe offending policy is listed under the user-level QoS policy root key, with index %2.",
+  "remarks": null,
+  "aka": [
+    "-1073725117"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_eqos_error_user_policy_keyname_size_zero/-1073725117/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

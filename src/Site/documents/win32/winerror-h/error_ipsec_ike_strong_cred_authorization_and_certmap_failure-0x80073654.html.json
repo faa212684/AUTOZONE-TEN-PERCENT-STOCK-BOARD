@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_ipsec_ike_strong_cred_authorization_and_certmap_failure\0x80073654\index.html.json
+canonical: /win32/winerror-h/error_ipsec_ike_strong_cred_authorization_and_certmap_failure/13908/
+title: 0x80073654 ERROR_IPSEC_IKE_STRONG_CRED_AUTHORIZATION_AND_CERTMAP_FAILURE in winerror.h
+description: SA establishment is not authorized because there is not a sufficiently strong PKINIT-based credential. This might be related to certificate-to-account mapping failure for the SA.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80073654",
+  "codeUrl": "/win32/winerror-h/error_ipsec_ike_strong_cred_authorization_and_certmap_failure/0x80073654/",
+  "numericCode": 0,
+  "define": "ERROR_IPSEC_IKE_STRONG_CRED_AUTHORIZATION_AND_CERTMAP_FAILURE",
+  "defineUrl": "/win32/winerror-h/error_ipsec_ike_strong_cred_authorization_and_certmap_failure/",
+  "message": "SA establishment is not authorized because there is not a sufficiently strong PKINIT-based credential. This might be related to certificate-to-account mapping failure for the SA.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "13908",
+  "originalCodeUrl": "/win32/winerror-h/error_ipsec_ike_strong_cred_authorization_and_certmap_failure/13908/"
+}

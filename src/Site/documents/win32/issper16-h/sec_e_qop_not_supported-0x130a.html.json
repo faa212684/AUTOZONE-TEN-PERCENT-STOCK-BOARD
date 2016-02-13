@@ -1,0 +1,29 @@
+---
+output: win32\issper16-h\sec_e_qop_not_supported\0x130a\index.html.json
+
+title: 0x130A SEC_E_QOP_NOT_SUPPORTED in IssPer16.h
+description: The per-message Quality of Protection is not supported by the
+security package
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "IssPer16.h",
+  "sourceUrl": "/win32/issper16-h/",
+  "code": "0x130A",
+  "codeUrl": "/win32/issper16-h/sec_e_qop_not_supported/0x130a/",
+  "numericCode": 4874,
+  "define": "SEC_E_QOP_NOT_SUPPORTED",
+  "defineUrl": "/win32/issper16-h/sec_e_qop_not_supported/",
+  "message": "The per-message Quality of Protection is not supported by the\r\nsecurity package",
+  "remarks": null,
+  "aka": [
+    "4874"
+  ],
+  "akaUrl": [
+    "/win32/issper16-h/sec_e_qop_not_supported/4874/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

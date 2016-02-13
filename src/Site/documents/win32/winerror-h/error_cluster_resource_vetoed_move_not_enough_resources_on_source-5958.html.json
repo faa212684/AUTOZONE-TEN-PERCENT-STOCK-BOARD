@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_cluster_resource_vetoed_move_not_enough_resources_on_source\5958\index.html.json
+
+title: 5958 ERROR_CLUSTER_RESOURCE_VETOED_MOVE_NOT_ENOUGH_RESOURCES_ON_SOURCE in winerror.h
+description: A resource vetoed a move between two nodes because the source currently does not have enough resources to complete the operation.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "5958",
+  "codeUrl": "/win32/winerror-h/error_cluster_resource_vetoed_move_not_enough_resources_on_source/5958/",
+  "numericCode": 5958,
+  "define": "ERROR_CLUSTER_RESOURCE_VETOED_MOVE_NOT_ENOUGH_RESOURCES_ON_SOURCE",
+  "defineUrl": "/win32/winerror-h/error_cluster_resource_vetoed_move_not_enough_resources_on_source/",
+  "message": "A resource vetoed a move between two nodes because the source currently does not have enough resources to complete the operation.",
+  "remarks": null,
+  "aka": [
+    "0x80071746",
+    "-2147018938"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_cluster_resource_vetoed_move_not_enough_resources_on_source/0x80071746/",
+    "/win32/winerror-h/error_cluster_resource_vetoed_move_not_enough_resources_on_source/-2147018938/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

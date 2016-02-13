@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_app_data_corrupt\0xc000a283\index.html.json
+
+title: 0xC000A283 STATUS_APP_DATA_CORRUPT in ntstatus.h
+description: Fast Cache data corrupt.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000A283",
+  "codeUrl": "/win32/ntstatus-h/status_app_data_corrupt/0xc000a283/",
+  "numericCode": -1073700221,
+  "define": "STATUS_APP_DATA_CORRUPT",
+  "defineUrl": "/win32/ntstatus-h/status_app_data_corrupt/",
+  "message": "Fast Cache data corrupt.",
+  "remarks": null,
+  "aka": [
+    "-1073700221"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_app_data_corrupt/-1073700221/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

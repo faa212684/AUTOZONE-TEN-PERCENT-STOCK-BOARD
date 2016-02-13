@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ds_cant_delete_dsa_obj\8340\index.html.json
+
+title: 8340 ERROR_DS_CANT_DELETE_DSA_OBJ in winerror.h
+description: The DSA object cannot be deleted.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "8340",
+  "codeUrl": "/win32/winerror-h/error_ds_cant_delete_dsa_obj/8340/",
+  "numericCode": 8340,
+  "define": "ERROR_DS_CANT_DELETE_DSA_OBJ",
+  "defineUrl": "/win32/winerror-h/error_ds_cant_delete_dsa_obj/",
+  "message": "The DSA object cannot be deleted.",
+  "remarks": null,
+  "aka": [
+    "0x80072094",
+    "-2147016556"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ds_cant_delete_dsa_obj/0x80072094/",
+    "/win32/winerror-h/error_ds_cant_delete_dsa_obj/-2147016556/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

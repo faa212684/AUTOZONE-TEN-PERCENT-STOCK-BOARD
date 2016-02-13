@@ -1,0 +1,29 @@
+---
+output: win32\netevent-h\event_bowser_illegal_datagram_threshold\0xc0001f50\index.html.json
+
+title: 0xC0001F50 EVENT_BOWSER_ILLEGAL_DATAGRAM_THRESHOLD in netevent.h
+description: The browser driver has received too many illegal datagrams from the remote computer %2 to name %3 on transport %4.  The data is the datagram.
+No more events will be generated until the reset frequency has expired.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC0001F50",
+  "codeUrl": "/win32/netevent-h/event_bowser_illegal_datagram_threshold/0xc0001f50/",
+  "numericCode": -1073733808,
+  "define": "EVENT_BOWSER_ILLEGAL_DATAGRAM_THRESHOLD",
+  "defineUrl": "/win32/netevent-h/event_bowser_illegal_datagram_threshold/",
+  "message": "The browser driver has received too many illegal datagrams from the remote computer %2 to name %3 on transport %4.  The data is the datagram.\r\nNo more events will be generated until the reset frequency has expired.",
+  "remarks": null,
+  "aka": [
+    "-1073733808"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_bowser_illegal_datagram_threshold/-1073733808/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

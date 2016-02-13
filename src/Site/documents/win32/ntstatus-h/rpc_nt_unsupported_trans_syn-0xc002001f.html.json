@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\rpc_nt_unsupported_trans_syn\0xc002001f\index.html.json
+
+title: 0xC002001F RPC_NT_UNSUPPORTED_TRANS_SYN in ntstatus.h
+description: The transfer syntax is not supported by the RPC server.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC002001F",
+  "codeUrl": "/win32/ntstatus-h/rpc_nt_unsupported_trans_syn/0xc002001f/",
+  "numericCode": -1073610721,
+  "define": "RPC_NT_UNSUPPORTED_TRANS_SYN",
+  "defineUrl": "/win32/ntstatus-h/rpc_nt_unsupported_trans_syn/",
+  "message": "The transfer syntax is not supported by the RPC server.",
+  "remarks": null,
+  "aka": [
+    "-1073610721"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/rpc_nt_unsupported_trans_syn/-1073610721/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

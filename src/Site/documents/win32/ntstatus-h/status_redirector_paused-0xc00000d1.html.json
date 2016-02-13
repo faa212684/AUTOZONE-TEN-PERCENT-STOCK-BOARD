@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_redirector_paused\0xc00000d1\index.html.json
+
+title: 0xC00000D1 STATUS_REDIRECTOR_PAUSED in ntstatus.h
+description: Print or disk redirection is temporarily paused.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC00000D1",
+  "codeUrl": "/win32/ntstatus-h/status_redirector_paused/0xc00000d1/",
+  "numericCode": -1073741615,
+  "define": "STATUS_REDIRECTOR_PAUSED",
+  "defineUrl": "/win32/ntstatus-h/status_redirector_paused/",
+  "message": "Print or disk redirection is temporarily paused.",
+  "remarks": null,
+  "aka": [
+    "-1073741615"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_redirector_paused/-1073741615/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

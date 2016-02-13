@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\rpc_nt_no_protseqs_registered\0xc002000f\index.html.json
+
+title: 0xC002000F RPC_NT_NO_PROTSEQS_REGISTERED in ntstatus.h
+description: No protocol sequences have been registered.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC002000F",
+  "codeUrl": "/win32/ntstatus-h/rpc_nt_no_protseqs_registered/0xc002000f/",
+  "numericCode": -1073610737,
+  "define": "RPC_NT_NO_PROTSEQS_REGISTERED",
+  "defineUrl": "/win32/ntstatus-h/rpc_nt_no_protseqs_registered/",
+  "message": "No protocol sequences have been registered.",
+  "remarks": null,
+  "aka": [
+    "-1073610737"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/rpc_nt_no_protseqs_registered/-1073610737/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

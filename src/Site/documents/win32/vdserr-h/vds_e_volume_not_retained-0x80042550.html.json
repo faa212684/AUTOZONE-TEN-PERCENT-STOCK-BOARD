@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_e_volume_not_retained\0x80042550\index.html.json
+
+title: 0x80042550 VDS_E_VOLUME_NOT_RETAINED in vdserr.h
+description: The volume does not have a retained partition association.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x80042550",
+  "codeUrl": "/win32/vdserr-h/vds_e_volume_not_retained/0x80042550/",
+  "numericCode": -2147211952,
+  "define": "VDS_E_VOLUME_NOT_RETAINED",
+  "defineUrl": "/win32/vdserr-h/vds_e_volume_not_retained/",
+  "message": "The volume does not have a retained partition association.",
+  "remarks": null,
+  "aka": [
+    "-2147211952"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_volume_not_retained/-2147211952/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

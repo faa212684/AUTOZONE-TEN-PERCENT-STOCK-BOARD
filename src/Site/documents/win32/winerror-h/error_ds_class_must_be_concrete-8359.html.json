@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ds_class_must_be_concrete\8359\index.html.json
+
+title: 8359 ERROR_DS_CLASS_MUST_BE_CONCRETE in winerror.h
+description: The class of the object must be structural; you cannot instantiate an abstract class.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "8359",
+  "codeUrl": "/win32/winerror-h/error_ds_class_must_be_concrete/8359/",
+  "numericCode": 8359,
+  "define": "ERROR_DS_CLASS_MUST_BE_CONCRETE",
+  "defineUrl": "/win32/winerror-h/error_ds_class_must_be_concrete/",
+  "message": "The class of the object must be structural; you cannot instantiate an abstract class.",
+  "remarks": null,
+  "aka": [
+    "0x800720a7",
+    "-2147016537"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ds_class_must_be_concrete/0x800720a7/",
+    "/win32/winerror-h/error_ds_class_must_be_concrete/-2147016537/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

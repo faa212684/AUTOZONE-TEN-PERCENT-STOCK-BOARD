@@ -1,0 +1,25 @@
+---
+output: win32\winerror-h\error_com_task_stop_pending\-2147009395\index.html.json
+canonical: /win32/winerror-h/error_com_task_stop_pending/15501/
+title: -2147009395 ERROR_COM_TASK_STOP_PENDING in winerror.h
+description: The task stop request cannot be completed immediately since
+task needs more time to shutdown.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147009395",
+  "codeUrl": "/win32/winerror-h/error_com_task_stop_pending/-2147009395/",
+  "numericCode": 0,
+  "define": "ERROR_COM_TASK_STOP_PENDING",
+  "defineUrl": "/win32/winerror-h/error_com_task_stop_pending/",
+  "message": "The task stop request cannot be completed immediately since\r\ntask needs more time to shutdown.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "15501",
+  "originalCodeUrl": "/win32/winerror-h/error_com_task_stop_pending/15501/"
+}

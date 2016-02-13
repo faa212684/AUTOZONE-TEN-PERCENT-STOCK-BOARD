@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_corrupt_log_corrupted\0xc000080a\index.html.json
+
+title: 0xC000080A STATUS_CORRUPT_LOG_CORRUPTED in ntstatus.h
+description: One of the volume corruption logs is internally corrupted and needs to be recreated. The volume may contain undetected corruptions and must be scanned.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000080A",
+  "codeUrl": "/win32/ntstatus-h/status_corrupt_log_corrupted/0xc000080a/",
+  "numericCode": -1073739766,
+  "define": "STATUS_CORRUPT_LOG_CORRUPTED",
+  "defineUrl": "/win32/ntstatus-h/status_corrupt_log_corrupted/",
+  "message": "One of the volume corruption logs is internally corrupted and needs to be recreated. The volume may contain undetected corruptions and must be scanned.",
+  "remarks": null,
+  "aka": [
+    "-1073739766"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_corrupt_log_corrupted/-1073739766/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

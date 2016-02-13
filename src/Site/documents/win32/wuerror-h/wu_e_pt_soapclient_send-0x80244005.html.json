@@ -1,0 +1,28 @@
+---
+output: win32\wuerror-h\wu_e_pt_soapclient_send\0x80244005\index.html.json
+
+title: 0x80244005 WU_E_PT_SOAPCLIENT_SEND in wuerror.h
+description: Same as SOAPCLIENT_SEND_ERROR - SOAP client failed to send a message for reasons of WU_E_WINHTTP_* error codes.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wuerror.h",
+  "sourceUrl": "/win32/wuerror-h/",
+  "code": "0x80244005",
+  "codeUrl": "/win32/wuerror-h/wu_e_pt_soapclient_send/0x80244005/",
+  "numericCode": -2145107963,
+  "define": "WU_E_PT_SOAPCLIENT_SEND",
+  "defineUrl": "/win32/wuerror-h/wu_e_pt_soapclient_send/",
+  "message": "Same as SOAPCLIENT_SEND_ERROR - SOAP client failed to send a message for reasons of WU_E_WINHTTP_* error codes.",
+  "remarks": null,
+  "aka": [
+    "-2145107963"
+  ],
+  "akaUrl": [
+    "/win32/wuerror-h/wu_e_pt_soapclient_send/-2145107963/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

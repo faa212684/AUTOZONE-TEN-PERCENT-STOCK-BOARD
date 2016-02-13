@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_eventlog_cant_start\-1073741425\index.html.json
+canonical: /win32/ntstatus-h/status_eventlog_cant_start/0xc000018f/
+title: -1073741425 STATUS_EVENTLOG_CANT_START in ntstatus.h
+description: No Eventlog log file could be opened. The Eventlog service did not start.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741425",
+  "codeUrl": "/win32/ntstatus-h/status_eventlog_cant_start/-1073741425/",
+  "numericCode": 0,
+  "define": "STATUS_EVENTLOG_CANT_START",
+  "defineUrl": "/win32/ntstatus-h/status_eventlog_cant_start/",
+  "message": "No Eventlog log file could be opened. The Eventlog service did not start.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC000018F",
+  "originalCodeUrl": "/win32/ntstatus-h/status_eventlog_cant_start/0xc000018f/"
+}

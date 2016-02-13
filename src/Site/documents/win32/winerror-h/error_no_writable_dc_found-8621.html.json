@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_no_writable_dc_found\8621\index.html.json
+
+title: 8621 ERROR_NO_WRITABLE_DC_FOUND in winerror.h
+description: Could not find a writable domain controller in the domain.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "8621",
+  "codeUrl": "/win32/winerror-h/error_no_writable_dc_found/8621/",
+  "numericCode": 8621,
+  "define": "ERROR_NO_WRITABLE_DC_FOUND",
+  "defineUrl": "/win32/winerror-h/error_no_writable_dc_found/",
+  "message": "Could not find a writable domain controller in the domain.",
+  "remarks": null,
+  "aka": [
+    "0x800721ad",
+    "-2147016275"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_no_writable_dc_found/0x800721ad/",
+    "/win32/winerror-h/error_no_writable_dc_found/-2147016275/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

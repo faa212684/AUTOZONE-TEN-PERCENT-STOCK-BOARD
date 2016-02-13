@@ -1,0 +1,29 @@
+---
+output: win32\vdserr-h\vds_e_associated_luns_exist\0x8004270b\index.html.json
+
+title: 0x8004270B VDS_E_ASSOCIATED_LUNS_EXIST in vdserr.h
+description: LUNs are associated with the specified target and must first be 
+deassociated before the target can be deleted.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x8004270B",
+  "codeUrl": "/win32/vdserr-h/vds_e_associated_luns_exist/0x8004270b/",
+  "numericCode": -2147211509,
+  "define": "VDS_E_ASSOCIATED_LUNS_EXIST",
+  "defineUrl": "/win32/vdserr-h/vds_e_associated_luns_exist/",
+  "message": "LUNs are associated with the specified target and must first be \r\ndeassociated before the target can be deleted.",
+  "remarks": null,
+  "aka": [
+    "-2147211509"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_associated_luns_exist/-2147211509/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

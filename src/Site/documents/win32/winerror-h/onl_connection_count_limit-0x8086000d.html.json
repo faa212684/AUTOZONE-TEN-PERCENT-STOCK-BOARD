@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\onl_connection_count_limit\0x8086000d\index.html.json
+
+title: 0x8086000D ONL_CONNECTION_COUNT_LIMIT in winerror.h
+description: User has reached the maximum device associations per user limit.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8086000D",
+  "codeUrl": "/win32/winerror-h/onl_connection_count_limit/0x8086000d/",
+  "numericCode": -2138701811,
+  "define": "ONL_CONNECTION_COUNT_LIMIT",
+  "defineUrl": "/win32/winerror-h/onl_connection_count_limit/",
+  "message": "User has reached the maximum device associations per user limit.",
+  "remarks": null,
+  "aka": [
+    "-2138701811"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/onl_connection_count_limit/-2138701811/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

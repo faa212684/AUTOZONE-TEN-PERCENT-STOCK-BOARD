@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ipsec_ike_sa_reaped\13808\index.html.json
+
+title: 13808 ERROR_IPSEC_IKE_SA_REAPED in winerror.h
+description: IKE SA deleted before establishment completed
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "13808",
+  "codeUrl": "/win32/winerror-h/error_ipsec_ike_sa_reaped/13808/",
+  "numericCode": 13808,
+  "define": "ERROR_IPSEC_IKE_SA_REAPED",
+  "defineUrl": "/win32/winerror-h/error_ipsec_ike_sa_reaped/",
+  "message": "IKE SA deleted before establishment completed",
+  "remarks": null,
+  "aka": [
+    "0x800735f0",
+    "-2147011088"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ipsec_ike_sa_reaped/0x800735f0/",
+    "/win32/winerror-h/error_ipsec_ike_sa_reaped/-2147011088/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

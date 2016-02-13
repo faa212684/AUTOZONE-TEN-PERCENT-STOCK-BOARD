@@ -1,0 +1,28 @@
+---
+output: bugcheck\bugcodes-h\create_delete_lock_not_locked\0x00000014\index.html.json
+
+title: 0x00000014 CREATE_DELETE_LOCK_NOT_LOCKED in bugcodes.h
+description: CREATE_DELETE_LOCK_NOT_LOCKED
+disqus: true
+---
+{
+  "area": "bugcheck",
+  "areaUrl": "/bugcheck/",
+  "source": "bugcodes.h",
+  "sourceUrl": "/bugcheck/bugcodes-h/",
+  "code": "0x00000014",
+  "codeUrl": "/bugcheck/bugcodes-h/create_delete_lock_not_locked/0x00000014/",
+  "numericCode": 20,
+  "define": "CREATE_DELETE_LOCK_NOT_LOCKED",
+  "defineUrl": "/bugcheck/bugcodes-h/create_delete_lock_not_locked/",
+  "message": "CREATE_DELETE_LOCK_NOT_LOCKED",
+  "remarks": null,
+  "aka": [
+    "20"
+  ],
+  "akaUrl": [
+    "/bugcheck/bugcodes-h/create_delete_lock_not_locked/20/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

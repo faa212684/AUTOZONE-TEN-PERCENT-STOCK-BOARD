@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_volmgr_extent_not_in_public_region\0xc038001c\index.html.json
+
+title: 0xC038001C STATUS_VOLMGR_EXTENT_NOT_IN_PUBLIC_REGION in ntstatus.h
+description: The specified volume extent is not within the public region of the disk.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC038001C",
+  "codeUrl": "/win32/ntstatus-h/status_volmgr_extent_not_in_public_region/0xc038001c/",
+  "numericCode": -1070071780,
+  "define": "STATUS_VOLMGR_EXTENT_NOT_IN_PUBLIC_REGION",
+  "defineUrl": "/win32/ntstatus-h/status_volmgr_extent_not_in_public_region/",
+  "message": "The specified volume extent is not within the public region of the disk.",
+  "remarks": null,
+  "aka": [
+    "-1070071780"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_volmgr_extent_not_in_public_region/-1070071780/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

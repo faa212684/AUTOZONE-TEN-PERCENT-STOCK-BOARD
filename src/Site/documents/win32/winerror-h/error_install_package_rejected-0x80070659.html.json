@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_install_package_rejected\0x80070659\index.html.json
+canonical: /win32/winerror-h/error_install_package_rejected/1625/
+title: 0x80070659 ERROR_INSTALL_PACKAGE_REJECTED in winerror.h
+description: This installation is forbidden by system policy. Contact your system administrator.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80070659",
+  "codeUrl": "/win32/winerror-h/error_install_package_rejected/0x80070659/",
+  "numericCode": 0,
+  "define": "ERROR_INSTALL_PACKAGE_REJECTED",
+  "defineUrl": "/win32/winerror-h/error_install_package_rejected/",
+  "message": "This installation is forbidden by system policy. Contact your system administrator.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "1625",
+  "originalCodeUrl": "/win32/winerror-h/error_install_package_rejected/1625/"
+}

@@ -1,0 +1,25 @@
+---
+output: win32\ntstatus-h\status_no_inheritance\-2147483637\index.html.json
+canonical: /win32/ntstatus-h/status_no_inheritance/0x8000000b/
+title: -2147483637 STATUS_NO_INHERITANCE in ntstatus.h
+description: "{Non-Inheritable ACL}
+An access control list (ACL) contains no components that can be inherited."
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-2147483637",
+  "codeUrl": "/win32/ntstatus-h/status_no_inheritance/-2147483637/",
+  "numericCode": 0,
+  "define": "STATUS_NO_INHERITANCE",
+  "defineUrl": "/win32/ntstatus-h/status_no_inheritance/",
+  "message": "{Non-Inheritable ACL}\r\nAn access control list (ACL) contains no components that can be inherited.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x8000000B",
+  "originalCodeUrl": "/win32/ntstatus-h/status_no_inheritance/0x8000000b/"
+}

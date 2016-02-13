@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_envvar_not_found\203\index.html.json
+
+title: 203 ERROR_ENVVAR_NOT_FOUND in winerror.h
+description: The system could not find the environment option that was entered.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "203",
+  "codeUrl": "/win32/winerror-h/error_envvar_not_found/203/",
+  "numericCode": 203,
+  "define": "ERROR_ENVVAR_NOT_FOUND",
+  "defineUrl": "/win32/winerror-h/error_envvar_not_found/",
+  "message": "The system could not find the environment option that was entered.",
+  "remarks": null,
+  "aka": [
+    "0x800700cb",
+    "-2147024693"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_envvar_not_found/0x800700cb/",
+    "/win32/winerror-h/error_envvar_not_found/-2147024693/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

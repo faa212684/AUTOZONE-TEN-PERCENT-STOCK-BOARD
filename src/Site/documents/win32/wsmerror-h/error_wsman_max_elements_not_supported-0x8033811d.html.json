@@ -1,0 +1,29 @@
+---
+output: win32\wsmerror-h\error_wsman_max_elements_not_supported\0x8033811d\index.html.json
+
+title: 0x8033811D ERROR_WSMAN_MAX_ELEMENTS_NOT_SUPPORTED in wsmerror.h
+description: The WS-Management service received a request which specified a maximum number of elements, but the service does not support this feature.
+Retry the request without this element specified.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x8033811D",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_max_elements_not_supported/0x8033811d/",
+  "numericCode": -2144108259,
+  "define": "ERROR_WSMAN_MAX_ELEMENTS_NOT_SUPPORTED",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_max_elements_not_supported/",
+  "message": "The WS-Management service received a request which specified a maximum number of elements, but the service does not support this feature.\r\nRetry the request without this element specified.",
+  "remarks": null,
+  "aka": [
+    "-2144108259"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_max_elements_not_supported/-2144108259/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_fs_driver_required\588\index.html.json
+
+title: 588 ERROR_FS_DRIVER_REQUIRED in winerror.h
+description: A volume has been accessed for which a file system driver is required that has not yet been loaded.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "588",
+  "codeUrl": "/win32/winerror-h/error_fs_driver_required/588/",
+  "numericCode": 588,
+  "define": "ERROR_FS_DRIVER_REQUIRED",
+  "defineUrl": "/win32/winerror-h/error_fs_driver_required/",
+  "message": "A volume has been accessed for which a file system driver is required that has not yet been loaded.",
+  "remarks": null,
+  "aka": [
+    "0x8007024c",
+    "-2147024308"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_fs_driver_required/0x8007024c/",
+    "/win32/winerror-h/error_fs_driver_required/-2147024308/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

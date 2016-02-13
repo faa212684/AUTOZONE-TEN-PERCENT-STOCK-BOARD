@@ -1,0 +1,28 @@
+---
+output: win32\windowssearcherrors-h\event_gather_disk_full\0x80000bee\index.html.json
+
+title: 0x80000BEE EVENT_GATHER_DISK_FULL in WindowsSearchErrors.h
+description: The update has been delayed because a disk is full. Check the system default temp location and the drive on which search catalog is created. The system default temp location is used for creation of temporary files during crawling. If it is full, crawling pauses. If the system default temp location is full, change the location to a disk with more free space and restart the computer. Changes to the system temp location do not take effect for system services until the computer is restarted.%1
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "0x80000BEE",
+  "codeUrl": "/win32/windowssearcherrors-h/event_gather_disk_full/0x80000bee/",
+  "numericCode": -2147480594,
+  "define": "EVENT_GATHER_DISK_FULL",
+  "defineUrl": "/win32/windowssearcherrors-h/event_gather_disk_full/",
+  "message": "The update has been delayed because a disk is full. Check the system default temp location and the drive on which search catalog is created. The system default temp location is used for creation of temporary files during crawling. If it is full, crawling pauses. If the system default temp location is full, change the location to a disk with more free space and restart the computer. Changes to the system temp location do not take effect for system services until the computer is restarted.%1",
+  "remarks": null,
+  "aka": [
+    "-2147480594"
+  ],
+  "akaUrl": [
+    "/win32/windowssearcherrors-h/event_gather_disk_full/-2147480594/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

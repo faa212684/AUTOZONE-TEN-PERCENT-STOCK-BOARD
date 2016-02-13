@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\nwsap_event_socket_failed\0xc0002136\index.html.json
+
+title: 0xC0002136 NWSAP_EVENT_SOCKET_FAILED in netevent.h
+description: Socket create call failed for main socket. The Sap Agent cannot continue.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC0002136",
+  "codeUrl": "/win32/netevent-h/nwsap_event_socket_failed/0xc0002136/",
+  "numericCode": -1073733322,
+  "define": "NWSAP_EVENT_SOCKET_FAILED",
+  "defineUrl": "/win32/netevent-h/nwsap_event_socket_failed/",
+  "message": "Socket create call failed for main socket. The Sap Agent cannot continue.",
+  "remarks": null,
+  "aka": [
+    "-1073733322"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/nwsap_event_socket_failed/-1073733322/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\rpc_s_server_too_busy\1723\index.html.json
+
+title: 1723 RPC_S_SERVER_TOO_BUSY in winerror.h
+description: The RPC server is too busy to complete this operation.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1723",
+  "codeUrl": "/win32/winerror-h/rpc_s_server_too_busy/1723/",
+  "numericCode": 1723,
+  "define": "RPC_S_SERVER_TOO_BUSY",
+  "defineUrl": "/win32/winerror-h/rpc_s_server_too_busy/",
+  "message": "The RPC server is too busy to complete this operation.",
+  "remarks": null,
+  "aka": [
+    "0x800706bb",
+    "-2147023173"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/rpc_s_server_too_busy/0x800706bb/",
+    "/win32/winerror-h/rpc_s_server_too_busy/-2147023173/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,25 @@
+---
+output: win32\ntstatus-h\status_access_denied\-1073741790\index.html.json
+canonical: /win32/ntstatus-h/status_access_denied/0xc0000022/
+title: -1073741790 STATUS_ACCESS_DENIED in ntstatus.h
+description: "{Access Denied}
+A process has requested access to an object, but has not been granted those access rights."
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741790",
+  "codeUrl": "/win32/ntstatus-h/status_access_denied/-1073741790/",
+  "numericCode": 0,
+  "define": "STATUS_ACCESS_DENIED",
+  "defineUrl": "/win32/ntstatus-h/status_access_denied/",
+  "message": "{Access Denied}\r\nA process has requested access to an object, but has not been granted those access rights.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000022",
+  "originalCodeUrl": "/win32/ntstatus-h/status_access_denied/0xc0000022/"
+}

@@ -1,0 +1,32 @@
+---
+output: win32\netevent-h\event_frs_no_sid\0xc00034d6\index.html.json
+
+title: 0xC00034D6 EVENT_FRS_NO_SID in netevent.h
+description: The File Replication Service cannot replicate %1 with the computer
+%2 because the computer's SID cannot be determined from the distinguished
+name "%3".
+%n
+%nThe File Replication Service will retry later.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC00034D6",
+  "codeUrl": "/win32/netevent-h/event_frs_no_sid/0xc00034d6/",
+  "numericCode": -1073728298,
+  "define": "EVENT_FRS_NO_SID",
+  "defineUrl": "/win32/netevent-h/event_frs_no_sid/",
+  "message": "The File Replication Service cannot replicate %1 with the computer\r\n%2 because the computer's SID cannot be determined from the distinguished\r\nname \"%3\".\r\n%n\r\n%nThe File Replication Service will retry later.",
+  "remarks": null,
+  "aka": [
+    "-1073728298"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_frs_no_sid/-1073728298/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

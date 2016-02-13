@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_cluster_old_version\5904\index.html.json
+
+title: 5904 ERROR_CLUSTER_OLD_VERSION in winerror.h
+description: One or more nodes in the cluster are running a version of Windows that does not support this operation.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "5904",
+  "codeUrl": "/win32/winerror-h/error_cluster_old_version/5904/",
+  "numericCode": 5904,
+  "define": "ERROR_CLUSTER_OLD_VERSION",
+  "defineUrl": "/win32/winerror-h/error_cluster_old_version/",
+  "message": "One or more nodes in the cluster are running a version of Windows that does not support this operation.",
+  "remarks": null,
+  "aka": [
+    "0x80071710",
+    "-2147018992"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_cluster_old_version/0x80071710/",
+    "/win32/winerror-h/error_cluster_old_version/-2147018992/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,25 @@
+---
+output: win32\ntstatus-h\status_bad_network_name\-1073741620\index.html.json
+canonical: /win32/ntstatus-h/status_bad_network_name/0xc00000cc/
+title: -1073741620 STATUS_BAD_NETWORK_NAME in ntstatus.h
+description: "{Network Name Not Found}
+The specified share name cannot be found on the remote server."
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741620",
+  "codeUrl": "/win32/ntstatus-h/status_bad_network_name/-1073741620/",
+  "numericCode": 0,
+  "define": "STATUS_BAD_NETWORK_NAME",
+  "defineUrl": "/win32/ntstatus-h/status_bad_network_name/",
+  "message": "{Network Name Not Found}\r\nThe specified share name cannot be found on the remote server.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC00000CC",
+  "originalCodeUrl": "/win32/ntstatus-h/status_bad_network_name/0xc00000cc/"
+}

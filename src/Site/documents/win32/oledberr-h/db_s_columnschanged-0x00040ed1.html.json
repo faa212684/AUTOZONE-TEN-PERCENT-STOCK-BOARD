@@ -1,0 +1,28 @@
+---
+output: win32\oledberr-h\db_s_columnschanged\0x00040ed1\index.html.json
+
+title: 0x00040ED1 DB_S_COLUMNSCHANGED in oledberr.h
+description: Command was executed to reposition to the start of the rowset. Either the order of the columns changed, or columns were added to or removed from the rowset.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "oledberr.h",
+  "sourceUrl": "/win32/oledberr-h/",
+  "code": "0x00040ED1",
+  "codeUrl": "/win32/oledberr-h/db_s_columnschanged/0x00040ed1/",
+  "numericCode": 265937,
+  "define": "DB_S_COLUMNSCHANGED",
+  "defineUrl": "/win32/oledberr-h/db_s_columnschanged/",
+  "message": "Command was executed to reposition to the start of the rowset. Either the order of the columns changed, or columns were added to or removed from the rowset.",
+  "remarks": null,
+  "aka": [
+    "265937"
+  ],
+  "akaUrl": [
+    "/win32/oledberr-h/db_s_columnschanged/265937/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

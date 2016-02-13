@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\sched_e_invalid_task\0x8004130e\index.html.json
+
+title: 0x8004130E SCHED_E_INVALID_TASK in winerror.h
+description: The object is either an invalid task object or is not a task object.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8004130E",
+  "codeUrl": "/win32/winerror-h/sched_e_invalid_task/0x8004130e/",
+  "numericCode": -2147216626,
+  "define": "SCHED_E_INVALID_TASK",
+  "defineUrl": "/win32/winerror-h/sched_e_invalid_task/",
+  "message": "The object is either an invalid task object or is not a task object.",
+  "remarks": null,
+  "aka": [
+    "-2147216626"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/sched_e_invalid_task/-2147216626/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

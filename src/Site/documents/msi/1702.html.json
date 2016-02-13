@@ -1,0 +1,24 @@
+---
+output: msi\1702\index.html.json
+
+title: msi 1702
+description: Configuring [2] cannot be completed until you restart your system. To restart now and resume configuration click <strong>Yes</strong>, or click <strong>No</strong> to stop this configuration.
+disqus: true
+---
+{
+  "area": "msi",
+  "areaUrl": "/msi/",
+  "source": null,
+  "sourceUrl": "/msi/",
+  "code": "1702",
+  "codeUrl": "/msi/1702/",
+  "numericCode": 1702,
+  "define": null,
+  "defineUrl": "/msi/",
+  "message": "Configuring [2] cannot be completed until you restart your system. To restart now and resume configuration click <strong>Yes</strong>, or click <strong>No</strong> to stop this configuration.",
+  "remarks": "A scheduled system restart message. For more information, see <a href=\"https://msdn.microsoft.com/en-us/library/aa372059(v=vs.85).aspx\">System Reboots</a> and <a href=\"https://msdn.microsoft.com/en-us/library/aa371527(v=vs.85).aspx\">ScheduleReboot Action</a>. This message may be customized using the <a href=\"https://msdn.microsoft.com/en-us/library/aa368554(v=vs.85).aspx\">Error</a> table.",
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": null,
+  "originalCodeUrl": null
+}

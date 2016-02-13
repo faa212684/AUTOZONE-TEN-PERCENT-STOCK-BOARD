@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\sched_s_task_disabled\267010\index.html.json
+canonical: /win32/winerror-h/sched_s_task_disabled/0x00041302/
+title: 267010 SCHED_S_TASK_DISABLED in winerror.h
+description: The task will not run at the scheduled times because it has been disabled.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "267010",
+  "codeUrl": "/win32/winerror-h/sched_s_task_disabled/267010/",
+  "numericCode": 0,
+  "define": "SCHED_S_TASK_DISABLED",
+  "defineUrl": "/win32/winerror-h/sched_s_task_disabled/",
+  "message": "The task will not run at the scheduled times because it has been disabled.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x00041302",
+  "originalCodeUrl": "/win32/winerror-h/sched_s_task_disabled/0x00041302/"
+}

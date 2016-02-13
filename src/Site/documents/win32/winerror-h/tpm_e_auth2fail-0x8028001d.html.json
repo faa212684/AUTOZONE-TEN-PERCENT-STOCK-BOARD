@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\tpm_e_auth2fail\0x8028001d\index.html.json
+
+title: 0x8028001D TPM_E_AUTH2FAIL in winerror.h
+description: The authorization for the second key in a 2 key function failed authorization.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8028001D",
+  "codeUrl": "/win32/winerror-h/tpm_e_auth2fail/0x8028001d/",
+  "numericCode": -2144862179,
+  "define": "TPM_E_AUTH2FAIL",
+  "defineUrl": "/win32/winerror-h/tpm_e_auth2fail/",
+  "message": "The authorization for the second key in a 2 key function failed authorization.",
+  "remarks": null,
+  "aka": [
+    "-2144862179"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/tpm_e_auth2fail/-2144862179/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

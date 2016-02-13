@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_volmgr_plex_index_duplicate\0xc0380039\index.html.json
+
+title: 0xC0380039 STATUS_VOLMGR_PLEX_INDEX_DUPLICATE in ntstatus.h
+description: The same plex index was specified more than once.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0380039",
+  "codeUrl": "/win32/ntstatus-h/status_volmgr_plex_index_duplicate/0xc0380039/",
+  "numericCode": -1070071751,
+  "define": "STATUS_VOLMGR_PLEX_INDEX_DUPLICATE",
+  "defineUrl": "/win32/ntstatus-h/status_volmgr_plex_index_duplicate/",
+  "message": "The same plex index was specified more than once.",
+  "remarks": null,
+  "aka": [
+    "-1070071751"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_volmgr_plex_index_duplicate/-1070071751/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

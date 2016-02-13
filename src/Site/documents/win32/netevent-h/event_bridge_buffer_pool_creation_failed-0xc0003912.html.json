@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_bridge_buffer_pool_creation_failed\0xc0003912\index.html.json
+
+title: 0xC0003912 EVENT_BRIDGE_BUFFER_POOL_CREATION_FAILED in netevent.h
+description: Bridge: The bridge could not initialize because it failed to create a buffer pool.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC0003912",
+  "codeUrl": "/win32/netevent-h/event_bridge_buffer_pool_creation_failed/0xc0003912/",
+  "numericCode": -1073727214,
+  "define": "EVENT_BRIDGE_BUFFER_POOL_CREATION_FAILED",
+  "defineUrl": "/win32/netevent-h/event_bridge_buffer_pool_creation_failed/",
+  "message": "Bridge: The bridge could not initialize because it failed to create a buffer pool.",
+  "remarks": null,
+  "aka": [
+    "-1073727214"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_bridge_buffer_pool_creation_failed/-1073727214/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\windowssearcherrors-h\event_gather_from_not_set\0xc0000be8\index.html.json
+
+title: 0xC0000BE8 EVENT_GATHER_FROM_NOT_SET in WindowsSearchErrors.h
+description: No documents were accessed because no e-mail address is specified in the content index server properties. Specify the e-mail address in the service configuration.%1
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "0xC0000BE8",
+  "codeUrl": "/win32/windowssearcherrors-h/event_gather_from_not_set/0xc0000be8/",
+  "numericCode": -1073738776,
+  "define": "EVENT_GATHER_FROM_NOT_SET",
+  "defineUrl": "/win32/windowssearcherrors-h/event_gather_from_not_set/",
+  "message": "No documents were accessed because no e-mail address is specified in the content index server properties. Specify the e-mail address in the service configuration.%1",
+  "remarks": null,
+  "aka": [
+    "-1073738776"
+  ],
+  "akaUrl": [
+    "/win32/windowssearcherrors-h/event_gather_from_not_set/-1073738776/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

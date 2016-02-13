@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_graphics_gpu_exception_on_device\-1071775232\index.html.json
+canonical: /win32/ntstatus-h/status_graphics_gpu_exception_on_device/0xc01e0200/
+title: -1071775232 STATUS_GRAPHICS_GPU_EXCEPTION_ON_DEVICE in ntstatus.h
+description: GPU exception is detected on the given device. The device is not able to be scheduled.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071775232",
+  "codeUrl": "/win32/ntstatus-h/status_graphics_gpu_exception_on_device/-1071775232/",
+  "numericCode": 0,
+  "define": "STATUS_GRAPHICS_GPU_EXCEPTION_ON_DEVICE",
+  "defineUrl": "/win32/ntstatus-h/status_graphics_gpu_exception_on_device/",
+  "message": "GPU exception is detected on the given device. The device is not able to be scheduled.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC01E0200",
+  "originalCodeUrl": "/win32/ntstatus-h/status_graphics_gpu_exception_on_device/0xc01e0200/"
+}

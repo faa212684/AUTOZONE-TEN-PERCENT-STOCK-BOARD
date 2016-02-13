@@ -1,0 +1,39 @@
+---
+output: win32\netevent-h\event_dnsapi_deregistration_failed_other\0x80002bb1\index.html.json
+
+title: 0x80002BB1 EVENT_DNSAPI_DEREGISTRATION_FAILED_OTHER in netevent.h
+description: The system failed to update and remove the DNS registration for the
+network adapter with settings:%n%n
+Adapter Name : %1%n
+Host Name : %2%n
+Adapter-specific Domain Suffix : %3%n
+DNS server list :%n
+%4%n
+Sent update to server : %5%n
+IP Address(es) :%n
+%6%n%n
+The system could not update to remove this DNS registration because of
+a system problem. See event details for specific error code information.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x80002BB1",
+  "codeUrl": "/win32/netevent-h/event_dnsapi_deregistration_failed_other/0x80002bb1/",
+  "numericCode": -2147472463,
+  "define": "EVENT_DNSAPI_DEREGISTRATION_FAILED_OTHER",
+  "defineUrl": "/win32/netevent-h/event_dnsapi_deregistration_failed_other/",
+  "message": "The system failed to update and remove the DNS registration for the\r\nnetwork adapter with settings:%n%n\r\nAdapter Name : %1%n\r\nHost Name : %2%n\r\nAdapter-specific Domain Suffix : %3%n\r\nDNS server list :%n\r\n%4%n\r\nSent update to server : %5%n\r\nIP Address(es) :%n\r\n%6%n%n\r\nThe system could not update to remove this DNS registration because of\r\na system problem. See event details for specific error code information.",
+  "remarks": null,
+  "aka": [
+    "-2147472463"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_dnsapi_deregistration_failed_other/-2147472463/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

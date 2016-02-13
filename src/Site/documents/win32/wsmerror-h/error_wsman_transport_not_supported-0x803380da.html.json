@@ -1,0 +1,30 @@
+---
+output: win32\wsmerror-h\error_wsman_transport_not_supported\0x803380da\index.html.json
+
+title: 0x803380DA ERROR_WSMAN_TRANSPORT_NOT_SUPPORTED in wsmerror.h
+description: The WinRM client cannot process the request. The connection string contains an unsupported transport.
+Valid transports are "http" or "https".
+Change the connection string and try the request again.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x803380DA",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_transport_not_supported/0x803380da/",
+  "numericCode": -2144108326,
+  "define": "ERROR_WSMAN_TRANSPORT_NOT_SUPPORTED",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_transport_not_supported/",
+  "message": "The WinRM client cannot process the request. The connection string contains an unsupported transport.\r\nValid transports are \"http\" or \"https\".\r\nChange the connection string and try the request again.",
+  "remarks": null,
+  "aka": [
+    "-2144108326"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_transport_not_supported/-2144108326/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

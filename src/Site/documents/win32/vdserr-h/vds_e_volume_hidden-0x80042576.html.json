@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_e_volume_hidden\0x80042576\index.html.json
+
+title: 0x80042576 VDS_E_VOLUME_HIDDEN in vdserr.h
+description: Cannot assign a mount point to a hidden volume.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x80042576",
+  "codeUrl": "/win32/vdserr-h/vds_e_volume_hidden/0x80042576/",
+  "numericCode": -2147211914,
+  "define": "VDS_E_VOLUME_HIDDEN",
+  "defineUrl": "/win32/vdserr-h/vds_e_volume_hidden/",
+  "message": "Cannot assign a mount point to a hidden volume.",
+  "remarks": null,
+  "aka": [
+    "-2147211914"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_volume_hidden/-2147211914/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

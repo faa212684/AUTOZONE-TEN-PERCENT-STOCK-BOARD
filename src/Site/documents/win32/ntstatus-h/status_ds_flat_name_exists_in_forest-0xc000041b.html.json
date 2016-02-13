@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_ds_flat_name_exists_in_forest\0xc000041b\index.html.json
+
+title: 0xC000041B STATUS_DS_FLAT_NAME_EXISTS_IN_FOREST in ntstatus.h
+description: The flat name of the trusted domain already exists in the forest.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000041B",
+  "codeUrl": "/win32/ntstatus-h/status_ds_flat_name_exists_in_forest/0xc000041b/",
+  "numericCode": -1073740773,
+  "define": "STATUS_DS_FLAT_NAME_EXISTS_IN_FOREST",
+  "defineUrl": "/win32/ntstatus-h/status_ds_flat_name_exists_in_forest/",
+  "message": "The flat name of the trusted domain already exists in the forest.",
+  "remarks": null,
+  "aka": [
+    "-1073740773"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_ds_flat_name_exists_in_forest/-1073740773/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\ws_e_proxy_requires_ntlm_auth\0x803d001a\index.html.json
+
+title: 0x803D001A WS_E_PROXY_REQUIRES_NTLM_AUTH in winerror.h
+description: The HTTP proxy server requires HTTP authentication scheme 'NTLM'.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x803D001A",
+  "codeUrl": "/win32/winerror-h/ws_e_proxy_requires_ntlm_auth/0x803d001a/",
+  "numericCode": -2143485926,
+  "define": "WS_E_PROXY_REQUIRES_NTLM_AUTH",
+  "defineUrl": "/win32/winerror-h/ws_e_proxy_requires_ntlm_auth/",
+  "message": "The HTTP proxy server requires HTTP authentication scheme 'NTLM'.",
+  "remarks": null,
+  "aka": [
+    "-2143485926"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/ws_e_proxy_requires_ntlm_auth/-2143485926/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

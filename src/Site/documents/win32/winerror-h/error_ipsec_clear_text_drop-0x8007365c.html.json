@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_ipsec_clear_text_drop\0x8007365c\index.html.json
+canonical: /win32/winerror-h/error_ipsec_clear_text_drop/13916/
+title: 0x8007365c ERROR_IPSEC_CLEAR_TEXT_DROP in winerror.h
+description: IPsec dropped a clear text packet.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007365c",
+  "codeUrl": "/win32/winerror-h/error_ipsec_clear_text_drop/0x8007365c/",
+  "numericCode": 0,
+  "define": "ERROR_IPSEC_CLEAR_TEXT_DROP",
+  "defineUrl": "/win32/winerror-h/error_ipsec_clear_text_drop/",
+  "message": "IPsec dropped a clear text packet.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "13916",
+  "originalCodeUrl": "/win32/winerror-h/error_ipsec_clear_text_drop/13916/"
+}

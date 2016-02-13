@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_fve_not_allowed_on_csv_stack\-1071579084\index.html.json
+canonical: /win32/ntstatus-h/status_fve_not_allowed_on_csv_stack/0xc0210034/
+title: -1071579084 STATUS_FVE_NOT_ALLOWED_ON_CSV_STACK in ntstatus.h
+description: This command can only be performed from the coordinator node for the specified CSV volume.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071579084",
+  "codeUrl": "/win32/ntstatus-h/status_fve_not_allowed_on_csv_stack/-1071579084/",
+  "numericCode": 0,
+  "define": "STATUS_FVE_NOT_ALLOWED_ON_CSV_STACK",
+  "defineUrl": "/win32/ntstatus-h/status_fve_not_allowed_on_csv_stack/",
+  "message": "This command can only be performed from the coordinator node for the specified CSV volume.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0210034",
+  "originalCodeUrl": "/win32/ntstatus-h/status_fve_not_allowed_on_csv_stack/0xc0210034/"
+}

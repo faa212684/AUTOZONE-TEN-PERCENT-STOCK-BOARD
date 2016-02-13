@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_io_reparse_tag_invalid\0xc0000276\index.html.json
+
+title: 0xC0000276 STATUS_IO_REPARSE_TAG_INVALID in ntstatus.h
+description: The Windows I/O reparse tag passed for the NTFS reparse point is invalid.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000276",
+  "codeUrl": "/win32/ntstatus-h/status_io_reparse_tag_invalid/0xc0000276/",
+  "numericCode": -1073741194,
+  "define": "STATUS_IO_REPARSE_TAG_INVALID",
+  "defineUrl": "/win32/ntstatus-h/status_io_reparse_tag_invalid/",
+  "message": "The Windows I/O reparse tag passed for the NTFS reparse point is invalid.",
+  "remarks": null,
+  "aka": [
+    "-1073741194"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_io_reparse_tag_invalid/-1073741194/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,29 @@
+---
+output: win32\ntstatus-h\status_no_pagefile\0xc0000147\index.html.json
+
+title: 0xC0000147 STATUS_NO_PAGEFILE in ntstatus.h
+description: "{No Paging File Specified}
+No paging file was specified in the system configuration."
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000147",
+  "codeUrl": "/win32/ntstatus-h/status_no_pagefile/0xc0000147/",
+  "numericCode": -1073741497,
+  "define": "STATUS_NO_PAGEFILE",
+  "defineUrl": "/win32/ntstatus-h/status_no_pagefile/",
+  "message": "{No Paging File Specified}\r\nNo paging file was specified in the system configuration.",
+  "remarks": null,
+  "aka": [
+    "-1073741497"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_no_pagefile/-1073741497/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

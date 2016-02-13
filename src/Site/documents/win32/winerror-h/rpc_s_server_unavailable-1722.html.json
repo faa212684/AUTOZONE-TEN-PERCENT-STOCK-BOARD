@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\rpc_s_server_unavailable\1722\index.html.json
+
+title: 1722 RPC_S_SERVER_UNAVAILABLE in winerror.h
+description: The RPC server is unavailable.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1722",
+  "codeUrl": "/win32/winerror-h/rpc_s_server_unavailable/1722/",
+  "numericCode": 1722,
+  "define": "RPC_S_SERVER_UNAVAILABLE",
+  "defineUrl": "/win32/winerror-h/rpc_s_server_unavailable/",
+  "message": "The RPC server is unavailable.",
+  "remarks": null,
+  "aka": [
+    "0x800706ba",
+    "-2147023174"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/rpc_s_server_unavailable/0x800706ba/",
+    "/win32/winerror-h/rpc_s_server_unavailable/-2147023174/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

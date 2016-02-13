@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_virtdisk_disk_online_and_writable\0xc03a001f\index.html.json
+
+title: 0xC03A001F STATUS_VIRTDISK_DISK_ONLINE_AND_WRITABLE in ntstatus.h
+description: The disk must be offline or read-only.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC03A001F",
+  "codeUrl": "/win32/ntstatus-h/status_virtdisk_disk_online_and_writable/0xc03a001f/",
+  "numericCode": -1069940705,
+  "define": "STATUS_VIRTDISK_DISK_ONLINE_AND_WRITABLE",
+  "defineUrl": "/win32/ntstatus-h/status_virtdisk_disk_online_and_writable/",
+  "message": "The disk must be offline or read-only.",
+  "remarks": null,
+  "aka": [
+    "-1069940705"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_virtdisk_disk_online_and_writable/-1069940705/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

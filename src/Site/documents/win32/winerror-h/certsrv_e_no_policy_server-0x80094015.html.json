@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\certsrv_e_no_policy_server\0x80094015\index.html.json
+
+title: 0x80094015 CERTSRV_E_NO_POLICY_SERVER in winerror.h
+description: An enrollment policy server cannot be located.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80094015",
+  "codeUrl": "/win32/winerror-h/certsrv_e_no_policy_server/0x80094015/",
+  "numericCode": -2146877419,
+  "define": "CERTSRV_E_NO_POLICY_SERVER",
+  "defineUrl": "/win32/winerror-h/certsrv_e_no_policy_server/",
+  "message": "An enrollment policy server cannot be located.",
+  "remarks": null,
+  "aka": [
+    "-2146877419"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/certsrv_e_no_policy_server/-2146877419/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

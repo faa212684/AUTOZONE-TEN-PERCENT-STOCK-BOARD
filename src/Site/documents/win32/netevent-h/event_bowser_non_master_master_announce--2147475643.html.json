@@ -1,0 +1,25 @@
+---
+output: win32\netevent-h\event_bowser_non_master_master_announce\-2147475643\index.html.json
+canonical: /win32/netevent-h/event_bowser_non_master_master_announce/0x80001f45/
+title: -2147475643 EVENT_BOWSER_NON_MASTER_MASTER_ANNOUNCE in netevent.h
+description: The browser has received a server announcement indicating that the computer %2
+is a master browser, but this computer is not a master browser.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "-2147475643",
+  "codeUrl": "/win32/netevent-h/event_bowser_non_master_master_announce/-2147475643/",
+  "numericCode": 0,
+  "define": "EVENT_BOWSER_NON_MASTER_MASTER_ANNOUNCE",
+  "defineUrl": "/win32/netevent-h/event_bowser_non_master_master_announce/",
+  "message": "The browser has received a server announcement indicating that the computer %2\r\nis a master browser, but this computer is not a master browser.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80001F45",
+  "originalCodeUrl": "/win32/netevent-h/event_bowser_non_master_master_announce/0x80001f45/"
+}

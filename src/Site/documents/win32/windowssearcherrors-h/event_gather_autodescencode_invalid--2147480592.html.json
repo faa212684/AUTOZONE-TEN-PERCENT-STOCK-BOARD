@@ -1,0 +1,24 @@
+---
+output: win32\windowssearcherrors-h\event_gather_autodescencode_invalid\-2147480592\index.html.json
+canonical: /win32/windowssearcherrors-h/event_gather_autodescencode_invalid/0x80000bf0/
+title: -2147480592 EVENT_GATHER_AUTODESCENCODE_INVALID in WindowsSearchErrors.h
+description: The automatic description encoding tag value is invalid. The gatherer is setting this value to "yes"". Fix the gthrprm.txt file.%1
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "-2147480592",
+  "codeUrl": "/win32/windowssearcherrors-h/event_gather_autodescencode_invalid/-2147480592/",
+  "numericCode": 0,
+  "define": "EVENT_GATHER_AUTODESCENCODE_INVALID",
+  "defineUrl": "/win32/windowssearcherrors-h/event_gather_autodescencode_invalid/",
+  "message": "The automatic description encoding tag value is invalid. The gatherer is setting this value to \"yes\"\". Fix the gthrprm.txt file.%1",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80000BF0",
+  "originalCodeUrl": "/win32/windowssearcherrors-h/event_gather_autodescencode_invalid/0x80000bf0/"
+}

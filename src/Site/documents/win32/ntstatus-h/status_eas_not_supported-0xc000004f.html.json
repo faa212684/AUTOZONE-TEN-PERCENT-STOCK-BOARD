@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_eas_not_supported\0xc000004f\index.html.json
+
+title: 0xC000004F STATUS_EAS_NOT_SUPPORTED in ntstatus.h
+description: An operation involving EAs failed because the file system does not support EAs.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000004F",
+  "codeUrl": "/win32/ntstatus-h/status_eas_not_supported/0xc000004f/",
+  "numericCode": -1073741745,
+  "define": "STATUS_EAS_NOT_SUPPORTED",
+  "defineUrl": "/win32/ntstatus-h/status_eas_not_supported/",
+  "message": "An operation involving EAs failed because the file system does not support EAs.",
+  "remarks": null,
+  "aka": [
+    "-1073741745"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_eas_not_supported/-1073741745/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

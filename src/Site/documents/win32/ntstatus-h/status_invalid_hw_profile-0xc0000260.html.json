@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_invalid_hw_profile\0xc0000260\index.html.json
+
+title: 0xC0000260 STATUS_INVALID_HW_PROFILE in ntstatus.h
+description: The specified hardware profile configuration is invalid.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000260",
+  "codeUrl": "/win32/ntstatus-h/status_invalid_hw_profile/0xc0000260/",
+  "numericCode": -1073741216,
+  "define": "STATUS_INVALID_HW_PROFILE",
+  "defineUrl": "/win32/ntstatus-h/status_invalid_hw_profile/",
+  "message": "The specified hardware profile configuration is invalid.",
+  "remarks": null,
+  "aka": [
+    "-1073741216"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_invalid_hw_profile/-1073741216/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

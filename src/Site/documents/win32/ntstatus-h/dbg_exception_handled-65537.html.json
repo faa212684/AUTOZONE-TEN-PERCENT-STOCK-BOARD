@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\dbg_exception_handled\65537\index.html.json
+canonical: /win32/ntstatus-h/dbg_exception_handled/0x00010001/
+title: 65537 DBG_EXCEPTION_HANDLED in ntstatus.h
+description: Debugger handled exception
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "65537",
+  "codeUrl": "/win32/ntstatus-h/dbg_exception_handled/65537/",
+  "numericCode": 0,
+  "define": "DBG_EXCEPTION_HANDLED",
+  "defineUrl": "/win32/ntstatus-h/dbg_exception_handled/",
+  "message": "Debugger handled exception",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x00010001",
+  "originalCodeUrl": "/win32/ntstatus-h/dbg_exception_handled/0x00010001/"
+}

@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_account_disabled\1331\index.html.json
+
+title: 1331 ERROR_ACCOUNT_DISABLED in winerror.h
+description: This user can't sign in because this account is currently disabled.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1331",
+  "codeUrl": "/win32/winerror-h/error_account_disabled/1331/",
+  "numericCode": 1331,
+  "define": "ERROR_ACCOUNT_DISABLED",
+  "defineUrl": "/win32/winerror-h/error_account_disabled/",
+  "message": "This user can't sign in because this account is currently disabled.",
+  "remarks": null,
+  "aka": [
+    "0x80070533",
+    "-2147023565"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_account_disabled/0x80070533/",
+    "/win32/winerror-h/error_account_disabled/-2147023565/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

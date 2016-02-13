@@ -1,0 +1,25 @@
+---
+output: win32\winerror-h\dxgi_error_cannot_protect_content\-2005270486\index.html.json
+canonical: /win32/winerror-h/dxgi_error_cannot_protect_content/0x887a002a/
+title: -2005270486 DXGI_ERROR_CANNOT_PROTECT_CONTENT in winerror.h
+description: DXGI is unable to provide content protection on the swapchain. This is typically caused by an older driver,
+or by the application using a swapchain that is incompatible with content protection.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2005270486",
+  "codeUrl": "/win32/winerror-h/dxgi_error_cannot_protect_content/-2005270486/",
+  "numericCode": 0,
+  "define": "DXGI_ERROR_CANNOT_PROTECT_CONTENT",
+  "defineUrl": "/win32/winerror-h/dxgi_error_cannot_protect_content/",
+  "message": "DXGI is unable to provide content protection on the swapchain. This is typically caused by an older driver,\r\nor by the application using a swapchain that is incompatible with content protection.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x887A002A",
+  "originalCodeUrl": "/win32/winerror-h/dxgi_error_cannot_protect_content/0x887a002a/"
+}

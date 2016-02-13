@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_no_link_tracking_in_transaction\6852\index.html.json
+
+title: 6852 ERROR_NO_LINK_TRACKING_IN_TRANSACTION in winerror.h
+description: The link tracking operation could not be completed because a transaction is active.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "6852",
+  "codeUrl": "/win32/winerror-h/error_no_link_tracking_in_transaction/6852/",
+  "numericCode": 6852,
+  "define": "ERROR_NO_LINK_TRACKING_IN_TRANSACTION",
+  "defineUrl": "/win32/winerror-h/error_no_link_tracking_in_transaction/",
+  "message": "The link tracking operation could not be completed because a transaction is active.",
+  "remarks": null,
+  "aka": [
+    "0x80071ac4",
+    "-2147018044"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_no_link_tracking_in_transaction/0x80071ac4/",
+    "/win32/winerror-h/error_no_link_tracking_in_transaction/-2147018044/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

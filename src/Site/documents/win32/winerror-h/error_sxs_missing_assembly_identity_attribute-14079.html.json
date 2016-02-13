@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_sxs_missing_assembly_identity_attribute\14079\index.html.json
+
+title: 14079 ERROR_SXS_MISSING_ASSEMBLY_IDENTITY_ATTRIBUTE in winerror.h
+description: The supplied assembly identity is missing one or more attributes which must be present in this context.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "14079",
+  "codeUrl": "/win32/winerror-h/error_sxs_missing_assembly_identity_attribute/14079/",
+  "numericCode": 14079,
+  "define": "ERROR_SXS_MISSING_ASSEMBLY_IDENTITY_ATTRIBUTE",
+  "defineUrl": "/win32/winerror-h/error_sxs_missing_assembly_identity_attribute/",
+  "message": "The supplied assembly identity is missing one or more attributes which must be present in this context.",
+  "remarks": null,
+  "aka": [
+    "0x800736ff",
+    "-2147010817"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_sxs_missing_assembly_identity_attribute/0x800736ff/",
+    "/win32/winerror-h/error_sxs_missing_assembly_identity_attribute/-2147010817/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

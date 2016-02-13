@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_operation_not_supported_in_transaction\6853\index.html.json
+
+title: 6853 ERROR_OPERATION_NOT_SUPPORTED_IN_TRANSACTION in winerror.h
+description: This operation cannot be performed in a transaction.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "6853",
+  "codeUrl": "/win32/winerror-h/error_operation_not_supported_in_transaction/6853/",
+  "numericCode": 6853,
+  "define": "ERROR_OPERATION_NOT_SUPPORTED_IN_TRANSACTION",
+  "defineUrl": "/win32/winerror-h/error_operation_not_supported_in_transaction/",
+  "message": "This operation cannot be performed in a transaction.",
+  "remarks": null,
+  "aka": [
+    "0x80071ac5",
+    "-2147018043"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_operation_not_supported_in_transaction/0x80071ac5/",
+    "/win32/winerror-h/error_operation_not_supported_in_transaction/-2147018043/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

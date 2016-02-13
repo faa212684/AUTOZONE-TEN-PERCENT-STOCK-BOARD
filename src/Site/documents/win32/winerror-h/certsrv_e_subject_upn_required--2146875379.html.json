@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\certsrv_e_subject_upn_required\-2146875379\index.html.json
+canonical: /win32/winerror-h/certsrv_e_subject_upn_required/0x8009480d/
+title: -2146875379 CERTSRV_E_SUBJECT_UPN_REQUIRED in winerror.h
+description: The UPN is unavailable and cannot be added to the Subject Alternate name.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2146875379",
+  "codeUrl": "/win32/winerror-h/certsrv_e_subject_upn_required/-2146875379/",
+  "numericCode": 0,
+  "define": "CERTSRV_E_SUBJECT_UPN_REQUIRED",
+  "defineUrl": "/win32/winerror-h/certsrv_e_subject_upn_required/",
+  "message": "The UPN is unavailable and cannot be added to the Subject Alternate name.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x8009480D",
+  "originalCodeUrl": "/win32/winerror-h/certsrv_e_subject_upn_required/0x8009480d/"
+}

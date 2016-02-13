@@ -1,0 +1,30 @@
+---
+output: win32\cdosyserr-h\evtbackgroundstartfailed\0x80032037\index.html.json
+
+title: 0x80032037 evtBackgroundStartFailed in CDOSysErr.h
+description: Calendaring agent has failed to start the background thread due to %1.  
+Rendering of large calendars with the Web client will be slower.
+%n%nFor more information, click http:www.microsoft.com/contentredirect.asp.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "CDOSysErr.h",
+  "sourceUrl": "/win32/cdosyserr-h/",
+  "code": "0x80032037",
+  "codeUrl": "/win32/cdosyserr-h/evtbackgroundstartfailed/0x80032037/",
+  "numericCode": -2147278793,
+  "define": "evtBackgroundStartFailed",
+  "defineUrl": "/win32/cdosyserr-h/evtbackgroundstartfailed/",
+  "message": "Calendaring agent has failed to start the background thread due to %1.  \r\nRendering of large calendars with the Web client will be slower.\r\n%n%nFor more information, click http:www.microsoft.com/contentredirect.asp.",
+  "remarks": null,
+  "aka": [
+    "-2147278793"
+  ],
+  "akaUrl": [
+    "/win32/cdosyserr-h/evtbackgroundstartfailed/-2147278793/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

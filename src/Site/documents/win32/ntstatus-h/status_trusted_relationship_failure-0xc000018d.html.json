@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_trusted_relationship_failure\0xc000018d\index.html.json
+
+title: 0xC000018D STATUS_TRUSTED_RELATIONSHIP_FAILURE in ntstatus.h
+description: The logon request failed because the trust relationship between this workstation and the primary domain failed.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000018D",
+  "codeUrl": "/win32/ntstatus-h/status_trusted_relationship_failure/0xc000018d/",
+  "numericCode": -1073741427,
+  "define": "STATUS_TRUSTED_RELATIONSHIP_FAILURE",
+  "defineUrl": "/win32/ntstatus-h/status_trusted_relationship_failure/",
+  "message": "The logon request failed because the trust relationship between this workstation and the primary domain failed.",
+  "remarks": null,
+  "aka": [
+    "-1073741427"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_trusted_relationship_failure/-1073741427/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

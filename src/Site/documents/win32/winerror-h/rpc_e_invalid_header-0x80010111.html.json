@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\rpc_e_invalid_header\0x80010111\index.html.json
+
+title: 0x80010111 RPC_E_INVALID_HEADER in winerror.h
+description: OLE received a packet with an invalid header.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80010111",
+  "codeUrl": "/win32/winerror-h/rpc_e_invalid_header/0x80010111/",
+  "numericCode": -2147417839,
+  "define": "RPC_E_INVALID_HEADER",
+  "defineUrl": "/win32/winerror-h/rpc_e_invalid_header/",
+  "message": "OLE received a packet with an invalid header.",
+  "remarks": null,
+  "aka": [
+    "-2147417839"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/rpc_e_invalid_header/-2147417839/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_flt_not_safe_to_post_operation\-2145452026\index.html.json
+canonical: /win32/winerror-h/error_flt_not_safe_to_post_operation/0x801f0006/
+title: -2145452026 ERROR_FLT_NOT_SAFE_TO_POST_OPERATION in winerror.h
+description: Posting this operation to a worker thread for further processing is not safe at this time because it could lead to a system deadlock.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2145452026",
+  "codeUrl": "/win32/winerror-h/error_flt_not_safe_to_post_operation/-2145452026/",
+  "numericCode": 0,
+  "define": "ERROR_FLT_NOT_SAFE_TO_POST_OPERATION",
+  "defineUrl": "/win32/winerror-h/error_flt_not_safe_to_post_operation/",
+  "message": "Posting this operation to a worker thread for further processing is not safe at this time because it could lead to a system deadlock.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x801F0006",
+  "originalCodeUrl": "/win32/winerror-h/error_flt_not_safe_to_post_operation/0x801f0006/"
+}

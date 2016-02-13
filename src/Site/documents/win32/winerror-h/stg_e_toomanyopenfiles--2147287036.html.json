@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\stg_e_toomanyopenfiles\-2147287036\index.html.json
+canonical: /win32/winerror-h/stg_e_toomanyopenfiles/0x80030004/
+title: -2147287036 STG_E_TOOMANYOPENFILES in winerror.h
+description: There are insufficient resources to open another file.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147287036",
+  "codeUrl": "/win32/winerror-h/stg_e_toomanyopenfiles/-2147287036/",
+  "numericCode": 0,
+  "define": "STG_E_TOOMANYOPENFILES",
+  "defineUrl": "/win32/winerror-h/stg_e_toomanyopenfiles/",
+  "message": "There are insufficient resources to open another file.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80030004",
+  "originalCodeUrl": "/win32/winerror-h/stg_e_toomanyopenfiles/0x80030004/"
+}

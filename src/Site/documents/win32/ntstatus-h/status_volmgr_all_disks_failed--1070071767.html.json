@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_volmgr_all_disks_failed\-1070071767\index.html.json
+canonical: /win32/ntstatus-h/status_volmgr_all_disks_failed/0xc0380029/
+title: -1070071767 STATUS_VOLMGR_ALL_DISKS_FAILED in ntstatus.h
+description: All disks belonging to the pack failed.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1070071767",
+  "codeUrl": "/win32/ntstatus-h/status_volmgr_all_disks_failed/-1070071767/",
+  "numericCode": 0,
+  "define": "STATUS_VOLMGR_ALL_DISKS_FAILED",
+  "defineUrl": "/win32/ntstatus-h/status_volmgr_all_disks_failed/",
+  "message": "All disks belonging to the pack failed.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0380029",
+  "originalCodeUrl": "/win32/ntstatus-h/status_volmgr_all_disks_failed/0xc0380029/"
+}

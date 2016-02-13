@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\pla_e_tasksched_channel_not_enabled\0x80300111\index.html.json
+
+title: 0x80300111 PLA_E_TASKSCHED_CHANNEL_NOT_ENABLED in winerror.h
+description: The Event Log channel Microsoft-Windows-TaskScheduler must be enabled to perform this operation.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80300111",
+  "codeUrl": "/win32/winerror-h/pla_e_tasksched_channel_not_enabled/0x80300111/",
+  "numericCode": -2144337647,
+  "define": "PLA_E_TASKSCHED_CHANNEL_NOT_ENABLED",
+  "defineUrl": "/win32/winerror-h/pla_e_tasksched_channel_not_enabled/",
+  "message": "The Event Log channel Microsoft-Windows-TaskScheduler must be enabled to perform this operation.",
+  "remarks": null,
+  "aka": [
+    "-2144337647"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/pla_e_tasksched_channel_not_enabled/-2144337647/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

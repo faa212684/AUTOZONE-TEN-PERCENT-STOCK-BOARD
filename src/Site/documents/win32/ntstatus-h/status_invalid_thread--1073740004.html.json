@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_invalid_thread\-1073740004\index.html.json
+canonical: /win32/ntstatus-h/status_invalid_thread/0xc000071c/
+title: -1073740004 STATUS_INVALID_THREAD in ntstatus.h
+description: An invalid thread, handle %p, is specified for this operation. Possibly, a threadpool worker thread was specified.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073740004",
+  "codeUrl": "/win32/ntstatus-h/status_invalid_thread/-1073740004/",
+  "numericCode": 0,
+  "define": "STATUS_INVALID_THREAD",
+  "defineUrl": "/win32/ntstatus-h/status_invalid_thread/",
+  "message": "An invalid thread, handle %p, is specified for this operation. Possibly, a threadpool worker thread was specified.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC000071C",
+  "originalCodeUrl": "/win32/ntstatus-h/status_invalid_thread/0xc000071c/"
+}

@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_srv_dos_attack_detected\0x800007e9\index.html.json
+
+title: 0x800007E9 EVENT_SRV_DOS_ATTACK_DETECTED in netevent.h
+description: The server has detected an attempted Denial-Of-Service attack from client %2, and has disconnected the connection.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x800007E9",
+  "codeUrl": "/win32/netevent-h/event_srv_dos_attack_detected/0x800007e9/",
+  "numericCode": -2147481623,
+  "define": "EVENT_SRV_DOS_ATTACK_DETECTED",
+  "defineUrl": "/win32/netevent-h/event_srv_dos_attack_detected/",
+  "message": "The server has detected an attempted Denial-Of-Service attack from client %2, and has disconnected the connection.",
+  "remarks": null,
+  "aka": [
+    "-2147481623"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_srv_dos_attack_detected/-2147481623/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

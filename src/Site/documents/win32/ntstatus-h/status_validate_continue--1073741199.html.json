@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_validate_continue\-1073741199\index.html.json
+canonical: /win32/ntstatus-h/status_validate_continue/0xc0000271/
+title: -1073741199 STATUS_VALIDATE_CONTINUE in ntstatus.h
+description: The validation process needs to continue on to the next step.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741199",
+  "codeUrl": "/win32/ntstatus-h/status_validate_continue/-1073741199/",
+  "numericCode": 0,
+  "define": "STATUS_VALIDATE_CONTINUE",
+  "defineUrl": "/win32/ntstatus-h/status_validate_continue/",
+  "message": "The validation process needs to continue on to the next step.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000271",
+  "originalCodeUrl": "/win32/ntstatus-h/status_validate_continue/0xc0000271/"
+}

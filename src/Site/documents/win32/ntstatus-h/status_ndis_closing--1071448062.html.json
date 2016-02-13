@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_ndis_closing\-1071448062\index.html.json
+canonical: /win32/ntstatus-h/status_ndis_closing/0xc0230002/
+title: -1071448062 STATUS_NDIS_CLOSING in ntstatus.h
+description: The binding to the network interface is being closed.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071448062",
+  "codeUrl": "/win32/ntstatus-h/status_ndis_closing/-1071448062/",
+  "numericCode": 0,
+  "define": "STATUS_NDIS_CLOSING",
+  "defineUrl": "/win32/ntstatus-h/status_ndis_closing/",
+  "message": "The binding to the network interface is being closed.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0230002",
+  "originalCodeUrl": "/win32/ntstatus-h/status_ndis_closing/0xc0230002/"
+}

@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_apphelp_block\1259\index.html.json
+
+title: 1259 ERROR_APPHELP_BLOCK in winerror.h
+description: AppHelp dialog canceled thus preventing the application from starting.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1259",
+  "codeUrl": "/win32/winerror-h/error_apphelp_block/1259/",
+  "numericCode": 1259,
+  "define": "ERROR_APPHELP_BLOCK",
+  "defineUrl": "/win32/winerror-h/error_apphelp_block/",
+  "message": "AppHelp dialog canceled thus preventing the application from starting.",
+  "remarks": null,
+  "aka": [
+    "0x800704eb",
+    "-2147023637"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_apphelp_block/0x800704eb/",
+    "/win32/winerror-h/error_apphelp_block/-2147023637/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

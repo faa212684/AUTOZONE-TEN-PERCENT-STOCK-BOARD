@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\rpc_s_incomplete_name\1755\index.html.json
+
+title: 1755 RPC_S_INCOMPLETE_NAME in winerror.h
+description: The entry name is incomplete.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1755",
+  "codeUrl": "/win32/winerror-h/rpc_s_incomplete_name/1755/",
+  "numericCode": 1755,
+  "define": "RPC_S_INCOMPLETE_NAME",
+  "defineUrl": "/win32/winerror-h/rpc_s_incomplete_name/",
+  "message": "The entry name is incomplete.",
+  "remarks": null,
+  "aka": [
+    "0x800706db",
+    "-2147023141"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/rpc_s_incomplete_name/0x800706db/",
+    "/win32/winerror-h/rpc_s_incomplete_name/-2147023141/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

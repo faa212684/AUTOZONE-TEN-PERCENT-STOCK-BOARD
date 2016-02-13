@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_graphics_opm_signaling_not_supported\-1071774432\index.html.json
+canonical: /win32/ntstatus-h/status_graphics_opm_signaling_not_supported/0xc01e0520/
+title: -1071774432 STATUS_GRAPHICS_OPM_SIGNALING_NOT_SUPPORTED in ntstatus.h
+description: The DxgkDdiOPMGetCOPPCompatibleInformation and DxgkDdiOPMConfigureProtectedOutput functions return this error if the display driver does not support the DXGKMDT_OPM_GET_ACP_AND_CGMSA_SIGNALING and DXGKMDT_OPM_SET_ACP_AND_CGMSA_SIGNALING GUIDs.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071774432",
+  "codeUrl": "/win32/ntstatus-h/status_graphics_opm_signaling_not_supported/-1071774432/",
+  "numericCode": 0,
+  "define": "STATUS_GRAPHICS_OPM_SIGNALING_NOT_SUPPORTED",
+  "defineUrl": "/win32/ntstatus-h/status_graphics_opm_signaling_not_supported/",
+  "message": "The DxgkDdiOPMGetCOPPCompatibleInformation and DxgkDdiOPMConfigureProtectedOutput functions return this error if the display driver does not support the DXGKMDT_OPM_GET_ACP_AND_CGMSA_SIGNALING and DXGKMDT_OPM_SET_ACP_AND_CGMSA_SIGNALING GUIDs.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC01E0520",
+  "originalCodeUrl": "/win32/ntstatus-h/status_graphics_opm_signaling_not_supported/0xc01e0520/"
+}

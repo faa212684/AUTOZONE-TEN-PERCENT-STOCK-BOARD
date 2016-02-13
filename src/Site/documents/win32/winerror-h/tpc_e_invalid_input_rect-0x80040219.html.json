@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\tpc_e_invalid_input_rect\0x80040219\index.html.json
+
+title: 0x80040219 TPC_E_INVALID_INPUT_RECT in winerror.h
+description: TabletPC inking error code. An invalid input rectangle was specified
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80040219",
+  "codeUrl": "/win32/winerror-h/tpc_e_invalid_input_rect/0x80040219/",
+  "numericCode": -2147220967,
+  "define": "TPC_E_INVALID_INPUT_RECT",
+  "defineUrl": "/win32/winerror-h/tpc_e_invalid_input_rect/",
+  "message": "TabletPC inking error code. An invalid input rectangle was specified",
+  "remarks": null,
+  "aka": [
+    "-2147220967"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/tpc_e_invalid_input_rect/-2147220967/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

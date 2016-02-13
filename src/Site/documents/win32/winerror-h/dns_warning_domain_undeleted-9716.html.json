@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\dns_warning_domain_undeleted\9716\index.html.json
+
+title: 9716 DNS_WARNING_DOMAIN_UNDELETED in winerror.h
+description: DNS domain was undeleted.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "9716",
+  "codeUrl": "/win32/winerror-h/dns_warning_domain_undeleted/9716/",
+  "numericCode": 9716,
+  "define": "DNS_WARNING_DOMAIN_UNDELETED",
+  "defineUrl": "/win32/winerror-h/dns_warning_domain_undeleted/",
+  "message": "DNS domain was undeleted.",
+  "remarks": null,
+  "aka": [
+    "0x800725f4",
+    "-2147015180"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/dns_warning_domain_undeleted/0x800725f4/",
+    "/win32/winerror-h/dns_warning_domain_undeleted/-2147015180/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

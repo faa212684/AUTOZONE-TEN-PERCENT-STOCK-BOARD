@@ -1,0 +1,28 @@
+---
+output: win32\windowssearcherrors-h\query_s_no_query\0x8004160c\index.html.json
+
+title: 0x8004160C QUERY_S_NO_QUERY in WindowsSearchErrors.h
+description: The index is still being crawled, but queries are no longer allowed.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "0x8004160C",
+  "codeUrl": "/win32/windowssearcherrors-h/query_s_no_query/0x8004160c/",
+  "numericCode": -2147215860,
+  "define": "QUERY_S_NO_QUERY",
+  "defineUrl": "/win32/windowssearcherrors-h/query_s_no_query/",
+  "message": "The index is still being crawled, but queries are no longer allowed.",
+  "remarks": null,
+  "aka": [
+    "-2147215860"
+  ],
+  "akaUrl": [
+    "/win32/windowssearcherrors-h/query_s_no_query/-2147215860/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

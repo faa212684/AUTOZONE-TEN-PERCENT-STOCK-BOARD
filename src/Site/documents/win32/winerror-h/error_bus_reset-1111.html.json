@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_bus_reset\1111\index.html.json
+
+title: 1111 ERROR_BUS_RESET in winerror.h
+description: The I/O bus was reset.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1111",
+  "codeUrl": "/win32/winerror-h/error_bus_reset/1111/",
+  "numericCode": 1111,
+  "define": "ERROR_BUS_RESET",
+  "defineUrl": "/win32/winerror-h/error_bus_reset/",
+  "message": "The I/O bus was reset.",
+  "remarks": null,
+  "aka": [
+    "0x80070457",
+    "-2147023785"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_bus_reset/0x80070457/",
+    "/win32/winerror-h/error_bus_reset/-2147023785/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

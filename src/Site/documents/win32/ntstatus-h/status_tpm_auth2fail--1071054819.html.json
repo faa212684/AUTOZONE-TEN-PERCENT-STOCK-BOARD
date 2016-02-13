@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_tpm_auth2fail\-1071054819\index.html.json
+canonical: /win32/ntstatus-h/status_tpm_auth2fail/0xc029001d/
+title: -1071054819 STATUS_TPM_AUTH2FAIL in ntstatus.h
+description: The authorization for the second key in a 2 key function failed authorization.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071054819",
+  "codeUrl": "/win32/ntstatus-h/status_tpm_auth2fail/-1071054819/",
+  "numericCode": 0,
+  "define": "STATUS_TPM_AUTH2FAIL",
+  "defineUrl": "/win32/ntstatus-h/status_tpm_auth2fail/",
+  "message": "The authorization for the second key in a 2 key function failed authorization.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC029001D",
+  "originalCodeUrl": "/win32/ntstatus-h/status_tpm_auth2fail/0xc029001d/"
+}

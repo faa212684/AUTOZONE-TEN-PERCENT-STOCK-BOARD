@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_bad_key\0xc000090a\index.html.json
+
+title: 0xC000090A STATUS_BAD_KEY in ntstatus.h
+description: Bad key.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000090A",
+  "codeUrl": "/win32/ntstatus-h/status_bad_key/0xc000090a/",
+  "numericCode": -1073739510,
+  "define": "STATUS_BAD_KEY",
+  "defineUrl": "/win32/ntstatus-h/status_bad_key/",
+  "message": "Bad key.",
+  "remarks": null,
+  "aka": [
+    "-1073739510"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_bad_key/-1073739510/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\dns_error_default_zonescope\9953\index.html.json
+
+title: 9953 DNS_ERROR_DEFAULT_ZONESCOPE in winerror.h
+description: The scope is the same as the default zone scope.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "9953",
+  "codeUrl": "/win32/winerror-h/dns_error_default_zonescope/9953/",
+  "numericCode": 9953,
+  "define": "DNS_ERROR_DEFAULT_ZONESCOPE",
+  "defineUrl": "/win32/winerror-h/dns_error_default_zonescope/",
+  "message": "The scope is the same as the default zone scope.",
+  "remarks": null,
+  "aka": [
+    "0x800726e1",
+    "-2147014943"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/dns_error_default_zonescope/0x800726e1/",
+    "/win32/winerror-h/dns_error_default_zonescope/-2147014943/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

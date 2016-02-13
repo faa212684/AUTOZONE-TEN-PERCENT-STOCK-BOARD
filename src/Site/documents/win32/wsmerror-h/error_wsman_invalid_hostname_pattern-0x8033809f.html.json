@@ -1,0 +1,28 @@
+---
+output: win32\wsmerror-h\error_wsman_invalid_hostname_pattern\0x8033809f\index.html.json
+
+title: 0x8033809F ERROR_WSMAN_INVALID_HOSTNAME_PATTERN in wsmerror.h
+description: TrustedHosts list contains an invalid hostname or hostname pattern.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x8033809F",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_invalid_hostname_pattern/0x8033809f/",
+  "numericCode": -2144108385,
+  "define": "ERROR_WSMAN_INVALID_HOSTNAME_PATTERN",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_invalid_hostname_pattern/",
+  "message": "TrustedHosts list contains an invalid hostname or hostname pattern.",
+  "remarks": null,
+  "aka": [
+    "-2144108385"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_invalid_hostname_pattern/-2144108385/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

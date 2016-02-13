@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_driver_blocked\1275\index.html.json
+
+title: 1275 ERROR_DRIVER_BLOCKED in winerror.h
+description: This driver has been blocked from loading
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1275",
+  "codeUrl": "/win32/winerror-h/error_driver_blocked/1275/",
+  "numericCode": 1275,
+  "define": "ERROR_DRIVER_BLOCKED",
+  "defineUrl": "/win32/winerror-h/error_driver_blocked/",
+  "message": "This driver has been blocked from loading",
+  "remarks": null,
+  "aka": [
+    "0x800704fb",
+    "-2147023621"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_driver_blocked/0x800704fb/",
+    "/win32/winerror-h/error_driver_blocked/-2147023621/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

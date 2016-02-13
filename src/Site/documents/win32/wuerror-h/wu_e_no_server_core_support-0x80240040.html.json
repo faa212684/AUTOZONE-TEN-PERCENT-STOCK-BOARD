@@ -1,0 +1,28 @@
+---
+output: win32\wuerror-h\wu_e_no_server_core_support\0x80240040\index.html.json
+
+title: 0x80240040 WU_E_NO_SERVER_CORE_SUPPORT in wuerror.h
+description: WUA API method does not run on Server Core installation.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wuerror.h",
+  "sourceUrl": "/win32/wuerror-h/",
+  "code": "0x80240040",
+  "codeUrl": "/win32/wuerror-h/wu_e_no_server_core_support/0x80240040/",
+  "numericCode": -2145124288,
+  "define": "WU_E_NO_SERVER_CORE_SUPPORT",
+  "defineUrl": "/win32/wuerror-h/wu_e_no_server_core_support/",
+  "message": "WUA API method does not run on Server Core installation.",
+  "remarks": null,
+  "aka": [
+    "-2145124288"
+  ],
+  "akaUrl": [
+    "/win32/wuerror-h/wu_e_no_server_core_support/-2145124288/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

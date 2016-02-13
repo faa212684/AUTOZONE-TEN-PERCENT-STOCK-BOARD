@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_ds_src_sid_exists_in_forest\0xc0000419\index.html.json
+
+title: 0xC0000419 STATUS_DS_SRC_SID_EXISTS_IN_FOREST in ntstatus.h
+description: The source object's SID already exists in destination forest.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000419",
+  "codeUrl": "/win32/ntstatus-h/status_ds_src_sid_exists_in_forest/0xc0000419/",
+  "numericCode": -1073740775,
+  "define": "STATUS_DS_SRC_SID_EXISTS_IN_FOREST",
+  "defineUrl": "/win32/ntstatus-h/status_ds_src_sid_exists_in_forest/",
+  "message": "The source object's SID already exists in destination forest.",
+  "remarks": null,
+  "aka": [
+    "-1073740775"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_ds_src_sid_exists_in_forest/-1073740775/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_image_already_loaded_as_dll\0xc000019d\index.html.json
+
+title: 0xC000019D STATUS_IMAGE_ALREADY_LOADED_AS_DLL in ntstatus.h
+description: Indicates that the specified image is already loaded as a DLL.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000019D",
+  "codeUrl": "/win32/ntstatus-h/status_image_already_loaded_as_dll/0xc000019d/",
+  "numericCode": -1073741411,
+  "define": "STATUS_IMAGE_ALREADY_LOADED_AS_DLL",
+  "defineUrl": "/win32/ntstatus-h/status_image_already_loaded_as_dll/",
+  "message": "Indicates that the specified image is already loaded as a DLL.",
+  "remarks": null,
+  "aka": [
+    "-1073741411"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_image_already_loaded_as_dll/-1073741411/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\d2derr_invalid_target\0x88990024\index.html.json
+
+title: 0x88990024 D2DERR_INVALID_TARGET in winerror.h
+description: Cannot set the image as a target because it is either an effect or is a bitmap that does not have the D2D1_BITMAP_OPTIONS_TARGET flag set.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x88990024",
+  "codeUrl": "/win32/winerror-h/d2derr_invalid_target/0x88990024/",
+  "numericCode": -2003238876,
+  "define": "D2DERR_INVALID_TARGET",
+  "defineUrl": "/win32/winerror-h/d2derr_invalid_target/",
+  "message": "Cannot set the image as a target because it is either an effect or is a bitmap that does not have the D2D1_BITMAP_OPTIONS_TARGET flag set.",
+  "remarks": null,
+  "aka": [
+    "-2003238876"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/d2derr_invalid_target/-2003238876/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_cluster_csv_snapshot_creation_in_progress\0xc0130025\index.html.json
+
+title: 0xC0130025 STATUS_CLUSTER_CSV_SNAPSHOT_CREATION_IN_PROGRESS in ntstatus.h
+description: The operation has failed because snapshot creation is in progress.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0130025",
+  "codeUrl": "/win32/ntstatus-h/status_cluster_csv_snapshot_creation_in_progress/0xc0130025/",
+  "numericCode": -1072496603,
+  "define": "STATUS_CLUSTER_CSV_SNAPSHOT_CREATION_IN_PROGRESS",
+  "defineUrl": "/win32/ntstatus-h/status_cluster_csv_snapshot_creation_in_progress/",
+  "message": "The operation has failed because snapshot creation is in progress.",
+  "remarks": null,
+  "aka": [
+    "-1072496603"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_cluster_csv_snapshot_creation_in_progress/-1072496603/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

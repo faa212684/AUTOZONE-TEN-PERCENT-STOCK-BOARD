@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_secondary_ic_provider_not_registered\-1073700575\index.html.json
+canonical: /win32/ntstatus-h/status_secondary_ic_provider_not_registered/0xc000a121/
+title: -1073700575 STATUS_SECONDARY_IC_PROVIDER_NOT_REGISTERED in ntstatus.h
+description: The secondary interrupt controller instance that manages the specified interrupt is not registered.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073700575",
+  "codeUrl": "/win32/ntstatus-h/status_secondary_ic_provider_not_registered/-1073700575/",
+  "numericCode": 0,
+  "define": "STATUS_SECONDARY_IC_PROVIDER_NOT_REGISTERED",
+  "defineUrl": "/win32/ntstatus-h/status_secondary_ic_provider_not_registered/",
+  "message": "The secondary interrupt controller instance that manages the specified interrupt is not registered.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC000A121",
+  "originalCodeUrl": "/win32/ntstatus-h/status_secondary_ic_provider_not_registered/0xc000a121/"
+}

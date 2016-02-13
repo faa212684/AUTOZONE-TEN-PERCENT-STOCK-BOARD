@@ -1,0 +1,30 @@
+---
+output: win32\ntstatus-h\status_image_mp_up_mismatch\0xc0000249\index.html.json
+
+title: 0xC0000249 STATUS_IMAGE_MP_UP_MISMATCH in ntstatus.h
+description: "{UP/MP Image Mismatch}
+The image %hs has been modified for use on a uniprocessor system, but you are running it on a multiprocessor machine.
+Please reinstall the image file."
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000249",
+  "codeUrl": "/win32/ntstatus-h/status_image_mp_up_mismatch/0xc0000249/",
+  "numericCode": -1073741239,
+  "define": "STATUS_IMAGE_MP_UP_MISMATCH",
+  "defineUrl": "/win32/ntstatus-h/status_image_mp_up_mismatch/",
+  "message": "{UP/MP Image Mismatch}\r\nThe image %hs has been modified for use on a uniprocessor system, but you are running it on a multiprocessor machine.\r\nPlease reinstall the image file.",
+  "remarks": null,
+  "aka": [
+    "-1073741239"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_image_mp_up_mismatch/-1073741239/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\co_e_init_rpc_channel\0x8000400a\index.html.json
+
+title: 0x8000400A CO_E_INIT_RPC_CHANNEL in winerror.h
+description: Unable to initialize RPC services
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8000400A",
+  "codeUrl": "/win32/winerror-h/co_e_init_rpc_channel/0x8000400a/",
+  "numericCode": -2147467254,
+  "define": "CO_E_INIT_RPC_CHANNEL",
+  "defineUrl": "/win32/winerror-h/co_e_init_rpc_channel/",
+  "message": "Unable to initialize RPC services",
+  "remarks": null,
+  "aka": [
+    "-2147467254"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/co_e_init_rpc_channel/-2147467254/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

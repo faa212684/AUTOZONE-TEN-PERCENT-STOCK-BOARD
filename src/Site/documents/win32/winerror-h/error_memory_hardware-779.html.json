@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_memory_hardware\779\index.html.json
+
+title: 779 ERROR_MEMORY_HARDWARE in winerror.h
+description: The hardware has reported an uncorrectable memory error.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "779",
+  "codeUrl": "/win32/winerror-h/error_memory_hardware/779/",
+  "numericCode": 779,
+  "define": "ERROR_MEMORY_HARDWARE",
+  "defineUrl": "/win32/winerror-h/error_memory_hardware/",
+  "message": "The hardware has reported an uncorrectable memory error.",
+  "remarks": null,
+  "aka": [
+    "0x8007030b",
+    "-2147024117"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_memory_hardware/0x8007030b/",
+    "/win32/winerror-h/error_memory_hardware/-2147024117/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

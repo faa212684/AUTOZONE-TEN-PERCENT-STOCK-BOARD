@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\tpm_e_auth2fail\-2144862179\index.html.json
+canonical: /win32/winerror-h/tpm_e_auth2fail/0x8028001d/
+title: -2144862179 TPM_E_AUTH2FAIL in winerror.h
+description: The authorization for the second key in a 2 key function failed authorization.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2144862179",
+  "codeUrl": "/win32/winerror-h/tpm_e_auth2fail/-2144862179/",
+  "numericCode": 0,
+  "define": "TPM_E_AUTH2FAIL",
+  "defineUrl": "/win32/winerror-h/tpm_e_auth2fail/",
+  "message": "The authorization for the second key in a 2 key function failed authorization.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x8028001D",
+  "originalCodeUrl": "/win32/winerror-h/tpm_e_auth2fail/0x8028001d/"
+}

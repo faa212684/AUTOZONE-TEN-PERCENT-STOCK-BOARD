@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ds_missing_infrastructure_container\8497\index.html.json
+
+title: 8497 ERROR_DS_MISSING_INFRASTRUCTURE_CONTAINER in winerror.h
+description: The operation cannot be performed because the server does not have an infrastructure container in the domain of interest.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "8497",
+  "codeUrl": "/win32/winerror-h/error_ds_missing_infrastructure_container/8497/",
+  "numericCode": 8497,
+  "define": "ERROR_DS_MISSING_INFRASTRUCTURE_CONTAINER",
+  "defineUrl": "/win32/winerror-h/error_ds_missing_infrastructure_container/",
+  "message": "The operation cannot be performed because the server does not have an infrastructure container in the domain of interest.",
+  "remarks": null,
+  "aka": [
+    "0x80072131",
+    "-2147016399"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ds_missing_infrastructure_container/0x80072131/",
+    "/win32/winerror-h/error_ds_missing_infrastructure_container/-2147016399/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

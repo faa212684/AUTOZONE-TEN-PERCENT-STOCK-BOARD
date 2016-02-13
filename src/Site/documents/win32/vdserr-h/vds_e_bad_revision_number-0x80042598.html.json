@@ -1,0 +1,29 @@
+---
+output: win32\vdserr-h\vds_e_bad_revision_number\0x80042598\index.html.json
+
+title: 0x80042598 VDS_E_BAD_REVISION_NUMBER in vdserr.h
+description: The operation could not be completed because the specified revision number 
+is not supported.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x80042598",
+  "codeUrl": "/win32/vdserr-h/vds_e_bad_revision_number/0x80042598/",
+  "numericCode": -2147211880,
+  "define": "VDS_E_BAD_REVISION_NUMBER",
+  "defineUrl": "/win32/vdserr-h/vds_e_bad_revision_number/",
+  "message": "The operation could not be completed because the specified revision number \r\nis not supported.",
+  "remarks": null,
+  "aka": [
+    "-2147211880"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_bad_revision_number/-2147211880/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

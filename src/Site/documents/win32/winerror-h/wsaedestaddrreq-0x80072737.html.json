@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\wsaedestaddrreq\0x80072737\index.html.json
+canonical: /win32/winerror-h/wsaedestaddrreq/10039/
+title: 0x80072737 WSAEDESTADDRREQ in winerror.h
+description: A required address was omitted from an operation on a socket.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80072737",
+  "codeUrl": "/win32/winerror-h/wsaedestaddrreq/0x80072737/",
+  "numericCode": 0,
+  "define": "WSAEDESTADDRREQ",
+  "defineUrl": "/win32/winerror-h/wsaedestaddrreq/",
+  "message": "A required address was omitted from an operation on a socket.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "10039",
+  "originalCodeUrl": "/win32/winerror-h/wsaedestaddrreq/10039/"
+}

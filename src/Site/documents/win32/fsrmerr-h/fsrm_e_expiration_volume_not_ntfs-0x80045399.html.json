@@ -1,0 +1,28 @@
+---
+output: win32\fsrmerr-h\fsrm_e_expiration_volume_not_ntfs\0x80045399\index.html.json
+
+title: 0x80045399 FSRM_E_EXPIRATION_VOLUME_NOT_NTFS in fsrmerr.h
+description: The expiration directory must be on a volume formatted with the NTFS file system.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "fsrmerr.h",
+  "sourceUrl": "/win32/fsrmerr-h/",
+  "code": "0x80045399",
+  "codeUrl": "/win32/fsrmerr-h/fsrm_e_expiration_volume_not_ntfs/0x80045399/",
+  "numericCode": -2147200103,
+  "define": "FSRM_E_EXPIRATION_VOLUME_NOT_NTFS",
+  "defineUrl": "/win32/fsrmerr-h/fsrm_e_expiration_volume_not_ntfs/",
+  "message": "The expiration directory must be on a volume formatted with the NTFS file system.",
+  "remarks": null,
+  "aka": [
+    "-2147200103"
+  ],
+  "akaUrl": [
+    "/win32/fsrmerr-h/fsrm_e_expiration_volume_not_ntfs/-2147200103/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

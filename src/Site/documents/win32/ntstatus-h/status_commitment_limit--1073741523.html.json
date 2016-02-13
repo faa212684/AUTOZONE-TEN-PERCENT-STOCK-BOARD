@@ -1,0 +1,25 @@
+---
+output: win32\ntstatus-h\status_commitment_limit\-1073741523\index.html.json
+canonical: /win32/ntstatus-h/status_commitment_limit/0xc000012d/
+title: -1073741523 STATUS_COMMITMENT_LIMIT in ntstatus.h
+description: "{Out of Virtual Memory}
+Your system is low on virtual memory. To ensure that Windows runs properly, increase the size of your virtual memory paging file. For more information, see Help."
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741523",
+  "codeUrl": "/win32/ntstatus-h/status_commitment_limit/-1073741523/",
+  "numericCode": 0,
+  "define": "STATUS_COMMITMENT_LIMIT",
+  "defineUrl": "/win32/ntstatus-h/status_commitment_limit/",
+  "message": "{Out of Virtual Memory}\r\nYour system is low on virtual memory. To ensure that Windows runs properly, increase the size of your virtual memory paging file. For more information, see Help.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC000012D",
+  "originalCodeUrl": "/win32/ntstatus-h/status_commitment_limit/0xc000012d/"
+}

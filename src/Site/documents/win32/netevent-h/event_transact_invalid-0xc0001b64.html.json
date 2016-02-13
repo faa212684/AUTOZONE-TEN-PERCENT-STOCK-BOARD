@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_transact_invalid\0xc0001b64\index.html.json
+
+title: 0xC0001B64 EVENT_TRANSACT_INVALID in netevent.h
+description: Message returned in transaction has incorrect size.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC0001B64",
+  "codeUrl": "/win32/netevent-h/event_transact_invalid/0xc0001b64/",
+  "numericCode": -1073734812,
+  "define": "EVENT_TRANSACT_INVALID",
+  "defineUrl": "/win32/netevent-h/event_transact_invalid/",
+  "message": "Message returned in transaction has incorrect size.",
+  "remarks": null,
+  "aka": [
+    "-1073734812"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_transact_invalid/-1073734812/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

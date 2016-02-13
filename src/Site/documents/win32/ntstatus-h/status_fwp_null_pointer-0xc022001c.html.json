@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_fwp_null_pointer\0xc022001c\index.html.json
+
+title: 0xC022001C STATUS_FWP_NULL_POINTER in ntstatus.h
+description: A required pointer is null.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC022001C",
+  "codeUrl": "/win32/ntstatus-h/status_fwp_null_pointer/0xc022001c/",
+  "numericCode": -1071513572,
+  "define": "STATUS_FWP_NULL_POINTER",
+  "defineUrl": "/win32/ntstatus-h/status_fwp_null_pointer/",
+  "message": "A required pointer is null.",
+  "remarks": null,
+  "aka": [
+    "-1071513572"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_fwp_null_pointer/-1071513572/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

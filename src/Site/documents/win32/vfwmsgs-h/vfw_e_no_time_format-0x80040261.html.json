@@ -1,0 +1,28 @@
+---
+output: win32\vfwmsgs-h\vfw_e_no_time_format\0x80040261\index.html.json
+
+title: 0x80040261 VFW_E_NO_TIME_FORMAT in vfwmsgs.h
+description: Cannot get or set time related information on an object that is using a time format of TIME_FORMAT_NONE.%0
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vfwmsgs.h",
+  "sourceUrl": "/win32/vfwmsgs-h/",
+  "code": "0x80040261",
+  "codeUrl": "/win32/vfwmsgs-h/vfw_e_no_time_format/0x80040261/",
+  "numericCode": -2147220895,
+  "define": "VFW_E_NO_TIME_FORMAT",
+  "defineUrl": "/win32/vfwmsgs-h/vfw_e_no_time_format/",
+  "message": "Cannot get or set time related information on an object that is using a time format of TIME_FORMAT_NONE.%0",
+  "remarks": null,
+  "aka": [
+    "-2147220895"
+  ],
+  "akaUrl": [
+    "/win32/vfwmsgs-h/vfw_e_no_time_format/-2147220895/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

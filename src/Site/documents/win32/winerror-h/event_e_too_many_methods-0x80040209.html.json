@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\event_e_too_many_methods\0x80040209\index.html.json
+
+title: 0x80040209 EVENT_E_TOO_MANY_METHODS in winerror.h
+description: An interface has too many methods to fire events from
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80040209",
+  "codeUrl": "/win32/winerror-h/event_e_too_many_methods/0x80040209/",
+  "numericCode": -2147220983,
+  "define": "EVENT_E_TOO_MANY_METHODS",
+  "defineUrl": "/win32/winerror-h/event_e_too_many_methods/",
+  "message": "An interface has too many methods to fire events from",
+  "remarks": null,
+  "aka": [
+    "-2147220983"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/event_e_too_many_methods/-2147220983/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

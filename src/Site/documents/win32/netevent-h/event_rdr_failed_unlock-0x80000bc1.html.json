@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_rdr_failed_unlock\0x80000bc1\index.html.json
+
+title: 0x80000BC1 EVENT_RDR_FAILED_UNLOCK in netevent.h
+description: The redirector failed to unlock part of a file on server %2.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x80000BC1",
+  "codeUrl": "/win32/netevent-h/event_rdr_failed_unlock/0x80000bc1/",
+  "numericCode": -2147480639,
+  "define": "EVENT_RDR_FAILED_UNLOCK",
+  "defineUrl": "/win32/netevent-h/event_rdr_failed_unlock/",
+  "message": "The redirector failed to unlock part of a file on server %2.",
+  "remarks": null,
+  "aka": [
+    "-2147480639"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_rdr_failed_unlock/-2147480639/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

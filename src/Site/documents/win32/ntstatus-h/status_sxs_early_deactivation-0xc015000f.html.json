@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_sxs_early_deactivation\0xc015000f\index.html.json
+
+title: 0xC015000F STATUS_SXS_EARLY_DEACTIVATION in ntstatus.h
+description: The activation context being deactivated is not the most recently activated one.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC015000F",
+  "codeUrl": "/win32/ntstatus-h/status_sxs_early_deactivation/0xc015000f/",
+  "numericCode": -1072365553,
+  "define": "STATUS_SXS_EARLY_DEACTIVATION",
+  "defineUrl": "/win32/ntstatus-h/status_sxs_early_deactivation/",
+  "message": "The activation context being deactivated is not the most recently activated one.",
+  "remarks": null,
+  "aka": [
+    "-1072365553"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_sxs_early_deactivation/-1072365553/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

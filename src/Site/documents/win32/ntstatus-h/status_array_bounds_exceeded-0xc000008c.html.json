@@ -1,0 +1,29 @@
+---
+output: win32\ntstatus-h\status_array_bounds_exceeded\0xc000008c\index.html.json
+
+title: 0xC000008C STATUS_ARRAY_BOUNDS_EXCEEDED in ntstatus.h
+description: "{EXCEPTION}
+Array bounds exceeded."
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000008C",
+  "codeUrl": "/win32/ntstatus-h/status_array_bounds_exceeded/0xc000008c/",
+  "numericCode": -1073741684,
+  "define": "STATUS_ARRAY_BOUNDS_EXCEEDED",
+  "defineUrl": "/win32/ntstatus-h/status_array_bounds_exceeded/",
+  "message": "{EXCEPTION}\r\nArray bounds exceeded.",
+  "remarks": null,
+  "aka": [
+    "-1073741684"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_array_bounds_exceeded/-1073741684/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

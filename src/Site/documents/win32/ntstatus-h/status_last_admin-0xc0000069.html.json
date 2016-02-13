@@ -1,0 +1,29 @@
+---
+output: win32\ntstatus-h\status_last_admin\0xc0000069\index.html.json
+
+title: 0xC0000069 STATUS_LAST_ADMIN in ntstatus.h
+description: Indicates the requested operation would disable, delete or could prevent logon for an administration account.
+This is not allowed to prevent creating a situation in which the system cannot be administrated.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000069",
+  "codeUrl": "/win32/ntstatus-h/status_last_admin/0xc0000069/",
+  "numericCode": -1073741719,
+  "define": "STATUS_LAST_ADMIN",
+  "defineUrl": "/win32/ntstatus-h/status_last_admin/",
+  "message": "Indicates the requested operation would disable, delete or could prevent logon for an administration account.\r\nThis is not allowed to prevent creating a situation in which the system cannot be administrated.",
+  "remarks": null,
+  "aka": [
+    "-1073741719"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_last_admin/-1073741719/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

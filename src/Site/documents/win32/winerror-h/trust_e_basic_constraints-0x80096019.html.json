@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\trust_e_basic_constraints\0x80096019\index.html.json
+
+title: 0x80096019 TRUST_E_BASIC_CONSTRAINTS in winerror.h
+description: A certificate's basic constraint extension has not been observed.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80096019",
+  "codeUrl": "/win32/winerror-h/trust_e_basic_constraints/0x80096019/",
+  "numericCode": -2146869223,
+  "define": "TRUST_E_BASIC_CONSTRAINTS",
+  "defineUrl": "/win32/winerror-h/trust_e_basic_constraints/",
+  "message": "A certificate's basic constraint extension has not been observed.",
+  "remarks": null,
+  "aka": [
+    "-2146869223"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/trust_e_basic_constraints/-2146869223/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

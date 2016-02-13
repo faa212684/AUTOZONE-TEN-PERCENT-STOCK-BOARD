@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_e_unable_to_find_system_disk\0x8004280f\index.html.json
+
+title: 0x8004280F VDS_E_UNABLE_TO_FIND_SYSTEM_DISK in vdserr.h
+description: A system error occurred while retrieving the system disk information.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x8004280F",
+  "codeUrl": "/win32/vdserr-h/vds_e_unable_to_find_system_disk/0x8004280f/",
+  "numericCode": -2147211249,
+  "define": "VDS_E_UNABLE_TO_FIND_SYSTEM_DISK",
+  "defineUrl": "/win32/vdserr-h/vds_e_unable_to_find_system_disk/",
+  "message": "A system error occurred while retrieving the system disk information.",
+  "remarks": null,
+  "aka": [
+    "-2147211249"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_unable_to_find_system_disk/-2147211249/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

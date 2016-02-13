@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_install_package_version\1613\index.html.json
+
+title: 1613 ERROR_INSTALL_PACKAGE_VERSION in winerror.h
+description: This installation package cannot be installed by the Windows Installer service. You must install a Windows service pack that contains a newer version of the Windows Installer service.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1613",
+  "codeUrl": "/win32/winerror-h/error_install_package_version/1613/",
+  "numericCode": 1613,
+  "define": "ERROR_INSTALL_PACKAGE_VERSION",
+  "defineUrl": "/win32/winerror-h/error_install_package_version/",
+  "message": "This installation package cannot be installed by the Windows Installer service. You must install a Windows service pack that contains a newer version of the Windows Installer service.",
+  "remarks": null,
+  "aka": [
+    "0x8007064d",
+    "-2147023283"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_install_package_version/0x8007064d/",
+    "/win32/winerror-h/error_install_package_version/-2147023283/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

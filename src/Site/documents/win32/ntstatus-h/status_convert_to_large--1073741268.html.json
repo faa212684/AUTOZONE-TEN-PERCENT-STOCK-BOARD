@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_convert_to_large\-1073741268\index.html.json
+canonical: /win32/ntstatus-h/status_convert_to_large/0xc000022c/
+title: -1073741268 STATUS_CONVERT_TO_LARGE in ntstatus.h
+description: Internal OFS status codes indicating how an allocation operation is handled. Either it is retried after the containing onode is moved or the extent stream is converted to a large stream.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741268",
+  "codeUrl": "/win32/ntstatus-h/status_convert_to_large/-1073741268/",
+  "numericCode": 0,
+  "define": "STATUS_CONVERT_TO_LARGE",
+  "defineUrl": "/win32/ntstatus-h/status_convert_to_large/",
+  "message": "Internal OFS status codes indicating how an allocation operation is handled. Either it is retried after the containing onode is moved or the extent stream is converted to a large stream.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC000022C",
+  "originalCodeUrl": "/win32/ntstatus-h/status_convert_to_large/0xc000022c/"
+}

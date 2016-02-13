@@ -1,0 +1,28 @@
+---
+output: win32\wsmerror-h\error_wsman_enumerate_unable_to_renew\0x8033801d\index.html.json
+
+title: 0x8033801D ERROR_WSMAN_ENUMERATE_UNABLE_TO_RENEW in wsmerror.h
+description: The WS-Management service cannot renew the enumeration. Start a new enumeration.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x8033801D",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_enumerate_unable_to_renew/0x8033801d/",
+  "numericCode": -2144108515,
+  "define": "ERROR_WSMAN_ENUMERATE_UNABLE_TO_RENEW",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_enumerate_unable_to_renew/",
+  "message": "The WS-Management service cannot renew the enumeration. Start a new enumeration.",
+  "remarks": null,
+  "aka": [
+    "-2144108515"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_enumerate_unable_to_renew/-2144108515/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

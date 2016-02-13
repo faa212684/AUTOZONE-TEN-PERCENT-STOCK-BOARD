@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\error_vhd_differencing_chain_cycle_detected\0xc03a0018\index.html.json
+
+title: 0xC03A0018 ERROR_VHD_DIFFERENCING_CHAIN_CYCLE_DETECTED in winerror.h
+description: The chain of virtual hard disks is corrupted. A differencing disk is indicated in its own parent chain.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0xC03A0018",
+  "codeUrl": "/win32/winerror-h/error_vhd_differencing_chain_cycle_detected/0xc03a0018/",
+  "numericCode": -1069940712,
+  "define": "ERROR_VHD_DIFFERENCING_CHAIN_CYCLE_DETECTED",
+  "defineUrl": "/win32/winerror-h/error_vhd_differencing_chain_cycle_detected/",
+  "message": "The chain of virtual hard disks is corrupted. A differencing disk is indicated in its own parent chain.",
+  "remarks": null,
+  "aka": [
+    "-1069940712"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_vhd_differencing_chain_cycle_detected/-1069940712/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

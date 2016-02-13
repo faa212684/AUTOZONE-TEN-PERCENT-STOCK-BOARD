@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ipsec_ike_no_peer_cert\13847\index.html.json
+
+title: 13847 ERROR_IPSEC_IKE_NO_PEER_CERT in winerror.h
+description: Peer failed to send valid machine certificate
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "13847",
+  "codeUrl": "/win32/winerror-h/error_ipsec_ike_no_peer_cert/13847/",
+  "numericCode": 13847,
+  "define": "ERROR_IPSEC_IKE_NO_PEER_CERT",
+  "defineUrl": "/win32/winerror-h/error_ipsec_ike_no_peer_cert/",
+  "message": "Peer failed to send valid machine certificate",
+  "remarks": null,
+  "aka": [
+    "0x80073617",
+    "-2147011049"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ipsec_ike_no_peer_cert/0x80073617/",
+    "/win32/winerror-h/error_ipsec_ike_no_peer_cert/-2147011049/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

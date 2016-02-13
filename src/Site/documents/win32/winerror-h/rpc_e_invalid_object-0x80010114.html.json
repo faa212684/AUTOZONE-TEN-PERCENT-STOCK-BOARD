@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\rpc_e_invalid_object\0x80010114\index.html.json
+
+title: 0x80010114 RPC_E_INVALID_OBJECT in winerror.h
+description: The requested object does not exist.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80010114",
+  "codeUrl": "/win32/winerror-h/rpc_e_invalid_object/0x80010114/",
+  "numericCode": -2147417836,
+  "define": "RPC_E_INVALID_OBJECT",
+  "defineUrl": "/win32/winerror-h/rpc_e_invalid_object/",
+  "message": "The requested object does not exist.",
+  "remarks": null,
+  "aka": [
+    "-2147417836"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/rpc_e_invalid_object/-2147417836/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

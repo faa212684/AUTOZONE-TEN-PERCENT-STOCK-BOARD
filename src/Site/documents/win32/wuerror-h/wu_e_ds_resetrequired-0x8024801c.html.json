@@ -1,0 +1,28 @@
+---
+output: win32\wuerror-h\wu_e_ds_resetrequired\0x8024801c\index.html.json
+
+title: 0x8024801C WU_E_DS_RESETREQUIRED in wuerror.h
+description: The data store requires a session reset; release the session and retry with a new session.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wuerror.h",
+  "sourceUrl": "/win32/wuerror-h/",
+  "code": "0x8024801C",
+  "codeUrl": "/win32/wuerror-h/wu_e_ds_resetrequired/0x8024801c/",
+  "numericCode": -2145091556,
+  "define": "WU_E_DS_RESETREQUIRED",
+  "defineUrl": "/win32/wuerror-h/wu_e_ds_resetrequired/",
+  "message": "The data store requires a session reset; release the session and retry with a new session.",
+  "remarks": null,
+  "aka": [
+    "-2145091556"
+  ],
+  "akaUrl": [
+    "/win32/wuerror-h/wu_e_ds_resetrequired/-2145091556/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

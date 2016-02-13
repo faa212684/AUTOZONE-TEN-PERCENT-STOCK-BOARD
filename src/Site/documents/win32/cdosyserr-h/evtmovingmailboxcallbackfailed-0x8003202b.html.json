@@ -1,0 +1,29 @@
+---
+output: win32\cdosyserr-h\evtmovingmailboxcallbackfailed\0x8003202b\index.html.json
+
+title: 0x8003202B evtMovingMailboxCallbackFailed in CDOSysErr.h
+description: Clearing the calendar instances before a move failed for mailbox %1 with error %2.
+%n%nFor more information, click http:www.microsoft.com/contentredirect.asp.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "CDOSysErr.h",
+  "sourceUrl": "/win32/cdosyserr-h/",
+  "code": "0x8003202B",
+  "codeUrl": "/win32/cdosyserr-h/evtmovingmailboxcallbackfailed/0x8003202b/",
+  "numericCode": -2147278805,
+  "define": "evtMovingMailboxCallbackFailed",
+  "defineUrl": "/win32/cdosyserr-h/evtmovingmailboxcallbackfailed/",
+  "message": "Clearing the calendar instances before a move failed for mailbox %1 with error %2.\r\n%n%nFor more information, click http:www.microsoft.com/contentredirect.asp.",
+  "remarks": null,
+  "aka": [
+    "-2147278805"
+  ],
+  "akaUrl": [
+    "/win32/cdosyserr-h/evtmovingmailboxcallbackfailed/-2147278805/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

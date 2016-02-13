@@ -1,0 +1,28 @@
+---
+output: win32\ntdsbmsg-h\hrgivenlogfileisnotcontiguous\0xc800022c\index.html.json
+
+title: 0xC800022C hrGivenLogFileIsNotContiguous in NtDsBMsg.h
+description: Unable to find a mandatory log file after the tape was downloaded.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "NtDsBMsg.h",
+  "sourceUrl": "/win32/ntdsbmsg-h/",
+  "code": "0xC800022C",
+  "codeUrl": "/win32/ntdsbmsg-h/hrgivenlogfileisnotcontiguous/0xc800022c/",
+  "numericCode": -939523540,
+  "define": "hrGivenLogFileIsNotContiguous",
+  "defineUrl": "/win32/ntdsbmsg-h/hrgivenlogfileisnotcontiguous/",
+  "message": "Unable to find a mandatory log file after the tape was downloaded.",
+  "remarks": null,
+  "aka": [
+    "-939523540"
+  ],
+  "akaUrl": [
+    "/win32/ntdsbmsg-h/hrgivenlogfileisnotcontiguous/-939523540/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_reparse_object\280\index.html.json
+canonical: /win32/ntstatus-h/status_reparse_object/0x00000118/
+title: 280 STATUS_REPARSE_OBJECT in ntstatus.h
+description: A reparse should be performed by the Object Manager since the name of the file resulted in a symbolic link.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "280",
+  "codeUrl": "/win32/ntstatus-h/status_reparse_object/280/",
+  "numericCode": 0,
+  "define": "STATUS_REPARSE_OBJECT",
+  "defineUrl": "/win32/ntstatus-h/status_reparse_object/",
+  "message": "A reparse should be performed by the Object Manager since the name of the file resulted in a symbolic link.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x00000118",
+  "originalCodeUrl": "/win32/ntstatus-h/status_reparse_object/0x00000118/"
+}

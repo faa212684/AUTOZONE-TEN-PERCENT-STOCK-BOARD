@@ -1,0 +1,29 @@
+---
+output: win32\netevent-h\event_eqos_info_local_setting_dont_use_nla\0x40004080\index.html.json
+
+title: 0x40004080 EVENT_EQOS_INFO_LOCAL_SETTING_DONT_USE_NLA in netevent.h
+description: Selective application of QoS policies based on domain or non-domain network category has been disabled on this machine.
+QoS policies will be applied to all network interfaces.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x40004080",
+  "codeUrl": "/win32/netevent-h/event_eqos_info_local_setting_dont_use_nla/0x40004080/",
+  "numericCode": 1073758336,
+  "define": "EVENT_EQOS_INFO_LOCAL_SETTING_DONT_USE_NLA",
+  "defineUrl": "/win32/netevent-h/event_eqos_info_local_setting_dont_use_nla/",
+  "message": "Selective application of QoS policies based on domain or non-domain network category has been disabled on this machine.\r\nQoS policies will be applied to all network interfaces.",
+  "remarks": null,
+  "aka": [
+    "1073758336"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_eqos_info_local_setting_dont_use_nla/1073758336/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

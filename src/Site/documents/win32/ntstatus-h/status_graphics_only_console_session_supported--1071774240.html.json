@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_graphics_only_console_session_supported\-1071774240\index.html.json
+canonical: /win32/ntstatus-h/status_graphics_only_console_session_supported/0xc01e05e0/
+title: -1071774240 STATUS_GRAPHICS_ONLY_CONSOLE_SESSION_SUPPORTED in ntstatus.h
+description: This function can only be used if a program is running in the local console session. It cannot be used if a program is running on a remote desktop session or on a terminal server session.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071774240",
+  "codeUrl": "/win32/ntstatus-h/status_graphics_only_console_session_supported/-1071774240/",
+  "numericCode": 0,
+  "define": "STATUS_GRAPHICS_ONLY_CONSOLE_SESSION_SUPPORTED",
+  "defineUrl": "/win32/ntstatus-h/status_graphics_only_console_session_supported/",
+  "message": "This function can only be used if a program is running in the local console session. It cannot be used if a program is running on a remote desktop session or on a terminal server session.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC01E05E0",
+  "originalCodeUrl": "/win32/ntstatus-h/status_graphics_only_console_session_supported/0xc01e05e0/"
+}

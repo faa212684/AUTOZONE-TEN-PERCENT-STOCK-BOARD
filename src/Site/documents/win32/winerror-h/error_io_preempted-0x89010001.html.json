@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\error_io_preempted\0x89010001\index.html.json
+
+title: 0x89010001 ERROR_IO_PREEMPTED in winerror.h
+description: The operation was preempted by a higher priority operation. It must be resumed later.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x89010001",
+  "codeUrl": "/win32/winerror-h/error_io_preempted/0x89010001/",
+  "numericCode": -1996423167,
+  "define": "ERROR_IO_PREEMPTED",
+  "defineUrl": "/win32/winerror-h/error_io_preempted/",
+  "message": "The operation was preempted by a higher priority operation. It must be resumed later.",
+  "remarks": null,
+  "aka": [
+    "-1996423167"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_io_preempted/-1996423167/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

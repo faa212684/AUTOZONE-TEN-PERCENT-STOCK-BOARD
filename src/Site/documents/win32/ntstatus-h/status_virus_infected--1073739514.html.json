@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_virus_infected\-1073739514\index.html.json
+canonical: /win32/ntstatus-h/status_virus_infected/0xc0000906/
+title: -1073739514 STATUS_VIRUS_INFECTED in ntstatus.h
+description: Operation did not complete successfully because the file contains a virus or potentially unwanted software.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073739514",
+  "codeUrl": "/win32/ntstatus-h/status_virus_infected/-1073739514/",
+  "numericCode": 0,
+  "define": "STATUS_VIRUS_INFECTED",
+  "defineUrl": "/win32/ntstatus-h/status_virus_infected/",
+  "message": "Operation did not complete successfully because the file contains a virus or potentially unwanted software.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000906",
+  "originalCodeUrl": "/win32/ntstatus-h/status_virus_infected/0xc0000906/"
+}

@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_server_unavailable\-1073740698\index.html.json
+canonical: /win32/ntstatus-h/status_server_unavailable/0xc0000466/
+title: -1073740698 STATUS_SERVER_UNAVAILABLE in ntstatus.h
+description: The file server is temporarily unavailable.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073740698",
+  "codeUrl": "/win32/ntstatus-h/status_server_unavailable/-1073740698/",
+  "numericCode": 0,
+  "define": "STATUS_SERVER_UNAVAILABLE",
+  "defineUrl": "/win32/ntstatus-h/status_server_unavailable/",
+  "message": "The file server is temporarily unavailable.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000466",
+  "originalCodeUrl": "/win32/ntstatus-h/status_server_unavailable/0xc0000466/"
+}

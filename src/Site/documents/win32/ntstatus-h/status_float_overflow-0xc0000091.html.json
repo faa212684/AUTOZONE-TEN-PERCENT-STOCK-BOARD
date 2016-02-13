@@ -1,0 +1,29 @@
+---
+output: win32\ntstatus-h\status_float_overflow\0xc0000091\index.html.json
+
+title: 0xC0000091 STATUS_FLOAT_OVERFLOW in ntstatus.h
+description: "{EXCEPTION}
+Floating-point overflow."
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000091",
+  "codeUrl": "/win32/ntstatus-h/status_float_overflow/0xc0000091/",
+  "numericCode": -1073741679,
+  "define": "STATUS_FLOAT_OVERFLOW",
+  "defineUrl": "/win32/ntstatus-h/status_float_overflow/",
+  "message": "{EXCEPTION}\r\nFloating-point overflow.",
+  "remarks": null,
+  "aka": [
+    "-1073741679"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_float_overflow/-1073741679/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

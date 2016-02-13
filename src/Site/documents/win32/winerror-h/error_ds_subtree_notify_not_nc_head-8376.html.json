@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ds_subtree_notify_not_nc_head\8376\index.html.json
+
+title: 8376 ERROR_DS_SUBTREE_NOTIFY_NOT_NC_HEAD in winerror.h
+description: Subtree notifications are only supported on NC heads.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "8376",
+  "codeUrl": "/win32/winerror-h/error_ds_subtree_notify_not_nc_head/8376/",
+  "numericCode": 8376,
+  "define": "ERROR_DS_SUBTREE_NOTIFY_NOT_NC_HEAD",
+  "defineUrl": "/win32/winerror-h/error_ds_subtree_notify_not_nc_head/",
+  "message": "Subtree notifications are only supported on NC heads.",
+  "remarks": null,
+  "aka": [
+    "0x800720b8",
+    "-2147016520"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ds_subtree_notify_not_nc_head/0x800720b8/",
+    "/win32/winerror-h/error_ds_subtree_notify_not_nc_head/-2147016520/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\spapi_e_remote_request_unsupported\0x800f023b\index.html.json
+
+title: 0x800F023B SPAPI_E_REMOTE_REQUEST_UNSUPPORTED in winerror.h
+description: The requested operation is not supported for a remote machine.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800F023B",
+  "codeUrl": "/win32/winerror-h/spapi_e_remote_request_unsupported/0x800f023b/",
+  "numericCode": -2146500037,
+  "define": "SPAPI_E_REMOTE_REQUEST_UNSUPPORTED",
+  "defineUrl": "/win32/winerror-h/spapi_e_remote_request_unsupported/",
+  "message": "The requested operation is not supported for a remote machine.",
+  "remarks": null,
+  "aka": [
+    "-2146500037"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/spapi_e_remote_request_unsupported/-2146500037/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\dns_error_inconsistent_root_hints\9565\index.html.json
+
+title: 9565 DNS_ERROR_INCONSISTENT_ROOT_HINTS in winerror.h
+description: The DNS server found root hints but they were not consistent across all adapters.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "9565",
+  "codeUrl": "/win32/winerror-h/dns_error_inconsistent_root_hints/9565/",
+  "numericCode": 9565,
+  "define": "DNS_ERROR_INCONSISTENT_ROOT_HINTS",
+  "defineUrl": "/win32/winerror-h/dns_error_inconsistent_root_hints/",
+  "message": "The DNS server found root hints but they were not consistent across all adapters.",
+  "remarks": null,
+  "aka": [
+    "0x8007255d",
+    "-2147015331"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/dns_error_inconsistent_root_hints/0x8007255d/",
+    "/win32/winerror-h/dns_error_inconsistent_root_hints/-2147015331/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

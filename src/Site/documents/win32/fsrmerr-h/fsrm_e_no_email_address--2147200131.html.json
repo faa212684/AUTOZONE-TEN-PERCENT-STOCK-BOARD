@@ -1,0 +1,24 @@
+---
+output: win32\fsrmerr-h\fsrm_e_no_email_address\-2147200131\index.html.json
+canonical: /win32/fsrmerr-h/fsrm_e_no_email_address/0x8004537d/
+title: -2147200131 FSRM_E_NO_EMAIL_ADDRESS in fsrmerr.h
+description: Access-denied assistance cannot send an email because an email address could not be found for the path specified, and sending email to the administrator is not enabled.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "fsrmerr.h",
+  "sourceUrl": "/win32/fsrmerr-h/",
+  "code": "-2147200131",
+  "codeUrl": "/win32/fsrmerr-h/fsrm_e_no_email_address/-2147200131/",
+  "numericCode": 0,
+  "define": "FSRM_E_NO_EMAIL_ADDRESS",
+  "defineUrl": "/win32/fsrmerr-h/fsrm_e_no_email_address/",
+  "message": "Access-denied assistance cannot send an email because an email address could not be found for the path specified, and sending email to the administrator is not enabled.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x8004537D",
+  "originalCodeUrl": "/win32/fsrmerr-h/fsrm_e_no_email_address/0x8004537d/"
+}

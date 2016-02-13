@@ -1,0 +1,28 @@
+---
+output: win32\ntiologc-h\mca_warning_pci_bus_timeout_no_info\0x8005005e\index.html.json
+
+title: 0x8005005E MCA_WARNING_PCI_BUS_TIMEOUT_NO_INFO in ntiologc.h
+description: Machine Check Event reported is a corrected PCI bus Timeout error reported to CPU %1. %2 additional error(s) are contained within the record.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntiologc.h",
+  "sourceUrl": "/win32/ntiologc-h/",
+  "code": "0x8005005E",
+  "codeUrl": "/win32/ntiologc-h/mca_warning_pci_bus_timeout_no_info/0x8005005e/",
+  "numericCode": -2147155874,
+  "define": "MCA_WARNING_PCI_BUS_TIMEOUT_NO_INFO",
+  "defineUrl": "/win32/ntiologc-h/mca_warning_pci_bus_timeout_no_info/",
+  "message": "Machine Check Event reported is a corrected PCI bus Timeout error reported to CPU %1. %2 additional error(s) are contained within the record.",
+  "remarks": null,
+  "aka": [
+    "-2147155874"
+  ],
+  "akaUrl": [
+    "/win32/ntiologc-h/mca_warning_pci_bus_timeout_no_info/-2147155874/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_not_tiny_stream\0xc0000226\index.html.json
+
+title: 0xC0000226 STATUS_NOT_TINY_STREAM in ntstatus.h
+description: The stream is not a tiny stream.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000226",
+  "codeUrl": "/win32/ntstatus-h/status_not_tiny_stream/0xc0000226/",
+  "numericCode": -1073741274,
+  "define": "STATUS_NOT_TINY_STREAM",
+  "defineUrl": "/win32/ntstatus-h/status_not_tiny_stream/",
+  "message": "The stream is not a tiny stream.",
+  "remarks": null,
+  "aka": [
+    "-1073741274"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_not_tiny_stream/-1073741274/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

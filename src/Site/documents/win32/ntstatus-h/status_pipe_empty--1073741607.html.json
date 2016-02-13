@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_pipe_empty\-1073741607\index.html.json
+canonical: /win32/ntstatus-h/status_pipe_empty/0xc00000d9/
+title: -1073741607 STATUS_PIPE_EMPTY in ntstatus.h
+description: Used to indicate that a read operation was done on an empty pipe.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741607",
+  "codeUrl": "/win32/ntstatus-h/status_pipe_empty/-1073741607/",
+  "numericCode": 0,
+  "define": "STATUS_PIPE_EMPTY",
+  "defineUrl": "/win32/ntstatus-h/status_pipe_empty/",
+  "message": "Used to indicate that a read operation was done on an empty pipe.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC00000D9",
+  "originalCodeUrl": "/win32/ntstatus-h/status_pipe_empty/0xc00000d9/"
+}

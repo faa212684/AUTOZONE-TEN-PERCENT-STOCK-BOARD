@@ -1,0 +1,25 @@
+---
+output: win32\ntstatus-h\status_registry_quota_limit\-1073741226\index.html.json
+canonical: /win32/ntstatus-h/status_registry_quota_limit/0xc0000256/
+title: -1073741226 STATUS_REGISTRY_QUOTA_LIMIT in ntstatus.h
+description: "{Low On Registry Space}
+The system has reached the maximum size allowed for the system part of the registry. Additional storage requests will be ignored."
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741226",
+  "codeUrl": "/win32/ntstatus-h/status_registry_quota_limit/-1073741226/",
+  "numericCode": 0,
+  "define": "STATUS_REGISTRY_QUOTA_LIMIT",
+  "defineUrl": "/win32/ntstatus-h/status_registry_quota_limit/",
+  "message": "{Low On Registry Space}\r\nThe system has reached the maximum size allowed for the system part of the registry. Additional storage requests will be ignored.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000256",
+  "originalCodeUrl": "/win32/ntstatus-h/status_registry_quota_limit/0xc0000256/"
+}

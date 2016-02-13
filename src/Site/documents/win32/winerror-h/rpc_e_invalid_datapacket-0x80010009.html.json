@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\rpc_e_invalid_datapacket\0x80010009\index.html.json
+
+title: 0x80010009 RPC_E_INVALID_DATAPACKET in winerror.h
+description: The data packet with the marshalled parameter data is incorrect.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80010009",
+  "codeUrl": "/win32/winerror-h/rpc_e_invalid_datapacket/0x80010009/",
+  "numericCode": -2147418103,
+  "define": "RPC_E_INVALID_DATAPACKET",
+  "defineUrl": "/win32/winerror-h/rpc_e_invalid_datapacket/",
+  "message": "The data packet with the marshalled parameter data is incorrect.",
+  "remarks": null,
+  "aka": [
+    "-2147418103"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/rpc_e_invalid_datapacket/-2147418103/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\windowssearcherrors-h\people_import_e_dirsync_notrefreshed\0x80044011\index.html.json
+
+title: 0x80044011 PEOPLE_IMPORT_E_DIRSYNC_NOTREFRESHED in WindowsSearchErrors.h
+description: You do not have sufficient permissions for incremental import, or the DirSync cookie stored in the user profile database is corrupt. If you are importing from a Windows 2000 domain, check that the import account has the Replicate Changes permission for Active Directory directory services. If the import account has the permission, start a full import to refresh the cookie.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "0x80044011",
+  "codeUrl": "/win32/windowssearcherrors-h/people_import_e_dirsync_notrefreshed/0x80044011/",
+  "numericCode": -2147205103,
+  "define": "PEOPLE_IMPORT_E_DIRSYNC_NOTREFRESHED",
+  "defineUrl": "/win32/windowssearcherrors-h/people_import_e_dirsync_notrefreshed/",
+  "message": "You do not have sufficient permissions for incremental import, or the DirSync cookie stored in the user profile database is corrupt. If you are importing from a Windows 2000 domain, check that the import account has the Replicate Changes permission for Active Directory directory services. If the import account has the permission, start a full import to refresh the cookie.",
+  "remarks": null,
+  "aka": [
+    "-2147205103"
+  ],
+  "akaUrl": [
+    "/win32/windowssearcherrors-h/people_import_e_dirsync_notrefreshed/-2147205103/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

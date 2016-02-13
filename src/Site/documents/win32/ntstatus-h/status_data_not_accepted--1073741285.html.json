@@ -1,0 +1,25 @@
+---
+output: win32\ntstatus-h\status_data_not_accepted\-1073741285\index.html.json
+canonical: /win32/ntstatus-h/status_data_not_accepted/0xc000021b/
+title: -1073741285 STATUS_DATA_NOT_ACCEPTED in ntstatus.h
+description: "{Data Not Accepted}
+The TDI client could not handle the data received during an indication."
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741285",
+  "codeUrl": "/win32/ntstatus-h/status_data_not_accepted/-1073741285/",
+  "numericCode": 0,
+  "define": "STATUS_DATA_NOT_ACCEPTED",
+  "defineUrl": "/win32/ntstatus-h/status_data_not_accepted/",
+  "message": "{Data Not Accepted}\r\nThe TDI client could not handle the data received during an indication.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC000021B",
+  "originalCodeUrl": "/win32/ntstatus-h/status_data_not_accepted/0xc000021b/"
+}

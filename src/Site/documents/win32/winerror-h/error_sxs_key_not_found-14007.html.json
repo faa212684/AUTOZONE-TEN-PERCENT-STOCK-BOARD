@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_sxs_key_not_found\14007\index.html.json
+
+title: 14007 ERROR_SXS_KEY_NOT_FOUND in winerror.h
+description: The requested lookup key was not found in any active activation context.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "14007",
+  "codeUrl": "/win32/winerror-h/error_sxs_key_not_found/14007/",
+  "numericCode": 14007,
+  "define": "ERROR_SXS_KEY_NOT_FOUND",
+  "defineUrl": "/win32/winerror-h/error_sxs_key_not_found/",
+  "message": "The requested lookup key was not found in any active activation context.",
+  "remarks": null,
+  "aka": [
+    "0x800736b7",
+    "-2147010889"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_sxs_key_not_found/0x800736b7/",
+    "/win32/winerror-h/error_sxs_key_not_found/-2147010889/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

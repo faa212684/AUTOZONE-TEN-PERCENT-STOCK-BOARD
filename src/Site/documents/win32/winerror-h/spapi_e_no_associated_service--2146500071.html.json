@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\spapi_e_no_associated_service\-2146500071\index.html.json
+canonical: /win32/winerror-h/spapi_e_no_associated_service/0x800f0219/
+title: -2146500071 SPAPI_E_NO_ASSOCIATED_SERVICE in winerror.h
+description: The installation failed because a function driver was not specified for this device instance.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2146500071",
+  "codeUrl": "/win32/winerror-h/spapi_e_no_associated_service/-2146500071/",
+  "numericCode": 0,
+  "define": "SPAPI_E_NO_ASSOCIATED_SERVICE",
+  "defineUrl": "/win32/winerror-h/spapi_e_no_associated_service/",
+  "message": "The installation failed because a function driver was not specified for this device instance.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x800F0219",
+  "originalCodeUrl": "/win32/winerror-h/spapi_e_no_associated_service/0x800f0219/"
+}

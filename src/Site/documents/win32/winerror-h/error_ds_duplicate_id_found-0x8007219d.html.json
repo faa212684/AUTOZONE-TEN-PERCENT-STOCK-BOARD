@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_ds_duplicate_id_found\0x8007219d\index.html.json
+canonical: /win32/winerror-h/error_ds_duplicate_id_found/8605/
+title: 0x8007219d ERROR_DS_DUPLICATE_ID_FOUND in winerror.h
+description: The requested object has a non-unique identifier and cannot be retrieved.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007219d",
+  "codeUrl": "/win32/winerror-h/error_ds_duplicate_id_found/0x8007219d/",
+  "numericCode": 0,
+  "define": "ERROR_DS_DUPLICATE_ID_FOUND",
+  "defineUrl": "/win32/winerror-h/error_ds_duplicate_id_found/",
+  "message": "The requested object has a non-unique identifier and cannot be retrieved.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "8605",
+  "originalCodeUrl": "/win32/winerror-h/error_ds_duplicate_id_found/8605/"
+}

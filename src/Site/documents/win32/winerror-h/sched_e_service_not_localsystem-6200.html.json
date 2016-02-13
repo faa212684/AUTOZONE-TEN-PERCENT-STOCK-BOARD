@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\sched_e_service_not_localsystem\6200\index.html.json
+
+title: 6200 SCHED_E_SERVICE_NOT_LOCALSYSTEM in winerror.h
+description: The Task Scheduler service must be configured to run in the System account to function properly. Individual tasks may be configured to run in other accounts.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "6200",
+  "codeUrl": "/win32/winerror-h/sched_e_service_not_localsystem/6200/",
+  "numericCode": 6200,
+  "define": "SCHED_E_SERVICE_NOT_LOCALSYSTEM",
+  "defineUrl": "/win32/winerror-h/sched_e_service_not_localsystem/",
+  "message": "The Task Scheduler service must be configured to run in the System account to function properly. Individual tasks may be configured to run in other accounts.",
+  "remarks": null,
+  "aka": [
+    "0x80071838",
+    "-2147018696"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/sched_e_service_not_localsystem/0x80071838/",
+    "/win32/winerror-h/sched_e_service_not_localsystem/-2147018696/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\fwp_e_incompatible_sa_state\0x8032001b\index.html.json
+
+title: 0x8032001B FWP_E_INCOMPATIBLE_SA_STATE in winerror.h
+description: The call is not allowed for the current security association state.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8032001B",
+  "codeUrl": "/win32/winerror-h/fwp_e_incompatible_sa_state/0x8032001b/",
+  "numericCode": -2144206821,
+  "define": "FWP_E_INCOMPATIBLE_SA_STATE",
+  "defineUrl": "/win32/winerror-h/fwp_e_incompatible_sa_state/",
+  "message": "The call is not allowed for the current security association state.",
+  "remarks": null,
+  "aka": [
+    "-2144206821"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/fwp_e_incompatible_sa_state/-2144206821/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

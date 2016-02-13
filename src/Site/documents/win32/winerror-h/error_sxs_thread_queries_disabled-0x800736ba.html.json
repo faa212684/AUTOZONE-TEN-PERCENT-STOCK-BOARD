@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_sxs_thread_queries_disabled\0x800736ba\index.html.json
+canonical: /win32/winerror-h/error_sxs_thread_queries_disabled/14010/
+title: 0x800736ba ERROR_SXS_THREAD_QUERIES_DISABLED in winerror.h
+description: Lack of system resources has required isolated activation to be disabled for the current thread of execution.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800736ba",
+  "codeUrl": "/win32/winerror-h/error_sxs_thread_queries_disabled/0x800736ba/",
+  "numericCode": 0,
+  "define": "ERROR_SXS_THREAD_QUERIES_DISABLED",
+  "defineUrl": "/win32/winerror-h/error_sxs_thread_queries_disabled/",
+  "message": "Lack of system resources has required isolated activation to be disabled for the current thread of execution.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "14010",
+  "originalCodeUrl": "/win32/winerror-h/error_sxs_thread_queries_disabled/14010/"
+}

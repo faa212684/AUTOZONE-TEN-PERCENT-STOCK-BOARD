@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_cluster_node_not_found\0xc0130004\index.html.json
+
+title: 0xC0130004 STATUS_CLUSTER_NODE_NOT_FOUND in ntstatus.h
+description: The cluster node was not found.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0130004",
+  "codeUrl": "/win32/ntstatus-h/status_cluster_node_not_found/0xc0130004/",
+  "numericCode": -1072496636,
+  "define": "STATUS_CLUSTER_NODE_NOT_FOUND",
+  "defineUrl": "/win32/ntstatus-h/status_cluster_node_not_found/",
+  "message": "The cluster node was not found.",
+  "remarks": null,
+  "aka": [
+    "-1072496636"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_cluster_node_not_found/-1072496636/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

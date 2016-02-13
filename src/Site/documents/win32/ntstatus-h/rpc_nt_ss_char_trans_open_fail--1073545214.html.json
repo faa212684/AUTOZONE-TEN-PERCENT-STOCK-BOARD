@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\rpc_nt_ss_char_trans_open_fail\-1073545214\index.html.json
+canonical: /win32/ntstatus-h/rpc_nt_ss_char_trans_open_fail/0xc0030002/
+title: -1073545214 RPC_NT_SS_CHAR_TRANS_OPEN_FAIL in ntstatus.h
+description: The file designated by DCERPCCHARTRANS cannot be opened.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073545214",
+  "codeUrl": "/win32/ntstatus-h/rpc_nt_ss_char_trans_open_fail/-1073545214/",
+  "numericCode": 0,
+  "define": "RPC_NT_SS_CHAR_TRANS_OPEN_FAIL",
+  "defineUrl": "/win32/ntstatus-h/rpc_nt_ss_char_trans_open_fail/",
+  "message": "The file designated by DCERPCCHARTRANS cannot be opened.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0030002",
+  "originalCodeUrl": "/win32/ntstatus-h/rpc_nt_ss_char_trans_open_fail/0xc0030002/"
+}

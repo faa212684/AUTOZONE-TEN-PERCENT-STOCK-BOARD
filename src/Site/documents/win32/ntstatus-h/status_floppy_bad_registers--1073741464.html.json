@@ -1,0 +1,25 @@
+---
+output: win32\ntstatus-h\status_floppy_bad_registers\-1073741464\index.html.json
+canonical: /win32/ntstatus-h/status_floppy_bad_registers/0xc0000168/
+title: -1073741464 STATUS_FLOPPY_BAD_REGISTERS in ntstatus.h
+description: "{Floppy Disk Error}
+While accessing a floppy-disk, the controller returned inconsistent results via its registers."
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741464",
+  "codeUrl": "/win32/ntstatus-h/status_floppy_bad_registers/-1073741464/",
+  "numericCode": 0,
+  "define": "STATUS_FLOPPY_BAD_REGISTERS",
+  "defineUrl": "/win32/ntstatus-h/status_floppy_bad_registers/",
+  "message": "{Floppy Disk Error}\r\nWhile accessing a floppy-disk, the controller returned inconsistent results via its registers.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000168",
+  "originalCodeUrl": "/win32/ntstatus-h/status_floppy_bad_registers/0xc0000168/"
+}

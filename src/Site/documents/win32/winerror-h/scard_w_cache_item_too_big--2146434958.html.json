@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\scard_w_cache_item_too_big\-2146434958\index.html.json
+canonical: /win32/winerror-h/scard_w_cache_item_too_big/0x80100072/
+title: -2146434958 SCARD_W_CACHE_ITEM_TOO_BIG in winerror.h
+description: The new cache item exceeds the maximum per-item size defined for the cache.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2146434958",
+  "codeUrl": "/win32/winerror-h/scard_w_cache_item_too_big/-2146434958/",
+  "numericCode": 0,
+  "define": "SCARD_W_CACHE_ITEM_TOO_BIG",
+  "defineUrl": "/win32/winerror-h/scard_w_cache_item_too_big/",
+  "message": "The new cache item exceeds the maximum per-item size defined for the cache.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80100072",
+  "originalCodeUrl": "/win32/winerror-h/scard_w_cache_item_too_big/0x80100072/"
+}

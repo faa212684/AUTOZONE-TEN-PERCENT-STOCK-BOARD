@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_port_not_set\0xc0000353\index.html.json
+
+title: 0xC0000353 STATUS_PORT_NOT_SET in ntstatus.h
+description: An attempt to remove a process's DebugPort was made, but a port was not already associated with the process.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000353",
+  "codeUrl": "/win32/ntstatus-h/status_port_not_set/0xc0000353/",
+  "numericCode": -1073740973,
+  "define": "STATUS_PORT_NOT_SET",
+  "defineUrl": "/win32/ntstatus-h/status_port_not_set/",
+  "message": "An attempt to remove a process's DebugPort was made, but a port was not already associated with the process.",
+  "remarks": null,
+  "aka": [
+    "-1073740973"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_port_not_set/-1073740973/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

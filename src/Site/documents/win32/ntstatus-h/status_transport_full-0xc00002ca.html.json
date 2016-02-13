@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_transport_full\0xc00002ca\index.html.json
+
+title: 0xC00002CA STATUS_TRANSPORT_FULL in ntstatus.h
+description: The medium changer's transport element contains media, which is causing the operation to fail.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC00002CA",
+  "codeUrl": "/win32/ntstatus-h/status_transport_full/0xc00002ca/",
+  "numericCode": -1073741110,
+  "define": "STATUS_TRANSPORT_FULL",
+  "defineUrl": "/win32/ntstatus-h/status_transport_full/",
+  "message": "The medium changer's transport element contains media, which is causing the operation to fail.",
+  "remarks": null,
+  "aka": [
+    "-1073741110"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_transport_full/-1073741110/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

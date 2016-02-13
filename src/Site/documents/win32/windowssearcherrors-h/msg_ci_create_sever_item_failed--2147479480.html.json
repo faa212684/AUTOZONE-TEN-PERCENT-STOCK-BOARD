@@ -1,0 +1,24 @@
+---
+output: win32\windowssearcherrors-h\msg_ci_create_sever_item_failed\-2147479480\index.html.json
+canonical: /win32/windowssearcherrors-h/msg_ci_create_sever_item_failed/0x80001048/
+title: -2147479480 MSG_CI_CREATE_SEVER_ITEM_FAILED in WindowsSearchErrors.h
+description: %1 Unable to create the query engine's first request item due to error %2. It's possible that the MSFTESQL service account is invalid or the password has expired.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "-2147479480",
+  "codeUrl": "/win32/windowssearcherrors-h/msg_ci_create_sever_item_failed/-2147479480/",
+  "numericCode": 0,
+  "define": "MSG_CI_CREATE_SEVER_ITEM_FAILED",
+  "defineUrl": "/win32/windowssearcherrors-h/msg_ci_create_sever_item_failed/",
+  "message": "%1 Unable to create the query engine's first request item due to error %2. It's possible that the MSFTESQL service account is invalid or the password has expired.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80001048",
+  "originalCodeUrl": "/win32/windowssearcherrors-h/msg_ci_create_sever_item_failed/0x80001048/"
+}

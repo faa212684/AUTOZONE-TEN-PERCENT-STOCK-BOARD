@@ -1,0 +1,25 @@
+---
+output: win32\netevent-h\event_eqos_warning_machine_policy_no_fullpath_appname\-2147467038\index.html.json
+canonical: /win32/netevent-h/event_eqos_warning_machine_policy_no_fullpath_appname/0x800040e2/
+title: -2147467038 EVENT_EQOS_WARNING_MACHINE_POLICY_NO_FULLPATH_APPNAME in netevent.h
+description: A computer QoS policy "%2" was ignored because the application path cannot be processed.  
+The application path may be totally invalid, or has an invalid drive letter, or contains network-mapped drive letter.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "-2147467038",
+  "codeUrl": "/win32/netevent-h/event_eqos_warning_machine_policy_no_fullpath_appname/-2147467038/",
+  "numericCode": 0,
+  "define": "EVENT_EQOS_WARNING_MACHINE_POLICY_NO_FULLPATH_APPNAME",
+  "defineUrl": "/win32/netevent-h/event_eqos_warning_machine_policy_no_fullpath_appname/",
+  "message": "A computer QoS policy \"%2\" was ignored because the application path cannot be processed.  \r\nThe application path may be totally invalid, or has an invalid drive letter, or contains network-mapped drive letter.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x800040E2",
+  "originalCodeUrl": "/win32/netevent-h/event_eqos_warning_machine_policy_no_fullpath_appname/0x800040e2/"
+}

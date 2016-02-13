@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_e_incorrect_system_volume_extent_info\0x80042810\index.html.json
+
+title: 0x80042810 VDS_E_INCORRECT_SYSTEM_VOLUME_EXTENT_INFO in vdserr.h
+description: Multiple disk extents reported for the system volume - system error.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x80042810",
+  "codeUrl": "/win32/vdserr-h/vds_e_incorrect_system_volume_extent_info/0x80042810/",
+  "numericCode": -2147211248,
+  "define": "VDS_E_INCORRECT_SYSTEM_VOLUME_EXTENT_INFO",
+  "defineUrl": "/win32/vdserr-h/vds_e_incorrect_system_volume_extent_info/",
+  "message": "Multiple disk extents reported for the system volume - system error.",
+  "remarks": null,
+  "aka": [
+    "-2147211248"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_incorrect_system_volume_extent_info/-2147211248/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

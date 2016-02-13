@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_patch_package_rejected\1643\index.html.json
+
+title: 1643 ERROR_PATCH_PACKAGE_REJECTED in winerror.h
+description: The update package is not permitted by software restriction policy.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1643",
+  "codeUrl": "/win32/winerror-h/error_patch_package_rejected/1643/",
+  "numericCode": 1643,
+  "define": "ERROR_PATCH_PACKAGE_REJECTED",
+  "defineUrl": "/win32/winerror-h/error_patch_package_rejected/",
+  "message": "The update package is not permitted by software restriction policy.",
+  "remarks": null,
+  "aka": [
+    "0x8007066b",
+    "-2147023253"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_patch_package_rejected/0x8007066b/",
+    "/win32/winerror-h/error_patch_package_rejected/-2147023253/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

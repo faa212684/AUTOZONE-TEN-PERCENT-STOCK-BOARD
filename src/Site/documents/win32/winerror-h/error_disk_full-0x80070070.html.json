@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_disk_full\0x80070070\index.html.json
+canonical: /win32/winerror-h/error_disk_full/112/
+title: 0x80070070 ERROR_DISK_FULL in winerror.h
+description: There is not enough space on the disk.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80070070",
+  "codeUrl": "/win32/winerror-h/error_disk_full/0x80070070/",
+  "numericCode": 0,
+  "define": "ERROR_DISK_FULL",
+  "defineUrl": "/win32/winerror-h/error_disk_full/",
+  "message": "There is not enough space on the disk.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "112",
+  "originalCodeUrl": "/win32/winerror-h/error_disk_full/112/"
+}

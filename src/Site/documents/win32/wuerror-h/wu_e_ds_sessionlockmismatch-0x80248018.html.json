@@ -1,0 +1,28 @@
+---
+output: win32\wuerror-h\wu_e_ds_sessionlockmismatch\0x80248018\index.html.json
+
+title: 0x80248018 WU_E_DS_SESSIONLOCKMISMATCH in wuerror.h
+description: A table was not closed because it is not associated with the session.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wuerror.h",
+  "sourceUrl": "/win32/wuerror-h/",
+  "code": "0x80248018",
+  "codeUrl": "/win32/wuerror-h/wu_e_ds_sessionlockmismatch/0x80248018/",
+  "numericCode": -2145091560,
+  "define": "WU_E_DS_SESSIONLOCKMISMATCH",
+  "defineUrl": "/win32/wuerror-h/wu_e_ds_sessionlockmismatch/",
+  "message": "A table was not closed because it is not associated with the session.",
+  "remarks": null,
+  "aka": [
+    "-2145091560"
+  ],
+  "akaUrl": [
+    "/win32/wuerror-h/wu_e_ds_sessionlockmismatch/-2145091560/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

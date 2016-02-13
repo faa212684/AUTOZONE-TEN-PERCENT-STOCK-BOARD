@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_ndis_not_supported\0xc02300bb\index.html.json
+
+title: 0xC02300BB STATUS_NDIS_NOT_SUPPORTED in ntstatus.h
+description: Netword interface does not support this request.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC02300BB",
+  "codeUrl": "/win32/ntstatus-h/status_ndis_not_supported/0xc02300bb/",
+  "numericCode": -1071447877,
+  "define": "STATUS_NDIS_NOT_SUPPORTED",
+  "defineUrl": "/win32/ntstatus-h/status_ndis_not_supported/",
+  "message": "Netword interface does not support this request.",
+  "remarks": null,
+  "aka": [
+    "-1071447877"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_ndis_not_supported/-1071447877/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

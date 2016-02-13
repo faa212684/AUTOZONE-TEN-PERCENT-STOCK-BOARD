@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\pla_e_conflict_incl_excl_api\0x80300105\index.html.json
+
+title: 0x80300105 PLA_E_CONFLICT_INCL_EXCL_API in winerror.h
+description: A conflict was detected in the list of include/exclude APIs. Do not specify the same API in both the include list and the exclude list.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80300105",
+  "codeUrl": "/win32/winerror-h/pla_e_conflict_incl_excl_api/0x80300105/",
+  "numericCode": -2144337659,
+  "define": "PLA_E_CONFLICT_INCL_EXCL_API",
+  "defineUrl": "/win32/winerror-h/pla_e_conflict_incl_excl_api/",
+  "message": "A conflict was detected in the list of include/exclude APIs. Do not specify the same API in both the include list and the exclude list.",
+  "remarks": null,
+  "aka": [
+    "-2144337659"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/pla_e_conflict_incl_excl_api/-2144337659/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

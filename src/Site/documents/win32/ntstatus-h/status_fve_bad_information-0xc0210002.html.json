@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_fve_bad_information\0xc0210002\index.html.json
+
+title: 0xC0210002 STATUS_FVE_BAD_INFORMATION in ntstatus.h
+description: The control block for the encrypted volume is not valid.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0210002",
+  "codeUrl": "/win32/ntstatus-h/status_fve_bad_information/0xc0210002/",
+  "numericCode": -1071579134,
+  "define": "STATUS_FVE_BAD_INFORMATION",
+  "defineUrl": "/win32/ntstatus-h/status_fve_bad_information/",
+  "message": "The control block for the encrypted volume is not valid.",
+  "remarks": null,
+  "aka": [
+    "-1071579134"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_fve_bad_information/-1071579134/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

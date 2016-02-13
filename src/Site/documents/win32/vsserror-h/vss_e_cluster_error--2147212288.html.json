@@ -1,0 +1,24 @@
+---
+output: win32\vsserror-h\vss_e_cluster_error\-2147212288\index.html.json
+canonical: /win32/vsserror-h/vss_e_cluster_error/0x80042400/
+title: -2147212288 VSS_E_CLUSTER_ERROR in vsserror.h
+description: The clustered disks could not be enumerated or could not be put into cluster maintenance mode. Check the System event log for cluster related events and the Application event log for VSS related events.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vsserror.h",
+  "sourceUrl": "/win32/vsserror-h/",
+  "code": "-2147212288",
+  "codeUrl": "/win32/vsserror-h/vss_e_cluster_error/-2147212288/",
+  "numericCode": 0,
+  "define": "VSS_E_CLUSTER_ERROR",
+  "defineUrl": "/win32/vsserror-h/vss_e_cluster_error/",
+  "message": "The clustered disks could not be enumerated or could not be put into cluster maintenance mode. Check the System event log for cluster related events and the Application event log for VSS related events.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80042400",
+  "originalCodeUrl": "/win32/vsserror-h/vss_e_cluster_error/0x80042400/"
+}

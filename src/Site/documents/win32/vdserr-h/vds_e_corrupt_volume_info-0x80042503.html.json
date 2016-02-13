@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_e_corrupt_volume_info\0x80042503\index.html.json
+
+title: 0x80042503 VDS_E_CORRUPT_VOLUME_INFO in vdserr.h
+description: The volume's driver information is corrupt. Operations on the volume will fail.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x80042503",
+  "codeUrl": "/win32/vdserr-h/vds_e_corrupt_volume_info/0x80042503/",
+  "numericCode": -2147212029,
+  "define": "VDS_E_CORRUPT_VOLUME_INFO",
+  "defineUrl": "/win32/vdserr-h/vds_e_corrupt_volume_info/",
+  "message": "The volume's driver information is corrupt. Operations on the volume will fail.",
+  "remarks": null,
+  "aka": [
+    "-2147212029"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_corrupt_volume_info/-2147212029/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

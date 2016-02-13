@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\rpc_s_no_call_active\0x800706bd\index.html.json
+canonical: /win32/winerror-h/rpc_s_no_call_active/1725/
+title: 0x800706bd RPC_S_NO_CALL_ACTIVE in winerror.h
+description: There are no remote procedure calls active on this thread.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800706bd",
+  "codeUrl": "/win32/winerror-h/rpc_s_no_call_active/0x800706bd/",
+  "numericCode": 0,
+  "define": "RPC_S_NO_CALL_ACTIVE",
+  "defineUrl": "/win32/winerror-h/rpc_s_no_call_active/",
+  "message": "There are no remote procedure calls active on this thread.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "1725",
+  "originalCodeUrl": "/win32/winerror-h/rpc_s_no_call_active/1725/"
+}

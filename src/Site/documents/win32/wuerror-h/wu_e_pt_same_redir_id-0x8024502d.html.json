@@ -1,0 +1,28 @@
+---
+output: win32\wuerror-h\wu_e_pt_same_redir_id\0x8024502d\index.html.json
+
+title: 0x8024502D WU_E_PT_SAME_REDIR_ID in wuerror.h
+description: Windows Update Agent failed to download a redirector cabinet file with a new redirectorId value from the server during the recovery.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wuerror.h",
+  "sourceUrl": "/win32/wuerror-h/",
+  "code": "0x8024502D",
+  "codeUrl": "/win32/wuerror-h/wu_e_pt_same_redir_id/0x8024502d/",
+  "numericCode": -2145103827,
+  "define": "WU_E_PT_SAME_REDIR_ID",
+  "defineUrl": "/win32/wuerror-h/wu_e_pt_same_redir_id/",
+  "message": "Windows Update Agent failed to download a redirector cabinet file with a new redirectorId value from the server during the recovery.",
+  "remarks": null,
+  "aka": [
+    "-2145103827"
+  ],
+  "akaUrl": [
+    "/win32/wuerror-h/wu_e_pt_same_redir_id/-2145103827/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

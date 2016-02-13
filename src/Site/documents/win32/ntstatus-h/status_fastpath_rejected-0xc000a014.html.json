@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_fastpath_rejected\0xc000a014\index.html.json
+
+title: 0xC000A014 STATUS_FASTPATH_REJECTED in ntstatus.h
+description: An operation or data has been rejected while on the network fast path.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000A014",
+  "codeUrl": "/win32/ntstatus-h/status_fastpath_rejected/0xc000a014/",
+  "numericCode": -1073700844,
+  "define": "STATUS_FASTPATH_REJECTED",
+  "defineUrl": "/win32/ntstatus-h/status_fastpath_rejected/",
+  "message": "An operation or data has been rejected while on the network fast path.",
+  "remarks": null,
+  "aka": [
+    "-1073700844"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_fastpath_rejected/-1073700844/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

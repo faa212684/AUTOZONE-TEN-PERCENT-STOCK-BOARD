@@ -1,0 +1,28 @@
+---
+output: win32\oledberr-h\db_e_notasubregion\0x80040e2d\index.html.json
+
+title: 0x80040E2D DB_E_NOTASUBREGION in oledberr.h
+description: Region is not a proper subregion of the region identified by the watch region handle.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "oledberr.h",
+  "sourceUrl": "/win32/oledberr-h/",
+  "code": "0x80040E2D",
+  "codeUrl": "/win32/oledberr-h/db_e_notasubregion/0x80040e2d/",
+  "numericCode": -2147217875,
+  "define": "DB_E_NOTASUBREGION",
+  "defineUrl": "/win32/oledberr-h/db_e_notasubregion/",
+  "message": "Region is not a proper subregion of the region identified by the watch region handle.",
+  "remarks": null,
+  "aka": [
+    "-2147217875"
+  ],
+  "akaUrl": [
+    "/win32/oledberr-h/db_e_notasubregion/-2147217875/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

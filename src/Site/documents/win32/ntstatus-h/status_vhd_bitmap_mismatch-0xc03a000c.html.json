@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_vhd_bitmap_mismatch\0xc03a000c\index.html.json
+
+title: 0xC03A000C STATUS_VHD_BITMAP_MISMATCH in ntstatus.h
+description: The virtual hard disk is corrupted. The block bitmap does not match with the block data present in the virtual hard disk.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC03A000C",
+  "codeUrl": "/win32/ntstatus-h/status_vhd_bitmap_mismatch/0xc03a000c/",
+  "numericCode": -1069940724,
+  "define": "STATUS_VHD_BITMAP_MISMATCH",
+  "defineUrl": "/win32/ntstatus-h/status_vhd_bitmap_mismatch/",
+  "message": "The virtual hard disk is corrupted. The block bitmap does not match with the block data present in the virtual hard disk.",
+  "remarks": null,
+  "aka": [
+    "-1069940724"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_vhd_bitmap_mismatch/-1069940724/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

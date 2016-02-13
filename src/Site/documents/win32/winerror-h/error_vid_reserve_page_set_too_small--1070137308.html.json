@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_vid_reserve_page_set_too_small\-1070137308\index.html.json
+canonical: /win32/winerror-h/error_vid_reserve_page_set_too_small/0xc0370024/
+title: -1070137308 ERROR_VID_RESERVE_PAGE_SET_TOO_SMALL in winerror.h
+description: The reserve page set for the virtualization infrastructure driver is too small to use in the lock request. Restarting the virtual machine may fix the problem. If the problem persists, try restarting the physical computer.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-1070137308",
+  "codeUrl": "/win32/winerror-h/error_vid_reserve_page_set_too_small/-1070137308/",
+  "numericCode": 0,
+  "define": "ERROR_VID_RESERVE_PAGE_SET_TOO_SMALL",
+  "defineUrl": "/win32/winerror-h/error_vid_reserve_page_set_too_small/",
+  "message": "The reserve page set for the virtualization infrastructure driver is too small to use in the lock request. Restarting the virtual machine may fix the problem. If the problem persists, try restarting the physical computer.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0370024",
+  "originalCodeUrl": "/win32/winerror-h/error_vid_reserve_page_set_too_small/0xc0370024/"
+}

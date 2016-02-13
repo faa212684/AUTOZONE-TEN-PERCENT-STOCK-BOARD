@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_patch_target_not_found\0x8007066a\index.html.json
+canonical: /win32/winerror-h/error_patch_target_not_found/1642/
+title: 0x8007066a ERROR_PATCH_TARGET_NOT_FOUND in winerror.h
+description: The upgrade cannot be installed by the Windows Installer service because the program to be upgraded may be missing, or the upgrade may update a different version of the program. Verify that the program to be upgraded exists on your computer and that you have the correct upgrade.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007066a",
+  "codeUrl": "/win32/winerror-h/error_patch_target_not_found/0x8007066a/",
+  "numericCode": 0,
+  "define": "ERROR_PATCH_TARGET_NOT_FOUND",
+  "defineUrl": "/win32/winerror-h/error_patch_target_not_found/",
+  "message": "The upgrade cannot be installed by the Windows Installer service because the program to be upgraded may be missing, or the upgrade may update a different version of the program. Verify that the program to be upgraded exists on your computer and that you have the correct upgrade.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "1642",
+  "originalCodeUrl": "/win32/winerror-h/error_patch_target_not_found/1642/"
+}

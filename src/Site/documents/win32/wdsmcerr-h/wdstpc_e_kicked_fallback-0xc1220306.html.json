@@ -1,0 +1,29 @@
+---
+output: win32\wdsmcerr-h\wdstpc_e_kicked_fallback\0xc1220306\index.html.json
+
+title: 0xC1220306 WDSTPC_E_KICKED_FALLBACK in wdsmcerr.h
+description: The client was disconnected by the administrator. The server requested that the client 
+use another method to obtain the contents.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wdsmcerr.h",
+  "sourceUrl": "/win32/wdsmcerr-h/",
+  "code": "0xC1220306",
+  "codeUrl": "/win32/wdsmcerr-h/wdstpc_e_kicked_fallback/0xc1220306/",
+  "numericCode": -1054735610,
+  "define": "WDSTPC_E_KICKED_FALLBACK",
+  "defineUrl": "/win32/wdsmcerr-h/wdstpc_e_kicked_fallback/",
+  "message": "The client was disconnected by the administrator. The server requested that the client \r\nuse another method to obtain the contents.",
+  "remarks": null,
+  "aka": [
+    "-1054735610"
+  ],
+  "akaUrl": [
+    "/win32/wdsmcerr-h/wdstpc_e_kicked_fallback/-1054735610/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

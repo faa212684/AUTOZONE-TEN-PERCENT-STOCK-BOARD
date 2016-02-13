@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_invalid_scrollbar_range\0x800705a8\index.html.json
+canonical: /win32/winerror-h/error_invalid_scrollbar_range/1448/
+title: 0x800705a8 ERROR_INVALID_SCROLLBAR_RANGE in winerror.h
+description: Scroll bar range cannot be greater than MAXLONG.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800705a8",
+  "codeUrl": "/win32/winerror-h/error_invalid_scrollbar_range/0x800705a8/",
+  "numericCode": 0,
+  "define": "ERROR_INVALID_SCROLLBAR_RANGE",
+  "defineUrl": "/win32/winerror-h/error_invalid_scrollbar_range/",
+  "message": "Scroll bar range cannot be greater than MAXLONG.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "1448",
+  "originalCodeUrl": "/win32/winerror-h/error_invalid_scrollbar_range/1448/"
+}

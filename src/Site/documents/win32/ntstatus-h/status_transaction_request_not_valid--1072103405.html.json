@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_transaction_request_not_valid\-1072103405\index.html.json
+canonical: /win32/ntstatus-h/status_transaction_request_not_valid/0xc0190013/
+title: -1072103405 STATUS_TRANSACTION_REQUEST_NOT_VALID in ntstatus.h
+description: The requested operation is not valid on the Transaction object in its current state.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1072103405",
+  "codeUrl": "/win32/ntstatus-h/status_transaction_request_not_valid/-1072103405/",
+  "numericCode": 0,
+  "define": "STATUS_TRANSACTION_REQUEST_NOT_VALID",
+  "defineUrl": "/win32/ntstatus-h/status_transaction_request_not_valid/",
+  "message": "The requested operation is not valid on the Transaction object in its current state.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0190013",
+  "originalCodeUrl": "/win32/ntstatus-h/status_transaction_request_not_valid/0xc0190013/"
+}

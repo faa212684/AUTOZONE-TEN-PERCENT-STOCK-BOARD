@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_log_invalid_range\6604\index.html.json
+
+title: 6604 ERROR_LOG_INVALID_RANGE in winerror.h
+description: Log service encountered an attempt access data outside the active log range.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "6604",
+  "codeUrl": "/win32/winerror-h/error_log_invalid_range/6604/",
+  "numericCode": 6604,
+  "define": "ERROR_LOG_INVALID_RANGE",
+  "defineUrl": "/win32/winerror-h/error_log_invalid_range/",
+  "message": "Log service encountered an attempt access data outside the active log range.",
+  "remarks": null,
+  "aka": [
+    "0x800719cc",
+    "-2147018292"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_log_invalid_range/0x800719cc/",
+    "/win32/winerror-h/error_log_invalid_range/-2147018292/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

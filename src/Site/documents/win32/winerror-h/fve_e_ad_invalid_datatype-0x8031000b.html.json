@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\fve_e_ad_invalid_datatype\0x8031000b\index.html.json
+
+title: 0x8031000B FVE_E_AD_INVALID_DATATYPE in winerror.h
+description: The type of the data obtained from Active Directory was not expected. The BitLocker recovery information may be missing or corrupted.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8031000B",
+  "codeUrl": "/win32/winerror-h/fve_e_ad_invalid_datatype/0x8031000b/",
+  "numericCode": -2144272373,
+  "define": "FVE_E_AD_INVALID_DATATYPE",
+  "defineUrl": "/win32/winerror-h/fve_e_ad_invalid_datatype/",
+  "message": "The type of the data obtained from Active Directory was not expected. The BitLocker recovery information may be missing or corrupted.",
+  "remarks": null,
+  "aka": [
+    "-2144272373"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/fve_e_ad_invalid_datatype/-2144272373/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

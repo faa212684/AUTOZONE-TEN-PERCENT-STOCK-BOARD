@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\pla_e_exe_full_path_required\0x8030010e\index.html.json
+
+title: 0x8030010E PLA_E_EXE_FULL_PATH_REQUIRED in winerror.h
+description: When specifying the executable that you want to trace, you must specify a full path to the executable and not just a filename.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8030010E",
+  "codeUrl": "/win32/winerror-h/pla_e_exe_full_path_required/0x8030010e/",
+  "numericCode": -2144337650,
+  "define": "PLA_E_EXE_FULL_PATH_REQUIRED",
+  "defineUrl": "/win32/winerror-h/pla_e_exe_full_path_required/",
+  "message": "When specifying the executable that you want to trace, you must specify a full path to the executable and not just a filename.",
+  "remarks": null,
+  "aka": [
+    "-2144337650"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/pla_e_exe_full_path_required/-2144337650/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

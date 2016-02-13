@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\rpc_x_bad_stub_data\1783\index.html.json
+
+title: 1783 RPC_X_BAD_STUB_DATA in winerror.h
+description: The stub received bad data.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1783",
+  "codeUrl": "/win32/winerror-h/rpc_x_bad_stub_data/1783/",
+  "numericCode": 1783,
+  "define": "RPC_X_BAD_STUB_DATA",
+  "defineUrl": "/win32/winerror-h/rpc_x_bad_stub_data/",
+  "message": "The stub received bad data.",
+  "remarks": null,
+  "aka": [
+    "0x800706f7",
+    "-2147023113"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/rpc_x_bad_stub_data/0x800706f7/",
+    "/win32/winerror-h/rpc_x_bad_stub_data/-2147023113/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

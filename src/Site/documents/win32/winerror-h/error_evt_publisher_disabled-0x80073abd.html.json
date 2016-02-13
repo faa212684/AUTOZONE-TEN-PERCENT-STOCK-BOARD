@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_evt_publisher_disabled\0x80073abd\index.html.json
+canonical: /win32/winerror-h/error_evt_publisher_disabled/15037/
+title: 0x80073abd ERROR_EVT_PUBLISHER_DISABLED in winerror.h
+description: The publisher has been disabled and its resource is not available. This usually occurs when the publisher is in the process of being uninstalled or upgraded.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80073abd",
+  "codeUrl": "/win32/winerror-h/error_evt_publisher_disabled/0x80073abd/",
+  "numericCode": 0,
+  "define": "ERROR_EVT_PUBLISHER_DISABLED",
+  "defineUrl": "/win32/winerror-h/error_evt_publisher_disabled/",
+  "message": "The publisher has been disabled and its resource is not available. This usually occurs when the publisher is in the process of being uninstalled or upgraded.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "15037",
+  "originalCodeUrl": "/win32/winerror-h/error_evt_publisher_disabled/15037/"
+}

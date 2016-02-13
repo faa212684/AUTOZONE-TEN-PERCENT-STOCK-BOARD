@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_setmark_detected\-2147483615\index.html.json
+canonical: /win32/ntstatus-h/status_setmark_detected/0x80000021/
+title: -2147483615 STATUS_SETMARK_DETECTED in ntstatus.h
+description: A tape access reached a setmark.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-2147483615",
+  "codeUrl": "/win32/ntstatus-h/status_setmark_detected/-2147483615/",
+  "numericCode": 0,
+  "define": "STATUS_SETMARK_DETECTED",
+  "defineUrl": "/win32/ntstatus-h/status_setmark_detected/",
+  "message": "A tape access reached a setmark.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80000021",
+  "originalCodeUrl": "/win32/ntstatus-h/status_setmark_detected/0x80000021/"
+}

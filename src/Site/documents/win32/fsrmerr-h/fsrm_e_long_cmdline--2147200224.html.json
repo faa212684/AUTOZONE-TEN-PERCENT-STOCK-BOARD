@@ -1,0 +1,24 @@
+---
+output: win32\fsrmerr-h\fsrm_e_long_cmdline\-2147200224\index.html.json
+canonical: /win32/fsrmerr-h/fsrm_e_long_cmdline/0x80045320/
+title: -2147200224 FSRM_E_LONG_CMDLINE in fsrmerr.h
+description: The specified command-line executable path is longer than MAX_PATH.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "fsrmerr.h",
+  "sourceUrl": "/win32/fsrmerr-h/",
+  "code": "-2147200224",
+  "codeUrl": "/win32/fsrmerr-h/fsrm_e_long_cmdline/-2147200224/",
+  "numericCode": 0,
+  "define": "FSRM_E_LONG_CMDLINE",
+  "defineUrl": "/win32/fsrmerr-h/fsrm_e_long_cmdline/",
+  "message": "The specified command-line executable path is longer than MAX_PATH.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80045320",
+  "originalCodeUrl": "/win32/fsrmerr-h/fsrm_e_long_cmdline/0x80045320/"
+}

@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_elevation_required\-1073740756\index.html.json
+canonical: /win32/ntstatus-h/status_elevation_required/0xc000042c/
+title: -1073740756 STATUS_ELEVATION_REQUIRED in ntstatus.h
+description: The requested operation requires elevation.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073740756",
+  "codeUrl": "/win32/ntstatus-h/status_elevation_required/-1073740756/",
+  "numericCode": 0,
+  "define": "STATUS_ELEVATION_REQUIRED",
+  "defineUrl": "/win32/ntstatus-h/status_elevation_required/",
+  "message": "The requested operation requires elevation.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC000042C",
+  "originalCodeUrl": "/win32/ntstatus-h/status_elevation_required/0xc000042c/"
+}

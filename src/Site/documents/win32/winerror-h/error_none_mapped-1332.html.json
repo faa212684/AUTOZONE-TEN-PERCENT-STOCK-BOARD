@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_none_mapped\1332\index.html.json
+
+title: 1332 ERROR_NONE_MAPPED in winerror.h
+description: No mapping between account names and security IDs was done.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1332",
+  "codeUrl": "/win32/winerror-h/error_none_mapped/1332/",
+  "numericCode": 1332,
+  "define": "ERROR_NONE_MAPPED",
+  "defineUrl": "/win32/winerror-h/error_none_mapped/",
+  "message": "No mapping between account names and security IDs was done.",
+  "remarks": null,
+  "aka": [
+    "0x80070534",
+    "-2147023564"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_none_mapped/0x80070534/",
+    "/win32/winerror-h/error_none_mapped/-2147023564/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,24 @@
+---
+output: win32\netevent-h\event_rdr_cant_register_address\-2147480615\index.html.json
+canonical: /win32/netevent-h/event_rdr_cant_register_address/0x80000bd9/
+title: -2147480615 EVENT_RDR_CANT_REGISTER_ADDRESS in netevent.h
+description: The redirector was unable to register the address for transport %3 for the following reason: %4. Transport has been taken offline.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "-2147480615",
+  "codeUrl": "/win32/netevent-h/event_rdr_cant_register_address/-2147480615/",
+  "numericCode": 0,
+  "define": "EVENT_RDR_CANT_REGISTER_ADDRESS",
+  "defineUrl": "/win32/netevent-h/event_rdr_cant_register_address/",
+  "message": "The redirector was unable to register the address for transport %3 for the following reason: %4. Transport has been taken offline.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80000BD9",
+  "originalCodeUrl": "/win32/netevent-h/event_rdr_cant_register_address/0x80000bd9/"
+}

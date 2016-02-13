@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_no_security_on_object\-1073741609\index.html.json
+canonical: /win32/ntstatus-h/status_no_security_on_object/0xc00000d7/
+title: -1073741609 STATUS_NO_SECURITY_ON_OBJECT in ntstatus.h
+description: Indicates an attempt was made to operate on the security of an object that does not have security associated with it.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741609",
+  "codeUrl": "/win32/ntstatus-h/status_no_security_on_object/-1073741609/",
+  "numericCode": 0,
+  "define": "STATUS_NO_SECURITY_ON_OBJECT",
+  "defineUrl": "/win32/ntstatus-h/status_no_security_on_object/",
+  "message": "Indicates an attempt was made to operate on the security of an object that does not have security associated with it.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC00000D7",
+  "originalCodeUrl": "/win32/ntstatus-h/status_no_security_on_object/0xc00000d7/"
+}

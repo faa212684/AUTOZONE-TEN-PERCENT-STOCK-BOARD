@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_protocol_unreachable\0xc000023e\index.html.json
+
+title: 0xC000023E STATUS_PROTOCOL_UNREACHABLE in ntstatus.h
+description: The remote system does not support the transport protocol.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000023E",
+  "codeUrl": "/win32/ntstatus-h/status_protocol_unreachable/0xc000023e/",
+  "numericCode": -1073741250,
+  "define": "STATUS_PROTOCOL_UNREACHABLE",
+  "defineUrl": "/win32/ntstatus-h/status_protocol_unreachable/",
+  "message": "The remote system does not support the transport protocol.",
+  "remarks": null,
+  "aka": [
+    "-1073741250"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_protocol_unreachable/-1073741250/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

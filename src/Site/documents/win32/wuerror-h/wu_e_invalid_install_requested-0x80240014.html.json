@@ -1,0 +1,28 @@
+---
+output: win32\wuerror-h\wu_e_invalid_install_requested\0x80240014\index.html.json
+
+title: 0x80240014 WU_E_INVALID_INSTALL_REQUESTED in wuerror.h
+description: Updates requested for install are not installable by caller.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wuerror.h",
+  "sourceUrl": "/win32/wuerror-h/",
+  "code": "0x80240014",
+  "codeUrl": "/win32/wuerror-h/wu_e_invalid_install_requested/0x80240014/",
+  "numericCode": -2145124332,
+  "define": "WU_E_INVALID_INSTALL_REQUESTED",
+  "defineUrl": "/win32/wuerror-h/wu_e_invalid_install_requested/",
+  "message": "Updates requested for install are not installable by caller.",
+  "remarks": null,
+  "aka": [
+    "-2145124332"
+  ],
+  "akaUrl": [
+    "/win32/wuerror-h/wu_e_invalid_install_requested/-2145124332/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,25 @@
+---
+output: win32\winerror-h\error_cluster_shared_volumes_in_use\0x8007173b\index.html.json
+canonical: /win32/winerror-h/error_cluster_shared_volumes_in_use/5947/
+title: 0x8007173b ERROR_CLUSTER_SHARED_VOLUMES_IN_USE in winerror.h
+description: There is one or more shared volumes resources configured in the cluster.
+Those resources must be moved to available storage in order for operation to succeed.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007173b",
+  "codeUrl": "/win32/winerror-h/error_cluster_shared_volumes_in_use/0x8007173b/",
+  "numericCode": 0,
+  "define": "ERROR_CLUSTER_SHARED_VOLUMES_IN_USE",
+  "defineUrl": "/win32/winerror-h/error_cluster_shared_volumes_in_use/",
+  "message": "There is one or more shared volumes resources configured in the cluster.\r\nThose resources must be moved to available storage in order for operation to succeed.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "5947",
+  "originalCodeUrl": "/win32/winerror-h/error_cluster_shared_volumes_in_use/5947/"
+}

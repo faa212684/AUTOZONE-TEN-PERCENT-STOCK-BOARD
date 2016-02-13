@@ -1,0 +1,28 @@
+---
+output: win32\ntiologc-h\io_warning_duplicate_signature\0x8004003a\index.html.json
+
+title: 0x8004003A IO_WARNING_DUPLICATE_SIGNATURE in ntiologc.h
+description: The disk signature of disk %2 is equal to the disk signature of disk %3.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntiologc.h",
+  "sourceUrl": "/win32/ntiologc-h/",
+  "code": "0x8004003A",
+  "codeUrl": "/win32/ntiologc-h/io_warning_duplicate_signature/0x8004003a/",
+  "numericCode": -2147221446,
+  "define": "IO_WARNING_DUPLICATE_SIGNATURE",
+  "defineUrl": "/win32/ntiologc-h/io_warning_duplicate_signature/",
+  "message": "The disk signature of disk %2 is equal to the disk signature of disk %3.",
+  "remarks": null,
+  "aka": [
+    "-2147221446"
+  ],
+  "akaUrl": [
+    "/win32/ntiologc-h/io_warning_duplicate_signature/-2147221446/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

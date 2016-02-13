@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\wininet_e_connection_reset\0x80072eff\index.html.json
+
+title: 0x80072EFF WININET_E_CONNECTION_RESET in winerror.h
+description: The connection with the server was reset
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80072EFF",
+  "codeUrl": "/win32/winerror-h/wininet_e_connection_reset/0x80072eff/",
+  "numericCode": -2147012865,
+  "define": "WININET_E_CONNECTION_RESET",
+  "defineUrl": "/win32/winerror-h/wininet_e_connection_reset/",
+  "message": "The connection with the server was reset",
+  "remarks": null,
+  "aka": [
+    "-2147012865"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/wininet_e_connection_reset/-2147012865/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

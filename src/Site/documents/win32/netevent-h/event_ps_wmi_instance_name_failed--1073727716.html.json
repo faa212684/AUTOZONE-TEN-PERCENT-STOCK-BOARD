@@ -1,0 +1,24 @@
+---
+output: win32\netevent-h\event_ps_wmi_instance_name_failed\-1073727716\index.html.json
+canonical: /win32/netevent-h/event_ps_wmi_instance_name_failed/0xc000371c/
+title: -1073727716 EVENT_PS_WMI_INSTANCE_NAME_FAILED in netevent.h
+description: QoS [Adapter %2]:%nThe Packet Scheduler could not obtain the network adapter's friendly name from NDIS.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "-1073727716",
+  "codeUrl": "/win32/netevent-h/event_ps_wmi_instance_name_failed/-1073727716/",
+  "numericCode": 0,
+  "define": "EVENT_PS_WMI_INSTANCE_NAME_FAILED",
+  "defineUrl": "/win32/netevent-h/event_ps_wmi_instance_name_failed/",
+  "message": "QoS [Adapter %2]:%nThe Packet Scheduler could not obtain the network adapter's friendly name from NDIS.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC000371C",
+  "originalCodeUrl": "/win32/netevent-h/event_ps_wmi_instance_name_failed/0xc000371c/"
+}

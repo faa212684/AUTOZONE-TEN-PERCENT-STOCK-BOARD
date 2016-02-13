@@ -1,0 +1,29 @@
+---
+output: win32\mq-h\mq_information_formatname_buffer_too_small\0x400e0009\index.html.json
+
+title: 0x400E0009 MQ_INFORMATION_FORMATNAME_BUFFER_TOO_SMALL in Mq.h
+description: The format name buffer supplied to MQCreateQueue was too small
+to hold the format name, however the queue was created successfully.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "Mq.h",
+  "sourceUrl": "/win32/mq-h/",
+  "code": "0x400E0009",
+  "codeUrl": "/win32/mq-h/mq_information_formatname_buffer_too_small/0x400e0009/",
+  "numericCode": 1074659337,
+  "define": "MQ_INFORMATION_FORMATNAME_BUFFER_TOO_SMALL",
+  "defineUrl": "/win32/mq-h/mq_information_formatname_buffer_too_small/",
+  "message": "The format name buffer supplied to MQCreateQueue was too small\r\nto hold the format name, however the queue was created successfully.",
+  "remarks": null,
+  "aka": [
+    "1074659337"
+  ],
+  "akaUrl": [
+    "/win32/mq-h/mq_information_formatname_buffer_too_small/1074659337/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

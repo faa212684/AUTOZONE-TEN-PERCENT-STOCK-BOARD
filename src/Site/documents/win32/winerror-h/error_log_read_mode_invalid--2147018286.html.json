@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_log_read_mode_invalid\-2147018286\index.html.json
+canonical: /win32/winerror-h/error_log_read_mode_invalid/6610/
+title: -2147018286 ERROR_LOG_READ_MODE_INVALID in winerror.h
+description: Log service encountered an attempt to read the log with an invalid read mode.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147018286",
+  "codeUrl": "/win32/winerror-h/error_log_read_mode_invalid/-2147018286/",
+  "numericCode": 0,
+  "define": "ERROR_LOG_READ_MODE_INVALID",
+  "defineUrl": "/win32/winerror-h/error_log_read_mode_invalid/",
+  "message": "Log service encountered an attempt to read the log with an invalid read mode.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "6610",
+  "originalCodeUrl": "/win32/winerror-h/error_log_read_mode_invalid/6610/"
+}

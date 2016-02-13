@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\fwp_e_lifetime_mismatch\0x80320016\index.html.json
+
+title: 0x80320016 FWP_E_LIFETIME_MISMATCH in winerror.h
+description: The call tried to associate two objects with incompatible lifetimes.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80320016",
+  "codeUrl": "/win32/winerror-h/fwp_e_lifetime_mismatch/0x80320016/",
+  "numericCode": -2144206826,
+  "define": "FWP_E_LIFETIME_MISMATCH",
+  "defineUrl": "/win32/winerror-h/fwp_e_lifetime_mismatch/",
+  "message": "The call tried to associate two objects with incompatible lifetimes.",
+  "remarks": null,
+  "aka": [
+    "-2144206826"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/fwp_e_lifetime_mismatch/-2144206826/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

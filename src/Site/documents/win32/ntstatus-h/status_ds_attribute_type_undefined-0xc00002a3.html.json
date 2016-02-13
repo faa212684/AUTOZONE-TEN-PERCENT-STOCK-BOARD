@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_ds_attribute_type_undefined\0xc00002a3\index.html.json
+
+title: 0xC00002A3 STATUS_DS_ATTRIBUTE_TYPE_UNDEFINED in ntstatus.h
+description: The attribute type specified to the directory service is not defined.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC00002A3",
+  "codeUrl": "/win32/ntstatus-h/status_ds_attribute_type_undefined/0xc00002a3/",
+  "numericCode": -1073741149,
+  "define": "STATUS_DS_ATTRIBUTE_TYPE_UNDEFINED",
+  "defineUrl": "/win32/ntstatus-h/status_ds_attribute_type_undefined/",
+  "message": "The attribute type specified to the directory service is not defined.",
+  "remarks": null,
+  "aka": [
+    "-1073741149"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_ds_attribute_type_undefined/-1073741149/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

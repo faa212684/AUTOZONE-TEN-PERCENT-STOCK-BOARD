@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_graphics_driver_mismatch\0xc01e0009\index.html.json
+
+title: 0xC01E0009 STATUS_GRAPHICS_DRIVER_MISMATCH in ntstatus.h
+description: The kernel driver detected a version mismatch between it and the user mode driver.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC01E0009",
+  "codeUrl": "/win32/ntstatus-h/status_graphics_driver_mismatch/0xc01e0009/",
+  "numericCode": -1071775735,
+  "define": "STATUS_GRAPHICS_DRIVER_MISMATCH",
+  "defineUrl": "/win32/ntstatus-h/status_graphics_driver_mismatch/",
+  "message": "The kernel driver detected a version mismatch between it and the user mode driver.",
+  "remarks": null,
+  "aka": [
+    "-1071775735"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_graphics_driver_mismatch/-1071775735/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

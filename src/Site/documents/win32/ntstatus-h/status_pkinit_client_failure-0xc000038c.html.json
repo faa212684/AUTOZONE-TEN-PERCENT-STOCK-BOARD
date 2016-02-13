@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_pkinit_client_failure\0xc000038c\index.html.json
+
+title: 0xC000038C STATUS_PKINIT_CLIENT_FAILURE in ntstatus.h
+description: The smartcard certificate used for authentication was not trusted. Please contact your system administrator.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000038C",
+  "codeUrl": "/win32/ntstatus-h/status_pkinit_client_failure/0xc000038c/",
+  "numericCode": -1073740916,
+  "define": "STATUS_PKINIT_CLIENT_FAILURE",
+  "defineUrl": "/win32/ntstatus-h/status_pkinit_client_failure/",
+  "message": "The smartcard certificate used for authentication was not trusted. Please contact your system administrator.",
+  "remarks": null,
+  "aka": [
+    "-1073740916"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_pkinit_client_failure/-1073740916/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

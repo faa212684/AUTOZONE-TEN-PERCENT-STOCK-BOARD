@@ -1,0 +1,32 @@
+---
+output: win32\winerror-h\error_lost_writebehind_data\596\index.html.json
+
+title: 596 ERROR_LOST_WRITEBEHIND_DATA in winerror.h
+description: "{Delayed Write Failed}
+Windows was unable to save all the data for the file %hs. The data has been lost.
+This error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere."
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "596",
+  "codeUrl": "/win32/winerror-h/error_lost_writebehind_data/596/",
+  "numericCode": 596,
+  "define": "ERROR_LOST_WRITEBEHIND_DATA",
+  "defineUrl": "/win32/winerror-h/error_lost_writebehind_data/",
+  "message": "{Delayed Write Failed}\r\nWindows was unable to save all the data for the file %hs. The data has been lost.\r\nThis error may be caused by a failure of your computer hardware or network connection. Please try to save this file elsewhere.",
+  "remarks": null,
+  "aka": [
+    "0x80070254",
+    "-2147024300"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_lost_writebehind_data/0x80070254/",
+    "/win32/winerror-h/error_lost_writebehind_data/-2147024300/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

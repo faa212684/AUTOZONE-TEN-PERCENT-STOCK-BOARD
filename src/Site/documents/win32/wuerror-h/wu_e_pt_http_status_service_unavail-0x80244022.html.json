@@ -1,0 +1,28 @@
+---
+output: win32\wuerror-h\wu_e_pt_http_status_service_unavail\0x80244022\index.html.json
+
+title: 0x80244022 WU_E_PT_HTTP_STATUS_SERVICE_UNAVAIL in wuerror.h
+description: Same as HTTP status 503 - the service is temporarily overloaded.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wuerror.h",
+  "sourceUrl": "/win32/wuerror-h/",
+  "code": "0x80244022",
+  "codeUrl": "/win32/wuerror-h/wu_e_pt_http_status_service_unavail/0x80244022/",
+  "numericCode": -2145107934,
+  "define": "WU_E_PT_HTTP_STATUS_SERVICE_UNAVAIL",
+  "defineUrl": "/win32/wuerror-h/wu_e_pt_http_status_service_unavail/",
+  "message": "Same as HTTP status 503 - the service is temporarily overloaded.",
+  "remarks": null,
+  "aka": [
+    "-2145107934"
+  ],
+  "akaUrl": [
+    "/win32/wuerror-h/wu_e_pt_http_status_service_unavail/-2145107934/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

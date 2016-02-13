@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_already_waiting\1904\index.html.json
+
+title: 1904 ERROR_ALREADY_WAITING in winerror.h
+description: The specified printer handle is already being waited on
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1904",
+  "codeUrl": "/win32/winerror-h/error_already_waiting/1904/",
+  "numericCode": 1904,
+  "define": "ERROR_ALREADY_WAITING",
+  "defineUrl": "/win32/winerror-h/error_already_waiting/",
+  "message": "The specified printer handle is already being waited on",
+  "remarks": null,
+  "aka": [
+    "0x80070770",
+    "-2147022992"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_already_waiting/0x80070770/",
+    "/win32/winerror-h/error_already_waiting/-2147022992/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

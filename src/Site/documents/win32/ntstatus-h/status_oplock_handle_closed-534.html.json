@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_oplock_handle_closed\534\index.html.json
+canonical: /win32/ntstatus-h/status_oplock_handle_closed/0x00000216/
+title: 534 STATUS_OPLOCK_HANDLE_CLOSED in ntstatus.h
+description: The handle with which this oplock was associated has been closed.  The oplock is now broken.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "534",
+  "codeUrl": "/win32/ntstatus-h/status_oplock_handle_closed/534/",
+  "numericCode": 0,
+  "define": "STATUS_OPLOCK_HANDLE_CLOSED",
+  "defineUrl": "/win32/ntstatus-h/status_oplock_handle_closed/",
+  "message": "The handle with which this oplock was associated has been closed.  The oplock is now broken.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x00000216",
+  "originalCodeUrl": "/win32/ntstatus-h/status_oplock_handle_closed/0x00000216/"
+}

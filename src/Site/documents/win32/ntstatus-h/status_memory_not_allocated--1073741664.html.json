@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_memory_not_allocated\-1073741664\index.html.json
+canonical: /win32/ntstatus-h/status_memory_not_allocated/0xc00000a0/
+title: -1073741664 STATUS_MEMORY_NOT_ALLOCATED in ntstatus.h
+description: An attempt was made to free virtual memory which is not allocated.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741664",
+  "codeUrl": "/win32/ntstatus-h/status_memory_not_allocated/-1073741664/",
+  "numericCode": 0,
+  "define": "STATUS_MEMORY_NOT_ALLOCATED",
+  "defineUrl": "/win32/ntstatus-h/status_memory_not_allocated/",
+  "message": "An attempt was made to free virtual memory which is not allocated.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC00000A0",
+  "originalCodeUrl": "/win32/ntstatus-h/status_memory_not_allocated/0xc00000a0/"
+}

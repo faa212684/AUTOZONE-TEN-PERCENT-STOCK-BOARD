@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_cluster_max_nodes_in_cluster\-2147018962\index.html.json
+canonical: /win32/winerror-h/error_cluster_max_nodes_in_cluster/5934/
+title: -2147018962 ERROR_CLUSTER_MAX_NODES_IN_CLUSTER in winerror.h
+description: A new node can not be added since this cluster is already at its maximum number of nodes.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147018962",
+  "codeUrl": "/win32/winerror-h/error_cluster_max_nodes_in_cluster/-2147018962/",
+  "numericCode": 0,
+  "define": "ERROR_CLUSTER_MAX_NODES_IN_CLUSTER",
+  "defineUrl": "/win32/winerror-h/error_cluster_max_nodes_in_cluster/",
+  "message": "A new node can not be added since this cluster is already at its maximum number of nodes.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "5934",
+  "originalCodeUrl": "/win32/winerror-h/error_cluster_max_nodes_in_cluster/5934/"
+}

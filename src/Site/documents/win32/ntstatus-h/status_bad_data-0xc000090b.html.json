@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_bad_data\0xc000090b\index.html.json
+
+title: 0xC000090B STATUS_BAD_DATA in ntstatus.h
+description: Bad data.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000090B",
+  "codeUrl": "/win32/ntstatus-h/status_bad_data/0xc000090b/",
+  "numericCode": -1073739509,
+  "define": "STATUS_BAD_DATA",
+  "defineUrl": "/win32/ntstatus-h/status_bad_data/",
+  "message": "Bad data.",
+  "remarks": null,
+  "aka": [
+    "-1073739509"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_bad_data/-1073739509/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

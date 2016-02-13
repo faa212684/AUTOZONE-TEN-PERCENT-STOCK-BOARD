@@ -1,0 +1,30 @@
+---
+output: win32\ntstatus-h\status_ctx_shadow_invalid\0xc00a0030\index.html.json
+
+title: 0xC00A0030 STATUS_CTX_SHADOW_INVALID in ntstatus.h
+description: The requested session cannot be controlled remotely.
+You cannot control your own session, a session that is trying to control your session,
+a session that has no user logged on, nor control other sessions from the console.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC00A0030",
+  "codeUrl": "/win32/ntstatus-h/status_ctx_shadow_invalid/0xc00a0030/",
+  "numericCode": -1073086416,
+  "define": "STATUS_CTX_SHADOW_INVALID",
+  "defineUrl": "/win32/ntstatus-h/status_ctx_shadow_invalid/",
+  "message": "The requested session cannot be controlled remotely.\r\nYou cannot control your own session, a session that is trying to control your session,\r\na session that has no user logged on, nor control other sessions from the console.",
+  "remarks": null,
+  "aka": [
+    "-1073086416"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_ctx_shadow_invalid/-1073086416/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

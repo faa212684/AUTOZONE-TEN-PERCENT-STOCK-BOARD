@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_fve_enh_pin_invalid\0xc0210031\index.html.json
+
+title: 0xC0210031 STATUS_FVE_ENH_PIN_INVALID in ntstatus.h
+description: The BitLocker encryption key could not be obtained from the Trusted Platform Module (TPM) and enhanced PIN. Try using a PIN containing only numerals.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0210031",
+  "codeUrl": "/win32/ntstatus-h/status_fve_enh_pin_invalid/0xc0210031/",
+  "numericCode": -1071579087,
+  "define": "STATUS_FVE_ENH_PIN_INVALID",
+  "defineUrl": "/win32/ntstatus-h/status_fve_enh_pin_invalid/",
+  "message": "The BitLocker encryption key could not be obtained from the Trusted Platform Module (TPM) and enhanced PIN. Try using a PIN containing only numerals.",
+  "remarks": null,
+  "aka": [
+    "-1071579087"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_fve_enh_pin_invalid/-1071579087/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

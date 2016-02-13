@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_log_block_version\6608\index.html.json
+
+title: 6608 ERROR_LOG_BLOCK_VERSION in winerror.h
+description: Log service encountered an invalid log block version.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "6608",
+  "codeUrl": "/win32/winerror-h/error_log_block_version/6608/",
+  "numericCode": 6608,
+  "define": "ERROR_LOG_BLOCK_VERSION",
+  "defineUrl": "/win32/winerror-h/error_log_block_version/",
+  "message": "Log service encountered an invalid log block version.",
+  "remarks": null,
+  "aka": [
+    "0x800719d0",
+    "-2147018288"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_log_block_version/0x800719d0/",
+    "/win32/winerror-h/error_log_block_version/-2147018288/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

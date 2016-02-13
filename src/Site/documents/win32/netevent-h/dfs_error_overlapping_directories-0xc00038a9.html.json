@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\dfs_error_overlapping_directories\0xc00038a9\index.html.json
+
+title: 0xC00038A9 DFS_ERROR_OVERLAPPING_DIRECTORIES in netevent.h
+description: Share %1 mapped to %2 directory overlaps an existing root. The DFS Root will not be created.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC00038A9",
+  "codeUrl": "/win32/netevent-h/dfs_error_overlapping_directories/0xc00038a9/",
+  "numericCode": -1073727319,
+  "define": "DFS_ERROR_OVERLAPPING_DIRECTORIES",
+  "defineUrl": "/win32/netevent-h/dfs_error_overlapping_directories/",
+  "message": "Share %1 mapped to %2 directory overlaps an existing root. The DFS Root will not be created.",
+  "remarks": null,
+  "aka": [
+    "-1073727319"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/dfs_error_overlapping_directories/-1073727319/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

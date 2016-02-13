@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_no_user_keys\-1073741168\index.html.json
+canonical: /win32/ntstatus-h/status_no_user_keys/0xc0000290/
+title: -1073741168 STATUS_NO_USER_KEYS in ntstatus.h
+description: There are no EFS keys defined for the user.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741168",
+  "codeUrl": "/win32/ntstatus-h/status_no_user_keys/-1073741168/",
+  "numericCode": 0,
+  "define": "STATUS_NO_USER_KEYS",
+  "defineUrl": "/win32/ntstatus-h/status_no_user_keys/",
+  "message": "There are no EFS keys defined for the user.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000290",
+  "originalCodeUrl": "/win32/ntstatus-h/status_no_user_keys/0xc0000290/"
+}

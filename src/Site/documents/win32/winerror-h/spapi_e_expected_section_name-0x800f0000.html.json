@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\spapi_e_expected_section_name\0x800f0000\index.html.json
+
+title: 0x800F0000 SPAPI_E_EXPECTED_SECTION_NAME in winerror.h
+description: A non-empty line was encountered in the INF before the start of a section.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800F0000",
+  "codeUrl": "/win32/winerror-h/spapi_e_expected_section_name/0x800f0000/",
+  "numericCode": -2146500608,
+  "define": "SPAPI_E_EXPECTED_SECTION_NAME",
+  "defineUrl": "/win32/winerror-h/spapi_e_expected_section_name/",
+  "message": "A non-empty line was encountered in the INF before the start of a section.",
+  "remarks": null,
+  "aka": [
+    "-2146500608"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/spapi_e_expected_section_name/-2146500608/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

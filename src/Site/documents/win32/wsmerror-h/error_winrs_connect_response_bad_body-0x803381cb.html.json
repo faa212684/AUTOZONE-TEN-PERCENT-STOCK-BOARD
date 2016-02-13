@@ -1,0 +1,28 @@
+---
+output: win32\wsmerror-h\error_winrs_connect_response_bad_body\0x803381cb\index.html.json
+
+title: 0x803381CB ERROR_WINRS_CONNECT_RESPONSE_BAD_BODY in wsmerror.h
+description: The WinRM client cannot process the request. The body response is not a valid connect request response.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x803381CB",
+  "codeUrl": "/win32/wsmerror-h/error_winrs_connect_response_bad_body/0x803381cb/",
+  "numericCode": -2144108085,
+  "define": "ERROR_WINRS_CONNECT_RESPONSE_BAD_BODY",
+  "defineUrl": "/win32/wsmerror-h/error_winrs_connect_response_bad_body/",
+  "message": "The WinRM client cannot process the request. The body response is not a valid connect request response.",
+  "remarks": null,
+  "aka": [
+    "-2144108085"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_winrs_connect_response_bad_body/-2144108085/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

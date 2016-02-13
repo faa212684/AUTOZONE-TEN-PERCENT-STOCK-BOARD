@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_e_volume_temporarily_dismounted\0x8004245c\index.html.json
+
+title: 0x8004245C VDS_E_VOLUME_TEMPORARILY_DISMOUNTED in vdserr.h
+description: The volume is temporarily dismounted.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x8004245C",
+  "codeUrl": "/win32/vdserr-h/vds_e_volume_temporarily_dismounted/0x8004245c/",
+  "numericCode": -2147212196,
+  "define": "VDS_E_VOLUME_TEMPORARILY_DISMOUNTED",
+  "defineUrl": "/win32/vdserr-h/vds_e_volume_temporarily_dismounted/",
+  "message": "The volume is temporarily dismounted.",
+  "remarks": null,
+  "aka": [
+    "-2147212196"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_volume_temporarily_dismounted/-2147212196/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,30 @@
+---
+output: win32\ntstatus-h\status_serial_more_writes\0x40000008\index.html.json
+
+title: 0x40000008 STATUS_SERIAL_MORE_WRITES in ntstatus.h
+description: "{Serial IOCTL Complete}
+A serial I/O operation was completed by another write to a serial port.
+(The IOCTL_SERIAL_XOFF_COUNTER reached zero.)"
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0x40000008",
+  "codeUrl": "/win32/ntstatus-h/status_serial_more_writes/0x40000008/",
+  "numericCode": 1073741832,
+  "define": "STATUS_SERIAL_MORE_WRITES",
+  "defineUrl": "/win32/ntstatus-h/status_serial_more_writes/",
+  "message": "{Serial IOCTL Complete}\r\nA serial I/O operation was completed by another write to a serial port.\r\n(The IOCTL_SERIAL_XOFF_COUNTER reached zero.)",
+  "remarks": null,
+  "aka": [
+    "1073741832"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_serial_more_writes/1073741832/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

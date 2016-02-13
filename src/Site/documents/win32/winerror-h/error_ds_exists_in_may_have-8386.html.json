@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ds_exists_in_may_have\8386\index.html.json
+
+title: 8386 ERROR_DS_EXISTS_IN_MAY_HAVE in winerror.h
+description: Schema deletion failed: attribute is used in may-contain.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "8386",
+  "codeUrl": "/win32/winerror-h/error_ds_exists_in_may_have/8386/",
+  "numericCode": 8386,
+  "define": "ERROR_DS_EXISTS_IN_MAY_HAVE",
+  "defineUrl": "/win32/winerror-h/error_ds_exists_in_may_have/",
+  "message": "Schema deletion failed: attribute is used in may-contain.",
+  "remarks": null,
+  "aka": [
+    "0x800720c2",
+    "-2147016510"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ds_exists_in_may_have/0x800720c2/",
+    "/win32/winerror-h/error_ds_exists_in_may_have/-2147016510/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

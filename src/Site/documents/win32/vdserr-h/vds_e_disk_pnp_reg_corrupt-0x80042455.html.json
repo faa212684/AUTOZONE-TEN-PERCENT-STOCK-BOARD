@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_e_disk_pnp_reg_corrupt\0x80042455\index.html.json
+
+title: 0x80042455 VDS_E_DISK_PNP_REG_CORRUPT in vdserr.h
+description: The provider's list of Pnp registered disks has become corrupt.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x80042455",
+  "codeUrl": "/win32/vdserr-h/vds_e_disk_pnp_reg_corrupt/0x80042455/",
+  "numericCode": -2147212203,
+  "define": "VDS_E_DISK_PNP_REG_CORRUPT",
+  "defineUrl": "/win32/vdserr-h/vds_e_disk_pnp_reg_corrupt/",
+  "message": "The provider's list of Pnp registered disks has become corrupt.",
+  "remarks": null,
+  "aka": [
+    "-2147212203"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_disk_pnp_reg_corrupt/-2147212203/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

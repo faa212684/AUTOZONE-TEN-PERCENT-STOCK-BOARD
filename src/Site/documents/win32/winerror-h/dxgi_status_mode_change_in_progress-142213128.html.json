@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\dxgi_status_mode_change_in_progress\142213128\index.html.json
+canonical: /win32/winerror-h/dxgi_status_mode_change_in_progress/0x087a0008/
+title: 142213128 DXGI_STATUS_MODE_CHANGE_IN_PROGRESS in winerror.h
+description: The Present operation was not visible because another Direct3D device was attempting to take fullscreen mode at the time.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "142213128",
+  "codeUrl": "/win32/winerror-h/dxgi_status_mode_change_in_progress/142213128/",
+  "numericCode": 0,
+  "define": "DXGI_STATUS_MODE_CHANGE_IN_PROGRESS",
+  "defineUrl": "/win32/winerror-h/dxgi_status_mode_change_in_progress/",
+  "message": "The Present operation was not visible because another Direct3D device was attempting to take fullscreen mode at the time.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x087A0008",
+  "originalCodeUrl": "/win32/winerror-h/dxgi_status_mode_change_in_progress/0x087a0008/"
+}

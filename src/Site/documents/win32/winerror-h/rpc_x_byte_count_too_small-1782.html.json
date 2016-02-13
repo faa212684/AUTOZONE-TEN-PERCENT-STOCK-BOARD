@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\rpc_x_byte_count_too_small\1782\index.html.json
+
+title: 1782 RPC_X_BYTE_COUNT_TOO_SMALL in winerror.h
+description: The byte count is too small.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1782",
+  "codeUrl": "/win32/winerror-h/rpc_x_byte_count_too_small/1782/",
+  "numericCode": 1782,
+  "define": "RPC_X_BYTE_COUNT_TOO_SMALL",
+  "defineUrl": "/win32/winerror-h/rpc_x_byte_count_too_small/",
+  "message": "The byte count is too small.",
+  "remarks": null,
+  "aka": [
+    "0x800706f6",
+    "-2147023114"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/rpc_x_byte_count_too_small/0x800706f6/",
+    "/win32/winerror-h/rpc_x_byte_count_too_small/-2147023114/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

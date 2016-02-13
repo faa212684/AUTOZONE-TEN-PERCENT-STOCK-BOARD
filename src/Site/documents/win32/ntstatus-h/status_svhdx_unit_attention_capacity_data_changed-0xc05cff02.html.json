@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_svhdx_unit_attention_capacity_data_changed\0xc05cff02\index.html.json
+
+title: 0xC05CFF02 STATUS_SVHDX_UNIT_ATTENTION_CAPACITY_DATA_CHANGED in ntstatus.h
+description: The data capacity of the device has changed, resulting in a Unit Attention condition.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC05CFF02",
+  "codeUrl": "/win32/ntstatus-h/status_svhdx_unit_attention_capacity_data_changed/0xc05cff02/",
+  "numericCode": -1067647230,
+  "define": "STATUS_SVHDX_UNIT_ATTENTION_CAPACITY_DATA_CHANGED",
+  "defineUrl": "/win32/ntstatus-h/status_svhdx_unit_attention_capacity_data_changed/",
+  "message": "The data capacity of the device has changed, resulting in a Unit Attention condition.",
+  "remarks": null,
+  "aka": [
+    "-1067647230"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_svhdx_unit_attention_capacity_data_changed/-1067647230/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

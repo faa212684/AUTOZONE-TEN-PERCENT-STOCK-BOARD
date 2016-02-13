@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_shutdown_users_logged_on\0x800704a7\index.html.json
+canonical: /win32/winerror-h/error_shutdown_users_logged_on/1191/
+title: 0x800704a7 ERROR_SHUTDOWN_USERS_LOGGED_ON in winerror.h
+description: The system shutdown cannot be initiated because there are other users logged on to the computer.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800704a7",
+  "codeUrl": "/win32/winerror-h/error_shutdown_users_logged_on/0x800704a7/",
+  "numericCode": 0,
+  "define": "ERROR_SHUTDOWN_USERS_LOGGED_ON",
+  "defineUrl": "/win32/winerror-h/error_shutdown_users_logged_on/",
+  "message": "The system shutdown cannot be initiated because there are other users logged on to the computer.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "1191",
+  "originalCodeUrl": "/win32/winerror-h/error_shutdown_users_logged_on/1191/"
+}

@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_ipsec_auth_firewall_drop\-1070202872\index.html.json
+canonical: /win32/ntstatus-h/status_ipsec_auth_firewall_drop/0xc0360008/
+title: -1070202872 STATUS_IPSEC_AUTH_FIREWALL_DROP in ntstatus.h
+description: IPsec dropped an incoming ESP packet in authenticated firewall mode. This drop is benign.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1070202872",
+  "codeUrl": "/win32/ntstatus-h/status_ipsec_auth_firewall_drop/-1070202872/",
+  "numericCode": 0,
+  "define": "STATUS_IPSEC_AUTH_FIREWALL_DROP",
+  "defineUrl": "/win32/ntstatus-h/status_ipsec_auth_firewall_drop/",
+  "message": "IPsec dropped an incoming ESP packet in authenticated firewall mode. This drop is benign.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0360008",
+  "originalCodeUrl": "/win32/ntstatus-h/status_ipsec_auth_firewall_drop/0xc0360008/"
+}

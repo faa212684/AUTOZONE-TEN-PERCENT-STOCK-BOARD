@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_invalid_parameter_5\-1073741581\index.html.json
+canonical: /win32/ntstatus-h/status_invalid_parameter_5/0xc00000f3/
+title: -1073741581 STATUS_INVALID_PARAMETER_5 in ntstatus.h
+description: An invalid parameter was passed to a service or function as the fifth argument.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741581",
+  "codeUrl": "/win32/ntstatus-h/status_invalid_parameter_5/-1073741581/",
+  "numericCode": 0,
+  "define": "STATUS_INVALID_PARAMETER_5",
+  "defineUrl": "/win32/ntstatus-h/status_invalid_parameter_5/",
+  "message": "An invalid parameter was passed to a service or function as the fifth argument.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC00000F3",
+  "originalCodeUrl": "/win32/ntstatus-h/status_invalid_parameter_5/0xc00000f3/"
+}

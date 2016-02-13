@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\tpm_e_nospace\0x80280011\index.html.json
+
+title: 0x80280011 TPM_E_NOSPACE in winerror.h
+description: No room to load key.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80280011",
+  "codeUrl": "/win32/winerror-h/tpm_e_nospace/0x80280011/",
+  "numericCode": -2144862191,
+  "define": "TPM_E_NOSPACE",
+  "defineUrl": "/win32/winerror-h/tpm_e_nospace/",
+  "message": "No room to load key.",
+  "remarks": null,
+  "aka": [
+    "-2144862191"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/tpm_e_nospace/-2144862191/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

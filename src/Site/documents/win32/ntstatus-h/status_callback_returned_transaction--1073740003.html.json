@@ -1,0 +1,25 @@
+---
+output: win32\ntstatus-h\status_callback_returned_transaction\-1073740003\index.html.json
+canonical: /win32/ntstatus-h/status_callback_returned_transaction/0xc000071d/
+title: -1073740003 STATUS_CALLBACK_RETURNED_TRANSACTION in ntstatus.h
+description: A threadpool worker thread enter a callback, which left transaction state.
+This is unexpected, indicating that the callback missed clearing the transaction.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073740003",
+  "codeUrl": "/win32/ntstatus-h/status_callback_returned_transaction/-1073740003/",
+  "numericCode": 0,
+  "define": "STATUS_CALLBACK_RETURNED_TRANSACTION",
+  "defineUrl": "/win32/ntstatus-h/status_callback_returned_transaction/",
+  "message": "A threadpool worker thread enter a callback, which left transaction state.\r\nThis is unexpected, indicating that the callback missed clearing the transaction.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC000071D",
+  "originalCodeUrl": "/win32/ntstatus-h/status_callback_returned_transaction/0xc000071d/"
+}

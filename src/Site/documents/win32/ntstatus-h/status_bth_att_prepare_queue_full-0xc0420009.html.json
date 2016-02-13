@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_bth_att_prepare_queue_full\0xc0420009\index.html.json
+
+title: 0xC0420009 STATUS_BTH_ATT_PREPARE_QUEUE_FULL in ntstatus.h
+description: Too many prepare writes have been queued.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0420009",
+  "codeUrl": "/win32/ntstatus-h/status_bth_att_prepare_queue_full/0xc0420009/",
+  "numericCode": -1069416439,
+  "define": "STATUS_BTH_ATT_PREPARE_QUEUE_FULL",
+  "defineUrl": "/win32/ntstatus-h/status_bth_att_prepare_queue_full/",
+  "message": "Too many prepare writes have been queued.",
+  "remarks": null,
+  "aka": [
+    "-1069416439"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_bth_att_prepare_queue_full/-1069416439/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

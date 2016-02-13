@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_bowser_election_sent_getblist_failed\0x40001f4d\index.html.json
+
+title: 0x40001F4D EVENT_BOWSER_ELECTION_SENT_GETBLIST_FAILED in netevent.h
+description: The browser driver has forced an election on network %2 because it was unable to find a master browser to retrieve a backup list on that network.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x40001F4D",
+  "codeUrl": "/win32/netevent-h/event_bowser_election_sent_getblist_failed/0x40001f4d/",
+  "numericCode": 1073749837,
+  "define": "EVENT_BOWSER_ELECTION_SENT_GETBLIST_FAILED",
+  "defineUrl": "/win32/netevent-h/event_bowser_election_sent_getblist_failed/",
+  "message": "The browser driver has forced an election on network %2 because it was unable to find a master browser to retrieve a backup list on that network.",
+  "remarks": null,
+  "aka": [
+    "1073749837"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_bowser_election_sent_getblist_failed/1073749837/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

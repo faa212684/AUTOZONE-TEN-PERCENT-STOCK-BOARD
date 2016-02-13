@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\rpc_nt_wrong_pipe_version\-1073545122\index.html.json
+canonical: /win32/ntstatus-h/rpc_nt_wrong_pipe_version/0xc003005e/
+title: -1073545122 RPC_NT_WRONG_PIPE_VERSION in ntstatus.h
+description: Unsupported RPC pipe version.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073545122",
+  "codeUrl": "/win32/ntstatus-h/rpc_nt_wrong_pipe_version/-1073545122/",
+  "numericCode": 0,
+  "define": "RPC_NT_WRONG_PIPE_VERSION",
+  "defineUrl": "/win32/ntstatus-h/rpc_nt_wrong_pipe_version/",
+  "message": "Unsupported RPC pipe version.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC003005E",
+  "originalCodeUrl": "/win32/ntstatus-h/rpc_nt_wrong_pipe_version/0xc003005e/"
+}

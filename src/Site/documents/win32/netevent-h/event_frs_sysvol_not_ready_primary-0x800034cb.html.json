@@ -1,0 +1,51 @@
+---
+output: win32\netevent-h\event_frs_sysvol_not_ready_primary\0x800034cb\index.html.json
+
+title: 0x800034CB EVENT_FRS_SYSVOL_NOT_READY_PRIMARY in netevent.h
+description: The File Replication Service may be preventing the computer %1 from becoming a
+domain controller while the system volume is being initialized and then
+shared as SYSVOL.
+%n
+%nType "net share" to check for the SYSVOL share. The File Replication
+Service has stopped preventing the computer from becoming a domain
+controller once the SYSVOL share appears.
+%n
+%nThe initialization of the system volume can take some time.
+The time is dependent on the amount of data in the system volume.
+%n
+%nThe initialization of the system volume can be bypassed by first typing
+regedt32 and setting the value of SysvolReady to 1 and then restarting
+the Netlogon service.
+%n
+%nWARNING - BYPASSING THE SYSTEM VOLUME INITIALIZATION IS NOT RECOMMENDED.
+Applications may fail in unexpected ways.
+%n
+%nThe value SysvolReady is located by clicking on HKEY_LOCAL_MACHINE
+and then clicking on System, CurrentControlSet, Services, Netlogon,
+and Parameters.
+%n
+%nThe Netlogon service can be restarted by typing "net stop netlogon"
+followed by "net start netlogon".
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x800034CB",
+  "codeUrl": "/win32/netevent-h/event_frs_sysvol_not_ready_primary/0x800034cb/",
+  "numericCode": -2147470133,
+  "define": "EVENT_FRS_SYSVOL_NOT_READY_PRIMARY",
+  "defineUrl": "/win32/netevent-h/event_frs_sysvol_not_ready_primary/",
+  "message": "The File Replication Service may be preventing the computer %1 from becoming a\r\ndomain controller while the system volume is being initialized and then\r\nshared as SYSVOL.\r\n%n\r\n%nType \"net share\" to check for the SYSVOL share. The File Replication\r\nService has stopped preventing the computer from becoming a domain\r\ncontroller once the SYSVOL share appears.\r\n%n\r\n%nThe initialization of the system volume can take some time.\r\nThe time is dependent on the amount of data in the system volume.\r\n%n\r\n%nThe initialization of the system volume can be bypassed by first typing\r\nregedt32 and setting the value of SysvolReady to 1 and then restarting\r\nthe Netlogon service.\r\n%n\r\n%nWARNING - BYPASSING THE SYSTEM VOLUME INITIALIZATION IS NOT RECOMMENDED.\r\nApplications may fail in unexpected ways.\r\n%n\r\n%nThe value SysvolReady is located by clicking on HKEY_LOCAL_MACHINE\r\nand then clicking on System, CurrentControlSet, Services, Netlogon,\r\nand Parameters.\r\n%n\r\n%nThe Netlogon service can be restarted by typing \"net stop netlogon\"\r\nfollowed by \"net start netlogon\".",
+  "remarks": null,
+  "aka": [
+    "-2147470133"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_frs_sysvol_not_ready_primary/-2147470133/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

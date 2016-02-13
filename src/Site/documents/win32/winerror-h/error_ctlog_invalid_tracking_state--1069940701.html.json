@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_ctlog_invalid_tracking_state\-1069940701\index.html.json
+canonical: /win32/winerror-h/error_ctlog_invalid_tracking_state/0xc03a0023/
+title: -1069940701 ERROR_CTLOG_INVALID_TRACKING_STATE in winerror.h
+description: Change Tracking for the virtual disk is not in a valid state to perform this request.  Change tracking could be discontinued or already in the requested state.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-1069940701",
+  "codeUrl": "/win32/winerror-h/error_ctlog_invalid_tracking_state/-1069940701/",
+  "numericCode": 0,
+  "define": "ERROR_CTLOG_INVALID_TRACKING_STATE",
+  "defineUrl": "/win32/winerror-h/error_ctlog_invalid_tracking_state/",
+  "message": "Change Tracking for the virtual disk is not in a valid state to perform this request.  Change tracking could be discontinued or already in the requested state.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC03A0023",
+  "originalCodeUrl": "/win32/winerror-h/error_ctlog_invalid_tracking_state/0xc03a0023/"
+}

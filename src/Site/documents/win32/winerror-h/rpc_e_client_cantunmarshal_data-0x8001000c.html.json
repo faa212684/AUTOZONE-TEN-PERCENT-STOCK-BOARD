@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\rpc_e_client_cantunmarshal_data\0x8001000c\index.html.json
+
+title: 0x8001000C RPC_E_CLIENT_CANTUNMARSHAL_DATA in winerror.h
+description: The client (caller) cannot unmarshall the return data - low memory, etc.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8001000C",
+  "codeUrl": "/win32/winerror-h/rpc_e_client_cantunmarshal_data/0x8001000c/",
+  "numericCode": -2147418100,
+  "define": "RPC_E_CLIENT_CANTUNMARSHAL_DATA",
+  "defineUrl": "/win32/winerror-h/rpc_e_client_cantunmarshal_data/",
+  "message": "The client (caller) cannot unmarshall the return data - low memory, etc.",
+  "remarks": null,
+  "aka": [
+    "-2147418100"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/rpc_e_client_cantunmarshal_data/-2147418100/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

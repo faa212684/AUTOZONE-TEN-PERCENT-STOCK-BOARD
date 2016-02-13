@@ -1,0 +1,29 @@
+---
+output: win32\ntstatus-h\status_unsuccessful\0xc0000001\index.html.json
+
+title: 0xC0000001 STATUS_UNSUCCESSFUL in ntstatus.h
+description: "{Operation Failed}
+The requested operation was unsuccessful."
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000001",
+  "codeUrl": "/win32/ntstatus-h/status_unsuccessful/0xc0000001/",
+  "numericCode": -1073741823,
+  "define": "STATUS_UNSUCCESSFUL",
+  "defineUrl": "/win32/ntstatus-h/status_unsuccessful/",
+  "message": "{Operation Failed}\r\nThe requested operation was unsuccessful.",
+  "remarks": null,
+  "aka": [
+    "-1073741823"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_unsuccessful/-1073741823/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

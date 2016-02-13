@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_nothing_to_terminate\758\index.html.json
+
+title: 758 ERROR_NOTHING_TO_TERMINATE in winerror.h
+description: A process being terminated has no threads to terminate.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "758",
+  "codeUrl": "/win32/winerror-h/error_nothing_to_terminate/758/",
+  "numericCode": 758,
+  "define": "ERROR_NOTHING_TO_TERMINATE",
+  "defineUrl": "/win32/winerror-h/error_nothing_to_terminate/",
+  "message": "A process being terminated has no threads to terminate.",
+  "remarks": null,
+  "aka": [
+    "0x800702f6",
+    "-2147024138"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_nothing_to_terminate/0x800702f6/",
+    "/win32/winerror-h/error_nothing_to_terminate/-2147024138/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,41 @@
+---
+output: win32\netevent-h\event_frs_cant_open_preinstall\-1073728273\index.html.json
+canonical: /win32/netevent-h/event_frs_cant_open_preinstall/0xc00034ef/
+title: -1073728273 EVENT_FRS_CANT_OPEN_PREINSTALL in netevent.h
+description: The File Replication Service is unable to open (or create) the pre-install
+directory under the customer designated replica tree directory for
+replica set %1.  The path used for the pre-install
+directory is,
+%n    "%2"
+%nThe customer designated root path for this replica set is:
+%n    "%3"
+%n
+The service is unable to start replication on this replica set.  Among the
+possible errors to check are:
+%n  --  an invalid root path,
+%n  --  a missing directory,
+%n  --  a missing disk volume,
+%n  --  a file system on the volume that does not support NTFS 5.0
+%n  --  a sharing conflict on the pre-install directory with some other application.
+%n
+%nCorrect the problem and the service will attempt to restart replication
+automatically at a later time.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "-1073728273",
+  "codeUrl": "/win32/netevent-h/event_frs_cant_open_preinstall/-1073728273/",
+  "numericCode": 0,
+  "define": "EVENT_FRS_CANT_OPEN_PREINSTALL",
+  "defineUrl": "/win32/netevent-h/event_frs_cant_open_preinstall/",
+  "message": "The File Replication Service is unable to open (or create) the pre-install\r\ndirectory under the customer designated replica tree directory for\r\nreplica set %1.  The path used for the pre-install\r\ndirectory is,\r\n%n    \"%2\"\r\n%nThe customer designated root path for this replica set is:\r\n%n    \"%3\"\r\n%n\r\nThe service is unable to start replication on this replica set.  Among the\r\npossible errors to check are:\r\n%n  --  an invalid root path,\r\n%n  --  a missing directory,\r\n%n  --  a missing disk volume,\r\n%n  --  a file system on the volume that does not support NTFS 5.0\r\n%n  --  a sharing conflict on the pre-install directory with some other application.\r\n%n\r\n%nCorrect the problem and the service will attempt to restart replication\r\nautomatically at a later time.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC00034EF",
+  "originalCodeUrl": "/win32/netevent-h/event_frs_cant_open_preinstall/0xc00034ef/"
+}

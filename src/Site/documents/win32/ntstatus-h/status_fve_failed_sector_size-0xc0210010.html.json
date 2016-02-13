@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_fve_failed_sector_size\0xc0210010\index.html.json
+
+title: 0xC0210010 STATUS_FVE_FAILED_SECTOR_SIZE in ntstatus.h
+description: The encryption algorithm does not support the sector size of that volume.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0210010",
+  "codeUrl": "/win32/ntstatus-h/status_fve_failed_sector_size/0xc0210010/",
+  "numericCode": -1071579120,
+  "define": "STATUS_FVE_FAILED_SECTOR_SIZE",
+  "defineUrl": "/win32/ntstatus-h/status_fve_failed_sector_size/",
+  "message": "The encryption algorithm does not support the sector size of that volume.",
+  "remarks": null,
+  "aka": [
+    "-1071579120"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_fve_failed_sector_size/-1071579120/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

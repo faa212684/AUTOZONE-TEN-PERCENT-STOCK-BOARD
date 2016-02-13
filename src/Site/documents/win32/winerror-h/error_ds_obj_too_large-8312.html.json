@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ds_obj_too_large\8312\index.html.json
+
+title: 8312 ERROR_DS_OBJ_TOO_LARGE in winerror.h
+description: The specified object is too large.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "8312",
+  "codeUrl": "/win32/winerror-h/error_ds_obj_too_large/8312/",
+  "numericCode": 8312,
+  "define": "ERROR_DS_OBJ_TOO_LARGE",
+  "defineUrl": "/win32/winerror-h/error_ds_obj_too_large/",
+  "message": "The specified object is too large.",
+  "remarks": null,
+  "aka": [
+    "0x80072078",
+    "-2147016584"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ds_obj_too_large/0x80072078/",
+    "/win32/winerror-h/error_ds_obj_too_large/-2147016584/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

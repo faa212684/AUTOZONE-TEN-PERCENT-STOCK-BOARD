@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_graphics_video_present_targets_less_than_sources\0xc01e0326\index.html.json
+
+title: 0xC01E0326 STATUS_GRAPHICS_VIDEO_PRESENT_TARGETS_LESS_THAN_SOURCES in ntstatus.h
+description: Number of video present targets must be greater than or equal to the number of video present sources.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC01E0326",
+  "codeUrl": "/win32/ntstatus-h/status_graphics_video_present_targets_less_than_sources/0xc01e0326/",
+  "numericCode": -1071774938,
+  "define": "STATUS_GRAPHICS_VIDEO_PRESENT_TARGETS_LESS_THAN_SOURCES",
+  "defineUrl": "/win32/ntstatus-h/status_graphics_video_present_targets_less_than_sources/",
+  "message": "Number of video present targets must be greater than or equal to the number of video present sources.",
+  "remarks": null,
+  "aka": [
+    "-1071774938"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_graphics_video_present_targets_less_than_sources/-1071774938/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

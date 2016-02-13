@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\event_e_invalid_event_class_partition\0x8004020f\index.html.json
+
+title: 0x8004020F EVENT_E_INVALID_EVENT_CLASS_PARTITION in winerror.h
+description: The event class for this subscription is in an invalid partition
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8004020F",
+  "codeUrl": "/win32/winerror-h/event_e_invalid_event_class_partition/0x8004020f/",
+  "numericCode": -2147220977,
+  "define": "EVENT_E_INVALID_EVENT_CLASS_PARTITION",
+  "defineUrl": "/win32/winerror-h/event_e_invalid_event_class_partition/",
+  "message": "The event class for this subscription is in an invalid partition",
+  "remarks": null,
+  "aka": [
+    "-2147220977"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/event_e_invalid_event_class_partition/-2147220977/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

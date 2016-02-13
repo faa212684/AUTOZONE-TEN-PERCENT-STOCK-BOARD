@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_fwp_timeout\-1071513582\index.html.json
+canonical: /win32/ntstatus-h/status_fwp_timeout/0xc0220012/
+title: -1071513582 STATUS_FWP_TIMEOUT in ntstatus.h
+description: The call timed out while waiting to acquire the transaction lock.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071513582",
+  "codeUrl": "/win32/ntstatus-h/status_fwp_timeout/-1071513582/",
+  "numericCode": 0,
+  "define": "STATUS_FWP_TIMEOUT",
+  "defineUrl": "/win32/ntstatus-h/status_fwp_timeout/",
+  "message": "The call timed out while waiting to acquire the transaction lock.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0220012",
+  "originalCodeUrl": "/win32/ntstatus-h/status_fwp_timeout/0xc0220012/"
+}

@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_e_extent_exceeds_disk_free_space\0x80042515\index.html.json
+
+title: 0x80042515 VDS_E_EXTENT_EXCEEDS_DISK_FREE_SPACE in vdserr.h
+description: The specified disk extent size exceeds the size of free disk space.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x80042515",
+  "codeUrl": "/win32/vdserr-h/vds_e_extent_exceeds_disk_free_space/0x80042515/",
+  "numericCode": -2147212011,
+  "define": "VDS_E_EXTENT_EXCEEDS_DISK_FREE_SPACE",
+  "defineUrl": "/win32/vdserr-h/vds_e_extent_exceeds_disk_free_space/",
+  "message": "The specified disk extent size exceeds the size of free disk space.",
+  "remarks": null,
+  "aka": [
+    "-2147212011"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_extent_exceeds_disk_free_space/-2147212011/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

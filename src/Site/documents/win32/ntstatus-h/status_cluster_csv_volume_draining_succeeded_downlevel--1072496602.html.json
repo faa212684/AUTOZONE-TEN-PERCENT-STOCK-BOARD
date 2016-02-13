@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_cluster_csv_volume_draining_succeeded_downlevel\-1072496602\index.html.json
+canonical: /win32/ntstatus-h/status_cluster_csv_volume_draining_succeeded_downlevel/0xc0130026/
+title: -1072496602 STATUS_CLUSTER_CSV_VOLUME_DRAINING_SUCCEEDED_DOWNLEVEL in ntstatus.h
+description: The operation has succeeded on the down level file system, but CSV is failing it because it is in draining state.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1072496602",
+  "codeUrl": "/win32/ntstatus-h/status_cluster_csv_volume_draining_succeeded_downlevel/-1072496602/",
+  "numericCode": 0,
+  "define": "STATUS_CLUSTER_CSV_VOLUME_DRAINING_SUCCEEDED_DOWNLEVEL",
+  "defineUrl": "/win32/ntstatus-h/status_cluster_csv_volume_draining_succeeded_downlevel/",
+  "message": "The operation has succeeded on the down level file system, but CSV is failing it because it is in draining state.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0130026",
+  "originalCodeUrl": "/win32/ntstatus-h/status_cluster_csv_volume_draining_succeeded_downlevel/0xc0130026/"
+}

@@ -1,0 +1,25 @@
+---
+output: win32\cdosyserr-h\evtdeletedurationtoolong\-2147278778\index.html.json
+canonical: /win32/cdosyserr-h/evtdeletedurationtoolong/0x80032046/
+title: -2147278778 evtDeleteDurationTooLong in CDOSysErr.h
+description: The existing appointment with the subject "%1" in mailbox %2 was deleted. The duration of the existing appointment was too large. Free/busy publishing may not be accurate.
+%n%nFor more information, click http:www.microsoft.com/contentredirect.asp.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "CDOSysErr.h",
+  "sourceUrl": "/win32/cdosyserr-h/",
+  "code": "-2147278778",
+  "codeUrl": "/win32/cdosyserr-h/evtdeletedurationtoolong/-2147278778/",
+  "numericCode": 0,
+  "define": "evtDeleteDurationTooLong",
+  "defineUrl": "/win32/cdosyserr-h/evtdeletedurationtoolong/",
+  "message": "The existing appointment with the subject \"%1\" in mailbox %2 was deleted. The duration of the existing appointment was too large. Free/busy publishing may not be accurate.\r\n%n%nFor more information, click http:www.microsoft.com/contentredirect.asp.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80032046",
+  "originalCodeUrl": "/win32/cdosyserr-h/evtdeletedurationtoolong/0x80032046/"
+}

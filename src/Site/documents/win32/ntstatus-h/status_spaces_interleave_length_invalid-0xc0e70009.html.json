@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_spaces_interleave_length_invalid\0xc0e70009\index.html.json
+
+title: 0xC0E70009 STATUS_SPACES_INTERLEAVE_LENGTH_INVALID in ntstatus.h
+description: The value for interleave length is outside of the supported range of values.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0E70009",
+  "codeUrl": "/win32/ntstatus-h/status_spaces_interleave_length_invalid/0xc0e70009/",
+  "numericCode": -1058602999,
+  "define": "STATUS_SPACES_INTERLEAVE_LENGTH_INVALID",
+  "defineUrl": "/win32/ntstatus-h/status_spaces_interleave_length_invalid/",
+  "message": "The value for interleave length is outside of the supported range of values.",
+  "remarks": null,
+  "aka": [
+    "-1058602999"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_spaces_interleave_length_invalid/-1058602999/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

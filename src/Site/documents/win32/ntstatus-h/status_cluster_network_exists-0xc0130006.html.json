@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_cluster_network_exists\0xc0130006\index.html.json
+
+title: 0xC0130006 STATUS_CLUSTER_NETWORK_EXISTS in ntstatus.h
+description: The cluster network already exists.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0130006",
+  "codeUrl": "/win32/ntstatus-h/status_cluster_network_exists/0xc0130006/",
+  "numericCode": -1072496634,
+  "define": "STATUS_CLUSTER_NETWORK_EXISTS",
+  "defineUrl": "/win32/ntstatus-h/status_cluster_network_exists/",
+  "message": "The cluster network already exists.",
+  "remarks": null,
+  "aka": [
+    "-1072496634"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_cluster_network_exists/-1072496634/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,30 @@
+---
+output: win32\ntstatus-h\status_illegal_instruction\0xc000001d\index.html.json
+
+title: 0xC000001D STATUS_ILLEGAL_INSTRUCTION in ntstatus.h
+description: "{EXCEPTION}
+Illegal Instruction
+An attempt was made to execute an illegal instruction."
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000001D",
+  "codeUrl": "/win32/ntstatus-h/status_illegal_instruction/0xc000001d/",
+  "numericCode": -1073741795,
+  "define": "STATUS_ILLEGAL_INSTRUCTION",
+  "defineUrl": "/win32/ntstatus-h/status_illegal_instruction/",
+  "message": "{EXCEPTION}\r\nIllegal Instruction\r\nAn attempt was made to execute an illegal instruction.",
+  "remarks": null,
+  "aka": [
+    "-1073741795"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_illegal_instruction/-1073741795/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

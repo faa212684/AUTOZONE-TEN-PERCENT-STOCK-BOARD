@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_logon_server_conflict\-2147024328\index.html.json
+canonical: /win32/winerror-h/error_logon_server_conflict/568/
+title: -2147024328 ERROR_LOGON_SERVER_CONFLICT in winerror.h
+description: The Netlogon service cannot start because another Netlogon service running in the domain conflicts with the specified role.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147024328",
+  "codeUrl": "/win32/winerror-h/error_logon_server_conflict/-2147024328/",
+  "numericCode": 0,
+  "define": "ERROR_LOGON_SERVER_CONFLICT",
+  "defineUrl": "/win32/winerror-h/error_logon_server_conflict/",
+  "message": "The Netlogon service cannot start because another Netlogon service running in the domain conflicts with the specified role.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "568",
+  "originalCodeUrl": "/win32/winerror-h/error_logon_server_conflict/568/"
+}

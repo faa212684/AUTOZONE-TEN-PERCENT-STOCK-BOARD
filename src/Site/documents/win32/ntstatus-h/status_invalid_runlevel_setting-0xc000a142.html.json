@@ -1,0 +1,29 @@
+---
+output: win32\ntstatus-h\status_invalid_runlevel_setting\0xc000a142\index.html.json
+
+title: 0xC000A142 STATUS_INVALID_RUNLEVEL_SETTING in ntstatus.h
+description: The service has an invalid run level setting. The run level for a service
+must not be higher than the run level of its dependent services.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000A142",
+  "codeUrl": "/win32/ntstatus-h/status_invalid_runlevel_setting/0xc000a142/",
+  "numericCode": -1073700542,
+  "define": "STATUS_INVALID_RUNLEVEL_SETTING",
+  "defineUrl": "/win32/ntstatus-h/status_invalid_runlevel_setting/",
+  "message": "The service has an invalid run level setting. The run level for a service\r\nmust not be higher than the run level of its dependent services.",
+  "remarks": null,
+  "aka": [
+    "-1073700542"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_invalid_runlevel_setting/-1073700542/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

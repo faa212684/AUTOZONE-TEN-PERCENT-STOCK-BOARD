@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_only_if_connected\0xc00002cc\index.html.json
+
+title: 0xC00002CC STATUS_ONLY_IF_CONNECTED in ntstatus.h
+description: This operation is supported only when you are connected to the server.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC00002CC",
+  "codeUrl": "/win32/ntstatus-h/status_only_if_connected/0xc00002cc/",
+  "numericCode": -1073741108,
+  "define": "STATUS_ONLY_IF_CONNECTED",
+  "defineUrl": "/win32/ntstatus-h/status_only_if_connected/",
+  "message": "This operation is supported only when you are connected to the server.",
+  "remarks": null,
+  "aka": [
+    "-1073741108"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_only_if_connected/-1073741108/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

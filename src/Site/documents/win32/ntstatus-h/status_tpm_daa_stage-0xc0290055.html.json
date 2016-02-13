@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_tpm_daa_stage\0xc0290055\index.html.json
+
+title: 0xC0290055 STATUS_TPM_DAA_STAGE in ntstatus.h
+description: The atomic process indicated by the submitted DAA command is not the expected process.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0290055",
+  "codeUrl": "/win32/ntstatus-h/status_tpm_daa_stage/0xc0290055/",
+  "numericCode": -1071054763,
+  "define": "STATUS_TPM_DAA_STAGE",
+  "defineUrl": "/win32/ntstatus-h/status_tpm_daa_stage/",
+  "message": "The atomic process indicated by the submitted DAA command is not the expected process.",
+  "remarks": null,
+  "aka": [
+    "-1071054763"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_tpm_daa_stage/-1071054763/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

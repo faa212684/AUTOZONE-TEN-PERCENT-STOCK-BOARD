@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_acpi_not_initialized\0xc0140014\index.html.json
+
+title: 0xC0140014 STATUS_ACPI_NOT_INITIALIZED in ntstatus.h
+description: The ACPI subsystem has not been initialized
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0140014",
+  "codeUrl": "/win32/ntstatus-h/status_acpi_not_initialized/0xc0140014/",
+  "numericCode": -1072431084,
+  "define": "STATUS_ACPI_NOT_INITIALIZED",
+  "defineUrl": "/win32/ntstatus-h/status_acpi_not_initialized/",
+  "message": "The ACPI subsystem has not been initialized",
+  "remarks": null,
+  "aka": [
+    "-1072431084"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_acpi_not_initialized/-1072431084/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

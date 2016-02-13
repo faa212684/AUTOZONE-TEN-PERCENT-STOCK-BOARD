@@ -1,0 +1,29 @@
+---
+output: win32\vsserror-h\vss_e_transaction_thaw_timeout\0x80042329\index.html.json
+
+title: 0x80042329 VSS_E_TRANSACTION_THAW_TIMEOUT in vsserror.h
+description: Too much time elapsed between freezing a transaction manager and thawing
+the transaction manager.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vsserror.h",
+  "sourceUrl": "/win32/vsserror-h/",
+  "code": "0x80042329",
+  "codeUrl": "/win32/vsserror-h/vss_e_transaction_thaw_timeout/0x80042329/",
+  "numericCode": -2147212503,
+  "define": "VSS_E_TRANSACTION_THAW_TIMEOUT",
+  "defineUrl": "/win32/vsserror-h/vss_e_transaction_thaw_timeout/",
+  "message": "Too much time elapsed between freezing a transaction manager and thawing\r\nthe transaction manager.",
+  "remarks": null,
+  "aka": [
+    "-2147212503"
+  ],
+  "akaUrl": [
+    "/win32/vsserror-h/vss_e_transaction_thaw_timeout/-2147212503/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

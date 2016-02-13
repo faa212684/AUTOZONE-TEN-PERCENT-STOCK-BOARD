@@ -1,0 +1,49 @@
+---
+output: win32\netevent-h\event_frs_duplicate_in_cxtion\0xc00034f6\index.html.json
+
+title: 0xC00034F6 EVENT_FRS_DUPLICATE_IN_CXTION in netevent.h
+description: The File Replication Service has detected a duplicate connection object between
+this computer "%7" and a computer named "%1".
+%nThis was detected for the following replica set:
+%n    "%2"
+%n
+%nThis is not allowed and replication will not occur between these two
+computers until the duplicate connection objects are removed.
+%n
+%nIt is possible that this is a transient error due to Active Directory
+replication delays associated with updating FRS configuration objects.  If
+file replication does not take place after an appropriate waiting time,
+which could be several hours if cross site Active Directory replication
+is required, you must manually delete the duplicate connection objects by
+following the steps below:
+%n
+%n [1] Start the Active Directory Users and Computers Snapin.
+%n [2] Click the view button and advanced features to display the system node.
+%n [3] Click on "%3, %4, %5".
+%n [4] Under "%5" you will see one or more DFS related replica set objects.
+Look for the FRS member object "%6" under the subtree for replica set "%2".
+%n [5] Under "%6" look for duplicate connections from "%1".
+%n [6] Delete all but one of the connections.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC00034F6",
+  "codeUrl": "/win32/netevent-h/event_frs_duplicate_in_cxtion/0xc00034f6/",
+  "numericCode": -1073728266,
+  "define": "EVENT_FRS_DUPLICATE_IN_CXTION",
+  "defineUrl": "/win32/netevent-h/event_frs_duplicate_in_cxtion/",
+  "message": "The File Replication Service has detected a duplicate connection object between\r\nthis computer \"%7\" and a computer named \"%1\".\r\n%nThis was detected for the following replica set:\r\n%n    \"%2\"\r\n%n\r\n%nThis is not allowed and replication will not occur between these two\r\ncomputers until the duplicate connection objects are removed.\r\n%n\r\n%nIt is possible that this is a transient error due to Active Directory\r\nreplication delays associated with updating FRS configuration objects.  If\r\nfile replication does not take place after an appropriate waiting time,\r\nwhich could be several hours if cross site Active Directory replication\r\nis required, you must manually delete the duplicate connection objects by\r\nfollowing the steps below:\r\n%n\r\n%n [1] Start the Active Directory Users and Computers Snapin.\r\n%n [2] Click the view button and advanced features to display the system node.\r\n%n [3] Click on \"%3, %4, %5\".\r\n%n [4] Under \"%5\" you will see one or more DFS related replica set objects.\r\nLook for the FRS member object \"%6\" under the subtree for replica set \"%2\".\r\n%n [5] Under \"%6\" look for duplicate connections from \"%1\".\r\n%n [6] Delete all but one of the connections.",
+  "remarks": null,
+  "aka": [
+    "-1073728266"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_frs_duplicate_in_cxtion/-1073728266/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

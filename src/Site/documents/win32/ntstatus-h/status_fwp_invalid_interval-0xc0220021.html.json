@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_fwp_invalid_interval\0xc0220021\index.html.json
+
+title: 0xC0220021 STATUS_FWP_INVALID_INTERVAL in ntstatus.h
+description: The time interval is not valid.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0220021",
+  "codeUrl": "/win32/ntstatus-h/status_fwp_invalid_interval/0xc0220021/",
+  "numericCode": -1071513567,
+  "define": "STATUS_FWP_INVALID_INTERVAL",
+  "defineUrl": "/win32/ntstatus-h/status_fwp_invalid_interval/",
+  "message": "The time interval is not valid.",
+  "remarks": null,
+  "aka": [
+    "-1071513567"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_fwp_invalid_interval/-1071513567/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

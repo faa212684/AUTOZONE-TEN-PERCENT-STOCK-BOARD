@@ -1,0 +1,28 @@
+---
+output: win32\windowssearcherrors-h\fte_e_fd_ownership_obsolete\0x8004361e\index.html.json
+
+title: 0x8004361E FTE_E_FD_OWNERSHIP_OBSOLETE in WindowsSearchErrors.h
+description: This is an internal error that should be handled. The FD has been killed and this chunk buffer has already been reassigned.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "0x8004361E",
+  "codeUrl": "/win32/windowssearcherrors-h/fte_e_fd_ownership_obsolete/0x8004361e/",
+  "numericCode": -2147207650,
+  "define": "FTE_E_FD_OWNERSHIP_OBSOLETE",
+  "defineUrl": "/win32/windowssearcherrors-h/fte_e_fd_ownership_obsolete/",
+  "message": "This is an internal error that should be handled. The FD has been killed and this chunk buffer has already been reassigned.",
+  "remarks": null,
+  "aka": [
+    "-2147207650"
+  ],
+  "akaUrl": [
+    "/win32/windowssearcherrors-h/fte_e_fd_ownership_obsolete/-2147207650/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

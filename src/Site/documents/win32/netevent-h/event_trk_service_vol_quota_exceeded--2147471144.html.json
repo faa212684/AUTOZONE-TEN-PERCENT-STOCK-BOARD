@@ -1,0 +1,24 @@
+---
+output: win32\netevent-h\event_trk_service_vol_quota_exceeded\-2147471144\index.html.json
+canonical: /win32/netevent-h/event_trk_service_vol_quota_exceeded/0x800030d8/
+title: -2147471144 EVENT_TRK_SERVICE_VOL_QUOTA_EXCEEDED in netevent.h
+description: The Distributed Link Tracking volume ID quota on this machine has been exceeded.  As a result, it is not possible to create new volume IDs.  Distributed Link Tracking normally uses these volume IDs to automatically repair file links, such as Shell Shortcuts and OLE links, when for some reason those links become broken.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "-2147471144",
+  "codeUrl": "/win32/netevent-h/event_trk_service_vol_quota_exceeded/-2147471144/",
+  "numericCode": 0,
+  "define": "EVENT_TRK_SERVICE_VOL_QUOTA_EXCEEDED",
+  "defineUrl": "/win32/netevent-h/event_trk_service_vol_quota_exceeded/",
+  "message": "The Distributed Link Tracking volume ID quota on this machine has been exceeded.  As a result, it is not possible to create new volume IDs.  Distributed Link Tracking normally uses these volume IDs to automatically repair file links, such as Shell Shortcuts and OLE links, when for some reason those links become broken.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x800030D8",
+  "originalCodeUrl": "/win32/netevent-h/event_trk_service_vol_quota_exceeded/0x800030d8/"
+}

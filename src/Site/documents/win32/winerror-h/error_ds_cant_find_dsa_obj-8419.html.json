@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ds_cant_find_dsa_obj\8419\index.html.json
+
+title: 8419 ERROR_DS_CANT_FIND_DSA_OBJ in winerror.h
+description: The DSA object could not be found.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "8419",
+  "codeUrl": "/win32/winerror-h/error_ds_cant_find_dsa_obj/8419/",
+  "numericCode": 8419,
+  "define": "ERROR_DS_CANT_FIND_DSA_OBJ",
+  "defineUrl": "/win32/winerror-h/error_ds_cant_find_dsa_obj/",
+  "message": "The DSA object could not be found.",
+  "remarks": null,
+  "aka": [
+    "0x800720e3",
+    "-2147016477"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ds_cant_find_dsa_obj/0x800720e3/",
+    "/win32/winerror-h/error_ds_cant_find_dsa_obj/-2147016477/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

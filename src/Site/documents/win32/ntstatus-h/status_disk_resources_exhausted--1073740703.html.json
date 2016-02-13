@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_disk_resources_exhausted\-1073740703\index.html.json
+canonical: /win32/ntstatus-h/status_disk_resources_exhausted/0xc0000461/
+title: -1073740703 STATUS_DISK_RESOURCES_EXHAUSTED in ntstatus.h
+description: The physical resources of this disk have been exhausted.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073740703",
+  "codeUrl": "/win32/ntstatus-h/status_disk_resources_exhausted/-1073740703/",
+  "numericCode": 0,
+  "define": "STATUS_DISK_RESOURCES_EXHAUSTED",
+  "defineUrl": "/win32/ntstatus-h/status_disk_resources_exhausted/",
+  "message": "The physical resources of this disk have been exhausted.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000461",
+  "originalCodeUrl": "/win32/ntstatus-h/status_disk_resources_exhausted/0xc0000461/"
+}

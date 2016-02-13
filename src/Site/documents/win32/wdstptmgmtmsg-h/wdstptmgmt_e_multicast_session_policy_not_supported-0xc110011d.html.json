@@ -1,0 +1,28 @@
+---
+output: win32\wdstptmgmtmsg-h\wdstptmgmt_e_multicast_session_policy_not_supported\0xc110011d\index.html.json
+
+title: 0xC110011D WDSTPTMGMT_E_MULTICAST_SESSION_POLICY_NOT_SUPPORTED in WdsTptMgmtMsg.h
+description: You cannot configure the multicast session policy on this Transport Server. This policy is only supported on Windows Server 2008 R2 and later.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WdsTptMgmtMsg.h",
+  "sourceUrl": "/win32/wdstptmgmtmsg-h/",
+  "code": "0xC110011D",
+  "codeUrl": "/win32/wdstptmgmtmsg-h/wdstptmgmt_e_multicast_session_policy_not_supported/0xc110011d/",
+  "numericCode": -1055915747,
+  "define": "WDSTPTMGMT_E_MULTICAST_SESSION_POLICY_NOT_SUPPORTED",
+  "defineUrl": "/win32/wdstptmgmtmsg-h/wdstptmgmt_e_multicast_session_policy_not_supported/",
+  "message": "You cannot configure the multicast session policy on this Transport Server. This policy is only supported on Windows Server 2008 R2 and later.",
+  "remarks": null,
+  "aka": [
+    "-1055915747"
+  ],
+  "akaUrl": [
+    "/win32/wdstptmgmtmsg-h/wdstptmgmt_e_multicast_session_policy_not_supported/-1055915747/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

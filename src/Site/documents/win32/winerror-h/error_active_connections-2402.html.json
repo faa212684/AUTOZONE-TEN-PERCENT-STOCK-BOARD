@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_active_connections\2402\index.html.json
+
+title: 2402 ERROR_ACTIVE_CONNECTIONS in winerror.h
+description: Active connections still exist.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "2402",
+  "codeUrl": "/win32/winerror-h/error_active_connections/2402/",
+  "numericCode": 2402,
+  "define": "ERROR_ACTIVE_CONNECTIONS",
+  "defineUrl": "/win32/winerror-h/error_active_connections/",
+  "message": "Active connections still exist.",
+  "remarks": null,
+  "aka": [
+    "0x80070962",
+    "-2147022494"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_active_connections/0x80070962/",
+    "/win32/winerror-h/error_active_connections/-2147022494/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

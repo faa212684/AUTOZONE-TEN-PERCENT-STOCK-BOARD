@@ -1,0 +1,29 @@
+---
+output: win32\wsmerror-h\error_wsman_action_mismatch\0x80338031\index.html.json
+
+title: 0x80338031 ERROR_WSMAN_ACTION_MISMATCH in wsmerror.h
+description: The WS-Management service cannot process the request because the WS-Addressing Action URI in the request is not
+compatible with the resource.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x80338031",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_action_mismatch/0x80338031/",
+  "numericCode": -2144108495,
+  "define": "ERROR_WSMAN_ACTION_MISMATCH",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_action_mismatch/",
+  "message": "The WS-Management service cannot process the request because the WS-Addressing Action URI in the request is not\r\ncompatible with the resource.",
+  "remarks": null,
+  "aka": [
+    "-2144108495"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_action_mismatch/-2144108495/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

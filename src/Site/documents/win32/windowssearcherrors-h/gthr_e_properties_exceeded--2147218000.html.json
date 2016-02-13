@@ -1,0 +1,24 @@
+---
+output: win32\windowssearcherrors-h\gthr_e_properties_exceeded\-2147218000\index.html.json
+canonical: /win32/windowssearcherrors-h/gthr_e_properties_exceeded/0x80040db0/
+title: -2147218000 GTHR_E_PROPERTIES_EXCEEDED in WindowsSearchErrors.h
+description: Maximum number of properties per document has been reached. The document is most likely corrupt, or it represents a denial of service threat, the indexing of this document has been aborted.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "-2147218000",
+  "codeUrl": "/win32/windowssearcherrors-h/gthr_e_properties_exceeded/-2147218000/",
+  "numericCode": 0,
+  "define": "GTHR_E_PROPERTIES_EXCEEDED",
+  "defineUrl": "/win32/windowssearcherrors-h/gthr_e_properties_exceeded/",
+  "message": "Maximum number of properties per document has been reached. The document is most likely corrupt, or it represents a denial of service threat, the indexing of this document has been aborted.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80040DB0",
+  "originalCodeUrl": "/win32/windowssearcherrors-h/gthr_e_properties_exceeded/0x80040db0/"
+}

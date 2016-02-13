@@ -1,0 +1,28 @@
+---
+output: win32\oledberr-h\db_e_errorsoccurred\0x80040e21\index.html.json
+
+title: 0x80040E21 DB_E_ERRORSOCCURRED in oledberr.h
+description: Multiple-step OLE DB operation generated errors. Check each OLE DB status value, if available. No work was done.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "oledberr.h",
+  "sourceUrl": "/win32/oledberr-h/",
+  "code": "0x80040E21",
+  "codeUrl": "/win32/oledberr-h/db_e_errorsoccurred/0x80040e21/",
+  "numericCode": -2147217887,
+  "define": "DB_E_ERRORSOCCURRED",
+  "defineUrl": "/win32/oledberr-h/db_e_errorsoccurred/",
+  "message": "Multiple-step OLE DB operation generated errors. Check each OLE DB status value, if available. No work was done.",
+  "remarks": null,
+  "aka": [
+    "-2147217887"
+  ],
+  "akaUrl": [
+    "/win32/oledberr-h/db_e_errorsoccurred/-2147217887/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

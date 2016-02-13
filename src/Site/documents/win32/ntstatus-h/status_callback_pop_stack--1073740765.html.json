@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_callback_pop_stack\-1073740765\index.html.json
+canonical: /win32/ntstatus-h/status_callback_pop_stack/0xc0000423/
+title: -1073740765 STATUS_CALLBACK_POP_STACK in ntstatus.h
+description: An exception has occurred in a user mode callback and the kernel callback frame should be removed.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073740765",
+  "codeUrl": "/win32/ntstatus-h/status_callback_pop_stack/-1073740765/",
+  "numericCode": 0,
+  "define": "STATUS_CALLBACK_POP_STACK",
+  "defineUrl": "/win32/ntstatus-h/status_callback_pop_stack/",
+  "message": "An exception has occurred in a user mode callback and the kernel callback frame should be removed.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000423",
+  "originalCodeUrl": "/win32/ntstatus-h/status_callback_pop_stack/0xc0000423/"
+}

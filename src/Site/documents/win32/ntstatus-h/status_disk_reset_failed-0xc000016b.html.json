@@ -1,0 +1,29 @@
+---
+output: win32\ntstatus-h\status_disk_reset_failed\0xc000016b\index.html.json
+
+title: 0xC000016B STATUS_DISK_RESET_FAILED in ntstatus.h
+description: "{Hard Disk Error}
+While accessing the hard disk, a disk controller reset was needed, but even that failed."
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000016B",
+  "codeUrl": "/win32/ntstatus-h/status_disk_reset_failed/0xc000016b/",
+  "numericCode": -1073741461,
+  "define": "STATUS_DISK_RESET_FAILED",
+  "defineUrl": "/win32/ntstatus-h/status_disk_reset_failed/",
+  "message": "{Hard Disk Error}\r\nWhile accessing the hard disk, a disk controller reset was needed, but even that failed.",
+  "remarks": null,
+  "aka": [
+    "-1073741461"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_disk_reset_failed/-1073741461/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

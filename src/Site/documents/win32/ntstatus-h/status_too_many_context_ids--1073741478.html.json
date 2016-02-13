@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_too_many_context_ids\-1073741478\index.html.json
+canonical: /win32/ntstatus-h/status_too_many_context_ids/0xc000015a/
+title: -1073741478 STATUS_TOO_MANY_CONTEXT_IDS in ntstatus.h
+description: During a logon attempt, the user's security context accumulated too many security IDs. This is a very unusual situation. Remove the user from some global or local groups to reduce the number of security ids to incorporate into the security context.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741478",
+  "codeUrl": "/win32/ntstatus-h/status_too_many_context_ids/-1073741478/",
+  "numericCode": 0,
+  "define": "STATUS_TOO_MANY_CONTEXT_IDS",
+  "defineUrl": "/win32/ntstatus-h/status_too_many_context_ids/",
+  "message": "During a logon attempt, the user's security context accumulated too many security IDs. This is a very unusual situation. Remove the user from some global or local groups to reduce the number of security ids to incorporate into the security context.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC000015A",
+  "originalCodeUrl": "/win32/ntstatus-h/status_too_many_context_ids/0xc000015a/"
+}

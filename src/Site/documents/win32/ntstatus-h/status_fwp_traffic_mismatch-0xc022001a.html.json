@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_fwp_traffic_mismatch\0xc022001a\index.html.json
+
+title: 0xC022001A STATUS_FWP_TRAFFIC_MISMATCH in ntstatus.h
+description: The traffic parameters do not match those for the security association context.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC022001A",
+  "codeUrl": "/win32/ntstatus-h/status_fwp_traffic_mismatch/0xc022001a/",
+  "numericCode": -1071513574,
+  "define": "STATUS_FWP_TRAFFIC_MISMATCH",
+  "defineUrl": "/win32/ntstatus-h/status_fwp_traffic_mismatch/",
+  "message": "The traffic parameters do not match those for the security association context.",
+  "remarks": null,
+  "aka": [
+    "-1071513574"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_fwp_traffic_mismatch/-1071513574/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

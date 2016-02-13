@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\rpc_nt_invalid_string_binding\0xc0020001\index.html.json
+
+title: 0xC0020001 RPC_NT_INVALID_STRING_BINDING in ntstatus.h
+description: The string binding is invalid.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0020001",
+  "codeUrl": "/win32/ntstatus-h/rpc_nt_invalid_string_binding/0xc0020001/",
+  "numericCode": -1073610751,
+  "define": "RPC_NT_INVALID_STRING_BINDING",
+  "defineUrl": "/win32/ntstatus-h/rpc_nt_invalid_string_binding/",
+  "message": "The string binding is invalid.",
+  "remarks": null,
+  "aka": [
+    "-1073610751"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/rpc_nt_invalid_string_binding/-1073610751/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

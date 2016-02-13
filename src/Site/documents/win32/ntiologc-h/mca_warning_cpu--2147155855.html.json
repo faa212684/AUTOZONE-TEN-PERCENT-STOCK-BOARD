@@ -1,0 +1,24 @@
+---
+output: win32\ntiologc-h\mca_warning_cpu\-2147155855\index.html.json
+canonical: /win32/ntiologc-h/mca_warning_cpu/0x80050071/
+title: -2147155855 MCA_WARNING_CPU in ntiologc.h
+description: Machine Check Event reported is a corrected CPU error reported from CPU %1. %2 additional error(s) are contained within the record.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntiologc.h",
+  "sourceUrl": "/win32/ntiologc-h/",
+  "code": "-2147155855",
+  "codeUrl": "/win32/ntiologc-h/mca_warning_cpu/-2147155855/",
+  "numericCode": 0,
+  "define": "MCA_WARNING_CPU",
+  "defineUrl": "/win32/ntiologc-h/mca_warning_cpu/",
+  "message": "Machine Check Event reported is a corrected CPU error reported from CPU %1. %2 additional error(s) are contained within the record.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80050071",
+  "originalCodeUrl": "/win32/ntiologc-h/mca_warning_cpu/0x80050071/"
+}

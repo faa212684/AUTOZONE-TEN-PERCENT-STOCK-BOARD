@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_no_signal_sent\0x800700cd\index.html.json
+canonical: /win32/winerror-h/error_no_signal_sent/205/
+title: 0x800700cd ERROR_NO_SIGNAL_SENT in winerror.h
+description: No process in the command subtree has a signal handler.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800700cd",
+  "codeUrl": "/win32/winerror-h/error_no_signal_sent/0x800700cd/",
+  "numericCode": 0,
+  "define": "ERROR_NO_SIGNAL_SENT",
+  "defineUrl": "/win32/winerror-h/error_no_signal_sent/",
+  "message": "No process in the command subtree has a signal handler.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "205",
+  "originalCodeUrl": "/win32/winerror-h/error_no_signal_sent/205/"
+}

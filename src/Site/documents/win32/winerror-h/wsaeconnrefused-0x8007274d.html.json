@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\wsaeconnrefused\0x8007274d\index.html.json
+canonical: /win32/winerror-h/wsaeconnrefused/10061/
+title: 0x8007274d WSAECONNREFUSED in winerror.h
+description: No connection could be made because the target machine actively refused it.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007274d",
+  "codeUrl": "/win32/winerror-h/wsaeconnrefused/0x8007274d/",
+  "numericCode": 0,
+  "define": "WSAECONNREFUSED",
+  "defineUrl": "/win32/winerror-h/wsaeconnrefused/",
+  "message": "No connection could be made because the target machine actively refused it.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "10061",
+  "originalCodeUrl": "/win32/winerror-h/wsaeconnrefused/10061/"
+}

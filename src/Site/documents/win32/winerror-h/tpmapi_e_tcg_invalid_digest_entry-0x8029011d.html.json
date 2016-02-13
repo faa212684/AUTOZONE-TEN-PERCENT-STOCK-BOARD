@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\tpmapi_e_tcg_invalid_digest_entry\0x8029011d\index.html.json
+
+title: 0x8029011D TPMAPI_E_TCG_INVALID_DIGEST_ENTRY in winerror.h
+description: A digest value in a TCG Log entry did not match hashed data.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8029011D",
+  "codeUrl": "/win32/winerror-h/tpmapi_e_tcg_invalid_digest_entry/0x8029011d/",
+  "numericCode": -2144796387,
+  "define": "TPMAPI_E_TCG_INVALID_DIGEST_ENTRY",
+  "defineUrl": "/win32/winerror-h/tpmapi_e_tcg_invalid_digest_entry/",
+  "message": "A digest value in a TCG Log entry did not match hashed data.",
+  "remarks": null,
+  "aka": [
+    "-2144796387"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/tpmapi_e_tcg_invalid_digest_entry/-2144796387/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,30 @@
+---
+output: win32\cdosyserr-h\evtexpansioninstexpiryinpublicmdb\0x8003201c\index.html.json
+
+title: 0x8003201C evtExpansionInstExpiryInPublicMDB in CDOSysErr.h
+description: Expiry of an instance for the recurring appointment with the subject "%1" in the folder "%2" was detected.  The master for that should be expired before this instance.  
+This instance will no longer appear in the web clients until the master is updated manually or through replication.
+%n%nFor more information, click http:www.microsoft.com/contentredirect.asp.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "CDOSysErr.h",
+  "sourceUrl": "/win32/cdosyserr-h/",
+  "code": "0x8003201C",
+  "codeUrl": "/win32/cdosyserr-h/evtexpansioninstexpiryinpublicmdb/0x8003201c/",
+  "numericCode": -2147278820,
+  "define": "evtExpansionInstExpiryInPublicMDB",
+  "defineUrl": "/win32/cdosyserr-h/evtexpansioninstexpiryinpublicmdb/",
+  "message": "Expiry of an instance for the recurring appointment with the subject \"%1\" in the folder \"%2\" was detected.  The master for that should be expired before this instance.  \r\nThis instance will no longer appear in the web clients until the master is updated manually or through replication.\r\n%n%nFor more information, click http:www.microsoft.com/contentredirect.asp.",
+  "remarks": null,
+  "aka": [
+    "-2147278820"
+  ],
+  "akaUrl": [
+    "/win32/cdosyserr-h/evtexpansioninstexpiryinpublicmdb/-2147278820/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

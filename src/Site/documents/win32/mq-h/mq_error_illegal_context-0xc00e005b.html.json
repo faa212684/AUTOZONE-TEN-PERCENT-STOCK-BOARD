@@ -1,0 +1,28 @@
+---
+output: win32\mq-h\mq_error_illegal_context\0xc00e005b\index.html.json
+
+title: 0xC00E005B MQ_ERROR_ILLEGAL_CONTEXT in Mq.h
+description: The context parameter for MQLocateBegin is invalid.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "Mq.h",
+  "sourceUrl": "/win32/mq-h/",
+  "code": "0xC00E005B",
+  "codeUrl": "/win32/mq-h/mq_error_illegal_context/0xc00e005b/",
+  "numericCode": -1072824229,
+  "define": "MQ_ERROR_ILLEGAL_CONTEXT",
+  "defineUrl": "/win32/mq-h/mq_error_illegal_context/",
+  "message": "The context parameter for MQLocateBegin is invalid.",
+  "remarks": null,
+  "aka": [
+    "-1072824229"
+  ],
+  "akaUrl": [
+    "/win32/mq-h/mq_error_illegal_context/-1072824229/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

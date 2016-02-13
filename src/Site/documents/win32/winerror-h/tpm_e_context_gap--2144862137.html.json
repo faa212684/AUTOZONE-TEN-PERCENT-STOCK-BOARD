@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\tpm_e_context_gap\-2144862137\index.html.json
+canonical: /win32/winerror-h/tpm_e_context_gap/0x80280047/
+title: -2144862137 TPM_E_CONTEXT_GAP in winerror.h
+description: The gap between saved context counts is too large.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2144862137",
+  "codeUrl": "/win32/winerror-h/tpm_e_context_gap/-2144862137/",
+  "numericCode": 0,
+  "define": "TPM_E_CONTEXT_GAP",
+  "defineUrl": "/win32/winerror-h/tpm_e_context_gap/",
+  "message": "The gap between saved context counts is too large.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80280047",
+  "originalCodeUrl": "/win32/winerror-h/tpm_e_context_gap/0x80280047/"
+}

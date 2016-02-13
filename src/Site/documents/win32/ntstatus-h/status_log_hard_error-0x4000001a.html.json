@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_log_hard_error\0x4000001a\index.html.json
+
+title: 0x4000001A STATUS_LOG_HARD_ERROR in ntstatus.h
+description: Application popup: %1 : %2
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0x4000001A",
+  "codeUrl": "/win32/ntstatus-h/status_log_hard_error/0x4000001a/",
+  "numericCode": 1073741850,
+  "define": "STATUS_LOG_HARD_ERROR",
+  "defineUrl": "/win32/ntstatus-h/status_log_hard_error/",
+  "message": "Application popup: %1 : %2",
+  "remarks": null,
+  "aka": [
+    "1073741850"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_log_hard_error/1073741850/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

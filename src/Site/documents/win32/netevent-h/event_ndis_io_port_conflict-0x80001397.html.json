@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_ndis_io_port_conflict\0x80001397\index.html.json
+
+title: 0x80001397 EVENT_NDIS_IO_PORT_CONFLICT in netevent.h
+description: %2 : There is an I/O port conflict.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x80001397",
+  "codeUrl": "/win32/netevent-h/event_ndis_io_port_conflict/0x80001397/",
+  "numericCode": -2147478633,
+  "define": "EVENT_NDIS_IO_PORT_CONFLICT",
+  "defineUrl": "/win32/netevent-h/event_ndis_io_port_conflict/",
+  "message": "%2 : There is an I/O port conflict.",
+  "remarks": null,
+  "aka": [
+    "-2147478633"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_ndis_io_port_conflict/-2147478633/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

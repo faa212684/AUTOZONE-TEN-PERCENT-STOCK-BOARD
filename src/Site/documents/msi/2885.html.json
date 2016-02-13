@@ -1,0 +1,24 @@
+---
+output: msi\2885\index.html.json
+
+title: msi 2885
+description: Failed to create the control [3] on the dialog [2].
+disqus: true
+---
+{
+  "area": "msi",
+  "areaUrl": "/msi/",
+  "source": null,
+  "sourceUrl": "/msi/",
+  "code": "2885",
+  "codeUrl": "/msi/2885/",
+  "numericCode": 2885,
+  "define": null,
+  "defineUrl": "/msi/",
+  "message": "Failed to create the control [3] on the dialog [2].",
+  "remarks": "This can be caused by attempting to display a  dialog with a <a href=\"https://msdn.microsoft.com/en-us/library/dd407936(v=vs.85).aspx\">Hyperlink</a> control using Windows Installer 4.5 or earlier.  The Hyperlink control requires Windows Installer 5.0.  In this case, author two versions of the dialog, one with the control and one without.  Use conditional statements to display the dialog box without the control if the <a href=\"https://msdn.microsoft.com/en-us/library/aa372493(v=vs.85).aspx\"><strong xmlns=\"http://www.w3.org/1999/xhtml\">VersionMsi</strong></a> property is less than �5.00�.  Display the dialog with the Hyperlink control if <strong>VersionMsi</strong> is greater than or equal to �5.00�.",
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": null,
+  "originalCodeUrl": null
+}

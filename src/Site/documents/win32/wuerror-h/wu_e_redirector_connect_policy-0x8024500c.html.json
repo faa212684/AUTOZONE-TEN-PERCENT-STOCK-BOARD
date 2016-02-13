@@ -1,0 +1,28 @@
+---
+output: win32\wuerror-h\wu_e_redirector_connect_policy\0x8024500c\index.html.json
+
+title: 0x8024500C WU_E_REDIRECTOR_CONNECT_POLICY in wuerror.h
+description: Connections to the redirector server are disallowed by managed policy.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wuerror.h",
+  "sourceUrl": "/win32/wuerror-h/",
+  "code": "0x8024500C",
+  "codeUrl": "/win32/wuerror-h/wu_e_redirector_connect_policy/0x8024500c/",
+  "numericCode": -2145103860,
+  "define": "WU_E_REDIRECTOR_CONNECT_POLICY",
+  "defineUrl": "/win32/wuerror-h/wu_e_redirector_connect_policy/",
+  "message": "Connections to the redirector server are disallowed by managed policy.",
+  "remarks": null,
+  "aka": [
+    "-2145103860"
+  ],
+  "akaUrl": [
+    "/win32/wuerror-h/wu_e_redirector_connect_policy/-2145103860/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

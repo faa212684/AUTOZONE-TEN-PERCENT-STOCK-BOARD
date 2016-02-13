@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\comadmin_e_start_app_needs_components\0x80110448\index.html.json
+
+title: 0x80110448 COMADMIN_E_START_APP_NEEDS_COMPONENTS in winerror.h
+description: You must have components in an application in order to start the application
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80110448",
+  "codeUrl": "/win32/winerror-h/comadmin_e_start_app_needs_components/0x80110448/",
+  "numericCode": -2146368440,
+  "define": "COMADMIN_E_START_APP_NEEDS_COMPONENTS",
+  "defineUrl": "/win32/winerror-h/comadmin_e_start_app_needs_components/",
+  "message": "You must have components in an application in order to start the application",
+  "remarks": null,
+  "aka": [
+    "-2146368440"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/comadmin_e_start_app_needs_components/-2146368440/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,29 @@
+---
+output: win32\vdserr-h\vds_e_lun_offline\0x8004281d\index.html.json
+
+title: 0x8004281D VDS_E_LUN_OFFLINE in vdserr.h
+description: The SHRINK operation against the selected LUN cannot be completed. 
+The current state of the LUN is OFFLINE.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x8004281D",
+  "codeUrl": "/win32/vdserr-h/vds_e_lun_offline/0x8004281d/",
+  "numericCode": -2147211235,
+  "define": "VDS_E_LUN_OFFLINE",
+  "defineUrl": "/win32/vdserr-h/vds_e_lun_offline/",
+  "message": "The SHRINK operation against the selected LUN cannot be completed. \r\nThe current state of the LUN is OFFLINE.",
+  "remarks": null,
+  "aka": [
+    "-2147211235"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_lun_offline/-2147211235/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

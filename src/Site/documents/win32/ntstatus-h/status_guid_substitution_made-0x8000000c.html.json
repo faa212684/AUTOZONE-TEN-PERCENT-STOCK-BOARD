@@ -1,0 +1,29 @@
+---
+output: win32\ntstatus-h\status_guid_substitution_made\0x8000000c\index.html.json
+
+title: 0x8000000C STATUS_GUID_SUBSTITUTION_MADE in ntstatus.h
+description: "{GUID Substitution}
+During the translation of a global identifier (GUID) to a Windows security ID (SID), no administratively-defined GUID prefix was found. A substitute prefix was used, which will not compromise system security. However, this may provide a more restrictive access than intended."
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0x8000000C",
+  "codeUrl": "/win32/ntstatus-h/status_guid_substitution_made/0x8000000c/",
+  "numericCode": -2147483636,
+  "define": "STATUS_GUID_SUBSTITUTION_MADE",
+  "defineUrl": "/win32/ntstatus-h/status_guid_substitution_made/",
+  "message": "{GUID Substitution}\r\nDuring the translation of a global identifier (GUID) to a Windows security ID (SID), no administratively-defined GUID prefix was found. A substitute prefix was used, which will not compromise system security. However, this may provide a more restrictive access than intended.",
+  "remarks": null,
+  "aka": [
+    "-2147483636"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_guid_substitution_made/-2147483636/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

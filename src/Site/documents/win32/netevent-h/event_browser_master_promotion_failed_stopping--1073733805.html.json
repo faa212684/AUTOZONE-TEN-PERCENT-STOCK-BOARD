@@ -1,0 +1,25 @@
+---
+output: win32\netevent-h\event_browser_master_promotion_failed_stopping\-1073733805\index.html.json
+canonical: /win32/netevent-h/event_browser_master_promotion_failed_stopping/0xc0001f53/
+title: -1073733805 EVENT_BROWSER_MASTER_PROMOTION_FAILED_STOPPING in netevent.h
+description: The browser was unable to promote itself to master browser.  The browser will continue
+to attempt to promote itself to the master browser, but will no longer log any events in the event log in Event Viewer.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "-1073733805",
+  "codeUrl": "/win32/netevent-h/event_browser_master_promotion_failed_stopping/-1073733805/",
+  "numericCode": 0,
+  "define": "EVENT_BROWSER_MASTER_PROMOTION_FAILED_STOPPING",
+  "defineUrl": "/win32/netevent-h/event_browser_master_promotion_failed_stopping/",
+  "message": "The browser was unable to promote itself to master browser.  The browser will continue\r\nto attempt to promote itself to the master browser, but will no longer log any events in the event log in Event Viewer.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0001F53",
+  "originalCodeUrl": "/win32/netevent-h/event_browser_master_promotion_failed_stopping/0xc0001f53/"
+}

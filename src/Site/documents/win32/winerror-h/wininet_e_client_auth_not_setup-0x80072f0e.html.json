@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\wininet_e_client_auth_not_setup\0x80072f0e\index.html.json
+
+title: 0x80072F0E WININET_E_CLIENT_AUTH_NOT_SETUP in winerror.h
+description: Client authentication has not been correctly installed
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80072F0E",
+  "codeUrl": "/win32/winerror-h/wininet_e_client_auth_not_setup/0x80072f0e/",
+  "numericCode": -2147012850,
+  "define": "WININET_E_CLIENT_AUTH_NOT_SETUP",
+  "defineUrl": "/win32/winerror-h/wininet_e_client_auth_not_setup/",
+  "message": "Client authentication has not been correctly installed",
+  "remarks": null,
+  "aka": [
+    "-2147012850"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/wininet_e_client_auth_not_setup/-2147012850/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

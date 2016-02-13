@@ -1,0 +1,30 @@
+---
+output: win32\cdosyserr-h\evtbackgroundregistertaskfailed\0xc003203e\index.html.json
+
+title: 0xC003203E evtBackgroundRegisterTaskFailed in CDOSysErr.h
+description: The background calendaring agent failed with error code %1 while registering task.  
+The rendering of large calendars with the web client or Microsoft Internet Explorer will be slower.
+%n%nFor more information, click http:www.microsoft.com/contentredirect.asp.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "CDOSysErr.h",
+  "sourceUrl": "/win32/cdosyserr-h/",
+  "code": "0xC003203E",
+  "codeUrl": "/win32/cdosyserr-h/evtbackgroundregistertaskfailed/0xc003203e/",
+  "numericCode": -1073536962,
+  "define": "evtBackgroundRegisterTaskFailed",
+  "defineUrl": "/win32/cdosyserr-h/evtbackgroundregistertaskfailed/",
+  "message": "The background calendaring agent failed with error code %1 while registering task.  \r\nThe rendering of large calendars with the web client or Microsoft Internet Explorer will be slower.\r\n%n%nFor more information, click http:www.microsoft.com/contentredirect.asp.",
+  "remarks": null,
+  "aka": [
+    "-1073536962"
+  ],
+  "akaUrl": [
+    "/win32/cdosyserr-h/evtbackgroundregistertaskfailed/-1073536962/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

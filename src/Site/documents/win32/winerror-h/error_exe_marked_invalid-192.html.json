@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_exe_marked_invalid\192\index.html.json
+
+title: 192 ERROR_EXE_MARKED_INVALID in winerror.h
+description: The operating system cannot run %1.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "192",
+  "codeUrl": "/win32/winerror-h/error_exe_marked_invalid/192/",
+  "numericCode": 192,
+  "define": "ERROR_EXE_MARKED_INVALID",
+  "defineUrl": "/win32/winerror-h/error_exe_marked_invalid/",
+  "message": "The operating system cannot run %1.",
+  "remarks": null,
+  "aka": [
+    "0x800700c0",
+    "-2147024704"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_exe_marked_invalid/0x800700c0/",
+    "/win32/winerror-h/error_exe_marked_invalid/-2147024704/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

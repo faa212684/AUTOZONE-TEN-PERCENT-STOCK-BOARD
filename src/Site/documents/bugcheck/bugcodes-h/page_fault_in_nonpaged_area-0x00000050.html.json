@@ -1,0 +1,28 @@
+---
+output: bugcheck\bugcodes-h\page_fault_in_nonpaged_area\0x00000050\index.html.json
+
+title: 0x00000050 PAGE_FAULT_IN_NONPAGED_AREA in bugcodes.h
+description: PAGE_FAULT_IN_NONPAGED_AREA
+disqus: true
+---
+{
+  "area": "bugcheck",
+  "areaUrl": "/bugcheck/",
+  "source": "bugcodes.h",
+  "sourceUrl": "/bugcheck/bugcodes-h/",
+  "code": "0x00000050",
+  "codeUrl": "/bugcheck/bugcodes-h/page_fault_in_nonpaged_area/0x00000050/",
+  "numericCode": 80,
+  "define": "PAGE_FAULT_IN_NONPAGED_AREA",
+  "defineUrl": "/bugcheck/bugcodes-h/page_fault_in_nonpaged_area/",
+  "message": "PAGE_FAULT_IN_NONPAGED_AREA",
+  "remarks": null,
+  "aka": [
+    "80"
+  ],
+  "akaUrl": [
+    "/bugcheck/bugcodes-h/page_fault_in_nonpaged_area/80/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

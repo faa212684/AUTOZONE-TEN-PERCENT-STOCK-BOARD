@@ -1,0 +1,28 @@
+---
+output: win32\windowssearcherrors-h\event_gather_start_crawl_if_reset\0x80000bed\index.html.json
+
+title: 0x80000BED EVENT_GATHER_START_CRAWL_IF_RESET in WindowsSearchErrors.h
+description: The previous update was reset, or was otherwise interrupted. A full update of all content sources will be automatically started. %1
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "0x80000BED",
+  "codeUrl": "/win32/windowssearcherrors-h/event_gather_start_crawl_if_reset/0x80000bed/",
+  "numericCode": -2147480595,
+  "define": "EVENT_GATHER_START_CRAWL_IF_RESET",
+  "defineUrl": "/win32/windowssearcherrors-h/event_gather_start_crawl_if_reset/",
+  "message": "The previous update was reset, or was otherwise interrupted. A full update of all content sources will be automatically started. %1",
+  "remarks": null,
+  "aka": [
+    "-2147480595"
+  ],
+  "akaUrl": [
+    "/win32/windowssearcherrors-h/event_gather_start_crawl_if_reset/-2147480595/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_abandon_hiberfile\787\index.html.json
+
+title: 787 ERROR_ABANDON_HIBERFILE in winerror.h
+description: A valid hibernation file has been invalidated and should be abandoned.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "787",
+  "codeUrl": "/win32/winerror-h/error_abandon_hiberfile/787/",
+  "numericCode": 787,
+  "define": "ERROR_ABANDON_HIBERFILE",
+  "defineUrl": "/win32/winerror-h/error_abandon_hiberfile/",
+  "message": "A valid hibernation file has been invalidated and should be abandoned.",
+  "remarks": null,
+  "aka": [
+    "0x80070313",
+    "-2147024109"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_abandon_hiberfile/0x80070313/",
+    "/win32/winerror-h/error_abandon_hiberfile/-2147024109/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

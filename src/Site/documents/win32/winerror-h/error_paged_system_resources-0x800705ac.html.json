@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_paged_system_resources\0x800705ac\index.html.json
+canonical: /win32/winerror-h/error_paged_system_resources/1452/
+title: 0x800705ac ERROR_PAGED_SYSTEM_RESOURCES in winerror.h
+description: Insufficient system resources exist to complete the requested service.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800705ac",
+  "codeUrl": "/win32/winerror-h/error_paged_system_resources/0x800705ac/",
+  "numericCode": 0,
+  "define": "ERROR_PAGED_SYSTEM_RESOURCES",
+  "defineUrl": "/win32/winerror-h/error_paged_system_resources/",
+  "message": "Insufficient system resources exist to complete the requested service.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "1452",
+  "originalCodeUrl": "/win32/winerror-h/error_paged_system_resources/1452/"
+}

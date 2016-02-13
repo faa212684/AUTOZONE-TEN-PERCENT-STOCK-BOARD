@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_transaction_not_found\0xc019004e\index.html.json
+
+title: 0xC019004E STATUS_TRANSACTION_NOT_FOUND in ntstatus.h
+description: The specified Transaction was unable to be opened, because it was not found.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC019004E",
+  "codeUrl": "/win32/ntstatus-h/status_transaction_not_found/0xc019004e/",
+  "numericCode": -1072103346,
+  "define": "STATUS_TRANSACTION_NOT_FOUND",
+  "defineUrl": "/win32/ntstatus-h/status_transaction_not_found/",
+  "message": "The specified Transaction was unable to be opened, because it was not found.",
+  "remarks": null,
+  "aka": [
+    "-1072103346"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_transaction_not_found/-1072103346/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

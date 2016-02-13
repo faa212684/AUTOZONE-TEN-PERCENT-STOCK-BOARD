@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\sec_e_strong_crypto_not_supported\0x8009033a\index.html.json
+
+title: 0x8009033A SEC_E_STRONG_CRYPTO_NOT_SUPPORTED in winerror.h
+description: The other end of the security negotiation is requires strong crypto but it is not supported on the local machine.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8009033A",
+  "codeUrl": "/win32/winerror-h/sec_e_strong_crypto_not_supported/0x8009033a/",
+  "numericCode": -2146892998,
+  "define": "SEC_E_STRONG_CRYPTO_NOT_SUPPORTED",
+  "defineUrl": "/win32/winerror-h/sec_e_strong_crypto_not_supported/",
+  "message": "The other end of the security negotiation is requires strong crypto but it is not supported on the local machine.",
+  "remarks": null,
+  "aka": [
+    "-2146892998"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/sec_e_strong_crypto_not_supported/-2146892998/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

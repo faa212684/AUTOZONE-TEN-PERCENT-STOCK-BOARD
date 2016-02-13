@@ -1,0 +1,24 @@
+---
+output: win32\windowssearcherrors-h\prth_e_acl_too_big\-2147216878\index.html.json
+canonical: /win32/windowssearcherrors-h/prth_e_acl_too_big/0x80041212/
+title: -2147216878 PRTH_E_ACL_TOO_BIG in WindowsSearchErrors.h
+description: Search cannot crawl the item, because its Access Control List exceeded 64 KB. Check that the item has a valid Access Control List.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "-2147216878",
+  "codeUrl": "/win32/windowssearcherrors-h/prth_e_acl_too_big/-2147216878/",
+  "numericCode": 0,
+  "define": "PRTH_E_ACL_TOO_BIG",
+  "defineUrl": "/win32/windowssearcherrors-h/prth_e_acl_too_big/",
+  "message": "Search cannot crawl the item, because its Access Control List exceeded 64 KB. Check that the item has a valid Access Control List.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80041212",
+  "originalCodeUrl": "/win32/windowssearcherrors-h/prth_e_acl_too_big/0x80041212/"
+}

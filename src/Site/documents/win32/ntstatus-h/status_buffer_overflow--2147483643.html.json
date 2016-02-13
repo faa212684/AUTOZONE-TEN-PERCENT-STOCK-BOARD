@@ -1,0 +1,25 @@
+---
+output: win32\ntstatus-h\status_buffer_overflow\-2147483643\index.html.json
+canonical: /win32/ntstatus-h/status_buffer_overflow/0x80000005/
+title: -2147483643 STATUS_BUFFER_OVERFLOW in ntstatus.h
+description: "{Buffer Overflow}
+The data was too large to fit into the specified buffer."
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-2147483643",
+  "codeUrl": "/win32/ntstatus-h/status_buffer_overflow/-2147483643/",
+  "numericCode": 0,
+  "define": "STATUS_BUFFER_OVERFLOW",
+  "defineUrl": "/win32/ntstatus-h/status_buffer_overflow/",
+  "message": "{Buffer Overflow}\r\nThe data was too large to fit into the specified buffer.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80000005",
+  "originalCodeUrl": "/win32/ntstatus-h/status_buffer_overflow/0x80000005/"
+}

@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_smartcard_cert_revoked\0xc0000389\index.html.json
+
+title: 0xC0000389 STATUS_SMARTCARD_CERT_REVOKED in ntstatus.h
+description: The smartcard certificate used for authentication has been revoked. Please contact your system administrator. There may be additional information in the event log.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000389",
+  "codeUrl": "/win32/ntstatus-h/status_smartcard_cert_revoked/0xc0000389/",
+  "numericCode": -1073740919,
+  "define": "STATUS_SMARTCARD_CERT_REVOKED",
+  "defineUrl": "/win32/ntstatus-h/status_smartcard_cert_revoked/",
+  "message": "The smartcard certificate used for authentication has been revoked. Please contact your system administrator. There may be additional information in the event log.",
+  "remarks": null,
+  "aka": [
+    "-1073740919"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_smartcard_cert_revoked/-1073740919/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

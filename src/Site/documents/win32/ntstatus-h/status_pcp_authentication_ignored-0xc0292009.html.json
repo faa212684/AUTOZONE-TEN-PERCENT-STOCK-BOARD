@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_pcp_authentication_ignored\0xc0292009\index.html.json
+
+title: 0xC0292009 STATUS_PCP_AUTHENTICATION_IGNORED in ntstatus.h
+description: The Platform Crypto Device has ignored the authorization for the provider object, to mitigate against a dictionary attack.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0292009",
+  "codeUrl": "/win32/ntstatus-h/status_pcp_authentication_ignored/0xc0292009/",
+  "numericCode": -1071046647,
+  "define": "STATUS_PCP_AUTHENTICATION_IGNORED",
+  "defineUrl": "/win32/ntstatus-h/status_pcp_authentication_ignored/",
+  "message": "The Platform Crypto Device has ignored the authorization for the provider object, to mitigate against a dictionary attack.",
+  "remarks": null,
+  "aka": [
+    "-1071046647"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_pcp_authentication_ignored/-1071046647/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

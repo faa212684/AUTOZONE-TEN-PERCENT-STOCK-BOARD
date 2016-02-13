@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_io_device_error\0xc0000185\index.html.json
+
+title: 0xC0000185 STATUS_IO_DEVICE_ERROR in ntstatus.h
+description: The I/O device reported an I/O error.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000185",
+  "codeUrl": "/win32/ntstatus-h/status_io_device_error/0xc0000185/",
+  "numericCode": -1073741435,
+  "define": "STATUS_IO_DEVICE_ERROR",
+  "defineUrl": "/win32/ntstatus-h/status_io_device_error/",
+  "message": "The I/O device reported an I/O error.",
+  "remarks": null,
+  "aka": [
+    "-1073741435"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_io_device_error/-1073741435/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

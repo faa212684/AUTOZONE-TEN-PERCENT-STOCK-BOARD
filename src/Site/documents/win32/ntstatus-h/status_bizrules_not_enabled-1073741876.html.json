@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_bizrules_not_enabled\1073741876\index.html.json
+canonical: /win32/ntstatus-h/status_bizrules_not_enabled/0x40000034/
+title: 1073741876 STATUS_BIZRULES_NOT_ENABLED in ntstatus.h
+description: Business rule scripts are disabled for the calling application.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "1073741876",
+  "codeUrl": "/win32/ntstatus-h/status_bizrules_not_enabled/1073741876/",
+  "numericCode": 0,
+  "define": "STATUS_BIZRULES_NOT_ENABLED",
+  "defineUrl": "/win32/ntstatus-h/status_bizrules_not_enabled/",
+  "message": "Business rule scripts are disabled for the calling application.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x40000034",
+  "originalCodeUrl": "/win32/ntstatus-h/status_bizrules_not_enabled/0x40000034/"
+}

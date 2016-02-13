@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\error_volmgr_extent_already_used\0xc038001a\index.html.json
+
+title: 0xC038001A ERROR_VOLMGR_EXTENT_ALREADY_USED in winerror.h
+description: The specified extent is already used by other volumes.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0xC038001A",
+  "codeUrl": "/win32/winerror-h/error_volmgr_extent_already_used/0xc038001a/",
+  "numericCode": -1070071782,
+  "define": "ERROR_VOLMGR_EXTENT_ALREADY_USED",
+  "defineUrl": "/win32/winerror-h/error_volmgr_extent_already_used/",
+  "message": "The specified extent is already used by other volumes.",
+  "remarks": null,
+  "aka": [
+    "-1070071782"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_volmgr_extent_already_used/-1070071782/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

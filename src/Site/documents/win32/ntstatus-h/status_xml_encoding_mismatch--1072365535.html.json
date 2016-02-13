@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_xml_encoding_mismatch\-1072365535\index.html.json
+canonical: /win32/ntstatus-h/status_xml_encoding_mismatch/0xc0150021/
+title: -1072365535 STATUS_XML_ENCODING_MISMATCH in ntstatus.h
+description: The character encoding in the XML declaration did not match the encoding used in the document.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1072365535",
+  "codeUrl": "/win32/ntstatus-h/status_xml_encoding_mismatch/-1072365535/",
+  "numericCode": 0,
+  "define": "STATUS_XML_ENCODING_MISMATCH",
+  "defineUrl": "/win32/ntstatus-h/status_xml_encoding_mismatch/",
+  "message": "The character encoding in the XML declaration did not match the encoding used in the document.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0150021",
+  "originalCodeUrl": "/win32/ntstatus-h/status_xml_encoding_mismatch/0xc0150021/"
+}

@@ -1,0 +1,25 @@
+---
+output: win32\ntstatus-h\status_no_ace_condition\-2147483601\index.html.json
+canonical: /win32/ntstatus-h/status_no_ace_condition/0x8000002f/
+title: -2147483601 STATUS_NO_ACE_CONDITION in ntstatus.h
+description: "{No ACE Condition}
+The specified access control entry (ACE) does not contain a condition."
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-2147483601",
+  "codeUrl": "/win32/ntstatus-h/status_no_ace_condition/-2147483601/",
+  "numericCode": 0,
+  "define": "STATUS_NO_ACE_CONDITION",
+  "defineUrl": "/win32/ntstatus-h/status_no_ace_condition/",
+  "message": "{No ACE Condition}\r\nThe specified access control entry (ACE) does not contain a condition.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x8000002F",
+  "originalCodeUrl": "/win32/ntstatus-h/status_no_ace_condition/0x8000002f/"
+}

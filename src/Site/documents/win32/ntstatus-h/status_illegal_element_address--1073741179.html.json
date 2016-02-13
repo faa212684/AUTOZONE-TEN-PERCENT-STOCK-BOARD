@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_illegal_element_address\-1073741179\index.html.json
+canonical: /win32/ntstatus-h/status_illegal_element_address/0xc0000285/
+title: -1073741179 STATUS_ILLEGAL_ELEMENT_ADDRESS in ntstatus.h
+description: The specified medium changer element does not exist.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741179",
+  "codeUrl": "/win32/ntstatus-h/status_illegal_element_address/-1073741179/",
+  "numericCode": 0,
+  "define": "STATUS_ILLEGAL_ELEMENT_ADDRESS",
+  "defineUrl": "/win32/ntstatus-h/status_illegal_element_address/",
+  "message": "The specified medium changer element does not exist.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000285",
+  "originalCodeUrl": "/win32/ntstatus-h/status_illegal_element_address/0xc0000285/"
+}

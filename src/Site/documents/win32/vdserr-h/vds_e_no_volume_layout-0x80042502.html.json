@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_e_no_volume_layout\0x80042502\index.html.json
+
+title: 0x80042502 VDS_E_NO_VOLUME_LAYOUT in vdserr.h
+description: Failed to retrieve the volume's layout. Operations on the volume will fail.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x80042502",
+  "codeUrl": "/win32/vdserr-h/vds_e_no_volume_layout/0x80042502/",
+  "numericCode": -2147212030,
+  "define": "VDS_E_NO_VOLUME_LAYOUT",
+  "defineUrl": "/win32/vdserr-h/vds_e_no_volume_layout/",
+  "message": "Failed to retrieve the volume's layout. Operations on the volume will fail.",
+  "remarks": null,
+  "aka": [
+    "-2147212030"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_no_volume_layout/-2147212030/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

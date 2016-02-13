@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\tpm_e_migratefail\0x8028000f\index.html.json
+
+title: 0x8028000F TPM_E_MIGRATEFAIL in winerror.h
+description: Migration authorization failed.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8028000F",
+  "codeUrl": "/win32/winerror-h/tpm_e_migratefail/0x8028000f/",
+  "numericCode": -2144862193,
+  "define": "TPM_E_MIGRATEFAIL",
+  "defineUrl": "/win32/winerror-h/tpm_e_migratefail/",
+  "message": "Migration authorization failed.",
+  "remarks": null,
+  "aka": [
+    "-2144862193"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/tpm_e_migratefail/-2144862193/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

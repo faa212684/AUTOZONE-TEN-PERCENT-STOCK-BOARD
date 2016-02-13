@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\fve_e_policy_user_certificate_required\-2144272269\index.html.json
+canonical: /win32/winerror-h/fve_e_policy_user_certificate_required/0x80310073/
+title: -2144272269 FVE_E_POLICY_USER_CERTIFICATE_REQUIRED in winerror.h
+description: Group Policy settings require that you have a valid user certificate, such as a smart card, to be used with BitLocker Drive Encryption.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2144272269",
+  "codeUrl": "/win32/winerror-h/fve_e_policy_user_certificate_required/-2144272269/",
+  "numericCode": 0,
+  "define": "FVE_E_POLICY_USER_CERTIFICATE_REQUIRED",
+  "defineUrl": "/win32/winerror-h/fve_e_policy_user_certificate_required/",
+  "message": "Group Policy settings require that you have a valid user certificate, such as a smart card, to be used with BitLocker Drive Encryption.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80310073",
+  "originalCodeUrl": "/win32/winerror-h/fve_e_policy_user_certificate_required/0x80310073/"
+}

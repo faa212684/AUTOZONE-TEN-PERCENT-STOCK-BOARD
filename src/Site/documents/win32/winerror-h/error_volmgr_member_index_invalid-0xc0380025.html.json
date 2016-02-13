@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\error_volmgr_member_index_invalid\0xc0380025\index.html.json
+
+title: 0xC0380025 ERROR_VOLMGR_MEMBER_INDEX_INVALID in winerror.h
+description: The specified member index is greater or equal than the number of members in the volume plex.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0xC0380025",
+  "codeUrl": "/win32/winerror-h/error_volmgr_member_index_invalid/0xc0380025/",
+  "numericCode": -1070071771,
+  "define": "ERROR_VOLMGR_MEMBER_INDEX_INVALID",
+  "defineUrl": "/win32/winerror-h/error_volmgr_member_index_invalid/",
+  "message": "The specified member index is greater or equal than the number of members in the volume plex.",
+  "remarks": null,
+  "aka": [
+    "-1070071771"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_volmgr_member_index_invalid/-1070071771/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

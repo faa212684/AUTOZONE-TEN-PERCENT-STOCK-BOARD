@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_dynamic_code_blocked\0xc0000604\index.html.json
+
+title: 0xC0000604 STATUS_DYNAMIC_CODE_BLOCKED in ntstatus.h
+description: The operation was blocked as the process prohibits dynamic code generation.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000604",
+  "codeUrl": "/win32/ntstatus-h/status_dynamic_code_blocked/0xc0000604/",
+  "numericCode": -1073740284,
+  "define": "STATUS_DYNAMIC_CODE_BLOCKED",
+  "defineUrl": "/win32/ntstatus-h/status_dynamic_code_blocked/",
+  "message": "The operation was blocked as the process prohibits dynamic code generation.",
+  "remarks": null,
+  "aka": [
+    "-1073740284"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_dynamic_code_blocked/-1073740284/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

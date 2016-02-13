@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_graphics_opm_protected_output_does_not_have_copp_semantics\0xc01e051c\index.html.json
+
+title: 0xC01E051C STATUS_GRAPHICS_OPM_PROTECTED_OUTPUT_DOES_NOT_HAVE_COPP_SEMANTICS in ntstatus.h
+description: Either the DxgkDdiOPMGetCOPPCompatibleInformation, DxgkDdiOPMGetInformation, or DxgkDdiOPMConfigureProtectedOutput function failed. This error is returned when the caller tries to use a COPP specific command while the protected output has OPM semantics only.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC01E051C",
+  "codeUrl": "/win32/ntstatus-h/status_graphics_opm_protected_output_does_not_have_copp_semantics/0xc01e051c/",
+  "numericCode": -1071774436,
+  "define": "STATUS_GRAPHICS_OPM_PROTECTED_OUTPUT_DOES_NOT_HAVE_COPP_SEMANTICS",
+  "defineUrl": "/win32/ntstatus-h/status_graphics_opm_protected_output_does_not_have_copp_semantics/",
+  "message": "Either the DxgkDdiOPMGetCOPPCompatibleInformation, DxgkDdiOPMGetInformation, or DxgkDdiOPMConfigureProtectedOutput function failed. This error is returned when the caller tries to use a COPP specific command while the protected output has OPM semantics only.",
+  "remarks": null,
+  "aka": [
+    "-1071774436"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_graphics_opm_protected_output_does_not_have_copp_semantics/-1071774436/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

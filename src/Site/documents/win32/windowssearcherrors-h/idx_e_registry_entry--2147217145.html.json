@@ -1,0 +1,24 @@
+---
+output: win32\windowssearcherrors-h\idx_e_registry_entry\-2147217145\index.html.json
+canonical: /win32/windowssearcherrors-h/idx_e_registry_entry/0x80041107/
+title: -2147217145 IDX_E_REGISTRY_ENTRY in WindowsSearchErrors.h
+description: A registry entry required for content index creation cannot be read or created. Delete and recreate the content index.  If the problem persists, you may need to reinstall search.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "-2147217145",
+  "codeUrl": "/win32/windowssearcherrors-h/idx_e_registry_entry/-2147217145/",
+  "numericCode": 0,
+  "define": "IDX_E_REGISTRY_ENTRY",
+  "defineUrl": "/win32/windowssearcherrors-h/idx_e_registry_entry/",
+  "message": "A registry entry required for content index creation cannot be read or created. Delete and recreate the content index.  If the problem persists, you may need to reinstall search.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80041107",
+  "originalCodeUrl": "/win32/windowssearcherrors-h/idx_e_registry_entry/0x80041107/"
+}

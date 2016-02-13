@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\rpc_e_no_context\0x8001011e\index.html.json
+
+title: 0x8001011E RPC_E_NO_CONTEXT in winerror.h
+description: No context is associated with this call. This happens for some custom marshalled calls and on the client side of the call.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8001011E",
+  "codeUrl": "/win32/winerror-h/rpc_e_no_context/0x8001011e/",
+  "numericCode": -2147417826,
+  "define": "RPC_E_NO_CONTEXT",
+  "defineUrl": "/win32/winerror-h/rpc_e_no_context/",
+  "message": "No context is associated with this call. This happens for some custom marshalled calls and on the client side of the call.",
+  "remarks": null,
+  "aka": [
+    "-2147417826"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/rpc_e_no_context/-2147417826/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

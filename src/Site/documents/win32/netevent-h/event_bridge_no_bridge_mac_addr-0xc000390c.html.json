@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_bridge_no_bridge_mac_addr\0xc000390c\index.html.json
+
+title: 0xC000390C EVENT_BRIDGE_NO_BRIDGE_MAC_ADDR in netevent.h
+description: Bridge: The bridge could not be initialized because the bridge failed to determine a MAC address for itself.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC000390C",
+  "codeUrl": "/win32/netevent-h/event_bridge_no_bridge_mac_addr/0xc000390c/",
+  "numericCode": -1073727220,
+  "define": "EVENT_BRIDGE_NO_BRIDGE_MAC_ADDR",
+  "defineUrl": "/win32/netevent-h/event_bridge_no_bridge_mac_addr/",
+  "message": "Bridge: The bridge could not be initialized because the bridge failed to determine a MAC address for itself.",
+  "remarks": null,
+  "aka": [
+    "-1073727220"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_bridge_no_bridge_mac_addr/-1073727220/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

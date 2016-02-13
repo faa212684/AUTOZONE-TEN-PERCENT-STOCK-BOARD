@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_mui_invalid_rc_config\0xc00b0003\index.html.json
+
+title: 0xC00B0003 STATUS_MUI_INVALID_RC_CONFIG in ntstatus.h
+description: The RC Manifest is corrupted with garbage data or unsupported version or missing required item.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC00B0003",
+  "codeUrl": "/win32/ntstatus-h/status_mui_invalid_rc_config/0xc00b0003/",
+  "numericCode": -1073020925,
+  "define": "STATUS_MUI_INVALID_RC_CONFIG",
+  "defineUrl": "/win32/ntstatus-h/status_mui_invalid_rc_config/",
+  "message": "The RC Manifest is corrupted with garbage data or unsupported version or missing required item.",
+  "remarks": null,
+  "aka": [
+    "-1073020925"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_mui_invalid_rc_config/-1073020925/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_wrong_target_name\1396\index.html.json
+
+title: 1396 ERROR_WRONG_TARGET_NAME in winerror.h
+description: The target account name is incorrect.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1396",
+  "codeUrl": "/win32/winerror-h/error_wrong_target_name/1396/",
+  "numericCode": 1396,
+  "define": "ERROR_WRONG_TARGET_NAME",
+  "defineUrl": "/win32/winerror-h/error_wrong_target_name/",
+  "message": "The target account name is incorrect.",
+  "remarks": null,
+  "aka": [
+    "0x80070574",
+    "-2147023500"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_wrong_target_name/0x80070574/",
+    "/win32/winerror-h/error_wrong_target_name/-2147023500/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

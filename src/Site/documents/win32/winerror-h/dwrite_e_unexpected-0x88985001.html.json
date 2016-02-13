@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\dwrite_e_unexpected\0x88985001\index.html.json
+
+title: 0x88985001 DWRITE_E_UNEXPECTED in winerror.h
+description: Indicates an error originating in DirectWrite code, which is not expected to occur but is safe to recover from.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x88985001",
+  "codeUrl": "/win32/winerror-h/dwrite_e_unexpected/0x88985001/",
+  "numericCode": -2003283967,
+  "define": "DWRITE_E_UNEXPECTED",
+  "defineUrl": "/win32/winerror-h/dwrite_e_unexpected/",
+  "message": "Indicates an error originating in DirectWrite code, which is not expected to occur but is safe to recover from.",
+  "remarks": null,
+  "aka": [
+    "-2003283967"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/dwrite_e_unexpected/-2003283967/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

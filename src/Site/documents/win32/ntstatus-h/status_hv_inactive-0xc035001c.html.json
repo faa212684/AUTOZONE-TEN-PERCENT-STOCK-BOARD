@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_hv_inactive\0xc035001c\index.html.json
+
+title: 0xC035001C STATUS_HV_INACTIVE in ntstatus.h
+description: The physical connection being used for debugging has not recorded any receive activity since the last operation.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC035001C",
+  "codeUrl": "/win32/ntstatus-h/status_hv_inactive/0xc035001c/",
+  "numericCode": -1070268388,
+  "define": "STATUS_HV_INACTIVE",
+  "defineUrl": "/win32/ntstatus-h/status_hv_inactive/",
+  "message": "The physical connection being used for debugging has not recorded any receive activity since the last operation.",
+  "remarks": null,
+  "aka": [
+    "-1070268388"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_hv_inactive/-1070268388/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

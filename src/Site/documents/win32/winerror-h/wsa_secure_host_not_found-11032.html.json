@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\wsa_secure_host_not_found\11032\index.html.json
+
+title: 11032 WSA_SECURE_HOST_NOT_FOUND in winerror.h
+description: No such host is known securely.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "11032",
+  "codeUrl": "/win32/winerror-h/wsa_secure_host_not_found/11032/",
+  "numericCode": 11032,
+  "define": "WSA_SECURE_HOST_NOT_FOUND",
+  "defineUrl": "/win32/winerror-h/wsa_secure_host_not_found/",
+  "message": "No such host is known securely.",
+  "remarks": null,
+  "aka": [
+    "0x80072b18",
+    "-2147013864"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/wsa_secure_host_not_found/0x80072b18/",
+    "/win32/winerror-h/wsa_secure_host_not_found/-2147013864/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

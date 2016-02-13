@@ -1,0 +1,25 @@
+---
+output: win32\winerror-h\error_volsnap_prepare_hibernate\0x8007028f\index.html.json
+canonical: /win32/winerror-h/error_volsnap_prepare_hibernate/655/
+title: 0x8007028f ERROR_VOLSNAP_PREPARE_HIBERNATE in winerror.h
+description: "{Volume Shadow Copy Service}
+Please wait while the Volume Shadow Copy Service prepares volume %hs for hibernation."
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007028f",
+  "codeUrl": "/win32/winerror-h/error_volsnap_prepare_hibernate/0x8007028f/",
+  "numericCode": 0,
+  "define": "ERROR_VOLSNAP_PREPARE_HIBERNATE",
+  "defineUrl": "/win32/winerror-h/error_volsnap_prepare_hibernate/",
+  "message": "{Volume Shadow Copy Service}\r\nPlease wait while the Volume Shadow Copy Service prepares volume %hs for hibernation.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "655",
+  "originalCodeUrl": "/win32/winerror-h/error_volsnap_prepare_hibernate/655/"
+}

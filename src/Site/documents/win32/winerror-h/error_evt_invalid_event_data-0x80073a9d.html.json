@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_evt_invalid_event_data\0x80073a9d\index.html.json
+canonical: /win32/winerror-h/error_evt_invalid_event_data/15005/
+title: 0x80073a9d ERROR_EVT_INVALID_EVENT_DATA in winerror.h
+description: The event data raised by the publisher is not compatible with the event template definition in the publisher's manifest
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80073a9d",
+  "codeUrl": "/win32/winerror-h/error_evt_invalid_event_data/0x80073a9d/",
+  "numericCode": 0,
+  "define": "ERROR_EVT_INVALID_EVENT_DATA",
+  "defineUrl": "/win32/winerror-h/error_evt_invalid_event_data/",
+  "message": "The event data raised by the publisher is not compatible with the event template definition in the publisher's manifest",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "15005",
+  "originalCodeUrl": "/win32/winerror-h/error_evt_invalid_event_data/15005/"
+}

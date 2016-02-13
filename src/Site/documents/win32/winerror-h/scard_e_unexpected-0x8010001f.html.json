@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\scard_e_unexpected\0x8010001f\index.html.json
+
+title: 0x8010001F SCARD_E_UNEXPECTED in winerror.h
+description: An unexpected card error has occurred.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8010001F",
+  "codeUrl": "/win32/winerror-h/scard_e_unexpected/0x8010001f/",
+  "numericCode": -2146435041,
+  "define": "SCARD_E_UNEXPECTED",
+  "defineUrl": "/win32/winerror-h/scard_e_unexpected/",
+  "message": "An unexpected card error has occurred.",
+  "remarks": null,
+  "aka": [
+    "-2146435041"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/scard_e_unexpected/-2146435041/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_invalid_security_descr\0x8007053a\index.html.json
+canonical: /win32/winerror-h/error_invalid_security_descr/1338/
+title: 0x8007053a ERROR_INVALID_SECURITY_DESCR in winerror.h
+description: The security descriptor structure is invalid.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007053a",
+  "codeUrl": "/win32/winerror-h/error_invalid_security_descr/0x8007053a/",
+  "numericCode": 0,
+  "define": "ERROR_INVALID_SECURITY_DESCR",
+  "defineUrl": "/win32/winerror-h/error_invalid_security_descr/",
+  "message": "The security descriptor structure is invalid.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "1338",
+  "originalCodeUrl": "/win32/winerror-h/error_invalid_security_descr/1338/"
+}

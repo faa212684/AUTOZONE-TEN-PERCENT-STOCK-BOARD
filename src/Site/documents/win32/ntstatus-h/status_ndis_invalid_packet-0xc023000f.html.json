@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_ndis_invalid_packet\0xc023000f\index.html.json
+
+title: 0xC023000F STATUS_NDIS_INVALID_PACKET in ntstatus.h
+description: An attempt was made to send an invalid packet on a network interface.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC023000F",
+  "codeUrl": "/win32/ntstatus-h/status_ndis_invalid_packet/0xc023000f/",
+  "numericCode": -1071448049,
+  "define": "STATUS_NDIS_INVALID_PACKET",
+  "defineUrl": "/win32/ntstatus-h/status_ndis_invalid_packet/",
+  "message": "An attempt was made to send an invalid packet on a network interface.",
+  "remarks": null,
+  "aka": [
+    "-1071448049"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_ndis_invalid_packet/-1071448049/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

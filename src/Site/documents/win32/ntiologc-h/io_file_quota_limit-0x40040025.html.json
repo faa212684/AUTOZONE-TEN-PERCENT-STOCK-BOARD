@@ -1,0 +1,28 @@
+---
+output: win32\ntiologc-h\io_file_quota_limit\0x40040025\index.html.json
+
+title: 0x40040025 IO_FILE_QUOTA_LIMIT in ntiologc.h
+description: A user hit their quota limit on volume %2.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntiologc.h",
+  "sourceUrl": "/win32/ntiologc-h/",
+  "code": "0x40040025",
+  "codeUrl": "/win32/ntiologc-h/io_file_quota_limit/0x40040025/",
+  "numericCode": 1074004005,
+  "define": "IO_FILE_QUOTA_LIMIT",
+  "defineUrl": "/win32/ntiologc-h/io_file_quota_limit/",
+  "message": "A user hit their quota limit on volume %2.",
+  "remarks": null,
+  "aka": [
+    "1074004005"
+  ],
+  "akaUrl": [
+    "/win32/ntiologc-h/io_file_quota_limit/1074004005/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

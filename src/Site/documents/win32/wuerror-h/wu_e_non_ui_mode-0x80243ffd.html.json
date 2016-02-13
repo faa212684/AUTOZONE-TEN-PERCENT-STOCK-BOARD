@@ -1,0 +1,28 @@
+---
+output: win32\wuerror-h\wu_e_non_ui_mode\0x80243ffd\index.html.json
+
+title: 0x80243FFD WU_E_NON_UI_MODE in wuerror.h
+description: Unable to show UI when in non-UI mode; WU client UI modules may not be installed.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wuerror.h",
+  "sourceUrl": "/win32/wuerror-h/",
+  "code": "0x80243FFD",
+  "codeUrl": "/win32/wuerror-h/wu_e_non_ui_mode/0x80243ffd/",
+  "numericCode": -2145107971,
+  "define": "WU_E_NON_UI_MODE",
+  "defineUrl": "/win32/wuerror-h/wu_e_non_ui_mode/",
+  "message": "Unable to show UI when in non-UI mode; WU client UI modules may not be installed.",
+  "remarks": null,
+  "aka": [
+    "-2145107971"
+  ],
+  "akaUrl": [
+    "/win32/wuerror-h/wu_e_non_ui_mode/-2145107971/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

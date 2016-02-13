@@ -1,0 +1,25 @@
+---
+output: win32\mq-h\mq_error_properties_conflict\-1072824185\index.html.json
+canonical: /win32/mq-h/mq_error_properties_conflict/0xc00e0087/
+title: -1072824185 MQ_ERROR_PROPERTIES_CONFLICT in Mq.h
+description: Two or more of the properties passed cannot co-exist.
+For example, you cannot set both PROPID_M_RESP_QUEUE and PROPID_M_RESP_FORMAT_NAME when sending a message.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "Mq.h",
+  "sourceUrl": "/win32/mq-h/",
+  "code": "-1072824185",
+  "codeUrl": "/win32/mq-h/mq_error_properties_conflict/-1072824185/",
+  "numericCode": 0,
+  "define": "MQ_ERROR_PROPERTIES_CONFLICT",
+  "defineUrl": "/win32/mq-h/mq_error_properties_conflict/",
+  "message": "Two or more of the properties passed cannot co-exist.\r\nFor example, you cannot set both PROPID_M_RESP_QUEUE and PROPID_M_RESP_FORMAT_NAME when sending a message.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC00E0087",
+  "originalCodeUrl": "/win32/mq-h/mq_error_properties_conflict/0xc00e0087/"
+}

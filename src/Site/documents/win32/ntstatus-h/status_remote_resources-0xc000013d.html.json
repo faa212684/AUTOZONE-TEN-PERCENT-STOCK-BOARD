@@ -1,0 +1,29 @@
+---
+output: win32\ntstatus-h\status_remote_resources\0xc000013d\index.html.json
+
+title: 0xC000013D STATUS_REMOTE_RESOURCES in ntstatus.h
+description: "{Insufficient Resources on Remote Computer}
+The remote computer has insufficient resources to complete the network request. For instance, there may not be enough memory available on the remote computer to carry out the request at this time."
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000013D",
+  "codeUrl": "/win32/ntstatus-h/status_remote_resources/0xc000013d/",
+  "numericCode": -1073741507,
+  "define": "STATUS_REMOTE_RESOURCES",
+  "defineUrl": "/win32/ntstatus-h/status_remote_resources/",
+  "message": "{Insufficient Resources on Remote Computer}\r\nThe remote computer has insufficient resources to complete the network request. For instance, there may not be enough memory available on the remote computer to carry out the request at this time.",
+  "remarks": null,
+  "aka": [
+    "-1073741507"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_remote_resources/-1073741507/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

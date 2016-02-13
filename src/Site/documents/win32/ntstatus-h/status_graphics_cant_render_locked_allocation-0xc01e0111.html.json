@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_graphics_cant_render_locked_allocation\0xc01e0111\index.html.json
+
+title: 0xC01E0111 STATUS_GRAPHICS_CANT_RENDER_LOCKED_ALLOCATION in ntstatus.h
+description: A locked allocation can't be used in the current command buffer.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC01E0111",
+  "codeUrl": "/win32/ntstatus-h/status_graphics_cant_render_locked_allocation/0xc01e0111/",
+  "numericCode": -1071775471,
+  "define": "STATUS_GRAPHICS_CANT_RENDER_LOCKED_ALLOCATION",
+  "defineUrl": "/win32/ntstatus-h/status_graphics_cant_render_locked_allocation/",
+  "message": "A locked allocation can't be used in the current command buffer.",
+  "remarks": null,
+  "aka": [
+    "-1071775471"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_graphics_cant_render_locked_allocation/-1071775471/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

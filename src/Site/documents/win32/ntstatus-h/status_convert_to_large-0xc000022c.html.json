@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_convert_to_large\0xc000022c\index.html.json
+
+title: 0xC000022C STATUS_CONVERT_TO_LARGE in ntstatus.h
+description: Internal OFS status codes indicating how an allocation operation is handled. Either it is retried after the containing onode is moved or the extent stream is converted to a large stream.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000022C",
+  "codeUrl": "/win32/ntstatus-h/status_convert_to_large/0xc000022c/",
+  "numericCode": -1073741268,
+  "define": "STATUS_CONVERT_TO_LARGE",
+  "defineUrl": "/win32/ntstatus-h/status_convert_to_large/",
+  "message": "Internal OFS status codes indicating how an allocation operation is handled. Either it is retried after the containing onode is moved or the extent stream is converted to a large stream.",
+  "remarks": null,
+  "aka": [
+    "-1073741268"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_convert_to_large/-1073741268/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

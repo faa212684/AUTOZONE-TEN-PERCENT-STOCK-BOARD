@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\crypt_e_no_trusted_signer\0x8009202b\index.html.json
+
+title: 0x8009202B CRYPT_E_NO_TRUSTED_SIGNER in winerror.h
+description: None of the signers of the cryptographic message or certificate trust list is trusted.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8009202B",
+  "codeUrl": "/win32/winerror-h/crypt_e_no_trusted_signer/0x8009202b/",
+  "numericCode": -2146885589,
+  "define": "CRYPT_E_NO_TRUSTED_SIGNER",
+  "defineUrl": "/win32/winerror-h/crypt_e_no_trusted_signer/",
+  "message": "None of the signers of the cryptographic message or certificate trust list is trusted.",
+  "remarks": null,
+  "aka": [
+    "-2146885589"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/crypt_e_no_trusted_signer/-2146885589/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_media_offline\4304\index.html.json
+
+title: 4304 ERROR_MEDIA_OFFLINE in winerror.h
+description: The medium currently exists in an offline library and must be online to perform this operation.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "4304",
+  "codeUrl": "/win32/winerror-h/error_media_offline/4304/",
+  "numericCode": 4304,
+  "define": "ERROR_MEDIA_OFFLINE",
+  "defineUrl": "/win32/winerror-h/error_media_offline/",
+  "message": "The medium currently exists in an offline library and must be online to perform this operation.",
+  "remarks": null,
+  "aka": [
+    "0x800710d0",
+    "-2147020592"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_media_offline/0x800710d0/",
+    "/win32/winerror-h/error_media_offline/-2147020592/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

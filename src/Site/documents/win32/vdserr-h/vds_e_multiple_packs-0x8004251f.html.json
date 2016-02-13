@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_e_multiple_packs\0x8004251f\index.html.json
+
+title: 0x8004251F VDS_E_MULTIPLE_PACKS in vdserr.h
+description: Specified disks are not all from the same pack.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x8004251F",
+  "codeUrl": "/win32/vdserr-h/vds_e_multiple_packs/0x8004251f/",
+  "numericCode": -2147212001,
+  "define": "VDS_E_MULTIPLE_PACKS",
+  "defineUrl": "/win32/vdserr-h/vds_e_multiple_packs/",
+  "message": "Specified disks are not all from the same pack.",
+  "remarks": null,
+  "aka": [
+    "-2147212001"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_multiple_packs/-2147212001/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

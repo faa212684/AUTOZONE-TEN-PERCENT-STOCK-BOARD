@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_registry_io_failed\0xc000014d\index.html.json
+
+title: 0xC000014D STATUS_REGISTRY_IO_FAILED in ntstatus.h
+description: An I/O operation initiated by the Registry failed unrecoverably. The Registry could not read in, or write out, or flush, one of the files that contain the system's image of the Registry.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000014D",
+  "codeUrl": "/win32/ntstatus-h/status_registry_io_failed/0xc000014d/",
+  "numericCode": -1073741491,
+  "define": "STATUS_REGISTRY_IO_FAILED",
+  "defineUrl": "/win32/ntstatus-h/status_registry_io_failed/",
+  "message": "An I/O operation initiated by the Registry failed unrecoverably. The Registry could not read in, or write out, or flush, one of the files that contain the system's image of the Registry.",
+  "remarks": null,
+  "aka": [
+    "-1073741491"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_registry_io_failed/-1073741491/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

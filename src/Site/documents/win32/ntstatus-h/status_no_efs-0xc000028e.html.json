@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_no_efs\0xc000028e\index.html.json
+
+title: 0xC000028E STATUS_NO_EFS in ntstatus.h
+description: The required encryption driver is not loaded for this system.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000028E",
+  "codeUrl": "/win32/ntstatus-h/status_no_efs/0xc000028e/",
+  "numericCode": -1073741170,
+  "define": "STATUS_NO_EFS",
+  "defineUrl": "/win32/ntstatus-h/status_no_efs/",
+  "message": "The required encryption driver is not loaded for this system.",
+  "remarks": null,
+  "aka": [
+    "-1073741170"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_no_efs/-1073741170/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

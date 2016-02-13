@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_data_checksum_error\0x80070143\index.html.json
+canonical: /win32/winerror-h/error_data_checksum_error/323/
+title: 0x80070143 ERROR_DATA_CHECKSUM_ERROR in winerror.h
+description: A data integrity checksum error occurred. Data in the file stream is corrupt.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80070143",
+  "codeUrl": "/win32/winerror-h/error_data_checksum_error/0x80070143/",
+  "numericCode": 0,
+  "define": "ERROR_DATA_CHECKSUM_ERROR",
+  "defineUrl": "/win32/winerror-h/error_data_checksum_error/",
+  "message": "A data integrity checksum error occurred. Data in the file stream is corrupt.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "323",
+  "originalCodeUrl": "/win32/winerror-h/error_data_checksum_error/323/"
+}

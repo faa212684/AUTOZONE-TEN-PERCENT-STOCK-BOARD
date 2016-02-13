@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_file_checked_out\0xc0000901\index.html.json
+
+title: 0xC0000901 STATUS_FILE_CHECKED_OUT in ntstatus.h
+description: This file is checked out or locked for editing by another user.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000901",
+  "codeUrl": "/win32/ntstatus-h/status_file_checked_out/0xc0000901/",
+  "numericCode": -1073739519,
+  "define": "STATUS_FILE_CHECKED_OUT",
+  "defineUrl": "/win32/ntstatus-h/status_file_checked_out/",
+  "message": "This file is checked out or locked for editing by another user.",
+  "remarks": null,
+  "aka": [
+    "-1073739519"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_file_checked_out/-1073739519/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

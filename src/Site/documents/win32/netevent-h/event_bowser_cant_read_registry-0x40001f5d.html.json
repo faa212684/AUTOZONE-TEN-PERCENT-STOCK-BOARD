@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_bowser_cant_read_registry\0x40001f5d\index.html.json
+
+title: 0x40001F5D EVENT_BOWSER_CANT_READ_REGISTRY in netevent.h
+description: The browser driver was unable to initialize variables from the Registry.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x40001F5D",
+  "codeUrl": "/win32/netevent-h/event_bowser_cant_read_registry/0x40001f5d/",
+  "numericCode": 1073749853,
+  "define": "EVENT_BOWSER_CANT_READ_REGISTRY",
+  "defineUrl": "/win32/netevent-h/event_bowser_cant_read_registry/",
+  "message": "The browser driver was unable to initialize variables from the Registry.",
+  "remarks": null,
+  "aka": [
+    "1073749853"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_bowser_cant_read_registry/1073749853/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

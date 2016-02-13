@@ -1,0 +1,25 @@
+---
+output: win32\ntstatus-h\status_invalid_level\-1073741496\index.html.json
+canonical: /win32/ntstatus-h/status_invalid_level/0xc0000148/
+title: -1073741496 STATUS_INVALID_LEVEL in ntstatus.h
+description: "{Incorrect System Call Level}
+An invalid level was passed into the specified system call."
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741496",
+  "codeUrl": "/win32/ntstatus-h/status_invalid_level/-1073741496/",
+  "numericCode": 0,
+  "define": "STATUS_INVALID_LEVEL",
+  "defineUrl": "/win32/ntstatus-h/status_invalid_level/",
+  "message": "{Incorrect System Call Level}\r\nAn invalid level was passed into the specified system call.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000148",
+  "originalCodeUrl": "/win32/ntstatus-h/status_invalid_level/0xc0000148/"
+}

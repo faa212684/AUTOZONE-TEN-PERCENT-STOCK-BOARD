@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ec_log_disabled\15081\index.html.json
+
+title: 15081 ERROR_EC_LOG_DISABLED in winerror.h
+description: The log of the subscription is in disabled state, and can not be used to forward events to. The log must first be enabled before the subscription can be activated.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "15081",
+  "codeUrl": "/win32/winerror-h/error_ec_log_disabled/15081/",
+  "numericCode": 15081,
+  "define": "ERROR_EC_LOG_DISABLED",
+  "defineUrl": "/win32/winerror-h/error_ec_log_disabled/",
+  "message": "The log of the subscription is in disabled state, and can not be used to forward events to. The log must first be enabled before the subscription can be activated.",
+  "remarks": null,
+  "aka": [
+    "0x80073ae9",
+    "-2147009815"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ec_log_disabled/0x80073ae9/",
+    "/win32/winerror-h/error_ec_log_disabled/-2147009815/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

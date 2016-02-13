@@ -1,0 +1,28 @@
+---
+output: bugcheck\bugcodes-h\critical_process_died\0x000000ef\index.html.json
+
+title: 0x000000EF CRITICAL_PROCESS_DIED in bugcodes.h
+description: CRITICAL_PROCESS_DIED
+disqus: true
+---
+{
+  "area": "bugcheck",
+  "areaUrl": "/bugcheck/",
+  "source": "bugcodes.h",
+  "sourceUrl": "/bugcheck/bugcodes-h/",
+  "code": "0x000000EF",
+  "codeUrl": "/bugcheck/bugcodes-h/critical_process_died/0x000000ef/",
+  "numericCode": 239,
+  "define": "CRITICAL_PROCESS_DIED",
+  "defineUrl": "/bugcheck/bugcodes-h/critical_process_died/",
+  "message": "CRITICAL_PROCESS_DIED",
+  "remarks": null,
+  "aka": [
+    "239"
+  ],
+  "akaUrl": [
+    "/bugcheck/bugcodes-h/critical_process_died/239/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

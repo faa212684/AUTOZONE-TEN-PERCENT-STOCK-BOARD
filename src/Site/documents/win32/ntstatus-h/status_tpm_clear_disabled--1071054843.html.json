@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_tpm_clear_disabled\-1071054843\index.html.json
+canonical: /win32/ntstatus-h/status_tpm_clear_disabled/0xc0290005/
+title: -1071054843 STATUS_TPM_CLEAR_DISABLED in ntstatus.h
+description: The clear disable flag is set and all clear operations now require physical access.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071054843",
+  "codeUrl": "/win32/ntstatus-h/status_tpm_clear_disabled/-1071054843/",
+  "numericCode": 0,
+  "define": "STATUS_TPM_CLEAR_DISABLED",
+  "defineUrl": "/win32/ntstatus-h/status_tpm_clear_disabled/",
+  "message": "The clear disable flag is set and all clear operations now require physical access.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0290005",
+  "originalCodeUrl": "/win32/ntstatus-h/status_tpm_clear_disabled/0xc0290005/"
+}

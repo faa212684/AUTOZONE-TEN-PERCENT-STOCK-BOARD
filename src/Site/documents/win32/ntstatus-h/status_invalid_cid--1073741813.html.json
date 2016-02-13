@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_invalid_cid\-1073741813\index.html.json
+canonical: /win32/ntstatus-h/status_invalid_cid/0xc000000b/
+title: -1073741813 STATUS_INVALID_CID in ntstatus.h
+description: An invalid Client ID was specified.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741813",
+  "codeUrl": "/win32/ntstatus-h/status_invalid_cid/-1073741813/",
+  "numericCode": 0,
+  "define": "STATUS_INVALID_CID",
+  "defineUrl": "/win32/ntstatus-h/status_invalid_cid/",
+  "message": "An invalid Client ID was specified.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC000000B",
+  "originalCodeUrl": "/win32/ntstatus-h/status_invalid_cid/0xc000000b/"
+}

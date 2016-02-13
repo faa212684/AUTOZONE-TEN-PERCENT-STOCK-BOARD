@@ -1,0 +1,29 @@
+---
+output: win32\ntstatus-h\status_device_unreachable\0xc0000464\index.html.json
+
+title: 0xC0000464 STATUS_DEVICE_UNREACHABLE in ntstatus.h
+description: "{Source/Destination device unreachable}
+The device is unreachable."
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000464",
+  "codeUrl": "/win32/ntstatus-h/status_device_unreachable/0xc0000464/",
+  "numericCode": -1073740700,
+  "define": "STATUS_DEVICE_UNREACHABLE",
+  "defineUrl": "/win32/ntstatus-h/status_device_unreachable/",
+  "message": "{Source/Destination device unreachable}\r\nThe device is unreachable.",
+  "remarks": null,
+  "aka": [
+    "-1073740700"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_device_unreachable/-1073740700/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

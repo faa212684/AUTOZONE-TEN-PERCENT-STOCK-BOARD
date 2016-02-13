@@ -1,0 +1,30 @@
+---
+output: win32\ntstatus-h\status_data_lost_repair\0x80000803\index.html.json
+
+title: 0x80000803 STATUS_DATA_LOST_REPAIR in ntstatus.h
+description: Windows discovered a corruption in the file "%hs".
+This file has now been repaired.
+Please check if any data in the file was lost because of the corruption.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0x80000803",
+  "codeUrl": "/win32/ntstatus-h/status_data_lost_repair/0x80000803/",
+  "numericCode": -2147481597,
+  "define": "STATUS_DATA_LOST_REPAIR",
+  "defineUrl": "/win32/ntstatus-h/status_data_lost_repair/",
+  "message": "Windows discovered a corruption in the file \"%hs\".\r\nThis file has now been repaired.\r\nPlease check if any data in the file was lost because of the corruption.",
+  "remarks": null,
+  "aka": [
+    "-2147481597"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_data_lost_repair/-2147481597/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

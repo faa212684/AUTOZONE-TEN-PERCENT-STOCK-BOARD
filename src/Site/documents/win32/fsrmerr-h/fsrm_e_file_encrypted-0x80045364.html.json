@@ -1,0 +1,28 @@
+---
+output: win32\fsrmerr-h\fsrm_e_file_encrypted\0x80045364\index.html.json
+
+title: 0x80045364 FSRM_E_FILE_ENCRYPTED in fsrmerr.h
+description: File Server Resource Manager could not access the file because it is encrypted.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "fsrmerr.h",
+  "sourceUrl": "/win32/fsrmerr-h/",
+  "code": "0x80045364",
+  "codeUrl": "/win32/fsrmerr-h/fsrm_e_file_encrypted/0x80045364/",
+  "numericCode": -2147200156,
+  "define": "FSRM_E_FILE_ENCRYPTED",
+  "defineUrl": "/win32/fsrmerr-h/fsrm_e_file_encrypted/",
+  "message": "File Server Resource Manager could not access the file because it is encrypted.",
+  "remarks": null,
+  "aka": [
+    "-2147200156"
+  ],
+  "akaUrl": [
+    "/win32/fsrmerr-h/fsrm_e_file_encrypted/-2147200156/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

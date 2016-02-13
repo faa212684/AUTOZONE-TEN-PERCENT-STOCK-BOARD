@@ -1,0 +1,29 @@
+---
+output: win32\windowssearcherrors-h\event_system_exception\0x8000041d\index.html.json
+
+title: 0x8000041D EVENT_SYSTEM_EXCEPTION in WindowsSearchErrors.h
+description: The system exception %1 occurred, and will be handled. 
+If this causes problems, contact Microsoft Product Support Services and include the stack trace in the event. %2.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "0x8000041D",
+  "codeUrl": "/win32/windowssearcherrors-h/event_system_exception/0x8000041d/",
+  "numericCode": -2147482595,
+  "define": "EVENT_SYSTEM_EXCEPTION",
+  "defineUrl": "/win32/windowssearcherrors-h/event_system_exception/",
+  "message": "The system exception %1 occurred, and will be handled. \r\nIf this causes problems, contact Microsoft Product Support Services and include the stack trace in the event. %2.",
+  "remarks": null,
+  "aka": [
+    "-2147482595"
+  ],
+  "akaUrl": [
+    "/win32/windowssearcherrors-h/event_system_exception/-2147482595/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

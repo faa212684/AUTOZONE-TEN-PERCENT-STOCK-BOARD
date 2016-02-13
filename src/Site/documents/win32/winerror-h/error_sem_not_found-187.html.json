@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_sem_not_found\187\index.html.json
+
+title: 187 ERROR_SEM_NOT_FOUND in winerror.h
+description: The specified system semaphore name was not found.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "187",
+  "codeUrl": "/win32/winerror-h/error_sem_not_found/187/",
+  "numericCode": 187,
+  "define": "ERROR_SEM_NOT_FOUND",
+  "defineUrl": "/win32/winerror-h/error_sem_not_found/",
+  "message": "The specified system semaphore name was not found.",
+  "remarks": null,
+  "aka": [
+    "0x800700bb",
+    "-2147024709"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_sem_not_found/0x800700bb/",
+    "/win32/winerror-h/error_sem_not_found/-2147024709/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

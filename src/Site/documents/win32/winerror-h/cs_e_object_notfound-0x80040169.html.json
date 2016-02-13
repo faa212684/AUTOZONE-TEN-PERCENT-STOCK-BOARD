@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\cs_e_object_notfound\0x80040169\index.html.json
+
+title: 0x80040169 CS_E_OBJECT_NOTFOUND in winerror.h
+description: There is no software installation data object in the Active Directory.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80040169",
+  "codeUrl": "/win32/winerror-h/cs_e_object_notfound/0x80040169/",
+  "numericCode": -2147221143,
+  "define": "CS_E_OBJECT_NOTFOUND",
+  "defineUrl": "/win32/winerror-h/cs_e_object_notfound/",
+  "message": "There is no software installation data object in the Active Directory.",
+  "remarks": null,
+  "aka": [
+    "-2147221143"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/cs_e_object_notfound/-2147221143/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

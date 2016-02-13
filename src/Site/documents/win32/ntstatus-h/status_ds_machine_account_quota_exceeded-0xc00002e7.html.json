@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_ds_machine_account_quota_exceeded\0xc00002e7\index.html.json
+
+title: 0xC00002E7 STATUS_DS_MACHINE_ACCOUNT_QUOTA_EXCEEDED in ntstatus.h
+description: Your computer could not be joined to the domain. You have exceeded the maximum number of computer accounts you are allowed to create in this domain. Contact your system administrator to have this limit reset or increased.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC00002E7",
+  "codeUrl": "/win32/ntstatus-h/status_ds_machine_account_quota_exceeded/0xc00002e7/",
+  "numericCode": -1073741081,
+  "define": "STATUS_DS_MACHINE_ACCOUNT_QUOTA_EXCEEDED",
+  "defineUrl": "/win32/ntstatus-h/status_ds_machine_account_quota_exceeded/",
+  "message": "Your computer could not be joined to the domain. You have exceeded the maximum number of computer accounts you are allowed to create in this domain. Contact your system administrator to have this limit reset or increased.",
+  "remarks": null,
+  "aka": [
+    "-1073741081"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_ds_machine_account_quota_exceeded/-1073741081/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

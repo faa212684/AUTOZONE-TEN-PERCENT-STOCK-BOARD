@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\rpc_s_protocol_error\0x800706c0\index.html.json
+canonical: /win32/winerror-h/rpc_s_protocol_error/1728/
+title: 0x800706c0 RPC_S_PROTOCOL_ERROR in winerror.h
+description: A remote procedure call (RPC) protocol error occurred.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800706c0",
+  "codeUrl": "/win32/winerror-h/rpc_s_protocol_error/0x800706c0/",
+  "numericCode": 0,
+  "define": "RPC_S_PROTOCOL_ERROR",
+  "defineUrl": "/win32/winerror-h/rpc_s_protocol_error/",
+  "message": "A remote procedure call (RPC) protocol error occurred.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "1728",
+  "originalCodeUrl": "/win32/winerror-h/rpc_s_protocol_error/1728/"
+}

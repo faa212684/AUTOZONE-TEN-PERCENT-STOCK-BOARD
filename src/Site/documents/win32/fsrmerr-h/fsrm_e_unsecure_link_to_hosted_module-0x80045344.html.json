@@ -1,0 +1,28 @@
+---
+output: win32\fsrmerr-h\fsrm_e_unsecure_link_to_hosted_module\0x80045344\index.html.json
+
+title: 0x80045344 FSRM_E_UNSECURE_LINK_TO_HOSTED_MODULE in fsrmerr.h
+description: File Server Resource Manager failed to perform a secure link with a hosted module process.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "fsrmerr.h",
+  "sourceUrl": "/win32/fsrmerr-h/",
+  "code": "0x80045344",
+  "codeUrl": "/win32/fsrmerr-h/fsrm_e_unsecure_link_to_hosted_module/0x80045344/",
+  "numericCode": -2147200188,
+  "define": "FSRM_E_UNSECURE_LINK_TO_HOSTED_MODULE",
+  "defineUrl": "/win32/fsrmerr-h/fsrm_e_unsecure_link_to_hosted_module/",
+  "message": "File Server Resource Manager failed to perform a secure link with a hosted module process.",
+  "remarks": null,
+  "aka": [
+    "-2147200188"
+  ],
+  "akaUrl": [
+    "/win32/fsrmerr-h/fsrm_e_unsecure_link_to_hosted_module/-2147200188/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

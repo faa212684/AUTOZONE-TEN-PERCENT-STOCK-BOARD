@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_no_impersonation_token\0x8007051d\index.html.json
+canonical: /win32/winerror-h/error_no_impersonation_token/1309/
+title: 0x8007051d ERROR_NO_IMPERSONATION_TOKEN in winerror.h
+description: An attempt has been made to operate on an impersonation token by a thread that is not currently impersonating a client.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007051d",
+  "codeUrl": "/win32/winerror-h/error_no_impersonation_token/0x8007051d/",
+  "numericCode": 0,
+  "define": "ERROR_NO_IMPERSONATION_TOKEN",
+  "defineUrl": "/win32/winerror-h/error_no_impersonation_token/",
+  "message": "An attempt has been made to operate on an impersonation token by a thread that is not currently impersonating a client.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "1309",
+  "originalCodeUrl": "/win32/winerror-h/error_no_impersonation_token/1309/"
+}

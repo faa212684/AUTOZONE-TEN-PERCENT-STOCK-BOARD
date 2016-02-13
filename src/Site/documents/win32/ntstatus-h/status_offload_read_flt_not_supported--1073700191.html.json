@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_offload_read_flt_not_supported\-1073700191\index.html.json
+canonical: /win32/ntstatus-h/status_offload_read_flt_not_supported/0xc000a2a1/
+title: -1073700191 STATUS_OFFLOAD_READ_FLT_NOT_SUPPORTED in ntstatus.h
+description: The copy offload read operation is not supported by a filter.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073700191",
+  "codeUrl": "/win32/ntstatus-h/status_offload_read_flt_not_supported/-1073700191/",
+  "numericCode": 0,
+  "define": "STATUS_OFFLOAD_READ_FLT_NOT_SUPPORTED",
+  "defineUrl": "/win32/ntstatus-h/status_offload_read_flt_not_supported/",
+  "message": "The copy offload read operation is not supported by a filter.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC000A2A1",
+  "originalCodeUrl": "/win32/ntstatus-h/status_offload_read_flt_not_supported/0xc000a2a1/"
+}

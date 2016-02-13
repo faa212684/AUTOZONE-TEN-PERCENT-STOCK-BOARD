@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_no_user_session_key\1394\index.html.json
+
+title: 1394 ERROR_NO_USER_SESSION_KEY in winerror.h
+description: There is no user session key for the specified logon session.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1394",
+  "codeUrl": "/win32/winerror-h/error_no_user_session_key/1394/",
+  "numericCode": 1394,
+  "define": "ERROR_NO_USER_SESSION_KEY",
+  "defineUrl": "/win32/winerror-h/error_no_user_session_key/",
+  "message": "There is no user session key for the specified logon session.",
+  "remarks": null,
+  "aka": [
+    "0x80070572",
+    "-2147023502"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_no_user_session_key/0x80070572/",
+    "/win32/winerror-h/error_no_user_session_key/-2147023502/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

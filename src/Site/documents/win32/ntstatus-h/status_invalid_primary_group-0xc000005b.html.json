@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_invalid_primary_group\0xc000005b\index.html.json
+
+title: 0xC000005B STATUS_INVALID_PRIMARY_GROUP in ntstatus.h
+description: Indicates a particular Security ID may not be assigned as the primary group of an object.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000005B",
+  "codeUrl": "/win32/ntstatus-h/status_invalid_primary_group/0xc000005b/",
+  "numericCode": -1073741733,
+  "define": "STATUS_INVALID_PRIMARY_GROUP",
+  "defineUrl": "/win32/ntstatus-h/status_invalid_primary_group/",
+  "message": "Indicates a particular Security ID may not be assigned as the primary group of an object.",
+  "remarks": null,
+  "aka": [
+    "-1073741733"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_invalid_primary_group/-1073741733/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

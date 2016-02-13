@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\cert_e_validityperiodnesting\0x800b0102\index.html.json
+
+title: 0x800B0102 CERT_E_VALIDITYPERIODNESTING in winerror.h
+description: The validity periods of the certification chain do not nest correctly.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800B0102",
+  "codeUrl": "/win32/winerror-h/cert_e_validityperiodnesting/0x800b0102/",
+  "numericCode": -2146762494,
+  "define": "CERT_E_VALIDITYPERIODNESTING",
+  "defineUrl": "/win32/winerror-h/cert_e_validityperiodnesting/",
+  "message": "The validity periods of the certification chain do not nest correctly.",
+  "remarks": null,
+  "aka": [
+    "-2146762494"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/cert_e_validityperiodnesting/-2146762494/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_cluster_node_down\5050\index.html.json
+
+title: 5050 ERROR_CLUSTER_NODE_DOWN in winerror.h
+description: The cluster node is down.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "5050",
+  "codeUrl": "/win32/winerror-h/error_cluster_node_down/5050/",
+  "numericCode": 5050,
+  "define": "ERROR_CLUSTER_NODE_DOWN",
+  "defineUrl": "/win32/winerror-h/error_cluster_node_down/",
+  "message": "The cluster node is down.",
+  "remarks": null,
+  "aka": [
+    "0x800713ba",
+    "-2147019846"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_cluster_node_down/0x800713ba/",
+    "/win32/winerror-h/error_cluster_node_down/-2147019846/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

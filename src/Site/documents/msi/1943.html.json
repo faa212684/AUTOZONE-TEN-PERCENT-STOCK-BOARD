@@ -1,0 +1,24 @@
+---
+output: msi\1943\index.html.json
+
+title: msi 1943
+description: SDDL string '[2]' for object [3](in table [4]) could not be resolved into a valid Security Descriptor.
+disqus: true
+---
+{
+  "area": "msi",
+  "areaUrl": "/msi/",
+  "source": null,
+  "sourceUrl": "/msi/",
+  "code": "1943",
+  "codeUrl": "/msi/1943/",
+  "numericCode": 1943,
+  "define": null,
+  "defineUrl": "/msi/",
+  "message": "SDDL string '[2]' for object [3](in table [4]) could not be resolved into a valid Security Descriptor.",
+  "remarks": "See <a href=\"https://msdn.microsoft.com/en-us/library/dd408053(v=vs.85).aspx\">Securing Resources</a> for information on using <a href=\"https://msdn.microsoft.com/en-us/library/dd408009(v=vs.85).aspx\">MsiLockPermissionsEx</a> table.\r\n\r\nAvailable beginning with Windows Installer 5.0 for Windows 7 and Windows Server 2008 R2.",
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": null,
+  "originalCodeUrl": null
+}

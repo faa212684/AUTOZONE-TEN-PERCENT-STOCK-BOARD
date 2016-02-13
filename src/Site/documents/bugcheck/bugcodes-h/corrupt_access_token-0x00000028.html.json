@@ -1,0 +1,28 @@
+---
+output: bugcheck\bugcodes-h\corrupt_access_token\0x00000028\index.html.json
+
+title: 0x00000028 CORRUPT_ACCESS_TOKEN in bugcodes.h
+description: CORRUPT_ACCESS_TOKEN
+disqus: true
+---
+{
+  "area": "bugcheck",
+  "areaUrl": "/bugcheck/",
+  "source": "bugcodes.h",
+  "sourceUrl": "/bugcheck/bugcodes-h/",
+  "code": "0x00000028",
+  "codeUrl": "/bugcheck/bugcodes-h/corrupt_access_token/0x00000028/",
+  "numericCode": 40,
+  "define": "CORRUPT_ACCESS_TOKEN",
+  "defineUrl": "/bugcheck/bugcodes-h/corrupt_access_token/",
+  "message": "CORRUPT_ACCESS_TOKEN",
+  "remarks": null,
+  "aka": [
+    "40"
+  ],
+  "akaUrl": [
+    "/bugcheck/bugcodes-h/corrupt_access_token/40/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

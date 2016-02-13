@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_service_status_success\0x40001b7c\index.html.json
+
+title: 0x40001B7C EVENT_SERVICE_STATUS_SUCCESS in netevent.h
+description: The %1 service entered the %2 state.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x40001B7C",
+  "codeUrl": "/win32/netevent-h/event_service_status_success/0x40001b7c/",
+  "numericCode": 1073748860,
+  "define": "EVENT_SERVICE_STATUS_SUCCESS",
+  "defineUrl": "/win32/netevent-h/event_service_status_success/",
+  "message": "The %1 service entered the %2 state.",
+  "remarks": null,
+  "aka": [
+    "1073748860"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_service_status_success/1073748860/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

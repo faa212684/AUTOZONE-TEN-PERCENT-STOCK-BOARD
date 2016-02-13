@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_srv_txf_init_failed\0x800009d1\index.html.json
+
+title: 0x800009D1 EVENT_SRV_TXF_INIT_FAILED in netevent.h
+description: The server service was unable to register to the transaction resource manager. Remote transactions will be unavailable.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x800009D1",
+  "codeUrl": "/win32/netevent-h/event_srv_txf_init_failed/0x800009d1/",
+  "numericCode": -2147481135,
+  "define": "EVENT_SRV_TXF_INIT_FAILED",
+  "defineUrl": "/win32/netevent-h/event_srv_txf_init_failed/",
+  "message": "The server service was unable to register to the transaction resource manager. Remote transactions will be unavailable.",
+  "remarks": null,
+  "aka": [
+    "-2147481135"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_srv_txf_init_failed/-2147481135/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

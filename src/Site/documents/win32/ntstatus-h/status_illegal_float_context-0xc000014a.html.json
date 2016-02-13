@@ -1,0 +1,29 @@
+---
+output: win32\ntstatus-h\status_illegal_float_context\0xc000014a\index.html.json
+
+title: 0xC000014A STATUS_ILLEGAL_FLOAT_CONTEXT in ntstatus.h
+description: "{EXCEPTION}
+A real-mode application issued a floating-point instruction and floating-point hardware is not present."
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000014A",
+  "codeUrl": "/win32/ntstatus-h/status_illegal_float_context/0xc000014a/",
+  "numericCode": -1073741494,
+  "define": "STATUS_ILLEGAL_FLOAT_CONTEXT",
+  "defineUrl": "/win32/ntstatus-h/status_illegal_float_context/",
+  "message": "{EXCEPTION}\r\nA real-mode application issued a floating-point instruction and floating-point hardware is not present.",
+  "remarks": null,
+  "aka": [
+    "-1073741494"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_illegal_float_context/-1073741494/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

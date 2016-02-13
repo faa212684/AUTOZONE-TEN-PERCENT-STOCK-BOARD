@@ -1,0 +1,28 @@
+---
+output: bugcheck\bugcodes-h\instruction_coherency_exception\0x00000056\index.html.json
+
+title: 0x00000056 INSTRUCTION_COHERENCY_EXCEPTION in bugcodes.h
+description: INSTRUCTION_COHERENCY_EXCEPTION
+disqus: true
+---
+{
+  "area": "bugcheck",
+  "areaUrl": "/bugcheck/",
+  "source": "bugcodes.h",
+  "sourceUrl": "/bugcheck/bugcodes-h/",
+  "code": "0x00000056",
+  "codeUrl": "/bugcheck/bugcodes-h/instruction_coherency_exception/0x00000056/",
+  "numericCode": 86,
+  "define": "INSTRUCTION_COHERENCY_EXCEPTION",
+  "defineUrl": "/bugcheck/bugcodes-h/instruction_coherency_exception/",
+  "message": "INSTRUCTION_COHERENCY_EXCEPTION",
+  "remarks": null,
+  "aka": [
+    "86"
+  ],
+  "akaUrl": [
+    "/bugcheck/bugcodes-h/instruction_coherency_exception/86/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

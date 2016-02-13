@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_rpcss_stop_service_failure\0xc000272d\index.html.json
+
+title: 0xC000272D EVENT_RPCSS_STOP_SERVICE_FAILURE in netevent.h
+description: The activation of the CLSID %1 timed out waiting for the service %2 to stop.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC000272D",
+  "codeUrl": "/win32/netevent-h/event_rpcss_stop_service_failure/0xc000272d/",
+  "numericCode": -1073731795,
+  "define": "EVENT_RPCSS_STOP_SERVICE_FAILURE",
+  "defineUrl": "/win32/netevent-h/event_rpcss_stop_service_failure/",
+  "message": "The activation of the CLSID %1 timed out waiting for the service %2 to stop.",
+  "remarks": null,
+  "aka": [
+    "-1073731795"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_rpcss_stop_service_failure/-1073731795/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

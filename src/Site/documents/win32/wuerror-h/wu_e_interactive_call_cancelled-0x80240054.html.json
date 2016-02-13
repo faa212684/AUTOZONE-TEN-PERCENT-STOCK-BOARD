@@ -1,0 +1,28 @@
+---
+output: win32\wuerror-h\wu_e_interactive_call_cancelled\0x80240054\index.html.json
+
+title: 0x80240054 WU_E_INTERACTIVE_CALL_CANCELLED in wuerror.h
+description: An interactive user cancelled this operation, which was started from the Windows Update Agent UI.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wuerror.h",
+  "sourceUrl": "/win32/wuerror-h/",
+  "code": "0x80240054",
+  "codeUrl": "/win32/wuerror-h/wu_e_interactive_call_cancelled/0x80240054/",
+  "numericCode": -2145124268,
+  "define": "WU_E_INTERACTIVE_CALL_CANCELLED",
+  "defineUrl": "/win32/wuerror-h/wu_e_interactive_call_cancelled/",
+  "message": "An interactive user cancelled this operation, which was started from the Windows Update Agent UI.",
+  "remarks": null,
+  "aka": [
+    "-2145124268"
+  ],
+  "akaUrl": [
+    "/win32/wuerror-h/wu_e_interactive_call_cancelled/-2145124268/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

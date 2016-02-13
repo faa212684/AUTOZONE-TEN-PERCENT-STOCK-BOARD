@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_invalid_security_descr\-1073741703\index.html.json
+canonical: /win32/ntstatus-h/status_invalid_security_descr/0xc0000079/
+title: -1073741703 STATUS_INVALID_SECURITY_DESCR in ntstatus.h
+description: Indicates the SECURITY_DESCRIPTOR structure is not valid.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741703",
+  "codeUrl": "/win32/ntstatus-h/status_invalid_security_descr/-1073741703/",
+  "numericCode": 0,
+  "define": "STATUS_INVALID_SECURITY_DESCR",
+  "defineUrl": "/win32/ntstatus-h/status_invalid_security_descr/",
+  "message": "Indicates the SECURITY_DESCRIPTOR structure is not valid.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000079",
+  "originalCodeUrl": "/win32/ntstatus-h/status_invalid_security_descr/0xc0000079/"
+}

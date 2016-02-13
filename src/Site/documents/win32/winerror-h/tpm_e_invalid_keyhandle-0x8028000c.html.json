@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\tpm_e_invalid_keyhandle\0x8028000c\index.html.json
+
+title: 0x8028000C TPM_E_INVALID_KEYHANDLE in winerror.h
+description: The key handle cannot be interpreted.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8028000C",
+  "codeUrl": "/win32/winerror-h/tpm_e_invalid_keyhandle/0x8028000c/",
+  "numericCode": -2144862196,
+  "define": "TPM_E_INVALID_KEYHANDLE",
+  "defineUrl": "/win32/winerror-h/tpm_e_invalid_keyhandle/",
+  "message": "The key handle cannot be interpreted.",
+  "remarks": null,
+  "aka": [
+    "-2144862196"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/tpm_e_invalid_keyhandle/-2144862196/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

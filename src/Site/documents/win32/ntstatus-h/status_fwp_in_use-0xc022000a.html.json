@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_fwp_in_use\0xc022000a\index.html.json
+
+title: 0xC022000A STATUS_FWP_IN_USE in ntstatus.h
+description: The object is referenced by other objects so cannot be deleted.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC022000A",
+  "codeUrl": "/win32/ntstatus-h/status_fwp_in_use/0xc022000a/",
+  "numericCode": -1071513590,
+  "define": "STATUS_FWP_IN_USE",
+  "defineUrl": "/win32/ntstatus-h/status_fwp_in_use/",
+  "message": "The object is referenced by other objects so cannot be deleted.",
+  "remarks": null,
+  "aka": [
+    "-1071513590"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_fwp_in_use/-1071513590/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

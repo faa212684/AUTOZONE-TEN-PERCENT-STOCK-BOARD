@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_disk_too_fragmented\302\index.html.json
+
+title: 302 ERROR_DISK_TOO_FRAGMENTED in winerror.h
+description: The volume is too fragmented to complete this operation.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "302",
+  "codeUrl": "/win32/winerror-h/error_disk_too_fragmented/302/",
+  "numericCode": 302,
+  "define": "ERROR_DISK_TOO_FRAGMENTED",
+  "defineUrl": "/win32/winerror-h/error_disk_too_fragmented/",
+  "message": "The volume is too fragmented to complete this operation.",
+  "remarks": null,
+  "aka": [
+    "0x8007012e",
+    "-2147024594"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_disk_too_fragmented/0x8007012e/",
+    "/win32/winerror-h/error_disk_too_fragmented/-2147024594/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

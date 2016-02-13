@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ds_no_fpo_in_universal_groups\8549\index.html.json
+
+title: 8549 ERROR_DS_NO_FPO_IN_UNIVERSAL_GROUPS in winerror.h
+description: Foreign security principals cannot be members of universal groups.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "8549",
+  "codeUrl": "/win32/winerror-h/error_ds_no_fpo_in_universal_groups/8549/",
+  "numericCode": 8549,
+  "define": "ERROR_DS_NO_FPO_IN_UNIVERSAL_GROUPS",
+  "defineUrl": "/win32/winerror-h/error_ds_no_fpo_in_universal_groups/",
+  "message": "Foreign security principals cannot be members of universal groups.",
+  "remarks": null,
+  "aka": [
+    "0x80072165",
+    "-2147016347"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ds_no_fpo_in_universal_groups/0x80072165/",
+    "/win32/winerror-h/error_ds_no_fpo_in_universal_groups/-2147016347/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

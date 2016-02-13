@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\xact_e_connection_down\0x8004d01c\index.html.json
+
+title: 0x8004D01C XACT_E_CONNECTION_DOWN in winerror.h
+description: A connection with the transaction manager was lost.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8004D01C",
+  "codeUrl": "/win32/winerror-h/xact_e_connection_down/0x8004d01c/",
+  "numericCode": -2147168228,
+  "define": "XACT_E_CONNECTION_DOWN",
+  "defineUrl": "/win32/winerror-h/xact_e_connection_down/",
+  "message": "A connection with the transaction manager was lost.",
+  "remarks": null,
+  "aka": [
+    "-2147168228"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/xact_e_connection_down/-2147168228/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

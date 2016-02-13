@@ -1,0 +1,31 @@
+---
+output: win32\cdosyserr-h\evtopenurl\0x8003202d\index.html.json
+
+title: 0x8003202D evtOpenURL in CDOSysErr.h
+description: Calendaring agent failed with error %1 while attempting to open the status message. If the user is a delegate, the access rights to the mailbox might
+not be set up correctly.  Otherwise, the calendar for this mailbox could be corrupted. This could be fixed
+by moving the mailbox to another Exchange server, or exporting the calendar to a Personal Folder File (.PST), and re-importing this into a new calendar.
+%n%nFor more information, click http:www.microsoft.com/contentredirect.asp.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "CDOSysErr.h",
+  "sourceUrl": "/win32/cdosyserr-h/",
+  "code": "0x8003202D",
+  "codeUrl": "/win32/cdosyserr-h/evtopenurl/0x8003202d/",
+  "numericCode": -2147278803,
+  "define": "evtOpenURL",
+  "defineUrl": "/win32/cdosyserr-h/evtopenurl/",
+  "message": "Calendaring agent failed with error %1 while attempting to open the status message. If the user is a delegate, the access rights to the mailbox might\r\nnot be set up correctly.  Otherwise, the calendar for this mailbox could be corrupted. This could be fixed\r\nby moving the mailbox to another Exchange server, or exporting the calendar to a Personal Folder File (.PST), and re-importing this into a new calendar.\r\n%n%nFor more information, click http:www.microsoft.com/contentredirect.asp.",
+  "remarks": null,
+  "aka": [
+    "-2147278803"
+  ],
+  "akaUrl": [
+    "/win32/cdosyserr-h/evtopenurl/-2147278803/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

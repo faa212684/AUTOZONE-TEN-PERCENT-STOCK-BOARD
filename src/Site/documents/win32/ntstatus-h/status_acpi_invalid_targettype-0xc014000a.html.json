@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_acpi_invalid_targettype\0xc014000a\index.html.json
+
+title: 0xC014000A STATUS_ACPI_INVALID_TARGETTYPE in ntstatus.h
+description: A target with an incorrect type was specified
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC014000A",
+  "codeUrl": "/win32/ntstatus-h/status_acpi_invalid_targettype/0xc014000a/",
+  "numericCode": -1072431094,
+  "define": "STATUS_ACPI_INVALID_TARGETTYPE",
+  "defineUrl": "/win32/ntstatus-h/status_acpi_invalid_targettype/",
+  "message": "A target with an incorrect type was specified",
+  "remarks": null,
+  "aka": [
+    "-1072431094"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_acpi_invalid_targettype/-1072431094/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_invalid_combobox_message\1422\index.html.json
+
+title: 1422 ERROR_INVALID_COMBOBOX_MESSAGE in winerror.h
+description: Invalid message for a combo box because it does not have an edit control.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1422",
+  "codeUrl": "/win32/winerror-h/error_invalid_combobox_message/1422/",
+  "numericCode": 1422,
+  "define": "ERROR_INVALID_COMBOBOX_MESSAGE",
+  "defineUrl": "/win32/winerror-h/error_invalid_combobox_message/",
+  "message": "Invalid message for a combo box because it does not have an edit control.",
+  "remarks": null,
+  "aka": [
+    "0x8007058e",
+    "-2147023474"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_invalid_combobox_message/0x8007058e/",
+    "/win32/winerror-h/error_invalid_combobox_message/-2147023474/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

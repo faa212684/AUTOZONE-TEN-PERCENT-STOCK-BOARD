@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_corrupt_log_deleted_full\-1073739764\index.html.json
+canonical: /win32/ntstatus-h/status_corrupt_log_deleted_full/0xc000080c/
+title: -1073739764 STATUS_CORRUPT_LOG_DELETED_FULL in ntstatus.h
+description: One of the volume corruption logs was deleted while still having corruption records in them. The volume contains detected corruptions and must be scanned.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073739764",
+  "codeUrl": "/win32/ntstatus-h/status_corrupt_log_deleted_full/-1073739764/",
+  "numericCode": 0,
+  "define": "STATUS_CORRUPT_LOG_DELETED_FULL",
+  "defineUrl": "/win32/ntstatus-h/status_corrupt_log_deleted_full/",
+  "message": "One of the volume corruption logs was deleted while still having corruption records in them. The volume contains detected corruptions and must be scanned.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC000080C",
+  "originalCodeUrl": "/win32/ntstatus-h/status_corrupt_log_deleted_full/0xc000080c/"
+}

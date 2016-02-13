@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_invalid_token\315\index.html.json
+
+title: 315 ERROR_INVALID_TOKEN in winerror.h
+description: The token representing the data is invalid.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "315",
+  "codeUrl": "/win32/winerror-h/error_invalid_token/315/",
+  "numericCode": 315,
+  "define": "ERROR_INVALID_TOKEN",
+  "defineUrl": "/win32/winerror-h/error_invalid_token/",
+  "message": "The token representing the data is invalid.",
+  "remarks": null,
+  "aka": [
+    "0x8007013b",
+    "-2147024581"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_invalid_token/0x8007013b/",
+    "/win32/winerror-h/error_invalid_token/-2147024581/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

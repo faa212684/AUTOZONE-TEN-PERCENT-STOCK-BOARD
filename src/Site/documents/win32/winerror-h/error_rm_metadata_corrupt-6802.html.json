@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_rm_metadata_corrupt\6802\index.html.json
+
+title: 6802 ERROR_RM_METADATA_CORRUPT in winerror.h
+description: The metadata of the RM has been corrupted. The RM will not function.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "6802",
+  "codeUrl": "/win32/winerror-h/error_rm_metadata_corrupt/6802/",
+  "numericCode": 6802,
+  "define": "ERROR_RM_METADATA_CORRUPT",
+  "defineUrl": "/win32/winerror-h/error_rm_metadata_corrupt/",
+  "message": "The metadata of the RM has been corrupted. The RM will not function.",
+  "remarks": null,
+  "aka": [
+    "0x80071a92",
+    "-2147018094"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_rm_metadata_corrupt/0x80071a92/",
+    "/win32/winerror-h/error_rm_metadata_corrupt/-2147018094/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

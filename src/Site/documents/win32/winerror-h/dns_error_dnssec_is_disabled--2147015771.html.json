@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\dns_error_dnssec_is_disabled\-2147015771\index.html.json
+canonical: /win32/winerror-h/dns_error_dnssec_is_disabled/9125/
+title: -2147015771 DNS_ERROR_DNSSEC_IS_DISABLED in winerror.h
+description: This operation could not be completed because the DNS server has been configured with DNSSEC features disabled. Enable DNSSEC on the DNS server.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147015771",
+  "codeUrl": "/win32/winerror-h/dns_error_dnssec_is_disabled/-2147015771/",
+  "numericCode": 0,
+  "define": "DNS_ERROR_DNSSEC_IS_DISABLED",
+  "defineUrl": "/win32/winerror-h/dns_error_dnssec_is_disabled/",
+  "message": "This operation could not be completed because the DNS server has been configured with DNSSEC features disabled. Enable DNSSEC on the DNS server.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "9125",
+  "originalCodeUrl": "/win32/winerror-h/dns_error_dnssec_is_disabled/9125/"
+}

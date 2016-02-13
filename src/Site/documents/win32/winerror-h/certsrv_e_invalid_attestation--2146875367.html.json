@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\certsrv_e_invalid_attestation\-2146875367\index.html.json
+canonical: /win32/winerror-h/certsrv_e_invalid_attestation/0x80094819/
+title: -2146875367 CERTSRV_E_INVALID_ATTESTATION in winerror.h
+description: The certification authority cannot validate the private key attestation data.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2146875367",
+  "codeUrl": "/win32/winerror-h/certsrv_e_invalid_attestation/-2146875367/",
+  "numericCode": 0,
+  "define": "CERTSRV_E_INVALID_ATTESTATION",
+  "defineUrl": "/win32/winerror-h/certsrv_e_invalid_attestation/",
+  "message": "The certification authority cannot validate the private key attestation data.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80094819",
+  "originalCodeUrl": "/win32/winerror-h/certsrv_e_invalid_attestation/0x80094819/"
+}

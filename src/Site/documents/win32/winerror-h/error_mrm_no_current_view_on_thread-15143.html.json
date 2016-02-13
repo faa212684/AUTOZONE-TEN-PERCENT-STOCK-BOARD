@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_mrm_no_current_view_on_thread\15143\index.html.json
+
+title: 15143 ERROR_MRM_NO_CURRENT_VIEW_ON_THREAD in winerror.h
+description: Resource Contexts may not be created on threads that do not have a CoreWindow.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "15143",
+  "codeUrl": "/win32/winerror-h/error_mrm_no_current_view_on_thread/15143/",
+  "numericCode": 15143,
+  "define": "ERROR_MRM_NO_CURRENT_VIEW_ON_THREAD",
+  "defineUrl": "/win32/winerror-h/error_mrm_no_current_view_on_thread/",
+  "message": "Resource Contexts may not be created on threads that do not have a CoreWindow.",
+  "remarks": null,
+  "aka": [
+    "0x80073b27",
+    "-2147009753"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_mrm_no_current_view_on_thread/0x80073b27/",
+    "/win32/winerror-h/error_mrm_no_current_view_on_thread/-2147009753/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

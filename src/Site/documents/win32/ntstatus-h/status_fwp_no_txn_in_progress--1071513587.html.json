@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_fwp_no_txn_in_progress\-1071513587\index.html.json
+canonical: /win32/ntstatus-h/status_fwp_no_txn_in_progress/0xc022000d/
+title: -1071513587 STATUS_FWP_NO_TXN_IN_PROGRESS in ntstatus.h
+description: The call must be made from within an explicit transaction.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071513587",
+  "codeUrl": "/win32/ntstatus-h/status_fwp_no_txn_in_progress/-1071513587/",
+  "numericCode": 0,
+  "define": "STATUS_FWP_NO_TXN_IN_PROGRESS",
+  "defineUrl": "/win32/ntstatus-h/status_fwp_no_txn_in_progress/",
+  "message": "The call must be made from within an explicit transaction.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC022000D",
+  "originalCodeUrl": "/win32/ntstatus-h/status_fwp_no_txn_in_progress/0xc022000d/"
+}

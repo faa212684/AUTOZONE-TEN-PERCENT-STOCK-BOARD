@@ -1,0 +1,29 @@
+---
+output: win32\wsmerror-h\error_wsman_client_invalid_delivery_retry\0x80338164\index.html.json
+
+title: 0x80338164 ERROR_WSMAN_CLIENT_INVALID_DELIVERY_RETRY in wsmerror.h
+description: The WinRM client cannot process the request because the delivery retry parameters are invalid.
+If delivery retry is requested, the deliveryRetryInterval and deliveryRetryAttempts fields must both be nonzero.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x80338164",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_client_invalid_delivery_retry/0x80338164/",
+  "numericCode": -2144108188,
+  "define": "ERROR_WSMAN_CLIENT_INVALID_DELIVERY_RETRY",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_client_invalid_delivery_retry/",
+  "message": "The WinRM client cannot process the request because the delivery retry parameters are invalid.\r\nIf delivery retry is requested, the deliveryRetryInterval and deliveryRetryAttempts fields must both be nonzero.",
+  "remarks": null,
+  "aka": [
+    "-2144108188"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_client_invalid_delivery_retry/-2144108188/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_service_disabled\1058\index.html.json
+
+title: 1058 ERROR_SERVICE_DISABLED in winerror.h
+description: The service cannot be started, either because it is disabled or because it has no enabled devices associated with it.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1058",
+  "codeUrl": "/win32/winerror-h/error_service_disabled/1058/",
+  "numericCode": 1058,
+  "define": "ERROR_SERVICE_DISABLED",
+  "defineUrl": "/win32/winerror-h/error_service_disabled/",
+  "message": "The service cannot be started, either because it is disabled or because it has no enabled devices associated with it.",
+  "remarks": null,
+  "aka": [
+    "0x80070422",
+    "-2147023838"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_service_disabled/0x80070422/",
+    "/win32/winerror-h/error_service_disabled/-2147023838/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,29 @@
+---
+output: win32\ntstatus-h\status_no_browser_servers_found\0xc000021c\index.html.json
+
+title: 0xC000021C STATUS_NO_BROWSER_SERVERS_FOUND in ntstatus.h
+description: "{Unable to Retrieve Browser Server List}
+The list of servers for this workgroup is not currently available."
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000021C",
+  "codeUrl": "/win32/ntstatus-h/status_no_browser_servers_found/0xc000021c/",
+  "numericCode": -1073741284,
+  "define": "STATUS_NO_BROWSER_SERVERS_FOUND",
+  "defineUrl": "/win32/ntstatus-h/status_no_browser_servers_found/",
+  "message": "{Unable to Retrieve Browser Server List}\r\nThe list of servers for this workgroup is not currently available.",
+  "remarks": null,
+  "aka": [
+    "-1073741284"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_no_browser_servers_found/-1073741284/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

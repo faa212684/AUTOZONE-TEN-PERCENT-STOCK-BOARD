@@ -1,0 +1,24 @@
+---
+output: win32\scarderr-h\scard_e_no_dir\-2146435035\index.html.json
+canonical: /win32/scarderr-h/scard_e_no_dir/0x80100025/
+title: -2146435035 SCARD_E_NO_DIR in SCardErr.h
+description: The supplied path does not represent a smart card directory.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "SCardErr.h",
+  "sourceUrl": "/win32/scarderr-h/",
+  "code": "-2146435035",
+  "codeUrl": "/win32/scarderr-h/scard_e_no_dir/-2146435035/",
+  "numericCode": 0,
+  "define": "SCARD_E_NO_DIR",
+  "defineUrl": "/win32/scarderr-h/scard_e_no_dir/",
+  "message": "The supplied path does not represent a smart card directory.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80100025",
+  "originalCodeUrl": "/win32/scarderr-h/scard_e_no_dir/0x80100025/"
+}

@@ -1,0 +1,32 @@
+---
+output: win32\netevent-h\event_service_config_backout_failed\0xc0001b7d\index.html.json
+
+title: 0xC0001B7D EVENT_SERVICE_CONFIG_BACKOUT_FAILED in netevent.h
+description: The Service Control Manager encountered an error undoing a configuration change
+to the %1 service.  The service's %2 is currently in an unpredictable state.
+If you do not correct this configuration, you may not be able to restart the %1
+service or may encounter other errors.  To ensure that the service is configured
+properly, use the Services snap-in in Microsoft Management Console (MMC).
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC0001B7D",
+  "codeUrl": "/win32/netevent-h/event_service_config_backout_failed/0xc0001b7d/",
+  "numericCode": -1073734787,
+  "define": "EVENT_SERVICE_CONFIG_BACKOUT_FAILED",
+  "defineUrl": "/win32/netevent-h/event_service_config_backout_failed/",
+  "message": "The Service Control Manager encountered an error undoing a configuration change\r\nto the %1 service.  The service's %2 is currently in an unpredictable state.\r\nIf you do not correct this configuration, you may not be able to restart the %1\r\nservice or may encounter other errors.  To ensure that the service is configured\r\nproperly, use the Services snap-in in Microsoft Management Console (MMC).",
+  "remarks": null,
+  "aka": [
+    "-1073734787"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_service_config_backout_failed/-1073734787/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

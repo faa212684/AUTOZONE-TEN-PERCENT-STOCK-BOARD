@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_print_cancelled\-1073741624\index.html.json
+canonical: /win32/ntstatus-h/status_print_cancelled/0xc00000c8/
+title: -1073741624 STATUS_PRINT_CANCELLED in ntstatus.h
+description: The requested print file has been canceled.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741624",
+  "codeUrl": "/win32/ntstatus-h/status_print_cancelled/-1073741624/",
+  "numericCode": 0,
+  "define": "STATUS_PRINT_CANCELLED",
+  "defineUrl": "/win32/ntstatus-h/status_print_cancelled/",
+  "message": "The requested print file has been canceled.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC00000C8",
+  "originalCodeUrl": "/win32/ntstatus-h/status_print_cancelled/0xc00000c8/"
+}

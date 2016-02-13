@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_handle_not_closable\0xc0000235\index.html.json
+
+title: 0xC0000235 STATUS_HANDLE_NOT_CLOSABLE in ntstatus.h
+description: NtClose was called on a handle that was protected from close via NtSetInformationObject.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000235",
+  "codeUrl": "/win32/ntstatus-h/status_handle_not_closable/0xc0000235/",
+  "numericCode": -1073741259,
+  "define": "STATUS_HANDLE_NOT_CLOSABLE",
+  "defineUrl": "/win32/ntstatus-h/status_handle_not_closable/",
+  "message": "NtClose was called on a handle that was protected from close via NtSetInformationObject.",
+  "remarks": null,
+  "aka": [
+    "-1073741259"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_handle_not_closable/-1073741259/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

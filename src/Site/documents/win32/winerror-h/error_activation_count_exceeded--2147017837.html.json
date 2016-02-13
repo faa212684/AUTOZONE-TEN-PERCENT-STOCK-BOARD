@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_activation_count_exceeded\-2147017837\index.html.json
+canonical: /win32/winerror-h/error_activation_count_exceeded/7059/
+title: -2147017837 ERROR_ACTIVATION_COUNT_EXCEEDED in winerror.h
+description: Activation has already been reset the maximum number of times for this installation. Your activation timer will not be cleared.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147017837",
+  "codeUrl": "/win32/winerror-h/error_activation_count_exceeded/-2147017837/",
+  "numericCode": 0,
+  "define": "ERROR_ACTIVATION_COUNT_EXCEEDED",
+  "defineUrl": "/win32/winerror-h/error_activation_count_exceeded/",
+  "message": "Activation has already been reset the maximum number of times for this installation. Your activation timer will not be cleared.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "7059",
+  "originalCodeUrl": "/win32/winerror-h/error_activation_count_exceeded/7059/"
+}

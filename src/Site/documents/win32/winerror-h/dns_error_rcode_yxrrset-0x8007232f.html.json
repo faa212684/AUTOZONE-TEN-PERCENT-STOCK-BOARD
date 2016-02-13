@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\dns_error_rcode_yxrrset\0x8007232f\index.html.json
+canonical: /win32/winerror-h/dns_error_rcode_yxrrset/9007/
+title: 0x8007232f DNS_ERROR_RCODE_YXRRSET in winerror.h
+description: DNS RR set that ought not exist, does exist.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007232f",
+  "codeUrl": "/win32/winerror-h/dns_error_rcode_yxrrset/0x8007232f/",
+  "numericCode": 0,
+  "define": "DNS_ERROR_RCODE_YXRRSET",
+  "defineUrl": "/win32/winerror-h/dns_error_rcode_yxrrset/",
+  "message": "DNS RR set that ought not exist, does exist.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "9007",
+  "originalCodeUrl": "/win32/winerror-h/dns_error_rcode_yxrrset/9007/"
+}

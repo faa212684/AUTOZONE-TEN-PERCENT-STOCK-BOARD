@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_cluster_resource_locked_status\5960\index.html.json
+
+title: 5960 ERROR_CLUSTER_RESOURCE_LOCKED_STATUS in winerror.h
+description: The requested operation can not be completed because a resource has locked status.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "5960",
+  "codeUrl": "/win32/winerror-h/error_cluster_resource_locked_status/5960/",
+  "numericCode": 5960,
+  "define": "ERROR_CLUSTER_RESOURCE_LOCKED_STATUS",
+  "defineUrl": "/win32/winerror-h/error_cluster_resource_locked_status/",
+  "message": "The requested operation can not be completed because a resource has locked status.",
+  "remarks": null,
+  "aka": [
+    "0x80071748",
+    "-2147018936"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_cluster_resource_locked_status/0x80071748/",
+    "/win32/winerror-h/error_cluster_resource_locked_status/-2147018936/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

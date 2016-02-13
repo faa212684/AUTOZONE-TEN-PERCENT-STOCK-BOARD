@@ -1,0 +1,25 @@
+---
+output: win32\ntstatus-h\status_notify_enum_dir\268\index.html.json
+canonical: /win32/ntstatus-h/status_notify_enum_dir/0x0000010c/
+title: 268 STATUS_NOTIFY_ENUM_DIR in ntstatus.h
+description: This indicates that a notify change request is being completed and that the information is not being returned in the caller's buffer.
+The caller now needs to enumerate the files to find the changes.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "268",
+  "codeUrl": "/win32/ntstatus-h/status_notify_enum_dir/268/",
+  "numericCode": 0,
+  "define": "STATUS_NOTIFY_ENUM_DIR",
+  "defineUrl": "/win32/ntstatus-h/status_notify_enum_dir/",
+  "message": "This indicates that a notify change request is being completed and that the information is not being returned in the caller's buffer.\r\nThe caller now needs to enumerate the files to find the changes.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x0000010C",
+  "originalCodeUrl": "/win32/ntstatus-h/status_notify_enum_dir/0x0000010c/"
+}

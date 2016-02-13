@@ -1,0 +1,29 @@
+---
+output: win32\vdserr-h\vds_e_volume_extend_fve_locked\0x8004281f\index.html.json
+
+title: 0x8004281F VDS_E_VOLUME_EXTEND_FVE_LOCKED in vdserr.h
+description: The volume could not be extended because it is locked by BitLocker. 
+Unlock the volume and retry the operation.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x8004281F",
+  "codeUrl": "/win32/vdserr-h/vds_e_volume_extend_fve_locked/0x8004281f/",
+  "numericCode": -2147211233,
+  "define": "VDS_E_VOLUME_EXTEND_FVE_LOCKED",
+  "defineUrl": "/win32/vdserr-h/vds_e_volume_extend_fve_locked/",
+  "message": "The volume could not be extended because it is locked by BitLocker. \r\nUnlock the volume and retry the operation.",
+  "remarks": null,
+  "aka": [
+    "-2147211233"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_volume_extend_fve_locked/-2147211233/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

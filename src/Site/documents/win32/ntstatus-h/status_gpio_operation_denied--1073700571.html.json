@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_gpio_operation_denied\-1073700571\index.html.json
+canonical: /win32/ntstatus-h/status_gpio_operation_denied/0xc000a125/
+title: -1073700571 STATUS_GPIO_OPERATION_DENIED in ntstatus.h
+description: The requested operation is not suppported for the specified handle.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073700571",
+  "codeUrl": "/win32/ntstatus-h/status_gpio_operation_denied/-1073700571/",
+  "numericCode": 0,
+  "define": "STATUS_GPIO_OPERATION_DENIED",
+  "defineUrl": "/win32/ntstatus-h/status_gpio_operation_denied/",
+  "message": "The requested operation is not suppported for the specified handle.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC000A125",
+  "originalCodeUrl": "/win32/ntstatus-h/status_gpio_operation_denied/0xc000a125/"
+}

@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_hibernation_failure\0xc0000411\index.html.json
+
+title: 0xC0000411 STATUS_HIBERNATION_FAILURE in ntstatus.h
+description: The system has failed to hibernate (The error code is %hs). Hibernation will be disabled until the system is restarted.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000411",
+  "codeUrl": "/win32/ntstatus-h/status_hibernation_failure/0xc0000411/",
+  "numericCode": -1073740783,
+  "define": "STATUS_HIBERNATION_FAILURE",
+  "defineUrl": "/win32/ntstatus-h/status_hibernation_failure/",
+  "message": "The system has failed to hibernate (The error code is %hs). Hibernation will be disabled until the system is restarted.",
+  "remarks": null,
+  "aka": [
+    "-1073740783"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_hibernation_failure/-1073740783/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

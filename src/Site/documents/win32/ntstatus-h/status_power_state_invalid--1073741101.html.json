@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_power_state_invalid\-1073741101\index.html.json
+canonical: /win32/ntstatus-h/status_power_state_invalid/0xc00002d3/
+title: -1073741101 STATUS_POWER_STATE_INVALID in ntstatus.h
+description: Current device power state cannot support this request.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741101",
+  "codeUrl": "/win32/ntstatus-h/status_power_state_invalid/-1073741101/",
+  "numericCode": 0,
+  "define": "STATUS_POWER_STATE_INVALID",
+  "defineUrl": "/win32/ntstatus-h/status_power_state_invalid/",
+  "message": "Current device power state cannot support this request.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC00002D3",
+  "originalCodeUrl": "/win32/ntstatus-h/status_power_state_invalid/0xc00002d3/"
+}

@@ -1,0 +1,29 @@
+---
+output: win32\wsmerror-h\error_wsman_invalid_provider_response\0x8033816d\index.html.json
+
+title: 0x8033816D ERROR_WSMAN_INVALID_PROVIDER_RESPONSE in wsmerror.h
+description: The WinRM service executed an operation and the provider returned inconclusive information regarding success or failure of the operation.
+The status was marked as failed, but no error code was given.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x8033816D",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_invalid_provider_response/0x8033816d/",
+  "numericCode": -2144108179,
+  "define": "ERROR_WSMAN_INVALID_PROVIDER_RESPONSE",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_invalid_provider_response/",
+  "message": "The WinRM service executed an operation and the provider returned inconclusive information regarding success or failure of the operation.\r\nThe status was marked as failed, but no error code was given.",
+  "remarks": null,
+  "aka": [
+    "-2144108179"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_invalid_provider_response/-2144108179/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

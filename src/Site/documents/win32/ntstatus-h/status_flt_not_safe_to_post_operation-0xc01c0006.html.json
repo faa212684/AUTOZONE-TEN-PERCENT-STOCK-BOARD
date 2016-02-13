@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_flt_not_safe_to_post_operation\0xc01c0006\index.html.json
+
+title: 0xC01C0006 STATUS_FLT_NOT_SAFE_TO_POST_OPERATION in ntstatus.h
+description: Posting this operation to a worker thread for further processing is not safe at this time because it could lead to a system deadlock.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC01C0006",
+  "codeUrl": "/win32/ntstatus-h/status_flt_not_safe_to_post_operation/0xc01c0006/",
+  "numericCode": -1071906810,
+  "define": "STATUS_FLT_NOT_SAFE_TO_POST_OPERATION",
+  "defineUrl": "/win32/ntstatus-h/status_flt_not_safe_to_post_operation/",
+  "message": "Posting this operation to a worker thread for further processing is not safe at this time because it could lead to a system deadlock.",
+  "remarks": null,
+  "aka": [
+    "-1071906810"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_flt_not_safe_to_post_operation/-1071906810/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

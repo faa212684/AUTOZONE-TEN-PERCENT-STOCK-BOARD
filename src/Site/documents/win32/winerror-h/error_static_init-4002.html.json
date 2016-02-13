@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_static_init\4002\index.html.json
+
+title: 4002 ERROR_STATIC_INIT in winerror.h
+description: The importation from the file failed.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "4002",
+  "codeUrl": "/win32/winerror-h/error_static_init/4002/",
+  "numericCode": 4002,
+  "define": "ERROR_STATIC_INIT",
+  "defineUrl": "/win32/winerror-h/error_static_init/",
+  "message": "The importation from the file failed.",
+  "remarks": null,
+  "aka": [
+    "0x80070fa2",
+    "-2147020894"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_static_init/0x80070fa2/",
+    "/win32/winerror-h/error_static_init/-2147020894/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

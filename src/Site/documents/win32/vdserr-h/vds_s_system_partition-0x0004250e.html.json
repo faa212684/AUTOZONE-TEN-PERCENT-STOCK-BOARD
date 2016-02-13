@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_s_system_partition\0x0004250e\index.html.json
+
+title: 0x0004250E VDS_S_SYSTEM_PARTITION in vdserr.h
+description: Warning, there was a failure while checking for the system partition.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x0004250E",
+  "codeUrl": "/win32/vdserr-h/vds_s_system_partition/0x0004250e/",
+  "numericCode": 271630,
+  "define": "VDS_S_SYSTEM_PARTITION",
+  "defineUrl": "/win32/vdserr-h/vds_s_system_partition/",
+  "message": "Warning, there was a failure while checking for the system partition.",
+  "remarks": null,
+  "aka": [
+    "271630"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_s_system_partition/271630/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

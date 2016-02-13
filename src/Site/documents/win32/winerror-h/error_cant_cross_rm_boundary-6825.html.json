@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_cant_cross_rm_boundary\6825\index.html.json
+
+title: 6825 ERROR_CANT_CROSS_RM_BOUNDARY in winerror.h
+description: The operation would involve a single file with two transactional resource managers and is therefore not allowed.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "6825",
+  "codeUrl": "/win32/winerror-h/error_cant_cross_rm_boundary/6825/",
+  "numericCode": 6825,
+  "define": "ERROR_CANT_CROSS_RM_BOUNDARY",
+  "defineUrl": "/win32/winerror-h/error_cant_cross_rm_boundary/",
+  "message": "The operation would involve a single file with two transactional resource managers and is therefore not allowed.",
+  "remarks": null,
+  "aka": [
+    "0x80071aa9",
+    "-2147018071"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_cant_cross_rm_boundary/0x80071aa9/",
+    "/win32/winerror-h/error_cant_cross_rm_boundary/-2147018071/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

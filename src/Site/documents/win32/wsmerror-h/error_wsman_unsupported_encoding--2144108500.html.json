@@ -1,0 +1,25 @@
+---
+output: win32\wsmerror-h\error_wsman_unsupported_encoding\-2144108500\index.html.json
+canonical: /win32/wsmerror-h/error_wsman_unsupported_encoding/0x8033802c/
+title: -2144108500 ERROR_WSMAN_UNSUPPORTED_ENCODING in wsmerror.h
+description: The request contains character encoding that is unsupported. WS-Management only supports requests that are
+encoded in UTF-8 or UTF-16. Change the character encoding in the request and try the request again.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "-2144108500",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_unsupported_encoding/-2144108500/",
+  "numericCode": 0,
+  "define": "ERROR_WSMAN_UNSUPPORTED_ENCODING",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_unsupported_encoding/",
+  "message": "The request contains character encoding that is unsupported. WS-Management only supports requests that are\r\nencoded in UTF-8 or UTF-16. Change the character encoding in the request and try the request again.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x8033802C",
+  "originalCodeUrl": "/win32/wsmerror-h/error_wsman_unsupported_encoding/0x8033802c/"
+}

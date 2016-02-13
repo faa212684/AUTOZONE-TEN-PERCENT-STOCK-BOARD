@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_e_invalid_iscsi_target_name\0x80042903\index.html.json
+
+title: 0x80042903 VDS_E_INVALID_ISCSI_TARGET_NAME in vdserr.h
+description: An invalid iSCSI target name was returned from the provider.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x80042903",
+  "codeUrl": "/win32/vdserr-h/vds_e_invalid_iscsi_target_name/0x80042903/",
+  "numericCode": -2147211005,
+  "define": "VDS_E_INVALID_ISCSI_TARGET_NAME",
+  "defineUrl": "/win32/vdserr-h/vds_e_invalid_iscsi_target_name/",
+  "message": "An invalid iSCSI target name was returned from the provider.",
+  "remarks": null,
+  "aka": [
+    "-2147211005"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_invalid_iscsi_target_name/-2147211005/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_install_log_failure\-2147023274\index.html.json
+canonical: /win32/winerror-h/error_install_log_failure/1622/
+title: -2147023274 ERROR_INSTALL_LOG_FAILURE in winerror.h
+description: Error opening installation log file. Verify that the specified log file location exists and that you can write to it.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147023274",
+  "codeUrl": "/win32/winerror-h/error_install_log_failure/-2147023274/",
+  "numericCode": 0,
+  "define": "ERROR_INSTALL_LOG_FAILURE",
+  "defineUrl": "/win32/winerror-h/error_install_log_failure/",
+  "message": "Error opening installation log file. Verify that the specified log file location exists and that you can write to it.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "1622",
+  "originalCodeUrl": "/win32/winerror-h/error_install_log_failure/1622/"
+}

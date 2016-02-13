@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_ipsec_dosp_max_per_ip_ratelimit_queues\0x8007366c\index.html.json
+canonical: /win32/winerror-h/error_ipsec_dosp_max_per_ip_ratelimit_queues/13932/
+title: 0x8007366c ERROR_IPSEC_DOSP_MAX_PER_IP_RATELIMIT_QUEUES in winerror.h
+description: IPsec DoS Protection failed to create a per internal IP rate limit queue because the maximum number of queues allowed by policy has been reached.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007366c",
+  "codeUrl": "/win32/winerror-h/error_ipsec_dosp_max_per_ip_ratelimit_queues/0x8007366c/",
+  "numericCode": 0,
+  "define": "ERROR_IPSEC_DOSP_MAX_PER_IP_RATELIMIT_QUEUES",
+  "defineUrl": "/win32/winerror-h/error_ipsec_dosp_max_per_ip_ratelimit_queues/",
+  "message": "IPsec DoS Protection failed to create a per internal IP rate limit queue because the maximum number of queues allowed by policy has been reached.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "13932",
+  "originalCodeUrl": "/win32/winerror-h/error_ipsec_dosp_max_per_ip_ratelimit_queues/13932/"
+}

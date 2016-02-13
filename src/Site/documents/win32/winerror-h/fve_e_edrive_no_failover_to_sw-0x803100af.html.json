@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\fve_e_edrive_no_failover_to_sw\0x803100af\index.html.json
+
+title: 0x803100AF FVE_E_EDRIVE_NO_FAILOVER_TO_SW in winerror.h
+description: BitLocker did not revert to using BitLocker software encryption due to group policy configuration.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x803100AF",
+  "codeUrl": "/win32/winerror-h/fve_e_edrive_no_failover_to_sw/0x803100af/",
+  "numericCode": -2144272209,
+  "define": "FVE_E_EDRIVE_NO_FAILOVER_TO_SW",
+  "defineUrl": "/win32/winerror-h/fve_e_edrive_no_failover_to_sw/",
+  "message": "BitLocker did not revert to using BitLocker software encryption due to group policy configuration.",
+  "remarks": null,
+  "aka": [
+    "-2144272209"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/fve_e_edrive_no_failover_to_sw/-2144272209/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

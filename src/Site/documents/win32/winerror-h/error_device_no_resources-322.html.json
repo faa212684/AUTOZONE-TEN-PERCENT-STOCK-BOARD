@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_device_no_resources\322\index.html.json
+
+title: 322 ERROR_DEVICE_NO_RESOURCES in winerror.h
+description: The target device has insufficient resources to complete the operation.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "322",
+  "codeUrl": "/win32/winerror-h/error_device_no_resources/322/",
+  "numericCode": 322,
+  "define": "ERROR_DEVICE_NO_RESOURCES",
+  "defineUrl": "/win32/winerror-h/error_device_no_resources/",
+  "message": "The target device has insufficient resources to complete the operation.",
+  "remarks": null,
+  "aka": [
+    "0x80070142",
+    "-2147024574"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_device_no_resources/0x80070142/",
+    "/win32/winerror-h/error_device_no_resources/-2147024574/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_ipsec_wrong_sa\-2147010984\index.html.json
+canonical: /win32/winerror-h/error_ipsec_wrong_sa/13912/
+title: -2147010984 ERROR_IPSEC_WRONG_SA in winerror.h
+description: Packet was received on an IPsec SA that does not match the packet characteristics.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147010984",
+  "codeUrl": "/win32/winerror-h/error_ipsec_wrong_sa/-2147010984/",
+  "numericCode": 0,
+  "define": "ERROR_IPSEC_WRONG_SA",
+  "defineUrl": "/win32/winerror-h/error_ipsec_wrong_sa/",
+  "message": "Packet was received on an IPsec SA that does not match the packet characteristics.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "13912",
+  "originalCodeUrl": "/win32/winerror-h/error_ipsec_wrong_sa/13912/"
+}

@@ -1,0 +1,28 @@
+---
+output: win32\oledberr-h\db_e_invalidtransition\0x80040e2c\index.html.json
+
+title: 0x80040E2C DB_E_INVALIDTRANSITION in oledberr.h
+description: Transition from ALL* to MOVE* or EXTEND* was specified.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "oledberr.h",
+  "sourceUrl": "/win32/oledberr-h/",
+  "code": "0x80040E2C",
+  "codeUrl": "/win32/oledberr-h/db_e_invalidtransition/0x80040e2c/",
+  "numericCode": -2147217876,
+  "define": "DB_E_INVALIDTRANSITION",
+  "defineUrl": "/win32/oledberr-h/db_e_invalidtransition/",
+  "message": "Transition from ALL* to MOVE* or EXTEND* was specified.",
+  "remarks": null,
+  "aka": [
+    "-2147217876"
+  ],
+  "akaUrl": [
+    "/win32/oledberr-h/db_e_invalidtransition/-2147217876/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\certsrv_e_subject_directory_guid_required\0x8009480e\index.html.json
+
+title: 0x8009480E CERTSRV_E_SUBJECT_DIRECTORY_GUID_REQUIRED in winerror.h
+description: The Active Directory GUID is unavailable and cannot be added to the Subject Alternate name.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8009480E",
+  "codeUrl": "/win32/winerror-h/certsrv_e_subject_directory_guid_required/0x8009480e/",
+  "numericCode": -2146875378,
+  "define": "CERTSRV_E_SUBJECT_DIRECTORY_GUID_REQUIRED",
+  "defineUrl": "/win32/winerror-h/certsrv_e_subject_directory_guid_required/",
+  "message": "The Active Directory GUID is unavailable and cannot be added to the Subject Alternate name.",
+  "remarks": null,
+  "aka": [
+    "-2146875378"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/certsrv_e_subject_directory_guid_required/-2146875378/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

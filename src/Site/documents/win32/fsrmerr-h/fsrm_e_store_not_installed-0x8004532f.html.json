@@ -1,0 +1,28 @@
+---
+output: win32\fsrmerr-h\fsrm_e_store_not_installed\0x8004532f\index.html.json
+
+title: 0x8004532F FSRM_E_STORE_NOT_INSTALLED in fsrmerr.h
+description: File Server Resource Manager global configuration cannot be accessed since it is not installed yet.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "fsrmerr.h",
+  "sourceUrl": "/win32/fsrmerr-h/",
+  "code": "0x8004532F",
+  "codeUrl": "/win32/fsrmerr-h/fsrm_e_store_not_installed/0x8004532f/",
+  "numericCode": -2147200209,
+  "define": "FSRM_E_STORE_NOT_INSTALLED",
+  "defineUrl": "/win32/fsrmerr-h/fsrm_e_store_not_installed/",
+  "message": "File Server Resource Manager global configuration cannot be accessed since it is not installed yet.",
+  "remarks": null,
+  "aka": [
+    "-2147200209"
+  ],
+  "akaUrl": [
+    "/win32/fsrmerr-h/fsrm_e_store_not_installed/-2147200209/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

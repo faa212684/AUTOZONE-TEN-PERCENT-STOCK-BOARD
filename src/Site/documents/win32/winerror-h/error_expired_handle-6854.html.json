@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_expired_handle\6854\index.html.json
+
+title: 6854 ERROR_EXPIRED_HANDLE in winerror.h
+description: The handle is no longer properly associated with its transaction.  It may have been opened in a transactional resource manager that was subsequently forced to restart.  Please close the handle and open a new one.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "6854",
+  "codeUrl": "/win32/winerror-h/error_expired_handle/6854/",
+  "numericCode": 6854,
+  "define": "ERROR_EXPIRED_HANDLE",
+  "defineUrl": "/win32/winerror-h/error_expired_handle/",
+  "message": "The handle is no longer properly associated with its transaction.  It may have been opened in a transactional resource manager that was subsequently forced to restart.  Please close the handle and open a new one.",
+  "remarks": null,
+  "aka": [
+    "0x80071ac6",
+    "-2147018042"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_expired_handle/0x80071ac6/",
+    "/win32/winerror-h/error_expired_handle/-2147018042/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\stg_s_block\0x00030201\index.html.json
+
+title: 0x00030201 STG_S_BLOCK in winerror.h
+description: The storage operation should block until more data is available.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x00030201",
+  "codeUrl": "/win32/winerror-h/stg_s_block/0x00030201/",
+  "numericCode": 197121,
+  "define": "STG_S_BLOCK",
+  "defineUrl": "/win32/winerror-h/stg_s_block/",
+  "message": "The storage operation should block until more data is available.",
+  "remarks": null,
+  "aka": [
+    "197121"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/stg_s_block/197121/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

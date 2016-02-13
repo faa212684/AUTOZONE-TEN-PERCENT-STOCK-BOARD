@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\rpc_nt_protocol_error\0xc002001d\index.html.json
+
+title: 0xC002001D RPC_NT_PROTOCOL_ERROR in ntstatus.h
+description: An RPC protocol error occurred.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC002001D",
+  "codeUrl": "/win32/ntstatus-h/rpc_nt_protocol_error/0xc002001d/",
+  "numericCode": -1073610723,
+  "define": "RPC_NT_PROTOCOL_ERROR",
+  "defineUrl": "/win32/ntstatus-h/rpc_nt_protocol_error/",
+  "message": "An RPC protocol error occurred.",
+  "remarks": null,
+  "aka": [
+    "-1073610723"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/rpc_nt_protocol_error/-1073610723/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

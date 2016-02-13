@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_patch_package_invalid\-2147023260\index.html.json
+canonical: /win32/winerror-h/error_patch_package_invalid/1636/
+title: -2147023260 ERROR_PATCH_PACKAGE_INVALID in winerror.h
+description: This update package could not be opened. Contact the application vendor to verify that this is a valid Windows Installer update package.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147023260",
+  "codeUrl": "/win32/winerror-h/error_patch_package_invalid/-2147023260/",
+  "numericCode": 0,
+  "define": "ERROR_PATCH_PACKAGE_INVALID",
+  "defineUrl": "/win32/winerror-h/error_patch_package_invalid/",
+  "message": "This update package could not be opened. Contact the application vendor to verify that this is a valid Windows Installer update package.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "1636",
+  "originalCodeUrl": "/win32/winerror-h/error_patch_package_invalid/1636/"
+}

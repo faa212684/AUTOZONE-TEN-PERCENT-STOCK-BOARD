@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_transactional_open_not_allowed\0xc019003f\index.html.json
+
+title: 0xC019003F STATUS_TRANSACTIONAL_OPEN_NOT_ALLOWED in ntstatus.h
+description: This object is not allowed to be opened in a transaction.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC019003F",
+  "codeUrl": "/win32/ntstatus-h/status_transactional_open_not_allowed/0xc019003f/",
+  "numericCode": -1072103361,
+  "define": "STATUS_TRANSACTIONAL_OPEN_NOT_ALLOWED",
+  "defineUrl": "/win32/ntstatus-h/status_transactional_open_not_allowed/",
+  "message": "This object is not allowed to be opened in a transaction.",
+  "remarks": null,
+  "aka": [
+    "-1072103361"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_transactional_open_not_allowed/-1072103361/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

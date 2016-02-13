@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_cluster_poisoned\5907\index.html.json
+
+title: 5907 ERROR_CLUSTER_POISONED in winerror.h
+description: The cluster node has been poisoned.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "5907",
+  "codeUrl": "/win32/winerror-h/error_cluster_poisoned/5907/",
+  "numericCode": 5907,
+  "define": "ERROR_CLUSTER_POISONED",
+  "defineUrl": "/win32/winerror-h/error_cluster_poisoned/",
+  "message": "The cluster node has been poisoned.",
+  "remarks": null,
+  "aka": [
+    "0x80071713",
+    "-2147018989"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_cluster_poisoned/0x80071713/",
+    "/win32/winerror-h/error_cluster_poisoned/-2147018989/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

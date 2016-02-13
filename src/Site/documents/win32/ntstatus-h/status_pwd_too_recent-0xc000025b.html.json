@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_pwd_too_recent\0xc000025b\index.html.json
+
+title: 0xC000025B STATUS_PWD_TOO_RECENT in ntstatus.h
+description: The policy of your user account does not allow you to change passwords too frequently. This is done to prevent users from changing back to a familiar, but potentially discovered, password. If you feel your password has been compromised then please contact your administrator immediately to have a new one assigned.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000025B",
+  "codeUrl": "/win32/ntstatus-h/status_pwd_too_recent/0xc000025b/",
+  "numericCode": -1073741221,
+  "define": "STATUS_PWD_TOO_RECENT",
+  "defineUrl": "/win32/ntstatus-h/status_pwd_too_recent/",
+  "message": "The policy of your user account does not allow you to change passwords too frequently. This is done to prevent users from changing back to a familiar, but potentially discovered, password. If you feel your password has been compromised then please contact your administrator immediately to have a new one assigned.",
+  "remarks": null,
+  "aka": [
+    "-1073741221"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_pwd_too_recent/-1073741221/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

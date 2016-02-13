@@ -1,0 +1,30 @@
+---
+output: win32\vdserr-h\vds_e_max_usable_mbr\0x80042468\index.html.json
+
+title: 0x80042468 VDS_E_MAX_USABLE_MBR in vdserr.h
+description: Only the first 2TB are usable on large MBR disks. 
+Cannot create partitions beyond the 2TB mark, nor convert 
+the disk to dynamic.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x80042468",
+  "codeUrl": "/win32/vdserr-h/vds_e_max_usable_mbr/0x80042468/",
+  "numericCode": -2147212184,
+  "define": "VDS_E_MAX_USABLE_MBR",
+  "defineUrl": "/win32/vdserr-h/vds_e_max_usable_mbr/",
+  "message": "Only the first 2TB are usable on large MBR disks. \r\nCannot create partitions beyond the 2TB mark, nor convert \r\nthe disk to dynamic.",
+  "remarks": null,
+  "aka": [
+    "-2147212184"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_max_usable_mbr/-2147212184/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

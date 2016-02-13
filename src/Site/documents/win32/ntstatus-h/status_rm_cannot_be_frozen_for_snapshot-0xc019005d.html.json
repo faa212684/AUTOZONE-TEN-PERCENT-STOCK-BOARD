@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_rm_cannot_be_frozen_for_snapshot\0xc019005d\index.html.json
+
+title: 0xC019005D STATUS_RM_CANNOT_BE_FROZEN_FOR_SNAPSHOT in ntstatus.h
+description: This snapshot operation cannot continue because a transactional resource manager cannot be frozen in its current state.  Please try again.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC019005D",
+  "codeUrl": "/win32/ntstatus-h/status_rm_cannot_be_frozen_for_snapshot/0xc019005d/",
+  "numericCode": -1072103331,
+  "define": "STATUS_RM_CANNOT_BE_FROZEN_FOR_SNAPSHOT",
+  "defineUrl": "/win32/ntstatus-h/status_rm_cannot_be_frozen_for_snapshot/",
+  "message": "This snapshot operation cannot continue because a transactional resource manager cannot be frozen in its current state.  Please try again.",
+  "remarks": null,
+  "aka": [
+    "-1072103331"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_rm_cannot_be_frozen_for_snapshot/-1072103331/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

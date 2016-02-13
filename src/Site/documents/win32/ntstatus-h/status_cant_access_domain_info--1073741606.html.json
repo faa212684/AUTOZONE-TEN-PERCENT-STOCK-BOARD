@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_cant_access_domain_info\-1073741606\index.html.json
+canonical: /win32/ntstatus-h/status_cant_access_domain_info/0xc00000da/
+title: -1073741606 STATUS_CANT_ACCESS_DOMAIN_INFO in ntstatus.h
+description: Configuration information could not be read from the domain controller, either because the machine is unavailable, or access has been denied.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741606",
+  "codeUrl": "/win32/ntstatus-h/status_cant_access_domain_info/-1073741606/",
+  "numericCode": 0,
+  "define": "STATUS_CANT_ACCESS_DOMAIN_INFO",
+  "defineUrl": "/win32/ntstatus-h/status_cant_access_domain_info/",
+  "message": "Configuration information could not be read from the domain controller, either because the machine is unavailable, or access has been denied.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC00000DA",
+  "originalCodeUrl": "/win32/ntstatus-h/status_cant_access_domain_info/0xc00000da/"
+}

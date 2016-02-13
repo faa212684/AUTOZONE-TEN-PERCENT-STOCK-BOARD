@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\cert_e_critical\-2146762491\index.html.json
+canonical: /win32/winerror-h/cert_e_critical/0x800b0105/
+title: -2146762491 CERT_E_CRITICAL in winerror.h
+description: A certificate contains an unknown extension that is marked 'critical'.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2146762491",
+  "codeUrl": "/win32/winerror-h/cert_e_critical/-2146762491/",
+  "numericCode": 0,
+  "define": "CERT_E_CRITICAL",
+  "defineUrl": "/win32/winerror-h/cert_e_critical/",
+  "message": "A certificate contains an unknown extension that is marked 'critical'.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x800B0105",
+  "originalCodeUrl": "/win32/winerror-h/cert_e_critical/0x800b0105/"
+}

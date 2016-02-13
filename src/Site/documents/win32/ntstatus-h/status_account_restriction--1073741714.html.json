@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_account_restriction\-1073741714\index.html.json
+canonical: /win32/ntstatus-h/status_account_restriction/0xc000006e/
+title: -1073741714 STATUS_ACCOUNT_RESTRICTION in ntstatus.h
+description: Indicates a referenced user name and authentication information are valid, but some user account restriction has prevented successful authentication (such as time-of-day restrictions).
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741714",
+  "codeUrl": "/win32/ntstatus-h/status_account_restriction/-1073741714/",
+  "numericCode": 0,
+  "define": "STATUS_ACCOUNT_RESTRICTION",
+  "defineUrl": "/win32/ntstatus-h/status_account_restriction/",
+  "message": "Indicates a referenced user name and authentication information are valid, but some user account restriction has prevented successful authentication (such as time-of-day restrictions).",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC000006E",
+  "originalCodeUrl": "/win32/ntstatus-h/status_account_restriction/0xc000006e/"
+}

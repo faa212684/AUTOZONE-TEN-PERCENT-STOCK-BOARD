@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\fve_e_policy_recovery_key_not_allowed\0x8031005e\index.html.json
+
+title: 0x8031005E FVE_E_POLICY_RECOVERY_KEY_NOT_ALLOWED in winerror.h
+description: Group Policy settings do not permit the creation of a recovery key.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8031005E",
+  "codeUrl": "/win32/winerror-h/fve_e_policy_recovery_key_not_allowed/0x8031005e/",
+  "numericCode": -2144272290,
+  "define": "FVE_E_POLICY_RECOVERY_KEY_NOT_ALLOWED",
+  "defineUrl": "/win32/winerror-h/fve_e_policy_recovery_key_not_allowed/",
+  "message": "Group Policy settings do not permit the creation of a recovery key.",
+  "remarks": null,
+  "aka": [
+    "-2144272290"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/fve_e_policy_recovery_key_not_allowed/-2144272290/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

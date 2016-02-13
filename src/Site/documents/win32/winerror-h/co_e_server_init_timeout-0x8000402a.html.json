@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\co_e_server_init_timeout\0x8000402a\index.html.json
+
+title: 0x8000402A CO_E_SERVER_INIT_TIMEOUT in winerror.h
+description: The server started, but did not finish initializing in a timely fashion.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8000402A",
+  "codeUrl": "/win32/winerror-h/co_e_server_init_timeout/0x8000402a/",
+  "numericCode": -2147467222,
+  "define": "CO_E_SERVER_INIT_TIMEOUT",
+  "defineUrl": "/win32/winerror-h/co_e_server_init_timeout/",
+  "message": "The server started, but did not finish initializing in a timely fashion.",
+  "remarks": null,
+  "aka": [
+    "-2147467222"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/co_e_server_init_timeout/-2147467222/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

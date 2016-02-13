@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\http_e_status_uri_too_long\0x8019019e\index.html.json
+
+title: 0x8019019E HTTP_E_STATUS_URI_TOO_LONG in winerror.h
+description: Request-URI too long (414).
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8019019E",
+  "codeUrl": "/win32/winerror-h/http_e_status_uri_too_long/0x8019019e/",
+  "numericCode": -2145844834,
+  "define": "HTTP_E_STATUS_URI_TOO_LONG",
+  "defineUrl": "/win32/winerror-h/http_e_status_uri_too_long/",
+  "message": "Request-URI too long (414).",
+  "remarks": null,
+  "aka": [
+    "-2145844834"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/http_e_status_uri_too_long/-2145844834/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

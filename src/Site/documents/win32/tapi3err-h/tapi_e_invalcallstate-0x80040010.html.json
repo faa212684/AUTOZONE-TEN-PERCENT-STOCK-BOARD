@@ -1,0 +1,28 @@
+---
+output: win32\tapi3err-h\tapi_e_invalcallstate\0x80040010\index.html.json
+
+title: 0x80040010 TAPI_E_INVALCALLSTATE in Tapi3Err.h
+description: Operation not permitted in current call state.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "Tapi3Err.h",
+  "sourceUrl": "/win32/tapi3err-h/",
+  "code": "0x80040010",
+  "codeUrl": "/win32/tapi3err-h/tapi_e_invalcallstate/0x80040010/",
+  "numericCode": -2147221488,
+  "define": "TAPI_E_INVALCALLSTATE",
+  "defineUrl": "/win32/tapi3err-h/tapi_e_invalcallstate/",
+  "message": "Operation not permitted in current call state.",
+  "remarks": null,
+  "aka": [
+    "-2147221488"
+  ],
+  "akaUrl": [
+    "/win32/tapi3err-h/tapi_e_invalcallstate/-2147221488/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

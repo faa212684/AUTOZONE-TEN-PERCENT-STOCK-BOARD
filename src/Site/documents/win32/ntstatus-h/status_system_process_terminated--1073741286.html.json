@@ -1,0 +1,26 @@
+---
+output: win32\ntstatus-h\status_system_process_terminated\-1073741286\index.html.json
+canonical: /win32/ntstatus-h/status_system_process_terminated/0xc000021a/
+title: -1073741286 STATUS_SYSTEM_PROCESS_TERMINATED in ntstatus.h
+description: "{Fatal System Error}
+The %hs system process terminated unexpectedly with a status of 0x%08x (0x%08x 0x%08x).
+The system has been shut down."
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741286",
+  "codeUrl": "/win32/ntstatus-h/status_system_process_terminated/-1073741286/",
+  "numericCode": 0,
+  "define": "STATUS_SYSTEM_PROCESS_TERMINATED",
+  "defineUrl": "/win32/ntstatus-h/status_system_process_terminated/",
+  "message": "{Fatal System Error}\r\nThe %hs system process terminated unexpectedly with a status of 0x%08x (0x%08x 0x%08x).\r\nThe system has been shut down.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC000021A",
+  "originalCodeUrl": "/win32/ntstatus-h/status_system_process_terminated/0xc000021a/"
+}

@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\scard_e_insufficient_buffer\-2146435064\index.html.json
+canonical: /win32/winerror-h/scard_e_insufficient_buffer/0x80100008/
+title: -2146435064 SCARD_E_INSUFFICIENT_BUFFER in winerror.h
+description: The data buffer to receive returned data is too small for the returned data.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2146435064",
+  "codeUrl": "/win32/winerror-h/scard_e_insufficient_buffer/-2146435064/",
+  "numericCode": 0,
+  "define": "SCARD_E_INSUFFICIENT_BUFFER",
+  "defineUrl": "/win32/winerror-h/scard_e_insufficient_buffer/",
+  "message": "The data buffer to receive returned data is too small for the returned data.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80100008",
+  "originalCodeUrl": "/win32/winerror-h/scard_e_insufficient_buffer/0x80100008/"
+}

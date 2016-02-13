@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_e_initiator_specific_not_supported\0x80042707\index.html.json
+
+title: 0x80042707 VDS_E_INITIATOR_SPECIFIC_NOT_SUPPORTED in vdserr.h
+description: The target does not support setting initiator-specific shared secrets.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x80042707",
+  "codeUrl": "/win32/vdserr-h/vds_e_initiator_specific_not_supported/0x80042707/",
+  "numericCode": -2147211513,
+  "define": "VDS_E_INITIATOR_SPECIFIC_NOT_SUPPORTED",
+  "defineUrl": "/win32/vdserr-h/vds_e_initiator_specific_not_supported/",
+  "message": "The target does not support setting initiator-specific shared secrets.",
+  "remarks": null,
+  "aka": [
+    "-2147211513"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_initiator_specific_not_supported/-2147211513/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

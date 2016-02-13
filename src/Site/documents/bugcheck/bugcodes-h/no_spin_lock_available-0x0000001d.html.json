@@ -1,0 +1,28 @@
+---
+output: bugcheck\bugcodes-h\no_spin_lock_available\0x0000001d\index.html.json
+
+title: 0x0000001D NO_SPIN_LOCK_AVAILABLE in bugcodes.h
+description: NO_SPIN_LOCK_AVAILABLE
+disqus: true
+---
+{
+  "area": "bugcheck",
+  "areaUrl": "/bugcheck/",
+  "source": "bugcodes.h",
+  "sourceUrl": "/bugcheck/bugcodes-h/",
+  "code": "0x0000001D",
+  "codeUrl": "/bugcheck/bugcodes-h/no_spin_lock_available/0x0000001d/",
+  "numericCode": 29,
+  "define": "NO_SPIN_LOCK_AVAILABLE",
+  "defineUrl": "/bugcheck/bugcodes-h/no_spin_lock_available/",
+  "message": "NO_SPIN_LOCK_AVAILABLE",
+  "remarks": null,
+  "aka": [
+    "29"
+  ],
+  "akaUrl": [
+    "/bugcheck/bugcodes-h/no_spin_lock_available/29/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

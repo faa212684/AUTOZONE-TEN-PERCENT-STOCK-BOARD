@@ -1,0 +1,29 @@
+---
+output: win32\netevent-h\event_tcpip_adapter_reg_failure\0xc000105f\index.html.json
+
+title: 0xC000105F EVENT_TCPIP_ADAPTER_REG_FAILURE in netevent.h
+description: IP could not open the registry key for network adapter %2.
+Interfaces on this network adapter will not be initialized.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC000105F",
+  "codeUrl": "/win32/netevent-h/event_tcpip_adapter_reg_failure/0xc000105f/",
+  "numericCode": -1073737633,
+  "define": "EVENT_TCPIP_ADAPTER_REG_FAILURE",
+  "defineUrl": "/win32/netevent-h/event_tcpip_adapter_reg_failure/",
+  "message": "IP could not open the registry key for network adapter %2.\r\nInterfaces on this network adapter will not be initialized.",
+  "remarks": null,
+  "aka": [
+    "-1073737633"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_tcpip_adapter_reg_failure/-1073737633/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

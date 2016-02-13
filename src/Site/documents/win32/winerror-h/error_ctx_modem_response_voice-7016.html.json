@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ctx_modem_response_voice\7016\index.html.json
+
+title: 7016 ERROR_CTX_MODEM_RESPONSE_VOICE in winerror.h
+description: Voice detected at remote site on callback.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "7016",
+  "codeUrl": "/win32/winerror-h/error_ctx_modem_response_voice/7016/",
+  "numericCode": 7016,
+  "define": "ERROR_CTX_MODEM_RESPONSE_VOICE",
+  "defineUrl": "/win32/winerror-h/error_ctx_modem_response_voice/",
+  "message": "Voice detected at remote site on callback.",
+  "remarks": null,
+  "aka": [
+    "0x80071b68",
+    "-2147017880"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ctx_modem_response_voice/0x80071b68/",
+    "/win32/winerror-h/error_ctx_modem_response_voice/-2147017880/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

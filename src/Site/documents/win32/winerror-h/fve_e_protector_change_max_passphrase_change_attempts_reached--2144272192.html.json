@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\fve_e_protector_change_max_passphrase_change_attempts_reached\-2144272192\index.html.json
+canonical: /win32/winerror-h/fve_e_protector_change_max_passphrase_change_attempts_reached/0x803100c0/
+title: -2144272192 FVE_E_PROTECTOR_CHANGE_MAX_PASSPHRASE_CHANGE_ATTEMPTS_REACHED in winerror.h
+description: BitLocker has disabled password changes after too many failed requests. Click the link to reset the password as an administrator.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2144272192",
+  "codeUrl": "/win32/winerror-h/fve_e_protector_change_max_passphrase_change_attempts_reached/-2144272192/",
+  "numericCode": 0,
+  "define": "FVE_E_PROTECTOR_CHANGE_MAX_PASSPHRASE_CHANGE_ATTEMPTS_REACHED",
+  "defineUrl": "/win32/winerror-h/fve_e_protector_change_max_passphrase_change_attempts_reached/",
+  "message": "BitLocker has disabled password changes after too many failed requests. Click the link to reset the password as an administrator.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x803100C0",
+  "originalCodeUrl": "/win32/winerror-h/fve_e_protector_change_max_passphrase_change_attempts_reached/0x803100c0/"
+}

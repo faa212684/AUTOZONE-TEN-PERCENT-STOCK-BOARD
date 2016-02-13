@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\milerr_glyphbitmapmissed\-2003304311\index.html.json
+canonical: /win32/winerror-h/milerr_glyphbitmapmissed/0x88980089/
+title: -2003304311 MILERR_GLYPHBITMAPMISSED in winerror.h
+description: Some glyph bitmaps, required for glyph run rendering, are not contained in glyph cache.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2003304311",
+  "codeUrl": "/win32/winerror-h/milerr_glyphbitmapmissed/-2003304311/",
+  "numericCode": 0,
+  "define": "MILERR_GLYPHBITMAPMISSED",
+  "defineUrl": "/win32/winerror-h/milerr_glyphbitmapmissed/",
+  "message": "Some glyph bitmaps, required for glyph run rendering, are not contained in glyph cache.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x88980089",
+  "originalCodeUrl": "/win32/winerror-h/milerr_glyphbitmapmissed/0x88980089/"
+}

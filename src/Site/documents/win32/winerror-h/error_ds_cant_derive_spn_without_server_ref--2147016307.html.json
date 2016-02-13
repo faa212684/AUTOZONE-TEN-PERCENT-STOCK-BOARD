@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_ds_cant_derive_spn_without_server_ref\-2147016307\index.html.json
+canonical: /win32/winerror-h/error_ds_cant_derive_spn_without_server_ref/8589/
+title: -2147016307 ERROR_DS_CANT_DERIVE_SPN_WITHOUT_SERVER_REF in winerror.h
+description: The DS cannot derive a service principal name (SPN) with which to mutually authenticate the target server because the corresponding server object in the local DS database has no serverReference attribute.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147016307",
+  "codeUrl": "/win32/winerror-h/error_ds_cant_derive_spn_without_server_ref/-2147016307/",
+  "numericCode": 0,
+  "define": "ERROR_DS_CANT_DERIVE_SPN_WITHOUT_SERVER_REF",
+  "defineUrl": "/win32/winerror-h/error_ds_cant_derive_spn_without_server_ref/",
+  "message": "The DS cannot derive a service principal name (SPN) with which to mutually authenticate the target server because the corresponding server object in the local DS database has no serverReference attribute.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "8589",
+  "originalCodeUrl": "/win32/winerror-h/error_ds_cant_derive_spn_without_server_ref/8589/"
+}

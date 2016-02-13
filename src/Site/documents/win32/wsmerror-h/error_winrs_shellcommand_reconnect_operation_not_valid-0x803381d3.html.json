@@ -1,0 +1,28 @@
+---
+output: win32\wsmerror-h\error_winrs_shellcommand_reconnect_operation_not_valid\0x803381d3\index.html.json
+
+title: 0x803381D3 ERROR_WINRS_SHELLCOMMAND_RECONNECT_OPERATION_NOT_VALID in wsmerror.h
+description: The WinRM client cannot process the request. A reconnect operation cannot be performed on a WinRS shell command instance that is currently connected.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x803381D3",
+  "codeUrl": "/win32/wsmerror-h/error_winrs_shellcommand_reconnect_operation_not_valid/0x803381d3/",
+  "numericCode": -2144108077,
+  "define": "ERROR_WINRS_SHELLCOMMAND_RECONNECT_OPERATION_NOT_VALID",
+  "defineUrl": "/win32/wsmerror-h/error_winrs_shellcommand_reconnect_operation_not_valid/",
+  "message": "The WinRM client cannot process the request. A reconnect operation cannot be performed on a WinRS shell command instance that is currently connected.",
+  "remarks": null,
+  "aka": [
+    "-2144108077"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_winrs_shellcommand_reconnect_operation_not_valid/-2144108077/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

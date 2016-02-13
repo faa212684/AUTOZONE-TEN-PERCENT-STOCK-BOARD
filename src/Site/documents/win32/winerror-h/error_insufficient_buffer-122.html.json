@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_insufficient_buffer\122\index.html.json
+
+title: 122 ERROR_INSUFFICIENT_BUFFER in winerror.h
+description: The data area passed to a system call is too small.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "122",
+  "codeUrl": "/win32/winerror-h/error_insufficient_buffer/122/",
+  "numericCode": 122,
+  "define": "ERROR_INSUFFICIENT_BUFFER",
+  "defineUrl": "/win32/winerror-h/error_insufficient_buffer/",
+  "message": "The data area passed to a system call is too small.",
+  "remarks": null,
+  "aka": [
+    "0x8007007a",
+    "-2147024774"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_insufficient_buffer/0x8007007a/",
+    "/win32/winerror-h/error_insufficient_buffer/-2147024774/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ipsec_dosp_max_entries\13929\index.html.json
+
+title: 13929 ERROR_IPSEC_DOSP_MAX_ENTRIES in winerror.h
+description: IPsec DoS Protection failed to create state because the maximum number of entries allowed by policy has been reached.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "13929",
+  "codeUrl": "/win32/winerror-h/error_ipsec_dosp_max_entries/13929/",
+  "numericCode": 13929,
+  "define": "ERROR_IPSEC_DOSP_MAX_ENTRIES",
+  "defineUrl": "/win32/winerror-h/error_ipsec_dosp_max_entries/",
+  "message": "IPsec DoS Protection failed to create state because the maximum number of entries allowed by policy has been reached.",
+  "remarks": null,
+  "aka": [
+    "0x80073669",
+    "-2147010967"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ipsec_dosp_max_entries/0x80073669/",
+    "/win32/winerror-h/error_ipsec_dosp_max_entries/-2147010967/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

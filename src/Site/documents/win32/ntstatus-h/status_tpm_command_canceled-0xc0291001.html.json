@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_tpm_command_canceled\0xc0291001\index.html.json
+
+title: 0xC0291001 STATUS_TPM_COMMAND_CANCELED in ntstatus.h
+description: The command was cancelled.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0291001",
+  "codeUrl": "/win32/ntstatus-h/status_tpm_command_canceled/0xc0291001/",
+  "numericCode": -1071050751,
+  "define": "STATUS_TPM_COMMAND_CANCELED",
+  "defineUrl": "/win32/ntstatus-h/status_tpm_command_canceled/",
+  "message": "The command was cancelled.",
+  "remarks": null,
+  "aka": [
+    "-1071050751"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_tpm_command_canceled/-1071050751/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

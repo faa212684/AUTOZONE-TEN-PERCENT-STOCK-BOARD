@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_set_power_state_vetoed\-2147023756\index.html.json
+canonical: /win32/winerror-h/error_set_power_state_vetoed/1140/
+title: -2147023756 ERROR_SET_POWER_STATE_VETOED in winerror.h
+description: An attempt to change the system power state was vetoed by another application or driver.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147023756",
+  "codeUrl": "/win32/winerror-h/error_set_power_state_vetoed/-2147023756/",
+  "numericCode": 0,
+  "define": "ERROR_SET_POWER_STATE_VETOED",
+  "defineUrl": "/win32/winerror-h/error_set_power_state_vetoed/",
+  "message": "An attempt to change the system power state was vetoed by another application or driver.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "1140",
+  "originalCodeUrl": "/win32/winerror-h/error_set_power_state_vetoed/1140/"
+}

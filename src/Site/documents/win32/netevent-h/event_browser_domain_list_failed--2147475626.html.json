@@ -1,0 +1,29 @@
+---
+output: win32\netevent-h\event_browser_domain_list_failed\-2147475626\index.html.json
+canonical: /win32/netevent-h/event_browser_domain_list_failed/0x80001f56/
+title: -2147475626 EVENT_BROWSER_DOMAIN_LIST_FAILED in netevent.h
+description: The browser service was unable to retrieve a list of domains from the browser master %1 on the network %2.%n
+%n
+Browser master: %1%n
+Network: %2%n
+%n
+This event may be caused by a temporary loss of network connectivity. If this message appears again, verify that the server is still connected to the network. The return code is in the Data text box.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "-2147475626",
+  "codeUrl": "/win32/netevent-h/event_browser_domain_list_failed/-2147475626/",
+  "numericCode": 0,
+  "define": "EVENT_BROWSER_DOMAIN_LIST_FAILED",
+  "defineUrl": "/win32/netevent-h/event_browser_domain_list_failed/",
+  "message": "The browser service was unable to retrieve a list of domains from the browser master %1 on the network %2.%n\r\n%n\r\nBrowser master: %1%n\r\nNetwork: %2%n\r\n%n\r\nThis event may be caused by a temporary loss of network connectivity. If this message appears again, verify that the server is still connected to the network. The return code is in the Data text box.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80001F56",
+  "originalCodeUrl": "/win32/netevent-h/event_browser_domain_list_failed/0x80001f56/"
+}

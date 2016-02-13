@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ds_dra_not_supported\8454\index.html.json
+
+title: 8454 ERROR_DS_DRA_NOT_SUPPORTED in winerror.h
+description: The requested operation is not supported by this version of the directory service.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "8454",
+  "codeUrl": "/win32/winerror-h/error_ds_dra_not_supported/8454/",
+  "numericCode": 8454,
+  "define": "ERROR_DS_DRA_NOT_SUPPORTED",
+  "defineUrl": "/win32/winerror-h/error_ds_dra_not_supported/",
+  "message": "The requested operation is not supported by this version of the directory service.",
+  "remarks": null,
+  "aka": [
+    "0x80072106",
+    "-2147016442"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ds_dra_not_supported/0x80072106/",
+    "/win32/winerror-h/error_ds_dra_not_supported/-2147016442/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

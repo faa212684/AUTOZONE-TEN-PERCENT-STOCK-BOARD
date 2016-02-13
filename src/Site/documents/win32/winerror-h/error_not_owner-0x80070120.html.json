@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_not_owner\0x80070120\index.html.json
+canonical: /win32/winerror-h/error_not_owner/288/
+title: 0x80070120 ERROR_NOT_OWNER in winerror.h
+description: Attempt to release mutex not owned by caller.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80070120",
+  "codeUrl": "/win32/winerror-h/error_not_owner/0x80070120/",
+  "numericCode": 0,
+  "define": "ERROR_NOT_OWNER",
+  "defineUrl": "/win32/winerror-h/error_not_owner/",
+  "message": "Attempt to release mutex not owned by caller.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "288",
+  "originalCodeUrl": "/win32/winerror-h/error_not_owner/288/"
+}

@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\scard_e_comm_data_lost\-2146435025\index.html.json
+canonical: /win32/winerror-h/scard_e_comm_data_lost/0x8010002f/
+title: -2146435025 SCARD_E_COMM_DATA_LOST in winerror.h
+description: A communications error with the smart card has been detected. Retry the operation.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2146435025",
+  "codeUrl": "/win32/winerror-h/scard_e_comm_data_lost/-2146435025/",
+  "numericCode": 0,
+  "define": "SCARD_E_COMM_DATA_LOST",
+  "defineUrl": "/win32/winerror-h/scard_e_comm_data_lost/",
+  "message": "A communications error with the smart card has been detected. Retry the operation.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x8010002F",
+  "originalCodeUrl": "/win32/winerror-h/scard_e_comm_data_lost/0x8010002f/"
+}

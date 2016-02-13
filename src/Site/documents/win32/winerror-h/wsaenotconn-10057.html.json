@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\wsaenotconn\10057\index.html.json
+
+title: 10057 WSAENOTCONN in winerror.h
+description: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "10057",
+  "codeUrl": "/win32/winerror-h/wsaenotconn/10057/",
+  "numericCode": 10057,
+  "define": "WSAENOTCONN",
+  "defineUrl": "/win32/winerror-h/wsaenotconn/",
+  "message": "A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied.",
+  "remarks": null,
+  "aka": [
+    "0x80072749",
+    "-2147014839"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/wsaenotconn/0x80072749/",
+    "/win32/winerror-h/wsaenotconn/-2147014839/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

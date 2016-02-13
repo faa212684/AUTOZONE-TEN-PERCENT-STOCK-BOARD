@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_fve_old_metadata_copy\0xc0210020\index.html.json
+
+title: 0xC0210020 STATUS_FVE_OLD_METADATA_COPY in ntstatus.h
+description: The backup copy of the metadata is out of date.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0210020",
+  "codeUrl": "/win32/ntstatus-h/status_fve_old_metadata_copy/0xc0210020/",
+  "numericCode": -1071579104,
+  "define": "STATUS_FVE_OLD_METADATA_COPY",
+  "defineUrl": "/win32/ntstatus-h/status_fve_old_metadata_copy/",
+  "message": "The backup copy of the metadata is out of date.",
+  "remarks": null,
+  "aka": [
+    "-1071579104"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_fve_old_metadata_copy/-1071579104/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

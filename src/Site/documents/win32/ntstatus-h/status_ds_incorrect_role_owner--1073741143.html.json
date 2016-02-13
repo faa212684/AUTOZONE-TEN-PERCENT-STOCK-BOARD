@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_ds_incorrect_role_owner\-1073741143\index.html.json
+canonical: /win32/ntstatus-h/status_ds_incorrect_role_owner/0xc00002a9/
+title: -1073741143 STATUS_DS_INCORRECT_ROLE_OWNER in ntstatus.h
+description: The requested operation could not be performed because the directory service is not the master for that type of operation.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741143",
+  "codeUrl": "/win32/ntstatus-h/status_ds_incorrect_role_owner/-1073741143/",
+  "numericCode": 0,
+  "define": "STATUS_DS_INCORRECT_ROLE_OWNER",
+  "defineUrl": "/win32/ntstatus-h/status_ds_incorrect_role_owner/",
+  "message": "The requested operation could not be performed because the directory service is not the master for that type of operation.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC00002A9",
+  "originalCodeUrl": "/win32/ntstatus-h/status_ds_incorrect_role_owner/0xc00002a9/"
+}

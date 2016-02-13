@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_bridge_ethernet_not_offered\0xc000390e\index.html.json
+
+title: 0xC000390E EVENT_BRIDGE_ETHERNET_NOT_OFFERED in netevent.h
+description: Bridge: The bridge could not initialize its miniport because Ethernet was not offered as a supported medium.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC000390E",
+  "codeUrl": "/win32/netevent-h/event_bridge_ethernet_not_offered/0xc000390e/",
+  "numericCode": -1073727218,
+  "define": "EVENT_BRIDGE_ETHERNET_NOT_OFFERED",
+  "defineUrl": "/win32/netevent-h/event_bridge_ethernet_not_offered/",
+  "message": "Bridge: The bridge could not initialize its miniport because Ethernet was not offered as a supported medium.",
+  "remarks": null,
+  "aka": [
+    "-1073727218"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_bridge_ethernet_not_offered/-1073727218/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

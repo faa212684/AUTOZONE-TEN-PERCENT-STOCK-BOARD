@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_e_iscsi_logout_failed\0x80042709\index.html.json
+
+title: 0x80042709 VDS_E_ISCSI_LOGOUT_FAILED in vdserr.h
+description: The attempt to log out from the specified iSCSI session failed.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x80042709",
+  "codeUrl": "/win32/vdserr-h/vds_e_iscsi_logout_failed/0x80042709/",
+  "numericCode": -2147211511,
+  "define": "VDS_E_ISCSI_LOGOUT_FAILED",
+  "defineUrl": "/win32/vdserr-h/vds_e_iscsi_logout_failed/",
+  "message": "The attempt to log out from the specified iSCSI session failed.",
+  "remarks": null,
+  "aka": [
+    "-2147211511"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_iscsi_logout_failed/-2147211511/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

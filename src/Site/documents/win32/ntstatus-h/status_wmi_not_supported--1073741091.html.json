@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_wmi_not_supported\-1073741091\index.html.json
+canonical: /win32/ntstatus-h/status_wmi_not_supported/0xc00002dd/
+title: -1073741091 STATUS_WMI_NOT_SUPPORTED in ntstatus.h
+description: The WMI operation is not supported by the data block or method.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741091",
+  "codeUrl": "/win32/ntstatus-h/status_wmi_not_supported/-1073741091/",
+  "numericCode": 0,
+  "define": "STATUS_WMI_NOT_SUPPORTED",
+  "defineUrl": "/win32/ntstatus-h/status_wmi_not_supported/",
+  "message": "The WMI operation is not supported by the data block or method.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC00002DD",
+  "originalCodeUrl": "/win32/ntstatus-h/status_wmi_not_supported/0xc00002dd/"
+}

@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_file_locked_with_writers\0x0000012b\index.html.json
+
+title: 0x0000012B STATUS_FILE_LOCKED_WITH_WRITERS in ntstatus.h
+description: The file was locked and at least one user of the file can write.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0x0000012B",
+  "codeUrl": "/win32/ntstatus-h/status_file_locked_with_writers/0x0000012b/",
+  "numericCode": 299,
+  "define": "STATUS_FILE_LOCKED_WITH_WRITERS",
+  "defineUrl": "/win32/ntstatus-h/status_file_locked_with_writers/",
+  "message": "The file was locked and at least one user of the file can write.",
+  "remarks": null,
+  "aka": [
+    "299"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_file_locked_with_writers/299/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

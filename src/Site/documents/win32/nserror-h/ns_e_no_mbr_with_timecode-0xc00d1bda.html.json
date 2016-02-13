@@ -1,0 +1,28 @@
+---
+output: win32\nserror-h\ns_e_no_mbr_with_timecode\0xc00d1bda\index.html.json
+
+title: 0xC00D1BDA NS_E_NO_MBR_WITH_TIMECODE in nserror.h
+description: It is not possible to generate a time code when you are encoding content at multiple bit rates.%0
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "nserror.h",
+  "sourceUrl": "/win32/nserror-h/",
+  "code": "0xC00D1BDA",
+  "codeUrl": "/win32/nserror-h/ns_e_no_mbr_with_timecode/0xc00d1bda/",
+  "numericCode": -1072882726,
+  "define": "NS_E_NO_MBR_WITH_TIMECODE",
+  "defineUrl": "/win32/nserror-h/ns_e_no_mbr_with_timecode/",
+  "message": "It is not possible to generate a time code when you are encoding content at multiple bit rates.%0",
+  "remarks": null,
+  "aka": [
+    "-1072882726"
+  ],
+  "akaUrl": [
+    "/win32/nserror-h/ns_e_no_mbr_with_timecode/-1072882726/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

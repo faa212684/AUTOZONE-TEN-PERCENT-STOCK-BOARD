@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\spapi_e_devinfo_not_registered\0x800f0208\index.html.json
+
+title: 0x800F0208 SPAPI_E_DEVINFO_NOT_REGISTERED in winerror.h
+description: The operation cannot be performed on a device information element that has not been registered.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800F0208",
+  "codeUrl": "/win32/winerror-h/spapi_e_devinfo_not_registered/0x800f0208/",
+  "numericCode": -2146500088,
+  "define": "SPAPI_E_DEVINFO_NOT_REGISTERED",
+  "defineUrl": "/win32/winerror-h/spapi_e_devinfo_not_registered/",
+  "message": "The operation cannot be performed on a device information element that has not been registered.",
+  "remarks": null,
+  "aka": [
+    "-2146500088"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/spapi_e_devinfo_not_registered/-2146500088/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

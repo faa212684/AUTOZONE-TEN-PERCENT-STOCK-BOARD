@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_device_configuration_error\0xc0000182\index.html.json
+
+title: 0xC0000182 STATUS_DEVICE_CONFIGURATION_ERROR in ntstatus.h
+description: The I/O device is configured incorrectly or the configuration parameters to the driver are incorrect.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000182",
+  "codeUrl": "/win32/ntstatus-h/status_device_configuration_error/0xc0000182/",
+  "numericCode": -1073741438,
+  "define": "STATUS_DEVICE_CONFIGURATION_ERROR",
+  "defineUrl": "/win32/ntstatus-h/status_device_configuration_error/",
+  "message": "The I/O device is configured incorrectly or the configuration parameters to the driver are incorrect.",
+  "remarks": null,
+  "aka": [
+    "-1073741438"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_device_configuration_error/-1073741438/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

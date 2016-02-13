@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_fwp_incompatible_auth_method\0xc0220030\index.html.json
+
+title: 0xC0220030 STATUS_FWP_INCOMPATIBLE_AUTH_METHOD in ntstatus.h
+description: The authentication method is not compatible with the policy type.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0220030",
+  "codeUrl": "/win32/ntstatus-h/status_fwp_incompatible_auth_method/0xc0220030/",
+  "numericCode": -1071513552,
+  "define": "STATUS_FWP_INCOMPATIBLE_AUTH_METHOD",
+  "defineUrl": "/win32/ntstatus-h/status_fwp_incompatible_auth_method/",
+  "message": "The authentication method is not compatible with the policy type.",
+  "remarks": null,
+  "aka": [
+    "-1071513552"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_fwp_incompatible_auth_method/-1071513552/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

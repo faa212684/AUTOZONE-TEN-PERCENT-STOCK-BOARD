@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ds_cr_impossible_to_validate_v2\8586\index.html.json
+
+title: 8586 ERROR_DS_CR_IMPOSSIBLE_TO_VALIDATE_V2 in winerror.h
+description: The directory cannot validate the proposed naming context (or partition) name because it does not hold a replica nor can it contact a replica of the naming context above the proposed naming context. Please ensure that the parent naming context is properly registered in DNS, and at least one replica of this naming context is reachable by the Domain Naming master.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "8586",
+  "codeUrl": "/win32/winerror-h/error_ds_cr_impossible_to_validate_v2/8586/",
+  "numericCode": 8586,
+  "define": "ERROR_DS_CR_IMPOSSIBLE_TO_VALIDATE_V2",
+  "defineUrl": "/win32/winerror-h/error_ds_cr_impossible_to_validate_v2/",
+  "message": "The directory cannot validate the proposed naming context (or partition) name because it does not hold a replica nor can it contact a replica of the naming context above the proposed naming context. Please ensure that the parent naming context is properly registered in DNS, and at least one replica of this naming context is reachable by the Domain Naming master.",
+  "remarks": null,
+  "aka": [
+    "0x8007218a",
+    "-2147016310"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ds_cr_impossible_to_validate_v2/0x8007218a/",
+    "/win32/winerror-h/error_ds_cr_impossible_to_validate_v2/-2147016310/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

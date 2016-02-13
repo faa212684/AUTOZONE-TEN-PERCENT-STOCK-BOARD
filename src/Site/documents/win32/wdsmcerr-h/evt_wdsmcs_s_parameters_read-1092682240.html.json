@@ -1,0 +1,26 @@
+---
+output: win32\wdsmcerr-h\evt_wdsmcs_s_parameters_read\1092682240\index.html.json
+canonical: /win32/wdsmcerr-h/evt_wdsmcs_s_parameters_read/0x41210200/
+title: 1092682240 EVT_WDSMCS_S_PARAMETERS_READ in wdsmcerr.h
+description: The Windows Deployment Services multicast server successfully read its configuration
+settings. The Windows Deployment Services multicast server will now process incoming 
+client requests.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wdsmcerr.h",
+  "sourceUrl": "/win32/wdsmcerr-h/",
+  "code": "1092682240",
+  "codeUrl": "/win32/wdsmcerr-h/evt_wdsmcs_s_parameters_read/1092682240/",
+  "numericCode": 0,
+  "define": "EVT_WDSMCS_S_PARAMETERS_READ",
+  "defineUrl": "/win32/wdsmcerr-h/evt_wdsmcs_s_parameters_read/",
+  "message": "The Windows Deployment Services multicast server successfully read its configuration\r\nsettings. The Windows Deployment Services multicast server will now process incoming \r\nclient requests.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x41210200",
+  "originalCodeUrl": "/win32/wdsmcerr-h/evt_wdsmcs_s_parameters_read/0x41210200/"
+}

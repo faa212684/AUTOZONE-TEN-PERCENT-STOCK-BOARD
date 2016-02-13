@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_graphics_opm_all_hdcp_hardware_already_in_use\-1071774440\index.html.json
+canonical: /win32/ntstatus-h/status_graphics_opm_all_hdcp_hardware_already_in_use/0xc01e0518/
+title: -1071774440 STATUS_GRAPHICS_OPM_ALL_HDCP_HARDWARE_ALREADY_IN_USE in ntstatus.h
+description: The DxgkDdiOPMConfigureProtectedOutput function cannot enable HDCP because the display adapter's HDCP hardware is already being used by other physical outputs.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071774440",
+  "codeUrl": "/win32/ntstatus-h/status_graphics_opm_all_hdcp_hardware_already_in_use/-1071774440/",
+  "numericCode": 0,
+  "define": "STATUS_GRAPHICS_OPM_ALL_HDCP_HARDWARE_ALREADY_IN_USE",
+  "defineUrl": "/win32/ntstatus-h/status_graphics_opm_all_hdcp_hardware_already_in_use/",
+  "message": "The DxgkDdiOPMConfigureProtectedOutput function cannot enable HDCP because the display adapter's HDCP hardware is already being used by other physical outputs.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC01E0518",
+  "originalCodeUrl": "/win32/ntstatus-h/status_graphics_opm_all_hdcp_hardware_already_in_use/0xc01e0518/"
+}

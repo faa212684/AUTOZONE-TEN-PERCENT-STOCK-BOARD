@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_purge_failed\-1073740747\index.html.json
+canonical: /win32/ntstatus-h/status_purge_failed/0xc0000435/
+title: -1073740747 STATUS_PURGE_FAILED in ntstatus.h
+description: The attempt to purge this file from memory failed to purge some or all the data from memory.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073740747",
+  "codeUrl": "/win32/ntstatus-h/status_purge_failed/-1073740747/",
+  "numericCode": 0,
+  "define": "STATUS_PURGE_FAILED",
+  "defineUrl": "/win32/ntstatus-h/status_purge_failed/",
+  "message": "The attempt to purge this file from memory failed to purge some or all the data from memory.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000435",
+  "originalCodeUrl": "/win32/ntstatus-h/status_purge_failed/0xc0000435/"
+}

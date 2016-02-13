@@ -1,0 +1,28 @@
+---
+output: win32\windowssearcherrors-h\jet_multiinstance_disabled\0x8000232b\index.html.json
+
+title: 0x8000232B JET_MULTIINSTANCE_DISABLED in WindowsSearchErrors.h
+description: The Windows Search Service cannot initialize multi-instancing in Jet. If the application is used in a cluster environment, all applications using Jet will fail in the same group.%1
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "0x8000232B",
+  "codeUrl": "/win32/windowssearcherrors-h/jet_multiinstance_disabled/0x8000232b/",
+  "numericCode": -2147474645,
+  "define": "JET_MULTIINSTANCE_DISABLED",
+  "defineUrl": "/win32/windowssearcherrors-h/jet_multiinstance_disabled/",
+  "message": "The Windows Search Service cannot initialize multi-instancing in Jet. If the application is used in a cluster environment, all applications using Jet will fail in the same group.%1",
+  "remarks": null,
+  "aka": [
+    "-2147474645"
+  ],
+  "akaUrl": [
+    "/win32/windowssearcherrors-h/jet_multiinstance_disabled/-2147474645/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

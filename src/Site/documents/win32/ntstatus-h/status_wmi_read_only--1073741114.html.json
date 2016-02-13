@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_wmi_read_only\-1073741114\index.html.json
+canonical: /win32/ntstatus-h/status_wmi_read_only/0xc00002c6/
+title: -1073741114 STATUS_WMI_READ_ONLY in ntstatus.h
+description: The WMI data item or data block is read only.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741114",
+  "codeUrl": "/win32/ntstatus-h/status_wmi_read_only/-1073741114/",
+  "numericCode": 0,
+  "define": "STATUS_WMI_READ_ONLY",
+  "defineUrl": "/win32/ntstatus-h/status_wmi_read_only/",
+  "message": "The WMI data item or data block is read only.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC00002C6",
+  "originalCodeUrl": "/win32/ntstatus-h/status_wmi_read_only/0xc00002c6/"
+}

@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\dfs_info_ds_reconnected\0x400038c1\index.html.json
+
+title: 0x400038C1 DFS_INFO_DS_RECONNECTED in netevent.h
+description: DFS has connected to the %1 Active Directory.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x400038C1",
+  "codeUrl": "/win32/netevent-h/dfs_info_ds_reconnected/0x400038c1/",
+  "numericCode": 1073756353,
+  "define": "DFS_INFO_DS_RECONNECTED",
+  "defineUrl": "/win32/netevent-h/dfs_info_ds_reconnected/",
+  "message": "DFS has connected to the %1 Active Directory.",
+  "remarks": null,
+  "aka": [
+    "1073756353"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/dfs_info_ds_reconnected/1073756353/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

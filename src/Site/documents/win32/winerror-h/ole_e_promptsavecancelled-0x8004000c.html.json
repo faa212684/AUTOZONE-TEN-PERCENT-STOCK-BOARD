@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\ole_e_promptsavecancelled\0x8004000c\index.html.json
+
+title: 0x8004000C OLE_E_PROMPTSAVECANCELLED in winerror.h
+description: User canceled out of save dialog
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8004000C",
+  "codeUrl": "/win32/winerror-h/ole_e_promptsavecancelled/0x8004000c/",
+  "numericCode": -2147221492,
+  "define": "OLE_E_PROMPTSAVECANCELLED",
+  "defineUrl": "/win32/winerror-h/ole_e_promptsavecancelled/",
+  "message": "User canceled out of save dialog",
+  "remarks": null,
+  "aka": [
+    "-2147221492"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/ole_e_promptsavecancelled/-2147221492/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

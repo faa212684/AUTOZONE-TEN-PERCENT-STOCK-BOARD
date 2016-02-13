@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_fve_conv_write_error\0xc021000e\index.html.json
+
+title: 0xC021000E STATUS_FVE_CONV_WRITE_ERROR in ntstatus.h
+description: A write operation failed while converting the volume.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC021000E",
+  "codeUrl": "/win32/ntstatus-h/status_fve_conv_write_error/0xc021000e/",
+  "numericCode": -1071579122,
+  "define": "STATUS_FVE_CONV_WRITE_ERROR",
+  "defineUrl": "/win32/ntstatus-h/status_fve_conv_write_error/",
+  "message": "A write operation failed while converting the volume.",
+  "remarks": null,
+  "aka": [
+    "-1071579122"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_fve_conv_write_error/-1071579122/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

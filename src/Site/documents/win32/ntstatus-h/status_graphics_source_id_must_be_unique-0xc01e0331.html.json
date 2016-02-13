@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_graphics_source_id_must_be_unique\0xc01e0331\index.html.json
+
+title: 0xC01E0331 STATUS_GRAPHICS_SOURCE_ID_MUST_BE_UNIQUE in ntstatus.h
+description: ID of the specified video present source is already used by another source in the set.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC01E0331",
+  "codeUrl": "/win32/ntstatus-h/status_graphics_source_id_must_be_unique/0xc01e0331/",
+  "numericCode": -1071774927,
+  "define": "STATUS_GRAPHICS_SOURCE_ID_MUST_BE_UNIQUE",
+  "defineUrl": "/win32/ntstatus-h/status_graphics_source_id_must_be_unique/",
+  "message": "ID of the specified video present source is already used by another source in the set.",
+  "remarks": null,
+  "aka": [
+    "-1071774927"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_graphics_source_id_must_be_unique/-1071774927/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

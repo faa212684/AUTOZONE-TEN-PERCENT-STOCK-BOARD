@@ -1,0 +1,26 @@
+---
+output: win32\winerror-h\error_segment_notification\0x800702be\index.html.json
+canonical: /win32/winerror-h/error_segment_notification/702/
+title: 0x800702be ERROR_SEGMENT_NOTIFICATION in winerror.h
+description: "{Segment Load}
+A virtual DOS machine (VDM) is loading, unloading, or moving an MS-DOS or Win16 program segment image.
+An exception is raised so a debugger can load, unload or track symbols and breakpoints within these 16-bit segments."
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800702be",
+  "codeUrl": "/win32/winerror-h/error_segment_notification/0x800702be/",
+  "numericCode": 0,
+  "define": "ERROR_SEGMENT_NOTIFICATION",
+  "defineUrl": "/win32/winerror-h/error_segment_notification/",
+  "message": "{Segment Load}\r\nA virtual DOS machine (VDM) is loading, unloading, or moving an MS-DOS or Win16 program segment image.\r\nAn exception is raised so a debugger can load, unload or track symbols and breakpoints within these 16-bit segments.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "702",
+  "originalCodeUrl": "/win32/winerror-h/error_segment_notification/702/"
+}

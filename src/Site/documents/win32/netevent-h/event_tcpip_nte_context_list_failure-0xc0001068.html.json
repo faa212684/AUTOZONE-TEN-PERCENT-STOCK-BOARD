@@ -1,0 +1,29 @@
+---
+output: win32\netevent-h\event_tcpip_nte_context_list_failure\0xc0001068\index.html.json
+
+title: 0xC0001068 EVENT_TCPIP_NTE_CONTEXT_LIST_FAILURE in netevent.h
+description: Unable to read or write the NTE Context list for network adapter %2.
+IP interfaces on this network adapter may not be initialized completely.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC0001068",
+  "codeUrl": "/win32/netevent-h/event_tcpip_nte_context_list_failure/0xc0001068/",
+  "numericCode": -1073737624,
+  "define": "EVENT_TCPIP_NTE_CONTEXT_LIST_FAILURE",
+  "defineUrl": "/win32/netevent-h/event_tcpip_nte_context_list_failure/",
+  "message": "Unable to read or write the NTE Context list for network adapter %2.\r\nIP interfaces on this network adapter may not be initialized completely.",
+  "remarks": null,
+  "aka": [
+    "-1073737624"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_tcpip_nte_context_list_failure/-1073737624/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

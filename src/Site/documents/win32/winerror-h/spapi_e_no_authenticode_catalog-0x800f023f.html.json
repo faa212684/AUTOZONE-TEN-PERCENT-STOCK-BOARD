@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\spapi_e_no_authenticode_catalog\0x800f023f\index.html.json
+
+title: 0x800F023F SPAPI_E_NO_AUTHENTICODE_CATALOG in winerror.h
+description: A file could not be verified because it does not have an associated catalog signed via Authenticode(tm).
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800F023F",
+  "codeUrl": "/win32/winerror-h/spapi_e_no_authenticode_catalog/0x800f023f/",
+  "numericCode": -2146500033,
+  "define": "SPAPI_E_NO_AUTHENTICODE_CATALOG",
+  "defineUrl": "/win32/winerror-h/spapi_e_no_authenticode_catalog/",
+  "message": "A file could not be verified because it does not have an associated catalog signed via Authenticode(tm).",
+  "remarks": null,
+  "aka": [
+    "-2146500033"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/spapi_e_no_authenticode_catalog/-2146500033/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,24 @@
+---
+output: win32\netevent-h\event_rdr_at_thread_max\-2147480622\index.html.json
+canonical: /win32/netevent-h/event_rdr_at_thread_max/0x80000bd2/
+title: -2147480622 EVENT_RDR_AT_THREAD_MAX in netevent.h
+description: The redirector was unable to create a worker thread because it has already created the maximum number of configured work threads.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "-2147480622",
+  "codeUrl": "/win32/netevent-h/event_rdr_at_thread_max/-2147480622/",
+  "numericCode": 0,
+  "define": "EVENT_RDR_AT_THREAD_MAX",
+  "defineUrl": "/win32/netevent-h/event_rdr_at_thread_max/",
+  "message": "The redirector was unable to create a worker thread because it has already created the maximum number of configured work threads.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80000BD2",
+  "originalCodeUrl": "/win32/netevent-h/event_rdr_at_thread_max/0x80000bd2/"
+}

@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\dns_error_signing_key_not_accessible\0x80072393\index.html.json
+canonical: /win32/winerror-h/dns_error_signing_key_not_accessible/9107/
+title: 0x80072393 DNS_ERROR_SIGNING_KEY_NOT_ACCESSIBLE in winerror.h
+description: One or more of the signing keys for a zone are not accessible to the DNS server. Zone signing will not be operational until this error is resolved.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80072393",
+  "codeUrl": "/win32/winerror-h/dns_error_signing_key_not_accessible/0x80072393/",
+  "numericCode": 0,
+  "define": "DNS_ERROR_SIGNING_KEY_NOT_ACCESSIBLE",
+  "defineUrl": "/win32/winerror-h/dns_error_signing_key_not_accessible/",
+  "message": "One or more of the signing keys for a zone are not accessible to the DNS server. Zone signing will not be operational until this error is resolved.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "9107",
+  "originalCodeUrl": "/win32/winerror-h/dns_error_signing_key_not_accessible/9107/"
+}

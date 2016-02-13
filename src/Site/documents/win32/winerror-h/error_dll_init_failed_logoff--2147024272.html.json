@@ -1,0 +1,25 @@
+---
+output: win32\winerror-h\error_dll_init_failed_logoff\-2147024272\index.html.json
+canonical: /win32/winerror-h/error_dll_init_failed_logoff/624/
+title: -2147024272 ERROR_DLL_INIT_FAILED_LOGOFF in winerror.h
+description: "{DLL Initialization Failed}
+The application failed to initialize because the window station is shutting down."
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147024272",
+  "codeUrl": "/win32/winerror-h/error_dll_init_failed_logoff/-2147024272/",
+  "numericCode": 0,
+  "define": "ERROR_DLL_INIT_FAILED_LOGOFF",
+  "defineUrl": "/win32/winerror-h/error_dll_init_failed_logoff/",
+  "message": "{DLL Initialization Failed}\r\nThe application failed to initialize because the window station is shutting down.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "624",
+  "originalCodeUrl": "/win32/winerror-h/error_dll_init_failed_logoff/624/"
+}

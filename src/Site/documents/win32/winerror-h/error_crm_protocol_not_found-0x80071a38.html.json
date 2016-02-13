@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_crm_protocol_not_found\0x80071a38\index.html.json
+canonical: /win32/winerror-h/error_crm_protocol_not_found/6712/
+title: 0x80071a38 ERROR_CRM_PROTOCOL_NOT_FOUND in winerror.h
+description: The requested propagation protocol was not registered as a CRM.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80071a38",
+  "codeUrl": "/win32/winerror-h/error_crm_protocol_not_found/0x80071a38/",
+  "numericCode": 0,
+  "define": "ERROR_CRM_PROTOCOL_NOT_FOUND",
+  "defineUrl": "/win32/winerror-h/error_crm_protocol_not_found/",
+  "message": "The requested propagation protocol was not registered as a CRM.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "6712",
+  "originalCodeUrl": "/win32/winerror-h/error_crm_protocol_not_found/6712/"
+}

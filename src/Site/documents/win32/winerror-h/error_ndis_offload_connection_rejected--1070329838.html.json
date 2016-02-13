@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_ndis_offload_connection_rejected\-1070329838\index.html.json
+canonical: /win32/winerror-h/error_ndis_offload_connection_rejected/0xc0341012/
+title: -1070329838 ERROR_NDIS_OFFLOAD_CONNECTION_REJECTED in winerror.h
+description: The TCP connection is not offloadable by the Chimney Offload target.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-1070329838",
+  "codeUrl": "/win32/winerror-h/error_ndis_offload_connection_rejected/-1070329838/",
+  "numericCode": 0,
+  "define": "ERROR_NDIS_OFFLOAD_CONNECTION_REJECTED",
+  "defineUrl": "/win32/winerror-h/error_ndis_offload_connection_rejected/",
+  "message": "The TCP connection is not offloadable by the Chimney Offload target.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0341012",
+  "originalCodeUrl": "/win32/winerror-h/error_ndis_offload_connection_rejected/0xc0341012/"
+}

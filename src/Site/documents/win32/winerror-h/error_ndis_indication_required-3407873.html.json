@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_ndis_indication_required\3407873\index.html.json
+canonical: /win32/winerror-h/error_ndis_indication_required/0x00340001/
+title: 3407873 ERROR_NDIS_INDICATION_REQUIRED in winerror.h
+description: The request will be completed later by NDIS status indication.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "3407873",
+  "codeUrl": "/win32/winerror-h/error_ndis_indication_required/3407873/",
+  "numericCode": 0,
+  "define": "ERROR_NDIS_INDICATION_REQUIRED",
+  "defineUrl": "/win32/winerror-h/error_ndis_indication_required/",
+  "message": "The request will be completed later by NDIS status indication.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x00340001",
+  "originalCodeUrl": "/win32/winerror-h/error_ndis_indication_required/0x00340001/"
+}

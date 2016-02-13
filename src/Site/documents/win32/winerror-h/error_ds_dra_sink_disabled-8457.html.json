@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ds_dra_sink_disabled\8457\index.html.json
+
+title: 8457 ERROR_DS_DRA_SINK_DISABLED in winerror.h
+description: The destination server is currently rejecting replication requests.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "8457",
+  "codeUrl": "/win32/winerror-h/error_ds_dra_sink_disabled/8457/",
+  "numericCode": 8457,
+  "define": "ERROR_DS_DRA_SINK_DISABLED",
+  "defineUrl": "/win32/winerror-h/error_ds_dra_sink_disabled/",
+  "message": "The destination server is currently rejecting replication requests.",
+  "remarks": null,
+  "aka": [
+    "0x80072109",
+    "-2147016439"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ds_dra_sink_disabled/0x80072109/",
+    "/win32/winerror-h/error_ds_dra_sink_disabled/-2147016439/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

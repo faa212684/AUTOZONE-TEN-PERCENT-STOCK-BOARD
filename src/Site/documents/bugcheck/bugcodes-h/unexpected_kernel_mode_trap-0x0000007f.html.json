@@ -1,0 +1,28 @@
+---
+output: bugcheck\bugcodes-h\unexpected_kernel_mode_trap\0x0000007f\index.html.json
+
+title: 0x0000007F UNEXPECTED_KERNEL_MODE_TRAP in bugcodes.h
+description: UNEXPECTED_KERNEL_MODE_TRAP
+disqus: true
+---
+{
+  "area": "bugcheck",
+  "areaUrl": "/bugcheck/",
+  "source": "bugcodes.h",
+  "sourceUrl": "/bugcheck/bugcodes-h/",
+  "code": "0x0000007F",
+  "codeUrl": "/bugcheck/bugcodes-h/unexpected_kernel_mode_trap/0x0000007f/",
+  "numericCode": 127,
+  "define": "UNEXPECTED_KERNEL_MODE_TRAP",
+  "defineUrl": "/bugcheck/bugcodes-h/unexpected_kernel_mode_trap/",
+  "message": "UNEXPECTED_KERNEL_MODE_TRAP",
+  "remarks": null,
+  "aka": [
+    "127"
+  ],
+  "akaUrl": [
+    "/bugcheck/bugcodes-h/unexpected_kernel_mode_trap/127/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

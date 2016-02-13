@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_not_enough_server_memory\1130\index.html.json
+
+title: 1130 ERROR_NOT_ENOUGH_SERVER_MEMORY in winerror.h
+description: Not enough server storage is available to process this command.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1130",
+  "codeUrl": "/win32/winerror-h/error_not_enough_server_memory/1130/",
+  "numericCode": 1130,
+  "define": "ERROR_NOT_ENOUGH_SERVER_MEMORY",
+  "defineUrl": "/win32/winerror-h/error_not_enough_server_memory/",
+  "message": "Not enough server storage is available to process this command.",
+  "remarks": null,
+  "aka": [
+    "0x8007046a",
+    "-2147023766"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_not_enough_server_memory/0x8007046a/",
+    "/win32/winerror-h/error_not_enough_server_memory/-2147023766/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

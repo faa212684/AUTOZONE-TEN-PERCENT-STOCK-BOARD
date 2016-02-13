@@ -1,0 +1,28 @@
+---
+output: win32\wsmerror-h\error_wsman_enumerate_shellcommands_eprs_notsupported\0x803381c1\index.html.json
+
+title: 0x803381C1 ERROR_WSMAN_ENUMERATE_SHELLCOMMANDS_EPRS_NOTSUPPORTED in wsmerror.h
+description: The WinRM service cannot process the request. The enumeration of end point resources for shell commands is not supported.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x803381C1",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_enumerate_shellcommands_eprs_notsupported/0x803381c1/",
+  "numericCode": -2144108095,
+  "define": "ERROR_WSMAN_ENUMERATE_SHELLCOMMANDS_EPRS_NOTSUPPORTED",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_enumerate_shellcommands_eprs_notsupported/",
+  "message": "The WinRM service cannot process the request. The enumeration of end point resources for shell commands is not supported.",
+  "remarks": null,
+  "aka": [
+    "-2144108095"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_enumerate_shellcommands_eprs_notsupported/-2144108095/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

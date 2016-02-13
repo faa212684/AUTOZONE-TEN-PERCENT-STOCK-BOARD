@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_user_exists\0xc0000063\index.html.json
+
+title: 0xC0000063 STATUS_USER_EXISTS in ntstatus.h
+description: The specified account already exists.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000063",
+  "codeUrl": "/win32/ntstatus-h/status_user_exists/0xc0000063/",
+  "numericCode": -1073741725,
+  "define": "STATUS_USER_EXISTS",
+  "defineUrl": "/win32/ntstatus-h/status_user_exists/",
+  "message": "The specified account already exists.",
+  "remarks": null,
+  "aka": [
+    "-1073741725"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_user_exists/-1073741725/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ds_invalid_script\8600\index.html.json
+
+title: 8600 ERROR_DS_INVALID_SCRIPT in winerror.h
+description: The Directory Service cannot process the script because it is invalid.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "8600",
+  "codeUrl": "/win32/winerror-h/error_ds_invalid_script/8600/",
+  "numericCode": 8600,
+  "define": "ERROR_DS_INVALID_SCRIPT",
+  "defineUrl": "/win32/winerror-h/error_ds_invalid_script/",
+  "message": "The Directory Service cannot process the script because it is invalid.",
+  "remarks": null,
+  "aka": [
+    "0x80072198",
+    "-2147016296"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ds_invalid_script/0x80072198/",
+    "/win32/winerror-h/error_ds_invalid_script/-2147016296/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

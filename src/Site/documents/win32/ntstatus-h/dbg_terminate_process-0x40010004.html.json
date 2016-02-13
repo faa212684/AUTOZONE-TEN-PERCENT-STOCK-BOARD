@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\dbg_terminate_process\0x40010004\index.html.json
+
+title: 0x40010004 DBG_TERMINATE_PROCESS in ntstatus.h
+description: Debugger terminated process.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0x40010004",
+  "codeUrl": "/win32/ntstatus-h/dbg_terminate_process/0x40010004/",
+  "numericCode": 1073807364,
+  "define": "DBG_TERMINATE_PROCESS",
+  "defineUrl": "/win32/ntstatus-h/dbg_terminate_process/",
+  "message": "Debugger terminated process.",
+  "remarks": null,
+  "aka": [
+    "1073807364"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/dbg_terminate_process/1073807364/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

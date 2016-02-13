@@ -1,0 +1,29 @@
+---
+output: win32\wsmerror-h\error_wsman_client_setsessionoption_null_param\0x80338177\index.html.json
+
+title: 0x80338177 ERROR_WSMAN_CLIENT_SETSESSIONOPTION_NULL_PARAM in wsmerror.h
+description: The WinRM client cannot process the request. One of the parameters required for the WSManSetSessionOption function is null or zero.
+Change the request to include the missing parameter and try again.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x80338177",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_client_setsessionoption_null_param/0x80338177/",
+  "numericCode": -2144108169,
+  "define": "ERROR_WSMAN_CLIENT_SETSESSIONOPTION_NULL_PARAM",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_client_setsessionoption_null_param/",
+  "message": "The WinRM client cannot process the request. One of the parameters required for the WSManSetSessionOption function is null or zero.\r\nChange the request to include the missing parameter and try again.",
+  "remarks": null,
+  "aka": [
+    "-2144108169"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_client_setsessionoption_null_param/-2144108169/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\wuerror-h\wu_e_redirector_unknown_service\0x80245004\index.html.json
+
+title: 0x80245004 WU_E_REDIRECTOR_UNKNOWN_SERVICE in wuerror.h
+description: The service ID is not supported in the service environment.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wuerror.h",
+  "sourceUrl": "/win32/wuerror-h/",
+  "code": "0x80245004",
+  "codeUrl": "/win32/wuerror-h/wu_e_redirector_unknown_service/0x80245004/",
+  "numericCode": -2145103868,
+  "define": "WU_E_REDIRECTOR_UNKNOWN_SERVICE",
+  "defineUrl": "/win32/wuerror-h/wu_e_redirector_unknown_service/",
+  "message": "The service ID is not supported in the service environment.",
+  "remarks": null,
+  "aka": [
+    "-2145103868"
+  ],
+  "akaUrl": [
+    "/win32/wuerror-h/wu_e_redirector_unknown_service/-2145103868/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

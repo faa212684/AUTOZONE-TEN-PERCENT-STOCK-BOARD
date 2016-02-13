@@ -1,0 +1,25 @@
+---
+output: win32\ntstatus-h\status_operation_in_progress\-1073740682\index.html.json
+canonical: /win32/ntstatus-h/status_operation_in_progress/0xc0000476/
+title: -1073740682 STATUS_OPERATION_IN_PROGRESS in ntstatus.h
+description: "{Operation In Progress}
+An operation is currently in progress with the device."
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073740682",
+  "codeUrl": "/win32/ntstatus-h/status_operation_in_progress/-1073740682/",
+  "numericCode": 0,
+  "define": "STATUS_OPERATION_IN_PROGRESS",
+  "defineUrl": "/win32/ntstatus-h/status_operation_in_progress/",
+  "message": "{Operation In Progress}\r\nAn operation is currently in progress with the device.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000476",
+  "originalCodeUrl": "/win32/ntstatus-h/status_operation_in_progress/0xc0000476/"
+}

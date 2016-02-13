@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ipsec_ike_invalid_cert_keylen\13881\index.html.json
+
+title: 13881 ERROR_IPSEC_IKE_INVALID_CERT_KEYLEN in winerror.h
+description: Key length in certificate is too small for configured security requirements.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "13881",
+  "codeUrl": "/win32/winerror-h/error_ipsec_ike_invalid_cert_keylen/13881/",
+  "numericCode": 13881,
+  "define": "ERROR_IPSEC_IKE_INVALID_CERT_KEYLEN",
+  "defineUrl": "/win32/winerror-h/error_ipsec_ike_invalid_cert_keylen/",
+  "message": "Key length in certificate is too small for configured security requirements.",
+  "remarks": null,
+  "aka": [
+    "0x80073639",
+    "-2147011015"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ipsec_ike_invalid_cert_keylen/0x80073639/",
+    "/win32/winerror-h/error_ipsec_ike_invalid_cert_keylen/-2147011015/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

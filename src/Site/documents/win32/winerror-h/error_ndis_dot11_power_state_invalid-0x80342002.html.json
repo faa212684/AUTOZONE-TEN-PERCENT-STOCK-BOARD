@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\error_ndis_dot11_power_state_invalid\0x80342002\index.html.json
+
+title: 0x80342002 ERROR_NDIS_DOT11_POWER_STATE_INVALID in winerror.h
+description: The wireless local area network interface is powered down and doesn't support the requested operation.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80342002",
+  "codeUrl": "/win32/winerror-h/error_ndis_dot11_power_state_invalid/0x80342002/",
+  "numericCode": -2144067582,
+  "define": "ERROR_NDIS_DOT11_POWER_STATE_INVALID",
+  "defineUrl": "/win32/winerror-h/error_ndis_dot11_power_state_invalid/",
+  "message": "The wireless local area network interface is powered down and doesn't support the requested operation.",
+  "remarks": null,
+  "aka": [
+    "-2144067582"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ndis_dot11_power_state_invalid/-2144067582/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

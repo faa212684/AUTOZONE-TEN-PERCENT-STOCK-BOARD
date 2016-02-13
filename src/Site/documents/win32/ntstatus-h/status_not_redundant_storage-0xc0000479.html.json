@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_not_redundant_storage\0xc0000479\index.html.json
+
+title: 0xC0000479 STATUS_NOT_REDUNDANT_STORAGE in ntstatus.h
+description: The storage device does not provide redundancy.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000479",
+  "codeUrl": "/win32/ntstatus-h/status_not_redundant_storage/0xc0000479/",
+  "numericCode": -1073740679,
+  "define": "STATUS_NOT_REDUNDANT_STORAGE",
+  "defineUrl": "/win32/ntstatus-h/status_not_redundant_storage/",
+  "message": "The storage device does not provide redundancy.",
+  "remarks": null,
+  "aka": [
+    "-1073740679"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_not_redundant_storage/-1073740679/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

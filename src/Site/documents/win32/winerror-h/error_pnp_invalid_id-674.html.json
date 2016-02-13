@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_pnp_invalid_id\674\index.html.json
+
+title: 674 ERROR_PNP_INVALID_ID in winerror.h
+description: Driver %2 returned invalid ID for a child device (%3).
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "674",
+  "codeUrl": "/win32/winerror-h/error_pnp_invalid_id/674/",
+  "numericCode": 674,
+  "define": "ERROR_PNP_INVALID_ID",
+  "defineUrl": "/win32/winerror-h/error_pnp_invalid_id/",
+  "message": "Driver %2 returned invalid ID for a child device (%3).",
+  "remarks": null,
+  "aka": [
+    "0x800702a2",
+    "-2147024222"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_pnp_invalid_id/0x800702a2/",
+    "/win32/winerror-h/error_pnp_invalid_id/-2147024222/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

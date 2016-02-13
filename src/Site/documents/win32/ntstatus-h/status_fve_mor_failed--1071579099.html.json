@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_fve_mor_failed\-1071579099\index.html.json
+canonical: /win32/ntstatus-h/status_fve_mor_failed/0xc0210025/
+title: -1071579099 STATUS_FVE_MOR_FAILED in ntstatus.h
+description: The system firmware failed to enable clearing of system memory on reboot.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071579099",
+  "codeUrl": "/win32/ntstatus-h/status_fve_mor_failed/-1071579099/",
+  "numericCode": 0,
+  "define": "STATUS_FVE_MOR_FAILED",
+  "defineUrl": "/win32/ntstatus-h/status_fve_mor_failed/",
+  "message": "The system firmware failed to enable clearing of system memory on reboot.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0210025",
+  "originalCodeUrl": "/win32/ntstatus-h/status_fve_mor_failed/0xc0210025/"
+}

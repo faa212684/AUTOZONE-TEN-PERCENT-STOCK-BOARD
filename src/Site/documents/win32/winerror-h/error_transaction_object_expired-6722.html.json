@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_transaction_object_expired\6722\index.html.json
+
+title: 6722 ERROR_TRANSACTION_OBJECT_EXPIRED in winerror.h
+description: Because the associated transaction manager or resource manager has been closed, the handle is no longer valid.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "6722",
+  "codeUrl": "/win32/winerror-h/error_transaction_object_expired/6722/",
+  "numericCode": 6722,
+  "define": "ERROR_TRANSACTION_OBJECT_EXPIRED",
+  "defineUrl": "/win32/winerror-h/error_transaction_object_expired/",
+  "message": "Because the associated transaction manager or resource manager has been closed, the handle is no longer valid.",
+  "remarks": null,
+  "aka": [
+    "0x80071a42",
+    "-2147018174"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_transaction_object_expired/0x80071a42/",
+    "/win32/winerror-h/error_transaction_object_expired/-2147018174/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

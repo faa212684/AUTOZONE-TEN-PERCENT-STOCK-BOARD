@@ -1,0 +1,24 @@
+---
+output: win32\windowssearcherrors-h\scriptpi_e_cannot_alter_chunk\-2147213308\index.html.json
+canonical: /win32/windowssearcherrors-h/scriptpi_e_cannot_alter_chunk/0x80042004/
+title: -2147213308 SCRIPTPI_E_CANNOT_ALTER_CHUNK in WindowsSearchErrors.h
+description: The chunk does not allow changes. To set properties on a chunk, create it using IGatherScriptFilterSink::CreateChunk
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "-2147213308",
+  "codeUrl": "/win32/windowssearcherrors-h/scriptpi_e_cannot_alter_chunk/-2147213308/",
+  "numericCode": 0,
+  "define": "SCRIPTPI_E_CANNOT_ALTER_CHUNK",
+  "defineUrl": "/win32/windowssearcherrors-h/scriptpi_e_cannot_alter_chunk/",
+  "message": "The chunk does not allow changes. To set properties on a chunk, create it using IGatherScriptFilterSink::CreateChunk",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80042004",
+  "originalCodeUrl": "/win32/windowssearcherrors-h/scriptpi_e_cannot_alter_chunk/0x80042004/"
+}

@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\fve_e_secureboot_configuration_invalid\-2144272197\index.html.json
+canonical: /win32/winerror-h/fve_e_secureboot_configuration_invalid/0x803100bb/
+title: -2144272197 FVE_E_SECUREBOOT_CONFIGURATION_INVALID in winerror.h
+description: BitLocker cannot use Secure Boot for platform integrity because the Secure Boot configuration does not meet the requirements for BitLocker.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2144272197",
+  "codeUrl": "/win32/winerror-h/fve_e_secureboot_configuration_invalid/-2144272197/",
+  "numericCode": 0,
+  "define": "FVE_E_SECUREBOOT_CONFIGURATION_INVALID",
+  "defineUrl": "/win32/winerror-h/fve_e_secureboot_configuration_invalid/",
+  "message": "BitLocker cannot use Secure Boot for platform integrity because the Secure Boot configuration does not meet the requirements for BitLocker.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x803100BB",
+  "originalCodeUrl": "/win32/winerror-h/fve_e_secureboot_configuration_invalid/0x803100bb/"
+}

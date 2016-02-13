@@ -1,0 +1,31 @@
+---
+output: win32\netevent-h\ntfrsprf_virtualalloc_error_conn\0xc00034e0\index.html.json
+
+title: 0xC00034E0 NTFRSPRF_VIRTUALALLOC_ERROR_CONN in netevent.h
+description: The call to VirtualAlloc failed in the Open function of the FileReplicaConn
+Object. The counter data for this object will not be available. The
+FileReplicaConn object contains the performance counters of the connections over
+which files are being replicated by the File Replication Service.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC00034E0",
+  "codeUrl": "/win32/netevent-h/ntfrsprf_virtualalloc_error_conn/0xc00034e0/",
+  "numericCode": -1073728288,
+  "define": "NTFRSPRF_VIRTUALALLOC_ERROR_CONN",
+  "defineUrl": "/win32/netevent-h/ntfrsprf_virtualalloc_error_conn/",
+  "message": "The call to VirtualAlloc failed in the Open function of the FileReplicaConn\r\nObject. The counter data for this object will not be available. The\r\nFileReplicaConn object contains the performance counters of the connections over\r\nwhich files are being replicated by the File Replication Service.",
+  "remarks": null,
+  "aka": [
+    "-1073728288"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/ntfrsprf_virtualalloc_error_conn/-1073728288/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

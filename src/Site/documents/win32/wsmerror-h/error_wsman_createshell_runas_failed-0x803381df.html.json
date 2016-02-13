@@ -1,0 +1,29 @@
+---
+output: win32\wsmerror-h\error_wsman_createshell_runas_failed\0x803381df\index.html.json
+
+title: 0x803381DF ERROR_WSMAN_CREATESHELL_RUNAS_FAILED in wsmerror.h
+description: The creation of a new Shell failed. Verify that the RunAsPassword value is correctly configured and that the Group Policy setting "Disallow WinRM from storing RunAs credentials" is Disabled or Not Configured.
+To enable WinRM to store RunAs credentials, change this Group Policy setting to Disabled.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x803381DF",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_createshell_runas_failed/0x803381df/",
+  "numericCode": -2144108065,
+  "define": "ERROR_WSMAN_CREATESHELL_RUNAS_FAILED",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_createshell_runas_failed/",
+  "message": "The creation of a new Shell failed. Verify that the RunAsPassword value is correctly configured and that the Group Policy setting \"Disallow WinRM from storing RunAs credentials\" is Disabled or Not Configured.\r\nTo enable WinRM to store RunAs credentials, change this Group Policy setting to Disabled.",
+  "remarks": null,
+  "aka": [
+    "-2144108065"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_createshell_runas_failed/-2144108065/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,24 @@
+---
+output: win32\windowssearcherrors-h\ds_e_setstatusinprogress\-2147220463\index.html.json
+canonical: /win32/windowssearcherrors-h/ds_e_setstatusinprogress/0x80040411/
+title: -2147220463 DS_E_SETSTATUSINPROGRESS in WindowsSearchErrors.h
+description: The SetStatus operation cannot be completed, because another SetStatus operation is already in progress. Try again after the current operation is completed.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "-2147220463",
+  "codeUrl": "/win32/windowssearcherrors-h/ds_e_setstatusinprogress/-2147220463/",
+  "numericCode": 0,
+  "define": "DS_E_SETSTATUSINPROGRESS",
+  "defineUrl": "/win32/windowssearcherrors-h/ds_e_setstatusinprogress/",
+  "message": "The SetStatus operation cannot be completed, because another SetStatus operation is already in progress. Try again after the current operation is completed.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80040411",
+  "originalCodeUrl": "/win32/windowssearcherrors-h/ds_e_setstatusinprogress/0x80040411/"
+}

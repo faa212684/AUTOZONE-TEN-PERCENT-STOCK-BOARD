@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_reinitialization_needed\0xc0000287\index.html.json
+
+title: 0xC0000287 STATUS_REINITIALIZATION_NEEDED in ntstatus.h
+description: The device requires reinitialization due to hardware errors.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000287",
+  "codeUrl": "/win32/ntstatus-h/status_reinitialization_needed/0xc0000287/",
+  "numericCode": -1073741177,
+  "define": "STATUS_REINITIALIZATION_NEEDED",
+  "defineUrl": "/win32/ntstatus-h/status_reinitialization_needed/",
+  "message": "The device requires reinitialization due to hardware errors.",
+  "remarks": null,
+  "aka": [
+    "-1073741177"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_reinitialization_needed/-1073741177/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

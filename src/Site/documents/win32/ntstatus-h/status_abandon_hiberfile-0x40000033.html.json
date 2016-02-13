@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_abandon_hiberfile\0x40000033\index.html.json
+
+title: 0x40000033 STATUS_ABANDON_HIBERFILE in ntstatus.h
+description: A valid hibernation file has been invalidated and should be abandoned.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0x40000033",
+  "codeUrl": "/win32/ntstatus-h/status_abandon_hiberfile/0x40000033/",
+  "numericCode": 1073741875,
+  "define": "STATUS_ABANDON_HIBERFILE",
+  "defineUrl": "/win32/ntstatus-h/status_abandon_hiberfile/",
+  "message": "A valid hibernation file has been invalidated and should be abandoned.",
+  "remarks": null,
+  "aka": [
+    "1073741875"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_abandon_hiberfile/1073741875/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

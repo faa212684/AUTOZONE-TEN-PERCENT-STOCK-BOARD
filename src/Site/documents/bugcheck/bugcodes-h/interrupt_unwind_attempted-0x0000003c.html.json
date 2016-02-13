@@ -1,0 +1,28 @@
+---
+output: bugcheck\bugcodes-h\interrupt_unwind_attempted\0x0000003c\index.html.json
+
+title: 0x0000003C INTERRUPT_UNWIND_ATTEMPTED in bugcodes.h
+description: INTERRUPT_UNWIND_ATTEMPTED
+disqus: true
+---
+{
+  "area": "bugcheck",
+  "areaUrl": "/bugcheck/",
+  "source": "bugcodes.h",
+  "sourceUrl": "/bugcheck/bugcodes-h/",
+  "code": "0x0000003C",
+  "codeUrl": "/bugcheck/bugcodes-h/interrupt_unwind_attempted/0x0000003c/",
+  "numericCode": 60,
+  "define": "INTERRUPT_UNWIND_ATTEMPTED",
+  "defineUrl": "/bugcheck/bugcodes-h/interrupt_unwind_attempted/",
+  "message": "INTERRUPT_UNWIND_ATTEMPTED",
+  "remarks": null,
+  "aka": [
+    "60"
+  ],
+  "akaUrl": [
+    "/bugcheck/bugcodes-h/interrupt_unwind_attempted/60/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

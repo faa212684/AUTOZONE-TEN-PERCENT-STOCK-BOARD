@@ -1,0 +1,28 @@
+---
+output: bugcheck\bugcodes-h\hal_illegal_iommu_page_fault\0x00000159\index.html.json
+
+title: 0x00000159 HAL_ILLEGAL_IOMMU_PAGE_FAULT in bugcodes.h
+description: HAL_ILLEGAL_IOMMU_PAGE_FAULT
+disqus: true
+---
+{
+  "area": "bugcheck",
+  "areaUrl": "/bugcheck/",
+  "source": "bugcodes.h",
+  "sourceUrl": "/bugcheck/bugcodes-h/",
+  "code": "0x00000159",
+  "codeUrl": "/bugcheck/bugcodes-h/hal_illegal_iommu_page_fault/0x00000159/",
+  "numericCode": 345,
+  "define": "HAL_ILLEGAL_IOMMU_PAGE_FAULT",
+  "defineUrl": "/bugcheck/bugcodes-h/hal_illegal_iommu_page_fault/",
+  "message": "HAL_ILLEGAL_IOMMU_PAGE_FAULT",
+  "remarks": null,
+  "aka": [
+    "345"
+  ],
+  "akaUrl": [
+    "/bugcheck/bugcodes-h/hal_illegal_iommu_page_fault/345/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

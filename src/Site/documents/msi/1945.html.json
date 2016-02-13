@@ -1,0 +1,24 @@
+---
+output: msi\1945\index.html.json
+
+title: msi 1945
+description: You do not have sufficient privileges to complete the re-advertisement of this product. Re-advertisement requires initiation by a local system account calling the MsiAdvertiseScript API
+disqus: true
+---
+{
+  "area": "msi",
+  "areaUrl": "/msi/",
+  "source": null,
+  "sourceUrl": "/msi/",
+  "code": "1945",
+  "codeUrl": "/msi/1945/",
+  "numericCode": 1945,
+  "define": null,
+  "defineUrl": "/msi/",
+  "message": "You do not have sufficient privileges to complete the re-advertisement of this product. Re-advertisement requires initiation by a local system account calling the MsiAdvertiseScript API",
+  "remarks": "The process calling <a href=\"https://msdn.microsoft.com/en-us/library/aa370058(v=vs.85).aspx\"><strong xmlns=\"http://www.w3.org/1999/xhtml\">MsiAdvertiseScript</strong></a> must be running under the LocalSystem account.\r\n\r\nAvailable beginning with Windows Installer 5.0 for Windows 7 and Windows Server 2008 R2.",
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": null,
+  "originalCodeUrl": null
+}

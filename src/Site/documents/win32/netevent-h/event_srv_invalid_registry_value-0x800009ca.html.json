@@ -1,0 +1,31 @@
+---
+output: win32\netevent-h\event_srv_invalid_registry_value\0x800009ca\index.html.json
+
+title: 0x800009CA EVENT_SRV_INVALID_REGISTRY_VALUE in netevent.h
+description: The value named %1 in the server's registry key %2 was not valid, and was ignored.
+If you want to change the value, change it to one that is the correct type and is
+within the acceptable range, or delete the value to use the default. This value
+might have been set up by an older program that did not use the correct boundaries.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x800009CA",
+  "codeUrl": "/win32/netevent-h/event_srv_invalid_registry_value/0x800009ca/",
+  "numericCode": -2147481142,
+  "define": "EVENT_SRV_INVALID_REGISTRY_VALUE",
+  "defineUrl": "/win32/netevent-h/event_srv_invalid_registry_value/",
+  "message": "The value named %1 in the server's registry key %2 was not valid, and was ignored.\r\nIf you want to change the value, change it to one that is the correct type and is\r\nwithin the acceptable range, or delete the value to use the default. This value\r\nmight have been set up by an older program that did not use the correct boundaries.",
+  "remarks": null,
+  "aka": [
+    "-2147481142"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_srv_invalid_registry_value/-2147481142/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

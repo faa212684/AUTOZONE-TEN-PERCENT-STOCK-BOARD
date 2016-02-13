@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\tpm_e_invalid_postinit\0x80280026\index.html.json
+
+title: 0x80280026 TPM_E_INVALID_POSTINIT in winerror.h
+description: The command was received in the wrong sequence relative to TPM_Init and a subsequent TPM_Startup.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80280026",
+  "codeUrl": "/win32/winerror-h/tpm_e_invalid_postinit/0x80280026/",
+  "numericCode": -2144862170,
+  "define": "TPM_E_INVALID_POSTINIT",
+  "defineUrl": "/win32/winerror-h/tpm_e_invalid_postinit/",
+  "message": "The command was received in the wrong sequence relative to TPM_Init and a subsequent TPM_Startup.",
+  "remarks": null,
+  "aka": [
+    "-2144862170"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/tpm_e_invalid_postinit/-2144862170/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

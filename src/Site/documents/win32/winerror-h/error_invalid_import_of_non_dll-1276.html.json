@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_invalid_import_of_non_dll\1276\index.html.json
+
+title: 1276 ERROR_INVALID_IMPORT_OF_NON_DLL in winerror.h
+description: A dynamic link library (DLL) referenced a module that was neither a DLL nor the process's executable image.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1276",
+  "codeUrl": "/win32/winerror-h/error_invalid_import_of_non_dll/1276/",
+  "numericCode": 1276,
+  "define": "ERROR_INVALID_IMPORT_OF_NON_DLL",
+  "defineUrl": "/win32/winerror-h/error_invalid_import_of_non_dll/",
+  "message": "A dynamic link library (DLL) referenced a module that was neither a DLL nor the process's executable image.",
+  "remarks": null,
+  "aka": [
+    "0x800704fc",
+    "-2147023620"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_invalid_import_of_non_dll/0x800704fc/",
+    "/win32/winerror-h/error_invalid_import_of_non_dll/-2147023620/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

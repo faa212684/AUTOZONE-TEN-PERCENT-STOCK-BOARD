@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_hv_invalid_hypercall_code\-1070268414\index.html.json
+canonical: /win32/ntstatus-h/status_hv_invalid_hypercall_code/0xc0350002/
+title: -1070268414 STATUS_HV_INVALID_HYPERCALL_CODE in ntstatus.h
+description: The hypervisor does not support the operation because the specified hypercall code is not supported.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1070268414",
+  "codeUrl": "/win32/ntstatus-h/status_hv_invalid_hypercall_code/-1070268414/",
+  "numericCode": 0,
+  "define": "STATUS_HV_INVALID_HYPERCALL_CODE",
+  "defineUrl": "/win32/ntstatus-h/status_hv_invalid_hypercall_code/",
+  "message": "The hypervisor does not support the operation because the specified hypercall code is not supported.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0350002",
+  "originalCodeUrl": "/win32/ntstatus-h/status_hv_invalid_hypercall_code/0xc0350002/"
+}

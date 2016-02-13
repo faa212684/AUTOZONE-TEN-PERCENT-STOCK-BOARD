@@ -1,0 +1,30 @@
+---
+output: win32\vdserr-h\vds_e_operation_denied\0x8004240a\index.html.json
+
+title: 0x8004240A VDS_E_OPERATION_DENIED in vdserr.h
+description: This operation is not allowed on the current boot, system or pagefile 
+volume. It is also not allowed on any volume on a basic MBR disk that contains 
+the boot, system or pagefile volume.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x8004240A",
+  "codeUrl": "/win32/vdserr-h/vds_e_operation_denied/0x8004240a/",
+  "numericCode": -2147212278,
+  "define": "VDS_E_OPERATION_DENIED",
+  "defineUrl": "/win32/vdserr-h/vds_e_operation_denied/",
+  "message": "This operation is not allowed on the current boot, system or pagefile \r\nvolume. It is also not allowed on any volume on a basic MBR disk that contains \r\nthe boot, system or pagefile volume.",
+  "remarks": null,
+  "aka": [
+    "-2147212278"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_operation_denied/-2147212278/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

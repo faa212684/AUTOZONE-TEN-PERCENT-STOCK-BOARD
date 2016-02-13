@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_browser_election_sent_lanman_nt_started\0x40001f4f\index.html.json
+
+title: 0x40001F4F EVENT_BROWSER_ELECTION_SENT_LANMAN_NT_STARTED in netevent.h
+description: The browser has forced an election on network %1 because a Windows Server (or domain master) browser is started.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x40001F4F",
+  "codeUrl": "/win32/netevent-h/event_browser_election_sent_lanman_nt_started/0x40001f4f/",
+  "numericCode": 1073749839,
+  "define": "EVENT_BROWSER_ELECTION_SENT_LANMAN_NT_STARTED",
+  "defineUrl": "/win32/netevent-h/event_browser_election_sent_lanman_nt_started/",
+  "message": "The browser has forced an election on network %1 because a Windows Server (or domain master) browser is started.",
+  "remarks": null,
+  "aka": [
+    "1073749839"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_browser_election_sent_lanman_nt_started/1073749839/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

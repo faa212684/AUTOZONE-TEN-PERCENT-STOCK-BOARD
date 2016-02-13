@@ -1,0 +1,24 @@
+---
+output: win32\netevent-h\event_bridge_protocol_register_failed\-1073727224\index.html.json
+canonical: /win32/netevent-h/event_bridge_protocol_register_failed/0xc0003908/
+title: -1073727224 EVENT_BRIDGE_PROTOCOL_REGISTER_FAILED in netevent.h
+description: Bridge: The bridge could not be initialized because the bridge failed to register as a protocol with NDIS.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "-1073727224",
+  "codeUrl": "/win32/netevent-h/event_bridge_protocol_register_failed/-1073727224/",
+  "numericCode": 0,
+  "define": "EVENT_BRIDGE_PROTOCOL_REGISTER_FAILED",
+  "defineUrl": "/win32/netevent-h/event_bridge_protocol_register_failed/",
+  "message": "Bridge: The bridge could not be initialized because the bridge failed to register as a protocol with NDIS.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0003908",
+  "originalCodeUrl": "/win32/netevent-h/event_bridge_protocol_register_failed/0xc0003908/"
+}

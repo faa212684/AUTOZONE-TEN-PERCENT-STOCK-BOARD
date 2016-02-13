@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\sec_e_smartcard_logon_required\0x8009033e\index.html.json
+
+title: 0x8009033E SEC_E_SMARTCARD_LOGON_REQUIRED in winerror.h
+description: Smartcard logon is required and was not used.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8009033E",
+  "codeUrl": "/win32/winerror-h/sec_e_smartcard_logon_required/0x8009033e/",
+  "numericCode": -2146892994,
+  "define": "SEC_E_SMARTCARD_LOGON_REQUIRED",
+  "defineUrl": "/win32/winerror-h/sec_e_smartcard_logon_required/",
+  "message": "Smartcard logon is required and was not used.",
+  "remarks": null,
+  "aka": [
+    "-2146892994"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/sec_e_smartcard_logon_required/-2146892994/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

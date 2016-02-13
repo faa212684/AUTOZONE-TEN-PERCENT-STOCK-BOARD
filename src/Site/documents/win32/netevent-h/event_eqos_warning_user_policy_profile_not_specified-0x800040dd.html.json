@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_eqos_warning_user_policy_profile_not_specified\0x800040dd\index.html.json
+
+title: 0x800040DD EVENT_EQOS_WARNING_USER_POLICY_PROFILE_NOT_SPECIFIED in netevent.h
+description: A user QoS policy "%2" does not specify a DSCP value or throttle rate. This policy will not be applied.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x800040DD",
+  "codeUrl": "/win32/netevent-h/event_eqos_warning_user_policy_profile_not_specified/0x800040dd/",
+  "numericCode": -2147467043,
+  "define": "EVENT_EQOS_WARNING_USER_POLICY_PROFILE_NOT_SPECIFIED",
+  "defineUrl": "/win32/netevent-h/event_eqos_warning_user_policy_profile_not_specified/",
+  "message": "A user QoS policy \"%2\" does not specify a DSCP value or throttle rate. This policy will not be applied.",
+  "remarks": null,
+  "aka": [
+    "-2147467043"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_eqos_warning_user_policy_profile_not_specified/-2147467043/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

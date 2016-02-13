@@ -1,0 +1,28 @@
+---
+output: bugcheck\bugcodes-h\kernel_mode_exception_not_handled\0x0000008e\index.html.json
+
+title: 0x0000008E KERNEL_MODE_EXCEPTION_NOT_HANDLED in bugcodes.h
+description: KERNEL_MODE_EXCEPTION_NOT_HANDLED
+disqus: true
+---
+{
+  "area": "bugcheck",
+  "areaUrl": "/bugcheck/",
+  "source": "bugcodes.h",
+  "sourceUrl": "/bugcheck/bugcodes-h/",
+  "code": "0x0000008E",
+  "codeUrl": "/bugcheck/bugcodes-h/kernel_mode_exception_not_handled/0x0000008e/",
+  "numericCode": 142,
+  "define": "KERNEL_MODE_EXCEPTION_NOT_HANDLED",
+  "defineUrl": "/bugcheck/bugcodes-h/kernel_mode_exception_not_handled/",
+  "message": "KERNEL_MODE_EXCEPTION_NOT_HANDLED",
+  "remarks": null,
+  "aka": [
+    "142"
+  ],
+  "akaUrl": [
+    "/bugcheck/bugcodes-h/kernel_mode_exception_not_handled/142/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

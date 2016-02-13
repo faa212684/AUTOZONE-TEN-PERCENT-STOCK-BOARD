@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_sxs_xml_e_reservednamespace\14066\index.html.json
+
+title: 14066 ERROR_SXS_XML_E_RESERVEDNAMESPACE in winerror.h
+description: Manifest Parse Error : The namespace prefix is not allowed to start with the reserved string "xml".
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "14066",
+  "codeUrl": "/win32/winerror-h/error_sxs_xml_e_reservednamespace/14066/",
+  "numericCode": 14066,
+  "define": "ERROR_SXS_XML_E_RESERVEDNAMESPACE",
+  "defineUrl": "/win32/winerror-h/error_sxs_xml_e_reservednamespace/",
+  "message": "Manifest Parse Error : The namespace prefix is not allowed to start with the reserved string \"xml\".",
+  "remarks": null,
+  "aka": [
+    "0x800736f2",
+    "-2147010830"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_sxs_xml_e_reservednamespace/0x800736f2/",
+    "/win32/winerror-h/error_sxs_xml_e_reservednamespace/-2147010830/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

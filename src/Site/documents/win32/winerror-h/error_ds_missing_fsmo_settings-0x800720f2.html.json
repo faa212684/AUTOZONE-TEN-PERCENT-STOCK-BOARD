@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_ds_missing_fsmo_settings\0x800720f2\index.html.json
+canonical: /win32/winerror-h/error_ds_missing_fsmo_settings/8434/
+title: 0x800720f2 ERROR_DS_MISSING_FSMO_SETTINGS in winerror.h
+description: The directory service is missing mandatory configuration information, and is unable to determine the ownership of floating single-master operation roles.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800720f2",
+  "codeUrl": "/win32/winerror-h/error_ds_missing_fsmo_settings/0x800720f2/",
+  "numericCode": 0,
+  "define": "ERROR_DS_MISSING_FSMO_SETTINGS",
+  "defineUrl": "/win32/winerror-h/error_ds_missing_fsmo_settings/",
+  "message": "The directory service is missing mandatory configuration information, and is unable to determine the ownership of floating single-master operation roles.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "8434",
+  "originalCodeUrl": "/win32/winerror-h/error_ds_missing_fsmo_settings/8434/"
+}

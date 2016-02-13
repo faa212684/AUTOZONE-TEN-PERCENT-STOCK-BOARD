@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_gpio_invalid_registration_packet\0xc000a124\index.html.json
+
+title: 0xC000A124 STATUS_GPIO_INVALID_REGISTRATION_PACKET in ntstatus.h
+description: The registration packet supplied by the GPIO client driver is not valid.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000A124",
+  "codeUrl": "/win32/ntstatus-h/status_gpio_invalid_registration_packet/0xc000a124/",
+  "numericCode": -1073700572,
+  "define": "STATUS_GPIO_INVALID_REGISTRATION_PACKET",
+  "defineUrl": "/win32/ntstatus-h/status_gpio_invalid_registration_packet/",
+  "message": "The registration packet supplied by the GPIO client driver is not valid.",
+  "remarks": null,
+  "aka": [
+    "-1073700572"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_gpio_invalid_registration_packet/-1073700572/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

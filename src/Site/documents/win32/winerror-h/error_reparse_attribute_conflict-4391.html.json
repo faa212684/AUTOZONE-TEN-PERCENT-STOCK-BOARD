@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_reparse_attribute_conflict\4391\index.html.json
+
+title: 4391 ERROR_REPARSE_ATTRIBUTE_CONFLICT in winerror.h
+description: The reparse point attribute cannot be set because it conflicts with an existing attribute.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "4391",
+  "codeUrl": "/win32/winerror-h/error_reparse_attribute_conflict/4391/",
+  "numericCode": 4391,
+  "define": "ERROR_REPARSE_ATTRIBUTE_CONFLICT",
+  "defineUrl": "/win32/winerror-h/error_reparse_attribute_conflict/",
+  "message": "The reparse point attribute cannot be set because it conflicts with an existing attribute.",
+  "remarks": null,
+  "aka": [
+    "0x80071127",
+    "-2147020505"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_reparse_attribute_conflict/0x80071127/",
+    "/win32/winerror-h/error_reparse_attribute_conflict/-2147020505/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\context_e_rolenotfound\0x8004e00c\index.html.json
+
+title: 0x8004E00C CONTEXT_E_ROLENOTFOUND in winerror.h
+description: The specified role was not configured for the application
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8004E00C",
+  "codeUrl": "/win32/winerror-h/context_e_rolenotfound/0x8004e00c/",
+  "numericCode": -2147164148,
+  "define": "CONTEXT_E_ROLENOTFOUND",
+  "defineUrl": "/win32/winerror-h/context_e_rolenotfound/",
+  "message": "The specified role was not configured for the application",
+  "remarks": null,
+  "aka": [
+    "-2147164148"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/context_e_rolenotfound/-2147164148/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_invalid_cursor_handle\1402\index.html.json
+
+title: 1402 ERROR_INVALID_CURSOR_HANDLE in winerror.h
+description: Invalid cursor handle.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1402",
+  "codeUrl": "/win32/winerror-h/error_invalid_cursor_handle/1402/",
+  "numericCode": 1402,
+  "define": "ERROR_INVALID_CURSOR_HANDLE",
+  "defineUrl": "/win32/winerror-h/error_invalid_cursor_handle/",
+  "message": "Invalid cursor handle.",
+  "remarks": null,
+  "aka": [
+    "0x8007057a",
+    "-2147023494"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_invalid_cursor_handle/0x8007057a/",
+    "/win32/winerror-h/error_invalid_cursor_handle/-2147023494/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

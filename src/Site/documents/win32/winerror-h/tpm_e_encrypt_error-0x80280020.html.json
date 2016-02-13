@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\tpm_e_encrypt_error\0x80280020\index.html.json
+
+title: 0x80280020 TPM_E_ENCRYPT_ERROR in winerror.h
+description: The encryption process had a problem.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80280020",
+  "codeUrl": "/win32/winerror-h/tpm_e_encrypt_error/0x80280020/",
+  "numericCode": -2144862176,
+  "define": "TPM_E_ENCRYPT_ERROR",
+  "defineUrl": "/win32/winerror-h/tpm_e_encrypt_error/",
+  "message": "The encryption process had a problem.",
+  "remarks": null,
+  "aka": [
+    "-2144862176"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/tpm_e_encrypt_error/-2144862176/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

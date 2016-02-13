@@ -1,0 +1,29 @@
+---
+output: win32\ntstatus-h\status_device_powered_off\0x8000000f\index.html.json
+
+title: 0x8000000F STATUS_DEVICE_POWERED_OFF in ntstatus.h
+description: "{Device Power Is Off}
+The printer power has been turned off."
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0x8000000F",
+  "codeUrl": "/win32/ntstatus-h/status_device_powered_off/0x8000000f/",
+  "numericCode": -2147483633,
+  "define": "STATUS_DEVICE_POWERED_OFF",
+  "defineUrl": "/win32/ntstatus-h/status_device_powered_off/",
+  "message": "{Device Power Is Off}\r\nThe printer power has been turned off.",
+  "remarks": null,
+  "aka": [
+    "-2147483633"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_device_powered_off/-2147483633/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,29 @@
+---
+output: win32\netevent-h\event_rdr_encrypt\0x80000bca\index.html.json
+
+title: 0x80000BCA EVENT_RDR_ENCRYPT in netevent.h
+description: The redirector accessed a share-level server that indicates it encrypts passwords.
+This combination is not supported.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x80000BCA",
+  "codeUrl": "/win32/netevent-h/event_rdr_encrypt/0x80000bca/",
+  "numericCode": -2147480630,
+  "define": "EVENT_RDR_ENCRYPT",
+  "defineUrl": "/win32/netevent-h/event_rdr_encrypt/",
+  "message": "The redirector accessed a share-level server that indicates it encrypts passwords.\r\nThis combination is not supported.",
+  "remarks": null,
+  "aka": [
+    "-2147480630"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_rdr_encrypt/-2147480630/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

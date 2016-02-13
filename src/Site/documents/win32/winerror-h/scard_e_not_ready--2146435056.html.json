@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\scard_e_not_ready\-2146435056\index.html.json
+canonical: /win32/winerror-h/scard_e_not_ready/0x80100010/
+title: -2146435056 SCARD_E_NOT_READY in winerror.h
+description: The reader or smart card is not ready to accept commands.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2146435056",
+  "codeUrl": "/win32/winerror-h/scard_e_not_ready/-2146435056/",
+  "numericCode": 0,
+  "define": "SCARD_E_NOT_READY",
+  "defineUrl": "/win32/winerror-h/scard_e_not_ready/",
+  "message": "The reader or smart card is not ready to accept commands.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80100010",
+  "originalCodeUrl": "/win32/winerror-h/scard_e_not_ready/0x80100010/"
+}

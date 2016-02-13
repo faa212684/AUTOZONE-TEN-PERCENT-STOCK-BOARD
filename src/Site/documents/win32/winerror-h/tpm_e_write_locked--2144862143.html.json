@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\tpm_e_write_locked\-2144862143\index.html.json
+canonical: /win32/winerror-h/tpm_e_write_locked/0x80280041/
+title: -2144862143 TPM_E_WRITE_LOCKED in winerror.h
+description: The NV area has already been written to.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2144862143",
+  "codeUrl": "/win32/winerror-h/tpm_e_write_locked/-2144862143/",
+  "numericCode": 0,
+  "define": "TPM_E_WRITE_LOCKED",
+  "defineUrl": "/win32/winerror-h/tpm_e_write_locked/",
+  "message": "The NV area has already been written to.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80280041",
+  "originalCodeUrl": "/win32/winerror-h/tpm_e_write_locked/0x80280041/"
+}

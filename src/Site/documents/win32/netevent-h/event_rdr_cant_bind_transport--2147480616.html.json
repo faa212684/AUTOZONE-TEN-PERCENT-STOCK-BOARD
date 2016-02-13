@@ -1,0 +1,24 @@
+---
+output: win32\netevent-h\event_rdr_cant_bind_transport\-2147480616\index.html.json
+canonical: /win32/netevent-h/event_rdr_cant_bind_transport/0x80000bd8/
+title: -2147480616 EVENT_RDR_CANT_BIND_TRANSPORT in netevent.h
+description: The redirector was unable to register the domain %2 on to transport %3 for the following reason: %4. Transport has been taken offline.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "-2147480616",
+  "codeUrl": "/win32/netevent-h/event_rdr_cant_bind_transport/-2147480616/",
+  "numericCode": 0,
+  "define": "EVENT_RDR_CANT_BIND_TRANSPORT",
+  "defineUrl": "/win32/netevent-h/event_rdr_cant_bind_transport/",
+  "message": "The redirector was unable to register the domain %2 on to transport %3 for the following reason: %4. Transport has been taken offline.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80000BD8",
+  "originalCodeUrl": "/win32/netevent-h/event_rdr_cant_bind_transport/0x80000bd8/"
+}

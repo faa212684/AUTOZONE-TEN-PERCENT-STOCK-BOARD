@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_pte_changed\-1073740748\index.html.json
+canonical: /win32/ntstatus-h/status_pte_changed/0xc0000434/
+title: -1073740748 STATUS_PTE_CHANGED in ntstatus.h
+description: The page fault mappings changed in the middle of processing a fault so the operation must be retried.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073740748",
+  "codeUrl": "/win32/ntstatus-h/status_pte_changed/-1073740748/",
+  "numericCode": 0,
+  "define": "STATUS_PTE_CHANGED",
+  "defineUrl": "/win32/ntstatus-h/status_pte_changed/",
+  "message": "The page fault mappings changed in the middle of processing a fault so the operation must be retried.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000434",
+  "originalCodeUrl": "/win32/ntstatus-h/status_pte_changed/0xc0000434/"
+}

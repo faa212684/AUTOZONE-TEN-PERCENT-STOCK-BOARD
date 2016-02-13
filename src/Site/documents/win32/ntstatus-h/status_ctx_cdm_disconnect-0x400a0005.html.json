@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_ctx_cdm_disconnect\0x400a0005\index.html.json
+
+title: 0x400A0005 STATUS_CTX_CDM_DISCONNECT in ntstatus.h
+description: The Client Drive Mapping Service Has Disconnected on Terminal Connection.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0x400A0005",
+  "codeUrl": "/win32/ntstatus-h/status_ctx_cdm_disconnect/0x400a0005/",
+  "numericCode": 1074397189,
+  "define": "STATUS_CTX_CDM_DISCONNECT",
+  "defineUrl": "/win32/ntstatus-h/status_ctx_cdm_disconnect/",
+  "message": "The Client Drive Mapping Service Has Disconnected on Terminal Connection.",
+  "remarks": null,
+  "aka": [
+    "1074397189"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_ctx_cdm_disconnect/1074397189/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

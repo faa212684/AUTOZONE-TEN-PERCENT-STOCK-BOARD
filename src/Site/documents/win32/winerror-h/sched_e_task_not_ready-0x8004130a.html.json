@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\sched_e_task_not_ready\0x8004130a\index.html.json
+
+title: 0x8004130A SCHED_E_TASK_NOT_READY in winerror.h
+description: One or more of the properties that are needed to run this task have not been set.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8004130A",
+  "codeUrl": "/win32/winerror-h/sched_e_task_not_ready/0x8004130a/",
+  "numericCode": -2147216630,
+  "define": "SCHED_E_TASK_NOT_READY",
+  "defineUrl": "/win32/winerror-h/sched_e_task_not_ready/",
+  "message": "One or more of the properties that are needed to run this task have not been set.",
+  "remarks": null,
+  "aka": [
+    "-2147216630"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/sched_e_task_not_ready/-2147216630/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

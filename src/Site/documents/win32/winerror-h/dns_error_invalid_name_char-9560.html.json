@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\dns_error_invalid_name_char\9560\index.html.json
+
+title: 9560 DNS_ERROR_INVALID_NAME_CHAR in winerror.h
+description: DNS name contains an invalid character.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "9560",
+  "codeUrl": "/win32/winerror-h/dns_error_invalid_name_char/9560/",
+  "numericCode": 9560,
+  "define": "DNS_ERROR_INVALID_NAME_CHAR",
+  "defineUrl": "/win32/winerror-h/dns_error_invalid_name_char/",
+  "message": "DNS name contains an invalid character.",
+  "remarks": null,
+  "aka": [
+    "0x80072558",
+    "-2147015336"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/dns_error_invalid_name_char/0x80072558/",
+    "/win32/winerror-h/dns_error_invalid_name_char/-2147015336/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_bad_bindings\-1073740965\index.html.json
+canonical: /win32/ntstatus-h/status_bad_bindings/0xc000035b/
+title: -1073740965 STATUS_BAD_BINDINGS in ntstatus.h
+description: Client's supplied SSPI channel bindings were incorrect.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073740965",
+  "codeUrl": "/win32/ntstatus-h/status_bad_bindings/-1073740965/",
+  "numericCode": 0,
+  "define": "STATUS_BAD_BINDINGS",
+  "defineUrl": "/win32/ntstatus-h/status_bad_bindings/",
+  "message": "Client's supplied SSPI channel bindings were incorrect.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC000035B",
+  "originalCodeUrl": "/win32/ntstatus-h/status_bad_bindings/0xc000035b/"
+}

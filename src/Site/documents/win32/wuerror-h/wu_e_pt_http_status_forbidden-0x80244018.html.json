@@ -1,0 +1,28 @@
+---
+output: win32\wuerror-h\wu_e_pt_http_status_forbidden\0x80244018\index.html.json
+
+title: 0x80244018 WU_E_PT_HTTP_STATUS_FORBIDDEN in wuerror.h
+description: Same as HTTP status 403 - server understood the request, but declined to fulfill it.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wuerror.h",
+  "sourceUrl": "/win32/wuerror-h/",
+  "code": "0x80244018",
+  "codeUrl": "/win32/wuerror-h/wu_e_pt_http_status_forbidden/0x80244018/",
+  "numericCode": -2145107944,
+  "define": "WU_E_PT_HTTP_STATUS_FORBIDDEN",
+  "defineUrl": "/win32/wuerror-h/wu_e_pt_http_status_forbidden/",
+  "message": "Same as HTTP status 403 - server understood the request, but declined to fulfill it.",
+  "remarks": null,
+  "aka": [
+    "-2145107944"
+  ],
+  "akaUrl": [
+    "/win32/wuerror-h/wu_e_pt_http_status_forbidden/-2145107944/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

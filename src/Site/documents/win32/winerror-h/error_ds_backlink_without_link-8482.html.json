@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ds_backlink_without_link\8482\index.html.json
+
+title: 8482 ERROR_DS_BACKLINK_WITHOUT_LINK in winerror.h
+description: The schema update operation tried to add a backward link attribute that has no corresponding forward link.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "8482",
+  "codeUrl": "/win32/winerror-h/error_ds_backlink_without_link/8482/",
+  "numericCode": 8482,
+  "define": "ERROR_DS_BACKLINK_WITHOUT_LINK",
+  "defineUrl": "/win32/winerror-h/error_ds_backlink_without_link/",
+  "message": "The schema update operation tried to add a backward link attribute that has no corresponding forward link.",
+  "remarks": null,
+  "aka": [
+    "0x80072122",
+    "-2147016414"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ds_backlink_without_link/0x80072122/",
+    "/win32/winerror-h/error_ds_backlink_without_link/-2147016414/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

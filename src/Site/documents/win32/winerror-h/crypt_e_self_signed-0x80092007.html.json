@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\crypt_e_self_signed\0x80092007\index.html.json
+
+title: 0x80092007 CRYPT_E_SELF_SIGNED in winerror.h
+description: The specified certificate is self signed.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80092007",
+  "codeUrl": "/win32/winerror-h/crypt_e_self_signed/0x80092007/",
+  "numericCode": -2146885625,
+  "define": "CRYPT_E_SELF_SIGNED",
+  "defineUrl": "/win32/winerror-h/crypt_e_self_signed/",
+  "message": "The specified certificate is self signed.",
+  "remarks": null,
+  "aka": [
+    "-2146885625"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/crypt_e_self_signed/-2146885625/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

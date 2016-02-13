@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_class_has_windows\1412\index.html.json
+
+title: 1412 ERROR_CLASS_HAS_WINDOWS in winerror.h
+description: Class still has open windows.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1412",
+  "codeUrl": "/win32/winerror-h/error_class_has_windows/1412/",
+  "numericCode": 1412,
+  "define": "ERROR_CLASS_HAS_WINDOWS",
+  "defineUrl": "/win32/winerror-h/error_class_has_windows/",
+  "message": "Class still has open windows.",
+  "remarks": null,
+  "aka": [
+    "0x80070584",
+    "-2147023484"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_class_has_windows/0x80070584/",
+    "/win32/winerror-h/error_class_has_windows/-2147023484/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

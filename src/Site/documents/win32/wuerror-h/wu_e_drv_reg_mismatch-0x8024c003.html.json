@@ -1,0 +1,28 @@
+---
+output: win32\wuerror-h\wu_e_drv_reg_mismatch\0x8024c003\index.html.json
+
+title: 0x8024C003 WU_E_DRV_REG_MISMATCH in wuerror.h
+description: The registry type read for the driver does not match the expected type.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wuerror.h",
+  "sourceUrl": "/win32/wuerror-h/",
+  "code": "0x8024C003",
+  "codeUrl": "/win32/wuerror-h/wu_e_drv_reg_mismatch/0x8024c003/",
+  "numericCode": -2145075197,
+  "define": "WU_E_DRV_REG_MISMATCH",
+  "defineUrl": "/win32/wuerror-h/wu_e_drv_reg_mismatch/",
+  "message": "The registry type read for the driver does not match the expected type.",
+  "remarks": null,
+  "aka": [
+    "-2145075197"
+  ],
+  "akaUrl": [
+    "/win32/wuerror-h/wu_e_drv_reg_mismatch/-2145075197/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

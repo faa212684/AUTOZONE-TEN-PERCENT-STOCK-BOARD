@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_e_last_valid_disk\0x8004252f\index.html.json
+
+title: 0x8004252F VDS_E_LAST_VALID_DISK in vdserr.h
+description: The operation cannot be completed because there is only one valid disk in the pack.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x8004252F",
+  "codeUrl": "/win32/vdserr-h/vds_e_last_valid_disk/0x8004252f/",
+  "numericCode": -2147211985,
+  "define": "VDS_E_LAST_VALID_DISK",
+  "defineUrl": "/win32/vdserr-h/vds_e_last_valid_disk/",
+  "message": "The operation cannot be completed because there is only one valid disk in the pack.",
+  "remarks": null,
+  "aka": [
+    "-2147211985"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_last_valid_disk/-2147211985/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

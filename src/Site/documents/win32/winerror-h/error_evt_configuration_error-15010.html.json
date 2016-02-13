@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_evt_configuration_error\15010\index.html.json
+
+title: 15010 ERROR_EVT_CONFIGURATION_ERROR in winerror.h
+description: Configuration error.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "15010",
+  "codeUrl": "/win32/winerror-h/error_evt_configuration_error/15010/",
+  "numericCode": 15010,
+  "define": "ERROR_EVT_CONFIGURATION_ERROR",
+  "defineUrl": "/win32/winerror-h/error_evt_configuration_error/",
+  "message": "Configuration error.",
+  "remarks": null,
+  "aka": [
+    "0x80073aa2",
+    "-2147009886"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_evt_configuration_error/0x80073aa2/",
+    "/win32/winerror-h/error_evt_configuration_error/-2147009886/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

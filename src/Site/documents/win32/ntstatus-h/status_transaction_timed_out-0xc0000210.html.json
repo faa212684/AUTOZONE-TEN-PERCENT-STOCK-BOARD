@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_transaction_timed_out\0xc0000210\index.html.json
+
+title: 0xC0000210 STATUS_TRANSACTION_TIMED_OUT in ntstatus.h
+description: The transport timed out a request waiting for a response.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000210",
+  "codeUrl": "/win32/ntstatus-h/status_transaction_timed_out/0xc0000210/",
+  "numericCode": -1073741296,
+  "define": "STATUS_TRANSACTION_TIMED_OUT",
+  "defineUrl": "/win32/ntstatus-h/status_transaction_timed_out/",
+  "message": "The transport timed out a request waiting for a response.",
+  "remarks": null,
+  "aka": [
+    "-1073741296"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_transaction_timed_out/-1073741296/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

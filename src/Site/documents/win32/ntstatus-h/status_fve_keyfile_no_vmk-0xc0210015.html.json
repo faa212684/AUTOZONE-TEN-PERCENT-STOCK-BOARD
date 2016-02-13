@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_fve_keyfile_no_vmk\0xc0210015\index.html.json
+
+title: 0xC0210015 STATUS_FVE_KEYFILE_NO_VMK in ntstatus.h
+description: The BitLocker encryption key could not be obtained from the startup key or recovery password.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0210015",
+  "codeUrl": "/win32/ntstatus-h/status_fve_keyfile_no_vmk/0xc0210015/",
+  "numericCode": -1071579115,
+  "define": "STATUS_FVE_KEYFILE_NO_VMK",
+  "defineUrl": "/win32/ntstatus-h/status_fve_keyfile_no_vmk/",
+  "message": "The BitLocker encryption key could not be obtained from the startup key or recovery password.",
+  "remarks": null,
+  "aka": [
+    "-1071579115"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_fve_keyfile_no_vmk/-1071579115/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

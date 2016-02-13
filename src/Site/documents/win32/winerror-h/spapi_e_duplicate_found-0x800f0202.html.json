@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\spapi_e_duplicate_found\0x800f0202\index.html.json
+
+title: 0x800F0202 SPAPI_E_DUPLICATE_FOUND in winerror.h
+description: An existing device was found that is a duplicate of the device being manually installed.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800F0202",
+  "codeUrl": "/win32/winerror-h/spapi_e_duplicate_found/0x800f0202/",
+  "numericCode": -2146500094,
+  "define": "SPAPI_E_DUPLICATE_FOUND",
+  "defineUrl": "/win32/winerror-h/spapi_e_duplicate_found/",
+  "message": "An existing device was found that is a duplicate of the device being manually installed.",
+  "remarks": null,
+  "aka": [
+    "-2146500094"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/spapi_e_duplicate_found/-2146500094/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

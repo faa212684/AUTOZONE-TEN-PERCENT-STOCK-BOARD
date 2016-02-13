@@ -1,0 +1,28 @@
+---
+output: win32\mdmsg-h\md_error_no_session_key\0x800cc81d\index.html.json
+
+title: 0x800CC81D MD_ERROR_NO_SESSION_KEY in Mdmsg.h
+description: Could not find session key in IIS_Global section of XML file.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "Mdmsg.h",
+  "sourceUrl": "/win32/mdmsg-h/",
+  "code": "0x800CC81D",
+  "codeUrl": "/win32/mdmsg-h/md_error_no_session_key/0x800cc81d/",
+  "numericCode": -2146645987,
+  "define": "MD_ERROR_NO_SESSION_KEY",
+  "defineUrl": "/win32/mdmsg-h/md_error_no_session_key/",
+  "message": "Could not find session key in IIS_Global section of XML file.",
+  "remarks": null,
+  "aka": [
+    "-2146645987"
+  ],
+  "akaUrl": [
+    "/win32/mdmsg-h/md_error_no_session_key/-2146645987/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

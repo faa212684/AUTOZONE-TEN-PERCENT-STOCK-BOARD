@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ds_no_deleted_name\8355\index.html.json
+
+title: 8355 ERROR_DS_NO_DELETED_NAME in winerror.h
+description: Failed to create name for deleted object.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "8355",
+  "codeUrl": "/win32/winerror-h/error_ds_no_deleted_name/8355/",
+  "numericCode": 8355,
+  "define": "ERROR_DS_NO_DELETED_NAME",
+  "defineUrl": "/win32/winerror-h/error_ds_no_deleted_name/",
+  "message": "Failed to create name for deleted object.",
+  "remarks": null,
+  "aka": [
+    "0x800720a3",
+    "-2147016541"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ds_no_deleted_name/0x800720a3/",
+    "/win32/winerror-h/error_ds_no_deleted_name/-2147016541/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

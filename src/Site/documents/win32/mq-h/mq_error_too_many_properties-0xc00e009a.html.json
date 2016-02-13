@@ -1,0 +1,28 @@
+---
+output: win32\mq-h\mq_error_too_many_properties\0xc00e009a\index.html.json
+
+title: 0xC00E009A MQ_ERROR_TOO_MANY_PROPERTIES in Mq.h
+description: Too many properties passed to the function. Message Queuing can process up to 128 properties in one call.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "Mq.h",
+  "sourceUrl": "/win32/mq-h/",
+  "code": "0xC00E009A",
+  "codeUrl": "/win32/mq-h/mq_error_too_many_properties/0xc00e009a/",
+  "numericCode": -1072824166,
+  "define": "MQ_ERROR_TOO_MANY_PROPERTIES",
+  "defineUrl": "/win32/mq-h/mq_error_too_many_properties/",
+  "message": "Too many properties passed to the function. Message Queuing can process up to 128 properties in one call.",
+  "remarks": null,
+  "aka": [
+    "-1072824166"
+  ],
+  "akaUrl": [
+    "/win32/mq-h/mq_error_too_many_properties/-1072824166/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

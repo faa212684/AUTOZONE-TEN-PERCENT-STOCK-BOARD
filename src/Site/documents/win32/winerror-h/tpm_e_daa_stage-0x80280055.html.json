@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\tpm_e_daa_stage\0x80280055\index.html.json
+
+title: 0x80280055 TPM_E_DAA_STAGE in winerror.h
+description: The atomic process indicated by the submitted DAA command is not the expected process.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80280055",
+  "codeUrl": "/win32/winerror-h/tpm_e_daa_stage/0x80280055/",
+  "numericCode": -2144862123,
+  "define": "TPM_E_DAA_STAGE",
+  "defineUrl": "/win32/winerror-h/tpm_e_daa_stage/",
+  "message": "The atomic process indicated by the submitted DAA command is not the expected process.",
+  "remarks": null,
+  "aka": [
+    "-2144862123"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/tpm_e_daa_stage/-2144862123/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

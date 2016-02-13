@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\co_e_appdidntreg\0x800401fe\index.html.json
+
+title: 0x800401FE CO_E_APPDIDNTREG in winerror.h
+description: Application was launched but it didn't register a class factory
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800401FE",
+  "codeUrl": "/win32/winerror-h/co_e_appdidntreg/0x800401fe/",
+  "numericCode": -2147220994,
+  "define": "CO_E_APPDIDNTREG",
+  "defineUrl": "/win32/winerror-h/co_e_appdidntreg/",
+  "message": "Application was launched but it didn't register a class factory",
+  "remarks": null,
+  "aka": [
+    "-2147220994"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/co_e_appdidntreg/-2147220994/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

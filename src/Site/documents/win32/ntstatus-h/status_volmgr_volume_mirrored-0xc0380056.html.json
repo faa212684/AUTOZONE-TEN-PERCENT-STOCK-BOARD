@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_volmgr_volume_mirrored\0xc0380056\index.html.json
+
+title: 0xC0380056 STATUS_VOLMGR_VOLUME_MIRRORED in ntstatus.h
+description: The operation is not supported on mirrored volumes.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0380056",
+  "codeUrl": "/win32/ntstatus-h/status_volmgr_volume_mirrored/0xc0380056/",
+  "numericCode": -1070071722,
+  "define": "STATUS_VOLMGR_VOLUME_MIRRORED",
+  "defineUrl": "/win32/ntstatus-h/status_volmgr_volume_mirrored/",
+  "message": "The operation is not supported on mirrored volumes.",
+  "remarks": null,
+  "aka": [
+    "-1070071722"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_volmgr_volume_mirrored/-1070071722/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

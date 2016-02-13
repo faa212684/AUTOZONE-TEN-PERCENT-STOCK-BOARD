@@ -1,0 +1,28 @@
+---
+output: win32\wuerror-h\wu_e_toomanyranges\0x80240006\index.html.json
+
+title: 0x80240006 WU_E_TOOMANYRANGES in wuerror.h
+description: The requested number of byte ranges exceeds the maximum number (2^31 - 1).
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wuerror.h",
+  "sourceUrl": "/win32/wuerror-h/",
+  "code": "0x80240006",
+  "codeUrl": "/win32/wuerror-h/wu_e_toomanyranges/0x80240006/",
+  "numericCode": -2145124346,
+  "define": "WU_E_TOOMANYRANGES",
+  "defineUrl": "/win32/wuerror-h/wu_e_toomanyranges/",
+  "message": "The requested number of byte ranges exceeds the maximum number (2^31 - 1).",
+  "remarks": null,
+  "aka": [
+    "-2145124346"
+  ],
+  "akaUrl": [
+    "/win32/wuerror-h/wu_e_toomanyranges/-2145124346/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

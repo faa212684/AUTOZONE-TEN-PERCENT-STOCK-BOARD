@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_rxact_state_created\0x800702bd\index.html.json
+canonical: /win32/winerror-h/error_rxact_state_created/701/
+title: 0x800702bd ERROR_RXACT_STATE_CREATED in winerror.h
+description: This informational level status indicates that a specified registry sub-tree transaction state did not yet exist and had to be created.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800702bd",
+  "codeUrl": "/win32/winerror-h/error_rxact_state_created/0x800702bd/",
+  "numericCode": 0,
+  "define": "ERROR_RXACT_STATE_CREATED",
+  "defineUrl": "/win32/winerror-h/error_rxact_state_created/",
+  "message": "This informational level status indicates that a specified registry sub-tree transaction state did not yet exist and had to be created.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "701",
+  "originalCodeUrl": "/win32/winerror-h/error_rxact_state_created/701/"
+}

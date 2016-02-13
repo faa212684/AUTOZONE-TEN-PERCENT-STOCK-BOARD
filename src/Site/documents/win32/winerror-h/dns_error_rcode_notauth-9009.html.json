@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\dns_error_rcode_notauth\9009\index.html.json
+
+title: 9009 DNS_ERROR_RCODE_NOTAUTH in winerror.h
+description: DNS server not authoritative for zone.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "9009",
+  "codeUrl": "/win32/winerror-h/dns_error_rcode_notauth/9009/",
+  "numericCode": 9009,
+  "define": "DNS_ERROR_RCODE_NOTAUTH",
+  "defineUrl": "/win32/winerror-h/dns_error_rcode_notauth/",
+  "message": "DNS server not authoritative for zone.",
+  "remarks": null,
+  "aka": [
+    "0x80072331",
+    "-2147015887"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/dns_error_rcode_notauth/0x80072331/",
+    "/win32/winerror-h/dns_error_rcode_notauth/-2147015887/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

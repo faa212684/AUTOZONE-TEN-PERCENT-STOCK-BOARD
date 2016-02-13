@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_pagefile_quota\0xc0000007\index.html.json
+
+title: 0xC0000007 STATUS_PAGEFILE_QUOTA in ntstatus.h
+description: The pagefile quota for the process has been exhausted.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000007",
+  "codeUrl": "/win32/ntstatus-h/status_pagefile_quota/0xc0000007/",
+  "numericCode": -1073741817,
+  "define": "STATUS_PAGEFILE_QUOTA",
+  "defineUrl": "/win32/ntstatus-h/status_pagefile_quota/",
+  "message": "The pagefile quota for the process has been exhausted.",
+  "remarks": null,
+  "aka": [
+    "-1073741817"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_pagefile_quota/-1073741817/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

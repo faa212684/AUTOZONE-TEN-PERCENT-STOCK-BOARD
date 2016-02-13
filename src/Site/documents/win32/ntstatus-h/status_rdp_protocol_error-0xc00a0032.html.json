@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_rdp_protocol_error\0xc00a0032\index.html.json
+
+title: 0xC00A0032 STATUS_RDP_PROTOCOL_ERROR in ntstatus.h
+description: The RDP protocol component %2 detected an error in the protocol stream and has disconnected the client.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC00A0032",
+  "codeUrl": "/win32/ntstatus-h/status_rdp_protocol_error/0xc00a0032/",
+  "numericCode": -1073086414,
+  "define": "STATUS_RDP_PROTOCOL_ERROR",
+  "defineUrl": "/win32/ntstatus-h/status_rdp_protocol_error/",
+  "message": "The RDP protocol component %2 detected an error in the protocol stream and has disconnected the client.",
+  "remarks": null,
+  "aka": [
+    "-1073086414"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_rdp_protocol_error/-1073086414/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

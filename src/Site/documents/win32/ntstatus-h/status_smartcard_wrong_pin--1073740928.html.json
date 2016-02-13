@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_smartcard_wrong_pin\-1073740928\index.html.json
+canonical: /win32/ntstatus-h/status_smartcard_wrong_pin/0xc0000380/
+title: -1073740928 STATUS_SMARTCARD_WRONG_PIN in ntstatus.h
+description: An incorrect PIN was presented to the smart card
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073740928",
+  "codeUrl": "/win32/ntstatus-h/status_smartcard_wrong_pin/-1073740928/",
+  "numericCode": 0,
+  "define": "STATUS_SMARTCARD_WRONG_PIN",
+  "defineUrl": "/win32/ntstatus-h/status_smartcard_wrong_pin/",
+  "message": "An incorrect PIN was presented to the smart card",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000380",
+  "originalCodeUrl": "/win32/ntstatus-h/status_smartcard_wrong_pin/0xc0000380/"
+}

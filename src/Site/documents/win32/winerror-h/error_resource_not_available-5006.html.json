@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_resource_not_available\5006\index.html.json
+
+title: 5006 ERROR_RESOURCE_NOT_AVAILABLE in winerror.h
+description: The cluster resource is not available.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "5006",
+  "codeUrl": "/win32/winerror-h/error_resource_not_available/5006/",
+  "numericCode": 5006,
+  "define": "ERROR_RESOURCE_NOT_AVAILABLE",
+  "defineUrl": "/win32/winerror-h/error_resource_not_available/",
+  "message": "The cluster resource is not available.",
+  "remarks": null,
+  "aka": [
+    "0x8007138e",
+    "-2147019890"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_resource_not_available/0x8007138e/",
+    "/win32/winerror-h/error_resource_not_available/-2147019890/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

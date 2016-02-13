@@ -1,0 +1,28 @@
+---
+output: bugcheck\bugcodes-h\clock_watchdog_timeout\0x00000101\index.html.json
+
+title: 0x00000101 CLOCK_WATCHDOG_TIMEOUT in bugcodes.h
+description: CLOCK_WATCHDOG_TIMEOUT
+disqus: true
+---
+{
+  "area": "bugcheck",
+  "areaUrl": "/bugcheck/",
+  "source": "bugcodes.h",
+  "sourceUrl": "/bugcheck/bugcodes-h/",
+  "code": "0x00000101",
+  "codeUrl": "/bugcheck/bugcodes-h/clock_watchdog_timeout/0x00000101/",
+  "numericCode": 257,
+  "define": "CLOCK_WATCHDOG_TIMEOUT",
+  "defineUrl": "/bugcheck/bugcodes-h/clock_watchdog_timeout/",
+  "message": "CLOCK_WATCHDOG_TIMEOUT",
+  "remarks": null,
+  "aka": [
+    "257"
+  ],
+  "akaUrl": [
+    "/bugcheck/bugcodes-h/clock_watchdog_timeout/257/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

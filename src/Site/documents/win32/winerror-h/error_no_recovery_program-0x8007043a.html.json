@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_no_recovery_program\0x8007043a\index.html.json
+canonical: /win32/winerror-h/error_no_recovery_program/1082/
+title: 0x8007043a ERROR_NO_RECOVERY_PROGRAM in winerror.h
+description: No recovery program has been configured for this service.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007043a",
+  "codeUrl": "/win32/winerror-h/error_no_recovery_program/0x8007043a/",
+  "numericCode": 0,
+  "define": "ERROR_NO_RECOVERY_PROGRAM",
+  "defineUrl": "/win32/winerror-h/error_no_recovery_program/",
+  "message": "No recovery program has been configured for this service.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "1082",
+  "originalCodeUrl": "/win32/winerror-h/error_no_recovery_program/1082/"
+}

@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\stg_s_multipleopens\0x00030204\index.html.json
+
+title: 0x00030204 STG_S_MULTIPLEOPENS in winerror.h
+description: Multiple opens prevent consolidated. (commit succeeded).
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x00030204",
+  "codeUrl": "/win32/winerror-h/stg_s_multipleopens/0x00030204/",
+  "numericCode": 197124,
+  "define": "STG_S_MULTIPLEOPENS",
+  "defineUrl": "/win32/winerror-h/stg_s_multipleopens/",
+  "message": "Multiple opens prevent consolidated. (commit succeeded).",
+  "remarks": null,
+  "aka": [
+    "197124"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/stg_s_multipleopens/197124/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

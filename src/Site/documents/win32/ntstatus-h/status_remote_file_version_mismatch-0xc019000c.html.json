@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_remote_file_version_mismatch\0xc019000c\index.html.json
+
+title: 0xC019000C STATUS_REMOTE_FILE_VERSION_MISMATCH in ntstatus.h
+description: The remote server sent mismatching version number or Fid for a file opened with transactions.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC019000C",
+  "codeUrl": "/win32/ntstatus-h/status_remote_file_version_mismatch/0xc019000c/",
+  "numericCode": -1072103412,
+  "define": "STATUS_REMOTE_FILE_VERSION_MISMATCH",
+  "defineUrl": "/win32/ntstatus-h/status_remote_file_version_mismatch/",
+  "message": "The remote server sent mismatching version number or Fid for a file opened with transactions.",
+  "remarks": null,
+  "aka": [
+    "-1072103412"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_remote_file_version_mismatch/-1072103412/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_log_records_reserved_invalid\0x800719e1\index.html.json
+canonical: /win32/winerror-h/error_log_records_reserved_invalid/6625/
+title: 0x800719e1 ERROR_LOG_RECORDS_RESERVED_INVALID in winerror.h
+description: Number of reserved log records or the adjustment of the number of reserved log records is invalid.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800719e1",
+  "codeUrl": "/win32/winerror-h/error_log_records_reserved_invalid/0x800719e1/",
+  "numericCode": 0,
+  "define": "ERROR_LOG_RECORDS_RESERVED_INVALID",
+  "defineUrl": "/win32/winerror-h/error_log_records_reserved_invalid/",
+  "message": "Number of reserved log records or the adjustment of the number of reserved log records is invalid.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "6625",
+  "originalCodeUrl": "/win32/winerror-h/error_log_records_reserved_invalid/6625/"
+}

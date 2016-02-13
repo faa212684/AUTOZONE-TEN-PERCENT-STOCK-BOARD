@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_thread_not_in_process\566\index.html.json
+
+title: 566 ERROR_THREAD_NOT_IN_PROCESS in winerror.h
+description: An attempt was made to operate on a thread within a specific process, but the thread specified is not in the process specified.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "566",
+  "codeUrl": "/win32/winerror-h/error_thread_not_in_process/566/",
+  "numericCode": 566,
+  "define": "ERROR_THREAD_NOT_IN_PROCESS",
+  "defineUrl": "/win32/winerror-h/error_thread_not_in_process/",
+  "message": "An attempt was made to operate on a thread within a specific process, but the thread specified is not in the process specified.",
+  "remarks": null,
+  "aka": [
+    "0x80070236",
+    "-2147024330"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_thread_not_in_process/0x80070236/",
+    "/win32/winerror-h/error_thread_not_in_process/-2147024330/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

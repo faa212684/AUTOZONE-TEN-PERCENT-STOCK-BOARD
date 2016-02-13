@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_cannot_grant_requested_oplock\0x8000002e\index.html.json
+
+title: 0x8000002E STATUS_CANNOT_GRANT_REQUESTED_OPLOCK in ntstatus.h
+description: An oplock of the requested level cannot be granted.  An oplock of a lower level may be available.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0x8000002E",
+  "codeUrl": "/win32/ntstatus-h/status_cannot_grant_requested_oplock/0x8000002e/",
+  "numericCode": -2147483602,
+  "define": "STATUS_CANNOT_GRANT_REQUESTED_OPLOCK",
+  "defineUrl": "/win32/ntstatus-h/status_cannot_grant_requested_oplock/",
+  "message": "An oplock of the requested level cannot be granted.  An oplock of a lower level may be available.",
+  "remarks": null,
+  "aka": [
+    "-2147483602"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_cannot_grant_requested_oplock/-2147483602/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

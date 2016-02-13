@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_invalid_oplock_protocol\0x8007012d\index.html.json
+canonical: /win32/winerror-h/error_invalid_oplock_protocol/301/
+title: 0x8007012d ERROR_INVALID_OPLOCK_PROTOCOL in winerror.h
+description: An invalid oplock acknowledgment was received by the system.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007012d",
+  "codeUrl": "/win32/winerror-h/error_invalid_oplock_protocol/0x8007012d/",
+  "numericCode": 0,
+  "define": "ERROR_INVALID_OPLOCK_PROTOCOL",
+  "defineUrl": "/win32/winerror-h/error_invalid_oplock_protocol/",
+  "message": "An invalid oplock acknowledgment was received by the system.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "301",
+  "originalCodeUrl": "/win32/winerror-h/error_invalid_oplock_protocol/301/"
+}

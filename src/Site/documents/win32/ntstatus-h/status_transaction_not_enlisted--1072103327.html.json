@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_transaction_not_enlisted\-1072103327\index.html.json
+canonical: /win32/ntstatus-h/status_transaction_not_enlisted/0xc0190061/
+title: -1072103327 STATUS_TRANSACTION_NOT_ENLISTED in ntstatus.h
+description: The specified operation could not be performed because the resource manager is not enlisted in the transaction.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1072103327",
+  "codeUrl": "/win32/ntstatus-h/status_transaction_not_enlisted/-1072103327/",
+  "numericCode": 0,
+  "define": "STATUS_TRANSACTION_NOT_ENLISTED",
+  "defineUrl": "/win32/ntstatus-h/status_transaction_not_enlisted/",
+  "message": "The specified operation could not be performed because the resource manager is not enlisted in the transaction.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0190061",
+  "originalCodeUrl": "/win32/ntstatus-h/status_transaction_not_enlisted/0xc0190061/"
+}

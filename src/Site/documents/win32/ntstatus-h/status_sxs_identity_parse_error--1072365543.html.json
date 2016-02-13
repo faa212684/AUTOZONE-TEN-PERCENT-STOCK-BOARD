@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_sxs_identity_parse_error\-1072365543\index.html.json
+canonical: /win32/ntstatus-h/status_sxs_identity_parse_error/0xc0150019/
+title: -1072365543 STATUS_SXS_IDENTITY_PARSE_ERROR in ntstatus.h
+description: The identity string is malformed. This may be due to a trailing comma, more than two unnamed attributes, missing attribute name or missing attribute value.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1072365543",
+  "codeUrl": "/win32/ntstatus-h/status_sxs_identity_parse_error/-1072365543/",
+  "numericCode": 0,
+  "define": "STATUS_SXS_IDENTITY_PARSE_ERROR",
+  "defineUrl": "/win32/ntstatus-h/status_sxs_identity_parse_error/",
+  "message": "The identity string is malformed. This may be due to a trailing comma, more than two unnamed attributes, missing attribute name or missing attribute value.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0150019",
+  "originalCodeUrl": "/win32/ntstatus-h/status_sxs_identity_parse_error/0xc0150019/"
+}

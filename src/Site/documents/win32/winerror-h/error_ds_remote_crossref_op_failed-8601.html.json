@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ds_remote_crossref_op_failed\8601\index.html.json
+
+title: 8601 ERROR_DS_REMOTE_CROSSREF_OP_FAILED in winerror.h
+description: The remote create cross reference operation failed on the Domain Naming Master FSMO. The operation's error is in the extended data.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "8601",
+  "codeUrl": "/win32/winerror-h/error_ds_remote_crossref_op_failed/8601/",
+  "numericCode": 8601,
+  "define": "ERROR_DS_REMOTE_CROSSREF_OP_FAILED",
+  "defineUrl": "/win32/winerror-h/error_ds_remote_crossref_op_failed/",
+  "message": "The remote create cross reference operation failed on the Domain Naming Master FSMO. The operation's error is in the extended data.",
+  "remarks": null,
+  "aka": [
+    "0x80072199",
+    "-2147016295"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ds_remote_crossref_op_failed/0x80072199/",
+    "/win32/winerror-h/error_ds_remote_crossref_op_failed/-2147016295/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

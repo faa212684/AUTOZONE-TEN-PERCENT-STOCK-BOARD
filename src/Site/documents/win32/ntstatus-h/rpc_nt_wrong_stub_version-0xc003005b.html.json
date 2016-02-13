@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\rpc_nt_wrong_stub_version\0xc003005b\index.html.json
+
+title: 0xC003005B RPC_NT_WRONG_STUB_VERSION in ntstatus.h
+description: Incompatible version of the RPC stub.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC003005B",
+  "codeUrl": "/win32/ntstatus-h/rpc_nt_wrong_stub_version/0xc003005b/",
+  "numericCode": -1073545125,
+  "define": "RPC_NT_WRONG_STUB_VERSION",
+  "defineUrl": "/win32/ntstatus-h/rpc_nt_wrong_stub_version/",
+  "message": "Incompatible version of the RPC stub.",
+  "remarks": null,
+  "aka": [
+    "-1073545125"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/rpc_nt_wrong_stub_version/-1073545125/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

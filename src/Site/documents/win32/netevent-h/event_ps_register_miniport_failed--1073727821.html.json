@@ -1,0 +1,24 @@
+---
+output: win32\netevent-h\event_ps_register_miniport_failed\-1073727821\index.html.json
+canonical: /win32/netevent-h/event_ps_register_miniport_failed/0xc00036b3/
+title: -1073727821 EVENT_PS_REGISTER_MINIPORT_FAILED in netevent.h
+description: QoS: The Packet Scheduler failed to register as a miniport with NDIS.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "-1073727821",
+  "codeUrl": "/win32/netevent-h/event_ps_register_miniport_failed/-1073727821/",
+  "numericCode": 0,
+  "define": "EVENT_PS_REGISTER_MINIPORT_FAILED",
+  "defineUrl": "/win32/netevent-h/event_ps_register_miniport_failed/",
+  "message": "QoS: The Packet Scheduler failed to register as a miniport with NDIS.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC00036B3",
+  "originalCodeUrl": "/win32/netevent-h/event_ps_register_miniport_failed/0xc00036b3/"
+}

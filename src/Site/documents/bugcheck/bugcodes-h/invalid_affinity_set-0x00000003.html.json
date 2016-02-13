@@ -1,0 +1,28 @@
+---
+output: bugcheck\bugcodes-h\invalid_affinity_set\0x00000003\index.html.json
+
+title: 0x00000003 INVALID_AFFINITY_SET in bugcodes.h
+description: INVALID_AFFINITY_SET
+disqus: true
+---
+{
+  "area": "bugcheck",
+  "areaUrl": "/bugcheck/",
+  "source": "bugcodes.h",
+  "sourceUrl": "/bugcheck/bugcodes-h/",
+  "code": "0x00000003",
+  "codeUrl": "/bugcheck/bugcodes-h/invalid_affinity_set/0x00000003/",
+  "numericCode": 3,
+  "define": "INVALID_AFFINITY_SET",
+  "defineUrl": "/bugcheck/bugcodes-h/invalid_affinity_set/",
+  "message": "INVALID_AFFINITY_SET",
+  "remarks": null,
+  "aka": [
+    "3"
+  ],
+  "akaUrl": [
+    "/bugcheck/bugcodes-h/invalid_affinity_set/3/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

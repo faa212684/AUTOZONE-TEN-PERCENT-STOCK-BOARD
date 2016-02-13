@@ -1,0 +1,28 @@
+---
+output: win32\nserror-h\ns_e_allocate_file_fail\0xc00d0061\index.html.json
+
+title: 0xC00D0061 NS_E_ALLOCATE_FILE_FAIL in nserror.h
+description: The NetShow Video Server was unable to allocate a %1 block file named %2.%0
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "nserror.h",
+  "sourceUrl": "/win32/nserror-h/",
+  "code": "0xC00D0061",
+  "codeUrl": "/win32/nserror-h/ns_e_allocate_file_fail/0xc00d0061/",
+  "numericCode": -1072889759,
+  "define": "NS_E_ALLOCATE_FILE_FAIL",
+  "defineUrl": "/win32/nserror-h/ns_e_allocate_file_fail/",
+  "message": "The NetShow Video Server was unable to allocate a %1 block file named %2.%0",
+  "remarks": null,
+  "aka": [
+    "-1072889759"
+  ],
+  "akaUrl": [
+    "/win32/nserror-h/ns_e_allocate_file_fail/-1072889759/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

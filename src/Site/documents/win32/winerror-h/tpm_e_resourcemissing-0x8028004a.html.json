@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\tpm_e_resourcemissing\0x8028004a\index.html.json
+
+title: 0x8028004A TPM_E_RESOURCEMISSING in winerror.h
+description: The resource pointed to by context is not loaded.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8028004A",
+  "codeUrl": "/win32/winerror-h/tpm_e_resourcemissing/0x8028004a/",
+  "numericCode": -2144862134,
+  "define": "TPM_E_RESOURCEMISSING",
+  "defineUrl": "/win32/winerror-h/tpm_e_resourcemissing/",
+  "message": "The resource pointed to by context is not loaded.",
+  "remarks": null,
+  "aka": [
+    "-2144862134"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/tpm_e_resourcemissing/-2144862134/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

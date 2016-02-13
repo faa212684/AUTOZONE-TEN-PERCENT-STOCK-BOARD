@@ -1,0 +1,28 @@
+---
+output: win32\cierror-h\qparse_e_weight_out_of_range\0x80041673\index.html.json
+
+title: 0x80041673 QPARSE_E_WEIGHT_OUT_OF_RANGE in CiError.h
+description: Weight must be between 0 and 1000 in short form queries and between 0.0 and 1.0 in long form queries.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "CiError.h",
+  "sourceUrl": "/win32/cierror-h/",
+  "code": "0x80041673",
+  "codeUrl": "/win32/cierror-h/qparse_e_weight_out_of_range/0x80041673/",
+  "numericCode": -2147215757,
+  "define": "QPARSE_E_WEIGHT_OUT_OF_RANGE",
+  "defineUrl": "/win32/cierror-h/qparse_e_weight_out_of_range/",
+  "message": "Weight must be between 0 and 1000 in short form queries and between 0.0 and 1.0 in long form queries.",
+  "remarks": null,
+  "aka": [
+    "-2147215757"
+  ],
+  "akaUrl": [
+    "/win32/cierror-h/qparse_e_weight_out_of_range/-2147215757/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

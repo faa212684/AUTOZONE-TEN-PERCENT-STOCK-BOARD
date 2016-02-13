@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_illegal_character\582\index.html.json
+
+title: 582 ERROR_ILLEGAL_CHARACTER in winerror.h
+description: An illegal character was encountered. For a multi-byte character set this includes a lead byte without a succeeding trail byte. For the Unicode character set this includes the characters 0xFFFF and 0xFFFE.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "582",
+  "codeUrl": "/win32/winerror-h/error_illegal_character/582/",
+  "numericCode": 582,
+  "define": "ERROR_ILLEGAL_CHARACTER",
+  "defineUrl": "/win32/winerror-h/error_illegal_character/",
+  "message": "An illegal character was encountered. For a multi-byte character set this includes a lead byte without a succeeding trail byte. For the Unicode character set this includes the characters 0xFFFF and 0xFFFE.",
+  "remarks": null,
+  "aka": [
+    "0x80070246",
+    "-2147024314"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_illegal_character/0x80070246/",
+    "/win32/winerror-h/error_illegal_character/-2147024314/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

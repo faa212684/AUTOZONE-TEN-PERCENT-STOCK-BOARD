@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_invalid_primary_group\0x8007051c\index.html.json
+canonical: /win32/winerror-h/error_invalid_primary_group/1308/
+title: 0x8007051c ERROR_INVALID_PRIMARY_GROUP in winerror.h
+description: This security ID may not be assigned as the primary group of an object.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007051c",
+  "codeUrl": "/win32/winerror-h/error_invalid_primary_group/0x8007051c/",
+  "numericCode": 0,
+  "define": "ERROR_INVALID_PRIMARY_GROUP",
+  "defineUrl": "/win32/winerror-h/error_invalid_primary_group/",
+  "message": "This security ID may not be assigned as the primary group of an object.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "1308",
+  "originalCodeUrl": "/win32/winerror-h/error_invalid_primary_group/1308/"
+}

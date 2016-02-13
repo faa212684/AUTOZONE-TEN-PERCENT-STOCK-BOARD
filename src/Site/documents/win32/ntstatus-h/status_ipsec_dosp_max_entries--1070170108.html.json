@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_ipsec_dosp_max_entries\-1070170108\index.html.json
+canonical: /win32/ntstatus-h/status_ipsec_dosp_max_entries/0xc0368004/
+title: -1070170108 STATUS_IPSEC_DOSP_MAX_ENTRIES in ntstatus.h
+description: IPsec DoS Protection failed to create state because the maximum number of entries allowed by policy has been reached.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1070170108",
+  "codeUrl": "/win32/ntstatus-h/status_ipsec_dosp_max_entries/-1070170108/",
+  "numericCode": 0,
+  "define": "STATUS_IPSEC_DOSP_MAX_ENTRIES",
+  "defineUrl": "/win32/ntstatus-h/status_ipsec_dosp_max_entries/",
+  "message": "IPsec DoS Protection failed to create state because the maximum number of entries allowed by policy has been reached.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0368004",
+  "originalCodeUrl": "/win32/ntstatus-h/status_ipsec_dosp_max_entries/0xc0368004/"
+}

@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_e_disk_configuration_not_in_sync\0x8004253a\index.html.json
+
+title: 0x8004253A VDS_E_DISK_CONFIGURATION_NOT_IN_SYNC in vdserr.h
+description: The disk configuration is not insync with the in-memory configuration.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x8004253A",
+  "codeUrl": "/win32/vdserr-h/vds_e_disk_configuration_not_in_sync/0x8004253a/",
+  "numericCode": -2147211974,
+  "define": "VDS_E_DISK_CONFIGURATION_NOT_IN_SYNC",
+  "defineUrl": "/win32/vdserr-h/vds_e_disk_configuration_not_in_sync/",
+  "message": "The disk configuration is not insync with the in-memory configuration.",
+  "remarks": null,
+  "aka": [
+    "-2147211974"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_disk_configuration_not_in_sync/-2147211974/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

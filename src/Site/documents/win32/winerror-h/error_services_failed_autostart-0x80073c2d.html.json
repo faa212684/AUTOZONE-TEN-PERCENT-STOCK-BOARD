@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_services_failed_autostart\0x80073c2d\index.html.json
+canonical: /win32/winerror-h/error_services_failed_autostart/15405/
+title: 0x80073c2d ERROR_SERVICES_FAILED_AUTOSTART in winerror.h
+description: One or more services failed to start during the service startup phase of a run level switch.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80073c2d",
+  "codeUrl": "/win32/winerror-h/error_services_failed_autostart/0x80073c2d/",
+  "numericCode": 0,
+  "define": "ERROR_SERVICES_FAILED_AUTOSTART",
+  "defineUrl": "/win32/winerror-h/error_services_failed_autostart/",
+  "message": "One or more services failed to start during the service startup phase of a run level switch.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "15405",
+  "originalCodeUrl": "/win32/winerror-h/error_services_failed_autostart/15405/"
+}

@@ -1,0 +1,29 @@
+---
+output: win32\oledberr-h\db_e_noaggregation\0x80040e22\index.html.json
+
+title: 0x80040E22 DB_E_NOAGGREGATION in oledberr.h
+description: Non-NULL controlling IUnknown was specified, and either the requested interface was not 
+IUnknown, or the provider does not support COM aggregation.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "oledberr.h",
+  "sourceUrl": "/win32/oledberr-h/",
+  "code": "0x80040E22",
+  "codeUrl": "/win32/oledberr-h/db_e_noaggregation/0x80040e22/",
+  "numericCode": -2147217886,
+  "define": "DB_E_NOAGGREGATION",
+  "defineUrl": "/win32/oledberr-h/db_e_noaggregation/",
+  "message": "Non-NULL controlling IUnknown was specified, and either the requested interface was not \r\nIUnknown, or the provider does not support COM aggregation.",
+  "remarks": null,
+  "aka": [
+    "-2147217886"
+  ],
+  "akaUrl": [
+    "/win32/oledberr-h/db_e_noaggregation/-2147217886/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

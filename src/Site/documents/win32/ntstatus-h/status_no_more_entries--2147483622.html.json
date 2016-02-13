@@ -1,0 +1,25 @@
+---
+output: win32\ntstatus-h\status_no_more_entries\-2147483622\index.html.json
+canonical: /win32/ntstatus-h/status_no_more_entries/0x8000001a/
+title: -2147483622 STATUS_NO_MORE_ENTRIES in ntstatus.h
+description: "{No More Entries}
+No more entries are available from an enumeration operation."
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-2147483622",
+  "codeUrl": "/win32/ntstatus-h/status_no_more_entries/-2147483622/",
+  "numericCode": 0,
+  "define": "STATUS_NO_MORE_ENTRIES",
+  "defineUrl": "/win32/ntstatus-h/status_no_more_entries/",
+  "message": "{No More Entries}\r\nNo more entries are available from an enumeration operation.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x8000001A",
+  "originalCodeUrl": "/win32/ntstatus-h/status_no_more_entries/0x8000001a/"
+}

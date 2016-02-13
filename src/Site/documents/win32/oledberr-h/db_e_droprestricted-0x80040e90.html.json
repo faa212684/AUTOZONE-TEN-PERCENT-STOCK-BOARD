@@ -1,0 +1,28 @@
+---
+output: win32\oledberr-h\db_e_droprestricted\0x80040e90\index.html.json
+
+title: 0x80040E90 DB_E_DROPRESTRICTED in oledberr.h
+description: Column or constraint could not be dropped because it is referenced by a dependent view or constraint.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "oledberr.h",
+  "sourceUrl": "/win32/oledberr-h/",
+  "code": "0x80040E90",
+  "codeUrl": "/win32/oledberr-h/db_e_droprestricted/0x80040e90/",
+  "numericCode": -2147217776,
+  "define": "DB_E_DROPRESTRICTED",
+  "defineUrl": "/win32/oledberr-h/db_e_droprestricted/",
+  "message": "Column or constraint could not be dropped because it is referenced by a dependent view or constraint.",
+  "remarks": null,
+  "aka": [
+    "-2147217776"
+  ],
+  "akaUrl": [
+    "/win32/oledberr-h/db_e_droprestricted/-2147217776/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

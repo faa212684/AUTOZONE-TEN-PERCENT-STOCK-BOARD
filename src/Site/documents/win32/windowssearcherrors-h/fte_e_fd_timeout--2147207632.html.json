@@ -1,0 +1,24 @@
+---
+output: win32\windowssearcherrors-h\fte_e_fd_timeout\-2147207632\index.html.json
+canonical: /win32/windowssearcherrors-h/fte_e_fd_timeout/0x80043630/
+title: -2147207632 FTE_E_FD_TIMEOUT in WindowsSearchErrors.h
+description: The filter daemon process MSFTEFD timed out for an unknown reason. This may indicate a bug in a filter, wordbreaker, or protocol handler.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "-2147207632",
+  "codeUrl": "/win32/windowssearcherrors-h/fte_e_fd_timeout/-2147207632/",
+  "numericCode": 0,
+  "define": "FTE_E_FD_TIMEOUT",
+  "defineUrl": "/win32/windowssearcherrors-h/fte_e_fd_timeout/",
+  "message": "The filter daemon process MSFTEFD timed out for an unknown reason. This may indicate a bug in a filter, wordbreaker, or protocol handler.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80043630",
+  "originalCodeUrl": "/win32/windowssearcherrors-h/fte_e_fd_timeout/0x80043630/"
+}

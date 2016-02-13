@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\dns_info_no_records\0x8007251d\index.html.json
+canonical: /win32/winerror-h/dns_info_no_records/9501/
+title: 0x8007251d DNS_INFO_NO_RECORDS in winerror.h
+description: No records found for given DNS query.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007251d",
+  "codeUrl": "/win32/winerror-h/dns_info_no_records/0x8007251d/",
+  "numericCode": 0,
+  "define": "DNS_INFO_NO_RECORDS",
+  "defineUrl": "/win32/winerror-h/dns_info_no_records/",
+  "message": "No records found for given DNS query.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "9501",
+  "originalCodeUrl": "/win32/winerror-h/dns_info_no_records/9501/"
+}

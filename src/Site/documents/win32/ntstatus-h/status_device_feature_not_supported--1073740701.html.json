@@ -1,0 +1,25 @@
+---
+output: win32\ntstatus-h\status_device_feature_not_supported\-1073740701\index.html.json
+canonical: /win32/ntstatus-h/status_device_feature_not_supported/0xc0000463/
+title: -1073740701 STATUS_DEVICE_FEATURE_NOT_SUPPORTED in ntstatus.h
+description: "{Device Feature Not Supported}
+The device does not support the command feature."
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073740701",
+  "codeUrl": "/win32/ntstatus-h/status_device_feature_not_supported/-1073740701/",
+  "numericCode": 0,
+  "define": "STATUS_DEVICE_FEATURE_NOT_SUPPORTED",
+  "defineUrl": "/win32/ntstatus-h/status_device_feature_not_supported/",
+  "message": "{Device Feature Not Supported}\r\nThe device does not support the command feature.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000463",
+  "originalCodeUrl": "/win32/ntstatus-h/status_device_feature_not_supported/0xc0000463/"
+}

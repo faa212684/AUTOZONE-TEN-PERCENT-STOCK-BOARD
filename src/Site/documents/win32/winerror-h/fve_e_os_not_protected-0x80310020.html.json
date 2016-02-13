@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\fve_e_os_not_protected\0x80310020\index.html.json
+
+title: 0x80310020 FVE_E_OS_NOT_PROTECTED in winerror.h
+description: The operating system drive is not protected by BitLocker Drive Encryption.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80310020",
+  "codeUrl": "/win32/winerror-h/fve_e_os_not_protected/0x80310020/",
+  "numericCode": -2144272352,
+  "define": "FVE_E_OS_NOT_PROTECTED",
+  "defineUrl": "/win32/winerror-h/fve_e_os_not_protected/",
+  "message": "The operating system drive is not protected by BitLocker Drive Encryption.",
+  "remarks": null,
+  "aka": [
+    "-2144272352"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/fve_e_os_not_protected/-2144272352/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

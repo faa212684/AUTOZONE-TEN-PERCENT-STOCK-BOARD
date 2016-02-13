@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ip_address_conflict2\612\index.html.json
+
+title: 612 ERROR_IP_ADDRESS_CONFLICT2 in winerror.h
+description: There is an IP address conflict with another system on the network
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "612",
+  "codeUrl": "/win32/winerror-h/error_ip_address_conflict2/612/",
+  "numericCode": 612,
+  "define": "ERROR_IP_ADDRESS_CONFLICT2",
+  "defineUrl": "/win32/winerror-h/error_ip_address_conflict2/",
+  "message": "There is an IP address conflict with another system on the network",
+  "remarks": null,
+  "aka": [
+    "0x80070264",
+    "-2147024284"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ip_address_conflict2/0x80070264/",
+    "/win32/winerror-h/error_ip_address_conflict2/-2147024284/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_pcp_policy_not_found\0xc029200a\index.html.json
+
+title: 0xC029200A STATUS_PCP_POLICY_NOT_FOUND in ntstatus.h
+description: The referenced policy was not found.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC029200A",
+  "codeUrl": "/win32/ntstatus-h/status_pcp_policy_not_found/0xc029200a/",
+  "numericCode": -1071046646,
+  "define": "STATUS_PCP_POLICY_NOT_FOUND",
+  "defineUrl": "/win32/ntstatus-h/status_pcp_policy_not_found/",
+  "message": "The referenced policy was not found.",
+  "remarks": null,
+  "aka": [
+    "-1071046646"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_pcp_policy_not_found/-1071046646/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

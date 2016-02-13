@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\nte_token_keyset_storage_full\-2146893789\index.html.json
+canonical: /win32/winerror-h/nte_token_keyset_storage_full/0x80090023/
+title: -2146893789 NTE_TOKEN_KEYSET_STORAGE_FULL in winerror.h
+description: The security token does not have storage space available for an additional container.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2146893789",
+  "codeUrl": "/win32/winerror-h/nte_token_keyset_storage_full/-2146893789/",
+  "numericCode": 0,
+  "define": "NTE_TOKEN_KEYSET_STORAGE_FULL",
+  "defineUrl": "/win32/winerror-h/nte_token_keyset_storage_full/",
+  "message": "The security token does not have storage space available for an additional container.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80090023",
+  "originalCodeUrl": "/win32/winerror-h/nte_token_keyset_storage_full/0x80090023/"
+}

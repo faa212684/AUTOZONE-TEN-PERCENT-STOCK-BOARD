@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_volmgr_disk_revectoring_failed\0xc0380014\index.html.json
+
+title: 0xC0380014 STATUS_VOLMGR_DISK_REVECTORING_FAILED in ntstatus.h
+description: The force revectoring of bad sectors failed.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0380014",
+  "codeUrl": "/win32/ntstatus-h/status_volmgr_disk_revectoring_failed/0xc0380014/",
+  "numericCode": -1070071788,
+  "define": "STATUS_VOLMGR_DISK_REVECTORING_FAILED",
+  "defineUrl": "/win32/ntstatus-h/status_volmgr_disk_revectoring_failed/",
+  "message": "The force revectoring of bad sectors failed.",
+  "remarks": null,
+  "aka": [
+    "-1070071788"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_volmgr_disk_revectoring_failed/-1070071788/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

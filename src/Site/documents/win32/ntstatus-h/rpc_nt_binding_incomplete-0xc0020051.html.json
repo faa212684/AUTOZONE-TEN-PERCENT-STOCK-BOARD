@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\rpc_nt_binding_incomplete\0xc0020051\index.html.json
+
+title: 0xC0020051 RPC_NT_BINDING_INCOMPLETE in ntstatus.h
+description: The binding handle does not contain all required information.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0020051",
+  "codeUrl": "/win32/ntstatus-h/rpc_nt_binding_incomplete/0xc0020051/",
+  "numericCode": -1073610671,
+  "define": "RPC_NT_BINDING_INCOMPLETE",
+  "defineUrl": "/win32/ntstatus-h/rpc_nt_binding_incomplete/",
+  "message": "The binding handle does not contain all required information.",
+  "remarks": null,
+  "aka": [
+    "-1073610671"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/rpc_nt_binding_incomplete/-1073610671/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_ds_cant_mod_obj_class\0xc00002ae\index.html.json
+
+title: 0xC00002AE STATUS_DS_CANT_MOD_OBJ_CLASS in ntstatus.h
+description: The directory service detected an attempt to modify the object class of an object.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC00002AE",
+  "codeUrl": "/win32/ntstatus-h/status_ds_cant_mod_obj_class/0xc00002ae/",
+  "numericCode": -1073741138,
+  "define": "STATUS_DS_CANT_MOD_OBJ_CLASS",
+  "defineUrl": "/win32/ntstatus-h/status_ds_cant_mod_obj_class/",
+  "message": "The directory service detected an attempt to modify the object class of an object.",
+  "remarks": null,
+  "aka": [
+    "-1073741138"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_ds_cant_mod_obj_class/-1073741138/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

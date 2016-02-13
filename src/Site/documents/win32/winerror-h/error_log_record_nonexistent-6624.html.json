@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_log_record_nonexistent\6624\index.html.json
+
+title: 6624 ERROR_LOG_RECORD_NONEXISTENT in winerror.h
+description: Log record is not a record in the log file.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "6624",
+  "codeUrl": "/win32/winerror-h/error_log_record_nonexistent/6624/",
+  "numericCode": 6624,
+  "define": "ERROR_LOG_RECORD_NONEXISTENT",
+  "defineUrl": "/win32/winerror-h/error_log_record_nonexistent/",
+  "message": "Log record is not a record in the log file.",
+  "remarks": null,
+  "aka": [
+    "0x800719e0",
+    "-2147018272"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_log_record_nonexistent/0x800719e0/",
+    "/win32/winerror-h/error_log_record_nonexistent/-2147018272/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

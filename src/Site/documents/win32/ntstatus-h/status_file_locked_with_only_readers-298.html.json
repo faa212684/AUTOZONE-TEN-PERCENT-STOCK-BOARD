@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_file_locked_with_only_readers\298\index.html.json
+canonical: /win32/ntstatus-h/status_file_locked_with_only_readers/0x0000012a/
+title: 298 STATUS_FILE_LOCKED_WITH_ONLY_READERS in ntstatus.h
+description: The file was locked and all users of the file can only read.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "298",
+  "codeUrl": "/win32/ntstatus-h/status_file_locked_with_only_readers/298/",
+  "numericCode": 0,
+  "define": "STATUS_FILE_LOCKED_WITH_ONLY_READERS",
+  "defineUrl": "/win32/ntstatus-h/status_file_locked_with_only_readers/",
+  "message": "The file was locked and all users of the file can only read.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x0000012A",
+  "originalCodeUrl": "/win32/ntstatus-h/status_file_locked_with_only_readers/0x0000012a/"
+}

@@ -1,0 +1,30 @@
+---
+output: win32\netevent-h\event_tcpip_address_conflict2\0xc0001067\index.html.json
+
+title: 0xC0001067 EVENT_TCPIP_ADDRESS_CONFLICT2 in netevent.h
+description: The system detected an address conflict for IP address %2 with the system
+having network hardware address %3. Network operations on this system may
+be disrupted as a result.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC0001067",
+  "codeUrl": "/win32/netevent-h/event_tcpip_address_conflict2/0xc0001067/",
+  "numericCode": -1073737625,
+  "define": "EVENT_TCPIP_ADDRESS_CONFLICT2",
+  "defineUrl": "/win32/netevent-h/event_tcpip_address_conflict2/",
+  "message": "The system detected an address conflict for IP address %2 with the system\r\nhaving network hardware address %3. Network operations on this system may\r\nbe disrupted as a result.",
+  "remarks": null,
+  "aka": [
+    "-1073737625"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_tcpip_address_conflict2/-1073737625/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

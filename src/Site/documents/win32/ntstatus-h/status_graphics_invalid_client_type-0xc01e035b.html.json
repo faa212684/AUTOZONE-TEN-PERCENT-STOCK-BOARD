@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_graphics_invalid_client_type\0xc01e035b\index.html.json
+
+title: 0xC01E035B STATUS_GRAPHICS_INVALID_CLIENT_TYPE in ntstatus.h
+description: Specified client type was not recognized.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC01E035B",
+  "codeUrl": "/win32/ntstatus-h/status_graphics_invalid_client_type/0xc01e035b/",
+  "numericCode": -1071774885,
+  "define": "STATUS_GRAPHICS_INVALID_CLIENT_TYPE",
+  "defineUrl": "/win32/ntstatus-h/status_graphics_invalid_client_type/",
+  "message": "Specified client type was not recognized.",
+  "remarks": null,
+  "aka": [
+    "-1071774885"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_graphics_invalid_client_type/-1071774885/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\rpc_s_no_context_available\0x800706e5\index.html.json
+canonical: /win32/winerror-h/rpc_s_no_context_available/1765/
+title: 0x800706e5 RPC_S_NO_CONTEXT_AVAILABLE in winerror.h
+description: No security context is available to allow impersonation.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800706e5",
+  "codeUrl": "/win32/winerror-h/rpc_s_no_context_available/0x800706e5/",
+  "numericCode": 0,
+  "define": "RPC_S_NO_CONTEXT_AVAILABLE",
+  "defineUrl": "/win32/winerror-h/rpc_s_no_context_available/",
+  "message": "No security context is available to allow impersonation.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "1765",
+  "originalCodeUrl": "/win32/winerror-h/rpc_s_no_context_available/1765/"
+}

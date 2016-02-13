@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_no_security_context\0xc000042d\index.html.json
+
+title: 0xC000042D STATUS_NO_SECURITY_CONTEXT in ntstatus.h
+description: The required security context does not exist.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000042D",
+  "codeUrl": "/win32/ntstatus-h/status_no_security_context/0xc000042d/",
+  "numericCode": -1073740755,
+  "define": "STATUS_NO_SECURITY_CONTEXT",
+  "defineUrl": "/win32/ntstatus-h/status_no_security_context/",
+  "message": "The required security context does not exist.",
+  "remarks": null,
+  "aka": [
+    "-1073740755"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_no_security_context/-1073740755/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

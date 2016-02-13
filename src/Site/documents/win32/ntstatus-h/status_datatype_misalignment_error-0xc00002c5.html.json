@@ -1,0 +1,30 @@
+---
+output: win32\ntstatus-h\status_datatype_misalignment_error\0xc00002c5\index.html.json
+
+title: 0xC00002C5 STATUS_DATATYPE_MISALIGNMENT_ERROR in ntstatus.h
+description: "{EXCEPTION}
+Alignment Error
+A datatype misalignment error was detected in a load or store instruction."
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC00002C5",
+  "codeUrl": "/win32/ntstatus-h/status_datatype_misalignment_error/0xc00002c5/",
+  "numericCode": -1073741115,
+  "define": "STATUS_DATATYPE_MISALIGNMENT_ERROR",
+  "defineUrl": "/win32/ntstatus-h/status_datatype_misalignment_error/",
+  "message": "{EXCEPTION}\r\nAlignment Error\r\nA datatype misalignment error was detected in a load or store instruction.",
+  "remarks": null,
+  "aka": [
+    "-1073741115"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_datatype_misalignment_error/-1073741115/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\ntiologc-h\mca_warning_cmc_threshold_exceeded\0x8005006d\index.html.json
+
+title: 0x8005006D MCA_WARNING_CMC_THRESHOLD_EXCEEDED in ntiologc.h
+description: Corrected Machine Check Interrupt threshold exceeded. Interrupt has been disabled. Polling mode has been enabled.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntiologc.h",
+  "sourceUrl": "/win32/ntiologc-h/",
+  "code": "0x8005006D",
+  "codeUrl": "/win32/ntiologc-h/mca_warning_cmc_threshold_exceeded/0x8005006d/",
+  "numericCode": -2147155859,
+  "define": "MCA_WARNING_CMC_THRESHOLD_EXCEEDED",
+  "defineUrl": "/win32/ntiologc-h/mca_warning_cmc_threshold_exceeded/",
+  "message": "Corrected Machine Check Interrupt threshold exceeded. Interrupt has been disabled. Polling mode has been enabled.",
+  "remarks": null,
+  "aka": [
+    "-2147155859"
+  ],
+  "akaUrl": [
+    "/win32/ntiologc-h/mca_warning_cmc_threshold_exceeded/-2147155859/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_graphics_insufficient_dma_buffer\-1071243263\index.html.json
+canonical: /win32/winerror-h/error_graphics_insufficient_dma_buffer/0xc0262001/
+title: -1071243263 ERROR_GRAPHICS_INSUFFICIENT_DMA_BUFFER in winerror.h
+description: The driver needs more DMA buffer space in order to complete the requested operation.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-1071243263",
+  "codeUrl": "/win32/winerror-h/error_graphics_insufficient_dma_buffer/-1071243263/",
+  "numericCode": 0,
+  "define": "ERROR_GRAPHICS_INSUFFICIENT_DMA_BUFFER",
+  "defineUrl": "/win32/winerror-h/error_graphics_insufficient_dma_buffer/",
+  "message": "The driver needs more DMA buffer space in order to complete the requested operation.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0262001",
+  "originalCodeUrl": "/win32/winerror-h/error_graphics_insufficient_dma_buffer/0xc0262001/"
+}

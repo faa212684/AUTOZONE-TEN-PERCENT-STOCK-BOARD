@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_e_disk_being_cleaned\0x80042558\index.html.json
+
+title: 0x80042558 VDS_E_DISK_BEING_CLEANED in vdserr.h
+description: The operation is not allowed on a disk that is in the process of being cleaned.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x80042558",
+  "codeUrl": "/win32/vdserr-h/vds_e_disk_being_cleaned/0x80042558/",
+  "numericCode": -2147211944,
+  "define": "VDS_E_DISK_BEING_CLEANED",
+  "defineUrl": "/win32/vdserr-h/vds_e_disk_being_cleaned/",
+  "message": "The operation is not allowed on a disk that is in the process of being cleaned.",
+  "remarks": null,
+  "aka": [
+    "-2147211944"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_disk_being_cleaned/-2147211944/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

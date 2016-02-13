@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_volmgr_disk_not_enough_space\-1070071789\index.html.json
+canonical: /win32/ntstatus-h/status_volmgr_disk_not_enough_space/0xc0380013/
+title: -1070071789 STATUS_VOLMGR_DISK_NOT_ENOUGH_SPACE in ntstatus.h
+description: There is not enough usable space for this operation.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1070071789",
+  "codeUrl": "/win32/ntstatus-h/status_volmgr_disk_not_enough_space/-1070071789/",
+  "numericCode": 0,
+  "define": "STATUS_VOLMGR_DISK_NOT_ENOUGH_SPACE",
+  "defineUrl": "/win32/ntstatus-h/status_volmgr_disk_not_enough_space/",
+  "message": "There is not enough usable space for this operation.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0380013",
+  "originalCodeUrl": "/win32/ntstatus-h/status_volmgr_disk_not_enough_space/0xc0380013/"
+}

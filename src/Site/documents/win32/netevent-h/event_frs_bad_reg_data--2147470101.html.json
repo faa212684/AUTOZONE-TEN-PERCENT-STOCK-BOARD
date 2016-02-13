@@ -1,0 +1,46 @@
+---
+output: win32\netevent-h\event_frs_bad_reg_data\-2147470101\index.html.json
+canonical: /win32/netevent-h/event_frs_bad_reg_data/0x800034eb/
+title: -2147470101 EVENT_FRS_BAD_REG_DATA in netevent.h
+description: The File Replication Service detected an invalid parameter value in the
+registry.  %1.
+%n
+%nThe expected registry key name is "%2".
+%nThe expected value name is "%3".
+%nThe expected registry data type is %4.
+%nThe allowed range for this parameter is %5
+%nThe data units for this parameter value are %6.
+%nThe File Replication Service is using a default value of "%7".
+%n
+%nTo change this parameter, run regedt32.
+%n
+%nClick on Start, Run and type regedt32.
+%n
+%nClick on the window entitled HKEY_LOCAL_MACHINE.
+%nClick down the key path: "%8"
+%nDouble click on the value name -
+%n    "%9"
+%nand update the value.
+%nIf the value name is not present you may add it with the Add Value function
+under the Edit Menu item. Type the value name exactly as shown above using the
+above registry data type.  Make sure you observe the data units and allowed range
+when entering the value.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "-2147470101",
+  "codeUrl": "/win32/netevent-h/event_frs_bad_reg_data/-2147470101/",
+  "numericCode": 0,
+  "define": "EVENT_FRS_BAD_REG_DATA",
+  "defineUrl": "/win32/netevent-h/event_frs_bad_reg_data/",
+  "message": "The File Replication Service detected an invalid parameter value in the\r\nregistry.  %1.\r\n%n\r\n%nThe expected registry key name is \"%2\".\r\n%nThe expected value name is \"%3\".\r\n%nThe expected registry data type is %4.\r\n%nThe allowed range for this parameter is %5\r\n%nThe data units for this parameter value are %6.\r\n%nThe File Replication Service is using a default value of \"%7\".\r\n%n\r\n%nTo change this parameter, run regedt32.\r\n%n\r\n%nClick on Start, Run and type regedt32.\r\n%n\r\n%nClick on the window entitled HKEY_LOCAL_MACHINE.\r\n%nClick down the key path: \"%8\"\r\n%nDouble click on the value name -\r\n%n    \"%9\"\r\n%nand update the value.\r\n%nIf the value name is not present you may add it with the Add Value function\r\nunder the Edit Menu item. Type the value name exactly as shown above using the\r\nabove registry data type.  Make sure you observe the data units and allowed range\r\nwhen entering the value.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x800034EB",
+  "originalCodeUrl": "/win32/netevent-h/event_frs_bad_reg_data/0x800034eb/"
+}

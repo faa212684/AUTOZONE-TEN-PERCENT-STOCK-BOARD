@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_recovery_failure\-1073741273\index.html.json
+canonical: /win32/ntstatus-h/status_recovery_failure/0xc0000227/
+title: -1073741273 STATUS_RECOVERY_FAILURE in ntstatus.h
+description: A transaction recover failed.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741273",
+  "codeUrl": "/win32/ntstatus-h/status_recovery_failure/-1073741273/",
+  "numericCode": 0,
+  "define": "STATUS_RECOVERY_FAILURE",
+  "defineUrl": "/win32/ntstatus-h/status_recovery_failure/",
+  "message": "A transaction recover failed.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000227",
+  "originalCodeUrl": "/win32/ntstatus-h/status_recovery_failure/0xc0000227/"
+}

@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\dns_error_zone_locked\9607\index.html.json
+
+title: 9607 DNS_ERROR_ZONE_LOCKED in winerror.h
+description: DNS zone is locked.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "9607",
+  "codeUrl": "/win32/winerror-h/dns_error_zone_locked/9607/",
+  "numericCode": 9607,
+  "define": "DNS_ERROR_ZONE_LOCKED",
+  "defineUrl": "/win32/winerror-h/dns_error_zone_locked/",
+  "message": "DNS zone is locked.",
+  "remarks": null,
+  "aka": [
+    "0x80072587",
+    "-2147015289"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/dns_error_zone_locked/0x80072587/",
+    "/win32/winerror-h/dns_error_zone_locked/-2147015289/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

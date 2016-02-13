@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\wininet_e_incorrect_handle_type\-2147012878\index.html.json
+canonical: /win32/winerror-h/wininet_e_incorrect_handle_type/0x80072ef2/
+title: -2147012878 WININET_E_INCORRECT_HANDLE_TYPE in winerror.h
+description: The supplied handle is the wrong type for the requested operation
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147012878",
+  "codeUrl": "/win32/winerror-h/wininet_e_incorrect_handle_type/-2147012878/",
+  "numericCode": 0,
+  "define": "WININET_E_INCORRECT_HANDLE_TYPE",
+  "defineUrl": "/win32/winerror-h/wininet_e_incorrect_handle_type/",
+  "message": "The supplied handle is the wrong type for the requested operation",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80072EF2",
+  "originalCodeUrl": "/win32/winerror-h/wininet_e_incorrect_handle_type/0x80072ef2/"
+}

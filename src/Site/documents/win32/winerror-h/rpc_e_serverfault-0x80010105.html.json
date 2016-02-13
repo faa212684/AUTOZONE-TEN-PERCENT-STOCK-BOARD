@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\rpc_e_serverfault\0x80010105\index.html.json
+
+title: 0x80010105 RPC_E_SERVERFAULT in winerror.h
+description: The server threw an exception.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80010105",
+  "codeUrl": "/win32/winerror-h/rpc_e_serverfault/0x80010105/",
+  "numericCode": -2147417851,
+  "define": "RPC_E_SERVERFAULT",
+  "defineUrl": "/win32/winerror-h/rpc_e_serverfault/",
+  "message": "The server threw an exception.",
+  "remarks": null,
+  "aka": [
+    "-2147417851"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/rpc_e_serverfault/-2147417851/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

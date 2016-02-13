@@ -1,0 +1,30 @@
+---
+output: win32\ntstatus-h\status_ft_write_recovery\0x4000000b\index.html.json
+
+title: 0x4000000B STATUS_FT_WRITE_RECOVERY in ntstatus.h
+description: "{Redundant Write}
+To satisfy a write request, the NT fault-tolerant file system successfully wrote a redundant copy of the information.
+This was done because the file system encountered a failure on a member of the fault-tolerant volume, but was not able to reassign the failing area of the device."
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0x4000000B",
+  "codeUrl": "/win32/ntstatus-h/status_ft_write_recovery/0x4000000b/",
+  "numericCode": 1073741835,
+  "define": "STATUS_FT_WRITE_RECOVERY",
+  "defineUrl": "/win32/ntstatus-h/status_ft_write_recovery/",
+  "message": "{Redundant Write}\r\nTo satisfy a write request, the NT fault-tolerant file system successfully wrote a redundant copy of the information.\r\nThis was done because the file system encountered a failure on a member of the fault-tolerant volume, but was not able to reassign the failing area of the device.",
+  "remarks": null,
+  "aka": [
+    "1073741835"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_ft_write_recovery/1073741835/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

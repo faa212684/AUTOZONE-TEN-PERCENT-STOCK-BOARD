@@ -1,0 +1,28 @@
+---
+output: win32\ntdsbmsg-h\hrlogfilenotfound\0xc7ff000a\index.html.json
+
+title: 0xC7FF000A hrLogFileNotFound in NtDsBMsg.h
+description: Unable to perform an incremental backup because a required Windows NT Directory Service database log file could not be found.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "NtDsBMsg.h",
+  "sourceUrl": "/win32/ntdsbmsg-h/",
+  "code": "0xC7FF000A",
+  "codeUrl": "/win32/ntdsbmsg-h/hrlogfilenotfound/0xc7ff000a/",
+  "numericCode": -939589622,
+  "define": "hrLogFileNotFound",
+  "defineUrl": "/win32/ntdsbmsg-h/hrlogfilenotfound/",
+  "message": "Unable to perform an incremental backup because a required Windows NT Directory Service database log file could not be found.",
+  "remarks": null,
+  "aka": [
+    "-939589622"
+  ],
+  "akaUrl": [
+    "/win32/ntdsbmsg-h/hrlogfilenotfound/-939589622/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

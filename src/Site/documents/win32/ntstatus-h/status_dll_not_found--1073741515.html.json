@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_dll_not_found\-1073741515\index.html.json
+canonical: /win32/ntstatus-h/status_dll_not_found/0xc0000135/
+title: -1073741515 STATUS_DLL_NOT_FOUND in ntstatus.h
+description: The program can't start because %hs is missing from your computer. Try reinstalling the program to fix this problem.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741515",
+  "codeUrl": "/win32/ntstatus-h/status_dll_not_found/-1073741515/",
+  "numericCode": 0,
+  "define": "STATUS_DLL_NOT_FOUND",
+  "defineUrl": "/win32/ntstatus-h/status_dll_not_found/",
+  "message": "The program can't start because %hs is missing from your computer. Try reinstalling the program to fix this problem.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000135",
+  "originalCodeUrl": "/win32/ntstatus-h/status_dll_not_found/0xc0000135/"
+}

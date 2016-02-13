@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_tpm_requires_sign\-1071054791\index.html.json
+canonical: /win32/ntstatus-h/status_tpm_requires_sign/0xc0290039/
+title: -1071054791 STATUS_TPM_REQUIRES_SIGN in ntstatus.h
+description: The operation requires a signed command.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071054791",
+  "codeUrl": "/win32/ntstatus-h/status_tpm_requires_sign/-1071054791/",
+  "numericCode": 0,
+  "define": "STATUS_TPM_REQUIRES_SIGN",
+  "defineUrl": "/win32/ntstatus-h/status_tpm_requires_sign/",
+  "message": "The operation requires a signed command.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0290039",
+  "originalCodeUrl": "/win32/ntstatus-h/status_tpm_requires_sign/0xc0290039/"
+}

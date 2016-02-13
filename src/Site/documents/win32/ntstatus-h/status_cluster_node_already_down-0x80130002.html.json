@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_cluster_node_already_down\0x80130002\index.html.json
+
+title: 0x80130002 STATUS_CLUSTER_NODE_ALREADY_DOWN in ntstatus.h
+description: The cluster node is already down.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0x80130002",
+  "codeUrl": "/win32/ntstatus-h/status_cluster_node_already_down/0x80130002/",
+  "numericCode": -2146238462,
+  "define": "STATUS_CLUSTER_NODE_ALREADY_DOWN",
+  "defineUrl": "/win32/ntstatus-h/status_cluster_node_already_down/",
+  "message": "The cluster node is already down.",
+  "remarks": null,
+  "aka": [
+    "-2146238462"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_cluster_node_already_down/-2146238462/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

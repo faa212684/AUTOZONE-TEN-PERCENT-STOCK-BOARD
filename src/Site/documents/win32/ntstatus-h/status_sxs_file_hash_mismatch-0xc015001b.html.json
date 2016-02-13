@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_sxs_file_hash_mismatch\0xc015001b\index.html.json
+
+title: 0xC015001B STATUS_SXS_FILE_HASH_MISMATCH in ntstatus.h
+description: A component's file does not match the verification information present in the component manifest.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC015001B",
+  "codeUrl": "/win32/ntstatus-h/status_sxs_file_hash_mismatch/0xc015001b/",
+  "numericCode": -1072365541,
+  "define": "STATUS_SXS_FILE_HASH_MISMATCH",
+  "defineUrl": "/win32/ntstatus-h/status_sxs_file_hash_mismatch/",
+  "message": "A component's file does not match the verification information present in the component manifest.",
+  "remarks": null,
+  "aka": [
+    "-1072365541"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_sxs_file_hash_mismatch/-1072365541/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

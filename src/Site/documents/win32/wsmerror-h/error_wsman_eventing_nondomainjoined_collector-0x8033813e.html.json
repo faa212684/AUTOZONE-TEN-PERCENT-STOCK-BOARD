@@ -1,0 +1,30 @@
+---
+output: win32\wsmerror-h\error_wsman_eventing_nondomainjoined_collector\0x8033813e\index.html.json
+
+title: 0x8033813E ERROR_WSMAN_EVENTING_NONDOMAINJOINED_COLLECTOR in wsmerror.h
+description: The WS-Management client cannot process the request. The subscriber machine is not joined to a domain.
+To set up a push subscription session to an event source, the subscriber machine has to be connected to a domain.
+To fix this problem either join the subscriber machine to a domain or use PULL as the delivery mode for the subscription.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x8033813E",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_eventing_nondomainjoined_collector/0x8033813e/",
+  "numericCode": -2144108226,
+  "define": "ERROR_WSMAN_EVENTING_NONDOMAINJOINED_COLLECTOR",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_eventing_nondomainjoined_collector/",
+  "message": "The WS-Management client cannot process the request. The subscriber machine is not joined to a domain.\r\nTo set up a push subscription session to an event source, the subscriber machine has to be connected to a domain.\r\nTo fix this problem either join the subscriber machine to a domain or use PULL as the delivery mode for the subscription.",
+  "remarks": null,
+  "aka": [
+    "-2144108226"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_eventing_nondomainjoined_collector/-2144108226/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

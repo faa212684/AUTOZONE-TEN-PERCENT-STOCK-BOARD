@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_graphics_pvp_invalid_certificate_length\-1071774450\index.html.json
+canonical: /win32/ntstatus-h/status_graphics_pvp_invalid_certificate_length/0xc01e050e/
+title: -1071774450 STATUS_GRAPHICS_PVP_INVALID_CERTIFICATE_LENGTH in ntstatus.h
+description: A certificate could not be returned because the certificate buffer passed to the function was too small.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071774450",
+  "codeUrl": "/win32/ntstatus-h/status_graphics_pvp_invalid_certificate_length/-1071774450/",
+  "numericCode": 0,
+  "define": "STATUS_GRAPHICS_PVP_INVALID_CERTIFICATE_LENGTH",
+  "defineUrl": "/win32/ntstatus-h/status_graphics_pvp_invalid_certificate_length/",
+  "message": "A certificate could not be returned because the certificate buffer passed to the function was too small.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC01E050E",
+  "originalCodeUrl": "/win32/ntstatus-h/status_graphics_pvp_invalid_certificate_length/0xc01e050e/"
+}

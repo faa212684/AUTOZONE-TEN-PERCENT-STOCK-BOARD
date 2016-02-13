@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_resource_enum_user_stop\15106\index.html.json
+
+title: 15106 ERROR_RESOURCE_ENUM_USER_STOP in winerror.h
+description: User stopped resource enumeration.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "15106",
+  "codeUrl": "/win32/winerror-h/error_resource_enum_user_stop/15106/",
+  "numericCode": 15106,
+  "define": "ERROR_RESOURCE_ENUM_USER_STOP",
+  "defineUrl": "/win32/winerror-h/error_resource_enum_user_stop/",
+  "message": "User stopped resource enumeration.",
+  "remarks": null,
+  "aka": [
+    "0x80073b02",
+    "-2147009790"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_resource_enum_user_stop/0x80073b02/",
+    "/win32/winerror-h/error_resource_enum_user_stop/-2147009790/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

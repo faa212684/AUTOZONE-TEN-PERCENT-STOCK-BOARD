@@ -1,0 +1,28 @@
+---
+output: win32\mferror-h\mf_e_bad_startup_version\0xc00d36e3\index.html.json
+
+title: 0xC00D36E3 MF_E_BAD_STARTUP_VERSION in Mferror.h
+description: You are calling MFStartup with the wrong MF_VERSION. Mismatched bits?%0
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "Mferror.h",
+  "sourceUrl": "/win32/mferror-h/",
+  "code": "0xC00D36E3",
+  "codeUrl": "/win32/mferror-h/mf_e_bad_startup_version/0xc00d36e3/",
+  "numericCode": -1072875805,
+  "define": "MF_E_BAD_STARTUP_VERSION",
+  "defineUrl": "/win32/mferror-h/mf_e_bad_startup_version/",
+  "message": "You are calling MFStartup with the wrong MF_VERSION. Mismatched bits?%0",
+  "remarks": null,
+  "aka": [
+    "-1072875805"
+  ],
+  "akaUrl": [
+    "/win32/mferror-h/mf_e_bad_startup_version/-1072875805/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

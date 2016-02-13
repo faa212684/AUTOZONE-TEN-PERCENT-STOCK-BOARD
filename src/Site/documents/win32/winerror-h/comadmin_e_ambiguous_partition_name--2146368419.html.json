@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\comadmin_e_ambiguous_partition_name\-2146368419\index.html.json
+canonical: /win32/winerror-h/comadmin_e_ambiguous_partition_name/0x8011045d/
+title: -2146368419 COMADMIN_E_AMBIGUOUS_PARTITION_NAME in winerror.h
+description: The partition name is not unique and cannot be resolved to a partition id
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2146368419",
+  "codeUrl": "/win32/winerror-h/comadmin_e_ambiguous_partition_name/-2146368419/",
+  "numericCode": 0,
+  "define": "COMADMIN_E_AMBIGUOUS_PARTITION_NAME",
+  "defineUrl": "/win32/winerror-h/comadmin_e_ambiguous_partition_name/",
+  "message": "The partition name is not unique and cannot be resolved to a partition id",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x8011045D",
+  "originalCodeUrl": "/win32/winerror-h/comadmin_e_ambiguous_partition_name/0x8011045d/"
+}

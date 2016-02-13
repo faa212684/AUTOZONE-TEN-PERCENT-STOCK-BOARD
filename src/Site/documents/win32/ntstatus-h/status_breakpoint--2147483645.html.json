@@ -1,0 +1,26 @@
+---
+output: win32\ntstatus-h\status_breakpoint\-2147483645\index.html.json
+canonical: /win32/ntstatus-h/status_breakpoint/0x80000003/
+title: -2147483645 STATUS_BREAKPOINT in ntstatus.h
+description: "{EXCEPTION}
+Breakpoint
+A breakpoint has been reached."
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-2147483645",
+  "codeUrl": "/win32/ntstatus-h/status_breakpoint/-2147483645/",
+  "numericCode": 0,
+  "define": "STATUS_BREAKPOINT",
+  "defineUrl": "/win32/ntstatus-h/status_breakpoint/",
+  "message": "{EXCEPTION}\r\nBreakpoint\r\nA breakpoint has been reached.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80000003",
+  "originalCodeUrl": "/win32/ntstatus-h/status_breakpoint/0x80000003/"
+}

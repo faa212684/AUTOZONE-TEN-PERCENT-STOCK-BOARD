@@ -1,0 +1,24 @@
+---
+output: win32\windowssearcherrors-h\gthr_e_single_threaded_embedding\-2147218011\index.html.json
+canonical: /win32/windowssearcherrors-h/gthr_e_single_threaded_embedding/0x80040da5/
+title: -2147218011 GTHR_E_SINGLE_THREADED_EMBEDDING in WindowsSearchErrors.h
+description: The system attempted to load a filter marked as apartment from an embedded component in a multi-threaded filter daemon. The document will be retried in a single-threaded filter. Since multithreaded filtering is more efficient, try to obtain the version of the filter that is multi-threaded.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "-2147218011",
+  "codeUrl": "/win32/windowssearcherrors-h/gthr_e_single_threaded_embedding/-2147218011/",
+  "numericCode": 0,
+  "define": "GTHR_E_SINGLE_THREADED_EMBEDDING",
+  "defineUrl": "/win32/windowssearcherrors-h/gthr_e_single_threaded_embedding/",
+  "message": "The system attempted to load a filter marked as apartment from an embedded component in a multi-threaded filter daemon. The document will be retried in a single-threaded filter. Since multithreaded filtering is more efficient, try to obtain the version of the filter that is multi-threaded.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80040DA5",
+  "originalCodeUrl": "/win32/windowssearcherrors-h/gthr_e_single_threaded_embedding/0x80040da5/"
+}

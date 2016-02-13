@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\rpc_x_pipe_empty\0x8007077e\index.html.json
+canonical: /win32/winerror-h/rpc_x_pipe_empty/1918/
+title: 0x8007077e RPC_X_PIPE_EMPTY in winerror.h
+description: No more data is available from the RPC pipe.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8007077e",
+  "codeUrl": "/win32/winerror-h/rpc_x_pipe_empty/0x8007077e/",
+  "numericCode": 0,
+  "define": "RPC_X_PIPE_EMPTY",
+  "defineUrl": "/win32/winerror-h/rpc_x_pipe_empty/",
+  "message": "No more data is available from the RPC pipe.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "1918",
+  "originalCodeUrl": "/win32/winerror-h/rpc_x_pipe_empty/1918/"
+}

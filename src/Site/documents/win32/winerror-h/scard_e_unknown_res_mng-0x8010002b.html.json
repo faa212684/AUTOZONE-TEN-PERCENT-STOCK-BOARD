@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\scard_e_unknown_res_mng\0x8010002b\index.html.json
+
+title: 0x8010002B SCARD_E_UNKNOWN_RES_MNG in winerror.h
+description: An unrecognized error code was returned from a layered component.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8010002B",
+  "codeUrl": "/win32/winerror-h/scard_e_unknown_res_mng/0x8010002b/",
+  "numericCode": -2146435029,
+  "define": "SCARD_E_UNKNOWN_RES_MNG",
+  "defineUrl": "/win32/winerror-h/scard_e_unknown_res_mng/",
+  "message": "An unrecognized error code was returned from a layered component.",
+  "remarks": null,
+  "aka": [
+    "-2146435029"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/scard_e_unknown_res_mng/-2146435029/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

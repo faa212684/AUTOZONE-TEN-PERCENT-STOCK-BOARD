@@ -1,0 +1,24 @@
+---
+output: win32\windowssearcherrors-h\fte_e_no_property_store\-1073465766\index.html.json
+canonical: /win32/windowssearcherrors-h/fte_e_no_property_store/0xc004365a/
+title: -1073465766 FTE_E_NO_PROPERTY_STORE in WindowsSearchErrors.h
+description: Property Store is not found in the indexer. The possible causes are that the call came during a catalog reset or that the property store plug-in failed to load during indexer initialization.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "-1073465766",
+  "codeUrl": "/win32/windowssearcherrors-h/fte_e_no_property_store/-1073465766/",
+  "numericCode": 0,
+  "define": "FTE_E_NO_PROPERTY_STORE",
+  "defineUrl": "/win32/windowssearcherrors-h/fte_e_no_property_store/",
+  "message": "Property Store is not found in the indexer. The possible causes are that the call came during a catalog reset or that the property store plug-in failed to load during indexer initialization.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC004365A",
+  "originalCodeUrl": "/win32/windowssearcherrors-h/fte_e_no_property_store/0xc004365a/"
+}

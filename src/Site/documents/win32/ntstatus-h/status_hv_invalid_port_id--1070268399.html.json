@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_hv_invalid_port_id\-1070268399\index.html.json
+canonical: /win32/ntstatus-h/status_hv_invalid_port_id/0xc0350011/
+title: -1070268399 STATUS_HV_INVALID_PORT_ID in ntstatus.h
+description: The hypervisor could not perform the operation because the specified port identifier is invalid.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1070268399",
+  "codeUrl": "/win32/ntstatus-h/status_hv_invalid_port_id/-1070268399/",
+  "numericCode": 0,
+  "define": "STATUS_HV_INVALID_PORT_ID",
+  "defineUrl": "/win32/ntstatus-h/status_hv_invalid_port_id/",
+  "message": "The hypervisor could not perform the operation because the specified port identifier is invalid.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0350011",
+  "originalCodeUrl": "/win32/ntstatus-h/status_hv_invalid_port_id/0xc0350011/"
+}

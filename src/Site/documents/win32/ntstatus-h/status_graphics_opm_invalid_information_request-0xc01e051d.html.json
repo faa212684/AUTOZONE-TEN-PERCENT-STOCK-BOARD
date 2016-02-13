@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_graphics_opm_invalid_information_request\0xc01e051d\index.html.json
+
+title: 0xC01E051D STATUS_GRAPHICS_OPM_INVALID_INFORMATION_REQUEST in ntstatus.h
+description: The DxgkDdiOPMGetInformation and DxgkDdiOPMGetCOPPCompatibleInformation functions return this error code if the passed in sequence number is not the expected sequence number or the passed in OMAC value is invalid.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC01E051D",
+  "codeUrl": "/win32/ntstatus-h/status_graphics_opm_invalid_information_request/0xc01e051d/",
+  "numericCode": -1071774435,
+  "define": "STATUS_GRAPHICS_OPM_INVALID_INFORMATION_REQUEST",
+  "defineUrl": "/win32/ntstatus-h/status_graphics_opm_invalid_information_request/",
+  "message": "The DxgkDdiOPMGetInformation and DxgkDdiOPMGetCOPPCompatibleInformation functions return this error code if the passed in sequence number is not the expected sequence number or the passed in OMAC value is invalid.",
+  "remarks": null,
+  "aka": [
+    "-1071774435"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_graphics_opm_invalid_information_request/-1071774435/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

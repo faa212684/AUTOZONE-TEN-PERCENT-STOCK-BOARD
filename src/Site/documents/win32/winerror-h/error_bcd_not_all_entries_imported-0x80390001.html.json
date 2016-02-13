@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\error_bcd_not_all_entries_imported\0x80390001\index.html.json
+
+title: 0x80390001 ERROR_BCD_NOT_ALL_ENTRIES_IMPORTED in winerror.h
+description: Some BCD entries were not imported correctly from the BCD store.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80390001",
+  "codeUrl": "/win32/winerror-h/error_bcd_not_all_entries_imported/0x80390001/",
+  "numericCode": -2143748095,
+  "define": "ERROR_BCD_NOT_ALL_ENTRIES_IMPORTED",
+  "defineUrl": "/win32/winerror-h/error_bcd_not_all_entries_imported/",
+  "message": "Some BCD entries were not imported correctly from the BCD store.",
+  "remarks": null,
+  "aka": [
+    "-2143748095"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_bcd_not_all_entries_imported/-2143748095/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

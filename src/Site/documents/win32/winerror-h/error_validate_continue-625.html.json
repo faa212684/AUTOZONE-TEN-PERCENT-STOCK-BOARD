@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_validate_continue\625\index.html.json
+
+title: 625 ERROR_VALIDATE_CONTINUE in winerror.h
+description: The validation process needs to continue on to the next step.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "625",
+  "codeUrl": "/win32/winerror-h/error_validate_continue/625/",
+  "numericCode": 625,
+  "define": "ERROR_VALIDATE_CONTINUE",
+  "defineUrl": "/win32/winerror-h/error_validate_continue/",
+  "message": "The validation process needs to continue on to the next step.",
+  "remarks": null,
+  "aka": [
+    "0x80070271",
+    "-2147024271"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_validate_continue/0x80070271/",
+    "/win32/winerror-h/error_validate_continue/-2147024271/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

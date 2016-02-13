@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_wsk_owningthread_parameter_ignored\0xc0003e80\index.html.json
+
+title: 0xC0003E80 EVENT_WSK_OWNINGTHREAD_PARAMETER_IGNORED in netevent.h
+description: WSK provider has ignored the OwningThread parameter passed to a WSK socket creation request. This happens when the socket needs to be created over a TDI transport provider either because a TDI filter driver is installed or because a client-specified TDI mapping exists that matches the AddressFamily, socketType, and Protocol specified in the socket creation request.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC0003E80",
+  "codeUrl": "/win32/netevent-h/event_wsk_owningthread_parameter_ignored/0xc0003e80/",
+  "numericCode": -1073725824,
+  "define": "EVENT_WSK_OWNINGTHREAD_PARAMETER_IGNORED",
+  "defineUrl": "/win32/netevent-h/event_wsk_owningthread_parameter_ignored/",
+  "message": "WSK provider has ignored the OwningThread parameter passed to a WSK socket creation request. This happens when the socket needs to be created over a TDI transport provider either because a TDI filter driver is installed or because a client-specified TDI mapping exists that matches the AddressFamily, socketType, and Protocol specified in the socket creation request.",
+  "remarks": null,
+  "aka": [
+    "-1073725824"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_wsk_owningthread_parameter_ignored/-1073725824/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

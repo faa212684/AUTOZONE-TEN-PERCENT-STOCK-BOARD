@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_cancel_violation\-2147024723\index.html.json
+canonical: /win32/winerror-h/error_cancel_violation/173/
+title: -2147024723 ERROR_CANCEL_VIOLATION in winerror.h
+description: A lock request was not outstanding for the supplied cancel region.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147024723",
+  "codeUrl": "/win32/winerror-h/error_cancel_violation/-2147024723/",
+  "numericCode": 0,
+  "define": "ERROR_CANCEL_VIOLATION",
+  "defineUrl": "/win32/winerror-h/error_cancel_violation/",
+  "message": "A lock request was not outstanding for the supplied cancel region.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "173",
+  "originalCodeUrl": "/win32/winerror-h/error_cancel_violation/173/"
+}

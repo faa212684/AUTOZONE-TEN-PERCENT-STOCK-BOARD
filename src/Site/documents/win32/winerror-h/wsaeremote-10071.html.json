@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\wsaeremote\10071\index.html.json
+
+title: 10071 WSAEREMOTE in winerror.h
+description: Item is not available locally.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "10071",
+  "codeUrl": "/win32/winerror-h/wsaeremote/10071/",
+  "numericCode": 10071,
+  "define": "WSAEREMOTE",
+  "defineUrl": "/win32/winerror-h/wsaeremote/",
+  "message": "Item is not available locally.",
+  "remarks": null,
+  "aka": [
+    "0x80072757",
+    "-2147014825"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/wsaeremote/0x80072757/",
+    "/win32/winerror-h/wsaeremote/-2147014825/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\windowssearcherrors-h\event_indexer_prop_state_corrupt\0xc0001b84\index.html.json
+
+title: 0xC0001B84 EVENT_INDEXER_PROP_STATE_CORRUPT in WindowsSearchErrors.h
+description: Propagation stopped because the propagation state for search server <%2> cannot be read. Try propagation again.  If this error persists, delete and recreate the propagated index.%1
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "0xC0001B84",
+  "codeUrl": "/win32/windowssearcherrors-h/event_indexer_prop_state_corrupt/0xc0001b84/",
+  "numericCode": -1073734780,
+  "define": "EVENT_INDEXER_PROP_STATE_CORRUPT",
+  "defineUrl": "/win32/windowssearcherrors-h/event_indexer_prop_state_corrupt/",
+  "message": "Propagation stopped because the propagation state for search server <%2> cannot be read. Try propagation again.  If this error persists, delete and recreate the propagated index.%1",
+  "remarks": null,
+  "aka": [
+    "-1073734780"
+  ],
+  "akaUrl": [
+    "/win32/windowssearcherrors-h/event_indexer_prop_state_corrupt/-1073734780/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

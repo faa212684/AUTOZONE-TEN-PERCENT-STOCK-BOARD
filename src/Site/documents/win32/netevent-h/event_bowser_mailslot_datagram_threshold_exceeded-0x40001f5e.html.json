@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_bowser_mailslot_datagram_threshold_exceeded\0x40001f5e\index.html.json
+
+title: 0x40001F5E EVENT_BOWSER_MAILSLOT_DATAGRAM_THRESHOLD_EXCEEDED in netevent.h
+description: The browser driver has discarded too many mailslot messages.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x40001F5E",
+  "codeUrl": "/win32/netevent-h/event_bowser_mailslot_datagram_threshold_exceeded/0x40001f5e/",
+  "numericCode": 1073749854,
+  "define": "EVENT_BOWSER_MAILSLOT_DATAGRAM_THRESHOLD_EXCEEDED",
+  "defineUrl": "/win32/netevent-h/event_bowser_mailslot_datagram_threshold_exceeded/",
+  "message": "The browser driver has discarded too many mailslot messages.",
+  "remarks": null,
+  "aka": [
+    "1073749854"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_bowser_mailslot_datagram_threshold_exceeded/1073749854/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

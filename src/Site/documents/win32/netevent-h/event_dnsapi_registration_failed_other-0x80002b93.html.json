@@ -1,0 +1,42 @@
+---
+output: win32\netevent-h\event_dnsapi_registration_failed_other\0x80002b93\index.html.json
+
+title: 0x80002B93 EVENT_DNSAPI_REGISTRATION_FAILED_OTHER in netevent.h
+description: The system failed to register network adapter with settings:%n%n
+Adapter Name : %1%n
+Host Name : %2%n
+Adapter-specific Domain Suffix : %3%n
+DNS server list :%n
+%4%n
+Sent update to server : %5%n
+IP Address(es) :%n
+%6%n%n
+The reason the DNS update request could not be completed was because
+of a system problem. You can manually retry DNS registration of the
+network adapter and its settings by typing "ipconfig /registerdns"
+at the command prompt. If problems still persist, contact your DNS
+server or network systems administrator. See event details for 
+specific error code information.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x80002B93",
+  "codeUrl": "/win32/netevent-h/event_dnsapi_registration_failed_other/0x80002b93/",
+  "numericCode": -2147472493,
+  "define": "EVENT_DNSAPI_REGISTRATION_FAILED_OTHER",
+  "defineUrl": "/win32/netevent-h/event_dnsapi_registration_failed_other/",
+  "message": "The system failed to register network adapter with settings:%n%n\r\nAdapter Name : %1%n\r\nHost Name : %2%n\r\nAdapter-specific Domain Suffix : %3%n\r\nDNS server list :%n\r\n%4%n\r\nSent update to server : %5%n\r\nIP Address(es) :%n\r\n%6%n%n\r\nThe reason the DNS update request could not be completed was because\r\nof a system problem. You can manually retry DNS registration of the\r\nnetwork adapter and its settings by typing \"ipconfig /registerdns\"\r\nat the command prompt. If problems still persist, contact your DNS\r\nserver or network systems administrator. See event details for \r\nspecific error code information.",
+  "remarks": null,
+  "aka": [
+    "-2147472493"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_dnsapi_registration_failed_other/-2147472493/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

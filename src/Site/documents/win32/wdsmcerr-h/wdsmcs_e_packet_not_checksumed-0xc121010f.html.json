@@ -1,0 +1,28 @@
+---
+output: win32\wdsmcerr-h\wdsmcs_e_packet_not_checksumed\0xc121010f\index.html.json
+
+title: 0xC121010F WDSMCS_E_PACKET_NOT_CHECKSUMED in wdsmcerr.h
+description: A packet was received without a checksum.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wdsmcerr.h",
+  "sourceUrl": "/win32/wdsmcerr-h/",
+  "code": "0xC121010F",
+  "codeUrl": "/win32/wdsmcerr-h/wdsmcs_e_packet_not_checksumed/0xc121010f/",
+  "numericCode": -1054801649,
+  "define": "WDSMCS_E_PACKET_NOT_CHECKSUMED",
+  "defineUrl": "/win32/wdsmcerr-h/wdsmcs_e_packet_not_checksumed/",
+  "message": "A packet was received without a checksum.",
+  "remarks": null,
+  "aka": [
+    "-1054801649"
+  ],
+  "akaUrl": [
+    "/win32/wdsmcerr-h/wdsmcs_e_packet_not_checksumed/-1054801649/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_graphics_incompatible_private_format\0xc01e0355\index.html.json
+
+title: 0xC01E0355 STATUS_GRAPHICS_INCOMPATIBLE_PRIVATE_FORMAT in ntstatus.h
+description: Specified primary surface has a different private format attribute than the current primary surface
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC01E0355",
+  "codeUrl": "/win32/ntstatus-h/status_graphics_incompatible_private_format/0xc01e0355/",
+  "numericCode": -1071774891,
+  "define": "STATUS_GRAPHICS_INCOMPATIBLE_PRIVATE_FORMAT",
+  "defineUrl": "/win32/ntstatus-h/status_graphics_incompatible_private_format/",
+  "message": "Specified primary surface has a different private format attribute than the current primary surface",
+  "remarks": null,
+  "aka": [
+    "-1071774891"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_graphics_incompatible_private_format/-1071774891/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

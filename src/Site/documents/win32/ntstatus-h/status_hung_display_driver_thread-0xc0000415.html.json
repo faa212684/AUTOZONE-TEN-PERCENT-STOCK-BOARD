@@ -1,0 +1,29 @@
+---
+output: win32\ntstatus-h\status_hung_display_driver_thread\0xc0000415\index.html.json
+
+title: 0xC0000415 STATUS_HUNG_DISPLAY_DRIVER_THREAD in ntstatus.h
+description: "{Display Driver Stopped Responding}
+The %hs display driver has stopped working normally. Save your work and reboot the system to restore full display functionality. The next time you reboot the machine a dialog will be displayed giving you a chance to report this failure to Microsoft."
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000415",
+  "codeUrl": "/win32/ntstatus-h/status_hung_display_driver_thread/0xc0000415/",
+  "numericCode": -1073740779,
+  "define": "STATUS_HUNG_DISPLAY_DRIVER_THREAD",
+  "defineUrl": "/win32/ntstatus-h/status_hung_display_driver_thread/",
+  "message": "{Display Driver Stopped Responding}\r\nThe %hs display driver has stopped working normally. Save your work and reboot the system to restore full display functionality. The next time you reboot the machine a dialog will be displayed giving you a chance to report this failure to Microsoft.",
+  "remarks": null,
+  "aka": [
+    "-1073740779"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_hung_display_driver_thread/-1073740779/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

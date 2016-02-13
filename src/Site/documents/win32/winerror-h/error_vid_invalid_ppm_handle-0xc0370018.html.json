@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\error_vid_invalid_ppm_handle\0xc0370018\index.html.json
+
+title: 0xC0370018 ERROR_VID_INVALID_PPM_HANDLE in winerror.h
+description: The handle is not a valid parent partition mapping handle for the virtualization infrastructure driver.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0xC0370018",
+  "codeUrl": "/win32/winerror-h/error_vid_invalid_ppm_handle/0xc0370018/",
+  "numericCode": -1070137320,
+  "define": "ERROR_VID_INVALID_PPM_HANDLE",
+  "defineUrl": "/win32/winerror-h/error_vid_invalid_ppm_handle/",
+  "message": "The handle is not a valid parent partition mapping handle for the virtualization infrastructure driver.",
+  "remarks": null,
+  "aka": [
+    "-1070137320"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_vid_invalid_ppm_handle/-1070137320/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

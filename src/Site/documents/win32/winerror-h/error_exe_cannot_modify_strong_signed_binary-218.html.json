@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_exe_cannot_modify_strong_signed_binary\218\index.html.json
+
+title: 218 ERROR_EXE_CANNOT_MODIFY_STRONG_SIGNED_BINARY in winerror.h
+description: The image file %1 is strong signed, unable to modify.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "218",
+  "codeUrl": "/win32/winerror-h/error_exe_cannot_modify_strong_signed_binary/218/",
+  "numericCode": 218,
+  "define": "ERROR_EXE_CANNOT_MODIFY_STRONG_SIGNED_BINARY",
+  "defineUrl": "/win32/winerror-h/error_exe_cannot_modify_strong_signed_binary/",
+  "message": "The image file %1 is strong signed, unable to modify.",
+  "remarks": null,
+  "aka": [
+    "0x800700da",
+    "-2147024678"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_exe_cannot_modify_strong_signed_binary/0x800700da/",
+    "/win32/winerror-h/error_exe_cannot_modify_strong_signed_binary/-2147024678/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

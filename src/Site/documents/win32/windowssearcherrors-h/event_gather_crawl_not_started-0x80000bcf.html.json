@@ -1,0 +1,28 @@
+---
+output: win32\windowssearcherrors-h\event_gather_crawl_not_started\0x80000bcf\index.html.json
+
+title: 0x80000BCF EVENT_GATHER_CRAWL_NOT_STARTED in WindowsSearchErrors.h
+description: The update cannot be started because all of the content sources were excluded by site path rules, or removed from the index configuration.%1
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "0x80000BCF",
+  "codeUrl": "/win32/windowssearcherrors-h/event_gather_crawl_not_started/0x80000bcf/",
+  "numericCode": -2147480625,
+  "define": "EVENT_GATHER_CRAWL_NOT_STARTED",
+  "defineUrl": "/win32/windowssearcherrors-h/event_gather_crawl_not_started/",
+  "message": "The update cannot be started because all of the content sources were excluded by site path rules, or removed from the index configuration.%1",
+  "remarks": null,
+  "aka": [
+    "-2147480625"
+  ],
+  "akaUrl": [
+    "/win32/windowssearcherrors-h/event_gather_crawl_not_started/-2147480625/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

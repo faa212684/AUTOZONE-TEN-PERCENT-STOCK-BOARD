@@ -1,0 +1,38 @@
+---
+output: win32\netevent-h\event_dnsapi_ptr_deregistration_failed_security\-2147472458\index.html.json
+canonical: /win32/netevent-h/event_dnsapi_ptr_deregistration_failed_security/0x80002bb6/
+title: -2147472458 EVENT_DNSAPI_PTR_DEREGISTRATION_FAILED_SECURITY in netevent.h
+description: The system failed to update and remove pointer (PTR) resource records (RRs)
+for network adapter%nwith settings:%n%n
+Adapter Name : %1%n
+Host Name : %2%n
+Adapter-specific Domain Suffix : %3%n
+DNS server list :%n
+%4%n
+Sent update to server : %5%n
+IP Address : %6%n%n
+The system could not remove these PTR RRs because of a security related
+problem. The cause of this could be that (a) your computer does not have
+permissions to remove and update the specific DNS domain name or IP addresses
+configured for this adapter, or (b) there might have been a problem negotiating
+valid credentials with the DNS server during the processing of the update
+request. See event details for specific error code information.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "-2147472458",
+  "codeUrl": "/win32/netevent-h/event_dnsapi_ptr_deregistration_failed_security/-2147472458/",
+  "numericCode": 0,
+  "define": "EVENT_DNSAPI_PTR_DEREGISTRATION_FAILED_SECURITY",
+  "defineUrl": "/win32/netevent-h/event_dnsapi_ptr_deregistration_failed_security/",
+  "message": "The system failed to update and remove pointer (PTR) resource records (RRs)\r\nfor network adapter%nwith settings:%n%n\r\nAdapter Name : %1%n\r\nHost Name : %2%n\r\nAdapter-specific Domain Suffix : %3%n\r\nDNS server list :%n\r\n%4%n\r\nSent update to server : %5%n\r\nIP Address : %6%n%n\r\nThe system could not remove these PTR RRs because of a security related\r\nproblem. The cause of this could be that (a) your computer does not have\r\npermissions to remove and update the specific DNS domain name or IP addresses\r\nconfigured for this adapter, or (b) there might have been a problem negotiating\r\nvalid credentials with the DNS server during the processing of the update\r\nrequest. See event details for specific error code information.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80002BB6",
+  "originalCodeUrl": "/win32/netevent-h/event_dnsapi_ptr_deregistration_failed_security/0x80002bb6/"
+}

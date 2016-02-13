@@ -1,0 +1,28 @@
+---
+output: win32\wuerror-h\wu_e_uh_notifyfailure\0x8024200e\index.html.json
+
+title: 0x8024200E WU_E_UH_NOTIFYFAILURE in wuerror.h
+description: The update handler failed to send notification of the status of the install (uninstall) operation.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wuerror.h",
+  "sourceUrl": "/win32/wuerror-h/",
+  "code": "0x8024200E",
+  "codeUrl": "/win32/wuerror-h/wu_e_uh_notifyfailure/0x8024200e/",
+  "numericCode": -2145116146,
+  "define": "WU_E_UH_NOTIFYFAILURE",
+  "defineUrl": "/win32/wuerror-h/wu_e_uh_notifyfailure/",
+  "message": "The update handler failed to send notification of the status of the install (uninstall) operation.",
+  "remarks": null,
+  "aka": [
+    "-2145116146"
+  ],
+  "akaUrl": [
+    "/win32/wuerror-h/wu_e_uh_notifyfailure/-2145116146/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

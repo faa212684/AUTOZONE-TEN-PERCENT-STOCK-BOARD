@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_floated_section\6846\index.html.json
+
+title: 6846 ERROR_FLOATED_SECTION in winerror.h
+description: I/O was attempted on a section object that has been floated as a result of a transaction ending. There is no valid data.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "6846",
+  "codeUrl": "/win32/winerror-h/error_floated_section/6846/",
+  "numericCode": 6846,
+  "define": "ERROR_FLOATED_SECTION",
+  "defineUrl": "/win32/winerror-h/error_floated_section/",
+  "message": "I/O was attempted on a section object that has been floated as a result of a transaction ending. There is no valid data.",
+  "remarks": null,
+  "aka": [
+    "0x80071abe",
+    "-2147018050"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_floated_section/0x80071abe/",
+    "/win32/winerror-h/error_floated_section/-2147018050/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

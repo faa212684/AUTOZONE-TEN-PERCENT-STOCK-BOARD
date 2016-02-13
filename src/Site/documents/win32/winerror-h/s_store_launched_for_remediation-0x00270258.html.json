@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\s_store_launched_for_remediation\0x00270258\index.html.json
+
+title: 0x00270258 S_STORE_LAUNCHED_FOR_REMEDIATION in winerror.h
+description: The Store was launched instead of the specified app because the app's package was in an invalid state.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x00270258",
+  "codeUrl": "/win32/winerror-h/s_store_launched_for_remediation/0x00270258/",
+  "numericCode": 2556504,
+  "define": "S_STORE_LAUNCHED_FOR_REMEDIATION",
+  "defineUrl": "/win32/winerror-h/s_store_launched_for_remediation/",
+  "message": "The Store was launched instead of the specified app because the app's package was in an invalid state.",
+  "remarks": null,
+  "aka": [
+    "2556504"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/s_store_launched_for_remediation/2556504/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

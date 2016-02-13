@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_log_corruption_detected\6817\index.html.json
+
+title: 6817 ERROR_LOG_CORRUPTION_DETECTED in winerror.h
+description: The log data is corrupt.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "6817",
+  "codeUrl": "/win32/winerror-h/error_log_corruption_detected/6817/",
+  "numericCode": 6817,
+  "define": "ERROR_LOG_CORRUPTION_DETECTED",
+  "defineUrl": "/win32/winerror-h/error_log_corruption_detected/",
+  "message": "The log data is corrupt.",
+  "remarks": null,
+  "aka": [
+    "0x80071aa1",
+    "-2147018079"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_log_corruption_detected/0x80071aa1/",
+    "/win32/winerror-h/error_log_corruption_detected/-2147018079/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,24 @@
+---
+output: win32\fsrmerr-h\fsrm_e_expiration_path_too_long\-2147200104\index.html.json
+canonical: /win32/fsrmerr-h/fsrm_e_expiration_path_too_long/0x80045398/
+title: -2147200104 FSRM_E_EXPIRATION_PATH_TOO_LONG in fsrmerr.h
+description: The expiration path must be 150 characters or shorter.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "fsrmerr.h",
+  "sourceUrl": "/win32/fsrmerr-h/",
+  "code": "-2147200104",
+  "codeUrl": "/win32/fsrmerr-h/fsrm_e_expiration_path_too_long/-2147200104/",
+  "numericCode": 0,
+  "define": "FSRM_E_EXPIRATION_PATH_TOO_LONG",
+  "defineUrl": "/win32/fsrmerr-h/fsrm_e_expiration_path_too_long/",
+  "message": "The expiration path must be 150 characters or shorter.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80045398",
+  "originalCodeUrl": "/win32/fsrmerr-h/fsrm_e_expiration_path_too_long/0x80045398/"
+}

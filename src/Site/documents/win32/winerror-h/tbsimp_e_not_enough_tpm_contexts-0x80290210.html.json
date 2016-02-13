@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\tbsimp_e_not_enough_tpm_contexts\0x80290210\index.html.json
+
+title: 0x80290210 TBSIMP_E_NOT_ENOUGH_TPM_CONTEXTS in winerror.h
+description: There are too many TPM contexts in use.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80290210",
+  "codeUrl": "/win32/winerror-h/tbsimp_e_not_enough_tpm_contexts/0x80290210/",
+  "numericCode": -2144796144,
+  "define": "TBSIMP_E_NOT_ENOUGH_TPM_CONTEXTS",
+  "defineUrl": "/win32/winerror-h/tbsimp_e_not_enough_tpm_contexts/",
+  "message": "There are too many TPM contexts in use.",
+  "remarks": null,
+  "aka": [
+    "-2144796144"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/tbsimp_e_not_enough_tpm_contexts/-2144796144/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

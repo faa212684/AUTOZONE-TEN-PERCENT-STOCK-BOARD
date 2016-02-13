@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\wsaeafnosupport\10047\index.html.json
+
+title: 10047 WSAEAFNOSUPPORT in winerror.h
+description: An address incompatible with the requested protocol was used.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "10047",
+  "codeUrl": "/win32/winerror-h/wsaeafnosupport/10047/",
+  "numericCode": 10047,
+  "define": "WSAEAFNOSUPPORT",
+  "defineUrl": "/win32/winerror-h/wsaeafnosupport/",
+  "message": "An address incompatible with the requested protocol was used.",
+  "remarks": null,
+  "aka": [
+    "0x8007273f",
+    "-2147014849"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/wsaeafnosupport/0x8007273f/",
+    "/win32/winerror-h/wsaeafnosupport/-2147014849/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

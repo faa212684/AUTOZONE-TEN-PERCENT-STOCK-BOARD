@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\error_ndis_media_disconnected\0x8034001f\index.html.json
+
+title: 0x8034001F ERROR_NDIS_MEDIA_DISCONNECTED in winerror.h
+description: The I/O operation failed because network media is disconnected or wireless access point is out of range.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8034001F",
+  "codeUrl": "/win32/winerror-h/error_ndis_media_disconnected/0x8034001f/",
+  "numericCode": -2144075745,
+  "define": "ERROR_NDIS_MEDIA_DISCONNECTED",
+  "defineUrl": "/win32/winerror-h/error_ndis_media_disconnected/",
+  "message": "The I/O operation failed because network media is disconnected or wireless access point is out of range.",
+  "remarks": null,
+  "aka": [
+    "-2144075745"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ndis_media_disconnected/-2144075745/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

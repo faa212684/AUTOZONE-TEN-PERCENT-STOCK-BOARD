@@ -1,0 +1,24 @@
+---
+output: win32\netevent-h\event_eqos_error_opening_machine_policy_root_key\-1073725122\index.html.json
+canonical: /win32/netevent-h/event_eqos_error_opening_machine_policy_root_key/0xc000413e/
+title: -1073725122 EVENT_EQOS_ERROR_OPENING_MACHINE_POLICY_ROOT_KEY in netevent.h
+description: QoS failed to open the computer-level root key for QoS policies. Error code: %2.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "-1073725122",
+  "codeUrl": "/win32/netevent-h/event_eqos_error_opening_machine_policy_root_key/-1073725122/",
+  "numericCode": 0,
+  "define": "EVENT_EQOS_ERROR_OPENING_MACHINE_POLICY_ROOT_KEY",
+  "defineUrl": "/win32/netevent-h/event_eqos_error_opening_machine_policy_root_key/",
+  "message": "QoS failed to open the computer-level root key for QoS policies. Error code: %2.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC000413E",
+  "originalCodeUrl": "/win32/netevent-h/event_eqos_error_opening_machine_policy_root_key/0xc000413e/"
+}

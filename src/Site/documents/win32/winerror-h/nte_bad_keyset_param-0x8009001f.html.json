@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\nte_bad_keyset_param\0x8009001f\index.html.json
+
+title: 0x8009001F NTE_BAD_KEYSET_PARAM in winerror.h
+description: The Keyset parameter is invalid.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8009001F",
+  "codeUrl": "/win32/winerror-h/nte_bad_keyset_param/0x8009001f/",
+  "numericCode": -2146893793,
+  "define": "NTE_BAD_KEYSET_PARAM",
+  "defineUrl": "/win32/winerror-h/nte_bad_keyset_param/",
+  "message": "The Keyset parameter is invalid.",
+  "remarks": null,
+  "aka": [
+    "-2146893793"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/nte_bad_keyset_param/-2146893793/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

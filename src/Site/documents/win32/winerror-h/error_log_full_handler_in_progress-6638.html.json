@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_log_full_handler_in_progress\6638\index.html.json
+
+title: 6638 ERROR_LOG_FULL_HANDLER_IN_PROGRESS in winerror.h
+description: A request has already been made to handle the log full condition.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "6638",
+  "codeUrl": "/win32/winerror-h/error_log_full_handler_in_progress/6638/",
+  "numericCode": 6638,
+  "define": "ERROR_LOG_FULL_HANDLER_IN_PROGRESS",
+  "defineUrl": "/win32/winerror-h/error_log_full_handler_in_progress/",
+  "message": "A request has already been made to handle the log full condition.",
+  "remarks": null,
+  "aka": [
+    "0x800719ee",
+    "-2147018258"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_log_full_handler_in_progress/0x800719ee/",
+    "/win32/winerror-h/error_log_full_handler_in_progress/-2147018258/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

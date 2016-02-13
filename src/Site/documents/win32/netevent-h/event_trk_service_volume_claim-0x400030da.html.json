@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_trk_service_volume_claim\0x400030da\index.html.json
+
+title: 0x400030DA EVENT_TRK_SERVICE_VOLUME_CLAIM in netevent.h
+description: Ownership of the volume ID for %1: has been successfully claimed.  This volume ID is used by Distributed Link Tracking to automatically repair file links, such as Shell Shortcuts and OLE links, when for some reason those links become broken.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x400030DA",
+  "codeUrl": "/win32/netevent-h/event_trk_service_volume_claim/0x400030da/",
+  "numericCode": 1073754330,
+  "define": "EVENT_TRK_SERVICE_VOLUME_CLAIM",
+  "defineUrl": "/win32/netevent-h/event_trk_service_volume_claim/",
+  "message": "Ownership of the volume ID for %1: has been successfully claimed.  This volume ID is used by Distributed Link Tracking to automatically repair file links, such as Shell Shortcuts and OLE links, when for some reason those links become broken.",
+  "remarks": null,
+  "aka": [
+    "1073754330"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_trk_service_volume_claim/1073754330/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

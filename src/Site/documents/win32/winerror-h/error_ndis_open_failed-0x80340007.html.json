@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\error_ndis_open_failed\0x80340007\index.html.json
+
+title: 0x80340007 ERROR_NDIS_OPEN_FAILED in winerror.h
+description: Failed to open the network interface.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80340007",
+  "codeUrl": "/win32/winerror-h/error_ndis_open_failed/0x80340007/",
+  "numericCode": -2144075769,
+  "define": "ERROR_NDIS_OPEN_FAILED",
+  "defineUrl": "/win32/winerror-h/error_ndis_open_failed/",
+  "message": "Failed to open the network interface.",
+  "remarks": null,
+  "aka": [
+    "-2144075769"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ndis_open_failed/-2144075769/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

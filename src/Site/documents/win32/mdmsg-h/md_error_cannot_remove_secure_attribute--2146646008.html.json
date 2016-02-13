@@ -1,0 +1,24 @@
+---
+output: win32\mdmsg-h\md_error_cannot_remove_secure_attribute\-2146646008\index.html.json
+canonical: /win32/mdmsg-h/md_error_cannot_remove_secure_attribute/0x800cc808/
+title: -2146646008 MD_ERROR_CANNOT_REMOVE_SECURE_ATTRIBUTE in Mdmsg.h
+description: The METADATA_SECURE attribute cannot be removed from a data item via the GetData method. Use the DeleteData method to remove the secure data.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "Mdmsg.h",
+  "sourceUrl": "/win32/mdmsg-h/",
+  "code": "-2146646008",
+  "codeUrl": "/win32/mdmsg-h/md_error_cannot_remove_secure_attribute/-2146646008/",
+  "numericCode": 0,
+  "define": "MD_ERROR_CANNOT_REMOVE_SECURE_ATTRIBUTE",
+  "defineUrl": "/win32/mdmsg-h/md_error_cannot_remove_secure_attribute/",
+  "message": "The METADATA_SECURE attribute cannot be removed from a data item via the GetData method. Use the DeleteData method to remove the secure data.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x800CC808",
+  "originalCodeUrl": "/win32/mdmsg-h/md_error_cannot_remove_secure_attribute/0x800cc808/"
+}

@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\xact_e_push_comm_failure\0x8004d02a\index.html.json
+
+title: 0x8004D02A XACT_E_PUSH_COMM_FAILURE in winerror.h
+description: The MSDTC transaction manager was unable to push the transaction to the destination transaction manager due to communication problems. Possible causes are: a firewall is present and it doesn't have an exception for the MSDTC process, the two machines cannot find each other by their NetBIOS names, or the support for network transactions is not enabled for one of the two transaction managers.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x8004D02A",
+  "codeUrl": "/win32/winerror-h/xact_e_push_comm_failure/0x8004d02a/",
+  "numericCode": -2147168214,
+  "define": "XACT_E_PUSH_COMM_FAILURE",
+  "defineUrl": "/win32/winerror-h/xact_e_push_comm_failure/",
+  "message": "The MSDTC transaction manager was unable to push the transaction to the destination transaction manager due to communication problems. Possible causes are: a firewall is present and it doesn't have an exception for the MSDTC process, the two machines cannot find each other by their NetBIOS names, or the support for network transactions is not enabled for one of the two transaction managers.",
+  "remarks": null,
+  "aka": [
+    "-2147168214"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/xact_e_push_comm_failure/-2147168214/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

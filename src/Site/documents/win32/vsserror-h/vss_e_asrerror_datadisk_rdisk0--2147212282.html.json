@@ -1,0 +1,24 @@
+---
+output: win32\vsserror-h\vss_e_asrerror_datadisk_rdisk0\-2147212282\index.html.json
+canonical: /win32/vsserror-h/vss_e_asrerror_datadisk_rdisk0/0x80042406/
+title: -2147212282 VSS_E_ASRERROR_DATADISK_RDISK0 in vsserror.h
+description: A data disk is currently set as active in BIOS. Set some other disk as active or use the DiskPart utility to clean the data disk, and then retry the restore operation.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vsserror.h",
+  "sourceUrl": "/win32/vsserror-h/",
+  "code": "-2147212282",
+  "codeUrl": "/win32/vsserror-h/vss_e_asrerror_datadisk_rdisk0/-2147212282/",
+  "numericCode": 0,
+  "define": "VSS_E_ASRERROR_DATADISK_RDISK0",
+  "defineUrl": "/win32/vsserror-h/vss_e_asrerror_datadisk_rdisk0/",
+  "message": "A data disk is currently set as active in BIOS. Set some other disk as active or use the DiskPart utility to clean the data disk, and then retry the restore operation.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80042406",
+  "originalCodeUrl": "/win32/vsserror-h/vss_e_asrerror_datadisk_rdisk0/0x80042406/"
+}

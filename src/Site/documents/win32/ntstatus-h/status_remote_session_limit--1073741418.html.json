@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_remote_session_limit\-1073741418\index.html.json
+canonical: /win32/ntstatus-h/status_remote_session_limit/0xc0000196/
+title: -1073741418 STATUS_REMOTE_SESSION_LIMIT in ntstatus.h
+description: An attempt was made to establish a session to a network server, but there are already too many sessions established to that server.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741418",
+  "codeUrl": "/win32/ntstatus-h/status_remote_session_limit/-1073741418/",
+  "numericCode": 0,
+  "define": "STATUS_REMOTE_SESSION_LIMIT",
+  "defineUrl": "/win32/ntstatus-h/status_remote_session_limit/",
+  "message": "An attempt was made to establish a session to a network server, but there are already too many sessions established to that server.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000196",
+  "originalCodeUrl": "/win32/ntstatus-h/status_remote_session_limit/0xc0000196/"
+}

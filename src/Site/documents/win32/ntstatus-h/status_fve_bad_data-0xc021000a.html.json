@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_fve_bad_data\0xc021000a\index.html.json
+
+title: 0xC021000A STATUS_FVE_BAD_DATA in ntstatus.h
+description: Data supplied is malformed.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC021000A",
+  "codeUrl": "/win32/ntstatus-h/status_fve_bad_data/0xc021000a/",
+  "numericCode": -1071579126,
+  "define": "STATUS_FVE_BAD_DATA",
+  "defineUrl": "/win32/ntstatus-h/status_fve_bad_data/",
+  "message": "Data supplied is malformed.",
+  "remarks": null,
+  "aka": [
+    "-1071579126"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_fve_bad_data/-1071579126/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

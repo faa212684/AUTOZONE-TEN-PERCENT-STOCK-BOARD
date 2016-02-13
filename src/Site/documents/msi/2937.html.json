@@ -1,0 +1,24 @@
+---
+output: msi\2937\index.html.json
+
+title: msi 2937
+description: Windows Installer cannot install a system file protection catalog. Catalog: [2], Error: [3].
+disqus: true
+---
+{
+  "area": "msi",
+  "areaUrl": "/msi/",
+  "source": null,
+  "sourceUrl": "/msi/",
+  "code": "2937",
+  "codeUrl": "/msi/2937/",
+  "numericCode": 2937,
+  "define": null,
+  "defineUrl": "/msi/",
+  "message": "Windows Installer cannot install a system file protection catalog. Catalog: [2], Error: [3].",
+  "remarks": "Windows Installer protects critical system files. For more information, see <a href=\"https://msdn.microsoft.com/en-us/library/aa372868(v=vs.85).aspx\">Using Windows Installer and Windows Resource Protection</a>. For Windows Me, see the  <a href=\"https://msdn.microsoft.com/en-us/library/aa369542(v=vs.85).aspx\">InstallSFPCatalogFile action</a>, the <a href=\"https://msdn.microsoft.com/en-us/library/aa368591(v=vs.85).aspx\">FileSFPCatalog table</a>, and the \r\n<a href=\"https://msdn.microsoft.com/en-us/library/aa371833(v=vs.85).aspx\">SFPCatalog table</a>.",
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": null,
+  "originalCodeUrl": null
+}

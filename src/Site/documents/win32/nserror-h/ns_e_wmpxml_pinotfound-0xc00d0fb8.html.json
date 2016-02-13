@@ -1,0 +1,28 @@
+---
+output: win32\nserror-h\ns_e_wmpxml_pinotfound\0xc00d0fb8\index.html.json
+
+title: 0xC00D0FB8 NS_E_WMPXML_PINOTFOUND in nserror.h
+description: A call was made go GetNamedPI on the XML parser, but the requested Processing Instruction was not found.%0
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "nserror.h",
+  "sourceUrl": "/win32/nserror-h/",
+  "code": "0xC00D0FB8",
+  "codeUrl": "/win32/nserror-h/ns_e_wmpxml_pinotfound/0xc00d0fb8/",
+  "numericCode": -1072885832,
+  "define": "NS_E_WMPXML_PINOTFOUND",
+  "defineUrl": "/win32/nserror-h/ns_e_wmpxml_pinotfound/",
+  "message": "A call was made go GetNamedPI on the XML parser, but the requested Processing Instruction was not found.%0",
+  "remarks": null,
+  "aka": [
+    "-1072885832"
+  ],
+  "akaUrl": [
+    "/win32/nserror-h/ns_e_wmpxml_pinotfound/-1072885832/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

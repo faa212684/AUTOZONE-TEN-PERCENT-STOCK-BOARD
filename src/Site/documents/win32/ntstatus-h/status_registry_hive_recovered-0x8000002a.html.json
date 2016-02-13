@@ -1,0 +1,31 @@
+---
+output: win32\ntstatus-h\status_registry_hive_recovered\0x8000002a\index.html.json
+
+title: 0x8000002A STATUS_REGISTRY_HIVE_RECOVERED in ntstatus.h
+description: "{Registry Hive Recovered}
+Registry hive (file):
+%hs
+was corrupted and it has been recovered. Some data might have been lost."
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0x8000002A",
+  "codeUrl": "/win32/ntstatus-h/status_registry_hive_recovered/0x8000002a/",
+  "numericCode": -2147483606,
+  "define": "STATUS_REGISTRY_HIVE_RECOVERED",
+  "defineUrl": "/win32/ntstatus-h/status_registry_hive_recovered/",
+  "message": "{Registry Hive Recovered}\r\nRegistry hive (file):\r\n%hs\r\nwas corrupted and it has been recovered. Some data might have been lost.",
+  "remarks": null,
+  "aka": [
+    "-2147483606"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_registry_hive_recovered/-2147483606/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

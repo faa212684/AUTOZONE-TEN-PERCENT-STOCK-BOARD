@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_rdbss_post_operation\-1069481981\index.html.json
+canonical: /win32/ntstatus-h/status_rdbss_post_operation/0xc0410003/
+title: -1069481981 STATUS_RDBSS_POST_OPERATION in ntstatus.h
+description: The operation must be posted to a thread to be retried at passive IRQL.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1069481981",
+  "codeUrl": "/win32/ntstatus-h/status_rdbss_post_operation/-1069481981/",
+  "numericCode": 0,
+  "define": "STATUS_RDBSS_POST_OPERATION",
+  "defineUrl": "/win32/ntstatus-h/status_rdbss_post_operation/",
+  "message": "The operation must be posted to a thread to be retried at passive IRQL.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0410003",
+  "originalCodeUrl": "/win32/ntstatus-h/status_rdbss_post_operation/0xc0410003/"
+}

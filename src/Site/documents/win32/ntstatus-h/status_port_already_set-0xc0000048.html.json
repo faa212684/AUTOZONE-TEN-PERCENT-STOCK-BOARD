@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_port_already_set\0xc0000048\index.html.json
+
+title: 0xC0000048 STATUS_PORT_ALREADY_SET in ntstatus.h
+description: An attempt to set a process's DebugPort or ExceptionPort was made, but a port already exists in the process or an attempt to set a file's CompletionPort made, but a port was already set in the file or an attempt to set an ALPC port's associated completion port was made, but it is already set.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000048",
+  "codeUrl": "/win32/ntstatus-h/status_port_already_set/0xc0000048/",
+  "numericCode": -1073741752,
+  "define": "STATUS_PORT_ALREADY_SET",
+  "defineUrl": "/win32/ntstatus-h/status_port_already_set/",
+  "message": "An attempt to set a process's DebugPort or ExceptionPort was made, but a port already exists in the process or an attempt to set a file's CompletionPort made, but a port was already set in the file or an attempt to set an ALPC port's associated completion port was made, but it is already set.",
+  "remarks": null,
+  "aka": [
+    "-1073741752"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_port_already_set/-1073741752/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

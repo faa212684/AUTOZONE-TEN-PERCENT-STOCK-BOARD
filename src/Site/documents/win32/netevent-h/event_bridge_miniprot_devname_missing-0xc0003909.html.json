@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_bridge_miniprot_devname_missing\0xc0003909\index.html.json
+
+title: 0xC0003909 EVENT_BRIDGE_MINIPROT_DEVNAME_MISSING in netevent.h
+description: Bridge: The bridge could not be initialized because the bridge's miniport device name is missing from the registry.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC0003909",
+  "codeUrl": "/win32/netevent-h/event_bridge_miniprot_devname_missing/0xc0003909/",
+  "numericCode": -1073727223,
+  "define": "EVENT_BRIDGE_MINIPROT_DEVNAME_MISSING",
+  "defineUrl": "/win32/netevent-h/event_bridge_miniprot_devname_missing/",
+  "message": "Bridge: The bridge could not be initialized because the bridge's miniport device name is missing from the registry.",
+  "remarks": null,
+  "aka": [
+    "-1073727223"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_bridge_miniprot_devname_missing/-1073727223/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

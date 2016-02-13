@@ -1,0 +1,28 @@
+---
+output: bugcheck\bugcodes-h\kernel_lock_entry_leaked_on_thread_termination\0x00000153\index.html.json
+
+title: 0x00000153 KERNEL_LOCK_ENTRY_LEAKED_ON_THREAD_TERMINATION in bugcodes.h
+description: KERNEL_LOCK_ENTRY_LEAKED_ON_THREAD_TERMINATION
+disqus: true
+---
+{
+  "area": "bugcheck",
+  "areaUrl": "/bugcheck/",
+  "source": "bugcodes.h",
+  "sourceUrl": "/bugcheck/bugcodes-h/",
+  "code": "0x00000153",
+  "codeUrl": "/bugcheck/bugcodes-h/kernel_lock_entry_leaked_on_thread_termination/0x00000153/",
+  "numericCode": 339,
+  "define": "KERNEL_LOCK_ENTRY_LEAKED_ON_THREAD_TERMINATION",
+  "defineUrl": "/bugcheck/bugcodes-h/kernel_lock_entry_leaked_on_thread_termination/",
+  "message": "KERNEL_LOCK_ENTRY_LEAKED_ON_THREAD_TERMINATION",
+  "remarks": null,
+  "aka": [
+    "339"
+  ],
+  "akaUrl": [
+    "/bugcheck/bugcodes-h/kernel_lock_entry_leaked_on_thread_termination/339/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

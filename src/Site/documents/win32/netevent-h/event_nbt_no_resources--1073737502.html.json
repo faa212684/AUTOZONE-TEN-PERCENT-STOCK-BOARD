@@ -1,0 +1,25 @@
+---
+output: win32\netevent-h\event_nbt_no_resources\-1073737502\index.html.json
+canonical: /win32/netevent-h/event_nbt_no_resources/0xc00010e2/
+title: -1073737502 EVENT_NBT_NO_RESOURCES in netevent.h
+description: NetBT failed to process a request because it encountered OutOfResources
+exception(s) in the last 1 hour.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "-1073737502",
+  "codeUrl": "/win32/netevent-h/event_nbt_no_resources/-1073737502/",
+  "numericCode": 0,
+  "define": "EVENT_NBT_NO_RESOURCES",
+  "defineUrl": "/win32/netevent-h/event_nbt_no_resources/",
+  "message": "NetBT failed to process a request because it encountered OutOfResources\r\nexception(s) in the last 1 hour.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC00010E2",
+  "originalCodeUrl": "/win32/netevent-h/event_nbt_no_resources/0xc00010e2/"
+}

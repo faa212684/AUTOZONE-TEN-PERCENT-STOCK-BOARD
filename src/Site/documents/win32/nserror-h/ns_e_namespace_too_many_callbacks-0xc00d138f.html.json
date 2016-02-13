@@ -1,0 +1,28 @@
+---
+output: win32\nserror-h\ns_e_namespace_too_many_callbacks\0xc00d138f\index.html.json
+
+title: 0xC00D138F NS_E_NAMESPACE_TOO_MANY_CALLBACKS in nserror.h
+description: The callback list on a namespace node is at the maximum size.%0
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "nserror.h",
+  "sourceUrl": "/win32/nserror-h/",
+  "code": "0xC00D138F",
+  "codeUrl": "/win32/nserror-h/ns_e_namespace_too_many_callbacks/0xc00d138f/",
+  "numericCode": -1072884849,
+  "define": "NS_E_NAMESPACE_TOO_MANY_CALLBACKS",
+  "defineUrl": "/win32/nserror-h/ns_e_namespace_too_many_callbacks/",
+  "message": "The callback list on a namespace node is at the maximum size.%0",
+  "remarks": null,
+  "aka": [
+    "-1072884849"
+  ],
+  "akaUrl": [
+    "/win32/nserror-h/ns_e_namespace_too_many_callbacks/-1072884849/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

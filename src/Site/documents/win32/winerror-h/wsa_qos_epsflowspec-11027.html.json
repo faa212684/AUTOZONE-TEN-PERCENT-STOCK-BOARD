@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\wsa_qos_epsflowspec\11027\index.html.json
+
+title: 11027 WSA_QOS_EPSFLOWSPEC in winerror.h
+description: An invalid or inconsistent flowspec was found in the QOS provider specific buffer.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "11027",
+  "codeUrl": "/win32/winerror-h/wsa_qos_epsflowspec/11027/",
+  "numericCode": 11027,
+  "define": "WSA_QOS_EPSFLOWSPEC",
+  "defineUrl": "/win32/winerror-h/wsa_qos_epsflowspec/",
+  "message": "An invalid or inconsistent flowspec was found in the QOS provider specific buffer.",
+  "remarks": null,
+  "aka": [
+    "0x80072b13",
+    "-2147013869"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/wsa_qos_epsflowspec/0x80072b13/",
+    "/win32/winerror-h/wsa_qos_epsflowspec/-2147013869/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

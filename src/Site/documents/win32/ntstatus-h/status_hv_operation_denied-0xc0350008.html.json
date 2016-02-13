@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_hv_operation_denied\0xc0350008\index.html.json
+
+title: 0xC0350008 STATUS_HV_OPERATION_DENIED in ntstatus.h
+description: The operation is not allowed in the current state.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0350008",
+  "codeUrl": "/win32/ntstatus-h/status_hv_operation_denied/0xc0350008/",
+  "numericCode": -1070268408,
+  "define": "STATUS_HV_OPERATION_DENIED",
+  "defineUrl": "/win32/ntstatus-h/status_hv_operation_denied/",
+  "message": "The operation is not allowed in the current state.",
+  "remarks": null,
+  "aka": [
+    "-1070268408"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_hv_operation_denied/-1070268408/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

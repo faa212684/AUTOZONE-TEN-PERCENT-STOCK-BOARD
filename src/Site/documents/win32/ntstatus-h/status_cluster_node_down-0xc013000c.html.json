@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_cluster_node_down\0xc013000c\index.html.json
+
+title: 0xC013000C STATUS_CLUSTER_NODE_DOWN in ntstatus.h
+description: The cluster node is down.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC013000C",
+  "codeUrl": "/win32/ntstatus-h/status_cluster_node_down/0xc013000c/",
+  "numericCode": -1072496628,
+  "define": "STATUS_CLUSTER_NODE_DOWN",
+  "defineUrl": "/win32/ntstatus-h/status_cluster_node_down/",
+  "message": "The cluster node is down.",
+  "remarks": null,
+  "aka": [
+    "-1072496628"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_cluster_node_down/-1072496628/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

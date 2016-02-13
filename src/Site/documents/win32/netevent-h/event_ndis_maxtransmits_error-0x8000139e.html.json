@@ -1,0 +1,29 @@
+---
+output: win32\netevent-h\event_ndis_maxtransmits_error\0x8000139e\index.html.json
+
+title: 0x8000139E EVENT_NDIS_MAXTRANSMITS_ERROR in netevent.h
+description: %2 : The specified registry entry MaxTransmits is out of range. Using 
+default value
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x8000139E",
+  "codeUrl": "/win32/netevent-h/event_ndis_maxtransmits_error/0x8000139e/",
+  "numericCode": -2147478626,
+  "define": "EVENT_NDIS_MAXTRANSMITS_ERROR",
+  "defineUrl": "/win32/netevent-h/event_ndis_maxtransmits_error/",
+  "message": "%2 : The specified registry entry MaxTransmits is out of range. Using \r\ndefault value",
+  "remarks": null,
+  "aka": [
+    "-2147478626"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_ndis_maxtransmits_error/-2147478626/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

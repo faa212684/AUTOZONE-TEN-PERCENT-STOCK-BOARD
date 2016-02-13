@@ -1,0 +1,28 @@
+---
+output: win32\windowssearcherrors-h\gthr_e_dirmon_not_initialzed\0x80040d9d\index.html.json
+
+title: 0x80040D9D GTHR_E_DIRMON_NOT_INITIALZED in WindowsSearchErrors.h
+description: File system alerts were not initialized successfully   If the problem persists after restarting the service, try rerunning Setup.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "0x80040D9D",
+  "codeUrl": "/win32/windowssearcherrors-h/gthr_e_dirmon_not_initialzed/0x80040d9d/",
+  "numericCode": -2147218019,
+  "define": "GTHR_E_DIRMON_NOT_INITIALZED",
+  "defineUrl": "/win32/windowssearcherrors-h/gthr_e_dirmon_not_initialzed/",
+  "message": "File system alerts were not initialized successfully   If the problem persists after restarting the service, try rerunning Setup.",
+  "remarks": null,
+  "aka": [
+    "-2147218019"
+  ],
+  "akaUrl": [
+    "/win32/windowssearcherrors-h/gthr_e_dirmon_not_initialzed/-2147218019/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

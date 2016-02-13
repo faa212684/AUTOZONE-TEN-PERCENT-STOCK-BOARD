@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_graphics_opm_invalid_information_request\-1071241955\index.html.json
+canonical: /win32/winerror-h/error_graphics_opm_invalid_information_request/0xc026251d/
+title: -1071241955 ERROR_GRAPHICS_OPM_INVALID_INFORMATION_REQUEST in winerror.h
+description: The IOPMVideoOutput::GetInformation and IOPMVideoOutput::COPPCompatibleGetInformation methods return this error if the passed in sequence number is not the expected sequence number or the passed in OMAC value is invalid.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-1071241955",
+  "codeUrl": "/win32/winerror-h/error_graphics_opm_invalid_information_request/-1071241955/",
+  "numericCode": 0,
+  "define": "ERROR_GRAPHICS_OPM_INVALID_INFORMATION_REQUEST",
+  "defineUrl": "/win32/winerror-h/error_graphics_opm_invalid_information_request/",
+  "message": "The IOPMVideoOutput::GetInformation and IOPMVideoOutput::COPPCompatibleGetInformation methods return this error if the passed in sequence number is not the expected sequence number or the passed in OMAC value is invalid.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC026251D",
+  "originalCodeUrl": "/win32/winerror-h/error_graphics_opm_invalid_information_request/0xc026251d/"
+}

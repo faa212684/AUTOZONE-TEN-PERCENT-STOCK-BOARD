@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_no_yield_performed\1073741860\index.html.json
+canonical: /win32/ntstatus-h/status_no_yield_performed/0x40000024/
+title: 1073741860 STATUS_NO_YIELD_PERFORMED in ntstatus.h
+description: A yield execution was performed and no thread was available to run.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "1073741860",
+  "codeUrl": "/win32/ntstatus-h/status_no_yield_performed/1073741860/",
+  "numericCode": 0,
+  "define": "STATUS_NO_YIELD_PERFORMED",
+  "defineUrl": "/win32/ntstatus-h/status_no_yield_performed/",
+  "message": "A yield execution was performed and no thread was available to run.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x40000024",
+  "originalCodeUrl": "/win32/ntstatus-h/status_no_yield_performed/0x40000024/"
+}

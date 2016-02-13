@@ -1,0 +1,28 @@
+---
+output: win32\wuerror-h\wu_e_per_machine_update_access_denied\0x80240044\index.html.json
+
+title: 0x80240044 WU_E_PER_MACHINE_UPDATE_ACCESS_DENIED in wuerror.h
+description: Only administrators can perform this operation on per-machine updates.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wuerror.h",
+  "sourceUrl": "/win32/wuerror-h/",
+  "code": "0x80240044",
+  "codeUrl": "/win32/wuerror-h/wu_e_per_machine_update_access_denied/0x80240044/",
+  "numericCode": -2145124284,
+  "define": "WU_E_PER_MACHINE_UPDATE_ACCESS_DENIED",
+  "defineUrl": "/win32/wuerror-h/wu_e_per_machine_update_access_denied/",
+  "message": "Only administrators can perform this operation on per-machine updates.",
+  "remarks": null,
+  "aka": [
+    "-2145124284"
+  ],
+  "akaUrl": [
+    "/win32/wuerror-h/wu_e_per_machine_update_access_denied/-2145124284/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

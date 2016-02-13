@@ -1,0 +1,30 @@
+---
+output: win32\ntstatus-h\status_wrong_volume\0xc0000012\index.html.json
+
+title: 0xC0000012 STATUS_WRONG_VOLUME in ntstatus.h
+description: "{Wrong Volume}
+The wrong volume is in the drive.
+Please insert volume %hs into drive %hs."
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000012",
+  "codeUrl": "/win32/ntstatus-h/status_wrong_volume/0xc0000012/",
+  "numericCode": -1073741806,
+  "define": "STATUS_WRONG_VOLUME",
+  "defineUrl": "/win32/ntstatus-h/status_wrong_volume/",
+  "message": "{Wrong Volume}\r\nThe wrong volume is in the drive.\r\nPlease insert volume %hs into drive %hs.",
+  "remarks": null,
+  "aka": [
+    "-1073741806"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_wrong_volume/-1073741806/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

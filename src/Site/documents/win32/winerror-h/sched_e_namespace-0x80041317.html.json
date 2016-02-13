@@ -1,0 +1,28 @@
+---
+output: win32\winerror-h\sched_e_namespace\0x80041317\index.html.json
+
+title: 0x80041317 SCHED_E_NAMESPACE in winerror.h
+description: The task XML contains an element or attribute from an unexpected namespace.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x80041317",
+  "codeUrl": "/win32/winerror-h/sched_e_namespace/0x80041317/",
+  "numericCode": -2147216617,
+  "define": "SCHED_E_NAMESPACE",
+  "defineUrl": "/win32/winerror-h/sched_e_namespace/",
+  "message": "The task XML contains an element or attribute from an unexpected namespace.",
+  "remarks": null,
+  "aka": [
+    "-2147216617"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/sched_e_namespace/-2147216617/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

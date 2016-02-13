@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_hv_insufficient_device_domains\-1070268360\index.html.json
+canonical: /win32/ntstatus-h/status_hv_insufficient_device_domains/0xc0350038/
+title: -1070268360 STATUS_HV_INSUFFICIENT_DEVICE_DOMAINS in ntstatus.h
+description: The maximum number of domains supported by the platform I/O remapping hardware is currently in use. No domains are available to assign this device to this partition.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1070268360",
+  "codeUrl": "/win32/ntstatus-h/status_hv_insufficient_device_domains/-1070268360/",
+  "numericCode": 0,
+  "define": "STATUS_HV_INSUFFICIENT_DEVICE_DOMAINS",
+  "defineUrl": "/win32/ntstatus-h/status_hv_insufficient_device_domains/",
+  "message": "The maximum number of domains supported by the platform I/O remapping hardware is currently in use. No domains are available to assign this device to this partition.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0350038",
+  "originalCodeUrl": "/win32/ntstatus-h/status_hv_insufficient_device_domains/0xc0350038/"
+}

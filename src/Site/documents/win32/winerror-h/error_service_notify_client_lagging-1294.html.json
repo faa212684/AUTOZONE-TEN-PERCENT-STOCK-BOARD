@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_service_notify_client_lagging\1294\index.html.json
+
+title: 1294 ERROR_SERVICE_NOTIFY_CLIENT_LAGGING in winerror.h
+description: The service notification client is lagging too far behind the current state of services in the machine.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "1294",
+  "codeUrl": "/win32/winerror-h/error_service_notify_client_lagging/1294/",
+  "numericCode": 1294,
+  "define": "ERROR_SERVICE_NOTIFY_CLIENT_LAGGING",
+  "defineUrl": "/win32/winerror-h/error_service_notify_client_lagging/",
+  "message": "The service notification client is lagging too far behind the current state of services in the machine.",
+  "remarks": null,
+  "aka": [
+    "0x8007050e",
+    "-2147023602"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_service_notify_client_lagging/0x8007050e/",
+    "/win32/winerror-h/error_service_notify_client_lagging/-2147023602/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

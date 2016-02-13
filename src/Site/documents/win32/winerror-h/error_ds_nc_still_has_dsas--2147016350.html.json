@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_ds_nc_still_has_dsas\-2147016350\index.html.json
+canonical: /win32/winerror-h/error_ds_nc_still_has_dsas/8546/
+title: -2147016350 ERROR_DS_NC_STILL_HAS_DSAS in winerror.h
+description: The requested domain could not be deleted because there exist domain controllers that still host this domain.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2147016350",
+  "codeUrl": "/win32/winerror-h/error_ds_nc_still_has_dsas/-2147016350/",
+  "numericCode": 0,
+  "define": "ERROR_DS_NC_STILL_HAS_DSAS",
+  "defineUrl": "/win32/winerror-h/error_ds_nc_still_has_dsas/",
+  "message": "The requested domain could not be deleted because there exist domain controllers that still host this domain.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "8546",
+  "originalCodeUrl": "/win32/winerror-h/error_ds_nc_still_has_dsas/8546/"
+}

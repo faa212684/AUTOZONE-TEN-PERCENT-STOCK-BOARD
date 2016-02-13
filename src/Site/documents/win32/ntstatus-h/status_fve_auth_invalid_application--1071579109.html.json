@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_fve_auth_invalid_application\-1071579109\index.html.json
+canonical: /win32/ntstatus-h/status_fve_auth_invalid_application/0xc021001b/
+title: -1071579109 STATUS_FVE_AUTH_INVALID_APPLICATION in ntstatus.h
+description: A boot application hash does not match the hash computed when BitLocker was turned on.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071579109",
+  "codeUrl": "/win32/ntstatus-h/status_fve_auth_invalid_application/-1071579109/",
+  "numericCode": 0,
+  "define": "STATUS_FVE_AUTH_INVALID_APPLICATION",
+  "defineUrl": "/win32/ntstatus-h/status_fve_auth_invalid_application/",
+  "message": "A boot application hash does not match the hash computed when BitLocker was turned on.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC021001B",
+  "originalCodeUrl": "/win32/ntstatus-h/status_fve_auth_invalid_application/0xc021001b/"
+}

@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_acpi_mutex_not_owned\0xc0140016\index.html.json
+
+title: 0xC0140016 STATUS_ACPI_MUTEX_NOT_OWNED in ntstatus.h
+description: The mutex is not currently owned
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0140016",
+  "codeUrl": "/win32/ntstatus-h/status_acpi_mutex_not_owned/0xc0140016/",
+  "numericCode": -1072431082,
+  "define": "STATUS_ACPI_MUTEX_NOT_OWNED",
+  "defineUrl": "/win32/ntstatus-h/status_acpi_mutex_not_owned/",
+  "message": "The mutex is not currently owned",
+  "remarks": null,
+  "aka": [
+    "-1072431082"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_acpi_mutex_not_owned/-1072431082/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

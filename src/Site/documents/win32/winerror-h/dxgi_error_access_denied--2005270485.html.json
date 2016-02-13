@@ -1,0 +1,25 @@
+---
+output: win32\winerror-h\dxgi_error_access_denied\-2005270485\index.html.json
+canonical: /win32/winerror-h/dxgi_error_access_denied/0x887a002b/
+title: -2005270485 DXGI_ERROR_ACCESS_DENIED in winerror.h
+description: The application is trying to use a resource to which it does not have the required access privileges.
+This is most commonly caused by writing to a shared resource with read-only access.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2005270485",
+  "codeUrl": "/win32/winerror-h/dxgi_error_access_denied/-2005270485/",
+  "numericCode": 0,
+  "define": "DXGI_ERROR_ACCESS_DENIED",
+  "defineUrl": "/win32/winerror-h/dxgi_error_access_denied/",
+  "message": "The application is trying to use a resource to which it does not have the required access privileges.\r\nThis is most commonly caused by writing to a shared resource with read-only access.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x887A002B",
+  "originalCodeUrl": "/win32/winerror-h/dxgi_error_access_denied/0x887a002b/"
+}

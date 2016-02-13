@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_unknown_revision\0xc0000058\index.html.json
+
+title: 0xC0000058 STATUS_UNKNOWN_REVISION in ntstatus.h
+description: Indicates a revision number encountered or specified is not one known by the service. It may be a more recent revision than the service is aware of.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0000058",
+  "codeUrl": "/win32/ntstatus-h/status_unknown_revision/0xc0000058/",
+  "numericCode": -1073741736,
+  "define": "STATUS_UNKNOWN_REVISION",
+  "defineUrl": "/win32/ntstatus-h/status_unknown_revision/",
+  "message": "Indicates a revision number encountered or specified is not one known by the service. It may be a more recent revision than the service is aware of.",
+  "remarks": null,
+  "aka": [
+    "-1073741736"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_unknown_revision/-1073741736/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

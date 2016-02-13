@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_e_no_disks_found\0x8004241e\index.html.json
+
+title: 0x8004241E VDS_E_NO_DISKS_FOUND in vdserr.h
+description: No disks were found on the target machine.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x8004241E",
+  "codeUrl": "/win32/vdserr-h/vds_e_no_disks_found/0x8004241e/",
+  "numericCode": -2147212258,
+  "define": "VDS_E_NO_DISKS_FOUND",
+  "defineUrl": "/win32/vdserr-h/vds_e_no_disks_found/",
+  "message": "No disks were found on the target machine.",
+  "remarks": null,
+  "aka": [
+    "-2147212258"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_no_disks_found/-2147212258/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

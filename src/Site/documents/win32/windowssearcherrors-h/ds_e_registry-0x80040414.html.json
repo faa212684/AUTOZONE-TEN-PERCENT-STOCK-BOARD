@@ -1,0 +1,28 @@
+---
+output: win32\windowssearcherrors-h\ds_e_registry\0x80040414\index.html.json
+
+title: 0x80040414 DS_E_REGISTRY in WindowsSearchErrors.h
+description: The search server cannot read or write to the registry. Check that the search server is running with administrative privileges.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "0x80040414",
+  "codeUrl": "/win32/windowssearcherrors-h/ds_e_registry/0x80040414/",
+  "numericCode": -2147220460,
+  "define": "DS_E_REGISTRY",
+  "defineUrl": "/win32/windowssearcherrors-h/ds_e_registry/",
+  "message": "The search server cannot read or write to the registry. Check that the search server is running with administrative privileges.",
+  "remarks": null,
+  "aka": [
+    "-2147220460"
+  ],
+  "akaUrl": [
+    "/win32/windowssearcherrors-h/ds_e_registry/-2147220460/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

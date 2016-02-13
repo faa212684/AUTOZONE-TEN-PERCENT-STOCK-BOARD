@@ -1,0 +1,28 @@
+---
+output: win32\nserror-h\ns_e_timecode_requires_videostream\0xc00d1bd9\index.html.json
+
+title: 0xC00D1BD9 NS_E_TIMECODE_REQUIRES_VIDEOSTREAM in nserror.h
+description: It is not possible to generate a time code for an audio-only session.%0
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "nserror.h",
+  "sourceUrl": "/win32/nserror-h/",
+  "code": "0xC00D1BD9",
+  "codeUrl": "/win32/nserror-h/ns_e_timecode_requires_videostream/0xc00d1bd9/",
+  "numericCode": -1072882727,
+  "define": "NS_E_TIMECODE_REQUIRES_VIDEOSTREAM",
+  "defineUrl": "/win32/nserror-h/ns_e_timecode_requires_videostream/",
+  "message": "It is not possible to generate a time code for an audio-only session.%0",
+  "remarks": null,
+  "aka": [
+    "-1072882727"
+  ],
+  "akaUrl": [
+    "/win32/nserror-h/ns_e_timecode_requires_videostream/-1072882727/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

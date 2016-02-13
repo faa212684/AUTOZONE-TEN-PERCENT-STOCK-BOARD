@@ -1,0 +1,29 @@
+---
+output: win32\wsmerror-h\error_wsman_eventing_filtering_requested_unavailable\0x80338022\index.html.json
+
+title: 0x80338022 ERROR_WSMAN_EVENTING_FILTERING_REQUESTED_UNAVAILABLE in wsmerror.h
+description: The event source cannot process the specified filter.
+Change the filter or remove it from the request and try the request again.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x80338022",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_eventing_filtering_requested_unavailable/0x80338022/",
+  "numericCode": -2144108510,
+  "define": "ERROR_WSMAN_EVENTING_FILTERING_REQUESTED_UNAVAILABLE",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_eventing_filtering_requested_unavailable/",
+  "message": "The event source cannot process the specified filter.\r\nChange the filter or remove it from the request and try the request again.",
+  "remarks": null,
+  "aka": [
+    "-2144108510"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_eventing_filtering_requested_unavailable/-2144108510/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

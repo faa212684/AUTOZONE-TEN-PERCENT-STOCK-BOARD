@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_ndis_unsupported_media\0xc0230019\index.html.json
+
+title: 0xC0230019 STATUS_NDIS_UNSUPPORTED_MEDIA in ntstatus.h
+description: Network interface does not support this media type.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0230019",
+  "codeUrl": "/win32/ntstatus-h/status_ndis_unsupported_media/0xc0230019/",
+  "numericCode": -1071448039,
+  "define": "STATUS_NDIS_UNSUPPORTED_MEDIA",
+  "defineUrl": "/win32/ntstatus-h/status_ndis_unsupported_media/",
+  "message": "Network interface does not support this media type.",
+  "remarks": null,
+  "aka": [
+    "-1071448039"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_ndis_unsupported_media/-1071448039/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

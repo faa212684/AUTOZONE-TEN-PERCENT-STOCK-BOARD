@@ -1,0 +1,32 @@
+---
+output: win32\netevent-h\event_service_different_pid_connected\0x80001b7f\index.html.json
+
+title: 0x80001B7F EVENT_SERVICE_DIFFERENT_PID_CONNECTED in netevent.h
+description: A service process other than the one launched by the Service Control Manager
+connected when starting the %1 service.  The Service Control Manager launched
+process %2 and process %3 connected instead.%n%n
+Note that if this service is configured to start under a debugger, this behavior
+is expected.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x80001B7F",
+  "codeUrl": "/win32/netevent-h/event_service_different_pid_connected/0x80001b7f/",
+  "numericCode": -2147476609,
+  "define": "EVENT_SERVICE_DIFFERENT_PID_CONNECTED",
+  "defineUrl": "/win32/netevent-h/event_service_different_pid_connected/",
+  "message": "A service process other than the one launched by the Service Control Manager\r\nconnected when starting the %1 service.  The Service Control Manager launched\r\nprocess %2 and process %3 connected instead.%n%n\r\nNote that if this service is configured to start under a debugger, this behavior\r\nis expected.",
+  "remarks": null,
+  "aka": [
+    "-2147476609"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_service_different_pid_connected/-2147476609/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

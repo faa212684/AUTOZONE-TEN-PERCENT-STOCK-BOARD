@@ -1,0 +1,25 @@
+---
+output: win32\ntstatus-h\status_wake_system_debugger\-2147483641\index.html.json
+canonical: /win32/ntstatus-h/status_wake_system_debugger/0x80000007/
+title: -2147483641 STATUS_WAKE_SYSTEM_DEBUGGER in ntstatus.h
+description: "{Kernel Debugger Awakened}
+the system debugger was awakened by an interrupt."
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-2147483641",
+  "codeUrl": "/win32/ntstatus-h/status_wake_system_debugger/-2147483641/",
+  "numericCode": 0,
+  "define": "STATUS_WAKE_SYSTEM_DEBUGGER",
+  "defineUrl": "/win32/ntstatus-h/status_wake_system_debugger/",
+  "message": "{Kernel Debugger Awakened}\r\nthe system debugger was awakened by an interrupt.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80000007",
+  "originalCodeUrl": "/win32/ntstatus-h/status_wake_system_debugger/0x80000007/"
+}

@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_io_reissue_as_cached\3950\index.html.json
+
+title: 3950 ERROR_IO_REISSUE_AS_CACHED in winerror.h
+description: Reissue the given operation as a cached IO operation
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "3950",
+  "codeUrl": "/win32/winerror-h/error_io_reissue_as_cached/3950/",
+  "numericCode": 3950,
+  "define": "ERROR_IO_REISSUE_AS_CACHED",
+  "defineUrl": "/win32/winerror-h/error_io_reissue_as_cached/",
+  "message": "Reissue the given operation as a cached IO operation",
+  "remarks": null,
+  "aka": [
+    "0x80070f6e",
+    "-2147020946"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_io_reissue_as_cached/0x80070f6e/",
+    "/win32/winerror-h/error_io_reissue_as_cached/-2147020946/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

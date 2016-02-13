@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_bth_att_write_not_permitted\0xc0420003\index.html.json
+
+title: 0xC0420003 STATUS_BTH_ATT_WRITE_NOT_PERMITTED in ntstatus.h
+description: The attribute cannot be written.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0420003",
+  "codeUrl": "/win32/ntstatus-h/status_bth_att_write_not_permitted/0xc0420003/",
+  "numericCode": -1069416445,
+  "define": "STATUS_BTH_ATT_WRITE_NOT_PERMITTED",
+  "defineUrl": "/win32/ntstatus-h/status_bth_att_write_not_permitted/",
+  "message": "The attribute cannot be written.",
+  "remarks": null,
+  "aka": [
+    "-1069416445"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_bth_att_write_not_permitted/-1069416445/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

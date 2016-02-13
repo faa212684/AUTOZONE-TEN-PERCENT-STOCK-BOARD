@@ -1,0 +1,28 @@
+---
+output: win32\windowssearcherrors-h\fte_e_path_too_long\0x8004361a\index.html.json
+
+title: 0x8004361A FTE_E_PATH_TOO_LONG in WindowsSearchErrors.h
+description: A file path exceeds the maximum limit for paths in Windows, so it can't be used.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "WindowsSearchErrors.h",
+  "sourceUrl": "/win32/windowssearcherrors-h/",
+  "code": "0x8004361A",
+  "codeUrl": "/win32/windowssearcherrors-h/fte_e_path_too_long/0x8004361a/",
+  "numericCode": -2147207654,
+  "define": "FTE_E_PATH_TOO_LONG",
+  "defineUrl": "/win32/windowssearcherrors-h/fte_e_path_too_long/",
+  "message": "A file path exceeds the maximum limit for paths in Windows, so it can't be used.",
+  "remarks": null,
+  "aka": [
+    "-2147207654"
+  ],
+  "akaUrl": [
+    "/win32/windowssearcherrors-h/fte_e_path_too_long/-2147207654/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\winbio_err-h\winbio_e_data_collection_in_progress\0x8009800b\index.html.json
+
+title: 0x8009800B WINBIO_E_DATA_COLLECTION_IN_PROGRESS in winbio_err.h
+description: The driver already has a pending data collection operation in progress.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winbio_err.h",
+  "sourceUrl": "/win32/winbio_err-h/",
+  "code": "0x8009800B",
+  "codeUrl": "/win32/winbio_err-h/winbio_e_data_collection_in_progress/0x8009800b/",
+  "numericCode": -2146861045,
+  "define": "WINBIO_E_DATA_COLLECTION_IN_PROGRESS",
+  "defineUrl": "/win32/winbio_err-h/winbio_e_data_collection_in_progress/",
+  "message": "The driver already has a pending data collection operation in progress.",
+  "remarks": null,
+  "aka": [
+    "-2146861045"
+  ],
+  "akaUrl": [
+    "/win32/winbio_err-h/winbio_e_data_collection_in_progress/-2146861045/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

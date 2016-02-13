@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_address_already_associated\0x800704cb\index.html.json
+canonical: /win32/winerror-h/error_address_already_associated/1227/
+title: 0x800704cb ERROR_ADDRESS_ALREADY_ASSOCIATED in winerror.h
+description: The network transport endpoint already has an address associated with it.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "0x800704cb",
+  "codeUrl": "/win32/winerror-h/error_address_already_associated/0x800704cb/",
+  "numericCode": 0,
+  "define": "ERROR_ADDRESS_ALREADY_ASSOCIATED",
+  "defineUrl": "/win32/winerror-h/error_address_already_associated/",
+  "message": "The network transport endpoint already has an address associated with it.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "1227",
+  "originalCodeUrl": "/win32/winerror-h/error_address_already_associated/1227/"
+}

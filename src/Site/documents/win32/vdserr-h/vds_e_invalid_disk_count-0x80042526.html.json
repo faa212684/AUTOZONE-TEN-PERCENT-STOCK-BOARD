@@ -1,0 +1,28 @@
+---
+output: win32\vdserr-h\vds_e_invalid_disk_count\0x80042526\index.html.json
+
+title: 0x80042526 VDS_E_INVALID_DISK_COUNT in vdserr.h
+description: The number of disks specified is invalid for this operation.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x80042526",
+  "codeUrl": "/win32/vdserr-h/vds_e_invalid_disk_count/0x80042526/",
+  "numericCode": -2147211994,
+  "define": "VDS_E_INVALID_DISK_COUNT",
+  "defineUrl": "/win32/vdserr-h/vds_e_invalid_disk_count/",
+  "message": "The number of disks specified is invalid for this operation.",
+  "remarks": null,
+  "aka": [
+    "-2147211994"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_invalid_disk_count/-2147211994/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

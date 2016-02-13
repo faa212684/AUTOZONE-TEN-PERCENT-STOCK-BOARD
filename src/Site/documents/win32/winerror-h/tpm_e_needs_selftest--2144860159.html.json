@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\tpm_e_needs_selftest\-2144860159\index.html.json
+canonical: /win32/winerror-h/tpm_e_needs_selftest/0x80280801/
+title: -2144860159 TPM_E_NEEDS_SELFTEST in winerror.h
+description: SelfTestFull has not been run.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-2144860159",
+  "codeUrl": "/win32/winerror-h/tpm_e_needs_selftest/-2144860159/",
+  "numericCode": 0,
+  "define": "TPM_E_NEEDS_SELFTEST",
+  "defineUrl": "/win32/winerror-h/tpm_e_needs_selftest/",
+  "message": "SelfTestFull has not been run.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0x80280801",
+  "originalCodeUrl": "/win32/winerror-h/tpm_e_needs_selftest/0x80280801/"
+}

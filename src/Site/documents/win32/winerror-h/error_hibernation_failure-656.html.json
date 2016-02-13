@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_hibernation_failure\656\index.html.json
+
+title: 656 ERROR_HIBERNATION_FAILURE in winerror.h
+description: The system has failed to hibernate (The error code is %hs). Hibernation will be disabled until the system is restarted.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "656",
+  "codeUrl": "/win32/winerror-h/error_hibernation_failure/656/",
+  "numericCode": 656,
+  "define": "ERROR_HIBERNATION_FAILURE",
+  "defineUrl": "/win32/winerror-h/error_hibernation_failure/",
+  "message": "The system has failed to hibernate (The error code is %hs). Hibernation will be disabled until the system is restarted.",
+  "remarks": null,
+  "aka": [
+    "0x80070290",
+    "-2147024240"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_hibernation_failure/0x80070290/",
+    "/win32/winerror-h/error_hibernation_failure/-2147024240/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

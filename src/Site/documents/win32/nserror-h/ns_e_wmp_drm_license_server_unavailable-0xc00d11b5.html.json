@@ -1,0 +1,28 @@
+---
+output: win32\nserror-h\ns_e_wmp_drm_license_server_unavailable\0xc00d11b5\index.html.json
+
+title: 0xC00D11B5 NS_E_WMP_DRM_LICENSE_SERVER_UNAVAILABLE in nserror.h
+description: Windows Media Player cannot download media usage rights because the server is not available (for example, the server might be busy or not online).%0
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "nserror.h",
+  "sourceUrl": "/win32/nserror-h/",
+  "code": "0xC00D11B5",
+  "codeUrl": "/win32/nserror-h/ns_e_wmp_drm_license_server_unavailable/0xc00d11b5/",
+  "numericCode": -1072885323,
+  "define": "NS_E_WMP_DRM_LICENSE_SERVER_UNAVAILABLE",
+  "defineUrl": "/win32/nserror-h/ns_e_wmp_drm_license_server_unavailable/",
+  "message": "Windows Media Player cannot download media usage rights because the server is not available (for example, the server might be busy or not online).%0",
+  "remarks": null,
+  "aka": [
+    "-1072885323"
+  ],
+  "akaUrl": [
+    "/win32/nserror-h/ns_e_wmp_drm_license_server_unavailable/-1072885323/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

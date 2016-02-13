@@ -1,0 +1,29 @@
+---
+output: win32\ntstatus-h\status_video_driver_debug_report_request\0x401b00ec\index.html.json
+
+title: 0x401B00EC STATUS_VIDEO_DRIVER_DEBUG_REPORT_REQUEST in ntstatus.h
+description: "{Display Driver Recovered From Failure}
+The %hs display driver has detected and recovered from a failure. Some graphical operations may have failed. The next time you reboot the machine a dialog will be displayed giving you a chance to upload data about this failure to Microsoft."
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0x401B00EC",
+  "codeUrl": "/win32/ntstatus-h/status_video_driver_debug_report_request/0x401b00ec/",
+  "numericCode": 1075511532,
+  "define": "STATUS_VIDEO_DRIVER_DEBUG_REPORT_REQUEST",
+  "defineUrl": "/win32/ntstatus-h/status_video_driver_debug_report_request/",
+  "message": "{Display Driver Recovered From Failure}\r\nThe %hs display driver has detected and recovered from a failure. Some graphical operations may have failed. The next time you reboot the machine a dialog will be displayed giving you a chance to upload data about this failure to Microsoft.",
+  "remarks": null,
+  "aka": [
+    "1075511532"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_video_driver_debug_report_request/1075511532/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

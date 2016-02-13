@@ -1,0 +1,25 @@
+---
+output: win32\ntstatus-h\status_object_type_mismatch\-1073741788\index.html.json
+canonical: /win32/ntstatus-h/status_object_type_mismatch/0xc0000024/
+title: -1073741788 STATUS_OBJECT_TYPE_MISMATCH in ntstatus.h
+description: "{Wrong Type}
+There is a mismatch between the type of object required by the requested operation and the type of object that is specified in the request."
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741788",
+  "codeUrl": "/win32/ntstatus-h/status_object_type_mismatch/-1073741788/",
+  "numericCode": 0,
+  "define": "STATUS_OBJECT_TYPE_MISMATCH",
+  "defineUrl": "/win32/ntstatus-h/status_object_type_mismatch/",
+  "message": "{Wrong Type}\r\nThere is a mismatch between the type of object required by the requested operation and the type of object that is specified in the request.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000024",
+  "originalCodeUrl": "/win32/ntstatus-h/status_object_type_mismatch/0xc0000024/"
+}

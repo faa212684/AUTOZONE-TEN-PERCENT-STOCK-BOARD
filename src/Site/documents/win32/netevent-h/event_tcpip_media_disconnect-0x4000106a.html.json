@@ -1,0 +1,31 @@
+---
+output: win32\netevent-h\event_tcpip_media_disconnect\0x4000106a\index.html.json
+
+title: 0x4000106A EVENT_TCPIP_MEDIA_DISCONNECT in netevent.h
+description: The system detected that network adapter %2 was disconnected from the network
+and its network configuration has been released. If the network adapter was
+not disconnected, this may indicate that it has malfunctioned.
+Try updating the driver for the network adapter.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x4000106A",
+  "codeUrl": "/win32/netevent-h/event_tcpip_media_disconnect/0x4000106a/",
+  "numericCode": 1073746026,
+  "define": "EVENT_TCPIP_MEDIA_DISCONNECT",
+  "defineUrl": "/win32/netevent-h/event_tcpip_media_disconnect/",
+  "message": "The system detected that network adapter %2 was disconnected from the network\r\nand its network configuration has been released. If the network adapter was\r\nnot disconnected, this may indicate that it has malfunctioned.\r\nTry updating the driver for the network adapter.",
+  "remarks": null,
+  "aka": [
+    "1073746026"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_tcpip_media_disconnect/1073746026/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_cluster_netinterface_exists\0xc0130008\index.html.json
+
+title: 0xC0130008 STATUS_CLUSTER_NETINTERFACE_EXISTS in ntstatus.h
+description: The cluster network interface already exists.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC0130008",
+  "codeUrl": "/win32/ntstatus-h/status_cluster_netinterface_exists/0xc0130008/",
+  "numericCode": -1072496632,
+  "define": "STATUS_CLUSTER_NETINTERFACE_EXISTS",
+  "defineUrl": "/win32/ntstatus-h/status_cluster_netinterface_exists/",
+  "message": "The cluster network interface already exists.",
+  "remarks": null,
+  "aka": [
+    "-1072496632"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_cluster_netinterface_exists/-1072496632/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

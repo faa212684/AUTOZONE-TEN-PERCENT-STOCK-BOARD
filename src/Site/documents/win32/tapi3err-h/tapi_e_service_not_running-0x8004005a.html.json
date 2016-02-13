@@ -1,0 +1,28 @@
+---
+output: win32\tapi3err-h\tapi_e_service_not_running\0x8004005a\index.html.json
+
+title: 0x8004005A TAPI_E_SERVICE_NOT_RUNNING in Tapi3Err.h
+description: The Telephony Service could not be contacted.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "Tapi3Err.h",
+  "sourceUrl": "/win32/tapi3err-h/",
+  "code": "0x8004005A",
+  "codeUrl": "/win32/tapi3err-h/tapi_e_service_not_running/0x8004005a/",
+  "numericCode": -2147221414,
+  "define": "TAPI_E_SERVICE_NOT_RUNNING",
+  "defineUrl": "/win32/tapi3err-h/tapi_e_service_not_running/",
+  "message": "The Telephony Service could not be contacted.",
+  "remarks": null,
+  "aka": [
+    "-2147221414"
+  ],
+  "akaUrl": [
+    "/win32/tapi3err-h/tapi_e_service_not_running/-2147221414/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

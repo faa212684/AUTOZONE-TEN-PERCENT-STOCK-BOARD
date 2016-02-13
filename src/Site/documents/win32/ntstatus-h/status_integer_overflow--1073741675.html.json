@@ -1,0 +1,25 @@
+---
+output: win32\ntstatus-h\status_integer_overflow\-1073741675\index.html.json
+canonical: /win32/ntstatus-h/status_integer_overflow/0xc0000095/
+title: -1073741675 STATUS_INTEGER_OVERFLOW in ntstatus.h
+description: "{EXCEPTION}
+Integer overflow."
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1073741675",
+  "codeUrl": "/win32/ntstatus-h/status_integer_overflow/-1073741675/",
+  "numericCode": 0,
+  "define": "STATUS_INTEGER_OVERFLOW",
+  "defineUrl": "/win32/ntstatus-h/status_integer_overflow/",
+  "message": "{EXCEPTION}\r\nInteger overflow.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0000095",
+  "originalCodeUrl": "/win32/ntstatus-h/status_integer_overflow/0xc0000095/"
+}

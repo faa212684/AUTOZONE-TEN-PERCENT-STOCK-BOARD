@@ -1,0 +1,30 @@
+---
+output: win32\wsmerror-h\error_wsman_insufficient_metadata_for_basic\0x803381f3\index.html.json
+
+title: 0x803381F3 ERROR_WSMAN_INSUFFICIENT_METADATA_FOR_BASIC in wsmerror.h
+description: The WinRM client cannot process the request because insufficient metadata is available.
+The application does not allow all properties to be returned as strings, but the server does not support correctly typing the properties.
+Change the request to allow all properties to be returned as strings and retry the request.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "wsmerror.h",
+  "sourceUrl": "/win32/wsmerror-h/",
+  "code": "0x803381F3",
+  "codeUrl": "/win32/wsmerror-h/error_wsman_insufficient_metadata_for_basic/0x803381f3/",
+  "numericCode": -2144108045,
+  "define": "ERROR_WSMAN_INSUFFICIENT_METADATA_FOR_BASIC",
+  "defineUrl": "/win32/wsmerror-h/error_wsman_insufficient_metadata_for_basic/",
+  "message": "The WinRM client cannot process the request because insufficient metadata is available.\r\nThe application does not allow all properties to be returned as strings, but the server does not support correctly typing the properties.\r\nChange the request to allow all properties to be returned as strings and retry the request.",
+  "remarks": null,
+  "aka": [
+    "-2144108045"
+  ],
+  "akaUrl": [
+    "/win32/wsmerror-h/error_wsman_insufficient_metadata_for_basic/-2144108045/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_bad_service_state\0xc0001b68\index.html.json
+
+title: 0xC0001B68 EVENT_BAD_SERVICE_STATE in netevent.h
+description: The %1 service has reported an invalid current state %2.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0xC0001B68",
+  "codeUrl": "/win32/netevent-h/event_bad_service_state/0xc0001b68/",
+  "numericCode": -1073734808,
+  "define": "EVENT_BAD_SERVICE_STATE",
+  "defineUrl": "/win32/netevent-h/event_bad_service_state/",
+  "message": "The %1 service has reported an invalid current state %2.",
+  "remarks": null,
+  "aka": [
+    "-1073734808"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_bad_service_state/-1073734808/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

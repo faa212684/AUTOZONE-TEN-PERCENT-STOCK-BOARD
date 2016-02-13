@@ -1,0 +1,24 @@
+---
+output: win32\ntstatus-h\status_ndis_multicast_full\-1071448055\index.html.json
+canonical: /win32/ntstatus-h/status_ndis_multicast_full/0xc0230009/
+title: -1071448055 STATUS_NDIS_MULTICAST_FULL in ntstatus.h
+description: The multicast list on the network interface is full.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "-1071448055",
+  "codeUrl": "/win32/ntstatus-h/status_ndis_multicast_full/-1071448055/",
+  "numericCode": 0,
+  "define": "STATUS_NDIS_MULTICAST_FULL",
+  "defineUrl": "/win32/ntstatus-h/status_ndis_multicast_full/",
+  "message": "The multicast list on the network interface is full.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC0230009",
+  "originalCodeUrl": "/win32/ntstatus-h/status_ndis_multicast_full/0xc0230009/"
+}

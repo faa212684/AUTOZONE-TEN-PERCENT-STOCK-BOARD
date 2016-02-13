@@ -1,0 +1,24 @@
+---
+output: win32\winerror-h\error_graphics_only_console_session_supported\-1071241760\index.html.json
+canonical: /win32/winerror-h/error_graphics_only_console_session_supported/0xc02625e0/
+title: -1071241760 ERROR_GRAPHICS_ONLY_CONSOLE_SESSION_SUPPORTED in winerror.h
+description: This function can only be used if a program is running in the local console session. It cannot be used if the program is running on a remote desktop session or on a terminal server session.
+disqus: false
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "-1071241760",
+  "codeUrl": "/win32/winerror-h/error_graphics_only_console_session_supported/-1071241760/",
+  "numericCode": 0,
+  "define": "ERROR_GRAPHICS_ONLY_CONSOLE_SESSION_SUPPORTED",
+  "defineUrl": "/win32/winerror-h/error_graphics_only_console_session_supported/",
+  "message": "This function can only be used if a program is running in the local console session. It cannot be used if the program is running on a remote desktop session or on a terminal server session.",
+  "remarks": null,
+  "aka": null,
+  "akaUrl": null,
+  "originalCode": "0xC02625E0",
+  "originalCodeUrl": "/win32/winerror-h/error_graphics_only_console_session_supported/0xc02625e0/"
+}

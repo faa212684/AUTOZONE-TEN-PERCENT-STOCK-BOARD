@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_ndis_multicast_exists\0xc023000a\index.html.json
+
+title: 0xC023000A STATUS_NDIS_MULTICAST_EXISTS in ntstatus.h
+description: An attempt was made to add a duplicate multicast address to the list.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC023000A",
+  "codeUrl": "/win32/ntstatus-h/status_ndis_multicast_exists/0xc023000a/",
+  "numericCode": -1071448054,
+  "define": "STATUS_NDIS_MULTICAST_EXISTS",
+  "defineUrl": "/win32/ntstatus-h/status_ndis_multicast_exists/",
+  "message": "An attempt was made to add a duplicate multicast address to the list.",
+  "remarks": null,
+  "aka": [
+    "-1071448054"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_ndis_multicast_exists/-1071448054/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

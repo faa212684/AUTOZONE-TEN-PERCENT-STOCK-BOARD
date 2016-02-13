@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_monitor_unknown_descriptor_format\0xc01d0002\index.html.json
+
+title: 0xC01D0002 STATUS_MONITOR_UNKNOWN_DESCRIPTOR_FORMAT in ntstatus.h
+description: Format of the obtained monitor descriptor is not supported by this release.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC01D0002",
+  "codeUrl": "/win32/ntstatus-h/status_monitor_unknown_descriptor_format/0xc01d0002/",
+  "numericCode": -1071841278,
+  "define": "STATUS_MONITOR_UNKNOWN_DESCRIPTOR_FORMAT",
+  "defineUrl": "/win32/ntstatus-h/status_monitor_unknown_descriptor_format/",
+  "message": "Format of the obtained monitor descriptor is not supported by this release.",
+  "remarks": null,
+  "aka": [
+    "-1071841278"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_monitor_unknown_descriptor_format/-1071841278/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

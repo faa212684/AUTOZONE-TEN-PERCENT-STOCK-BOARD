@@ -1,0 +1,29 @@
+---
+output: win32\vdserr-h\vds_e_disk_not_convertible_size\0x80042925\index.html.json
+
+title: 0x80042925 VDS_E_DISK_NOT_CONVERTIBLE_SIZE in vdserr.h
+description: The specified disk is not convertible because the size is less than
+the minimum size required for GPT disks.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x80042925",
+  "codeUrl": "/win32/vdserr-h/vds_e_disk_not_convertible_size/0x80042925/",
+  "numericCode": -2147210971,
+  "define": "VDS_E_DISK_NOT_CONVERTIBLE_SIZE",
+  "defineUrl": "/win32/vdserr-h/vds_e_disk_not_convertible_size/",
+  "message": "The specified disk is not convertible because the size is less than\r\nthe minimum size required for GPT disks.",
+  "remarks": null,
+  "aka": [
+    "-2147210971"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_disk_not_convertible_size/-2147210971/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_process_is_terminating\0xc000010a\index.html.json
+
+title: 0xC000010A STATUS_PROCESS_IS_TERMINATING in ntstatus.h
+description: An attempt was made to access an exiting process.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC000010A",
+  "codeUrl": "/win32/ntstatus-h/status_process_is_terminating/0xc000010a/",
+  "numericCode": -1073741558,
+  "define": "STATUS_PROCESS_IS_TERMINATING",
+  "defineUrl": "/win32/ntstatus-h/status_process_is_terminating/",
+  "message": "An attempt was made to access an exiting process.",
+  "remarks": null,
+  "aka": [
+    "-1073741558"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_process_is_terminating/-1073741558/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

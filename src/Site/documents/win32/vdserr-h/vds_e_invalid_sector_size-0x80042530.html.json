@@ -1,0 +1,29 @@
+---
+output: win32\vdserr-h\vds_e_invalid_sector_size\0x80042530\index.html.json
+
+title: 0x80042530 VDS_E_INVALID_SECTOR_SIZE in vdserr.h
+description: All disks holding extents for a given volume must have the same 
+sector size, and the sector size must be valid.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vdserr.h",
+  "sourceUrl": "/win32/vdserr-h/",
+  "code": "0x80042530",
+  "codeUrl": "/win32/vdserr-h/vds_e_invalid_sector_size/0x80042530/",
+  "numericCode": -2147211984,
+  "define": "VDS_E_INVALID_SECTOR_SIZE",
+  "defineUrl": "/win32/vdserr-h/vds_e_invalid_sector_size/",
+  "message": "All disks holding extents for a given volume must have the same \r\nsector size, and the sector size must be valid.",
+  "remarks": null,
+  "aka": [
+    "-2147211984"
+  ],
+  "akaUrl": [
+    "/win32/vdserr-h/vds_e_invalid_sector_size/-2147211984/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

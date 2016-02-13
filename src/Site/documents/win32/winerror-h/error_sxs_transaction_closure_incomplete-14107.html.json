@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_sxs_transaction_closure_incomplete\14107\index.html.json
+
+title: 14107 ERROR_SXS_TRANSACTION_CLOSURE_INCOMPLETE in winerror.h
+description: One or more required members of the transaction are not present.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "14107",
+  "codeUrl": "/win32/winerror-h/error_sxs_transaction_closure_incomplete/14107/",
+  "numericCode": 14107,
+  "define": "ERROR_SXS_TRANSACTION_CLOSURE_INCOMPLETE",
+  "defineUrl": "/win32/winerror-h/error_sxs_transaction_closure_incomplete/",
+  "message": "One or more required members of the transaction are not present.",
+  "remarks": null,
+  "aka": [
+    "0x8007371b",
+    "-2147010789"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_sxs_transaction_closure_incomplete/0x8007371b/",
+    "/win32/winerror-h/error_sxs_transaction_closure_incomplete/-2147010789/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

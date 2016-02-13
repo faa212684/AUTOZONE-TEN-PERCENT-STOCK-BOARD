@@ -1,0 +1,28 @@
+---
+output: win32\vsserror-h\vss_e_cannot_revert_diskid\0x800423fe\index.html.json
+
+title: 0x800423FE VSS_E_CANNOT_REVERT_DISKID in vsserror.h
+description: The MBR signature or GPT ID for one or more disks could not be set to the intended value. Check the Application event log for more information.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "vsserror.h",
+  "sourceUrl": "/win32/vsserror-h/",
+  "code": "0x800423FE",
+  "codeUrl": "/win32/vsserror-h/vss_e_cannot_revert_diskid/0x800423fe/",
+  "numericCode": -2147212290,
+  "define": "VSS_E_CANNOT_REVERT_DISKID",
+  "defineUrl": "/win32/vsserror-h/vss_e_cannot_revert_diskid/",
+  "message": "The MBR signature or GPT ID for one or more disks could not be set to the intended value. Check the Application event log for more information.",
+  "remarks": null,
+  "aka": [
+    "-2147212290"
+  ],
+  "akaUrl": [
+    "/win32/vsserror-h/vss_e_cannot_revert_diskid/-2147212290/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

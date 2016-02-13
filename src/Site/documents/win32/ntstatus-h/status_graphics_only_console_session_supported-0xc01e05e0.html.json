@@ -1,0 +1,28 @@
+---
+output: win32\ntstatus-h\status_graphics_only_console_session_supported\0xc01e05e0\index.html.json
+
+title: 0xC01E05E0 STATUS_GRAPHICS_ONLY_CONSOLE_SESSION_SUPPORTED in ntstatus.h
+description: This function can only be used if a program is running in the local console session. It cannot be used if a program is running on a remote desktop session or on a terminal server session.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "ntstatus.h",
+  "sourceUrl": "/win32/ntstatus-h/",
+  "code": "0xC01E05E0",
+  "codeUrl": "/win32/ntstatus-h/status_graphics_only_console_session_supported/0xc01e05e0/",
+  "numericCode": -1071774240,
+  "define": "STATUS_GRAPHICS_ONLY_CONSOLE_SESSION_SUPPORTED",
+  "defineUrl": "/win32/ntstatus-h/status_graphics_only_console_session_supported/",
+  "message": "This function can only be used if a program is running in the local console session. It cannot be used if a program is running on a remote desktop session or on a terminal server session.",
+  "remarks": null,
+  "aka": [
+    "-1071774240"
+  ],
+  "akaUrl": [
+    "/win32/ntstatus-h/status_graphics_only_console_session_supported/-1071774240/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

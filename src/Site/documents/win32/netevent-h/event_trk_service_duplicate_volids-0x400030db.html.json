@@ -1,0 +1,28 @@
+---
+output: win32\netevent-h\event_trk_service_duplicate_volids\0x400030db\index.html.json
+
+title: 0x400030DB EVENT_TRK_SERVICE_DUPLICATE_VOLIDS in netevent.h
+description: The volume ID for %1: has been reset, since it was a duplicate of that on %2:.  This volume ID is used by Distributed Link Tracking to automatically repair file links, such as Shell Shortcuts and OLE links, when for some reason those links become broken.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "netevent.h",
+  "sourceUrl": "/win32/netevent-h/",
+  "code": "0x400030DB",
+  "codeUrl": "/win32/netevent-h/event_trk_service_duplicate_volids/0x400030db/",
+  "numericCode": 1073754331,
+  "define": "EVENT_TRK_SERVICE_DUPLICATE_VOLIDS",
+  "defineUrl": "/win32/netevent-h/event_trk_service_duplicate_volids/",
+  "message": "The volume ID for %1: has been reset, since it was a duplicate of that on %2:.  This volume ID is used by Distributed Link Tracking to automatically repair file links, such as Shell Shortcuts and OLE links, when for some reason those links become broken.",
+  "remarks": null,
+  "aka": [
+    "1073754331"
+  ],
+  "akaUrl": [
+    "/win32/netevent-h/event_trk_service_duplicate_volids/1073754331/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}

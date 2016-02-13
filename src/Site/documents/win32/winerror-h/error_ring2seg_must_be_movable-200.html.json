@@ -1,0 +1,30 @@
+---
+output: win32\winerror-h\error_ring2seg_must_be_movable\200\index.html.json
+
+title: 200 ERROR_RING2SEG_MUST_BE_MOVABLE in winerror.h
+description: The code segment cannot be greater than or equal to 64K.
+disqus: true
+---
+{
+  "area": "win32",
+  "areaUrl": "/win32/",
+  "source": "winerror.h",
+  "sourceUrl": "/win32/winerror-h/",
+  "code": "200",
+  "codeUrl": "/win32/winerror-h/error_ring2seg_must_be_movable/200/",
+  "numericCode": 200,
+  "define": "ERROR_RING2SEG_MUST_BE_MOVABLE",
+  "defineUrl": "/win32/winerror-h/error_ring2seg_must_be_movable/",
+  "message": "The code segment cannot be greater than or equal to 64K.",
+  "remarks": null,
+  "aka": [
+    "0x800700c8",
+    "-2147024696"
+  ],
+  "akaUrl": [
+    "/win32/winerror-h/error_ring2seg_must_be_movable/0x800700c8/",
+    "/win32/winerror-h/error_ring2seg_must_be_movable/-2147024696/"
+  ],
+  "originalCode": null,
+  "originalCodeUrl": null
+}
